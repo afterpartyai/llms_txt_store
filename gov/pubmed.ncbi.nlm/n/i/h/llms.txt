@@ -1,0 +1,76 @@
+# PubMed
+
+> > PubMed is the National Library of Medicine's free search engine providing access to 39+ million biomedical citations from MEDLINE, life science journals, and online books, indexed with MeSH (Medical Subject Headings) controlled vocabulary.
+
+Maintained by the National Center for Biotechnology Information (NCBI) at the U.S. National Library of Medicine (NLM), PubMed serves as the primary portal for biomedical and life sciences research literature. It integrates with PubMed Central (PMC) for full-text articles and offers specialized search tools including Clinical Queries and E-utilities API for programmatic access.
+
+## Key Topics
+
+- PubMed
+- MEDLINE
+- MeSH (Medical Subject Headings)
+- NCBI (National Center for Biotechnology Information)
+- NLM (National Library of Medicine)
+- PubMed Central (PMC)
+- E-utilities API
+- Citation search
+- Biomedical literature database
+- Clinical Queries
+- Advanced search techniques
+- Single-cell RNA sequencing (scRNA-seq)
+- Experimental design
+- StatPearls
+- Medical research indexing
+
+## Getting Started
+
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov): Homepage for PubMed's 39M+ biomedical citations from MEDLINE & journals
+- [About - PubMed](https://pubmed.ncbi.nlm.nih.gov/about): Overview of PubMed database, content sources, and NCBI/NLM background
+- [Help - PubMed](https://pubmed.ncbi.nlm.nih.gov/help): User guide covering search techniques, filters, and PubMed features
+
+## Search Tools
+
+- [Advanced Search Results - PubMed](https://pubmed.ncbi.nlm.nih.gov/advanced): Advanced search builder with query box, filters, and saved searches
+- [Clinical Queries - PubMed](https://pubmed.ncbi.nlm.nih.gov/clinical): Clinical search tool with predefined filters for evidence-based medicine
+- [Trending page - PubMed](https://pubmed.ncbi.nlm.nih.gov/trending): Trending articles interface with sorting, filters, and citation tools
+
+## Research Methods & Tutorials
+
+- [Tutorial: guidelines for the computational analysis of single-cell RNA sequencing data](https://pubmed.ncbi.nlm.nih.gov/33288955): scRNA-seq computational workflow guide for experimentalists and bioinformaticians
+- [Tutorial: guidelines for the experimental design of single-cell RNA sequencing studies](https://pubmed.ncbi.nlm.nih.gov/30446749): scRNA-seq experimental design guide from sample prep to data interpretation
+- [Tutorial: a guide to diffusion MRI and structural connectomics](https://pubmed.ncbi.nlm.nih.gov/39232202): dMRI tutorial covering fiber tracking, connectomics, and processing pipeline
+- [Tutorial: a statistical genetics guide to identifying HLA alleles driving complex disease](https://pubmed.ncbi.nlm.nih.gov/37495751): HLA imputation guide using Michigan Imputation Server for GWAS studies
+- [Experimental Design Step by Step: A Practical Guide for Beginners](https://pubmed.ncbi.nlm.nih.gov/33258692): Beginner's guide to experimental design and response surface methodology
+- [Qualitative Study](https://pubmed.ncbi.nlm.nih.gov/29262162): Guide to qualitative research methods, ethnography, and mixed methods
+
+## Data Analysis Tutorials
+
+- [A guided tutorial on linear mixed-effects models for the analysis of accuracies and response times in experiments with fully crossed design](https://pubmed.ncbi.nlm.nih.gov/39666542): Linear mixed-effects model tutorial for fully crossed experimental designs
+- [A Guided Tutorial on Modelling Human Event-Related Potentials with Recurrent Neural Networks](https://pubmed.ncbi.nlm.nih.gov/36501944): RNN tutorial for modeling ERP waveforms and P3 component analysis
+- [Counting channels: a tutorial guide on ion channel fluctuation analysis](https://pubmed.ncbi.nlm.nih.gov/12444005): Patch clamp tutorial on ion channel fluctuation and noise analysis methods
+- [Tutorial: A Step-by-Step Guide (Version 2.0) for Measuring Abdominal Circumference and Skeletal Muscle From a Single Cross-Sectional Computed-Tomography Image Using the National Institutes of Health ImageJ](https://pubmed.ncbi.nlm.nih.gov/31617218): NIH ImageJ tutorial for CT-based skeletal muscle and sarcopenia assessment
+
+## Notable Research Articles
+
+- [Alzheimer's disease: a comprehensive review of epidemiology, risk factors, symptoms diagnosis, management, caregiving, advanced treatments and associated challenges](https://pubmed.ncbi.nlm.nih.gov/39736972): Comprehensive AD review covering APOE ε4, amyloid-beta, tau, and therapies
+- [Autism Spectrum Disorder: A Review](https://pubmed.ncbi.nlm.nih.gov/36625807): Clinical review of ASD diagnosis, behavioral interventions, and pharmacotherapy
+- [Tissue engineering](https://pubmed.ncbi.nlm.nih.gov/8493529): Foundational article on tissue engineering principles and applications
+- [Click Chemistry: Diverse Chemical Function from a Few Good Reactions](https://pubmed.ncbi.nlm.nih.gov/11433435): Seminal article on click chemistry and carbon-heteroatom bond synthesis
+- [Anxiety and cognitive performance: attentional control theory](https://pubmed.ncbi.nlm.nih.gov/17516812): Research on Attentional Control Theory & anxiety effects on cognition
+- [People thinking about thinking people. The role of the temporo-parietal junction in "theory of mind"](https://pubmed.ncbi.nlm.nih.gov/12948738): fMRI study on temporo-parietal junction role in theory of mind processing
+- [Human abilities: emotional intelligence](https://pubmed.ncbi.nlm.nih.gov/17937602): Review of emotional intelligence theory, models, and measurement approaches
+
+## Clinical & Medical Topics
+
+- [Physiology, Sleep Stages](https://pubmed.ncbi.nlm.nih.gov/30252388): StatPearls guide on REM/NREM sleep stages and brain wave patterns
+- [Informed Consent](https://pubmed.ncbi.nlm.nih.gov/28613577): StatPearls article on informed consent history, ethics, and legal standards
+- [Common questions and misconceptions about creatine supplementation: what does the scientific evidence really show?](https://pubmed.ncbi.nlm.nih.gov/33557850): Evidence-based review addressing creatine safety and efficacy misconceptions
+- [Sphingomonas paucimobilis: a persistent Gram-negative nosocomial infectious organism](https://pubmed.ncbi.nlm.nih.gov/20434794): Research article on S. paucimobilis as opportunistic nosocomial pathogen
+
+## Optional
+
+- [The power of the Functional Activities Questionnaire for screening dementia in rural-dwelling older adults at high-risk of cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/32092787): FAQ validation study for dementia screening in rural elderly populations
+- [Comprehensive Evaluation of the Functional Activities Questionnaire (FAQ) and Its Reliability and Validity](https://pubmed.ncbi.nlm.nih.gov/33543638): Psychometric evaluation of FAQ using item response and generalizability theory
+- [Modeling of Functional Assessment Questionnaire (FAQ) as continuous bounded data from the ADNI database](https://pubmed.ncbi.nlm.nih.gov/22990808): Mathematical model of FAQ progression in Alzheimer's using ADNI data
+- [Biotechnological possibilities for waste tyre-rubber treatment](https://pubmed.ncbi.nlm.nih.gov/10022073): Review of microbial desulphurization for waste tire rubber recycling
+- [Disclaimer - PubMed](https://pubmed.ncbi.nlm.nih.gov/disclaimer): Disclaimer for PubMed, PMC, and Bookshelf content and NLM policies

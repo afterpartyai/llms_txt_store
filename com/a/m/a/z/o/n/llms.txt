@@ -1,0 +1,52 @@
+# Amazon
+
+> > Amazon's ecosystem spanning AWS cloud computing, e-commerce, advertising, and Whole Foods Market grocery delivery.
+
+Amazon.com is a global technology company offering cloud infrastructure through AWS (featuring EC2, S3, CDK), digital advertising solutions, Prime membership benefits, and grocery shopping via Whole Foods Market. The platform provides comprehensive tutorials and documentation for developers building on AWS services.
+
+## Key Topics
+
+- AWS (Amazon Web Services)
+- Amazon EC2 (Elastic Compute Cloud)
+- AWS Free Tier
+- AWS CDK (Cloud Development Kit)
+- AWS Management Console
+- Prime membership
+- Whole Foods Market
+- Amazon Ads & Sponsored Products
+- Cloud computing tutorials
+- Getting started guides
+- EC2 instance launch
+- Grocery delivery
+- Authentication & sign-in
+- Beginner-friendly tutorials
+- Multi-service implementations
+
+## Getting Started with AWS
+
+- [Getting Started - Cloud Computing Tutorials for Building on AWS](https://aws.amazon.com/getting-started): AWS getting started hub with tutorials, fundamentals & onboarding guides
+- [Hands-On Tutorials for Amazon Web Services (AWS)](https://aws.amazon.com/getting-started/hands-on): Step-by-step AWS tutorials for building cloud applications
+- [AWS Tutorials](https://aws.amazon.com/tutorials): AWS tutorial directory for single & multi-service implementations
+
+## Amazon EC2 Documentation
+
+- [Get started with Amazon EC2 - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html): Amazon EC2 getting started guide: launch, connect & clean up instances
+- [Tutorial 1: Launch my very first Amazon EC2 instance - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/tutorial-launch-my-first-ec2-instance.html): Beginner EC2 tutorial for launching first instance using AWS Free Tier
+
+## AWS Developer Tools
+
+- [Tutorial: Create your first AWS CDK app - AWS Cloud Development Kit (AWS CDK) v2](https://docs.aws.amazon.com/cdk/v2/guide/hello-world.html): AWS CDK tutorial: create & deploy Lambda function with CDK CLI
+
+## Amazon Business Services
+
+- [Amazon Ads: Online advertising for businesses of all sizes](https://advertising.amazon.com): Amazon Ads platform for Sponsored Products & brand advertising solutions
+- [Whole Foods Market: Shop Groceries & Weekly Sales](https://wfm.amazon.com): Whole Foods Market grocery shopping with Prime delivery & prepared meals
+
+## About AWS
+
+- [Our Origins](https://aws.amazon.com/about-aws/our-origins): AWS company history from Amazon.com to S3 & EC2 launch
+
+## Optional
+
+- [Amazon Sign-In](https://xb-node-fe.amazon.com/glenn/home): Amazon authentication page with passkey & password sign-in options
+- [Go to website](https://amazon.com/gp/navigation-country/select-country): Country/region selector for Amazon international sites
