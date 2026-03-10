@@ -14,7 +14,7 @@ The goal is simple:
 
 > **Make the web easier for AI systems to understand, navigate, and use.**
 
-This initial release contains **~200 processed sites** as a test dataset. The pipeline is designed to scale to millions of domains.
+This initial release contains **~1000 processed sites** as a test dataset. The pipeline is designed to scale to millions of domains.
 
 ---
 
