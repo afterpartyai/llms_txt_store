@@ -1,0 +1,69 @@
+# Stanza
+
+> > Fullstack AI Engineering learning platform with interactive courses in JavaScript, TypeScript, React, Python, Go, PHP, Ruby on Rails, Vue, Svelte, and modern web development.
+
+Stanza offers hands-on programming courses accessible through your editor, Slack, or web browser. The platform covers frontend frameworks (React, Vue, Svelte), backend technologies (Django, Rails, Go, PHP), and advanced topics like async patterns, metaprogramming, and performance optimization.
+
+## Key Topics
+
+- JavaScript & TypeScript
+- React & React Hooks
+- Python & Asyncio
+- Go (channels, context, concurrency)
+- Vue Router & routing patterns
+- Svelte 5 & Runes
+- Ruby on Rails & Hotwire
+- PHP async & performance
+- DOM manipulation
+- Error handling patterns
+- Concurrency & async patterns
+- Web development fundamentals
+- OpenClaw CLI
+- Next.js, Django, Rust
+
+## Getting Started
+
+- [Stanza | The path to Fullstack AI Engineering](https://stanza.dev): Homepage: AI engineering platform with courses in editor, Slack, or web
+- [Stanza | Fullstack AI Engineering courses](https://stanza.dev/courses): Course catalog: React, Django, Rust, Vue, Go, PostgreSQL, and more
+- [Ressources | Stanza](https://stanza.dev/ressources): Developer resources hub: courses, newsletters, tests, programming concepts
+
+## JavaScript & TypeScript Courses
+
+- [Stanza | JavaScript Core Mastery](https://stanza.dev/courses/javascript): JavaScript fundamentals course: syntax, DOM, classes, async patterns
+- [Async/Await - Async JavaScript: Promises & Patterns](https://stanza.dev/courses/javascript-async-patterns/promises/javascript-async-patterns-async-await): JavaScript async/await guide: Promises, error handling, parallel execution
+- [The Zen of Python & The REPL - Python Fundamentals](https://stanza.dev/courses/python/foundations/python-philosophy-repl): Python philosophy: Zen principles, REPL basics, Pythonic code practices
+
+## Frontend Framework Courses
+
+- [Stanza | React Basics](https://stanza.dev/courses/react): React fundamentals: JSX, components, hooks (useState, useEffect), events
+- [Stanza | Vue Router: Complete Navigation Guide](https://stanza.dev/courses/vue-router): Vue Router course: routing, guards, nested routes, lazy loading, meta data
+- [What is Svelte? - Svelte 5: The Complete Guide](https://stanza.dev/courses/svelte-5-complete-guide/intro-to-svelte-5/svelte-5-complete-guide-what-is-svelte): Svelte 5 intro: compiler approach, Runes, vs React/Vue Virtual DOM
+- [$effect: The Complete Guide - Mastering Runes](https://stanza.dev/courses/svelte-5-runes/effects-synchronization/svelte-5-runes-effect-deep-dive): Svelte 5 $effect: side effects, lifecycle, cleanup, anti-patterns
+- [File-System Routing - Svelte 5: The Complete Guide](https://stanza.dev/courses/svelte-5-complete-guide/sveltekit-basics/svelte-5-complete-guide-file-system-routing): SvelteKit file-based routing: dynamic routes, nested layouts, SSR basics
+
+## Backend & Systems Programming Concepts
+
+- [Python Asyncio Deep Dive — Real Patterns That Scale](https://stanza.dev/concepts/python-asyncio): Python asyncio patterns: TaskGroups, Semaphore, async generators, concurrency
+- [Go Channels Explained — With Real-World Examples](https://stanza.dev/concepts/go-channels): Go channels guide: buffered/unbuffered, select, fan-in/out, pipelines
+- [Go Context Package Explained — With Real-World Examples](https://stanza.dev/concepts/go-context): Go context patterns: cancellation, timeouts, request-scoped values
+- [Python Protocols — Structural Subtyping Guide](https://stanza.dev/concepts/python-protocols): Python Protocols (PEP 544): structural subtyping, duck typing, type safety
+
+## Vue Router Deep Dive
+
+- [Introduction to Client-Side Routing - Vue Router](https://stanza.dev/courses/vue-router/router-fundamentals/vue-router-introduction-to-routing): Vue Router basics: SPA routing, history modes, router-link, router-view
+- [Dynamic Routes and Parameters - Vue Router](https://stanza.dev/courses/vue-router/router-fundamentals/vue-router-dynamic-routes): Vue Router dynamic routes: params, query strings, named routes, props mode
+- [Understanding Nested Routes - Vue Router](https://stanza.dev/courses/vue-router/nested-routes/vue-router-nested-routes-basics): Vue Router nested routes: layouts, child routes, router-view hierarchy
+
+## Rails & Ruby Courses
+
+- [Setting Up Your Rails Environment - Rails Foundations](https://stanza.dev/courses/rails-foundations/getting-started/rails-foundations-setting-up-environment): Rails setup guide: Ruby/Rails install, SQLite3, Node.js, rbenv, VS Code
+- [The Concern Pattern - Ruby Metaprogramming Workshop](https://stanza.dev/courses/ruby-metaprogramming/safe-metaprogramming/ruby-metaprogramming-activesupport-concern): Rails ActiveSupport::Concern: module dependencies, metaprogramming patterns
+- [Turbo Streams Basics - Modern Rails Frontend with Hotwire](https://stanza.dev/courses/modern-rails-frontend-hotwire/turbo-streams/rails-hotwire-turbo-streams-basics): Hotwire Turbo Streams: append, replace, remove, DOM manipulation actions
+
+## Advanced Topics & Reference
+
+- [OpenClaw CLI Cheatsheet — Every Command with Examples](https://stanza.dev/cheatsheet/openclaw-cli): OpenClaw CLI reference: gateway, channels, agents, webhooks, config examples
+- [useImperativeHandle - React Components & Patterns](https://stanza.dev/courses/react-components-patterns/refs-and-dom/react-components-patterns-imperative-handle): React useImperativeHandle: custom ref APIs, imperative component control
+- [ARIA for Forms - React Form Mastery](https://stanza.dev/courses/react-forms/accessible-forms/react-forms-aria-for-forms): React form accessibility: ARIA attributes, aria-invalid, aria-describedby
+- [HTTP Caching - PHP Performance Optimization](https://stanza.dev/courses/php-performance/caching/php-performance-http-caching): PHP HTTP caching: Cache-Control, ETag, 304 responses, CDN optimization
+- [PHP Stream Functions for Async - Asynchronous PHP](https://stanza.dev/courses/php-async/event-loops/php-async-stream-functions): PHP async I/O: stream_select, non-blocking streams, stream_socket_client

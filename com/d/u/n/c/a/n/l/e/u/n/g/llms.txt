@@ -1,0 +1,61 @@
+# Duncan Leung – JavaScript Engineer
+
+> > Personal site of Duncan Leung, Lead Frontend Engineer writing in-depth tutorials on React, TypeScript, Go, and modern web development.
+
+Duncan Leung is a Lead Frontend Engineer at Airvet specializing in React, TypeScript, and Go. This site features technical articles, learning resources, and professional portfolio content focused on frontend development, serverless architecture, and developer tooling.
+
+## Key Topics
+
+- React
+- TypeScript
+- Go (Golang)
+- JavaScript
+- ESLint
+- AWS & Serverless
+- setState() patterns
+- Interface design
+- Frontend development
+- Developer tools (Jest, Storybook, Gatsby)
+- Emotion CSS-in-JS
+- TypeScript generics
+- Go interfaces
+- Web performance
+- Developer education
+
+## About
+
+- [Duncan Leung – Javascript Engineer](https://duncanleung.com): Homepage: Lead Frontend Engineer writing about JavaScript, React, and Go
+- [Me](https://duncanleung.com/me): About Duncan: Lead Frontend Engineer, tech stack, and developer setup
+- [Contact](https://duncanleung.com/contact): Contact page for Duncan Leung, Lead Frontend Engineer at Airvet
+- [Resume](https://duncanleung.com/resume): Resume: Frontend Engineer with React, TypeScript, and fintech experience
+
+## React Tutorials
+
+- [Avoiding React setState() Pitfalls](https://duncanleung.com/avoiding-react-setstate-pitfalls): React setState() async behavior, updater functions, and common pitfalls
+- [Fixing React Warning: Synthetic Events in setState()](https://duncanleung.com/fixing-react-warning-synthetic-events-in-setstate): Resolving React SyntheticEvent issues in async setState() calls
+- [Pure render() 'this' Binding Patterns in React](https://duncanleung.com/react-pure-render-this-binding-patterns): React patterns for pure render() with this binding and PureComponent
+
+## TypeScript Guides
+
+- [Conditional Types to Infer Props from Emotion `as` Prop](https://duncanleung.com/typescript-generics-conditional-types-emotion-as-prop): TypeScript generics for inferring props with Emotion's polymorphic as prop
+- [Why typescript-eslint Performance is Slow](https://duncanleung.com/why-slow-plugin-typescript-eslint-performance-issues): typescript-eslint performance issues with AST parsing and optimization tips
+- [How to Setup ESLint .eslintrc Config](https://duncanleung.com/how-to-setup-eslint-eslintrc-config-difference-eslint-config-plugin): ESLint configuration guide for React + TypeScript projects
+
+## Go Programming
+
+- [Understanding Interfaces in Go](https://duncanleung.com/understand-go-golang-interfaces): Go interfaces tutorial: duck typing, polymorphism, and receiver functions
+- [Go Idioms: Accept Interfaces, Return Types](https://duncanleung.com/go-idiom-accept-interfaces-return-types): Go best practices: accepting interfaces and returning concrete types
+- [Basic Data Structures in Go](https://duncanleung.com/go-basic-data-structures-types-pointers-structs-arrays-slices-int-float-string): Go fundamentals: integers, floats, strings, arrays, pointers, and memory
+- [Indexing Strings and Runes in Go](https://duncanleung.com/iterating-index-strings-runes-go-golang): Go string indexing, runes, UTF-8 encoding, and byte representation
+- [Go Function Argument Passing Behavior](https://duncanleung.com/go-function-arguments-passed-by-value): How Go passes function arguments by value with pointers and slices
+
+## Articles & Learning
+
+- [Articles](https://duncanleung.com/blog): Blog index with 51 articles on React, Go, TypeScript, AWS, and more
+- [Learning in Public](https://duncanleung.com/learn): Learning curriculum: Python, Serverless, AWS, and documented progress
+- [How to Teach Programming (and other things)](https://duncanleung.com/how-to-teach-programming-the-importance-of-mental-models): Teaching methods: direct instruction, mental models, and cognitive load
+- [Newsletter](https://duncanleung.com/newsletter): Newsletter signup for JavaScript, React, and web development updates
+
+## Optional
+
+- [Tags](https://duncanleung.com/tags): Tag index for blog topics: AWS, React, TypeScript, Go, and tooling

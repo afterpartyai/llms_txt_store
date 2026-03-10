@@ -1,0 +1,84 @@
+# KoderHQ
+
+> > Free step-by-step programming tutorials covering modern web frameworks (Vue.js, Svelte), systems languages (Rust, C, C#, Go), web technologies (JavaScript, TypeScript, Python), and databases (MongoDB).
+
+KoderHQ provides beginner-friendly coding courses with hands-on tutorials across frontend frameworks, backend languages, and development tools. Tutorials cover fundamentals through advanced topics like unit testing, routing, and memory management.
+
+## Key Topics
+
+- Vue.js 3
+- TypeScript
+- JavaScript
+- Rust
+- C programming
+- C#
+- GoLang
+- Python
+- Svelte 3
+- MongoDB
+- Jest unit testing
+- Vue Router
+- Object-oriented programming
+- Basic syntax
+- Web development
+
+## Getting Started
+
+- [Learn to code step by step for free | KoderHQ](https://koderhq.com): Free coding tutorials: Vue, TypeScript, JavaScript, Python, Rust, C#, Go
+- [Tutorials & Latest Course Updates](https://koderhq.com/tutorial): Tutorial catalog with 100 latest updates across all programming courses
+
+## Frontend Frameworks & JavaScript
+
+- [Introduction to Vue.js 3 | KoderHQ](https://koderhq.com/tutorial/vue): Vue.js 3 intro covering basics, Vuex, routing, and testing with Jest
+- [Introduction to Svelte.js 3 | KoderHQ](https://koderhq.com/tutorial/svelte): Svelte 3 intro: components, Vite, Fetch API, and Context API basics
+- [Introduction to Javascript Tutorial | KoderHQ](https://koderhq.com/tutorial/javascript): JavaScript intro covering DOM manipulation and programming fundamentals
+- [Javascript Operators Tutorial | KoderHQ](https://koderhq.com/tutorial/javascript/operators): JavaScript operators: arithmetic, assignment, relational, and logical
+- [Introduction to Sass & SCSS | KoderHQ](https://koderhq.com/tutorial/sass): Sass/SCSS CSS preprocessor intro: differences, syntax, and relevance
+
+## Vue.js Advanced Topics
+
+- [Vue.js 3 Route Parameters & Nesting Tutorial | KoderHQ](https://koderhq.com/tutorial/vue/route-parameter): Vue Router parameters, query strings, nested routes, and scroll behavior
+- [Vue.js 3 Unit Testing Routing Tutorial | KoderHQ](https://koderhq.com/tutorial/vue/unit-test-router-routing): Vue Router unit testing with Jest: views, routes, and navigation
+- [Vue.js 3 Snapshot Testing Tutorial | KoderHQ](https://koderhq.com/tutorial/vue/snapshot-test): Vue 3 snapshot testing with Jest for component regression testing
+- [Vue.js 3 Firebase Firestore Setup Tutorial | KoderHQ](https://koderhq.com/tutorial/vue/firebase-firestore): Vue 3 Firebase Firestore integration setup and configuration
+
+## Svelte.js Tutorials
+
+- [Svelte.js 3 Data & One-way Databinding Tutorial | KoderHQ](https://koderhq.com/tutorial/svelte/one-way-databinding): Svelte data binding: string interpolation, attributes, and CSS classes
+- [Svelte.js 3 Input Binding (Two-way Databinding) Tutorial | KoderHQ](https://koderhq.com/tutorial/svelte/two-way-databinding): Svelte two-way binding: form inputs with bind directive
+
+## TypeScript Tutorials
+
+- [Introduction to TypeScript | KoderHQ](https://koderhq.com/tutorial/typescript): TypeScript overview with tsconfig.json and beginner-friendly lessons
+- [TypeScript Basic Syntax Tutorial | KoderHQ](https://koderhq.com/tutorial/typescript/syntax): TypeScript syntax fundamentals: compiler commands, comments, and conventions
+
+## Systems Programming Languages
+
+- [Introduction to Rust Tutorial | KoderHQ](https://koderhq.com/tutorial/rust): Rust programming introduction for beginners with course prerequisites
+- [Rust if, else if, else, match Conditional Control Tutorial | KoderHQ](https://koderhq.com/tutorial/rust/conditional-control): Rust conditionals: if/else statements, match expressions, and operators
+- [Introduction to C Tutorial | KoderHQ](https://koderhq.com/tutorial/c): C programming introduction covering fundamentals and language basics
+- [C Basic Syntax Tutorial | KoderHQ](https://koderhq.com/tutorial/c/syntax): C syntax basics: statements, keywords, identifiers, and scope definition
+- [C Data Types Tutorial | KoderHQ](https://koderhq.com/tutorial/c/data-types): C data types: primitive, derived, user-defined, signed vs unsigned
+- [C Structs (structures) Tutorial | KoderHQ](https://koderhq.com/tutorial/c/struct): C structures: user-defined types, members, pointers, and dot notation
+- [C while, do while & for loops Tutorial | KoderHQ](https://koderhq.com/tutorial/c/iteration-control): C loops tutorial: while, do-while, for, break, and continue statements
+
+## C# & .NET Tutorials
+
+- [C# Functions Tutorial | KoderHQ](https://koderhq.com/tutorial/csharp/function): C# functions: parameters, return values, ref and out parameters
+- [Memory: Stack vs Heap Tutorial | KoderHQ](https://koderhq.com/tutorial/csharp/stack-v-heap): C# memory management: stack vs heap allocation and interaction
+
+## Go & Python Tutorials
+
+- [Go Variables & Constants Tutorial | KoderHQ](https://koderhq.com/tutorial/go/variable): Go variables and constants: declaration, initialization, and := operator
+- [Go Arrays Tutorial | KoderHQ](https://koderhq.com/tutorial/go/array): Go arrays: initialization, multi-dimensional arrays, and function arguments
+- [First Python Application Tutorial | KoderHQ](https://koderhq.com/tutorial/python/first-application): First Python console app with structure and syntax breakdown
+
+## Java & MongoDB
+
+- [Java Core Masterclass | KoderHQ](https://koderhq.com/tutorial/java): Java masterclass: OOP, collections (ArrayList, HashMap), and concurrency
+- [MongoDB Basics Tutorial | KoderHQ](https://koderhq.com/tutorial/mongodb/basics): MongoDB fundamentals: Mongo Shell, BSON documents, and data types
+- [MongoDB Database Basics Tutorial | KoderHQ](https://koderhq.com/tutorial/mongodb/database): MongoDB database operations: create, select, list, and delete databases
+
+## Optional
+
+- [Privacy policy for KoderHQ](https://koderhq.com/privacy): KoderHQ privacy policy: data collection, cookies, and device information

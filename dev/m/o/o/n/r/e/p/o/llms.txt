@@ -1,0 +1,72 @@
+# moonrepo
+
+> > moonrepo provides moon (a Rust-based task runner and monorepo management tool) and proto (a multi-language version manager) for developer productivity in web ecosystems.
+
+The platform supports JavaScript/TypeScript, Node.js, Bun, Deno, Python, Go, PHP, Ruby, and other languages with intelligent caching, dependency graphs, and toolchain management. Moon v2 introduces WASM plugins and enhanced multi-language support.
+
+## Key Topics
+
+- moon task runner
+- proto version manager
+- monorepo management
+- task configuration and dependency graphs
+- incremental builds and caching
+- toolchain configuration
+- Node.js, Bun, Deno support
+- TypeScript project references
+- Python, Go, PHP, Ruby toolchains
+- WASM plugins
+- CI/CD integration
+- package.json integration
+- moon CLI commands
+- workspace configuration
+- developer productivity optimization
+
+## Getting Started
+
+- [Introduction](https://moonrepo.dev/docs): Main documentation entry point for moon v2 and proto tooling platform
+- [moonrepo Platform](https://moonrepo.dev): Homepage introducing moonrepo's productivity platform with moon & proto
+- [moon Task Runner](https://moonrepo.dev/moon): Moon product page highlighting Rust-based task runner features
+- [How it works](https://moonrepo.dev/docs/how-it-works): Architecture overview covering project/task/action graphs in moon v2
+- [Install moon](https://moonrepo.dev/docs/install): Installation guide for moon binary across platforms using proto
+- [Setup toolchain](https://moonrepo.dev/docs/setup-toolchain): Configure moon's toolchain for automatic language version management
+- [Create a task](https://moonrepo.dev/docs/create-task): Guide to defining and configuring tasks in moon.yml for projects
+- [Run a task](https://moonrepo.dev/docs/run-task): Guide to executing tasks with moon run command and dependency graph
+
+## Configuration Reference
+
+- [Config files](https://moonrepo.dev/docs/config): Configuration file reference for workspace, toolchains, tasks & extensions
+- [Concepts](https://moonrepo.dev/docs/concepts): Index of core concepts: affected, cache, file groups, tasks, toolchain
+- [Tasks](https://moonrepo.dev/docs/concepts/task): Task concept reference: IDs, types, modes, and configuration options
+- [CLI Commands Overview](https://moonrepo.dev/docs/commands/overview): CLI commands overview with global options, caching, and logging config
+- [task command](https://moonrepo.dev/docs/commands/task): CLI reference for moon task command to inspect task configuration
+- [template command](https://moonrepo.dev/docs/commands/template): CLI reference for moon template command to display template info
+- [Supported tools (proto)](https://moonrepo.dev/docs/proto/tools): List of built-in and third-party tools supported by proto toolchain
+
+## Language Handbooks
+
+- [Node.js handbook](https://moonrepo.dev/docs/guides/javascript/node-handbook): Comprehensive Node.js monorepo setup guide with moon toolchain config
+- [Bun handbook](https://moonrepo.dev/docs/guides/javascript/bun-handbook): Bun monorepo handbook covering toolchain and package manager setup
+- [TypeScript project references](https://moonrepo.dev/docs/guides/javascript/typescript-project-refs): In-depth guide for using TypeScript project references in monorepos
+
+## Integration Examples
+
+- [TypeScript example](https://moonrepo.dev/docs/guides/examples/typescript): TypeScript integration example with project references and typecheck tasks
+- [Vite & Vitest example](https://moonrepo.dev/docs/guides/examples/vite): Vite and Vitest integration guide with build and test task configuration
+- [Angular example](https://moonrepo.dev/docs/guides/examples/angular): Angular integration guide with task setup and ESLint configuration
+- [Prettier example](https://moonrepo.dev/docs/guides/examples/prettier): Prettier integration example with code formatting task configuration
+
+## CI/CD and Migration
+
+- [Continuous integration (CI)](https://moonrepo.dev/docs/guides/ci): CI setup guide with moon ci command for GitHub Actions and other providers
+- [Migrate to moon v2.0](https://moonrepo.dev/docs/migrate/2.0): Migration guide from moon v1 to v2 with breaking changes and automation
+- [Beta release of moon v2](https://moonrepo.dev/blog/moon-v2-beta): Moon v2 beta announcement with Python toolchain & WASM plugin support
+
+## Support
+
+- [moon FAQ](https://moonrepo.dev/docs/faq): Moon FAQ covering naming, language support, and monorepo concepts
+- [proto FAQ](https://moonrepo.dev/docs/proto/faq): Proto FAQ covering naming, WASM plugins, and version management
+
+## Optional
+
+- [MCP integration](https://moonrepo.dev/docs/guides/mcp): Model Context Protocol setup for AI/LLM integration with moon CLI

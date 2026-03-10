@@ -1,0 +1,59 @@
+# Bito AI
+
+> > Bito provides deep codebase context and intelligence for AI coding agents like Cursor and Claude, plus automated code review agents for GitHub, GitLab, and Bitbucket.
+
+Bito's flagship products include AI Architect (a knowledge graph system providing system-level codebase context via MCP integration) and AI Code Review Agent (automated, codebase-aware PR reviews). The platform integrates with popular IDEs (VS Code, JetBrains) and Git platforms, emphasizing enterprise security with SOC 2 Type II compliance.
+
+## Key Topics
+
+- AI Architect
+- Codebase Context
+- Knowledge Graph
+- AI Coding Agents
+- Code Review Automation
+- Cursor Integration
+- Claude Integration
+- MCP (Model Context Protocol)
+- GitHub/GitLab/Bitbucket
+- Developer Productivity
+- System-Level Analysis
+- Pull Request Automation
+- SWE-Bench Pro
+- Enterprise Security (SOC 2)
+- VS Code & JetBrains Extensions
+
+## Core Products
+
+- [Bito Homepage](https://bito.ai): Main landing page: AI Architect provides system-level codebase context for agents
+- [AI Architect](https://bito.ai/product/ai-architect): Knowledge graph system for Cursor and Claude via MCP integration
+- [AI Code Review Agent](https://bito.ai/product/ai-code-review-agent): Automated codebase-aware reviews for GitHub, GitLab, and Bitbucket
+- [Pricing](https://bito.ai/pricing): Team ($15), Professional ($25), and Enterprise plans with Git/IDE support
+
+## Enterprise & Security
+
+- [Enterprise Solutions](https://bito.ai/enterprise): Enterprise landing page for AI Architect and codebase intelligence
+- [Enterprise Security](https://bito.ai/enterprise/security): SOC 2 Type II compliance, no code storage, AWS Bedrock/Azure AI integration
+- [Case Studies](https://bito.ai/case-studies): Customer success stories from Privado, Apica, and Gainsight
+
+## Documentation & Guides
+
+- [How Bito's Code Understanding Works](https://bito.ai/blog/how-does-bitos-ai-that-understands-your-code-work): Technical deep-dive: Code Context Retrieval using AST and symbol indexing
+- [Bitbucket AI Code Review Setup](https://bito.ai/blog/bitbucket-ai-code-review): Step-by-step guide for integrating Bito with Bitbucket
+
+## Company & News
+
+- [About Bito](https://bito.ai/about-us): Company mission and founder profiles: Amar Goel, Anand Das, Mukesh
+- [The Bito Blog](https://bito.ai/blogs): Blog covering AI Architect, Cursor integration, and software engineering
+- [2025 Funding Announcement](https://bito.ai/blog/bito-fundraising-2025): Seed extension from Vela Partners, NGP Capital, and NextView Ventures
+
+## Support & Status
+
+- [Platform Status](https://status.bito.ai): Real-time service status for Bito AI, Code Review Agent, and IDE extensions
+- [Personal Data & Compliance](https://bito.ai/personal-data): Data Processing Addendum (DPA) and GDPR/CCPA compliance documentation
+
+## Optional
+
+- [Press Center](https://bito.ai/press-center): Media coverage, press releases, and founder bios for journalists
+- [Docker & Kubernetes Guide](https://bito.ai/blog/a-comprehensive-guide-to-docker-and-kubernetes-containerization-and-orchestration-made-easy): Tutorial on containerization and orchestration for beginners
+- [Company Handbook](https://bito.ai/company-handbook): Internal culture, mission, and remote work policies
+- [Staging Environment](https://stg.bito.ai): Testing and development environment

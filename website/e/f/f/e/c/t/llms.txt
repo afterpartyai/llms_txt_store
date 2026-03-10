@@ -1,0 +1,68 @@
+# Effect
+
+> > Effect is a TypeScript library for building robust, composable applications with type-safe error handling, dependency injection, and structured concurrency.
+
+Effect provides a comprehensive standard library for TypeScript developers seeking functional programming patterns with practical features like runtime safety, observability, and AI integration. Created by Michael Arnaldi, Effect represents the evolution of fp-ts and brings production-ready tools for enterprise TypeScript applications.
+
+## Key Topics
+
+- TypeScript
+- Effect
+- functional-programming
+- type-safety
+- error-handling
+- structured-concurrency
+- dependency-injection
+- generators
+- observability
+- Stream
+- Schema
+- AI integration
+- composability
+- runtime
+- resource-management
+
+## Getting Started
+
+- [Introduction](https://effect.website/docs/getting-started/introduction): Getting started guide: Effect features, navigation, and TypeScript basics
+- [Why Effect?](https://effect.website/docs/getting-started/why-effect): Explains Effect's value: type-tracked errors, context, and reliability
+- [Installation](https://effect.website/docs/getting-started/installation): Setup guide: Install Effect for Node.js, Deno, Bun, and Vite+React
+- [Creating Effects](https://effect.website/docs/getting-started/creating-effects): Guide: Create effects for structured success, failure, and side effects
+- [Using Generators](https://effect.website/docs/getting-started/using-generators): Generator syntax guide: async/await-like effectful code with Effect.gen
+
+## Core Concepts
+
+- [Introduction to Effect Schema](https://effect.website/docs/schema/introduction): Schema module guide: Define, validate, and transform TypeScript data
+- [Managing Layers](https://effect.website/docs/requirements-management/layers): Layers guide: Dependency graphs and service construction patterns
+- [Introduction to Runtime](https://effect.website/docs/runtime): Runtime system guide: Execute effects with Context, FiberRefs, and flags
+- [Resource Management](https://effect.website/docs/resource-management/introduction): Resource management: Efficient cleanup and finalization patterns
+- [Stream Operations](https://effect.website/docs/stream/operations): Stream operations reference: tap, take, map, and element manipulation
+- [Introduction to Sink](https://effect.website/docs/sink/introduction): Sink basics: Stream element consumption, errors, and leftovers
+
+## AI Integration
+
+- [Introduction to Effect AI](https://effect.website/docs/ai/introduction): AI integration guide: Provider-agnostic LLM packages for Effect
+- [Getting Started with AI](https://effect.website/docs/ai/getting-started): AI quickstart: Generate text completions with OpenAI and Effect
+
+## Comparisons & Migration
+
+- [Effect vs Promise](https://effect.website/docs/additional-resources/effect-vs-promise): Comparison: Effect vs Promise for async operations and type safety
+- [Effect vs fp-ts](https://effect.website/docs/additional-resources/effect-vs-fp-ts): Comparison: Effect as fp-ts v3 successor with Giulio Canti merger
+- [Coming From ZIO](https://effect.website/docs/additional-resources/coming-from-zio): Migration guide: Key differences between ZIO and Effect for ZIO users
+- [Myths About Effect](https://effect.website/docs/additional-resources/myths): Debunks myths: Generator performance, bundle size, and learning curve
+- [Getting Started with Micro](https://effect.website/docs/micro/new-users): Micro module guide: Lightweight Effect alternative for smaller bundles
+
+## Blog & Updates
+
+- [Blog](https://effect.website/blog): Blog index: Effect v4 Beta, community projects, and office hours
+- [From React to Effect](https://effect.website/blog/from-react-to-effect): Blog: Maps React mental model to Effect concepts by Michael Arnaldi
+- [Effect 2025 - Year in Review](https://effect.website/blog/effect-2025-year-in-review): Blog: 2025 recap of Effect Days, meetups, releases, and ecosystem growth
+- [Effect 3.19 Release](https://effect.website/blog/releases/effect/319): Release notes: Effect 3.19 cluster improvements and breaking changes
+
+## Community
+
+- [Cause & Effect Podcast](https://effect.website/podcast): Podcast: Engineers building production TypeScript software with Effect
+
+## Optional
+
+- [Shop Effect Merch](https://effect.website/merch): Merchandise store: Effect-branded apparel via Printful

@@ -1,0 +1,74 @@
+# Steve Kinney
+
+> > Teaching resources on TypeScript, React, AI development, and enterprise frontend architecture from Frontend Masters instructor Steve Kinney.
+
+Steve Kinney is a teacher, software engineer at Temporal, and Frontend Masters instructor. This site features comprehensive courses, articles, and tutorials covering modern web development, AI-assisted coding, type safety, testing, and design systems.
+
+## Key Topics
+
+- TypeScript
+- React
+- AI Development (Cursor, OpenAI, Anthropic)
+- Temporal Workflows
+- Frontend Masters Courses
+- Type Safety & Validation
+- Prompt Engineering
+- Design Systems & Storybook
+- Testing with Vitest
+- Enterprise UI Architecture
+- Monorepos & Microfrontends
+- Developer Tools (VS Code, Figma)
+- Neural Networks & AI Fundamentals
+- Tailwind CSS
+- Express & Full-Stack TypeScript
+
+## AI Development & Prompt Engineering
+
+- [Developing with AI Tools](https://stevekinney.com/courses/ai-development): Using Cursor and Claude Code with Model Context Protocol for AI-assisted dev
+- [Prompt Engineering Across the OpenAI, Anthropic, and Gemini APIs](https://stevekinney.com/writing/prompt-engineering-frontier-llms): Cross-provider prompt engineering guide for OpenAI, Anthropic, and Gemini
+- [Using Anthropic's Message Batches API with Temporal](https://stevekinney.com/writing/anthropic-batch-api-with-temporal): Async batch processing with Anthropic's API and Temporal workflows
+- [AI Fundamentals with Python](https://stevekinney.com/courses/python-ai): NLP and image generation with Python and Hugging Face Transformers
+- [Mastering Context Management in Cursor](https://stevekinney.com/courses/ai-development/cursor-context): Cursor's @ symbol system for intent and state context in AI coding
+- [Neural Networks](https://stevekinney.com/writing/neural-networks): Beginner-friendly intro to neural networks for software engineers
+
+## TypeScript & Type Safety
+
+- [Full Stack TypeScript](https://stevekinney.com/courses/full-stack-typescript): End-to-end type safety with Zod, React Hook Form, tRPC, and Express
+- [React with TypeScript](https://stevekinney.com/courses/react-typescript): Frontend Masters workshop on type-safe React 19 with TypeScript patterns
+- [Type-Safe Database Access with Prisma](https://stevekinney.com/courses/full-stack-typescript/typesafe-database-with-prisma): Prisma setup with Express and TypeScript for end-to-end type safety
+- [Advanced Validation Techniques in Express with TypeScript](https://stevekinney.com/courses/full-stack-typescript/class-validator-class-transformer-express): Object-oriented validation with class-validator and class-transformer
+- [Adding Types to Express Responses](https://stevekinney.com/courses/full-stack-typescript/adding-types-to-express-responses): Type-safe Express response patterns for success and error handling
+
+## Enterprise Frontend & Architecture
+
+- [Server Components and Streaming SSR](https://stevekinney.com/courses/enterprise-ui/server-components-and-streaming): React Server Components, client boundaries, and Suspense streaming explained
+- [Monoliths, Microfrontends, Monorepos, and the Real Tradeoffs](https://stevekinney.com/courses/enterprise-ui/monoliths-microfrontends-and-monorepos): Runtime vs repository topology tradeoffs in frontend architecture
+- [Authentication, Authorization, and Multi-Tenancy](https://stevekinney.com/courses/enterprise-ui/authentication-and-authorization): OIDC, SAML, OAuth 2.0, and multi-tenant patterns for enterprise frontends
+- [Dependency Management in Monorepos](https://stevekinney.com/courses/enterprise-ui/dependency-management): Version drift, phantom dependencies, and workspace patterns with pnpm
+- [Image & Asset Optimization for React](https://stevekinney.com/courses/react-performance/image-and-asset-optimization): WebP/AVIF formats, lazy loading, and responsive images for React apps
+
+## Testing & Quality Assurance
+
+- [Dependency Injection In JavaScript: What, Why, And How](https://stevekinney.com/courses/testing/dependency-injection): JavaScript dependency injection patterns for testability with Vitest
+- [Strategies For Testing Conditional Logic](https://stevekinney.com/courses/testing/strategies-for-testing-conditional-logic): Branch coverage and edge case testing strategies with Vitest
+- [Why You Don't Need 100% Code Coverage](https://stevekinney.com/courses/testing/you-dont-need-perfect-code-coverage): Code coverage as a tool, not a goal: testing philosophy and best practices
+- [Setting Up GitHub Actions to Run Vitest Unit Tests](https://stevekinney.com/courses/testing/continuous-integration): GitHub Actions CI workflow setup for automated Vitest testing
+- [Accessibility Testing in Storybook](https://stevekinney.com/courses/storybook/accessibility-testing): A11y audits with @storybook/addon-a11y, axe-core, and Playwright integration
+- [Clearing, Restoring, and Resetting Mocks](https://stevekinney.com/courses/testing/clearing-restoring-and-resetting-mocks): Mock lifecycle management and cleanup strategies in Vitest
+
+## Developer Tools & Workflows
+
+- [Visual Studio Code](https://stevekinney.com/courses/visual-studio-code): Comprehensive VS Code guide covering debugging, Dev Containers, and snippets
+- [Figma for Developers](https://stevekinney.com/courses/figma): Frontend Masters course on Figma Dev Mode and design-dev collaboration
+
+## Core Pages
+
+- [Home](https://stevekinney.com): Teacher, artist, software engineer at Temporal (formerly Twilio/SendGrid)
+- [Courses](https://stevekinney.com/courses): Frontend Masters courses on React, TypeScript, Tailwind, AI, and testing
+- [Writing](https://stevekinney.com/writing): Collection of articles on Temporal, AI/LLM APIs, TypeScript, and dev tools
+
+## Optional
+
+- [Understanding OpenAI Codex for Code Generation](https://stevekinney.com/courses/ai-development/openai-codex): OpenAI's o-series and GPT-4o models for code generation workflows
+- [Placing Grid Items: Spanning and Positioning](https://stevekinney.com/courses/tailwind/placing-grid-items-spanning-and-positioning): CSS Grid spanning and positioning utilities in Tailwind CSS
+- [Implementing Obsidian's Callout in Svelte](https://stevekinney.com/writing/obsidian-callout-svelte): Building Obsidian-style callout components in Svelte with Storybook

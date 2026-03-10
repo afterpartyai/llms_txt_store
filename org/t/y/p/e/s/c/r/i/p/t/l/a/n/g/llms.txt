@@ -1,0 +1,69 @@
+# TypeScript Documentation
+
+> > Official documentation for TypeScript, Microsoft's typed superset of JavaScript that compiles to plain JavaScript.
+
+TypeScript adds optional static typing to JavaScript, enabling better tooling, error detection, and code organization. The site provides comprehensive documentation including the TypeScript Handbook, TSConfig compiler options reference, migration guides, and learning resources for developers from various backgrounds (JavaScript, Java, C#).
+
+## Key Topics
+
+- TypeScript
+- JavaScript
+- TSConfig
+- Type System
+- Static Typing
+- Type Inference
+- Compiler Options
+- Declaration Files (.d.ts)
+- Module Resolution
+- Project References
+- tsc (TypeScript Compiler)
+- Interfaces
+- Utility Types
+- ESM and CommonJS Modules
+- Type Definitions
+
+## Getting Started
+
+- [TypeScript: JavaScript With Syntax For Types.](https://typescriptlang.org): TypeScript homepage - JavaScript with syntax for types
+- [TypeScript: The starting point for learning TypeScript](https://typescriptlang.org/docs): Documentation hub with handbook, tutorials, and learning resources
+- [TypeScript: How to set up TypeScript](https://typescriptlang.org/download): Installation guide for npm, NuGet, and Visual Studio setups
+- [TypeScript: Documentation - TypeScript for JavaScript Programmers](https://typescriptlang.org/docs/handbook/typescript-in-5-minutes.html): Quick TypeScript intro for JavaScript developers with type inference
+- [TypeScript: Documentation - TypeScript for the New Programmer](https://typescriptlang.org/docs/handbook/typescript-from-scratch.html): Beginner guide to TypeScript for new programmers
+- [TypeScript: Why does TypeScript exist?](https://typescriptlang.org/why-create-typescript): Non-technical overview explaining TypeScript's purpose and benefits
+- [TypeScript: Documentation - TypeScript for Java/C# Programmers](https://typescriptlang.org/docs/handbook/typescript-in-5-minutes-oop.html): TypeScript guide for Java/C# developers with OOP background
+
+## TypeScript Handbook
+
+- [TypeScript: Handbook - The TypeScript Handbook](https://typescriptlang.org/docs/handbook/intro.html): Introduction to the TypeScript Handbook and documentation structure
+- [TypeScript: Documentation - The Basics](https://typescriptlang.org/docs/handbook/2/basic-types.html): Fundamentals of TypeScript type checking and runtime behavior
+- [TypeScript: Documentation - Everyday Types](https://typescriptlang.org/docs/handbook/2/everyday-types.html): Common TypeScript types: primitives, arrays, any, and annotations
+- [TypeScript: Documentation - Object Types](https://typescriptlang.org/docs/handbook/2/objects.html): Object types, interfaces, type aliases, and property modifiers
+- [TypeScript: Documentation - More on Functions](https://typescriptlang.org/docs/handbook/2/functions.html): Function types, call signatures, and construct signatures guide
+- [TypeScript: Documentation - Migrating from JavaScript](https://typescriptlang.org/docs/handbook/migrating-from-javascript.html): Migration guide for converting JavaScript projects to TypeScript
+
+## Modules and Module Systems
+
+- [TypeScript: Documentation - Modules - Introduction](https://typescriptlang.org/docs/handbook/modules/introduction.html): Introduction to TypeScript modules system and theory
+- [TypeScript: Documentation - Modules - Theory](https://typescriptlang.org/docs/handbook/modules/theory.html): Module systems theory: ESM, CommonJS, and JavaScript module history
+- [TypeScript: TSConfig Option: moduleResolution](https://typescriptlang.org/tsconfig/moduleResolution.html): TSConfig reference for module resolution strategies (node16, bundler)
+
+## Declaration Files and Type Definitions
+
+- [TypeScript: Documentation - Introduction](https://typescriptlang.org/docs/handbook/declaration-files/introduction.html): Introduction to writing TypeScript declaration (.d.ts) files
+- [TypeScript: Documentation - Do's and Don'ts](https://typescriptlang.org/docs/handbook/declaration-files/do-s-and-don-ts.html): Best practices for TypeScript declaration files and type usage
+- [TypeScript: TSConfig Option: declaration](https://typescriptlang.org/tsconfig/declaration.html): TSConfig reference for generating .d.ts type definition files
+- [TypeScript: TSConfig Option: declarationMap](https://typescriptlang.org/tsconfig/declarationMap.html): TSConfig reference for generating .d.ts source maps
+- [TypeScript: TSConfig Option: declarationDir](https://typescriptlang.org/tsconfig/declarationDir.html): TSConfig reference for declaration file output directory
+
+## TSConfig and Compiler Configuration
+
+- [TypeScript: Documentation - What is a tsconfig.json](https://typescriptlang.org/docs/handbook/tsconfig-json.html): Guide to tsconfig.json configuration and compiler options
+- [TypeScript: TSConfig Option: composite](https://typescriptlang.org/tsconfig/composite.html): TSConfig reference for composite option enabling project references
+- [TypeScript: TSConfig Option: references](https://typescriptlang.org/tsconfig/references.html): TSConfig reference for project references and code organization
+- [TypeScript: TSConfig Option: exactOptionalPropertyTypes](https://typescriptlang.org/tsconfig/exactOptionalPropertyTypes.html): TSConfig reference for strict optional property type checking
+
+## Reference and Tools
+
+- [TypeScript: Reference Tools](https://typescriptlang.org/tools): Playground, TSConfig reference, and cheat sheets overview
+- [TypeScript: Cheat Sheets](https://typescriptlang.org/cheatsheets): Downloadable syntax reference sheets for classes, interfaces, and types
+- [TypeScript: Documentation - Utility Types](https://typescriptlang.org/docs/handbook/utility-types.html): Built-in utility types: Awaited, Partial, Required, Readonly, Record

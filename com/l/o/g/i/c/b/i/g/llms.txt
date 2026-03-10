@@ -1,0 +1,82 @@
+# LogicBig
+
+> > Comprehensive tutorials and examples for Java, Spring Framework, Java EE, Maven, AI foundations, and modern web development technologies.
+
+LogicBig is a software development knowledge base offering in-depth tutorials, code examples, and quick references across the Java ecosystem. The site covers everything from Core Java fundamentals and Spring Framework to emerging topics like LLMs and AI safety, with practical examples and beginner-friendly guides.
+
+## Key Topics
+
+- Java / Core Java / Java SE
+- Spring Framework (Boot, MVC, Core)
+- Java EE (Servlet, JAX-RS, JPA)
+- Apache Maven (build tools)
+- Multithreading and concurrency
+- Spring Data JPA and Hibernate
+- Bean Validation (JSR 303/380)
+- AI Foundations and LLMs
+- TypeScript and Groovy
+- Java Swing GUI
+- HTTP protocols and REST
+- Annotation Processing
+- Java 9 Modules
+- Spring Boot Actuator
+- Unit Testing
+
+## Core Java Tutorials
+
+- [Core Java Tutorials](https://logicbig.com/tutorials/core-java-tutorial.html): Core Java and Java SE tutorials including Java 8, 9, Streams, and JShell
+- [Java Collections Framework](https://logicbig.com/tutorials/core-java-tutorial/java-collections/collections-framework-intro.html): Java Collections Framework intro: List, ArrayList, data structures, APIs
+- [Java Thread Pools and ThreadPoolExecutor](https://logicbig.com/tutorials/core-java-tutorial/java-multi-threading/thread-pools.html): Java ThreadPoolExecutor and thread pool management concepts
+- [Java Memory Model - Volatile Keyword](https://logicbig.com/tutorials/core-java-tutorial/java-multi-threading/visibility-volatile.html): Java Memory Model: volatile keyword for thread visibility and synchronization
+- [Java Annotation Processing](https://logicbig.com/tutorials/core-java-tutorial/java-se-annotation-processing-api/annotation-processing-concepts.html): Java annotation processing API: AbstractProcessor, javac plugin, code gen
+- [Java 9 Modules with Eclipse](https://logicbig.com/tutorials/core-java-tutorial/modules/getting-started-in-eclipse.html): Java 9 module system setup and configuration in Eclipse Oxygen IDE
+- [Java Swing Tutorials](https://logicbig.com/tutorials/core-java-tutorial/swing.html): Java Swing GUI components: JList, JComboBox, JTextField, custom renderers
+
+## Spring Framework Tutorials
+
+- [Spring Framework](https://logicbig.com/tutorials/spring-framework.html): Spring Framework tutorials: IoC, DI, MVC, Data JPA, JDBC, and ORM
+- [Spring Boot Tutorials](https://logicbig.com/tutorials/spring-framework/spring-boot.html): Spring Boot tutorials including Maven config and framework integration
+- [Spring MVC Tutorial](https://logicbig.com/tutorials/spring-framework/spring-web-mvc.html): Spring Web MVC tutorials with custom Converter and handler methods
+- [Spring Task Scheduling](https://logicbig.com/tutorials/spring-framework/spring-core/task-scheduling.html): Spring TaskScheduler interface for async task scheduling with triggers
+- [Spring Boot MVC Form Validation](https://logicbig.com/tutorials/spring-framework/spring-boot/mvc-form-input-validation.html): Spring Boot form validation with JSR 303/380 Bean Validation and Thymeleaf
+- [Spring Boot Actuator Endpoints](https://logicbig.com/tutorials/spring-framework/spring-boot/enabling-actuator-endpoints.html): Spring Boot Actuator endpoints intro: enabling HTTP/JMX monitoring features
+- [Spring Boot H2 Console with Security](https://logicbig.com/tutorials/spring-framework/spring-boot/jdbc-security-with-h2-console.html): Spring Security config to access H2 console with CSRF and frame options
+- [Spring Boot @ConfigurationProperties vs @Value](https://logicbig.com/tutorials/spring-framework/spring-boot/configuration-properties-vs-value-conversion.html): @ConfigurationProperties vs @Value: relaxed binding and type conversion
+- [Spring Boot Custom ErrorController](https://logicbig.com/tutorials/spring-framework/spring-boot/json-error-controller.html): Custom ErrorController with JSON error responses using AbstractErrorController
+- [Spring Core Testing Basics](https://logicbig.com/tutorials/spring-framework/spring-core-testing/basics-and-getting-started-topic-contents.html): Spring Core Testing basics: @ContextConfiguration and @SpringJunitConfig
+
+## Java EE and Enterprise Development
+
+- [Java EE Tutorials](https://logicbig.com/tutorials/java-ee-tutorial.html): Java EE tutorials: Servlet, JAX-RS, JPA 2.1, JSF, Bean Validation
+- [JPA Single Table Inheritance](https://logicbig.com/tutorials/java-ee-tutorial/jpa/single-table-inheritance.html): JPA single table inheritance with @Inheritance and @DiscriminatorColumn
+- [JAX-RS Request Context and Caching](https://logicbig.com/tutorials/java-ee-tutorial/jax-rs/request-context.html): JAX-RS Request injection for ETag, Last-Modified HTTP caching headers
+
+## Build Tools and Development Workflow
+
+- [Maven Getting Started](https://logicbig.com/tutorials/build-tools/apache-maven/maven-getting-started.html): Maven getting started: concepts, installation, project management basics
+- [Maven Commands Reference](https://logicbig.com/tutorials/build-tools/apache-maven/playing-with-maven-commands.html): Maven command-line syntax, help:describe, phases, and plugin goals
+
+## AI Foundations and LLM Tutorials
+
+- [AI Foundations](https://logicbig.com/tutorials/ai-tutorials/ai-foundations.html): AI foundations: LLM basics, generative AI, LangChain4j, prompt engineering
+- [What is LLM (Large Language Model)](https://logicbig.com/tutorials/ai-tutorials/ai-foundations/large-language-model.html): LLM basics: Transformer architecture, self-attention, GPT-4, and Gemini
+- [LLM Chat Roles](https://logicbig.com/tutorials/ai-tutorials/ai-foundations/llm-chat-roles.html): LLM chat roles: System, User, and Assistant in conversation structure
+- [Entity Extraction (NER)](https://logicbig.com/tutorials/ai-tutorials/ai-foundations/entity-extraction.html): Entity Extraction (NER) basics: extracting structured data from text
+- [AI Safety and Guardrails](https://logicbig.com/tutorials/ai-tutorials/ai-foundations/ai-safety-and-guardrails.html): AI safety: guardrails, hallucination, prompt injection, PII masking
+
+## Additional Technologies
+
+- [Misc Tutorials](https://logicbig.com/tutorials/misc.html): Misc tech tutorials: Jackson, Hibernate, CSS, JavaScript, TypeScript, Groovy
+- [TypeScript Tutorials](https://logicbig.com/tutorials/misc/typescript.html): TypeScript tutorials: classes, inheritance, member variables, accessors
+- [Getting Started with Groovy](https://logicbig.com/tutorials/misc/groovy/getting-started.html): Groovy installation, setup, environment variables, and hello world
+- [PrimeFaces Line Chart Example](https://logicbig.com/tutorials/misc/primefaces/line-chart.html): PrimeFaces LineChartModel example with JSF charting and 2D graphs
+
+## Quick Reference and Examples
+
+- [All Tutorials](https://logicbig.com/tutorials.html): Main tutorial index covering Java, Spring Framework, Java EE, and more
+- [Code Examples Catalog](https://logicbig.com/examples.html): Code examples catalog for Java, Spring, Jackson, JAX-RS, JPA, and more
+- [Quick Info Reference](https://logicbig.com/quick-info.html): Quick reference for HTTP, SOAP, REST, ETag, and programming concepts
+- [Java Quick Reference](https://logicbig.com/quick-info/java.html): Java quick reference: precision, mutability, constants, JVM ergonomics
+- [Web Services Reference](https://logicbig.com/quick-info/web-services.html): Web services reference: SOAP vs REST protocols and concepts
+- [Programming Reference](https://logicbig.com/quick-info/programming.html): Programming reference: case conventions, precision, idempotent operations
+- [HTML Reference](https://logicbig.com/quick-info/html.html): HTML reference: form encoding types and HTTP concepts

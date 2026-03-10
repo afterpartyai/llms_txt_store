@@ -1,0 +1,68 @@
+# FrontendTools
+
+> > A comprehensive collection of 30+ free, browser-based developer tools and educational resources for frontend development, covering CSS, JavaScript, React, image optimization, and accessibility.
+
+FrontendTools.tech provides client-side processing tools built with Next.js 15 and React 18, ensuring privacy and performance. The platform combines practical utilities (PDF merger, regex tester, accessibility scanner) with in-depth guides on modern web technologies including WebAssembly, Core Web Vitals, and WCAG compliance.
+
+## Key Topics
+
+- Frontend Development
+- CSS (Variables, Units, Animations)
+- JavaScript & React
+- Image Optimization (WebP, AVIF, PNG, SVG)
+- Accessibility & WCAG 2.2
+- Core Web Vitals
+- Client-Side Processing
+- Responsive Design
+- VS Code Extensions
+- Next.js & Tailwind CSS
+- JSON & Base64 Handling
+- WebAssembly
+- Frontend Security (XSS, CSRF)
+- Web Performance
+- Developer Tools
+
+## Free Developer Tools
+
+- [Free Frontend Tools 2026 - 30+ Developer Utilities](https://frontendtools.tech): Homepage: 30+ free frontend tools for CSS, images, JSON, SVG & more
+- [PDF Merger – Merge PDFs in Browser, No Upload](https://frontendtools.tech/tools/pdf-merger): Browser-based PDF merger tool - combine PDFs client-side, no upload
+- [Testing & Accessibility - 1 Free Tools](https://frontendtools.tech/tools/cluster/testing-accessibility): WCAG 2.2 & ADA accessibility scanner for contrast, ARIA & navigation
+- [Utilities - 3 Free Tools](https://frontendtools.tech/tools/cluster/utilities): URL shortener, regex tester & character converter utilities cluster
+
+## Image Optimization & Formats
+
+- [Image Optimization 2025: WebP, AVIF & Best Practices Guide](https://frontendtools.tech/blog/modern-image-optimization-techniques-2025): Image optimization: WebP, AVIF, compression & Core Web Vitals guide
+- [Image Optimization Guide: WebP, AVIF, Compression & Base64 Encoding](https://frontendtools.tech/blog/optimize-images-web-base64-compression-guide): Optimize images: WebP, AVIF, Base64 encoding & Core Web Vitals tips
+- [SVG vs PNG vs WebP: Which Image Format to Use & When Guide](https://frontendtools.tech/blog/svg-vs-png-vs-webp-image-formats): SVG vs PNG vs WebP comparison: when to use each format for performance
+- [10 Common SVG Path Mistakes and How to Fix Them](https://frontendtools.tech/blog/10-common-svg-path-mistakes-how-to-fix-them): Fix 10 common SVG path errors with before/after examples from Figma
+
+## CSS & Responsive Design
+
+- [CSS Units Guide: px vs rem vs em vs vh Compared](https://frontendtools.tech/blog/css-units-responsive-design-2025): CSS units compared: px vs rem vs em vs vh with charts & examples
+- [CSS Variables Guide: Design Tokens & Theming](https://frontendtools.tech/blog/css-variables-guide-design-tokens-theming-2025): CSS Variables for design tokens, theming & dark mode implementation
+- [Advanced Responsive Design: Beyond Media Queries with Fluid CSS](https://frontendtools.tech/blog/advanced-responsive-design-beyond-media-queries): Fluid CSS design beyond media queries: clamp(), Flexbox & Grid techniques
+- [Interactive CSS Animations: Complete Tutorial for Web Apps](https://frontendtools.tech/blog/interactive-css-animations-web-apps): CSS animations tutorial: keyframes, transitions & interactive effects
+- [Color Theory in UI Design: Complete Guide with WCAG Accessibility](https://frontendtools.tech/blog/color-theory-ui-design): UI color theory: palettes, harmony & WCAG accessibility standards
+
+## Frontend Architecture & Development
+
+- [50+ Essential Frontend Developer Tools: Complete Survival Kit](https://frontendtools.tech/blog/frontend-developer-survival-kit-2025): 50+ essential tools: VS Code, Git, React, Next.js, testing & deployment
+- [Best VS Code Extensions for Frontend Developers](https://frontendtools.tech/blog/vscode-extensions-frontend-developers-2025): Top VS Code extensions: Prettier, GitHub Copilot, Tailwind IntelliSense
+- [Frontend Architecture: How to Structure Large-Scale Web Apps](https://frontendtools.tech/blog/frontend-architecture-structure-large-scale-web-apps): Large-scale app architecture: Zustand, React Query, GraphQL & structure
+- [WebAssembly: Future of High-Performance Frontend Tools & WASM Guide](https://frontendtools.tech/blog/webassembly-future-high-performance-frontend-tools-2025): WebAssembly guide: high-performance browser tools with Rust, C++ & Go
+- [Frontend Security Essentials: Prevent XSS, CSRF & Data Leaks](https://frontendtools.tech/blog/frontend-security-essentials-guide-2025): Prevent XSS, CSRF & client-side attacks with CSP & DOMPurify
+
+## JavaScript & Data Handling
+
+- [Client-Side Storage Guide: LocalStorage vs SessionStorage vs IndexedDB](https://frontendtools.tech/blog/client-side-storage-guide-localstorage-sessionstorage-indexeddb): LocalStorage vs SessionStorage vs IndexedDB compared for PWAs & SPAs
+- [Debug JSON Like a Pro: Free Tools, Validation & Formatting Tips](https://frontendtools.tech/blog/debug-json-like-a-pro-tools-tips): JSON debugging guide: validation, formatting & error handling tips
+- [Interactive Tooltips & Modals: CSS & JavaScript Guide with Examples](https://frontendtools.tech/blog/interactive-tooltips-modals-css-js-ux-guide): Build accessible tooltips & modals with CSS, JavaScript & UX patterns
+
+## About & Support
+
+- [About FrontendTools - Our Mission & Story](https://frontendtools.tech/about): Mission & story behind 18 free dev tools built with Next.js 15 & React 18
+- [Contact Us - Get Help & Share Feedback](https://frontendtools.tech/contact): Contact FrontendTools for bug reports, feature requests, and support
+
+## Optional
+
+- [Terms of Service - Usage Agreement](https://frontendtools.tech/terms): Terms of service & usage agreement for FrontendTools.tech platform

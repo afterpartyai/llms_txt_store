@@ -1,0 +1,73 @@
+# Kodus
+
+> > Open source AI code review platform featuring Kody, a model-agnostic code reviewer supporting GitHub, GitLab, and Bitbucket with custom rules and team-specific standards enforcement.
+
+Kodus provides an alternative to CodeRabbit with support for multiple AI models (Claude, GPT, Llama, Mistral) and integrations with popular developer tools like Cursor, Copilot, Windsurf, Jira, Linear, and Notion. The platform offers automated PR reviews, custom rule generation, and DORA metrics tracking for engineering teams.
+
+## Key Topics
+
+- AI Code Review
+- Kody (AI code reviewer agent)
+- Model-agnostic (Claude, GPT, Llama, Mistral)
+- Pull Request Automation
+- Custom Review Rules
+- Git Integration (GitHub, GitLab, Bitbucket)
+- IDE Integration (Cursor, Copilot, Windsurf)
+- Code Quality & Technical Debt
+- DORA Metrics
+- Open Source & Self-hosted
+- Developer Productivity
+- Engineering Culture & Best Practices
+- BYOK (Bring Your Own Key)
+- SOC 2 Compliance
+
+## Getting Started
+
+- [Introduction - Kodus](https://docs.kodus.io): Main docs homepage introducing Kody AI code reviewer for teams
+- [Overview](https://docs.kodus.io/how_to_use/en/overview): Overview of Kodus AI agents and Kody code reviewer with key features
+- [Kodus Homepage](https://kodus.io): Homepage: Open source CodeRabbit alternative with model choice control
+- [AI Code Review Product](https://kodus.io/en/ai-code-review): AI code review product page emphasizing open source and customization
+- [Sign Up](https://app.kodus.io/sign-up): Registration page for teams to start using Kody code reviews
+- [Login](https://app.kodus.io): User login page for Kodus app authentication
+- [Pricing](https://kodus.io/pricing): Pricing plans: Community free tier, Pro, Enterprise with BYOK options
+- [Customers](https://kodus.io/customers): Case studies from Brendi, Conta Voltz, Doji showing 70% review time saved
+
+## Code Review Documentation
+
+- [Code Review Flow](https://docs.kodus.io/how_to_use/en/code_review/flow): PR review workflow: when Kody runs, skips, and posts inline comments
+- [Review Policy](https://docs.kodus.io/how_to_use/en/code_review/policy): Kody feedback interpretation: suggestions, blocking reviews, auto-approve
+- [Workspace Roles](https://docs.kodus.io/how_to_use/en/workspace_roles): RBAC guide: workspace member roles vs PR license management in Kodus
+- [Automatic Rule Generation](https://docs.kodus.io/knowledge_base/en/how-to-generate-rules-automatically): AI-powered rule generation from 3 months of team review history patterns
+- [Novita AI Integration](https://docs.kodus.io/cookbook/en/novita): Integration guide for Novita AI serverless GPU with Llama, Mistral, Claude
+
+## Support & Knowledge Base
+
+- [Knowledge Base](https://docs.kodus.io/knowledge_base/en/introduction): FAQ hub for code review, standards enforcement, and integrations
+- [Why Are Code Reviews Paused](https://docs.kodus.io/knowledge_base/en/why-are-code-reviews-paused): Troubleshooting auto-pause behavior during rapid consecutive pushes
+- [System Status](https://status.kodus.io): Real-time system status and API uptime monitoring dashboard
+
+## Code Review Best Practices
+
+- [Best Practices for Code Reviews](https://kodus.io/en/best-practices-for-code-reviews): Practical tips for efficient code reviews balancing quality and speed
+- [What is Clean Code](https://kodus.io/en/what-is-clean-code): Clean code principles and best practices for maintainable systems
+- [Java Code Review Checklist](https://kodus.io/en/java-code-review-checklist-and-best-practices): Java-specific code review checklist for catching bugs and improving quality
+- [SonarQube Alternatives](https://kodus.io/en/sonarqube-alternatives-code-quality): Comparison guide: SonarQube alternatives like Kodus, Snyk, Semgrep
+
+## Engineering Metrics & Culture
+
+- [DORA Metrics for Engineering Teams](https://kodus.io/en/introduction-dora-metrics): Guide to using DORA metrics for measuring team efficiency and delivery
+- [Building Engineering Culture at Scale](https://kodus.io/en/scaling-engineering-culture-systems): Guide on scaling engineering culture through intentional system design
+
+## Guides & Tips
+
+- [How to Use the PR Summary](https://kodus.io/en/how-to-use-the-pr-summary): Guide to configuring Kody's automatic PR description generation feature
+- [Automatic Kody Rules + Review Flow](https://kodus.io/en/automatic-kody-rules-review-flow): Release notes: IDE rule sync with Cursor, Copilot, Claude, Windsurf
+
+## Optional
+
+- [Changelog](https://kodus.io/en/changelog-en): Product updates including MCP integration, OAuth, and custom rules
+- [Kodus Blog Archive](https://kodus.io/en/kodus): Archive of Kodus blog posts on code review, architecture, and GenAI
+- [Insights Blog Archive](https://kodus.io/en/insights-en): Blog archive on DevOps, platform engineering, and dependency management
+- [DORA Metrics Archive](https://kodus.io/en/dora-metrics-en): Blog archive on DORA metrics: MTTR, change failure rate, deployment freq
+- [DevEx Archive](https://kodus.io/en/devex): Blog archive on developer experience, platform engineering, and DevOps
+- [Kody Tips and Guides Archive](https://kodus.io/en/kody-tips-and-guides): Archive of Kody usage guides: Cockpit, Issues, PR Summary, Rules

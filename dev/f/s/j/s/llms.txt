@@ -1,0 +1,71 @@
+# Full Stack Javascript Developer
+
+> > A comprehensive resource for JavaScript developers covering modern Web APIs, full-stack development, interview preparation, and cutting-edge browser technologies.
+
+fsjs.dev provides in-depth tutorials on emerging Web APIs (File System Access, WebGPU, Gamepad API, Generic Sensors), practical guides for building portfolio projects, and strategic advice for technical interviews at companies like OpenAI. The site focuses on bridging the gap between frontend and full-stack development with hands-on examples.
+
+## Key Topics
+
+- File System Access API
+- JavaScript
+- Web APIs
+- Interview Preparation
+- Full-Stack Development
+- IndexedDB
+- Tailwind CSS
+- React
+- WebGPU
+- Technical Interviews
+- Portfolio Projects
+- Async Programming
+- Node.js
+- Browser APIs
+- Career Advice
+
+## Getting Started
+
+- [Full Stack Javascript Developer](https://fsjs.dev): Homepage featuring web APIs, interviews, and JavaScript development guides
+- [Blog](https://fsjs.dev/blog): JavaScript tutorials, web APIs, interview prep & engineering articles
+
+## File System Access API
+
+- [Unlocking the File System Access API: A Developer's Guide](https://fsjs.dev/unlocking-file-system-access-api-developers-guide): Hands-on guide to File System Access API with examples & best practices
+- [Understanding the File System Access API: Web Development's New Frontier](https://fsjs.dev/understanding-file-system-access-api): Intro to File System Access API: capabilities, security & use cases
+- [From Concept to Code: Building a File Management Tool Using the File System Access API](https://fsjs.dev/from-concept-to-code-file-system-access-api): Build a browser file manager with File System Access API tutorial
+- [Beyond Uploads: How the File System Access API is Changing Web Development](https://fsjs.dev/beyond-uploads-file-system-access-api-changing-web-development): File System Access API use cases, examples & real-world case studies
+
+## Interview Preparation & Career
+
+- [The Ultimate JavaScript Portfolio: Projects That Impress Interviewers](https://fsjs.dev/ultimate-javascript-portfolio-projects-impress-interviewers): Build interview-ready JavaScript portfolio projects with talking points
+- [From Zero to Hero: Building Real-World JavaScript Applications for Interviews](https://fsjs.dev/from-zero-to-hero-building-real-world-javascript-applications-for-interviews): Build 3 interview-ready JavaScript apps: to-do, weather & e-commerce
+- [Decoding the OpenAI Interview Process: What You Need to Know](https://fsjs.dev/decoding-openai-interview-process): OpenAI interview stages, sample questions & prep plan for ML/SWE roles
+- [Debunking Common Whiteboard Interview Mistakes: What Not to Do](https://fsjs.dev/debunking-common-whiteboard-interview-mistakes): Avoid common whiteboard interview mistakes with repeatable framework
+- [The Coding Challenge Dilemma: Preparing for Realistic Scenarios vs. Theoretical Problems](https://fsjs.dev/coding-challenge-dilemma-realistic-vs-theoretical): Balance algorithm puzzles & real-world engineering in interview prep
+
+## Full-Stack Development
+
+- [Your First Full-Stack Project: A Step-by-Step Guide for Frontend Developers](https://fsjs.dev/first-full-stack-project-frontend-developers): Step-by-step guide for frontend devs to build their first full-stack app
+- [Creating a Component Library with Tailwind CSS: A Practical Guide](https://fsjs.dev/creating-component-library-tailwind-css): Build reusable Tailwind CSS component library with Storybook & theming
+- [Tailwind CSS Customization: How to Create Your Own Utility Classes](https://fsjs.dev/tailwind-custom-utility-classes): Create custom Tailwind utilities: theme extension, plugins & @layer
+
+## Modern Web APIs
+
+- [Building a Game Engine with WebGPU: Step-by-Step Guide](https://fsjs.dev/building-game-engine-webgpu-step-by-step): Build a WebGPU game engine: WGSL shaders, buffers & rendering loop
+- [Getting Started with the Gamepad API: Building Your First Game](https://fsjs.dev/getting-started-gamepad-api-building-first-game): Integrate Gamepad API in web games: controllers, buttons & vibration
+- [Building a Generic Sensor API with JavaScript: A Step-by-Step Tutorial](https://fsjs.dev/building-generic-sensor-api-javascript-step-by-step): Build Generic Sensor API wrapper: accelerometer, gyroscope & permissions
+- [Mastering Periodic Background Sync: A Step-by-Step Guide](https://fsjs.dev/mastering-periodic-background-sync-step-by-step): Implement Periodic Background Sync API for PWA offline content updates
+- [Navigating the New DOM APIs: What You Didn't Know About the Element.closest() Method](https://fsjs.dev/navigating-dom-apis-element-closest): Element.closest() guide: ancestor lookups, event delegation & gotchas
+- [Prioritized Task Scheduling API: Benefits and Drawbacks You Need to Know](https://fsjs.dev/prioritized-task-scheduling-api-benefits-drawbacks): Prioritized Task Scheduling API: benefits, pitfalls & safe adoption
+
+## JavaScript Best Practices & Patterns
+
+- [The Surprising Truth About JavaScript's Truthy and Falsy Values](https://fsjs.dev/surprising-truth-about-javascript-truthy-falsy-values): JavaScript truthy/falsy traps, common bugs & safer coding patterns
+- [The Dangers of eval: A Cautionary Tale](https://fsjs.dev/dangers-of-eval-cautionary-tale): Why eval is dangerous: attack patterns, XSS/RCE risks & mitigations
+- [Debunking Myths: The Truth About the Garbage Collector and Memory Leaks in JavaScript](https://fsjs.dev/debunking-myths-gc-memory-leaks-javascript): How JavaScript GC works, common memory leak patterns & debugging tools
+- [The Power of the Nullish Coalescing Operator: Beyond Default Values](https://fsjs.dev/nullish-coalescing-operator-beyond-default-values): Nullish coalescing (??) vs OR: avoid falsy value pitfalls in ES2020
+- [Controversial JavaScript Questions: Testing Boundaries of Developer Knowledge](https://fsjs.dev/controversial-javascript-questions-testing-boundaries-developer-knowledge): JavaScript debates: == vs ===, semicolons, TypeScript & best practices
+
+## Optional
+
+- [From Code to Conversation: Exploring the Rise of Conversational AI Tools for JavaScript](https://fsjs.dev/from-code-to-conversation-conversational-ai-javascript): Conversational AI tools for JavaScript: Copilot, RAG & IDE integration
+- [Obfuscation vs. Minification: Understanding the Real Differences and Use Cases](https://fsjs.dev/obfuscation-vs-minification-understanding-differences-use-cases): JavaScript minification vs obfuscation: when to use, security & tooling

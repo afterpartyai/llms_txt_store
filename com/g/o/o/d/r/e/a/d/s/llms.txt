@@ -1,52 +1,50 @@
 # Goodreads
 
-> > The world's largest book discovery and reading community platform, featuring curated lists, genre browsing, reader recommendations, and literary quotes.
+> > Goodreads is the world's largest book discovery and recommendation platform, owned by Amazon, where readers track books, write reviews, and connect with a community of bibliophiles.
 
-Goodreads, founded by Otis Chandler, connects readers with books through personalized recommendations, community-curated Listopia rankings, and social reading features. The platform covers everything from classic literature by Jane Austen and George Orwell to contemporary bestsellers and niche communities like Archive of Our Own (AO3) fanfiction.
+Founded by Otis Chandler, Goodreads offers personalized book recommendations, reading challenges, genre browsing, and social features. The platform supports authentication through Amazon, Apple, Google, and Passkey, and hosts diverse content from traditional publishing to fanfiction communities like AO3 (Archive of Our Own).
 
 ## Key Topics
 
 - Book discovery and recommendations
-- Listopia curated rankings
-- Classic literature (Pride and Prejudice, 1984, Jane Eyre, The Great Gatsby)
-- Reading community and social features
-- Genre classification and browsing
-- Book ratings and reviews
-- Literary novels and fiction
-- Author profiles (Jane Austen, George Orwell, F. Scott Fitzgerald, Charlotte Brontë)
 - Reading challenges
-- Popular book quotes
-- User-generated shelves and lists
-- Most-read weekly rankings
-- Archive of Our Own (AO3) fanfiction community
-- Goodreads Serious Literature Group
+- Genre browsing (Romance, Fiction, Memoir, Comics)
+- User shelves and collections
+- New releases and bestsellers
+- Fanfiction (AO3/Archive of Our Own)
+- Literary quotes
+- Author profiles and giveaways
+- Social login (Amazon, Apple, Google, Passkey)
+- Book reviews and ratings
+- Popular authors (Carley Fortune, Abby Jimenez)
+- Weekly reading statistics
+- Community-curated shelves
 
-## Platform Overview
+## Getting Started
 
-- [Goodreads | Meet your next favorite book](https://goodreads.com): Homepage for Goodreads book discovery and reading community platform
-- [About Goodreads](https://goodreads.com/about/us): Company mission, founder story, and overview of Goodreads platform
-- [Genres](https://goodreads.com/genres): Browse directory of book genres and categories on Goodreads
+- [Goodreads | Meet your next favorite book](https://goodreads.com): Homepage for Goodreads book discovery and recommendations platform
+- [Sign in](https://goodreads.com/user/sign_in): User authentication page with Amazon, Apple, Google login options
+- [About Goodreads](https://goodreads.com/about/us): Company overview, mission statement, and founder Otis Chandler's story
 
-## Book Discovery & Rankings
+## Discover Books
 
-- [Most Read Books This Week In The United States](https://goodreads.com/book/most_read): Weekly ranking of most-read books by US Goodreads members
-- [Goodreads Top 100 Literary Novels of All Time](https://goodreads.com/list/show/13086.Goodreads_Top_100_Literary_Novels_of_All_Time): Curated Listopia ranking of top 100 literary novels by Serious Lit Group
-- [Goodreads Top 100 - Highest Rated Books](https://goodreads.com/list/show/153860.Goodreads_Top_100_Highest_Rated_Books_on_Goodreads_with_at_least_10_000_Ratings): Top 100 highest-rated books with 10K+ ratings, minimum 4.57 average
-- [100 Best Books of All Time: The World Library List](https://goodreads.com/list/show/9440.100_Best_Books_of_All_Time_The_World_Library_List): World Library's 100 best books voted by 100 writers across 54 countries
+- [Genres](https://goodreads.com/genres): Browse books by genre categories including fiction, memoir, comics
+- [Most Read Books This Week In The United States](https://goodreads.com/book/most_read): Weekly most-read book rankings and statistics for United States
+- [New Releases Books](https://goodreads.com/shelf/show/new-releases): New releases shelf featuring Abby Jimenez, Carley Fortune, and more
+- [Romance Books](https://goodreads.com/genres/romance): Romance genre page with new releases and giveaways from top authors
+- [Ao3 Books](https://goodreads.com/shelf/show/ao3): AO3/Archive of Our Own fanfiction books shelf featuring Manacled
 
-## Community Features
+## Reading Features
 
-- [Popular Quotes](https://goodreads.com/quotes): Most-liked quotes from Wilde, Monroe, Einstein and other famous authors
-- [Ao3 Books](https://goodreads.com/shelf/show/ao3): User shelf featuring Archive of Our Own fanfiction books like Manacled
+- [Annual Reading Challenge](https://goodreads.com/readingchallenges/annual): Annual reading challenge sign-in with passkey authentication support
+- [Popular Quotes](https://goodreads.com/quotes): Most-liked literary quotes from Oscar Wilde, Marilyn Monroe, and others
 
 ## Optional
 
-- [Introduction to Arduino by Christina Bagain](https://goodreads.com/book/show/44795042-introduction-to-arduino): Arduino tutorial guide with step-by-step instructions
-- [Introduction to Arduino 2nd Edition](https://goodreads.com/book/show/52939593-introduction-to-arduino-2nd-edition): Updated 2nd edition of Arduino fundamentals guide
-- [Super Mario Odyssey Tutorials](https://goodreads.com/book/show/57204292-super-mario-odyssey-tutorials): Game walkthrough and strategy guide for Super Mario Odyssey
-- [How to Draw for Beginners by Nora Layne](https://goodreads.com/en/book/show/235745117-how-to-draw-for-beginners---a-complete-step-by-step-guide-from-simple-sh): Beginner drawing workbook with practice pages and videos
-- [Drawing Digital by Lisa Bardot](https://goodreads.com/book/show/131339534-drawing-digital): iPad digital art guide for drawing and painting tutorials
-- [The New Artist's Guide to Drawing](https://goodreads.com/book/show/195717175-the-new-artist-s-guide-to-drawing): Drawing instruction covering people, animals, landscapes
-- [The Beginner's Guide to Procreate](https://goodreads.com/book/show/65212418-the-beginner-s-guide-to-procreate): Procreate beginner guide for mastering digital art
-- [Draw Like an Artist: 100 Flowers and Plants](https://goodreads.com/book/show/50187006-draw-like-an-artist): Botanical line drawing tutorial with 100 flowers/plants
-- [The Artist's Complete Guide to Figure Drawing](https://goodreads.com/book/show/574647.The_Artist_s_Complete_Guide_to_Figure_Drawing): Figure drawing guide on classical artistic techniques
+- [Tutorial Books](https://goodreads.com/shelf/show/tutorial): Tutorial shelf with Rust programming, machine learning, and art guides
+- [Knitting Stitches Guide](https://goodreads.com/book/show/59849745-knitting-stitches-guide): Beginner knitting tutorial guide by PETTIS GEORGE with stitches basics
+- [Introduction to Arduino](https://goodreads.com/book/show/44795042-introduction-to-arduino): Arduino fundamentals tutorial by Christina Bagain with code and pictures
+- [How to Draw for Beginners](https://goodreads.com/en/book/show/235745117-how-to-draw-for-beginners---a-complete-step-by-step-guide-from-simple-sh): Drawing workbook by Nora Layne with practice pages and guided videos
+- [Drawing Digital](https://goodreads.com/book/show/131339534-drawing-digital): iPad digital art guide by Lisa Bardot for Procreate and drawing apps
+- [The New Artist's Guide to Drawing](https://goodreads.com/book/show/195717175-the-new-artist-s-guide-to-drawing): Comprehensive drawing guide by Mark Liam Smith covering multiple subjects
+- [The Artist's Complete Guide to Figure Drawing](https://goodreads.com/book/show/574647.The_Artist_s_Complete_Guide_to_Figure_Drawing): Figure drawing guide by Anthony Ryder on classical tradition techniques

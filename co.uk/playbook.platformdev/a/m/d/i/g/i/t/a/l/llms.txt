@@ -1,0 +1,64 @@
+# Platform Development Playbook
+
+> > The operational playbook for AM Digital's Platform Development team, documenting AMPFlow delivery system, governance frameworks, and engineering practices for products like Quartex and Federated Search.
+
+This playbook serves as the single source of truth for how AM Digital's Platform Development Division operates, covering everything from onboarding and career progression to delivery methodologies and technical standards. It emphasizes value-focused delivery, continuous improvement, and distributed leadership principles.
+
+## Key Topics
+
+- AMPFlow (adaptive SDLC delivery system)
+- Problem Governance & Problem Ownership
+- Delivery Governance & Deployment Logs
+- OKRs & Success Measurement
+- DevOps 3 Ways Principles
+- Quartex Platform
+- Federated Search
+- RAID (Risks, Assumptions, Issues, Dependencies)
+- Engineering Owner & Problem Owner roles
+- Continuous Discovery (Teresa Torres methodology)
+- Value-Effort Prioritization
+- Team Autonomy & Distributed Leadership
+- React & TypeScript Standards
+- BDD & Playwright Testing
+- Pair Programming & Code Review
+
+## Core Philosophy & AMPFlow Delivery System
+
+- [Platform Development Playbook](https://playbook.platformdev.amdigital.co.uk): Homepage: AM Digital Platform Development team mission and values
+- [Ways of Working](https://playbook.platformdev.amdigital.co.uk/Ways-of-Working): Overview of Platform Development team's delivery system and practices
+- [AMPFlow Delivery System](https://playbook.platformdev.amdigital.co.uk/Ways-of-Working/AMPFlow): AMPFlow: AM's adaptive SDLC delivery system with zones and governance
+- [Value Focus](https://playbook.platformdev.amdigital.co.uk/Ways-of-Working/Tenets/Value-Focus): Prioritizing work by balancing effort-value ratio for maximum impact
+- [DevOps 3 Ways](https://playbook.platformdev.amdigital.co.uk/Ways-of-Working/Theory/DevOps-3-Ways): DevOps principles: systems thinking, feedback loops, continuous learning
+
+## Governance & Problem Management
+
+- [Governance](https://playbook.platformdev.amdigital.co.uk/Ways-of-Working/Governance): Governance framework covering delivery, problem, and technology controls
+- [Problem Governance](https://playbook.platformdev.amdigital.co.uk/Ways-of-Working/Governance/Problem-Governance): Controls for identifying problems and determining solutions systematically
+- [Planning and Measuring Success](https://playbook.platformdev.amdigital.co.uk/Ways-of-Working/Governance/Problem-Governance/Measuring-Success): Defining success criteria and OKRs for solution evaluation and monitoring
+- [Problem Discovery](https://playbook.platformdev.amdigital.co.uk/Ways-of-Working/Theory/Problem-Discovery): Continuous discovery practices based on Teresa Torres' methodology
+- [Responsibility Assignment](https://playbook.platformdev.amdigital.co.uk/Ways-of-Working/Governance/Delivery-Governance/Responsibility-Assignment): RACI matrix and stakeholder responsibility assignment throughout lifecycle
+- [Deployment Logs](https://playbook.platformdev.amdigital.co.uk/Ways-of-Working/Governance/Technology-Governance/Deployment-Logs): Change management tracking for production deployments and releases
+
+## Engineering Practices & Toolkit
+
+- [Toolkit](https://playbook.platformdev.amdigital.co.uk/Ways-of-Working/Toolkit): Mechanisms and defaults used throughout AMPFlow problem lifecycle
+- [Code Peer Reviewing](https://playbook.platformdev.amdigital.co.uk/Ways-of-Working/Toolkit/Peer-Reviewing): Code review process including pair programming and PR guidelines
+- [React Best Practises](https://playbook.platformdev.amdigital.co.uk/Ways-of-Working/Toolkit/Quality-Standards/React-Best-Practises): React and TypeScript coding guidelines for quality web applications
+- [Endpoint Naming Conventions](https://playbook.platformdev.amdigital.co.uk/Ways-of-Working/Toolkit/Quality-Standards/Endpoint-Naming-Conventions): REST API endpoint naming standards and HTTP verb conventions
+
+## Onboarding & Team Development
+
+- [Engineer Onboarding at AM](https://playbook.platformdev.amdigital.co.uk/Onboarding/Engineering): Structured onboarding guide for new engineers joining AM's team
+- [Engineering Buddy Guide](https://playbook.platformdev.amdigital.co.uk/Onboarding/Engineering/Engineering-Buddy-Guide): Guide for engineering buddies supporting new starter onboarding
+- [Onboarding for Managers](https://playbook.platformdev.amdigital.co.uk/Onboarding/Engineering/Onboarding-for-managers): Additional onboarding guide for E4+ managers and leadership roles
+- [Progression Framework](https://playbook.platformdev.amdigital.co.uk/Progression-Framework): Career progression frameworks for Platform Development department roles
+
+## Leadership & Team Structure
+
+- [Engineering Leadership Guide](https://playbook.platformdev.amdigital.co.uk/Ways-of-Working/Leadership/Engineering-Leadership-Guide): Distributed and servant leadership practices for engineering teams
+- [Delivery Team](https://playbook.platformdev.amdigital.co.uk/Ways-of-Working/Governance/Problem-Ownership/Delivery-Team): Delivery team roles and responsibilities for solution implementation
+- [Time Recording](https://playbook.platformdev.amdigital.co.uk/Ways-of-Working/Governance/Delivery-Governance/Time-Tracking): Time tracking for financial compliance and estimation improvement
+
+## Optional
+
+- [Absence & Leave](https://playbook.platformdev.amdigital.co.uk/Department-Policies/Absence-Leave): Policies for sickness, unplanned leave, and annual leave requests

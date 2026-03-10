@@ -1,0 +1,66 @@
+# Microsoft GitHub
+
+> > Microsoft's open source projects and developer resources spanning AI agents, cloud infrastructure, developer tools, and enterprise platforms including AutoGen, Garnet, Prompt flow, Teams SDK, and PSRule.
+
+This site aggregates documentation and resources for Microsoft's GitHub-hosted open source projects. It covers AI/ML frameworks (AutoGen, Prompt flow), developer SDKs (Teams, Power Platform), infrastructure tools (PSRule, Kubernetes security), research projects (Garnet, Z3), and cross-platform automation solutions.
+
+## Key Topics
+
+- AI Agents & Multi-Agent Frameworks
+- AutoGen
+- Prompt Engineering & Prompt flow
+- Microsoft Teams SDK
+- Azure OpenAI Integration
+- Kubernetes Security
+- Infrastructure as Code (IaC) Testing
+- Z3 Theorem Prover
+- Garnet Cache Store
+- Power Platform
+- Copilot Studio
+- Windows Development (UWP, Win32)
+- Bot Framework & Virtual Assistants
+- SAP ABAP Integration
+- Cross-Platform Automation
+
+## AI & Agent Development Frameworks
+
+- [AutoGen — Multi-Agent Framework](https://microsoft.github.io/autogen/dev/index.html): AutoGen framework with Studio, AgentChat, and Core for multi-agent systems
+- [AutoGen 0.2 Getting Started](https://microsoft.github.io/autogen/0.2/docs/Getting-Started): AutoGen 0.2 quickstart with multi-agent conversations and code execution
+- [Prompt flow](https://microsoft.github.io/promptflow): Prompt flow development suite for LLM app lifecycle from prototype to production
+- [Prompt flow Quick Start](https://microsoft.github.io/promptflow/how-to-guides/quick-start.html): Prompt flow quickstart for creating and testing LLM flows with Prompty
+- [AI Agents for Beginners Course](https://microsoft.github.io/ai-agents-for-beginners): Multi-language course teaching AI agent development fundamentals
+- [UFO³ Multi-Device Orchestration](https://microsoft.github.io/UFO): UFO³ multi-device orchestration framework for cross-platform automation
+
+## Developer SDKs & Platform Tools
+
+- [Teams SDK](https://microsoft.github.io/teams-sdk/welcome): Teams SDK suite for building agents and apps on Microsoft Teams platform
+- [Microsoft Power Platform Resources](https://microsoft.github.io/power-platform-resources): Curated Power Platform resources by Power CAT for beginners and learners
+- [Windows on GitHub](https://microsoft.github.io/windows): Windows development samples and repos index for UWP, Win32, and packaging
+- [AI SDK for SAP ABAP](https://microsoft.github.io/aisdkforsapabap/docs/intro): Microsoft AI SDK enabling Azure OpenAI integration for SAP ABAP developers
+- [Bot Framework Solutions](https://microsoft.github.io/botframework-solutions): Bot Framework Solutions for Virtual Assistants and conversational skills
+
+## Infrastructure & Security Tools
+
+- [PSRule - IaC Testing Engine](https://microsoft.github.io/PSRule/v2/about): PSRule rules engine for Infrastructure as Code static analysis and testing
+- [Threat Matrix for Kubernetes](https://microsoft.github.io/Threat-Matrix-for-Kubernetes/about): MITRE ATT&CK-inspired threat matrix for Kubernetes security tactics and TTPs
+- [Kubernetes Security Tactics](https://microsoft.github.io/Threat-Matrix-for-Kubernetes): Kubernetes security tactics matrix covering attack techniques and mitigations
+- [Garnet Cache Store](https://microsoft.github.io/garnet/docs): Garnet remote cache-store from Microsoft Research with Redis RESP protocol
+
+## Research & Formal Methods
+
+- [Z3 Theorem Prover Guide](https://microsoft.github.io/z3guide): Interactive online guide for Z3 theorem prover with browser execution
+- [Z3 Introduction](https://microsoft.github.io/z3guide/docs/logic/intro): Z3 theorem prover introduction with SMTLIB tutorial and logical modeling
+- [Z3 Datatypes](https://microsoft.github.io/z3guide/docs/theories/Datatypes): Z3 algebraic datatypes guide covering records, enums, and recursive types
+
+## Tutorials & Learning Resources
+
+- [Agent Instruction Lab (Beginner)](https://microsoft.github.io/copilot-camp/pages/copilot-instructions/beginner-agent): Beginner lab for improving declarative agent instructions in Copilot
+
+## Optional
+
+- [Bot Framework Solutions FAQ](https://microsoft.github.io/botframework-solutions/help/faq): Bot Framework Virtual Assistant FAQ covering setup, skills, and analytics
+- [Presidio FAQ](https://microsoft.github.io/presidio/faq): Presidio FAQ on PII detection, anonymization, and deployment questions
+- [PSRule FAQ](https://microsoft.github.io/PSRule/v2/faq): PSRule FAQ comparing to Pester and explaining IaC testing capabilities
+- [UFO³ FAQ](https://microsoft.github.io/UFO/faq): UFO³ FAQ covering Galaxy, UFO², Linux agents, and troubleshooting
+- [Git Credential Manager FAQ](https://microsoft.github.io/Git-Credential-Manager-for-Windows/Docs/Faq.html): Git Credential Manager troubleshooting for authentication and configuration
+- [Project Ace FAQ](https://microsoft.github.io/ace/faq): Project Ace FAQ with links to GitHub issues and Twitter support

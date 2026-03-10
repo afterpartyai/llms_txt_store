@@ -1,0 +1,53 @@
+# Vardhaman Deshpande
+
+> > Technical blog by Vardhaman Deshpande focusing on Microsoft 365 Copilot extensibility, Azure OpenAI, SharePoint development, and AI agent development.
+
+This site provides hands-on tutorials and guides for building custom AI agents, extending Microsoft 365 Copilot with Declarative Agents and API plugins, integrating Azure OpenAI services, and developing solutions across the Microsoft 365 ecosystem including SharePoint, Teams, and Power Platform.
+
+## Key Topics
+
+- Microsoft 365 Copilot
+- Declarative Agents
+- Azure OpenAI
+- Copilot Studio
+- SharePoint
+- TypeSpec
+- Agent Development
+- Microsoft 365 Agents SDK
+- OpenAI Assistants API
+- Copilot Retrieval API
+- API Plugins
+- Microsoft Teams
+- TypeScript
+- MSAL Authentication
+- Adaptive Cards
+
+## Microsoft 365 Copilot & Agent Development
+
+- [Getting started: Declarative Agents with TypeSpec for Microsoft 365 Copilot](https://vrdmn.com/2025/10/getting-started-declarative-agents-with.html): TypeSpec-based Declarative Agents for M365 Copilot extensibility
+- [Building an Agent for Microsoft 365 Copilot Chat](https://vrdmn.com/2025/01/building-agent-for-microsoft-365-copilot.html): Getting started with Declarative Agents for M365 Copilot using Teams Toolkit
+- [Building an Agent for Microsoft 365 Copilot: Adding an API plugin](https://vrdmn.com/2025/02/building-agent-for-microsoft-365.html): Tutorial on integrating API plugins into M365 Copilot agents
+- [Custom AI Agents: Use the Copilot Retrieval API for grounding on SharePoint Content](https://vrdmn.com/2025/12/custom-ai-agents-use-copilot-retrieval.html): Using Copilot Retrieval API for permission-trimmed SharePoint grounding
+
+## Azure OpenAI & Assistants API
+
+- [Working with OpenAI Assistants: Create a simple assistant](https://vrdmn.com/2024/10/working-with-openai-assistants-api.html): Creating a SharePoint Tutor assistant with OpenAI Assistants API
+- [Working with OpenAI Assistants: Using file search](https://vrdmn.com/2024/10/working-with-openai-assistants-api_14.html): Implementing RAG with file search in OpenAI Assistants API
+- [Using Microsoft Tokenizer to count Azure OpenAI model tokens](https://vrdmn.com/2023/12/using-microsoft-tokenizer-to-count.html): Guide to counting tokens in Azure OpenAI using Microsoft Tokenizer
+
+## SharePoint Development
+
+- [Getting started with TypeScript, Browserify and Gulp in SharePoint](https://vrdmn.com/2016/07/getting-started-with-typescript.html): TypeScript build workflow with Browserify and Gulp for SharePoint
+- [SharePoint JavaScript Unit Testing with Jasmine](https://vrdmn.com/2012/05/sharepoint-javascript-unit-testing-with.html): Guide to unit testing SharePoint JavaScript with Jasmine framework
+- [SharePoint 2013: Provision AppPart/ClientWebPart to Page](https://vrdmn.com/2013/02/sharepoint-2013provision.html): Declarative provisioning of AppParts to SharePoint 2013 pages
+- [Modify Search Center Settings with JavaScript Client Object Model](https://vrdmn.com/2013/03/modify-search-center-settings-with.html): Configuring SharePoint Search Center using JSOM property bag values
+
+## Microsoft Teams & Office 365
+
+- [Working with Apps for Microsoft Teams meetings](https://vrdmn.com/2022/01/working-with-apps-for-microsoft-teams.html): Building in-meeting dialog apps for Microsoft Teams meetings
+- [Using Office 365 Connectors for Groups in ASP.NET MVC](https://vrdmn.com/2015/11/using-office-365-connectors-for-groups.html): Implementing Office 365 Connectors in ASP.NET MVC applications
+
+## Optional
+
+- [Vardhaman Deshpande - Homepage](https://vrdmn.com): Homepage: Microsoft 365, Azure, and Copilot development blog
+- [OpenGL tutorials](https://vrdmn.com/2008/08/opengl-tutorials.html): Beginner's guide to OpenGL graphics programming with NeHe resources

@@ -1,0 +1,54 @@
+# Jannik Buschke's Developer Blog
+
+> > A software development blog focused on F# functional programming, ASP.NET Core backend architecture, and modern web development with React and Fable.
+
+Jannik Buschke shares practical guides and tutorials on building scalable web applications using CQRS patterns, OData queryable APIs, and F# tooling like Fable and Feliz. The site emphasizes pragmatic architectural patterns and developer productivity tools.
+
+## Key Topics
+
+- F# and Fable
+- ASP.NET Core
+- OData queryable APIs
+- CQRS with MediatR
+- React and SPA development
+- Feliz and Elmish
+- Git Submodules
+- Monorepo architecture
+- Model validation patterns
+- TypeScript
+- Functional programming
+- Fable.Remoting
+- Vite build tooling
+- EnableQuery attribute
+- Repository management
+
+## Getting Started
+
+- [Hi I am Jannik, Welcome to my little corner!](https://jannikbuschke.de): Homepage: Jannik's developer portfolio featuring F#, Event Sourcing, React
+- [Latest Blog Posts](https://jannikbuschke.de/blog2): Blog index: F#, Fable, CQRS, OData, and ASP.NET Core articles
+- [Useful git examples](https://jannikbuschke.de/snippets): Code snippets: Git, C#, F#, SQL Server, Azure DevOps, ASP.NET examples
+
+## F# and Fable Development
+
+- [Getting started with Fable and Feliz](https://jannikbuschke.de/blog2/getting-started-with-fable-and-feliz): Tutorial: Setting up Fable and Feliz with Vite for F# web development
+
+## ASP.NET Core API Patterns
+
+- [Exposing a queryable api with Odata](https://jannikbuschke.de/blog2/odata-getting-started): Getting started: Building queryable APIs with OData and ASP.NET Core
+- [CQRS with MediatR (for Commands) and Odata (for Queries)](https://jannikbuschke.de/blog2/cqrs-with-mediatr-and-odata): Implementation guide: CQRS pattern with MediatR commands and OData queries
+- [Make ASP.NET Core api controller methods queryable with a single attribute](https://jannikbuschke.de/blog2/webapi-enable-query): Tutorial: Using [EnableQuery] attribute for queryable ASP.NET Core APIs
+- [Expose ASP.NET Core validation for SPAs like React, Vue or Angular](https://jannikbuschke.de/blog2/expose-aspnetcore-validation): Guide: Exposing ASP.NET Core validation via HTTP for SPA clients
+
+## Repository and Monorepo Management
+
+- [A (multi-) monorepo setup with Git Submodules](https://jannikbuschke.de/blog2/git-submodules): Tutorial: Managing monorepos with Git Submodules for code sharing
+- [A monorepo setup with lerna](https://jannikbuschke.de/blog2/monorepo-with-lerna-react-and-typescript): Walk-through: Setting up Lerna monorepo with React and TypeScript
+
+## Optional
+
+- [Latest Blog Posts (alternate)](https://jannikbuschke.de/blog): Blog index: Fable, CQRS, OData, ASP.NET Core, and F# development posts
+- [Expose ASP.NET Core validation for SPAs (alternate)](https://jannikbuschke.de/blog/expose-aspnetcore-validation): Guide: Exposing server-side validation to SPAs without duplication
+- [Make ASP.NET Core api controller methods queryable (alternate)](https://jannikbuschke.de/blog/webapi-enable-query): Tutorial: Enable filtering, pagination with [EnableQuery] in ASP.NET Core
+- [Getting started with Fable and Feliz (alternate)](https://jannikbuschke.de/blog/getting-started-with-fable-and-feliz): Beginner guide: F# web development with Fable, Feliz, and Vite
+- [CQRS with MediatR and Odata (alternate)](https://jannikbuschke.de/blog/cqrs-with-mediatr-and-odata): Pragmatic CQRS: Combining MediatR and OData in ASP.NET Core SPAs
+- [A (multi-) monorepo setup with Git Submodules (alternate)](https://jannikbuschke.de/blog/git-submodules): Advanced setup: Multi-monorepo architecture using Git Submodules

@@ -1,0 +1,54 @@
+# Escape - AI-Powered Offensive Security Platform
+
+> > Escape provides AI-powered offensive security tools including Attack Surface Management (ASM), Business Logic DAST, and AI Pentesting for modern APIs and web applications.
+
+Escape specializes in dynamic application security testing (DAST) with a focus on GraphQL, REST APIs, and modern web stacks. The platform integrates with CI/CD pipelines and offers automated vulnerability scanning, business logic testing, and AI-driven remediation for organizations like Visma, Schibsted, and Wiz.
+
+## Key Topics
+
+- DAST (Dynamic Application Security Testing)
+- Attack Surface Management (ASM)
+- API Security
+- GraphQL Security
+- Business Logic Testing
+- AI Pentesting
+- BOLA (Broken Object Level Authorization)
+- DevSecOps
+- CI/CD Integration
+- Vulnerability Scanning
+- Offensive Security
+- Security Automation
+- WebApp Testing
+- Model Context Protocol (MCP)
+
+## Platform Overview
+
+- [Escape: AI-Powered Offensive Security Platform](https://escape.tech): Main homepage for Escape's AI-powered offensive security platform
+- [API Discovery & Business Logic DAST](https://api-discovery.escape.tech): DAST product page focusing on API discovery and business logic testing
+- [Introduction to Escape](https://docs.escape.tech/documentation/introduction/introduction-to-escape): Platform overview explaining ASM, Business Logic DAST, and AI Pentesting
+- [Introduction Section](https://docs.escape.tech/documentation/introduction): Introduction section index with product selection guide
+
+## Documentation
+
+- [Documentation Home](https://docs.escape.tech/documentation): Main documentation index covering ASM, DAST, AI Pentesting, and CLI tools
+- [CLI Configuration](https://docs.escape.tech/documentation/tooling/cli/configuration): Escape CLI configuration guide covering API key authentication and setup
+- [WebApp Testing Performance Tuning](https://docs.escape.tech/documentation/dast/frontend-dast/performance-tuning): WebApp Testing performance optimization guide for scan configuration
+- [WebApp Testing Scope Configuration](https://docs.escape.tech/documentation/dast/frontend-dast/scope): WebApp Testing scope config reference for crawling and API testing rules
+- [HTTP Authentication](https://docs.escape.tech/documentation/platform/authentication/http): HTTP authentication preset reference for structured request handling
+
+## Security Research & Benchmarks
+
+- [DAST Tools Benchmark](https://escape.tech/blog/dast-tools-benchmark): DAST benchmark comparing Escape vs ZAP/Stackhawk on VAmPI and DVGA
+- [DevSecOps 101: Detecting Insecure Source Code](https://escape.tech/blog/devsecops-101-part-2-detecting-insecure-source-code): DevSecOps tutorial on detecting vulnerable Python code using Semgrep
+- [Understanding Access Control Models](https://escape.tech/blog/access-control-models): Educational article explaining RBAC, ABAC, and DAC access control models
+
+## Developer Guides & Best Practices
+
+- [Django Security Best Practices](https://escape.tech/blog/best-django-security-practices): Django security best practices covering XSS, CSRF, and SQL injection
+- [NestJS, Prisma & GraphQL Guide](https://escape.tech/blog/handling-relational-databases-with-nest-js-prisma-and-graphql): Technical guide on implementing GraphQL APIs with NestJS and Prisma ORM
+- [TypeScript Monorepo Setup](https://escape.tech/blog/setup-typescript-monorepo): Guide to configuring TypeScript monorepos with Yarn workspaces
+
+## Blog & Updates
+
+- [The Application Security Blog](https://escape.tech/blog): Blog hub with articles on application security and ASM from Visma/Schibsted
+- [Application Security Blog (Alternative)](https://blog.escape.tech): Blog hub covering API security, GraphQL, pentesting, and product updates

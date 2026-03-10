@@ -1,0 +1,77 @@
+# blog.allegro.tech
+
+> > Allegro's engineering blog covering microservices architecture, JVM technologies (Java, Kotlin), mobile development (iOS, Android, Lynx), AI/ML applications, and large-scale platform engineering.
+
+This is the technical blog of Allegro, one of Europe's largest e-commerce platforms. The blog documents their engineering journey, including their decade-long microservices transformation (Project Rubicon), platform optimization, and adoption of modern technologies across 2000+ services.
+
+## Key Topics
+
+- Microservices Architecture
+- Java & Kotlin (JVM)
+- Gradle & Dependency Management
+- Mobile Development (iOS, Android, Lynx)
+- Domain-Driven Design (DDD)
+- Behavior-Driven Development (BDD)
+- Code Migration & Automation
+- Kubernetes & Platform Engineering
+- AI/ML & LLM Applications
+- Testing & Test Automation
+- Spring Framework (WebFlux, Spring AI)
+- MongoDB & Data Persistence
+- OpenRewrite & Dependabot
+- REST API Design
+- Go & Garbage Collection
+
+## Getting Started
+
+- [Articles | blog.allegro.tech](https://blog.allegro.tech): Homepage of Allegro's tech blog featuring latest posts on testing & dev
+- [about | blog.allegro.tech](https://blog.allegro.tech/about): About Allegro's tech blog: goals, editors, and community focus
+- [blog authors | blog.allegro.tech](https://blog.allegro.tech/authors): Directory of Allegro tech blog authors and contributors
+
+## Microservices & Platform Engineering
+
+- [Ten Years and Counting: My Affair with Microservices](https://blog.allegro.tech/2024/04/ten-years-microservices.html): 10-year retrospective on Project Rubicon: Allegro's microservices transformation
+- [How we saved over 60% of k8s resources in our frontend platform](https://blog.allegro.tech/2024/12/how-we-saved-resources-in-opbox-web.html): Optimizing opbox-web microservice: 60%+ k8s resource reduction journey
+- [Transactions Aren't Enough: The Need For End-To-End Thinking](https://blog.allegro.tech/2025/12/transactions-arent-enough.html): Why ACID transactions alone can't prevent data loss in distributed systems
+- [Migrating a microservice to Spring WebFlux](https://blog.allegro.tech/2019/07/migrating-microservice-to-spring-webflux.html): Production migration from Spring MVC to WebFlux reactive architecture
+- [Persisting application state](https://blog.allegro.tech/2020/06/persisting-application-state.html): Aggregate & repository patterns for state persistence in Spring/MongoDB
+
+## Code Migration & Build Automation
+
+- [Automating Code Migrations at Scale](https://blog.allegro.tech/2024/09/automating-code-migrations-at-scale.html): Using OpenRewrite & Dependabot to automate code migrations across 2000+ services
+- [Popular Gradle mistakes (and how to avoid them)](https://blog.allegro.tech/2024/11/popular-gradle-mistakes-and-how-to-avoid-them.html): Common Gradle configuration mistakes from Allegro Hacktoberfest refactoring
+- [Popular Gradle mistakes (and how to avoid them) - part 2](https://blog.allegro.tech/2025/05/popular-gradle-mistakes-and-how-to-avoid-them-part2.html): Extended Gradle best practices: lazy config, convention plugins & caching
+- [Shrinking the size of a monorepo](https://blog.allegro.tech/2022/01/shrinking-size-of-monorepo.html): Reducing Allegro iOS monorepo size using git-filter-repo & git-sizer
+
+## Mobile Development
+
+- [Battle-testing Lynx at Allegro](https://blog.allegro.tech/2026/02/battle-testing-lynx-js-at-allegro.html): Adopting Lynx framework for cross-platform mobile UI across iOS, Android & Web
+
+## AI & Machine Learning
+
+- [Quickstart: Run an MCP Server on JVM and Integrate with Copilot](https://blog.allegro.tech/2025/12/mcp-server-jvm-copilot-quickstart.html): Guide to running Model Context Protocol server on JVM with Spring AI & Copilot
+- [Taming AI Chaos: A Structured Agent Workflow for Predictable Coding](https://blog.allegro.tech/2025/10/taming-ai-chaos-a-structured-agent-workflow-for-predicable-coding.html): Structured AI agent workflow using GitHub Copilot architect-coder pattern
+- [How to create a synthetic annotator?](https://blog.allegro.tech/2025/03/how-to-create-a-synthetic-annotator.html): Building domain-specific LLM-as-a-Judge for ML model evaluation at Allegro
+- [Turn-Based Offline Reinforcement Learning](https://blog.allegro.tech/2022/04/turn-based-offline-rl.html): Offline RL research collaboration between Allegro ML team & IMPAN Warsaw
+- [AI Between Progress and Responsibility - 3 Lessons from the World AI Summit](https://blog.allegro.tech/2025/11/world-ai-summit-report.html): World AI Summit 2025 Amsterdam: AI ethics, sovereignty & environmental costs
+
+## Testing & Code Quality
+
+- [Make your tests readable by example](https://blog.allegro.tech/2022/02/readable-tests-by-example.html): Improving test readability using BDD & domain-driven design principles
+- [Acceptance testing with JBehave and Gradle](https://blog.allegro.tech/2015/03/acceptance-testing-with-jbehave-and-gradle.html): BDD acceptance testing setup using JBehave framework with Gradle
+- [REST service client: design, testing, monitoring](https://blog.allegro.tech/2024/06/rest-service-client-design-testing-monitoring.html): REST client implementation in Kotlin: WebClient, RestClient, Ktor & Retrofit
+
+## JVM & Backend Development
+
+- [Asynchronous REST Services with JAX-RS and CompletableFuture](https://blog.allegro.tech/2014/10/async-rest.html): Building scalable async REST services with JAX-RS 2.0 & Java 8 features
+- [Grouping and organizing Java classes](https://blog.allegro.tech/2019/12/grouping-and-organizing-classes.html): Java project organization using Clean Architecture & DDD principles
+- [How the Garbage Collector Works in Go and How It Affects Your Programs](https://blog.allegro.tech/2025/08/how-garbage-collector-works-in-go-and-how-it-affects-your-programs.html): Deep dive into Go GC internals and performance optimization techniques
+- [OAuth rate-limiting](https://blog.allegro.tech/2021/11/oauth-rate-limiting.html): Implementing rate-limiting for OAuth traffic control at Allegro scale
+
+## Optional
+
+- [Tired of repetitive tasks?! Go for RPA!](https://blog.allegro.tech/2024/02/rpa.html): Robotic Process Automation at Allegro using UiPath for task automation
+- [How to get back to programming after a more than 1.5 year gap](https://blog.allegro.tech/2024/08/how-to-come-back-to-programming.html): Personal experience returning to programming after 21-month maternity leave
+- [JavaZone 2025 report](https://blog.allegro.tech/2025/09/javazone-report.html): JavaZone 2025 conference report: Oslo developer-focused event summary
+- [blog.allegro.tech | Welcome to our technology blog...](https://blog.allegro.tech/tag): Tag archive page showing MongoDB composite indexes article
+- [Page 3 of 11 for Articles - page 3](https://blog.allegro.tech/posts/3): Blog archive page 3: neuroscience, MongoDB, Kubernetes & architecture posts

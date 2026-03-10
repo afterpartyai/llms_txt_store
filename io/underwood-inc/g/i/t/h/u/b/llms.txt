@@ -1,0 +1,36 @@
+# Idling.app Documentation
+
+> > Developer documentation for Idling.app, a TypeScript/React/Next.js application with comprehensive tooling, utilities, and API integration guides.
+
+This documentation covers the development environment, shared libraries, utility functions, and API integration patterns for Idling.app. It includes setup guides for Docker, Git, and Next.js, along with testing frameworks like Jest, Playwright, and React Testing Library.
+
+## Key Topics
+
+- Idling.app
+- TypeScript
+- React & Next.js
+- Docker containerization
+- JWT authentication
+- Redis caching
+- API documentation templates
+- Development tooling (ESLint, Prettier, Husky)
+- Testing frameworks (Jest, Playwright, RTL, MSW)
+- Performance optimization (Lighthouse, Bundle Analyzer)
+- Debugging tools (Chrome DevTools, React Profiler)
+- Shared utilities & React hooks
+- REST, GraphQL & WebSocket APIs
+- Rate limiting & core services
+- Developer workflow automation
+
+## Core Libraries & Services
+
+- [Libraries Overview](https://underwood-inc.github.io/idling.app__UI/lib): Shared React utilities, JWT auth, Redis caching, and core services overview
+- [Utility Functions](https://underwood-inc.github.io/idling.app__UI/lib/utils): Modular TypeScript utility functions for arrays, text, and system helpers
+
+## Development Environment & Tools
+
+- [Development Tools](https://underwood-inc.github.io/idling.app__UI/lib/tools): Setup guide for Docker, Git, Next.js dev environment and debugging tools
+
+## API Integration & Templates
+
+- [API & Integration Documentation Templates](https://underwood-inc.github.io/idling.app__UI/templates/api-integration): Templates for REST, GraphQL, and WebSocket API endpoint documentation

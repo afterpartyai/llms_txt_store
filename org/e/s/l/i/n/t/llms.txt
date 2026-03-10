@@ -1,0 +1,60 @@
+# ESLint
+
+> > ESLint is a pluggable JavaScript and CSS linter that helps developers find and fix code quality issues through static analysis.
+
+ESLint was created by Nicholas C. Zakas and supports modern JavaScript (ECMAScript), TypeScript, and now CSS. It runs on Node.js and integrates with package managers like npm, yarn, pnpm, and bun through a flexible plugin architecture.
+
+## Key Topics
+
+- JavaScript linting
+- Static analysis
+- Code quality
+- Pluggable architecture
+- Configuration (eslint.config.js)
+- Rules and rule development
+- Plugin development
+- Node.js integration
+- Command-line interface (CLI)
+- TypeScript support
+- CSS linting
+- Shareable configs
+- ECMAScript standards
+- npm/yarn/pnpm/bun tooling
+- Open source project
+
+## Getting Started
+
+- [ESLint Homepage](https://eslint.org): ESLint homepage: pluggable JavaScript linter for code quality analysis
+- [Documentation Hub](https://eslint.org/docs/latest): Documentation overview for using, extending, and integrating ESLint
+- [Getting Started Guide](https://eslint.org/docs/latest/use/getting-started): Installation and setup guide for ESLint with Node.js and npm/yarn/pnpm
+- [Core Concepts](https://eslint.org/docs/latest/use/core-concepts): Overview of ESLint rules, configs, plugins, and shareable configurations
+- [About ESLint](https://eslint.org/docs/latest/about): About ESLint: history, philosophy, and open source JavaScript linting
+
+## Configuration and Usage
+
+- [Use ESLint in Your Project](https://eslint.org/docs/latest/use): End-user guide covering setup, configuration, and migration
+- [Configure ESLint](https://eslint.org/docs/latest/use/configure): Guide to configuring ESLint with config files and inline comments
+- [Command Line Interface Reference](https://eslint.org/docs/latest/use/command-line-interface): CLI reference for running ESLint with npx, npm, yarn, pnpm, and bun
+
+## Rules Reference
+
+- [Rules Reference](https://eslint.org/docs/latest/rules): Complete reference of ESLint rules with fixable and recommended flags
+
+## Extension and Integration
+
+- [Custom Rule Tutorial](https://eslint.org/docs/latest/extend/custom-rule-tutorial): Tutorial for creating and distributing custom ESLint rules with plugins
+- [Integrate ESLint](https://eslint.org/docs/latest/integrate): Guide to integrating ESLint using the Node.js API programmatically
+
+## News and Updates
+
+- [ESLint CSS Support Announcement](https://eslint.org/blog/2025/02/eslint-css-support): Announcement: ESLint adds CSS linting support via @eslint/css plugin
+
+## Community and Support
+
+- [Donate to ESLint](https://eslint.org/donate): Donation options via Open Collective, GitHub, and PayPal for ESLint
+
+## Optional
+
+- [Archived About Page](https://archive.eslint.org/docs/about): Archived about page detailing ESLint history by Nicholas C. Zakas
+- [Archived Team Page](https://archive.eslint.org/team): Archived team page listing TSC members and reviewers
+- [Jenkins CI Dashboard](https://jenkins2.eslint.org): Jenkins CI/CD dashboard for ESLint project automation and builds

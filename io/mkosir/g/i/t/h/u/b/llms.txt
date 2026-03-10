@@ -1,0 +1,36 @@
+# Marian Košir's Development Resources
+
+> > A collection of TypeScript and React development resources including boilerplates, style guides, and component libraries with focus on type safety and modern tooling.
+
+This site showcases production-ready TypeScript projects and best practices, featuring tRPC frontend boilerplates, comprehensive style guides with ESLint/Prettier configurations, and React component libraries. The resources emphasize type-safe development patterns, code organization, and modern frontend tooling including Vitest, Playwright, and Storybook.
+
+## Key Topics
+
+- tRPC
+- TypeScript
+- React
+- ESLint
+- Prettier
+- Type Safety
+- Frontend Boilerplate
+- Code Conventions
+- Best Practices
+- Storybook
+- Vitest
+- Playwright
+- Code Organization
+- Immutability
+- Naming Conventions
+
+## TypeScript Development Guides
+
+- [TypeScript Style Guide](https://mkosir.github.io/typescript-style-guide): Comprehensive TypeScript conventions & best practices guide with ESLint/Prettier setup, covering type safety, immutability, and code organization patterns
+
+## Frontend Boilerplates & Applications
+
+- [tRPC Frontend Boilerplate - Home](https://mkosir.github.io/trpc-fe-boilerplate-next): Main homepage for tRPC Frontend Boilerplate with Next.js, featuring database seeding functionality and type-safe API integration
+- [tRPC Frontend Boilerplate - Users](https://mkosir.github.io/trpc-fe-boilerplate-next/users): Users management page demonstrating tRPC implementation patterns in a full-stack TypeScript application
+
+## Component Libraries & Documentation
+
+- [React Parallax Tilt - Storybook](https://mkosir.github.io/react-parallax-tilt/iframe.html): Interactive Storybook component preview for react-parallax-tilt library showcasing React component documentation and testing

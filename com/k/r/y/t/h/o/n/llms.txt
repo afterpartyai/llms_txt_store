@@ -1,0 +1,69 @@
+# Krython
+
+> > Technology insights and development guides covering Python, TypeScript, React, cloud infrastructure, and DevOps practices.
+
+Krython provides comprehensive tutorials and guides for modern software development, focusing on Python and TypeScript ecosystems, cloud platforms (AWS, Azure), containerization (Docker, Kubernetes), monitoring solutions (Prometheus, Grafana), and Linux system administration (AlmaLinux, Alpine Linux). The site serves developers from beginner to advanced levels with practical, production-ready examples.
+
+## Key Topics
+
+- Python
+- TypeScript
+- React
+- Docker
+- Kubernetes
+- AlmaLinux
+- Alpine Linux
+- Prometheus & Grafana
+- AWS & Azure
+- DevOps & CI/CD
+- Ansible
+- PostgreSQL & MySQL
+- asyncio & concurrency
+- System administration
+- ELK Stack
+
+## Getting Started
+
+- [Krython - Technology Insights & Development Guides](https://krython.com): Homepage: TypeScript, React, Node.js, Python tutorials & dev community
+- [About Krython](https://krython.com/about): About page: mission, tech stack (Node.js, Python, TypeScript, Linux)
+- [Tutorials Hub](https://krython.com/tutorials): Main tutorials hub: Python, TypeScript, cloud, DevOps, monitoring guides
+
+## Python Tutorials
+
+- [Installing Python: Setup Guide for All Operating Systems](https://krython.com/tutorial/python/installing-python-setup-guide-for-all-operating-systems): Python installation guide for Windows, macOS & Linux beginners
+- [Asyncio Patterns: Gather and Wait](https://krython.com/tutorial/python/asyncio-patterns-gather-and-wait): Python asyncio patterns: gather() and wait() concurrent programming
+- [Immutability: Functional Data Handling](https://krython.com/tutorial/python/immutability-functional-data-handling): Python immutability & functional data handling with dataclasses
+- [Benchmarking: Performance Testing](https://krython.com/tutorial/python/benchmarking-performance-testing): Python benchmarking & performance testing optimization guide
+- [Socket Programming: TCP/IP Basics](https://krython.com/tutorial/python/socket-programming-tcp-ip-basics): Python socket programming: TCP/IP client-server network basics
+- [Senior Project: Production-Ready Application](https://krython.com/tutorial/python/senior-project-production-ready-application): Python senior project: production-ready app architecture tutorial
+
+## TypeScript & React Tutorials
+
+- [TypeScript with React: Complete Integration Guide](https://krython.com/tutorial/typescript/typescript-with-react-complete-integration-guide): TypeScript + React integration: type-safe components & hooks guide
+- [React Router with TypeScript: Type-Safe Routing](https://krython.com/tutorial/typescript/react-router-with-typescript-type-safe-routing): React Router with TypeScript: type-safe navigation & routing guide
+
+## DevOps & Infrastructure
+
+- [CI/CD Pipelines: Automated Deployment](https://krython.com/tutorial/python/ci-cd-pipelines-automated-deployment): Python CI/CD pipelines with GitHub Actions automated deployment
+- [Monitoring: Prometheus and Grafana](https://krython.com/tutorial/python/monitoring-prometheus-and-grafana): Python app monitoring with Prometheus & Grafana metrics setup
+- [Tutorials - Page 2](https://krython.com/tutorials/2): Tutorials page 2: AWS SDK, Terraform, Ansible, CI/CD, Kubernetes
+
+## Linux System Administration
+
+- [How to Update AlmaLinux: Complete Package Update Guide](https://krython.com/post/how-to-update-almalinux-complete-package-update-guide): AlmaLinux update guide: DNF package manager & security patches
+- [AlmaLinux Log Management: Complete System Monitoring Guide](https://krython.com/post/almalinux-log-management-system-monitoring-guide): AlmaLinux log management: rsyslog, journald & logrotate guide
+- [Adding Alpine Linux Community Repository](https://krython.com/post/adding-alpine-linux-community-repository): Alpine Linux community repository setup guide for beginners
+- [Configuring System Log Files in Alpine Linux](https://krython.com/post/configuring-system-log-files-alpine-linux): Alpine Linux syslog configuration & log rotation management guide
+- [Configuring Network Firewall Rules](https://krython.com/post/configuring-network-firewall-rules): Alpine Linux firewall setup with iptables for beginners
+- [Installing Text Editors in Alpine Linux](https://krython.com/post/installing-text-editors-in-alpine-linux): Alpine Linux text editor installation: Nano, Vim, Emacs, Micro
+- [Fixing Alpine Linux Graphics Issues](https://krython.com/post/fixing-alpine-linux-graphics-issues): Alpine Linux graphics driver installation & troubleshooting guide
+- [Installing Graphics Drivers](https://krython.com/post/installing-graphics-drivers): Alpine Linux graphics driver installation for Intel graphics
+
+## Optional
+
+- [Tutorials - Page 5](https://krython.com/tutorials/5): Python & TypeScript tutorials page 5, covering InfluxDB & SQL topics
+- [Tutorials - Page 25](https://krython.com/tutorials/25): Python tutorials page 25 on concurrency, GIL, and parallel execution
+- [Tutorials - Page 85](https://krython.com/tutorials/85): Python & TypeScript programming tutorials listing page 85
+- [Blog - Page 2](https://krython.com/blog/2): Blog page 2: AlmaLinux, GitLab, Kubernetes, high availability guides
+- [Blog - Page 3](https://krython.com/blog/3): Blog page 3: AlmaLinux, ELK Stack, DevOps, monitoring articles
+- [Blog - Page 23](https://krython.com/blog/23): Blog page 23: ModSecurity, OWASP, Python deployment, load testing

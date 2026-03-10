@@ -1,0 +1,31 @@
+# usehooks-ts
+
+> > A modern, tree-shakable TypeScript library of custom React hooks with full SSR support and type safety.
+
+usehooks-ts provides production-ready React hooks built with TypeScript, offering utilities for event handling, window management, debouncing, and more. The library is lightweight, fully typed, and designed for modern React applications with server-side rendering compatibility.
+
+## Key Topics
+
+- React hooks
+- TypeScript
+- Custom hooks
+- Tree-shakable
+- Type-safe
+- SSR support
+- useEventCallback
+- useIsomorphicLayoutEffect
+- useWindowSize
+- useDebounceCallback
+- useEventListener
+- Memoization
+- Event handlers
+- Open source
+
+## Getting Started
+
+- [usehooks-ts](https://usehooks-ts.com): TypeScript React hooks library homepage with features and documentation
+
+## Hook Reference
+
+- [useEventCallback](https://usehooks-ts.com/react-hook/use-event-callback): useEventCallback hook API reference for memoized event callbacks
+- [useWindowSize](https://usehooks-ts.com/react-hook/use-window-size): useWindowSize hook API reference for tracking window dimensions

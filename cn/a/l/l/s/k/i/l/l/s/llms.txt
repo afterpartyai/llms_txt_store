@@ -1,0 +1,83 @@
+# AllSkills
+
+> > Curated directory of 500+ Claude AI skills from Anthropic, featuring ready-to-use prompt templates for development, design, writing, security, and automation workflows.
+
+AllSkills is a comprehensive catalog of Claude Code skills across 8 categories, offering both a browsable directory and tools like the Skill Generator to help users discover, copy, and create custom AI skills. The platform supports multiple languages (English, Chinese, German) and provides tutorials on skill development, MCP server building, and integration with tools like Composio for workflow automation.
+
+## Key Topics
+
+- Claude AI & Claude Code
+- Anthropic Skills Library
+- Prompt Engineering & Templates
+- Skill Development (YAML/Markdown)
+- MCP (Model Context Protocol)
+- Workflow Automation & Composio
+- Python Development & Package Management
+- Smart Contract Security (Trail of Bits, Slither)
+- Frontend Design & React
+- Internal Communications Templates
+- API Design & Backend Patterns
+- Scientific Writing & IMRAD
+- Marketing Copy & SEO Tools
+- Obsidian Markdown Syntax
+- GitHub Actions CI/CD
+
+## Core Directory & Tools
+
+- [AllSkills Homepage (English)](https://allskills.cn/en): Main directory: Discover, browse & create 500+ Claude Skills across 8 categories
+- [AllSkills Homepage (Chinese)](https://allskills.cn): 中文主页：发现、浏览与创建 500+ Claude Skills
+- [AllSkills Homepage (German)](https://allskills.cn/de): Deutsche Startseite: 500+ Anthropic Skills entdecken und durchsuchen
+- [Skills Directory (English)](https://allskills.cn/en/skills): Full catalog: 500+ Claude AI skills for design, dev, writing - search & copy
+- [Skills Directory (Chinese)](https://allskills.cn/skills): 完整目录：500+ AI 技能一键复制
+- [Browse by Category](https://allskills.cn/en/collections): Browse 500+ Claude AI skills across 8 categories (Design, Dev, Writing, etc.)
+- [Trending Skills](https://allskills.cn/en/trending): Real-time trending skills: AI SDK, Python optimization, RAG, API design
+- [Skill Generator Tool](https://allskills.cn/tools/skill-generator): Free AI tool to generate Claude Code SKILL.md files from descriptions
+
+## Skill Development Guides
+
+- [Skill Creator Guide](https://allskills.cn/en/skills/skill-creator): Guide for creating effective Claude skills with YAML/Markdown structure
+- [Claude Code Skill Development](https://allskills.cn/en/skills/claude-code-skill-development): Claude Code plugin skill development: structure, progressive disclosure, YAML
+- [Writing Skills (TDD Approach)](https://allskills.cn/en/skills/superpowers-writing-skills): TDD approach to skill creation: test-driven documentation for Claude/Codex
+- [Dify Skill Creator](https://allskills.cn/en/skills/dify-skill-creator): Dify-specific skill creator guide with progressive disclosure patterns
+- [MCP Server Builder](https://allskills.cn/en/skills/mcp-builder): MCP server development guide: FastMCP (Python) & MCP SDK (TypeScript)
+- [Quick Start Tutorial](https://allskills.cn/en/blog/skill-usage-quickstart): Beginner guide: 3 steps to copy, paste & use Claude Skills effectively
+
+## Development & Engineering Skills
+
+- [Frontend Design](https://allskills.cn/en/skills/frontend-design): Production-grade frontend UI with React/HTML/CSS avoiding generic AI aesthetics
+- [.NET Backend Patterns](https://allskills.cn/en/skills/agents-dotnet-backend-patterns): C#/.NET backend patterns: async/await, DI, EF Core, Dapper, Clean Architecture
+- [UV Package Manager](https://allskills.cn/en/skills/agents-uv-package-manager): UV package manager (Rust-based): fast Python dependency management & virtualenvs
+- [Composio Connect (Claude)](https://allskills.cn/en/skills/composio-connect): Claude integration: Automate actions across Gmail, Slack, GitHub via Composio
+- [Codex Connect](https://allskills.cn/en/skills/codex-connect): Codex integration: Connect to Gmail, Slack, GitHub, Notion via Composio (1000+ apps)
+- [GitHub CI Fix Assistant](https://allskills.cn/en/landing/gh-fix-ci): Codex skill: Auto-diagnose GitHub Actions CI failures with gh CLI
+
+## Security & Smart Contracts
+
+- [Secure Workflow Guide (English)](https://allskills.cn/en/skills/security-secure-workflow-guide): Trail of Bits 5-step security workflow: Slither scans, ERC checks, fuzzing
+- [Secure Workflow Guide (Chinese)](https://allskills.cn/skills/security-secure-workflow-guide): Trail of Bits 安全工作流：Slither 智能合约扫描
+- [Secure Workflow Guide (German)](https://allskills.cn/de/skills/security-secure-workflow-guide): Trail of Bits Sicherheits-Workflow mit Slither
+- [OSS-Fuzz Integration](https://allskills.cn/en/skills/security-ossfuzz): OSS-Fuzz by Google: continuous fuzz testing infrastructure & Docker setup
+- [Ask Questions If Underspecified](https://allskills.cn/en/skills/security-ask-questions-if-underspecified): Security skill: Clarify underspecified requirements before implementation
+
+## Writing & Communication Skills
+
+- [Scientific Writing](https://allskills.cn/en/skills/scientific-scientific-writing): Scientific manuscript writing with IMRAD structure, citations (APA/AMA), CONSORT
+- [Marketing Copywriting](https://allskills.cn/en/skills/marketingskills-copywriting): Marketing copy for landing pages, pricing, features with conversion focus
+- [Internal Communications (English)](https://allskills.cn/en/skills/composio-internal-comms): Composio internal comms templates: status reports, newsletters, FAQs, incidents
+- [Internal Communications (Chinese)](https://allskills.cn/skills/awesome-internal-comms): 内部沟通模板：状态更新、新闻通讯、常见问题
+- [Obsidian Markdown (English)](https://allskills.cn/en/skills/obsidian-markdown): Obsidian Markdown syntax: wikilinks, callouts, properties, embeds, LaTeX
+- [Obsidian Markdown (German)](https://allskills.cn/de/skills/obsidian-markdown): Obsidian Markdown-Syntax: Wikilinks, Callouts, Frontmatter, Embeds
+
+## Tutorials & Blog
+
+- [Tutorials & Guides](https://allskills.cn/en/blog): Tutorials on Anthropic Skills Library, Cowork, Changelog Generator workflows
+
+## Optional
+
+- [Risk Metrics Calculation](https://allskills.cn/en/skills/agents-risk-metrics-calculation): Portfolio risk metrics: VaR, CVaR, Sharpe, Sortino, drawdown with Python/NumPy
+- [Web Asset Generator](https://allskills.cn/en/skills/web-asset-generator): Generate favicons, PWA icons, Open Graph images for social media platforms
+- [Canvas Design](https://allskills.cn/en/skills/canvas-design): Create visual art (posters, designs) in PNG/PDF using design philosophy
+- [Startup Metrics Framework](https://allskills.cn/en/skills/agents-startup-metrics-framework): SaaS metrics framework: CAC, LTV, MRR, ARR, burn multiple, Rule of 40
+- [Free Tool Strategy](https://allskills.cn/en/skills/marketingskills-free-tool-strategy): Engineering as marketing: build free tools for lead gen, SEO, brand awareness
+- [Internal Comms (skills-main)](https://allskills.cn/skills/skills-main-internal-comms): 内部通讯模板（skills-main 仓库）
+- [Internal Comms (Alternative)](https://allskills.cn/skills/internal-comms): 内部通讯模板（3P 更新、新闻通讯、常见问题）

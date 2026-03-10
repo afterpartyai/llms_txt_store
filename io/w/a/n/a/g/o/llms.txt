@@ -1,0 +1,74 @@
+# Wanago.io
+
+> > JavaScript and TypeScript web development tutorials covering NestJS, Express, React, TypeORM, and modern backend architecture by Marcin Wanago.
+
+Wanago.io is a comprehensive technical blog featuring in-depth tutorial series on building APIs with NestJS and Express, database integration with TypeORM/Prisma/Drizzle, authentication patterns, testing strategies, and full-stack JavaScript development. The site also offers private online courses for JavaScript and TypeScript developers.
+
+## Key Topics
+
+- NestJS
+- TypeScript
+- Express
+- TypeORM
+- PostgreSQL
+- React
+- API Development
+- JavaScript Testing
+- Database Relationships
+- JWT Authentication
+- Prisma ORM
+- Drizzle ORM
+- MongoDB & Mongoose
+- Web Scraping
+- Server-Side Rendering
+
+## Getting Started
+
+- [Homepage](https://wanago.io): JavaScript blog covering NestJS, Express, TypeScript, and more
+- [Teaching & Private Courses](https://wanago.io/teaching): Private lessons for frontend/backend JavaScript and TypeScript
+- [Dev Portal](https://dev.wanago.io): NestJS tutorials with PostgreSQL, Kysely, and Prisma
+
+## NestJS API Development
+
+- [Introduction to Drizzle ORM with PostgreSQL](https://wanago.io/2024/05/20/api-nestjs-drizzle-orm-postgresql): Setup NestJS with Drizzle ORM: CRUD operations and SQL migrations
+- [Many-to-many relationships with Drizzle ORM](https://wanago.io/2024/06/24/api-nestjs-many-to-many-drizzle-postgresql): Implement many-to-many relationships using NestJS, Drizzle ORM, PostgreSQL
+- [What's new in Express 5?](https://wanago.io/2025/02/10/api-nestjs-express-5): Express 5 changes and their impact on NestJS projects explained
+- [Integration tests with Prisma](https://dev.wanago.io/2023/04/10/api-nestjs-prisma-integration-tests): Writing integration tests for NestJS APIs using Prisma ORM
+
+## TypeScript Express Tutorial Series
+
+- [TypeScript Express Tutorial Archives](https://wanago.io/courses/typescript-express-tutorial): TypeScript Express series: RESTful API with MongoDB and JWT auth
+- [MongoDB relationships between documents](https://wanago.io/2018/12/31/mongodb-relationships-documents-typescript-express-tutorial-5): MongoDB document relationships in TypeScript Express with Mongoose
+- [TypeORM Migrations with Postgres](https://wanago.io/2019/01/28/typeorm-migrations-postgres): TypeORM migrations with PostgreSQL: CLI and auto-generation guide
+- [Code optimization with Mongoose Lean Queries](https://wanago.io/2020/04/20/typescript-express-tutorial-code-optimization-mongoose-lean): Optimize MongoDB queries with Mongoose Lean for better performance
+
+## Database & ORM Guides
+
+- [Database normalization with TypeORM and PostgreSQL](https://dev.wanago.io/2021/11/22/database-normalization-typeorm-postgresql): Database normalization explained with TypeORM and PostgreSQL examples
+
+## JavaScript Testing
+
+- [JavaScript Testing Tutorial Archives](https://dev.wanago.io/courses/javascript-testing-tutorial): JavaScript testing series: Jest, Enzyme, React testing fundamentals
+- [Mocking a REST API with Mock Service Worker](https://wanago.io/2022/08/01/javascript-testing-rest-api-mock-service-worker): Mock Service Worker for REST API testing in browser and Node.js
+
+## React & Frontend Development
+
+- [React SSR with Next.js - Concept & Routing](https://wanago.io/2019/05/27/react-ssr-with-next-js-concept-of-server-side-rendering-routing): Next.js server-side rendering concepts and routing basics explained
+- [React SSR with Next.js (Dev Portal)](https://dev.wanago.io/2019/05/27/react-ssr-with-next-js-concept-of-server-side-rendering-routing): Next.js SSR fundamentals: routing, SEO benefits, isomorphic apps
+
+## Web Scraping & Tooling
+
+- [Web Scraping with Playwright](https://wanago.io/2025/02/24/web-scraping-playwright): Web scraping dynamic JavaScript sites using Playwright browser automation
+- [Beginner's guide to Web Scraping with Cheerio](https://wanago.io/2025/02/17/cheerio-web-scraping): Cheerio basics for web scraping and HTML parsing with jQuery-like syntax
+- [Monorepos with Yarn Workspaces](https://wanago.io/2024/03/11/yarn-workspaces-monorepo): Monorepo setup with Yarn Workspaces for dependency management
+- [Regex course - part one](https://wanago.io/2018/04/30/regex-course-part-one-basic-concepts): Regex tutorial part 1: Basic concepts and pattern matching in JavaScript
+- [Keeping your dependencies in order with NPM](https://wanago.io/2018/05/21/keeping-your-dependencies-in-order-when-using-npm): NPM dependency management and semantic versioning best practices
+
+## Optional
+
+- [Blog Archive - Page 15](https://wanago.io/page/15): Blog archive page 15: k6 performance testing, PostgreSQL, MikroORM
+- [Blog Archive - Page 17](https://wanago.io/page/17): Blog archive page 17: NestJS OpenAPI/Swagger, React Web Vitals, monorepo
+- [Blog Archive - Page 26](https://wanago.io/page/26): Blog archive page 26: NestJS authentication with bcrypt, Passport, JWT
+- [Blog Archive - Page 28](https://wanago.io/page/28): Blog archive page 28: Cypress testing, TypeScript decorators, React hooks
+- [Blog Archive - Page 30](https://wanago.io/page/30): Blog archive page 30: Map/WeakMap, Web Components, performance topics
+- [Blog Archive - Page 33](https://wanago.io/page/33): Blog archive page 33: TypeScript Express with Postgres and TypeORM

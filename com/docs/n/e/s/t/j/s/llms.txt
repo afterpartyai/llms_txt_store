@@ -1,0 +1,39 @@
+# NestJS Documentation
+
+> > Official documentation for NestJS, a progressive Node.js framework for building efficient, scalable server-side applications with TypeScript.
+
+NestJS is created by Kamil Myśliwiec and combines elements from Angular, React, and Vue to provide an opinionated architecture for Node.js applications. It supports both Express and Fastify as underlying HTTP platforms and leverages TypeScript, dependency injection, and decorators for enterprise-grade development.
+
+## Key Topics
+
+- Node.js
+- TypeScript
+- NestJS framework
+- Dependency injection
+- Express and Fastify
+- Nest CLI
+- Architecture patterns
+- Server-side applications
+- Decorators and metadata (reflect-metadata)
+- Enterprise services
+- Framework overview
+- Getting started
+- Circular dependencies
+- RxJS observables
+
+## Getting Started
+
+- [Documentation | NestJS - A progressive Node.js framework](https://docs.nestjs.com): Main documentation homepage for NestJS Node.js/TypeScript framework
+
+## Core Concepts
+
+- [Circular dependency | NestJS - A progressive Node.js framework](https://docs.nestjs.com/fundamentals/circular-dependency): Guide to resolving circular dependencies using forwardRef and ModuleRef
+
+## Enterprise & Support
+
+- [Enterprise | NestJS - A progressive Node.js framework](https://docs.nestjs.com/enterprise): Enterprise consulting, support, and team augmentation services for NestJS
+
+## Optional
+
+- [Documentation | NestJS - A progressive Node.js web framework (v5)](https://docs.nestjs.com/v5): Version 5 documentation for NestJS framework with TypeScript/Express
+- [Documentation | Nest - A progressive Node.js web framework (v4)](https://docs.nestjs.com/v4): Version 4 documentation for Nest framework with TypeScript/Express

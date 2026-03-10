@@ -1,0 +1,59 @@
+# polvara.me
+
+> > Giorgio Polvara's web development blog focusing on React Testing Library, TypeScript, and modern JavaScript testing patterns.
+
+This site features practical guides and opinions on frontend development, with deep expertise in React Testing Library, type-safe development with TypeScript and Zod, and engineering best practices for building maintainable applications.
+
+## Key Topics
+
+- React Testing Library
+- Testing Library
+- TypeScript
+- React
+- Jest
+- Zod
+- React Query
+- React Hooks
+- JavaScript
+- Component Testing
+- Data Fetching
+- Technical Debt
+- Code Style
+- Kent C. Dodds
+- Software Engineering Best Practices
+
+## Start Here
+
+- [polvara.me](https://polvara.me): Homepage of Giorgio Polvara, web developer writing about TypeScript & React
+- [My Tech Stack](https://polvara.me/tech-stack): Current tech stack including Jest, Vitest, and Testing Library choices
+
+## React Testing Library Guides
+
+- [Five Things You (Probably) Didn't Know About Testing Library](https://polvara.me/posts/five-things-you-didnt-know-about-testing-library): Advanced Testing Library tips: DOM nodes, debug, within, and matchers
+- [Testing Library Cheatsheet](https://polvara.me/posts/RTL-cheatsheet): Quick reference cheatsheet for Testing Library methods and patterns
+- [How to Test Asynchronous Methods with React Testing Library](https://polvara.me/posts/how-to-test-asynchronous-methods): Testing async methods in componentDidMount with React Testing Library
+- [Mocking Context with React Testing Library](https://polvara.me/posts/mocking-context-with-react-testing-library): Testing React Context without jest.mock using wrapper pattern
+- [Testing a Custom Select with React Testing Library](https://polvara.me/posts/testing-a-custom-select-with-react-testing-library): Testing react-select, Material-UI, and Ant Design custom select components
+- [My Approach When It Comes to Testing](https://polvara.me/posts/my-approach-when-it-comes-to-testing): Testing philosophy using React Testing Library and manual testing approach
+
+## TypeScript & React Patterns
+
+- [Effective Query Functions for React Query with Zod](https://polvara.me/posts/effective-query-functions-for-react-query-with-zod): Type-safe React Query functions with Zod schema validation patterns
+- [Fetching Asynchronous Data with React Hooks](https://polvara.me/posts/fetching-asynchronous-data-with-react-hooks): Using useAsync hook from react-use for async data fetching patterns
+- [JavaScript Function Composition](https://polvara.me/posts/javascript-function-composition): Functional programming journey from jQuery spaghetti to ES6 composition
+- [The Five Primary UX States](https://polvara.me/posts/primary-ux-states): Essential UX states: loading, error, empty, partial, and ideal states
+
+## Engineering & Team Practices
+
+- [The downfall of a software company](https://polvara.me/posts/The+downfall+of+a+software+company): How startups decline when technical debt overtakes development speed
+- [Take decisions for the junior developer you haven't hired yet](https://polvara.me/posts/Take+decisions+for+the+junior+developer+you+haven): Engineering decisions should use ESLint automation for future team members
+- [How to deprecate a component](https://polvara.me/posts/How+to+deprecate+a+component): Strategy for deprecating components in long-lived codebases with migration
+- [How to Start with Open Source](https://polvara.me/posts/how-to-start-with-open-source): Hacktoberfest Barcelona guide to first open-source contributions
+
+## Optional
+
+- [My ChatGPT Configuration](https://polvara.me/posts/My+ChatGPT+Configuration): ChatGPT custom instructions for debugging TypeScript and developer workflow
+- [What Similarweb's Data Tells Us About the AI Market Today](https://polvara.me/posts/what-similarwebs-data-tells-us-about-the-ai-market-today): Similarweb data shows AI tools like Cursor and v0 losing traffic dramatically
+- [On the switch true pattern](https://polvara.me/posts/On+the+switch+true+pattern+0f050a03896245dc9b697d8e15e278c6): Opinion on JavaScript switch-true pattern vs traditional if statements
+- [Creating an Array Containing Values 1 to N in JavaScript](https://polvara.me/posts/create-an-array-containing-1-to-N-in-JS): Array.from() method for generating sequential arrays in JavaScript
+- [An Introduction to Hedge Funds for Developers](https://polvara.me/posts/hedge-funds-for-developers): Fundbase developer explains hedge fund basics for technical audience

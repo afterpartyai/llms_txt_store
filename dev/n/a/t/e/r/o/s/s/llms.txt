@@ -1,0 +1,66 @@
+# nateross.dev
+
+> > Personal site of Nate Ross, Staff Engineer at Bambee specializing in AI systems, full-stack development with TypeScript/React/Node.js, and production AI applications.
+
+This site features in-depth technical tutorials on AI development (OpenAI, RAG, prompt engineering), modern web development (NestJS, Next.js, TypeScript), and practical guides for building production systems. Nate shares insights from implementing AI systems at Bambee and working across the full stack with React, Node.js, Python, and AWS.
+
+## Key Topics
+
+- AI Systems & RAG Architecture
+- OpenAI & Claude Code
+- TypeScript & React Development
+- NestJS & Node.js Backend
+- Prompt Engineering & Agentic AI
+- Full-Stack Development
+- Python for JavaScript Developers
+- Next.js & Modern Web Apps
+- AWS & Docker Deployment
+- DSPy Framework
+- Vector Databases & Embeddings
+- Function Calling & Structured Output
+- WebAssembly & Rust
+- SOLID Principles & Design Patterns
+- Production AI Applications
+
+## About & Portfolio
+
+- [Home](https://nateross.dev): Homepage for Nate Ross, Staff Engineer specializing in React, Node.js, AWS
+- [About](https://nateross.dev/about): About page detailing career at Bambee, Allied Payment Network, JetPro Pilots
+- [Resume](https://nateross.dev/resume): Resume for AI Systems Architect with RAG implementation at Bambee
+- [Projects](https://nateross.dev/projects): Portfolio showcasing KidMath.ai, advk8, dirops.ai and other SaaS projects
+- [Blog Index](https://nateross.dev/blog): Blog index featuring AI security, DSPy, MCP, prompt engineering series
+
+## AI & LLM Development
+
+- [Building AI Assistants with OpenAI (Series)](https://nateross.dev/blog/building-a-fully-functional-ai-assistant): Multi-part series on building AI assistant with OpenAI Assistant API
+- [Real-Time Voice Assistant](https://nateross.dev/blog/building-a-real-time-voice-to-voice-assistant): Voice assistant tutorial using OpenAI, LiveKit, Next.js with WebRTC streaming
+- [DSPy: From Newbie to Expert](https://nateross.dev/blog/dspy-newbie-to-expert): Complete DSPy framework guide covering signatures, modules, optimization
+- [Complex Artifact Generation with OpenAI](https://nateross.dev/blog/complex-artifact-generation-with-open-ai): OpenAI structured output guide for JSON, HTML, CSV artifact generation
+- [Prompt Engineering Expert Guide (Series)](https://nateross.dev/blog/prompt-engineering-expert/stage-2-template-design): Stage 2: Prompt template design with Python, JSON Schema validation
+- [Building Vector Databases with MongoDB Atlas](https://nateross.dev/blog/building-vector-database-with-mongo-atlas): MongoDB Atlas vector search tutorial with OpenAI embeddings and Next.js RAG
+- [Google LangExtract Guide](https://nateross.dev/blog/google-langextract-structured-information-extraction): LangExtract guide for structured data extraction using Gemini and GPT models
+- [AI's Role in Modern Development](https://nateross.dev/blog/stop-writing-code-start-designing-systems): Opinion piece on AI tools like Claude Coder transforming developer roles
+- [Time After Compute Analysis](https://nateross.dev/blog/time-after-compute): Analysis of time-after-compute metrics in DeepSeek R-1 vs GPT-4 performance
+
+## Claude Code Tutorials
+
+- [Claude Code Tutorial Series](https://nateross.dev/blog/claude-code-tutorials): Tutorial series on Claude Code features including Git Worktrees, debugging
+- [Part 7: Create Professional Documentation](https://nateross.dev/blog/claude-code-tutorials/part-7-documentation): Part 7: Using Claude Code CLI for API docs, comments, user guides
+
+## TypeScript & Modern JavaScript
+
+- [Mastering TypeScript Generics](https://nateross.dev/blog/mastering-typescript-generics): TypeScript generics guide covering constraints, patterns, type safety
+- [Modern Python for JavaScript Developers](https://nateross.dev/blog/modern-python-for-javascript-developers): Transition guide from JavaScript to Python covering Poetry, pytest, mypy
+- [Getting Started with NestJS](https://nateross.dev/blog/from-0-to-hero-getting-started-with-nestjs): NestJS beginner guide covering modules, TypeScript, Node.js backend setup
+- [NestJS Dependency Injection Analysis](https://nateross.dev/blog/nestjs-dependency-injection-dated-or-modern-essential): Analysis of NestJS DI vs InversifyJS, tsyringe, Angular patterns
+- [NestJS Commander Guide](https://nateross.dev/blog/nest-js-commander-comprehensive-guide): NestJS Commander tutorial for building CLI tools with TypeScript
+- [WebAssembly with Rust, Go, and TypeScript](https://nateross.dev/blog/webassembly-multilanguage-magic): WebAssembly tutorial combining Rust math modules with Go string helpers
+
+## Backend & Infrastructure
+
+- [HTML to PDF with Puppeteer](https://nateross.dev/blog/html-to-pdf-generation-using-puppeteer-from-basics-to-advanced): Puppeteer PDF generation guide with Docker, LocalStack, AWS Lambda deployment
+- [SOLID Principles in C# (Series)](https://nateross.dev/blog/solid-principles-in-csharp/part-2-open-closed): Part 2: Open/Closed Principle in C# with discount strategy pattern examples
+
+## Optional
+
+- [Contact](https://nateross.dev/contact): Contact page for Nate Ross, Staff Engineer at Bambee

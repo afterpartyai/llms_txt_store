@@ -1,0 +1,79 @@
+# DeepWiki
+
+> > AI-powered documentation platform that transforms GitHub repositories into interactive, conversational documentation using Devin
+
+DeepWiki automatically generates searchable, AI-enhanced documentation for any GitHub repository, supporting multiple languages and frameworks including PyTorch, TypeScript, Node.js, Java, Python, Go, and PHP SDKs. The platform serves as both a documentation generator and a knowledge repository for research groups, open-source projects, and developer tools.
+
+## Key Topics
+
+- AI documentation generation
+- GitHub repository indexing
+- RAG-based code documentation
+- Multi-language SDK support (TypeScript, Python, Java, Go, PHP)
+- Devin AI integration
+- PyTorch and machine learning frameworks
+- Temporal workflow orchestration
+- Component libraries and UI frameworks
+- API documentation systems
+- Developer tools and utilities
+- Research group knowledge repositories
+- Interactive tutorials and guides
+- Code indexing and search
+- Documentation structure automation
+
+## Getting Started
+
+- [DeepWiki | AI documentation you can talk to, for every repo](https://deepwiki.com): DeepWiki homepage: AI-powered documentation for GitHub repos via Devin
+- [AsyncFuncAI/deepwiki-open | DeepWiki](https://deepwiki.com/AsyncFuncAI/deepwiki-open): DeepWiki open-source system overview: RAG-based code documentation generator
+- [Getting Started | deepskies/DeepWiki | DeepWiki](https://deepwiki.com/deepskies/DeepWiki/1.2-getting-started): Getting started guide for navigating deepskies DeepWiki structure
+- [About DeepWiki | deepskies/DeepWiki | DeepWiki](https://deepwiki.com/deepskies/DeepWiki/1.1-about-deepwiki): About page explaining deepskies DeepWiki purpose & organizational structure
+- [Getting Started Guides | temporalio/temporal-learning | DeepWiki](https://deepwiki.com/temporalio/temporal-learning/3.1-getting-started-guides): Temporal getting started guides with multi-language SDK tutorials
+
+## Framework & Library Documentation
+
+- [any-tdf/stdf | DeepWiki](https://deepwiki.com/any-tdf/stdf/1-overview): STDF mobile web component library overview using Svelte v5 & Tailwind CSS
+- [axios/axios | DeepWiki](https://deepwiki.com/axios/axios): axios HTTP client library documentation covering Node.js & browser usage
+- [adonisjs/v6-docs | DeepWiki](https://deepwiki.com/adonisjs/v6-docs): AdonisJS v6 framework documentation index covering structure & releases
+- [Button Component | ant-design/ant-design | DeepWiki](https://deepwiki.com/ant-design/ant-design/10-faq-and-common-issues): Ant Design FAQ covering common issues with React UI components
+- [Pattern Syntax Guide | arogozhnikov/einops | DeepWiki](https://deepwiki.com/arogozhnikov/einops/2.4-pattern-syntax): einops pattern syntax reference for tensor transformations & operations
+- [Usage Patterns and Examples | ChunelFeng/CGraph | DeepWiki](https://deepwiki.com/ChunelFeng/CGraph/8-usage-examples-and-tutorials): CGraph tutorials (T00-T29) for DAG workflow orchestration & examples
+
+## Tutorials & Learning Paths
+
+- [anthropics/prompt-eng-interactive-tutorial | DeepWiki](https://deepwiki.com/anthropics/prompt-eng-interactive-tutorial): Anthropics interactive prompt engineering tutorial for Claude AI
+- [Tutorial System | temporalio/temporal-learning | DeepWiki](https://deepwiki.com/temporalio/temporal-learning/3.2-tutorial-system): Temporal tutorial system for project-based learning with multi-SDK support
+- [Tutorial Guide | DiligentGraphics/DiligentEngine | DeepWiki](https://deepwiki.com/DiligentGraphics/DiligentEngine/6.2-tutorial-guide): DiligentEngine graphics tutorials from basic rendering to ray tracing
+- [Tutorials and Examples | gdsfactory/gdsfactory | DeepWiki](https://deepwiki.com/gdsfactory/gdsfactory/10-tutorials-and-examples): GDSFactory photonic layout tutorials from components to chip designs
+- [Tutorials & Best Practices | ace-step/ACE-Step-1.5 | DeepWiki](https://deepwiki.com/ace-step/ACE-Step-1.5/10-tutorials-and-best-practices): ACE-Step v1.5 tutorials for text-to-music generation & LoRA training
+- [Learning Path and Cost Guide | xianyu110/awesome-openclaw-tutorial | DeepWiki](https://deepwiki.com/xianyu110/awesome-openclaw-tutorial/9.3-learning-path-and-cost-guide): OpenClaw 7-day learning curriculum with cost breakdown & path guide
+
+## Developer Tools & Extensions
+
+- [censortracker/censortracker | DeepWiki](https://deepwiki.com/censortracker/censortracker): Censor Tracker browser extension for proxy-based censorship circumvention
+- [play2go/wiki | DeepWiki](https://deepwiki.com/play2go/wiki): Play2GO hosting services wiki covering Minecraft, VDS, VPN & SFTP setup
+- [adobe/adobe.github.com | DeepWiki](https://deepwiki.com/adobe/adobe.github.com): Adobe open source portal built with AngularJS for project discovery
+- [ayamir/nvimdots | DeepWiki](https://deepwiki.com/ayamir/nvimdots/12-troubleshooting-and-faq): nvimdots Neovim config troubleshooting FAQ with checkhealth diagnostics
+- [Troubleshooting & FAQ | hugsy/gef | DeepWiki](https://deepwiki.com/hugsy/gef/10-troubleshooting-and-faq): GEF (GDB Enhanced Features) troubleshooting FAQ for installation & usage
+
+## API & Technical Reference
+
+- [Creating Custom Extensions | ansys/pyaedt | DeepWiki](https://deepwiki.com/ansys/pyaedt/7.3-documentation-system): PyAEDT documentation system guide for custom extensions & API docs
+- [bemc22/GeneralizedR2R | DeepWiki](https://deepwiki.com/bemc22/GeneralizedR2R/3.2-pytorch-implementation): PyTorch implementation guide for Generalized R2R framework
+- [Testing Streams Applications | AutoMQ/automq | DeepWiki](https://deepwiki.com/AutoMQ/automq/6.9-streams-development-guide): AutoMQ Kafka Streams testing & development guide for applications
+- [Documentation Resources | tesseract-ocr/tessdoc | DeepWiki](https://deepwiki.com/tesseract-ocr/tessdoc/9-documentation-resources): Tesseract OCR documentation resources index including manuals & API refs
+- [antiwork/gumroad | DeepWiki](https://deepwiki.com/antiwork/gumroad/4.4-marketing-and-public-pages): Gumroad marketing & public pages documentation including pricing components
+
+## Troubleshooting & Support
+
+- [ant-design/ant-design | DeepWiki](https://deepwiki.com/ant-design/ant-design/10.5-faq-and-troubleshooting): Ant Design FAQ & troubleshooting for installation & package management
+- [Controlled vs Uncontrolled Components | ant-design/ant-design | DeepWiki](https://deepwiki.com/ant-design/ant-design/11.4-faq-and-troubleshooting): Ant Design FAQ on controlled/uncontrolled components & state management
+- [Troubleshooting and FAQs | SilentNightSound/GI-Model-Importer | DeepWiki](https://deepwiki.com/SilentNightSound/GI-Model-Importer/7-troubleshooting-and-faqs): Genshin Impact Model Importer troubleshooting for 3DMigoto & Blender
+- [Troubleshooting and FAQ | agentscope-ai/CoPaw | DeepWiki](https://deepwiki.com/agentscope-ai/CoPaw/9-troubleshooting-and-faq): CoPaw MCP agent system troubleshooting for model providers & channels
+- [Troubleshooting and FAQ | harryjo97/GDSS | DeepWiki](https://deepwiki.com/harryjo97/GDSS/11-troubleshooting-and-faq): GDSS score-based graph generation troubleshooting & FAQ for training
+- [FAQ | openclaw/moltbot | DeepWiki](https://deepwiki.com/openclaw/moltbot/16-faq): moltbot multi-channel chatbot framework FAQ covering common questions
+
+## Optional
+
+- [deepskies/DeepWiki | DeepWiki](https://deepwiki.com/deepskies/DeepWiki): deepskies research group knowledge repository for software & research tools
+- [About Lumina | TianxingChen/Embodied-AI-Guide | DeepWiki](https://deepwiki.com/TianxingChen/Embodied-AI-Guide/8-about-lumina): About Lumina Embodied AI Community and its relationship to the AI guide
+- [About the Author | Snailclimb/JavaGuide | DeepWiki](https://deepwiki.com/Snailclimb/JavaGuide/7.4-about-the-author): About Snailclimb, creator of JavaGuide interview preparation resource

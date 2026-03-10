@@ -1,0 +1,67 @@
+# Refine
+
+> > Refine is an open-source React framework for building enterprise-grade internal tools, admin panels, and B2B applications with AI-powered code generation, supporting integrations with Supabase, Auth0, Azure AD, and modern UI libraries.
+
+Refine (currently at v5) positions itself as an open-source alternative to Retool, offering a headless architecture that works with React Router, Next.js, and Remix. Backed by Y Combinator and 500 Emerging Europe, it provides comprehensive authentication (OAuth, Web3), authorization (RBAC/ABAC), and data provider patterns for rapid enterprise application development.
+
+## Key Topics
+
+- Refine v5
+- React Framework
+- Internal Tools & Admin Panels
+- AI Code Generation
+- Authentication (Auth0, Azure AD, Okta, Amazon Cognito)
+- Authorization (RBAC, ABAC, ACL)
+- Data Providers (Supabase, REST API)
+- UI Libraries (shadcn/ui, Ant Design, Material UI)
+- Routing (React Router, Next.js, Remix)
+- Access Control & Multitenancy
+- Web3 & Ethereum Integration
+- Self-Hosting & Open Source
+- CRUD Operations & Data Fetching
+- Enterprise B2B Applications
+
+## Getting Started
+
+- [Refine Homepage](https://refine.dev): Main homepage: AI-powered React framework for internal tools and B2B apps
+- [Refine Core Overview](https://refine.dev/core): Open-source React framework alternative to Retool for enterprise admin panels
+- [AI-Powered Builder](https://ai.refine.dev): AI-powered platform for building React internal apps with Supabase/REST APIs
+- [Quickstart Guide](https://refine.dev/core/docs/getting-started/quickstart): Quick start guide for Refine v5 with shadcn/ui, Auth0, Azure AD support
+- [Your First Refine App](https://refine.dev/core/tutorial/essentials/setup): Tutorial: Create first Refine app using create-refine-app with Vite/React
+- [Tutorial Introduction](https://refine.dev/core/tutorial/essentials/intro): Tutorial intro covering CRUD essentials with React Router, Next.js, Remix
+
+## Documentation & Guides
+
+- [Main Documentation](https://refine.dev/core/docs): Main documentation hub for Refine v5 with guides, tutorials, and API refs
+- [Guides & Concepts Overview](https://refine.dev/core/docs/guides-concepts): Guides hub: Data fetching, forms, auth (OAuth/JWT), RBAC/ABAC, routing
+- [Authentication Guide](https://refine.dev/core/docs/guides-concepts/authentication): Auth guide: OAuth, Auth0, Azure AD, Web3/Ethereum authentication patterns
+- [Access Control Tutorial](https://refine.dev/core/docs/advanced-tutorials/access-control): Advanced tutorial: Role-based access control with Casbin in Refine v5
+- [Tables Guide](https://refine.dev/core/docs/guides-concepts/tables): Tables guide: Best practices for data display in Refine v5 applications
+- [Development Guide](https://refine.dev/core/docs/guides-concepts/development): Development setup guide: Devtools and commands for Refine v5 projects
+- [Testing Guide](https://refine.dev/docs/further-readings/testing): Testing best practices: Unit and end-to-end testing strategies for Refine
+
+## API Reference
+
+- [Refine Component API](https://refine.dev/core/docs/core/refine-component): Core component API reference: Navigation helpers and meta properties
+
+## Templates & Examples
+
+- [Pixels Supabase CRUD App](https://refine.dev/core/templates/supabase-crud-app): Pixels template: Supabase CRUD app with Vite, Ant Design, realtime features
+
+## Blog & Tutorials
+
+- [Refine Blog](https://refine.dev/blog): Blog homepage: Tutorials on admin panels, dashboards, React development
+- [Refine Pixels Complete Guide](https://refine.dev/blog/refine-pixels-guide): 7-part tutorial: Building Pixels CRUD app and admin dashboard with Supabase
+- [React-admin vs Refine CORE](https://refine.dev/blog/react-admin-vs-refine): Comparison: Refine CORE vs React-admin architecture for B2B applications
+- [What is a Dashboard?](https://refine.dev/blog/what-is-a-dashboard): Complete dashboard guide: Types, examples, build approaches (code/BI/AI)
+- [Version Control Guide](https://refine.dev/blog/version-control): Version control fundamentals: Git, CVS, SVN, Mercurial comparison guide
+- [Code Comments Best Practices](https://refine.dev/blog/code-comments): Guide to writing helpful code comments with humorous real-world examples
+
+## Support & Community
+
+- [FAQ](https://refine.dev/core/docs/guides-concepts/faq): FAQ: Common questions and troubleshooting for Refine v5 development
+- [About Refine](https://refine.dev/about): About page: Team, investors (Y Combinator, 500 Emerging Europe), company info
+
+## Optional
+
+- [Refine + DEV Hackathon](https://hackathon.refine.dev): Past hackathon event page (June-July, results announced August)

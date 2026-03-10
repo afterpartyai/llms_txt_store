@@ -1,0 +1,70 @@
+# CodingEasyPeasy
+
+> > Programming tutorials and guides covering Python, Node.js, TypeScript, web development, database management, and security best practices.
+
+CodingEasyPeasy provides comprehensive tutorials for modern web development, focusing on full-stack technologies including Python frameworks (Flask, FastAPI, SQLAlchemy), JavaScript ecosystems (Node.js, React, Vue.js, Next.js), database management, security implementations, and DevOps practices. The site emphasizes practical, example-driven learning for developers at various skill levels.
+
+## Key Topics
+
+- Python
+- Node.js
+- TypeScript
+- JavaScript
+- HTML/CSS
+- Flask
+- FastAPI
+- React Router
+- Vue Router
+- Next.js
+- SQLAlchemy
+- Git & SSH Authentication
+- Web Scraping
+- Microservices Security
+- Database Connection Pooling
+
+## Core Pages
+
+- [CodingEasyPeasy](https://codingeasypeasy.com): Homepage featuring HTML/CSS tutorials and interactive web development projects
+- [About](https://codingeasypeasy.com/about): CodingEasyPeasy platform overview: programming tutorials and math resources
+
+## JavaScript & Frontend Frameworks
+
+- [Next.js Route Handlers: A Comprehensive Guide With Examples (API Routes Replacement)](https://codingeasypeasy.com/blog/nextjs-route-handlers-a-comprehensive-guide-with-examples-api-routes-replacement): Complete guide to Next.js Route Handlers replacing API Routes in app directory
+- [React Router V6 Tutorial: A Complete Guide To Navigation In React Apps](https://codingeasypeasy.com/blog/react-router-v6-tutorial-a-complete-guide-to-navigation-in-react-apps): Complete React Router v6 tutorial for SPA navigation and client-side routing
+- [Vue Router Tutorial: A Complete Guide To Setting Up Navigation In Vue.js](https://codingeasypeasy.com/blog/vue-router-tutorial-a-complete-guide-to-setting-up-navigation-in-vuejs): Set up Vue Router for Vue.js SPAs with comprehensive installation guide
+- [Vue.js With TypeScript: A Comprehensive Guide To Building Robust Applications](https://codingeasypeasy.com/blog/vuejs-with-typescript-a-comprehensive-guide-to-building-robust-applications): Build robust Vue.js apps with TypeScript using Vue CLI and Vite setup
+
+## Python & Backend Development
+
+- [Secure Service-to-Service Communication: Implementing MTLS With FastAPI](https://codingeasypeasy.com/blog/secure-service-to-service-communication-implementing-mtls-with-fastapi): Implement mTLS for secure microservices with FastAPI, OpenSSL, and Uvicorn
+- [Web Scraping With Flask: A Comprehensive Guide With Python](https://codingeasypeasy.com/blog/web-scraping-with-flask-a-comprehensive-guide-with-python): Build web scraping apps with Flask, Beautiful Soup, and Python Requests
+- [Visualize Complex Functions With Python: A Comprehensive Guide To 3D Plotting And More](https://codingeasypeasy.com/blog/visualize-complex-functions-with-python-a-comprehensive-guide-to-3d-plotting-and-more): Create 3D plots and visualizations with Python matplotlib and numpy
+- [Optimize Flask SQLAlchemy Engine Configuration: A Comprehensive Guide](https://codingeasypeasy.com/blog/optimize-flask-sqlalchemy-engine-configuration-a-comprehensive-guide): Optimize Flask-SQLAlchemy engine with connection pooling and performance tuning
+- [SQLAlchemy And Asyncpg Connection Pooling: Best Practices For Performance And Reliability](https://codingeasypeasy.com/blog/sqlalchemy-and-asyncpg-connection-pooling-best-practices-for-performance-and-reliability): Optimize SQLAlchemy and asyncpg connection pooling for Python performance
+
+## Database & ORM
+
+- [Sequelize Tutorial: Using Sequelize With Node.js For Efficient Database Management](https://codingeasypeasy.com/blog/sequelize-tutorial-using-sequelize-with-nodejs-for-efficient-database-management): Use Sequelize ORM with Node.js for PostgreSQL, MySQL, and SQLite databases
+- [SQL ASC Keyword: Mastering Ascending Order Sorting With Examples](https://codingeasypeasy.com/blog/sql-asc-keyword-mastering-ascending-order-sorting-with-examples): Master SQL ASC keyword for ascending order sorting with ORDER BY examples
+
+## Git & Security
+
+- [Secure Git With SSH Keys: A Comprehensive Guide To Management And Best Practices](https://codingeasypeasy.com/blog/secure-git-with-ssh-keys-a-comprehensive-guide-to-management-and-best-practices): Complete guide to Git SSH key management with Ed25519 and RSA authentication
+- [Git Authentication: SSH Keys Vs. HTTPS With Credentials Vs. Credential Helpers - A Comprehensive Guide](https://codingeasypeasy.com/blog/git-authentication-ssh-keys-vs-https-with-credentials-vs-credential-helpers-a-comprehensive-guide): Compare Git authentication methods: SSH keys, HTTPS, and credential helpers
+
+## Web Scraping & Data Collection
+
+- [Data Scraping Android Apps On Google Play Store With Node.js & Google-play-scraper](https://codingeasypeasy.com/blog/data-scraping-android-apps-on-google-play-store-with-nodejs-and-google-play-scraper): Scrape Google Play Store app data with Node.js and google-play-scraper
+
+## HTML & CSS Fundamentals
+
+- [Semantic HTML Elements Explained: Article, Aside, Nav, Header, Footer Examples](https://codingeasypeasy.com/blog/semantic-html-elements-explained-article-aside-nav-header-footer-examples): Learn semantic HTML5 elements: article, aside, nav, header, footer for SEO
+- [Mastering CSS Borders: Styles, Widths, Colors, And Advanced Techniques](https://codingeasypeasy.com/blog/mastering-css-borders-styles-widths-colors-and-advanced-techniques): Complete CSS borders guide covering styles, widths, colors, and border-radius
+
+## Optional
+
+- [Using Jakarta EE 9+ APIs In Spring Boot 3.x: A Comprehensive Guide](https://codingeasypeasy.com/blog/using-jakarta-ee-9-apis-in-spring-boot-3x-a-comprehensive-guide): Integrate Jakarta EE 9+ APIs in Spring Boot 3.x with namespace migration
+- [WSL1 Vs WSL2: Understanding The Key Differences And Choosing The Right One](https://codingeasypeasy.com/blog/wsl1-vs-wsl2-understanding-the-key-differences-and-choosing-the-right-one): Compare WSL1 vs WSL2 architecture, performance, and Docker compatibility
+- [Recover Deleted Files Using CMD: Attrib, Chkdsk, And More (Windows Guide)](https://codingeasypeasy.com/blog/recover-deleted-files-using-cmd-attrib-chkdsk-and-more-windows-guide): Recover deleted Windows files using CMD with attrib and chkdsk commands
+- [How To Disable A Windows Service Using CMD: The Ultimate Guide](https://codingeasypeasy.com/blog/how-to-disable-a-windows-service-using-cmd-the-ultimate-guide): Disable Windows services using CMD with sc config command and services.msc
+- [Web2py Debugging: Enable Debug=True In Models/db.py For Detailed Error Messages](https://codingeasypeasy.com/blog/web2py-debugging-enable-debugtrue-in-modelsdbpy-for-detailed-error-messages): Enable Web2py debug mode in models/db.py for detailed DAL error messages

@@ -1,0 +1,61 @@
+# etence
+
+> > Russian IT company specializing in custom software development, BI platforms (etence.analytics, etence.OCR), and government/enterprise digital transformation with expertise in GOST/ISO standards compliance.
+
+etence is a development studio with 6+ years of experience, 20+ team members, and 35+ completed projects spanning business intelligence, GIS, logistics, and media analytics. The site features extensive technical documentation on Russian GOST standards, CI/CD implementation, system architecture methodologies, and R&D processes for enterprise clients.
+
+## Key Topics
+
+- GOST standards (ГОСТ 19, ГОСТ 34)
+- ISO/IEC software engineering standards
+- CI/CD and DevOps automation
+- etence.analytics (BI platform)
+- etence.OCR
+- R&D (НИОКР) and innovation processes
+- Software documentation (ESPD)
+- System architecture and design methodology
+- Agile and Scrum
+- GitLab, Kubernetes, Argo CD
+- Keycloak and OpenID Connect
+- NestJS and TypeScript backend
+- Mobile development (iOS, Android)
+- Russian IT compliance and certification
+
+## Company & Products
+
+- [etence](https://etence.me): Homepage: Russian IT company creating digital products for business/gov
+- [О нас](https://etence.me/about): About page: 6+ years, 20+ team, 35+ projects, competencies & formats
+- [Продукты](https://etence.me/resources/products): Product portfolio: etence.analytics (BI platform) and etence.OCR
+- [Проекты](https://etence.me/resources/projects): Project portfolio: MOTIVE, media analytics, GIS, logistics platforms
+
+## Software Documentation Standards
+
+- [Документация на ПО: структура, ГОСТ 34/19, ISO и IEEE](https://etence.me/resources/materials/dokumentaciya-na-programmnoe-obespechenie): Software documentation guide: GOST 34/19, ISO/IEEE lifecycle standards
+- [Эксплуатационная документация на ПО](https://etence.me/resources/materials/ekspluatacionnaya-dokumentaciya-na-po): Operational docs guide: GOST standards, structure, and business value
+- [ГОСТ и ISO: в чём разница и как унифицировать документацию](https://etence.me/resources/materials/sopostavlenie-gost-iso-dokumentaciya): GOST vs ISO mapping: terminology, structure, certification alignment
+- [Правила оформления программной документации по ГОСТ](https://etence.me/resources/materials/gost-dokumentaciya-oformlenie): GOST documentation formatting: title pages, sections, appendices, refs
+- [Как оформить «Описание программы» по ГОСТ 19.402-78](https://etence.me/resources/materials/opisanie-struktury-programmy): Program description per GOST 19.402-78: structure, HLD/LLD mapping
+- [Как оформить changelog и перечень доработок в Agile-проектах](https://etence.me/resources/materials/changelog-i-perechen-dorabotok-v-agile): Changelog & release notes in Agile: structure, traceability, trust
+
+## System Design & Architecture
+
+- [Методология проектирования систем](https://etence.me/materials/metodologiya-proektirovaniya-sistem): System design methodology: GOST, ISO, CMMI standards and architecture
+- [Внедрение CI/CD за 5 дней](https://etence.me/resources/materials/vnedrenie-ci-cd): CI/CD implementation in 5 days: GitLab, Kubernetes, Argo CD, zero downtime
+- [Как организовать систему хранения исходного кода](https://etence.me/materials/hranenie-iskhodnogo-koda): Source code storage: Git server, roles, access, backup, commit delivery
+- [Keycloak и OpenID Connect: централизованная авторизация](https://etence.me/resources/materials/keycloak-openid-ldap-avtorizatsiya): Keycloak SSO setup: OpenID Connect, LDAP/AD, Jira/GitLab integration
+- [ИТ-аудит: что это, виды и этапы](https://etence.me/resources/materials/audit-it): IT audit guide: security, infrastructure, compliance, audit types/stages
+
+## R&D & Innovation
+
+- [R&D-проекты: что это и как устроен процесс исследований](https://etence.me/resources/materials/rnd-projects): R&D projects explained: goals, stages, PoC/MVP, hypothesis validation
+- [Что такое R&D (НИОКР) в IT](https://etence.me/resources/materials/niokr-i-rnd-v-it): R&D (НИОКР) in IT: innovation process, stages, business value, FAQ
+
+## Technical Articles & Insights
+
+- [Материалы](https://etence.me/resources/materials): Materials hub: articles on architecture, R&D, SDLC, tech standards
+- [NestJS: что это, зачем нужен и когда выбирать для backend](https://etence.me/materials/why-nest-js-for-backend): NestJS for backend: TypeScript, modular architecture, when to choose
+- [Яндекс открыл бесплатный Tiles API](https://etence.me/resources/materials/yandex-tiles-api-dlya-b2b-kartografii): Yandex Tiles API analysis: free mapping via Leaflet, offline, no SDK
+
+## Optional
+
+- [Путь к покупке B2B](https://etence.me/resources/materials/put-k-pokupke-b2b): B2B buyer journey evolution: Gartner research translation & insights

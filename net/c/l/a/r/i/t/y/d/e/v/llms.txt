@@ -1,0 +1,61 @@
+# ClarityDev
+
+> > A web development blog focused on TypeScript, React, Next.js, and modern JavaScript patterns with practical tutorials and code examples.
+
+ClarityDev is maintained by a full-stack developer who writes in-depth technical articles covering frontend technologies like React, TypeScript, and Next.js, along with testing, deployment automation, and best practices. The site includes a portfolio showcasing projects like Finnair Plus and BijlesHuis.
+
+## Key Topics
+
+- TypeScript
+- React
+- Next.js
+- JavaScript
+- React Hooks
+- Type Safety
+- React Testing Library
+- React Hook Form
+- Immutability
+- Deep Copying
+- GitHub Actions
+- Redux
+- Tailwind
+- Web Development Best Practices
+
+## Essential Pages
+
+- [ClarityDev blog](https://claritydev.net): Homepage featuring latest posts on TypeScript, React, and JavaScript
+- [Posts | ClarityDev blog](https://claritydev.net/blog): Blog index with articles on TypeScript, React, and web development
+- [Portfolio | ClarityDev blog](https://claritydev.net/portfolio): Developer portfolio showcasing projects: Finnair Plus, BijlesHuis, etc.
+
+## TypeScript Guides
+
+- [TypeScript Advanced Types: Working with Conditional Types](https://claritydev.net/blog/advanced-conditional-types-typescript): Deep dive into TypeScript conditional types and advanced patterns
+- [TypeScript: Typing Form Events In React](https://claritydev.net/blog/typescript-typing-form-events-in-react): Type-safe form event handling in React with TypeScript examples
+- [Robust Configuration Objects In TypeScript: The Power of As Const and Satisfies](https://claritydev.net/blog/typescript-as-const-satisfies-type-safe-config): Type-safe config objects using TypeScript 'as const' and 'satisfies'
+
+## React Tutorials & Best Practices
+
+- [The Most Common Mistakes When Using React](https://claritydev.net/blog/the-most-common-mistakes-when-using-react): Common React mistakes and best practices for hooks and state management
+- [Build a Multistep Form With React Hook Form](https://claritydev.net/blog/build-a-multistep-form-with-react-hook-form): Tutorial: Build multistep forms with React Hook Form and React Router
+- [Display Warning for Unsaved Form Data on Page Exit](https://claritydev.net/blog/display-warning-for-unsaved-form-data-on-page-exit): Implement FormPrompt for unsaved changes using React Router & beforeunload
+- [Drag-and-Drop File Upload Component with React and TypeScript](https://claritydev.net/blog/react-typescript-drag-drop-file-upload-guide): Build drag-and-drop file upload with React and TypeScript (no libraries)
+- [Enzyme vs React Testing Library: A Migration Guide](https://claritydev.net/blog/enzyme-vs-react-testing-library-migration-guide): Migrate from Enzyme to React Testing Library with practical examples
+
+## JavaScript Core Concepts
+
+- [Beyond Console.log: Debugging Techniques In JavaScript](https://claritydev.net/blog/beyond-console-log-debugging-techniques-javascript): Alternative JavaScript debugging techniques beyond console.log
+- [Understanding StructuredClone: The Native Way to Deep Copy In JavaScript](https://claritydev.net/blog/javascript-structured-clone-deep-copying): Guide to structuredClone() for deep copying objects in JavaScript
+- [Mastering JavaScript Array Sorting: Array.prototype.sort() with Examples](https://claritydev.net/blog/javascript-array-sorting-examples): Comprehensive guide to Array.prototype.sort() with practical examples
+- [Immutable Array Operations In JavaScript: Introducing toSorted, toSpliced, and toReversed](https://claritydev.net/blog/immutable-array-operations-tosorted-tospliced-toreversed): ECMAScript 2023 immutable array methods: toSorted, toSpliced, toReversed
+
+## Next.js & Deployment
+
+- [Continuously Deploying Next.js Website to DigitalOcean Using GitHub Actions](https://claritydev.net/blog/automate-deployment-workflow-nextjs-digitalocean-github-actions): Deploy Next.js to DigitalOcean with GitHub Actions automation tutorial
+- [Add Dynamic Sitemap to Next.js Website Using Pages or App Directory](https://claritydev.net/blog/nextjs-dynamic-sitemap-pages-app-directory): Generate dynamic XML sitemaps for Next.js (pages & app directories)
+- [Copy to Clipboard Button In MDX with Next.js and Rehype Pretty Code](https://claritydev.net/blog/copy-to-clipboard-button-nextjs-mdx-rehype): Add copy-to-clipboard to MDX code blocks with Rehype Pretty Code
+
+## Optional
+
+- [Build a Tic-Tac-Toe Game with TypeScript, React and Minimax](https://claritydev.net/blog/tic-tac-toe-typescript-react-hooks): Create Tic-Tac-Toe game with React Hooks, TypeScript, and Minimax AI
+- [Optimize Redux Development: Simplify Boilerplate Creation with Code Generators and Plop.js](https://claritydev.net/blog/scaffolding-redux-boilerplate-with-code-generators): Automate Redux boilerplate generation using Plop.js code generators
+- [Mocking the Window Object In Jest Tests](https://claritydev.net/blog/mock-window-object-jest): Mock window object in Jest for predictable JavaScript testing

@@ -1,0 +1,80 @@
+# LogFetch
+
+> > An engineer's educational changelog covering practical tutorials, career guidance, and day-to-day software development across JavaScript, Python, Java, React, Docker, AWS, and Git.
+
+LogFetch provides hands-on programming tutorials, code snippets, and how-to guides for developers at all levels. The site also features career advice for software engineers, including job search strategies, compensation breakdowns, and retirement planning.
+
+## Key Topics
+
+- JavaScript
+- React
+- Python
+- Java
+- TypeScript
+- Node.js
+- Git
+- Docker
+- AWS
+- Next.js
+- MySQL
+- Pandas
+- Career Development
+- Beginner Guides
+- DevOps
+
+## Getting Started
+
+- [LogFetch - An Engineer's Educational Changelog](https://logfetch.com): Homepage: educational changelog covering day-to-day software engineering
+- [How To Get a Software Engineering Job: A Step-by-Step Guide](https://logfetch.com/software-engineer-guide): Complete guide to software engineering job search and interview preparation
+- [What Fields Can I Go Into as a Software Engineer?](https://logfetch.com/software-engineer-disciplines): Overview of software engineering sub-fields: frontend, backend, DevOps, etc.
+- [What's in a Software Engineer's Compensation Package?](https://logfetch.com/software-engineer-compensation-package): Breakdown of software engineer compensation: base salary, RSUs, bonuses
+
+## JavaScript & TypeScript Tutorials
+
+- [How to console.log with colors in JavaScript](https://logfetch.com/js-console-colors): Tutorial on styling console.log output with colors using CSS & ANSI codes
+- [How to Measure Performance in JavaScript](https://logfetch.com/js-measure-performance): Guide to measuring JS performance with console.time and performance.now
+- [How to Pass a Variable Number of Arguments into a Function in JavaScript](https://logfetch.com/js-variable-arguments): JavaScript tutorial on variable arguments using spread operator & arguments
+- [How to Run JavaScript After DOM is Loaded Without jQuery](https://logfetch.com/js-document-ready): Vanilla JavaScript alternatives to jQuery's document.ready using DOMContentLoaded
+- [How to Develop with TypeScript in Docker with Hot Reloading](https://logfetch.com/docker-typescript-development): Setup guide for TypeScript Docker development with nodemon hot reloading
+
+## React & Frontend Development
+
+- [How to Make a Call to an API in React](https://logfetch.com/react-call-api): React API calls using custom useFetch hook with Fetch API
+- [How to Add Google Analytics to a Next.js Application (including TypeScript)](https://logfetch.com/add-google-analytics-to-next-js-application): Next.js Google Analytics integration guide with TypeScript support
+- [How to Build an Angular 9 App That Connects with a REST API](https://logfetch.com/intro-angular-api): Angular 9 REST API integration with json-server and Angular Material
+- [How to Detect Seek Events with the Youtube Player API](https://logfetch.com/js-youtube-seek): Detecting YouTube player seek events using onStateChange API in React
+
+## Python & Data Tutorials
+
+- [How to Create a Pandas DataFrame](https://logfetch.com/python-pandas-create-dataframe): Python tutorial showing multiple ways to create Pandas DataFrames
+- [How to Migrate Data from MongoDB to Elasticsearch in Python](https://logfetch.com/migrate-mongo-elasticsearch): Python script for migrating MongoDB data to Elasticsearch using helpers API
+
+## DevOps & Cloud Infrastructure
+
+- [AWS for Deploying a Standard Web Application](https://logfetch.com/aws-web-application): AWS beginner guide covering S3, CloudFront, Route 53 for web deployment
+- [How to Watch a File in Linux using tail](https://logfetch.com/linux-tail): Linux tail command tutorial for file monitoring and log watching
+- [How to Query Data in Heroku PostgreSQL Database](https://logfetch.com/heroku-postgresql-query-database): Query Heroku PostgreSQL databases using pg:psql and local psql setup
+
+## Git & Version Control
+
+- [How to Use SSH with GitHub (Instead of HTTPS) on Windows WSL](https://logfetch.com/git-ssh-keys): Setup SSH keys for GitHub authentication on Windows WSL using ssh-keygen
+- [How to Reset Changes in a Single File in Git](https://logfetch.com/git-undo-one-file-change): Git command to reset single file changes using git checkout
+- [How to Get the Current Commit Hash in Git](https://logfetch.com/git-current-commit-hash): Get current commit hash using git rev-parse and git log commands
+- [How to List All Git Aliases](https://logfetch.com/git-list-aliases): Methods to list Git aliases from ~/.gitconfig using git config
+
+## Career & Financial Planning
+
+- [5 Passive Income Ideas for Software Engineers](https://logfetch.com/passive-income-software): Passive income strategies for engineers: SaaS, blogging, side projects
+- [How does a Roth IRA work?](https://logfetch.com/roth-ira): Explanation of Roth IRA rules, contribution limits, and tax advantages
+- [How To Open a Fidelity Roth IRA: A Step-by-Step Guide](https://logfetch.com/invest-roth-ira-fidelity): Step-by-step guide to opening and funding a Fidelity Roth IRA account
+- [How to Start Your Developer Blog: A Step-by-Step Guide](https://logfetch.com/start-a-blog): Complete guide to launching a developer blog with WordPress & DigitalOcean
+
+## Optional
+
+- [How to Use Generics with Abstract Classes in Java For Different Parameter Types](https://logfetch.com/java-abstract-generics): Java generics guide for supporting multiple types in abstract classes
+- [How to Get All Appenders in Logback Context in Java](https://logfetch.com/java-get-all-logback-appenders): Java tutorial for obtaining Logback appenders using LoggerContext
+- [How to Update Node to Another Version on Windows WSL](https://logfetch.com/node-update-version): Node.js version update guide for WSL using npm and nvm
+- [How to Set the Default Directory for Git Bash on Windows](https://logfetch.com/cli-git-bash-default): Configure Git Bash default directory via shortcut or bashrc on Windows
+- [How to Query a Table Using MySQL CLI](https://logfetch.com/mysql-cli-query-table): MySQL CLI tutorial for connecting to database and querying tables
+- [How to Delete Files with a Specific Extension in all Subdirectories Recursively](https://logfetch.com/recursive-delete): Recursively delete files by extension using find command with -delete flag
+- [Contact Me 📨](https://logfetch.com/contact): Contact page for feedback, questions, and article contributions

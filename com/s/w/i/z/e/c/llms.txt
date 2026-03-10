@@ -1,0 +1,54 @@
+# Swizec Teller - Software Engineering
+
+> > Software engineering lessons from 20 years of production experience, specializing in React, Serverless, and the Senior Engineer Mindset.
+
+Swizec Teller shares practical insights from building software in Silicon Valley and beyond, with a focus on career growth, system design, and modern web technologies. The site features blog articles, email courses, and books aimed at helping engineers level up from individual contributor to senior technical roles.
+
+## Key Topics
+
+- Senior Engineer Mindset
+- React
+- Serverless
+- JavaScript
+- Software Engineering
+- Production Code
+- Code Organization
+- Career Advice
+- System Design
+- Silicon Valley
+- Engineering Leadership
+- Technical Communication
+- JAMStack
+- D3.js
+- SRE (Site Reliability Engineering)
+
+## Essential Pages
+
+- [Swizec Teller](https://swizec.com): Homepage: Swizec shares 20yrs of software engineering lessons from production
+- [About Swizec Teller](https://swizec.com/about): About Swizec: Journey from $7/hr to Silicon Valley 6-figure engineer
+- [Blog Archive](https://swizec.com/blog): Blog archive: Software engineering articles from 20yrs production experience
+
+## Learning Resources
+
+- [Collections](https://swizec.com/collections): Email course collections on Senior Mindset, React, Serverless & more topics
+- [Store - Books](https://store.swizec.com): Store: Senior Mindset Book & Scaling Fast books for sale
+- [Find Your Idea](https://fyi.swizec.com): Find Your Idea: Framework video workshop for evaluating side project ideas
+
+## Career & Engineering Mindset
+
+- [How to ask for help](https://swizec.com/blog/how-to-ask-for-help): Senior engineers stand out by having a philosophy on asking for help
+- [Why experts charge more](https://swizec.com/blog/why-experts-charge-more): Why senior engineers earn $200k+: Experience beats YouTube tutorials
+- [Ways to ask but why](https://swizec.com/blog/ways-to-ask-but-why): Communication techniques for code review questions without sounding harsh
+- [The Wally Reflector](https://swizec.com/blog/the-wally-reflector): Leadership tool: Empower teams by asking them to take the first step
+
+## Software Architecture & Systems
+
+- [Why even care about code structure](https://swizec.com/blog/why-even-care-about-code-structure): Code structure matters for team scaling & long-term software maintenance
+- [The future of software engineering is SRE](https://swizec.com/blog/the-future-of-software-engineering-is-sre): SRE becomes critical as agentic coding makes greenfield demos cheap
+- [Forget complicated code, focus on the system - Followup](https://swizec.com/blog/followup-answers-to-forget-complicated-code-focus-on-the-system): Q&A on architectural complexity, util files, and system-level thinking
+- [Build a new design system in a couple afternoons](https://swizec.com/blog/build-a-new-design-system-in-a-couple-afternoons): Build reusable UI design systems in 3 days with component-based frameworks
+
+## React & Frontend Development
+
+- [Silky smooth Piechart transitions with React and D3.js](https://swizec.com/blog/silky-smooth-piechart-transitions-with-react-and-d3js): Tutorial: Building smooth D3 arc transitions with React using arc tweening
+- [Using scopes for elegant JAMStack permissions](https://swizec.com/blog/using-scopes-for-elegant-jamstack-permissions): Implementing scopes-based access control in JAMStack apps with useAuth

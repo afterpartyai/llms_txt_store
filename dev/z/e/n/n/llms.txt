@@ -1,0 +1,69 @@
+# Zenn
+
+> > Zenn is a Japanese tech knowledge-sharing platform for engineers, featuring articles, books, and publications with monetization support.
+
+Zenn serves as a community hub where engineers publish technical content, tutorials, and books on topics including AWS, JavaScript/TypeScript, React, AI development, and various development tools. The platform supports both free articles and paid technical books, with features like Publications for team content and community guidelines for AI-assisted writing.
+
+## Key Topics
+
+- Zenn platform features and Publications
+- AWS (re:Invent, EC2, S3, Bedrock)
+- JavaScript/TypeScript development
+- React and Next.js
+- AI tools (Claude, OpenAI, Cursor IDE)
+- Vue.js and VoidZero toolchain
+- Chrome extension development
+- WSL and Linux development environments
+- Code refactoring (jscodeshift)
+- Angular framework
+- Shopify app development
+- Doxygen and gnuplot
+- Game development (Godot)
+- Community guidelines and best practices
+- Technical book publishing
+
+## Platform Information
+
+- [Zenn|エンジニアのための情報共有コミュニティ](https://zenn.dev): Homepage: Tech knowledge sharing platform for engineers with monetization
+- [Zennとは？|エンジニアのための情報共有コミュニティ](https://zenn.dev/about): About page explaining Zenn's platform features, badges, and book sales
+- [Zenn公式さんの記事一覧 | Zenn](https://zenn.dev/zenn): Official Zenn account with platform updates and usage guides
+- [コミュニティガイドライン | Zenn](https://zenn.dev/guideline): Community guidelines covering content policy, AI usage, and conduct
+- [ZennのPublicationで投稿を続けたら、社内のエンジニアと技術書を出版することになりました](https://zenn.dev/ncdc/articles/30423095420e06): Case study: Publishing AWS Amplify Gen2 book via Zenn Publication
+
+## Development Environment Setup
+
+- [初心者のためのCursor AIエディター完全ガイド](https://zenn.dev/ai4u_shunsuke/books/cursor-ide-guide): Complete beginner's guide to Cursor AI editor setup and usage
+- [WSL開発環境: 環境構築の記事まとめ](https://zenn.dev/atsushifx/articles/wsl2-debian-setup-matome): WSL Debian development environment setup guide and article index
+- [【入門者向け】Chrome拡張開発の第一歩：デベロッパーアカウント作成ガイド](https://zenn.dev/murasame_works/articles/d6c5da26d1ba3a): Beginner guide: Chrome extension developer account setup tutorial
+- [gnuplotのインストールと実行方法あれこれ](https://zenn.dev/leviosa42/articles/aaa76e147f533f): gnuplot installation guide for Windows/Linux with execution methods
+- [Linux環境でDoxygenの出力形式にCHMフォーマットを使う方法](https://zenn.dev/aikige/articles/generate-chm-from-doxygen-on-linux): Generate CHM format from Doxygen on Linux using chmcmd and Free Pascal
+
+## Framework and Library Guides
+
+- [Angular After Tutorial](https://zenn.dev/lacolaco/books/angular-after-tutorial): Post-tutorial Angular guide covering refactoring, RxJS, and testing
+- [Learn Next.js でNext.js 14に入門](https://zenn.dev/axoloto210/articles/1ff9615e8d504c): Next.js 14 tutorial walkthrough covering App Router and deployment
+- [『All about VoidZero - The Interview with Evan You』を見てわかったこと思ったこと](https://zenn.dev/comm_vue_nuxt/articles/alexander_interview_about_voidzero_with_evan): Vue.js ecosystem: VoidZero interview with Evan You on unified toolchain
+- [jscodeshift によるひとつ上のリファクタリング・テクニックを学ぶ](https://zenn.dev/wakamsha/articles/learn-jscodeshift): Advanced jscodeshift tutorial for JavaScript/TypeScript refactoring
+
+## AWS and Cloud Technologies
+
+- [re:Invent 2025: RiskSpanのGenAI活用でPrivate Credit分析を3週間から3日に短縮](https://zenn.dev/kiiwami/articles/bf77b3f9d4ee8668): AWS re:Invent: RiskSpan GenAI case study with Amazon Bedrock & RAG
+- [re:Invent 2025: EC2インスタンスのパフォーマンス最適化とプロセッサ特性の理解](https://zenn.dev/kiiwami/articles/cbc95cd2d80e64a7): AWS re:Invent: EC2 performance optimization and processor architecture
+- [re:Invent 2025: AWS storageでGen AIとMLワークロードを高速化するアーキテクチャとコスト最適化](https://zenn.dev/kiiwami/articles/6523985968de15d6): AWS re:Invent: Storage optimization for Gen AI/ML with S3 Vectors
+
+## AI and Automation Tools
+
+- [Ralph Loop: The Plugin That Runs Claude Code Autonomously](https://zenn.dev/neotechpark/articles/5216f2bcb55eca): Tutorial on Ralph Loop plugin for autonomous Claude AI coding
+- [Organization内の他人が発行したOpenAI APIキーを失効させる方法 〜OpenAIへの問合せ時の教訓を添えて〜](https://zenn.dev/aidemy/articles/617a63458b903f): OpenAI API key revocation guide for organization administrators
+
+## Reference and Resources
+
+- [[gnuplot]参考リンクまとめ](https://zenn.dev/leviosa42/scraps/ec65291da632d2): Curated gnuplot reference links including docs and Japanese resources
+- [ShopifyでFAQ（よくある質問）を作成するアプリ6選](https://zenn.dev/natsume_katu/articles/9ca165b59dc901): Comparison of 6 Shopify FAQ apps with Japanese language support
+- [Godot でゲーム開発がしてみたい 3](https://zenn.dev/frommiddle1/articles/godot-tutorial3): Godot game engine tutorial series part 3: learning new features
+
+## Optional
+
+- [ユーンさんの記事一覧 | Zenn](https://zenn.dev/euxn23): User profile page for ユーン showing 16 articles
+- [Tomoya Kitayamaさんの記事一覧 | Zenn](https://zenn.dev/gamella): User profile for Tomoya Kitayama with 23 articles
+- [Nanaさんの記事一覧 | Zenn](https://zenn.dev/airiin): User profile for Nana with 98 published articles

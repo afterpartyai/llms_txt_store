@@ -1,0 +1,38 @@
+# Monorepo Tools
+
+> > Comprehensive guide to monorepo architecture, tooling comparison (Nx, Bazel, Gradle, Turborepo, Rush, Lerna, Pants, Lage), and AI agent integration via MCP.
+
+This site explains monorepo concepts, benefits over polyrepos, and provides detailed comparisons of popular build systems and task orchestration tools. It also covers modern AI agent integration patterns for monorepo workflows.
+
+## Key Topics
+
+- Monorepo architecture and benefits
+- Nx and Nrwl tooling
+- Bazel (Google's build system)
+- Gradle and polyglot builds
+- Code sharing and dependency management
+- Distributed caching and task orchestration
+- CI/CD optimization
+- TypeScript project references
+- AI agents and agentic workflows
+- MCP Server integration
+- Cross-project changes
+- Build systems comparison
+- Repository architecture patterns
+- Polyrepo vs monorepo tradeoffs
+
+## Getting Started
+
+- [Monorepo Explained](https://monorepo.tools): Homepage explaining monorepos, their benefits, and AI agent integration
+
+## Build Systems & Tooling Comparison
+
+- [Compare Monorepo Tools](https://monorepo.tools/compare): Feature comparison of Bazel, Gradle, Lage, Lerna, Nx, Pants, Rush, Turborepo
+
+## Language-Specific Guides
+
+- [TypeScript Monorepos](https://monorepo.tools/typescript): TypeScript-specific monorepo setup, project references, and best practices
+
+## AI Integration
+
+- [Monorepos & AI Agents](https://monorepo.tools/ai): Guide on AI agents, agentic workflows, and monorepo integration via MCP

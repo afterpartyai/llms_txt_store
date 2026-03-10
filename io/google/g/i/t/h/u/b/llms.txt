@@ -1,0 +1,75 @@
+# Google Open Source Projects
+
+> > Documentation hub for Google's open source projects including GoogleTest (C++ testing), Agent Development Kit (ADK), Google Summer of Code guides, and development tools.
+
+This site hosts comprehensive documentation for Google's major open source initiatives, spanning testing frameworks (GoogleTest/gMock), AI agent development (ADK with Gemini), developer programs (Google Summer of Code), coding standards, and specialized tools for compression, UI automation, and system deployment. The resources serve developers working with C++, Python, Java, and other languages across Google's technology ecosystem.
+
+## Key Topics
+
+- GoogleTest - C++ unit testing framework
+- gMock - C++ mocking framework
+- Agent Development Kit (ADK) - AI agent development with Gemini
+- Google Summer of Code (GSoC) - Open source mentorship program
+- C++ testing and test fixtures
+- Multi-agent systems and agent teams
+- Python and Java development
+- Google C++ Style Guide
+- CMake and Bazel build systems
+- Mock objects and assertions
+- EarlGrey - iOS UI automation
+- Snappy compression library
+- Agent2Agent (A2A) protocol
+- Open source development practices
+
+## AI Agent Development
+
+- [Index - Agent Development Kit (ADK)](https://google.github.io/adk-docs): ADK: Framework for developing AI agents with Gemini and Google ecosystem
+- [Python - Agent Development Kit (ADK)](https://google.github.io/adk-docs/get-started/python): Python quickstart: Installing ADK and building first agent with Gemini API
+- [Multi-tool agent - Agent Development Kit (ADK)](https://google.github.io/adk-docs/get-started/quickstart): ADK quickstart: Building multi-tool agent with Python/Java and dev UI
+- [Build your agent with ADK - Agent Development Kit (ADK)](https://google.github.io/adk-docs/tutorials): Progressive ADK tutorials from basic to advanced agent development techniques
+- [Agent team - Agent Development Kit (ADK)](https://google.github.io/adk-docs/tutorials/agent-team): Tutorial: Building multi-agent Weather Bot system with ADK and Gemini
+- [ADK with Agent2Agent (A2A) Protocol - Agent Development Kit (ADK)](https://google.github.io/adk-docs/a2a): ADK guide for Agent2Agent protocol in multi-agent systems (Python/Go)
+
+## C++ Testing Framework (GoogleTest)
+
+- [GoogleTest User's Guide | GoogleTest](https://google.github.io/googletest): Main user guide for GoogleTest C++ testing framework with primer & advanced
+- [GoogleTest Primer | GoogleTest](https://google.github.io/googletest/primer.html): Introduction to GoogleTest: writing C++ tests, assertions, and fixtures
+- [Quickstart: Building with CMake | GoogleTest](https://google.github.io/googletest/quickstart-cmake.html): GoogleTest quickstart using CMake build system and FetchContent
+- [Quickstart: Building with Bazel | GoogleTest](https://google.github.io/googletest/quickstart-bazel.html): GoogleTest quickstart using Bazel build system and Bazel Central Registry
+- [Googletest Samples | GoogleTest](https://google.github.io/googletest/samples.html): Code examples showing GoogleTest features from basic to advanced use cases
+- [Advanced GoogleTest Topics | GoogleTest](https://google.github.io/googletest/advanced.html): Advanced GoogleTest: assertions, failure messages, and test fixtures
+
+## Mock Objects & gMock
+
+- [gMock for Dummies | GoogleTest](https://google.github.io/googletest/gmock_for_dummies.html): Beginner's guide to gMock: creating and using mock objects in C++ tests
+- [gMock Cookbook | GoogleTest](https://google.github.io/googletest/gmock_cook_book.html): gMock recipes: MOCK_METHOD, mocking techniques, and method qualifiers
+- [Legacy gMock FAQ | GoogleTest](https://google.github.io/googletest/gmock_faq.html): gMock FAQ: virtual methods, variadic functions, and MSVC troubleshooting
+
+## Google Summer of Code
+
+- [What is Google Summer of Code? | Google Summer of Code Guides](https://google.github.io/gsocguides/student): GSoC student guide: Introduction to open source mentorship program
+
+## Developer Tools & Libraries
+
+- [Welcome to the Google Dev Library | devlibrary](https://google.github.io/devlibrary): Content library of open source projects using Google technologies
+- [snappy | A fast compressor/decompressor](https://google.github.io/snappy): Snappy compression library prioritizing speed over maximum compression
+- [EarlGrey  Reference](https://google.github.io/EarlGrey): EarlGrey: Native iOS UI automation framework with enhanced synchronization
+- [About glazier](https://google.github.io/glazier/setup/about): Glazier overview: Windows imaging and deployment automation framework
+- [Install | AEUX](https://google.github.io/AEUX/install.html): Installation guide for AEUX plugin: Sketch, Figma to After Effects
+
+## Style Guides & Best Practices
+
+- [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html): Google's C++ coding standards for readability and maintainability
+- [Preface: Building Secure and Reliable Systems](https://google.github.io/building-secure-and-reliable-systems/raw/pr01.html): Book preface on integrating security and reliability in system design
+
+## Reference & Support
+
+- [GoogleTest FAQ | GoogleTest](https://google.github.io/googletest/faq.html): GoogleTest FAQ: naming conventions, assertions, and C++ testing questions
+- [Using GoogleTest from various build systems | GoogleTest](https://google.github.io/googletest/pkgconfig.html): GoogleTest pkg-config integration for build systems and cross-compilation
+- [sqlcommenter](https://google.github.io/sqlcommenter/faq): sqlcommenter FAQ: ORM support, database observability, and SQL comments
+
+## Optional
+
+- [About This Manual | Google Summer of Code Guides](https://google.github.io/gsocguides/student/about-this-manual.html): Student manual metadata: authors, contributing, and book sprint history
+- [About This Guide | Google Summer of Code Guides](https://google.github.io/gsocguides/mentor/about-this-guide): Mentor guide metadata: authors, contributing, and book sprint history
+- [About This Manual | Google Summer of Code Guides](https://google.github.io/gsocguides/student/about-this-manual): Student manual metadata: authors, contributors, and documentation info

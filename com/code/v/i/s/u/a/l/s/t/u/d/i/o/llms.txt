@@ -1,0 +1,75 @@
+# Visual Studio Code Documentation
+
+> > Official documentation for Visual Studio Code, Microsoft's open-source AI-powered code editor with GitHub Copilot integration, supporting Python, Java, .NET, TypeScript, and remote development via WSL, containers, and SSH.
+
+Visual Studio Code (VS Code) is a lightweight but powerful source code editor that runs on Windows, macOS, and Linux. It features built-in IntelliSense code completion, debugging, Git version control, and extensive extension support through the Visual Studio Marketplace.
+
+## Key Topics
+
+- Visual Studio Code (VS Code)
+- GitHub Copilot
+- IntelliSense
+- Python development
+- Java development
+- .NET and C# Dev Kit
+- Windows Subsystem for Linux (WSL)
+- Remote Development
+- Dev Containers
+- Git and version control
+- TypeScript
+- Debugging and testing
+- Extensions and Marketplace
+- AI-assisted coding
+- Code navigation and editing
+
+## Getting Started
+
+- [Visual Studio Code - The open source AI code editor](https://code.visualstudio.com): Homepage: AI-powered code editor with GitHub Copilot integration
+- [Download Visual Studio Code - Mac, Linux, Windows](https://code.visualstudio.com/download): Download VS Code for Mac, Linux, Windows; access Insiders build & vscode.dev
+- [Documentation for Visual Studio Code](https://code.visualstudio.com/Docs): Documentation hub: getting started, AI features, and GitHub Copilot guides
+- [Tutorial: Get started with Visual Studio Code](https://code.visualstudio.com/docs/getstarted/getting-started): Beginner tutorial: UI, IntelliSense, Code Actions, debugging & extensions
+- [Getting started with Visual Studio Code](https://code.visualstudio.com/docs/introvideos/basics): Getting started video tutorial: AI features, IntelliSense, and shortcuts
+- [Introductory Videos](https://code.visualstudio.com/docs/getstarted/introvideos): Video tutorial collection: overview of VS Code features for beginners
+- [Visual Studio Code tips and tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks): Productivity tips: keyboard shortcuts, Command Palette, Emmet, IntelliSense
+- [Why did we build Visual Studio Code?](https://code.visualstudio.com/Docs/editor/whyvscode): Product philosophy: lightweight editor with IntelliSense, debugging & Git support
+
+## Setup and Installation
+
+- [Setting up Visual Studio Code](https://code.visualstudio.com/docs/setup/setup-overview): Setup overview: installation, platform support, updates, and Copilot Free plan
+- [Visual Studio Code on Windows](https://code.visualstudio.com/docs/setup/windows): Windows setup guide: install VS Code, WSL, Git, Node.js, and extensions
+- [Visual Studio Code for the Web](https://code.visualstudio.com/docs/setup/vscode-web): Browser-based VS Code at vscode.dev: zero-install GitHub & Azure Repos editing
+
+## Language Support
+
+- [Python in Visual Studio Code](https://code.visualstudio.com/docs/languages/python): Python overview: Microsoft Python extension, IntelliSense, debugging, WSL support
+- [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial): Python tutorial: setup Python 3, virtual environments, and debugging basics
+- [Editing Python in Visual Studio Code](https://code.visualstudio.com/docs/python/editing): Python editing: IntelliSense, autocomplete with Pylance & Pyright extensions
+- [Java in Visual Studio Code](https://code.visualstudio.com/docs/languages/java): Java overview: Extension Pack, Maven, Spring Boot, debugging with IntelliSense
+- [Getting Started with Java in VS Code](https://code.visualstudio.com/docs/java/java-tutorial): Java tutorial: setup JDK, Extension Pack for Java, Hello World guide
+- [Using .NET in Visual Studio Code](https://code.visualstudio.com/docs/languages/dotnet): .NET development setup: C# Dev Kit, F# extensions, and IntelliSense features
+
+## Core Features
+
+- [Basic editing](https://code.visualstudio.com/docs/editing/codebasics): Basic editing features: keyboard shortcuts, multi-cursor, text selection
+- [Code Navigation](https://code.visualstudio.com/docs/editing/editingevolved): Code navigation features: Quick Open, breadcrumbs, Go to Symbol, Outline view
+- [Testing](https://code.visualstudio.com/docs/debugtest/testing): Testing features: Test Explorer, debugging, coverage, AI-assisted with Copilot
+
+## Remote Development
+
+- [Developing in WSL](https://code.visualstudio.com/docs/remote/wsl): WSL development guide: VS Code WSL extension for Linux development on Windows
+- [Remote Development FAQ](https://code.visualstudio.com/docs/remote/faq): Remote Development FAQ: SSH, containers, WSL, GitHub Codespaces setup
+- [Dev Containers FAQ](https://code.visualstudio.com/docs/devcontainers/faq): Dev Containers FAQ: Docker setup, container definitions, troubleshooting
+
+## Release Notes
+
+- [March 2026 (version 1.111)](https://code.visualstudio.com/updates): March 2026 release notes: agent permissions, Autopilot, chat improvements
+- [January 2026 (version 1.109)](https://code.visualstudio.com/updates/v1_109): January 2026 release: multi-agent development, chat UX, agent hooks & steering
+- [July 2025 (version 1.103)](https://code.visualstudio.com/updates/v1_103): July 2025 release: GPT-5 integration, chat checkpoints, Git worktrees support
+- [May 2025 (version 1.101)](https://code.visualstudio.com/updates/v1_101): May 2025 release: MCP support, chat tools, Copilot agent improvements
+
+## Support and FAQ
+
+- [Visual Studio Code FAQ](https://code.visualstudio.com/docs/supporting/faq): General FAQ: GitHub Copilot open source, subscriptions, AI features
+- [GitHub Copilot frequently asked questions](https://code.visualstudio.com/docs/copilot/faq): Copilot FAQ: subscription plans, authentication, usage monitoring, features
+- [Source Control FAQ](https://code.visualstudio.com/docs/sourcecontrol/faq): Git & GitHub FAQ: commit management, authentication, TFVC, Azure Repos
+- [C# Dev Kit FAQ](https://code.visualstudio.com/docs/csharp/cs-dev-kit-faq): C# Dev Kit FAQ: extension setup, .NET project types, troubleshooting

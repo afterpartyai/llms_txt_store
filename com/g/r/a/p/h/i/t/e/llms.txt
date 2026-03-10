@@ -1,0 +1,63 @@
+# Graphite
+
+> > Graphite is an AI-powered code review platform for GitHub that introduces stacked PRs, merge queues, and automated code review through the Graphite CLI and Diamond AI agent.
+
+Graphite streamlines developer workflows with tools like the gt CLI for managing stacked diffs, PR inbox management, and AI-assisted code reviews. The platform integrates with GitHub, VS Code, Slack, and other developer tools, serving companies like Ramp, Shopify, and Snowflake. Graphite was acquired by Cursor to build unified development tools.
+
+## Key Topics
+
+- Stacked PRs and stacked diffs
+- AI code review (Diamond agent)
+- Graphite CLI (gt commands)
+- GitHub integration
+- Merge queue
+- Pull request workflow
+- Developer productivity
+- Code review automation
+- Git workflow optimization
+- CI/CD integration
+- GitHub Actions
+- Version control best practices
+- Developer tools ecosystem
+
+## Getting Started
+
+- [Overview - Graphite](https://graphite.com/docs/get-started): Getting started overview: CLI setup, AI reviews, and GitHub authentication
+- [Quick Start - Graphite](https://graphite.com/docs/cli-quick-start): CLI quick start: gt commands for stacking PRs and simplifying Git workflow
+- [Features](https://graphite.com/features): Product features: CLI, PR inbox, Graphite Chat, Merge Queue, and insights
+- [Graphite Pricing](https://graphite.com/pricing): Pricing plans: Hobby (free), Starter ($20), Pro ($30), Enterprise tiers
+- [Graphite - Code review for the age of AI](https://graphite.com): Homepage: AI code review platform for GitHub with stacked PRs & merge queue
+
+## Core Concepts & Workflows
+
+- [Stacked diffs](https://graphite.com/guides/stacked-diffs): Comprehensive guide to stacked diffs workflow and code review best practices
+- [Graphite](https://graphite.com/guides/graphite): Comprehensive guide to Graphite platform, features, and stacked diffs workflow
+- [Comparing Git And Gt - Graphite](https://graphite.com/docs/comparing-git-and-gt): Git vs gt comparison: workflow differences for stacked changes and PRs
+- [Basic Tutorials - Graphite](https://graphite.com/docs/basic-tutorials): Basic CLI tutorials: creating PRs, stacks, and syncing with remote repos
+- [Advanced Tutorials - Graphite](https://graphite.com/docs/advanced-tutorials): Advanced CLI tutorials: branch reordering, stack collaboration, multitrunk
+
+## GitHub & Git Guides
+
+- [Configure GitHub Repository Settings - Graphite](https://graphite.com/docs/github-configuration-guidelines): GitHub repository configuration guide for Graphite CLI and branch protection
+- [GitHub actions beginner guide](https://graphite.com/guides/github-actions-beginner-guide): Beginner tutorial for GitHub Actions CI/CD workflow automation with YAML
+- [Getting started with GitHub Actions](https://graphite.com/guides/github-actions): GitHub Actions getting started guide with workflow automation examples
+- [Git undo last commit](https://graphite.com/guides/git-undo-last-commit): Git guide: undo last commit with reset --soft and --hard commands
+- [Git switch vs Git checkout](https://graphite.com/guides/git-switch-vs-git-checkout): Git comparison: git switch vs git checkout for branch switching workflows
+
+## Company News & Case Studies
+
+- [Building the future of software development with Cursor](https://graphite.com/blog/graphite-joins-cursor): Acquisition announcement: Graphite joins Cursor to build unified dev tools
+- [Graphite raises $52M and launches Diamond to reimagine code review for the age of AI](https://graphite.com/blog/series-b-diamond-launch): Series B funding ($52M) and Diamond AI code review agent launch announcement
+- [How Graphite helped New York's fastest-growing unicorn ship code 3x faster](https://graphite.com/customer/ramp): Ramp case study: 3x faster code shipping with stacked PRs workflow
+
+## Support & Resources
+
+- [Graphite Guides](https://graphite.com/guides): Guides index covering AI automation, agile development, and code review topics
+- [CLI Troubleshooting FAQs - Graphite](https://graphite.com/docs/troubleshooting): CLI troubleshooting FAQ: debugging, bug reports, and force-push issues
+- [Pricing FAQ - Graphite](https://graphite.com/docs/pricing-faq): Pricing FAQ: billing, trial periods, startup program, and payment methods
+
+## Optional
+
+- [Comparing AI models for code generation](https://graphite.com/guides/ai-coding-model-comparison): AI model comparison: GPT-4.1, Claude Sonnet 3.7, and DeepSeek R1 for coding
+- [Tips for navigating GitHub as a newcomer](https://graphite.com/guides/navigating-github-for-beginners): GitHub beginner guide with navigation tips and Graphite integration insights
+- [graphite](https://graphite.com/guides/topic/graphite): Graphite topic guides: stacked diffs, Sapling comparison, and workflow tips

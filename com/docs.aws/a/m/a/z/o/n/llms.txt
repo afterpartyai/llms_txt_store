@@ -1,0 +1,66 @@
+# AWS Documentation
+
+> > Comprehensive technical documentation for Amazon Web Services (AWS) cloud platform, covering compute, storage, networking, infrastructure as code, and managed services.
+
+This is the official documentation hub for AWS, providing guides, tutorials, API references, and best practices for services including Amazon EC2, AWS CloudFormation, AWS CDK, Amazon S3, and Amazon Timestream. Content ranges from beginner setup guides to advanced architectural patterns for cloud infrastructure.
+
+## Key Topics
+
+- Amazon EC2 (Elastic Compute Cloud)
+- AWS Regions and Availability Zones
+- AWS CloudFormation
+- AWS CDK (Cloud Development Kit)
+- AWS CLI (Command Line Interface)
+- Amazon S3 (Simple Storage Service)
+- Amazon EBS (Elastic Block Store)
+- SSH and instance connection
+- AWS Free Tier
+- Infrastructure as Code (IaC)
+- Amazon Timestream and InfluxDB 3
+- Global infrastructure and edge locations
+- Blue/green deployments
+- AMI (Amazon Machine Images)
+- AWS Management Console
+
+## Getting Started
+
+- [Overview of Amazon Web Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html): AWS whitepaper introducing cloud computing and AWS services overview
+- [Setting Up Your AWS Environment](https://docs.aws.amazon.com/hands-on/latest/setup-environment/setup-environment.html): Beginner guide to AWS account setup and CLI configuration (35 min)
+- [What is Amazon EC2?](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html): Amazon EC2 overview: scalable virtual servers in AWS Cloud
+- [Get started with Amazon EC2](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html): Tutorial: Launch, connect to, and clean up Amazon EC2 instances
+- [Tutorial 1: Launch my very first Amazon EC2 instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/tutorial-launch-my-first-ec2-instance.html): Beginner tutorial: launch and manage your first EC2 instance
+- [Getting started with AWS Support](https://docs.aws.amazon.com/awssupport/latest/user/getting-started.html): AWS Support plans overview and getting started guide
+
+## Amazon EC2 Compute
+
+- [Connect to your Linux instance using SSH](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/connect-to-linux-instance.html): SSH connection methods for Linux EC2 instances across platforms
+- [Amazon EC2 key pairs and Amazon EC2 instances](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html): EC2 key pairs for SSH authentication and instance access control
+- [Create an Amazon EBS-backed AMI](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/creating-an-ami-ebs.html): Guide to creating custom Amazon EBS-backed AMIs from instances
+- [Regions and Zones](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html): EC2 geographic infrastructure: Regions, AZs, Local Zones, Wavelength
+
+## Infrastructure as Code
+
+- [Getting started with the AWS CDK](https://docs.aws.amazon.com/cdk/v2/guide/getting-started.html): Install and configure AWS CDK CLI for infrastructure as code
+- [Tutorial: Create your first AWS CDK app](https://docs.aws.amazon.com/cdk/v2/guide/hello-world.html): First AWS CDK app tutorial: deploy Lambda function with CDK CLI
+- [About blue/green deployments](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/about-blue-green-deployments.html): Blue/green deployment strategy with CloudFormation and CodeDeploy
+- [Troubleshooting CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/troubleshooting.html): CloudFormation stack troubleshooting guide for errors and failures
+
+## Reference Guides
+
+- [AWS services by category](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/amazon-web-services-cloud-platform.html): Catalog of AWS cloud services organized by category
+- [AWS Regions](https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions.html): Reference guide to AWS Regions, Availability Zones, and opt-in status
+- [Points of presence](https://docs.aws.amazon.com/whitepapers/latest/aws-fault-isolation-boundaries/points-of-presence.html): AWS edge network PoPs for CloudFront, Route 53, and Global Accelerator
+- [AWS::Kendra::Faq](https://docs.aws.amazon.com/AWSCloudFormation/latest/TemplateReference/aws-resource-kendra-faq.html): CloudFormation resource reference for AWS Kendra FAQ creation
+
+## FAQs and Troubleshooting
+
+- [FAQs about Amazon Q Developer](https://docs.aws.amazon.com/prescriptive-guidance/latest/best-practices-code-generation/faq.html): Amazon Q Developer AI coding assistant FAQ and best practices
+- [Frequently Asked Questions - AWS Config](https://docs.aws.amazon.com/config/latest/developerguide/faq.html): AWS Config FAQ: configuration changes and resource relationships
+- [General FAQ for Amazon Timestream for InfluxDB 3](https://docs.aws.amazon.com/timestream/latest/developerguide/faq-general.html): InfluxDB 3 architecture, editions, and availability FAQ
+- [Storage and billing FAQ for Amazon Timestream for InfluxDB 3](https://docs.aws.amazon.com/timestream/latest/developerguide/faq-storage-billing.html): Timestream InfluxDB 3 storage architecture and billing FAQ
+- [Schema design FAQ for Amazon Timestream for InfluxDB 3](https://docs.aws.amazon.com/timestream/latest/developerguide/faq-schema-design.html): InfluxDB 3 schema design best practices: tags, fields, cardinality
+
+## Optional
+
+- [What is Amazon Quick?](https://docs.aws.amazon.com/quick/latest/userguide/what-is.html): Amazon Quick (formerly QuickSight) AI-powered BI platform overview
+- [Configuration and parameter groups FAQ for Amazon Timestream for InfluxDB 3](https://docs.aws.amazon.com/timestream/latest/developerguide/faq-configuration.html): InfluxDB 3 cluster configuration and parameter groups FAQ

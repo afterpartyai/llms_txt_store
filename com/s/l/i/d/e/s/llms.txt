@@ -1,0 +1,65 @@
+# Slides
+
+> > A cloud-based presentation platform with AI-powered content generation, built on reveal.js, offering browser-based editing, collaboration tools, and advanced features like Auto-Animate and custom CSS.
+
+Slides is a modern presentation software founded by Hakim El Hattab and Owen Bossola. It combines the power of reveal.js with Slides AI (powered by OpenAI GPT) to enable users to create, share, and present slide decks entirely in the browser with team collaboration features.
+
+## Key Topics
+
+- Slides AI (AI content generation)
+- reveal.js (open-source foundation)
+- Auto-Animate
+- Browser-based editor
+- Team collaboration
+- Live Present Mode
+- Custom CSS/HTML
+- Code Block syntax highlighting
+- SVG and TeX support
+- Google Analytics integration
+- YouTube/Vimeo embeds
+- Lines and Arrows 2.0
+- Presentation translation
+- Keyboard shortcuts
+
+## Getting Started
+
+- [Create and Share Presentations for Free | Slides](https://slides.com): Main homepage featuring Slides AI, editor tools, and presentation features
+- [Features | Slides](https://slides.com/features): Feature overview: cloud-based editing, Auto-Animate, Slides AI, analytics
+- [Sign up | Slides](https://slides.com/users/sign_up): Account registration with email, Facebook, or Google sign-up options
+- [Log in | Slides](https://slides.com/users/sign_in): User login page with Facebook and Google authentication options
+- [Pricing and Plans | Slides](https://slides.com/pricing): Subscription plans: free, Pro, and Team tiers with AI credits and storage
+- [About us & Press | Slides](https://slides.com/about): Company info: founded by Hakim El Hattab & Owen Bossola, built on reveal.js
+
+## Documentation & Help
+
+- [Knowledge Base – Slides Help](https://help.slides.com/knowledgebase): Main help documentation hub covering editing, presenting, and collaboration
+- [All articles – Slides Help](https://help.slides.com/knowledgebase/articles/all): Complete index of all help articles from editing to exporting
+- [Slide Layout – Slides Help](https://help.slides.com/knowledgebase/articles/405472-slide-layout): Guide to moving, resizing blocks and using transform anchors in Slides
+- [Grouping Content Blocks – Slides Help](https://help.slides.com/knowledgebase/articles/1933138-grouping-content-blocks): Tutorial on grouping multiple blocks for easier editing and animation
+- [Editing: Content Types – Slides Help](https://help.slides.com/knowledgebase/topics/138559-editing-content-types): Documentation for SVG, video embeds, maps, code highlighting, and TeX formulas
+- [Presentation Settings – Slides Help](https://help.slides.com/knowledgebase/topics/60462-presentation-settings): Documentation for privacy, auto-slide, password protection, and slide numbers
+
+## AI & Advanced Features
+
+- [Slides AI](https://m.slides.com/news/slides-ai): Announcement of Slides AI features powered by OpenAI GPT technology
+- [Translating Presentations – Slides Help](https://help.slides.com/knowledgebase/articles/2024740-translating-presentations): Guide to AI-powered presentation translation with Translation Manager
+- [Custom CSS (Pro) – Slides Help](https://help.slides.com/knowledgebase/articles/253052-custom-css-pro): Pro feature guide for custom CSS/LESS styling with real-time preview
+
+## Team Collaboration
+
+- [Teams – Slides Help](https://help.slides.com/knowledgebase/topics/46632-teams): Team management docs: theme editor, SSO, billing, and member settings
+- [How do I copy slides between decks? – Slides Help](https://help.slides.com/knowledgebase/articles/583992-how-do-i-copy-slides-between-decks): FAQ on copying slides between decks and using slide templates
+
+## Templates & Community
+
+- [Free Templates | Slides](https://slides.com/templates): Free presentation template library for jumpstarting slide decks
+- [Explore Presentations | Slides](https://slides.com/explore): Gallery of featured presentations created by the Slides community
+
+## Optional
+
+- [Building Beginner-Friendly API Tutorials](https://slides.com/alainakafkes/beginner-friendly-api-tutorials): Talk by Alaina Kafkes on creating accessible API documentation
+- [TDD: Test-Driven Documentation](https://slides.com/bahmutov/test-driven-documentation): Gleb Bahmutov's talk on test-driven documentation with Cypress.io
+- [GDAL 101: The Geospatial Data Abstraction Library for beginners.](https://slides.com/staceymaples/handsonwithgdal): Workshop presentation on GDAL/OGR for geospatial data processing
+- [Lecture 4: Monads and IO](https://slides.com/haskellbeginners2022/lecture-4): Haskell programming lecture on Monads, Maybe, Either, and IO types
+- [ArcGIS Platform - Location services](https://slides.com/alaframboise/arcgis-platform-location-services): Esri presentation on ArcGIS location services, geocoding, and routing APIs
+- [Professional Training Institute](https://slides.com/aboutco/professional-training-institute): Presentation about PTI educator training in Massachusetts

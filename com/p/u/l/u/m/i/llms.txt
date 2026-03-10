@@ -1,0 +1,73 @@
+# Pulumi
+
+> > Infrastructure as Code platform supporting TypeScript, Python, Go, .NET, Java, and YAML across AWS, Azure, Google Cloud, and Kubernetes with unified secrets management (ESC), AI automation (Neo), and policy governance.
+
+Pulumi enables developers to build, deploy, and manage cloud infrastructure using familiar programming languages instead of domain-specific configuration languages. The platform includes Pulumi Cloud for state management and collaboration, Pulumi ESC for secrets and configuration, and Pulumi Neo for AI-assisted infrastructure automation.
+
+## Key Topics
+
+- Infrastructure as Code (IaC)
+- Multi-language support (TypeScript, Python, Go, .NET, Java, YAML)
+- Cloud providers (AWS, Azure, Google Cloud)
+- Kubernetes orchestration
+- Pulumi Cloud (state management & collaboration)
+- Pulumi ESC (secrets management)
+- Pulumi Neo (AI automation)
+- Stacks (deployment environments)
+- Resource Providers
+- Automation API
+- Multi-cloud deployment
+- Policy governance (Crossguard)
+- CI/CD integration
+- Pulumi CLI
+- Package managers (npm, pip, uv)
+
+## Getting Started
+
+- [Pulumi - Infrastructure as Code in Any Programming Language](https://pulumi.com): Homepage: IaC platform with multi-language support, AI automation & secrets
+- [Documentation | Pulumi Docs](https://pulumi.com/docs): Docs homepage: IaC platform overview with TypeScript, Python, Go, .NET, Java
+- [Get Started with Pulumi | Pulumi Docs](https://pulumi.com/docs/get-started): Getting started guide with cloud provider quickstarts (AWS, Azure, GCP, K8s)
+- [Download & Install Pulumi | Pulumi Docs](https://pulumi.com/docs/get-started/download-install): CLI installation guide for macOS, Linux, Windows via Homebrew & pkg managers
+- [Why Pulumi | Pulumi](https://pulumi.com/why-pulumi): Value prop: Any language, any cloud IaC with TypeScript/Python/Go/C#/Java
+
+## Core Concepts & Platform
+
+- [What is Pulumi? | Pulumi Docs](https://pulumi.com/docs/iac/concepts): Core concepts: IaC platform architecture, multi-language SDKs & Pulumi Cloud
+- [Unified Platform for Infrastructure Teams – Pulumi Platform | Pulumi](https://pulumi.com/product): Product overview: IaC, secrets (ESC), AI (Neo) & policy in unified platform
+- [Stacks | Pulumi Concepts | Pulumi Docs](https://pulumi.com/docs/iac/concepts/stacks): Stacks concept: Deployment environments & stack management with Pulumi CLI
+- [Resource Providers | Pulumi Docs](https://pulumi.com/docs/iac/concepts/providers): Providers reference: Installation, configuration & Pulumi Registry integration
+- [Basics | Pulumi Guides | Pulumi Docs](https://pulumi.com/docs/iac/guides/basics): IaC basics: Project organization, security, update plans & best practices
+
+## Cloud Provider Quickstarts
+
+- [Get started with Pulumi and AWS | Pulumi Docs](https://pulumi.com/docs/iac/get-started/aws): AWS quickstart: Deploy S3 static website with Node.js, Python, Go, .NET, Java
+- [Get started with Pulumi and Google Cloud | Pulumi Docs](https://pulumi.com/docs/iac/get-started/gcp): GCP quickstart: Deploy Cloud Storage website with gcloud CLI & multi-language
+- [Get Started Pulumi and Kubernetes | Pulumi Docs](https://pulumi.com/docs/iac/get-started/kubernetes): K8s quickstart: Deploy NGINX on Kubernetes with kubectl & multi-language SDKs
+
+## Tutorials & Guides
+
+- [Pulumi Tutorials | Pulumi](https://pulumi.com/tutorials): Tutorial hub: AWS, Azure, GCP, K8s, ESC, Crossguard & Deployments guides
+- [Create Infrastructure with Pulumi Deployments Click-to-Deploy | Learn Pulumi | Pulumi](https://pulumi.com/tutorials/pulumi-deployments-click-to-deploy): Deployments tutorial: Browser-based deployment with GitHub App & New Project
+- [Configure AWS Kendra FAQs | Pulumi Guides](https://pulumi.com/guides/how-to/aws-kendra-faq): AWS Kendra FAQ: S3-based FAQ ingestion for natural language search with IAM
+
+## Automation API
+
+- [Pulumi Automation API | Pulumi](https://pulumi.com/automation): Automation API: Programmatic IaC engine SDK for custom cloud interfaces
+- [Getting Started with Automation API | Pulumi Docs](https://pulumi.com/docs/iac/automation-api/getting-started-automation-api): Automation API setup: Node.js/Python installation & inline program examples
+
+## Support & Troubleshooting
+
+- [Support & Troubleshooting | Pulumi Docs](https://pulumi.com/docs/support): Support hub: FAQs, debugging tools, logging & community resources (Slack)
+- [Pulumi Troubleshooting Guide | Pulumi Docs](https://pulumi.com/docs/support/troubleshooting): Troubleshooting hub: Debugging, logging, CI/CD issues & GitHub support links
+- [Troubleshooting CI/CD | Pulumi Docs](https://pulumi.com/docs/support/troubleshooting/ci-cd): CI/CD troubleshooting: Pipeline config, access tokens & stack management tips
+- [Logging in Pulumi for Debugging | Pulumi Docs](https://pulumi.com/docs/support/debugging/logging): Logging guide: CLI verbose mode, program logging & Terraform provider logs
+- [Pulumi IaC FAQ | Pulumi Docs](https://pulumi.com/docs/support/faq/infrastructure): IaC FAQ: Rollback, state refresh, resource naming & drift detection answers
+- [Pulumi Status](https://status.pulumi.com): System status page: Real-time uptime monitoring for API, Console & services
+- [Talk to a human | Pulumi](https://pulumi.com/contact): Contact page with Seattle address & support form for sales inquiries
+
+## Optional
+
+- [About | Pulumi](https://pulumi.com/about): Company overview: Mission to democratize cloud for every engineer
+- [Leadership | Pulumi](https://pulumi.com/about/leadership): Executive team & board: Joe Duffy (CEO), Eric Rudder, Madrona, Tola, NEA
+- [Brand Resources | Pulumi](https://pulumi.com/brand): Brand assets: Logos (SVG/PNG), color codes & design guidelines for partners
+- [Sign in - Google Accounts](https://corp.pulumi.com): Corporate Google SSO login portal for Pulumi employees

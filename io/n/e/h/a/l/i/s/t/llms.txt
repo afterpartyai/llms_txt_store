@@ -1,0 +1,55 @@
+# nehalist.io
+
+> > A full-stack web development blog by Kevin from Austria, featuring in-depth tutorials on Next.js, React, Angular, TypeScript, and modern web technologies.
+
+nehalist.io provides practical guides and tutorials for modern web development, with a focus on TypeScript-based frameworks, authentication patterns, form handling, and full-stack JavaScript development. The site also showcases projects like ilox, a stock alert service that grew to 30,000+ members.
+
+## Key Topics
+
+- Next.js
+- Angular
+- TypeScript
+- React
+- NextAuth
+- react-hook-form
+- Zod
+- T3 Stack
+- tRPC
+- Authentication
+- Web Development
+- Full-stack Development
+- Node.js
+- Ghost CMS
+- Server Actions
+
+## Core Pages
+
+- [nehalist.io](https://nehalist.io): Homepage: Web dev blog with Next.js, React, TypeScript tutorials and guides
+- [About](https://nehalist.io/about): About Kevin: Full-stack developer from Austria, tech stack & blog history
+- [ilox](https://nehalist.io/ilox): ilox: Stock alert service for RTX 3000 GPUs, CPUs & consoles (30K+ members)
+- [Contact](https://nehalist.io/contact): Contact form, FAQ about newsletter, tech stack (Ghost 5, Tailwind, Mailgun)
+
+## Next.js & React Tutorials
+
+- [How to add Authentication for Next.js with NextAuth, Part 1: Setup & Logging in](https://nehalist.io/authentication-for-nextjs-with-nextauth-part-1): Multi-part tutorial: NextAuth setup and login methods for Next.js apps
+- [How to use react-hook-form with Next.js Server Actions and Zod Input validation](https://nehalist.io/react-hook-form-with-nextjs-server-actions): Tutorial: react-hook-form with Next.js Server Actions and Zod validation
+
+## Angular Guides
+
+- [Multiple HTTP Requests in Angular](https://nehalist.io/multiple-http-requests-in-angular): Guide: Sequential and parallel HTTP requests in Angular applications
+- [Polling in Angular](https://nehalist.io/polling-in-angular): How to implement polling for periodic data updates in Angular with RxJS
+- [Realtime feed with Sails, Angular and SocketIO](https://nehalist.io/realtime-feed-with-sails-angular-and-socketio): Tutorial: Implementing realtime feed with SailsJS, Angular & Socket.IO
+
+## Development Setup & Tools
+
+- [Setting up web projects](https://nehalist.io/setting-up-web-projects): Guide: Tools for code quality, bug detection, and web project setup
+- [Software Spotlight: Husky, git hooks made easy](https://nehalist.io/software-spotlight-husky-git-hooks-made-easy): Review: Husky npm package for simplified git hooks in package.json
+- [Installing Ghost 1.0 (without ghost-cli)](https://nehalist.io/installing-ghost-1-0-without-ghost-cli): Manual Ghost 1.0 installation guide without using ghost-cli
+
+## Optional
+
+- [The new nehalist.io](https://nehalist.io/the-new-nehalist-io): Site redesign announcement: new nehalist.io powered by Gatsby and Ghost
+- [Introducing nehalist.io v2](https://nehalist.io/introducing-nehalist-io-v2): Version 2 launch announcement featuring new logo and open source design
+- [Ember so far](https://nehalist.io/ember-so-far): First impressions and experiences with Ember framework
+- [Better array parameter handling in PHP](https://nehalist.io/better-array-parameter-handling-in-php): PHP best practices for improved array parameter handling
+- [nehalist.io (Page 4)](https://nehalist.io/page/4): Blog archive page 4: Angular file uploads, models, and Symfony tutorials

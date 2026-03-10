@@ -1,0 +1,63 @@
+# Total TypeScript
+
+> > Professional TypeScript training by Matt Pocock featuring interactive exercises, workshops, and tutorials for mastering TypeScript, React, and modern JavaScript tooling.
+
+Total TypeScript offers exercise-driven learning paths from beginner to advanced TypeScript concepts, including specialized content for React developers, team training programs, and practical guides on tsconfig, type transformations, and runtime validation with Zod. Created by TypeScript educator Matt Pocock, the platform combines free tutorials with professional workshops covering 200+ hands-on exercises.
+
+## Key Topics
+
+- TypeScript fundamentals and essentials
+- React with TypeScript
+- Interactive exercises and hands-on learning
+- Type transformations and mapped types
+- Generics and advanced patterns
+- TypeScript errors and debugging
+- tsconfig.json configuration
+- Zod runtime validation
+- Node.js TypeScript support
+- JSX type checking
+- Type guards and type predicates
+- VS Code TypeScript tooling
+- Beginner to advanced learning paths
+
+## Getting Started
+
+- [Professional TypeScript Training by Matt Pocock  | Total TypeScript](https://totaltypescript.com): Homepage for exercise-driven TypeScript workshops and training by Matt Pocock
+- [How To Learn TypeScript In 2025 | Total TypeScript](https://totaltypescript.com/learn-typescript): Step-by-step guide with focused questions for learning TypeScript in 2025
+- [TypeScript Learning Path | Total TypeScript](https://totaltypescript.com/typescript-learning-path): 22-65 hour curriculum covering TypeScript from basics to advanced patterns
+- [Beginner's TypeScript Tutorial | Total TypeScript](https://totaltypescript.com/tutorials/beginners-typescript): Free interactive TypeScript tutorial covering variables, functions, and errors
+- [Kickstart Your TypeScript Setup | Total TypeScript](https://totaltypescript.com/books/total-typescript-essentials/kickstart-your-typescript-setup): Chapter 1: TypeScript's evolution from JavaScript and setup fundamentals
+
+## Free Tutorials
+
+- [Free TypeScript Tutorials from Matt Pocock | Total TypeScript](https://totaltypescript.com/tutorials): Collection of free exercise-driven TypeScript tutorials and guides
+- [React with TypeScript Tutorial | Total TypeScript](https://totaltypescript.com/tutorials/react-with-typescript): Interactive tutorial on typing React components, hooks, and props with TS
+- [Solving TypeScript Errors Tutorial | Total TypeScript](https://totaltypescript.com/tutorials/solving-typescript-errors): Tutorial on understanding and resolving common TypeScript error messages
+- [Zod Tutorial | Total TypeScript](https://totaltypescript.com/tutorials/zod): Hands-on tutorial for runtime validation and schema validation using Zod
+
+## Professional Workshops & Products
+
+- [Professional TypeScript Workshops from Matt Pocock | Total TypeScript](https://totaltypescript.com/workshops): Pro workshops on TypeScript essentials, generics, and React with 200+ exercises
+- [Total TypeScript Products | Total TypeScript](https://totaltypescript.com/products): Complete Volume bundle with 5 TypeScript workshops and expert interviews
+- [Total TypeScript Essentials | Total TypeScript](https://totaltypescript.com/books/total-typescript-essentials): Book covering TypeScript essentials: generics, type guards, and tooling setup
+- [Total TypeScript For Teams | Total TypeScript](https://totaltypescript.com/for-teams): Team training and enterprise licenses for TypeScript courses by Matt Pocock
+
+## Reference & Configuration
+
+- [The TSConfig Cheat Sheet | Total TypeScript](https://totaltypescript.com/tsconfig-cheat-sheet): Essential tsconfig.json options with @total-typescript/tsconfig package
+- [TypeScript Concepts by Matt Pocock | Total TypeScript](https://totaltypescript.com/concepts): Reference guide for TypeScript concepts like Prettify, mapped types, and React
+- [Explained: Cannot use JSX unless the '--jsx' flag is provided | Total TypeScript](https://totaltypescript.com/cannot-use-jsx-unless-the-jsx-flag-is-provided): Fix JSX error by configuring tsconfig.json jsx option for React projects
+- [The `Prettify` Helper | Total TypeScript](https://totaltypescript.com/concepts/the-prettify-helper): Utility type to improve hover overlay readability for object types
+
+## Articles & Tips
+
+- [TypeScript Articles by Matt Pocock | Total TypeScript](https://totaltypescript.com/articles): 83 articles on TypeScript, Node.js, Cursor AI rules, and npm packages
+- [TypeScript Tips by Matt Pocock | Total TypeScript](https://totaltypescript.com/tips): 34 quick TypeScript tips on type predicates, generics, and best practices
+- [Node.js Now Supports TypeScript By Default | Total TypeScript](https://totaltypescript.com/typescript-is-coming-to-node-23): Node 23 adds native TypeScript support via experimental strip-types flag
+- [Where To Put Your Types in Application Code | Total TypeScript](https://totaltypescript.com/where-to-put-your-types-in-application-code): Opinionated guide on organizing TypeScript types in application architecture
+
+## Optional
+
+- [Total TypeScript FAQ | Total TypeScript](https://totaltypescript.com/faq): Frequently asked questions about pricing, team licenses, and PPP discounts
+- [Contact the Total TypeScript Team | Total TypeScript](https://totaltypescript.com/contact): Contact form for general inquiries and support requests
+- [Decode URL search params at the type level with ts-toolbelt | Total TypeScript](https://totaltypescript.com/tips/decode-url-search-params-at-the-type-level-with-ts-toolbelt): Type-level URL query param parsing using ts-toolbelt and template literals

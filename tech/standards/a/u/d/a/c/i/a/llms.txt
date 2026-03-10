@@ -1,0 +1,57 @@
+# Audacia Standards
+
+> > Comprehensive engineering and delivery standards for software development at Audacia, covering C#, TypeScript, Angular, Vue, and Azure DevOps workflows.
+
+This site documents Audacia's 8 core engineering principles and coding standards across multiple technologies including .NET, TypeScript, Angular, and Vue. It serves as the authoritative reference for quality assurance, security practices, observability, and project delivery workflows for Audacia engineers.
+
+## Key Topics
+
+- Engineering Principles
+- C# / .NET Development
+- TypeScript & Angular
+- Vue 3
+- Code Quality & Testing
+- Security & Secure Coding
+- Observability & Logging
+- Performance & Scalability
+- Azure DevOps
+- Documentation Standards
+- UX Design Patterns
+- Vulnerability Management
+- Technical Debt Management
+- Project Delivery
+- Automated Testing
+
+## Core Engineering Principles
+
+- [Audacia Standards](https://standards.audacia.tech): Homepage: comprehensive guide to Audacia's engineering & delivery practices
+- [Engineering Overview](https://standards.audacia.tech/engineering): Main engineering standards page covering Audacia's 8 core principles
+- [Engineering Principles](https://standards.audacia.tech/engineering/engineering-principles): Audacia's 8 engineering principles for software system development
+- [Quality](https://standards.audacia.tech/engineering/engineering-principles/2-quality): Code quality principles: architecture, testing & technical debt mgmt
+
+## Security & Availability
+
+- [Security and Availability](https://standards.audacia.tech/engineering/engineering-principles/7-security-and-availability): Security scanning, vulnerability management & backup standards
+- [Secure Coding Standards](https://standards.audacia.tech/engineering/engineering-principles/7-security-and-availability/secure-coding-standards): Secure coding: .NET/Angular stack security & vulnerability management
+
+## C# / .NET Coding Standards
+
+- [C# Standards](https://standards.audacia.tech/engineering/coding-standards/csharp): C# coding guidelines based on Aliencube & Dennis Doomen standards
+- [C# Documentation](https://standards.audacia.tech/engineering/coding-standards/csharp/cs-documentation): C# XML documentation standards with Visual Studio & Roslyn Analyzer
+
+## TypeScript & Frontend Standards
+
+- [TypeScript Maintainability](https://standards.audacia.tech/engineering/coding-standards/typescript/typescript-maintainability): TypeScript maintainability: method complexity, DRY principle & clean code
+- [Vue Standards](https://standards.audacia.tech/engineering/coding-standards/typescript/vue): TypeScript standards for Vue 3 development & best practices
+- [HTML Standards](https://standards.audacia.tech/engineering/coding-standards/html-and-css/html): HTML coding standards for Audacia engineers
+- [CSS Standards](https://standards.audacia.tech/engineering/coding-standards/html-and-css/css): CSS coding standards and stylesheet guidelines for engineers
+
+## Observability & Performance
+
+- [Logging](https://standards.audacia.tech/engineering/engineering-principles/4-observability/logging): Structured logging standards for debugging & monitoring applications
+- [Performance and Scalability](https://standards.audacia.tech/engineering/engineering-principles/8-performance-and-scalability): Performance testing & scalable system architecture principles
+
+## Project Delivery & UX
+
+- [Raising Bugs](https://standards.audacia.tech/project-delivery/raising-bugs): Bug reporting standards: card structure & issue tracking guidelines
+- [UX Design](https://standards.audacia.tech/engineering/engineering-principles/6-user-experience/ux-design): UX design standards: proven UI patterns & user flow conventions

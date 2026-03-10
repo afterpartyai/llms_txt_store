@@ -1,0 +1,62 @@
+# Next.js by Vercel
+
+> > The official documentation and learning hub for Next.js, the React framework for building full-stack web applications with App Router and Pages Router.
+
+Next.js is developed by Vercel and provides comprehensive documentation covering both the modern App Router (with React Server Components) and the legacy Pages Router. The site includes getting started guides, API references, interactive tutorials, and deployment instructions for building production-ready React applications.
+
+## Key Topics
+
+- App Router
+- Pages Router
+- React Server Components
+- Server Components
+- Client Components
+- File-system routing
+- Server Actions
+- TypeScript
+- Tailwind CSS
+- create-next-app
+- Server-side rendering (SSR)
+- Static Site Generation (SSG)
+- Deployment
+- Vercel
+- Turbopack
+
+## Getting Started
+
+- [Next.js by Vercel - The React Framework](https://nextjs.org): Homepage for Next.js React framework by Vercel
+- [Next.js Docs | Next.js](https://nextjs.org/docs): Main documentation hub for Next.js with App Router and Pages Router
+- [Getting Started: Installation | Next.js](https://nextjs.org/docs/app/getting-started/installation): Install Next.js with create-next-app, TypeScript, ESLint setup
+- [App Router: Getting Started | Next.js](https://nextjs.org/docs/app/getting-started): Getting started guide for Next.js App Router with React fundamentals
+- [Pages Router: Getting Started | Next.js](https://nextjs.org/docs/pages/getting-started): Pages Router getting started guide with installation and deployment
+- [Getting Started: Project Structure | Next.js](https://nextjs.org/docs/app/getting-started/project-structure): Complete folder and file conventions reference for Next.js projects
+
+## App Router Documentation
+
+- [Next.js Docs: App Router | Next.js](https://nextjs.org/docs/app): App Router documentation with Server Components and file-system routing
+- [Getting Started: Layouts and Pages | Next.js](https://nextjs.org/docs/app/getting-started/layouts-and-pages): Guide to file-system routing, creating layouts and pages in App Router
+- [Getting Started: Server and Client Components | Next.js](https://nextjs.org/docs/app/getting-started/server-and-client-components): Using React Server Components and Client Components in Next.js
+- [Guides: Forms | Next.js](https://nextjs.org/docs/app/guides/forms): Creating forms with React Server Actions and FormData handling
+
+## Learning Courses
+
+- [Learn Next.js | Next.js by Vercel - The React Framework](https://nextjs.org/learn): Learning hub with courses on App Router, React foundations, Pages Router
+- [React Foundations | Next.js](https://nextjs.org/learn/react-foundations): Beginner course teaching React fundamentals for Next.js development
+- [React Foundations: About React and Next.js | Next.js](https://nextjs.org/learn/react-foundations/what-is-react-and-nextjs): Introduction to React and Next.js framework fundamentals
+- [App Router | Next.js](https://nextjs.org/learn/dashboard-app): Full-stack App Router course building dashboard with authentication
+- [Pages Router | Next.js](https://nextjs.org/learn/pages-router): Pages Router tutorial course for building blog apps with SSG/SSR
+- [SEO | Next.js](https://nextjs.org/learn/seo): SEO optimization course covering Googlebot and Core Web Vitals
+
+## Pages Router Documentation
+
+- [Building Your Application: Routing | Next.js](https://nextjs.org/docs/pages/building-your-application/routing): Pages Router file-system routing and navigation guide
+- [Getting Started: Deploying | Next.js](https://nextjs.org/docs/pages/getting-started/deploying): Deploy Next.js as Node.js server, Docker container, or static export
+
+## Release Notes
+
+- [Next.js 16 | Next.js](https://nextjs.org/blog/next-16): Next.js 16 release with Turbopack, Cache Components, React 19.2 support
+
+## Optional
+
+- [Introduction: Getting Started | Next.js](https://nextjs.org/docs/14/getting-started): Next.js 14 getting started guide with installation and setup
+- [Pages Router: Set up pages | Next.js](https://nextjs.org/learn/pages-router/navigate-between-pages-setup): Pages Router tutorial chapter for setting up navigation

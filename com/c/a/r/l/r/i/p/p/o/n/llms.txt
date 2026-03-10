@@ -1,0 +1,74 @@
+# Carl Rippon's Blog
+
+> > A software architect's blog focused on React, TypeScript, ASP.NET Core development, and AI-assisted coding tools.
+
+Carl Rippon shares technical tutorials, best practices, and insights on modern web development with React and TypeScript, backend development with ASP.NET Core, and agile methodologies. He is the author of "Learn React with TypeScript" and provides practical guidance for developers at all levels.
+
+## Key Topics
+
+- React
+- TypeScript
+- React Hook Form
+- ASP.NET Core
+- Generic Types
+- Type Inference
+- Form Validation
+- Jest Testing
+- Web Components
+- Scrum & Agile
+- AI Coding Agents (Devin, Cursor)
+- Web API Performance
+- ESLint
+- Webpack
+- Custom Elements
+
+## About & Resources
+
+- [Carl's Blog](https://carlrippon.com): Homepage featuring React, TypeScript, and AI development insights by Carl
+- [About Me](https://carlrippon.com/about): Software architect specializing in React, TypeScript, and AI development
+- [Books & Courses](https://carlrippon.com/books): React/TypeScript books and courses including Learn React with TypeScript
+
+## React & TypeScript Fundamentals
+
+- [When to use Type Aliases or Interfaces in TypeScript](https://carlrippon.com/when-to-use-type-aliases-v-interfaces): Comparing TypeScript type aliases vs interfaces for different use cases
+- [Inferring Object and Function Types in TypeScript](https://carlrippon.com/inferring-object-and-function-types-in-typescript): Using typeof and ReturnType for TypeScript type inference in React
+- [React Context with TypeScript: Part 2 - Complex context with function components](https://carlrippon.com/react-context-with-typescript-p2): Building complex React Context with TypeScript and generic types
+- [Forwarding React Refs with TypeScript](https://carlrippon.com/react-forwardref-typescript): Using forwardRef to pass refs through React components with TypeScript
+- [Generic Arrow Functions](https://carlrippon.com/generic-arrow-functions): Implementing generic arrow functions in TypeScript with JSX compatibility
+- [Write asynchronous code in a breeze with async and await](https://carlrippon.com/typescript-async-and-await): Using async/await for cleaner asynchronous TypeScript code
+- [Using Currying to Pass Additional Data to React Event Handlers](https://carlrippon.com/using-currying-to-pass-additional-data-to-react-event-handlers): Functional programming pattern for passing data to React event handlers
+
+## React Forms & Data Fetching
+
+- [React Hook Form Cross-field Validation](https://carlrippon.com/react-hook-form-cross-field-validation): Implementing multi-field validation rules in React Hook Form
+- [React Hook Form Server-side Validation](https://carlrippon.com/react-hook-form-server-validation): Integrating server-side validation with React Hook Form
+- [Dependent Requests in React Query](https://carlrippon.com/dependent-requests-in-react-query): Sequential data fetching with React Query using dependent requests
+- [Dropdown data binding with React hooks](https://carlrippon.com/drop-down-data-binding-with-react-hooks): Dynamic dropdown data binding using React hooks and web APIs
+
+## ASP.NET Core Web APIs
+
+- [Scalable and Performant ASP.NET Core Web APIs: Paging](https://carlrippon.com/scalable-and-performant-asp-net-core-web-apis-paging): Implementing pagination for scalable ASP.NET Core Web APIs with Dapper
+- [Scalable and Performant ASP.NET Core Web APIs: Load Testing](https://carlrippon.com/scalable-and-performant-asp-net-core-web-apis-load-testing): Load testing ASP.NET Core APIs with WebSurge and BenchmarkDotNet
+- [Adding Useful Information to ASP.NET Core Web API Serilog Logs](https://carlrippon.com/adding-useful-information-to-asp-net-core-web-api-serilog-logs): Enriching ASP.NET Core Serilog logs with request/response data
+- [ASP.NET Core HttpHandlers? / HttpModules?](https://carlrippon.com/asp-net-5-httphandlers-httpmodules): Migrating HttpHandlers/HttpModules to ASP.NET Core middleware pipeline
+
+## AI & Developer Productivity
+
+- [Boosting Productivity with Autonomous AI Coding Agents](https://carlrippon.com/autonomous-coding-agents): How autonomous AI agents like Devin and Cursor boost developer productivity
+- [15 things every web developer should know!](https://carlrippon.com/15-things-every-web-developer-should-know): Essential web development fundamentals: tools, HTML, CSS, and best practices
+
+## Testing & Tooling
+
+- [Getting started with Playwright with Jest and TypeScript](https://carlrippon.com/getting-started-with-playwright): Setup guide for Playwright end-to-end testing with Jest and TypeScript
+- [Emitting TypeScript Source Maps](https://carlrippon.com/emitting-typescript-source-maps): Generating and configuring TypeScript source maps for debugging
+- [Using CSS in React and TypeScript with Webpack 5](https://carlrippon.com/using-css-react-typescript-with-webpack5): Configuring CSS loaders in Webpack 5 for React and TypeScript projects
+- [Upgrading npm dependencies](https://carlrippon.com/upgrading-npm-dependencies): Safe npm dependency upgrades using semantic versioning and npm commands
+
+## Optional
+
+- [Getting into Web Components](https://carlrippon.com/getting-into-web-components): Introduction to standards-based Web Components, Custom Elements, and Shadow DOM
+- [Building a Pager Web Component – Part 4: Attributes](https://carlrippon.com/building-a-pager-web-component-part-4-attributes): Tutorial on reading attributes in custom Web Components
+- [Tips for better sprint reviews](https://carlrippon.com/tips-for-better-sprint-reviews): Practical tips for improving Scrum sprint reviews and stakeholder engagement
+- [12 Tips for a Better Daily Standup](https://carlrippon.com/12-tips-for-a-better-daily-standup): Best practices for effective Scrum daily standup meetings
+- [Scrum Pain](https://carlrippon.com/scrum-pain): Challenges with Scrum: sprint planning, standups, and story points
+- [100 day saving for Scrum?](https://carlrippon.com/scrumban): Exploring Scrumban and Kanban alternatives to address Scrum pain points

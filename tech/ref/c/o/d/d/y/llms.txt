@@ -1,0 +1,76 @@
+# Coddy Reference
+
+> > Comprehensive programming language reference covering syntax, fundamentals, and best practices for C, C++, Python, Java, C#, Rust, Go, TypeScript, and more.
+
+Coddy Reference provides beginner-friendly guides and technical documentation for major programming languages including systems languages (C, C++, Rust), object-oriented languages (Java, C#, Python), web technologies (HTML, CSS, TypeScript), and specialized tools (LaTeX, Solidity, MATLAB). Created by contributors including pioneers like Dennis Ritchie, James Gosling, and Bjarne Stroustrup, with strong coverage of Microsoft .NET ecosystem and Visual Studio tooling.
+
+## Key Topics
+
+- Object-Oriented Programming (OOP)
+- Programming Fundamentals
+- Syntax & Code Structure
+- Getting Started & Setup
+- Systems Programming
+- .NET Framework
+- Memory Safety & Ownership
+- Naming Conventions
+- Error Handling
+- Best Practices & Coding Standards
+- Type Safety & Static Typing
+- Visual Studio & VS Code
+- Indentation & Formatting
+- Variables & Data Types
+
+## Language Introductions & Getting Started
+
+- [Python Introduction to Python](https://ref.coddy.tech/python/introduction-to-python): Python intro by Guido van Rossum: syntax, features, getting started
+- [Java Introduction to Java](https://ref.coddy.tech/java/introduction-to-java): Java intro: OOP basics, JDK setup, created by James Gosling at Sun
+- [C++ Introduction to C++](https://ref.coddy.tech/cpp/introduction-to-c-plus-plus): C++ intro by Bjarne Stroustrup: OOP, memory management, Visual Studio setup
+- [C# Introduction to C#](https://ref.coddy.tech/csharp/introduction-to-csharp): C# intro by Microsoft: .NET framework, OOP, Visual Studio setup
+- [Rust Introduction to Rust](https://ref.coddy.tech/rust/introduction-to-rust): Rust intro by Mozilla: memory safety, ownership, Cargo, systems programming
+- [C What Is C?](https://ref.coddy.tech/c/what-is-c-questionmark): C overview by Dennis Ritchie: low-level memory, GCC, systems programming
+- [HTML Introduction to HTML](https://ref.coddy.tech/html/introduction-to-html): HTML basics: markup language, web structure, HTML5 elements and tags
+- [CSS Introduction to CSS](https://ref.coddy.tech/css/introduction-to-css): CSS intro: Cascading Style Sheets, selectors, styling methods, responsive
+- [TypeScript Introduction to TypeScript](https://ref.coddy.tech/typescript/introduction-to-typescript): TypeScript by Microsoft: static typing superset of JavaScript, npm setup
+- [Lua Introduction to Lua](https://ref.coddy.tech/lua/introduction-to-lua): Lua intro by Ierusalimschy: lightweight scripting, game dev, embedded use
+- [Ruby Introduction to Ruby](https://ref.coddy.tech/ruby/introduction-to-ruby): Ruby intro by Yukihiro Matsumoto: elegant syntax, Ruby on Rails
+
+## Syntax & Language Fundamentals
+
+- [Python Python Syntax](https://ref.coddy.tech/python/python-syntax): Python syntax essentials: indentation, variables, data types, comments
+- [C++ C++ Syntax](https://ref.coddy.tech/cpp/c-plus-plus-syntax): C++ syntax fundamentals: structure, statements, control flow, functions
+- [C# C# Syntax](https://ref.coddy.tech/csharp/csharp-syntax): C# syntax fundamentals: statements, blocks, identifiers, keywords, .NET
+- [Rust Rust Syntax](https://ref.coddy.tech/rust/rust-syntax): Rust syntax: variables, ownership, borrowing, control flow, error handling
+- [Go Go Syntax](https://ref.coddy.tech/go/go-syntax): Go syntax essentials: variables, functions, gofmt, control structures
+
+## Advanced Language Features
+
+- [Rust Lifetimes](https://ref.coddy.tech/rust/rust-lifetimes): Rust lifetimes: memory safety, reference scope, elision, borrowing rules
+- [Swift Optionals](https://ref.coddy.tech/swift/swift-optionals): Swift optionals: type safety, unwrapping, binding, nil-coalescing, chaining
+- [TypeScript Interface Basics](https://ref.coddy.tech/typescript/interface-basics): TypeScript interfaces: object structure contracts, optional/readonly props
+- [Python Python Lists](https://ref.coddy.tech/python/python-lists): Python lists: mutable collections, methods, comprehensions, operations
+- [C# Assemblies](https://ref.coddy.tech/csharp/csharp-assemblies): C# assemblies: .NET deployment units, GAC, strong naming, versioning
+- [Solidity Error Handling](https://ref.coddy.tech/solidity/solidity-error-handling): Solidity errors: require/assert/revert, custom errors, smart contract safety
+
+## Coding Standards & Best Practices
+
+- [C++ C++ Coding Standards](https://ref.coddy.tech/cpp/c-plus-plus-coding-standards): C++ coding standards: Google Style, MISRA, Core Guidelines, Clang-Tidy
+- [C# Naming Conventions](https://ref.coddy.tech/csharp/csharp-naming-conventions): C# naming: PascalCase, camelCase, interfaces, .NET style guidelines
+- [C C Coding Style](https://ref.coddy.tech/c/c-coding-style): C coding style: K&R/Allman conventions, clang-format, naming, indentation
+- [C Include Guards](https://ref.coddy.tech/c/c-include-guards): C include guards: header protection, preprocessor, #pragma once directive
+- [Bash Coding Style](https://ref.coddy.tech/bash/bash-coding-style): Bash coding style: scripting conventions, formatting, error handling
+- [Go Go Identifiers](https://ref.coddy.tech/go/go-identifiers): Go identifiers: naming conventions, variables, functions, best practices
+
+## Development Tools & Setup
+
+- [Rust Installing Rust](https://ref.coddy.tech/rust/installing-rust): Rust installation guide: Rustup toolchain, cargo, rustc, VS Code setup
+- [Kotlin Unit Testing](https://ref.coddy.tech/kotlin/kotlin-unit-testing): Kotlin unit testing: JUnit, Gradle, Mockito, test-driven development
+- [MATLAB Help and Documentation](https://ref.coddy.tech/matlab/matlab-help-and-documentation): MATLAB help resources: doc/help commands, MathWorks docs, MATLAB Answers
+
+## Optional
+
+- [C History of C](https://ref.coddy.tech/c/history-of-c): C history: Dennis Ritchie at Bell Labs, UNIX, ANSI standards evolution
+- [HTML HTML and XML](https://ref.coddy.tech/html/html-and-xml): HTML vs XML comparison: syntax differences, XHTML, data vs presentation
+- [LaTeX What Is LaTeX](https://ref.coddy.tech/latex/what-is-latex): LaTeX typesetting: scientific docs, Beamer, TeX Live, Overleaf setup
+- [JSON JSON History](https://ref.coddy.tech/json/json-history): JSON history by Douglas Crockford: ECMA-404, XML alternative, RESTful APIs
+- [Lua lua-goto-statements](https://ref.coddy.tech/lua/lua-goto-statements): Lua goto statements: Lua 5.2 control flow, labels, error handling patterns

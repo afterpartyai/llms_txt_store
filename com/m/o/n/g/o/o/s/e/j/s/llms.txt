@@ -1,0 +1,71 @@
+# Mongoose ODM Documentation
+
+> > Mongoose is an elegant MongoDB object modeling library for Node.js, providing schema-based data validation and query building.
+
+Mongoose is developed by Automattic and originally created by LearnBoost, offering a straightforward way to model application data with MongoDB. The library includes built-in type casting, validation, query building, and business logic hooks, making it the most popular ODM for Node.js applications.
+
+## Key Topics
+
+- Mongoose ODM
+- MongoDB object modeling
+- Node.js database integration
+- Schema definition and validation
+- CRUD operations
+- Query building and execution
+- Model compilation
+- Document middleware and hooks
+- Virtuals and methods
+- Indexes and performance
+- Connection management
+- Migration guides
+- TypeScript support
+- Async/await patterns
+- Lean queries optimization
+
+## Getting Started
+
+- [Mongoose ODM Homepage](https://mongoosejs.com): Main homepage for Mongoose v9.2.4, MongoDB object modeling for Node.js
+- [Getting Started Guide](https://mongoosejs.com/docs): Quick start guide covering MongoDB and Node.js installation, schema creation, and basic usage
+- [Getting Started (Detailed)](https://mongoosejs.com/docs/index.html): Comprehensive quick start with schema creation, document methods, and MongoDB queries
+- [Frequently Asked Questions](https://mongoosejs.com/docs/faq.html): Common issues and solutions: connection errors, IPv6 configuration, unique indexes
+
+## Core Concepts
+
+- [Schemas](https://mongoosejs.com/docs/guide.html): Complete schema guide: definitions, models, methods, virtuals, indexes, and ES6 classes
+- [Models](https://mongoosejs.com/docs/8.x/docs/models.html): Models documentation: compiling schemas, CRUD operations, and change streams
+- [Queries](https://mongoosejs.com/docs/queries.html): Query building and execution: CRUD helpers, async/await patterns, and query chaining
+- [Guides Index](https://mongoosejs.com/docs/guides.html): Complete guides collection: core concepts, integrations, migration guides, and tutorials
+
+## Tutorials
+
+- [Using findOneAndUpdate()](https://mongoosejs.com/docs/tutorials/findoneandupdate.html): Tutorial on findOneAndUpdate() usage, atomic updates, and upsert operations
+- [Faster Queries With Lean](https://mongoosejs.com/docs/tutorials/lean.html): Performance optimization tutorial using lean queries for memory efficiency
+
+## Version-Specific Documentation
+
+- [Mongoose v8 Documentation](https://mongoosejs.com/docs/8.x): Complete documentation for Mongoose v8.22.1
+- [Mongoose v8 Guides](https://mongoosejs.com/docs/8.x/docs/guides.html): v8 guides: core concepts, integrations, and migration resources
+- [Mongoose v8 FAQ](https://mongoosejs.com/docs/8.x/docs/faq.html): v8-specific FAQ: connection errors, IPv6 localhost, MongoDB Atlas troubleshooting
+- [Mongoose v6 Documentation](https://mongoosejs.com/docs/6.x): Documentation homepage for Mongoose v6.13.8
+- [Mongoose v5 Queries](https://mongoosejs.com/docs/5.x/docs/queries.html): v5 queries guide: CRUD operations, query execution, and promises
+- [Mongoose v5 Guides](https://mongoosejs.com/docs/5.x/docs/guides.html): v5 guides index: core concepts and integration tutorials
+
+## Migration and Deprecations
+
+- [Migrating to Mongoose 7](https://mongoosejs.com/docs/migrating_to_7.html): Migration guide from v6 to v7: breaking changes, strictQuery, callbacks removal
+- [v7 Deprecation Warnings](https://mongoosejs.com/docs/7.x/docs/deprecations.html): v7 deprecation warnings: rawResult, includeResultMetadata, ModifyResult changes
+- [v7 Guides](https://mongoosejs.com/docs/7.x/docs/guides.html): v7 guides index: core concepts and framework integrations
+
+## Support and Community
+
+- [Enterprise Support](https://mongoosejs.com/docs/enterprise.html): Commercial maintenance and enterprise support via Tidelift Subscription
+- [Job Board](https://mongoosejs.com/docs/jobs): Job board for hiring Node.js and MongoDB developers
+
+## Legacy Versions
+
+- [Mongoose v4 Documentation](https://mongoosejs.com/docs/4.x): Legacy documentation for Mongoose v4.13.20
+- [Mongoose v4 FAQ](https://mongoosejs.com/docs/4.x/docs/faq.html): v4 FAQ: array updates, unique constraints, schema indexing
+- [Mongoose v3.8 Documentation](https://mongoosejs.com/docs/3.8.x): Legacy documentation for Mongoose v3.8.39
+- [Mongoose v3.7 FAQ](https://mongoosejs.com/docs/3.7.x/docs/faq.html): v3.7 FAQ: troubleshooting arrays, schemas, connection management
+- [Mongoose v3.0 FAQ](https://mongoosejs.com/docs/3.0.x/docs/faq.html): v3.0 FAQ: array modifications, schema design, save callbacks
+- [Mongoose v4.0.0-rc4 FAQ](https://mongoosejs.com/docs/unstable/docs/faq.html): Release candidate FAQ for v4.0.0-rc4

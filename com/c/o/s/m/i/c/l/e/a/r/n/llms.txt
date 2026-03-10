@@ -1,0 +1,68 @@
+# CosmicLearn.com
+
+> > Comprehensive programming and cloud computing tutorials covering SQL, PostgreSQL, Java, Go, C, C#, Python, Ruby, TypeScript, PHP, Docker, Kubernetes, Spring Boot, Hibernate, and modern web development.
+
+CosmicLearn.com is a learning platform offering beginner-friendly tutorials and guides across multiple programming languages, databases, cloud technologies, and DevOps tools. The site emphasizes practical examples with Hello World programs, syntax guides, and deployment tutorials for modern software development.
+
+## Key Topics
+
+- SQL & Database Programming
+- PostgreSQL
+- Java & Spring Framework
+- Go (Golang)
+- C & C#
+- Docker & Kubernetes
+- Python & Ruby
+- TypeScript & JavaScript
+- Spring Boot & Hibernate
+- Cloud Computing & DevOps
+- Query Optimization
+- Web Development
+- ORM (Object-Relational Mapping)
+- Container Orchestration
+- Beginner Programming Tutorials
+
+## Getting Started
+
+- [CosmicLearn.com - Programming and Cloud Tutorials](https://cosmiclearn.com): Homepage: Programming tutorials for Python, Java, Go, C#, cloud & databases
+- [Introduction to C#](https://cosmiclearn.com/csharp): C# intro: .NET platform, Microsoft language basics, Hello World tutorial
+- [Introduction to C](https://cosmiclearn.com/c/index.php): C programming intro: systems language, GCC/Clang setup, basic syntax
+- [Introduction to Go](https://cosmiclearn.com/go): Go intro: Golang basics, Google language, goroutines & concurrency
+
+## Java & Spring Framework
+
+- [Spring Boot Introduction](https://cosmiclearn.com/spring_framework/boot_index.php): Spring Boot intro: auto-configuration, starters, RESTful API development
+- [Spring MVC Introduction](https://cosmiclearn.com/spring_framework/mvc_index.php): Spring MVC intro: DispatcherServlet, Model-View-Controller architecture
+- [Introduction to Hibernate](https://cosmiclearn.com/hibernate/index.php): Hibernate ORM intro: Java persistence, object-relational mapping basics
+
+## SQL & Database Tutorials
+
+- [SQL TOP, DISTINCT](https://cosmiclearn.com/sql/functions2.php): SQL tutorial: TOP/LIMIT clauses, DISTINCT for duplicate removal
+- [SQL UPDATE](https://cosmiclearn.com/sql/update.php): SQL UPDATE: modify existing records, WHERE clause, DML operations
+- [SQL LEFT JOIN](https://cosmiclearn.com/sql/leftjoin.php): SQL LEFT JOIN: outer joins, asymmetric joins, NULL handling tutorial
+- [SQL Aliases](https://cosmiclearn.com/sql/alias.php): SQL aliases: table & column renaming for query readability
+- [PostgreSQL EXPLAIN](https://cosmiclearn.com/db/postgresql_explain.php): PostgreSQL EXPLAIN: query optimization, execution plans, performance tuning
+- [PostgreSQL Triggers](https://cosmiclearn.com/db/postgresql_triggers.php): PostgreSQL triggers: stored procedures, data integrity, audit logging
+- [PostgreSQL SERIAL](https://cosmiclearn.com/db/postgresql_auto_increment.php): PostgreSQL SERIAL: auto-increment IDs, sequence objects, primary keys
+- [MariaDB Update Table](https://cosmiclearn.com/db/mariadb_update.php): MariaDB UPDATE: modify table data, multi-table updates, SQL syntax
+
+## Cloud & DevOps
+
+- [Introduction to Kubernetes](https://cosmiclearn.com/k8s): Kubernetes intro: container orchestration, K8s basics, deployment guide
+- [Docker Cleaning Up Docker (Prune Commands)](https://cosmiclearn.com/docker/prune.php): Docker maintenance: prune commands for disk space cleanup & garbage collection
+- [Ruby Cloud Deployment](https://cosmiclearn.com/ruby/cloud.php): Ruby deployment: Heroku, AWS App Runner, Rails on cloud platforms
+
+## Language-Specific Topics
+
+- [C# Lambda Expressions](https://cosmiclearn.com/csharp/lambdas.php): C# lambdas: anonymous functions, LINQ, Func/Action delegates tutorial
+- [C# Partial Classes](https://cosmiclearn.com/csharp/partialclasses.php): C# partial classes: code organization, class splitting, WinForms/WPF usage
+- [Go Interfaces](https://cosmiclearn.com/go/interfaces.php): Go interfaces: polymorphism, type assertion, method signatures
+- [Go WebSockets](https://cosmiclearn.com/go/websockets.php): Go WebSockets: real-time communication, Gorilla WebSocket, echo server
+- [Go Operators](https://cosmiclearn.com/go/operators.php): Go operators: arithmetic, unary, operator precedence examples
+- [TypeScript try / catch](https://cosmiclearn.com/typescript/try_catch.php): TypeScript error handling: try/catch blocks, runtime errors, exceptions
+- [PHP Operators](https://cosmiclearn.com/php/operators.php): PHP operators: arithmetic, comparison, logical, bitwise operations
+- [C History and Features](https://cosmiclearn.com/c/history.php): C language history: Dennis Ritchie, Bell Labs, Unix, C89-C23 standards
+
+## Optional
+
+- [CosmicLearn.com - Programming and Cloud Tutorials (Mail)](https://mail.cosmiclearn.com): Mail subdomain homepage with programming & cloud tutorial directory

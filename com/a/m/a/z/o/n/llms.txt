@@ -1,52 +1,58 @@
 # Amazon
 
-> > Amazon's ecosystem spanning AWS cloud computing, e-commerce, advertising, and Whole Foods Market grocery delivery.
+> > Amazon's global ecosystem spanning e-commerce, AWS cloud services, advertising, developer platforms (Alexa, Fire TV, Ring), Whole Foods Market, and Amazon Luna gaming.
 
-Amazon.com is a global technology company offering cloud infrastructure through AWS (featuring EC2, S3, CDK), digital advertising solutions, Prime membership benefits, and grocery shopping via Whole Foods Market. The platform provides comprehensive tutorials and documentation for developers building on AWS services.
+Amazon.com serves as the hub for Amazon's consumer marketplace, AWS (Amazon Web Services) cloud infrastructure, advertising solutions, and developer tools. The platform integrates modern authentication (OpenID, WebAuthn, passkey support) across services including Kindle, Prime, and seller tools.
 
 ## Key Topics
 
 - AWS (Amazon Web Services)
 - Amazon EC2 (Elastic Compute Cloud)
-- AWS Free Tier
 - AWS CDK (Cloud Development Kit)
-- AWS Management Console
-- Prime membership
+- Alexa & Amazon Devices
+- Prime membership & delivery
 - Whole Foods Market
-- Amazon Ads & Sponsored Products
-- Cloud computing tutorials
-- Getting started guides
-- EC2 instance launch
-- Grocery delivery
-- Authentication & sign-in
-- Beginner-friendly tutorials
-- Multi-service implementations
+- Amazon Ads & DSP
+- Seller Central & fulfillment
+- OpenID & WebAuthn authentication
+- Passkey authentication
+- Amazon Luna cloud gaming
+- Kindle & reading services
+- Fire TV & Ring platforms
+- S3 storage & Lambda functions
 
 ## Getting Started with AWS
 
-- [Getting Started - Cloud Computing Tutorials for Building on AWS](https://aws.amazon.com/getting-started): AWS getting started hub with tutorials, fundamentals & onboarding guides
-- [Hands-On Tutorials for Amazon Web Services (AWS)](https://aws.amazon.com/getting-started/hands-on): Step-by-step AWS tutorials for building cloud applications
-- [AWS Tutorials](https://aws.amazon.com/tutorials): AWS tutorial directory for single & multi-service implementations
+- [Getting Started - Cloud Computing Tutorials for Building on AWS](https://aws.amazon.com/getting-started): AWS fundamentals resource center with tutorials & cloud essentials
+- [Hands-On Tutorials for Amazon Web Services (AWS)](https://aws.amazon.com/getting-started/hands-on): Step-by-step AWS hands-on tutorials for getting started with cloud
+- [AWS Tutorials](https://aws.amazon.com/tutorials): AWS tutorials directory for single & multi-service use cases
+- [Get started with Amazon EC2 - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html): Amazon EC2 getting started: launch, connect & manage instances tutorial
+- [Tutorial: Create your first AWS CDK app - AWS Cloud Development Kit (AWS CDK) v2](https://docs.aws.amazon.com/cdk/v2/guide/hello-world.html): AWS CDK v2 hello world tutorial: Lambda function deployment via CLI
 
-## Amazon EC2 Documentation
+## Developer Platforms & Tools
 
-- [Get started with Amazon EC2 - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html): Amazon EC2 getting started guide: launch, connect & clean up instances
-- [Tutorial 1: Launch my very first Amazon EC2 instance - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/tutorial-launch-my-first-ec2-instance.html): Beginner EC2 tutorial for launching first instance using AWS Free Tier
+- [Amazon Developers](https://developer.amazon.com): Developer portal for Alexa, Fire TV, Ring, Appstore & Vega OS platforms
+- [Amazon Sign-In](https://xb-node-fe.amazon.com/glenn/home): Amazon authentication page with passkey & OpenID/WebAuthn support
 
-## AWS Developer Tools
+## Selling on Amazon
 
-- [Tutorial: Create your first AWS CDK app - AWS Cloud Development Kit (AWS CDK) v2](https://docs.aws.amazon.com/cdk/v2/guide/hello-world.html): AWS CDK tutorial: create & deploy Lambda function with CDK CLI
+- [How to sell on Amazon | Sell on Amazon](https://sell.amazon.com/sell): Beginner guide for Amazon sellers: account setup, listing & fulfillment
 
-## Amazon Business Services
+## Amazon Services & Products
 
-- [Amazon Ads: Online advertising for businesses of all sizes](https://advertising.amazon.com): Amazon Ads platform for Sponsored Products & brand advertising solutions
-- [Whole Foods Market: Shop Groceries & Weekly Sales](https://wfm.amazon.com): Whole Foods Market grocery shopping with Prime delivery & prepared meals
+- [Whole Foods Market: Shop Groceries & Weekly Sales](https://wfm.amazon.com): Whole Foods Market homepage featuring prepared meals & Prime delivery
+- [Amazon Luna Cloud Gaming](https://gaming.amazon.com): Amazon Luna cloud gaming service (currently experiencing technical issues)
+- [Amazon Sign-In](https://read.amazon.com): Kindle reading service authentication page with passkey support
 
-## About AWS
+## About Amazon
 
-- [Our Origins](https://aws.amazon.com/about-aws/our-origins): AWS company history from Amazon.com to S3 & EC2 launch
+- [Our Origins](https://aws.amazon.com/about-aws/our-origins): AWS origin story from 2006 launch with S3 & EC2 by Matt Garman
+- [About us: Discover our mission and brand values | Amazon Ads](https://advertising.amazon.com/about-us): Amazon Ads mission & values with DSP, CTV, Prime Video solutions
+
+## Support & Help
+
+- [Help and FAQ - Amazon Ads Academy](https://advertising.amazon.com/academy/help): Amazon Ads Academy FAQ covering certifications & account issues
 
 ## Optional
 
-- [Amazon Sign-In](https://xb-node-fe.amazon.com/glenn/home): Amazon authentication page with passkey & password sign-in options
-- [Go to website](https://amazon.com/gp/navigation-country/select-country): Country/region selector for Amazon international sites
+- [Go to website](https://amazon.com/gp/navigation-country): Country/region selector for Amazon websites across 20+ global markets

@@ -1,0 +1,66 @@
+# Testing Library
+
+> > Testing Library is a family of user-centric testing utilities for React, Vue, Angular, and other JavaScript frameworks, emphasizing testing software the way users interact with it.
+
+Created by Kent C. Dodds, Testing Library provides DOM Testing Library as the foundation with framework-specific wrappers including React Testing Library, along with companion tools like user-event and jest-dom. The project promotes testing best practices that avoid implementation details and focus on accessibility.
+
+## Key Topics
+
+- DOM Testing Library
+- React Testing Library
+- user-event
+- jest-dom
+- Query methods (getBy, findBy, queryBy)
+- User-centric testing philosophy
+- Component testing
+- Accessibility testing
+- Angular Testing Library
+- Vue Testing Library
+- React Native Testing Library
+- Jest integration
+- TypeScript support
+- Testing best practices
+- Enzyme migration
+
+## Getting Started
+
+- [Testing Library | Testing Library](https://testing-library.com): Homepage for Testing Library family supporting React, Vue, Angular & more
+- [Introduction | Testing Library](https://testing-library.com/docs): Core introduction to Testing Library philosophy and user-centric testing
+- [Guiding Principles | Testing Library](https://testing-library.com/docs/guiding-principles): Core testing philosophy: test software as users interact with it
+- [Introduction | Testing Library](https://testing-library.com/docs/dom-testing-library/intro): DOM Testing Library introduction for maintainable Web UI testing
+- [Install | Testing Library](https://testing-library.com/docs/dom-testing-library/install): Installation guide for DOM Testing Library and framework wrappers via npm
+
+## React Testing Library
+
+- [React Testing Library | Testing Library](https://testing-library.com/docs/react-testing-library/intro): Introduction to React Testing Library with installation & setup guide
+- [Example | Testing Library](https://testing-library.com/docs/react-testing-library/example-intro): React Testing Library quickstart with MSW, userEvent, and jest-dom setup
+- [Setup | Testing Library](https://testing-library.com/docs/react-testing-library/setup): Configuration guide for React Testing Library with Jest and custom render
+- [Cheatsheet | Testing Library](https://testing-library.com/docs/react-testing-library/cheatsheet): Quick reference for React Testing Library queries and render functions
+- [React Router | Testing Library](https://testing-library.com/docs/example-react-router): Example demonstrating React Router v6 testing with MemoryRouter
+- [Migrate from Enzyme | Testing Library](https://testing-library.com/docs/react-testing-library/migrate-from-enzyme): Migration guide from Enzyme to React Testing Library best practices
+
+## Framework Libraries
+
+- [Angular Testing Library | Testing Library](https://testing-library.com/docs/angular-testing-library/intro): Introduction to Angular Testing Library built on DOM Testing Library
+- [Introduction | Testing Library](https://testing-library.com/docs/react-native-testing-library/intro): React Native Testing Library intro with react-test-renderer setup
+- [Intro | Testing Library](https://testing-library.com/docs/preact-testing-library/intro): Preact Testing Library introduction built on DOM Testing Library
+- [Cheatsheet | Testing Library](https://testing-library.com/docs/vue-testing-library/cheatsheet): Vue Testing Library quick reference for queries and async utilities
+
+## API Reference
+
+- [About Queries | Testing Library](https://testing-library.com/docs/queries/about): Query methods overview with types (get/find/query) and priority guide
+- [Introduction | Testing Library](https://testing-library.com/docs/user-event/intro): user-event library for simulating browser user interactions in tests
+- [Configuration Options | Testing Library](https://testing-library.com/docs/dom-testing-library/api-configuration): API configuration options for DOM Testing Library setup and customization
+
+## Guides and Patterns
+
+- [Appearance and Disappearance | Testing Library](https://testing-library.com/docs/guide-disappearance): Guide for testing element appearance/disappearance with async wait utilities
+- [About the Examples | Testing Library](https://testing-library.com/docs/recipes): Community-contributed examples and help resources for Testing Library
+- [testing-library-selector | Testing Library](https://testing-library.com/docs/ecosystem-testing-library-selector): Ecosystem tool for reusable TypeScript selectors in Testing Library
+
+## Support and FAQ
+
+- [FAQ | Testing Library](https://testing-library.com/docs/react-testing-library/faq): React Testing Library FAQ covering onChange handlers and event simulation
+- [FAQ | Testing Library](https://testing-library.com/docs/dom-testing-library/faq): DOM Testing Library FAQ on query methods, localization, and data-testid
+- [FAQ | Testing Library](https://testing-library.com/docs/vue-testing-library/faq): Vue Testing Library FAQ on @vue/test-utils, mocking, and router testing
+- [FAQ | Testing Library](https://testing-library.com/docs/svelte-testing-library/faq): Svelte Testing Library FAQ on SvelteKit, onMount, and transition events

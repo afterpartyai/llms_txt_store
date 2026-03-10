@@ -1,0 +1,56 @@
+# Pull Panda
+
+> > Pull Panda is an AI-powered code review tool for GitHub that simplifies pull request workflows and helps development teams conduct better code reviews.
+
+Pull Panda offers both a desktop application (for Windows, macOS, and Linux) and educational resources covering Git workflows, pull requests, and language-specific code review best practices. Founded by Christoffer Artmann, the platform focuses on local-first, AI-enhanced developer tools for collaborative coding.
+
+## Key Topics
+
+- Pull Panda
+- Git
+- GitHub
+- code-review
+- pull-requests
+- git-workflow
+- branch-management
+- Pull Panda Desktop
+- feature-branches
+- collaborative-development
+- ai-powered-tools
+- version-control
+- developer-tools
+- code-review-checklist
+- github-integration
+
+## Getting Started
+
+- [Pull Panda - GitHub Code Reviews Made Simple](https://pullpanda.io): Homepage for Pull Panda: AI-powered code review tool for GitHub
+- [About Pull Panda - AI-Powered Code Reviews](https://pullpanda.io/about): Company story and mission to fix code reviews for dev teams
+- [Download Pull Panda Desktop](https://pullpanda.io/download): Download Pull Panda Desktop for Windows, macOS, and Linux
+
+## Git Commands Reference
+
+- [Git Commands Reference | Pull Panda](https://pullpanda.io/resources/git): Comprehensive Git commands reference with practical examples
+- [git branch | Git Commands | Pull Panda](https://pullpanda.io/resources/git/git-branch): Git branch command reference for creating and managing branches
+- [git remote | Git Commands | Pull Panda](https://pullpanda.io/resources/git/git-remote): Git remote command reference for managing remote repository connections
+
+## Pull Request & Workflow Guides
+
+- [What Is a Pull Request? The Complete Guide for Developers | Pull Panda Blog](https://pullpanda.io/blog/what-is-pull-request-complete-guide): Complete guide explaining pull requests for collaborative development
+- [Pull Requests 101: A Beginner's Guide to Git, GitHub, and Collaborative Coding | Pull Panda Blog](https://pullpanda.io/blog/pull-requests-101-beginners-guide): Beginner's guide to pull requests, Git, and GitHub workflows
+- [Stacked Pull Requests: How to Break Large Features Into Reviewable PRs | Pull Panda Blog](https://pullpanda.io/blog/stacked-pull-requests): Breaking large features into reviewable stacked pull requests on GitHub
+- [Feature Branches in Git: The Complete Guide to Creating, Managing, and Merging | Pull Panda Blog](https://pullpanda.io/blog/mastering-feature-branches-in-git-a-complete-guide): Complete guide to Git feature branches: creation, management, and merging
+- [Feature Branch Workflow for Open Source: Managing Forks and External Contributors | Pull Panda Blog](https://pullpanda.io/blog/feature-branch-workflow-open-source-projects): Managing forks and external contributors in open source projects
+- [Git Branch Visualization & Monitoring: Tools for Branch Management | Pull Panda Blog](https://pullpanda.io/blog/git-branch-visualization-monitoring-tools): Tools and techniques for Git branch visualization and monitoring
+
+## Language-Specific Code Review Checklists
+
+- [Python Code Review Checklist: Pythonic Patterns and Best Practices | Pull Panda Blog](https://pullpanda.io/blog/python-code-review-checklist): Python code review checklist for Pythonic patterns and best practices
+- [Rust Code Review Checklist: Ownership, Borrowing, and Safety | Pull Panda Blog](https://pullpanda.io/blog/rust-code-review-checklist): Rust code review checklist covering ownership, borrowing, and safety
+- [C++ Code Review Checklist: Modern C++ Best Practices and Memory Safety | Pull Panda Blog](https://pullpanda.io/blog/cpp-code-review-checklist): C++ code review checklist for RAII, smart pointers, and modern best practices
+- [PHP Code Review Checklist: Modern PHP Standards and Security | Pull Panda Blog](https://pullpanda.io/blog/php-code-review-checklist): PHP code review checklist for security, modern standards, and best practices
+- [Zig Code Review Checklist: Memory Safety, Allocators, and Comptime | Pull Panda Blog](https://pullpanda.io/blog/zig-code-review-checklist): Zig code review checklist for memory safety, allocators, and comptime
+
+## Optional
+
+- [Blog | Pull Panda](https://pullpanda.io/blog): Blog index covering code reviews, AI, Git workflows, and engineering

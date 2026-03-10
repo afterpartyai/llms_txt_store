@@ -1,0 +1,61 @@
+# LearnWebCraft
+
+> > Comprehensive web development education platform covering React 19, Next.js 15, Vue.js 3, TypeScript, and modern frontend architecture with 75+ free tutorials.
+
+LearnWebCraft provides production-ready guides for modern frontend engineering, from semantic HTML5 and CSS fundamentals to advanced topics like React Compiler, Server Components, micro-frontends, and browser AI integration. The platform emphasizes practical, enterprise-grade patterns for building scalable web applications.
+
+## Key Topics
+
+- React 19 & React Compiler
+- Next.js App Router & Server Components
+- Vue.js 3 & Composition API
+- TypeScript
+- Semantic HTML5
+- Frontend Architecture & Design Systems
+- Performance Optimization
+- SSR & Hydration
+- Vue Router & Pinia
+- Web Platform APIs
+- Micro-frontends & Module Federation
+- Speculation Rules API
+- WebLLM & Browser AI
+- CSS Grid & Flexbox
+- Production Deployment Strategies
+
+## Getting Started
+
+- [Modern Frontend Engineering & Architecture | LearnWebCraft](https://learnwebcraft.com): Homepage: 75+ tutorials on React, Next.js, TypeScript & frontend engineering
+- [Learn Web Development: Full Stack Tutorials & Guides | LearnWebCraft](https://learnwebcraft.com/learn): Complete tutorial library: 75+ guides across HTML, CSS, React, Next.js & more
+- [About LearnWebCraft | Empowering Developers | LearnWebCraft](https://learnwebcraft.com/about): Mission & values: free web dev education for HTML, React, Next.js & more
+
+## React & React 19
+
+- [React Compiler & `use` Hook: The New React Core | LearnWebCraft](https://learnwebcraft.com/learn/react/react-19-compiler-use-hook): React Compiler & use hook: automated performance without useMemo/useCallback
+- [React 19 Stable Features: Production Capability Guide | LearnWebCraft](https://learnwebcraft.com/learn/react/react-19-stable-5-features-you-must-use): 5 production-ready React 19 features: Actions, useActionState & useOptimistic
+- [React 19 Migration: Vite & Compiler Strategy | LearnWebCraft](https://learnwebcraft.com/learn/react/migrate-vite-react-react-19-compiler): Migrate Vite apps to React 19 Compiler with automatic memoization & optimization
+- [Enterprise React Architecture: Scalable Folder Structures](https://learnwebcraft.com/learn/react/structuring-large-react-apps): Structure large React apps with DDD & feature-based architecture patterns
+
+## Next.js & Server-Side Rendering
+
+- [Enterprise Next.js Application Architecture | LearnWebCraft](https://learnwebcraft.com/learn/nextjs): Next.js tutorials: App Router, Server Components, PPR & production deployment
+- [Debugging Next.js Hydration Errors: A Production Guide | LearnWebCraft](https://learnwebcraft.com/learn/nextjs/debugging-hydration-errors-nextjs-15): Fix Next.js 15 hydration errors: debug SSR mismatches in production apps
+
+## Vue.js Ecosystem
+
+- [Vue.js 3 Getting Started: A Beginner's Guide (2025) | LearnWebCraft](https://learnwebcraft.com/learn/vuejs/vue-js-3-getting-started): Vue.js 3 beginner guide: Composition API, reactivity & building SPAs from scratch
+- [A Beginner's Guide to Vue Router Navigation in Vue 3 | LearnWebCraft](https://learnwebcraft.com/learn/vuejs/vue-router-navigation-guide): Vue Router guide: routing, dynamic routes, navigation guards & lazy loading
+- [Pinia State Management: Complete Vue.js Guide | LearnWebCraft](https://learnwebcraft.com/learn/vuejs/pinia-state-management-guide): Pinia state management: stores, actions, getters & TypeScript for Vue.js apps
+- [Vue 3 Suspense & Async Boundaries | LearnWebCraft](https://learnwebcraft.com/learn/vuejs/vue3-suspense-guide): Vue 3 Suspense: async boundaries, loading states & error handling for SSR
+- [Vue3 to Vapor Migration: Boost App Speed & Performance | LearnWebCraft](https://learnwebcraft.com/learn/vuejs/vue3-to-vapor-migration-guide-performance): Migrate Vue 3 to Vapor Mode: no-VDOM compilation for better performance
+
+## HTML & Web Platform APIs
+
+- [Semantic HTML5 & Document Architecture | LearnWebCraft](https://learnwebcraft.com/learn/html): HTML5 tutorials: semantic markup, accessibility, Canvas API & responsive images
+- [HTML5 Architecture: Semantic Document Structure | LearnWebCraft](https://learnwebcraft.com/learn/html/introduction): Beginner's guide to HTML5: semantic elements, document structure & SEO basics
+- [Web Platform APIs & Browser Internals | LearnWebCraft](https://learnwebcraft.com/learn/web-platform): Modern Web APIs: View Transitions, Popover, Container Queries & Edge Runtime
+
+## Enterprise Architecture & Advanced Topics
+
+- [Distributed Systems & Frontend Architecture | LearnWebCraft](https://learnwebcraft.com/learn/architecture): Enterprise architecture: micro-frontends, Module Federation & design systems
+- [WebLLM & React 19: Build Fast Local AI Apps | LearnWebCraft](https://learnwebcraft.com/learn/ai/webllm-react19-build-local-ai-apps): Build privacy-first browser AI apps with WebLLM, React 19 & WebGPU (Llama/Phi-3)
+- [Web Development Blog & Insights | LearnWebCraft](https://learnwebcraft.com/blog): Latest web dev insights: React 19, Next.js 15, Speculation Rules & testing

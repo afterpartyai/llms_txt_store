@@ -1,0 +1,63 @@
+# BytePane
+
+> > Privacy-focused, browser-based developer tools and programming cheatsheets covering 50+ utilities and 195+ quick references for JavaScript, Python, Node.js, TypeScript, and more.
+
+BytePane provides free developer tools (JSON formatters, Base64 encoders, hash generators, regex testers, JWT decoders) and comprehensive programming cheatsheets—all running locally in your browser with no signups or data collection. Covers web development, DevOps, data conversion, and quick references for popular languages and frameworks.
+
+## Key Topics
+
+- JavaScript
+- Python
+- Node.js
+- TypeScript
+- JSON
+- Base64
+- JWT
+- YAML
+- SQL
+- CSV
+- developer-tools
+- cheatsheets
+- browser-based
+- privacy-focused
+- data-converters
+
+## Developer Tools
+
+- [BytePane — Free Developer Tools | JSON, Base64, Hash, Regex & More](https://bytepane.com): Homepage: 50+ free browser-based dev tools (JSON, Base64, hash, regex)
+- [JSON to CSV Converter — Convert JSON to CSV Online](https://bytepane.com/json-to-csv): JSON to CSV converter for Excel/Google Sheets data import
+- [JWT Decoder — Decode JSON Web Tokens Online](https://bytepane.com/jwt-decoder): JWT decoder: inspect headers, payloads, claims without signature verification
+
+## Programming Cheatsheets
+
+- [Programming Cheatsheets — 130+ Languages, Frameworks & Tools](https://bytepane.com/cheatsheet): Main cheatsheets hub: 195+ quick references for languages & frameworks
+- [JavaScript Cheatsheet — Quick Reference Guide](https://bytepane.com/cheatsheet/javascript): JavaScript reference: syntax, arrays, functions, promises, DOM manipulation
+- [Python Cheatsheet — Quick Reference Guide](https://bytepane.com/cheatsheet/python): Python reference: data types, functions, OOP, comprehensions, decorators
+- [PHP Cheatsheet — Quick Reference Guide](https://bytepane.com/cheatsheet/php): PHP reference: variables, arrays, OOP, namespaces, error handling
+- [C Cheatsheet — Quick Reference Guide](https://bytepane.com/cheatsheet/c): C reference: pointers, memory management, structs, file I/O, preprocessor
+- [Kotlin Cheatsheet — Quick Reference Guide](https://bytepane.com/cheatsheet/kotlin): Kotlin reference: null safety, coroutines, lambdas, data classes, extensions
+
+## Framework & API References
+
+- [Flask Cheatsheet — Quick Reference Guide](https://bytepane.com/cheatsheet/flask): Flask reference: routes, Jinja2 templates, SQLAlchemy, WTForms, blueprints
+- [GraphQL Cheatsheet — Quick Reference Guide](https://bytepane.com/cheatsheet/graphql): GraphQL reference: schema, queries, mutations, subscriptions, resolvers
+- [Stripe API Cheatsheet — Quick Reference Guide](https://bytepane.com/cheatsheet/stripe-api): Stripe API reference: payments, customers, subscriptions, webhooks, checkout
+- [Socket.IO Cheatsheet — Quick Reference Guide](https://bytepane.com/cheatsheet/socket-io): Socket.IO reference: real-time events, rooms, namespaces, broadcasting
+
+## DevOps & Infrastructure
+
+- [npm Cheatsheet — Quick Reference Guide](https://bytepane.com/cheatsheet/npm): npm reference: package.json, scripts, versioning, dependencies, npx
+- [GitHub Actions Cheatsheet — Quick Reference Guide](https://bytepane.com/cheatsheet/github-actions): GitHub Actions reference: CI/CD workflows, triggers, jobs, secrets, caching
+- [Helm Cheatsheet — Quick Reference Guide](https://bytepane.com/cheatsheet/helm): Helm reference: Kubernetes charts, templates, values, hooks, dependencies
+- [Grafana Cheatsheet — Quick Reference Guide](https://bytepane.com/cheatsheet/grafana): Grafana reference: dashboards, panels, alerts, data sources, variables
+
+## Web Development References
+
+- [HTTP Status Codes Reference — Complete List with Descriptions](https://bytepane.com/http-status-codes): HTTP status codes reference: complete list with descriptions & use cases
+- [LaTeX Cheatsheet — Quick Reference Guide](https://bytepane.com/cheatsheet/latex): LaTeX reference: document structure, math mode, equations, tables
+
+## About & Support
+
+- [About BytePane](https://bytepane.com/about): About page: privacy-focused browser-based developer tools, no signups
+- [FAQ — Frequently Asked Questions](https://bytepane.com/faq): FAQ: common questions about tools, formats, encoding, security features
+- [Contact Us](https://bytepane.com/contact): Contact page: bug reports, feature requests, tool suggestions

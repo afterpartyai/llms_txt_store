@@ -1,0 +1,65 @@
+# Strapi
+
+> > Strapi is an open-source Node.js headless CMS with AI-powered features, enabling developers to design APIs fast, manage content easily, and deploy to Strapi Cloud.
+
+Strapi provides a complete content management ecosystem including the core CMS (currently Strapi 5), extensive documentation, a marketplace for plugins and extensions, cloud hosting, and AI-powered tools like content type builders and translations. The platform supports TypeScript, GraphQL, React, and integrates seamlessly with frameworks like Next.js.
+
+## Key Topics
+
+- Strapi 5 (latest version)
+- Headless CMS
+- Node.js & TypeScript
+- Strapi Cloud (managed hosting)
+- Content-Type Builder
+- REST & GraphQL APIs
+- Next.js integration
+- AI-powered features (translations, content generation)
+- RBAC (Role-Based Access Control)
+- Open-source CMS
+- Content Manager
+- Migration from Strapi 4 to 5
+- Quick start & deployment
+- Strapi Market (plugins & extensions)
+
+## Getting Started
+
+- [Strapi - Open source Node.js Headless CMS 🚀](https://strapi.io): Homepage: Open-source Node.js headless CMS with AI-powered features
+- [Quick Start Guide - Strapi Developer Docs | Strapi 5 Documentation](https://docs.strapi.io/cms/quick-start): Quick start tutorial for installing Strapi 5 & deploying to Strapi Cloud
+- [Strapi 5 Docs | Strapi 5 Documentation](https://docs.strapi.io): Main documentation hub for Strapi 5 CMS and Cloud deployment
+- [Welcome to the Strapi CMS Documentation! | Strapi 5 Documentation](https://docs.strapi.io/cms/intro): Strapi 5 CMS docs intro: admin panel, Content Manager, Content-type Builder
+
+## Core Platform & Features
+
+- [With Strapi, design APIs fast, manage content easily.](https://strapi.io/why-strapi): Value proposition page explaining Strapi's headless CMS capabilities
+- [Full-featured headless CMS and customizable API | Strapi](https://strapi.io/features): Features overview: i18n, WYSIWYG, GraphQL, SSO, RBAC for Strapi CMS
+- [Strapi Market](https://market.strapi.io): Marketplace for Strapi plugins, providers, and custom fields
+- [Strapi Partner program for Value Added Resellers & Training partners](https://strapi.io/partner-program): Partner program for VARs, training partners & systems integrators
+
+## Migration & Upgrades
+
+- [Upgrading to Strapi 5 - Introduction and FAQ | Strapi 5 Documentation](https://docs.strapi.io/cms/migration/v4-to-v5/introduction-and-faq): Migration guide & FAQ for upgrading from Strapi 4 to Strapi 5
+- [Transitioning From Strapi 4 to Strapi 5](https://strapi.io/blog/commonly-asked-questions-transitioning-from-strapi-4-to-strapi-5): FAQ: Strapi 4 to 5 migration with Document System & breaking changes
+- [Quick Start Guide - Strapi Developer Docs | Strapi Documentation](https://docs-v4.strapi.io/dev-docs/quick-start): Strapi v4 quick start guide with Cloud deployment (legacy version)
+
+## Tutorials & Integration Guides
+
+- [Blog Strapi | Open-source Node.js headless CMS](https://strapi.io/blog): Strapi blog: tutorials, engineering, Kubernetes, Next.js, AI integrations
+- [Getting Started With Next.js 14 and Strapi 5](https://strapi.io/blog/getting-started-with-next-js-and-strapi-5-beginner-s-guide): Beginner tutorial: building dynamic sites with Next.js 14 & Strapi 5
+- [What is a REST API? Beginner's Guide + Examples Using Strapi](https://strapi.io/blog/what-is-a-rest-api-beginners-guide-examples-using-strapi): Beginner's guide to REST APIs with Strapi 5 examples and HTTP basics
+- [Gettings Started With Strapi and Next.js – Strapi Launchpad](https://strapi.io/blog/getting-started-with-strapi-and-next-js-launchpad-the-official-strapi-demo): Launchpad starter guide: official Next.js + Strapi demo & deployment
+
+## AI-Powered Features
+
+- [Introducing Strapi AI: Build Content Structures Faster with the AI-Powered Content Type Builder](https://strapi.io/blog/introducing-strapi-ai): Strapi AI launch: AI-powered Content Type Builder from Figma/JS apps
+- [Build an AI FAQ System with Strapi, LangChain & OpenAI.](https://strapi.io/blog/build-an-ai-faq-system-with-strapi-lang-chain-and-open-ai): Tutorial: AI FAQ system using Strapi, LangChain.js & OpenAI GPT
+- [Build a Company Website with Bolt.new and Strapi 5 - Part 1](https://strapi.io/blog/build-a-company-website-with-bolt-new-and-strapi5-part-1): AI-assisted development: building Next.js sites with Bolt.new & Strapi 5
+
+## Community & Support
+
+- [Community & Support | Strapi 5 Documentation](https://docs.strapi.io/cms/community): Community resources: GitHub repos, Discord, support plans & contributions
+- [most frequently asked questions on the Strapi website](https://strapi.io/blog/strapi-support-most-frequently-asked-questions-on-the-website): FAQ: Strapi Cloud, pricing, open-source licensing, RBAC & multi-tenancy
+- [FAQ - Strapi Community Forum](https://forum.strapi.io/faq): Community forum FAQ: guidelines, code of conduct, and participation rules
+
+## Optional
+
+- [Strapi Boutique](https://shop.strapi.io/en): Official Strapi merchandise store: t-shirts, hoodies, caps

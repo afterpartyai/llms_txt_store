@@ -1,0 +1,64 @@
+# TypeScript TV
+
+> > TypeScript tutorials and guides by Benny, covering fundamentals, React integration, type system concepts, and modern development tooling.
+
+TypeScript TV offers comprehensive video tutorials and written guides for learning TypeScript, from beginner fundamentals to advanced topics like type testing, mutation testing, and voice coding. The site features a structured course, practical hands-on tutorials, and best practices for TypeScript development with tools like VS Code, Node.js, and GitHub Actions.
+
+## Key Topics
+
+- TypeScript fundamentals
+- Type safety and type checking
+- Type system (structural typing, type compatibility)
+- Type inference and annotations
+- React with TypeScript
+- Node.js and ESM modules
+- VS Code and development tools
+- GitHub Actions and automation
+- Testing (Vitest, mutation testing)
+- Best practices and code quality
+- TypeScript compiler (tsc)
+- Generics and utility types
+- Voice coding with VS Code Speech
+- Beginner-friendly tutorials
+
+## Getting Started
+
+- [TypeScript TV - The easiest way to learn TypeScript](https://typescript.tv): Homepage: Benny's TypeScript tutorials for beginners & advanced developers
+- [TypeScript Course](https://typescript.tv/course): Main course: TypeScript fundamentals tutorial series by Benny
+- [TypeScript Glossary](https://typescript.tv/glossary): TypeScript & JavaScript terminology glossary for developers
+
+## Core TypeScript Concepts
+
+- [Type Assertions and Utility Types](https://typescript.tv/course/09-type-assertions-and-utility-types): Course chapter: Type assertions & utility types (Pick, Partial) explained
+- [Type Inference & Type Annotations in TypeScript](https://typescript.tv/hands-on/type-inference-type-annotations-in-typescript): Understanding type inference vs annotations & best practices in TypeScript
+- [What is Type Compatibility in TypeScript?](https://typescript.tv/new-features/what-is-type-compatibility-in-typescript): Structural typing & type compatibility in TypeScript's type system
+- [All you need to know about iterators and generators](https://typescript.tv/hands-on/all-you-need-to-know-about-iterators-and-generators): Guide: Iterator protocol, iterable protocol & async generators in TypeScript
+- [What are ECMAScript Modules?](https://typescript.tv/new-features/what-are-ecmascript-modules): Guide: ESM vs CommonJS module systems for Node.js & browsers
+
+## React and Frameworks
+
+- [React with TypeScript for Beginners](https://typescript.tv/react/react-with-typescript-for-beginners): Tutorial: Building React apps with TypeScript using Create React App
+
+## Testing in TypeScript
+
+- [Testing Types in TypeScript](https://typescript.tv/hands-on/testing-types-in-typescript): Testing TypeScript types with tsc, dtslint, tsd & Vitest for SDK authors
+- [Boost Your TypeScript Tests with Mutation Testing](https://typescript.tv/testing/boost-your-typescript-tests-with-mutation-testing): Tutorial: Setting up Stryker mutation testing for TypeScript projects
+
+## Best Practices and Tooling
+
+- [Blog](https://typescript.tv/blog): Blog listing: Voice coding, type safety, GitHub Actions & dev tools
+- [Why Codemods Beat Search and Replace Every Time](https://typescript.tv/best-practices/why-codemods-beat-search-and-replace-every-time): Automated code transformation using AST-based codemods vs search-replace
+- [Bring Immutability and Context to Arrays](https://typescript.tv/best-practices/bring-immutability-and-context-to-arrays): Using readonly named tuples for immutable, semantic arrays in TypeScript
+- [Optimizing TypeScript Configs: Balancing Compilation and Type Checking](https://typescript.tv/hands-on/optimizing-typescript-configs-balancing-compilation-and-type-checking): Managing tsconfig.json with rootDir/exclude for config files & type checking
+- [Never Review a Dependency Update Again](https://typescript.tv/hands-on/never-review-a-dependency-update-again): Auto-merging Dependabot PRs with GitHub Actions when CI passes
+- [Your Keyboard Is Obsolete: Voice Coding in TypeScript](https://typescript.tv/hands-on/your-keyboard-is-obsolete-voice-coding-in-typescript): Voice coding with VS Code Speech & AI agents for TypeScript development
+
+## News and Updates
+
+- [Node.js rolls out experimental TypeScript support](https://typescript.tv/new-features/nodejs-rolls-out-experimental-typescript-support): Node.js v23 --experimental-strip-types flag for running TypeScript directly
+
+## Optional
+
+- [Fixing TypeScript Error: Type undefined is not assignable to type string](https://typescript.tv/hands-on/fixing-typescript-error-type-undefined-is-not-assignable-to-type-string): Solving TS2345: undefined not assignable to string with environment variables
+- [Hosting on Heroku with a Custom Domain and SSL](https://typescript.tv/hands-on/hosting-on-heroku-with-a-custom-domain-and-ssl): Configuring custom domains & SSL certificates for Heroku deployments
+- [Docker Desktop: Hardware assisted virtualization](https://typescript.tv/hands-on/docker-desktop-hardware-assisted-virtualization): Enabling Intel VT-x/AMD SVM for Docker Desktop hardware acceleration

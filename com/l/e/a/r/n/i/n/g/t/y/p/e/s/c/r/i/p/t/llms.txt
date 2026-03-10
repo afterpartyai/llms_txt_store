@@ -1,0 +1,64 @@
+# Learning TypeScript
+
+> > Companion website for the O'Reilly book 'Learning TypeScript' by Josh Goldberg, featuring chapters, projects, and articles on TypeScript's type system.
+
+This site provides comprehensive TypeScript learning resources including book chapters on type systems, interfaces, and advanced type operations, plus hands-on GitHub projects and in-depth articles. The content ranges from JavaScript-to-TypeScript migration basics to advanced topics like conditional types, template literals, and TSConfig optimization.
+
+## Key Topics
+
+- TypeScript type system
+- Type annotations and inference
+- Type checking and narrowing
+- Interfaces and object types
+- Conditional types
+- Template literal types
+- Advanced type operations
+- TSConfig and compiler options
+- Arrays and tuples
+- Comment directives (@ts-expect-error)
+- Classes and inheritance
+- Type-safe error handling
+- ECMAScript target configuration
+- TypeScript Playground
+- Jest testing with TypeScript
+
+## Getting Started
+
+- [Learning TypeScript](https://learningtypescript.com): Homepage for Learning TypeScript book by Josh Goldberg with O'Reilly
+- [What is TypeScript?](https://learningtypescript.com/articles/what-is-typescript): Beginner guide explaining TypeScript as language, type checker, and toolset
+- [From JavaScript to TypeScript](https://learningtypescript.com/from-javascript-to-typescript): Chapter on JavaScript's weaknesses & TypeScript's advantages for beginners
+- [Projects](https://learningtypescript.com/projects): Hands-on exercises & coding challenges for each book chapter on GitHub
+
+## Core Type System Concepts
+
+- [The Type System](https://learningtypescript.com/the-type-system): Chapter covering TypeScript's type system, primitives, and type annotations
+- [Interfaces](https://learningtypescript.com/interfaces): Chapter on interface properties, inheritance, merging, and index signatures
+- [Arrays](https://learningtypescript.com/arrays): Chapter on array types, tuples, spreads, rests, and const assertions
+- [Classes](https://learningtypescript.com/classes): Chapter on class methods, properties, interfaces, and inheritance in TS
+
+## Advanced Type Operations
+
+- [Type Operations](https://learningtypescript.com/type-operations): Advanced chapter on mapped types, conditional types, and template literals
+- [The satisfies Operator](https://learningtypescript.com/articles/the-satisfies-operator): TypeScript 4.9 satisfies operator for improved type inference control
+- [Narrowing Function Parameters With Rests And Tuples](https://learningtypescript.com/articles/narrowing-function-parameters-with-rests-and-tuples): Advanced techniques for dependent parameter types using tuples & rests
+- [Extreme Explorations of TypeScript's Type System](https://learningtypescript.com/articles/extreme-explorations-of-typescripts-type-system): Turing Complete type system: advanced conditional types & type challenges
+
+## Configuration & Tooling
+
+- [Configuration Options](https://learningtypescript.com/configuration-options): Chapter on TSConfig files, tsc compiler, and TypeScript project settings
+- [Why Increase Your TSConfig target](https://learningtypescript.com/articles/why-increase-your-tsconfig-target): Guide to compilerOptions.target for ECMAScript version & transpilation
+- [Comment Directives](https://learningtypescript.com/articles/comment-directives): Guide to @ts-expect-error and @ts-ignore comment directives usage
+- [Starters](https://learningtypescript.com/starters): Framework starter templates for Angular, Next.js, Remix, Vue, and React
+
+## Articles & Deep Dives
+
+- [Articles](https://learningtypescript.com/articles): Collection of TypeScript articles on features, syntax, and type checking
+- [Why TypeScript Doesn't Include a throws Keyword](https://learningtypescript.com/articles/why-typescript-doesnt-include-a-throws-keyword): Article on throw types design decision comparing TypeScript to Java
+
+## Practice Projects
+
+- [Text Processor](https://learningtypescript.com/arrays/text-processor): Arrays chapter entree project: string manipulation & array transformations
+- [The Narrow Trail](https://learningtypescript.com/unions-and-literals/the-narrow-trail): Unions chapter entree project: game logic with type narrowing exercises
+- [Vacation Planning](https://learningtypescript.com/interfaces/vacation-planning): Interfaces chapter appetizer: structural object types practice exercise
+- [Template Literal Type Shenanigans](https://learningtypescript.com/type-operations/template-literal-type-shenanigans): Type Operations appetizer: advanced template literal types exercises
+- [Secret Messages](https://learningtypescript.com/configuration-options/secret-messages): Configuration Options appetizer: TSConfig compiler practice exercise

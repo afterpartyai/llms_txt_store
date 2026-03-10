@@ -1,0 +1,66 @@
+# Luca Nerlich - Tech Documentation
+
+> > Technical documentation hub covering Adobe Experience Manager (AEM), Java, JavaScript/TypeScript, with beginner guides and production patterns.
+
+Luca Nerlich's documentation site provides comprehensive guides for AEM development (HTL, Sling Models, Touch UI, Content Fragments), modern Java features (streams, concurrency, functional programming), and JavaScript/TypeScript best practices. Content ranges from beginner tutorials to advanced reference material.
+
+## Key Topics
+
+- Adobe Experience Manager (AEM)
+- Sling Models & JCR
+- HTL (HTML Template Language)
+- Touch UI & Granite UI
+- Editable Templates & Policies
+- Core Components
+- Java Streams & Concurrency
+- TypeScript
+- OSGi
+- Content Fragments
+- Coral UI
+- Maven
+- CompletableFuture
+- Dialog Development
+- Intl API
+
+## AEM Beginner Guides
+
+- [The JCR & Sling](https://lucanerlich.com/aem/beginners-guide/jcr-and-sling): JCR content repository & Sling URL resolution fundamentals for AEM
+- [Your First Component](https://lucanerlich.com/aem/beginners-guide/your-first-component): Build your first AEM component: HTL template, Sling Model, dialog XML explained
+- [Templates & Policies](https://lucanerlich.com/aem/beginners-guide/templates-and-policies): AEM editable templates, policies, structure vs initial content, allowed components
+
+## AEM Components & Development
+
+- [Components Overview](https://lucanerlich.com/aem/components): AEM component guides: overview, Core Components, dialog validation, templates
+- [Touch UI Component Dialogs](https://lucanerlich.com/aem/component-dialogs): Coral XML dialog reference for AEM Touch UI component configuration
+- [Templates and Policies](https://lucanerlich.com/aem/components/templates-policies): Editable Templates & Policies: structure, configuration, allowed components
+- [Sling Model Annotations Reference](https://lucanerlich.com/aem/components/annotations/sling-model-annotations): Comprehensive Sling Model annotations reference: @Model, @ValueMapValue, etc.
+- [Content Fragments](https://lucanerlich.com/aem/content/content-fragments): AEM Content Fragments: models, structured content, GraphQL, headless CMS
+
+## AEM Touch UI & Customization
+
+- [Coral UI](https://lucanerlich.com/aem/ui/coral-ui): Adobe's Coral UI web component library for AEM Touch UI development
+- [Overlays](https://lucanerlich.com/aem/ui/overlays): Sling Resource Merger overlays for customizing AEM Touch UI without /libs edits
+- [Render Conditions](https://lucanerlich.com/aem/ui/render-conditions): Granite UI render conditions: show/hide dialog fields by user group or context
+- [Multi-Tenancy UI Frontend Themes](https://lucanerlich.com/aem/ui/multi-tenancy-support-ui-frontend): Configure webpack & ui.frontend for multi-tenant AEM clientlibs per brand
+- [Groovy Console](https://lucanerlich.com/aem/groovy-console): AEM Groovy Console guide: installation, scripting, bulk content operations
+
+## Java Development
+
+- [Java Overview](https://lucanerlich.com/java): Java guides: streams, concurrency, generics, testing, Maven, modern features
+- [Introduction & Environment Setup](https://lucanerlich.com/java/beginners-guide/introduction): Java intro: JDK/JRE/JVM explained, installation, first program, IDE setup
+- [Functional Interfaces and Lambdas](https://lucanerlich.com/java/functional-interfaces): Java functional interfaces: Function, Predicate, Consumer, lambdas, composition
+
+## JavaScript & TypeScript
+
+- [JavaScript Overview](https://lucanerlich.com/javascript): JavaScript & TypeScript guides: Intl API, error handling, performance tips
+- [TypeScript Guide](https://lucanerlich.com/javascript/beginners-guide/typescript): TypeScript guide: type annotations, interfaces, generics, project setup
+
+## Additional Resources
+
+- [Home](https://lucanerlich.com): Tech documentation hub for AEM, Java, JavaScript, Strapi with code examples
+- [Mermaid Diagrams Guide](https://lucanerlich.com/other/mermaid-diagrams): Mermaid diagram guide: flowcharts, sequence diagrams, class diagrams in Markdown
+
+## Optional
+
+- [Stay Forever - RSS Analyzer](https://rssanalyzer.lucanerlich.com/stayforever): Stay Forever podcast RSS feed analytics and episode archive by format/year
+- [The Pod - RSS Analyzer](https://rssanalyzer.lucanerlich.com/thepod): The Pod (gamespodcast.de) RSS analytics with episode format tracking

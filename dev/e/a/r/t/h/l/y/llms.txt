@@ -1,0 +1,55 @@
+# Earthly
+
+> > Earthly builds developer infrastructure tools including Earthly Lunar (AI-era engineering guardrails) and Earthfiles (reproducible build automation), with expertise in Docker, Kubernetes, and CI/CD pipelines.
+
+Founded by Vlad A. Ionescu, Earthly creates platform engineering solutions that enforce standards and automate compliance in modern development workflows. The site features technical tutorials, the "Nerding Out with Viktor" podcast, and resources on build tools, containerization, and infrastructure as code.
+
+## Key Topics
+
+- Earthly Lunar (guardrails engine)
+- Earthfiles (build automation)
+- Docker & containerization
+- Kubernetes & orchestration
+- Build tools (Make, CMake, Autotools)
+- Platform engineering
+- Engineering standards & compliance
+- AI code enforcement
+- PR automation
+- CI/CD pipelines
+- Developer infrastructure
+- Microservices architecture
+- Python, Golang, C++, Bash
+- Open source tooling
+
+## Core Product & Company
+
+- [Earthly Lunar - Guardrails for the AI Era](https://earthly.dev): Homepage for Earthly Lunar guardrails engine for platform engineering
+- [About Earthly - Building the Developer Infrastructure We Always Wished Existed](https://earthly.dev/about): Company mission, origin story, and team behind Earthly Lunar & Earthfiles
+- [A message about Earthly - Earthly Blog](https://earthly.dev/blog/shutting-down-earthfiles-cloud): Announcement: phasing out Earthly Satellite & Cloud services
+- [Newsroom | Earthly](https://earthly.dev/newsroom): Press releases, media coverage & podcast interviews with Vlad Ionescu
+
+## Build Tools & Automation
+
+- [Makefile Tutorials and Examples to Build From - Earthly Blog](https://earthly.dev/blog/make-tutorial): Comprehensive Makefile tutorial with G++, Python, Golang examples
+- [Getting Started With CMake - Earthly Blog](https://earthly.dev/blog/using-cmake): Beginner guide to CMake for cross-platform C++ build configuration
+
+## Kubernetes & Infrastructure
+
+- [Kubernetes ConfigMaps and Configuration Best Practices - Earthly Blog](https://earthly.dev/blog/kubernetes-config-maps): Guide to Kubernetes ConfigMaps for pod configuration & environment vars
+- [How To Simplify Kubernetes Configuration Using Custom Resources And Controllers - Earthly Blog](https://earthly.dev/blog/simplify-k8s-using-cr-cp): Tutorial on Kubernetes Custom Resources & Controllers for microservices
+- [Backstage Adoption Guide: When to Use Spotify's Developer-Portal Framework - Earthly Blog](https://earthly.dev/blog/backstage-adoption-guide): Analysis of Backstage IDP framework adoption: when to use & pitfalls
+
+## Developer Tutorials
+
+- [Python Environment Management with Hatch - Earthly Blog](https://earthly.dev/blog/python-hatch): Tutorial on managing Python virtual environments using Hatch
+- [How to Man in the Middle HTTPS Using mitmproxy - Earthly Blog](https://earthly.dev/blog/mitmproxy): Tutorial on intercepting HTTPS traffic using mitmproxy & certificates
+
+## Blog & Content
+
+- [Earthly Blog](https://earthly.dev/blog): Main blog page with engineering standards & microservices content
+- [Earthly Blog](https://blog.earthly.dev): Blog featuring Nerding Out with Viktor podcast & engineering topics
+- [Series - Earthly Blog](https://earthly.dev/blog/series): Organized tutorial series on Docker, Makefiles, Bash & build tools
+
+## Optional
+
+- [v0.3.2 Released - Earthly Blog](https://earthly.dev/blog/v0-3-2-released): Release notes for Earthly v0.3.2 with Docker & Bash improvements
