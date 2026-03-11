@@ -1,81 +1,54 @@
 # MoldStud
 
-> > Custom software development company specializing in .NET, Java, C#, and enterprise solutions with a focus on accessible, secure, and scalable applications.
+> > MoldStud is a software development knowledge hub covering web development, enterprise solutions, IoT, API design, and developer tutorials with focus on Python, JavaScript, PHP, and modern frameworks.
 
-MoldStud provides technical guides, tutorials, and consulting services led by Vasile Crudu and team. The site covers full-stack development, IoT solutions, enterprise consulting, and modern frameworks including Spring Boot, React, and ASP.NET MVC.
+MoldStud provides technical articles, tutorials, and FAQs for developers working with technologies like Spring Boot, Node.js, ASP.NET MVC, and CodeIgniter. The site emphasizes practical guides for full-stack development, security best practices, and enterprise consulting.
 
 ## Key Topics
 
-- Custom Software Development
-- .NET Framework & C#
-- Java & Spring Boot
+- Web Development
+- Python
+- JavaScript
+- PHP
+- API Documentation
+- Spring Boot
+- Node.js
+- ASP.NET MVC
+- Enterprise IoT
+- Industrial Automation
+- Security & Authentication
 - Full-Stack Development
-- Enterprise IoT & Industry 4.0
-- API Development & Documentation
-- Security (AES-256, TLS, OAuth 2.0)
 - Mobile App Development
 - Performance Optimization
-- WCAG Accessibility Compliance
-- Visual Studio & Development Tools
-- Docker & Kubernetes
-- React & Node.js
-- ASP.NET MVC
-- DevOps & CI/CD
+- Git Version Control
 
-## Essential Pages
+## Developer Tutorials & Guides
 
-- [Custom software development company](https://moldstud.com): Homepage: Custom software development with accessible design & WCAG compliance
-- [About Us | MoldStud](https://moldstud.com/about-us): Company overview: MoldStud's mission, values & team led by Vasile Crudu
-- [Articles | MoldStud](https://moldstud.com/articles): Main articles hub covering custom software development topics
+- [Build a RESTful API with Node.js Step by Step Guide](https://moldstud.com/articles/p-hands-on-guide-to-building-a-restful-api-with-nodejs-step-by-step-tutorial): Node.js RESTful API tutorial using Express framework with authentication
+- [Hands-On Guide Building a Full Stack Java App with MySQL and Spring Boot](https://moldstud.com/articles/p-comprehensive-tutorial-on-developing-a-full-stack-java-application-using-mysql-and-spring-boot): Full stack Java tutorial: MySQL database & Spring Boot step-by-step guide
+- [Git Guide for Python Developers and Beginners](https://moldstud.com/articles/p-git-tutorial-for-python-developers-a-comprehensive-beginners-guide): Git version control tutorial: branching, merging & best practices for Python
+- [Free HTML Tutorials Guide for Quality Learning Resources](https://moldstud.com/articles/p-discover-free-html-tutorials-your-ultimate-guide-to-quality-learning-materials): Free HTML tutorials: W3Schools, Codecademy, freeCodeCamp & MDN Web Docs
+- [Top CodeIgniter Resources for New Developers Guide](https://moldstud.com/articles/p-essential-codeigniter-learning-resources-for-new-developers-your-ultimate-guide): CodeIgniter PHP framework resources: tutorials, docs & learning platforms
+- [Lightweight JavaScript Libraries for XHTML Development](https://moldstud.com/articles/p-discover-lightweight-javascript-libraries-for-efficient-xhtml-development): Alpine.js, UIkit & lightweight JS libraries for efficient XHTML development
 
-## Full-Stack Development Tutorials
+## Enterprise & Security Solutions
 
-- [Build Your First Full Stack Application A Beginner's Guide](https://moldstud.com/articles/p-how-to-build-your-first-full-stack-application-a-comprehensive-tutorial-for-beginners): Full stack tutorial: React, Node.js, MongoDB & Docker setup for beginners
-- [Hands-On Guide Building a Full Stack Java App with MySQL and Spring Boot](https://moldstud.com/articles/p-comprehensive-tutorial-on-developing-a-full-stack-java-application-using-mysql-and-spring-boot): Full stack Java tutorial: MySQL database & Spring Boot integration
-- [Build Your First API A Beginner's Step by Step Guide](https://moldstud.com/articles/p-how-to-build-your-first-api-a-comprehensive-beginners-tutorial): API development tutorial: Django, Flask, REST & OAuth 2.0 authentication
-- [Beginner Guide to Java Web Application Development](https://moldstud.com/articles/p-a-beginners-guide-to-java-web-application-development-step-by-step-tutorial-for-new-developers): Java web dev tutorial: JSP, Servlets, Spring & Apache Tomcat setup
-- [Beginner Guide to E2E Testing with Protractor in Angular](https://moldstud.com/articles/p-beginners-guide-to-e2e-testing-with-protractor-in-angular-step-by-step-tutorial): E2E testing in Angular: Protractor, WebDriver & Jasmine setup guide
+- [Building Secure Software: Focus on Encryption and Authentication](https://moldstud.com/articles/p-building-secure-software-applications-with-encryption-and-authentication): AES-256 encryption, TLS 1.2+ & authentication best practices for secure apps
+- [Enterprise IoT Solutions for Industrial Automation](https://moldstud.com/articles/c-enterprise-iot-solutions-for-industrial-automation): IoT solutions for Industry 4.0: energy optimization & predictive maintenance
+- [Enterprise Consulting Services Driving Business Culture Change and Innovation](https://moldstud.com/articles/p-fostering-innovation-how-enterprise-consulting-services-can-transform-your-business-culture): Enterprise consulting for cultural transformation & innovation management
 
-## .NET & Microsoft Technologies
+## Developer FAQs & Troubleshooting
 
-- [NET Explained A Beginner's Guide to Understanding NET](https://moldstud.com/articles/p-what-is-net-a-comprehensive-introduction-for-beginners): .NET Framework basics: CLR, C# & Visual Studio for beginners
-- [Understanding .NET A Beginner's Guide to Microsoft Framework](https://moldstud.com/articles/p-what-is-net-comprehensive-beginners-guide-to-microsofts-net-framework): Microsoft .NET Framework guide: components, ASP.NET & cross-platform apps
-- [Beginner Guide to Creating a Simple.NET Application](https://moldstud.com/articles/p-creating-a-simple-net-app-a-beginners-guide-to-getting-started): .NET app creation: Visual Studio setup & C# programming basics
-- [What is C# and why is it used by developers?](https://moldstud.com/articles/p-what-is-c-and-why-is-it-used-by-developers): C# programming guide: .NET framework & cross-platform development
-- [Guide to Building Responsive Windows Apps with VB.NET](https://moldstud.com/articles/p-building-responsive-windows-applications-with-vbnet-comprehensive-faq-guide): VB.NET responsive Windows apps: MVVM pattern & async programming FAQ
-
-## Enterprise Solutions & Security
-
-- [Building Secure Software: Focus on Encryption and Authentication](https://moldstud.com/articles/p-building-secure-software-applications-with-encryption-and-authentication): AES-256 encryption & TLS 1.2 for secure software development
-- [Enterprise IoT Solutions for Industrial Automation](https://moldstud.com/articles/c-enterprise-iot-solutions-for-industrial-automation): IoT solutions for Industry 4.0: energy optimization & automation
-- [Enterprise Consulting Services Driving Business Culture Change and Innovation](https://moldstud.com/articles/p-fostering-innovation-how-enterprise-consulting-services-can-transform-your-business-culture): Enterprise consulting for innovation & organizational change
-- [COBOL Adaptation for Cloud Solutions Common Questions](https://moldstud.com/articles/p-common-questions-about-adapting-cobol-for-cloud-solutions): COBOL cloud migration: Docker, Kubernetes & legacy modernization
-
-## Programming Language Guides
-
-- [Step By Step Guide To Creating A C++ Application](https://moldstud.com/articles/p-creating-a-simple-c-application-a-step-by-step-practical-tutorial-for-beginners): C++ tutorial: Visual Studio, Code::Blocks & compiler installation guide
-- [Kotlin Performance FAQs for Enterprise Applications](https://moldstud.com/articles/p-faqs-about-kotlin-performance-in-enterprise-applications): Kotlin performance benchmarks, coroutines & JVM optimization FAQs
-- [Choosing the Best AI Language for Developers FAQs](https://moldstud.com/articles/p-choosing-the-right-ai-language-essential-faqs-for-developers): AI language selection: Python vs R, TensorFlow & PyTorch comparison
-
-## Developer Resources & Learning
-
-- [Free HTML Tutorials Guide for Quality Learning Resources](https://moldstud.com/articles/p-discover-free-html-tutorials-your-ultimate-guide-to-quality-learning-materials): Free HTML learning: W3Schools, Codecademy, freeCodeCamp & MDN Web Docs
-- [Top CodeIgniter Resources for New Developers Guide](https://moldstud.com/articles/p-essential-codeigniter-learning-resources-for-new-developers-your-ultimate-guide): CodeIgniter PHP framework: tutorials, GitHub & Stack Overflow resources
+- [Developers FAQ](https://moldstud.com/articles/c-developers-faq): Developer FAQs: Magento, ReactJS, Agile & troubleshooting guides
+- [Troubleshooting ASP.NET MVC: Frequently Asked Questions and Solutions](https://moldstud.com/articles/p-effective-solutions-and-common-queries-for-troubleshooting-aspnet-mvc-issues): ASP.NET MVC troubleshooting FAQ: common issues & performance solutions
+- [Mobile apps developers questions](https://moldstud.com/articles/c-mobile-apps-developers-questions): Mobile dev FAQs: Flutter, REST vs SOAP, iOS & AI in gaming
+- [Choosing the Best AI Language for Developers FAQs](https://moldstud.com/articles/p-choosing-the-right-ai-language-essential-faqs-for-developers): AI language selection FAQs: Python, R, TensorFlow & PyTorch comparison
 - [API Documentation Essentials Questions That Can Save Mobile Developers Time](https://moldstud.com/articles/p-essential-questions-about-api-documentation-that-can-help-mobile-developers-save-time-and-enhance-efficiency): API documentation best practices for mobile developer efficiency
-- [Lightweight JavaScript Libraries for XHTML Development](https://moldstud.com/articles/p-discover-lightweight-javascript-libraries-for-efficient-xhtml-development): Alpine.js, UIkit & Chart.js for efficient XHTML development
 
-## Troubleshooting & Developer FAQs
+## Mobile & UX Development
 
-- [Developers FAQ](https://moldstud.com/articles/c-developers-faq): Developer FAQs: Magento, ReactJS, Agile & troubleshooting resources
-- [Mobile apps developers questions](https://moldstud.com/articles/c-mobile-apps-developers-questions): Mobile dev FAQs: Flutter, REST vs SOAP, iOS Swift & DevOps questions
-- [Troubleshooting ASP.NET MVC: Frequently Asked Questions and Solutions](https://moldstud.com/articles/p-effective-solutions-and-common-queries-for-troubleshooting-aspnet-mvc-issues): ASP.NET MVC troubleshooting: common issues, validation & performance FAQ
-- [HTML Troubleshooting Steps and Solutions for Common Issues](https://moldstud.com/articles/p-ultimate-guide-how-to-troubleshoot-html-step-by-step-solutions): HTML debugging: W3C validation, browser tools & WCAG accessibility testing
-- [Resolve Microsoft Access Access Denied Errors Guide](https://moldstud.com/articles/p-resolve-access-denied-errors-in-microsoft-access-databases-step-by-step-guide): Fix Microsoft Access permissions errors & UAC troubleshooting steps
-- [Ansible Version Compatibility FAQ for Developers Guide](https://moldstud.com/articles/p-understanding-ansible-version-compatibility-essential-faq-for-developers): Ansible version compatibility: upgrade paths & module integration FAQ
-- [Common Questions About Mobile App UI Design Explained](https://moldstud.com/articles/p-addressing-frequently-asked-questions-on-mobile-app-ui-design-insights-and-clarifications): Mobile app UI design FAQs: UX best practices & navigation patterns
+- [Tips for creating a seamless user onboarding experience in mobile apps](https://moldstud.com/articles/p-tips-for-creating-a-seamless-user-onboarding-experience-in-mobile-apps): Mobile app onboarding: user feedback & UX design best practices
 
-## Optional
+## Articles Hub
 
-- [Tips for creating a seamless user onboarding experience in mobile apps](https://moldstud.com/articles/p-tips-for-creating-a-seamless-user-onboarding-experience-in-mobile-apps): Mobile app onboarding: user feedback & continuous improvement strategies
-- [The Impact of Game Length on Player Experience: Balancing playtime and value](https://moldstud.com/articles/p-the-impact-of-game-length-on-player-experience-balancing-playtime-and-value): Game design: balancing playtime value in Zelda & Red Dead Redemption 2
-- [Zimbra Web Client Sign In](https://email.moldstud.com): Zimbra webmail login portal for email access
+- [Articles](https://moldstud.com/articles): MoldStud articles hub covering software development & cutting-edge tech

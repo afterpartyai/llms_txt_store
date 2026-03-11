@@ -1,0 +1,54 @@
+# Gadget
+
+> > Gadget is a full-stack development platform for building Shopify and BigCommerce apps with serverless infrastructure, React, and integrated tooling.
+
+Gadget provides developers with a complete framework for rapid app development, featuring built-in authentication, database models, actions, HTTP routes with Fastify, and frontend support through React and Remix. The platform specializes in e-commerce integrations with Shopify and BigCommerce.
+
+## Key Topics
+
+- Gadget platform
+- Shopify app development
+- BigCommerce integration
+- Full-stack framework
+- Serverless infrastructure
+- React and Remix
+- HTTP routes and Fastify
+- GraphQL API
+- Authentication helpers
+- Actions and models
+- Developer tools
+- Tailwind CSS
+- Gelly (GraphQL client)
+- E-commerce apps
+- Webhooks
+
+## Getting Started
+
+- [Docs Home Page](https://docs.gadget.dev): Main documentation hub for Gadget framework with guides and API reference
+- [Getting Started Home](https://docs.gadget.dev/guides/getting-started): Getting started hub with quickstarts for Shopify, BigCommerce, and web apps
+- [Guides](https://docs.gadget.dev/guides): Comprehensive guides covering Gadget fundamentals, Shopify/BigCommerce apps
+- [Tutorials](https://docs.gadget.dev/guides/tutorials): Step-by-step tutorials for building Shopify, BigCommerce, and web apps
+
+## Core Concepts & Guides
+
+- [Writing Actions](https://docs.gadget.dev/guides/actions/writing-actions): Guide to writing Gadget actions for data modification and business logic
+- [HTTP Routes Overview](https://docs.gadget.dev/guides/http-routes): Guide to HTTP routes in Gadget using Fastify for webhooks and requests
+- [Authentication Helpers](https://docs.gadget.dev/guides/plugins/authentication/helpers): Authentication helpers for user model, OAuth triggers, and password reset
+
+## Solutions & Use Cases
+
+- [App Developers](https://gadget.dev/solutions/app-developers): Full-stack platform for rapid app development with serverless infrastructure
+- [How to: Listen to a 3rd Party Webhook](https://gadget.dev/blog/how-to-listen-to-a-3rd-party-webhook-in-gadget): Tutorial on setting up GitHub webhook listeners using Gadget HTTP routes
+- [Build a VAT Validation Shopify App](https://gadget.dev/blog/guide-build-a-vat-validation-shopify-app-with-gadget): Tutorial for building Shopify checkout UI extension with VAT validation
+
+## Support & Community
+
+- [Support](https://gadget.dev/support): Support page with Discord community access and billing contact info
+- [FAQ](https://docs.gadget.dev/guides/faq): Frequently asked questions about Gadget pricing, GraphQL, and migration
+- [Partners](https://gadget.dev/partners): Gadget Partner Program for agencies building Shopify/BigCommerce apps
+
+## Optional
+
+- [Status](https://status.gadget.dev): System status page showing uptime for API, code editing, and services
+- [Press](https://gadget.dev/press): Press releases, media coverage, and podcast appearances about Gadget
+- [Radikal Expert Profile](https://gadget.dev/experts/radikal): Radikal agency profile: Shopify experts based in Antwerp, Belgium

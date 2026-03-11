@@ -1,0 +1,54 @@
+# PostGIS
+
+> > PostGIS is a spatial database extender for PostgreSQL, enabling geographic object support and location queries with industry-standard SQL.
+
+PostGIS adds geospatial capabilities to PostgreSQL through geometry/geography types, spatial indexing (GiST/R-Tree), and coordinate transformation. The project is maintained by OSGeo and integrates with tools like OpenStreetMap, osm2pgsql, QGIS, and Safe FME.
+
+## Key Topics
+
+- PostGIS
+- PostgreSQL
+- spatial-queries
+- spatial-indexing
+- GiST
+- R-Tree
+- coordinate-reprojection
+- geometry/geography types
+- OpenStreetMap
+- osm2pgsql
+- QGIS
+- troubleshooting
+- performance optimization
+- OSGeo
+
+## Getting Started
+
+- [PostGIS](https://postgis.net): Homepage: PostGIS extends PostgreSQL with geospatial data support
+- [Getting Started | PostGIS](https://postgis.net/documentation/getting_started): Installation & setup guide: enabling PostGIS extension across platforms
+- [Installing on windows | PostGIS](https://postgis.net/documentation/getting_started/install_windows): Windows installation guide with EnterpriseDb & buildbot packages
+
+## Official Documentation
+
+- [Official Manual | PostGIS](https://postgis.net/documentation/manual): Official docs: HTML/PDF/EPUB manuals for PostGIS v2.0-3.6, multilingual
+
+## Frequently Asked Questions
+
+- [How do I use spatial indexes? | PostGIS](https://postgis.net/documentation/faq/spatial-indexes): FAQ: creating & using GIST spatial indexes for query performance
+- [How can I find all objects within a radius of another object? | PostGIS](https://postgis.net/documentation/faq/radius-search): FAQ: efficient radius searches using ST_DWithin & spatial indexes
+- [PostGIS FAQ v3.3](https://postgis.net/docs/manual-3.3/PostGIS_FAQ.html): FAQ v3.3: coordinate reprojection, spatial storage, licensing info
+- [PostGIS FAQ v3.2](https://postgis.net/docs/manual-3.2/PostGIS_FAQ.html): FAQ v3.2: geometry/geography types, spatial indexing, troubleshooting
+- [PostGIS FAQ v3.0](https://postgis.net/docs/manual-3.0/PostGIS_FAQ.html): FAQ v3.0: spatial indexing, coordinate reprojection, version migration
+- [PostGIS FAQ v2.5](https://postgis.net/docs/manual-2.5/PostGIS_FAQ.html): FAQ v2.5: spatial queries, licensing, compatibility with tools
+- [PostGIS FAQ v2.2](https://postgis.net/docs/manual-2.2/PostGIS_FAQ.html): FAQ v2.2: materialized views, spatial queries, version migration
+- [PostGIS FAQ v2.1](https://postgis.net/docs/manual-2.1/PostGIS_FAQ.html): FAQ v2.1: tutorials, troubleshooting, spatial queries, geometry/geography
+
+## Community & Support
+
+- [Community | PostGIS](https://postgis.net/community): Community hub: events, mailing lists, chat, code of conduct, support
+- [Support | PostGIS](https://postgis.net/community/support): Support options: get involved, donate via OSGeo/PayPal, hire contributors
+- [Planet PostGIS](https://postgis.net): Blog aggregator: PostGIS patch releases, FOSS4G events, community updates
+- [Planet PostGIS](https://planet.postgis.net/index.html): Blog aggregator: PostGIS releases, Boston GIS updates, conference news
+
+## Optional
+
+- [Dashboard - Jenkins](https://winnie.postgis.net): CI/CD dashboard: build status for PostGIS, GEOS, pgRouting & extensions

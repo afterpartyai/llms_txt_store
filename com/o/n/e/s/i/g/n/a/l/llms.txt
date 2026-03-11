@@ -1,0 +1,64 @@
+# OneSignal
+
+> > Multi-channel customer engagement platform providing push notifications, email, SMS, and in-app messaging solutions with comprehensive SDK integration for web, mobile (iOS/Android), and enterprise applications.
+
+OneSignal is a developer-focused messaging platform that enables businesses to send push notifications, emails, SMS, and in-app messages across multiple channels. The platform offers SDKs for major platforms, integrates with Firebase Cloud Messaging (FCM) and Apple Push Notification service (APNs), and provides enterprise-grade security with GDPR compliance and SOC 2 certification.
+
+## Key Topics
+
+- Push notifications (web, mobile, iOS, Android)
+- Email marketing and transactional messaging
+- SMS and MMS messaging
+- SDK integration (mobile and web)
+- Firebase Cloud Messaging (FCM)
+- Apple Push Notification service (APNs)
+- Service workers and HTTPS requirements
+- Marketing automation and segmentation
+- GDPR compliance and data security
+- Multi-channel messaging campaigns
+- In-app messaging and Live Activities
+- Twilio integration for SMS
+- Opensense email signature management
+- User targeting and personalization
+
+## Getting Started
+
+- [OneSignal Customer Engagement Platform](https://staging.onesignal.com): OneSignal homepage: multi-channel messaging platform for push, email, SMS
+- [OneSignal Documentation](https://documentation.onesignal.com): OneSignal docs homepage: guides, SDK setup, API reference for messaging
+- [Quickstart Guide](https://documentation.onesignal.com/docs/en/quickstart-guide): OneSignal quickstart: account setup, channels, users, first message tutorial
+
+## Platform Setup Guides
+
+- [Mobile Push Setup](https://documentation.onesignal.com/docs/en/mobile-push-setup): Mobile push guide: FCM/APNs credentials, SDK setup, iOS/Android permissions
+- [Web Push Setup](https://documentation.onesignal.com/docs/en/web-push-setup): Web push setup guide: HTTPS, service worker, SDK integration for browsers
+- [Email Setup](https://documentation.onesignal.com/docs/en/email-setup): Complete email configuration guide with DNS, domain verification, providers
+- [Android Firebase Credentials](https://documentation.onesignal.com/docs/en/android-firebase-credentials): Guide to generating Firebase FCM credentials for Android push notifications
+
+## Troubleshooting & Support
+
+- [Mobile SDK Troubleshooting](https://documentation.onesignal.com/docs/en/mobile-troubleshooting): Mobile SDK troubleshooting: Firebase conflicts, notification delivery issues
+- [Web Push FAQ](https://documentation.onesignal.com/docs/en/web-push-setup-faq): Web push FAQ: browser compatibility, HTTPS requirements, iOS support
+- [Data Collection & Security FAQs](https://documentation.onesignal.com/docs/en/data-questions): OneSignal data security, GDPR/HIPAA compliance, SOC 2/ISO certifications FAQ
+- [SMS FAQ](https://documentation.onesignal.com/docs/en/sms-faq): SMS/MMS troubleshooting: E.164 format, Twilio integration, encoding issues
+
+## Additional Products
+
+- [Opensense Email Signature Management](https://smart.onesignal.com): Opensense email signature management integrated with Microsoft 365/Google
+
+## Optional
+
+- [Oxford - Wikipedia](https://en.wikipedia.org/wiki/Oxford): Wikipedia article about Oxford city, University of Oxford, and region
+- [Visit Oxford – Oxford City Council](https://oxford.gov.uk/visit-oxford): Oxford City Council visitor guide with attractions and travel info
+- [Oxford Attractions & Places to Visit | VisitBritain](https://visitbritain.com/en/destinations/england/oxford): VisitBritain tourism guide to Oxford attractions and historic sites
+- [Best Things To Do In Oxford](https://timeout.com/england/things-to-do/best-things-to-do-in-oxford): Time Out's curated Oxford day trip itinerary with activities and dining
+- [Oxford News, Sport, Events | Oxford Mail](https://oxfordmail.co.uk): Oxford Mail local news covering Oxfordshire events and community stories
+- [Oxford Events Guide - Daily Info](https://dailyinfo.co.uk/whats-on/listings): Daily Info Oxford events listings: cinema, theatre, concerts, markets
+- [TV Guide Listings](https://tvguide.com/Listings): TV Guide homepage with TV listings, schedules, and entertainment news
+- [Best Shows on Netflix](https://tvguide.com/news/the-best-shows-on-netflix): Curated list of 55 best Netflix shows including Vladimir and Bridgerton
+- [Best Movies on Netflix](https://tvguide.com/news/best-movies-on-netflix): Netflix movie recommendations featuring Jurassic World Rebirth and more
+- [Winter TV Guide 2025-2026](https://tvguide.com/news/features/winter-tv-guide-2025): Winter 2025-2026 TV preview: Stranger Things, Bridgerton, new shows guide
+- [We Still Talk About You | Know Your Meme](https://knowyourmeme.com/memes/we-still-talk-about-you): Know Your Meme entry on viral 'We Still Talk About You' exploitable image
+- [I'm Talking About Innit | Know Your Meme](https://knowyourmeme.com/memes/im-talking-about-innit): TikTok trend from BunnaB & YKNiece rap song 'Innit' catchphrase meme
+- [Bananas And Rice Girl Meme Explained](https://trending.knowyourmeme.com/editorials/guides/who-is-the-bananas-and-rice-girl-the-viral-memes-about-somali-american-ice-victim-nasra-ahmed-explained): Viral meme explanation: Nasra Ahmed ICE incident and 'bananas and rice' speech
+- [Tim Robinson 'Are You Sure About That?' Meme](https://knowyourmeme.com/memes/tim-robinson-asking-are-you-sure-about-that): Tim Robinson sketch comedy catchphrase from 'I Think You Should Leave'
+- [Mental Health Memes Collection](https://trending.knowyourmeme.com/editorials/collections/22-memes-about-mental-health-that-are-a-little-too-relatable): Curated collection of relatable mental health and depression humor memes

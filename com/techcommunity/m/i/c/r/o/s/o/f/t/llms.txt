@@ -1,0 +1,49 @@
+# Microsoft Tech Community
+
+> > Microsoft's technical community hub for IT professionals, developers, and administrators covering Azure, Windows, SQL Server, Microsoft Defender, and enterprise technologies.
+
+This site hosts blogs, tutorials, and community discussions from Microsoft engineers and MVPs on topics ranging from Windows Server administration and SQL security to Azure services and endpoint protection. It serves as the primary knowledge-sharing platform for Microsoft's technical ecosystem.
+
+## Key Topics
+
+- Windows Server
+- SQL Server
+- Azure
+- Microsoft Defender for Endpoint (MDE)
+- Windows 10/11 Administration
+- Active Directory
+- IPv6 Networking
+- LDAPS Configuration
+- Intune
+- PostgreSQL
+- Security Best Practices
+- SQL Injection Prevention
+- Endpoint Security
+- Legacy Application Support
+
+## Getting Started
+
+- [Home | Microsoft Community Hub](https://techcommunity.microsoft.com): Microsoft Tech Community homepage for Copilot, Azure, and Windows discussions
+
+## Security and Infrastructure
+
+- [MDE Antivirus Configuration Common Mistakes and Best Practice](https://techcommunity.microsoft.com/blog/coreinfrastructureandsecurityblog/mde-antivirus-configuration-common-mistakes-and-best-practice/2127405): Microsoft Defender for Endpoint AV policy best practices and exclusions
+- [Step by Step Guide to Setup LDAPS on Windows Server](https://techcommunity.microsoft.com/blog/sqlserver/step-by-step-guide-to-setup-ldaps-on-windows-server/385362): Step-by-step guide for setting up LDAPS with AD LDS on Azure VM
+- [IPv6 for the Windows Administrator: Why you need to care about IPv6](https://techcommunity.microsoft.com/blog/coreinfrastructureandsecurityblog/ipv6-for-the-windows-administrator-why-you-need-to-care-about-ipv6/256251): IPv6 transition guide for Windows admins addressing IPv4 exhaustion
+
+## Database and Development
+
+- [How and Why to Use Parameterized Queries](https://techcommunity.microsoft.com/blog/sqlserver/how-and-why-to-use-parameterized-queries/383483): SQL injection prevention guide using parameterized queries in PHP
+- [Microsoft PostgreSQL OSS engine team: reflecting on 2024](https://techcommunity.microsoft.com/blog/adforpostgresql/microsoft-postgresql-oss-engine-team-reflecting-on-2024/4388700): 2024 retrospective on Microsoft PostgreSQL OSS team contributions
+
+## Windows Administration and Support
+
+- [Running 16-bit applications on Windows 10 64-bit](https://techcommunity.microsoft.com/blog/modernworkappconsult/running-16-bit-applications-on-windows-10-64-bit/1671418): Proof of concept using winevdm and MSIX for legacy 16-bit apps
+- [How to Run App as Administrator by Default in Windows 11](https://techcommunity.microsoft.com/discussions/windows11/how-to-run-app-as-administrator-by-default-in-windows-11/3033704): Forum guide for setting administrator permissions in Windows 11 compatibility
+- [How do I burn an ISO image to USB and make it bootable?](https://techcommunity.microsoft.com/discussions/windowsinsiderprogram/how-do-i-burn-an-iso-image-to-usb-and-make-it-bootable/4188850): Forum discussion on creating bootable USB from ISO using WonderISO
+
+## Optional
+
+- [Spaghetti Western - Wikipedia](https://en.wikipedia.org/wiki/Spaghetti_Western): Wikipedia article on Sergio Leone's Spaghetti Western film subgenre
+- [What The Term "Spaghetti Western" Actually Means](https://screenrant.com/what-does-spaghetti-western-mean): ScreenRant article explaining Sergio Leone's Spaghetti Western genre
+- [TV Guide, TV Listings, Streaming Services, Entertainment News](https://tvguide.com): TV Guide homepage with Netflix, Hulu streaming recommendations

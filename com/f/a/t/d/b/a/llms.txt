@@ -1,0 +1,52 @@
+# Tales From A Lazy Fat DBA
+
+> > A database administration blog focused on Oracle, PostgreSQL, Golden Gate, and Data Guard with practical tutorials and certification insights.
+
+FatDBA.com is a technical blog by a database administrator covering Oracle (11g, 21c), PostgreSQL, Apache Cassandra, Golden Gate, and Data Guard. The site features hands-on guides, troubleshooting tutorials, and professional certification experiences for database professionals.
+
+## Key Topics
+
+- Oracle Database
+- PostgreSQL
+- Oracle Data Guard
+- Golden Gate
+- Database Administration
+- Oracle 21c
+- Oracle 11g
+- Data Guard Broker
+- Transaction Wraparound
+- pg_cron
+- Apache Cassandra
+- SYSAUX Tablespace
+- Standby Database
+- Azure Fabric Migration
+- Database Certification
+
+## PostgreSQL Guides
+
+- [pg_cron: Probably the best way to schedule jobs within PostgreSQL database](https://fatdba.com/2021/07/30/pg_cron-probably-the-best-way-to-schedule-jobs-within-postgresql-database): PostgreSQL job scheduling with pg_cron extension installation guide
+- [How to simulate the deadly 'Transaction Wraparound Problem' in PostgreSQL](https://fatdba.com/2021/07/20/how-to-simulate-the-deadly-transaction-wraparound-problem-in-postgresql): PostgreSQL transaction wraparound simulation and troubleshooting guide
+
+## Oracle Database Administration
+
+- [Oracle Data Guard Evolution](https://fatdba.com/2013/02/21/oracle-data-guard-evolution): Oracle Data Guard feature evolution from 8i through 11g versions
+- [Confused about using PURGE_ALL to remove optimizer statistics from the SYSAUX?](https://fatdba.com/2021/11/07/confused-about-using-purge_all-to-remove-optimizer-statistics-from-the-sysaux): Oracle SYSAUX tablespace optimizer stats cleanup using PURGE_ALL
+- [Oracle 21c Data Guard Single-Command Database Preparation](https://fatdba.com/page/15): Oracle 21c Data Guard single-command database preparation feature
+- [Golden Gate Logdump Utility RBA Search](https://fatdba.com/page/23): Golden Gate Logdump utility RBA search using timestamp commands
+
+## Certifications & Professional Development
+
+- [Passed 'Datastax Apache Cassandra 3.x Administrator Associate' Certification](https://fatdba.com/2020/08/21/passed-datastax-apache-cassandra-3-x-administrator-associate-certification): Cassandra 3.x Administrator certification achievement announcement
+
+## Resources & Downloads
+
+- [Downloads](https://fatdba.com/downloads): Oracle scripts repository links to GitHub and YouTube channel
+- [Tales From A Lazy Fat DBA - Homepage](https://fatdba.com): Homepage featuring GoldenGate 23ai DAA migration to Azure Fabric
+
+## Installation & Setup Guides
+
+- [EDB-AS Offline Installation Without Software Repositories](https://fatdba.com/page/16): EDB-AS offline installation without software repositories guide
+
+## Optional
+
+- [Linux Forums](https://fatdba.com/about/logo2): Linux forums navigation page with trackback functionality

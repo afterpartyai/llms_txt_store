@@ -1,0 +1,54 @@
+# AI Council
+
+> > AI Council is a conference series and community for AI infrastructure builders, data engineers, and ML practitioners, featuring talks from companies like Databricks, Netflix, Google, and Stanford on production ML systems, distributed computing, and data pipelines.
+
+The site hosts technical content from AI Council conferences in San Francisco and Oakland, including speaker profiles and in-depth talks on Apache Spark, MLflow, Ray, federated learning, recommendation systems, and real-world ML engineering challenges. The community organizes meetups across major tech hubs including NYC, SF, Berlin, and London.
+
+## Key Topics
+
+- Data Council
+- Databricks
+- Apache Spark
+- MLflow
+- distributed-systems
+- ai-engineering
+- data-engineering
+- mlops
+- inference-systems
+- Ray
+- Netflix
+- Google
+- Stanford
+- federated-learning
+- recommendation-systems
+
+## Conference Information
+
+- [AI Council 2026 San Francisco, CA](https://aicouncil.com): AI Council homepage - SF 2026 conference for AI infrastructure builders
+- [AI Council 2025, Apr 22-24, Oakland, CA](https://aicouncil.com/bay-2025): AI Council 2025 Oakland conference with Databricks, Perplexity & OpenAI speakers
+- [Our Community - Data Council](https://aicouncil.com/community): Data Council meetups in Berlin, London, NYC & SF for AI/data engineers
+
+## Production ML & AI Systems
+
+- [A Multi-Armed Bandit Framework for Recommendations at Netflix](https://aicouncil.com/talks/a-multi-armed-bandit-framework-for-recommendations-at-netflix): Netflix's multi-armed bandit recommendation system with A/B testing results
+- [Practical Solutions for Annoying Machine Learning Problems](https://aicouncil.com/talks/practical-solutions-for-annoying-machine-learning-problems): Stripe ML Engineer on production ML challenges with messy real-world data
+- [How to build a GenAI Application with Vectara - a Step-by-Step Guide](https://aicouncil.com/talks24/how-to-build-a-genai-application-with-vectara-a-step-by-step-guide): Step-by-step Vectara RAG application tutorial for enterprise GenAI
+- [HuggingFace + Ray AIR Integration: A Python Developer's Guide to Scaling Transformers](https://aicouncil.com/talks/huggingface-ray-air-integration-a-python-developers-guide-to-scaling-transformers): Anyscale guide to scaling HuggingFace Transformers with Ray AIR
+
+## Distributed Systems & Infrastructure
+
+- [Composable Interfaces for Parallel Processing in Apache Spark & Weld](https://aicouncil.com/talks/composable-interfaces-for-parallel-processing-in-apache-spark-weld): Matei Zaharia on composability in Apache Spark & Weld parallel processing
+- [Murron: Reliable Logging Pipeline](https://aicouncil.com/talks/murron-reliable-logging-pipeline): Slack's Murron logging pipeline using Kafka, Elasticsearch & Prometheus
+- [Why We Defined a Metalanguage for SQL](https://aicouncil.com/talks/why-we-defined-a-metalanguage-for-sql): Dataform CTO on SQL metaprogramming & metalanguage design patterns
+
+## Data Science & Analytics
+
+- [The Data Practitioners Guide to Data Discovery](https://aicouncil.com/talks/the-data-practitioners-guide-to-data-discovery): Acryl Data's DataHub guide to metadata management & data discovery
+- [How to do Segmentation Right - A Practical Guide for Data Scientists](https://aicouncil.com/talks/how-to-do-segmentation-right-a-practical-guide-for-data-scientists): VSCO's practical guide to user segmentation & clustering for data scientists
+- [25 Hot New Data Tools and What They DON'T Do](https://aicouncil.com/blog/25-hot-new-data-tools-and-what-they-dont-do): Data ecosystem tool comparison: what 25 hot tools do & don't do
+
+## Featured Speakers
+
+- [Peter Kairouz](https://aicouncil.com/speakers/peter-kairouz): Google Research Scientist on federated learning & privacy-preserving ML
+- [Barry McCardel](https://aicouncil.com/speakers/barry-mccardel): Hex CEO & co-founder speaker profile with AI & data trend talks
+- [Marck Vaisman](https://aicouncil.com/speakers/marck-vaisman): Microsoft AI Solutions Architect speaker profile featuring Azure & Autogen

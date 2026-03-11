@@ -1,0 +1,54 @@
+# SurrealDB
+
+> > SurrealDB is a multi-model database designed for AI agents and modern applications, featuring SurrealQL query language, WebAssembly support, and SDKs for JavaScript, Python, Rust, Java, Golang, .NET, and PHP.
+
+SurrealDB provides a unified database solution combining document, graph, and relational paradigms with built-in security capabilities and cloud deployment options. The platform includes comprehensive documentation, CLI tools, and the Surrealist UI for database management.
+
+## Key Topics
+
+- SurrealDB
+- SurrealQL
+- Surrealist UI
+- Multi-model database
+- JavaScript SDK
+- Python SDK
+- Rust
+- WebAssembly
+- Database security
+- Performance optimization
+- Cloud deployment
+- CLI tools
+- AI agents
+- Query language
+- Access control
+
+## Getting Started
+
+- [SurrealDB | The multi-model database for AI agents](https://surrealdb.com): SurrealDB homepage: multi-model database for AI agents and applications
+- [SurrealDB](https://docs.surrealdb.com): Main documentation hub with navigation to SurrealQL, SDKs, and guides
+
+## SDK Reference
+
+- [JavaScript | SDK | Overview](https://surrealdb.com/docs/sdk/javascript): JavaScript SDK documentation for querying SurrealDB databases
+- [Python | SDK | Overview](https://surrealdb.com/docs/sdk/python): Python SDK documentation for SurrealDB database integration
+
+## Configuration & Security
+
+- [Capabilities | Security](https://surrealdb.com/docs/surrealdb/security/capabilities): Security capabilities and access control configuration in SurrealDB
+- [Performance Best Practices | Reference guides](https://surrealdb.com/docs/surrealdb/reference-guide/performance-best-practices): Query optimization and indexing strategies for SurrealDB performance
+- [Upgrade command | CLI tool](https://surrealdb.com/docs/surrealdb/cli/upgrade): CLI upgrade command reference for SurrealDB version management
+
+## Support & Resources
+
+- [Frequently Asked Questions](https://surrealdb.com/docs/surrealdb/faqs): SurrealDB FAQs covering licensing, scaling, and feature questions
+- [Support | SurrealDB Cloud](https://surrealdb.com/docs/cloud/billing-and-support/support): SurrealDB Cloud support options including Surreal Sidekick AI copilot
+- [Known Issues](https://surrealdb.com/docs/surrealdb/faqs/known-issues): Current known issues and limitations in SurrealDB and SDKs
+- [SurrealDB status](https://status.surrealdb.com): Real-time system status for SurrealDB services and endpoints
+
+## Optional
+
+- [Secure Digital - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Secure_Digital): Wikipedia article on SD cards, standards (SDHC/SDXC/SDUC), and formats
+- [Tarjetas SD o micro SD, ¿qué tener en cuenta al comprar?](https://hardzone.es/tutoriales/compras/tarjeta-memoria-micro-sd): Buying guide for SD/microSD cards by Rodrigo Alonso
+- [¿Qué es una tarjeta SD? Todo lo que necesitas saber en 2026](https://es.easeus.com/computer-instruction/que-es-una-tarjeta-sd.html): EaseUS guide on SD cards and data recovery solutions
+- [home - SD Association](https://sdcard.org): SD Association homepage with standards, specs, and industry articles
+- [¿Qué es una Tarjeta SD y Cuál es el Formato para tus dispositivos?](https://recoverit.wondershare.es/memorycard-recovery/what-is-a-sd-card.html): Wondershare guide on SD card types, formats, and data recovery

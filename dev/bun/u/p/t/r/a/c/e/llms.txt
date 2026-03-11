@@ -1,0 +1,48 @@
+# Bun ORM Documentation
+
+> > SQL-first Go ORM for PostgreSQL, MySQL, MSSQL, and SQLite with comprehensive guides on database drivers, query building, migrations, and production deployment.
+
+Bun is a modern Go ORM that prioritizes SQL compatibility while providing powerful abstractions for working with relational databases. The documentation covers everything from basic setup and model definition to advanced topics like cursor pagination, performance monitoring with OpenTelemetry/Uptrace, and PostgreSQL-specific features.
+
+## Key Topics
+
+- Bun ORM
+- PostgreSQL
+- Go (Golang)
+- MySQL
+- SQL Server (MSSQL)
+- database/sql
+- Query Builder
+- Database Drivers
+- Connection Pooling
+- Cursor Pagination
+- Database Migrations
+- Performance Tuning
+- OpenTelemetry
+- Uptrace Monitoring
+- Production Deployment
+
+## Getting Started
+
+- [Golang ORM for PostgreSQL and MySQL](https://bun.uptrace.dev/guide/golang-orm.html): Bun ORM introduction: SQL-first Go ORM for PostgreSQL, MySQL, MSSQL, SQLite
+- [Bun: Drivers and dialects](https://bun.uptrace.dev/guide/drivers.html): Guide to configuring Bun with PostgreSQL, MySQL, MSSQL database drivers
+- [Bun: Defining models](https://bun.uptrace.dev/guide/models.html): Creating Go struct models for database tables with Bun ORM
+- [Bun: Writing Queries](https://bun.uptrace.dev/guide/queries.html): Building SQL queries with Bun's query builder and placeholder system
+
+## Production & Performance
+
+- [Running Bun in production](https://bun.uptrace.dev/guide/running-bun-in-production.html): Production deployment: configuring sql.DB connection pooling for Bun
+- [Bun Performance Monitoring](https://bun.uptrace.dev/guide/performance-monitoring.html): Monitoring Bun with OpenTelemetry tracing, metrics via Uptrace integration
+- [Cursor Pagination for PostgreSQL & MySQL: Complete Developer Guide 2025](https://bun.uptrace.dev/guide/cursor-pagination.html): Implementing high-performance cursor pagination for PostgreSQL/MySQL in Go
+
+## PostgreSQL Guides
+
+- [Tuning PostgreSQL performance [most important settings]](https://bun.uptrace.dev/postgres/performance-tuning.html): PostgreSQL performance tuning: connections, shared_buffers, autovacuum config
+- [Zero-downtime PostgreSQL migrations [5 practical tips]](https://bun.uptrace.dev/postgres/zero-downtime-migrations.html): PostgreSQL migration best practices: transactions, batching, deadlock avoidance
+- [PostgreSQL Faceted navigation and search](https://bun.uptrace.dev/postgres/faceted-full-text-search-tsvector.html): Implementing faceted search using PostgreSQL tsvector and ts_stat function
+- [Working with PostgreSQL arrays](https://bun.uptrace.dev/postgres/postgres-arrays.html): Using pgdialect to handle PostgreSQL one-dimensional arrays in Bun
+- [pgBackRest: S3 backups [full guide]](https://bun.uptrace.dev/postgres/pgbackrest-s3-backups.html): Complete guide to PostgreSQL backups using pgBackRest with S3 storage
+
+## Optional
+
+- [Fixtures](https://bun.uptrace.dev/guide/fixtures.html): Loading YAML fixtures for testing and database initialization with Bun

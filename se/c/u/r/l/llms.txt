@@ -1,0 +1,57 @@
+# curl.se
+
+> > The official home of curl and libcurl, the open-source command-line tool and C library for transferring data with URLs supporting HTTP, HTTPS, FTP, FTPS, MQTT, WebSocket, and 30+ other protocols.
+
+curl is maintained by Daniel Stenberg and the open-source community. The site provides downloads, comprehensive documentation, API references, commercial support options, and community resources for both the curl command-line tool and the libcurl C library used in countless applications worldwide.
+
+## Key Topics
+
+- curl command-line tool
+- libcurl C library
+- HTTP/HTTPS protocols
+- SSL/TLS certificates
+- data transfer
+- API reference
+- easy interface
+- multi interface
+- WebSocket support
+- open-source
+- FTP/FTPS
+- MQTT protocol
+- CA certificates
+- Windows builds
+- GitHub repository
+
+## Getting Started
+
+- [curl](https://curl.se): Homepage for curl & libcurl data transfer tools supporting 35+ protocols
+- [curl - Download](https://curl.se/download.html): Download curl releases, source archives, PGP signatures & changelogs
+- [curl for Windows](https://curl.se/windows): Official curl & libcurl Windows builds with mingw, PGP/minisign verified
+- [curl - Source Code](https://curl.se/dev/source.html): Access curl source code via git repository on GitHub with build info
+
+## Documentation & Tutorials
+
+- [Everything curl](https://curl.se/book.html): Free comprehensive book on curl & libcurl by Daniel Stenberg
+- [curl - Tutorial](https://curl.se/docs/tutorial.html): Beginner tutorial for curl: HTTP, FTP, SSL examples & basic usage guide
+- [libcurl - programming tutorial](https://curl.se/libcurl/c/libcurl-tutorial.html): Programming tutorial for libcurl C API: easy & multi interfaces guide
+- [curl - The Art Of Scripting HTTP Requests Using curl](https://curl.se/docs/httpscripting.html): HTTP scripting guide: automating web requests with curl command-line
+
+## API Reference
+
+- [libcurl - API](https://curl.se/libcurl/c): libcurl C API overview: easy, multi, share, URL & WebSocket interfaces
+
+## SSL/TLS & Security
+
+- [curl - SSL CA Certificates](https://curl.se/docs/sslcerts.html): Guide to SSL/TLS CA certificate verification with Schannel, SecTrust & more
+- [curl - Extract CA Certs from Mozilla](https://curl.se/docs/caextract.html): Extract Mozilla CA certificates to PEM format (cacert.pem bundle)
+
+## Community & Support
+
+- [curl - Mailing lists](https://curl.se/mail): curl mailing lists: curl-library, curl-users for community support
+- [curl - Commercial Support](https://curl.se/support.html): Commercial support options for curl/libcurl from wolfSSL & Daniel Stenberg
+
+## Optional
+
+- [curl - Project status dashboard](https://curl.se/dashboard.html): curl project metrics: development stats, author activity & code analytics
+- [curl - About curl website](https://curl.se/about.html): About curl.se website: tech stack, Fastly CDN, zero tracking policy
+- [Curl: about TLS session resumption with openssl](https://curl.se/mail/lib-2016-11/0032.html): Mailing list archive: TLS session resumption with OpenSSL discussion

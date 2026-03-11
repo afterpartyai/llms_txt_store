@@ -1,0 +1,48 @@
+# docs.elest.io
+
+> > Documentation for Elestio, a multi-cloud managed services platform with BYOAWS support, load balancers, and CI/CD integration.
+
+Elestio provides fully managed cloud services across multiple providers including AWS, Hetzner, Digital Ocean, Linode, and Vultr. The platform offers Bring Your Own AWS Account (BYOAWS) functionality, integrated development tools like VSCode, and comprehensive billing management.
+
+## Key Topics
+
+- Elestio
+- BYOAWS (Bring Your Own AWS)
+- AWS IAM and AmazonEC2FullAccess
+- Multi-cloud deployment
+- Load balancers with SSL termination
+- Services Dashboard
+- Payment options and billing
+- Hetzner, Digital Ocean, Linode, Vultr
+- CI/CD integration
+- VSCode browser IDE
+- Service migration
+- Auto-recharge
+- VM management
+- Power management
+- High availability (HA)
+
+## Getting Started
+
+- [docs.elest.io](https://docs.elest.io): Elestio documentation homepage: guides, API, CI/CD, and cloud services
+- [Frequently Asked Questions](https://docs.elest.io/books/frequently-asked-questions): Elestio FAQ: auto-recharge, VM management, BYOAWS, and service migration
+- [Create a new service with BYOAWS](https://docs.elest.io/books/getting-started/page/create-a-new-service-with-bring-your-own-aws-account-byoaws): Deploy Elestio services using Bring Your Own AWS Account (BYOAWS)
+- [How to Create AWS Access Keys for BYOAWS](https://docs.elest.io/books/getting-started/page/how-to-create-aws-access-and-secret-key-for-byoaws): Create AWS IAM access keys for Elestio BYOAWS integration
+
+## Services Dashboard
+
+- [Services Dashboard](https://docs.elest.io/books/services-dashboard): Elestio services dashboard guide: management, protection, and power control
+- [VSCode](https://docs.elest.io/books/services-dashboard/page/vscode): Guide to using VS Code browser IDE in elest.io service dashboard
+
+## Infrastructure & Load Balancing
+
+- [Load Balancers Overview](https://docs.elest.io/books/load-balancers/page/overview): Elestio multi-cloud load balancers with SSL termination and HA support
+
+## Billing & Payments
+
+- [Billing](https://docs.elest.io/books/billing): Elestio billing overview: credits, payment options, SEPA, and invoices
+- [Payment options](https://docs.elest.io/books/billing/page/payment-options): Configure auto-refill and payment settings for elestio account balance
+
+## Optional
+
+- [Password Reset](https://docs.elest.io/password/email): Password reset page for elest.io account recovery via email

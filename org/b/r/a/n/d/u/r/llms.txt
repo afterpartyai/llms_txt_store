@@ -1,0 +1,54 @@
+# brandur.org
+
+> > Personal site of Brandur Leach, a software engineer writing about Postgres, Go, API design, and building resilient systems.
+
+This site features long-form technical articles, two newsletters (Nanoglyph on software sustainability and Passages on exploration/ideas), and practical guides on topics like idempotency, job queues, and distributed systems. Brandur previously worked at Heroku and writes extensively about database engineering and API architecture.
+
+## Key Topics
+
+- Postgres
+- Go/Golang
+- API design
+- Idempotency
+- Job queues
+- Software engineering
+- Heroku
+- Database architecture
+- MVCC (Multi-Version Concurrency Control)
+- API versioning
+- Shell scripting
+- System design
+- Newsletter publishing
+- Terminal interfaces
+- Distributed systems
+
+## Essential Reading
+
+- [Home — brandur.org](https://static.brandur.org): Personal site of Brandur: software engineer writing on Go, Postgres & APIs
+- [Articles — brandur.org](https://brandur.org/articles): Long-form technical articles on Go, Postgres, APIs & software engineering
+- [Implementing Stripe-like Idempotency Keys in Postgres — brandur.org](https://brandur.org/idempotency-keys): Stripe-style idempotency implementation in Postgres using atomic phases
+- [Postgres Job Queues & Failure By MVCC — brandur.org](https://brandur.org/postgres-queues): Postgres job queue implementation challenges with MVCC and dead tuples
+
+## Database & Backend Engineering
+
+- [Kinesis Shard Splitting & Merging by Example — brandur.org](https://brandur.org/kinesis-by-example): AWS Kinesis resharding tutorial with practical examples of splits/merges
+- [The Mediator Pattern — brandur.org](https://brandur.org/mediator): Rails Mediator Pattern for lean endpoints and testable business logic
+- [Version Variants — brandur.org](https://brandur.org/version-variants): API versioning strategy using variants for prototypes & breaking changes
+
+## Developer Tools & Workflows
+
+- [Learning From Terminals to Design the Future of User Interfaces — brandur.org](https://brandur.org/interfaces): Terminal UI design principles vs Electron app performance issues
+- [Dotfile Secrets and GPG — brandur.org](https://brandur.org/dotfile-gpg): Managing dotfile secrets with GPG encryption and gpg-agent integration
+- [Command Exit Status — brandur.org](https://brandur.org/exit-status): Shell command exit codes for non-interactive CLI tools & two-factor auth
+- [Pseudo-HTML and Pidgin CSS: Building an Email Newsletter — brandur.org](https://brandur.org/newsletters): Email newsletter architecture using Mailgun with HTML/CSS best practices
+
+## Newsletters
+
+- [Nanoglyph newsletter signup](https://nanoglyph-signup.brandur.org): Weekly software newsletter by Brandur focusing on simplicity & sustainability
+- [Passages & Glass newsletter signup](https://passages-signup.brandur.org): Rare newsletter by Brandur on exploration, ideas & software
+
+## Optional
+
+- [Sitemap — brandur.org](https://static.brandur.org/sitemap): Site navigation map listing core pages, writing, and other sections
+- [neospring](https://neospring.brandur.org): Spring '83 protocol implementation hosted by Brandur with 22-day board TTL
+- [Atom #gua65y2 — brandur.org](https://brandur.org/atoms/gua65y2): Status update on RBAC and Python work

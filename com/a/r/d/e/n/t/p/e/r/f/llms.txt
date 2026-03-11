@@ -1,0 +1,47 @@
+# Ardent Performance Computing
+
+> > Database performance consulting and technical writing by Jeremy Schneider, specializing in PostgreSQL and Oracle Database optimization, clustering, and disaster recovery.
+
+Jeremy Schneider shares deep technical expertise through blog posts, conference talks, and hands-on tutorials covering PostgreSQL, Oracle RAC, CloudNativePG, and database performance engineering. The site serves as a resource for database professionals seeking practical solutions to complex performance and reliability challenges.
+
+## Key Topics
+
+- PostgreSQL
+- Oracle Database
+- CloudNativePG
+- Database Performance
+- Oracle RAC
+- Synchronous Replication
+- Disaster Recovery
+- Wait Events
+- Database Collation
+- Jepsen Testing
+- Controlfile Recovery
+- OS Migration
+- Development Environments
+- Conference Presentations
+- Hands-on Labs
+
+## About & Overview
+
+- [Ardent Performance Computing | Jeremy Schneider](https://ardentperf.com): Homepage: Database performance consulting by Jeremy Schneider
+- [About | Ardent Performance Computing](https://ardentperf.com/about): About Jeremy Schneider: Postgres/Oracle expert, Seattle meetup organizer
+- [All Writing | Ardent Performance Computing](https://ardentperf.com/archives): Chronological index of all blog posts and articles by Jeremy Schneider
+
+## PostgreSQL Guides & Tutorials
+
+- [Run Jepsen against CloudNativePG to see sync replication prevent data loss | Ardent Performance Computing](https://ardentperf.com/2025/09/01/run-jepsen-against-cloudnativepg-to-see-sync-replication-prevent-data-loss): Jepsen testing CloudNativePG sync replication for data loss prevention
+- [Copy-and-Paste A New Postgres Dev Env In 5 Min | Ardent Performance Computing](https://ardentperf.com/2024/01/08/copy-and-paste-a-new-postgres-dev-env-in-5-min): Quick setup guide for PostgreSQL development environment on Ubuntu
+- [Default Sort Order in Db2, SQL Server, Oracle & Postgres 17 | Ardent Performance Computing](https://ardentperf.com/2024/05/22/default-sort-order-in-db2-sql-server-oracle-postgres-17): Database collation comparison: Db2, SQL Server, Oracle, Postgres 17
+- [PostgresConf 2019 Summary | Ardent Performance Computing](https://ardentperf.com/2019/03/27/postgresconf-2019-summary): Conference summary of PostgresConf 2019 NYC with wait events insights
+
+## Oracle Database & RAC
+
+- [PRKP-1001 Converting To RAC+ASM With Rconfig | Ardent Performance Computing](https://ardentperf.com/2007/04/03/prkp-1001-converting-to-racasm-with-rconfig): Oracle RAC conversion troubleshooting: PRKP-1001 error with rconfig
+- [Controlfile Recovery Requires RESETLOGS | Ardent Performance Computing](https://ardentperf.com/2007/05/09/controlfile-recovery-requires-resetlogs): Oracle controlfile recovery tutorial using RESETLOGS command
+- [Recovering Your Controlfile Without a Backup | Ardent Performance Computing](https://ardentperf.com/2007/05/04/recovering-your-controlfile-without-a-backup): Oracle controlfile disaster recovery using Unix inode techniques
+
+## Optional Resources
+
+- [Downloads | Ardent Performance Computing](https://ardentperf.com/archives-2/downloads): Archive: Oracle RAC Attack materials, VMware guides, and Ansible configs
+- [Downloads | Ardent Performance Computing](https://ardentperf.com/archives-2/downloads/comment-page-1): Archive: Oracle RAC guides, presentations, and hands-on lab materials

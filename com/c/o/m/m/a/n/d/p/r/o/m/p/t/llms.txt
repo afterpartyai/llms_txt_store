@@ -1,0 +1,48 @@
+# CommandPrompt Inc.
+
+> > Enterprise PostgreSQL support, consulting, and education from the experts at CommandPrompt Inc.
+
+CommandPrompt Inc. provides 24/7 PostgreSQL enterprise support, database consulting, and comprehensive tutorials for database administrators and developers. The company specializes in Postgres optimization, migration, and full-stack database services.
+
+## Key Topics
+
+- PostgreSQL
+- Postgres database administration
+- Enterprise database support
+- PostgreSQL functions and utilities
+- JSON/JSONB operations
+- Array functions
+- Server management (start/stop/restart)
+- pg_ctl utility
+- pgAdmin
+- SSH connections
+- Active connections monitoring
+- Date and time functions
+- Windows PostgreSQL
+- Database best practices
+- SLA support services
+
+## Enterprise Support & Services
+
+- [Support — CommandPrompt Inc.](https://commandprompt.com/support): 24/7 PostgreSQL enterprise support with SLA, EOL support, and full-stack services
+- [Contact Us — CommandPrompt Inc.](https://commandprompt.com/contact-us): Contact form and office location for CommandPrompt Inc. in Bellingham, WA
+
+## PostgreSQL Tutorials & Education
+
+- [PostgreSQL & Open Source Tutorials | Database Best Practices](https://commandprompt.com/education): PostgreSQL tutorials and open source support hub by CommandPrompt Inc.
+- [How to Start, Stop, or Restart the PostgreSQL Server? — CommandPrompt Inc.](https://commandprompt.com/education/how-to-start-stop-or-restart-the-postgresql-server): Guide to managing PostgreSQL server on Windows using pg_ctl and net commands
+- [How to List Sessions/Active Connections in PostgreSQL — CommandPrompt Inc.](https://commandprompt.com/education/how-to-list-sessionsactive-connections-in-postgresql): Tutorial on monitoring active PostgreSQL connections using pg_stat_activity
+- [How to Get Current Date and Time in PostgreSQL — CommandPrompt Inc.](https://commandprompt.com/education/how-to-get-current-date-and-time-in-postgresql): Tutorial on PostgreSQL date/time functions: NOW(), CURRENT_TIMESTAMP, LOCALTIMESTAMP
+
+## PostgreSQL Functions Reference
+
+- [How to Use jsonb_build_object() Function in PostgreSQL — CommandPrompt Inc.](https://commandprompt.com/education/how-to-use-jsonb_build_object-function-in-postgresql): PostgreSQL tutorial on jsonb_build_object() for JSON key-value manipulation
+- [How to Use ARRAY_UPPER() Function in PostgreSQL — CommandPrompt Inc.](https://commandprompt.com/education/how-to-use-array_upper-function-in-postgresql): Guide to PostgreSQL ARRAY_UPPER() function for array dimension operations
+
+## System Administration
+
+- [Setting Up an SSH Connection — CommandPrompt Inc.](https://commandprompt.com/education/setting-up-an-ssh-connection): Guide to establishing SSH connections on Ubuntu 22.04 using OpenSSH
+
+## Optional
+
+- [Command Prompt](https://public.commandprompt.com): Redmine project management instance for Command Prompt

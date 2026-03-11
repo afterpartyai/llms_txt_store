@@ -1,0 +1,48 @@
+# PlanetScale
+
+> > MySQL-compatible serverless database platform powered by Vitess, offering managed PostgreSQL and MySQL database clusters with branching workflows.
+
+PlanetScale provides cloud-hosted database solutions with features like automatic scaling, schema migrations, and developer-friendly workflows. The platform supports integration with popular ORMs like Prisma and offers multiple pricing tiers from Hobby to Enterprise.
+
+## Key Topics
+
+- Vitess
+- PostgreSQL
+- MySQL-compatible databases
+- Serverless databases
+- Database branching
+- Schema migrations
+- Prisma integration
+- PlanetScale CLI
+- Scaler Pro
+- Database clusters
+- Logical replication
+- Database schema design
+- Managed databases
+- Database scaling
+
+## Documentation & Getting Started
+
+- [PlanetScale documentation - PlanetScale](https://docs.planetscale.com): Documentation hub for Vitess and PostgreSQL managed database clusters
+- [PlanetScale Vitess quickstart guide - PlanetScale](https://planetscale.com/docs/vitess/tutorials/planetscale-quick-start-guide): Getting started tutorial for creating and managing Vitess databases
+- [Connect any application to PlanetScale - PlanetScale](https://preview.planetscale.com/docs/tutorials/connect-any-application): General guide for connecting applications to PlanetScale databases
+- [Automatic Prisma migrations - PlanetScale](https://planetscale.com/docs/vitess/tutorials/automatic-prisma-migrations): Tutorial for automating Prisma migrations using db push workflow
+
+## Support & Account Management
+
+- [PlanetScale Support - PlanetScale](https://planetscale.com/docs/support): Support tiers, response times, and contact channels for PlanetScale customers
+- [Sign up - PlanetScale](https://preview.planetscale.com/sign-up): Account registration for PlanetScale MySQL-compatible serverless database
+- [Hobby tier deprecation - FAQ - PlanetScale](https://planetscale.com/docs/plans/hobby-plan-deprecation-faq): FAQ about Hobby tier deprecation, migration, and data export options
+- [Upgrading to Scaler Pro - FAQ - PlanetScale](https://planetscale.com/docs/plans/scaler-pro-upgrade-faq): FAQ about upgrading from Scaler to Scaler Pro plan with cluster sizing
+
+## Technical Blog & Tutorials
+
+- [Database schema design 101 for relational databases — PlanetScale](https://planetscale.com/blog/schema-design-101-relational-databases): Beginner guide to designing schemas for relational databases by Camila Ramos
+- [Video Conferencing with Postgres — PlanetScale](https://planetscale.com/blog/video-conferencing-with-postgres): Building video conferencing over PostgreSQL using logical replication
+
+## Optional
+
+- [YouTube - Wikipedia](https://en.wikipedia.org/wiki/YouTube): Wikipedia article about YouTube video-sharing platform owned by Google
+- [YouTube](https://youtube.com): YouTube homepage with footer links and platform information
+- [Official YouTube Blog for Latest YouTube News & Insights](https://blog.youtube): YouTube's official blog featuring creator stories and platform updates
+- [TV Guide, TV Listings, Online Videos, Entertainment News and Celebrity News - TV Guide](https://tvguide.com/Listings): TV Guide schedule listings and entertainment news homepage

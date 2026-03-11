@@ -1,0 +1,64 @@
+# Rapydo
+
+> > Rapydo is a database operations platform providing monitoring, automation, and optimization tools for AWS RDS, Aurora, MySQL, and PostgreSQL databases.
+
+The platform offers two main products: Rapydo Scout for query monitoring and Rapydo Cortex for automated database optimization. Founded by Phillip Hamilton and Tal Tamir, Rapydo focuses on DBA automation, query performance tuning, and real-time database observability for cloud-native teams.
+
+## Key Topics
+
+- Rapydo Scout
+- Rapydo Cortex
+- MySQL
+- PostgreSQL
+- AWS RDS
+- Database optimization
+- Query optimization
+- Database monitoring
+- Cloud database
+- SQL performance tuning
+- Real-time monitoring
+- DevOps tools
+- Database administration
+- HTAP (Hybrid Transactional/Analytical Processing)
+- Index optimization
+
+## Product & Platform
+
+- [Database Ops Platform for Monitoring and Automation](https://rapydo.io): Homepage: Rapydo platform for AWS RDS/Aurora database monitoring & automation
+- [Rapydo | Product](https://rapydo.io/product): Main product page featuring Rapydo Scout & Cortex for SQL query control
+- [Rapydo | Pricing](https://rapydo.io/pricing): Pricing plans for Rapydo Scout ($35) & Cortex ($150) per RDS instance
+- [Rapydo | About](https://rapydo.io/about): Company story, founding team, and mission behind Rapydo's DBA automation
+
+## Documentation
+
+- [Rapydo - Rapydo Documentation](https://docs.rapydo.io): Documentation homepage for MySQL & PostgreSQL monitoring and optimization
+
+## Database Optimization Guides
+
+- [Slow Queries: How to Detect and Optimize in MySQL and PostgreSQL](https://rapydo.io/blog/slow-queries-how-to-detect-and-optimize-in-mysql-and-postgresql): Guide to detecting & optimizing slow queries in MySQL and PostgreSQL
+- [Optimizing SQL Indexes in PostgreSQL and MySQL](https://rapydo.io/blog/optimizing-sql-indexes-in-postgresql-and-mysql): Index optimization guide for PostgreSQL & MySQL with B-tree, GIN, GiST examples
+- [Fixing High CPU & Memory Usage in AWS RDS](https://rapydo.io/blog/fixing-high-cpu-memory-usage-in-aws-rds-joxbt): Troubleshooting AWS RDS high CPU/memory with CloudWatch & query optimization
+- [Deep Dive into MySQL Internals: A Comprehensive Guide for DBAs - Part I](https://rapydo.io/blog/deep-dive-into-mysql-internals-a-comprehensive-guide-for-dbas---part-i): MySQL internals guide covering InnoDB, query execution & performance tuning
+- [Optimizing Multi-Database Operations with Execute Query](https://rapydo.io/blog/execute-query): Multi-database MySQL operations using Execute Query for cross-DB analytics
+
+## Blog & Resources
+
+- [Rapydo | Blog | RDS | MySQL](https://rapydo.io/blog): Blog listing covering HTAP, PostgreSQL, MySQL & cloud database topics
+
+## Optional
+
+- [Jiffy Lube - 5710 E 22nd St, Tucson, AZ 85711](https://placesguru.com/arizona/tucson/jiffy-lube-5710-e-22nd-st-az-85711): Unrelated: Jiffy Lube location listing in Tucson, Arizona
+- [Tucson Oil Change & Auto Services | Jiffy Lube](https://jiffylube.com/tucson): Unrelated: Jiffy Lube location finder for Tucson auto services
+- [Jiffy Lube Locations in Tucson, AZ - Loc8NearMe](https://loc8nearme.com/arizona/tucson/jiffy-lube): Unrelated: Directory of 14 Jiffy Lube locations in Tucson
+- [Jiffy Lube locations in Arizona | Jiffy Lube](https://jiffylube.com/locations/location-directory/az): Unrelated: Arizona state directory for Jiffy Lube service centers
+- [Oil Change Locations - Oil Change Places | Jiffy Lube](https://jiffylube.com/locations): Unrelated: Jiffy Lube national location finder tool
+- [We Still Talk About You | Know Your Meme](https://knowyourmeme.com/memes/we-still-talk-about-you): Unrelated: Know Your Meme entry on viral exploitable image meme
+- [I'm Talking About Innit | Know Your Meme](https://knowyourmeme.com/memes/im-talking-about-innit): Unrelated: TikTok catchphrase trend from BunnaB & YKNiece's song
+- [Who Is The 'Bananas And Rice' Girl? The Viral Memes About Somali-American ICE Victim Nasra Ahmed Explained](https://trending.knowyourmeme.com/editorials/guides/who-is-the-bananas-and-rice-girl-the-viral-memes-about-somali-american-ice-victim-nasra-ahmed-explained): Unrelated: Meme explainer about ICE detention incident in Minneapolis
+- [Tim Robinson Asking "Are You Sure About That?" | Know Your Meme](https://knowyourmeme.com/memes/tim-robinson-asking-are-you-sure-about-that): Unrelated: Tim Robinson sketch comedy catchphrase meme from Netflix
+- [22 Memes About Mental Health That Are A Little Too Relatable | Know Your Meme](https://trending.knowyourmeme.com/editorials/collections/22-memes-about-mental-health-that-are-a-little-too-relatable): Unrelated: Mental health meme collection from Reddit communities
+- [How About A Nice Big Cup of Shut the Fuck Up | Know Your Meme](https://knowyourmeme.com/memes/how-about-a-nice-big-cup-of-shut-the-fuck-up): Unrelated: WWII poster-based catchphrase meme trending on TikTok
+- [The Bizarre 'Jewish Space Laser' Conspiracy Theory About The 2018 California Wildfires Explained](https://knowyourmeme.com/editorials/guides/the-bizarre-jewish-space-laser-conspiracy-theory-about-the-2018-california-wildfires-explained): Unrelated: Explainer on Marjorie Taylor Greene's wildfire conspiracy theory
+- [What Does 'Clavicular Brutally Frame Mogged By ASU Frat Leader' Mean? The Memes Explained](https://trending.knowyourmeme.com/editorials/guides/what-does-clavicular-brutally-frame-mogged-by-asu-frat-leader-mean-the-memes-about-the-viral-looksmaxxer-explained): Unrelated: Looksmaxxing community meme about viral ASU frat encounter
+- [Are 'Labubus' Demonic? The Viral Conspiracy Theory Linking 'Labubu Dolls' To The Demon Pazuzu Explained](https://trending.knowyourmeme.com/editorials/guides/are-labubus-demonic-the-viral-conspiracy-theory-linking-labubu-dolls-to-the-demon-pazuzu-explained): Unrelated: TikTok conspiracy theory about Labubu dolls and demon Pazuzu
+- [Millennial Burger Place | Know Your Meme](https://knowyourmeme.com/memes/millennial-burger-place): Unrelated: TikTok trend mocking millennial burger restaurant clichés

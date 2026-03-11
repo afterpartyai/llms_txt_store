@@ -1,0 +1,50 @@
+# Percona Experience - Enterprise Database Solutions
+
+> > Enterprise-grade open source database solutions and operators for PostgreSQL, MySQL, MongoDB, Redis, and Valkey on Kubernetes.
+
+Percona Experience showcases Percona's database products, operators, consulting services, and technical guides. The site focuses on helping organizations run production databases without vendor lock-in, featuring alternatives to EDB and Crunchy Data for PostgreSQL, enterprise MongoDB distributions, and support for both Redis and Valkey migrations.
+
+## Key Topics
+
+- Percona Operators for Kubernetes
+- PostgreSQL enterprise solutions
+- MongoDB alternatives
+- Redis and Valkey migration
+- MySQL database management
+- Percona Monitoring and Management (PMM)
+- Percona Distribution for PostgreSQL
+- Open source databases
+- Vendor lock-in avoidance
+- Database security and compliance
+- pg_stat_statements
+- Enterprise database support
+- Cost optimization
+- GDPR, SOX, PCI DSS, HIPAA compliance
+
+## Core Products & Platforms
+
+- [Percona Operators for Kubernetes Databases](https://experience.percona.com): Homepage: Percona Operators for MySQL, PostgreSQL, MongoDB on Kubernetes
+- [Percona for PostgreSQL](https://experience.percona.com/postgresql/home): Percona for PostgreSQL: Open source enterprise PostgreSQL distribution
+- [Enterprise-Grade PostgreSQL Without Trade-Offs](https://experience.percona.com/postgresql/hub): PostgreSQL hub: Alternative to EDB & Crunchy Data without vendor lock-in
+- [Percona MongoDB Alternative](https://experience.percona.com/mongodb/percona-mongodb-alternative): MongoDB alternative: Percona Server for MongoDB without vendor lock-in
+- [Redis and Valkey Support](https://experience.percona.com/valkey-redis/percona-has-you-covered): Redis vs Valkey comparison: Support for both in-memory databases
+- [Percona Support and Services for Redis and Valkey](https://experience.percona.com/valkey-redis/support-and-services): Enterprise support & services for Redis and Valkey deployments
+
+## Professional Services
+
+- [Percona Consulting](https://experience.percona.com/postgresql/consulting): Custom database consulting for MySQL, PostgreSQL, MongoDB, and Valkey
+- [Case Study - Türk Telekom](https://experience.percona.com/case-study/turks-teleco): Case study: Türk Telekom PostgreSQL migration with Percona Distribution
+
+## PostgreSQL Documentation & Guides
+
+- [PostgreSQL Security Solution Brief](https://experience.percona.com/postgresql/postgre-sql-security-solution-brief): PostgreSQL security: GDPR, SOX, PCI DSS, HIPAA compliance with TDE
+- [Chapter 2: pg_stat_statements](https://experience.percona.com/postgresql/how-postgresql-elevates-your-business/chapter-2-pgstatstatements): Guide: Using pg_stat_statements for PostgreSQL query performance insights
+- [Chapter 3: pgAdmin](https://experience.percona.com/postgresql/how-postgresql-elevates-your-business/chapter-3-pgadmin): Guide: pgAdmin for PostgreSQL database management and DBA workflows
+
+## Redis & Valkey Documentation
+
+- [Setting up your first Redis instance](https://experience.percona.com/valkey-redis/redis-configuration-guide/setting-up-your-first-redis-instance): Tutorial: Set up first Redis instance using Docker with redis-cli
+
+## Optional
+
+- [Various off-topic content](https://knowyourmeme.com): Multiple unrelated pages including memes, TV guides, and adult content were found in crawl data but are not relevant to Percona's database solutions

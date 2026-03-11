@@ -1,0 +1,48 @@
+# Prateek Codes
+
+> > A technical blog focused on building scalable backend systems with Ruby, Rails, and PostgreSQL.
+
+Prateek Codes provides in-depth tutorials and guides on backend engineering, covering PostgreSQL database internals, Rails performance optimization, Ruby concurrency, and distributed systems architecture. The site features both comprehensive tutorial series and practical implementation guides for backend developers.
+
+## Key Topics
+
+- PostgreSQL
+- Ruby
+- Rails
+- Backend Systems
+- Database Internals
+- Query Optimization
+- ACID Transactions
+- WAL (Write-Ahead Logging)
+- HTTP Caching
+- Active Job
+- Multithreading
+- Performance Patterns
+- Scalable Architecture
+- Distributed Systems
+- API Development
+
+## Getting Started
+
+- [Home | Prateek Codes - Learn Building Scalable Backend Systems](https://prateekcodes.com): Homepage featuring Ruby, Rails, and PostgreSQL backend engineering tutorials
+- [Categories | Prateek Codes - Learn Building Scalable Backend Systems](https://prateekcodes.com/categories): Blog category index for Rails, Ruby, PostgreSQL, and database topics
+- [Projects | Prateek Codes - Learn Building Scalable Backend Systems](https://prateekcodes.com/projects): Portfolio showcasing Shopify apps, healthcare tech, and distributed systems
+
+## PostgreSQL Database Fundamentals
+
+- [PostgreSQL Fundamentals: Memory vs Disk Performance (Part 1)](https://prateekcodes.com/postgres-fundamentals-memory-vs-disk-part-1): PostgreSQL memory vs disk performance fundamentals and I/O patterns
+- [PostgreSQL Fundamentals: How Databases Store Data (Part 2)](https://prateekcodes.com/postgres-fundamentals-database-storage-part-2): PostgreSQL page structure, heap files, and disk data organization explained
+- [PostgreSQL Fundamentals: Transactions and ACID (Part 3)](https://prateekcodes.com/postgres-fundamentals-transactions-part-3): PostgreSQL transactions, ACID properties, and data consistency explained
+- [PostgreSQL Fundamentals: Performance Patterns and Trade-offs (Part 4)](https://prateekcodes.com/postgres-fundamentals-performance-patterns-part-4): PostgreSQL durability vs performance trade-offs and write amplification
+
+## PostgreSQL Query Optimization
+
+- [PostgreSQL Query Optimization: Applying EXPLAIN ANALYZE Knowledge](https://prateekcodes.com/postgresql-query-optimization-guide): PostgreSQL performance optimization using EXPLAIN ANALYZE and indexing
+
+## Rails Performance & Caching
+
+- [HTTP Caching for Rails APIs: The Missing Performance Layer](https://prateekcodes.com/rails-http-caching-strategies): Rails API HTTP caching patterns using Cache-Control and conditional requests
+
+## Ruby Concurrency & Threading
+
+- [Ruby Threads Explained: A Simple Guide to Multithreading (Part 1)](https://prateekcodes.com/ruby-threads-explained-simple-guide-part-1): Ruby multithreading basics covering GVL, CRuby, and thread fundamentals

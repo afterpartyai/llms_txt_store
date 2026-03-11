@@ -1,0 +1,63 @@
+# Skills.sh
+
+> > The open agent skills directory and CLI for discovering, installing, and sharing reusable AI agent capabilities across platforms like Claude, GitHub Copilot, and Vercel AI SDK.
+
+Skills.sh is a package manager and marketplace for AI agent skills, enabling developers to extend LLM capabilities with pre-built tools for SEO, browser automation, testing, documentation, and more. The platform features a trending leaderboard, comprehensive CLI tooling via npx, and integrations with popular AI frameworks.
+
+## Key Topics
+
+- skills CLI
+- AI agent capabilities
+- npx installation
+- Claude skills
+- GitHub Copilot extensions
+- Vercel AI SDK
+- workflow automation
+- SEO content tools
+- browser automation
+- SERP analysis
+- keyword research
+- inference.sh
+- agent skills ecosystem
+- developer tools
+- CI/CD integration
+
+## Getting Started
+
+- [The Agent Skills Directory](https://skills.sh): Homepage with all-time skills leaderboard featuring Vercel, Anthropic skills
+- [Documentation | Skills](https://skills.sh/docs): Main documentation for skills CLI and open agent skills ecosystem
+- [CLI | Skills Documentation](https://skills.sh/docs/cli): CLI reference for installing and managing skills with npx commands
+- [FAQ | Skills Documentation](https://skills.sh/docs/faq): Common questions about skills installation, CLI usage, and ecosystem
+- [The Agent Skills Directory - Trending](https://skills.sh/trending): Trending skills leaderboard showing 24h popular agent capabilities
+
+## Featured Skills & Collections
+
+- [skill-creator by anthropics/skills](https://skills.sh/anthropics/skills/skill-creator): Anthropic's skill for creating and iteratively improving new skills
+- [Vercel Labs AI SDK](https://skills.sh/vercel-labs/ai): Vercel Labs AI SDK skills collection for building AI-powered features
+- [browser-use by browser-use/browser-use](https://skills.sh/browser-use/browser-use/browser-use): Browser automation CLI with persistent Chromium sessions for workflows
+- [mindrally/skills Collection](https://skills.sh/mindrally/skills): Collection of 240 tech skills: FastAPI, Next.js, React, MySQL, Redis
+
+## SEO & Content Strategy Skills
+
+- [seo-content-brief by inference-sh-9/skills](https://skills.sh/inference-sh-9/skills/seo-content-brief): SEO content brief generator using inference.sh CLI with SERP analysis
+- [brief by calm-north/seojuice-skills](https://skills.sh/calm-north/seojuice-skills/brief): Editor-ready content brief with E-E-A-T, SERP review, and SEO targets
+- [seo-content-brief by 1nfsh/s](https://skills.sh/1nfsh/s/seo-content-brief): Data-driven SEO briefs using inference.sh with Tavily and Exa integration
+- [seo-local-business by jezweb/claude-skills](https://skills.sh/jezweb/claude-skills/seo-local-business): Generate SEO package with meta tags, Schema.org JSON-LD for local businesses
+- [website-copy-specialist by ncklrs/startup-os-skills](https://skills.sh/ncklrs/startup-os-skills/website-copy-specialist): SaaS/B2B website copywriting skill for homepage, pricing, conversion CTAs
+
+## Development & Testing Skills
+
+- [javascript-fundamentals by manutej/luxor-claude-marketplace](https://skills.sh/manutej/luxor-claude-marketplace/javascript-fundamentals): Comprehensive JavaScript ES6+ guide covering async patterns and best practices
+- [javascript-testing-patterns by wshobson/agents](https://skills.sh/wshobson/agents/javascript-testing-patterns): Testing strategies guide using Jest, Vitest for JavaScript/TypeScript apps
+- [dynamic-tables-tutorial by snowflake-labs/sfguides](https://skills.sh/snowflake-labs/sfguides/dynamic-tables-tutorial): Interactive Snowflake Dynamic Tables tutorial for building data pipelines
+
+## Workflow & Documentation Skills
+
+- [task by webriq/claude-skills](https://skills.sh/webriq/claude-skills/task): Task planning agent with automated pipeline for implement-test-deploy workflow
+- [ralph-tui-prd by subsy/ralph-tui](https://skills.sh/subsy/ralph-tui/ralph-tui-prd): PRD generator for AI agent execution via ralph-tui with quality gates
+- [workspace-documentation by qodex-ai/ai-agent-skills](https://skills.sh/qodex-ai/ai-agent-skills/workspace-documentation): Knowledge capture skill transforming conversations into Notion documentation
+
+## Optional
+
+- [seo-content-brief by toolshell/skills](https://skills.sh/toolshell/skills/seo-content-brief): SEO content brief tool via inference.sh CLI (forked from tul-sh/skills)
+- [seo-content-brief by 1nfsh/skills](https://skills.sh/1nfsh/skills/seo-content-brief): SEO content brief creation via inference.sh CLI with keyword research

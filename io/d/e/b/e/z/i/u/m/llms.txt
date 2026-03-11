@@ -1,0 +1,45 @@
+# Debezium
+
+> > Debezium is an open-source distributed platform for change data capture (CDC) that streams database changes to Kafka for event-driven architectures.
+
+Debezium provides low-latency data streaming connectors for multiple databases including MySQL, PostgreSQL, MongoDB, and SQL Server. The platform integrates with Apache Kafka to enable real-time database monitoring and event streaming for microservices architectures.
+
+## Key Topics
+
+- Change Data Capture (CDC)
+- Apache Kafka
+- Event Streaming
+- Database Streaming
+- Open Source
+- Database Monitoring
+- Kafka Connect
+- MySQL Connector
+- PostgreSQL Connector
+- MongoDB Connector
+- SQL Server Connector
+- Real-time Data Integration
+- Microservices Architecture
+- Data Pipelines
+- Distributed Systems
+
+## Getting Started
+
+- [Debezium](https://debezium.io): Homepage for Debezium open source change data capture platform
+- [Reference Documentation](https://debezium.io/documentation): Debezium documentation hub with version history and connector guides
+- [Debezium Documentation :: Debezium Documentation](https://debezium.io/documentation/reference/2.1): Version 2.1 documentation for Debezium CDC connectors and setup
+
+## Community & Support
+
+- [Frequently Asked Questions](https://debezium.io/documentation/faq): Debezium FAQ covering basics, Kafka integration, and troubleshooting
+- [Community.Debezium](https://debezium.io/community): Debezium community page with contribution guidelines and support channels
+- [Governance](https://debezium.io/community/governance): Debezium project governance, roles, and committer process details
+
+## Optional
+
+- [TV Guide, TV Listings, Streaming Services, Entertainment News and Celebrity News - TV Guide](https://tvguide.com): TV Guide homepage with streaming recommendations and entertainment news
+- [TV Guide, TV Listings, Online Videos, Entertainment News and Celebrity News - TV Guide](https://tvguide.com/Listings): TV Guide main listings page for today's TV schedule
+- [The 61 Best Movies on Netflix Right Now (March 2026) - TV Guide](https://tvguide.com/news/best-movies-on-netflix): Curated list of 61 best Netflix movies for March 2026
+- [The 43 Best TV Shows on Hulu Right Now (March 2026) - TV Guide](https://tvguide.com/news/best-shows-on-hulu): Top 43 Hulu TV shows including Paradise and Scrubs for March 2026
+- [New Amazon Prime Video TV Shows and Movies in March 2026 - TV Guide](https://tvguide.com/news/new-on-amazon-prime-video): New Prime Video releases for March 2026 featuring Scarpetta and more
+- [The 16 Best Movies to Watch on Peacock Right Now (March 2026) - TV Guide](https://tvguide.com/news/best-movies-on-peacock): Top 16 Peacock movies including Oscar nominees Hamnet and Bugonia
+- [Live Sports On TV Today - TV Guide](https://tvguide.com/sports/live-today): Today's live sports schedule including MLB, NBA, NHL, and college games

@@ -1,0 +1,55 @@
+# Last9
+
+> > Last9 is a managed observability platform for Prometheus, OpenTelemetry, and high-cardinality telemetry data with AI-powered insights.
+
+Last9 provides comprehensive monitoring solutions for cloud-native infrastructure, featuring Kubernetes and VictoriaMetrics integrations, PromQL-based alerting, real user monitoring (RUM), and an AI Assistant for conversational observability. The platform helps SRE and DevOps teams manage complex telemetry at scale.
+
+## Key Topics
+
+- Prometheus
+- OpenTelemetry
+- PromQL
+- Kubernetes
+- VictoriaMetrics
+- High cardinality data
+- Observability platform
+- Alert rules and anomaly detection
+- Real User Monitoring (RUM)
+- AI Assistant
+- Telemetry data management
+- SLOs (Service Level Objectives)
+- Application performance monitoring
+- Cloud-native monitoring
+
+## Documentation
+
+- [Introduction | Last9 Documentation](https://docs.last9.io): Main documentation hub covering Last9 setup, telemetry, and OpenTelemetry
+- [Introduction | Last9 Documentation](https://last9.io/docs): Last9 documentation index covering telemetry, SLOs, and integrations
+- [Alert Rules | Last9 Documentation](https://last9.io/docs/alert-rules): Configure alert rules with thresholds and anomaly detection algorithms
+- [Configuring an Alert | Last9 Documentation](https://last9.io/docs/configuring-an-alert): Step-by-step guide to configuring alert rules with PromQL indicators
+- [Tutorials | Last9 Documentation](https://last9.io/docs/howto): Prometheus, Kubernetes, and VictoriaMetrics monitoring tutorials
+- [AI Assistant | Last9 Documentation](https://last9.io/docs/ai-assistant): Conversational observability with AI Assistant in Slack and IDEs via MCP
+- [Application Performance | Last9 Documentation](https://last9.io/docs/discover-applications-performance): Monitor Core Web Vitals and application performance with real user data
+- [Application Errors | Last9 Documentation](https://last9.io/docs/rum-errors): Monitor JavaScript errors and exceptions with detailed browser breakdowns
+
+## Guides & Tutorials
+
+- [Guides | Last9](https://last9.io/guides): Engineering guides for OpenTelemetry, high cardinality, and Prometheus
+- [PromQL for Beginners: Getting Started with Prometheus | Last9](https://last9.io/blog/promql-for-beginners-getting-started-with-prometheus-query-language): Beginner's guide to PromQL query language and Prometheus by Gabriel Diaz
+- [Log Levels: Answers to the Most Common Questions | Last9](https://last9.io/blog/log-levels-answers-to-the-most-common-questions): Common log-level questions and Syslog mapping by Anjali Udasi
+
+## Support & Help
+
+- [Help & Support | Last9 Documentation](https://last9.io/docs/help): Contact Last9 support via email, Slack, or MS Teams based on plan
+- [FAQs | Last9 Documentation](https://last9.io/docs/faqs): Frequently asked questions about Prometheus management and Last9 features
+
+## Company & Community
+
+- [Schedule Time with Us | Last9](https://last9.io/schedule-demo): Demo scheduling page for Last9 observability platform with testimonials
+- [Community & events | Last9](https://last9.io/events): SRE/DevOps community events, meetups, and conferences featuring Last9
+
+## Optional
+
+- [COMPRAS](https://clientes.musimundo.com/compras): Wrong site - Musimundo e-commerce purchase process page (not Last9)
+- [Centro de ayuda al cliente Musimundo](https://clientes.musimundo.com): Wrong site - Musimundo customer help center (not Last9)
+- [TV Guide, TV Listings, Online Videos, Entertainment News and Celebrity News - TV Guide](https://tvguide.com/Listings): Wrong site - TV Guide listings and schedule (not Last9)

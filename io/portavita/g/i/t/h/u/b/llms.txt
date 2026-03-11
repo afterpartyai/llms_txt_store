@@ -1,0 +1,51 @@
+# Portavita Devblog
+
+> > Technical blog by Portavita covering database performance benchmarking (PostgreSQL, MongoDB, InfluxDB), Apache Kafka optimization, and software engineering best practices.
+
+Portavita's developer blog features in-depth technical articles on database tuning, message queue optimization, and OWASP security compliance. The blog also provides career advice for developers preparing technical portfolios for job applications.
+
+## Key Topics
+
+- PostgreSQL performance tuning
+- Apache Kafka compression & optimization
+- Database benchmarking (PostgreSQL, MongoDB, InfluxDB)
+- Timeseries data storage
+- WAL compression
+- effective_io_concurrency
+- JSON storage comparison
+- OWASP Dependency-Check
+- IEC 62304 compliance (SOUP management)
+- GitHub/GitLab portfolio preparation
+- Kafka consumer offset management
+- At-least-once delivery patterns
+- SSD vs HDD performance
+- pgbench benchmarking
+- Grafana integration
+
+## Database Performance & Optimization
+
+- [A JSON use case comparison between PostgreSQL and MongoDB](https://portavita.github.io/2018-10-31-blog_A_JSON_use_case_comparison_between_PostgreSQL_and_MongoDB): Performance benchmark comparing PostgreSQL vs MongoDB for JSON storage
+- [A Timeseries Case Study: InfluxDB VS PostgreSQL to store data](https://portavita.github.io/2018-07-31-blog_influxdb_vs_postgresql): InfluxDB vs PostgreSQL timeseries performance comparison for Grafana
+- [About wal_compression on PostgreSQL](https://portavita.github.io/2019-05-13-blog_about_wal_compression): PostgreSQL WAL compression benchmarking with pgbench on SSD vs HDD
+- [PostgreSQL: effective_io_concurrency benchmarked](https://portavita.github.io/2019-07-19-PostgreSQL_effective_io_concurrency_benchmarked): PostgreSQL effective_io_concurrency tuning for SSD & RAID configurations
+
+## Apache Kafka Best Practices
+
+- [Why Kafka compression might save you thousands of dollars](https://portavita.github.io/2021-01-25-Why_Kafka_compression_might_save_you_thousands_of_dollars): Kafka compression cost optimization with gzip, snappy, lz4 & zstd benchmarks
+- [Caveats for Working with Kafka Consumers](https://portavita.github.io/2016-06-23-kafka-consumer-caveats): Apache Kafka consumer offset management & at-least-once delivery patterns
+
+## Software Engineering & Career Development
+
+- [Preparing Your Online Code Repositories for Job Applications](https://portavita.github.io/2021-12-17-preparing-your-online-repositories-for-job-applications): GitHub/GitLab portfolio tips for technical recruiting at Portavita
+- [OWASP Dependency Checks and Management of Software of Unknown Provenance](https://portavita.github.io/2019-09-19-owasp-soup-management): OWASP dependency scanning & SOUP management for IEC 62304 compliance
+
+## Getting Started
+
+- [Portavita Devblog](https://portavita.github.io): Portavita developer blog homepage featuring job application tips
+
+## Optional
+
+- [Winter TV Guide 2025-2026](https://tvguide.com/news/features/winter-tv-guide-2025): Winter 2025-2026 TV preview with Stranger Things, Bridgerton & Game of Thrones
+- [Live Sports On TV Today](https://tvguide.com/sports/live-today): Live sports TV schedule with MLB, NBA, NHL & UEFA Champions League
+- [Progressive Insurance](https://progressive.com): Progressive Insurance homepage with auto, home & life insurance quotes
+- [Contact Progressive](https://progressive.com/contact-us): Progressive customer service with Flo chatbot & 24/7 support channels

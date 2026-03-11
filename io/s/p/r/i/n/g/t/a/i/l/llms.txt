@@ -1,0 +1,48 @@
+# Springtail
+
+> > Springtail: Scale PostgreSQL reads without migration through intelligent database replication and proxy routing.
+
+Springtail was a database infrastructure company focused on PostgreSQL read scalability, compatible with Amazon RDS, Aurora, and Supabase. The team was acquired by Shopify and the service is no longer actively developed.
+
+## Key Topics
+
+- PostgreSQL
+- Postgres
+- Database replication
+- Amazon RDS for PostgreSQL
+- Supabase
+- Aurora
+- OLTP and OLAP workloads
+- Read scaling
+- VPC peering
+- Logical replication
+- Foreign Data Wrapper (FDW)
+- Proxy routing
+- SOC-2 compliance
+- WAL (Write-Ahead Logging)
+- Database instances
+
+## Getting Started
+
+- [Introduction - Springtail](https://docs.springtail.io): Introduction to Springtail: scale Postgres reads without migration
+- [Quickstart - Springtail](https://docs.springtail.io/quickstart): Quick setup guide for Springtail with PostgreSQL, RDS, Aurora, Supabase
+- [Springtail Joins Shopify | Springtail](https://springtail.io): Homepage announcing Springtail team acquisition by Shopify
+
+## Guides
+
+- [Database Instances - Springtail](https://docs.springtail.io/guides/instances): How-to guide for managing Springtail database instances and VPC peering
+- [Accounts - Springtail](https://docs.springtail.io/guides/accounts): Account and organization management guide for Springtail users
+
+## Technical Reference
+
+- [Postgres Compatibility - Springtail](https://docs.springtail.io/concepts/compatibility): Postgres compatibility details: FDW, proxy routing, logical replication
+- [Data Security - Springtail](https://docs.springtail.io/security/authentication): Security architecture: VPC isolation, encryption, SOC-2 compliance
+- [Glossary - Springtail](https://docs.springtail.io/support/glossary): Database terminology glossary: replication, WAL, instances
+
+## Blog
+
+- [When OLAP meets OLTP: Dealing with long-running queries in PostgreSQL](https://springtail.io/blog/long-running-queries-postgresql): Blog post on handling long-running OLAP queries in PostgreSQL OLTP systems
+
+## Optional
+
+- [Privacy Policy | Springtail](https://springtail.io/privacy): Privacy policy for Springtail, Inc. services and data handling

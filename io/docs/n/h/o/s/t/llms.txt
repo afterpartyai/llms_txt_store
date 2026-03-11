@@ -1,0 +1,67 @@
+# Nhost Documentation
+
+> > Comprehensive documentation for Nhost, a Backend-as-a-Service platform built on PostgreSQL, GraphQL, and modern JavaScript frameworks.
+
+Nhost provides developers with authentication, database, storage, and serverless functions. The documentation covers setup guides, framework integrations (React, Next.js, Vue, Svelte, React Native), API references, CLI commands, and deployment options including self-hosting.
+
+## Key Topics
+
+- Nhost Backend-as-a-Service
+- GraphQL API
+- PostgreSQL Database
+- React Integration
+- Next.js Framework
+- Authentication & Auth
+- Nhost CLI
+- Local Development
+- Self-Hosting
+- JavaScript/TypeScript
+- Full-Stack Development
+- API Reference
+- Database Performance
+- Docker Compose
+
+## Getting Started
+
+- [Welcome | Nhost Documentation](https://docs.nhost.io): Nhost documentation homepage with quick links to guides and API reference
+- [What is Nhost? | Nhost Documentation](https://docs.nhost.io/getting-started): Nhost introduction: BaaS platform overview and quickstart links
+
+## Framework Tutorials
+
+- [Create Your Nhost Project (Next.js) | Nhost Documentation](https://docs.nhost.io/getting-started/tutorials/nextjs/1-introduction): Next.js tutorial series introduction: setup Nhost project for full-stack dev
+- [Create Your Nhost Project (React) | Nhost Documentation](https://docs.nhost.io/getting-started/tutorials/react/1-introduction): React tutorial series introduction: setup Nhost backend and authentication
+- [Create Your Nhost Project (Vue) | Nhost Documentation](https://docs.nhost.io/getting-started/tutorials/vue/1-introduction): Vue tutorial series: setup Nhost project with GraphQL and authentication
+- [Create Your Nhost Project (Svelte) | Nhost Documentation](https://docs.nhost.io/getting-started/tutorials/svelte/1-introduction): SvelteKit tutorial series introduction: setup Nhost backend project
+- [Create Your Nhost Project (React Native) | Nhost Documentation](https://docs.nhost.io/getting-started/tutorials/reactnative/1-introduction): React Native tutorial series: setup Nhost project for mobile development
+
+## API Reference & CLI
+
+- [Overview | Nhost Documentation](https://docs.nhost.io/reference): API reference overview for Nhost backend services and client libraries
+- [Nhost CLI Reference | Nhost Documentation](https://docs.nhost.io/reference/cli/commands): Complete Nhost CLI command reference with options and configuration
+
+## Development & Configuration
+
+- [Local Development | Nhost Documentation](https://docs.nhost.io/platform/cli/local-development): Setup local Nhost dev environment with Docker and PostgreSQL
+- [Performance | Nhost Documentation](https://docs.nhost.io/products/database/performance): PostgreSQL performance optimization guide with pghero and query tuning
+
+## Deployment & Self-Hosting
+
+- [Community | Nhost Documentation](https://docs.nhost.io/platform/self-hosting/community): Self-hosting Nhost with Docker Compose and community support resources
+
+## Optional
+
+- [Inception | Rotten Tomatoes](https://rottentomatoes.com/m/inception): Movie review page for Inception - unrelated to docs.nhost.io
+- ['Inception' Review: 2010 Movie](https://hollywoodreporter.com/movies/movie-reviews/inception-review-2010-movie-29792): Hollywood Reporter review of Inception - unrelated to docs.nhost.io
+- [Inception Movie Review | Common Sense Media](https://commonsensemedia.org/movie-reviews/inception): Common Sense Media parent guide for Inception - unrelated to docs.nhost.io
+- [Inception Review | Movie - Empire](https://empireonline.com/movies/reviews/inception-review): Empire magazine review of Inception film - unrelated to docs.nhost.io
+- [Who Is The 'Bananas And Rice' Girl? | Know Your Meme](https://trending.knowyourmeme.com/editorials/guides/who-is-the-bananas-and-rice-girl-the-viral-memes-about-somali-american-ice-victim-nasra-ahmed-explained): Know Your Meme guide explaining viral 'Bananas and Rice' meme
+- [What's The 'Bacon Avocado' Trend On TikTok? | Know Your Meme](https://trending.knowyourmeme.com/editorials/guides/whats-the-bacon-avocado-trend-on-tiktok-the-meme-about-saying-bacon-avocado-as-fast-as-possible-explained): TikTok viral trend explanation for 'Bacon Avocado' challenge
+- [Jesse, What the Fuck Are You Talking About | Know Your Meme](https://knowyourmeme.com/memes/jesse-what-the-fuck-are-you-talking-about): Breaking Bad meme database entry for Walter White/Jesse Pinkman dialogue
+- [What Does 'No Problem! Here's The Information About The Mercedes CLR GTR' Mean? | Know Your Meme](https://trending.knowyourmeme.com/editorials/guides/what-does-no-problem-heres-the-information-about-the-mercedes-clr-gtr-mean-the-instagram-caption-copypasta-explained): Instagram copypasta explanation for Mercedes CLR GTR spam caption
+- [What's With All The Jokes About Nancy Reagan In The MGM Backlot? | Know Your Meme](https://knowyourmeme.com/editorials/guides/whats-with-all-the-jokes-about-nancy-reagan-in-the-mgm-backlot-memes-calling-nancy-reagan-a-throat-goat-explained): Meme explanation about Nancy Reagan MGM backlot rumors and jokes
+- [We Still Talk About You | Know Your Meme](https://knowyourmeme.com/memes/we-still-talk-about-you): Exploitable meme database entry for 'We Still Talk About You' image
+- [What's The 'Nothing Beats a Jet2 Holiday' Meme About? | Know Your Meme](https://trending.knowyourmeme.com/editorials/guides/whats-the-nothing-beats-a-jet2-holiday-meme-about-the-viral-jet2-holiday-tiktok-sound-explained): TikTok sound meme explanation for Jet2 Holiday advertisement catchphrase
+- [What Do The Memes About Hearing Saxophones In The Hood Mean? | Know Your Meme](https://trending.knowyourmeme.com/editorials/guides/what-do-the-memes-about-hearing-saxophones-in-the-hood-mean-the-viral-90s-hood-movie-trend-explained): Boyz n the Hood saxophone meme trend explanation from TikTok
+- [What's The 'Khaby Lame Mechanism?' | Know Your Meme](https://trending.knowyourmeme.com/editorials/guides/whats-the-khaby-lame-mechanism-memes-about-the-eerie-khaby-lame-robot-thats-possessing-people-on-tiktok-explained): TikTok viral Khaby Lame robot mechanism meme explanation
+- [The Bizarre 'Jewish Space Laser' Conspiracy Theory | Know Your Meme](https://knowyourmeme.com/editorials/guides/the-bizarre-jewish-space-laser-conspiracy-theory-about-the-2018-california-wildfires-explained): Marjorie Taylor Greene conspiracy theory meme about California wildfires
+- [TV Guide, TV Listings, Online Videos, Entertainment News](https://tvguide.com/Listings): TV Guide listings page - unrelated to docs.nhost.io

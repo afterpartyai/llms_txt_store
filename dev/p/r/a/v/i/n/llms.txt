@@ -1,0 +1,57 @@
+# Pravin on Software
+
+> > Technical blog by Pravin Tripathi covering distributed systems, data engineering, and infrastructure topics including PySpark, Databricks, NGINX, OpenSearch, and AI engineering.
+
+A software engineer's knowledge base featuring in-depth guides on data engineering tools (PySpark, Delta Lake, Databricks), infrastructure (NGINX, load balancing), database fundamentals, network engineering, and AI/ML systems. The site focuses on practical implementation guides with code examples and architectural explanations.
+
+## Key Topics
+
+- PySpark
+- Databricks
+- Delta Lake
+- NGINX
+- OpenSearch
+- Python
+- Data Engineering
+- Load Balancing
+- AI Engineering
+- Multi-Agent Systems
+- OSI Model
+- ACID Properties
+- HTTP/TLS
+- AWS
+- Distributed Systems
+
+## Core Pages
+
+- [Pravin on Software](https://pravin.dev): Homepage featuring tech blogs on Databricks, PySpark, Delta Lake & more
+- [About Pravin Tripathi](https://pravin.dev/about): Software engineer at Addepar specializing in distributed systems & Python
+
+## Data Engineering & Distributed Systems
+
+- [The Complete Guide to OpenSearch: From Architecture to Implementation](https://pravin.dev/posts/opensearch-architecture-and-flow): Complete guide to OpenSearch architecture, data ingestion & analytics
+- [Part 1: Database Engineering Fundamentals](https://pravin.dev/database-engineering-fundamental-part-1): Database fundamentals: ACID properties, indexing & query optimization
+- [Scalability for Dummies: A Comprehensive Guide to Building Scalable Web Services](https://pravin.dev/posts/scalabilities-for-dummies): Beginner's guide to web scalability, load balancing & CI/CD deployment
+
+## AI & Machine Learning Engineering
+
+- [AI Engineering Learning: From Zero to Multi-Agent Systems](https://pravin.dev/posts/ai-engineering-learning-1): 8-week roadmap for AI engineering with LangChain, RAG & multi-agent systems
+
+## NGINX & Infrastructure
+
+- [NGINX: Understand and Deploy Layer 4/Layer 7 Load Balancing, WebSockets, HTTPS, HTTP/2, TLS 1.3](https://pravin.dev/nginx-understanding-and-deployment): NGINX fundamentals: Layer 4/7 load balancing, HTTP/2, TLS 1.3 with Docker
+- [NGINX: Layer 4 vs Layer 7 Proxying](https://pravin.dev/nginx-understanding-and-deployment/nginx-layer-4-vs-layer-7-proxying): NGINX Layer 4 vs Layer 7 proxying explained with OSI model context
+- [NGINX: Config for Level 7 Proxy](https://pravin.dev/nginx-understanding-and-deployment/nginx-config-level-7-proxy): NGINX Layer 7 proxy configuration with upstream servers & load balancing
+
+## Network & System Fundamentals
+
+- [Fundamentals of Network Engineering: Foundational Concepts - Part 1](https://pravin.dev/posts/network-engineering-fundamental-part-1): Network fundamentals: OSI Model, TCP/IP protocols & client-server architecture
+
+## Software Development & Testing
+
+- [From Java to Python: A Developer's Guide to Testing Migration](https://pravin.dev/posts/from-java-to-python-a-developers-guide-to-testing-migration): Testing migration guide: JUnit/Mockito to pytest/unittest.mock for devs
+
+## Optional
+
+- [Archives](https://pravin.dev/archives): Chronological archive of posts on PySpark, Databricks, AI & data engineering
+- [Categories](https://pravin.dev/categories): Blog content organized by categories: Blogging, Presentation, Documentation

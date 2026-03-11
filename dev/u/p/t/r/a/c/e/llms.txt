@@ -1,0 +1,53 @@
+# Uptrace
+
+> > OpenTelemetry-powered APM and observability platform with Go database clients (Bun, go-pg) and ClickHouse integration.
+
+Uptrace provides distributed tracing, metrics, and logging using OpenTelemetry standards. The ecosystem includes Bun ORM for PostgreSQL/MySQL/MSSQL, go-pg PostgreSQL client (maintenance mode), and ClickHouse client for Go applications.
+
+## Key Topics
+
+- OpenTelemetry
+- Uptrace APM
+- Bun ORM
+- go-pg PostgreSQL client
+- ClickHouse
+- Distributed tracing
+- Observability
+- PostgreSQL
+- MySQL
+- Go database drivers
+- Application monitoring
+- Usage-based pricing
+- Database connections
+- Query building
+
+## Getting Started
+
+- [Pricing | Uptrace](https://uptrace.dev/pricing): Uptrace pricing with usage-based billing, free trial, and volume discounts
+- [Guides | Uptrace](https://uptrace.dev/guides): OpenTelemetry integration guides for frameworks and libraries
+- [How to Choose an APM Solution: 5 Critical Questions for 2025 | Uptrace](https://uptrace.dev/blog/how-to-choose-an-apm): APM selection guide with criteria for evaluating monitoring tools in 2025
+
+## Bun ORM Documentation
+
+- [Bun: Drivers and dialects](https://bun.uptrace.dev/guide/drivers.html): Bun ORM database drivers and dialects for PostgreSQL, MySQL, MSSQL
+
+## go-pg PostgreSQL Client
+
+- [Getting started - PostgreSQL client and ORM for Go](https://pg.uptrace.dev): go-pg PostgreSQL client setup guide (maintenance mode, use Bun instead)
+- [Writing queries - PostgreSQL client and ORM for Go](https://pg.uptrace.dev/queries): go-pg query builder guide for writing SQL with Go models
+- [FAQ - PostgreSQL client and ORM for Go](https://pg.uptrace.dev/faq): go-pg FAQ covering connection health, queries, and troubleshooting
+
+## ClickHouse Client
+
+- [Introduction](https://clickhouse.uptrace.dev/guide): ClickHouse Golang client introduction and getting started guide
+
+## Support & FAQ
+
+- [FAQ](https://msgpack.uptrace.dev/guide/faq.html): msgpack Go encoding FAQ with stack overflow troubleshooting
+
+## Optional
+
+- [How to recover your Google Account or Gmail - Google Account Help](https://support.google.com/accounts/answer/7682439): Google Account recovery steps for forgotten passwords and usernames
+- [Tips to complete account recovery steps - Google Account Help](https://support.google.com/accounts/answer/7299973): Google Account recovery tips and verification troubleshooting guide
+- [I don't remember my password or need to reopen an old account - User Security Help](https://support.google.com/user-security/answer/10242749): Google account recovery process for locked or forgotten credentials
+- [Recover a recently deleted Google Account - Google Account Help](https://support.google.com/accounts/answer/6236295): Steps to restore recently deleted Google Account and recover data

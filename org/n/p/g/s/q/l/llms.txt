@@ -1,0 +1,54 @@
+# Npgsql Documentation
+
+> > Official documentation for Npgsql, the open-source ADO.NET data provider for PostgreSQL, with Entity Framework Core integration for .NET applications.
+
+Npgsql enables .NET developers to work with PostgreSQL databases using ADO.NET or Entity Framework Core. The documentation covers installation, configuration, type mappings, connection management, and advanced features like replication and failover.
+
+## Key Topics
+
+- Npgsql
+- PostgreSQL
+- ADO.NET
+- Entity Framework Core
+- .NET
+- NuGet
+- Connection pooling
+- Type mappings
+- Database connection
+- Connection string parameters
+- PostgreSQL types
+- Failover and load balancing
+- Replication
+- NodaTime integration
+
+## Getting Started
+
+- [Npgsql - .NET Access to PostgreSQL](https://npgsql.org): Homepage: ADO.NET provider for PostgreSQL with EF Core support
+- [Getting Started](https://npgsql.org/doc/index.html): Quick start guide with basic ADO.NET code examples and NuGet setup
+- [Installation](https://npgsql.org/doc/installation.html): Installation guide: NuGet packages, daily builds, MSI, and VS extension
+
+## Entity Framework Core
+
+- [Npgsql Entity Framework Core Provider](https://npgsql.org/efcore): EF Core provider setup and configuration for PostgreSQL
+
+## Configuration Reference
+
+- [Connection String Parameters](https://npgsql.org/doc/connection-string-parameters.html): Complete connection string parameters reference with SSL/auth options
+- [Supported Types and their Mappings](https://npgsql.org/doc/types/basic.html): CLR to PostgreSQL type mappings reference with read/write conversions
+- [Date and Time Handling](https://npgsql.org/doc/types/datetime.html): DateTime, timestamp, and timezone handling guide with NodaTime plugin
+
+## Advanced Features
+
+- [Multiple Hosts, Failover and Load Balancing](https://npgsql.org/doc/failover-and-load-balancing.html): Multiple hosts configuration for failover and load balancing scenarios
+- [Logical and Physical Replication](https://npgsql.org/doc/replication.html): PostgreSQL replication setup guide with pgoutput plugin configuration
+
+## Support
+
+- [FAQ](https://npgsql.org/doc/faq): Frequently asked questions about stored procedures and connection pooling
+- [FAQ (alternate)](https://npgsql.org/doc/faq.html): FAQ covering PostgreSQL 11 procedures, pooling, and error handling
+
+## Optional
+
+- [Applied Nutrition Sparkling Protein Water](https://appliednutrition.uk/products/protein-water): Unrelated: Applied Nutrition protein beverage product page
+- [TV Guide Listings](https://tvguide.com/Listings): Unrelated: TV Guide listings and entertainment news homepage
+- [Know Your Meme - Breaking Bad](https://knowyourmeme.com/memes/jesse-what-the-fuck-are-you-talking-about): Unrelated: Breaking Bad dialogue meme database entry
