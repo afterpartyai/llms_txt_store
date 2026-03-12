@@ -1,0 +1,64 @@
+# OpenProject
+
+> > Open-source project management software with Gantt charts, time tracking, and collaboration features, developed in Germany with enterprise cloud hosting options.
+
+OpenProject is a comprehensive project management platform offering work package tracking, resource planning, and integrations with tools like Nextcloud and GitHub. The software emphasizes data sovereignty, GDPR compliance, and accessibility standards including WCAG 2.1.
+
+## Key Topics
+
+- Project management
+- Work packages
+- Gantt charts
+- Time tracking
+- OpenProject Enterprise cloud
+- GDPR compliance
+- Accessibility (WCAG 2.1)
+- Nextcloud integration
+- Resource planning
+- Public sector solutions
+- Open-source software
+- Data sovereignty
+- Germany-based development
+- Phase gates and project lifecycle
+- High contrast mode
+
+## Installation and Deployment
+
+- [Installing OpenProject – with Helm Charts, packages and Docker](https://www.openproject.org/es/blog/installation-helm-charts-packages-docker): Guide to installing OpenProject with Helm Charts, Kubernetes, and Docker
+
+## Major Releases and Features
+
+- [OpenProject 16.1: Estructura el ciclo de vida de tu proyecto con fases y puertas de fase](https://www.openproject.org/es/blog/lanzamiento-de-openproject-16-1): OpenProject 16.1 release: project lifecycle phases and phase gates feature
+- [Mi seguimiento del tiempo: estructure su jornada laboral con una vista de calendario](https://www.openproject.org/es/blog/modulo-de-seguimiento-del-tiempo): OpenProject 16.0 preview: personal time tracking module with calendar view
+- [Our commitment to accessibility: High contrast mode arrives with OpenProject 13.1](https://www.openproject.org/es/blog/accessibility-high-contrast-mode): OpenProject 13.1 adds high contrast mode for WCAG 2.1 accessibility compliance
+- [OpenProject 8.0 release candidate offers a sneak preview for new powerful collaboration features](https://www.openproject.org/pt/blog/openproject-8-0-release-candidate): OpenProject 8.0 RC: WYSIWYG editor and enhanced collaboration features preview
+- [OpenProject 7.0 released](https://www.openproject.org/es/blog/openproject-7-0-released): OpenProject 7.0 release: enhanced Gantt timeline and work package hierarchies
+
+## Case Studies and Industry Solutions
+
+- [Project management software made in Germany](https://www.openproject.org/es/blog/project-management-software-made-in-germany): Benefits of German project management software: GDPR compliance & data sovereignty
+- [Workload transparency for the City of Ravensburg](https://www.openproject.org/es/blog/city-ravensburg-workload-transparancy): Case study: City of Ravensburg uses OpenProject for workload management
+- [8 soluciones de software de código abierto para el sector público](https://www.openproject.org/es/blog/software-de-codigo-abierto-del-sector-publico): 8 open-source software solutions for public sector independence
+
+## Integrations and Ecosystem
+
+- [OpenProject integration app for Nextcloud released in version 2.10.0](https://www.openproject.org/es/blog/nextcloud-integration-release-2-10): Nextcloud integration app v2.10.0 released for OpenProject collaboration
+
+## Awards and Recognition
+
+- [OpenProject recognized as high performer in 2023 by G2](https://www.openproject.org/es/blog/g2-high-performer-2023): OpenProject earns G2 High Performer Award 2023 from customer reviews
+- [OpenProject wins FinancesOnline 2017 user experience award](https://www.openproject.org/es/blog/openproject-wins-financesonline-2017-user-experience-award): OpenProject receives FinancesOnline Great User Experience 2017 Award
+
+## Company News and Culture
+
+- [Passion Time at OpenProject: Turning passion into benefit](https://www.openproject.org/es/blog/passion-time-2023): OpenProject Passion Time retreat in Switzerland for innovation projects
+- [Static vs. dynamic websites: why we migrated from WordPress to a static website](https://www.openproject.org/es/blog/wordpress-migration): OpenProject migration from WordPress to static site for security & performance
+
+## Optional
+
+- [OpenProject 6.1.6 released with a security fix](https://www.openproject.org/blog/openproject-6-1-6-released-security-fix): OpenProject 6.1.6 release: CVE-2017-11667 session expiry security fix
+- [Looking forward to OpenProject 5.1](https://www.openproject.org/es/blog/openproject-5-1-coming-soon): OpenProject 5.1 preview: inline editing and usability improvements
+- [Important downtime announcement on Saturday, 20th October for OpenProject Cloud environment](https://www.openproject.org/es/blog/important-downtime-announcement-saturday-20th-october-openproject-cloud-environment): OpenProject Cloud maintenance downtime for v8.1 upgrade on Oct 20
+- [OpenProject 6.1.4 released](https://www.openproject.org/blog/openproject-6-1-4-released): OpenProject 6.1.4 release: bug fixes for work packages and MyPage
+- [OpenProject 4.2.2 released](https://www.openproject.org/es/blog/openproject-4-2-2-released): OpenProject 4.2.2 release: bug fixes and French translation improvements
+- [OpenProject 3.0.15 publicada](https://www.openproject.org/es/blog/openproject-3-0-15-publicada): OpenProject 3.0.15 release: bug fixes and security updates

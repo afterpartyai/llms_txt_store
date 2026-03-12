@@ -1,0 +1,40 @@
+# Open Computing Facility (OCF)
+
+> > UC Berkeley's student-run computing organization providing free hosting, mirrors, and lab services
+
+The Open Computing Facility is a student-run organization at UC Berkeley offering free computing resources including web hosting, shell accounts, mirror servers for Linux distributions and open-source software, and physical computer lab access. OCF maintains infrastructure supporting the campus community with services like Jenkins CI/CD, collaborative documentation, and system status monitoring.
+
+## Key Topics
+
+- Open Computing Facility (OCF)
+- UC Berkeley
+- Student computing services
+- Linux distributions
+- Mirror server
+- Open-source software
+- Debian
+- AlmaLinux
+- Arch Linux
+- Jenkins CI/CD
+- Lab services
+- Web hosting
+- Documentation
+- Package mirrors
+- Continuous integration
+
+## Documentation & Resources
+
+- [Documentation – Open Computing Facility](https://wiki.ocf.berkeley.edu/): OCF documentation hub for UC Berkeley student computing and lab services
+
+## Core Services
+
+- [OCF Mirrors](https://mirrors.ocf.berkeley.edu/): OCF mirror server hosting Linux distros and open-source software packages
+- [HedgeDoc - Collaborative markdown notes](https://notes.ocf.berkeley.edu/): HedgeDoc collaborative markdown editor for real-time note-taking at OCF
+
+## System Status & Monitoring
+
+- [Open Computing Facility Status](https://status.ocf.berkeley.edu/): OCF service status page tracking outages and infrastructure maintenance
+
+## Optional
+
+- [Dashboard - Jenkins](https://jenkins.ocf.berkeley.edu/): Jenkins CI/CD dashboard for OCF build automation and project health
