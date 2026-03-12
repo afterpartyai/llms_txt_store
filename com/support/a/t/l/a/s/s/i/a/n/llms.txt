@@ -1,0 +1,59 @@
+# Atlassian Support
+
+> Official support documentation and troubleshooting resources for Atlassian products including Jira, Confluence, Advanced Roadmaps, and Atlassian Analytics.
+
+This site provides comprehensive knowledge base articles, troubleshooting guides, and configuration documentation for Atlassian's suite of collaboration and project management tools across Cloud, Data Center, and Server deployments.
+
+## Key Topics
+
+- Jira Software
+- Confluence
+- Advanced Roadmaps for Jira
+- Atlassian Analytics
+- Jira Service Management
+- Data Center
+- Cloud deployment
+- Troubleshooting
+- User management
+- Admin permissions
+- SAML SSO
+- Dashboard templates
+- Database queries
+- License management
+
+## Getting Started
+
+- [Atlassian Support](https://support.atlassian.com): Main support hub for Jira, Confluence, and other Atlassian products
+
+## Advanced Roadmaps Troubleshooting
+
+- [Troubleshoot Missing Issues in Advanced Roadmaps for Jira Data Center](https://support.atlassian.com/advanced-roadmaps-for-jira/kb/troubleshoot-missing-issues-in-advanced-roadmaps-for-jira-data-center): Troubleshooting guide for missing issues in Advanced Roadmaps Data Center
+- [Accessing Advanced Roadmaps plans in Jira Data Centre results in License Violation error message](https://support.atlassian.com/advanced-roadmaps-for-jira/kb/accessing-advanced-roadmaps-plans-in-jira-data-centre-results-in-license-violation-error-message): Fix License Violation error in Advanced Roadmaps for Jira Data Centre 8.15+
+- [Cannot Create Advanced Roadmap Plan due to error Your plan contains more than 100 projects](https://support.atlassian.com/advanced-roadmaps-for-jira/kb/cannot-create-advanced-roadmap-plan-due-to-error-your-plan-contains-more-than-100-projects): Resolve 100 projects limit error and Lexorank issues in Jira Data Center
+- [One of Advance Roadmap plan takes significantly longer time to load than the plan](https://support.atlassian.com/advanced-roadmaps-for-jira/kb/one-of-advance-roadmap-plan-takes-significantly-longer-time-to-load-than-the-plan): Optimize database indexes to improve slow Advanced Roadmap plan loading
+- [Some resolved Jira issues are missing from Advanced Roadmaps programs](https://support.atlassian.com/advanced-roadmaps-for-jira/kb/some-resolved-jira-issues-are-missing-from-advanced-roadmaps-programs): Adjust Completion Date filter to show missing resolved issues in Programs
+- [The value of date picker custom field is not shown on Advanced Roadmaps Plan](https://support.atlassian.com/advanced-roadmaps-for-jira/kb/the-value-of-date-picker-custom-field-is-not-shown-on-advanced-roadmaps-plan): Fix date picker custom field display by adjusting search template settings
+- [Creating a Sample Plan in Advanced roadmap fails if the setting Allow unassigned issues is turned OFF](https://support.atlassian.com/advanced-roadmaps-for-jira/kb/creating-a-sample-plan-in-advanced-roadmap-fails-if-the-setting-allow-unassigned-issues-is-turned-off): Fix Sample Plan creation by enabling 'Allow unassigned issues' setting
+
+## Advanced Roadmaps Configuration
+
+- [How to change Advanced Roadmaps default view for all Jira users](https://support.atlassian.com/advanced-roadmaps-for-jira/kb/how-to-change-advanced-roadmaps-default-view-for-all-jira-users): Configure default view settings for Advanced Roadmaps across all users
+- [Advanced Roadmap Plan - Create group to group by issue for custom field on the timeline](https://support.atlassian.com/advanced-roadmaps-for-jira/kb/advanced-roadmap-plan-create-group-to-group-by-issue-for-custom-field-on-the-timeline): Create custom field groups for timeline issue grouping in Jira Cloud
+
+## Atlassian Analytics Setup & Features
+
+- [Add Analytics to an existing site](https://support.atlassian.com/analytics/docs/add-atlassian-analytics-to-an-existing-site): Create Analytics workspace and connect to existing Atlassian site
+- [Additional features](https://support.atlassian.com/analytics/docs/additional-features): Overview of Analytics features: AI SQL, custom tables, performance monitoring
+- [Add or remove columns](https://support.atlassian.com/analytics/docs/add-or-remove-columns): Manage columns in Analytics visual mode queries using schema browser
+- [Add or remove query filters](https://support.atlassian.com/analytics/docs/add-or-remove-query-filters): Filter Analytics query results using visual mode filter operators
+- [Archive, delete, or restore a dashboard](https://support.atlassian.com/analytics/docs/archive-delete-or-restore-a-dashboard): Manage Analytics dashboards: archive, delete, or restore from trash
+
+## Analytics Dashboard Templates
+
+- ["Adoption" dashboard template](https://support.atlassian.com/analytics/docs/adoption-dashboard-template): Confluence usage tracking dashboard template for team adoption metrics
+- ["Alert MTTA/C statistics of teams" dashboard template](https://support.atlassian.com/analytics/docs/alert-mtta-c-statistics-of-teams-dashboard-template): Dashboard template for tracking team alert response MTTA/MTTC metrics
+
+## Optional
+
+- [Bullet chart settings](https://support.atlassian.com/analytics/docs/bullet-chart-settings): Customize bullet chart visualizations in Analytics dashboards
+- [Change when you receive email notifications for comments](https://support.atlassian.com/analytics/docs/change-when-you-receive-email-notifications-for-comments): Configure email notification settings for Analytics chart/dashboard comments

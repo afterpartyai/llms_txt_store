@@ -1,0 +1,41 @@
+# Interactive Data Lab (IDL)
+
+> > Research lab at the University of Washington developing tools and techniques for interactive data visualization, including Draco, flechette, and D3.js educational resources.
+
+The Interactive Data Lab focuses on making data visualization more accessible and effective through constraint-based design systems, high-performance data processing libraries for Apache Arrow, and comprehensive tutorials for web-based visualization technologies.
+
+## Key Topics
+
+- Data Visualization
+- D3.js
+- JavaScript
+- Draco (constraint-based visualization)
+- flechette (Apache Arrow)
+- Interactive Tools
+- HTML/CSS/SVG
+- Color Perception
+- Cross-linguistic Studies
+- Vega-Lite
+- Web Technologies
+- DOM Manipulation
+- University of Washington
+- Dominik Moritz
+- Kanit Wongsuphasawat
+
+## Core Projects & Tools
+
+- [Draco](https://idl.uw.edu/draco): Constraint-based visualization design framework using ASP and Vega-Lite
+
+## flechette API Reference
+
+- [Data Types API Reference](https://idl.uw.edu/flechette/api/data-types.html): Flechette data types API for Apache Arrow JavaScript mapping
+- [Schema API Reference](https://idl.uw.edu/flechette/api/schema): Flechette schema API reference for Arrow field objects and metadata
+- [Table API Reference](https://idl.uw.edu/flechette/api/table): Flechette table API for column operations and data extraction
+
+## D3.js Tutorials & Learning Resources
+
+- [Technology Fundamentals for D3](https://idl.uw.edu/d3-tutorials/fundamental.html): D3.js tutorial covering HTML, CSS, SVG, and JavaScript fundamentals
+
+## Research & Interactive Visualizations
+
+- [Hue Color Comparisons - Color Naming in Different Languages](https://idl.uw.edu/color-naming-in-different-languages/vis/stacked-spectrum.html): Interactive visualization comparing color naming across languages

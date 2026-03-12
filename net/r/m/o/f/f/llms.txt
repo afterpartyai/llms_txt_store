@@ -1,0 +1,63 @@
+# rmoff.net
+
+> > Technical blog covering Apache Kafka, Kafka Connect, stream processing, OBIEE (Oracle Business Intelligence), and data engineering topics with deep-dive tutorials and troubleshooting guides.
+
+Written by Robin Moffatt, this site documents hands-on experience with streaming data platforms, particularly Apache Kafka and Confluent technologies, alongside extensive Oracle OBIEE content. The blog combines practical tutorials, performance monitoring techniques, and career reflections from a data engineering and DevRel perspective.
+
+## Key Topics
+
+- Apache Kafka
+- Kafka Connect
+- ksqlDB
+- Stream Processing
+- OBIEE (Oracle Business Intelligence Enterprise Edition)
+- Single Message Transforms (SMT)
+- JMX Monitoring
+- Confluent Platform
+- DuckDB
+- REST API
+- WebLogic Server
+- Log4j Configuration
+- Debezium
+- Data Engineering
+- DevRel
+
+## Kafka Connect and Stream Processing
+
+- [Kafka Connect - Deep Dive into Single Message Transforms](https://rmoff.net/2021/01/04/kafka-connect-deep-dive-into-single-message-transforms): Comprehensive video series on Kafka Connect SMT data transformations
+- [Changing the Logging Level for Kafka Connect Dynamically](https://rmoff.net/2020/01/16/changing-the-logging-level-for-kafka-connect-dynamically): Dynamic log level changes in Kafka Connect using KIP-495 features
+- [Kafka Connect Change Log Level and Write Log to File](https://rmoff.net/2019/01/29/kafka-connect-change-log-level-and-write-log-to-file): Configuring Kafka Connect log4j logging levels and file output
+- [Primitive Keys in ksqlDB](https://rmoff.net/2020/02/07/primitive-keys-in-ksqldb): Handling primitive message keys in ksqlDB with Debezium connectors
+- [Using httpie with the Kafka REST Proxy](https://rmoff.net/2019/03/08/using-httpie-with-the-kafka-rest-proxy): Tutorial on using httpie with Confluent Kafka REST Proxy API
+
+## OBIEE Monitoring and Performance
+
+- [OBIEE performance monitoring and alerting with jManage](https://rmoff.net/2009/07/29/obiee-performance-monitoring-and-alerting-with-jmanage): Guide to monitoring OBIEE performance using jManage and JMX MBeans
+- [Collecting OBIEE systems management data with jmx](https://rmoff.net/2010/12/06/collecting-obiee-systems-management-data-with-jmx): Tutorial on collecting OBIEE metrics using JMX and MBeans
+- [Visualising OBIEE DMS Metrics over the years](https://rmoff.net/2016/02/26/visualising-obiee-dms-metrics-over-the-years): Evolution of OBIEE DMS metrics visualization with Grafana and InfluxDB
+- [Lifting the Lid on OBIEE 12c Web Services - Part 1](https://rmoff.net/2016/05/24/lifting-the-lid-on-obiee-12c-web-services-part-1): Exploring OBIEE 12c REST and SOAP web services architecture with sysdig
+
+## OBIEE Configuration and Integration
+
+- [Changing LDAP settings in an OBIEE RPD with UDML](https://rmoff.net/2011/02/23/changing-ldap-settings-in-an-obiee-rpd-with-udml): How-to guide for modifying LDAP configuration in OBIEE RPD using UDML
+- [Connecting to OBIEE via JDBC - with jisql](https://rmoff.net/2016/03/28/connecting-to-obiee-via-jdbc-with-jisql): Tutorial on connecting to OBIEE using JDBC and jisql command-line client
+
+## OBIEE Troubleshooting
+
+- [OBIEE 12c hangs at startup - Starting AdminServer …](https://rmoff.net/2016/05/20/obiee-12c-hangs-at-startup-starting-adminserver-...): Resolving OBIEE 12c AdminServer startup hang with boot properties
+- [oracle.bi.bar.exceptions.UnSupportedBarException: The Bar file provided as input is not supported in this BI Platfrom release.](https://rmoff.net/2016/05/19/oracle.bi.bar.exceptions.unsupportedbarexception-the-bar-file-provided-as-input-is-not-supported-in-this-bi-platfrom-release.): Fixing OBIEE 12c BAR file import errors with importServiceInstance
+- [OBIEE Baseline Validation Tool - Parameter 'directory' is not a directory](https://rmoff.net/2016/05/18/obiee-baseline-validation-tool-parameter-directory-is-not-a-directory): Troubleshooting OBIEE Baseline Validation Tool directory error
+
+## Data Engineering Tools
+
+- [Aligning mismatched Parquet schemas in DuckDB](https://rmoff.net/2023/03/03/aligning-mismatched-parquet-schemas-in-duckdb): Solving Parquet schema mismatches when querying S3 data with DuckDB
+
+## Career and DevRel
+
+- [Stretching my Legs in the Data Engineering Ecosystem in 2022](https://rmoff.net/2022/09/14/stretching-my-legs-in-the-data-engineering-ecosystem-in-2022): Career reflection on Apache Kafka, Confluent, and data engineering evolution
+- [Hanging up my Boarding Passes and Jetlag…for now](https://rmoff.net/2022/04/07/hanging-up-my-boarding-passes-and-jetlagfor-now): Reflection on DevRel travel, work-life balance, and pandemic impact
+
+## Optional
+
+- [My Workstation - 2020](https://rmoff.net/2020/12/02/my-workstation-2020): DevRel home office setup with iPad Pro, MacBook Pro, and LG monitors
+- [Google and Korean OTN forums](https://rmoff.net/2009/04/02/google-and-korean-otn-forums): Google search issues with Korean Oracle Technology Network forums

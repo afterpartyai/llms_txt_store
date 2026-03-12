@@ -1,0 +1,61 @@
+# Stack by Convex
+
+> > Stack by Convex: Technical articles, tutorials, and best practices for building real-time, AI-powered applications with Convex backend platform.
+
+Stack is Convex's developer blog and resource hub featuring in-depth tutorials on AI chat, vector search, real-time sync, and collaborative features. Content includes contributions from Convex engineers like Ian Macartney, Michal Srb, and Sarah Shader, as well as community developers building with Convex, React, Next.js, and TypeScript.
+
+## Key Topics
+
+- Convex backend platform
+- AI chat and chatbots
+- Vector search and RAG (Retrieval-Augmented Generation)
+- Real-time sync and databases
+- Convex Components
+- OpenAI and OpenAI Assistants API
+- LangChain integration
+- Collaborative editing and local-first
+- Next.js and React
+- TypeScript
+- Authentication with Clerk
+- HTTP streaming
+- AI agents with memory
+- Distributed systems
+- WebSocket and real-time features
+
+## AI Chat and Vector Search Tutorials
+
+- [AI Agents with Built-in Memory](https://stack.convex.dev/ai-agents): Agent component tutorial with automatic message history and vector search
+- [Build AI Chat with Convex Vector Search](https://stack.convex.dev/ai-chat-with-convex-vector-search): Michal Srb demonstrates RAG implementation using Convex's built-in vector search
+- [Build AI Chat with LangChain and Convex](https://stack.convex.dev/ai-chat-using-langchain-and-convex): Michal Srb shows building AI chat with LangChain integration and RAG
+- [Build AI Chat with OpenAI's Assistants API](https://stack.convex.dev/ai-chat-using-openai-assistants-api): Tutorial implementing chatbot with OpenAI Assistants API and context retrieval
+- [AI Chat with HTTP Streaming](https://stack.convex.dev/ai-chat-with-http-streaming): Sarah Shader builds ChatGPT-style streaming with HTTP Actions in Convex
+- [How to Create Real-Time AI Chat Streaming in Minutes with Convex Components](https://stack.convex.dev/build-streaming-chat-app-with-persistent-text-streaming-component): Hyo Jang shows building ChatGPT-style streaming with Convex Components
+
+## Authentication and Security
+
+- [Authentication Best Practices: Convex, Clerk and Next.js](https://stack.convex.dev/authentication-best-practices-convex-clerk-and-nextjs): Jamal Lyons covers auth race conditions and security in Convex-Clerk-Next.js apps
+- [Build a File Storage App with Role Based Authorization (Next.js, Shadcn, Typescript)](https://stack.convex.dev/build-a-file-storage-app-role-based-authorization): Web Dev Cody tutorial on building file storage with role-based auth in Next.js
+
+## Real-Time and Collaborative Features
+
+- [Add a collaborative document editor to your app](https://stack.convex.dev/add-a-collaborative-document-editor-to-your-app): Ian Macartney guides integrating BlockNote, Tiptap, and ProseMirror with Convex
+- [Going local-first with Automerge and Convex](https://stack.convex.dev/automerge-and-convex): Ian Macartney demonstrates Automerge CRDT integration for collaborative editing
+- [A Map of Sync](https://stack.convex.dev/a-map-of-sync): Sujay Jayakar explores sync platform taxonomy across nine key dimensions
+- [Compare the Best Real-Time Databases for Your App](https://stack.convex.dev/best-real-time-databases-compared): Deborah Ruck compares Convex, Firebase, Supabase real-time database features
+
+## Developer Experience and Workflows
+
+- [Trying out Convex with a single command](https://stack.convex.dev/anonymous-development): Sarah Shader explains anonymous development mode with npx convex dev
+- [6 Tips for improving your Cursor Composer and Convex Workflow](https://stack.convex.dev/6-tips-for-improving-your-cursor-composer-and-convex-workflow): Mike Cann shares tips for optimizing Cursor Composer AI development with Convex
+- [AI Agents (and humans) do better with good abstractions](https://stack.convex.dev/ai-gents-humans-good-abstractions): Chef by Convex builds full-stack apps using Claude 4 with simple abstractions
+
+## Case Studies and Insights
+
+- [The Tech that Convex replaced for ClarityText](https://stack.convex.dev/beyond-sql-how-convex-simplifies-type-safety-sync-with-convex): Matt Luo's case study on replacing MySQL/PostgreSQL stack with Convex
+- [Are Vector Databases Dead?](https://stack.convex.dev/are-vector-databases-dead): Michal Srb analyzes vector database relevance after OpenAI Assistants API launch
+- [AI Town v2](https://stack.convex.dev/ai-town-v2): Ian Macartney announces AI Town v2 with extensible game engine mechanics
+- [Building Context Augmented AI Chat in Practice: AICamp 2023 EOY Meetup](https://stack.convex.dev/aicamp-augmented-chat): Michal Srb's AICamp talk on building custom AI chat with vector search
+
+## Getting Started
+
+- [Stack by Convex](https://stack.convex.dev): Homepage showcasing latest Convex updates, tutorials, and community content

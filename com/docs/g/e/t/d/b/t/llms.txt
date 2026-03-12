@@ -1,0 +1,60 @@
+# dbt Developer Hub
+
+> > Official documentation for dbt (data build tool), covering analytics engineering, the Semantic Layer with MetricFlow, dbt Mesh, and best practices for data transformation workflows.
+
+The dbt Developer Hub provides comprehensive guides for building scalable data transformation projects using SQL, Python, and Jinja templating. It covers core concepts like semantic models, metrics definition, multi-project collaboration with dbt Mesh, and enterprise patterns for organizing marts and data models.
+
+## Key Topics
+
+- dbt (data build tool)
+- Semantic Layer
+- MetricFlow
+- dbt Mesh
+- Analytics Engineering
+- Semantic Models
+- Metrics Definition
+- Data Modeling
+- Materializations (tables, views, incremental)
+- YAML Configuration
+- Jinja Templating
+- dbt CLI
+- Marts (business entities)
+- Model Contracts
+- Normalization and Denormalization
+
+## Semantic Layer and Metrics
+
+- [Intro to the dbt Semantic Layer](https://docs.getdbt.com/best-practices/how-we-build-our-metrics/semantic-layer-1-intro): Introduction to dbt Semantic Layer with MetricFlow for metrics definition
+- [Set up the dbt Semantic Layer](https://docs.getdbt.com/best-practices/how-we-build-our-metrics/semantic-layer-2-setup): Setup guide for dbt Semantic Layer using dbt CLI and MetricFlow commands
+- [Building semantic models](https://docs.getdbt.com/best-practices/how-we-build-our-metrics/semantic-layer-3-build-semantic-models): Build semantic models with YAML for entities, dimensions, and measures
+- [Building metrics](https://docs.getdbt.com/best-practices/how-we-build-our-metrics/semantic-layer-4-build-metrics): Define and build metrics in YAML using dbt Semantic Layer
+- [More advanced metrics](https://docs.getdbt.com/best-practices/how-we-build-our-metrics/semantic-layer-5-advanced-metrics): Create advanced metrics: ratio, derived, and cumulative types
+- [Tactical terminology](https://docs.getdbt.com/best-practices/how-we-build-our-metrics/semantic-layer-6-terminology): Semantic Layer terminology: normalization, denormalization, marts, and OBT
+
+## dbt Mesh and Multi-Project Collaboration
+
+- [Intro to dbt Mesh](https://docs.getdbt.com/best-practices/how-we-mesh/mesh-1-intro): Introduction to dbt Mesh for multi-project and cross-project references
+- [Who is dbt Mesh for?](https://docs.getdbt.com/best-practices/how-we-mesh/mesh-2-who-is-dbt-mesh-for): Determine if dbt Mesh fits your team's organizational structure
+- [Coordinating model versions](https://docs.getdbt.com/best-practices/how-we-mesh/mesh-6-coordinate-versions): Coordinate producer-consumer workflows for dbt Mesh model versioning
+
+## Project Structure and Data Modeling
+
+- [Marts: Business-defined entities](https://docs.getdbt.com/best-practices/how-we-structure/4-marts): Structure marts layer with denormalization or Semantic Layer normalization
+- [The rest of the project](https://docs.getdbt.com/best-practices/how-we-structure/5-the-rest-of-the-project): Organize dbt project files: YAML configs, models, and folder structure
+- [Materializations best practices](https://docs.getdbt.com/best-practices/materializations/1-guide-overview): Overview of dbt materializations: tables, views, and incremental models
+
+## Code Style and Formatting
+
+- [How we style our Python](https://docs.getdbt.com/best-practices/how-we-style/3-how-we-style-our-python): Python style guide using black formatter and ruff linter for dbt models
+- [How we style our Jinja](https://docs.getdbt.com/best-practices/how-we-style/4-how-we-style-our-jinja): Jinja templating style guide for dbt macros and whitespace control
+- [How we style our YAML](https://docs.getdbt.com/best-practices/how-we-style/5-how-we-style-our-yaml): YAML formatting best practices using Prettier and dbt JSON schema
+- [Don't nest your curlies](https://docs.getdbt.com/best-practices/dont-nest-your-curlies): Avoid nesting Jinja curly brackets in dbt templates and macros
+
+## Platform Integration
+
+- [Best practices for dbt and Unity Catalog](https://docs.getdbt.com/best-practices/dbt-unity-catalog-best-practices): Configure dbt with Databricks Unity Catalog and Hive metastore integration
+
+## Optional
+
+- [Best practices conclusion](https://docs.getdbt.com/best-practices/how-we-build-our-metrics/semantic-layer-9-conclusion): Semantic Layer and MetricFlow best practices conclusion
+- [Now it's your turn](https://docs.getdbt.com/best-practices/how-we-style/6-how-we-style-conclusion): Style guide conclusion with pre-commit hooks and project evaluator tips

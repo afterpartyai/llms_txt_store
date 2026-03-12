@@ -1,0 +1,64 @@
+# Definite
+
+> > Definite is an AI-native data analytics platform that connects to modern data stacks (Snowflake, DuckDB, PostgreSQL) and provides natural language querying, visualization, and Python/SQL analysis capabilities.
+
+Definite positions itself as a next-generation frontend for the modern data stack, offering 10x faster analytics through AI-powered features. The platform integrates with popular data sources like Stripe, HubSpot, and Salesforce, while leveraging technologies like DuckDB for high-performance querying and supporting both SQL and Python for flexible data analysis.
+
+## Key Topics
+
+- Modern Data Stack
+- DuckDB
+- AI-Native Analytics
+- Natural Language Queries
+- Data Warehouses (Snowflake, BigQuery, Redshift)
+- ETL Tools (Fivetran, Airbyte)
+- Business Intelligence
+- Data Visualization
+- Semantic Layer
+- Apache Iceberg
+- Real-Time Analytics
+- Python & SQL Analysis
+- Data Integration (Stripe, HubSpot, Salesforce)
+- Cloud Data Warehouse Costs
+- OLAP Query Engines
+
+## Product & Platform
+
+- [Definite: All-In-One Data Analytics Platform](https://www.definite.app): Homepage for Definite all-in-one data analytics platform with AI features
+- [Announcing Definite: 10x faster analytics](https://www.definite.app/blog/announcing-definite): Product announcement introducing Definite as modern data stack frontend
+- [Introducing Python support in Definite](https://www.definite.app/blog/introducing-python-in-definite): Product update: Python support in Definite for ML/NLP and API integration
+
+## AI & Analytics Insights
+
+- [AI Data Analysis: Why Most Tools Fail (And What Actually Works)](https://www.definite.app/blog/ai-data-analysis): Analysis of AI data tools like ChatGPT/Claude and why they often fail
+- [The Modern Data Stack is Dead: Why AI-Native Platforms Are the Future (2026)](https://www.definite.app/blog/modern-data-stack-dead): Analysis of modern data stack failures and rise of AI-native platforms
+- [Data Analysis for Startups: Methods and Tools](https://www.definite.app/blog/data-analysis-for-startups): Startup guide to descriptive, diagnostic, and predictive analytics methods
+
+## DuckDB & Query Engines
+
+- [DuckDB vs Trino: The Full Comparison](https://www.definite.app/blog/duckdb-vs-trino-comparison): In-depth comparison of DuckDB vs Trino query engines for data analytics
+- [Is DuckDB Open Source?](https://www.definite.app/blog/duckdb-open-source): Explanation of DuckDB's MIT open-source license and OLAP capabilities
+- [Duckdb and Iceberg](https://www.definite.app/blog/iceberg-query-engine): Guide to using DuckDB as query engine for Apache Iceberg lakehouses
+- [Duck Takes Flight](https://www.definite.app/blog/duck-takes-flight): Tutorial on streaming with DuckDB and Apache Arrow Flight for real-time data
+- [DuckLake: This is your Data Lake on ACID](https://www.definite.app/blog/ducklake): Tutorial on building event pipelines with DuckLake for ACID transactions
+
+## Data Warehouse & ETL
+
+- [How to Estimate Cloud Data Warehouse Costs in 2026](https://www.definite.app/blog/how-to-estimate-cloud-data-warehouse-costs-and-compare-pricing): Cost estimation guide for Snowflake, BigQuery, and Redshift warehouses
+- [How Much Does a B2B SaaS Data Stack Cost: A Complete Guide](https://www.definite.app/blog/b2b-saas-data-stack-cost-guide): Complete cost breakdown guide for B2B SaaS data stacks with Fivetran/Snowflake
+- [What are ETL Tools in Data Warehousing?](https://www.definite.app/blog/etl-tools-in-data-warehousing): Overview of ETL tools like Fivetran and Airbyte for data warehousing
+- [HubSpot Data Warehouse: Setup, Tools & What to Build First](https://www.definite.app/blog/hubspot-to-data-warehouse-in-2-minutes): HubSpot data warehouse setup walkthrough with tool comparison and use cases
+
+## Tutorials & Guides
+
+- [How to Build a Data Visualization Tool](https://www.definite.app/blog/build-a-data-visualization-tool): Guide to building custom data visualization tools and dashboards
+- [Building a Claude Code Skill to Search Past Sessions](https://www.definite.app/blog/claude-code-search-skill): Tutorial on building a search skill for Claude Code using DuckDB and Python
+
+## Industry Analysis
+
+- [Why Databricks paid $1B for a 40 person startup (Tabular)](https://www.definite.app/blog/databricks-tabular-acquisition): Analysis of Databricks' $1B Tabular acquisition for Iceberg table format
+
+## Optional
+
+- [Definite - Blog](https://www.definite.app/blog): Blog index covering data warehouses, ETL tools, and analytics updates
+- [OverkiLLM: Thousands of LLM calls using Ollama to write an H1](https://www.definite.app/blog/overkillm): Experiment using Ollama LLM for automated copywriting optimization

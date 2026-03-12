@@ -1,0 +1,33 @@
+# Dewey Dunnington
+
+> > Personal website of Dewey Dunnington, Software Engineer & Geoscientist specializing in geospatial data processing with Apache Arrow, SedonaDB, and modern spatial analytics tools.
+
+This site features technical articles and tutorials on geospatial data engineering, focusing on GeoParquet, Apache Sedona, DuckDB, and Arrow-native workflows. Dewey works at Wherobots and contributes to open-source geospatial and data interoperability projects.
+
+## Key Topics
+
+- SedonaDB
+- Apache Sedona
+- GeoParquet
+- DuckDB
+- Apache Arrow
+- GeoArrow
+- nanoarrow
+- GeoPandas
+- Arrow Database Connectivity (ADBC)
+- Wherobots
+- Spatial SQL
+- Geodata cleaning
+- Geospatial data processing
+- R and Python development
+- Lake geochemistry
+
+## About
+
+- [Dewey Dunnington](https://dewey.dunnington.ca): Homepage for Dewey Dunnington: Software Engineer & Geoscientist at Wherobots
+
+## Geospatial Data Engineering
+
+- [(Geo)Data cleaning with Arrow and SedonaDB](https://dewey.dunnington.ca/post/2025/geodata-cleaning-with-arrow-and-sedonadb): Tutorial on geodata cleaning using SedonaDB, DuckDB, and PostGIS workflows
+- [Lazy GeoParquet reading in SedonaDB, DuckDB, GeoPandas, and GDAL](https://dewey.dunnington.ca/post/2025/lazy-geoparquet-reading-in-sedonadb-duckdb-geopandas-and-gdal): Comparison of lazy GeoParquet reading across SedonaDB, DuckDB, GeoPandas, GDAL
+- [Stream network traversal with SedonaDB](https://dewey.dunnington.ca/post/2025/stream-network-traversal-with-sedonadb): Geospatial analysis tutorial for stream network traversal using SedonaDB

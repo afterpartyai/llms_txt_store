@@ -1,0 +1,56 @@
+# ClickHouse
+
+> > Fast open-source OLAP database and cloud service for real-time analytics, data warehousing, and high-performance SQL queries at scale.
+
+ClickHouse is an open-source columnar database management system optimized for online analytical processing (OLAP), offering both self-hosted and cloud solutions. The platform features integrations with PostgreSQL, AWS, Cloudflare, and modern AI tools, with engineering leadership from co-founder and CTO Alexey Milovidov.
+
+## Key Topics
+
+- OLAP Database
+- Real-Time Analytics
+- ClickHouse Cloud
+- Data Warehousing
+- PostgreSQL Integration
+- Observability
+- Vector Search
+- GenAI and Machine Learning
+- ClickPipes (Data Ingestion)
+- Materialized Views
+- Open Source
+- AWS and Cloud Integrations
+- Performance Engineering
+- Case Studies and User Stories
+- ClickStack
+
+## Getting Started
+
+- [Fast Open-Source OLAP DBMS - ClickHouse](https://clickhouse.com): Homepage for ClickHouse open-source OLAP database and Cloud product
+
+## Engineering and Technical Leadership
+
+- [Articles by Alexey Milovidov | ClickHouse](https://clickhouse.com/authors/alexey-milovidov): Alexey Milovidov author page with ClickHouse engineering and Rust articles
+- [Alexey goes on tour! ClickHouse co-founder and CTO](https://clickhouse.com/alexey-goes-on-tour): CTO Alexey Milovidov's 6-city international tech talk tour announcement
+- [Articles by Alexander Kuzmenkov | ClickHouse](https://clickhouse.com/authors/alexander-kuzmenkov): Alexander Kuzmenkov's engineering articles on performance testing and fuzzing
+- [Articles by Dale McDiarmid | ClickHouse](https://clickhouse.com/authors/dale-mcdiarmid): Dale McDiarmid's observability and engineering guides for ClickHouse
+
+## Data Integration and ClickPipes
+
+- [Articles by The ClickPipes Team | ClickHouse](https://clickhouse.com/authors/clickpipes-team): ClickPipes Team posts on replication, streaming, CDC, and API features
+- [Articles by Aaron Katz | ClickHouse](https://clickhouse.com/authors/aaron-katz): Aaron Katz author page covering PeerDB, Postgres CDC, and OLAP topics
+- [Articles by David Wheeler | ClickHouse](https://clickhouse.com/authors/david-wheeler): David Wheeler's PostgreSQL extensions and pg-clickhouse development articles
+- [Articles by Denys Golotiuk | ClickHouse](https://clickhouse.com/authors/denys-golotiuk): Denys Golotiuk's tutorials on TTL, materialized views, and data lifecycle
+
+## Case Studies and User Stories
+
+- [Articles by ClickHouse | ClickHouse](https://clickhouse.com/authors/clickhouse): Official ClickHouse author page with customer case studies and user stories
+- [Articles by AWS | ClickHouse](https://clickhouse.com/authors/aws): AWS author page featuring user stories, case studies, and MSK integration
+- [Articles by ClickHouse Editor | ClickHouse](https://clickhouse.com/authors/clickhouse-editor): ClickHouse Editor posts on meetups, migrations, and analytics case studies
+
+## AI, Analytics, and Modern Data Stack
+
+- [Articles & Resources by Al Brown | ClickHouse](https://clickhouse.com/authors/al-brown): Al Brown author page with data analytics, AI agents, and MCP integration posts
+
+## Company and Community
+
+- [Articles by Christoph Wurm | ClickHouse](https://clickhouse.com/authors/christoph-wurm): Christoph Wurm's newsletter archive with monthly updates and announcements
+- [Articles by ClickHouse People Team | ClickHouse](https://clickhouse.com/authors/clickhouse-people-team): People Team articles on company culture and women in tech initiatives

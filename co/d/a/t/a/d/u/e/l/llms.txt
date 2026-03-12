@@ -1,0 +1,56 @@
+# DataDuel.co
+
+> > Analytics blog exploring modern data tools like DuckDB, MotherDuck, dbt, and LLM integration in SQL workflows
+
+DataDuel.co is written by Jacob Matson and Nate Sooter, analytics consultants sharing practical insights on data engineering, career development, and emerging technologies. The site features hands-on tutorials, tool comparisons, and real-world applications of Python, SQL, and AI-enhanced analytics.
+
+## Key Topics
+
+- DuckDB
+- MotherDuck
+- dbt (data build tool)
+- LLM evaluation and integration
+- SQL and Python
+- GitHub Actions
+- Data visualization (Tableau, Power BI)
+- Analytics career paths
+- AI-enhanced development
+- Docker and containerization
+- Dashboard design best practices
+- CRM data cleanup
+- Model benchmarking
+- Gemini models
+- Analytics consulting
+
+## About & Core
+
+- [DataDuel.co – Analytics-Adjacent Ideas & Musings](https://www.dataduel.co): Homepage featuring analytics musings, LLM evaluation, and Gemini models
+- [About – DataDuel.co](https://www.dataduel.co/about): About Jacob Matson, Nate Sooter, and their analytics consulting work
+
+## Analytics Career Guidance
+
+- [Landing Your First Analytics Job](https://www.dataduel.co/landing-your-first-analytics-job): Career advice for entry-level analytics jobs with SQL and Python skills
+- [Defining Analytics Titles](https://www.dataduel.co/defining-analytics-titles): Guide to analytics job roles: data scientist, analyst, engineer careers
+- [The Many Wandering Paths to Analytics](https://www.dataduel.co/the-many-wandering-paths-to-analytics): Career transitions and non-linear paths into analytics roles
+
+## Modern Data Tools & Engineering
+
+- [LLMs in SQL? A real-world application to clean up your CRM data](https://www.dataduel.co/llms-in-sql-a-real-world-application-to-clean-up-your-crm-data): Using GPT-4o in MotherDuck SQL for CRM data cleanup and classification
+- [Revisiting data query speed with DuckDB](https://www.dataduel.co/revisiting-data-query-speed-with-duckdb): DuckDB performance benchmarking vs SQL Server for Wordle analysis
+- [Simple dbt runner](https://www.dataduel.co/simple-dbt-runner): Cost-efficient dbt runner using GitHub Actions and AWS S3 state storage
+- [Exploring AI-Enhanced Development: My Experience with Codeium's Windsurf IDE](https://www.dataduel.co/exploring-ai-enhanced-development-my-experience-with-codiums-windsurf-ide): Review of Windsurf IDE building MotherDuck Terraform provider project
+
+## Data Visualization & Dashboards
+
+- [Write Code Last - 4 steps to better dashboards](https://www.dataduel.co/write-code-last-4-steps-to-better-dashboards): Dashboard design best practices: plan before coding visualizations
+- [Duel: NBA Bubble Projections](https://www.dataduel.co/duel-nba-bubble-projections): Power BI vs Tableau comparison replicating FiveThirtyEight NBA predictions
+
+## Technical Tutorials
+
+- [Running a personal SQL server for free](https://www.dataduel.co/running-a-personal-sql-server-for-free): Tutorial: Free SQL Server setup using Hyper-V and Azure Data Studio
+- [Running uv in dev containers & github actions](https://www.dataduel.co/uv-pip-install-system): Snippets for uv pip install in dev containers and GitHub Actions
+
+## Optional
+
+- [DataDuel.co – Page 2 of 4](https://www.dataduel.co/page/2): Blog archive page 2 featuring Docker and containerization tutorials
+- [DataDuel.co – Page 4 of 4](https://www.dataduel.co/page/4): Blog archive page 4 with NBA ELO prediction and sports analytics posts

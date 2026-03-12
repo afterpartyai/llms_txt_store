@@ -1,0 +1,60 @@
+# The Network DNA
+
+> > Technical blog covering enterprise networking, datacenter technologies, and security with deep dives into Cisco DNA Center, SD-Access, ACI, MPLS, BGP, and VMware virtualization.
+
+The Network DNA is a comprehensive resource for network engineers and IT professionals, focusing on Cisco enterprise solutions (SD-Access, ACI, ASR routers, Nexus switching), routing protocols (BGP, MPLS), datacenter architectures (vPC, FEX, VXLAN), VMware virtualization, and network security topics. The blog provides practical configuration guides, architectural explanations, and troubleshooting tips.
+
+## Key Topics
+
+- Cisco SD-Access
+- Cisco DNA Center
+- Cisco ACI (Application Centric Infrastructure)
+- BGP (Border Gateway Protocol)
+- MPLS (Multiprotocol Label Switching)
+- VXLAN overlay networks
+- Datacenter networking
+- Nexus switching and vPC
+- VMware vSphere virtualization
+- Network security
+- Fabric Edge
+- FEX (Fabric Extenders)
+- LACP and link aggregation
+- DHCP Snooping
+- DNS tunneling prevention
+
+## Cisco SD-Access and DNA Center
+
+- [Cisco DNA and DNA Center as Controller](https://www.thenetworkdna.com/2018/10/cisco-dna-and-dna-center-as-controller.html): Cisco DNA Center: SDN controller for network automation & policy mgmt
+- [Cisco SD-Access: Fabric & Host Onboarding](https://www.thenetworkdna.com/2019/01/cisco-sd-access-fabric-host-onboarding.html): Cisco SD-Access fabric & host onboarding with DNA Center and ISE
+- [Multicast PIM-ASM & Cisco SD-Access](https://www.thenetworkdna.com/2019/01/multicast-pim-asm-cisco-sd-access.html): PIM-ASM multicast in Cisco SD-Access fabric with VXLAN overlay
+- [Quick points about Wireless in Cisco SD-Access](https://www.thenetworkdna.com/2019/01/quick-points-about-wireless-in-cisco-sd.html): Wireless integration in Cisco SD-Access: WLC deployment & fabric policy
+
+## Datacenter Networking
+
+- [Difference Between Cisco ACI Multi-Pod Vs Cisco ACI Multi-Site](https://www.thenetworkdna.com/2019/12/difference-between-cisco-aci-multi-pod.html): Cisco ACI Multi-Pod vs Multi-Site: deployment architecture comparison
+- [Cisco Datacenter: vPC ( Single and Double Sided vPC)](https://www.thenetworkdna.com/2020/01/cisco-datacenter-vpc-single-and-double.html): Cisco vPC deployment: single & double-sided config on Nexus switches
+- [Basics about Cisco ACI GOLF L3Out](https://www.thenetworkdna.com/2019/05/basics-about-cisco-aci-golf-l3out.html): Cisco ACI GOLF L3Out basics: BGP EVPN & WAN connectivity via spine
+- [Datacenter Switching : Nexus ( FEX: Fabric Extenders )](https://www.thenetworkdna.com/2019/12/datacenter-switching-nexus-fex-fabric.html): Nexus FEX (Fabric Extenders): datacenter switching with Nexus 5K/7K
+- [Introduction and Configurations of Arista MLAG](https://www.thenetworkdna.com/2019/12/introduction-and-configurations-of.html): Arista MLAG config: multichassis link aggregation on EOS switches
+
+## Routing Protocols and MPLS
+
+- [BGP routing protocol Tips and Tricks](https://www.thenetworkdna.com/2017/01/bgp-routing-protocol-tips-and-tricks.html): BGP routing tips: troubleshooting route flapping & configuration tricks
+- [Introduction to MPLS Route Target (RT)](https://www.thenetworkdna.com/2010/01/introduction-to-mpls-route-target-rt.html): MPLS Route Target (RT) intro: VRF config & BGP extended communities
+- [Part 3: MPLS Forwarding Operations With Labels](https://www.thenetworkdna.com/2018/11/part-3-mpls-forwarding-operations-with.html): MPLS label operations: push, pop, swap & FEC forwarding explained
+
+## Network Security
+
+- [DNS Tunneling and Prevention](https://www.thenetworkdna.com/2020/01/dns-tunneling-and-prevention.html): DNS tunneling attacks: data exfiltration detection & prevention methods
+- [Introduction to DHCP Snooping](https://www.thenetworkdna.com/2017/01/introduction-to-dhcp-snooping.html): DHCP Snooping intro: Layer 2 security & trusted/untrusted ports config
+
+## Server Virtualization
+
+- [Basics about VMware vSphere & vSphere Web Client](https://www.thenetworkdna.com/2019/09/basics-about-vmware-vsphere-vsphere-web.html): VMware vSphere & ESXi basics: Web Client & datacenter management intro
+- [VMware Virtual Machine File types and extensions](https://www.thenetworkdna.com/2017/01/vmware-virtual-machine-file-types-and.html): VMware VM file types: VMDK, VMX, NVRAM, snapshots & delta files explained
+- [Basics about Server Virtualization](https://www.thenetworkdna.com/2019/09/basics-about-server-virtualization.html): Server virtualization basics: VMs & datacenter infrastructure management
+
+## Optional
+
+- [Cisco ASR 1002-X Basics](https://www.thenetworkdna.com/2010/01/cisco-asr-1002-x-basics.html): Cisco ASR 1002-X router basics: WAN aggregation & ESP throughput capacity
+- [3 Ways Ants Can Ruin Your Network](https://www.thenetworkdna.com/2019/11/3-ways-ants-can-ruin-your-network.html): Ant infestations causing network damage: pest control & troubleshooting

@@ -1,0 +1,40 @@
+# Sciencx
+
+> > A web development blog exploring JavaScript patterns, web accessibility, UI components, and deployment workflows.
+
+Sciencx features technical articles by Zach Leatherman and others covering progressive enhancement, conservative design principles, browser compatibility, and modern web development practices. The site documents real-world solutions for dynamic UI components, accessibility challenges, and deployment automation.
+
+## Key Topics
+
+- JavaScript patterns and techniques
+- Web accessibility and screen readers
+- Conservative design principles
+- Dynamic UI components (hierarchical selects, form elements)
+- Browser event handling and compatibility
+- Deployment automation via GitHub
+- Progressive enhancement
+- JSON and XMLHTTPRequest
+- Assistive technology
+- Opera browser compatibility
+- Umbraco CMS
+- HTML and web standards
+- UI design patterns
+- Victor Tsaran (accessibility expert)
+- Flash and web components
+
+## Web Accessibility
+
+- [Screen Readers and Listening at the Speed of Sound](https://www.scien.cx/2007/05/17/screen-readers-and-listening-at-the-speed-of-sound): Web accessibility insights on screen readers featuring Victor Tsaran
+
+## JavaScript & UI Patterns
+
+- [Conservative Design: Hierarchical Select](https://www.scien.cx/2007/02/22/conservative-design-hierarchical-select): Dynamic hierarchical select boxes using JSON/XML with conservative design
+- [Don't Let the Door Hit You Onunload and Onbeforeunload](https://www.scien.cx/2008/04/22/don8217t-let-the-door-hit-you-onunload-and-onbeforeunload): Browser event handling for onunload/onbeforeunload with Opera compatibility
+
+## Deployment & DevOps
+
+- [How to deploy sites via GitHub](https://www.scien.cx/2011/11/02/how-to-deploy-sites-via-github): Tutorial on deploying sites via GitHub using SSH and private repos
+
+## Optional
+
+- [Umbraco 4 broke my project!](https://www.scien.cx/2009/02/05/umbraco-4-broke-my-project): Troubleshooting Umbraco 4 upgrade issues and .NET assembly errors

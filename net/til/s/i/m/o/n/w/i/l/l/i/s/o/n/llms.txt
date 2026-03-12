@@ -1,0 +1,58 @@
+# Simon Willison's TIL
+
+> > A collection of Today I Learned notes on web development, data tools, and cloud infrastructure by Simon Willison
+
+This site documents practical technical learnings covering Datasette, Python, cloud platforms (AWS, Cloud Run, Cloudflare), GitHub workflows, AI tools like Claude Code, and database technologies including SQLite and DuckDB. Each TIL provides concise, actionable insights from real-world development experience.
+
+## Key Topics
+
+- Datasette
+- Python
+- Cloudflare
+- GitHub Pages
+- GitHub Actions
+- AWS
+- Cloud Run
+- SQLite
+- Docker
+- Claude Code
+- datasette-plugin
+- web-development
+- preview-deployment
+- static-hosting
+- DuckDB
+
+## Getting Started
+
+- [Simon Willison: TIL](https://til.simonwillison.net): Homepage of Simon Willison's TIL collection covering tech learning notes
+
+## Datasette Development
+
+- [Simon Willison: TILs on datasette](https://til.simonwillison.net/datasette): Collection of TILs about Datasette plugin development and testing
+- [Writing a CLI utility that is also a Datasette plugin](https://til.simonwillison.net/datasette/cli-tool-that-is-also-a-plugin): Create dual-purpose Click CLI tool and Datasette plugin with dclient
+- [Writing a Datasette CLI plugin that mostly duplicates an existing command](https://til.simonwillison.net/datasette/plugin-modifies-command): Extend Datasette CLI commands with datasette-gunicorn plugin example
+- [Serving MBTiles with datasette-media](https://til.simonwillison.net/datasette/serving-mbtiles): Serve map tiles from MBTiles SQLite format using datasette-media plugin
+
+## Cloud Deployment & Infrastructure
+
+- [How to deploy a folder with a Dockerfile to Cloud Run](https://til.simonwillison.net/cloudrun/ship-dockerfile-to-cloud-run): Deploy Datasette with Dockerfile to Google Cloud Run using gcloud
+- [Use labels on Cloud Run services for a billing breakdown](https://til.simonwillison.net/cloudrun/use-labels-for-billing-breakdown): Track Google Cloud Run costs by service using gcloud labels
+- [Helper function for pagination using AWS boto3](https://til.simonwillison.net/aws/helper-for-boto-aws-pagination): Python helper function for handling AWS boto3 API pagination
+- [Recovering data from AWS Lightsail using EC2](https://til.simonwillison.net/aws/recovering-lightsail-data): Guide to recover AWS Lightsail data by mounting EBS volumes in EC2
+
+## Cloudflare Configuration
+
+- [Rate limiting by IP using Cloudflare's rate limiting rules](https://til.simonwillison.net/cloudflare/rate-limiting): Implement IP-based rate limiting with Cloudflare WAF rules
+- [Cloudflare response header transform rules](https://til.simonwillison.net/cloudflare/response-header-transform-rule): Use Cloudflare transform rules to modify response headers for Python files
+- [Adding a robots.txt using Cloudflare workers](https://til.simonwillison.net/cloudflare/robots-txt-cloudflare-workers): Deploy robots.txt for Cloud Run/GitHub Pages via Cloudflare Workers
+
+## AI Tools & Claude Code
+
+- [Using Playwright MCP with Claude Code](https://til.simonwillison.net/claude-code/playwright-mcp-claude-code): Configure Playwright MCP server for browser automation in Claude Code
+- [Previewing Claude Code for web branches with GitHub Pages](https://til.simonwillison.net/claude-code/preview-github-pages): Deploy Claude Code web branches for preview using GitHub Pages
+
+## Development Tools & Utilities
+
+- [Catching up with the Cosmopolitan ecosystem](https://til.simonwillison.net/cosmopolitan/ecosystem): Overview of Justine Tunney's Cosmopolitan Actually Portable Executable
+- [Simon Willison: TILs on cookiecutter](https://til.simonwillison.net/cookiecutter): Collection of TILs about cookiecutter templates and datasette-plugin
+- [Avoiding "length" errors in Apache Bench with the -l option](https://til.simonwillison.net/ab/apache-bench-length-errors): Fix Apache Bench length errors when load testing Datasette with -l flag

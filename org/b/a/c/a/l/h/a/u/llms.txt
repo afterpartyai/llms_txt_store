@@ -1,0 +1,49 @@
+# Bacalhau
+
+> > Bacalhau is a distributed compute platform for running Docker and WebAssembly workloads over data at scale, with native support for S3, IPFS, and edge computing.
+
+Bacalhau enables compute-over-data orchestration across distributed nodes, allowing users to submit jobs via CLI or REST API with YAML configuration. The platform supports multiple data sources (S3, IPFS, local files) and result publishers, with built-in workload partitioning using DuckDB for parallel processing.
+
+## Key Topics
+
+- Distributed Computing
+- Compute Over Data
+- Docker Containers
+- WebAssembly (WASM)
+- Job Orchestration
+- REST API
+- CLI (Command Line Interface)
+- S3 Integration
+- IPFS Storage
+- YAML Configuration
+- Node Management
+- Edge Computing
+- Workload Partitioning
+- DuckDB
+- Data Processing
+
+## Getting Started
+
+- [Distributed Compute Over Data | Bacalhau](https://bacalhau.org): Bacalhau platform homepage for distributed compute over data with Docker/WASM
+- [Submitting Jobs | Bacalhau](https://bacalhau.org/docs/basics/submitting-jobs): Guide to submitting Docker jobs via CLI or YAML configuration
+
+## REST API Reference
+
+- [Jobs | Bacalhau](https://bacalhau.org/docs/api/jobs): Jobs REST API reference for creating and managing Bacalhau jobs
+- [Nodes | Bacalhau](https://bacalhau.org/docs/api/nodes): Nodes REST API reference for querying cluster node information
+
+## CLI Reference
+
+- [List | Bacalhau](https://bacalhau.org/docs/cli/node/list): CLI reference for listing and filtering network nodes
+- [History | Bacalhau](https://bacalhau.org/docs/cli/job/history): CLI reference for job history command with JSON/YAML/CSV output
+- [Version | Bacalhau](https://bacalhau.org/docs/cli/agent/version): CLI reference for bacalhau agent version command with output formats
+
+## Data Sources & Publishers
+
+- [S3 | Bacalhau](https://bacalhau.org/docs/sources/s3): S3 input source for mounting AWS S3 data into job execution environments
+- [Managed S3 | Bacalhau](https://bacalhau.org/docs/publishers/s3managed): S3 Managed Publisher for secure AWS S3/MinIO result publishing
+- [Local | Bacalhau](https://bacalhau.org/docs/sources/local): Local input source for accessing compute node files and directories
+
+## Advanced Guides
+
+- [Partitioning | Bacalhau](https://bacalhau.org/docs/guides/partitioning): Guide to distributing workloads across nodes using DuckDB partitioning

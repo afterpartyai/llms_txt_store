@@ -1,0 +1,61 @@
+# Wyn Enterprise Learning Center
+
+> > Comprehensive documentation and API reference for Wyn Enterprise, a business intelligence and reporting platform
+
+This site provides technical documentation for Wyn Enterprise, covering REST API endpoints, authentication, data modeling, dashboards, reports, and system administration. The documentation focuses on the V1 API specification with detailed endpoint references for developers integrating with the Wyn Enterprise platform.
+
+## Key Topics
+
+- Wyn Enterprise
+- V1 REST API
+- AuthToken authentication
+- Dashboard operations
+- Report generation
+- Data modeling
+- GraphQL
+- Document management
+- Cache management
+- Role-based access control
+- Batch operations
+- System monitoring
+- Plugin architecture
+- Export functionality
+- Configuration management
+
+## Authentication & Security
+
+- [AuthToken](https://learn.wynenterprise.com/apis/V1/AuthToken): V1 API reference for AuthToken authentication and token management
+- [ClaimMapping](https://learn.wynenterprise.com/apis/V1/ClaimMapping): V1 API for ClaimMapping authentication and identity management
+- [Account](https://learn.wynenterprise.com/apis/V1/Account): V1 REST API reference for Wyn Enterprise Account endpoint
+
+## Reports & Dashboards
+
+- [Reports](https://learn.wynenterprise.com/apis/V1/Reports): V1 REST API reference for Wyn Enterprise Reports endpoint
+- [DashboardView](https://learn.wynenterprise.com/apis/V1/DashboardView): V1 REST API reference for DashboardView dashboard operations
+- [Analysis](https://learn.wynenterprise.com/apis/V1/Analysis): V1 REST API reference for Wyn Enterprise Analysis endpoint
+- [Design](https://learn.wynenterprise.com/apis/V1/Design): V1 REST API reference for Wyn Enterprise Design endpoints
+
+## Data Management & Modeling
+
+- [ModelEditor](https://learn.wynenterprise.com/apis/V1/ModelEditor): V1 API reference for ModelEditor data modeling operations
+- [Collections](https://learn.wynenterprise.com/apis/V1/Collections): V1 REST API reference for Wyn Enterprise Collections endpoint
+- [Hierarchy](https://learn.wynenterprise.com/apis/V1/Hierarchy): V1 REST API reference for Wyn Enterprise Hierarchy endpoint
+- [RoleDocumentColumns](https://learn.wynenterprise.com/apis/V1/RoleDocumentColumns): V1 API endpoint for role-based document column operations
+
+## Document Operations
+
+- [Export](https://learn.wynenterprise.com/apis/V1/Export): V1 API reference for Wyn Enterprise Export endpoints
+- [BatchDownloadDocuments](https://learn.wynenterprise.com/apis/V1/BatchDownloadDocuments): V1 API endpoint for batch downloading documents in Wyn Enterprise
+- [ReferenceResolving](https://learn.wynenterprise.com/apis/V1/ReferenceResolving): V1 API reference for ReferenceResolving endpoint operations
+
+## System Configuration & Monitoring
+
+- [Config](https://learn.wynenterprise.com/apis/V1/Config): V1 REST API reference for Wyn Enterprise configuration endpoints
+- [HealthCheck](https://learn.wynenterprise.com/apis/V1/HealthCheck): V1 API endpoint for HealthCheck system monitoring
+- [QueueMonitor](https://learn.wynenterprise.com/apis/V1/QueueMonitor): V1 API endpoint for QueueMonitor queue management operations
+- [CacheMeta](https://learn.wynenterprise.com/apis/V1/CacheMeta): V1 API reference for CacheMeta cache management endpoint
+
+## Deployment & Extensions
+
+- [LocalDeployment](https://learn.wynenterprise.com/apis/V1/LocalDeployment): V1 API reference for LocalDeployment endpoint operations
+- [PluginAssets](https://learn.wynenterprise.com/apis/V1/PluginAssets): V1 API reference for PluginAssets endpoint operations

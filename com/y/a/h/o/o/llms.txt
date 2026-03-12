@@ -1,62 +1,38 @@
 # Yahoo
 
-> > Yahoo is a comprehensive digital media platform offering news aggregation, Yahoo Mail, Yahoo Finance stock market data, Yahoo Sports coverage, web search, and personalized content across politics, entertainment, and technology.
+> > Yahoo is a comprehensive digital media platform offering finance, news, search, entertainment, and lifestyle content with real-time stock quotes, breaking news, and personalized services.
 
-Yahoo serves hundreds of millions of users with integrated services spanning email, financial tools (including real-time market quotes and symbol lookup), breaking news coverage (particularly politics and world events), sports scores and fantasy games, and web search capabilities. The platform also provides developer resources for OAuth authentication and web performance optimization.
+Yahoo provides integrated access to financial markets (including stocks, ETFs, cryptocurrencies like Bitcoin and Ethereum), global news coverage, celebrity entertainment, and web search capabilities. The platform aggregates content across multiple verticals including business finance, politics, sports, weather, and mail services.
 
 ## Key Topics
 
 - Yahoo Finance
-- Yahoo Mail
-- Yahoo Sports
-- Yahoo Search
-- Stock Market & Market Data
-- Breaking News & Live Updates
-- Politics & World News
-- Authentication & Sign-In
-- Trending Topics & Personalized Feed
-- Financial News & Analysis
-- Fantasy Sports
-- Web Search & Trending Searches
-- Entertainment Coverage
-- Account Access & Security
-- News Aggregation
+- Stock quotes and market data
+- Cryptocurrency (Bitcoin USD, Ethereum USD)
+- Breaking news and headlines
+- Symbol lookup and trending tickers
+- Business and finance news
+- Entertainment and celebrity news
+- Web search
+- News aggregation
+- Real-time market updates
+- Investment companies (Caesars Entertainment, UiPath, Nebius Group)
+- Energy sector (Valero Energy, Marathon Petroleum)
+- Technology stocks
+- Lifestyle content
 
 ## Core Services
 
-- [Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos](https://yahoo.com): Yahoo homepage aggregating news, politics, entertainment, and tech content
-- [Yahoo Everything](https://yahoo.com/all): Complete directory of Yahoo products and services from A-Z
-- [Login - Sign in to Yahoo](https://mail.yahoo.com/）): Yahoo Mail sign-in page with country code selection for authentication
-- [Yahoo Search - Web Search](https://search.yahoo.com): Yahoo Search portal with AI-generated content and trending topics
+- [Yahoo Homepage](https://us.yahoo.com/): Yahoo homepage with news, mail, weather, finance & sports aggregation
+- [Yahoo Search](https://us.search.yahoo.com/;_ylt=AwrgxSLHSrJpTwIAgr9XNyoA;_ylu=Y29sbwNncTEEcG9zAzIEdnRpZAMEc2VjA3Ny): Yahoo Search engine with web, image, video & trending search features
+- [Yahoo Everything](https://www.yahoo.com/all/): Complete directory of Yahoo products and services index
 
-## Yahoo Finance
+## Finance and Markets
 
-- [Yahoo Finance - Stock Market Live, Quotes, Business & Finance News](https://beta.finance.yahoo.com): Beta version of Yahoo Finance with live market data and Trump oil policy news
-- [Symbol Lookup from Yahoo Finance](https://finance.yahoo.com/lookup): Stock ticker symbol search tool with trending tickers like Bitcoin and Oracle
-- [Yahoo Finance - Welcome to the future of finance](https://finance.yahoo.com/about): Yahoo Finance about page for 150M+ investors with premium plans
-- [Yahoo Finance - Behind every great investor is Yahoo Finance](https://finance.yahoo.com/about/top-features): Yahoo Finance features overview highlighting real-time quotes and tools
-- [Latest News - Yahoo Finance](https://finance.yahoo.com/topic/latest-news): Yahoo Finance latest news feed covering markets, stocks, and global economy
+- [Yahoo Finance](https://finance.yahoo.com/?fr=sycsrp_catchall): Yahoo Finance main page with live stock quotes and market news
+- [Symbol Lookup](https://finance.yahoo.com/lookup?s=ERI): Yahoo Finance ticker symbol lookup for stocks, ETFs, mutual funds & crypto
 
-## News & Sports
+## News and Entertainment
 
-- [Yahoo News: Latest and Breaking News, Headlines, Live Updates, and More](https://news.yahoo.com): Yahoo News hub featuring breaking stories on politics, Iran, and Trump
-- [Yahoo Sports: News, Scores, Video, Fantasy Games, Schedules & More](https://sports.yahoo.com): Yahoo Sports covering NFL, UFC, F1, fantasy sports, and live scores
-- [Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos (US)](https://us.yahoo.com): US-specific Yahoo portal with news on Trump, Iran, and entertainment
-
-## Account & Authentication Help
-
-- [Sign in or out of Yahoo | Yahoo Help](https://help.yahoo.com/kb/SLN3407.html): Instructions for signing in/out of Yahoo on desktop and mobile browsers
-- [Fix problems signing into your Yahoo account | Account Help](https://help.yahoo.com/kb/account/fix-problems-signing-yahoo-account-sln2051.html): Troubleshooting guide for Yahoo sign-in issues and password recovery
-- [Generate and manage 3rd-party app passwords | Yahoo Help](https://help.yahoo.com/kb/SLN15241.html): Guide to creating app passwords for third-party email apps accessing Yahoo
-- [Get help from Yahoo customer support | Yahoo Help](https://help.yahoo.com/kb/SLN6349.html): Yahoo Help Central guide for accessing support via email, chat, or articles
-
-## Developer Resources
-
-- [Sign In With Yahoo](https://developer.yahoo.com/sign-in-with-yahoo): Developer guide for implementing Sign In With Yahoo OAuth authentication
-- [Best Practices for Speeding Up Your Web Site - Yahoo Developer Network](https://developer.yahoo.com/performance/rules.html): 35 web performance best practices from Yahoo's Exceptional Performance team
-
-## Optional
-
-- [Trump's Blatantly False Claim About His Father Leads To New '25th Amendment' Calls](https://yahoo.com/news/articles/trumps-blatantly-false-claim-father-062015936.html): Article on Trump's false claim about father's birthplace sparking concerns
-- [Balloon Dog Tutorial | Perfect for Parties](https://yahoo.com/news/videos/balloon-dog-tutorial-perfect-parties-194039116.html): Video tutorial by Bailey Dunsmore on making balloon dogs for beginners
-- [5 Tips to prep like a pro and avoid DIY disasters](https://creators.yahoo.com/lifestyle/story/5-tips-to-prep-like-a-pro-and-avoid-diy-disasters-171312092.html): DIY home improvement tips including YouTube tutorials and tool safety
+- [Yahoo News](https://news.yahoo.com/?fr=sycsrp_catchall): Yahoo News homepage with breaking headlines and current events coverage
+- [Celebrity and Entertainment](https://celebrity.yahoo.com/): Celebrity news covering Hollywood, Oscars, fashion & entertainment gossip

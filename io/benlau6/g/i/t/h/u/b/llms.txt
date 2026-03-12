@@ -1,0 +1,44 @@
+# Ben Lau's Data Science Portfolio
+
+> > Personal portfolio and knowledge base of Ben Lau, a Hong Kong-based data scientist specializing in Bayesian statistics, marketing analytics, and optimization.
+
+This site features technical notes on machine learning, Bayesian modeling (using PyMC-Marketing), and optimization problems, alongside project demonstrations. Ben Lau is a University of Hong Kong graduate with expertise in customer lifetime value, marketing mix modeling, and probabilistic programming.
+
+## Key Topics
+
+- Bayesian Statistics
+- Marketing Data Science
+- PyMC-Marketing
+- Customer Lifetime Value (CLV)
+- Marketing Mix Modeling (MMM)
+- OR-Tools Optimization
+- Survival Analysis
+- Churn Modeling
+- Machine Learning
+- Predictive Analytics
+- BG/NBD Model
+- Shifted Beta Geometric Model
+- BART Model
+- Bayesian GLM
+- Decision Trees & Random Forests
+
+## Overview
+
+- [Home](https://benlau6.github.io/): Ben Lau's homepage - data scientist from Hong Kong, UHK grad
+
+## Marketing Data Science
+
+- [Marketing](https://benlau6.github.io/notes/marketing/): Marketing data science guide: CLV, MMM, PyMC-Marketing, survival analysis
+
+## Bayesian Methods
+
+- [Conjugate Priors](https://benlau6.github.io/notes/conjugate-priors/): Bayesian conjugate priors: Beta, Bernoulli, beta-binomial distributions
+- [Anomaly Detection](https://benlau6.github.io/notes/anomaly-detection/): Anomaly detection methods: Benford's Law, Bayesian time series, clustering
+
+## Machine Learning
+
+- [Decision Trees](https://benlau6.github.io/notes/decision-trees/): Decision trees tutorial: recursive partitioning, Random Forest, boosting
+
+## Projects
+
+- [Routing Optimization using OR-Tools with Visualization](https://benlau6.github.io/projects/routing-visualization/): VRP solution using OR-Tools constraint programming with time windows

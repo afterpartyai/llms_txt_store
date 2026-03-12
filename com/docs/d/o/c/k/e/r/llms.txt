@@ -1,0 +1,56 @@
+# Docker Documentation
+
+> > Comprehensive documentation for Docker's containerization platform, including Docker Desktop, Docker Engine, Docker Hub, and AI-powered tools like Model Runner, Sandboxes, and Model Context Protocol (MCP) integration.
+
+Docker Docs provides technical documentation for container development, deployment, and management. It covers core Docker products, AI integrations including the Model Context Protocol ecosystem, and tools for running LLMs locally with Docker Model Runner and secure AI agent execution with Docker Sandboxes.
+
+## Key Topics
+
+- Docker Desktop
+- Docker Engine
+- Docker Hub
+- Model Context Protocol (MCP)
+- Docker Model Runner
+- Docker Sandboxes
+- AI agents and coding assistants
+- Container orchestration
+- Docker Compose
+- MCP Gateway and Toolkit
+- Inference engines (llama.cpp, vLLM, Diffusers)
+- Claude and AI integrations
+- Docker accounts and authentication
+- API reference and OpenAI compatibility
+- MicroVM isolation and security
+
+## Getting Started
+
+- [Docker Docs](https://docs.docker.com): Main documentation hub for Docker containerization platform and products
+- [Docker accounts](https://docs.docker.com/accounts): Guide to creating and managing Docker ID, Hub, and Desktop accounts
+
+## AI and Machine Learning
+
+- [Gordon](https://docs.docker.com/ai/gordon): AI assistant Gordon for Docker workflows, debugging, and container management
+- [Model Runner](https://docs.docker.com/ai/model-runner): Docker Model Runner for managing and running AI models locally
+- [Model Runner Configuration](https://docs.docker.com/ai/model-runner/configuration): Configure context size, runtime parameters for Docker Model Runner
+- [IDE and tool integrations](https://docs.docker.com/ai/model-runner/ide-integrations): Connect AI coding assistants and IDEs to Docker Model Runner backend
+- [Open WebUI integration](https://docs.docker.com/ai/model-runner/openwebui-integration): Set up Open WebUI as ChatGPT-like interface for Docker Model Runner
+- [Inference engines](https://docs.docker.com/ai/model-runner/inference-engines): llama.cpp, vLLM, and Diffusers inference engines in Model Runner
+
+## Model Context Protocol (MCP)
+
+- [MCP Catalog and Toolkit](https://docs.docker.com/ai/mcp-catalog-and-toolkit): Overview of Docker's Model Context Protocol catalog and toolkit on Hub
+- [MCP Gateway](https://docs.docker.com/ai/mcp-catalog-and-toolkit/mcp-gateway): MCP Gateway for secure orchestration of containerized AI tools via MCP
+- [MCP Toolkit UI](https://docs.docker.com/ai/mcp-catalog-and-toolkit/toolkit): MCP Toolkit UI for setting up MCP servers and clients in Docker Desktop
+- [MCP Catalog](https://docs.docker.com/ai/mcp-catalog-and-toolkit/catalog): Browse Docker's curated MCP servers catalog and create custom catalogs
+- [Hub MCP server](https://docs.docker.com/ai/mcp-catalog-and-toolkit/hub-mcp): Docker Hub MCP Server for exposing image metadata to LLMs via MCP
+- [E2B sandboxes](https://docs.docker.com/ai/mcp-catalog-and-toolkit/e2b-sandboxes): Cloud-based E2B sandboxes for AI agents with MCP Gateway integration
+
+## Docker Sandboxes
+
+- [Sandboxes Architecture](https://docs.docker.com/ai/sandboxes/architecture): Technical architecture of Docker Sandboxes microVM isolation and security
+- [AI Agents](https://docs.docker.com/ai/sandboxes/agents): AI coding agents supported by Docker Sandboxes with configuration details
+- [Migrating from legacy sandboxes](https://docs.docker.com/ai/sandboxes/migration): Migrate from container-based to microVM-based Docker Sandboxes
+
+## API Reference
+
+- [DMR REST API](https://docs.docker.com/ai/model-runner/api-reference): Docker Model Runner REST API reference with OpenAI/Anthropic compatibility

@@ -1,0 +1,58 @@
+# Vantage
+
+> > Vantage is a multi-cloud cost management and optimization platform for AWS, Azure, GCP, and AI/LLM spend tracking.
+
+Vantage provides FinOps teams and engineers with cost visibility, recommendations, and automation across cloud infrastructure and AI services. The platform supports commitment-based discounts, Kubernetes efficiency, and integrations with tools like Terraform, Jira, and Slack.
+
+## Key Topics
+
+- AWS cost optimization
+- Multi-cloud cost management
+- FinOps and cost governance
+- AI/LLM pricing and spend tracking
+- Kubernetes cost efficiency
+- Commitment-based discounts (Savings Plans, Reserved Instances)
+- Database cost optimization (RDS, Aurora)
+- Cost recommendations and automation
+- EC2 and compute pricing
+- CloudWatch and observability costs
+- Terraform infrastructure as code
+- Cursor AI coding assistant costs
+- Claude and OpenAI model pricing
+- EBS storage optimization
+- AWS Graviton processors
+
+## Platform Overview
+
+- [Vantage: Multi Cloud Cost Management & Optimization Tool](https://www.vantage.sh): Multi-cloud cost platform for AWS, Azure, GCP with AI spend tracking
+- [About Vantage](https://www.vantage.sh/about): Company mission, team, investors, and leadership info
+- [Practical Tips for Cloud Cost Governance](https://www.vantage.sh/blog/cloud-cost-governance): Cloud cost governance best practices for reporting and automation
+- [Cloud Costs Every Programmer Should Know](https://www.vantage.sh/blog/cloud-costs-every-programmer-should-know): Quick reference guide for estimating cloud infrastructure costs
+
+## AI and LLM Cost Management
+
+- [AI Cost Considerations Every Engineer Should Know](https://www.vantage.sh/blog/ai-llm-pricing-dimensions): LLM pricing guide covering tokens, models, and hidden cost multipliers
+- [Claude vs OpenAI: Pricing Considerations](https://www.vantage.sh/blog/aws-bedrock-claude-vs-azure-openai-gpt-ai-cost): Claude vs GPT cost comparison on AWS Bedrock and Azure OpenAI
+- [Vantage Launches Support for Cursor Costs](https://www.vantage.sh/blog/cursor-cost-management): Track Cursor AI coding assistant costs by developer and model
+
+## AWS Cost Optimization
+
+- [AWS Database Savings Plans Explained](https://www.vantage.sh/blog/aws-savings-plans-databases): AWS Database Savings Plans guide: up to 35% savings on RDS and Aurora
+- [Vantage Launches AWS Database Savings Plans Recommendations and FinOps Agent Support](https://www.vantage.sh/blog/aws-database-savings-plans): AWS Database Savings Plans recommendations with automated purchasing
+- [RDS vs Aurora: A Detailed Pricing Comparison](https://www.vantage.sh/blog/aws-rds-vs-aurora-pricing-in-depth): Detailed AWS RDS vs Aurora pricing and cost comparison analysis
+- [The Rise of Graviton at AWS and How You Can Save by Switching](https://www.vantage.sh/blog/aws-graviton-vs-intel): Graviton vs Intel processor comparison for AWS cost savings
+- [Save 20% on EBS Costs by Migrating from GP2 to GP3](https://www.vantage.sh/blog/ebs-gp2-to-gp3-cost-savings): AWS EBS GP2 to GP3 migration guide for 20% cost savings
+- [AWS Reserved Instance Contagion](https://www.vantage.sh/blog/aws-reserved-instances-updates): AWS Reserved Instance Marketplace changes and discount leakage issues
+- [Demystifying What's Causing AWS Config Costs](https://www.vantage.sh/blog/aws-config-pricing): Debug and optimize high AWS Config costs with detailed analysis
+- [CloudWatch Metrics Pricing Explained in Plain English](https://www.vantage.sh/blog/cloudwatch-metrics-pricing-explained-in-plain-english): AWS CloudWatch Metrics pricing breakdown and cost optimization
+
+## Product Features and Automation
+
+- [Vantage Launches Remediation Steps for Cost Recommendations](https://www.vantage.sh/blog/cost-recommendation-remediation-steps): New remediation steps feature with CLI commands for cost optimization
+- [FinOps as Code: Automating Jira Issues](https://www.vantage.sh/blog/automate-jira-issues): Automate Jira issue creation from Vantage cost recommendations via API
+- [Vantage Launches Dynamic Forecasting](https://www.vantage.sh/blog/dynamic-forecasting): Dynamic cloud cost forecasting aligned with business metrics
+
+## Optional
+
+- [How Billing Works for WorkSpaces Virtualized Desktop Infrastructure](https://www.vantage.sh/blog/amazon-aws-workspaces-pricing-billing-cost-savings-tips): AWS WorkSpaces VDI pricing model and cost optimization tips
+- [Why We Are Migrating from Bootstrap to Tailwind](https://www.vantage.sh/blog/bootstrap-tailwind-migration): Bootstrap to Tailwind CSS migration strategy and developer experience

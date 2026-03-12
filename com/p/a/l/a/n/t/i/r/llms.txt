@@ -1,0 +1,101 @@
+# Palantir
+
+> Documentation for Palantir's enterprise platforms: Foundry (data integration and analytics), AIP (AI Platform for generative AI), Gotham (defense and intelligence), and Apollo (deployment infrastructure).
+
+Palantir provides comprehensive technical documentation covering the Ontology system, Automate workflow engine, AIP Agent Studio, data connectors, and platform architecture. The documentation serves developers, architects, and administrators building AI-powered applications and data pipelines on Palantir's platforms.
+
+## Key Topics
+
+- Foundry - Data integration and application platform
+- AIP (AI Platform) - Generative AI and large language model integration
+- Ontology - Core semantic data model and object system
+- Apollo - Continuous deployment and infrastructure management
+- Gotham - Defense and intelligence platform
+- Automate - Workflow automation and event-driven actions
+- AIP Agent Studio - AI agent development and deployment
+- Multimodal Data Plane (MMDP) - Open data and compute architecture
+- Action Types - Ontology operations and side effects
+- Code Workspaces - Development environments (JupyterLab, RStudio)
+- Data Connectors - Integration with external systems (Databricks, Kinesis, REST APIs)
+- Rubix - Kubernetes substrate for platform operations
+- AIP Assist - Context-aware AI assistance
+- Model Studio - Machine learning model development
+- Flow Capture - Process mining and workflow analysis
+
+## Platform Architecture & Core Concepts
+
+- [Documentation Hub](https://www.palantir.com/docs): Central documentation hub for Foundry, Apollo, Gotham, and AIP platforms
+- [Architecture Center Overview](https://www.palantir.com/docs/foundry/architecture-center): Foundry architecture center covering platform design and capabilities
+- [AIP, Foundry, and Apollo Platforms](https://www.palantir.com/docs/foundry/architecture-center/platforms): Overview of AIP, Foundry, and Apollo platform integration
+- [The Ontology System](https://www.palantir.com/docs/foundry/architecture-center/ontology-system): Core Ontology system for representing complex interconnected decisions
+- [Multimodal Data Plane](https://www.palantir.com/docs/foundry/architecture-center/multimodal-data-plane): Palantir's Multimodal Data Plane (MMDP) open data and compute architecture
+- [AIP Architecture Overview](https://www.palantir.com/docs/foundry/architecture-center/aip-architecture): AIP platform architecture for connecting generative AI to operations
+- [The Rubix Substrate](https://www.palantir.com/docs/foundry/architecture-center/rubix): Rubix Kubernetes substrate powering AIP, Foundry, and Apollo
+- [Interoperability](https://www.palantir.com/docs/foundry/architecture-center/interoperability): AIP and Foundry interoperability with data, AI, and security systems
+
+## AIP (AI Platform) & Agent Development
+
+- [Enable AIP Features](https://www.palantir.com/docs/foundry/aip/enable-aip-features): Admin guide for enabling AIP features in Foundry enrollments
+- [AIP Agent Studio Application State](https://www.palantir.com/docs/foundry/agent-studio/application-state): Configure application variables and state for AIP Agents
+- [AIP Agent Citations](https://www.palantir.com/docs/foundry/agent-studio/citations): AIP Agent citations linking to document and Ontology source material
+- [Distribute AIP Agents via Marketplace](https://www.palantir.com/docs/foundry/agent-studio/marketplace): Distribute and share AIP Agents via Foundry Marketplace products
+- [AIP Analyst Workshop Widget](https://www.palantir.com/docs/foundry/aip-analyst/workshop-widget): Embed AIP Analyst as a Workshop widget for AI-powered analysis
+- [AIP Assist Custom Content Sources](https://www.palantir.com/docs/foundry/assist/adding-documentation-to-aip-assist): Configure and serve custom content sources in AIP Assist
+- [AIP Evals Results Dataset](https://www.palantir.com/docs/foundry/aip-evals/results-dataset): Store AIP Evals evaluation suite run results in datasets
+
+## Ontology & Action Types
+
+- [Action Types Overview](https://www.palantir.com/docs/foundry/action-types/overview): Overview of Ontology action types for modifying objects and properties
+- [Webhooks Integration](https://www.palantir.com/docs/foundry/action-types/webhooks): Webhook integration with external systems like Salesforce and SAP
+- [Set Up a Webhook](https://www.palantir.com/docs/foundry/action-types/set-up-webhook): Tutorial for setting up webhooks to connect external systems in Foundry
+- [Action Type Notifications](https://www.palantir.com/docs/foundry/action-types/notifications): Configure notifications for Foundry action types and side effects
+- [Parameter Performance Considerations](https://www.palantir.com/docs/foundry/action-types/parameter-performance-considerations): Performance optimization for action type parameter dependencies
+
+## Automate & Workflow Automation
+
+- [Automate Effects Overview](https://www.palantir.com/docs/foundry/automate/effects): Overview of Automate effects for executing triggered actions
+- [Automate Security](https://www.palantir.com/docs/foundry/automate/security): Comprehensive security and permissions controls for Automate
+- [Automate Permissions](https://www.palantir.com/docs/foundry/automate/permissions): Automate security and permissions model for automation access control
+- [Logic Effects](https://www.palantir.com/docs/foundry/automate/effect-logic): Run AIP Logic functions automatically with Automate logic effects
+- [Evaluation Frequency](https://www.palantir.com/docs/foundry/automate/evaluation-frequency): Configure Automate evaluation frequency modes for object set conditions
+- [Automation History](https://www.palantir.com/docs/foundry/automate/history): Track automation history for condition evaluation and metadata changes
+- [History Visibility and Scope](https://www.palantir.com/docs/foundry/automate/history-visibility-and-scope): Configure automation history visibility and access scope settings
+- [Muting, Pausing, and Expiration](https://www.palantir.com/docs/foundry/automate/muting-pausing-expiration): Manage automation muting, pausing, and expiration configurations
+- [Notification Settings](https://www.palantir.com/docs/foundry/automate/notification-settings): Configure user notification preferences for Automate alerts
+
+## Data Integration & Pipelines
+
+- [App Building Overview](https://www.palantir.com/docs/foundry/app-building/overview): Overview of Foundry app building tools for use case development
+- [Types of Pipelines](https://www.palantir.com/docs/foundry/building-pipelines/pipeline-types): Overview of Foundry pipeline types and their latency tradeoffs
+- [Pipeline Trigger Types Reference](https://www.palantir.com/docs/foundry/building-pipelines/triggers-reference): Reference for Foundry pipeline trigger types and scheduling options
+- [Microsoft Report Builder Getting Started](https://www.palantir.com/docs/foundry/analytics-connectivity/msft-report-builder-getting-started): Getting started with Microsoft Report Builder and Foundry authentication
+
+## Data Connectors Reference
+
+- [Databricks Connector](https://www.palantir.com/docs/foundry/available-connectors/databricks): Databricks connector for data, compute, and model integration
+- [REST APIs Connector](https://www.palantir.com/docs/foundry/available-connectors/rest-apis): REST API integration guide for external system connectivity
+- [Amazon Kinesis Connector](https://www.palantir.com/docs/foundry/available-connectors/amazon-kinesis): Connect Foundry to Amazon Kinesis for realtime stream data ingestion
+- [Splunk Connector](https://www.palantir.com/docs/foundry/available-connectors/splunk): Splunk connector for log and event data integration
+- [Presto Connector](https://www.palantir.com/docs/foundry/available-connectors/presto): Presto connector for distributed SQL query engine integration
+- [CockroachDB Connector](https://www.palantir.com/docs/foundry/available-connectors/cockroachdb): CockroachDB connector documentation for database integration
+- [Google Campaign Manager Connector](https://www.palantir.com/docs/foundry/available-connectors/google-campaign-manager): Google Campaign Manager connector for marketing data integration
+- [LinkedIn Connector](https://www.palantir.com/docs/foundry/available-connectors/linkedin): LinkedIn connector documentation for social data integration
+- [Tableau CRM Analytics Connector](https://www.palantir.com/docs/foundry/available-connectors/tableau-crm-analytics): Tableau CRM Analytics connector for analytics data integration
+- [QuickBooks POS Connector](https://www.palantir.com/docs/foundry/available-connectors/quickbooks-pos): QuickBooks POS connector for point-of-sale data integration
+- [Act! CRM Connector](https://www.palantir.com/docs/foundry/available-connectors/act!-crm): Act! CRM connector documentation and configuration reference
+
+## Code Examples & Development
+
+- [Foundry APIs Local Environment](https://www.palantir.com/docs/foundry/code-examples/foundry-apis-local-environment): Foundry API code examples for local development environment
+- [Dataset Metadata Operations](https://www.palantir.com/docs/foundry/code-examples/dataset-metadata-operations-local-environment): Code examples for dataset metadata operations in local environment
+- [Graph and Tree Functions on Objects](https://www.palantir.com/docs/foundry/code-examples/graph-and-tree-structured-datasets-functions-on-objects): Code examples for graph traversal and tree structure operations
+- [Graph and Tree Transforms](https://www.palantir.com/docs/foundry/code-examples/graph-and-tree-structured-datasets-transforms): PySpark transforms for flattening hierarchical tree data structures
+
+## Optional
+
+- [April 2025 Announcements](https://www.palantir.com/docs/foundry/announcements/2025-04): April 2025 platform updates and feature announcements for Foundry
+- [May 2025 Announcements](https://www.palantir.com/docs/foundry/announcements/2025-05): May 2025 platform updates and feature announcements for Foundry
+- [October 2025 Announcements](https://www.palantir.com/docs/foundry/announcements/2025-10): October 2025 platform updates and release announcements
+- [January 2026 Announcements](https://www.palantir.com/docs/foundry/announcements/2026-01): January 2026 Foundry platform updates and announcements
+- [February 2026 Announcements](https://www.palantir.com/docs/foundry/announcements/2026-02): February 2026 platform release announcements and updates
+- [Directory Connector (Legacy)](https://www.palantir.com/docs/foundry/available-connectors/directory): Legacy Directory connector documentation (sunset connector)

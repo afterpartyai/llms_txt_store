@@ -1,0 +1,45 @@
+# duckplyr
+
+> > A DuckDB-backed drop-in replacement for dplyr that accelerates data manipulation in R with automatic fallback to standard dplyr behavior.
+
+duckplyr is an R package that provides a DuckDB-powered implementation of dplyr verbs, offering significant performance improvements for data frame operations while maintaining full compatibility with the tidyverse ecosystem. When DuckDB cannot execute an operation, duckplyr automatically falls back to standard dplyr execution.
+
+## Key Topics
+
+- DuckDB integration
+- dplyr compatibility
+- Fallback mechanism
+- Lazy evaluation
+- Query execution
+- Data frame operations
+- Performance optimization
+- duckplyr_df objects
+- Automatic materialization
+- DuckDB translations
+- S3 methods
+- tidyverse ecosystem
+- Relation objects
+- Memory protection
+- dbplyr and dtplyr
+
+## Getting Started
+
+- [A DuckDB-Backed Version of dplyr](https://duckplyr.tidyverse.org/dev): Homepage for duckplyr: DuckDB-powered drop-in replacement for dplyr
+- [Convert to a duckplyr data frame](https://duckplyr.tidyverse.org/reference/as_duckplyr_df.html): API reference for converting data frames to duckplyr_df objects
+- [Configuration options](https://duckplyr.tidyverse.org/reference/config.html): Reference for duckplyr environment variables and configuration options
+
+## Core Concepts
+
+- [Fallback to dplyr](https://duckplyr.tidyverse.org/articles/fallback.html): Explains duckplyr's fallback mechanism to dplyr when DuckDB can't execute
+- [Translations](https://duckplyr.tidyverse.org/articles/limits.html): Documents DuckDB translation support for data types and dplyr verbs
+- [Memory protection: controlling automatic materialization](https://duckplyr.tidyverse.org/articles/prudence.html): Guide to controlling automatic materialization for memory protection
+
+## Data Manipulation Reference
+
+- [Create, modify, and delete columns](https://duckplyr.tidyverse.org/reference/mutate.duckplyr_df.html): API reference for mutate() method on duckplyr_df objects
+- [Subset rows using their positions](https://duckplyr.tidyverse.org/reference/slice_head.duckplyr_df.html): API reference for slice_head() method on duckplyr_df objects
+- [Union](https://duckplyr.tidyverse.org/reference/union.duckplyr_df.html): API reference for union() set operation on duckplyr_df objects
+
+## Data I/O
+
+- [Read files using DuckDB](https://duckplyr.tidyverse.org/reference/read_file_duckdb.html): API reference for reading files with DuckDB table functions

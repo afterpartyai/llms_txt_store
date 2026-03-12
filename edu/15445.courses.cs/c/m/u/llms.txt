@@ -1,0 +1,47 @@
+# CMU 15-445/645: Intro to Database Systems
+
+> > Carnegie Mellon University's comprehensive database systems course covering SQL, ACID transactions, storage engines, and hands-on implementation through the BusTub DBMS project.
+
+This course, taught by Andy Pavlo, Jignesh Patel, and others at CMU's School of Computer Science, provides both undergraduate (15-445) and graduate (15-645) level instruction in database internals. Students implement core database components in C++ including buffer pool managers, B+Trees, and query execution engines using the BusTub educational database system.
+
+## Key Topics
+
+- Database Systems
+- SQL
+- BusTub DBMS
+- C++ Implementation
+- Buffer Pool Management
+- B+Tree Indexing
+- ACID Transactions
+- Query Execution
+- Storage Engines
+- Database Internals
+- CMU 15-445/645
+- Andy Pavlo
+- Gradescope
+- ARC Replacement Policy
+
+## Current Course (Spring 2026)
+
+- [Spring 2026 Homepage](https://15445.courses.cs.cmu.edu/spring2026): Current course homepage with instructors Pavlo, Patel, and Chopra
+- [Syllabus](https://15445.courses.cs.cmu.edu/spring2026/syllabus.html): Course objectives, BusTub projects, grading policy, and prerequisites
+- [Schedule](https://15445.courses.cs.cmu.edu/spring2026/schedule.html): Lecture schedule covering SQL, storage engines, buffer pools, and indexing
+- [Assignments](https://15445.courses.cs.cmu.edu/spring2026/assignments.html): SQL and C++ homework/project assignments with submission deadlines
+- [FAQ](https://15445.courses.cs.cmu.edu/spring2026/faq.html): Frequently asked questions about enrollment, prerequisites, and project logistics
+
+## Projects & Homework
+
+- [Homework #1 - SQL](https://15445.courses.cs.cmu.edu/spring2026/homework1): SQL queries using MusicBrainz dataset with SQLite and DuckDB
+- [Project #0 - C++ Primer](https://15445.courses.cs.cmu.edu/spring2026/project0): C++17 primer project for BusTub DBMS prerequisite assessment
+- [Project #1 - Buffer Pool Manager](https://15445.courses.cs.cmu.edu/spring2026/project1): Implement buffer pool manager with ARC replacement policy in BusTub
+
+## Previous Semesters
+
+- [Fall 2023 Homepage](https://15445.courses.cs.cmu.edu/fall2023): Fall 2023 course homepage taught by Andy Pavlo and Jignesh Patel
+- [Fall 2023 Syllabus](https://15445.courses.cs.cmu.edu/fall2023/syllabus.html): Fall 2023 syllabus covering SQL, ACID, and database internals
+- [Spring 2023 FAQ](https://15445.courses.cs.cmu.edu/spring2023/faq.html): Spring 2023 FAQ on enrollment, BusTub testing, and C++ requirements
+- [Fall 2022 Assignments](https://15445.courses.cs.cmu.edu/fall2022/assignments.html): Fall 2022 SQL and C++ homework/projects including B+Tree implementation
+- [Fall 2022 FAQ](https://15445.courses.cs.cmu.edu/fall2022/faq.html): Fall 2022 FAQ covering enrollment, BusTub project, and C++ requirements
+- [Fall 2020 Syllabus](https://15445.courses.cs.cmu.edu/fall2020/syllabus.html): Fall 2020 course syllabus with grading, prerequisites, and objectives
+- [Fall 2019 Schedule](https://15445.courses.cs.cmu.edu/fall2019/schedule.html): Fall 2019 course schedule with slides, lecture notes, and videos
+- [Fall 2017 Assignments](https://15445.courses.cs.cmu.edu/fall2017/assignments.html): Fall 2017 homework and project assignments including B+Tree implementation

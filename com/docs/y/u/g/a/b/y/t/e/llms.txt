@@ -1,0 +1,55 @@
+# YugabyteDB Documentation
+
+> > Official documentation for YugabyteDB, a distributed SQL database with PostgreSQL-compatible YSQL and Cassandra-compatible YCQL APIs, built on DocDB storage engine with Raft consensus.
+
+YugabyteDB Docs provides comprehensive guides for deploying and managing YugabyteDB clusters across cloud and on-premises environments. The documentation covers both SQL APIs (YSQL for PostgreSQL compatibility and YCQL for Cassandra compatibility), distributed architecture, replication strategies, and operational tooling including YugabyteDB Aeon (managed cloud service) and YugabyteDB Anywhere (self-managed platform).
+
+## Key Topics
+
+- YugabyteDB - Distributed SQL database platform
+- YSQL - PostgreSQL-compatible SQL API
+- YCQL - Cassandra Query Language compatible API
+- DocDB - Distributed document storage engine
+- Raft - Consensus protocol for replication
+- xCluster - Async replication for multi-region
+- ysqlsh - PostgreSQL-compatible CLI tool
+- ycqlsh - Cassandra-compatible CLI tool
+- PL/pgSQL - Procedural language for stored programs
+- YugabyteDB Aeon - Managed cloud service
+- PostgreSQL extensions - pg_cron, file_fdw, and others
+- Change Data Capture (CDC) - Stream database changes
+- Kubernetes - Container orchestration support
+- Distributed SQL - Horizontally scalable ACID transactions
+- Database replication - Synchronous and asynchronous strategies
+
+## Getting Started
+
+- [YugabyteDB Docs](https://docs.yugabyte.com): Main documentation hub for YugabyteDB distributed SQL database
+- [YugabyteDB Stable Documentation](https://docs.yugabyte.com/stable): YugabyteDB stable version docs for database, Aeon, and Anywhere
+
+## API Reference
+
+- [YugabyteDB API Reference](https://docs.yugabyte.com/stable/api): API reference for YSQL (PostgreSQL) and YCQL (Cassandra) interfaces
+- [YCQL Grammar Diagrams](https://docs.yugabyte.com/stable/api/ycql/grammar_diagrams): YCQL grammar diagrams for Cassandra Query Language syntax rules
+- [CREATE KEYSPACE Statement](https://docs.yugabyte.com/stable/api/ycql/ddl_create_keyspace): YCQL CREATE KEYSPACE syntax for database schema organization
+- [ALTER ROLE Statement](https://docs.yugabyte.com/stable/api/ycql/ddl_alter_role): YCQL ALTER ROLE syntax for modifying role properties and authentication
+- [GRANT PERMISSION Statement](https://docs.yugabyte.com/stable/api/ycql/ddl_grant_permission): YCQL GRANT PERMISSION syntax for role-based access control
+- [USE Statement](https://docs.yugabyte.com/stable/api/ycql/ddl_use): YCQL USE statement for setting default keyspace in ycqlsh sessions
+- [YCQL Operators](https://docs.yugabyte.com/stable/api/ycql/expr_ocall): YCQL operators reference: comparison, logical, and null operators
+- [JSONB Data Type](https://docs.yugabyte.com/stable/api/ycql/type_jsonb): YCQL JSONB data type for flexible schema-less JSON storage
+- [Collection Data Types](https://docs.yugabyte.com/stable/api/ycql/type_collection): YCQL collection types: MAP, LIST, and SET for multi-value columns
+- [YSQL Cursors](https://docs.yugabyte.com/stable/api/ysql/cursors): YSQL cursors guide for SQL and PL/pgSQL result set manipulation
+- [User-Defined Subprograms](https://docs.yugabyte.com/stable/api/ysql/user-defined-subprograms-and-anon-blocks): YSQL stored procedures, functions, and PL/pgSQL anonymous blocks guide
+- [ysqlsh Meta-Commands](https://docs.yugabyte.com/stable/api/ysqlsh-meta-commands): ysqlsh CLI meta-commands reference for database administration
+- [ysqlsh Meta-Command Examples](https://docs.yugabyte.com/stable/api/ysqlsh-meta-examples): ysqlsh meta-command examples including crosstabview and pset usage
+
+## Architecture and Replication
+
+- [xCluster Async Replication](https://docs.yugabyte.com/stable/architecture/docdb-replication/async-replication): xCluster async replication architecture for multi-region deployments
+- [Raft Consensus Protocol](https://docs.yugabyte.com/stable/architecture/docdb-replication/raft): Raft consensus protocol for fault-tolerant replication in DocDB
+
+## Advanced Features
+
+- [Change Data Capture (CDC)](https://docs.yugabyte.com/stable/additional-features/change-data-capture): CDC guide for capturing database changes with Kafka Connect integration
+- [pg_cron Extension](https://docs.yugabyte.com/stable/additional-features/pg-extensions/extension-pgcron): pg_cron extension guide for scheduling database jobs in YugabyteDB
+- [file_fdw Extension](https://docs.yugabyte.com/stable/additional-features/pg-extensions/extension-file-fdw): PostgreSQL file_fdw extension for accessing CSV files as foreign tables

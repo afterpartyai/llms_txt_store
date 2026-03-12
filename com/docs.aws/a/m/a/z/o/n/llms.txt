@@ -1,50 +1,53 @@
 # AWS Documentation
 
-> > Comprehensive technical documentation for Amazon Web Services (AWS) cloud computing platform, including EC2, CloudFormation, S3, Timestream, and SDKs.
+> > Comprehensive technical documentation for Amazon Web Services, covering IAM Access Analyzer API reference, policy generation, access control configuration, and resource analysis.
 
-This site provides official documentation for AWS services including compute (Amazon EC2), infrastructure-as-code (AWS CloudFormation), storage (Amazon S3), time-series databases (Amazon Timestream with InfluxDB 3), and developer SDKs. Documentation includes user guides, API references, troubleshooting resources, and best practices for cloud infrastructure management.
+This documentation provides detailed API references for AWS IAM Access Analyzer, a service that helps identify resources shared with external entities and generates least-privilege policies from CloudTrail logs. The documentation covers data structures, operations, and configuration types for analyzing access to S3, DynamoDB, EBS, SNS, and IAM resources.
 
 ## Key Topics
 
-- Amazon EC2 (Elastic Compute Cloud)
-- AWS CloudFormation
-- Amazon S3
-- Amazon Timestream
-- InfluxDB 3
-- Virtual servers and instance types
-- AWS SDK for Java
-- Amazon EBS (Elastic Block Store)
-- EC2 Auto Scaling
-- Infrastructure as Code
-- Cloud resource management
-- JSON templates and syntax
-- Blue/green deployments
-- Reserved Instances
-- Time-series databases
+- IAM Access Analyzer
+- Policy Generation
+- Access Control Configuration
+- Resource Analysis
+- CloudTrail Integration
+- S3 Bucket Security
+- Unused Access Detection
+- Archive Rules
+- Trust Policies
+- ACL Management
+- API Reference
+- AWS SDK Integration
+- ARN-based Resource Identification
+- JSON Policy Paths
+- Finding Recommendations
 
-## Core Services
+## Core API Operations
 
-- [What is Amazon EC2? - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html): Overview of Amazon EC2 virtual server service with features and pricing
-- [Amazon EC2 instances - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Instances.html): EC2 instance lifecycle, types, and management overview
-- [Amazon EC2 instance type changes - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-resize.html): How to resize EC2 instances and change instance types
-- [About blue/green deployments - AWS CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/about-blue-green-deployments.html): CloudFormation blue/green deployment guide with CodeDeploy and ECS
-- [Service configurations for resource groups - AWS Resource Groups](https://docs.aws.amazon.com/ARG/latest/userguide/about-slg.html): Configuring service-linked resource groups with JSON syntax
+- [StartPolicyGeneration - IAM Access Analyzer](https://docs.aws.amazon.com/access-analyzer/latest/APIReference/API_StartPolicyGeneration.html): API operation to start IAM policy generation from CloudTrail logs
+- [GetAnalyzedResource - IAM Access Analyzer](https://docs.aws.amazon.com/access-analyzer/latest/APIReference/API_GetAnalyzedResource.html): API operation to retrieve analyzed resource info by ARN
+- [ListAnalyzedResources - IAM Access Analyzer](https://docs.aws.amazon.com/access-analyzer/latest/APIReference/API_ListAnalyzedResources.html): API operation to retrieve list of analyzed S3, IAM, SQS resources
+- [GenerateFindingRecommendation - IAM Access Analyzer](https://docs.aws.amazon.com/access-analyzer/latest/APIReference/API_GenerateFindingRecommendation.html): API operation to create recommendations for unused permissions findings
+- [DeleteArchiveRule - IAM Access Analyzer](https://docs.aws.amazon.com/access-analyzer/latest/APIReference/API_DeleteArchiveRule.html): API operation to delete archive rules in IAM Access Analyzer
 
-## API Reference & SDKs
+## Analyzer and Job Management
 
-- [AWS SDK for Java - 1.12.797](https://docs.aws.amazon.com/AWSJavaSDK/latest/javadoc): Java SDK API reference documentation (javadoc) for version 1.12.797
-- [AWS::Kendra::Faq - AWS CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/TemplateReference/aws-resource-kendra-faq.html): CloudFormation resource reference for creating Kendra FAQ documents
+- [AnalyzerSummary - IAM Access Analyzer](https://docs.aws.amazon.com/access-analyzer/latest/APIReference/API_AnalyzerSummary.html): API data structure containing IAM Access Analyzer metadata and config
+- [JobDetails - IAM Access Analyzer](https://docs.aws.amazon.com/access-analyzer/latest/APIReference/API_JobDetails.html): API data type containing policy generation job status and details
+- [PolicyGeneration - IAM Access Analyzer](https://docs.aws.amazon.com/access-analyzer/latest/APIReference/API_PolicyGeneration.html): API data structure for policy generation status and properties
+- [AccessPreview - IAM Access Analyzer](https://docs.aws.amazon.com/access-analyzer/latest/APIReference/API_AccessPreview.html): API data structure for IAM Access Analyzer access preview configuration
+- [UnusedAccessConfiguration - IAM Access Analyzer](https://docs.aws.amazon.com/access-analyzer/latest/APIReference/API_UnusedAccessConfiguration.html): API data type for unused access analyzer configuration and rules
 
-## Amazon Timestream & InfluxDB
+## Resource Configuration Types
 
-- [General FAQ for Amazon Timestream for InfluxDB 3 - Amazon Timestream](https://docs.aws.amazon.com/timestream/latest/developerguide/faq-general.html): General InfluxDB 3 FAQ covering architecture and editions
-- [Storage and billing FAQ for Amazon Timestream for InfluxDB 3 - Amazon Timestream](https://docs.aws.amazon.com/timestream/latest/developerguide/faq-storage-billing.html): Timestream InfluxDB 3 storage architecture and billing FAQ
-- [Schema design FAQ for Amazon Timestream for InfluxDB 3 - Amazon Timestream](https://docs.aws.amazon.com/timestream/latest/developerguide/faq-schema-design.html): InfluxDB 3 schema design FAQ with tags, fields, and best practices
+- [S3BucketConfiguration - IAM Access Analyzer](https://docs.aws.amazon.com/access-analyzer/latest/APIReference/API_S3BucketConfiguration.html): API type for proposing S3 bucket policy, ACL, and access point config
+- [IamRoleConfiguration - IAM Access Analyzer](https://docs.aws.amazon.com/access-analyzer/latest/APIReference/API_IamRoleConfiguration.html): API type for proposing IAM role trust policy configuration
+- [DynamodbTableConfiguration - IAM Access Analyzer](https://docs.aws.amazon.com/access-analyzer/latest/APIReference/API_DynamodbTableConfiguration.html): API type for proposing DynamoDB table/index access control configuration
+- [EbsSnapshotConfiguration - IAM Access Analyzer](https://docs.aws.amazon.com/access-analyzer/latest/APIReference/API_EbsSnapshotConfiguration.html): API type for proposing EBS snapshot access control with KMS encryption
+- [SnsTopicConfiguration - IAM Access Analyzer](https://docs.aws.amazon.com/access-analyzer/latest/APIReference/API_SnsTopicConfiguration.html): API type for proposing SNS topic policy access control configuration
 
-## Troubleshooting & Support
+## Data Structures and Types
 
-- [Troubleshooting CloudFormation - AWS CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/troubleshooting.html): CloudFormation troubleshooting guide for stack errors and failures
-
-## Optional
-
-- [Sell Reserved Instances for Amazon EC2 in the Reserved Instance Marketplace - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ri-market-general.html): Guide to selling EC2 Reserved Instances in the marketplace
+- [AclGrantee - IAM Access Analyzer](https://docs.aws.amazon.com/access-analyzer/latest/APIReference/API_AclGrantee.html): API union type for specifying S3 ACL grantee in Access Analyzer
+- [Location - IAM Access Analyzer](https://docs.aws.amazon.com/access-analyzer/latest/APIReference/API_Location.html): API data structure for policy JSON path location and span
+- [PathElement - IAM Access Analyzer](https://docs.aws.amazon.com/access-analyzer/latest/APIReference/API_PathElement.html): API union type representing single element in policy JSON path

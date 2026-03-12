@@ -1,0 +1,41 @@
+# iDiTect
+
+> Professional .NET SDK libraries for PDF, Excel, and Word document processing, manipulation, and conversion with royalty-free licensing.
+
+iDiTect provides comprehensive .NET SDKs (iDiTect.PDF, iDiTect.Excel, iDiTect.Word, iDiTect.Converter) for developers to programmatically create, edit, and convert Microsoft Office and PDF documents in C# applications. The site also offers extensive FAQ resources covering common development challenges in document processing, WinForms, WPF, and Python.
+
+## Key Topics
+
+- iDiTect.PDF - PDF manipulation library
+- iDiTect.Excel - Excel processing SDK
+- iDiTect.Word - Word document API
+- iDiTect.Converter - Document conversion tools
+- .NET SDK and C# libraries
+- PDF manipulation and editing
+- Excel API and spreadsheet processing
+- Word API and document automation
+- Document conversion and format transformation
+- Office automation with .NET
+- Royalty-free licensing model
+- WinForms and WPF integration
+- DataGridView printing solutions
+- Entity Framework serialization
+- EPPlus and in-memory Excel processing
+
+## Product Overview
+
+- [.NET PDF & Excel Document SDK - Edit and Modify PDF and Microsoft Office Excl/Word by iDiTect.com](https://www.iditect.com/): Homepage for iDiTect .NET SDK products for PDF, Word, Excel processing
+
+## C# and .NET Development FAQ
+
+- [Read an Excel spreadsheet in memory using C#](https://www.iditect.com/faq/csharp/read-an-excel-spreadsheet-in-memory-using-c.html): FAQ: Reading Excel files in-memory with C# using EPPlus library
+- [Entity to json error - A circular reference was detected while serializing an object of type](https://www.iditect.com/faq/csharp/entity-to-json-error--a-circular-reference-was-detected-while-serializing-an-object-of-type.html): FAQ: Fixing circular reference errors in Entity Framework JSON serialization
+- [Best way to print a datagridview with all rows and all columns in C#?](https://www.iditect.com/faq/csharp/best-way-to-print-a-datagridview-with-all-rows-and-all-columns-in-c.html): FAQ: Printing DataGridView with all rows/columns using C# PrintDocument
+
+## Python Development FAQ
+
+- [Difference between __getattr__ and __getattribute__ in python](https://www.iditect.com/faq/python/difference-between-getattr-and-getattribute-in-python.html): FAQ: Python magic methods __getattr__ vs __getattribute__ explained
+
+## Optional
+
+- [.NET PDF & Excel Document SDK (xranks referral)](https://www.iditect.com/?ref=xranks): Homepage variant with xranks referral parameter

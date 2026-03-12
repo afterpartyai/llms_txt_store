@@ -1,0 +1,58 @@
+# PostgreSQL
+
+> > The world's most advanced open source relational database system, maintained by the PostgreSQL Global Development Group with a vibrant global community.
+
+PostgreSQL is a powerful, enterprise-class open source database that supports both SQL and JSON querying. The site provides official documentation, downloads, community events, and resources for developers and database administrators worldwide.
+
+## Key Topics
+
+- PostgreSQL database
+- Open source RDBMS
+- SQL and JSON support
+- PostgreSQL Global Development Group
+- Community events and conferences
+- PGConf and PGDay events
+- PostgreSQL releases and versions
+- Database features and extensions
+- PostGIS spatial database
+- Corporate sponsors (Crunchy Data, EDB, Microsoft)
+- PostgreSQL Europe
+- Community Code of Conduct
+- Database administration
+- PostgreSQL development
+- Feature matrix and version comparison
+
+## Getting Started
+
+- [PostgreSQL Homepage](https://www.postgresql.org): PostgreSQL homepage with releases, events, and community resources
+
+## Documentation and Reference
+
+- [Feature Matrix](https://www.postgresql.org/about/featurematrix): Feature comparison matrix across PostgreSQL versions
+- [64-bit Large Objects Feature](https://www.postgresql.org/about/featurematrix/detail/64-bit-large-objects): 64-bit large objects feature description and storage limits
+
+## Community and Events
+
+- [PGConf.EU 2024](https://www.postgresql.org/about/event/pgconfeu-2024-2507): PostgreSQL Conference Europe 2024 in Athens, Greece with training
+- [PostgreSQL Development Conference 2026 (pgconf.dev)](https://www.postgresql.org/about/event/postgresql-development-conference-2026-pgconfdev-2543): PostgreSQL Development Conference 2026 in Vancouver for contributors
+- [Postgres Extensions Day 2025](https://www.postgresql.org/about/event/postgres-extensions-day-2025-2536): Postgres Extensions Day 2025 in Montreal with CFP for extension devs
+- [PostGIS Day 2025](https://www.postgresql.org/about/event/postgis-day-2025-2557): PostGIS Day 2025 online geospatial event on Zoom and YouTube
+- [FOSSASIA PGDay 2026](https://www.postgresql.org/about/event/fossasia-pgday-2026-2563): FOSSASIA PGDay 2026 conference in Bangkok with CFP and sponsors
+- [PG Down Under 2025](https://www.postgresql.org/about/event/pg-down-under-2025-2547): PG Down Under 2025 conference in Sydney with CFP and sponsorships
+- [PGDay Chicago 2024](https://www.postgresql.org/about/event/pgday-chicago-2024-2493): PGDay Chicago 2024 community event for PostgreSQL users
+
+## Contributing and Sponsors
+
+- [Contributing Sponsors](https://www.postgresql.org/about/contributing): List of corporate sponsors including Crunchy Data, EDB, and Microsoft
+
+## Optional
+
+- [HOW2026: PostgreSQL & IvorySQL Ecosystem Conference](https://www.postgresql.org/about/event/how2026-postgresql-ivorysql-ecosystem-conference-2575): HOW2026 PostgreSQL & IvorySQL ecosystem conference in Jinan, China
+- [PG BootCamp Russia 2026](https://www.postgresql.org/about/event/pg-bootcamp-russia-2026-2579): PG BootCamp Russia 2026 community event in Moscow
+- [PG BootCamp Russia 2024](https://www.postgresql.org/about/event/pg-bootcamp-russia-2024-2510): PG BootCamp Russia 2024 conference in Kazan, Tatarstan
+- [PG BootCamp Russia 2023](https://www.postgresql.org/about/event/pg-bootcamp-russia-2023-2483): PG BootCamp Russia 2023 community event in Moscow
+- [Nordic PGDay 2022](https://www.postgresql.org/about/event/nordic-pgday-2022-2417): Nordic PGDay 2022 community conference in Helsinki, Finland
+- [PGDay Israel 2022](https://www.postgresql.org/about/event/pgday-israel-2022-2435): PGDay Israel 2022 community conference in Tel Aviv
+- [Postgres@CERN - PostgreSQL Meetup at CERN](https://www.postgresql.org/about/event/postgrescern-postgresql-meetup-at-cern-2447): PostgreSQL meetup at CERN in Geneva, Switzerland
+- [PGConf Silicon Valley 2015](https://www.postgresql.org/about/event/pgconf-silicon-valley-2015-1805): PGConf Silicon Valley 2015 at South San Francisco Convention Center
+- [PgTraining on line session 2021-03](https://www.postgresql.org/about/event/pgtraining-on-line-session-2021-03-2404): PgTraining online session covering sharding, PgBackRest, and JIT compiler

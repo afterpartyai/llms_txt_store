@@ -1,0 +1,61 @@
+# ssp.sh
+
+> > Data engineering blog and digital garden by Simon Späti covering modern data stack tools, workflow optimization, and knowledge management.
+
+This site features tutorials on data engineering technologies like DuckDB, Dagster, dbt, and Airbyte, alongside deep dives into productivity tools like Obsidian, Neovim, and Zettelkasten methods. Simon Späti shares practical guides, career reflections, and maintains a public second brain built with Quartz.
+
+## Key Topics
+
+- Data Engineering
+- DuckDB
+- Dagster
+- dbt
+- Airbyte
+- Obsidian
+- Second Brain
+- Knowledge Management
+- Zettelkasten
+- Data Modeling
+- Dimensional Modeling
+- Neovim/Vim
+- Python
+- SQL
+- Open Source
+
+## Getting Started
+
+- [Data Engineering Blog](https://www.ssp.sh): Homepage of Simon Späti's data engineering blog and digital garden
+- [About and Now](https://www.ssp.sh/about): About Simon Späti, SSP Data GmbH, and blog history from WordPress to GoHugo
+- [Second Brain: Crafted, Curated, Connected, Compounded](https://www.ssp.sh/brain): Digital garden and Zettelkasten knowledge vault built with Obsidian/Quartz
+
+## Data Engineering Tutorials & Guides
+
+- [Building a Data Engineering Project in 20 Minutes](https://www.ssp.sh/blog/data-engineering-project-in-twenty-minutes): Tutorial: Build a Spark/Delta Lake data pipeline with Dagster and MinIO
+- [Summer Data Engineering Roadmap](https://www.ssp.sh/blog/data-engineering-roadmap): Three-week learning path for beginners covering SQL, Git, Linux, and Python
+- [The Open Data Stack Distilled into Four Core Tools](https://www.ssp.sh/blog/open-data-stack-core-tools): Modern open-source data stack: Airbyte, dbt, Dagster, and Metabase
+- [The Data Engineering Toolkit: Essential Tools for Your Machine](https://www.ssp.sh/blog/data-engineering-toolkit): Essential toolkit guide covering Linux, Docker, and development environments
+- [The Enterprise Case for DuckDB: 5 Key Categories and Why Use It](https://www.ssp.sh/blog/enterprise-case-duckdb-key-categories): Enterprise adoption guide for DuckDB as embedded analytical OLAP database
+
+## Data Modeling & Architecture
+
+- [Data Modeling for the Agentic Era: Semantics, Speed, and Stewardship](https://www.ssp.sh/blog/agentic-data-modeling): AI-driven data modeling patterns for LLMs, GenBI, and semantic layers
+- [Activity Schema (Event-centric modeling)](https://www.ssp.sh/brain/activity-schema): Event-centric data modeling standard for Activity Stream transformations
+- [A Diary of a Data Engineer](https://www.ssp.sh/blog/diary-of-a-data-engineer): Career reflection on data warehousing evolution from SSIS to dbt and Iceberg
+
+## Knowledge Management & Productivity
+
+- [My Obsidian Note-Taking Workflow](https://www.ssp.sh/blog/obsidian-note-taking-workflow): Personal knowledge management workflow using Obsidian, Vim, and Markdown
+- [Why Vim Is More than Just an Editor – Vim Language, Motions, and Modes Explained](https://www.ssp.sh/blog/why-using-neovim-data-engineer-and-writer-2023): Vim/Neovim tutorial explaining motions, modes, and productivity benefits
+- [Add Blog/Book to my Obsidian Vault via Symlink](https://www.ssp.sh/brain/add-external-folders-git-blog-book-to-my-obsidian-vault-via-symlink): Guide to linking git repos to Obsidian vault using symlinks and wikilinks
+- [AI Orchestrators](https://www.ssp.sh/brain/ai-orchestrators): AI agent orchestration using tmux, git worktree, and Claude Code
+
+## Technical Deep Dives
+
+- [Rust for Data Engineering](https://www.ssp.sh/blog/rust-for-data-engineering): Rust programming benefits for data engineering vs Python and JavaScript
+- [ORDER BY Oracle vs. Microsoft SQL](https://www.ssp.sh/blog/order-by-oracle-vs-microsoft-sql): Database collation and SQL sorting differences between Oracle and MS SQL
+
+## Optional
+
+- [Saying Goodbye to WordPress, a Homecoming](https://www.ssp.sh/blog/why-i-moved-away-from-wordpress): Migration story from WordPress to GoHugo static site generator
+- [The more you share the more you get..](https://www.ssp.sh/blog/the-more-you-share-the-more-you-get): Personal growth through knowledge sharing and open-source collaboration
+- [Today's Office – The Location Independent Lifestyle](https://www.ssp.sh/blog/the-location-independent-lifestyle): Remote work and digital nomad lifestyle reflections from Copenhagen

@@ -1,0 +1,36 @@
+# MotherDuck Documentation
+
+> > MotherDuck is a serverless cloud data warehouse built on DuckDB, enabling SQL analytics with seamless integration across Python, Node.js, and other client APIs.
+
+MotherDuck combines the power of DuckDB's analytical engine with cloud-native features like database sharing, time-travel, and integrations with modern data tools including dbt, Fivetran, Tableau, and Power BI. The platform supports data ingestion from S3, PostgreSQL, BigQuery, and other sources while maintaining compatibility with DuckDB CLI and WebAssembly deployments.
+
+## Key Topics
+
+- MotherDuck
+- DuckDB
+- SQL analytics
+- Serverless cloud data warehouse
+- Database sharing
+- Python client API
+- Node.js integration
+- Time-travel queries
+- S3 data ingestion
+- dbt integration
+- Fivetran connector
+- Tableau and Power BI
+- Database operations
+- WebAssembly support
+- PostgreSQL and BigQuery
+
+## Getting Started
+
+- [Getting Started](https://motherduck-docs.vercel.app/docs/getting-started): MotherDuck serverless cloud data warehouse setup with DuckDB integration
+- [MotherDuck Tutorial](https://motherduck-docs.vercel.app/docs/getting-started/e2e-tutorial): End-to-end tutorial for MotherDuck and DuckDB with Python, Java, SQL
+
+## Database Operations
+
+- [Database operations](https://motherduck-docs.vercel.app/docs/key-tasks/database-operations): Database management guide covering SQL operations and time-travel features
+
+## SQL Reference
+
+- [DROP SHARE](https://motherduck-docs.vercel.app/docs/sql-reference/motherduck-sql-reference/drop-share): SQL reference for DROP SHARE command to delete shares and revoke access

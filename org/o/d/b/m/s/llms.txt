@@ -1,0 +1,43 @@
+# ODBMS.org
+
+> > A comprehensive resource portal covering operational database management systems, object-oriented databases, AI, big data, NoSQL, and data science technologies.
+
+ODBMS.org features expert interviews with industry leaders like Vint Cerf and Philippe Kahn, technical articles on database systems, and in-depth coverage of emerging technologies in database management, artificial intelligence, and cloud platforms. The site serves as a knowledge hub for database professionals, researchers, and practitioners exploring both traditional and modern data management approaches.
+
+## Key Topics
+
+- Object-Oriented Databases
+- Database Management Systems
+- Artificial Intelligence
+- Big Data
+- NoSQL
+- Machine Learning
+- Data Science
+- Cloud Platforms
+- Database Programming
+- Orthogonal Persistence
+- Concurrency Control
+- Query Optimization
+- Referential Integrity
+- BigQuery DataFrames
+- MySQL HeatWave
+
+## Home
+
+- [ODBMS.org – Operational Database Management Systems](https://www.odbms.org): Homepage for ODBMS.org covering databases, AI, big data, and NoSQL resources
+
+## Database Architecture & Design
+
+- [Hitting the Relational Wall](https://www.odbms.org/2005/01/029-01-hitting-the-relational-wall): Andrew Wade discusses object vs relational database selection challenges
+- [Referential Integrity Is Important For Databases](https://www.odbms.org/2005/11/referential-integrity-is-important-for-databases): Michael Blaha on referential integrity constraints in OODBMS systems
+- [Achieving High Concurrency in OO Databases](https://www.odbms.org/2006/03/achieving-high-concurrency-in-oo-databases): Bob Bretl on concurrency control and transaction management in OO databases
+
+## Object-Oriented Database Programming
+
+- [Contracted Persistent Object Programming](https://www.odbms.org/2005/11/contracted-persistent-object-programming): Stephanie Balzer on orthogonal persistence in object-oriented programming
+- [Next Generation of Virtual Platforms](https://www.odbms.org/2005/10/next-generation-of-virtual-platforms): Suad Alagic on virtual platforms with parametric types and persistence
+
+## Performance & Optimization
+
+- [Optimizing And Parallelizing Loops In Object-Oriented Database Programming Languages](https://www.odbms.org/1992/01/optimizing-and-parallelizing-loops-in-object-oriented-database-programming-languages): Article by Daniel F. Lieuwen on loop optimization in OO database languages
+- [Parallel Pointer-based Join Techniques for Object-Oriented Databases](https://www.odbms.org/1993/01/parallel-pointer-based-join-techniques-for-object-oriented-databases): Research on parallel join algorithms for OO databases by Lieuwen & DeWitt

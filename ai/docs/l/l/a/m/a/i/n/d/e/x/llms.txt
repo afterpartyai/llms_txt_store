@@ -1,0 +1,27 @@
+# LlamaIndex Documentation
+
+> > Official documentation for LlamaIndex, a data framework for building LLM applications with RAG (Retrieval-Augmented Generation), agents, and workflows.
+
+LlamaIndex is a comprehensive Python and TypeScript framework for connecting custom data sources to large language models. It provides tools for data ingestion (LlamaParse), orchestration (agents and workflows), deployment (LlamaCloud), and rapid prototyping (create-llama), with extensive community support through LlamaHub.
+
+## Key Topics
+
+- LlamaIndex
+- RAG (Retrieval-Augmented Generation)
+- LLMs and Large Language Models
+- Agents
+- Workflows
+- LlamaCloud
+- LlamaParse
+- LlamaHub
+- create-llama
+- Python SDK
+- TypeScript SDK
+- Context augmentation
+- Data ingestion and indexing
+- Query engines
+- Vector stores
+
+## Getting Started
+
+- [Welcome to LlamaIndex 🦙](https://docs.llamaindex.ai/): Homepage for LlamaIndex LLM framework with RAG, agents, and workflows

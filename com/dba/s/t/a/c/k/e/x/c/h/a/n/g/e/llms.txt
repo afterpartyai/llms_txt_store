@@ -1,0 +1,60 @@
+# Database Administrators Stack Exchange
+
+> > A community-driven Q&A platform for database professionals working with SQL Server, MySQL, PostgreSQL, Oracle, and other database management systems.
+
+This site serves database administrators, developers, and engineers seeking expert answers on database design, query optimization, administration, and troubleshooting across relational and NoSQL databases. The community provides practical solutions for real-world database challenges.
+
+## Key Topics
+
+- SQL Server
+- MySQL
+- PostgreSQL
+- Oracle Database
+- Database Administration
+- Query Optimization
+- SQL
+- RDBMS
+- Index Design
+- Transactions
+- JOIN Operations
+- Database Performance
+- Oracle Forms
+- NoSQL Databases
+- Database Design
+
+## Getting Started
+
+- [Database Administrators Stack Exchange](https://dba.stackexchange.com): Homepage for SQL Server, MySQL, PostgreSQL, Oracle database Q&A community
+- [What topics can I ask about here? - Help Center](https://dba.stackexchange.com/help/on-topic): Help Center: On-topic guidelines for SQL/NoSQL database administration Q&A
+
+## SQL Server
+
+- [Enlighten me about INCLUDE on indexes](https://dba.stackexchange.com/questions/227511/enlighten-me-about-include-on-indexes): Q&A: SQL Server INCLUDE columns in filtered and nonclustered indexes
+- [Warn about table recreation on table change](https://dba.stackexchange.com/questions/50651/warn-about-table-recreation-on-table-change): Q&A: SSMS table designer warnings for schema changes requiring recreation
+- [SQL Server CASE 1 WHEN 1, WHERE 1=1 AND 1=1](https://dba.stackexchange.com/q/59086): Q&A: Understanding SQL Server CASE statements and WHERE clause syntax
+- [Single SQL query to select all customers together with all the orders](https://dba.stackexchange.com/q/210598): Q&A: SQL Server query joining customers with orders in .NET/C# context
+- [Printing bulk reports in crystal report programmatically](https://dba.stackexchange.com/q/181504): Q&A: Bulk printing Crystal Reports for students using VB.NET and SQL Server
+
+## MySQL & PostgreSQL
+
+- [About Transaction knowledge](https://dba.stackexchange.com/questions/315338/about-transaction-knowledge): Q&A: MySQL transaction basics, ACID properties, and TCL usage patterns
+- [OS agnostic connection to MySQL database via Matlab](https://dba.stackexchange.com/q/243006): Q&A: Cross-platform MySQL database connection setup in Matlab via JDBC
+- [Postgresql Query equivalent to VLookUp of Excel](https://dba.stackexchange.com/q/98007): Q&A: PostgreSQL LEFT JOIN as Excel VLOOKUP equivalent for table updates
+- [Running a script from a mongodb docker-container](https://dba.stackexchange.com/q/177576): Q&A: Running mongorestore script in Docker container with alpine-mongo
+
+## Oracle Database
+
+- [Using Oracle Forms(4.5) do_key commit_form fires which trigger](https://dba.stackexchange.com/q/51029): Q&A: Oracle Forms 4.5 do_key commit_form trigger firing behavior
+- [How can I insert into tab1 values (select * from tab2, ...) with Oracle?](https://dba.stackexchange.com/q/43513): Q&A: Oracle INSERT statement syntax with SELECT subquery
+
+## SQL Fundamentals
+
+- [Silly beginners question about joins](https://dba.stackexchange.com/questions/301684/silly-beginners-question-about-joins): Q&A: SQL INNER JOIN basics, column ordering and output selection
+
+## Optional
+
+- [Supporter - Badge](https://dba.stackexchange.com/help/badges/6/supporter): Bronze badge awarded for first upvote on Database Administrators SE
+- [sql-server-2008-r2 - Badge](https://dba.stackexchange.com/help/badges/144/sql-server-2008-r2): Gold tag badge for SQL Server 2008 R2 expertise (1000+ score)
+- [Informed - Badge](https://dba.stackexchange.com/help/badges/114/informed): Bronze badge for completing the site tour page
+- [How to replace word automatically in excel](https://dba.stackexchange.com/q/226307): Q&A: Auto-replace text in Excel using VBA Worksheet.Change Event
+- [How to set Referrer in driver selenium python?](https://dba.stackexchange.com/a/242373): Q&A: Setting HTTP referrer header in Selenium Python with Selenium Wire

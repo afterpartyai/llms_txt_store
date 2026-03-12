@@ -1,0 +1,31 @@
+# staticnotes.org
+
+> > A technical blog covering UK housing market analysis, data visualization, and software development tutorials
+
+staticnotes.org features data-driven analysis of UK property markets using official sources like HM Land Registry and ONS, alongside practical developer guides for Git, SSH, and Python testing workflows.
+
+## Key Topics
+
+- UK housing market analysis
+- HM Land Registry data
+- Office for National Statistics (ONS)
+- Real house prices and inflation adjustment
+- UK House Price Index
+- London property market
+- SSH key configuration
+- Github authentication
+- pytest testing workflows
+- ed25519 cryptography
+- Property data analysis
+- Housing statistics
+- Git configuration
+- Multiple account setup
+
+## UK Housing Market Analysis
+
+- [UK house price changes in real terms](https://staticnotes.org/posts/uk-house-prices): Analysis of UK house prices using HM Land Registry & ONS inflation data
+
+## Developer Tutorials (TIL)
+
+- [TIL how to set up multiple SSH keys (for multiple Github accounts)](https://staticnotes.org/til/2025/11/how-to-set-up-multiple-ssh-keys): Tutorial on configuring multiple SSH keys for different Github accounts
+- [TIL how to re-run only failed tests](https://staticnotes.org/til/2025/11/pytest-rerun-failed): Guide to re-running failed pytest tests in Python development workflow

@@ -1,0 +1,58 @@
+# Kanaries Documentation
+
+> > Technical documentation and guides for RATH, data visualization, AI-powered analytics, and data science workflows using Python, ChatGPT, and automated EDA tools.
+
+Kanaries provides comprehensive documentation for RATH (an automated exploratory data analysis tool), along with tutorials on integrating AI language models like ChatGPT with data analysis workflows, machine learning projects, and modern data visualization techniques. The documentation covers both beginner-friendly guides and advanced technical implementations for data scientists and analysts.
+
+## Key Topics
+
+- RATH
+- Automated EDA
+- Data Visualization
+- ChatGPT Integration
+- Python Data Analysis
+- Augmented Analytics
+- Machine Learning
+- Business Intelligence
+- Jupyter Notebooks
+- AI Language Models
+- Data Cleansing
+- Agent Communication
+- SQL Analytics
+- Data-Driven Decisions
+- A2A Protocol
+
+## AI-Powered Data Analysis
+
+- [How to Use ChatGPT to Enhance Data Analysis Workflow](https://docs.kanaries.net/articles/chatgpt-data-analysis.en): Guide to using ChatGPT for data analysis workflow enhancement with RATH
+- [Streamline Data Cleansing with ChatGPT](https://docs.kanaries.net/articles/chatgpt-data-cleansing): ChatGPT data cleansing tutorial for Excel and Python workflows
+- [AI Agent Turns Jupyter Notebook Into a Data Science Co-Pilot](https://docs.kanaries.net/articles/jupyter-ai-runcell): Runcell AI agent for Jupyter Notebook autonomous data science automation
+- [Augmented Analytics Explained: Benefits, Use Cases, and Challenges](https://docs.kanaries.net/articles/augmented-analytics): AI/ML-powered augmented analytics guide covering benefits and use cases
+- [Automate Your Decision-Making with ChatGPT](https://docs.kanaries.net/articles/chatgpt-auto-decision-making): ChatGPT automated decision-making applications and industry use cases
+
+## Data Analysis & Visualization Tools
+
+- [[Explained] Pandas Profiling for Exploratory Data Analysis](https://docs.kanaries.net/articles/data-analysis-pandas-profiing): Python EDA tutorial comparing Pandas Profiling and RATH for data analysis
+- [ClickHouse Visualization: A Comprehensive Guide](https://docs.kanaries.net/articles/clickhouse-visualization): Comprehensive guide to ClickHouse visualization with Redash, Metabase, RATH
+- [Best Data Visualization Examples 2025](https://docs.kanaries.net/articles/data-visualization-examples): 2025 data visualization examples, tools, and trends across industries
+- [Dynamic Data Visualization: Unleashing Insights in Motion](https://docs.kanaries.net/articles/dynamic-data-visualization): Dynamic data visualization guide with Python, animated graphs, and real-time
+
+## AI Development & Integration
+
+- [How to Build Two Python Agents with Google's A2A Protocol - Step by Step Tutorial](https://docs.kanaries.net/articles/build-agent-with-a2a): Step-by-step tutorial for building Python agents with Google's A2A protocol
+- [How to Run GPT4All Locally: Harness the Power of AI Chatbots](https://docs.kanaries.net/articles/gpt4all): GPT4All local LLM installation guide for offline AI chatbot deployment
+- [How to Use Google Bard API in Python: a Quick Guide](https://docs.kanaries.net/articles/google-bard-api): Quick guide to using Google Bard API in Python with Bard-API integration
+- [Top 10 Simple Machine Learning Projects for Students and Beginners](https://docs.kanaries.net/articles/machine-learning-projects): 10 beginner ML projects with Python source code for students and learners
+
+## Industry Comparisons & Analysis
+
+- [Databricks vs Snowflake, Which is Better in 2025?](https://docs.kanaries.net/articles/databricks-vs-snowflake): Databricks vs Snowflake comparison for cloud data platforms and Apache Spark
+- [IllaCloud vs Retool: Which is the Better Low-Code Platform?](https://docs.kanaries.net/articles/illacloud-vs-retool-low-code): IllaCloud vs Retool low-code platform comparison for developers and RATH
+- [Distributed Database vs. Database Plus: A Critical Comparison](https://docs.kanaries.net/articles/distributed-database-vs-database-plus): Critical comparison of distributed databases vs Database Plus architectures
+- [Why DeepSeek Emerges as China's Most Promising AI Pioneer Amidst a Crowded and Troubled Landscape](https://docs.kanaries.net/articles/deepseek-vs-other-chinese-llm): DeepSeek analysis vs Chinese AI giants and 'AI Six Dragons' landscape
+
+## Optional
+
+- [OpenAI's Huge Update for GPT-4 API and ChatGPT Code Interpreter](https://docs.kanaries.net/articles/gpt-4-api): OpenAI GPT-4 API and ChatGPT Code Interpreter update announcement analysis
+- [Best GPT-4 Examples that Blow Your Mind for ChatGPT](https://docs.kanaries.net/articles/gpt-4-chatgpt-examples): GPT-4 and ChatGPT real-world examples for code, websites, and games
+- [Outsmarting AI How to Bypass ChatGPT Detection with GPT Zero](https://docs.kanaries.net/articles/bypass-chatgpt-detection): Strategies and tools for bypassing ChatGPT and GPT Zero AI detection

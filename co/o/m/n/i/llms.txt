@@ -1,0 +1,64 @@
+# Omni Analytics
+
+> > Omni Analytics is an AI-powered business intelligence platform built on semantic layers, offering self-service analytics, embedded dashboards, and deep integrations with Snowflake, dbt, and modern data stacks.
+
+Omni provides a code-first BI platform that combines SQL-based semantic modeling with AI assistants like Blobby, enabling product teams and data professionals to build scalable analytics workflows. The platform emphasizes developer productivity, aggregate awareness for query performance, and embedded analytics solutions for customer-facing applications.
+
+## Key Topics
+
+- Business Intelligence (BI)
+- Self-Service Analytics
+- Embedded Analytics
+- AI Analytics & Agentic AI
+- Semantic Layer & Data Modeling
+- SQL & Query Optimization
+- Snowflake Integration
+- dbt Integration
+- Aggregate Awareness
+- Apache Arrow
+- Open Semantic Interchange (OSI)
+- MCP Server
+- Customer Health Scoring
+- Data Stack Architecture
+- Workbooks & Dashboards
+
+## Platform Overview
+
+- [The AI analytics platform - Omni Analytics](https://omni.co): Homepage for Omni Analytics AI-powered data analytics platform
+- [Announcing the Open Semantic Interchange (OSI) - Omni Analytics](https://omni.co/blog/announcing-the-open-semantic-interchange): OSI open-source standard announcement for semantic model interoperability
+- [A Database is not a Data Model - Omni Analytics](https://omni.co/blog/benefits-of-a-data-model): Explains data modeling abstraction vs database with business logic layer
+- [Things to think about when building a data stack - Omni Analytics](https://omni.co/blog/building-a-data-stack): Pragmatic guide to data stack architecture and warehouse selection with dbt
+
+## Product Updates & Features
+
+- [Ship it: Omni's 2025 Product Highlights - Omni Analytics](https://omni.co/blog/2025-product-highlights): 2025 product updates featuring Blobby AI assistant and MCP Server
+- [Ship it: Omni's 2024 Product Highlights - Omni Analytics](https://omni.co/blog/2024-product-highlights): 2024 product updates: AI features, embedded analytics, dev workflows
+- [Introducing Omni aggregate awareness - Omni Analytics](https://omni.co/blog/aggregate-awareness): Aggregate awareness feature for 10-100x faster queries with dbt integration
+- [Analytics made faster with Apache Arrow - Omni Analytics](https://omni.co/blog/analytics-faster-with-apache-arrow): Apache Arrow integration for improved BI query performance and caching
+- [Bringing better insights into your workflows - Omni Analytics](https://omni.co/blog/bringing-better-insights-into-your-workflows): Dashboard embedding for Confluence, Hubspot, and workflow integrations
+
+## AI & Agentic Analytics
+
+- [Building Omni's architecture for agentic analytics - Omni Analytics](https://omni.co/blog/building-omnis-architecture-for-agentic-analytics): Technical deep-dive on agentic AI architecture with MCP Server integration
+
+## Customer Case Studies
+
+- [BambooHR launches Elite Analytics to 30,000+ people in four months - Omni Analytics](https://omni.co/blog/case-study-bamboohr): BambooHR case study: embedded analytics launch for 30K+ HR customers
+- [Cribl scales self-service AI analytics with Omni and dbt - Omni Analytics](https://omni.co/blog/case-study-cribl): Cribl migration case study: Fortune 100 telemetry data with AI analytics
+- [Digital Trends case study - Omni Analytics](https://omni.co/blog/case-study-digital-trends): Digital Trends migration from Looker: cost reduction and self-service BI
+
+## Integrations & Partnerships
+
+- [Omni achieves Select Tier Partner Status with Snowflake - Omni Analytics](https://omni.co/blog/announcing-omni-snowflake-partnership): Snowflake Select partner announcement with Snowflake Ventures investment
+- [Announcing a Ducking awesome integration - Omni Analytics](https://omni.co/blog/announcing-support-for-motherduck): MotherDuck and DuckDB integration announcement for cloud data warehouse
+
+## Guides & Tutorials
+
+- [Three considerations when choosing an analytics platform for product teams - Omni Analytics](https://omni.co/blog/analytics-platform-for-product-team): Guide on selecting analytics platforms for product teams: speed, depth, trust
+- [Building a customer health score - Omni Analytics](https://omni.co/blog/building-a-customer-health-score): Customer success methodology for health scoring and engagement tracking
+- [Building an AWS cost monitoring dashboard - Omni Analytics](https://omni.co/blog/building-an-aws-cost-monitoring-dashboard): Tutorial for AWS cost dashboard with Snowflake and S3 billing data
+- [A product person's story building with Omni - Omni Analytics](https://omni.co/blog/building-usage-analytics): Product manager's journey building usage analytics with workbooks and JSON
+
+## Blog
+
+- [Blog - Omni Analytics](https://omni.co/blog): Blog index covering data, analytics, and BI topics from Omni team

@@ -1,0 +1,63 @@
+# Travis Horn
+
+> > Travis Horn's blog covering web development, data visualization, and programming challenges with Vue, JavaScript, Python, and modern web technologies.
+
+A technical blog by Travis Horn featuring tutorials, code examples, and learning journeys through challenges like Exercism's #12in23. Topics span front-end frameworks (Vue, Bootstrap), data visualization (D3, sparklines), API development, SQL, and various programming languages.
+
+## Key Topics
+
+- Vue.js and Vue CLI
+- JavaScript development
+- Data visualization with D3
+- jQuery and DOM manipulation
+- Bootstrap and responsive design
+- #12in23 Challenge and Exercism
+- Python for data science
+- API development and JWT authentication
+- SQL and window functions
+- CSS Grid and modern CSS
+- Serverless functions
+- Front-end performance optimization
+- Prolog and logic programming
+- npm and build tools
+- Terminal configuration (Alacritty)
+
+## Vue.js Development
+
+- [Add LocalStorage to your Vue app in 2 lines of code](https://travishorn.com/add-localstorage-to-your-vue-app-in-2-lines-of-code): Quick guide to add LocalStorage state persistence to Vue applications
+- [Adding Bootstrap to a Vue CLI Project](https://travishorn.com/adding-bootstrap-to-a-vue-cli-project): Step-by-step guide to integrate Bootstrap into Vue CLI projects
+- [Build a Sparkline Vue Component](https://travishorn.com/build-a-sparkline-vue-component): Tutorial: Building a sparkline Vue component with D3 for data visualization
+- [Building a Sparkline Dashboard](https://travishorn.com/building-a-sparkline-dashboard): Creating a data visualization dashboard using Vue SparkLine components
+
+## API Development and Backend
+
+- [API Server with JWT Authentication](https://travishorn.com/api-server-with-jwt-authentication): Building a Koa.js API server with JWT authentication and middleware
+- [Build & Deploy Serverless Functions in 5 Minutes](https://travishorn.com/build-deploy-serverless-functions-in-5-minutes): Quick start guide to deploying serverless functions with Netlify
+- [A SQL Window Function Case Study](https://travishorn.com/a-sql-window-function-case-study): SQL window functions tutorial using ROW_NUMBER() and CTEs for data filtering
+
+## JavaScript Fundamentals and Utilities
+
+- [Access the browser's query string as a JavaScript Object](https://travishorn.com/access-the-browsers-query-string-as-a-javascript-object): JavaScript library for parsing URL query strings into objects
+- [Building a Random-Within-Range Function](https://travishorn.com/building-a-random-within-range-function): JavaScript tutorial: Creating a random number generator within a range
+- [A small function to convert an array of ID strings into a dictionary of jQuery objects](https://travishorn.com/a-small-function-to-convert-an-array-of-id-strings-into-a-dictionary-of-jquery-objects): jQuery helper function for efficient DOM manipulation and performance
+
+## Front-End Performance and Best Practices
+
+- [3 ways a front-end developer can reduce page load](https://travishorn.com/3-ways-a-front-end-developer-can-reduce-page-load): Front-end optimization techniques: minification, GZIP, and JavaScript placement
+- [Browser standards implementation](https://travishorn.com/browser-standards-implementation): Cross-browser testing and CSS normalization for web standards compliance
+- [960 Grid System](https://travishorn.com/960-grid-system): Using the 960 Grid System CSS framework for responsive web design
+
+## Programming Language Learning (#12in23 Challenge)
+
+- [12 Months, 12 Languages: My Journey with the #12in23 Challenge - Mindshifting May with Prolog](https://travishorn.com/12-months-12-languages-my-journey-with-the-12in23-challenge-mindshifting-may-with-prolog): Learning Prolog through Exercism's #12in23 Challenge - Mindshifting May
+- [Analytical April: Learning Python for Data Science](https://travishorn.com/analytical-april-learning-python-for-data-science): Learning Python through Exercism's #12in23 Analytical April challenge
+
+## Development Tools and Configuration
+
+- [Alacritty terminal emulator](https://travishorn.com/alacritty-terminal-emulator): Installing and configuring Alacritty terminal on Arch Linux with xmonad
+- [A recent technical challenge I experienced with PC hardware](https://travishorn.com/a-recent-technical-challenge-i-experienced-with-pc-hardware): Troubleshooting motherboard firmware and processor compatibility issues
+
+## Optional
+
+- [Backbone.js](https://travishorn.com/backbone-js): Introduction to Backbone.js MVC framework for client-side JavaScript
+- [Boilerplate Classic ASP Page](https://travishorn.com/boilerplate-classic-asp-page): Classic ASP template with VBScript and SQL Server database connection

@@ -1,0 +1,24 @@
+# Vikram Oberoi
+
+> > Technical blog exploring scalable analytics, cost optimization, and engineering solutions with technologies like Redis, Python, and bitmaps.
+
+Vikram Oberoi shares in-depth technical articles on building efficient data infrastructure and product analytics systems. The site focuses on practical engineering solutions for scaling challenges, particularly in retention analysis and event processing.
+
+## Key Topics
+
+- Retention analysis
+- Bitmaps and bitwise operations
+- Redis bitmaps
+- Product analytics
+- Cohort analysis
+- Cost optimization
+- Doist and Todoist
+- Mixpanel alternatives
+- Python
+- Bitmapist library
+- Event processing at scale
+- Analytics infrastructure
+
+## Analytics & Data Infrastructure
+
+- [Using bitmaps to run interactive retention analyses over billions of events for less than $100/mo](https://vikramoberoi.com/posts/using-bitmaps-to-run-interactive-retention-analyses-over-billions-of-events-for-less-than-100-mo): How Doist saved millions using bitmaps for retention analysis vs Mixpanel

@@ -1,0 +1,35 @@
+# ELI5.eu
+
+> > A security research database documenting Bitcoin brainwallet vulnerabilities and compromised addresses derived from weak passphrases.
+
+ELI5.eu provides detailed analysis of Bitcoin brainwallet addresses, exposing the security risks of using predictable passphrases to generate cryptocurrency wallets. The site catalogs compromised BTC addresses with their private keys, transaction histories, and cryptographic proofs to demonstrate why brainwallets are insecure.
+
+## Key Topics
+
+- Bitcoin brainwallet security
+- Weak passphrase vulnerabilities
+- Private key exposure
+- Compromised BTC addresses
+- Cryptocurrency security analysis
+- Bitcoin address details
+- Transaction history tracking
+- Cryptographic proof validation
+- bitcoin-cli commands
+- Blockchain.com integration
+- ChainQuery.com references
+- Address security auditing
+- Wallet vulnerability research
+
+## Overview & Introduction
+
+- [Bitcoin Brainwallet Overview](https://eli5.eu/brainwallet/): Main overview of Bitcoin brainwallet addresses and security analysis
+
+## Compromised Address Database
+
+- [Bitcoin Brainwallet Details: 1FSK393znD9i4ViQSTfXKbuhw1pPLjjrvC](https://eli5.eu/brainwallet/detail/1FSK393znD9i4ViQSTfXKbuhw1pPLjjrvC.html): BTC address details with private key and security vulnerability info
+- [Bitcoin Brainwallet Details: 1GjjGLYR7UhtM1n6z7QDpQskBicgmsHW9k](https://eli5.eu/brainwallet/detail/1GjjGLYR7UhtM1n6z7QDpQskBicgmsHW9k.html): Compromised BTC address details showing weak passphrase vulnerability
+- [Bitcoin Brainwallet Details: 12AKRNHpFhDSBDD9rSn74VAzZSL3774PxQ](https://eli5.eu/brainwallet/detail/12AKRNHpFhDSBDD9rSn74VAzZSL3774PxQ.html): Bitcoin address with compromised private key and security analysis
+
+## Optional
+
+- [Bitcoin Brainwallet Overview - Page 38](https://eli5.eu/brainwallet/overview-38.html): Paginated list of Bitcoin brainwallet addresses and transactions

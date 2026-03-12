@@ -1,0 +1,36 @@
+# DebuggAI
+
+> > DebuggAI provides AI-powered automated browser testing for GitHub pull requests with zero configuration.
+
+DebuggAI integrates with GitHub workflows to automatically generate and run end-to-end browser tests using AI for every pull request. The platform supports Playwright and Selenium, offers MCP Server integration for Claude Desktop, and includes DebuggAI PR Copilot for intelligent test generation.
+
+## Key Topics
+
+- DebuggAI PR Copilot
+- GitHub integration
+- Playwright
+- Selenium
+- AI-powered testing
+- E2E testing
+- Pull request automation
+- Zero-config testing
+- MCP Server
+- Model Context Protocol
+- Claude Desktop
+- Automated browser testing
+- Continuous testing
+- AI code review
+- Browser automation
+
+## Getting Started
+
+- [DebuggAI | Automated Browser Tests For Every PR.](https://debugg.ai): Homepage: AI-powered automated browser testing for GitHub pull requests
+- [DebuggAI Product Demo - AI-Powered Testing Platform](https://debugg.ai/demo): Product demo showcasing AI-powered E2E testing and GitHub integration
+
+## Integration & Tools
+
+- [DebuggAI MCP Server - AI-Driven Browser Automation](https://debugg.ai/debugg-ai-mcp): MCP Server integration guide for AI-driven browser automation via Claude
+
+## Guides & Resources
+
+- [AI PR Reviews: The Developer's Guide To Automated Code Review Tools](https://debugg.ai/ai-pr-reviews): Guide comparing AI PR review tools: GitHub Copilot, CodeRabbit, Greptile

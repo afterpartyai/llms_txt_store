@@ -1,0 +1,42 @@
+# yohei.codes
+
+> > Personal technical blog by Yohei Kusakabe exploring database internals (DuckDB, MVCC), operating systems (xv6, Linux threading), and computer science fundamentals.
+
+Yohei Kusakabe is a software engineer specializing in cloud infrastructure and chaos engineering. This site features deep technical dives into database systems, OS internals, and low-level programming concepts.
+
+## Key Topics
+
+- DuckDB
+- xv6
+- MVCC (Multi-Version Concurrency Control)
+- Database isolation levels
+- Query execution
+- Operating systems
+- Linux threading and futex
+- x86 architecture
+- MonetDB/X100
+- Serializable isolation
+- Concurrency control
+- dax86 emulator
+- Virtual memory
+- Database internals
+- System programming
+
+## Database Systems & Internals
+
+- [Code Map: DuckDB's Full Scan Query](https://yohei.codes/2024/10/15/duckdb-code-map.html): DuckDB full scan query execution walkthrough with code mapping
+- [Papers Adopted by DuckDB](https://yohei.codes/2024/08/15/duckdb-papers.html): Academic papers implemented in DuckDB including MonetDB/X100 & MVCC
+- [Paper: Fast Serializable Multi-Version Concurrency Control for Main-Memory Database Systems](https://yohei.codes/2024/08/20/paper-fast-serializable-mvcc.html): Paper notes: serializable MVCC for DuckDB and PostgreSQL
+- [DB Isolation Levels: Snapshot vs Serializable](https://yohei.codes/2023/09/07/snapshot-vs-serializable.html): Database isolation levels: snapshot vs serializable with write skew
+
+## Operating Systems & Low-Level Programming
+
+- [Thread, clone, futex and CMPXCHG](https://yohei.codes/2023/05/21/thread-clone-futex.html): Linux threading internals: pthread, clone syscall, and futex
+- [dax86: xv6-runnable x86 Emulator for Study Purpose](https://yohei.codes/2020/06/12/dax86.html): dax86: x86 emulator project for running xv6 OS
+- [xv6 image: How exactly is the boot sector created and loaded?](https://yohei.codes/2020/06/13/xv6-boot-block.html): xv6 boot sector creation and BIOS loading process explained
+- [xv6: How exactly is memory addressed? (Part 1)](https://yohei.codes/2020/06/18/xv6-memory-1.html): xv6 memory addressing with MMU and virtual memory (Part 1)
+
+## About & Overview
+
+- [yohei.codes | I enjoy computer science stuff.](https://yohei.codes/): Homepage featuring database systems, OS, and CS topics
+- [About](https://yohei.codes/about/): About Yohei Kusakabe: software engineer in cloud & chaos engineering

@@ -1,0 +1,61 @@
+# Releem
+
+> > Releem is an automated MySQL and MariaDB performance tuning platform that provides configuration optimization, health checks, and monitoring for database administrators.
+
+Releem offers both cloud-based and agent-based solutions for MySQL/MariaDB performance optimization, including the Releem Agent for metric collection, TuningWizard for configuration recommendations, and comprehensive database health monitoring. The platform supports various environments including AWS RDS, self-hosted servers, and multiple operating systems.
+
+## Key Topics
+
+- MySQL performance tuning
+- MariaDB optimization
+- InnoDB configuration
+- Releem Agent
+- Database monitoring
+- Configuration automation
+- Query optimization
+- Database health checks
+- MySQLTuner alternative
+- Performance metrics
+- Deadlock detection
+- Schema validation
+- Full-text indexing
+- TuningWizard
+- DBA tools
+
+## Getting Started
+
+- [MySQL Performance Tuning Advisor](https://releem.com): Homepage for Releem MySQL/MariaDB performance advisor and automation tool
+
+## Performance Optimization Guides
+
+- [Optimize and Improve MySQL Performance - Tuning Guide](https://releem.com/blog/mysql-performance-tuning): Comprehensive 8-step MySQL performance tuning and optimization guide
+- [MySQL Deadlock Detection - check deadlocks on database](https://releem.com/blog/mysql-deadlock-detection): Detect and resolve MySQL/InnoDB deadlocks with automated monitoring
+- [Comprehensive Guide to MySQL Full-Text Indexing: Examples, Creation, and Performance Optimization](https://releem.com/blog/comprehensive-guide-mysql-full-text-indexing): Guide to MySQL full-text indexing for efficient text search vs LIKE queries
+- [MySQL Database Schema Checks: Best Practices and Solutions](https://releem.com/blog/mysql-database-schema-checks): Best practices for MySQL schema validation and optimization checks
+
+## Database Monitoring and Health Checks
+
+- [Keeping an Eye on MySQL with Health Checks](https://releem.com/blog/mysql-health-checks): MySQL health check monitoring strategies for database administrators
+- [Top 10 MySQL Monitoring Tools — Open Source and Paid](https://releem.com/blog/top-10-mysql-monitoring-tools): Comparison of 10 best MySQL monitoring tools, open-source and commercial
+- [Complete Guide to MariaDB Logs: Audit, Configuration, and More](https://releem.com/blog/mariadb-logs): Comprehensive guide to MariaDB log types, configuration, and optimization
+
+## Configuration and Administration
+
+- [How do you keep high performance MySQL configuration?](https://releem.com/blog/how-do-you-keep-high-performance-mysql-configuration): Survey results on MySQL/MariaDB configuration management practices
+- [MySQLTuner for Windows: Common Issues and Better Alternatives](https://releem.com/blog/mysqltuner-for-windows): MySQLTuner Windows issues and Releem as alternative for MySQL tuning
+- [How to Identify the MySQL Port](https://releem.com/blog/how-to-identify-mysql-port): Guide to identifying MySQL port for database connections and configuration
+- [Check MySQL Table and Database Size](https://releem.com/blog/check-mysql-database-table-size): SQL queries to check MySQL database and table sizes, sorted by storage
+
+## Company News and Updates
+
+- [Releem 2025 Recap - results and achievements of the year](https://releem.com/blog/releem-2025-recap): Releem's 2025 milestones: team growth, TuningWizard, and product updates
+- [Migrating to ClickHouse: Releem's journey](https://releem.com/blog/migrating-to-clickhouse): Releem's migration from MySQL to ClickHouse for metrics storage at scale
+
+## Optional
+
+- [What's New At Releem | January 2023](https://releem.com/blog/whats-new-at-releem-january-2023): January 2023 updates: AWS RDS support, weekly reports, Chart.js integration
+- [What's New At Releem - March 2023](https://releem.com/blog/whats-new-at-releem-march-2023): March 2023 updates: enhanced documentation and health checks in Agent
+- [What's New At Releem | September 2022](https://releem.com/blog/whats-new-at-releem-september-2022): September 2022 updates: QPS metric support and portal redesign
+- [What's New At Releem | August 2022](https://releem.com/blog/whats-new-at-releem-august-2022): August 2022 product updates: one-step configuration command for Releem Agent
+- [What's New At Releem | July 2022](https://releem.com/blog/whats-new-at-releem-july-2022): July 2022 updates: FreeBSD support and MySQL 8.0.30 compatibility
+- [What's New In Releem | July 2021](https://releem.com/blog/whats-new-in-releem-july-2021): July 2021 updates: MySQL Performance Score and Customer Portal features

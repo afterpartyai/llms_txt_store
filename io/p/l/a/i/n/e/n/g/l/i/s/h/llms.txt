@@ -1,54 +1,60 @@
 # In Plain English
 
-> > Tech media company founded by Sunil Sandhu offering simplified explanations, tutorials, and cheatsheets for JavaScript, Python, AI, and web development.
+> > A tech media company publishing beginner-friendly programming tutorials and guides across JavaScript, Python, TypeScript, React, AI, and software development.
 
-In Plain English operates multiple publications including JavaScript In Plain English, Python In Plain English, and Stackademic, focusing on making complex programming concepts accessible to developers of all levels. The site features educational content on AI assistants, microservices, LLMs, and practical tutorials using tools like OpenClaw, MCP, Node.js, and Claude.
+In Plain English operates multiple developer-focused publications including JavaScript In Plain English, Python In Plain English, and Stackademic. The site features practical tutorials, productivity guides, and resources for developers at all skill levels, with emphasis on clear explanations and real-world applications.
 
 ## Key Topics
 
-- Python
 - JavaScript
-- MCP (Model Context Protocol)
-- OpenAI & Claude
-- AI agents and assistants
-- Microservices architecture
-- Node.js
-- Web scraping
-- OpenClaw
-- Software development education
-- Beginner-friendly programming guides
-- Tech concept explanations
-- Open source tools
-- Developer community
+- Python
+- TypeScript
+- React
+- ChatGPT and AI
+- Developer Tools
+- Software Development
+- Programming Education
+- CSS
+- SaaS Development
+- Mobile Development
+- Backend-for-Frontend (BFF)
+- UI Frameworks
+- Command-Line Tools
+- Developer Community
 
-## Getting Started
+## About In Plain English
 
-- [In Plain English](https://plainenglish.io): Tech media company homepage featuring JavaScript, Python, and AI pubs
-- [About | In Plain English](https://plainenglish.io/about): About page: Sunil Sandhu's tech media company founded in 2018
-- [Basics: Cheatsheets for Popular Tools & Libraries](https://plainenglish.io/basics): Quick reference cheatsheets for Express.js, Node.js, and frameworks
+- [In Plain English](https://plainenglish.io): Homepage of tech media company with JavaScript, Python, AI publications
+- [About | In Plain English](https://plainenglish.io/about): Company info and mission for programming content publisher IPE
 
-## Core Concepts Explained
+## JavaScript and TypeScript Guides
 
-- [Explain: Tech Concepts Explained Simply](https://plainenglish.io/explain): Tech concepts simplified for junior devs, covering OpenClaw and more
-- [What is Object-Oriented Programming (OOP)?](https://plainenglish.io/explain/what-is-object-oriented-programming): OOP fundamentals explained: classes, objects, inheritance, polymorphism
-- [What is a Microservice?](https://plainenglish.io/explain/what-is-a-microservice): Microservices architecture explained: independent services via APIs
-- [How Do LLMs Use Tools?](https://plainenglish.io/explain/how-do-llms-use-tools): LLM tool use explained: function calling, APIs, MCP, and JSON-RPC
+- [5 Best React UI Frameworks and Component Libraries in 2023 - A Developer's Guide](https://plainenglish.io/blog/5-best-react-ui-frameworks-and-component-libraries-in-2023): Top React UI libraries: MUI, Saas UI, Mantine, Ant Design, Tailwind
+- [3 Different Ways to Import Modules in TypeScript](https://plainenglish.io/blog/3-different-ways-to-import-modules-in-typescript): TypeScript module import methods: require, import, and esModuleInterop
+- [4 Ways to Check if the Property Exists in JavaScript Object](https://plainenglish.io/blog/4-ways-to-check-whether-the-property-exists-in-a-javascript-object-20c2d96d8f6e): JavaScript property checking: hasOwnProperty, in, typeof, double-bang
+- [5 Ways to Convert String to Array in JavaScript](https://plainenglish.io/blog/5-ways-to-convert-string-to-array-in-javascript-4f86ce362534): JavaScript string-to-array methods: split, Array.from, spread operator
+- [5 Ways To Detect Mobile Browsers in JavaScript](https://plainenglish.io/blog/5-ways-to-detect-mobile-browsers-in-javascript): Mobile browser detection: user-agent, media queries, touch events in JS
 
-## AI & Machine Learning
+## Python Tutorials
 
-- [AI - In Plain English](https://plainenglish.io/topics/ai): AI topic hub covering generative AI, RAG, Claude, and ML articles
-- [Using GPT to Answer Questions from Multiple Text Files](https://plainenglish.io/blog/using-gpt-to-answer-questions-from-multiple-text-files): Python script for GPT-4 document Q&A using OpenAI API integration
+- [20 Python Command-Line Hacks I Wish I Knew Sooner](https://plainenglish.io/blog/20-python-command-line-hacks-i-wish-i-knew-sooner): Python CLI tips and productivity hacks for command-line efficiency
+- [5 List Operations in Python](https://plainenglish.io/blog/5-list-operations-in-python-5644de1ccc44): Essential Python list operations: concatenation, slicing, membership tests
+- [3D Affine Transformation Matrices Implementation with NumPy](https://plainenglish.io/blog/3d-affine-transformation-matrices-implementation-with-numpy): NumPy implementation of 3D affine transformation matrices for graphics
 
-## Web Development Tutorials
+## AI and ChatGPT Resources
 
-- [Creating a Login Form with React: A Step-by-Step Guide](https://plainenglish.io/react/creating-a-login-form-with-react-a-step-by-step-guide-042470): React tutorial: building secure login forms with useState and Vite
-- [Creating a Simple Task CRUD App with Flask, PostgreSQL, SQLAlchemy, and Docker](https://plainenglish.io/blog/creating-a-simple-task-crud-app-with-flask-postgresql-sqlalchemy-and-docker): Flask CRUD tutorial using PostgreSQL, SQLAlchemy, and Docker setup
-- [Playbook for Building Your Own WYSIWYG Editor](https://plainenglish.io/web-development/playbook-for-building-your-own-wysiwyg-editor): WYSIWYG editor tutorial using contenteditable, HTML5, and JavaScript
+- [100 Useful Chat GPT Prompts to Boost Your Creativity and Productivity](https://plainenglish.io/blog/100-useful-chat-gpt-prompts-to-boost-your-creativity-and-productivity): Collection of 100 ChatGPT prompts for productivity and creativity tasks
+- [100 Valuable ChatGPT Prompts to Boost Startups and Businesses](https://plainenglish.io/blog/100-valuable-chatgpt-prompts-to-boost-startups-and-businesses): ChatGPT prompts for startup management, marketing, and business growth
+- [2026 Content Productivity Report: The Great Consolidation of All-in-One AI Platforms](https://plainenglish.io/blog/2026-content-productivity-report-the-great-consolidation-of-all-in-one-ai-platforms): Analysis of AI content platforms: Loova, Sora 2 Pro, Flux.2 consolidation
 
-## Automation & Advanced Topics
+## Developer Tools and SaaS Development
 
-- [How I keep up with Next.js Canary Releases using N8N + MCP Automation](https://plainenglish.io/web-scraping/how-i-keep-up-with-next-js-canary-releases-using-n8n-mcp-automation): Next.js canary monitoring workflow using n8n automation and MCP servers
+- [From Zero to SaaS: The 10 Tools for Building Your SaaS App](https://plainenglish.io/blog/10-tools-for-building-your-saas-app): Guide to 10 essential SaaS tools: TypeScript, Supabase, Stripe, and more
+- [5 Best Backend-for-Frontend Tools You Should Be Using](https://plainenglish.io/blog/5-best-backend-for-frontend-tools): BFF tools guide: WunderGraph, Istio, Clerk for API composition
+- [2 Excellent Websites For Web Developers](https://plainenglish.io/blog/2-excellent-websites-for-web-developers-781339527ab0): Fireship and other learning resources for web developers and PWAs
 
-## Optional
+## Startup and Business Resources
 
-- [How to Freeze Life360 Location without Anyone Knowing in 2026](https://plainenglish.io/blog/how-to-freeze-life360-location-without-anyone-knowing-in-2026): Life360 location privacy guide using GPS spoofing and MocPOGO tools
+- [32+ Top Web App Ideas for Startups in 2022](https://plainenglish.io/blog/32-web-app-ideas-for-startups-in-2022-99605c359b67): Startup web app ideas including Metaverse, AI avatars, virtual events
+- [4 Content Ideas to Boost Brand Awareness for Finance Brands](https://plainenglish.io/blog/4-content-ideas-to-boost-brand-awareness-for-finance-brands): Content marketing strategies for finance brands and financial services
+- [Business | In Plain English](https://plainenglish.io/advertise): Advertising, sponsored content, and media kit for developer audience

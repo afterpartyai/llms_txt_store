@@ -1,65 +1,53 @@
 # GitHub
 
-> > GitHub is the world's leading AI-powered developer platform for version control, collaboration, and software development, serving 180M+ developers with tools like GitHub Copilot, Actions, Codespaces, and Advanced Security.
+> > The world's leading AI-powered developer platform for building, collaborating, and shipping software with tools like GitHub Copilot, Actions, and Codespaces.
 
-GitHub combines Git version control with cloud-based collaboration, CI/CD automation, code security scanning, and AI-assisted development. The platform includes specialized tools for education (GitHub Classroom), package management (GitHub Packages), code analysis (CodeQL), and community engagement through discussions and open source sponsorship.
+GitHub hosts millions of open source projects and provides integrated DevOps tools including CI/CD pipelines, code security scanning, cloud development environments, and AI-assisted coding. The platform serves individual developers, organizations, and enterprises across all programming languages and frameworks.
 
 ## Key Topics
 
 - GitHub Copilot
 - GitHub Actions
 - GitHub Codespaces
-- GitHub Advanced Security
-- Git version control
-- Code security and Dependabot
-- Repository management
+- AI code assistant
+- Developer platform
+- Collaboration
 - CI/CD automation
-- Collaborative coding
-- Pull requests and code review
-- GitHub CLI and Desktop
-- GitHub Pages
-- Open source collaboration
-- Developer workflows
-- Cloud development environments
+- Code security
+- Cloudflare Workers
+- Cloudflare R2
+- Image hosting
+- MicroPython
+- Open source
+- Cloud development
+- Version control
 
-## Getting Started
+## Platform Overview
 
-- [GitHub Homepage](https://github.com): GitHub homepage featuring Copilot, Actions, and collaboration platform
-- [About GitHub](https://github.com/about): Company overview with platform stats: 180M+ developers, 420M+ repositories
-- [GitHub Features](https://github.com/features): Product features: Codespaces, Copilot, Actions, and security tools overview
-- [Get Started with GitHub Documentation](https://docs.github.com/en/get-started): Documentation landing page with quickstart guides and product overview
-- [About GitHub and Git](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git): Beginner guide explaining GitHub platform and Git version control basics
-- [Hello World Tutorial](https://docs.github.com/en/get-started/start-your-journey/hello-world): Introductory tutorial covering pull requests, branches, and commits
-- [Start Your Journey](https://docs.github.com/en/get-started/start-your-journey): Beginner's guide to GitHub basics, account setup, and profile creation
+- [GitHub Homepage](https://github.com): AI-powered developer platform homepage featuring Copilot, Actions & more
 
-## Documentation
+## Organizations & Communities
 
-- [GitHub Docs](https://docs.github.com): Documentation hub for GitHub products, APIs, and developer resources
-- [About Repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories): Repository basics: ownership, collaboration, and terminology guide
-- [About Releases](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases): Git tags, release creation, and software packaging documentation
-- [Git and GitHub Learning Resources](https://docs.github.com/en/get-started/start-your-journey/git-and-github-learning-resources): Curated learning resources including ProGit, Pluralsight, and GitHub Skills
+- [01.AI](https://github.com/01-ai): AI 2.0 company building LLMs and multi-agent frameworks like Yi
+- [01 Education](https://github.com/01-edu): Open learning platform for software engineering and peer education
+- [01Studio](https://github.com/01studio-lab): MicroPython embedded programming org with dev boards and IoT projects
 
-## Git Version Control
+## Cloudflare & Serverless Projects
 
-- [Git Basics](https://docs.github.com/en/get-started/git-basics): Git setup guide covering configuration, credentials, and remote repos
-- [Set Up Git](https://docs.github.com/en/get-started/git-basics/set-up-git): Git installation and configuration tutorial with GitHub authentication
-- [Git Guides](https://github.com/git-guides): Comprehensive Git guide covering commands, workflow, and best practices
+- [JSimages](https://github.com/0-RTT/JSimages): Image/video hosting service built on Cloudflare R2 storage
+- [Telegraph Media Hosting](https://github.com/0-RTT/telegraph): Serverless media hosting using Cloudflare Worker and Pages
 
-## Developer Tools & Products
+## Developer Tools & Integrations
 
-- [GitHub Organization Profile](https://github.com/github): GitHub organization profile with contribution stats and open source projects
-- [CodeQL](https://codeql.github.com): Semantic code analysis engine for vulnerability detection and queries
-- [GitHub Classroom](https://classroom.github.com): Education platform for automated assignment management and grading
+- [WHMCS Mollie Payments](https://github.com/0100Dev/WHMCS-Mollie-Payments): WHMCS payment gateway integration for all Mollie payment methods
+- [01-Artikelsystem](https://github.com/01-Scripts/01-Artikelsystem): Article and content management module for 01ACP CMS in PHP
+- [MapStyleProfile](https://github.com/01100100/mapStyleProfile): Vector map style profiler for MapLibre performance testing
 
-## Support & Community
+## Documentation & Tutorials
 
-- [Frequently Asked Questions](https://github.com/frequently-asked-questions): FAQ covering platform basics, pricing, security, and Git vs GitHub
-- [GitHub Support](https://support.github.com): GitHub support portal sign-in for customer assistance and help
-- [Community Discussions](https://github.com/orgs/community/discussions): GitHub Community discussions featuring Copilot challenges and code security
+- [01Studio Wiki](https://github.com/01studio-lab/01studio_wiki): 01Studio tutorial wiki built with Docusaurus in Chinese
 
 ## Optional
 
-- [Trending Repositories](https://github.com/trending): Daily trending repositories featuring AI projects and open source tools
-- [GitHub Trust Center](https://github.com/trust-center): Security, compliance, privacy, and responsible AI transparency resources
-- [Leadership](https://github.com/about/leadership): Executive team profiles and GitHub leadership bios
-- [Guided Tutorial Topic](https://github.com/topics/guided-tutorial): Topic page for guided tutorial libraries and JavaScript tour tools
+- [Shattered Pixel Dungeon Releases](https://github.com/00-Evan/shattered-pixel-dungeon/releases): Version history and downloads for Shattered Pixel Dungeon game
+- [007cg](https://github.com/007chigua/007cg): Address directory and link aggregation for 007吃瓜网

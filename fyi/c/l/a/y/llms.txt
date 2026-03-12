@@ -1,0 +1,42 @@
+# Clay Smith
+
+> > Personal website of Clay Smith, a software engineer exploring serverless architectures, AI coding agents, and creative technical experiments with AWS Lambda, Claude Code, and Rust.
+
+This site showcases Clay's technical writing on cloud infrastructure, developer tools, and AI-assisted development. Topics range from practical AWS Lambda tutorials to experimental projects like TCP/IP over CloudWatch Logs and AI-powered historical chatbots.
+
+## Key Topics
+
+- AWS Lambda
+- Claude Code
+- Serverless architectures
+- Rust programming
+- Task orchestration
+- Coding agents
+- Developer experience
+- Cloud sandboxing
+- SSH tunneling
+- Backend systems
+- Python and Go
+- Static site generation (Zola)
+- Browser automation (Selenium)
+- Autonomous agents
+- Open source
+
+## About
+
+- [About Clay Smith](https://clay.fyi/about): Personal bio of Clay Smith: software engineer and Rust enthusiast
+
+## AI Coding Agents & Automation
+
+- [New task orchestration in Claude Code 2.1.19 lets you build background agents in the cloud](https://clay.fyi/blog/build-your-own-claude-code-cloud-swarm): Building multi-VM background agents with Claude Code 2.1.19 orchestration
+- [The unexpected joy of Claude Code on your iPhone](https://clay.fyi/blog/iphone-claude-code-context-coding): Mobile coding workflow with Claude Code, Tailscale, and devcontainers
+
+## AWS Lambda & Serverless
+
+- [SSH-ing into your AWS Lambda Functions](https://clay.fyi/blog/ssh-ing-into-aws-lambda-functions): Reverse SSH tunneling technique for debugging AWS Lambda containers
+- [Running Selenium and Headless Chrome on AWS Lambda](https://clay.fyi/blog/running-selenium-headless-chrome-aws-lambda): Browser automation on AWS Lambda using Selenium and Headless Chrome
+- [TCP/IP over Amazon Cloudwatch Logs](https://clay.fyi/blog/tcp-ip-over-cloudwatch-logs): Proof-of-concept TCP/IP networking through CloudWatch Logs in Lambda
+
+## Creative Projects
+
+- [Rebooting San Francisco royalty: Emperor Norton meets GenAI](https://clay.fyi/blog/emperor-norton-meets-genai): GenAI chatbot recreating Emperor Norton's historical San Francisco persona

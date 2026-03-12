@@ -1,69 +1,58 @@
 # Zenn
 
-> > Zenn is a Japanese tech knowledge-sharing platform for engineers, featuring articles, books, and publications with monetization support.
+> > Japanese technical knowledge-sharing platform featuring developer articles on cloud infrastructure, AI-assisted development, and modern web technologies.
 
-Zenn serves as a community hub where engineers publish technical content, tutorials, and books on topics including AWS, JavaScript/TypeScript, React, AI development, and various development tools. The platform supports both free articles and paid technical books, with features like Publications for team content and community guidelines for AI-assisted writing.
+Zenn is a developer community platform where engineers share tutorials, guides, and technical insights primarily in Japanese. Content spans cloud services (Azure, Vercel, Netlify), AI development tools (Cursor, PyTorch), infrastructure-as-code (Terraform, Pulumi), and modern web frameworks (React, Next.js, TypeScript).
 
 ## Key Topics
 
-- Zenn platform features and Publications
-- AWS (re:Invent, EC2, S3, Bedrock)
-- JavaScript/TypeScript development
+- AI-assisted development
+- Infrastructure as Code (IaC)
+- Cloud platforms (Azure, Vercel, Netlify)
 - React and Next.js
-- AI tools (Claude, OpenAI, Cursor IDE)
-- Vue.js and VoidZero toolchain
-- Chrome extension development
-- WSL and Linux development environments
-- Code refactoring (jscodeshift)
-- Angular framework
-- Shopify app development
-- Doxygen and gnuplot
-- Game development (Godot)
-- Community guidelines and best practices
-- Technical book publishing
+- TypeScript
+- GitHub and VS Code
+- Cursor AI
+- Free hosting services
+- Serverless deployment
+- PyTorch and TTS
+- Terraform and Pulumi
+- Vulnerability scanning
+- Domain-Driven Design (DDD)
+- GraphQL and API development
+- CSS and Tailwind
 
-## Platform Information
+## AI-Assisted Development & Security
 
-- [Zenn|エンジニアのための情報共有コミュニティ](https://zenn.dev): Homepage: Tech knowledge sharing platform for engineers with monetization
-- [Zennとは？|エンジニアのための情報共有コミュニティ](https://zenn.dev/about): About page explaining Zenn's platform features, badges, and book sales
-- [Zenn公式さんの記事一覧 | Zenn](https://zenn.dev/zenn): Official Zenn account with platform updates and usage guides
-- [コミュニティガイドライン | Zenn](https://zenn.dev/guideline): Community guidelines covering content policy, AI usage, and conduct
-- [ZennのPublicationで投稿を続けたら、社内のエンジニアと技術書を出版することになりました](https://zenn.dev/ncdc/articles/30423095420e06): Case study: Publishing AWS Amplify Gen2 book via Zenn Publication
+- [🚀 AI アシストで脆弱性を光速検出！Snyk MCP Server と Google Code Assist による開発環境内スキャン](https://zenn.dev/00/articles/474bbad9a85d2b): AI-assisted vulnerability scanning with Snyk MCP & Google Code Assist
+- [Cursorで作るDDD Todo アプリ：AIとの対話で深めるドメイン駆動設計の理解](https://zenn.dev/00083ns/articles/csharp-ddd-todo-app): Building DDD Todo app in C# .NET 9 with Cursor AI assistance
+- [Google Colab T4でKokoro TTSの音声合成を試してみた](https://zenn.dev/00/articles/kokoro_tts_on_google_colab): Testing Kokoro-82M TTS voice synthesis on Google Colab T4 GPU
 
-## Development Environment Setup
+## Cloud Infrastructure & IaC
 
-- [初心者のためのCursor AIエディター完全ガイド](https://zenn.dev/ai4u_shunsuke/books/cursor-ide-guide): Complete beginner's guide to Cursor AI editor setup and usage
-- [WSL開発環境: 環境構築の記事まとめ](https://zenn.dev/atsushifx/articles/wsl2-debian-setup-matome): WSL Debian development environment setup guide and article index
-- [【入門者向け】Chrome拡張開発の第一歩：デベロッパーアカウント作成ガイド](https://zenn.dev/murasame_works/articles/d6c5da26d1ba3a): Beginner guide: Chrome extension developer account setup tutorial
-- [gnuplotのインストールと実行方法あれこれ](https://zenn.dev/leviosa42/articles/aaa76e147f533f): gnuplot installation guide for Windows/Linux with execution methods
-- [Linux環境でDoxygenの出力形式にCHMフォーマットを使う方法](https://zenn.dev/aikige/articles/generate-chm-from-doxygen-on-linux): Generate CHM format from Doxygen on Linux using chmcmd and Free Pascal
+- [Databricks各種リソースをPulumiでプロビジョニングする](https://zenn.dev/007/articles/db20695d68ac31): Provisioning Databricks resources with Pulumi IaC
+- [[Azure] ARM テンプレート読み解き (デプロイ後スクリプトの自動実行)](https://zenn.dev/08thse/articles/08-qt-read-101-jenkins-cluster-2-linux-1-win): Azure ARM template analysis: post-deployment script automation
+- [Azure Container Apps で TCP (not HTTP) 通信を構成する](https://zenn.dev/08thse/articles/100-tcp-on-aca): Configuring TCP (non-HTTP) communication on Azure Container Apps
+- [宣言的マイグレーション Atlas を3ヶ月ぐらい使ってみて](https://zenn.dev/046/articles/43e3f5cd4c42e6): 3-month experience with Atlas declarative database migration tool
 
-## Framework and Library Guides
+## Free Hosting & Deployment Platforms
 
-- [Angular After Tutorial](https://zenn.dev/lacolaco/books/angular-after-tutorial): Post-tutorial Angular guide covering refactoring, RxJS, and testing
-- [Learn Next.js でNext.js 14に入門](https://zenn.dev/axoloto210/articles/1ff9615e8d504c): Next.js 14 tutorial walkthrough covering App Router and deployment
-- [『All about VoidZero - The Interview with Evan You』を見てわかったこと思ったこと](https://zenn.dev/comm_vue_nuxt/articles/alexander_interview_about_voidzero_with_evan): Vue.js ecosystem: VoidZero interview with Evan You on unified toolchain
-- [jscodeshift によるひとつ上のリファクタリング・テクニックを学ぶ](https://zenn.dev/wakamsha/articles/learn-jscodeshift): Advanced jscodeshift tutorial for JavaScript/TypeScript refactoring
+- [無料で使えるホスティングサービス、10個](https://zenn.dev/00/articles/10-hosting-service-you-can-use-for-free): 10 free hosting services including Netlify, Vercel, GitHub & Next.js
 
-## AWS and Cloud Technologies
+## React & Frontend Development
 
-- [re:Invent 2025: RiskSpanのGenAI活用でPrivate Credit分析を3週間から3日に短縮](https://zenn.dev/kiiwami/articles/bf77b3f9d4ee8668): AWS re:Invent: RiskSpan GenAI case study with Amazon Bedrock & RAG
-- [re:Invent 2025: EC2インスタンスのパフォーマンス最適化とプロセッサ特性の理解](https://zenn.dev/kiiwami/articles/cbc95cd2d80e64a7): AWS re:Invent: EC2 performance optimization and processor architecture
-- [re:Invent 2025: AWS storageでGen AIとMLワークロードを高速化するアーキテクチャとコスト最適化](https://zenn.dev/kiiwami/articles/6523985968de15d6): AWS re:Invent: Storage optimization for Gen AI/ML with S3 Vectors
+- [【React 公式の旅 #2】useContextでProps渡し地獄から開放された](https://zenn.dev/03parcy10/articles/b20ff5b7111f8c): React useContext tutorial: escaping props drilling hell
+- [TailwindにContainer Queriesがやってきた](https://zenn.dev/052hide/articles/tailwindcss-container-queries): Container Queries support added to Tailwind CSS via plugin
+- [日付時刻をpickerで入力できるvue-datetime](https://zenn.dev/00_/articles/d699f498ff0e19e0a3cd): Using vue-datetime picker component with Vuetify and Luxon
+- [CSSのGradientをJSで上書きする際のCross Browser対応](https://zenn.dev/012/articles/b6ef35b68e0e1494141e): Cross-browser CSS gradient overrides with JavaScript & webkit prefixes
 
-## AI and Automation Tools
+## Backend & API Development
 
-- [Ralph Loop: The Plugin That Runs Claude Code Autonomously](https://zenn.dev/neotechpark/articles/5216f2bcb55eca): Tutorial on Ralph Loop plugin for autonomous Claude AI coding
-- [Organization内の他人が発行したOpenAI APIキーを失効させる方法 〜OpenAIへの問合せ時の教訓を添えて〜](https://zenn.dev/aidemy/articles/617a63458b903f): OpenAI API key revocation guide for organization administrators
+- [graphql-rubyでcursorページネーションをしながら現在のページと全体の件数を返す](https://zenn.dev/0000_pg/articles/1b70c09c8a9553): Cursor pagination with page count in graphql-ruby Rails app
+- [【OpenSearch】wildcard型 vs kuromoji。ストレージ容量の差を実際に測ってみた](https://zenn.dev/03da/articles/86838e8c959845): OpenSearch storage comparison: wildcard field vs kuromoji analyzer
 
-## Reference and Resources
+## Developer Tools & Utilities
 
-- [[gnuplot]参考リンクまとめ](https://zenn.dev/leviosa42/scraps/ec65291da632d2): Curated gnuplot reference links including docs and Japanese resources
-- [ShopifyでFAQ（よくある質問）を作成するアプリ6選](https://zenn.dev/natsume_katu/articles/9ca165b59dc901): Comparison of 6 Shopify FAQ apps with Japanese language support
-- [Godot でゲーム開発がしてみたい 3](https://zenn.dev/frommiddle1/articles/godot-tutorial3): Godot game engine tutorial series part 3: learning new features
-
-## Optional
-
-- [ユーンさんの記事一覧 | Zenn](https://zenn.dev/euxn23): User profile page for ユーン showing 16 articles
-- [Tomoya Kitayamaさんの記事一覧 | Zenn](https://zenn.dev/gamella): User profile for Tomoya Kitayama with 23 articles
-- [Nanaさんの記事一覧 | Zenn](https://zenn.dev/airiin): User profile for Nana with 98 published articles
+- [displayplacerを利用してモニター解像度と配置をコマンドで変更する方法](https://zenn.dev/00083ns/articles/6376f4a17cc3b0): Change monitor resolution & layout via CLI using displayplacer on macOS
+- [東京都の地下鉄駅データを、隣駅が分かるように加工する](https://zenn.dev/079aefdf/articles/c28293f039643a): Processing Tokyo Metro subway station data with pandas for adjacency
+- [Vitis-AI でdockerのベースイメージを変更する(3.0)](https://zenn.dev/079aefdf/articles/e222d327b4dae2): Changing Docker base image for Xilinx Vitis-AI 3.0 with CUDA support

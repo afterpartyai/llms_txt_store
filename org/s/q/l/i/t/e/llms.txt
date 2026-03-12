@@ -1,0 +1,47 @@
+# SQLite
+
+> > SQLite is a self-contained, serverless, public domain SQL database engine written in C, widely used as an embedded database in applications worldwide.
+
+SQLite is the most widely deployed database engine in the world, developed and maintained by D. Richard Hipp (drh) and the SQLite Consortium. The site also hosts documentation for Althttpd, a lightweight web server used to host sqlite.org itself, and utilizes Fossil for version control.
+
+## Key Topics
+
+- SQLite - embedded SQL database engine
+- Self-contained database - no external dependencies
+- Public domain - no licensing restrictions
+- C-language implementation
+- Serverless architecture
+- SQL database engine
+- Althttpd - lightweight HTTP server
+- Fossil - distributed version control system
+- SQLite Consortium - development sponsors
+- Embedded database use cases
+- C-library interface
+- JSON support in SQLite
+- TCL bindings and extensions
+
+## Getting Started
+
+- [SQLite Home Page](https://sqlite.org): Primary homepage for SQLite embedded SQL database engine
+- [About SQLite](https://sqlite.org/about.html): Overview of SQLite serverless, self-contained database engine
+
+## Althttpd Web Server
+
+- [Althttpd Help](https://sqlite.org/althttpd/help): Command reference and CLI documentation for Althttpd/Fossil
+- [Althttpd Setup Using Xinetd](https://www3.sqlite.org/althttpd/doc/trunk/xinetd.md): Guide for configuring Althttpd web server with Xinetd deployment
+- [Althttpd Downloads](https://sqlite.org/althttpd/download): Download page for Althttpd source code and Fossil repository
+- [Althttpd SSL Options](https://sqlite.org/althttpd/forumpost/b8139d20e60028ae): Discussion on SSL/TLS cipher suite configuration for Althttpd
+
+## Community Support
+
+- [Logfile Name Datetime Interpolation](https://sqlite.org/althttpd/forumpost/0e8dfd8d02bccd4a): Forum discussion on Althttpd logfile rotation datetime handling
+- [HTTP Date Header Format Discussion](https://sqlite.org/althttpd/forumpost/1d76114162): Forum post about HTTP date header GMT format RFC compliance
+- [Last-Modified Header Protocol Error](https://sqlite.org/althttpd/forumpost/3531e19567): Bug report on Last-modified header timezone issue in Alpine OS
+
+## Optional
+
+- [Althttpd Site Map](https://sqlite.org/althttpd/sitemap): Navigation sitemap for Althttpd repository structure
+- [Althttpd Timeline](https://sqlite.org/althttpd/timeline): Commit history timeline for Althttpd web server development
+- [Althttpd Check-in Details](https://sqlite.org/althttpd/info/186fc574abf4df34): Version control check-in details for SERVER_PORT CGI environment
+- [Variable Name Comment Correction](https://sqlite.org/althttpd/forumpost/91afec3c52): Code comment correction for Althttpd variable naming
+- [Alpine OS Header Bug Report](https://sqlite.org/althttpd/forumpost/c2777e3a72516e80): Forum post addressing HTTP header protocol errors in Alpine OS

@@ -1,0 +1,42 @@
+# The Data Quarry
+
+> > Technical blog exploring vector databases, embedded databases, Rust-Python interoperability, and AI engineering with DSPy and LLMs.
+
+The Data Quarry is a technical resource by Prashanth Rao covering modern data infrastructure, with deep dives into vector search algorithms (HNSW, IVF, Vamana, Annoy), embedded databases like LanceDB, and the intersection of Rust and Python in the data ecosystem. The site features tutorials on AI frameworks like DSPy and practical guidance on technical writing in the LLM era.
+
+## Key Topics
+
+- Vector databases (HNSW, IVF, Vamana, Annoy algorithms)
+- Embedded databases (LanceDB)
+- Rust-Python interoperability
+- DSPy framework and optimizers
+- Vector search systems (Qdrant, Weaviate, Milvus, Vespa, Chroma, Pinecone)
+- Semantic search and full-text search
+- AI engineering and LLM applications
+- Technical writing frameworks
+- Graph databases
+- PyData ecosystem performance
+- Modular data stack
+- Bootstrap fewshot optimization
+- Content creation strategies
+
+## Vector Databases & Search Algorithms
+
+- [Blog Archive: Vector Databases](https://thedataquarry.com/blog/5): Blog archive page 5 covering vector databases (HNSW, IVF, Vamana, Annoy)
+- [Embedded databases (3): LanceDB and the modular data stack](https://thedataquarry.com/blog/embedded-db-3): LanceDB case study: embedded vector DB with full-text & semantic search
+
+## Rust & Python Ecosystem
+
+- [How Rust is supercharging Python from the ground up](https://thedataquarry.com/blog/rust-is-supercharging-python): Rust's impact on PyData ecosystem performance and tooling
+
+## AI Engineering & DSPy Tutorials
+
+- [Learning DSPy (3): Working with optimizers](https://thedataquarry.com/blog/learning-dspy-3-working-with-optimizers): DSPy tutorial: bootstrap fewshot and GEPA optimizers walkthrough
+
+## Technical Writing & Content
+
+- [A framework for technical writing in the age of LLMs](https://thedataquarry.com/blog/a-framework-for-reading-and-writing): Framework for human technical writing in the LLM era
+
+## Projects & GitHub Activity
+
+- [GitHub activity](https://thedataquarry.com/projects): Projects, talks, and GitHub activity by Prashanth Rao on AI & data

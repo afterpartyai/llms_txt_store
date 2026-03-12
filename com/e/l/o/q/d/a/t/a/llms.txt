@@ -1,0 +1,61 @@
+# EloqData
+
+> EloqData is a next-generation converged database that breaks the memory barrier with NVMe storage, offering Redis and MongoDB compatibility, ACID transactions, and AI-native workload support.
+
+EloqData provides a multi-model database platform featuring EloqKV (distributed key-value store), EloqDoc (document storage), and EloqCloud deployment options. The platform leverages NVMe and SSD storage to overcome traditional DRAM limitations while maintaining Redis protocol compatibility and ACID guarantees.
+
+## Key Topics
+
+- EloqKV - Distributed key-value store with Redis compatibility
+- ACID transactions - Full transactional support across operations
+- Redis-compatible - Drop-in replacement for Redis workloads
+- MongoDB-compatible - Document database compatibility
+- NVMe storage - High-performance persistent storage layer
+- RESP2/RESP3 protocols - Redis serialization protocol support
+- Converged database - Multi-model unified architecture
+- AI-native workloads - Optimized for AI agent applications
+- EloqCloud - Cloud deployment and management
+- Multi-tenancy - EloqKV Proxy for cluster management
+- RocksDB - Local storage engine integration
+- Prometheus/Grafana - Monitoring and observability
+- Lua scripting - Server-side script execution
+- Pub/Sub messaging - Channel-based messaging patterns
+
+## Getting Started
+
+- [EloqData Homepage](https://www.eloqdata.com): Homepage: EloqData converged database with NVMe, ACID, AI-native workloads
+- [Introduction to EloqKV](https://www.eloqdata.com/eloqkv/introduction): EloqKV architecture: distributed KV store with ACID, Redis protocol, cloud
+- [Install from Binary](https://www.eloqdata.com/eloqdoc/install-from-binary): EloqDoc binary installation guide with RocksDB local storage setup
+
+## Platform & Infrastructure
+
+- [EloqKV Proxy](https://www.eloqdata.com/eloqkv/eloqkv-proxy): EloqKV Proxy guide: multi-tenancy, cluster management, Redis compatibility
+- [Monitor Overview](https://www.eloqdata.com/eloqkv/monitor): EloqKV monitoring with Prometheus and Grafana for performance metrics
+
+## List Commands Reference
+
+- [RPUSH](https://www.eloqdata.com/eloqkv/list/RPUSH): RPUSH command: append values to list end with RESP2/RESP3 protocols
+- [RPUSHX](https://www.eloqdata.com/eloqkv/list/RPUSHX): RPUSHX command: append to list only if exists, Redis-compatible
+- [LPOP](https://www.eloqdata.com/eloqkv/list/LPOP): LPOP command: remove and return first elements from list with RESP support
+- [RPOP](https://www.eloqdata.com/eloqkv/list/RPOP): RPOP command: remove and return last element from list with RESP support
+- [BRPOP](https://www.eloqdata.com/eloqkv/list/BRPOP): BRPOP command: blocking pop from list tail in Redis-compatible EloqKV
+- [LRANGE](https://www.eloqdata.com/eloqkv/list/LRANGE): LRANGE command: retrieve list elements by index range with RESP2/RESP3
+- [LREM](https://www.eloqdata.com/eloqkv/list/LREM): LREM command: remove matching elements from list with count control
+
+## Hash & Set Commands Reference
+
+- [HDEL](https://www.eloqdata.com/eloqkv/hash/HDEL): HDEL command reference: remove fields from hash with RESP2/RESP3 support
+- [SADD](https://www.eloqdata.com/eloqkv/set/SADD): SADD command: add members to set with RESP2/RESP3 support
+
+## String & Bitmap Commands Reference
+
+- [BITCOUNT](https://www.eloqdata.com/eloqkv/bitmap/BITCOUNT): BITCOUNT command reference: count set bits in string with RESP2/RESP3
+
+## Pub/Sub & Scripting Commands Reference
+
+- [PSUBSCRIBE](https://www.eloqdata.com/eloqkv/pubsub/PSUBSCRIBE): PSUBSCRIBE command: pattern-based channel subscription with wildcards
+- [EVAL](https://www.eloqdata.com/eloqkv/scripting/EVAL): EVAL command: execute Lua scripts server-side for atomic operations
+
+## Support & Community
+
+- [Contact Us](https://eloqdata.com/contact): Contact form and Discord community support for EloqData inquiries

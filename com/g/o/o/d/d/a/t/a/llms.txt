@@ -1,0 +1,61 @@
+# GoodData
+
+> > GoodData provides an AI-enabled, agentic analytics platform with embedded BI capabilities, semantic layer, and headless architecture for enterprise decision-making.
+
+GoodData Cloud is an enterprise analytics platform featuring FlexConnect data connectors, GoodData UI SDK, and the Longbow query engine powered by Arrow Flight RPC. The platform emphasizes API-first headless BI, embedded analytics, and AI agents for automated decision intelligence across industries including financial services.
+
+## Key Topics
+
+- AI Agents & Agentic Analytics
+- Embedded Analytics
+- Semantic Layer
+- Headless BI & API-First Architecture
+- GoodData Cloud Platform
+- FlexConnect Data Connectors
+- GoodData UI SDK
+- Arrow Flight RPC & Longbow Engine
+- Business Intelligence
+- Data Visualization
+- AI-Enabled Analytics
+- DataOps & CI/CD Automation
+- Snowflake Integration
+- Enterprise Data Security
+- Analytics Challenges & Best Practices
+
+## Platform Overview
+
+- [GoodData | AI-enabled, agentic, and embedded decision-making](https://www.gooddata.com): Homepage for GoodData's AI-enabled analytics platform with semantic layer
+
+## AI & Agentic Analytics
+
+- [AI agents: Now BI Can Finally Deliver Measurable ROI | GoodData](https://www.gooddata.com/blog/ai-agents-now-bi-can-finally-deliver-measurable-roi): How AI agents transform BI into decision intelligence with measurable ROI
+- [AI in Financial Services and Banking | GoodData](https://www.gooddata.com/blog/ai-in-financial-services-and-banking-how-organizations-progress-from-analytics-to-agents): AI maturity levels in banking from analytics to autonomous AI agents
+- [AI Data Security You Can Trust: Building Privacy and Governance into Enterprise Analytics | GoodData](https://www.gooddata.com/blog/ai-you-can-trust-how-we-re-building-secure-contextual-and-composable-analytics): GoodData AI security approach with LLM governance and data privacy
+- [3 Job Skills that AI Can Never Replace | GoodData](https://www.gooddata.com/blog/3-job-skills-that-ai-can-never-replace): Explores irreplaceable human skills in the age of AI and automation
+
+## Embedded Analytics & Integration
+
+- [Advanced Method of Embedding Analytics via Code | GoodData](https://www.gooddata.com/blog/advanced-embedded-analytics): Advanced embedding with React SDK, Python, and REST APIs for custom viz
+- [API-First and Headless BI | What You Need to Know  | GoodData](https://www.gooddata.com/blog/api-first-headless-bi-what-to-know): Headless BI architecture and API-first approach for consistent metrics
+- [3 Phases of Creating an Analytic Application | GoodData](https://www.gooddata.com/blog/3-phases-creating-analytic-application): Guide to developing analytic applications from requirements to beta testing
+- [GoodData User Provisioning Automation Guide With Python SDK | GoodData](https://www.gooddata.com/blog/automating-user-provisioning-in-gooddata): Python SDK guide for automating user provisioning with Auth0 OIDC
+
+## Data Platform & Architecture
+
+- [5 Common Analytics Challenges for Snowflake Users | GoodData](https://www.gooddata.com/blog/5-common-analytics-challenges-for-snowflake-users): Solutions for Snowflake analytics challenges using GoodData platform
+- [Arrow Flight RPC 101 | GoodData](https://www.gooddata.com/blog/arrow-flight-rpc): Arrow Flight RPC fundamentals powering Longbow engine and FlexQuery
+- [How to Automate Data Analytics Using CI/CD | GoodData](https://www.gooddata.com/blog/automate-data-analytics-using-ci-cd): DataOps automation with CI/CD for analytics using dbt, Airflow, Airbyte
+- [Analytics for the Modern World - Part 2: How Complex Data Creates Challenges for Analytics | GoodData](https://www.gooddata.com/blog/analytics-modern-world-part-2): Part 2: Complex data modeling challenges and many-to-many relationships
+- [5 pillars of Data as a Service companies | GoodData](https://www.gooddata.com/blog/5-pillars-data-service-companies): Core principles of DaaS companies and data-driven decision making
+
+## Dashboards & Visualization Best Practices
+
+- [How To Create the Best Dashboards in 6 Easy Steps | GoodData](https://www.gooddata.com/blog/best-dashboards): Six-step guide to creating interactive and customizable BI dashboards
+- [10 Questions From Our Interactive Data Experience Webinar | GoodData](https://www.gooddata.com/blog/10-questions-from-our-interactive-data-experience-webinar): Webinar Q&A on interactive data experiences and dashboard best practices
+- [Alerts Are Dead: Long Live Data-Driven Actions | GoodData](https://www.gooddata.com/blog/alerts-are-dead-long-live-data-driven-actions): GoodData Cloud's automated workflow actions replacing traditional alerts
+- [Automatic Emailing of KPI Dashboards: Bringing Insights to Users Who Prefer Hard Copies | GoodData](https://www.gooddata.com/blog/automatic-emailing-kpi-dashboards-bringing-insights-users-who-prefer-hard-copies): Automated email reports for improved dashboard adoption and accessibility
+- [Analytics for Data-Driven Product Management | GoodData](https://www.gooddata.com/blog/analytics-data-driven-product-management): Product management KPIs focusing on adoption and user engagement metrics
+
+## Blog & Resources
+
+- [Blog | GoodData](https://www.gooddata.com/blog): Blog index covering BI, AI analytics, and embedded analytics topics
