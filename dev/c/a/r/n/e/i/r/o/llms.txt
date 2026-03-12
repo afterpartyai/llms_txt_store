@@ -1,0 +1,42 @@
+# Luiz Carneiro Blog
+
+> > Technical blog by Luiz Carneiro covering AI engineering with Gemini SDK/ADK, agentic AI systems, and programming tutorials in TypeScript and Go.
+
+This site focuses on practical AI engineering, particularly Google's Gemini ecosystem (SDK, ADK, and API), alongside software development tutorials. Content ranges from LLM fundamentals to advanced agent architectures and programming language comparisons.
+
+## Key Topics
+
+- Gemini SDK and Agent Development Kit (ADK)
+- Agentic AI and AI Agents
+- LLM sampling parameters (temperature, top-p, top-k)
+- Agent loop phases (Observe, Think, Act, Learn)
+- Rules, Hooks, and Skills in agent engineering
+- TypeScript interfaces and utility types
+- Go (Golang) programming patterns
+- Gemini API and Google Generative AI
+- Agent lifecycle and observability
+- AI engineering best practices
+- Python for AI development
+- LLM constraints and parameters
+- Gemini 1.5 Pro
+- Developer tutorials and gotchas
+
+## AI Engineering & Gemini
+
+- [Gemini Agents: from SDK to ADK - The Agent Loop](https://www.carneiro.dev/blog/ai/gemini-agents-sdk-to-adk-01-agent-loop): Deep dive into Gemini agent loop phases: Observe, Think, Act, Learn
+- [Agentic-AI Glossary: Rules, Hooks, and Skills](https://www.carneiro.dev/blog/ai/agentic-ai-glossary-skills-rules-hooks): Glossary defining Skills, Rules, and Hooks for Agentic AI engineering
+- [Understanding Temperature, Top-p, and Top-k in LLMs](https://www.carneiro.dev/blog/ai/llm-sampling-parameters): Guide to LLM sampling parameters using Python Gemini API
+- [AI Blog Archive](https://www.carneiro.dev/blog/ai): Archive of AI engineering posts covering Gemini SDK/ADK and LLM topics
+
+## TypeScript Tutorials
+
+- [Making Keys Optional in TypeScript Interfaces](https://www.carneiro.dev/blog/typescript/typescript-make-key-optional): TypeScript tutorial on making interface keys optional with utility types
+
+## Go (Golang) Programming
+
+- [GOtchas in Go #1/10: Vars, Funcs, Structs, and the Interface Scam](https://www.carneiro.dev/blog/golang/gotchas-in-go-01-vars-funcs-structs-interfaces): Go tutorial series #1: variables, functions, structs vs TypeScript
+- [Golang Blog Archive](https://www.carneiro.dev/blog/golang): Archive of Golang-related blog posts and programming tutorials
+
+## Essential
+
+- [Home](https://www.carneiro.dev): Homepage of Luiz Carneiro's blog on AI, Gemini, and programming

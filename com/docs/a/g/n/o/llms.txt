@@ -1,0 +1,61 @@
+# Agno Documentation
+
+> > Agno is an AI agent framework for building, deploying, and evaluating intelligent agents with AgentOS, featuring multi-model support (OpenAI, GPT-5.2), knowledge bases, and production-ready infrastructure.
+
+This documentation covers the Agno framework and AgentOS platform for creating AI agents with memory, knowledge retrieval (RAG), tool integration, and team workflows. It includes guides for deployment with Docker, database integrations (PostgreSQL, SQLite, Redis), evaluation tools, and production interfaces like WhatsApp.
+
+## Key Topics
+
+- AgentOS - Core platform for agent orchestration and deployment
+- OpenAI & GPT-5.2 - Primary LLM integrations
+- Agent Configuration - Memory, tools, and knowledge setup
+- Knowledge Base & RAG - Vector search with PgVector and LanceDB
+- PostgreSQL & SQLite - Database providers for agent storage
+- Docker Deployment - Containerized agent deployment
+- AgentOSClient - Remote agent interaction API
+- Evaluation Tools - Accuracy and performance testing
+- JWT Middleware - Authentication and RBAC
+- OpenTelemetry Tracing - Observability with OpenInference
+- Workflow & Teams - Multi-agent orchestration
+- WhatsApp Integration - Production chat interface
+- Tool Call Compression - Context optimization
+- MCP Protocol - Model Context Protocol support
+
+## Getting Started with AgentOS
+
+- [Minimal example for AgentOS.](https://docs.agno.com/examples/agent-os/basic): Basic AgentOS setup tutorial for agents, teams & workflows with PostgreSQL
+- [Deploy with Docker](https://docs.agno.com/deploy/templates/docker/deploy): Deploy AgentOS locally with Docker & PostgreSQL, then to cloud platforms
+- [Advanced Demo](https://docs.agno.com/examples/agent-os/advanced-demo/overview): Advanced AgentOS examples with MCP, teams, reasoning models & knowledge
+
+## Building Agents
+
+- [Agent with Knowledge](https://docs.agno.com/agents/usage/agent-with-knowledge): Build Agentic RAG with searchable knowledge base using LanceDB & OpenAI
+- [Agent with Memory](https://docs.agno.com/agents/usage/agent-with-memory): Persist user preferences across conversations with SQLite MemoryManager
+- [Tool Call Compression](https://docs.agno.com/examples/agents/advanced/tool-call-compression): Compress tool call history to reduce context size in Agent workflows
+- [Agentos Excel Analyst](https://docs.agno.com/examples/agent-os/knowledge/agentos-excel-analyst): Excel analyst agent with PostgreSQL knowledge base & PgVector integration
+
+## Database Configuration
+
+- [Database Index](https://docs.agno.com/database/providers/overview): Index of supported databases: PostgreSQL, MySQL, SQLite, MongoDB
+- [PostgreSQL](https://docs.agno.com/database/providers/postgres/overview): PostgreSQL setup guide for agent session storage with PgVector & Docker
+- [Example showing how to use AgentOS with Redis as database](https://docs.agno.com/examples/agent-os/dbs/redis-db): Setup AgentOS with Redis database for agent teams using OpenAI GPT-4o
+
+## AgentOS Client & Remote Access
+
+- [Basic AgentOSClient Example](https://docs.agno.com/examples/agent-os/client/basic-client): Connect to remote AgentOS instance using AgentOSClient with async ops
+- [Uploading Content to Knowledge Base with AgentOSClient](https://docs.agno.com/examples/agent-os/client/upload-content): Upload documents to knowledge base via AgentOSClient in Python
+
+## Deployment & Integrations
+
+- [WhatsApp Bot](https://docs.agno.com/deploy/interfaces/whatsapp/overview): Deploy AgentOS agents on WhatsApp Business with webhook configuration
+- [JWT Middleware](https://docs.agno.com/agent-os/middleware/jwt): Secure AgentOS with JWT token validation, RBAC & JWKS authentication
+
+## Evaluation & Testing
+
+- [Accuracy with Tools](https://docs.agno.com/evals/accuracy/usage/accuracy-with-tools): Evaluate agent accuracy with calculator tools using AccuracyEval & OpenAI
+- [Performance on Agent with Storage](https://docs.agno.com/evals/performance/usage/performance-with-storage): Analyze runtime & memory usage of Agents using SQLite storage with OpenAI
+
+## Observability & Tracing
+
+- [Traces with AgentOS](https://docs.agno.com/examples/agent-os/tracing/basic-workflow-tracing): Implement OpenTelemetry tracing for AgentOS workflows with OpenInference
+- [Agent with Reasoning Tools Tracing](https://docs.agno.com/agent-os/tracing/usage/agent-with-reasoning-tools-tracing): Trace AgentOS agents with step-by-step reasoning tools using OpenAI

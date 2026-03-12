@@ -1,0 +1,61 @@
+# FreeAPIs.io
+
+> > A comprehensive directory of free and public APIs across entertainment, gaming, finance, development tools, and data services with detailed authentication and CORS information.
+
+FreeAPIs.io catalogs hundreds of REST APIs, GraphQL APIs, and WebSocket services, documenting authentication requirements (OAuth, API keys, or no-auth), CORS support, and JSON response formats. The directory covers diverse categories from Spotify and Disney to World Bank data and web scraping tools.
+
+## Key Topics
+
+- REST API
+- JSON
+- CORS (Cross-Origin Resource Sharing)
+- OAuth
+- API Authentication
+- No Authentication APIs
+- GraphQL API
+- Developer Tools
+- Public APIs
+- API Documentation
+- API Key Authentication
+- Free APIs
+- JavaScript
+- WebSocket
+- API Directory
+
+## Media & Entertainment APIs
+
+- [Spotify API](https://freeapis.io/spotify): Spotify music catalog API with OAuth, playlist & library management
+- [Disney API](https://freeapis.io/disney): Disney character information API including Mickey Mouse data
+- [Freesound API](https://freeapis.io/freesound): Music samples and audio database API with search/upload features
+- [RandomDog API](https://freeapis.io/randomdog): Random dog images API with no authentication required
+
+## Gaming & Entertainment APIs
+
+- [GraphQL Pokemon API](https://freeapis.io/graphql-pokemon): GraphQL Pokemon API by Favware supporting generations 1-8
+- [Dungeons and Dragons API](https://freeapis.io/dungeons-and-dragons): D&D 5th edition API for spells, classes, monsters reference data
+- [PUBG API](https://freeapis.io/pubg): PUBG game data API with player stats, matches, leaderboards
+- [Football-Data API](https://freeapis.io/football-data): Football API with match info, players, teams, Premier League data
+
+## Developer Tools & Infrastructure
+
+- [Hasura API](https://freeapis.io/hasura): GraphQL & REST API engine with built-in authorization
+- [ZenRows API](https://freeapis.io/zenrows): Web scraping API with anti-bot bypass, JS rendering, rotating proxies
+- [CloudConvert API](https://freeapis.io/cloudconvert): File conversion API for audio, video, documents, images, spreadsheets
+- [Virushee API](https://freeapis.io/virushee): Virushee file/data malware scanning and security API
+- [BaconMockup API](https://freeapis.io/baconmockup): Resizable bacon placeholder images API for web design/testing
+
+## Finance & Data APIs
+
+- [Real Time Finance API](https://freeapis.io/real-time-finance): WebSocket API for realtime stock market data tracking
+- [World Bank API](https://freeapis.io/world-bank): World Bank economic & development indicators data API
+
+## Public Data & Information APIs
+
+- [UK Police API](https://freeapis.io/uk-police): UK Police crime & neighborhood data API with JSON/CORS support
+- [Hashnode API](https://freeapis.io/hashnode): Hashnode developer blogging platform API with no auth required
+- [Amétyste API](https://freeapis.io/am-thyste): Discord image generation API with filters and GIF creation
+
+## Optional
+
+- [Free APIs Directory - Page 8](https://freeapis.io/page/8): API directory listing page 8 with Open Charge Map, Nordigen, Huobi
+- [Free APIs Directory - Page 13](https://freeapis.io/page/13): API directory listing page 13 with WebScraping.AI, UPS, SonarQube

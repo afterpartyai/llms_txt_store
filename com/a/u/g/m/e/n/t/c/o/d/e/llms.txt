@@ -1,61 +1,57 @@
 # Augment Code
 
-> > Augment Code is an AI-powered software development platform featuring Context Engine, autonomous agents, and enterprise-grade code review tools.
+> > Enterprise AI-powered development platform featuring spec-driven development, MCP server integrations, and automated code workflows for modern software teams.
 
-Augment Code provides AI coding agents that achieve top performance on benchmarks like SWE-Bench Verified and SWE-Bench Pro. The platform integrates with Claude 3.7, Claude Sonnet 4, and other leading models to deliver context-aware code generation, automated code review, and autonomous development capabilities for individual developers and enterprises.
+Augment Code provides developer tools and guides for AI-assisted software development, with extensive Model Context Protocol (MCP) server registry entries for integrating LLMs with databases, Kubernetes, data extraction, and development environments. The platform emphasizes context engineering, security automation, and enterprise-scale code understanding.
 
 ## Key Topics
 
-- Context Engine
-- AI Agents
-- SWE-Bench Verified
-- Claude 3.7 & Sonnet 4
-- Auggie CLI
-- Code Review Automation
-- Codebase Understanding
-- Agent Architecture
-- Developer Productivity
-- Enterprise Development
-- Open Source Support
-- Benchmark Results
-- Code Generation
-- Visual Studio Code Integration
-- Autonomous Coding
+- Model Context Protocol (MCP)
+- Spec-driven development
+- AI agents and automation
+- Context engineering
+- Enterprise development workflows
+- Kubernetes integration
+- LLM integration patterns
+- Code review and security
+- Developer productivity
+- Python and Node.js servers
+- Docker containerization
+- OAuth and JWT authentication
+- PostgreSQL and Trino databases
+- Vulnerability detection
+- Computer-using agents
 
-## Overview
+## Developer Guides
 
-- [Augment Code - The Software Agent Company](https://www.augmentcode.com): Homepage for AI software development platform with Context Engine
+- [Mastering AI Context — and why it matters more than token count](https://www.augmentcode.com/guides/mastering-ai-context-and-why-it-matters-more-than-token-count): Technical guide to AI context management for enterprise codebases
+- [7 Ways Context Engineering Supercharges Enterprise AI Dev](https://www.augmentcode.com/guides/7-ways-context-engineering-supercharges-enterprise-ai-dev): Guide to context engineering for enterprise AI development
+- [Spec-Driven Development & AI Agents Explained](https://www.augmentcode.com/guides/spec-driven-development-ai-agents-explained): Guide to spec-driven development with multi-agent coordination
+- [12 Ways Computer-Using Agents Transform IT Workflows](https://www.augmentcode.com/guides/12-ways-computer-using-agents-transform-it-workflows): Guide to automating IT workflows with computer-using agents
+- [Spec-Driven Frontend Migration With AI Prompts](https://www.augmentcode.com/guides/spec-driven-frontend-migration-with-ai-prompts): Guide to automating frontend migrations using spec-driven AI agents
+- [How to Do Code Review: A Practical Guide for Developers](https://www.augmentcode.com/guides/how-to-do-code-review-a-practical-guide-for-developers): Evidence-based code review guide using Google's framework
 
-## Product Features & Launches
+## MCP Server Registry - Infrastructure & DevOps
 
-- [Remote Agent clears your backlog while you plan what's next](https://www.augmentcode.com/blog/introducing-remote-agent): Remote Agent launch: autonomous backlog clearing and engineering toil reduction
-- [Code review at scale is broken. Here's how we're fixing it.](https://www.augmentcode.com/blog/introducing-augment-code-review): Launch announcement: Augment Code Review for enterprise-scale code review
-- [Introducing Next Edit: AI that understands the ripple effect of code changes](https://www.augmentcode.com/blog/introducing-next-edit-for-vscode): Next Edit feature launch: AI tracks code dependencies in VS Code
-- [How we solved the "AI agent black box" problem with typed tasks](https://www.augmentcode.com/blog/how-we-built-tasklist): Technical breakdown of Tasklist: solving AI agent transparency with typed tasks
-- [From spaghetti prompts to structured plans: Tasklist in real-world engineering](https://www.augmentcode.com/blog/how-augment-uses-tasklist): Real-world engineering use of Tasklist feature for structured AI workflows
-- [How we built Memory Review](https://www.augmentcode.com/blog/how-we-built-memory-review): Technical deep-dive on building Memory Review feature for agent context
+- [k8m - Kubernetes Management](https://www.augmentcode.com/mcp/k8m): AI-driven Kubernetes dashboard with MCP integration and 49+ tools
+- [mcp-k8s-go - Kubernetes Go Server](https://www.augmentcode.com/mcp/mcp-k8s-go): Golang MCP server exposing Kubernetes clusters via chat interface
+- [mcp-trino - Distributed SQL Engine](https://www.augmentcode.com/mcp/mcp-trino): MCP server exposing Trino distributed SQL engine via STDIO/HTTP transports
+- [isaac-sim-mcp - NVIDIA Isaac Sim](https://www.augmentcode.com/mcp/isaac-sim-mcp): MCP extension adding natural-language control to NVIDIA Isaac Sim
 
-## Benchmark Results & Performance
+## MCP Server Registry - Data & Development Tools
 
-- [#1 open-source agent on SWE-Bench Verified by combining Claude 3.7 and O1](https://www.augmentcode.com/blog/1-open-source-agent-on-swe-bench-verified-by-combining-claude-3-7-and-o1): Benchmark results: #1 open-source agent on SWE-Bench using Claude 3.7
-- [Auggie tops SWE-Bench Pro](https://www.augmentcode.com/blog/auggie-tops-swe-bench-pro): Auggie CLI tops SWE-Bench Pro benchmark by Scale AI
-- [Software agents you can trust](https://www.augmentcode.com/blog/software-agents-you-can-trust): Augment Agent architecture for trustworthy autonomous coding with Claude 3.7
-- [Claude Sonnet 4: The best model. With the best Context Engine.](https://www.augmentcode.com/blog/claude-sonnet-4-the-best-model-with-the-best-context-engine): Claude Sonnet 4 integration with Augment's Context Engine
+- [OpenDataMCP - Open Data Framework](https://www.augmentcode.com/mcp/opendatamcp): MCP framework connecting open data to LLMs with CLI and provider tools
+- [jupyter-mcp-server - Notebook Integration](https://www.augmentcode.com/mcp/jupyter-mcp-server): MCP server for real-time Jupyter notebook interaction and execution
+- [agentql-mcp - Web Data Extraction](https://www.augmentcode.com/mcp/agentql-mcp): MCP server integrating AgentQL web data extraction tool
+- [jadx-ai-mcp - Android Decompiler](https://www.augmentcode.com/mcp/jadx-ai-mcp): JADX decompiler MCP plugin for LLM-powered Android APK analysis
+- [imagesorcery-mcp - Image Processing](https://www.augmentcode.com/mcp/imagesorcery-mcp): MCP server providing image processing tools via OpenCV and Ultralytics
+- [mcp-summarizer - Content Summarization](https://www.augmentcode.com/mcp/mcp-summarizer): MCP server using Gemini 1.5 Pro for multi-format content summarization
 
-## Technical Architecture & Engineering
+## Blog & Announcements
 
-- [How we made code search 40% faster for 100M+ line codebases using quantized vector search](https://www.augmentcode.com/blog/repo-scale-100M-line-codebase-quantized-vector-search): Technical: 40% faster code search using quantized vector search for large repos
-- [Securing the code that writes code: A look inside Augment Code's AI platform](https://www.augmentcode.com/blog/securing-the-code-that-writes-code-a-look-inside-our-ai-platform): Security architecture: protecting codebase indexing with proof-of-possession
-- [Developers are choosing older AI models — and the data explain why](https://www.augmentcode.com/blog/developers-are-choosing-older-ai-models-and-16b-tokens-of-data-explain-why): Analysis of 16B tokens showing why developers prefer older AI models
+- [Automate security at scale: How Augment Code and Snyk eliminate manual security bottlenecks](https://www.augmentcode.com/blog/augment-snyk-partnership): Partnership announcement: Augment Code and Snyk security automation
 
-## Pricing & Plans
+## Optional
 
-- [Our new credit-based plans are now live](https://www.augmentcode.com/blog/our-new-credit-based-plans-are-now-live): Credit-based pricing plans now available with Haiku & Sonnet 4.5 support
-- [Augment Code's pricing is changing on October 20, 2025](https://www.augmentcode.com/blog/augment-codes-pricing-is-changing): Pricing change announcement: new credit-based model effective Oct 2025
-- [Augment is free for open source](https://www.augmentcode.com/blog/augment-is-free-for-open-source): Free tier announcement for open-source projects and contributors
-
-## Insights & Leadership
-
-- [Cultivating a culture of AI experimentation: A practical guide for engineering leaders](https://www.augmentcode.com/blog/cultivating-culture-of-ai-experimentation-guide-for-engineering-leaders): Guide for engineering leaders on AI adoption with Redis & Workday insights
-- [The end of linear work](https://www.augmentcode.com/blog/the-end-of-linear-work): Vision: multi-agent coordination beyond Git's linear workflow constraints
-- [Personal journey: Reimagining software engineering through AI](https://www.augmentcode.com/blog/reimagining-software-engineering-through-ai): Founder's journey from CMU to building AI-powered software engineering tools
+- [Legal](https://www.augmentcode.com/legal): Legal hub: terms, privacy policies, and enterprise agreements
+- [Enterprise Terms of Service](https://www.augmentcode.com/legal/enterprise-terms-of-service): Enterprise Terms of Service for Augment Computing, Inc.

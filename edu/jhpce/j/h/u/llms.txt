@@ -1,0 +1,58 @@
+# JHPCE (Johns Hopkins Joint High Performance Computing Exchange)
+
+> > JHPCE is Johns Hopkins' high-performance computing cluster supporting biomedical research with SLURM job scheduling, secure data enclaves (C-SUB, JADE), and NIST 800-171 compliance for CMS healthcare data.
+
+The JHPCE cluster provides computational infrastructure for Johns Hopkins researchers with specialized environments including the C-SUB secure subcluster and JADE cluster for CUI-compliant healthcare research. The platform supports standard scientific software (R, Python, SAS, Matlab) and provides comprehensive storage, data transfer, and job scheduling capabilities through SLURM.
+
+## Key Topics
+
+- SLURM job scheduling
+- JADE cluster (secure CUI environment)
+- C-SUB secure subcluster
+- NIST 800-171 compliance
+- CMS healthcare data
+- Storage quotas and ZFS
+- SFTP and secure data transfer
+- MobaXterm SSH access
+- Scientific computing (R, Python, SAS, Matlab)
+- Cluster storage management
+- Two-factor authentication
+- HPC resource allocation
+- File transfer security
+- CUI compliance requirements
+
+## Getting Started
+
+- [New User Onboarding](https://jhpce.jhu.edu/joinus): New user onboarding guide with pricing, compute charges, and access info
+- [FAQ](https://jhpce.jhu.edu/help/faq): Frequently asked questions about SLURM, file transfer, and cluster basics
+- [Password Reset and Two-Factor Authentication](https://jhpce.jhu.edu/help/password): Password reset and Google Authenticator two-factor authentication setup
+- [Grant and Acknowledgment Text](https://jhpce.jhu.edu/aboutus/GrantAndAckBlurbs): Grant submission and acknowledgment text for JHPCE HPC infrastructure
+
+## Secure Computing Environments
+
+- [C-SUB Secure Subcluster](https://jhpce.jhu.edu/csub/csub-overview): C-SUB secure subcluster for CMS healthcare data research and compliance
+- [JADE Cluster Data Transfer](https://jhpce.jhu.edu/jade/access/transfer-overview): JADE cluster data transfer overview with SFTP and CUI compliance details
+- [JADE Migration Guide for CMS Users](https://jhpce.jhu.edu/jade/transition/cms-transition): JADE cluster migration guide for CMS users transitioning from C-SUB
+- [MobaXterm Access to JADE](https://jhpce.jhu.edu/jade/access/mobaxterm-jade): MobaXterm SSH access guide for JADE cluster (placeholder page)
+- [Filesystem Encryption with ENCFS](https://jhpce.jhu.edu/files/encfs): ENCFS filesystem encryption setup guide with FUSE and AES encryption
+
+## Storage and Data Management
+
+- [Storage Overview](https://jhpce.jhu.edu/storage): Overview of JHPCE storage systems, quotas, and data management policies
+- [Storage Tips](https://jhpce.jhu.edu/storage/storage-tips): Linux storage tips including disk usage, ZFS compression, and du commands
+- [OneDrive via rclone](https://jhpce.jhu.edu/access/onedrive): rclone configuration guide for OneDrive access with OAuth setup
+
+## SLURM Job Scheduling
+
+- [sacct Command Tips](https://jhpce.jhu.edu/slurm/tips-sacct): SLURM sacct command examples for job accounting and resource monitoring
+- [SLURM Job States Reference](https://jhpce.jhu.edu/slurm/includes/all-job-states): Complete Slurm job states reference from SchedMD documentation
+
+## Scientific Software
+
+- [Matlab](https://jhpce.jhu.edu/sw/matlab): Matlab usage guide for batch and interactive computing with SLURM
+- [Chrome Browser](https://jhpce.jhu.edu/sw/chrome): Chrome/Chromium browser usage and profile management on JHPCE cluster
+
+## Optional
+
+- [Documentation Features](https://jhpce.jhu.edu/ourtools/features): MkDocs and Markdown features for JHPCE documentation authoring
+- [Documentation Wishlist](https://jhpce.jhu.edu/ourtools/wishlist): MkDocs feature requests and documentation site enhancement wishlist

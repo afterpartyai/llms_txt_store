@@ -1,0 +1,58 @@
+# Hugging Face
+
+> > The leading platform for machine learning collaboration, hosting models, datasets, and applications with tools like Transformers, Optimum, and the Hugging Face Hub.
+
+Hugging Face is the AI community's home for sharing and deploying state-of-the-art machine learning models, including LLMs like Llama and Mistral, vision-language models, and specialized tools for evaluation, training, and deployment. The platform serves researchers, developers, and organizations building AI applications across natural language processing, computer vision, robotics, and more.
+
+## Key Topics
+
+- Large Language Models (LLMs)
+- Hugging Face Hub
+- Transformers library
+- Model evaluation and benchmarking
+- Vision-language models
+- LLM deployment and optimization
+- AI agents and tool calling
+- Multilingual NLP
+- Model fine-tuning and training
+- NVIDIA and Intel hardware acceleration
+- Open LLM Leaderboard
+- Llama and Mistral models
+- Synthetic data generation
+- Reinforcement learning
+- Content moderation and safety
+
+## Model Releases and Announcements
+
+- [Welcome the NVIDIA Llama Nemotron Nano VLM to Hugging Face Hub](https://huggingface.co/blog/nvidia/llama-nemotron-nano-vl): NVIDIA Llama Nemotron Nano VL vision-language model release on Hub
+- [Falcon-Arabic: A Breakthrough in Arabic Language Models](https://huggingface.co/blog/tiiuae/falcon-arabic): TII's Falcon-Arabic language model announcement and benchmarks
+- [Welcoming Llama Guard 4 on Hugging Face Hub](https://huggingface.co/blog/llama-guard-4): Meta's Llama Guard 4 multimodal content moderation model release
+- [SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data](https://huggingface.co/blog/smolvla): SmolVLA vision-language-action model for robotics with Lerobot data
+- [Visual Document Retrieval Goes Multilingual](https://huggingface.co/blog/vdr-2b-multilingual): vdr-2b-multi-v1 multilingual visual document retrieval model release
+
+## LLM Evaluation and Benchmarking
+
+- [The Hallucinations Leaderboard, an Open Effort to Measure Hallucinations in Large Language Models](https://huggingface.co/blog/leaderboard-hallucinations): Hallucinations Leaderboard for measuring LLM factuality and faithfulness
+- [Back to The Future: Evaluating AI Agents on Predicting Future Events](https://huggingface.co/blog/futurebench): FutureBench benchmark for evaluating AI agents on future event prediction
+- [Open LLM Leaderboard: DROP deep dive](https://huggingface.co/blog/open-llm-leaderboard-drop): Deep dive analysis of DROP benchmark in Open LLM Leaderboard
+- [🇵🇭 FilBench - Can LLMs Understand and Generate Filipino?](https://huggingface.co/blog/filbench): FilBench benchmark for evaluating LLMs on Filipino language understanding
+- [How good are LLMs at fixing their mistakes? A chatbot arena experiment with Keras and TPUs](https://huggingface.co/blog/keras-chatbot-arena): Chatbot arena experiment evaluating LLM error correction with Keras/TPUs
+
+## Model Deployment and Optimization
+
+- [Optimize and deploy with Optimum-Intel and OpenVINO GenAI](https://huggingface.co/blog/deploy-with-openvino): Guide to optimize and deploy models with Optimum-Intel and OpenVINO GenAI
+- [Hugging Face Text Generation Inference available for AWS Inferentia2](https://huggingface.co/blog/text-generation-inference-on-inferentia2): TGI deployment guide for AWS Inferentia2 with SageMaker integration
+- [Easily Train Models with H100 GPUs on NVIDIA DGX Cloud](https://huggingface.co/blog/train-dgx-cloud): Tutorial for training models with H100 GPUs on NVIDIA DGX Cloud
+- [Accelerating Protein Language Model ProtST on Intel Gaudi 2](https://huggingface.co/blog/intel-protein-language-model-protst): ProtST protein language model optimization for Intel Gaudi 2 accelerators
+
+## AI Agents and Advanced Techniques
+
+- [License to Call: Introducing Transformers Agents 2.0](https://huggingface.co/blog/agents): Transformers Agents 2.0 framework for LLM agents and tool calling
+- [KV Cache from scratch in nanoVLM](https://huggingface.co/blog/kv-cache): KV cache implementation tutorial for autoregressive generation in nanoVLM
+- [Cosmopedia: how to create large-scale synthetic data for pre-training Large Language Models](https://huggingface.co/blog/cosmopedia): Cosmopedia synthetic dataset creation for LLM pre-training methodology
+- [Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries](https://huggingface.co/blog/async-rl-training-landscape): Comparative analysis of async training in 16 open-source RL libraries
+
+## Specialized Applications
+
+- [Patch Time Series Transformer in Hugging Face](https://huggingface.co/blog/patchtst): PatchTST for time series forecasting with transfer learning capabilities
+- [Hugging Face partners with TruffleHog to Scan for Secrets](https://huggingface.co/blog/trufflesecurity-partnership): TruffleHog partnership for automated secret scanning in repositories

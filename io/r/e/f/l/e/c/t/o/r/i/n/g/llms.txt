@@ -1,0 +1,64 @@
+# Reflectoring
+
+> > Reflectoring is a software development blog focused on Spring Boot, Java, and modern software engineering practices with practical tutorials and in-depth guides.
+
+Created by Tom Hombergs, Reflectoring provides comprehensive tutorials on Spring Boot configuration, testing patterns, Gradle build automation, Node.js development, and software craftsmanship principles. The site emphasizes hands-on learning with real-world examples for Java developers and engineers building maintainable applications.
+
+## Key Topics
+
+- Spring Boot
+- Java
+- Gradle
+- Spring Framework
+- @ConfigurationProperties
+- Testing patterns
+- Configuration management
+- Node.js
+- Software craftsmanship
+- Clean code
+- Design principles
+- External configuration
+- IntelliJ IDEA
+- Build automation
+- Beginner guides
+
+## Spring Boot Configuration and Setup
+
+- [Getting Started with Spring Boot](https://reflectoring.io/getting-started-with-spring-boot): Spring Boot beginner guide with Spring Initializr and IntelliJ setup
+- [Configuring a Spring Boot Module with @ConfigurationProperties](https://reflectoring.io/spring-boot-configuration-properties): Spring Boot @ConfigurationProperties tutorial for external configuration
+- [Loading External Application Properties in the Gradle bootRun Task](https://reflectoring.io/externalizing-properties-gradle-bootrun): Spring Boot Gradle bootRun with external application properties
+- [Testing with Spring Boot's @TestConfiguration Annotation](https://reflectoring.io/spring-boot-testconfiguration): Spring Boot @TestConfiguration for custom test beans and mocking
+
+## Java Development Tutorials
+
+- [Getting Started With Java: Build a Robot Arena](https://reflectoring.io/first-java-program-robot-arena): Java beginner tutorial building a robot arena with IntelliJ setup
+- [Combining Object Mother and Fluent Builder for the Ultimate Test Data Factory](https://reflectoring.io/objectmother-fluent-builder): Java testing patterns: Object Mother + Fluent Builder for test data
+- [Guide to Sorting in Kotlin](https://reflectoring.io/sorting%20in%20kotlin): Kotlin sorting guide for collections, lists, and arrays
+
+## Software Craftsmanship and Best Practices
+
+- [The Art of Writing Clean Code: A Key to Maintainable Software](https://reflectoring.io/clean-code): Clean code practices for maintainable software development
+- [Single Responsibility Principle Unpacked](https://reflectoring.io/single-responsibility-principle): Deep dive into SRP benefits and drawbacks in software design
+
+## Gradle and Build Automation
+
+- [Getting the current Subversion Revision Number in Gradle](https://reflectoring.io/getting-svn-revision-in-gradle): Gradle tutorial for using Subversion revision numbers in builds
+
+## Node.js Development
+
+- [Publish and Receive Messages with Google Pub/Sub in Node.js](https://reflectoring.io/google-pub-sub-in-node-js): Node.js tutorial for Google Cloud Pub/Sub messaging integration
+- [Scheduling Jobs with Node.js](https://reflectoring.io/schedule-cron-job-in-node): Node.js cron job scheduling guide using node-cron library
+
+## DevOps and Operations
+
+- [5 Good Reasons to Use a Log Server](https://reflectoring.io/log-server): Centralized logging benefits and log server analysis advantages
+
+## Optional
+
+- [Reflectoring Review 2020 - Being Serious About Passive Income](https://reflectoring.io/blog-review-2020): Reflectoring 2020 review: traffic growth, monetization, content strategy
+- [Book Review: The 7 Habits of Highly Effective People](https://reflectoring.io/book-review-7-habits): Review of Stephen Covey's 7 Habits for personal effectiveness
+- [godeortela](https://reflectoring.io/authors/godeortela): Author profile: Ortela Gode - Spring Boot & Java Enterprise developer
+- [heidi](https://reflectoring.io/authors/heidi): Author profile: Heidi Waterhouse - Developer advocate
+- [hardik](https://reflectoring.io/authors/hardik): Author profile: Hardik Singh Behl - AWS Community Builder, Java & Spring
+- [nukajbl](https://reflectoring.io/authors/nukajbl): Author profile: Bledi Nukaj - Java, Spring & CompletableFuture specialist
+- [saikat](https://reflectoring.io/authors/saikat): Author profile: Saikat Sengupta - Gradle & Spring Boot developer

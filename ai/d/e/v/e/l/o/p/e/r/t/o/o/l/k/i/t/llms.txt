@@ -1,57 +1,38 @@
 # Developer Toolkit
 
-> > Master AI-powered development with comprehensive tutorials and guides for Claude Code, Cursor, and Codex — from setup to production-ready workflows.
+> > Developer Toolkit is a comprehensive resource for AI-powered development with Codex, covering installation, workflows, and agent skills across CLI, App, IDE, and Cloud surfaces.
 
-Developer Toolkit provides 350+ tutorials, real-world scenarios, and productivity patterns for AI-assisted development. Learn to leverage Claude Code CLI, Cursor IDE, and modern AI coding tools with TypeScript, React, and Node.js through hands-on lessons covering setup, implementation, security, performance optimization, and enterprise workflows.
+The site focuses on helping developers leverage Codex for AI-assisted coding across multiple platforms including VS Code, Cursor, JetBrains IDEs, and Windsurf. It provides practical guides for Git workflows, parallel agents, and reusable AI skills for frontend frameworks like React, Next.js, Vue, Angular, and Svelte.
 
 ## Key Topics
 
-- Claude Code CLI workflows
-- Cursor IDE automation
-- Codex integration
-- CLAUDE.md configuration
-- AI-assisted development patterns
-- Slash commands and context management
-- Production-ready code generation
-- MCP (Model Context Protocol)
-- TypeScript and React development
-- Node.js project automation
-- Code review and security auditing
-- Performance optimization strategies
-- Enterprise coding workflows
-- Developer productivity patterns
-- CLI-driven development
+- Codex
+- AI coding agents
+- Codex CLI
+- Codex App
+- VS Code
+- Cursor
+- Git workflows
+- Agent skills
+- Frontend development
+- React
+- Installation and setup
+- Workflow automation
+- JetBrains IDEs
+- Windsurf
+- Persistent context
 
-## Getting Started
+## Getting Started with Codex
 
-- [Developer Toolkit - Master AI-Powered Development](https://developertoolkit.ai): Homepage: Master AI dev with Cursor, Claude Code & Codex - 350+ tutorials
-- [Claude Code Quick Start: Zero to Productive in 2 Hours](https://developertoolkit.ai/en/claude-code/quick-start): 2-hour setup: install, configure, CLAUDE.md, MCP servers to first feature
+- [Getting Started with Codex](https://developertoolkit.ai/en/codex/quick-start/): Quick-start guide for OpenAI Codex setup across CLI, App, IDE, and Cloud
+- [Installation](https://developertoolkit.ai/en/codex/quick-start/installation/): Install Codex App, CLI, and IDE extension on macOS, Linux, and Windows
 
-## Claude Code Tutorials
+## Codex Workflows and Techniques
 
-- [20 Real-World CLI Scenarios](https://developertoolkit.ai/en/claude-code/lessons): Master Claude Code CLI through 20 production-ready workflow scenarios
-- [Claude Code Productivity Patterns](https://developertoolkit.ai/en/claude-code/productivity-patterns): Terminal workflows, prompt engineering, batch ops & IDE coordination patterns
-- [From Plan to Working Code](https://developertoolkit.ai/en/claude-code/lessons/implementation): Multi-file implementation workflow: explore-plan-implement-commit cycle
-- [Project Setup & Initialization](https://developertoolkit.ai/en/claude-code/lessons/project-setup): Bootstrap Node.js/PostgreSQL projects with Claude Code CLI automation
-- [Third-Party Integrations via CLI](https://developertoolkit.ai/en/claude-code/lessons/integrations): Build Stripe, Resend, OAuth integrations with Claude Code CLI workflows
-- [Security Scanning with Claude Code](https://developertoolkit.ai/en/claude-code/lessons/security-audit): OWASP vulnerability detection, dependency scanning & secret leak prevention
-- [Performance Analysis from the Terminal](https://developertoolkit.ai/en/claude-code/lessons/performance): Profile APIs, optimize queries, benchmark code with Claude Code terminal
-- [Observability Setup via CLI](https://developertoolkit.ai/en/claude-code/lessons/monitoring): Implement OpenTelemetry, logging, tracing & alerting via Claude Code CLI
+- [20 Real-World Codex Scenarios](https://developertoolkit.ai/en/codex/lessons/): Battle-tested Codex workflows with parallel agents and worktrees
+- [Advanced Codex Techniques](https://developertoolkit.ai/en/codex/advanced-techniques/): Expert Codex techniques for App, CLI, Cloud, and IDE surfaces
 
-## Advanced Techniques
+## AI Agent Skills and Automation
 
-- [Creating Custom Commands](https://developertoolkit.ai/en/claude-code/advanced-techniques/custom-commands): Build reusable slash commands & subagents for Claude Code team workflows
-- [LLM Gateway Configuration](https://developertoolkit.ai/en/claude-code/advanced-techniques/llm-gateway): Route Claude Code via AWS Bedrock, Google Vertex AI, LiteLLM gateways
-- [Efficiency Hacks](https://developertoolkit.ai/en/claude-code/productivity-patterns/efficiency-hacks): Time-saving Claude Code tricks: output formatting, context mgmt, aliases
-- [Performance Optimization](https://developertoolkit.ai/en/claude-code/productivity-patterns/performance-optimization): Token usage strategies, caching & cost reduction for Claude Code workflows
-
-## Reference Guides
-
-- [Command Reference Cheatsheet](https://developertoolkit.ai/en/appendices/command-reference): CLI commands, slash commands & context symbols for Cursor, Claude, Codex
-- [Keyboard Shortcuts Reference](https://developertoolkit.ai/en/appendices/keyboard-shortcuts): Complete keyboard shortcuts for Cursor, Claude Code, Codex & VS Code
-- [AI Model Comparison Guide](https://developertoolkit.ai/en/appendices/model-comparison): Compare Claude Opus 4.6, Sonnet 4.5, GPT-5.3-Codex, GPT-5.2, Gemini 3 Pro
-- [Tool Migration Checklist](https://developertoolkit.ai/en/appendices/migration-checklist): Migration guide: VS Code to Cursor, GitHub Copilot to Claude Code setup
-
-## Optional
-
-- [Affiliate Program Terms and Conditions](https://developertoolkit.ai/en/affiliate-terms): Affiliate program terms, commission structure, and PayPal payment details
+- [Introduction to Agent Skills](https://developertoolkit.ai/en/shared-workflows/skills-ecosystem/): Intro to reusable AI agent skills for tools, frameworks, and workflows
+- [Best Skills for Frontend Development](https://developertoolkit.ai/en/shared-workflows/skills-ecosystem/top-skills-frontend/): Top AI skills for React, Next.js, Vue, Angular, and Svelte development

@@ -1,0 +1,59 @@
+# Cursor
+
+> > Cursor is an AI-powered code editor with an extensible plugin marketplace supporting MCP (Model Context Protocol) integrations for development workflows.
+
+The Cursor Marketplace enables developers to extend their coding environment with plugins for cloud platforms (AWS, Cloudflare, Databricks), authentication (Clerk), databases (Prisma, Redis), AI/ML tools (Hugging Face), security scanning (Snyk), project management (Atlassian, Notion), and specialized development frameworks. Plugins leverage MCP servers to provide seamless integration with external services and automation capabilities.
+
+## Key Topics
+
+- Model Context Protocol (MCP)
+- MCP Server Integration
+- Cursor Plugin Development
+- AI-Assisted Coding
+- Agent Orchestration
+- Hugging Face Hub
+- Database Development (Prisma, Redis)
+- Cloud Deployment (AWS, Cloudflare)
+- Authentication & Security (Clerk, Snyk)
+- Task Management (Atlassian, Notion)
+- React & Frontend Development
+- Docker & Python Development
+- Playwright Testing
+- Dataset Management & ML Training
+
+## Plugin Development
+
+- [Create Plugin](https://cursor.com/marketplace/cursor/create-plugin): Plugin scaffolding tool for marketplace submission and validation
+
+## Cloud & Infrastructure
+
+- [AWS](https://cursor.com/marketplace/aws): AWS deployment with IaC, architecture recommendations, and cost estimates
+- [Cloudflare](https://cursor.com/marketplace/cloudflare): Cloudflare Workers, Durable Objects, and Agents SDK development tools
+- [Databricks](https://cursor.com/marketplace/databricks): Databricks CLI, Unity Catalog, and Model Serving integration skills
+
+## Database & Data Management
+
+- [Prisma](https://cursor.com/marketplace/prisma): Official Prisma plugin with MCP server for database development automation
+- [Redis](https://cursor.com/marketplace/redis): Redis development with vector search, caching, and query engine support
+
+## AI & Machine Learning
+
+- [Hugging Face](https://cursor.com/marketplace/huggingface): Hugging Face Hub integration for AI/ML tasks, datasets, and model training
+
+## Security & Authentication
+
+- [Clerk](https://cursor.com/marketplace/clerk): Clerk authentication toolkit with Next.js integration and MCP server
+- [Snyk](https://cursor.com/marketplace/snyk): Snyk security scanning and vulnerability remediation for dependencies
+- [Runlayer](https://cursor.com/marketplace/runlayer): MCP orchestration with security policies, secrets management, and audit logs
+
+## Productivity & Collaboration
+
+- [Atlassian](https://cursor.com/marketplace/atlassian): Jira and Confluence integration with MCP for task and backlog management
+- [Notion](https://cursor.com/marketplace/notion): Notion Skills and MCP server for database and task management integration
+- [Compound Engineering](https://cursor.com/marketplace/every): 29 agents for code review, research, design, and workflow automation
+
+## Monitoring & Specialized Tools
+
+- [Datadog](https://cursor.com/marketplace/datadog): Datadog MCP server for querying logs, metrics, traces, and dashboards
+- [Meta Reality Labs](https://cursor.com/marketplace/meta-reality-labs): Meta Quest and Horizon OS development with Unity and Spatial SDK support
+- [Phantom Connect](https://cursor.com/marketplace/phantom): Phantom wallet integration for multi-chain crypto operations and signing

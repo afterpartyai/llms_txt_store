@@ -1,0 +1,64 @@
+# Rescana
+
+> > Rescana provides in-depth cybersecurity intelligence and technical analysis of APT campaigns, zero-day vulnerabilities, and emerging cyber threats.
+
+Rescana delivers comprehensive threat intelligence reports covering advanced persistent threats (APTs) like Mustang Panda, critical vulnerability analyses including zero-day exploits, and detailed incident investigations across enterprise platforms. The site focuses on actionable technical insights for security professionals tracking nation-state actors, supply chain attacks, and sophisticated cyber-espionage campaigns.
+
+## Key Topics
+
+- MITRE ATT&CK framework
+- APT campaigns and cyber-espionage
+- Mustang Panda threat actor
+- Zero-day vulnerabilities
+- Remote Code Execution (RCE)
+- Supply chain attacks
+- Social engineering and phishing
+- Microsoft 365 and SaaS security
+- Credential harvesting techniques
+- Data breach analysis
+- Vulnerability exploitation (T1190)
+- Nation-state threat actors (China, Asia)
+- Infostealer malware (Lumma Stealer)
+- Critical infrastructure targeting
+- PowerShell-based attacks
+
+## Critical Vulnerabilities and Zero-Day Exploits
+
+- [CVE-2025-55182: Critical Remote Code Execution Vulnerability in React Server Components and Next.js – Urgent Patch Required](https://www.rescana.com/post/cve-2025-55182-critical-remote-code-execution-vulnerability-in-react-server-components-and-next-js): CVE-2025-55182: Critical RCE in React Server Components and Next.js requires patch
+- [Critical Adobe AEM Forms JEE Vulnerability (CVE-2025-54253) Under Active Exploitation: CISA Alerts, Patch Now](https://www.rescana.com/post/critical-adobe-aem-forms-jee-vulnerability-cve-2025-54253-under-active-exploitation-cisa-alerts): CISA warns of active exploitation of Adobe AEM Forms JEE CVE-2025-54253
+- [Citrix Gear Zero-Day Vulnerability Exploited for Unauthenticated RCE: Comprehensive Analysis and Mitigation Guide](https://www.rescana.com/post/citrix-gear-zero-day-vulnerability-exploited-for-unauthenticated-rce-comprehensive-analysis-and-mit): Citrix Gear zero-day enables unauthenticated RCE exploited by APT29
+- [Critical Zero-Day Exploits Target Cisco ISE and Citrix NetScaler: Amazon Uncovers In-the-Wild Attacks](https://www.rescana.com/post/critical-zero-day-exploits-target-cisco-ise-and-citrix-netscaler-amazon-uncovers-in-the-wild-attack): Amazon discovers zero-day attacks on Cisco ISE and Citrix NetScaler in wild
+- [Microsoft Edge IE Mode Exploited as Backdoor: Zero-Day Vulnerability Forces Emergency Restrictions](https://www.rescana.com/post/microsoft-edge-ie-mode-exploited-as-backdoor-zero-day-vulnerability-forces-emergency-restrictions): Microsoft Edge IE Mode zero-day exploited via Chakra JavaScript engine
+
+## APT Campaigns and Nation-State Threats
+
+- [LOTUSLITE Backdoor Targets U.S. Government and Policy Organizations via Venezuela-Themed Spear Phishing: Mustang Panda Cyber-Espionage Campaign Analysis](https://www.rescana.com/post/lotuslite-backdoor-targets-u-s-government-and-policy-organizations-via-venezuela-themed-spear-phish): Mustang Panda's LOTUSLITE backdoor targets US govt via Venezuela-themed phish
+- [Mustang Panda Targets Government Systems with CoolClient Backdoor and Infostealer Modules in Asia and Eastern Europe](https://www.rescana.com/post/mustang-panda-targets-government-systems-with-coolclient-backdoor-and-infostealer-modules-in-asia-an): Mustang Panda deploys CoolClient backdoor against Asian and European govts
+- [UnsolicitedBooker APT Targets Kyrgyzstan and Tajikistan Telecoms With LuciDoor and MarsSnake Backdoors](https://www.rescana.com/post/unsolicitedbooker-apt-targets-kyrgyzstan-and-tajikistan-telecoms-with-lucidoor-and-marssnake-backdoo): UnsolicitedBooker APT uses LuciDoor and MarsSnake on Central Asia telecoms
+- [GeoServer Exploits, PolarEdge Tactics, and the Gayfemboy Push Cybercrime Campaign: A Rescana Cybersecurity Intelligence Report](https://www.rescana.com/post/geoserver-exploits-polaredge-tactics-and-the-gayfemboy-push-cybercrime-campaign-a-rescana-cyberse): Rescana intelligence on GeoServer exploits and PolarEdge APT campaign tactics
+
+## SaaS and Enterprise Platform Security
+
+- [ShinyHunters Vishing Attacks Bypass MFA to Breach Okta, Microsoft 365, and Google Workspace SaaS Platforms](https://www.rescana.com/post/shinyhunters-vishing-attacks-bypass-mfa-to-breach-okta-microsoft-365-and-google-workspace-saas-pla): ShinyHunters uses vishing to bypass MFA on Okta, M365, and Google Workspace
+- [LinkedIn Phishing Attack Exploits Microsoft 365 Accounts to Target Finance Executives with Fake Board Invites](https://www.rescana.com/post/linkedin-phishing-attack-exploits-microsoft-365-accounts-to-target-finance-executives-with-fake-boar): LinkedIn phishing uses M365 accounts to target finance execs with fake invites
+- [Microsoft Warns of ClickFix Attack: Sophisticated DNS Lookup Abuse Targets Windows Systems](https://www.rescana.com/post/microsoft-warns-of-clickfix-attack-sophisticated-dns-lookup-abuse-targets-windows-systems): Microsoft alert on ClickFix DNS abuse targeting Windows via nslookup exploit
+
+## Data Breaches and Incident Analysis
+
+- [European Space Agency JIRA and Bitbucket Breach: Hacker Claims 200GB Data Theft from External Servers](https://www.rescana.com/post/european-space-agency-jira-and-bitbucket-breach-hacker-claims-200gb-data-theft-from-external-server): ESA breach: 200GB stolen from JIRA and Bitbucket external servers by hacker
+- [700Credit 700Dealer.com Data Breach Exposes 5.8 Million Records: Technical Analysis, Impact, and Mitigation Steps](https://www.rescana.com/post/700credit-700dealer-com-data-breach-exposes-5-8-million-records-technical-analysis-impact-and-mit): 700Credit breach exposes 5.8M records from automotive dealership platform
+- [NationStates Data Breach Report: Technical Analysis of the 2026 Dispatch Search Vulnerability and RCE Incident](https://www.rescana.com/post/nationstates-data-breach-report-technical-analysis-of-the-2026-dispatch-search-vulnerability-and-rc): Technical analysis of NationStates 2026 RCE breach via Dispatch Search flaw
+
+## Supply Chain and Malware Distribution
+
+- [dYdX npm and PyPI Supply Chain Attack: Wallet Stealer and RAT Malware Compromise Developer Libraries](https://www.rescana.com/post/dydx-npm-and-pypi-supply-chain-attack-wallet-stealer-and-rat-malware-compromise-developer-libraries): dYdX supply chain attack compromises npm and PyPI with wallet stealer malware
+- [YouTube Ghost Network: 3,000 Malicious Videos Used to Spread Infostealer Malware via Compromised Channels](https://www.rescana.com/post/youtube-ghost-network-3-000-malicious-videos-used-to-spread-infostealer-malware-via-compromised-cha): Check Point finds 3,000 malicious YouTube videos spreading infostealer malware
+
+## Critical Infrastructure and Law Enforcement
+
+- [CERT Polska Report: Coordinated Cyberattacks Disrupt Poland's FortiGate-Managed Wind and Solar Farms](https://www.rescana.com/post/cert-polska-report-coordinated-cyberattacks-disrupt-poland-s-fortigate-managed-wind-and-solar-farms): CERT Polska reports attacks on FortiGate-managed Polish renewable energy farms
+- [Eurojust-Led Operation Disrupts €600 Million Cryptocurrency Investment Fraud Network Exploiting Fake Platforms Across Europe](https://www.rescana.com/post/eurojust-led-operation-disrupts-600-million-cryptocurrency-investment-fraud-network-exploiting-fake): Eurojust disrupts €600M cryptocurrency fraud network across Europe
+
+## Optional
+
+- [Anthropic's Claims of Claude AI-Automated Cyberattacks Face Industry Skepticism and Technical Scrutiny](https://www.rescana.com/post/anthropic-s-claims-of-claude-ai-automated-cyberattacks-face-industry-skepticism-and-technical-scruti): Industry questions Anthropic's claims about Claude AI cyberattack automation

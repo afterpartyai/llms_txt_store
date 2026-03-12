@@ -1,0 +1,67 @@
+# Venice AI Documentation
+
+> > Privacy-focused AI platform offering uncensored models from OpenAI, Anthropic, and others with TEE/E2EE security, OpenAI-compatible API, and AI agent integrations.
+
+Venice AI provides a drop-in replacement for OpenAI's API with enhanced privacy through Trusted Execution Environments (TEE) and end-to-end encryption. The platform supports text generation (Claude Opus, GPT models), image generation and editing, video synthesis, text-to-speech, embeddings, and integrations with AI agent frameworks like Eliza and Coinbase Agentkit.
+
+## Key Topics
+
+- Venice API
+- OpenAI-compatible API
+- Claude Opus 4.5
+- TEE & E2EE (Trusted Execution Environments)
+- Bearer authentication
+- Prompt caching
+- AI agents (Eliza, Coinbase Agentkit)
+- Text-to-speech (tts-kokoro)
+- Image-to-video generation
+- API key generation
+- VVV token staking
+- REST API endpoints
+- Uncensored models
+- Privacy-focused AI
+- Cursor IDE integration
+
+## Getting Started
+
+- [Generating an API Key](https://docs.venice.ai/overview/guides/generating-api-key): Guide to generating Venice API keys for authentication and setup
+- [Migrate from OpenAI](https://docs.venice.ai/overview/guides/openai-migration): Drop-in OpenAI replacement guide: same SDK, more privacy, uncensored
+- [TEE & E2EE Models](https://docs.venice.ai/overview/guides/tee-e2ee-models): Privacy-enhanced AI using Trusted Execution Environments and encryption
+- [Prompt Caching](https://docs.venice.ai/overview/guides/prompt-caching): Reduce costs and latency with prompt caching for Claude, GPT models
+
+## AI Agents & Integrations
+
+- [AI Agents](https://docs.venice.ai/overview/guides/ai-agents): Venice integration with AI agent frameworks: Eliza, Coinbase Agentkit
+- [Autonomous Agent API Key](https://docs.venice.ai/overview/guides/generating-api-key-agent): Generate API keys for autonomous agents using VVV token staking on BASE
+- [Integrations](https://docs.venice.ai/overview/guides/integrations): Third-party integrations: ElizaOS, Akash, Molt Bot, Discord, and more
+- [Cursor IDE with Venice](https://docs.venice.ai/overview/guides/cursor): Configure Cursor IDE to use Venice AI models with venice- prefix
+- [Claude Code with Venice](https://docs.venice.ai/overview/guides/claude-code): Use Anthropic's Claude Code CLI with Venice AI's Claude Opus models
+
+## Model Documentation
+
+- [Video Models](https://docs.venice.ai/models/video): Text-to-video and image-to-video model documentation with API references
+- [Model Traits](https://docs.venice.ai/api-reference/endpoint/models/traits): Venice API endpoint to list model traits and filter associated models
+
+## Image API
+
+- [Image Edit](https://docs.venice.ai/api-reference/endpoint/image/edit): Venice API endpoint for image editing/inpainting using qwen-edit model
+- [Background Remove](https://docs.venice.ai/api-reference/endpoint/image/background-remove): Venice API endpoint to remove image backgrounds using AI (PNG output)
+
+## Video API
+
+- [Video Queue](https://docs.venice.ai/api-reference/endpoint/video/queue): Venice API endpoint to queue video generation requests (image-to-video)
+
+## Audio API
+
+- [Text to Speech](https://docs.venice.ai/api-reference/endpoint/audio/speech): Venice API text-to-speech endpoint using tts-kokoro and tts-qwen models
+- [Audio Quote](https://docs.venice.ai/api-reference/endpoint/audio/quote): Venice API endpoint to get price quotes for audio generation parameters
+
+## Embeddings & Utilities
+
+- [Embeddings](https://docs.venice.ai/api-reference/endpoint/embeddings/generate): Venice API endpoint to generate text embeddings using bge-m3 model
+
+## Optional
+
+- [List Characters](https://docs.venice.ai/api-reference/endpoint/characters/list): Venice API endpoint to list characters with filtering and sort options
+- [Update API Key](https://docs.venice.ai/api-reference/endpoint/api_keys/update): Venice API endpoint to update API key settings and consumption limits
+- [Billing Usage Analytics](https://docs.venice.ai/api-reference/endpoint/billing/usage-analytics): Beta endpoint for usage analytics by date, model, and API key (cached)

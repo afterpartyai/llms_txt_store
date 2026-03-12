@@ -1,0 +1,24 @@
+# Codex Documentation
+
+> > Codex provides blockchain APIs for querying DEX trading data across Solana, Uniswap, Raydium, Orca, and other decentralized exchanges.
+
+Codex is a comprehensive blockchain data API platform that enables developers to access real-time and historical trading pair information, liquidity data, and DEX analytics across multiple blockchain networks including Ethereum and Solana ecosystems.
+
+## Key Topics
+
+- Codex API
+- UniswapV3 (UniV3)
+- UniswapV2
+- Raydium (RaydiumV4)
+- Orca Whirlpool
+- PumpAMM
+- Solana DEXs
+- Trading Pairs
+- DEX Liquidity
+- Token Pairs
+- Query Endpoints
+- Blockchain Data API
+
+## API Reference
+
+- [listPairsForToken](https://docs.codex.io/api-reference/queries/listpairsfortoken): API endpoint to query trading pairs for a given token across DEXs

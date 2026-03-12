@@ -1,0 +1,58 @@
+# Make Apps Marketplace
+
+> > Integration documentation hub for Make's automation platform, featuring API connections, workflow tools, and third-party app integrations.
+
+Make Apps Marketplace provides comprehensive integration guides for connecting hundreds of applications, databases, and AI services to Make's workflow automation platform. Each app documentation includes setup instructions, API authentication methods, and module configuration details.
+
+## Key Topics
+
+- API integration and authentication
+- Workflow automation
+- Make platform connections
+- API key authentication
+- Community apps
+- AI tools and integrations
+- Azure AI Foundry
+- PostgreSQL database
+- Codex Solutions International apps
+- App installation and setup
+- Webhook configuration
+- OAuth connections
+- Third-party integrations
+- Automation modules
+- Connection setup guides
+
+## Core Integrations
+
+- [PostgreSQL](https://apps.make.com/postgres): PostgreSQL database integration with SQL modules and connection setup
+- [Azure AI Foundry](https://apps.make.com/azure-ai-foundry): Azure AI Foundry integration guide with API key authentication setup
+- [xAI](https://apps.make.com/xai): xAI integration guide with API key authentication and connection setup
+- [jina.ai](https://apps.make.com/jina-ai): jina.ai RAG and embeddings platform integration documentation
+
+## Marketing and Communication Tools
+
+- [Sender](https://apps.make.com/sender): Sender email automation integration with webhook and API setup guide
+- [Keywords Everywhere API](https://apps.make.com/keywords-everywhere-api): Keywords Everywhere SEO & keyword research API integration guide
+- [Anymail finder](https://apps.make.com/anymailfinder): Anymail finder email discovery integration with API authentication
+- [Motionlab](https://apps.make.com/motionlab): Motionlab campaign management integration with API connection setup
+
+## AI and Media Processing Apps
+
+- [Alai](https://apps.make.com/alai): Alai AI presentation generation tool integration guide for Make.com
+- [PiAPI/MMAudio](https://apps.make.com/piapi-mmaudio): PiAPI/MMAudio AI workflow automation integration documentation
+- [Verbatik by Codex Solutions International](https://apps.make.com/verbatik-2lnwqd): Verbatik integration guide with API token setup for Make.com
+- [Videnly by Codex Solutions International](https://apps.make.com/videnly-nox7vr): Integration guide for Videnly by Codex Solutions with Make.com
+- [Dr. Headshot by Codex Solutions International](https://apps.make.com/drheadshot-qubaxz): Dr. Headshot integration guide by Codex Solutions with API key setup
+
+## Business and Workflow Automation
+
+- [Braintrust](https://apps.make.com/braintrust): Braintrust workflow automation integration with API key setup guide
+- [AirOps by Codex Solutions International](https://apps.make.com/airops-h4sycw): AirOps workflow automation integration by Codex Solutions
+- [Toolhouse AI by Codex Solutions International](https://apps.make.com/toolhouse-4gwdx2): Toolhouse AI integration guide by Codex Solutions with API key auth
+- [Pod AI by Codex Solutions International](https://apps.make.com/callpod-udirai): Integration guide for Pod AI by Codex Solutions with Make.com
+
+## Specialized Tools
+
+- [HERE Tracking](https://apps.make.com/here): HERE Tracking logistics & shipment management integration guide
+- [Openasset by Codex Solutions](https://apps.make.com/openasset-a6x3hp): Openasset digital asset management integration with token authentication
+- [MIME](https://apps.make.com/mime): MIME type transformers and file extension handling documentation

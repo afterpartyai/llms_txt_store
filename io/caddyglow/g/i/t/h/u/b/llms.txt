@@ -1,0 +1,32 @@
+# CCProxy API
+
+> > A reverse proxy server for Claude API with an extensible plugin architecture supporting authentication, middleware, and custom providers.
+
+CCProxy enables developers to build plugin-based extensions for Claude API interactions, featuring OAuth authentication, declarative configuration via TOML, and a comprehensive plugin system with auth providers, base providers, and middleware components. The documentation covers architecture, authoring guides, and configuration setup.
+
+## Key Topics
+
+- CCProxy
+- Claude API
+- Plugin Architecture
+- OAuth Authentication
+- PluginManifest
+- PluginFactory
+- PluginRegistry
+- AuthProviderPluginFactory
+- BaseProviderPluginFactory
+- Middleware
+- RouteSpec
+- TOML Configuration
+- Plugin Lifecycle
+- Claude SDK
+- Proxy Server
+
+## Getting Started
+
+- [Configuration](https://caddyglow.github.io/ccproxy-api/getting-started/configuration/): Setup guide for CCProxy API server using TOML config and env variables
+
+## Plugin System
+
+- [Overview](https://caddyglow.github.io/ccproxy-api/PLUGIN_SYSTEM_DOCUMENTATION/): Plugin system architecture overview for CCProxy reverse proxy to Claude API
+- [Authoring Guide](https://caddyglow.github.io/ccproxy-api/PLUGIN_AUTHORING/): Developer guide for creating CCProxy plugins with auth and provider factories

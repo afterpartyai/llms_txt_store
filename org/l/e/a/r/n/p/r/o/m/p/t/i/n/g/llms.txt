@@ -1,0 +1,61 @@
+# Learn Prompting
+
+> > Learn Prompting is the world's most comprehensive resource for prompt engineering, covering techniques from basic instructions to advanced decomposition methods, with a focus on LLM reasoning, AI security, and the HackAPrompt red-teaming competition.
+
+Learn Prompting provides structured courses, documentation, and research on prompt engineering techniques including Chain-of-Thought (CoT), Retrieval-Augmented Generation (RAG), and zero-shot prompting. The site features the SEPAL framework for problem-solving with generative AI and hosts HackAPrompt, the world's largest AI red-teaming hackathon led by Sander Schulhoff.
+
+## Key Topics
+
+- Prompt Engineering
+- Chain-of-Thought (CoT)
+- Large Language Models (LLMs)
+- HackAPrompt
+- AI Red-Teaming
+- Retrieval-Augmented Generation (RAG)
+- Prompt Hacking
+- Zero-Shot Prompting
+- LLM Reasoning
+- Generative AI
+- ChatGPT
+- OpenAI
+- AI Security
+- Multimodal AI
+- The Prompt Report
+
+## Core Prompting Fundamentals
+
+- [The Learn Prompting Method](https://learnprompting.org/ar/docs/basics/learn_prompting_method): SEPAL framework: Learn Prompting's problem-solving method for GenAI
+- [Chain of Thought Prompting](https://learnprompting.org/de/docs/intermediate/chain_of_thought): Intermediate guide to Chain of Thought (CoT) prompting technique
+- [Giving Instructions](https://learnprompting.org/ar/docs/basics/instructions): Basic instruction prompting guide covering PII removal and data cleaning
+
+## Advanced Prompting Techniques
+
+- [Advanced Decomposition Techniques for Improved Prompting in LLMs](https://learnprompting.org/docs/advanced/decomposition/introduction): Advanced decomposition techniques: Decomposed Prompting, Program-of-Thoughts
+- [Plan-and-Solve Prompting: Improving Reasoning and Reducing Errors](https://learnprompting.org/docs/advanced/decomposition/plan_and_solve): Advanced Plan-and-Solve (PS+) prompting technique for LLM reasoning
+- [Prompt Ensembling](https://learnprompting.org/de/docs/reliability/ensembling): Prompt ensembling with DiVeRSe and Self-Consistency for reliability
+- [Duty-Distinct Chain-of-Thought (DDCoT)](https://learnprompting.org/docs/advanced/decomposition/duty-distinct-chain-of-thought): Advanced DDCoT technique for multimodal reasoning and hallucination reduction
+
+## AI Security & Red-Teaming
+
+- [Announcing HackAPrompt 2.0: The World's Largest AI Red-Teaming Hackathon](https://learnprompting.org/blog/announce-hackaprompt-2): HackAPrompt 2.0 announcement: AI red-teaming competition with $500K prizes
+- [Prompt Injection vs. Jailbreaking: What's the Difference?](https://learnprompting.org/blog/injection_jailbreaking): Explains differences between prompt injection and jailbreaking attacks
+- [Top 9 Online AI Red Teaming Courses [Free & Paid]](https://learnprompting.org/blog/ai-red-teaming-courses): Top 9 AI red teaming courses for securing AI systems and prompt hacking
+
+## Tools & Resources
+
+- [Prompt Engineering Tools](https://learnprompting.org/ar/docs/tooling/tools): Reference list of prompt engineering tools: LangChain, Dust.tt, OpenPrompt
+- [Quality Boosters](https://learnprompting.org/ar/docs/image_prompting/quality_boosters): Image prompting quality boosters for DALLE and text-to-image generation
+
+## AI Models & Technologies
+
+- [OpenAI New Tools for Building Agents](https://learnprompting.org/blog/openai-new-tools-for-building-agents): OpenAI's new agent-building tools for multi-step task automation
+- [A Complete Guide to Grok AI (xAI)](https://learnprompting.org/blog/guide-grok): Complete guide to xAI's Grok AI vs ChatGPT and Claude comparison
+- [Anthropic Integrates Web Search Capability into Claude AI Assistant](https://learnprompting.org/blog/claude-can-now-search-web): Anthropic adds web search to Claude AI for real-time information access
+- [R1-Omni: Explainable Multimodal Emotion Recognition with Reinforcement Learning](https://learnprompting.org/blog/r1-omni-explainable-omni‐multimodal-emotion-recognition-with-reinforcing-learning): Review of Alibaba's R1-Omni model using RL for emotion recognition
+
+## AI Development & Applications
+
+- [What Is Vibe Coding?](https://learnprompting.org/blog/what-is-vibe-coding): Explores vibe coding trend where developers let AI handle coding tasks
+- [How to Prompt AI For Poetry?](https://learnprompting.org/blog/prompt_poetry): Practical guide to prompting AI for creative poetry generation
+- [Best AI Tools for Presentations in 2025](https://learnprompting.org/blog/ai-tools-for-presentations): Top AI-powered presentation tools for slide creation in 2025
+- [Best AI Marketing Courses & Certifications in 2025](https://learnprompting.org/blog/ai-marketing-courses-and-certifications): 2025 AI marketing courses and certifications comparison guide

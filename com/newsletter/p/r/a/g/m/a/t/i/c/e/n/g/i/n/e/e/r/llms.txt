@@ -1,0 +1,60 @@
+# The Pragmatic Engineer
+
+> > A newsletter by Gergely Orosz covering engineering management, developer productivity, and tech industry insights from Big Tech companies like Uber, Google, Meta, and OpenAI.
+
+The Pragmatic Engineer is a leading tech newsletter providing in-depth analysis of engineering practices, startup culture, and industry trends. It features exclusive scoops, technical deep-dives, and practical guidance for software engineers and engineering leaders working at scale.
+
+## Key Topics
+
+- Engineering Management
+- Developer Productivity
+- Big Tech (Uber, Google, Meta, Amazon, Apple)
+- AI/LLM Development and Evaluation
+- Startup Culture and Funding
+- Developer Tools (GitHub, Stacked Diffs)
+- Tech Industry News (The Pulse series)
+- Cloud Migration and Infrastructure
+- Platform Engineering
+- Salary Transparency
+- Distributed Systems
+- OpenAI and Anthropic
+- Mobile Development (iOS, Android)
+- Engineering Career Growth
+
+## Engineering Practices & Developer Productivity
+
+- [Measuring developer productivity? A response to McKinsey, Part 2](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity-part-2): Kent Beck & Gergely critique McKinsey's developer productivity methodology
+- [Stacked Diffs (and why you should know about them)](https://newsletter.pragmaticengineer.com/p/stacked-diffs): Meta & Google's stacked diffs workflow for efficient small PRs
+- [How to debug large, distributed systems: Antithesis](https://newsletter.pragmaticengineer.com/p/antithesis): Antithesis multiverse debugger for large-scale distributed systems
+- [A pragmatic guide to LLM evals for devs](https://newsletter.pragmaticengineer.com/p/evals): Systematic engineering guide to LLM evaluation methods for AI engineers
+- [Microsoft is dogfooding AI dev tools' future](https://newsletter.pragmaticengineer.com/p/microsoft-ai-dev-tools): Microsoft Build conference insights on Copilot dogfooding and AI agents
+
+## Engineering Leadership & Organization
+
+- [Inside Shopify's Leveling Split: Exclusive](https://newsletter.pragmaticengineer.com/p/inside-shopifys-leveling-split): Shopify's engineering level revamp and mastery framework deep dive
+- ["Wartime" vs "Peacetime" at Tech Companies](https://newsletter.pragmaticengineer.com/p/wartime-vs-peacetime): Operating modes at tech companies and how to thrive in each phase
+- [Platform Teams with Ganesh Srinivasan - by Gergely Orosz](https://newsletter.pragmaticengineer.com/p/platforms-with-ganesh-srinivasan): Platform team strategy, timing, funding with Confluent's Ganesh Srinivasan
+- [What do GenZ software engineers really think?](https://newsletter.pragmaticengineer.com/p/genz-part-2): GenZ engineer survey on workplace values and generational differences
+
+## Big Tech & Infrastructure Case Studies
+
+- [Inside Uber's move to the Cloud: Part 2 - by Gergely Orosz](https://newsletter.pragmaticengineer.com/p/inside-ubers-move-to-the-cloud-part): Uber's data center challenges and Google Cloud migration strategy
+- [Startups on hard mode: Oxide. Part 1: Hardware](https://newsletter.pragmaticengineer.com/p/oxide): Oxide Computer's hardware-software cloud computer startup deep dive
+
+## Tech Industry News (The Pulse)
+
+- [The Pulse #162: Even fewer middle managers and more flexible teams?](https://newsletter.pragmaticengineer.com/p/the-pulse-162-even-fewer-middle-managers): Org structure trends, Anthropic vs Codex policies, AI development news
+- [The Pulse #145: More clarity on the tech jobs market](https://newsletter.pragmaticengineer.com/p/the-pulse-145-more-clarity-on-the): Tech hiring trends, Google lawsuit, OpenAI acquisitions, LLM risks
+- [The Pulse #139: Section 174 is reversed! Or is it?](https://newsletter.pragmaticengineer.com/p/the-pulse-139): Section 174 tax regulation reversal, Meta poaching OpenAI researchers
+- [The Pulse #119: Are LLMs making StackOverflow irrelevant?](https://newsletter.pragmaticengineer.com/p/the-pulse-119): LLM impact on StackOverflow, Apple charity scam, AI model improvements
+- [The Pulse #115: LLM improvements slowing down?](https://newsletter.pragmaticengineer.com/p/the-pulse-115): LLM scaling limits, ChatGPT search, AWS costs, open source security
+- [The Pulse #57: Google Shutting down Firebase Dynamic Links](https://newsletter.pragmaticengineer.com/p/the-pulse-57-google-shutting-down): Google Firebase shutdown, Wise salaries, Hopin sale, Uber profits news
+
+## Startup Insights & Exclusives
+
+- [The Scoop: Inside Fast's Rapid Collapse - by Gergely Orosz](https://newsletter.pragmaticengineer.com/p/the-scoop-fast): Exclusive details on Fast startup shutdown and lessons for engineers
+
+## Optional
+
+- [Building a Simple Game](https://newsletter.pragmaticengineer.com/p/building-a-simple-game): Unity game development tutorial covering GameObjects, prefabs, and patterns
+- [The Pragmatic Engineer: Three Years - by Gergely Orosz](https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-three-years): Newsletter anniversary, growth stats, and podcast launch announcement

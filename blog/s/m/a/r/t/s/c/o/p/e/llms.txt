@@ -1,60 +1,61 @@
 # SmartScope
 
-> > Technical documentation and guides for AI coding agents, focusing on Claude Code, MCP integration, and practical implementation patterns for developers.
+> > A technical blog focused on AI-assisted development with Claude, GitHub Copilot, and modern agentic AI patterns.
 
-SmartScope provides in-depth technical resources for implementing AI agent systems, with comprehensive coverage of Claude Code, Model Context Protocol (MCP), GitHub Copilot integration, and enterprise-grade guardrails. The site specializes in practical implementation guides, performance optimization, and security best practices for production AI development environments.
+SmartScope provides in-depth guides on AI development workflows, featuring Claude Sonnet 4, MCP (Model Context Protocol), GitHub Copilot integration, and practical implementation patterns for LLM-powered development. The site covers both cutting-edge AI agent architectures and foundational development practices.
 
 ## Key Topics
 
-- Claude Code
-- Model Context Protocol (MCP)
 - Claude Sonnet 4
-- AI Agent Implementation
-- GitHub Copilot Integration
-- Security Guardrails
+- Claude Opus 4
+- GitHub Copilot
+- MCP (Model Context Protocol)
+- Agentic AI
+- Claude Code
+- LLM Development
+- AI Agent Orchestration
+- Code Quality & Refactoring
+- Anthropic
+- VS Code
+- Python & TypeScript
+- Automation Workflows
+- Video Generation (Veo, Sora)
 - Performance Optimization
-- ChatGPT Agents
-- Sub-Agent Architecture
-- Docker DevContainer
-- Python & TypeScript Development
-- Troubleshooting & Error Handling
-- Business Automation
-- Agent Skills Framework
-- Production Environment Best Practices
 
-## Claude Code Implementation Guides
+## Claude & AI Agent Development
 
-- [Claude Sonnet 4実装パターン完全マスターガイド - アドバンスド技術深掘り実践編【昼実行】](https://smartscope.blog/generative-ai/claude/claude-sonnet-4-advanced-practical-implementation-deep-dive-2025): Claude Sonnet 4 advanced implementation with MCP & multi-agent systems
-- [Claude Code サブエージェント & MCP 実装実践ガイド](https://smartscope.blog/generative-ai/claude/claude-code-subagent-mcp-practical-guide): Claude Code subagent & MCP implementation practical guide
-- [Claude Code Hooks高速化・障害対応完全攻略：プロダクション環境のパフォーマンス最適化術【2025年8月最新】](https://smartscope.blog/generative-ai/claude/claude-code-hooks-performance-optimization-troubleshooting-2025): Claude Code Hooks performance optimization & troubleshooting guide
-- [Claude Sonnet 4 × GitHub Copilot 実装ガイド：実践的ハンズオン開発手法【2025年7月版】](https://smartscope.blog/generative-ai/claude/claude-sonnet-4-github-copilot-hands-on-implementation-2025-migrated): Claude Sonnet 4 & GitHub Copilot integration hands-on guide
-- [🐳 Docker](https://smartscope.blog/generative-ai/claude/claude-code-docker-guide): Claude Code Docker & DevContainer integration guide
-- [Claude Code自動承認クイックTips（90秒実践）](https://smartscope.blog/generative-ai/claude/claude-code-auto-permission-quick-tips): Claude Code auto-approval quick tips: Shift+Tab & permission modes
-- [🖼️ 画像添付ガイド](https://smartscope.blog/generative-ai/claude/claude-code-image-guide): Claude Code image attachment methods & supported formats guide
+- [AIエージェント開発革命2025 - Claude Sonnet 4×GitHub Copilot完全活用ガイド](https://smartscope.blog/generative-ai/claude/claude-4-github-copilot-agent-development-guide-2025): Claude Sonnet 4 & Opus 4 with GitHub Copilot agent development guide
+- [Claude 4×GitHub Copilot エージェントモード革命：開発効率300%向上の完全実装ガイド【2025年7月最新】](https://smartscope.blog/generative-ai/claude/claude4-copilot-agent-revolution-july2025): Claude 4 GA with GitHub Copilot agent mode: 300% productivity boost
+- [Claude Sonnet 4 × GitHub Copilot Agent：実践ハンズオン実装ガイド【2025年8月完全版】](https://smartscope.blog/generative-ai/claude/claude-sonnet-4-copilot-hands-on-implementation-2025): Claude Sonnet 4 & GitHub Copilot Agent hands-on implementation tutorial
+- [Claude Sonnet 4実装パターン完全マスターガイド - アドバンスド技術深掘り実践編【昼実行】](https://smartscope.blog/generative-ai/claude/claude-sonnet-4-advanced-practical-implementation-deep-dive-2025): Claude Sonnet 4 advanced implementation: MCP, multi-agent, enterprise
+- [エージェント型AI開発の手法とポイント](https://smartscope.blog/ai-development/agentic-ai-development): Agentic AI development patterns: reflection, tool-use, multi-agent
+- [OpenClawとは？── 話題の自律型AIエージェントを冷静に整理する](https://smartscope.blog/blog/openclaw-ai-agent-security-analysis): OpenClaw autonomous AI agent security analysis & architecture overview
 
-## MCP & Security Implementation
+## MCP & Tool Orchestration
 
-- [MCP連携の安全装置実装ガイド：3層防御モデルとエラー処理・ロールバック設計の実践パターン](https://smartscope.blog/ai-development/mcp-guardrails-implementation-guide): MCP 3-layer security model with error handling & rollback patterns
-- [Serena MCP実装ガイド（最新版）— uv/Claude連携の正しい手順](https://smartscope.blog/generative-ai/claude/serena-mcp-claude-code-advanced-implementation-guide): Serena MCP setup with uv for Claude Code/Desktop/Cursor integration
-- [MCP完全理解ダッシュボード（HTML版）](https://smartscope.blog/generative-ai/claude/mcp-overview-dashboard): Model Context Protocol complete overview dashboard
-- [Claude Code脆弱性CVE-2025-64755｜sedコマンド検証バイパスによる任意ファイル書き込みの詳細と対策](https://smartscope.blog/blog/claude-code-cve-2025-64755-sed-vulnerability): CVE-2025-64755: Claude Code sed command bypass vulnerability analysis
+- [MCP Server複数ツール連携実装：依存関係とステート管理の実践パターン](https://smartscope.blog/ai-development/mcp-multi-tool-orchestration-deep-dive): MCP Server tool orchestration with state & dependency management patterns
 
-## AI Agent Architecture & Team Collaboration
+## Development Automation & Workflows
 
-- [AIエージェントチーム運用の現実解 ― シンプル設計で始める人間とAIの最適協調パターン](https://smartscope.blog/ai-development/culture/ai-agent-team-practical-guide): Practical AI agent team collaboration with Claude Sub-Agent framework
-- [Claude Agent SDK 長時間自律稼働の実装パターン](https://smartscope.blog/generative-ai/claude/claude-agent-sdk-long-running-implementation): Claude Agent SDK long-running implementation with checkpoint & memory tools
-- [Agent Skills 完全ガイド（初級編）：エージェントに配れる再利用可能な手順知識パッケージ](https://smartscope.blog/blog/agent-skills-guide): Agent Skills beginner guide for GitHub Copilot, VS Code & Claude Code
+- [Claude Codeで実現する自動化の全体像](https://smartscope.blog/ai-development/claude-code-automation-overview): Claude Code automation guide: GitHub Actions, cron, cloud scheduler
+- [Codex Web多機能並列開発ワークフロー — 個人開発でもPRを量産する全体像](https://smartscope.blog/generative-ai/chatgpt/codex-web-parallel-feature-development): Codex Web/CLI parallel development workflow with GitHub automation
+- [AI時代の開発文化・開発手法](https://smartscope.blog/ai-development/culture): AI-era development culture with Claude Code & GitHub Copilot
+- [🔸 Amazon Kiro 完全ガイド](https://smartscope.blog/generative-ai/amazon-kiro): Amazon Kiro agentic IDE guide with AWS integration
 
-## ChatGPT & Codex CLI
+## Code Quality & Optimization
 
-- [ChatGPT エージェント実用事例集 - 生活・ビジネス活用パターン完全ガイド](https://smartscope.blog/generative-ai/chatgpt/chatgpt-agent-practical-examples): ChatGPT agent practical examples for business & daily life automation
-- [Codex CLI vs Claude Code：Opus 4.6 vs GPT-5.3-Codex ベンチマーク徹底比較【2026年2月版】](https://smartscope.blog/generative-ai/chatgpt/codex-vs-claude-code-2026-benchmark): Opus 4.6 vs GPT-5.3-Codex benchmark comparison for coding agents
-- [Codex CLIが起動できない：unknown variant xhigh を最短で直す](https://smartscope.blog/generative-ai/chatgpt/codex-cli-xhigh-error-fix): Codex CLI xhigh error quick fix & troubleshooting
+- [LLMリファクタリング支援](https://smartscope.blog/ai-development/practices/refactoring-assistance): LLM-assisted refactoring with code smell detection & PR workflow
+- [LLMワークロード性能最適化](https://smartscope.blog/ai-development/practices/performance-optimization): LLM performance optimization: latency, cost, quality trade-offs
+- [Speculative Decoding実装ガイド：LLM推論を3倍高速化する実践手法](https://smartscope.blog/ai-development/speculative-decoding-implementation-guide): Speculative Decoding implementation for 3x LLM inference speedup
+- [リーダブルコード：プログラマー必読の実践術](https://smartscope.blog/blog/readable-code): Readable Code book review: naming, formatting, clean code practices
 
-## Release Notes & Announcements
+## Generative AI Tools & APIs
 
-- [Claude Opus 4.1リリース - コーディング性能74.5%達成、Opus 4.0から即座に移行可能](https://smartscope.blog/generative-ai/claude/claude-opus-4-1-release): Claude Opus 4.1 release: 74.5% SWE-bench coding performance achieved
+- [Google Veo 3.1 APIを使った音声付き動画生成の実装ガイド](https://smartscope.blog/ai-development/google-veo-3-1-api-integration-deep-dive): Google Veo 3.1 API implementation via Vertex AI for video generation
+- [Soraを日本から利用する最新ガイド（2025年10月版）](https://smartscope.blog/generative-ai/chatgpt/sora-2-japan-access-guide): Sora Turbo Japan access guide via ChatGPT Plus/Pro (Oct 2025)
 
-## Optional
+## Reference & Commands
 
-- [MkDocs環境でHTML直接公開ガイド](https://smartscope.blog/MkDocs/mkdocs-html-direct-publish): MkDocs HTML direct publishing & iframe embedding guide
+- [Hooks完全ガイド](https://smartscope.blog/generative-ai/claude/claude-code-hooks-guide): Claude Code Hooks reference: lifecycle events & automation handlers
+- [sedコマンドメモ](https://smartscope.blog/Infrastructure/os-commands/sed-command-memo): sed command reference for text processing and file editing
+- [開発効率化Tips集](https://smartscope.blog/Tips/development-efficiency-tips): Development efficiency tips: Git, VS Code, terminal shortcuts

@@ -1,83 +1,30 @@
 # GitHub Gist
 
-> > A platform for discovering and sharing code snippets, configuration guides, cheatsheets, and technical documentation through GitHub Gists.
+> > A platform for sharing code snippets, scripts, and technical documentation as individual gists
 
-GitHub Gist hosts user-contributed content ranging from command-line cheatsheets and development tutorials to system configuration guides and FAQs. The platform is widely used by developers to share reusable code snippets, reference materials, and step-by-step guides for various technologies including Git, Firefox, Linux, game development, and more.
+GitHub Gist is a service for sharing single files, code snippets, or small collections of files. Users create public or secret gists to share configuration scripts, tutorials, and code examples. Each gist has its own Git repository and can be forked, cloned, or embedded.
 
 ## Key Topics
 
-- GitHub Gist
-- Git version control
-- Firefox about:config
-- Cheatsheets and reference guides
-- Installation and setup guides
-- Privacy and security configuration
-- Discord server management
-- Linux system administration
-- Game modding and development
-- Development tutorials
-- Troubleshooting guides
-- Command-line tools
-- npm and package management
-- Beginner programming resources
+- Code snippets and scripts
+- Mikrotik RouterOS configuration
+- Network configuration and routing
+- WiFi troubleshooting (5GHz, DFS channels)
+- VPN and WireGuard setup
+- Windows Registry modifications
+- Software licensing and activation
+- Technical documentation
+- Configuration files
+- Community-shared solutions
 
-## Core Platform
+## Network Configuration & Tutorials
 
-- [Discover gists · GitHub](https://gist.github.com): Homepage for discovering and sharing GitHub Gists code snippets
-
-## Development Tutorials and Learning Resources
-
-- [Resources for C++ beginners · GitHub](https://gist.github.com/johnmcfarlane/1b2d9c83e4d3f700ba61e2df4077c613): C++ learning resources including books, tutorials, and references
-- [Awesome git tutorials I am finding here and there · GitHub](https://gist.github.com/jaseemabid/1321592): Curated collection of Git tutorials and learning resources
-- [Jujutsu VCS Tutorial - Complete Guide with Cheatsheet and Speaker Notes · GitHub](https://gist.github.com/christianromney/27fd1fca9e5f24ef24d9ed6c9eddda50): Jujutsu version control system tutorial with GitHub workflow guide
-- [15-Minute Minecraft Plugin Tutorial For 1.8.8 - 1.21 · GitHub](https://gist.github.com/kangarko/456d9cfce52dc971b93dbbd12a95f43c): Minecraft Bukkit/Spigot plugin development beginner tutorial
-- [A list of tutorials and references so you can learn Roblox Lua · GitHub](https://gist.github.com/kbridge/466a12de6f6e510f9bf9981b61bf358a): Roblox Lua scripting tutorials and learning resources list
-
-## Configuration and Setup Guides
-
-- [Firefox about:config privacy settings · GitHub](https://gist.github.com/0XDE57/fbd302cef7693e62c769): Firefox about:config privacy hardening and security settings guide
-- [Firefox bullshit removal via about:config · GitHub](https://gist.github.com/haasn/69e19fc2fe0e25f3cff5): Firefox about:config tweaks for privacy and customization
-- [Dual Booting Arch Linux and Windows 10/11: A Detailed Guide · GitHub](https://gist.github.com/uosyph/bb7db7606c4916535081ae7b0f6bff2d): Arch Linux and Windows dual boot installation guide with UEFI
-- [Tips for creating and growing a new Discord server · GitHub](https://gist.github.com/jagrosh/342324d7084c9ebdac2fa3d0cd759d10): Discord server setup and community growth best practices guide
-- [Beginner-friendly FFXIV Modding Guide · GitHub](https://gist.github.com/Exorion1er/5f2b55e14475484c63993140ec50faae): Final Fantasy XIV modding guide with XIVLauncher and Penumbra setup
-- [Crafting Cinematic Sora Video Prompts: A complete guide · GitHub](https://gist.github.com/ruvnet/e20537eb50866b2d837d4d13b066bd88): Sora AI video generation prompt engineering and cinematic techniques
-- [One Prompt to Save 90% Context for Any MCP Server · GitHub](https://gist.github.com/chenhunghan/27ef2fece7329ac7b88f815ce0c0fbb1): MCP Server context optimization guide using Code Mode sandboxing
-
-## Command Reference and Cheatsheets
-
-- [a gitignore cheatsheet · GitHub](https://gist.github.com/jstnlvns/ebaa046fae16543cc9efc7f24bcd0e31): Git .gitignore file patterns and syntax cheatsheet
-- [npm version cheatsheet · GitHub](https://gist.github.com/jonlabelle/706b28d50ba75bf81d40782aa3c84b3e): npm semantic versioning and version range syntax reference
-- [Screen Cheatsheet · GitHub](https://gist.github.com/jctosta/af918e1618682638aa82): Screen terminal multiplexer command reference and keyboard shortcuts
-- [irc cheat sheet · GitHub](https://gist.github.com/xero/2d6e4b061b4ecbeb9f99): IRC protocol commands and channel management reference guide
-
-## Technical Reference Data
-
-- [Simplemaps: World Cities Database · GitHub](https://gist.github.com/curran/13d30e855d48cdd6f22acdf0afe27286): World Cities Database with coordinates and population data
-- [Unicode Look-alikes · GitHub](https://gist.github.com/StevenACoffman/a5f6f682d94e38ed804182dc2693ed4b): Unicode homoglyphs and look-alike characters reference table
-- [Top 5000 Most Common Domain Prefix/Suffix List · GitHub](https://gist.github.com/0foo/98a5594b8db181601eb1342baa58a1ec): Top 5000 domain name prefixes and suffixes TSV data list
-- [FAQ Document & block content section for Sanity · GitHub](https://gist.github.com/pzi/48e3d84a8d2388edcb7878c0c88abf65): Sanity CMS FAQ schema and block content TypeScript code
-
-## FAQs and Troubleshooting
-
-- [Readme and FAQs for HF Patches made by me (ManlyMarco) · GitHub](https://gist.github.com/ManlyMarco/31b78470b8e190686c7ed9686c237e3f): HF Patch installation guide and FAQ for Illusion games
-- [Palworld Server Community FAQ · GitHub](https://gist.github.com/Toakan/3c78a577c21a21fcc5fa917f3021d70e): Palworld game server setup FAQ and troubleshooting guide
-- [FAQ по Shadowsocks/XRay/XTLS/Reality/Nekobox/etc. для обхода блокировок · GitHub](https://gist.github.com/rz6agx/d2541b01dca62eddee8b39fee99652e8): Proxy and VPN FAQ for censorship circumvention in Russia (Russian)
-- [An Unofficial Heaps FAQ · GitHub](https://gist.github.com/Yanrishatum/ae3725a9e2b45e0766c065e573ed1f24): Heaps game framework FAQ covering Haxe development questions
-- [cytube-faq.md · GitHub](https://gist.github.com/calzoneman/7d6289d211260339ec4f): CyTube media streaming platform FAQ and support documentation
-
-## System Administration
-
-- [Sketches about create and mount xfs filesystem on lvm for data partition · GitHub](https://gist.github.com/uduwat/2d13e32aa2f810efc69ef96e04f44301): Linux LVM and XFS filesystem setup bash script guide
-- [Исправление ошибки обнаружения WiFi сети 5GHz на роутерах Mikrotik · GitHub](https://gist.github.com/nskforward/7684e1c3bb4a8fd8e280c39910d7ef8a): Mikrotik RouterOS 5GHz WiFi troubleshooting guide (Russian)
-- [crashd instructions · GitHub](https://gist.github.com/throwaway96/e811b0f7cc2a705a5a476a8dfa45e09f): WebOS TV rooting guide using crashd/DejaVuln exploit
+- [Исправление ошибки обнаружения WiFi сети 5GHz на роутерах Mikrotik](https://gist.github.com/nskforward/7684e1c3bb4a8fd8e280c39910d7ef8a): Mikrotik RouterOS guide for fixing 5GHz WiFi network detection issues
+- [Route youtube traffic via VPN with Mikrotik / Форвард youtube в туннель на mirotik](https://gist.github.com/sgodunov/e30498c23464c3c362151de36dbdfa98): Mikrotik tutorial for routing YouTube traffic through VPN/WireGuard
 
 ## Optional
 
-- [Office 2021 Pro Plus Product Key · GitHub](https://gist.github.com/arshadkh507/1f9f6d33ddfffa143f4b318128ae25e7): Microsoft Office 2021 product keys and activation instructions
-- [Microsoft Office 2021 Professional Plus - (Clean Download & Activation) · GitHub](https://gist.github.com/alx-xlx/ac1b0a00dcdf4bfda37d412a895cfe1d): Office 2021 download and KMS activation guide with commands
-- [Guide Tutorial Part 1 · GitHub](https://gist.github.com/birdbrainiac/ea2106df9bd686487d475e059f2d153d): Castle Falkenstein RPG character sheet HTML tutorial
-- [Readme and FAQs for HF Patches made by me (ManlyMarco) · GitHub](https://gist.github.com/ycsu789/4dca58ef0ea52c526b3f3bd23167c801): HF Patch FAQ fork for Illusion games modding
-- [FAQ.txt · GitHub](https://gist.github.com/alexmoselt/2fb64e10140d620ec406f9f9199ed17f): Personal FAQ about Alessandro Moselt, streamer and student
-- [This is the HTML code for About Me page of my portfolio · GitHub](https://gist.github.com/admiralmoonkey/cabde48cbda013e343ed789ce2c771a3): Personal portfolio About Me page HTML source code
-- [about me · GitHub](https://gist.github.com/0x000-0/4196568c08f7655c2e0a0bb74211cd05): Personal introduction in Kotlin code format
-- [Exported from Popcode · GitHub](https://gist.github.com/12defgdfg/26831909fb3427eb469d11e3a71586cd): Student About Us page HTML exported from Popcode
+- [Office 2021 Pro Plus Product Key](https://gist.github.com/arshadkh507/1f9f6d33ddfffa143f4b318128ae25e7): Gist sharing Microsoft Office 2021 Pro Plus product activation keys
+- [Resets CRYPTO pro trial period](https://gist.github.com/alexanykey/9d7cf6c691ff0ef36268bb2d370d8478): Registry hack script to reset CRYPTO Pro software trial period
+- [Disk Drill Pro 5.5.900.0 Crack 2024 With Activation Code [Latest]](https://gist.github.com/ervenpaltok/29db009183c31d262192e500f21939b0): Disk Drill Pro data recovery software crack and keygen distribution
+- [Download IBM SPSS Statistics 30.1 Crack With License Code [Updated 2024]](https://gist.github.com/Amrashrafa/a5251e2bfe0001203b5ffd41a18de089): IBM SPSS Statistics 30.1 crack and license code distribution gist

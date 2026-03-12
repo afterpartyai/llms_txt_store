@@ -1,0 +1,61 @@
+# Agents.md
+
+> Professional AI agent instruction templates and guides for modern software development with OpenAI Codex
+
+Agents.md provides comprehensive project templates and development guides optimized for AI-assisted coding workflows. The site features Agents.md example templates across multiple frameworks (React, Django, Go, Flutter) and includes OpenAI Codex CLI documentation, video tutorials, and FAQs for developers integrating AI coding assistants into their workflow.
+
+## Key Topics
+
+- Agents.md templates
+- OpenAI Codex
+- AI agent configuration
+- TypeScript
+- React development
+- Backend development
+- Go microservices
+- Clean Architecture
+- Django REST Framework
+- Flutter mobile development
+- Tailwind CSS
+- Redux Toolkit
+- Vite
+- gRPC
+- OpenTelemetry
+
+## Getting Started with OpenAI Codex
+
+- [OpenAI Codex CLI - Command Line AI Coding Assistant](https://agentsmd.net/codex-cli): Command-line AI coding tool with installation guide and usage examples
+- [OpenAI Codex FAQ - Frequently Asked Questions for Beginners](https://agentsmd.net/codex-faq): Beginner FAQ covering OpenAI Codex availability, costs, and alternatives
+- [OpenAI Codex Video Tutorials – KI-Coding lernen | Agents.md](https://agentsmd.net/de/videos): Video tutorials for OpenAI Codex and AI-assisted development workflows
+
+## Frontend Development Templates
+
+- [Modern React Project Template - Professional Agents.md Example Template](https://agentsmd.net/fr/agents-md-examples/modern-react-project-template): React 18 SPA template with TypeScript, Vite, and Zustand state management
+- [Modern React Project Template - Professionelle Agents.md-Beispielvorlage](https://agentsmd.net/de/agents-md-examples/modern-react-project-template): React 18 + TypeScript + Vite frontend development template example
+- [Next.js React Redux TypeScript Development Guide - Professionelle Agents.md-Beispielvorlage](https://agentsmd.net/de/agents-md-examples/nextjs-react-redux-typescript-development-guide): Next.js full-stack development with React, Redux, and TypeScript
+- [Chrome Extension Development Guide - Modèle d'exemple Agents.md professionnel](https://agentsmd.net/fr/agents-md-examples/chrome-extension-development-guide): Chrome Extension development with Manifest V3 and TypeScript/JavaScript
+
+## Backend Development Templates
+
+- [Go Microservices Backend Development Guide - Professional Agents.md Example Template](https://agentsmd.net/agents-md-examples/go-microservices-backend-development-guide): Go microservices with Clean Architecture, gRPC, and OpenTelemetry guide
+- [Go Microservices Backend Development Guide - Modèle d'exemple Agents.md professionnel](https://agentsmd.net/fr/agents-md-examples/go-microservices-backend-development-guide): Go microservices guide with Clean Architecture, gRPC, and OpenTelemetry
+- [Python Django Scalable Web Application Development Guide - Professional Agents.md Example Template](https://agentsmd.net/agents-md-examples/python-django-scalable-web-application-development-guide): Scalable Python Django web app guide with Django REST Framework patterns
+- [Python Django Scalable Web Application Development Guide - Modèle d'exemple Agents.md professionnel](https://agentsmd.net/fr/agents-md-examples/python-django-scalable-web-application-development-guide): Python Django backend development guide with Django REST Framework example
+
+## Mobile Development Templates
+
+- [TypeScript React Native Expo Mobile Development Guide - Professional Agents.md Example Template](https://agentsmd.net/agents-md-examples/typescript-react-native-expo-mobile-development-guide): React Native Expo cross-platform mobile development with TypeScript
+- [TypeScript React Native Expo Development Guide - Professional Agents.md Example Template](https://agentsmd.net/agents-md-examples/typescript-react-native-expo-development-guide): React Native Expo monorepo with TypeScript, Tamagui, and Supabase
+- [Flutter Dart Mobile Application Development Guide - Professional Agents.md Example Template](https://agentsmd.net/agents-md-examples/flutter-dart-mobile-application-development-guide): Flutter mobile development with Dart, Riverpod, and Freezed patterns
+- [Flutter Dart Mobile Application Development Guide - Modèle d'exemple Agents.md professionnel](https://agentsmd.net/fr/agents-md-examples/flutter-dart-mobile-application-development-guide): Flutter mobile app development with Riverpod, Freezed, and Supabase backend
+
+## Testing & Quality Assurance
+
+- [Playwright End-to-End Testing Automation Guide - Professional Agents.md Example Template](https://agentsmd.net/agents-md-examples/playwright-end-to-end-testing-automation-guide): Playwright TypeScript E2E testing automation guide and best practices
+
+## Optional
+
+- [Ghost CMS Theme Development Guide - Professionelle Agents.md-Beispielvorlage](https://agentsmd.net/de/agents-md-examples/ghost-cms-theme-development-guide): Ghost CMS theme development with Handlebars, Alpine.js, and Tailwind CSS
+- [Ghost CMS Theme Development Guide - Modèle d'exemple Agents.md professionnel](https://agentsmd.net/fr/agents-md-examples/ghost-cms-theme-development-guide): Ghost CMS theme development using Handlebars and Alpine.js templating
+- [Lua Programming Development Guide - Modèle d'exemple Agents.md professionnel](https://agentsmd.net/fr/agents-md-examples/lua-programming-development-guide): Lua programming guide for game development and embedded systems
+- [Project Name - Modèle d'exemple Agents.md professionnel](https://agentsmd.net/fr/agents-md-examples/project-name): Generic Agents.md project template with Node.js and npm configuration

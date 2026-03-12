@@ -1,0 +1,38 @@
+# gptme
+
+> > gptme is an open-source AI coding agent that runs in your terminal, enabling autonomous code execution, file operations, and extensible tool integration.
+
+Built with Python and supporting multiple LLM providers (Anthropic, OpenAI), gptme offers a CLI, web interface (gptme-webui), and server (gptme-server) for AI-assisted development. It features a plugin system with hooks, custom tools via ToolSpec and MCP integration, and built-in capabilities for bash, Python execution, and web interactions.
+
+## Key Topics
+
+- gptme CLI
+- AI coding agent
+- Terminal automation
+- Python & Bash execution
+- ToolSpec framework
+- MCP (Model Context Protocol)
+- Plugin system & hooks
+- Custom tool development
+- Anthropic & OpenAI integration
+- gptme-webui
+- gptme-server
+- Code execution safety
+- Extensibility patterns
+- Agent templates
+- YAML configuration
+
+## Getting Started
+
+- [gptme - agent in your terminal](https://gptme.org/): Homepage for gptme, an open-source AI coding agent for terminal CLI
+- [gptme documentation](https://gptme.org/docs/index.html): Main documentation hub for gptme CLI, server, webui, and agent tools
+
+## Core Concepts & Architecture
+
+- [Core Concepts](https://gptme.org/docs/concepts.html): Architecture guide covering tools, plugins, hooks, and ToolSpec design
+
+## Tools & Extensibility
+
+- [Tools](https://gptme.org/docs/tools.html): Reference for built-in tools: Python, bash, file ops, web, and vision
+- [Custom Tools](https://gptme.org/docs/custom_tool.html): Guide to creating custom tools using ToolSpec and MCP integration
+- [Plugin System](https://gptme.org/docs/plugins.html): Plugin system reference covering hooks, structure, and configuration

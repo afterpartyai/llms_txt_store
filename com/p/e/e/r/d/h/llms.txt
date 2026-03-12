@@ -1,0 +1,69 @@
+# PeerDH
+
+> > Programming tutorials and insights covering Python, JavaScript, Django REST APIs, quantum computing with Qiskit, data structures, IoT, and web development.
+
+PeerDH is a technical education platform offering hands-on tutorials and guides for developers. The site features practical projects ranging from data visualization with Pandas and Matplotlib to quantum computing simulations, hash table implementations, and smart home automation systems.
+
+## Key Topics
+
+- Python
+- JavaScript
+- Django REST Framework
+- Node.js
+- Qiskit
+- Data Structures (Hash Tables)
+- API Development
+- Data Visualization (Pandas, Matplotlib)
+- Quantum Computing
+- IoT and Home Automation
+- Web Development (HTML, CSS, React)
+- Collision Resolution
+- Encryption and Security
+- Game Development (Unity, Unreal Engine)
+- Network Troubleshooting
+
+## API Development & Backend
+
+- [Develop A Rest Api For A Task Management Application Using Django Rest](https://peerdh.com/blogs/programming-insights/develop-a-rest-api-for-a-task-management-application-using-django-rest-framework-2): Django REST Framework tutorial with authentication and CRUD operations
+- [Developing A Rest Api For A Social Media Application](https://peerdh.com/blogs/programming-insights/developing-a-rest-api-for-a-social-media-application-2): Node.js/Express REST API for social media with rate limiting
+- [Create A Simple Password Manager That Securely Stores And Retrieves Pa](https://peerdh.com/blogs/programming-insights/create-a-simple-password-manager-that-securely-stores-and-retrieves-passwords-emphasizing-encryption-techniques): Python password manager tutorial using Fernet encryption
+
+## Data Structures & Algorithms
+
+- [Developing A Simple Hash Table With Collision Resolution Techniques](https://peerdh.com/blogs/programming-insights/developing-a-simple-hash-table-with-collision-resolution-techniques): Hash table implementation in Python with collision resolution methods
+- [Develop A Simple Hash Table With Collision Resolution Techniques](https://peerdh.com/blogs/programming-insights/develop-a-simple-hash-table-with-collision-resolution-techniques-1): Python hash table implementation with collision handling strategies
+
+## Web Development & Design
+
+- [Responsive Web Design: Best Practices For Modern Websites](https://peerdh.com/blogs/programming-insights/responsive-web-design-best-practices-for-modern-websites): Best practices for responsive design with CSS and WCAG guidelines
+- [The Evolution Of Web Development: From Static Pages To Dynamic Applica](https://peerdh.com/blogs/programming-insights/the-evolution-of-web-development-from-static-pages-to-dynamic-applications): Web development history from HTML to React and modern frameworks
+- [Network Troubleshooting Guide: Common Issues And Command-line Solution](https://peerdh.com/blogs/programming-insights/network-troubleshooting-guide-common-issues-and-command-line-solutions-2): Network diagnostics guide using ping and traceroute commands
+
+## Data Visualization & Analysis
+
+- [Create A Project That Visualizes Survey Results Using Bar Charts And P](https://peerdh.com/blogs/programming-insights/create-a-project-that-visualizes-survey-results-using-bar-charts-and-pie-charts-2): Python data visualization tutorial using Matplotlib and Pandas
+- [Build An Interactive Map Using Folium To Visualize Geographical Data](https://peerdh.com/blogs/programming-insights/build-an-interactive-map-using-folium-to-visualize-geographical-data-1): Folium/Leaflet.js tutorial for interactive geographical data maps
+
+## Quantum Computing & Advanced Topics
+
+- [Develop A Project That Simulates A Quantum Random Number Generator Usi](https://peerdh.com/blogs/programming-insights/develop-a-project-that-simulates-a-quantum-random-number-generator-using-quantum-principles-to-generate-random-bits-1): Quantum RNG tutorial using Qiskit and Python with Hadamard gates
+
+## IoT & Hardware Projects
+
+- [Build A Basic Motion Detection System Using A Pir Sensor](https://peerdh.com/blogs/programming-insights/build-a-basic-motion-detection-system-using-a-pir-sensor): Arduino tutorial for PIR sensor motion detection system
+- [Create A Smart Home Lighting System That Allows Users To Control Light](https://peerdh.com/blogs/programming-insights/create-a-smart-home-lighting-system-that-allows-users-to-control-lights-remotely-using-a-mobile-app-or-web-interface-1): Smart home IoT tutorial for remote lighting control with Philips Hue
+
+## Programming Fundamentals & Career
+
+- [Building A Simple Quiz Application In Python](https://peerdh.com/blogs/programming-insights/building-a-simple-quiz-application-in-python): Beginner Python tutorial for building command-line quiz app
+- [Why Every Programmer Should Learn A New Language: Exploring The Benefi](https://peerdh.com/blogs/programming-insights/why-every-programmer-should-learn-a-new-language-exploring-the-benefits-of-polyglot-programming): Benefits of polyglot programming and learning multiple languages
+- [Using Unity Vs Unreal Engine: Which Is Right For Your Game?](https://peerdh.com/blogs/programming-insights/using-unity-vs-unreal-engine-which-is-right-for-your-game): Unity vs Unreal Engine comparison for game development decisions
+
+## Core Pages
+
+- [Products](https://peerdh.com/collections/products): Product catalog page (currently empty)
+
+## Optional
+
+- [The Power Of Storytelling: How Narratives Shape Our Lives](https://peerdh.com/blogs/programming-insights/the-power-of-storytelling-how-narratives-shape-our-lives-1): Article on storytelling's impact on human connection and culture
+- [The Fascinating World Of Sleep: Why We Need It And How To Improve It](https://peerdh.com/blogs/programming-insights/the-fascinating-world-of-sleep-why-we-need-it-and-how-to-improve-it-1): Sleep science covering REM/NREM cycles and health improvement tips

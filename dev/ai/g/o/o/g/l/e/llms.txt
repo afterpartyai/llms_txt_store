@@ -1,0 +1,32 @@
+# Google AI for Developers
+
+> > Official documentation and resources for the Gemini API, Google's multimodal AI platform for developers.
+
+This site provides comprehensive guides, API references, and SDKs for integrating Gemini AI capabilities into applications across Python, JavaScript, TypeScript, Go, Java, C#, and Apps Script. It covers everything from quickstart tutorials to billing configuration and rate limit management.
+
+## Key Topics
+
+- Gemini API
+- Google GenAI SDK
+- Python SDK
+- JavaScript SDK
+- TypeScript
+- API authentication
+- Rate limits and quotas
+- Billing and pricing tiers
+- API versions (v1 vs v1beta)
+- Multi-language support
+- RPM/TPM/RPD limits
+- Cloud Billing integration
+- API key management
+- SDK installation (pip, npm, Maven)
+
+## Getting Started
+
+- [Gemini API quickstart](https://ai.google.dev/gemini-api/docs/quickstart): Gemini API quickstart guide with Python & JavaScript SDK setup
+
+## API Configuration & Management
+
+- [API versions explained](https://ai.google.dev/gemini-api/docs/api-versions): Gemini API version differences: v1 stable vs v1beta features
+- [Rate limits](https://ai.google.dev/gemini-api/docs/rate-limits): Gemini API rate limits, quotas (RPM/TPM/RPD), and usage tiers
+- [Billing](https://ai.google.dev/gemini-api/docs/billing): Gemini API billing setup, pricing tiers, and Cloud Billing config

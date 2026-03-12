@@ -1,0 +1,37 @@
+# django-modern-rest
+
+> > A modern Django REST framework with async support, type-safe serialization using pydantic/msgspec, and automatic OpenAPI schema generation.
+
+django-modern-rest is a Python library that modernizes Django REST API development through Controllers, Endpoints, and Blueprints. It emphasizes type safety, performance, and async capabilities while maintaining compatibility with Django's ecosystem.
+
+## Key Topics
+
+- django-modern-rest
+- Django REST framework
+- pydantic serialization
+- msgspec
+- async/await support
+- OpenAPI schema generation
+- Type-safe APIs
+- Controllers and Endpoints
+- Blueprint routing
+- PydanticSerializer
+- Schema validation
+- ASGI/WSGI compatibility
+- Performance optimization
+- REST API design
+
+## Getting Started
+
+- [django-modern-rest Documentation](https://django-modern-rest.readthedocs.io/en/latest): Homepage for django-modern-rest with Django, pydantic, and async support
+- [Getting Started Guide](https://django-modern-rest.readthedocs.io/en/latest/pages/getting-started.html): Installation and setup guide for django-modern-rest with Python/Django
+
+## Core Concepts
+
+- [Core Concepts](https://django-modern-rest.readthedocs.io/en/latest/pages/core-concepts.html): Core concepts guide covering Endpoints, Controllers, and Blueprints
+- [Using Controller](https://django-modern-rest.readthedocs.io/en/latest/pages/using-controller.html): Guide on using Controller with Endpoints and PydanticSerializer
+- [Routing](https://django-modern-rest.readthedocs.io/en/latest/pages/routing.html): Routing guide for Controller composition and blueprint URL patterns
+
+## Optional
+
+- [Documentation Home (Alternative)](https://django-modern-rest.readthedocs.io/): Main documentation entry for django-modern-rest REST framework

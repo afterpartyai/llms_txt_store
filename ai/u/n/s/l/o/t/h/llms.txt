@@ -1,0 +1,61 @@
+# Unsloth AI
+
+> > Unsloth AI - Open-source platform for 2-5x faster LLM fine-tuning with 70% less memory using optimized QLoRA, Flash Attention, and gradient checkpointing
+
+Founded by Daniel and Michael, Unsloth became GitHub's #1 trending repository and is backed by YCombinator. The platform specializes in memory-efficient fine-tuning for models from Meta, Google, Alibaba, and Microsoft, with support for multi-GPU training, dynamic quantization (GGUF), and advanced techniques like GRPO reinforcement learning.
+
+## Key Topics
+
+- LLM fine-tuning and training optimization
+- QLoRA (Quantized Low-Rank Adaptation)
+- Memory optimization and VRAM efficiency
+- Flash Attention 2 acceleration
+- Model quantization and GGUF format
+- Gradient checkpointing for long context
+- Reasoning models (DeepSeek-R1, QwQ)
+- Multi-GPU training support
+- Hugging Face integration
+- Vision and multimodal models
+- Performance benchmarks on A100 GPUs
+- Google Colab notebooks
+- Bug fixes in gradient accumulation
+- GRPO reinforcement learning
+- Local inference optimization
+
+## Getting Started
+
+- [Introducing Unsloth](https://unsloth.ai/introducing): Introduction to Unsloth's LLM training optimization platform
+- [Re-introducing Unsloth](https://unsloth.ai/blog/reintroducing): Unsloth's journey & contributions as #1 trending GitHub repo
+- [Unsloth x YCombinator](https://unsloth.ai/roadmap-yc): YCombinator-backed Unsloth roadmap & open-source commitment
+- [Pricing](https://unsloth.ai/pricing): Unsloth pricing plans for LLM training & multi-GPU support
+
+## Latest Model Support
+
+- [Llama 4 - Finetune & Run with Unsloth](https://unsloth.ai/blog/llama4): Fine-tune Meta's Llama 4 Scout & Maverick multimodal models with Unsloth
+- [Run DeepSeek-R1 Dynamic 1.58-bit](https://unsloth.ai/blog/deepseekr1-dynamic): Run DeepSeek-R1 reasoning model with Unsloth's 1.58-bit dynamic GGUF
+- [How to Run Deepseek-R1-0528 Locally](https://unsloth.ai/blog/deepseek-r1-0528): Run DeepSeek-R1-0528 & Qwen3-8B distill with 1.78-bit dynamic quants
+- [How to Run Deepseek-V3-0324 Locally](https://unsloth.ai/blog/deepseek-v3-0324): Run DeepSeek-V3-0324 locally with Unsloth dynamic quantization
+- [Fine-tune Llama 3.3 with Unsloth](https://unsloth.ai/blog/llama3-3): Fine-tune Meta's Llama 3.3 70B with Apple's Cut Cross Entropy algorithm
+- [Finetune Llama 3.1 with Unsloth](https://unsloth.ai/blog/llama3-1): Fine-tune Meta's Llama 3.1 with 6x longer context lengths via Unsloth
+
+## Model Fine-tuning Guides
+
+- [Fine-tune Gemma 3 with Unsloth](https://unsloth.ai/blog/gemma3): Fine-tune Google's Gemma 3 multimodal models (1B-27B) with Unsloth
+- [Qwen 2.5 Coder Fine-tuning with Unsloth](https://unsloth.ai/blog/qwen-coder): Fine-tune Alibaba's Qwen 2.5 Coder models 2x faster with Unsloth
+- [Finetune Phi-3 with Unsloth](https://unsloth.ai/blog/phi3): Fine-tune Microsoft Phi-3 mini/medium with 6x longer context via Unsloth
+- [Run & Finetune QwQ-32B with Bug Fixes](https://unsloth.ai/blog/qwq-32b): Run Qwen's QwQ-32B reasoning model with Unsloth's bug fixes
+
+## Advanced Techniques
+
+- [Unsloth Gradient Checkpointing - 4x longer context windows](https://unsloth.ai/blog/long-context): Gradient checkpointing enables 4x longer contexts with 30% less memory
+- [Vision Reinforcement Learning](https://unsloth.ai/blog/vision-rl): Train vision models with RL using Gemma 3 & Qwen2.5-VL via Unsloth
+- [Bug Fixes in LLM Training - Gradient Accumulation](https://unsloth.ai/blog/gradient): Critical gradient accumulation bug fixes for LLM training stability
+
+## Community & Support
+
+- [Contact](https://unsloth.ai/contact): Contact Unsloth via Discord, LinkedIn, Twitter, or Reddit
+- [Unsloth Newsletter](https://unsloth.ai/newsletter): Join Unsloth newsletter & waitlist for monthly LLM training updates
+
+## Optional
+
+- [Unsloth AI Community License Agreement](https://unsloth.ai/license): Unsloth AI community license terms and legal agreement

@@ -1,0 +1,58 @@
+# OpenAI Developer Platform
+
+> > Official developer documentation for building ChatGPT apps, MCP servers, and AI-powered integrations using OpenAI's Apps SDK and Model Context Protocol.
+
+This site provides comprehensive guides for developers building on OpenAI's platform, with a focus on ChatGPT app development using the Apps SDK, Model Context Protocol (MCP) servers, and Codex agent skills. It includes technical documentation, deployment guides, security best practices, and real-world examples from companies like Alpic and Skyscanner.
+
+## Key Topics
+
+- ChatGPT Apps
+- Apps SDK
+- Model Context Protocol (MCP)
+- MCP Server
+- Codex CLI
+- OAuth 2.1 & PKCE Authentication
+- JSON-RPC & postMessage Bridge
+- React UI Components
+- Agent Development
+- Responses API
+- App Submission & Monetization
+- Security & Prompt Injection
+- Agentic Commerce
+- Developer Mode
+
+## Getting Started
+
+- [Build for ChatGPT](https://developers.openai.com/chatgpt/): Main hub for building ChatGPT apps using Apps SDK and MCP protocols
+- [Apps SDK](https://developers.openai.com/apps-sdk): OpenAI's framework for building ChatGPT apps with MCP server support
+- [Examples](https://developers.openai.com/apps-sdk/build/examples): End-to-end Apps SDK examples including Pizzaz demo app on GitHub
+
+## Building MCP Servers
+
+- [Build your MCP server](https://developers.openai.com/apps-sdk/build/mcp-server): Guide to building MCP servers with tools, templates, and JSON-RPC bridge
+- [MCP Apps compatibility in ChatGPT](https://developers.openai.com/apps-sdk/mcp-apps-in-chatgpt): Build portable MCP Apps UIs with iframe bridge and JSON-RPC support
+- [Authentication](https://developers.openai.com/apps-sdk/build/auth): OAuth 2.1 and MCP authentication patterns for Apps SDK apps
+- [Managing State](https://developers.openai.com/apps-sdk/build/state-management): State management patterns for ChatGPT apps: UI, business, cross-session
+
+## Deployment & Testing
+
+- [Deploy your app](https://developers.openai.com/apps-sdk/deploy): Deploy MCP servers using ngrok, Alpic, or production hosting options
+- [Test your integration](https://developers.openai.com/apps-sdk/deploy/testing): Testing strategies using MCP Inspector and API Playground for apps
+- [Security & Privacy](https://developers.openai.com/apps-sdk/guides/security-privacy/): Security best practices for Apps SDK: CSP, auth, prompt injection
+
+## Publishing & Monetization
+
+- [App submission guidelines](https://developers.openai.com/apps-sdk/app-submission-guidelines): Guidelines for submitting ChatGPT apps for publication review
+- [Monetization](https://developers.openai.com/apps-sdk/build/monetization): External and Instant Checkout options for monetizing ChatGPT apps
+
+## Developer Blog
+
+- [Blog](https://developers.openai.com/blog): Developer insights on OpenAI APIs, Codex, agents, and ChatGPT apps
+- [Testing Agent Skills Systematically with Evals](https://developers.openai.com/blog/eval-skills): Guide to testing and improving Codex agent skills using evals framework
+- [15 lessons learned building ChatGPT Apps](https://developers.openai.com/blog/15-lessons-building-chatgpt-apps): Alpic's lessons building ChatGPT Apps with Codex Skill and Skybridge
+- [How Codex ran OpenAI DevDay 2025](https://developers.openai.com/blog/codex-at-devday): Codex use cases at DevDay 2025: demos, realtime agents, MCP servers
+- [Supercharging Codex with JetBrains MCP at Skyscanner](https://developers.openai.com/blog/skyscanner-codex-jetbrains-mcp): Skyscanner's Codex CLI integration with JetBrains for AI pair programming
+
+## Optional
+
+- [API blog posts](https://developers.openai.com/blog/topic/api): Blog posts about Responses API, GPT-5, and agentic product development

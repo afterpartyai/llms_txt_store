@@ -1,46 +1,60 @@
-# talkin.icu
+# Talkin.icu
 
-> > A curated collection of viral memes, TikTok trends, and TV entertainment guides covering internet culture and streaming schedules.
+> > A developer-focused blog covering troubleshooting guides, backend development, and open source tools across Python, JavaScript, and various frameworks.
 
-This site aggregates content from Know Your Meme's trending explanations of viral social media phenomena alongside TV Guide's comprehensive television listings and entertainment news. It serves as a resource for understanding internet culture and finding what to watch across streaming, cable, and broadcast platforms.
+Talkin.icu provides practical technical guides and troubleshooting solutions for modern software development challenges. The site covers topics ranging from NestJS and Python dependency management to API security, database persistence, and build error resolution, with a focus on real-world developer problems and their solutions.
 
 ## Key Topics
 
-- TikTok trends
-- Viral memes
-- Internet slang
-- TV schedules
-- Streaming services
-- Know Your Meme
-- TV Guide
-- Exploitable memes
-- Dance memes
-- Entertainment news
-- Local TV listings
-- Meme explanations
-- Celebrity news
-- Image macros
-- Catchphrases
+- Troubleshooting & Debugging
+- Python (uv, astral-sh, pytest)
+- Backend Development (NestJS, TypeORM, PostgreSQL)
+- API Security & Best Practices
+- Data Persistence & State Management
+- Package Management (npm, yarn)
+- GitHub & Open Source
+- Windows & WSL Development
+- React Native & Expo
+- Elasticsearch
+- Machine Learning (TensorFlow, PyTorch)
+- Feature Requests & UX
+- Build Errors & Configuration
+- Developer Tooling
 
-## TV Listings & Entertainment
+## Backend Development & Architecture
 
-- [TV Guide Homepage](https://tvguide.com): Homepage with streaming recommendations, reviews, and entertainment news
-- [TV Listings](https://tvguide.com/Listings): TV schedule and listings for shows, movies, and programs by provider
-- [Live Sports On TV Today](https://tvguide.com/sports/live-today): Live sports schedule featuring MLB, NBA, NHL, NCAA, and soccer matches
+- [NestJS Project Setup: PostgreSQL, TypeORM & More](https://talkin.icu/blog/nestjs-project-setup-postgresql-typeorm): NestJS backend setup with PostgreSQL and TypeORM integration guide
+- [Keep Your Count: Persisting Data After Service Restarts](https://talkin.icu/blog/keep-your-count-persisting-data): Backend data persistence and state management after service restarts
+- [Securing Your API Key: Best Practices To Avoid Exposure](https://talkin.icu/blog/securing-your-api-key-best): API key security with dotenv and GitHub best practices guide
 
-## Viral Meme Guides
+## Python & Package Management
 
-- [Clavicular Brutally Frame Mogged By ASU Frat Leader](https://trending.knowyourmeme.com/editorials/guides/what-does-clavicular-brutally-frame-mogged-by-asu-frat-leader-mean-the-memes-about-the-viral-looksmaxxer-explained): Guide explaining Clavicular 'frame mogged' looksmaxxing meme by Phillip Hamilton
-- [Saxophones In The Hood Meme](https://trending.knowyourmeme.com/editorials/guides/what-do-the-memes-about-hearing-saxophones-in-the-hood-mean-the-viral-90s-hood-movie-trend-explained): Guide to Boyz n the Hood saxophone meme trend on TikTok and Instagram Reels
-- [Bananas And Rice Girl (Nasra Ahmed)](https://trending.knowyourmeme.com/editorials/guides/who-is-the-bananas-and-rice-girl-the-viral-memes-about-somali-american-ice-victim-nasra-ahmed-explained): Guide to Nasra Ahmed 'Bananas and Rice' viral ICE victim meme from Minneapolis
+- [Nesting Groups In Optional Dependencies: A Deep Dive](https://talkin.icu/blog/nesting-groups-in-optional-dependencies): Python dependency groups with uv and astral-sh package management guide
 
-## TikTok Trends & Dance Memes
+## Build Errors & Troubleshooting
 
-- [I'm Talking About Innit](https://knowyourmeme.com/memes/im-talking-about-innit): TikTok dance trend from BunnaB & YKNiece's 'Innit' with swimming gesture
-- [We Still Talk About You](https://knowyourmeme.com/memes/we-still-talk-about-you): Exploitable meme of girl lying in dirt over cat, viral on TikTok
-- [Jesse, What the Fuck Are You Talking About](https://knowyourmeme.com/memes/jesse-what-the-fuck-are-you-talking-about): Breaking Bad dialogue meme featuring Walter White and Jesse Pinkman
+- [Expo V54 Build Error: A Troubleshooting Guide](https://talkin.icu/blog/expo-v54-build-error-a): Expo v54 and React Native build error troubleshooting guide
+- [Elasticsearch GeoIP Test Failures: Root Cause Analysis](https://talkin.icu/blog/elasticsearch-geoip-test-failures-root): Elasticsearch GeoIP processor test failure analysis on ubuntu-2404-aarch64
+- [Troubleshooting Guide For Your README.md](https://talkin.icu/blog/troubleshooting-guide-for-your-readme): GCC installation troubleshooting for Debian/Ubuntu development setup
+- [Fix: Periscope Mock No Data Stream On Windows](https://talkin.icu/blog/fix-periscope-mock-no-data): Periscope Mock Windows/WSL data stream fix using Git Bash
+- [Fixing Grok Code Preview Errors With Images In History](https://talkin.icu/blog/fixing-grok-code-preview-errors): Grok VS Code extension error 400 troubleshooting with image handling
+- [GTNH: Crash After Disabling VSync - Quick Fixes & Guide](https://talkin.icu/blog/gtnh-crash-after-disabling-vsync): GT: New Horizons VSync crash troubleshooting and Java 8 fixes
 
-## Local TV Guides
+## Open Source & Developer Resources
 
-- [Cary, NC TV Schedule](https://tvguide.com/listings/zip/27518-cary-nc): Local TV schedule for Cary, NC with antenna, cable, and satellite listings
-- [Navarre, FL TV Schedule](https://tvguide.com/listings/zip/32566-navarre-fl): Local TV schedule for Navarre, FL across broadcast and cable providers
+- [GitHub & Gitcoin $15M Fund For Open Source Devs](https://talkin.icu/blog/github-and-gitcoin-15m-fund): GitHub Developer Fund $15M quadratic funding for open source projects
+
+## Feature Requests & Product Improvements
+
+- [Missing Invoice History Panel: Let's Get It Fixed!](https://talkin.icu/blog/missing-invoice-history-panel-lets): BillForge app missing invoice history feature - bug fix discussion
+- [Enable Animated Images In Lemmy: A User Settings Update](https://talkin.icu/blog/enable-animated-images-in-lemmy): Lemmy animated GIF user settings feature request for bandwidth control
+- [Vacuum Map Card: Control Your Cleaning Order!](https://talkin.icu/blog/vacuum-map-card-control-your): Vacuum Map Card smart home room cleaning order feature request
+- [Employee Scheduling: Availability And Calendar Guide](https://talkin.icu/blog/employee-scheduling-availability-and-calendar): Employee scheduling and workforce availability management guide
+
+## Optional
+
+- [Sharing Your Mindustry Project: A Friendly Request](https://talkin.icu/blog/sharing-your-mindustry-project-a): Mindustry community project sharing and creator credit guidelines
+- [Lab Grown Diamond Market: Growth, Trends & Forecast](https://talkin.icu/blog/lab-grown-diamond-market-growth): Lab-grown diamond market analysis with CVD/HPHT methods and trends
+- [Dispose Unwanted Materials: Add A Garbage Can!](https://talkin.icu/blog/dispose-unwanted-materials-add-a): Woodworking Tycoon game garbage disposal feature suggestion
+- [Oxygen Sharing: Boost Teamwork In Your Modpack Server](https://talkin.icu/blog/oxygen-sharing-boost-teamwork-in): Minecraft modpack oxygen sharing mechanics for multiplayer teamwork
+- [宁波捐卵/代妈/供卵：联系方式及技术讨论](https://talkin.icu/blog/-1757932485759): Ningbo services discussion with Spring Boot and Java8 tech references

@@ -1,0 +1,52 @@
+# Kimi K2
+
+> > Kimi K2 is an AI assistant platform offering OpenAI-compatible API access to advanced MoE models with 256K context windows, including K2-0905 and multimodal K2.5.
+
+Kimi K2 provides free AI chat capabilities with web search, coding assistance, and writing support. The platform features flexible credit-based pricing starting at $4.99 and developer-friendly API integration compatible with OpenAI and Anthropic formats.
+
+## Key Topics
+
+- Kimi K2 - AI assistant platform with MoE models
+- K2-0905 - MoE model with 256K context window
+- K2.5 - Native multimodal agentic model with MoonViT
+- OpenAI-compatible API - Drop-in replacement for OpenAI endpoints
+- Anthropic-compatible - Claude-style API integration
+- 256K context - Extended context window for large documents
+- MoE (Mixture of Experts) - Efficient model architecture
+- API access - REST API with authentication
+- AI coding tools - SWE-Bench performance, IDE integration
+- Credit-based pricing - Flexible plans from $4.99
+- Data security - No training on user data, encrypted chats
+- Web search - Real-time information retrieval
+- Python SDK - Quick integration examples
+- JSON API - Standard REST format
+
+## Getting Started
+
+- [Kimi K2 | Free AI Chat Assistant with Web Search](https://kimi-k2.ai/ru): Homepage (Russian): free AI assistant with coding, writing, web search support
+- [Kimi K2 Pricing - AI Chat Credits from $4.99 | Flexible Plans](https://kimi-k2.ai/pricing): Kimi K2 credit pricing: starter ($4.99), standard ($29.99), premium plans
+- [Kimi K2 价格 - AI 聊天积分 $4.99 起 | 灵活方案](https://kimi-k2.ai/zh/pricing): Kimi K2 pricing page (Chinese): credit plans from $4.99 to premium tiers
+- [Kimi K2 प्राइसिंग - $4.99 से AI चैट क्रेडिट | फ्लेक्सिबल प्लान](https://kimi-k2.ai/hi/pricing): Pricing page (Hindi): starter to premium plans, API access, IDE integration
+
+## API Reference
+
+- [Kimi K2 API Documentation - Build AI Apps in Minutes](https://kimi-k2.ai/api-docs): API docs: OpenAI-compatible REST API, authentication, code examples
+- [Kimi K2 API 文档 - 几分钟构建 AI 应用](https://kimi-k2.ai/zh/api-docs): API documentation (Chinese): OpenAI/Anthropic-compatible integration guide
+- [Kimi K2 API डॉक्यूमेंटेशन - मिनटों में AI ऐप्स बनाएं](https://kimi-k2.ai/hi/api-docs): Kimi K2 API docs (Hindi): OpenAI-compatible integration guide & examples
+- [Kimi K2 API Документация — создавайте AI-приложения за минуты](https://kimi-k2.ai/ru/api-docs): API documentation (Russian): OpenAI-compatible format, quick start guide
+
+## Model Documentation
+
+- [Kimi K2 0905 - MoE Model with 256K Context](https://kimi-k2.ai/kimi-k2-0905): K2-Instruct-0905 MoE model specs: 256K context, agentic coding benchmarks
+- [Kimi K2 0905 - 256K 上下文的 MoE 模型](https://kimi-k2.ai/zh/kimi-k2-0905): K2-Instruct-0905 model (Chinese): 256K context, SWE-Bench performance specs
+- [Kimi K2.5 - Native Multimodal Agentic Model](https://kimi-k2.ai/ru/kimi-k2.5): K2.5 multimodal model: 256K context, Sparse MoE, MoonViT vision capabilities
+- [Kimi K2 0905 - MoE Model with 256K Context (German)](https://kimi-k2.ai/de/kimi-k2-0905): K2-0905 model (German): MoE architecture, 256K context, coding benchmarks
+- [Kimi K2 0905 - MoE Model with 256K Context (Hindi)](https://kimi-k2.ai/hi/kimi-k2-0905): K2-0905 model (Hindi): MoE specs, 256K context, agentic coding features
+
+## Legal & Privacy
+
+- [Kimi K2 Privacy Policy & Terms - Your Data is Safe](https://kimi-k2.ai/privacy-policy): Privacy policy: encrypted chats, no training on user data, one-click delete
+- [Kimi K2 隐私政策与条款 - 您的数据很安全](https://kimi-k2.ai/zh/privacy-policy): Privacy policy (Chinese): secure data handling, GDPR compliance, encryption
+- [Kimi K2 隐私政策与条款 - 您的数据很安全 (Terms)](https://kimi-k2.ai/zh/terms-of-service): Terms of service (Chinese): user agreement, credit system, data protection
+- [Kimi K2 प्राइवेसी पॉलिसी और टर्म्स - आपका डेटा सुरक्षित](https://kimi-k2.ai/hi/terms-of-service): Terms & privacy (Hindi): data security, no training on user data policy
+- [Политика конфиденциальности и условия Kimi K2 — Ваши данные в безопасности](https://kimi-k2.ai/ru/terms-of-service): Terms & privacy (Russian): encrypted conversations, no model training on data

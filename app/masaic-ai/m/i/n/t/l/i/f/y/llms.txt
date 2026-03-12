@@ -1,0 +1,60 @@
+# Masaic AI - OpenResponses
+
+> > Self-hosted, OpenAI-compatible enterprise AI platform with RAG, agentic search, and multi-provider LLM support
+
+Masaic AI provides OpenResponses, an open-source toolkit for building AI applications with OpenAI API compatibility. It supports multiple model providers (OpenAI, Claude, Groq), includes RAG capabilities with vector search, and offers enterprise features like observability, conversation persistence, and AI-powered tools.
+
+## Key Topics
+
+- OpenResponses
+- OpenAI API compatibility
+- RAG (Retrieval-Augmented Generation)
+- Vector search and embeddings
+- Self-hosted deployment
+- Docker containerization
+- MongoDB persistence
+- Model providers (OpenAI, Claude, Anthropic, Groq)
+- Agentic search
+- File search and semantic search
+- OpenTelemetry observability
+- GPT-4o integration
+- text-embedding-3-small
+- Document embeddings
+- AI tools and reasoning
+
+## Getting Started
+
+- [Introduction](https://masaic-ai.mintlify.app/introduction): Masaic AI platform: OpenAI-compatible, self-hosted enterprise AI toolkit
+- [Quick Start](https://masaic-ai.mintlify.app/quickstart): Quick start guide: Docker setup with OpenAI and Claude model providers
+- [Local Development](https://masaic-ai.mintlify.app/development): Local development setup with Java JDK 21, Gradle, Docker, and MongoDB
+- [FAQ](https://masaic-ai.mintlify.app/faq): FAQ on OpenResponses setup, deployment, model providers, and features
+
+## RAG & Vector Search
+
+- [RAG Overview](https://masaic-ai.mintlify.app/rag/overview): RAG system overview: Files, Vector Store, and Search API integration
+- [Files API](https://masaic-ai.mintlify.app/rag/files-api): Files API reference for uploading and managing documents in RAG system
+- [Vector Store API](https://masaic-ai.mintlify.app/rag/vectorstore-api): Vector Store API reference for managing document embeddings collections
+- [Embedding Configuration](https://masaic-ai.mintlify.app/rag/embedding): Configure embedding models for RAG semantic search with OpenAI integration
+
+## AI Tools
+
+- [Tools Overview](https://masaic-ai.mintlify.app/tools/overview): Overview of AI tools: Think, File Search, and Agentic Search capabilities
+- [Agentic Search](https://masaic-ai.mintlify.app/tools/agentic-search): Agentic Search tool for AI-guided iterative multi-step research queries
+- [File Search](https://masaic-ai.mintlify.app/tools/file-search): File Search tool for direct vector store semantic search queries
+- [Think Tool](https://masaic-ai.mintlify.app/tools/think): Think tool for documenting AI reasoning steps and decision-making processes
+
+## Configuration & Integration
+
+- [Model Providers](https://masaic-ai.mintlify.app/model-providers): Supported model providers: OpenAI, Claude/Anthropic, and Groq integration
+- [OpenAI API Compatibility](https://masaic-ai.mintlify.app/openresponses/compatibility): OpenAI API compatibility mapping for Responses and Chat Completions APIs
+- [Storage Configuration](https://masaic-ai.mintlify.app/openresponses/storage): Configure MongoDB persistence for OpenResponses conversation history
+
+## Observability & Operations
+
+- [Observability Overview](https://masaic-ai.mintlify.app/openresponses/observability): OpenTelemetry observability: metrics, traces, and token usage monitoring
+- [Deploy with Observability](https://masaic-ai.mintlify.app/openresponses/runwithobs): Deploy OpenResponses with OpenTelemetry, Jaeger, Prometheus, and Grafana
+
+## Optional
+
+- [Codex Demo](https://masaic-ai.mintlify.app/use-cases/codex-demo): Run OpenAI Codex with custom models using OpenResponses and Docker
+- [Product Roadmap](https://masaic-ai.mintlify.app/roadmap): Product roadmap: OpenEvals API, vector database, and browser tool features

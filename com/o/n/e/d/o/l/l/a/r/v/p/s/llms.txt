@@ -1,0 +1,57 @@
+# OneDollarVPS
+
+> > OneDollarVPS provides comprehensive guides for deploying AI models locally and on cloud infrastructure, along with VPS hosting comparisons and tutorials.
+
+OneDollarVPS focuses on affordable cloud hosting solutions, featuring detailed technical guides for running AI models (Mistral, Ollama, Gemini, OpenAI) locally or on VPS platforms like LightNode. The site offers VPS provider comparisons, location-specific hosting recommendations, and developer tutorials for Python, Node.js, and various AI frameworks.
+
+## Key Topics
+
+- LightNode VPS hosting
+- AI model deployment (Mistral, Ollama, Gemini)
+- Local AI model setup
+- Python and Node.js development
+- VPS provider comparisons
+- Cloud vs local deployment
+- Developer installation guides
+- Linux and Windows server hosting
+- Game server hosting (Rust)
+- CDN and RDP services
+- OpenAI GPT models
+- Conda and pip environments
+- Free API access guides
+- Geographic VPS locations
+- Cost-effective hosting solutions
+
+## AI Model Deployment Guides
+
+- [How to Run Mistral's Devstral-Small-2505 Locally: A Step-by-Step Guide for Developers](https://onedollarvps.com/blogs/how-to-run-devstral-small-2505-locally.html): Developer guide to deploy Mistral Devstral-Small-2505 locally or on LightNode
+- [Como Executar o Devstral-Small-2505 da Mistral Localmente: Um Guia Passo a Passo para Desenvolvedores](https://onedollarvps.com/br/blogs/how-to-run-devstral-small-2505-locally.html): Step-by-step guide to run Mistral's Devstral-Small-2505 AI model locally/cloud
+- [How to Run Gemma 3 Locally with Ollama: A Step-by-Step Guide](https://onedollarvps.com/blogs/how-to-run-gemma-3-27b-locally-with-ollama.html): Step-by-step guide to run Gemma 3 AI model locally with Ollama on any OS
+- [Tutorial do Ollama Deep Researcher: Construindo Poderosos Agentes de Pesquisa em IA](https://onedollarvps.com/br/blogs/ollama-deep-researcher-tutorial.html): Tutorial: Setup Ollama Deep Researcher with Python/Node.js for AI research
+- [How to Run OlympicCoder-32B](https://onedollarvps.com/blogs/how-to-run-OlympicCoder-32B.html): Setup guide for OlympicCoder-32B competitive programming AI model
+- [How to Install OpenManus: A Comprehensive Guide](https://onedollarvps.com/blogs/how-to-install-openmanus.html): Installation guide for OpenManus AI using Conda/UV with troubleshooting tips
+- [Como Usar o MiniMax M2 Gratuitamente: Um Guia Completo](https://onedollarvps.com/br/blogs/how-to-use-minimax-m2-for-free.html): Complete guide to access MiniMax M2 MoE model free via API/local deployment
+
+## AI APIs and Free Access
+
+- [Como usar a API Experimental Gratuita do Google Gemini Pro 2.5](https://onedollarvps.com/br/blogs/google-gemini-pro-25-experimental-free-api.html): Guide to access free Google Gemini Pro 2.5 API via AI Studio/Open Router
+- [GPT-5.3-Codex: OpenAI's Most Capable Agentic Coding Model](https://onedollarvps.com/blogs/gpt-5-3-codex-model-overview.html): Overview of OpenAI's GPT-5.3-Codex agentic coding model capabilities & access
+- [Quasar Alpha AI Model: Comprehensive Benchmark Analysis](https://onedollarvps.com/blogs/quasar-alpha-benchmarks.html): Quasar Alpha AI benchmarks on OpenRouter: coding performance & comparison
+
+## AI Tools and Integration
+
+- [Unlocking the Power of AI with Crawl4AI MCP: A Step-by-Step Guide](https://onedollarvps.com/blogs/how-to-set-up-and-use-crawl4ai-mcp.html): Setup guide for Crawl4AI MCP web scraping with Claude & Python integration
+- [Como Instalar o Clawdbot em um VPS](https://onedollarvps.com/br/blogs/how-to-install-clawdbot-on-vps.html): Complete guide to install Clawdbot AI assistant on VPS using Node.js
+
+## VPS Hosting Comparisons
+
+- [Compre Hospedagem VPS em Mianmar, Melhor e Mais Barato VPS em Yangon, Mianmar](https://onedollarvps.com/br/locations/vps-in-myanmar.html): Myanmar VPS hosting guide: LightNode, Evoxt, worldwidemyanmar in Yangon
+- [Principais Recomendações de VPS para Hospedagem de Rust – Melhores Servidores para um Jogo Suave](https://onedollarvps.com/br/blogs/best-vps-for-rust-hosting.html): VPS recommendations for Rust game hosting: LightNode, OVHcloud, DigitalOcean
+- [Amazon Lightsail Reviews: What Users Are Saying](https://onedollarvps.com/reviews/amazon-aws-lightsail-review.html): User reviews & ratings for Amazon AWS Lightsail cloud hosting service
+- [Linode Locations | What positions does Linode have after being acquired by Akamai?](https://onedollarvps.com/blogs/linode-locations.html): Linode datacenter locations post-Akamai acquisition & pricing comparison
+- [Google Cloud VPS - Uma Visão Geral](https://onedollarvps.com/br/blogs/google-cloud-vps.html): Overview of Google Cloud VPS hosting solutions & infrastructure features
+
+## Optional
+
+- [[2026]Compre o CDN Mais Barato, Top 3 Melhores Provedores de CDN Mais Baratos](https://onedollarvps.com/br/blogs/cheapest-cdn.html): Top 3 cheapest CDN providers comparison: LightCDN, BelugaCDN, CDNsun
+- [Principais Provedores de RDP para Melhorar Sua Experiência de Desktop Remoto](https://onedollarvps.com/br/blogs/best-rdp-providers.html): Top RDP providers comparison: LightNode, Astra RDP, HostRDP for remote work

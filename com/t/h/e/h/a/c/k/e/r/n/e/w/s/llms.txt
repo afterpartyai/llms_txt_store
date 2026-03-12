@@ -1,0 +1,60 @@
+# The Hacker News
+
+> > Leading cybersecurity news source covering threat intelligence, vulnerability disclosures, malware analysis, and enterprise security strategies.
+
+The Hacker News provides breaking news on critical vulnerabilities, APT campaigns, ransomware operations, and emerging security technologies. Coverage includes detailed technical analysis of exploits targeting enterprise platforms like SolarWinds, Cisco, Palo Alto, and ServiceNow, with focus on threat actors from Russia, China, and cybercriminal networks.
+
+## Key Topics
+
+- Remote Code Execution (RCE)
+- Active Exploitation & Zero-Days
+- APT Groups & Cyber Espionage
+- Ransomware Operations
+- Malware Analysis (ClickFix, PowerShell, DLL Sideloading)
+- MFA Bypass & Phishing Campaigns
+- Enterprise Security Patches (SolarWinds, Cisco, Palo Alto)
+- Threat Intelligence
+- Post-Quantum Cryptography
+- AI Security & Non-Human Identities
+- Open Source Supply Chain Security
+- Botnet Disruption
+- Nation-State Actors (Russia, China, Ukraine)
+- Windows Security
+
+## Critical Vulnerabilities & Active Exploitation
+
+- [Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities](https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html): Cisco warns CVE-2026-20122 & CVE-2026-20128 actively exploited in SD-WAN
+- [SolarWinds Patches 4 Critical Serv-U 15.5 Flaws Allowing Root Code Execution](https://thehackernews.com/2026/02/solarwinds-patches-4-critical-serv-u.html): SolarWinds fixes 4 critical CVE-2025-40538 flaws in Serv-U 15.5
+- [ServiceNow Patches Critical AI Platform Flaw Allowing Unauthenticated User Impersonation](https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html): ServiceNow fixes CVE-2025-12420 BodySnatcher user impersonation flaw
+- [Palo Alto Fixes GlobalProtect DoS Flaw That Can Crash Firewalls Without Login](https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html): Palo Alto patches CVE-2026-0227 GlobalProtect DoS vulnerability
+- [CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks](https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html): CISA warns CVE-2018-4063 Sierra Wireless AirLink ALEOS actively exploited
+
+## APT Campaigns & Nation-State Threats
+
+- [Mustang Panda Deploys Updated COOLCLIENT Backdoor in Government Cyber Attacks](https://thehackernews.com/2026/01/mustang-panda-deploys-updated.html): China-linked Mustang Panda uses COOLCLIENT malware against Asian governments
+- [APT28-Linked Campaign Deploys BadPaw Loader and MeowMeow Backdoor in Ukraine](https://thehackernews.com/2026/03/apt28-linked-campaign-deploys-badpaw.html): APT28 targets Ukraine with BadPaw loader and MeowMeow backdoor campaign
+
+## Malware Analysis & Threat Intelligence
+
+- [Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT](https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html): VOID#GEIST campaign deploys XWorm, AsyncRAT, Xeno RAT via batch scripts
+- [Rust-Based VENON Malware Targets 33 Brazilian Banks with Credential-Stealing Overlays](https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html): Rust-based VENON malware targets 33 Brazilian banks with overlay attacks
+- [Phantom Stealer Spread by ISO Phishing Emails Hitting Russian Finance Sector](https://thehackernews.com/2025/12/phantom-stealer-spread-by-iso-phishing.html): Phantom Stealer ISO phishing targets Russian finance via MoneyMount-ISO
+- [Starkiller Phishing Suite Uses AitM Reverse Proxy to Bypass Multi-Factor Authentication](https://thehackernews.com/2026/03/starkiller-phishing-suite-uses-aitm.html): Starkiller phishing kit uses AitM reverse proxy to bypass MFA protection
+
+## Ransomware & Cybercrime Operations
+
+- [Black Basta Ransomware Leader Added to EU Most Wanted and INTERPOL Red Notice](https://thehackernews.com/2026/01/black-basta-ransomware-hacker-leader.html): Black Basta leader Oleg Nefedov added to INTERPOL Red Notice list
+- [Researchers Null-Route Over 550 Kimwolf and Aisuru Botnet Command Servers](https://thehackernews.com/2026/01/kimwolf-botnet-infected-over-2-million.html): Black Lotus Labs disrupts Kimwolf botnet infecting 2M+ Android devices
+- [SEC Files Charges Over $14 Million Crypto Scam Using Fake AI-Themed Investment Tips](https://thehackernews.com/2025/12/sec-files-charges-over-14-million.html): SEC charges Morocoin, Berge, Cirkor in $14M AI crypto fraud scheme
+
+## Emerging Security Technologies & Strategies
+
+- [Cybersecurity Tech Predictions for 2026: Operating in a World of Permanent Instability](https://thehackernews.com/2026/02/cybersecurity-tech-predictions-for-2026.html): 2026 cybersecurity predictions: AI defense, Zero Trust, post-quantum crypto
+- [Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders](https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html): Zscaler webinar on ML-KEM and post-quantum cryptography strategies
+- [Chopping AI Down to Size: Turning Disruptive Technology into a Strategic Advantage](https://thehackernews.com/2025/12/chopping-ai-down-to-size-turning.html): AI security operations strategy balancing automation with human judgment
+- [The Future of Cybersecurity Includes Non-Human Employees](https://thehackernews.com/2026/01/the-future-of-cybersecurity-includes.html): ConductorOne on securing Non-Human Identities with zero-trust IAM
+- [The State of Trusted Open Source](https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html): Chainguard analysis: 98% of CVEs in longtail open source images
+
+## Weekly Security Roundups
+
+- [ThreatsDay Bulletin: AI Voice Cloning Exploit, Wi-Fi Kill Switch, PLC Vulns, and 14 More Stories](https://thehackernews.com/2026/01/threatsday-bulletin-ai-voice-cloning.html): Weekly security roundup: Redis CVE-2025-62507, AI cloning, crypto hacks

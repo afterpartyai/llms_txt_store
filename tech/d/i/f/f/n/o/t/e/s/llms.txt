@@ -1,58 +1,61 @@
-# DiffNotes
+# diffnotes.tech
 
-> > Technical guides and analysis for AI-powered development tools, with deep focus on Claude Code, MCP servers, and autonomous coding workflows.
+> > Tech blog covering AI coding assistants, developer tools, and automation workflows with focus on Claude Code, MCP servers, and AI agents.
 
-DiffNotes provides practical tutorials, configuration guides, and industry analysis for developers using AI coding assistants. Coverage spans Claude Code setup, MCP protocol integration, multi-model workflows, and the evolving landscape of AI-assisted software development.
+diffnotes.tech provides in-depth guides, reviews, and analyses of AI-powered development tools, particularly Claude Code by Anthropic, along with practical workflows for integrating AI agents into software development. The site covers topics from token optimization and autonomous coding to multi-agent systems and game engine integration.
 
 ## Key Topics
 
 - Claude Code
-- MCP (Model Context Protocol)
 - Anthropic
-- AI coding agents
-- Autonomous coding workflows
-- GitHub Actions integration
-- Extended thinking models
-- Code review automation
-- Multi-model workflows
-- Terminal AI agents
-- Configuration & settings
-- OpenCode
+- MCP (Model Context Protocol)
+- AI coding assistants
+- AI agents
 - Developer tools
-- Benchmarks (SWE-bench)
-- AI development tools
+- Context management
+- Token optimization
+- Code generation
+- GitHub Copilot
+- Cursor
+- CLI tools
+- Autonomous coding
+- Game engine integration
+- Security scanning
 
-## Claude Code Configuration Guides
+## Claude Code Guides & Configuration
 
-- [MCP-серверы для Claude Code - гайд по настройке](https://diffnotes.tech/posts/claude-code-mcp-servers-guide): Setup guide: 7 best MCP servers for Claude Code with Tool Search
-- [CLAUDE.md — гайд по настройке Claude Code](https://diffnotes.tech/posts/claude-md-effective-guide): CLAUDE.md configuration guide: file hierarchy, progressive disclosure
-- [Секретные настройки Claude Code - полный гайд 2026](https://diffnotes.tech/posts/claude-code-secret-settings-guide): 50+ Claude Code settings: settings.json, env vars, keybindings, status line
-- [Claude Code: Pro vs Max vs API - гайд по ценам 2026](https://diffnotes.tech/posts/claude-code-pricing-guide): Claude Code pricing comparison: Pro ($20), Max ($100-200), API costs
-- [Claude Code без разрешений - 5 способов автономной работы](https://diffnotes.tech/posts/claude-code-autonomous-permissions): Autonomous Claude Code setup: acceptEdits, allow-rules, bypass mode
-- [Claude Code skills: гайд по созданию команд](https://diffnotes.tech/posts/claude-code-custom-skills): Create custom skills & slash-commands in Claude Code with SKILL.md
+- [CLAUDE.md — гайд по настройке Claude Code](https://diffnotes.tech/posts/claude-md-effective-guide): 6 rules for effective CLAUDE.md: instruction limits, hierarchy, disclosure
+- [Claude Code без разрешений - 5 способов автономной работы](https://diffnotes.tech/posts/claude-code-autonomous-permissions): Configure autonomous Claude Code: acceptEdits, allow-rules, bypass mode
+- [Секретные настройки Claude Code - полный гайд 2026](https://diffnotes.tech/posts/claude-code-secret-settings-guide): 50+ settings.json configs, env vars, keybindings for Claude Code optimization
+- [Экономия токенов в Claude Code - 8 проверенных приёмов](https://diffnotes.tech/posts/claude-code-save-tokens): 8 techniques to save 40-70% tokens in Claude Code with model switching
+- [Claude Code worktrees: параллельная разработка - гайд](https://diffnotes.tech/posts/claude-code-parallel-worktrees): Guide to running 3 Claude Code instances via git worktrees with -w flag
+- [Claude Code: research.md → plan.md → код | Воркфлоу](https://diffnotes.tech/posts/claude-code-planning-workflow): Baselime founder's workflow: research.md, plan.md, annotation cycle method
 
-## Automation & Workflows
-
-- [Claude Code scheduled tasks: /loop и cron - обзор](https://diffnotes.tech/posts/claude-code-scheduled-tasks): Claude Code /loop and cron scheduling: setup, DST bugs, GitHub Actions
-- [Claude Code + Unity/Godot/Unreal — гайд по MCP для гейм­дева](https://diffnotes.tech/posts/claude-code-game-engine-mcp-guide): Connect Claude Code to Unity, Godot, Unreal Engine via MCP protocol
-- [Claude Code + Remotion: шортсы промптами - гайд](https://diffnotes.tech/posts/claude-code-remotion-shorts): Create vertical shorts for Instagram/TikTok with Claude Code + Remotion
-
-## AI Models & Benchmarks
+## AI Coding Tools & Reviews
 
 - [Claude Sonnet 4.6 — Adaptive Thinking, 1M контекст, 79.6% SWE-bench](https://diffnotes.tech/posts/claude-sonnet-46): Claude Sonnet 4.6 review: Adaptive Thinking, 1M context, 79.6% SWE-bench
-- [Gemini 3.1 Flash-Lite: цена, скорость и бенчмарки - обзор](https://diffnotes.tech/posts/gemini-31-flash-lite): Gemini 3.1 Flash-Lite: $0.25/1M tokens, 363 tok/s, thinking levels
-- [Opus vs Codex vs Gemini — workflow из трёх AI-моделей](https://diffnotes.tech/posts/opus-codex-gemini-coding-workflow): Multi-model workflow: Claude Opus 4.6, GPT-5.3 Codex, Gemini 3.1 Pro
+- [Claude Code Security — AI ищет zero-day в коде](https://diffnotes.tech/posts/claude-code-security): Anthropic's Claude Code Security: AI scanner found 500+ zero-day exploits
+- [OpenCode — open source AI-агент для терминала (108K звёзд)](https://diffnotes.tech/posts/opencode-terminal-agent): Open source terminal AI agent: 75+ models, free Claude Code alternative
+- [Cursor 2.5 — маркетплейс, Composer 1.5 и long-running агенты](https://diffnotes.tech/posts/cursor-25-marketplace-composer-agents): Cursor 2.5: plugin marketplace, Composer 1.5 with RL×20, 52-hour agents
+- [GitHub Copilot CLI: обзор GA-релиза и подводные камни](https://diffnotes.tech/posts/copilot-cli-general-availability): GitHub Copilot CLI GA release: plan mode, /fleet, /delegate features review
+- [12 лучших плагинов для Claude Code из офф. магазина](https://diffnotes.tech/posts/best-claude-code-plugins): Top 12 Claude Code plugins: Frontend Design, Context7, Ralph Loop, more
 
-## AI Coding Tools & Agents
+## AI Agents & Automation
 
-- [OpenCode — open source AI-агент для терминала (108K звёзд)](https://diffnotes.tech/posts/opencode-terminal-agent): Open-source terminal AI agent OpenCode: 75+ models, GitHub Actions support
-- [Claude Code Security — AI ищет zero-day в коде](https://diffnotes.tech/posts/claude-code-security): Anthropic's Claude Code Security finds 500+ zero-day vulnerabilities
-- [Claude Code Review: мульти-агентное ревью PR - обзор](https://diffnotes.tech/posts/claude-code-review-multi-agent): Anthropic's Code Review: multi-agent PR analysis at $15-25 per review
-- [Autoresearch Karpathy: AI-агент для ML-экспериментов - обзор](https://diffnotes.tech/posts/autoresearch-karpathy-overnight-ml): Karpathy's Autoresearch: autonomous ML experiments & hyperparameter tuning
-- [Claude Code voice mode: голосовой ввод в CLI - обзор](https://diffnotes.tech/posts/claude-code-voice-mode): Native voice mode in Claude Code: /voice, push-to-talk, free transcription
+- [Claude Code Review: мульти-агентное ревью PR - обзор](https://diffnotes.tech/posts/claude-code-review-multi-agent): Anthropic's multi-agent PR review tool: $15-25 per review analysis
+- [LocalCowork: офлайн AI-агент с MCP на ноутбуке - обзор](https://diffnotes.tech/posts/localcowork-offline-ai-agent): Liquid AI's LocalCowork: offline desktop agent with 75 MCP tools review
+- [Claude Code scheduled tasks: /loop и cron - обзор](https://diffnotes.tech/posts/claude-code-scheduled-tasks): Setup guide for /loop and cron scheduled tasks in Claude Code with DST bugs
 
-## Industry Analysis & Future of Coding
+## MCP & Integration Guides
 
-- [Claude Code и будущее кодинга: агенты, модели, прогнозы](https://diffnotes.tech/posts/claude-code-future-autonomous-coding): Claude Code writes 4% GitHub commits; METR data & Anthropic predictions
-- [Программисты исчезнут в 2026 — правда или хайп?](https://diffnotes.tech/posts/programmers-disappear-2026-analysis): Boris Cherny stops coding; Spotify uses AI. Analysis of 2026 predictions
-- [OpenClaw бан-волна: Google и Anthropic закрывают доступ](https://diffnotes.tech/posts/google-anthropic-openclaw-ban): Google & Anthropic ban OpenClaw users without warning, OAuth blocks
+- [Claude Code + Unity/Godot/Unreal — гайд по MCP для геймдева](https://diffnotes.tech/posts/claude-code-game-engine-mcp-guide): MCP integration guide for Unity, Godot, Unreal Engine with Claude Code
+- [Claude Code + Remotion: шортсы промптами - гайд](https://diffnotes.tech/posts/claude-code-remotion-shorts): Create vertical shorts for Instagram/TikTok with Claude Code + Remotion
+
+## Industry Analysis & Trends
+
+- [Программисты исчезнут в 2026 — правда или хайп?](https://diffnotes.tech/posts/programmers-disappear-2026-analysis): Analysis: Boris Cherny stopped coding, Spotify uses AI - reality check
+- [Nano Banana 2: 4K-генерация за 5 секунд - обзор](https://diffnotes.tech/posts/nano-banana-2-image-generation): Review of Google's Nano Banana 2 (Gemini 3.1 Flash): 4K generation speed
+
+## Essential Pages
+
+- [diffnotes.tech — Тех-блог](https://diffnotes.tech): Homepage: Tech blog covering programming, DevOps, and AI

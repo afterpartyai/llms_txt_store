@@ -1,58 +1,56 @@
-# Verdent
+# Verdent AI
 
-> > Verdent is an AI-native development platform enabling parallel, focused software workflows with Claude Code, MCP integration, and multi-agent orchestration.
+> > Verdent AI: An AI-native workspace for parallel software development with multi-agent execution, Plan Mode, and autonomous coding workflows.
 
-Verdent provides comprehensive guides, comparisons, and best practices for AI-powered development tools including Claude Skills, Claude Code, and integration with platforms like Vertex AI, GitHub, and VS Code. The platform focuses on workflow automation, agent-based development, and developer productivity through AI-native approaches.
+Verdent AI provides a conversation-driven development platform that enables focused, parallel software engineering through AI agents. The platform integrates leading LLMs including Claude, Gemini 3 Pro, and GitHub Copilot, offering workspace isolation, multi-agent execution, and customizable coding workflows for modern development teams.
 
 ## Key Topics
 
-- Claude Code
-- Claude Skills
-- Anthropic AI
-- Model Context Protocol (MCP)
+- Verdent AI platform
 - AI coding agents
-- Workflow automation
-- VS Code integration
-- GitHub worktree
-- Multi-agent orchestration
+- Multi-agent platforms
+- Plan Mode
+- Claude Code
+- Gemini 3 Pro
+- GitHub Copilot
+- Autonomous code generation
 - Developer productivity
-- Vertex AI
-- Gemini 3.1 Pro
-- AI-native development
-- Agent Skills (SKILL.md)
-- Terminal-based AI tools
+- Workspace isolation
+- AI-native workflows
+- Cursor IDE
+- Devin AI
+- Claude Skills
+- Developer tools comparison
 
-## Core Platform & Comparisons
+## Platform Overview
 
-- [Verdent vs Popular Coding Agents Comparison](https://www.verdent.ai/ko/comparison): Verdent vs Cursor, Cline, Copilot, Claude Code AI coding agent comparison
-- [Verdent: An AI-Native Workflow for Focused, Parallel Software Development](https://www.verdent.ai/zh-CN/blog/verdent-your-ai-native-partner): Verdent AI-native workflow: parallel tasks, workspaces & developer productivity
-- [Verdent AI Guides Hub](https://www.verdent.ai/es/guides): Verdent AI guides hub: tutorials, best practices, AI models & automation
+- [About Us · Verdent](https://www.verdent.ai/about-us): Company overview: Verdent AI's mission solving software engineering challenges
+- [Verdent: An AI-Native Workflow for Focused, Parallel Software Development](https://www.verdent.ai/tr/blog/verdent-your-ai-native-partner): Introduces Verdent's AI-native workspace with Plan Mode, Tasks, and Workspaces
+- [Verdent: An AI-Native Workflow for Focused, Parallel Software Development](https://www.verdent.ai/it/blog/verdent-your-ai-native-partner): Explains Verdent's conversation-driven workflow for parallel development
 
-## Claude Skills & Workflow Automation
+## Product Updates & Releases
 
-- [Claude Skills: Guide to Anthropic AI Skills](https://www.verdent.ai/ko/guides/claude-skills): Guide to Claude Skills: building custom skills for Claude AI and Claude Code
-- [Claude Skills Feature: Capabilities & Benefits](https://www.verdent.ai/guides/claude-skills-feature-overview): Claude Skills feature overview: capabilities for AI workflows & productivity
-- [Claude Skills Examples and Use Cases](https://www.verdent.ai/it/guides/claude-skills-examples-use-cases): Practical Claude Skills examples for coding, content, research & automation
-- [Claude Skills Repositories, Categories, and Workflow Ideas](https://www.verdent.ai/guides/best-claude-skills-awesome-list): Curated Claude Skills: repositories, workflow categories & community resources
-- [Claude Desktop Workflows: Skills, MCP & Setup](https://www.verdent.ai/zh-CN/guides/claude-desktop-skills): Claude Desktop workflows: Skills, MCP servers & claude_desktop_config.json
+- [Verdent 1.5.0 Release: Plan Mode Upgrade, Workspace Isolation, and Multi-Agent Execution](https://www.verdent.ai/es/blog/introducing-verdent-1-5-0): Release notes for Verdent 1.5.0: Plan Mode, workspace isolation, multi-agent
+- [Gemini 3 Pro is now available in Verdent](https://www.verdent.ai/pt/blog/gemini-3-pro-is-now-available-in-verdent): Announces Google Gemini 3 Pro integration with 70% discount pricing
+- [Gemini 3 Pro vs Sonnet 4.5](https://www.verdent.ai/blog/gemini-3-pro-vs-sonnet-4-5): Benchmarks Gemini 3 Pro vs Claude Sonnet 4.5 on real coding prompts
 
-## AI Coding Tools & Model Comparisons
+## AI Coding Tools Guides
 
-- [AI Coding Tools Comparison 2026: Agents, IDEs & Multi-Agent Platforms](https://www.verdent.ai/ja/guides/ai-coding-tools-comparison-2026): 2026 AI coding tools: Tonkotsu, Devin, Cursor, Windsurf, Copilot compared
-- [Best AI Coding Model 2026: Claude Sonnet 5 vs GPT-5 vs Gemini 3](https://www.verdent.ai/tr/guides/best-ai-coding-model-2026-sonnet5-gpt5-codex-gemini3): Claude Sonnet 5 vs GPT-5 vs Gemini 3: real GitHub benchmarks & performance
-- [Best AI for Code Review 2026: Automated Review Tools Compared](https://www.verdent.ai/guides/best-ai-for-code-review-2026): Best AI code review tools 2026: CodeRabbit, Codacy, Qodo, Greptile compared
+- [AI Coding Agents 2026: Complete Guide to Autonomous Code Generation](https://www.verdent.ai/tr/guides/ai-coding-agent-2026): Complete guide to AI coding agents: tools, benchmarks, integration methods
+- [AI Coding Agents 2026: Complete Guide to Autonomous Code Generation](https://www.verdent.ai/zh-Hant/guides/ai-coding-agent-2026): AI coding agents guide covering Verdent, Cursor, GitHub Copilot comparison
+- [AI Coding Tools Comparison 2026: Agents, IDEs & Multi-Agent Platforms](https://www.verdent.ai/pt/guides/ai-coding-tools-comparison-2026): Compares AI coding tools: agents (Devin), IDEs (Cursor), assistants (Copilot)
+- [AI Coding Tools Comparison 2026: Agents, IDEs & Multi-Agent Platforms](https://www.verdent.ai/de/guides/ai-coding-tools-comparison-2026): 2026 comparison of AI coding tools: Devin, Cursor, GitHub Copilot, Claude
+- [Best AI Code Generators 2026: Tools That Write Code From Descriptions](https://www.verdent.ai/pt/guides/best-ai-code-generator-2026): Reviews AI code generators: Bolt.new, v0, Replit for rapid prototyping
+- [Verdent AI | Guides](https://www.verdent.ai/ja/guides): Comprehensive guides hub covering Gemini models, Claude, and AI workflows
 
-## Claude Code Setup & Configuration
+## Claude Integration & Workflows
 
-- [Claude Code Bridge: Open-Source Terminal Hub for AI Agents](https://www.verdent.ai/es/guides/claude-code-bridge-terminal-ai-agents): Claude Code Bridge: open-source terminal hub for multi-agent orchestration
-- [Claude Code Worktree Explained: Setup & Parallel Agents](https://www.verdent.ai/de/guides/claude-code-worktree-setup-guide): Claude Code git worktree setup: parallel agents without conflicts
-- [Claude Code Remote Control: Setup Guide & Tips](https://www.verdent.ai/guides/claude-code-remote-control-guide): Claude Code Remote Control setup: continue local sessions from mobile
+- [Claude Skills Workflow Customization Guide (2026)](https://www.verdent.ai/it/guides/claude-skills-customize-ai-workflows): Practical guide to customizing Claude-compatible workflows and instructions
+- [Claude Code Skills: Coding Workflow Guide](https://www.verdent.ai/zh-CN/guides/claude-code-skills): Guide to configuring Claude Code Skills for team conventions and workflows
+- [Claude Code Remote Control: Setup Guide & Tips (2026)](https://www.verdent.ai/tr/guides/claude-code-remote-control-guide): Setup guide for Claude Code Remote Control session continuity from mobile
+- [Claude Max 20x: 6 Months Free for Open Source Devs](https://www.verdent.ai/tr/guides/claude-max-20x-open-source): Guide to Anthropic's free Claude Max 20x program for open source devs
 
-## Cloud AI Platform Integration
+## Research & Analysis
 
-- [How to Access Gemini 3.1 Pro on Vertex AI: Setup, Verification & Production Checklist](https://www.verdent.ai/pt/guides/access-gemini-3-1-pro-vertex-ai): Gemini 3.1 Pro on Vertex AI: setup, verification & production checklist
-
-## AI in Software Engineering Insights
-
-- [How do we see the four levels of AI SWE?](https://www.verdent.ai/tr/blog/how-do-we-see-the-four-levels-of-ai-swe): Four levels of AI in software engineering: L0 to L4 automation explained
-- [What impact will AI have on the software industry?](https://www.verdent.ai/zh-CN/blog/what-impact-will-ai-have-on-the-software-industry): AI's impact on software: development workflows, business models & job roles
+- [Verdent AI | Investigación](https://www.verdent.ai/es/research): Research on LLMs for code, RL, and benchmarks like FullStack Bench
+- [What impact will AI have on the software industry?](https://www.verdent.ai/ko/blog/what-impact-will-ai-have-on-the-software-industry): Analysis of AI's impact on software development, workflows, and job roles

@@ -1,0 +1,57 @@
+# Ollama Documentation
+
+> > Official documentation for Ollama, an open-source platform for running large language models locally with support for CUDA, ROCm, and multimodal capabilities.
+
+Ollama enables developers to deploy and interact with models like gemma3, qwen3-coder, and Claude Code on macOS, Windows, and Linux. The platform provides REST APIs, OpenAI/Anthropic compatibility layers, and integrations with popular development tools.
+
+## Key Topics
+
+- Ollama
+- gemma3
+- REST API
+- OpenAI compatibility
+- GPU support (CUDA/ROCm)
+- Model management
+- Docker deployment
+- Python/JavaScript SDKs
+- Tool calling (function calling)
+- Vision/multimodal models
+- Streaming responses
+- Claude Code
+- qwen3-coder
+- API integration
+- Local LLM deployment
+
+## Getting Started
+
+- [Quickstart](https://docs.ollama.com/quickstart): Getting started guide for macOS, Windows, Linux with CLI and API
+- [CLI Reference](https://docs.ollama.com/cli): Command-line reference for gemma3, OpenCode, Claude Code with Anthropic
+- [Troubleshooting](https://docs.ollama.com/troubleshooting): Debug Ollama issues on Mac, Linux, Docker with logs and GPU config
+
+## API Reference
+
+- [Generate a response](https://docs.ollama.com/api/generate): API endpoint for generating responses with gemma3 using JSON/cURL
+- [OpenAI compatibility](https://docs.ollama.com/api/openai-compatibility): OpenAI API compatibility layer with Python examples for chat/vision
+- [Anthropic compatibility](https://docs.ollama.com/api/anthropic-compatibility): Anthropic Messages API compatibility for Claude Code with Python
+- [Show model details](https://docs.ollama.com/api-reference/show-model-details): API reference for retrieving gemma3 model metadata and GGUF details
+- [List models](https://docs.ollama.com/api/tags): REST API endpoint to fetch model list with gemma3 and GGUF details
+- [Pull a model](https://docs.ollama.com/api/pull): API endpoint for downloading models like gemma3 with streaming response
+- [Delete a model](https://docs.ollama.com/api/delete): REST API endpoint for deleting models like gemma3 from Ollama
+
+## Capabilities
+
+- [Tool calling](https://docs.ollama.com/capabilities/tool-calling): Function calling guide with qwen3 using Python, JavaScript, and cURL
+- [Vision](https://docs.ollama.com/capabilities/vision): Multimodal image analysis with gemma3 using Python, JavaScript, cURL
+
+## Installation & Deployment
+
+- [Docker](https://docs.ollama.com/docker): Docker deployment with NVIDIA/AMD GPU support and container setup
+- [Windows](https://docs.ollama.com/windows): Windows 10+ installation with NVIDIA/AMD GPU support and config
+- [Hardware support](https://docs.ollama.com/gpu): Nvidia CUDA GPU support for RTX 40xx/50xx with driver requirements
+
+## Integrations
+
+- [Xcode](https://docs.ollama.com/integrations/xcode): Xcode integration with Apple Intelligence and local Ollama hosting
+- [Zed](https://docs.ollama.com/integrations/zed): Configure Zed editor with local Ollama LLM deployment
+- [n8n](https://docs.ollama.com/integrations/n8n): n8n workflow automation with Docker and Ollama LLM integration
+- [Pi](https://docs.ollama.com/integrations/pi): Pi AI agent toolkit integration with qwen3-coder and OpenAI API

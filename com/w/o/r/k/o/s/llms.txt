@@ -1,0 +1,66 @@
+# WorkOS
+
+> > WorkOS provides enterprise-ready authentication, authorization, and user management APIs for B2B SaaS applications.
+
+WorkOS offers developer tools including AuthKit for authentication, SSO integrations, SCIM provisioning, Fine-Grained Authorization (FGA), and enterprise security features. The platform helps SaaS companies add enterprise features like Single Sign-On, directory sync, and advanced access control without building from scratch.
+
+## Key Topics
+
+- WorkOS AuthKit
+- Single Sign-On (SSO)
+- SCIM provisioning
+- Enterprise authentication
+- B2B SaaS development
+- Fine-Grained Authorization (FGA)
+- Next.js B2B Starter Kit
+- Identity management
+- Multi-factor authentication (MFA)
+- AI agent authentication
+- BYOK (Bring Your Own Key)
+- ReBAC vs RBAC
+- Developer tools
+- Enterprise security
+
+## Core Product & Customer Stories
+
+- [Customer Stories](https://workos.com/customers): SaaS companies like PlanetScale using WorkOS for enterprise authentication
+
+## Authentication & Security
+
+- [MFA vs SSO: Why enterprises need both for stronger security](https://workos.com/blog/mfa-vs-sso): MFA vs SSO comparison: why enterprises need both for secure access
+- [The developer's guide to strong passwords](https://workos.com/blog/developers-guide-strong-passwords): Password security guide: entropy, hashing, and NIST-compliant policies
+- [Generative AI and enterprise identity fraud: How to defend against AI-powered impersonation attacks](https://workos.com/blog/ai-enterprise-identity-fraud-defense): Defending against AI deepfakes and impersonation in enterprise auth systems
+- [How AI Agents authenticate and access systems](https://workos.com/blog/how-ai-agents-authenticate-and-access-systems): AI agent authentication patterns balancing frictionless access with security
+- [Launch Week Day 1: Sessions](https://workos.com/blog/launch-week-spring-2024-day-1-sessions): WorkOS launches Sessions: free secure session management for AuthKit users
+
+## Authorization & Access Control
+
+- [ReBAC vs RBAC: What's the difference and which should you choose?](https://workos.com/blog/rebac-vs-rbac-whats-the-difference-and-which-should-you-choose): ReBAC vs RBAC comparison: choosing the right access control model
+- [Scaling user provisioning with SCIM bulk operations and filtering](https://workos.com/blog/scim-bulk-operations-filtering): SCIM bulk operations and filtering for efficient large-scale provisioning
+- [Why building your own BYOK is a trap](https://workos.com/blog/byok-with-vault): WorkOS Vault: fastest way to ship BYOK with AWS, GCP, Azure KMS integration
+
+## Developer Tools & Tutorials
+
+- [Next.js B2B Starter Kit — fast-track your SaaS app from 0 to 1](https://workos.com/blog/nextjs-b2b-starter-kit): WorkOS launches Next.js B2B Starter Kit with auth, SSO, and Stripe
+- [How to add auth to your Replit app with WorkOS](https://workos.com/blog/how-to-add-auth-to-your-replit-app): Step-by-step tutorial: add WorkOS AuthKit authentication to Replit apps
+- [Fetch Linear issue data without OAuth using WorkOS Pipes](https://workos.com/blog/fetch-data-from-linear-with-pipes-tutorial): Node.js tutorial: fetch Linear issues with WorkOS Pipes, no OAuth needed
+
+## Product Updates & Launch Week
+
+- [November Updates](https://workos.com/blog/november-2024-updates): Launch Week recap: FGA, Radar, Passkeys, Widgets, and more features
+
+## AI & Emerging Technologies
+
+- [OpenAI's Codex wants to become your AI coworker](https://workos.com/blog/openai-codex): OpenAI Codex autonomous coding agent: debugging, testing, and PRs
+- [Anthropic's Computer Use versus OpenAI's Computer Using Agent (CUA)](https://workos.com/blog/anthropics-computer-use-versus-openais-computer-using-agent-cua): Anthropic Claude Computer Use vs OpenAI CUA: desktop vs browser automation
+- [How to run DeepSeek locally](https://workos.com/blog/how-to-run-deepseek-r1-locally): Tutorial: running DeepSeek R1 LLM locally with Ollama setup guide
+- [Aim Security vs WorkOS: Choosing the Right Agentic Security Platform](https://workos.com/blog/aim-security-vs-workos): Aim Security vs WorkOS comparison for AI agent authentication and security
+
+## Industry Insights & Comparisons
+
+- [The 5 best Clerk alternatives in 2024](https://workos.com/blog/clerk-alternatives): Top Clerk alternatives: WorkOS, Auth0, Okta, Firebase, and OneLogin compared
+- [Depot is making builds fast enough for the AI era](https://workos.com/blog/depot-builds-ai-era): Interview with Kyle Galbraith on Depot's build acceleration at re:Invent
+
+## Optional
+
+- [Privacy Policy](https://workos.com/legal/privacy): WorkOS Privacy Policy on personal data collection, use, and security

@@ -1,61 +1,61 @@
 # Visual Studio Code Documentation
 
-> > Official documentation for Visual Studio Code, covering editor features, GitHub Copilot integration, language support, extensions, and development containers.
+> > Official documentation for Visual Studio Code, covering extension development, language support (C++, Java, Python), GitHub Copilot integration, debugging, and containerized development workflows.
 
-Visual Studio Code is Microsoft's free, open-source code editor with support for JavaScript, TypeScript, Python, Java, and many other languages. The documentation covers core editing features, IntelliSense code completion, GitHub Copilot AI assistance, remote development with Docker containers, and the extensive VS Code extension API.
+Visual Studio Code is a free, open-source code editor from Microsoft that runs on Windows, Linux, and macOS. This documentation site provides comprehensive guides for using VS Code's features, developing extensions, configuring debuggers, working with GitHub Copilot AI agents, and setting up development environments with Docker containers.
 
 ## Key Topics
 
-- Visual Studio Code
-- GitHub Copilot
-- IntelliSense
-- Copilot agents
-- Dev containers
-- JavaScript and TypeScript
-- Python development
 - Extension API
-- Code editing and completion
-- Docker integration
-- MCP servers
-- Profiles and customization
-- Language support
-- Interactive coding
-- Remote development
-
-## Getting Started and Core Features
-
-- [Basic editing](https://code.visualstudio.com/docs/editing/codebasics): Basic editing features: search, multi-cursor, and code formatting
-- [Programming Languages](https://code.visualstudio.com/docs/languages/overview): Overview of language support with IntelliSense and GitHub Copilot
-- [Productivity Tips](https://code.visualstudio.com/docs/introvideos/productivity): VS Code productivity tips with shortcuts, multi-cursor, and terminal tricks
-- [Profiles in Visual Studio Code](https://code.visualstudio.com/docs/configure/profiles): Configure and manage VS Code profiles for customized settings and workflows
-- [Download Visual Studio Code Insiders](https://code.visualstudio.com/insiders): Download VS Code Insiders for early access to nightly builds and features
+- GitHub Copilot
+- Debugger Configuration
+- launch.json
+- Workbench Extension
+- C++ Debugging (GDB/LLDB)
+- Java Development
+- Docker Containers
+- Tree View API
+- Webview
+- AI Agents
+- Multi-root Workspaces
+- View Containers
+- Status Bar
+- Contribution Points
 
 ## GitHub Copilot and AI Agents
 
-- [Using agents in Visual Studio Code](https://code.visualstudio.com/docs/copilot/agents/overview): Overview of AI agents including local, cloud, and Copilot CLI agents
-- [Tutorial: Work with agents in VS Code](https://code.visualstudio.com/docs/copilot/agents/agents-tutorial): Tutorial for using local, background, and cloud agents with GitHub Copilot
-- [Agent plugins in VS Code (Preview)](https://code.visualstudio.com/docs/copilot/customization/agent-plugins): Install and manage GitHub Copilot agent plugins with MCP server support
-- [Third-party agents in Visual Studio Code](https://code.visualstudio.com/docs/copilot/agents/third-party-agents): Use third-party agents like Claude and OpenAI with GitHub Copilot
-- [Memory in VS Code agents](https://code.visualstudio.com/docs/copilot/agents/memory): How Copilot agents use memory to retain context across conversations
+- [GitHub Copilot in VS Code cheat sheet](https://code.visualstudio.com/docs/copilot/reference/copilot-vscode-features): Quick reference for GitHub Copilot features, shortcuts, and AI agents
+- [Tutorial: Work with agents in VS Code](https://code.visualstudio.com/docs/copilot/agents/agents-tutorial): Tutorial on using local, background, and cloud agents with GitHub Copilot
+- [Set up a context engineering flow in VS Code](https://code.visualstudio.com/docs/copilot/guides/context-engineering-guide): Implement context engineering workflow with GitHub Copilot custom agents
+- [Third-party agents in Visual Studio Code](https://code.visualstudio.com/docs/copilot/agents/third-party-agents): Use Claude and OpenAI agents for autonomous coding with Copilot subscription
+- [Agent hooks in Visual Studio Code (Preview)](https://code.visualstudio.com/docs/copilot/customization/hooks): Execute custom shell commands at agent lifecycle points for automation
 
-## Language-Specific Development
+## Extension Development API
 
-- [Editing Python in Visual Studio Code](https://code.visualstudio.com/docs/python/editing): Python editing with IntelliSense, Pylance, and autocomplete features
-- [Java extensions for Visual Studio Code](https://code.visualstudio.com/docs/java/extensions): Java Extension Pack and popular extensions for Java development
-- [CSS, SCSS and Less](https://code.visualstudio.com/docs/languages/css): CSS, SCSS, and Less support with IntelliSense, color preview, and Emmet
-- [Data Science in Visual Studio Code](https://code.visualstudio.com/docs/datascience/overview): Data science with Jupyter Notebooks, Python, and machine learning tools
+- [Extending Workbench](https://code.visualstudio.com/api/extension-capabilities/extending-workbench): Guide to extending VS Code workbench with custom UI components and views
+- [Tree View API](https://code.visualstudio.com/api/extension-guides/tree-view): Guide to implementing Tree View with TreeDataProvider in extensions
+- [Notebook API](https://code.visualstudio.com/api/extension-guides/notebook): Guide to creating Jupyter-style notebook experiences using Notebook API
+- [Panel UX Guidelines](https://code.visualstudio.com/api/ux-guidelines/panel): UX guidelines for Panel Bar view containers and webview implementation
 
-## Extension API Reference
+## C/C++ Development and Debugging
 
-- [Contribution Points | Visual Studio Code Extension API](https://code.visualstudio.com/api/references/contribution-points): Extension API reference for package.json contribution points
+- [Debug C++ in Visual Studio Code](https://code.visualstudio.com/docs/cpp/cpp-debug): Debug C++ programs with GDB, LLDB, and Visual Studio Windows Debugger
+- [Configure C/C++ debugging](https://code.visualstudio.com/docs/cpp/launch-json-reference): launch.json configuration reference for C/C++ debugging with GDB/LLDB
+- [C/C++ extension logging](https://code.visualstudio.com/docs/cpp/enable-logging-cpp): Enable debug adapter and language server logging for C/C++ troubleshooting
 
-## Development Containers and Remote Development
+## Java Development
 
-- [Use Docker or Kubernetes from a container](https://code.visualstudio.com/remote/advancedcontainers/use-docker-kubernetes): Access Docker and Kubernetes from dev containers with socket mounting
-- [Develop on a remote Docker host](https://code.visualstudio.com/remote/advancedcontainers/develop-remote-host): Connect to remote Docker hosts via SSH or tunnels for dev containers
-- [Add another local file mount](https://code.visualstudio.com/remote/advancedcontainers/add-local-file-mount): Add local file mounts to dev containers with Docker and Docker Compose
+- [Running and debugging Java](https://code.visualstudio.com/docs/java/java-debugging): Tutorial on running and debugging Java with Debugger for Java extension
+- [Java Web Apps with Visual Studio Code](https://code.visualstudio.com/docs/java/java-webapp): Build and deploy Java web apps to Azure App Service using Maven and Tomcat
+- [Java formatting and linting](https://code.visualstudio.com/docs/java/java-linting): Configure Java formatting with Eclipse, Checkstyle, and SonarLint tools
 
-## Reference Documentation
+## Container Development
 
-- [Glob Patterns Reference](https://code.visualstudio.com/docs/editor/glob-patterns): Reference guide for glob pattern syntax in file matching and search
-- [Language Identifiers](https://code.visualstudio.com/docs/languages/identifiers): Reference list of language mode identifiers for VS Code configuration
+- [Your development environment](https://code.visualstudio.com/docs/containers/choosing-dev-environment): Choose remote or local environments for containerized app development
+- [Python in a container](https://code.visualstudio.com/docs/containers/quickstart-python): Develop and debug Python/Django/Flask apps in Docker containers
+- [Debug .NET within a container](https://code.visualstudio.com/docs/containers/debug-netcore): Debug containerized .NET apps using C# extension and Docker integration
+
+## Workspace and Editor Configuration
+
+- [Multi-root Workspaces](https://code.visualstudio.com/docs/editing/workspaces/multi-root-workspaces): Work with multiple project folders using .code-workspace files
+- [Glob Patterns Reference](https://code.visualstudio.com/docs/editor/glob-patterns): Reference for glob pattern syntax in file matching and search exclusion

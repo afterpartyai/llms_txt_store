@@ -1,61 +1,61 @@
 # UI Bakery
 
-> > UI Bakery is a low-code platform for building internal tools, admin panels, and CRUD applications with extensive database and API integrations.
+> > UI Bakery is a low-code platform for building internal tools, admin panels, and dashboards with visual development and integrations for PostgreSQL, MongoDB, AWS Lambda, and enterprise systems.
 
-UI Bakery enables developers and teams to rapidly build custom internal tools with native integrations for PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, and popular services like OpenAI, GitHub, Stripe, and Salesforce. The platform offers pre-built templates, visual development tools, and comprehensive workflow automation capabilities for finance, management, and customer-facing applications.
+UI Bakery enables developers and citizen developers to rapidly create data-driven applications using drag-and-drop components, connecting to databases like PostgreSQL, MySQL, DynamoDB, and services like Salesforce, HubSpot, and Twilio. The platform emphasizes visual development workflows while maintaining flexibility for JavaScript customization.
 
 ## Key Topics
 
-- Internal tools development
-- Low-code platform
-- Database integrations (PostgreSQL, MySQL, MongoDB, Redis)
-- CRUD operations
-- Admin panel templates
-- Workflow automation
-- Dashboard builder
-- Database management
-- API integrations (OpenAI, GitHub, Stripe, Salesforce)
+- Low-code platforms
+- Internal tools
+- Visual development
+- Dashboard templates
 - Data visualization
-- JDBC connectivity
-- Elasticsearch
-- GraphQL
+- Admin panels
+- PostgreSQL integration
+- MongoDB integration
+- Drag-and-drop builder
 - Developer tools
-- Template library
+- Citizen developers
+- Data integration
+- CRUD operations
+- App development
+- Enterprise integrations
 
-## Core Platform & Solutions
+## Platform Overview & Comparisons
 
-- [FAQ | UI Bakery](https://uibakery.io/faq): Common questions about UI Bakery data sources, security, and pricing
-- [CRUD Operations catalog](https://uibakery.io/crud-operations): Comprehensive CRUD catalog for REST APIs, SQL, Django, MongoDB operations
-- [For Customer | UI Bakery Solutions](https://uibakery.io/solutions/for-customer): Customer-facing app solutions with MySQL, PostgreSQL, CouchDB integration
-- [Finance | UI Bakery Solutions](https://uibakery.io/solutions/for-finance): Finance sector solutions for expense management and invoice automation
-- [For Management | UI Bakery Solutions](https://uibakery.io/solutions/for-management): Management tools for real-time data insights and strategic planning
+- [UI Bakery vs Retool](https://uibakery.io/ui-bakery-vs-retool): Feature comparison between UI Bakery and Retool low-code platforms
+- [Low Code vs No Code: Full Analysis 2026](https://uibakery.io/blog/low-code-platform-in-business-software): Full 2026 analysis comparing low-code vs no-code development platforms
+- [7 Essential Features Every Visual Internal Tools Builder Must Have](https://uibakery.io/blog/top-features-of-visual-internal-tools-builder): Essential features for visual internal tools builders and low-code platforms
+- [An Unbiased Guide to Mendix vs OutSystems](https://uibakery.io/blog/mendix-vs-outsystems): Compares Mendix vs OutSystems low-code platforms for enterprise development
+- [5 Best Lovable Alternatives and Competitors in 2026](https://uibakery.io/blog/lovable-alternatives): Reviews 5 Lovable AI alternatives including UI Bakery and Cursor for 2026
 
-## Templates & Admin Panels
+## Industry Solutions & Case Studies
 
-- [Redis Admin | UI Bakery Templates](https://uibakery.io/templates/redis-admin): Redis management template with DB explorer, CLI, and server metrics dashboard
-- [Vulnerability Remediation Tracker Template | Manage Security Fixes](https://uibakery.io/templates/vulnerability-tracker): Security vulnerability tracker template for managing and prioritizing fixes
-- [Exasol Admin Panel](https://uibakery.io/templates/exasol-admin-panel): Exasol database admin template with analytics and reporting tools
+- [BioTech Solutions](https://uibakery.io/solutions/for-biotech): Industry-specific low-code solutions for biotech lab management & data tools
+- [Bylmo's Digital Transformation Case Study](https://uibakery.io/clients/bylmos-digital-transformation-of-day-to-day-operations-with-ui-bakery): Case study: Bylmo's ecommerce automation with UI Bakery low-code tools
 
-## Database & API Integrations
+## Dashboard Templates
 
-- [Create internal tool using OpenAI integration | UI Bakery](https://uibakery.io/integrations/openai): OpenAI integration guide for AI-powered internal tool development
-- [UI Bakery Elasticsearch Integration](https://uibakery.io/integrations/elasticsearch): Elasticsearch integration for querying, managing, and visualizing indexed data
-- [Build an internal tool using JDBC driver | UI Bakery](https://uibakery.io/integrations/jdbc): JDBC driver integration guide for building internal tools with SQL queries
-- [Create internal tool using GitHub integration | UI Bakery](https://uibakery.io/integrations/github): GitHub API integration for version control and automated workflows
+- [BigQuery Dashboard](https://uibakery.io/templates/bigquery-dashboard): Template for Google BigQuery data analytics with SQL querying & visualization
+- [Education Management Dashboard](https://uibakery.io/templates/education-management-dashboard): Template for student performance tracking & academic program management
+- [Data Integration Dashboard](https://uibakery.io/templates/data-integration-dashboard): Template for centralizing multi-source business data and KPI monitoring
+- [Open API Dashboard](https://uibakery.io/templates/open-api-dashboard): Template for monitoring API calls, response times, and error tracking
+- [Twilio Dashboard](https://uibakery.io/templates/twilio-dashboard): Template for Twilio call logs, message management, and usage tracking
+- [SMTP Dashboard](https://uibakery.io/templates/smtp-dashboard): Template for email transaction analytics and SMTP monitoring
 
-## Platform Comparisons & Reviews
+## Integrations & Technical Resources
 
-- [Superblocks vs Retool: A Comprehensive Comparison | UI Bakery Blog](https://uibakery.io/blog/superblocks-vs-retool): Superblocks vs Retool comparison covering features, pricing, and use cases
-- [PostgreSQL vs. MySQL: a quick guide to choosing one | UI Bakery Blog](https://uibakery.io/blog/postgresql-vs-mysql): PostgreSQL vs MySQL comparison covering features, use cases, and GUI tools
-- [Appsmith pricing explained: Detailed guide | UI Bakery Blog](https://uibakery.io/blog/appsmith-pricing-explained): Appsmith pricing breakdown, plan comparisons, and team usage scenarios
-- [Create.xyz AI App Builder Review: A Cringe-Free, Realistic Breakdown | UI Bakery Blog](https://uibakery.io/blog/create-xyz-ai-app-builder): Create.xyz AI app builder review comparing features vs UI Bakery in 2025
+- [AWS Lambda Integration](https://uibakery.io/integrations/aws-lambda): AWS Lambda integration guide for building serverless internal tools
+- [CRUD Operations Catalog](https://uibakery.io/crud-operations): Catalog of CRUD operation tools, frameworks, and best practices
+- [5 Best Data Transformation Tools 2025 Compared](https://uibakery.io/blog/best-data-transformation-tools): Compares top 5 ETL and data transformation tools including Talend for 2025
 
-## Developer Resources & Tools
+## AI & Developer Tools
 
-- [Top Vue Component Libraries in 2025 | UI Bakery Blog](https://uibakery.io/blog/top-vue-component-libraries): Best Vue component libraries including Vuetify and Material Design options
-- [10 Form Builder UI Apps to Give a Try in 2025 | UI Bakery Blog](https://uibakery.io/blog/10-form-builder-ui-apps): Top 10 form builder apps for 2025 including Typeform, Slack, HubSpot
-- [Claude Code vs Cursor: Full Comparison for Developers in 2026 | UI Bakery Blog](https://uibakery.io/blog/claude-code-vs-cursor): Claude Code vs Cursor AI coding assistant comparison for 2026
+- [Cursor AI vs Copilot: Which AI Coding Assistant Reigns Supreme? (2026)](https://uibakery.io/blog/cursor-ai-vs-copilot): 2026 comparison of Cursor AI vs GitHub Copilot coding assistants
+- [Cursor AI Pricing 2026: Plans, Costs & Which One Is Right for You](https://uibakery.io/blog/cursor-ai-pricing-explained): 2026 Cursor AI pricing guide covering all plans and credit-based billing
+- [AI Tools for Healthcare: 2026 Overview](https://uibakery.io/blog/ai-tools-for-healthcare): 2026 overview of AI tools for healthcare diagnostics, imaging & documentation
 
 ## Optional
 
-- [Eugenia Evtushenko](https://uibakery.io/blog-authors/eugenia-evtushenko): Author profile for Eugenia Evtushenko, content manager at UI Bakery
+- [Vlad Lugovsky - Author Profile](https://uibakery.io/blog-authors/vladimir-lugovsky): Author profile for Vlad Lugovsky, CEO of UI Bakery

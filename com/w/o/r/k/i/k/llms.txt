@@ -1,64 +1,67 @@
 # Workik
 
-> > Workik is an AI-powered development platform offering code generators, assistants, and optimization tools for JavaScript, Python, React, Node.js, TypeScript, and cloud infrastructure with GitHub, GitLab, and Bitbucket integration.
+> > Workik is an AI-powered code generation and automation platform that accelerates development across multiple languages, frameworks, and cloud infrastructure with context-driven assistance.
 
-Workik provides developers with AI-driven tools for code generation, testing, database optimization, and deployment across multiple frameworks and languages. The platform integrates with popular development environments and supports modern technologies including machine learning, cloud FinOps, and cross-platform app development.
+Workik integrates with GitHub, GitLab, Bitbucket, and popular IDEs to provide intelligent code generation, testing, database optimization, and CI/CD automation. The platform supports JavaScript, Python, TypeScript, PHP, and more, with specialized generators for frameworks like Ember.js, Laravel, Spring Boot, and cloud infrastructure tools like AWS CDK.
 
 ## Key Topics
 
 - AI Code Generation
-- JavaScript & TypeScript Development
-- React & Node.js
-- Machine Learning Tools
-- Database Query Optimization
-- GitHub & GitLab Integration
-- Cross-Platform App Development
-- Testing Automation (Jest, pytest)
-- Cloud Cost Optimization (AWS, Azure, GCP)
-- API Security & Authentication (JWT)
-- WordPress & CMS Development
-- Electron & Ionic Frameworks
-- Neo4j Graph Databases
-- Code Conversion & Migration
-- Assembly & Embedded Systems
+- Context-Driven Development
+- Multi-Language Support (JavaScript, Python, TypeScript, PHP)
+- GitHub/GitLab/Bitbucket Integration
+- Infrastructure as Code (AWS CDK)
+- Database Optimization (PostgreSQL, MySQL)
+- CI/CD Automation
+- Test Generation (JUnit)
+- Data Pipeline Development (PySpark)
+- API Integration
+- Code Automation
+- Deployment Automation
+- Team Collaboration
+- Web Application Security (CSRF Protection)
+- Framework Support (Ember.js, Laravel, Spring Boot)
 
-## Getting Started
+## Core AI Development Tools
 
-- [Sign Up | Register and get started in just 60 seconds](https://workik.com/sign-up): User registration page for Workik AI SQL and development tools
-- [Download · Workik](https://workik.com/download/desktop): Desktop app download page for Workik AI development tools
+- [FREE AI Code Writer - Maximize Coding Efficiency with Workik's AI](https://workik.com/ai-code-writer): AI code writer for multi-language generation, optimization & debugging
+- [Workik's Features | Leverage AI for programming.](https://workik.com/features): Workik AI features: code generation, automation & GitHub/VSCode integration
+- [FREE AI-Assisted Web Development | Try Context-Driven AI](https://workik.com/ai-powered-assistance-for-web-development): Context-driven AI for web dev: code generation, debugging & deployment
 
-## AI Code Generation & Conversion
+## Language & Framework Code Generators
 
-- [FREE AI-Powered Cross-Language Code Converter – Fast, Efficient, and Accurate](https://workik.com/ai-code-convertor): AI converter for cross-language code migration (Python, Java, JavaScript, C#)
-- [FREE AI-Powered Machine Learning Code Generator – Build ML Models Online](https://workik.com/machine-learning-code-generator): AI generator for ML models using TensorFlow, PyTorch & Scikit-learn
-- [FREE AI-Based Assembly Code Generator | Embedded System Development](https://workik.com/ai-powered-assembly-code-generator): AI generator for x86, ARM & MIPS assembly code for embedded systems
-- [FREE AI-Powered Crystal Code Generator – Build Web Apps, APIs, and More](https://workik.com/crystal-code-generator): AI code generator for Crystal apps using Kemal, Amber & Lucky frameworks
+- [FREE PHP Code Generator - Context-Driven AI Assistance](https://workik.com/php-code-generator): Generate PHP code for Laravel, Symfony & MySQL with context-driven AI
+- [FREE AI-Powered Ember.js Code Generator – Streamline Web App Development](https://workik.com/emberjs-code-generator): Generate Ember.js components, routing & API integration with Workik AI
+- [FREE AI-Powered Webpack Plugin Code Generator – Try Context-Driven AI Online](https://workik.com/webpack-plugin-code-generator): Generate Webpack plugins for React, Vue & Angular with AI assistance
 
-## Testing & Quality Assurance
+## Database & Data Engineering Tools
 
-- [Free AI-Powered Jest Test Generator – Simplify JavaScript Testing](https://workik.com/jest-test-generator): AI-powered Jest test generator for React, TypeScript & Node.js testing
-- [FREE AI-Driven Python Unit Test Case Generator: Create Accurate Tests!](https://workik.com/ai-powered-python-unit-test-case-generator): AI generator for Python unit tests with pytest & unittest integration
+- [FREE AI SQL Query Optimization - Boost Database Performance](https://workik.com/sql-query-optimizer): AI SQL query optimizer for MySQL, PostgreSQL & SQL Server performance
+- [FREE AI Powered DB Migration Script Generation- Automate Database Migrations](https://workik.com/db-migration-script-generator): Generate MySQL, PostgreSQL & MongoDB migration scripts with AI
+- [FREE AI-Powered PySpark Code Generator | Build, Debug & Automate Data Pipelines](https://workik.com/pyspark-code-generator): Generate PySpark ETL pipelines, Spark SQL & MLlib workflows with AI
+- [FREE AI-Powered Data Cleaning Code Generator – Clean Datasets Instantly](https://workik.com/data-cleaning-code-generator): AI data cleaning scripts for Python, SQL & PySpark datasets
 
-## Database & Query Optimization
+## Infrastructure & DevOps Automation
 
-- [FREE AI SQL Query Optimization - Boost Database Performance](https://workik.com/sql-query-optimizer): AI optimizer for MySQL, PostgreSQL & MongoDB query performance tuning
-- [FREE AI-Powered Neo4j Query Generator | Build Smarter With Workik AI](https://workik.com/neo4j-query-generator): AI tool for generating & optimizing Neo4j Cypher graph database queries
+- [FREE AI AWS CDK Code Generator Online | Infrastructure as Code Made Faster](https://workik.com/aws-cdk-code-generator): AI-powered AWS CDK code generator for CloudFormation & infrastructure
+- [FREE CI/CD Code Generation Tool - Streamline Deployment Processes](https://workik.com/ci-cd-code-generator): Automate CI/CD pipelines for Jenkins, GitHub Actions & Docker/Kubernetes
 
-## Framework & App Development
+## Testing & Security Tools
 
-- [FREE AI Electron Boilerplate Generator for Fast App Development](https://workik.com/electron-boilerplate-generator): AI generator for Electron app scaffolding with Node.js & TypeScript support
-- [FREE AI-Powered Ionic Code Generator – Build Cross-Platform Apps with Ease](https://workik.com/ionic-code-generator): AI generator for Ionic cross-platform apps with Angular, React & Vue
-- [FREE AI-Powered WordPress Website Development Assistant](https://workik.com/wordpress-ai-assistant): AI assistant for WordPress development with theme & plugin customization
-- [FREE AI-Powered Butter CMS Code Generator – Simplify Content Management Online](https://workik.com/butter-cms-code-generator): AI generator for Butter CMS integration with React, Next.js & Gatsby
+- [Free AI-Powered JUnit Test Case Generator – Automate Java Testing](https://workik.com/junit-test-generator): Generate JUnit tests with Mockito & Spring Boot integration using AI
+- [FREE AI-Powered CSRF Protection Code Generator – Secure Your Web Applications Online](https://workik.com/csrf-protection-code-generator): Generate CSRF protection for Django, Laravel & Spring Boot with AI
 
-## Security & Cloud Infrastructure
+## Documentation & Tutorials
 
-- [FREE AI-Powered JWT Token Generator – Secure APIs and Simplify Authentication](https://workik.com/jwt-token-generator): AI tool for JWT token generation & validation for Node.js, Express & Django
-- [FREE AI-Powered IP Blacklisting Code Generator: Secure, Optimized, and Scalable](https://workik.com/ip-blacklisting-code-generator): AI generator for IP blacklisting with AWS WAF, Cloudflare & NGINX support
-- [FREE AI-Powered Cloud FinOps Recommendation Generator: Smart, Fast, and Cost-Effective](https://workik.com/cloud-finops-recommendation-generator): AI tool for AWS, Azure & GCP cloud cost optimization & resource allocation
+- [Workik Tutorials | Context Setup on Workik](https://workik.com/tutorials/context-setup-on-workik): Tutorial: Configure Workik context with APIs, libraries & frameworks
+
+## Blog & Resources
+
+- [Blog](https://workik.com/blog): Insights on AI code generation, web dev, debugging & developer tools
+- [AI-Powered Prep for C++ Interviews | Top Question & Answer](https://workik.com/top-cpp-interview-question-and-answers-using-ai): C++ interview prep with AI: pointers, STL, inheritance & design patterns
+- [Top 6 FAQ Section For Websites With Design, HTML, CSS, And JavaScript Code](https://workik.com/top-faq-section-designs-for-websites-with-html-css-and-javascript-code): FAQ section designs with responsive HTML, CSS & JavaScript code examples
+- [Go To Market Strategy: Complete Overview](https://workik.com/goto-market-strategy-complete-overview): Complete guide to go-to-market strategy & product launch planning
 
 ## Optional
 
-- [How To Create A Website For Brands - The Ultimate Guide](https://workik.com/how-to-create-website-for-brands): Guide on building effective brand websites for customer engagement
-- [Core HR and HCM software Integration to add to a website](https://workik.com/core-hr-and-hcm-software-integration-to-add-into-a-website): Guide on integrating HR & HCM software for workforce management websites
-- [The Ultimate Guide to Create Architect/Interior Designer Website](https://workik.com/architect-and-interior-designer-website-ultimate-guide): Guide for creating professional architect & interior designer websites
+- [Sign Up | Register and get started in just 60 seconds](https://workik.com/sign-up): User registration & onboarding for Workik AI platform

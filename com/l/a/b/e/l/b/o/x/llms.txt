@@ -1,0 +1,50 @@
+# Labelbox
+
+> > Labelbox is an AI data factory platform providing data labeling, curation, and model evaluation tools with RLHF support, integrated with Alignerr expert network and EchoChain technology.
+
+Labelbox offers a comprehensive training data platform for AI teams, featuring multimodal annotation capabilities (image, video, text, PDF, geospatial, medical), model-assisted labeling, and integrations with enterprise data systems like Databricks, Snowflake, and BigQuery. The platform supports both self-service and on-demand annotation services through its Alignerr marketplace.
+
+## Key Topics
+
+- RLHF (Reinforcement Learning from Human Feedback)
+- Alignerr expert network
+- Data labeling and annotation
+- Model-assisted labeling and auto-labeling
+- Multimodal data (image, video, text, geospatial, medical)
+- Data curation and AI search
+- LLM training and evaluation
+- SFT (Supervised Fine-Tuning)
+- Enterprise integrations (Databricks, Snowflake, BigQuery)
+- Security compliance (SOC 2, ISO 27001)
+- Geospatial and medical imaging
+- PDF and document annotation
+- Model evaluation and training pipelines
+- Data factory workflows
+
+## Core Platform & Products
+
+- [The data factory for AI teams](https://labelbox.com): Homepage: AI data factory with Alignerr expert network & EchoChain
+- [Data labeling](https://labelbox.com/product/annotate): Data labeling platform with RLHF, SFT & multimodal annotation support
+- [Data curation](https://labelbox.com/product/data-curation): Vector & traditional search, data exploration & curation platform
+- [Task specific models](https://labelbox.com/product/task-specific-models): Task-specific models for model-assisted labeling & auto-annotation
+- [About Labelbox](https://labelbox.com/company/about): Company overview: AI data engine platform & Alignerr marketplace
+
+## Annotation Tools & Capabilities
+
+- [Annotate Tasks](https://labelbox.com/product/annotate/tasks): Multimodal annotation tasks: image, video, text, PDF, geospatial & audio
+- [Multimodal Chat](https://labelbox.com/product/annotate/chat): Multimodal chat annotation for LLMs with RLHF & human evaluation
+- [Throughput Annotate](https://labelbox.com/product/annotate/throughput): On-demand annotation services with expert workforce & automation
+- [Geospatial Imagery Annotation](https://labelbox.com/product/annotate/geospatial): GeoTIFF, COG & NITF annotation tool for geospatial AI applications
+- [Medical Data Annotation](https://labelbox.com/product/annotate/medical): Medical imaging & pathology scan annotation with RLHF support
+- [PDF Document Annotation](https://labelbox.com/product/annotate/document): PDF & HTML document annotation with OCR & named entity recognition
+
+## Resources & Support
+
+- [Research & Academic Licenses](https://labelbox.com/research/): Free academic & research licenses for education community worldwide
+- [See Labelbox in action](https://labelbox.com/recorded-demo): Recorded demo of Labelbox training data platform & AI workflow
+
+## Optional
+
+- [Labelbox vs Scale AI](https://labelbox.com/compare/labelbox-vs-scale): Platform comparison: Labelbox vs Scale AI for training data & GenAI
+- [Looking for a Scale Alternative?](https://labelbox.com/compare/scale-alternative): Labelbox as Scale AI alternative for data labeling & model development
+- [Looking for an V7 Alternative?](https://labelbox.com/compare/v7-alternative): Comparison of Labelbox vs V7 for AI model training & data labeling

@@ -1,0 +1,41 @@
+# Axios
+
+> > Axios is a promise-based HTTP client for Node.js and browsers, providing a simple API for making XMLHttpRequests and handling responses.
+
+Axios is an open-source JavaScript library that simplifies HTTP requests with features like interceptors, automatic JSON transformation, and comprehensive error handling. It works seamlessly in both browser and Node.js environments.
+
+## Key Topics
+
+- HTTP client
+- Promise-based
+- Node.js
+- Browser compatibility
+- XMLHttpRequest
+- API requests
+- Request configuration
+- Response interceptors
+- Error handling
+- HTTP methods
+- Method aliases
+- JavaScript library
+- Open source
+- Axios API
+- HTTP status codes
+
+## Getting Started
+
+- [Axios](https://axios-http.com/): Axios homepage - promise-based HTTP client for Node.js and browsers
+- [Getting Started](https://axios-http.com/docs/intro): Getting started guide with Axios installation and features overview
+
+## API Reference
+
+- [Axios API](https://axios-http.com/docs/api_intro): Axios API reference with HTTP methods, aliases, and request config
+
+## Core Features
+
+- [Interceptors](https://axios-http.com/docs/interceptors): Request and response interceptors guide for Axios middleware
+- [Handling Errors](https://axios-http.com/docs/handling_errors): Error handling guide for AxiosError, HTTP status codes, and responses
+
+## Optional
+
+- [Notes](https://axios-http.com/docs/notes): Additional notes on TypeScript, ES6 Promise polyfills, and credits

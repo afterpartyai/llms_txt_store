@@ -1,0 +1,63 @@
+# Upstash
+
+> > Upstash is a serverless data platform providing Redis, Vector databases, QStash message queue, and Workflow orchestration optimized for edge computing and serverless architectures.
+
+Upstash specializes in serverless infrastructure with products including Redis for caching and data storage, Vector for AI embeddings, QStash for messaging, and Workflow for orchestration. The platform integrates seamlessly with edge runtimes like Cloudflare Workers and Vercel, supporting frameworks such as Next.js and technologies like TypeScript, Node.js, and Python.
+
+## Key Topics
+
+- Serverless architecture
+- Redis caching and data storage
+- Edge computing with Cloudflare Workers
+- QStash message queue
+- Rate limiting
+- Next.js integration
+- Upstash Vector database
+- Workflow orchestration
+- REST API optimization
+- TypeScript and Node.js SDKs
+- AI and LangChain integration
+- Global database replication
+- Vercel deployment
+- Strapi CMS caching
+
+## Platform Overview
+
+- [Upstash: Serverless Data Platform](https://upstash.com): Homepage: Serverless data platform with Redis, Vector, QStash, Workflow
+- [Upstash Box: Give your agents a computer](https://upstash.com/blog/upstash-box): Product launch: Upstash Box serverless containers for AI agents
+- [Best Databases for Serverless](https://upstash.com/blog/best-database-for-serverless): Comparison guide for selecting databases in serverless architectures
+
+## Customer Success Stories
+
+- [Clickfunnels](https://upstash.com/customers/clickfunnels): ClickFunnels case study: edge computing with Redis on Cloudflare Workers
+- [Streamlined](https://upstash.com/customers/streamlined): Streamlined case study: workflow orchestration with QStash rate limiting
+- [OpenArt](https://upstash.com/customers/openart): OpenArt case study: AI image/video generation with Upstash Redis
+
+## Redis Caching and Performance
+
+- [5 ms Global Redis Latency with Edge Caching](https://upstash.com/blog/edge-caching-benchmark): Performance benchmark: 5ms global Redis latency using edge caching
+- [Speed up your Next.js application with Redis](https://upstash.com/blog/nextjs-caching-with-redis): Next.js performance optimization using Redis caching and SWR library
+- [Speed up your Database with Global Redis](https://upstash.com/blog/redis-in-sql-apps): Using Global Redis for distributed caching with PostgreSQL and MySQL
+- [Speed up Strapi Apps with Caching](https://upstash.com/blog/strapi-rest-caching): Strapi REST API performance optimization with Upstash Redis caching
+- [Serverless Redis Caching for Strapi](https://upstash.com/blog/redis-strapi): Tutorial on integrating Redis caching with Strapi CMS using REST Cache
+
+## Rate Limiting and API Protection
+
+- [Serverless Rate Limiting](https://upstash.com/blog/upstash-ratelimit): Announcement: @upstash/ratelimit SDK for serverless API protection
+- [Building an API Key Generator with Upstash Redis](https://upstash.com/blog/api-key-generator-upstash-redis): API key generator tutorial with Upstash Redis and Cloudflare Workers
+- [AI Powered Text Generator using Next.js, Replicate and Redis](https://upstash.com/blog/ai-text-generator): AI text generator with Next.js 13, Replicate API, and Redis rate limiting
+
+## QStash and Message Queue
+
+- [Decouple Webhook Processing with QStash on Next.js](https://upstash.com/blog/webhook-qstash): Webhook processing with QStash message queue and Zod validation
+- [Serverless Node.js URL Shortener App powered by Upstash Kafka and Materialize](https://upstash.com/blog/kafka-url-shortener): URL shortener with Kafka streaming and Materialize real-time analytics
+- [Kafka Connectors Deprecation Announcement](https://upstash.com/blog/kafka-connectors-deprecation): Deprecation notice for Kafka Connectors and schema registry features
+
+## AI and LangChain Integration
+
+- [Retaining Chat History Using LangChain and Upstash Redis](https://upstash.com/blog/langchain-redis): LangChain chat history persistence with Upstash Redis and BufferMemory
+
+## Optional
+
+- [Roadmap Application with Next.js, Redis and Auth0](https://upstash.com/blog/roadmap-application): Building a roadmap voting app with Next.js, Redis, and Auth0 SSO
+- [Fullstack Serverless app with Flutter, Serverless Framework and Upstash(REDIS) - PART 1](https://upstash.com/blog/serverless-with-flutter): Flutter fullstack tutorial with Serverless Framework and Redis backend

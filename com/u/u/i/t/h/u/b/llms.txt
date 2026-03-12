@@ -1,0 +1,23 @@
+# UUITHub
+
+> > UUITHub provides LLM-optimized context extraction tools for GitHub repositories, enabling AI systems to better understand and interact with code projects.
+
+UUITHub specializes in generating structured LLM context from GitHub repositories, making codebases more accessible to language models. The platform focuses on Python projects and provides tools for context extraction and repository analysis.
+
+## Key Topics
+
+- LLM Context Extraction
+- GitHub Repository Tools
+- Python Code Analysis
+- Context Extraction
+- LLM Integration
+- Repository Analysis
+- Code Extraction
+- RENSOCK/MemoryScope
+- miniature-engine
+- AI-Ready Documentation
+
+## Repository Context Tools
+
+- [GitHub RENSOCK/MemoryScope LLM Context](https://uuithub.com/RENSOCK/MemoryScope): LLM context extraction tool for RENSOCK/MemoryScope GitHub repository
+- [GitHub ojigfzd/miniature-engine LLM Context](https://uuithub.com/ojigfzd/miniature-engine): LLM context extraction tool for ojigfzd/miniature-engine repository

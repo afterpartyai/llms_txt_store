@@ -1,0 +1,62 @@
+# Neon
+
+> > Neon is a serverless Postgres platform with database branching, autoscaling, and modern developer integrations.
+
+Neon provides serverless Postgres with features like database branching for development workflows, automatic compute scaling, and integrations with platforms like Vercel, Next.js, and various frameworks. The platform offers APIs for data access and consumption monitoring, along with authentication solutions.
+
+## Key Topics
+
+- Serverless Postgres
+- Database Branching
+- Neon Auth
+- Vercel Integration
+- Neon Data API
+- Autoscaling
+- PostgreSQL
+- Next.js
+- Neon Console
+- Data Migration
+- Preview Deployments
+- WAL (Write-Ahead Log)
+- Node.js
+- GitHub Integration
+- Rate Limiting
+
+## Use Cases & Core Features
+
+- [Variable Load](https://neon.com/use-cases/variable-load): Optimize performance & cost with automatic compute autoscaling
+
+## Integration Guides
+
+- [Testing Auth changes safely with Vercel and Neon Branching](https://neon.com/guides/vercel-neon-auth-branching): Test auth features safely using Vercel Preview Deployments & Neon Branching
+- [Database Migrations in Spring Boot with Flyway and Neon](https://neon.com/guides/spring-boot-flyway): Manage schema changes in Spring Boot using Flyway with Neon Postgres
+- [Building a CRUD API with Laravel and Sanctum](https://neon.com/guides/laravel-crud-api): Create secure CRUD API with Laravel Sanctum authentication & Neon
+- [Getting started with Neon and New Relic](https://neon.com/guides/newrelic-otel-neon): Export Neon metrics & Postgres logs to New Relic via OpenTelemetry
+
+## Authentication & Security
+
+- [Creating a Secure Authentication System with Go, JWT, and Neon Postgres](https://neon.com/guides/golang-jwt): Build secure auth system with Go, JWT tokens, and Neon Postgres
+- [Rate Limiting in Postgres](https://neon.com/guides/rate-limiting): Implement rate limiting using Postgres advisory locks and counters
+
+## Database Features & Extensions
+
+- [Geospatial Search in Postgres](https://neon.com/guides/geospatial-search): Implement geospatial search using PostGIS extension in Postgres
+
+## APIs & Monitoring
+
+- [Building a Usage Dashboard with Neon's Consumption API](https://neon.com/guides/usage-dashboard-consumption-api): Track & visualize Neon usage with Consumption API and Next.js
+
+## Recent Updates
+
+- [Changelog Dec 05, 2025](https://neon.com/docs/changelog/2025-12-05): Free plan now supports 70 projects, new Data API settings, Kiro integration
+- [Changelog Jun 06, 2025](https://neon.com/docs/changelog/2025-06-06): Introduces app.build, Instagres, Netlify DB integration features
+- [Changelog May 23, 2025](https://neon.com/docs/changelog/2025-05-23): Neon Auth in Vercel projects, Postgres updates, Arduino integration
+- [Changelog May 16, 2025](https://neon.com/docs/changelog/2025-05-16): Neon Data API launch, credits system, collapsible console sidebar
+- [Changelog Aug 23, 2024](https://neon.com/docs/changelog/2024-08-23): CDC replication, near-zero downtime migrations, Neon Organizations access
+
+## Optional
+
+- [Changelog Jun 08, 2023](https://neon.com/docs/changelog/2023-06-08): Pro Plan Cost Estimation tool for Free Tier users introduced
+- [Changelog May 05, 2023](https://neon.com/docs/changelog/2023-05-05): Pageserver & Safekeeper improvements, WAL receiver context diagnostics
+- [Changelog Dec 14, 2022](https://neon.com/docs/changelog/2022-12-14): API updates: optional branch creation body, passwordless auth improvements
+- [Neon guides by Samuel Harrison](https://neon.com/guides/authors/sam-harri): Author page for Samuel Harrison's Postgres and Neon tutorials

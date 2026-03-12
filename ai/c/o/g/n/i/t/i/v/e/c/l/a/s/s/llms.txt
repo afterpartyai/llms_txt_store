@@ -1,0 +1,58 @@
+# Cognitive Class
+
+> > Free online learning platform offering hands-on courses in data science, AI, machine learning, and cloud technologies powered by IBM Skills Network.
+
+Cognitive Class provides interactive courses, guided projects, and labs covering Python, machine learning, AI applications, cloud-native development, and enterprise technologies. Learners gain practical experience with tools like Jupyter Notebooks, scikit-learn, PyTorch, IBM watsonx, Kubernetes, and open-source frameworks through real-world projects and multilingual content.
+
+## Key Topics
+
+- Python
+- Machine Learning
+- Artificial Intelligence
+- Data Analysis
+- IBM watsonx
+- Scikit-learn
+- RAG (Retrieval-Augmented Generation)
+- Jupyter Notebooks
+- Pandas
+- IBM Cloud
+- Kubernetes
+- Data Visualization
+- Vector Databases
+- Serverless Computing
+- Natural Language Processing
+
+## Data Science & Analytics
+
+- [Data Analysis with Python course](https://cognitiveclass.ai/courses/data-analysis-python): Learn data analysis with Python, pandas, scikit-learn & numpy
+- [Data Science Tools course](https://cognitiveclass.ai/courses/data-science-hands-open-source-tools-2): Learn popular data science tools: Jupyter, RStudio & Watson Studio
+- [Predictive Modeling for Real World Analytics](https://cognitiveclass.ai/courses/predictive-modeling-for-real-world-analytics): Develop prediction models with scikit-learn for real-world analytics
+- [Predict the Stock Market using Weather Data](https://cognitiveclass.ai/courses/predict-the-stock-market-using-weather-data): Time series: Predict Dow Jones using weather data, ARIMA & random forest
+- [Create Beautiful Reports and Books with Jupyter Book!](https://cognitiveclass.ai/courses/create-beautiful-reports-and-books-with-jupyter-book): Guided project: Create multi-page reports using Jupyter Book & Python
+
+## AI & Machine Learning
+
+- [Generative Adversarial Networks and Reinforcement Learning](https://cognitiveclass.ai/courses/generative-adversarial-networks-and-reinforcement-learning): Intermediate course on GANs & Reinforcement Learning by IBM
+- [Build an AI Icebreaker Bot with IBM Granite 3.0 & LlamaIndex](https://cognitiveclass.ai/courses/create-an-ai-icebreaker-bot-with-watsonx-and-llamaindex): RAG project: Build personalized icebreaker bot with Granite 3.0 & LinkedIn
+- [Build an AI assistant for aircraft maintenance](https://cognitiveclass.ai/courses/build-an-ai-assistant-for-aircraft-maintenance): RAG project: Parse PDFs with Llama2 for aircraft maintenance insights
+- [Text Sentiment Analysis using Caikit and Hugging Face](https://cognitiveclass.ai/courses/text-sentiment-analysis-using-caikit-and-hugging-face): Build Python sentiment analysis app with Caikit & Hugging Face models
+- [Human Portrait Drawing with U-Squared Net and PyTorch](https://cognitiveclass.ai/courses/human-portrait-drawing-with-u-squared-net-and-pytorch): Build portrait drawing app using U2-Net & PyTorch for object detection
+- [Create a Vector Database With Open-Source](https://cognitiveclass.ai/courses/create-a-vector-database-with-open-source): Guided project: Build vector database with AI embeddings for indexing
+
+## Cloud & Application Development
+
+- [Application Development using Microservices and Serverless](https://cognitiveclass.ai/courses/application-development-using-microservices-and-serverless): Build cloud-native apps with microservices, serverless & REST APIs
+- [Deploy your Serverless AI App in 10 Minutes with Code Engine](https://cognitiveclass.ai/courses/deploy-your-serverless-ai-app-in-10-minutes-with-code-engine): Deploy GPT2 text-gen app with IBM Code Engine, Docker & Kubernetes
+- [Getting Started with Node.js](https://cognitiveclass.ai/courses/getting-started-with-node-js): Beginner guide to Node.js server-side development with JavaScript
+- [Node-RED: basics to bots course](https://cognitiveclass.ai/courses/node-red-basics-to-bots): Build chatbots with Node-RED, Watson Assistant & Facebook Messenger
+
+## Healthcare & COVID-19 Analytics
+
+- [Прогнозирование и ГЕО визуализация для Здравоохранения](https://cognitiveclass.ai/courses/course-v1:IBM+GPXX07UYRU+v1): COVID-19 forecasting & GEO visualization using linear regression (Russian)
+- [Розширена класифікація з використанням машинного навчання](https://cognitiveclass.ai/courses/course-v1:IBM+GPXX0EZMUK+v1): COVID-19 chest X-ray classification using machine learning (Ukrainian)
+- [Прогнозування з використанням нейронних мереж](https://cognitiveclass.ai/courses/course-v1:IBM+GPXX0H4MUK+v1): COVID-19 forecasting with LSTM neural networks (Ukrainian)
+
+## Optional
+
+- [Programming for Beginners: Hello World in 11 Languages](https://cognitiveclass.ai/courses/programming-for-beginners-hello-world-in-11-languages): Beginner lab: Write Hello World in 11 programming languages
+- [Introducing z/OS Unix System Services](https://cognitiveclass.ai/courses/introducing-z-os-unix-system-services): Intro to z/OS UNIX System Services & mainframe open standards

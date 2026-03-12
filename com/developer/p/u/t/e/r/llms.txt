@@ -1,44 +1,52 @@
 # Puter Developer
 
-> > Puter Developer provides unified AI model APIs through Puter.js, enabling developers to access GPT-4, Claude, Grok, Qwen, and dozens of other models without managing API keys.
+> > Comprehensive developer documentation for Puter.js AI integration, featuring API references for GPT-5, Qwen, Liquid AI, and dozens of other language models.
 
-The platform offers a user-pays model where end users authenticate and pay for AI usage directly, eliminating the need for developers to handle API credentials. Puter.js integrates seamlessly with JavaScript, Node.js, React, and Vue applications.
+Puter Developer provides JavaScript and Node.js developers with unified access to leading AI models through the Puter.js library. The platform supports user-pays billing and seamless integration with React, Vue, and other frameworks for building AI-powered applications.
 
 ## Key Topics
 
 - Puter.js
-- User-pays model
-- No API keys required
-- Unified AI API
-- Multimodal AI
-- Chat models
-- Language models
-- OpenAI GPT-4
-- Anthropic Claude
-- xAI Grok
-- Qwen (Alibaba)
-- JavaScript integration
-- Node.js
-- React & Vue support
-- AI model aggregation
+- AI API Integration
+- Chat Models
+- Mixture-of-Experts (MoE)
+- User-Pays Model
+- Agentic Coding
+- OpenAI GPT-5
+- Qwen Models
+- Liquid AI
+- JavaScript/Node.js SDK
+- Vision-Language Models
+- On-Device AI
+- Chat API
+- Developer API
+- Puter AI API
 
-## Leading AI Model APIs
+## Premier AI Models
 
-- [GPT-4o 2024-05-13 API](https://developer.puter.com/ai/openai/gpt-4o-2024-05-13): OpenAI GPT-4o May 2024 snapshot API with version-locked behavior
-- [Grok 2 API](https://developer.puter.com/ai/x-ai/grok-2): xAI's Grok 2 frontier language model API reference with chat & coding
-- [Qwen Plus 0728 API](https://developer.puter.com/ai/qwen/qwen-plus-2025-07-28): Qwen Plus July 2025 snapshot API for production deployments
-- [Qwen Plus 0728 (thinking) API](https://developer.puter.com/ai/qwen/qwen-plus-2025-07-28:thinking): Qwen Plus reasoning model API with chain-of-thought processing
-- [NVIDIA Nemotron API](https://developer.puter.com/ai/nvidia): NVIDIA Nemotron AI models API reference via Puter.js integration
+- [GPT-5 Chat API](https://developer.puter.com/ai/openai/gpt-5-chat): OpenAI GPT-5 Chat conversational API reference for ChatGPT model
+- [GPT-4 Turbo API](https://developer.puter.com/ai/openai/gpt-4-turbo): OpenAI GPT-4 Turbo API reference with 128K context and pricing info
+- [Cohere API](https://developer.puter.com/ai/cohere): Cohere API integration via Puter.js for Command A and R7B models
+- [Morph API](https://developer.puter.com/ai/morph): Morph API integration for V3 Fast and Large code editing models
 
-## Specialized AI Model APIs
+## Qwen Model Family
 
-- [ByteDance AI API](https://developer.puter.com/ai/bytedance): ByteDance AI Seedance video generation & multimodal API reference
-- [AI21 Labs API](https://developer.puter.com/ai/ai21): AI21 Labs Jamba models API reference via Puter.js integration
-- [Devstral Medium API](https://developer.puter.com/ai/mistralai/devstral-medium): Mistral AI's Devstral Medium agentic coding model API reference
-- [LFM2-8B-A1B API](https://developer.puter.com/ai/liquid/lfm2-8b-a1b): Liquid AI's on-device Mixture-of-Experts model API with 8.3B params
-- [StepFun: Step3 API](https://developer.puter.com/ai/stepfun/step3): StepFun Step3 multimodal reasoning model API with 321B parameters
+- [Qwen3 VL 235B A22B Instruct API](https://developer.puter.com/ai/qwen/qwen3-vl-235b-a22b-instruct): Qwen3 VL 235B vision-language MoE model with 256K context API
+- [Qwen3 Next 80B A3B Thinking API](https://developer.puter.com/ai/qwen/qwen3-next-80b-a3b-thinking): Qwen3 Next 80B reasoning-enhanced model API with hybrid attention
+- [Qwen3 8B API](https://developer.puter.com/ai/qwen/qwen3-8b): Qwen3 8B dense model API with hybrid thinking modes and 128K context
 
-## Image Generation & Specialized Models
+## Specialized Coding Models
 
-- [Rundiffusion/Juggernaut-Lightning-Flux API](https://developer.puter.com/ai/rundiffusion/juggernaut-lightning-flux): RunDiffusion Juggernaut-Lightning-Flux image generation API reference
-- [Cognitive Computations API](https://developer.puter.com/ai/cognitivecomputations): Cognitive Computations Dolphin Mistral uncensored AI model API
+- [xAI: Grok Code Fast 1 API](https://developer.puter.com/ai/x-ai/grok-code-fast-1): xAI Grok Code Fast 1 API reference for agentic coding workflows
+- [Kwaipilot: KAT-Coder-Pro V1 API](https://developer.puter.com/ai/kwaipilot/kat-coder-pro): Kwaipilot KAT-Coder-Pro V1 agentic coding model API documentation
+
+## Liquid AI & On-Device Models
+
+- [LFM2-24B-A2B API](https://developer.puter.com/ai/liquid/lfm-2-24b-a2b): Liquid AI LFM2-24B-A2B hybrid MoE model API with 2.3B active params
+- [LFM2-8B-A1B API](https://developer.puter.com/ai/liquid/lfm2-8b-a1b): Liquid AI LFM2-8B-A1B Mixture-of-Experts on-device model API
+
+## Additional Model Providers
+
+- [Gemma 3 4B API](https://developer.puter.com/ai/google/gemma-3-4b-it): Google Gemma 3 4B Instruct multimodal API with 128K context window
+- [TNG: DeepSeek R1T2 Chimera API](https://developer.puter.com/ai/tngtech/deepseek-r1t2-chimera): TNG Tech DeepSeek R1T2 Chimera 671B tri-parent model API reference
+- [Tencent: Hunyuan A13B Instruct API](https://developer.puter.com/ai/tencent/hunyuan-a13b-instruct): Tencent Hunyuan A13B Mixture-of-Experts model API documentation

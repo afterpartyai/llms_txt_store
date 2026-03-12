@@ -1,0 +1,48 @@
+# Node.js
+
+> > The official Node.js website providing documentation, security advisories, and community updates for the JavaScript runtime built on Chrome's V8 engine.
+
+Node.js is an open-source, cross-platform JavaScript runtime environment that executes JavaScript code outside a web browser. The site serves as the central hub for documentation, learning resources, security releases, and community announcements maintained by the OpenJS Foundation.
+
+## Key Topics
+
+- Node.js runtime and architecture
+- JavaScript and V8 engine
+- Security vulnerabilities and CVEs
+- OpenSSL security updates
+- Event loop and asynchronous programming
+- Streams and data processing
+- TypeScript integration
+- Native addons and ABI stability
+- Cross-platform filesystem handling
+- child_process and command execution
+- OpenJS Ecosystem Sustainability Program
+- Release schedules and version upgrades
+- Community governance and contributors
+- Windows compatibility
+
+## Core Concepts and Architecture
+
+- [The Node.js Event Loop](https://nodejs.org/en/learn/asynchronous-work/event-loop-timers-and-nexttick): Deep dive into event loop phases, timers, and process.nextTick()
+- [How to use Streams](https://nodejs.org/en/learn/modules/how-to-use-streams): Beginner guide to using streams for memory-efficient data processing
+- [ABI Stability](https://nodejs.org/en/learn/modules/abi-stability): Guide to ABI stability and binary compatibility for native addons
+
+## Security Advisories and Releases
+
+- [Wednesday, April 10, 2024 Security Releases](https://nodejs.org/en/blog/vulnerability/april-2024-security-releases-2): April 2024 security release addressing CVE-2024-27980 command injection
+- [July 2021 Security Releases](https://nodejs.org/en/blog/vulnerability/july-2021-security-releases-2): July 2021 security release for http2 use-after-free CVE-2021-22930
+- [OpenSSL security releases require Node.js security releases](https://nodejs.org/en/blog/vulnerability/mar-2022-security-releases): Security advisory for OpenSSL CVE-2022-0778 requiring Node.js patches
+- [OpenSSL 3.0.7 update assessment](https://nodejs.org/en/blog/vulnerability/openssl-fixes-in-regular-releases-dec2022): Security assessment of OpenSSL 3.0.7 vulnerability CVE-2022-3996
+- [OpenSSL and zlib update assessment, and Node.js Assessment workflow](https://nodejs.org/en/blog/vulnerability/openssl-and-zlib-vulnerability-assessment): Vulnerability assessment for OpenSSL and zlib CVE-2022-37434 updates
+- [HTTP Server Security Vulnerability: Please upgrade to 0.6.17](https://nodejs.org/en/blog/vulnerability/http-server-security-vulnerability-please-upgrade-to-0-6-17): HTTP server security patch for information disclosure in version 0.6.17
+
+## Development Guides
+
+- [Running TypeScript code using transpilation](https://nodejs.org/en/learn/typescript/transpile): Tutorial on transpiling TypeScript to JavaScript using tsc compiler
+- [How to work with Different Filesystems](https://nodejs.org/en/learn/manipulating-files/working-with-different-filesystems): Cross-platform filesystem handling and compatibility best practices
+
+## Optional
+
+- [Weekly Update - Aug 14th, 2015](https://nodejs.org/en/blog/weekly/weekly-update2015-08-14): Node.js and io.js convergence update with v4 release plans
+- [Weekly Update - May 30th, 2016](https://nodejs.org/en/blog/weekly/weekly-update2016-05-30): Weekly update covering Node v4.4.5 LTS release and community events
+- [Notes from the Road](https://nodejs.org/en/blog/uncategorized/notes-from-the-road): Community feedback and roadshow events across SF, Seattle, and Portland

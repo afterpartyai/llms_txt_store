@@ -1,0 +1,27 @@
+# IBM Quantum Platform
+
+> > Cloud-based quantum computing platform providing access to IBM's quantum processing units (QPUs) and development tools including Qiskit and Composer for building and executing quantum circuits.
+
+IBM Quantum Platform enables researchers, developers, and organizations to program real quantum computers through the cloud. The platform integrates visual circuit design tools, QASM programming support, and advanced capabilities for error mitigation, optimization, and quantum machine learning experiments.
+
+## Key Topics
+
+- IBM Quantum Platform
+- Qiskit
+- Quantum Processing Units (QPUs)
+- Composer
+- QASM (Quantum Assembly Language)
+- Quantum Circuits
+- Error Mitigation
+- Quantum Machine Learning
+- Hamiltonian Simulation
+- Quantum Information Science
+- Circuit Design
+- Optimization
+- Quantum Programming
+- Visual Circuit Editor
+
+## Core Platform
+
+- [IBM Quantum Platform](https://quantum.cloud.ibm.com/): IBM Quantum Platform homepage for programming real quantum systems via cloud
+- [Composer | IBM Quantum Platform](https://quantum.cloud.ibm.com/composer): Composer visual editor for building quantum circuits with QASM support

@@ -1,63 +1,61 @@
 # Composio
 
-> > Composio is a production-ready integration platform for AI agents, providing OAuth 2.0 authentication, MCP servers, and tool orchestration for connecting agents to 100+ external services including Gmail, Slack, Salesforce, and Notion.
+> Composio is an integration platform for AI agents, providing MCP (Model Context Protocol) gateways, OAuth management, and tool connections for frameworks like Claude Code, Cursor, and CrewAI.
 
-Composio enables developers to build AI agents with enterprise-grade integrations through standardized protocols like MCP (Model Context Protocol) and OAuth 2.0. The platform offers pre-built connectors, authentication management, and workflow automation tools for AI agent development across frameworks like LlamaIndex and Claude.
+Composio enables developers to build production-ready AI agents with secure integrations to 100+ tools and services. The platform specializes in authentication management, MCP server implementations, and agent-tool orchestration across popular AI frameworks.
 
 ## Key Topics
 
 - AI Agents
-- MCP (Model Context Protocol)
+- Model Context Protocol (MCP)
+- Composio Integration Platform
+- Claude Code
 - OAuth 2.0 Authentication
-- Integration Platform
-- Tool Invocation
-- Workflow Automation
-- Enterprise Authentication
-- API Integration
-- Production-Ready Integrations
-- Agent Architecture
-- Claude 3.7 Sonnet
-- RAG (Retrieval-Augmented Generation)
-- SWE-bench
-- Function Calling
-- B2B SaaS Integrations
+- Tool Integration
+- AI Workflow Automation
+- Cursor IDE
+- Code Generation
+- LLM Evaluation & Benchmarks
+- Developer Credentials Management
+- CRM & SaaS Integrations
+- Agent Orchestration
+- VS Code Extensions
+- OpenClaw & AI Security
 
-## Getting Started & Core Platform
+## Integration Guides & Setup
 
-- [Case Studies](https://composio.dev/case-studies): Customer success stories from Slashy, Opennote, Zams using Composio
-- [Build vs. buy AI agent integrations: a 2026 decision framework](https://composio.dev/content/build-vs-buy-ai-agent-integrations): Decision framework for building vs buying AI agent integrations in 2026
-- [OAuth 2.0 and How it Works with Examples](https://composio.dev/content/oauth-example-with-illustrations): OAuth 2.0 tutorial with illustrated examples and token-based auth flow
+- [How to add 100+ MCP servers to VS Code in minutes](https://composio.dev/content/how-to-add-100-mcp-servers-to-vs-code-in-minutes): VS Code MCP server integration guide for AI agents and developer tools
+- [How to use Asana with Claude and Cursor for effective project management](https://composio.dev/content/how-to-use-asana-with-claude-and-cursor-for-effective-project-management): Asana integration with Claude and Cursor via MCP for project management
+- [How to use Composio MCP with OpenClaw](https://composio.dev/content/how-to-use-composio-mcp-with-openclaw): OpenClaw integration guide with Composio MCP server and Docker setup
+- [Using Claude Code to manage Neon projects via MCP](https://composio.dev/content/neondb-mcp-with-claude-code): Neon PostgreSQL management with Claude Code via Model Context Protocol
+- [AI Invoice Manager: Automate Invoice Handling with Composio](https://composio.dev/content/ai-invoice-manager-automate-invoice-handling): CrewAI tutorial: Automate invoice processing with Gmail & Google Sheets
+- [How to secure OpenClaw (formerly Moltbot / Clawdbot): Docker hardening, credential isolation, and Composio controls](https://composio.dev/content/secure-openclaw-moltbot-clawdbot-setup): OpenClaw security: Docker hardening & credential isolation with Composio
 
-## MCP & Integration Guides
+## AI Agent Architecture & Best Practices
 
-- [How to connect Cursor to 100+ MCP Servers within minutes](https://composio.dev/content/how-to-connect-cursor-to-100-mcp-servers-within-minutes): Tutorial connecting Cursor IDE to 100+ MCP servers using Composio
-- [How to better your Claude CoWork experience with MCPs](https://composio.dev/content/how-to-better-your-claude-cowork-experience-with-mcps): Guide to enhancing Claude CoWork with MCP connectors and servers
-- [Is MCP enough for production-ready AI agent integrations?](https://composio.dev/content/mcp-production-ready-integrations): Analysis of MCP protocol vs OAuth for production AI agent integrations
-- [Comprehensive Guide to Single-Turn Function Calling](https://composio.dev/content/llamaindex-function-calling-agent-workflow): LlamaIndex single-turn function calling guide with OpenAI integration
+- [Better interface between Agents <--> Tools](https://composio.dev/blog/better-interface-between-agents-tools): Agent-tool integration architecture with MCP Gateways and authentication
+- [The Self-Improving AI System That Built Itself](https://composio.dev/blog/the-self-improving-ai-system-that-built-itself): Self-improving AI agent orchestrator built with Claude Code & TypeScript
+- [Why most AI agents fail at sales automation: 9 CRM integration failures](https://composio.dev/content/ai-agent-sales-integration-failures): 9 common CRM integration failures in AI agent sales automation
+- [10 Best MCP Gateways for Developers in 2026: A Deep Dive Comparison](https://composio.dev/content/best-mcp-gateway-for-developers): Top 10 Model Context Protocol gateways compared for AI agent development
+- [Exploring Different Types of AI Agents](https://composio.dev/content/types-of-ai-agents-exploration): AI agent types overview: reactive, cognitive, and workflow automation agents
 
-## AI Agent Development & Best Practices
+## OAuth & Authentication Setup
 
-- [Tool design is all you need for SOTA SWE agents](https://composio.dev/content/tool-design-is-all-you-need-for-sota-swe-agents): SWE-Kit tool design achieving SOTA results on SWE-bench benchmarks
-- [Why most AI agents fail at sales automation: 9 CRM integration failures](https://composio.dev/content/ai-agent-sales-integration-failures): Common CRM integration failures in AI sales agents with solutions
-- [How to build Effective AI Agents by Diwank Tomer, Julep AI](https://composio.dev/content/build-effective-ai-agents): Interview with Diwank Tomer on building effective AI agents with Julep
+- [How to create OAuth credentials for Pagerduty and configure it in Composio](https://composio.dev/auth/pagerduty): PagerDuty OAuth 2.0 setup guide for Composio integration
+- [How to create Docusign OAuth credentials and configure it in Composio](https://composio.dev/auth/docusign): DocuSign OAuth 2.0 integration setup guide with Integration Key config
 
-## Integration Platforms & Alternatives
+## AI Model Comparisons & Benchmarks
 
-- [6 Workato Alternatives for AI Agents to Consider in 2026](https://composio.dev/content/workato-alternatives): Comparison of Workato alternatives including Composio, Tray.ai, and Zapier
-- [Top API Integration Platforms and Tools for 2024](https://composio.dev/content/api-integration-tools-platforms): Review of top API integration platforms including MuleSoft for 2024
+- [Claude 3.7 Sonnet vs. Grok 3 vs. o3-mini-high](https://composio.dev/content/claude-3-7-sonnet-vs-grok-3-vs-o3-mini-high): AI model comparison: Claude 3.7 Sonnet vs Grok 3 vs o3-mini-high benchmarks
+- [Gemini CLi vs. Claude Code : The better coding agent](https://composio.dev/content/gemini-cli-vs-claude-code-the-better-coding-agent): Coding agent comparison: Google Gemini CLI vs Anthropic Claude Code
+- [Grok 3 vs. GPT 4.5](https://composio.dev/content/grok-3-vs-gpt-4-5): LLM comparison: xAI Grok 3 vs OpenAI GPT-4.5 coding benchmarks
+- [Qwen 3 vs. Deepseek r1: Complete comparison](https://composio.dev/content/qwen-3-vs-deepseek-r1-complete-comparison): Alibaba Qwen 3 vs DeepSeek R1: Open-source LLM benchmark comparison
 
-## AI Model Comparisons & Analysis
+## Case Studies & Success Stories
 
-- [Deepseek v3 0324: Finally, the Sonnet 3.5 at Home](https://composio.dev/content/deepseek-v3-0324-the-sonnet-3-5-at-home): Deepseek v3 0324 benchmarks vs Claude 3.5 Sonnet for local deployment
-- [Grok 3 vs. GPT 4.5](https://composio.dev/content/grok-3-vs-gpt-4-5): Coding benchmark comparison between XAI's Grok 3 and OpenAI's GPT-4.5
-- [Understanding Generative Models in AI](https://composio.dev/content/generative-models-in-ai): Introduction to generative models vs discriminative models in AI
-
-## Tutorials & Projects
-
-- [OpenPoke: I built an open-source alternative to poke.com](https://composio.dev/content/open-poke): Tutorial building OpenPoke, an open-source poke.com clone with Composio
+- [How Slashy hit #1 on Product Hunt and scaled to thousands overnight using Composio](https://composio.dev/case-studies/slashy): Slashy case study: Product Hunt #1 launch with Gmail OAuth integration
 
 ## Optional
 
-- [Sunil Kumar Dash](https://composio.dev/authors/sunil-kumar-dash): Author profile for Sunil Kumar Dash with AI agent content
-- [Manveer Chawla](https://composio.dev/authors/manveer-chawla): Author profile for Manveer Chawla, Zenith co-founder and Composio writer
-- [Terms of Service](https://composio.dev/terms): Composio platform terms of service and user agreement by Sampark Inc
+- [Understanding What is Data Security and Its Risks, Threats, and Solutions](https://composio.dev/content/data-security-risks-solutions): Data security guide covering risks, threats, and cybersecurity solutions
+- [Create a Free Discord Bot Without Coding: A Step-by-Step Guide](https://composio.dev/content/create-free-discord-bot-no-coding-guide): No-code Discord bot creation guide using BotGhost and Boto platforms

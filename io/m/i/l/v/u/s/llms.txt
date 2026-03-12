@@ -1,0 +1,57 @@
+# Milvus
+
+> > Milvus is a high-performance, cloud-native distributed vector database built for AI applications, specializing in semantic search, RAG (Retrieval Augmented Generation), and hybrid search capabilities.
+
+Milvus powers AI applications through efficient vector similarity search and integrates with popular frameworks like LangChain, Spring Boot, and Dify. Developed by Zilliz, it supports both semantic embeddings and full-text search (BM25) for production-ready AI assistants and agents.
+
+## Key Topics
+
+- Vector Database
+- RAG (Retrieval Augmented Generation)
+- Semantic Search
+- Vector Embeddings
+- Hybrid Search
+- AI Agents
+- Milvus 2.0 / 2.5 / 2.6
+- Zilliz
+- BM25 Full-Text Search
+- Cloud-Native Architecture
+- Vector Similarity Search
+- LLM Integration
+- Production AI Applications
+- Multimodal Search
+- Distributed Systems
+
+## Getting Started
+
+- [Milvus Introduction](https://milvus.io/intro): Main introduction to Milvus distributed vector database and RAG
+- [Milvus Introduction (Arabic)](https://milvus.io/ar/intro): Introduction to Milvus vector database, embeddings, and RAG for AI apps
+
+## Tutorials and Guides
+
+- [Hybrid Search with Milvus 2.5](https://milvus.io/ko/blog/get-started-with-hybrid-semantic-full-text-search-with-milvus-2-5.md): Milvus 2.5 hybrid search tutorial with BM25 and semantic embeddings
+- [Build RAG Document Assistant with Dify](https://milvus.io/ja/blog/hands-on-tutorial-build-rag-power-document-assistant-in-10-minutes-with-dify-and-milvus.md): Quick RAG document assistant tutorial with Dify and Milvus
+- [Production AI Assistant with Spring Boot](https://milvus.io/ja/blog/building-a-production-ready-ai-assistant-with-spring-boot-and-milvus.md): Tutorial: Build RAG AI assistant using Spring Boot, Milvus, and Ollama
+- [RAG Workflows with Langflow](https://milvus.io/ko/blog/drag-drop-and-deploy-how-to-build-rag-workflows-with-langflow-and-milvus.md): Visual RAG workflow tutorial using Langflow and Milvus drag-drop builder
+- [Semantic Search with Lucidworks](https://milvus.io/ja/blog/2021-04-19-build-semantic-search-at-speed-milvus-lucidworks.md): Milvus and Lucidworks integration for semantic search with FAISS
+
+## Release Announcements
+
+- [Milvus 2.0 General Availability](https://milvus.io/ja/blog/2022-1-25-annoucing-general-availability-of-milvus-2-0.md): Milvus 2.0 GA release announcement with cloud-native architecture
+- [Milvus 2.0 Redefining Vector Database](https://milvus.io/ja/blog/2021-08-01-milvus2.0-redefining-vector-database.md): Milvus 2.0 cloud-native architecture and hybrid search capabilities
+- [Milvus 2.2.12 Release](https://milvus.io/ja/blog/milvus-2-2-12-easier-access-faster-vector-search-speeds-better-user-experience.md): Milvus 2.2.12 release with RESTful API and performance improvements
+- [Milvus 2.2.10 & 2.2.11 Updates](https://milvus.io/ja/blog/milvus-2210-and-2211-enhanced-stability-and-better-user-experience.md): Milvus 2.2.10 & 2.2.11 stability and performance updates
+
+## Technical Deep Dives
+
+- [Claude-Style Memory with Milvus 2.6](https://milvus.io/ko/blog/reflections-on-chatgpt-and-claude-memory-systems.md): Milvus 2.6 enables Claude-style conversational memory with hybrid search
+- [Automated Scaling vs Manual Sharding](https://milvus.io/ko/blog/why-manual-sharding-is-a-bad-idea-for-vector-databases-and-how-to-fix-it.md): Milvus automated scaling vs manual sharding in pgvector and competitors
+- [8× Performance Boost with NVIDIA RDMA](https://milvus.io/ko/blog/unlocking-8×-milvus-performance-with-cloudian-hyperstore-and-nvidia-rdma-for-s3-storage.md): 8× performance boost using Cloudian HyperStore and NVIDIA RDMA for S3
+- [How Milvus Realizes Delete Function](https://milvus.io/ja/blog/2020-08-22-deleting-data-in-milvus.md): Milvus v0.7.0 soft deletion architecture with MemManager and FAISS
+- [Bilingual Semantic Highlighting Model](https://milvus.io/ja/blog/zilliz-trained-and-open-sourced-bilingual-semantic-highlighting-model-for-production-ai.md): Zilliz bilingual semantic highlighting model for RAG pipelines
+
+## Blog and Resources
+
+- [Milvus Blog (English)](https://milvus.io/de/blog): Milvus blog hub covering vector database fundamentals and AI tutorials
+- [Milvus Blog (Indonesian)](https://milvus.io/id/blog): Milvus blog covering vector DB, RAG, AI agents, and LLM integration
+- [Milvus Blog (French)](https://milvus.io/fr/blog): French blog hub for Milvus tutorials, RAG, and multimodal AI

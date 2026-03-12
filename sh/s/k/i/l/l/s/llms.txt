@@ -1,58 +1,60 @@
 # skills.sh
 
-> > A platform for sharing AI agent skills, Copilot extensions, and development best practices across frameworks like Next.js, Expo, Playwright, and MCP.
+> > skills.sh is a platform for sharing and discovering reusable AI agent skills, Copilot extensions, and MCP tools for GitHub Copilot, Azure, and other AI development workflows.
 
-skills.sh hosts reusable skills for GitHub Copilot, Claude, and other AI agents, covering development tools, testing strategies, marketing workflows, and platform-specific integrations. The site aggregates community-contributed skills from organizations like Microsoft, GitHub, Vercel Labs, and individual contributors.
+The site hosts a community-driven repository of skills that enhance AI coding assistants with specialized capabilities ranging from API development and cloud migration to testing frameworks and design systems. Skills are packaged as SKILL.md files that provide structured context for AI agents.
 
 ## Key Topics
 
 - GitHub Copilot
 - MCP (Model Context Protocol)
-- copilot-skill
-- best-practices
-- command-line-tool
-- Next.js
-- Playwright
-- Expo
-- dependency-injection
-- testing-strategies
-- Power BI
-- conversion-rate-optimization
-- programmatic-seo
-- Spring Boot
-- Nuxt
+- AI agents and agentic development
+- Azure cloud services
+- Context management
+- Copilot skills and extensions
+- CLI tools and automation
+- API documentation and routes
+- Design tokens and accessibility
+- Best practices and coding standards
+- Server-side development
+- Testing frameworks
+- Cloud migration
+- SKILL.md format
 
-## GitHub Copilot Skills
+## GitHub Copilot & MCP Tools
 
-- [mcp-create-declarative-agent by github/awesome-copilot](https://skills.sh/github/awesome-copilot/mcp-create-declarative-agent): Create declarative agents for Microsoft 365 Copilot using MCP
-- [dotnet-best-practices by github/awesome-copilot](https://skills.sh/github/awesome-copilot/dotnet-best-practices): .NET & C# best practices skill for Copilot with coding standards
-- [kotlin-springboot by github/awesome-copilot](https://skills.sh/github/awesome-copilot/kotlin-springboot): Kotlin Spring Boot best practices for REST APIs & JPA entities
-- [powerbi-modeling by github/awesome-copilot](https://skills.sh/github/awesome-copilot/powerbi-modeling): Power BI semantic modeling with DAX, star schema & RLS best practices
-- [quasi-coder by github/awesome-copilot](https://skills.sh/github/awesome-copilot/quasi-coder): Quasi-Coder skill for natural language to code translation
-- [meeting-minutes by github/awesome-copilot](https://skills.sh/github/awesome-copilot/meeting-minutes): Meeting minutes automation skill for GitHub Issues & Jira integration
-- [dataverse-python-usecase-builder by github/awesome-copilot](https://skills.sh/github/awesome-copilot/dataverse-python-usecase-builder): PowerPlatform Dataverse Python SDK skill for solution architecture
-- [fedora-linux-triage by github/awesome-copilot](https://skills.sh/github/awesome-copilot/fedora-linux-triage): Fedora Linux system triage skill using systemctl & journalctl
+- [github-copilot-starter](https://skills.sh/github/awesome-copilot/github-copilot-starter): GitHub Copilot project starter with configuration and coding standards
+- [mcp-cli](https://skills.sh/github/awesome-copilot/mcp-cli): MCP CLI reference for server discovery and JSON schema tool integration
+- [ruby-mcp-server-generator](https://skills.sh/github/awesome-copilot/ruby-mcp-server-generator): Ruby MCP server generator for scaffolding projects with Ruby SDK
+- [agentic-development-principles](https://skills.sh/supercent-io/skills-template/agentic-development-principles): AI agent development principles for context management and workflows
+- [remembering-conversations](https://skills.sh/obra/episodic-memory/remembering-conversations): Episodic memory skill for AI agent conversation search and context mgmt
 
-## Development Tools & CLI Reference
+## Azure Cloud Development
 
-- [playwright-cli by microsoft/playwright-cli](https://skills.sh/microsoft/playwright-cli/playwright-cli): Playwright CLI command reference for browser automation & web testing
-- [mcp-cli by github/awesome-copilot](https://skills.sh/github/awesome-copilot/mcp-cli): MCP CLI command reference for server management & tool discovery
-- [gws-gmail by googleworkspace/cli](https://skills.sh/googleworkspace/cli/gws-gmail): Gmail CLI tool wrapping Gmail API v1 for email automation
+- [azure-compliance](https://skills.sh/microsoft/github-copilot-for-azure/azure-compliance): Azure compliance skill using azqr for security auditing and assessment
+- [azure-cloud-migrate](https://skills.sh/microsoft/github-copilot-for-azure/azure-cloud-migrate): Azure cloud migration skill for AWS Lambda to Azure Functions conversion
 
-## Framework Skills
+## Web Development & API Skills
 
-- [next-upgrade by vercel-labs/next-skills](https://skills.sh/vercel-labs/next-skills/next-upgrade): Next.js upgrade automation skill with codemods & migration guides
-- [nuxt by antfu/skills](https://skills.sh/antfu/skills/nuxt): Nuxt framework reference for Vue SSR & full-stack development
-- [expo-dev-client by expo/skills](https://skills.sh/expo/skills/expo-dev-client): Expo dev client skill for native code testing & EAS Build deployment
+- [expo-api-routes](https://skills.sh/expo/skills/expo-api-routes): Expo API routes skill for server-side endpoints and HTTP request handling
+- [create-web-form](https://skills.sh/github/awesome-copilot/create-web-form): Web form creation skill with HTML/CSS/JS validation and accessibility
+- [api-documentation](https://skills.sh/supercent-io/skills-template/api-documentation): OpenAPI/Swagger REST API documentation template for user management
+- [tailwind-design-system](https://skills.sh/wshobson/agents/tailwind-design-system): Tailwind CSS v4 design system with tokens, theming, and dark mode
+- [polish](https://skills.sh/pbakaus/impeccable/polish): UI polish skill for visual refinement, typography, and accessibility
 
-## Testing & Development Practices
+## Testing & DevOps
 
-- [testing-strategies by supercent-io/skills-template](https://skills.sh/supercent-io/skills-template/testing-strategies): Testing strategies skill covering test pyramid, Jest, & CI/CD practices
-- [vibe-kanban by supercent-io/skills-template](https://skills.sh/supercent-io/skills-template/vibe-kanban): AI agent Kanban board for multi-agent orchestration with MCP
+- [csharp-tunit](https://skills.sh/github/awesome-copilot/csharp-tunit): C# TUnit testing framework skill with data-driven test best practices
+- [containerize-aspnet-framework](https://skills.sh/github/awesome-copilot/containerize-aspnet-framework): ASP.NET Framework containerization skill for Docker Windows with IIS
+- [winapp-cli](https://skills.sh/github/awesome-copilot/winapp-cli): Windows App CLI reference for MSIX packaging and certificate management
 
-## Marketing & Growth Skills
+## Documentation & Planning
 
-- [paywall-upgrade-cro by coreyhaines31/marketingskills](https://skills.sh/coreyhaines31/marketingskills/paywall-upgrade-cro): Skill for optimizing paywall conversion & freemium upgrade flows
-- [ad-creative by coreyhaines31/marketingskills](https://skills.sh/coreyhaines31/marketingskills/ad-creative): Ad creative skill for Google, Meta, LinkedIn, TikTok & Twitter/X
-- [programmatic-seo by coreyhaines31/marketingskills](https://skills.sh/coreyhaines31/marketingskills/programmatic-seo): Programmatic SEO skill for scaling content with template pages
-- [product-marketing-context by coreyhaines31/marketingskills](https://skills.sh/coreyhaines31/marketingskills/product-marketing-context): Product marketing context skill for positioning & messaging workflows
+- [create-technical-spike](https://skills.sh/github/awesome-copilot/create-technical-spike): Technical spike documentation template for time-boxed research planning
+- [baoyu-format-markdown](https://skills.sh/jimliu/baoyu-skills/baoyu-format-markdown): Markdown formatter skill for CJK text processing and CLI configuration
+
+## Marketing & Growth
+
+- [page-cro](https://skills.sh/coreyhaines31/marketingskills/page-cro): Conversion rate optimization skill for landing pages and CTAs
+- [referral-program](https://skills.sh/coreyhaines31/marketingskills/referral-program): Referral program design skill for viral growth and incentive strategy
+- [bmad-idea](https://skills.sh/supercent-io/skills-template/bmad-idea): BMAD creative intelligence suite for brainstorming and design thinking

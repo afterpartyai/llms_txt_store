@@ -1,0 +1,22 @@
+# OpenAI CDN
+
+> > Official content delivery network for OpenAI's technical specifications, documentation, and model guidelines including the Model Spec for ChatGPT and API behavior.
+
+This CDN hosts authoritative technical documentation and specifications from OpenAI. It serves as the canonical source for model behavior guidelines, API standards, and implementation references used by developers and researchers working with OpenAI's AI systems.
+
+## Key Topics
+
+- Model Spec
+- OpenAI API
+- ChatGPT
+- RLHF (Reinforcement Learning from Human Feedback)
+- Model Behavior Guidelines
+- AI Alignment
+- Objectives, Rules, and Defaults Framework
+- Responsible AI
+- Model Alignment
+- AI Safety Standards
+
+## Model Specifications & Behavior Guidelines
+
+- [Model Spec (2024/05/08)](https://cdn.openai.com/spec/model-spec-2024-05-08.html): OpenAI Model Spec defining behavior guidelines for ChatGPT and API models

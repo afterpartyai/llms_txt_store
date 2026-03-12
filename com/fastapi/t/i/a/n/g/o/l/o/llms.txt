@@ -1,0 +1,65 @@
+# FastAPI
+
+> > FastAPI is a modern, high-performance Python web framework for building APIs with automatic validation, serialization, and interactive documentation using type hints and Pydantic models.
+
+FastAPI leverages Python type hints with Starlette for web handling and Pydantic for data validation. It provides comprehensive documentation covering tutorials, security patterns (OAuth2, JWT), deployment strategies, and advanced features like middleware and CORS configuration.
+
+## Key Topics
+
+- FastAPI
+- Pydantic
+- Python type hints
+- Starlette
+- OAuth2 authentication
+- JWT tokens
+- CORS (Cross-Origin Resource Sharing)
+- API path operations
+- Request/Response handling
+- Middleware
+- Form data and file uploads
+- Security and authorization
+- Docker deployment
+- Full-stack templates
+- Automatic API documentation
+
+## Getting Started
+
+- [FastAPI](https://fastapi.tiangolo.com): High-performance Python web framework for building APIs with type hints
+
+## Core Tutorial
+
+- [Body - Multiple Parameters](https://fastapi.tiangolo.com/tutorial/body-multiple-params): Combine multiple body, path, and query parameters with Pydantic models
+- [Header Parameters](https://fastapi.tiangolo.com/tutorial/header-params): Declare and validate HTTP header parameters with automatic conversion
+- [Cookie Parameter Models](https://fastapi.tiangolo.com/tutorial/cookie-param-models): Use Pydantic models for cookie parameter validation and handling
+- [Form Data](https://fastapi.tiangolo.com/tutorial/request-forms): Handle form data with Form parameters and python-multipart
+- [Middleware](https://fastapi.tiangolo.com/tutorial/middleware): Create custom middleware for request/response processing in FastAPI
+- [CORS (Cross-Origin Resource Sharing)](https://fastapi.tiangolo.com/tutorial/cors): Configure CORS middleware for cross-origin requests in FastAPI
+
+## Security and Authentication
+
+- [Simple OAuth2 with Password and Bearer](https://fastapi.tiangolo.com/tutorial/security/simple-oauth2): Implement OAuth2 password flow with bearer tokens for authentication
+- [OAuth2 scopes](https://fastapi.tiangolo.com/advanced/security/oauth2-scopes): Implement OAuth2 scopes for fine-grained authorization and permissions
+
+## Deployment
+
+- [Deployment](https://fastapi.tiangolo.com/deployment): FastAPI deployment strategies and cloud deployment options
+- [Deployments Concepts](https://fastapi.tiangolo.com/deployment/concepts): HTTPS, TLS termination, and server infrastructure deployment concepts
+
+## Advanced Topics
+
+- [Return a Response Directly](https://fastapi.tiangolo.com/advanced/response-directly): Return custom Response objects directly from path operations
+- [Environment Variables](https://fastapi.tiangolo.com/environment-variables): Configure FastAPI applications using environment variables
+
+## Project Templates and Resources
+
+- [Full Stack FastAPI Template](https://fastapi.tiangolo.com/project-generation): Full Stack FastAPI Template with SQLModel, PostgreSQL, and React frontend
+- [External Links](https://fastapi.tiangolo.com/external-links): Community resources, GitHub repositories, and FastAPI ecosystem links
+
+## API Reference
+
+- [Request class](https://fastapi.tiangolo.com/reference/request): Request class API reference from Starlette for raw request access
+
+## Optional
+
+- [Translation banner](https://fastapi.tiangolo.com/translation-banner): AI-powered translation banner for localized FastAPI documentation
+- [LLM test file](https://fastapi.tiangolo.com/_llm-test): LLM translation workflow testing and validation for documentation

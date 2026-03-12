@@ -1,61 +1,64 @@
 # Inventive HQ
 
-> > Inventive HQ provides cybersecurity consulting, compliance services, and cloud architecture solutions for SMBs, specializing in SOC 2, HIPAA, PCI-DSS, and multi-cloud environments.
+> > Inventive HQ provides cybersecurity, managed IT services, and cloud solutions with expertise in AWS, Azure, Google Cloud, API security, and compliance frameworks like HIPAA and FERPA.
 
-Inventive HQ offers security policy development, compliance implementation, and technical guidance across AWS, Azure, Google Cloud, and Cloudflare. Their content covers practical cybersecurity for small-to-medium businesses, developer security practices, and cloud infrastructure optimization.
+Inventive HQ delivers enterprise-grade cybersecurity consulting, cloud infrastructure management, and technical guidance for organizations across education, healthcare, and business sectors. The site features in-depth technical guides on API development, cloud security, disaster recovery, and compliance best practices.
 
 ## Key Topics
 
-- SOC 2 Compliance
-- HIPAA Compliance
-- PCI-DSS
-- AWS Cloud Architecture
-- Security Policy Development
-- Multi-Cloud Strategy
-- Certificate Pinning
-- Service Account Security
-- Security Awareness Training
-- Google Cloud Platform
+- AWS (Amazon Web Services)
 - Azure
-- Cloudflare
-- SMB Cybersecurity
-- Python Development
+- Google Cloud
 - API Security
+- HIPAA Compliance
+- Disaster Recovery
+- Cloud Security
+- Web Security
+- API Development
+- DevOps
+- Ransomware Protection
+- AWS S3
+- Cross-Region Replication
+- Data Protection
+- Cybersecurity for CEOs
 
-## Core Services & Solutions
+## Core Services
 
-- [Security Policy Development Services | Audit-Ready Policies for SOC 2, ISO 27001, HIPAA | Inventive HQ](https://inventivehq.com/services/security-policies): Audit-ready security policies for SOC 2, ISO 27001, HIPAA, PCI-DSS compliance
-- [Cybersecurity Learning Resources | Inventive HQ](https://inventivehq.com/learn/cybersecurity): Comprehensive cybersecurity guides: threat detection, incident response, pentesting
-- [Retail & eCommerce Cybersecurity | Inventive HQ](https://inventivehq.com/industries/retail-ecommerce): Retail/eCommerce cybersecurity: PCI-DSS compliance and payment security
+- [Contact Us | Inventive HQ](https://inventivehq.com/contact): Contact Inventive HQ for cybersecurity and managed IT services consultation
+- [Cloud Solutions - Migration, Optimization & Cost Management | Inventive HQ](https://inventivehq.com/services/cloud-solutions): AWS, Azure, Google Cloud migration, optimization, and cost management services
+- [Education Cybersecurity | Inventive HQ](https://inventivehq.com/industries/education): K-12 and university cybersecurity services with FERPA/COPPA compliance
 
-## Compliance & Regulatory Guidance
+## Cloud Security & Infrastructure
 
-- [SMB Compliance Challenges | Cybersecurity](https://inventivehq.com/blog/compliance-solutions-for-smbs-practical-approaches-to-cybersecurity-regulations): SMB compliance guide for HIPAA, PCI-DSS, and SOC 2 implementation
-- [Security Awareness Training: Build a Human Firewall](https://inventivehq.com/blog/security-awareness): Security awareness training programs for phishing prevention from $499/mo
-- [Why Cybersecurity Metrics Matter](https://inventivehq.com/blog/why-cybersecurity-metrics-matter): Cybersecurity metrics for measuring security ROI and risk reduction
-
-## Cloud Architecture & Infrastructure
-
-- [Multi-Cloud, Vendor Lock-in, and Exit Strategies: Cloudflare, AWS, Azure, and Google Cloud](https://inventivehq.com/blog/multi-cloud-strategy-vendor-lock-in-cloudflare-aws-azure-gcp): Multi-cloud strategy analysis: vendor lock-in across Cloudflare, AWS, Azure, GCP
-- [Google Cloud Containers | Find Your Perfect Fit](https://inventivehq.com/blog/find-your-perfect-container-fit-on-google-cloud): Compare GKE, Cloud Run, and App Engine for containerization on GCP
-- [Service Account Security: Managing Non-Human Identities in Cloud Environments](https://inventivehq.com/blog/service-account-security): Non-human identity security guide for AWS, Azure, and GCP service accounts
-- [How to Autoscale Your WordPress Site on AWS](https://inventivehq.com/blog/how-to-autoscale-your-wordpress-site-on-aws): WordPress autoscaling tutorial using AWS EC2, RDS, and CloudFront
+- [Web Security Compared: Cloudflare vs AWS Shield/WAF vs Azure DDoS/WAF vs Google Cloud Armor](https://inventivehq.com/blog/cloudflare-vs-aws-shield-vs-azure-ddos-vs-google-cloud-armor-web-security-comparison): Cloud security platform comparison: Cloudflare, AWS, Azure, Google DDoS/WAF
+- [AWS S3 Versioning and Cross-Region Replication: Disaster Recovery Guide](https://inventivehq.com/blog/aws-s3-versioning-replication-guide): AWS S3 disaster recovery guide covering versioning and cross-region replication
+- [AWS Bedrock: Getting Started with Generative AI on AWS](https://inventivehq.com/blog/aws-bedrock-generative-ai-getting-started): AWS Bedrock getting started guide for foundation models and generative AI
 - [Benefits of Using Virtualization for Disaster Recovery](https://inventivehq.com/blog/benefits-of-using-virtualization-for-disaster-recovery): Virtualization benefits for disaster recovery and business continuity
-- [What is Subnetting and Why Is It Used in Networking?](https://inventivehq.com/blog/what-is-subnetting-and-why-use-it): Subnetting fundamentals for network organization and security
 
-## Application Security & Development
+## API Security & Development
 
-- [Certificate Pinning: Implementation Guide for Mobile and Web Apps](https://inventivehq.com/blog/certificate-pinning-implementation-guide): Certificate pinning guide for iOS/Android to prevent MITM attacks
-- [How should APIs use status codes for RESTful responses?](https://inventivehq.com/blog/api-restful-status-codes): RESTful API best practices for HTTP status codes and responses
-- [Python Virtual Environments: venv, virtualenv, conda, and pyenv Compared](https://inventivehq.com/blog/python-virtual-environments-guide): Python virtual environments compared: venv, virtualenv, conda, and pyenv
-- [Python Collections Guide | Master Lists, Tuples, Dicts & Sets](https://inventivehq.com/blog/working-with-python-collections): Python data structures guide: lists, tuples, dictionaries, and sets
-- [Git LFS: Managing Large Files in Git Repositories](https://inventivehq.com/blog/git-lfs-large-files-guide): Git LFS guide for managing large binary files in repositories
+- [API Input Validation: Schema Validation, Sanitization, and Injection Prevention](https://inventivehq.com/blog/api-input-validation-guide): API security guide: JSON Schema validation and injection attack prevention
+- [How should APIs use status codes for RESTful responses?](https://inventivehq.com/blog/api-restful-status-codes): RESTful API best practices for HTTP status codes and semantic responses
+- [Building a Webhook Provider: Design, Delivery, Documentation & SDK Guide](https://inventivehq.com/blog/building-webhook-provider-guide): Production-grade webhook provider implementation with delivery and security
+- [CORS Security Guide: Preventing Cross-Origin Attacks and](https://inventivehq.com/blog/cors-security-guide-preventing-cross-origin-attacks): CORS security implementation guide preventing cross-origin attacks
 
-## AI & Emerging Technologies
+## Compliance & Risk Management
 
-- [Context Windows Explained: Why Size Matters for AI Coding](https://inventivehq.com/blog/context-windows-explained-ai-coding): AI coding context windows explained: Claude, Gemini, and token limits
+- [HIPAA Security Assessment & Gap Analysis Workflow](https://inventivehq.com/blog/hipaa-security-assessment-workflow): HIPAA Security Rule assessment workflow and OCR audit preparation guide
+- [Cybersecurity for CEOs | Protect Your Business Now](https://inventivehq.com/blog/cybersecurity-for-ceos): Book announcement: Sean P. Conroy's executive cybersecurity guide for CEOs
+- [What to Do If You Find an Unauthorized Certificate: A Complete Response Guide](https://inventivehq.com/blog/what-to-do-if-you-find-unauthorized-certificate): Incident response guide for unauthorized SSL/TLS certificates and CAA records
 
-## Optional Resources
+## Web Security Best Practices
 
-- [What is a TLD Enumerator and Why Would I Use It?](https://inventivehq.com/blog/what-is-tld-enumerator): TLD enumeration for brand protection and cybersquatting prevention
-- [URL Defanging Styles: CyberChef vs Bracket vs Aggressive - Which to Use?](https://inventivehq.com/blog/url-defanging-styles-explained): URL defanging styles comparison: CyberChef, Bracket, Aggressive for IOCs
+- [X-Frame-Options vs CSP frame-ancestors: Which Should You Use?](https://inventivehq.com/blog/x-frame-options-vs-csp-frame-ancestors): Clickjacking protection comparison: X-Frame-Options vs CSP frame-ancestors
+- [HashiCorp Vault: Reading and Writing Secrets with CLI and API](https://inventivehq.com/blog/hashicorp-vault-reading-and-writing-secrets): HashiCorp Vault secrets management guide using CLI and CURL API
+
+## Developer Tools & Resources
+
+- [Python Package Documentation: Sphinx, MkDocs, and Read the Docs Guide](https://inventivehq.com/blog/python-package-documentation-guide): Python documentation guide using Sphinx, MkDocs, and Read the Docs hosting
+- [CSV to JSON Converter - Free Online Tool](https://inventivehq.com/blog/csv-to-json-converter): Free browser-based CSV to JSON converter with auto header detection
+
+## Optional
+
+- [2038 Problem Explained: Unix Timestamp Overflow Bug](https://inventivehq.com/blog/year-2038-problem-explained): Year 2038 Unix timestamp overflow bug: causes and mitigation strategies
+- [Is USOClient.exe Safe? Windows Update Process Explained](https://inventivehq.com/blog/is-usoclient-exe-safe-windows-update-process-explained): USOClient.exe safety verification and Windows Update process explanation

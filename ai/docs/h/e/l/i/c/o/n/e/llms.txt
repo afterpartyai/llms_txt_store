@@ -1,0 +1,55 @@
+# Helicone Documentation
+
+> > Open-source LLM observability platform for monitoring, optimizing, and debugging AI applications across OpenAI, Anthropic, AWS Bedrock, Nvidia NIM, and other providers.
+
+Helicone provides comprehensive observability tools for LLM applications including request logging, cost tracking, prompt management, caching, and performance analytics. The platform supports both proxy-based and async integration methods with Apache 2.0 open-source licensing.
+
+## Key Topics
+
+- LLM Observability
+- AI Gateway
+- OpenAI SDK Integration
+- Cost Tracking
+- Prompt Caching
+- Custom Properties
+- Async Logging
+- REST API
+- Anthropic
+- AWS Bedrock
+- Nvidia NIM
+- Request Analytics
+- Dataset Management
+- Webhook Integration
+- Open Source (Apache 2.0)
+
+## Integration Methods & Core Concepts
+
+- [Proxy vs Async Integration](https://docs.helicone.ai/references/proxy-vs-async): Compare Helicone Proxy and Async integration methods for LLM apps
+- [Open Source](https://docs.helicone.ai/references/open-source): Helicone's Apache 2.0 license, GitHub repos, and contribution guidelines
+- [Prompt Caching](https://docs.helicone.ai/gateway/concepts/prompt-caching): Cache frequent context across LLM providers for cost reduction and speed
+- [Custom Properties](https://docs.helicone.ai/features/advanced-usage/custom-properties): Add custom metadata to LLM requests for filtering and cost tracking
+
+## Features & Tools
+
+- [Reports](https://docs.helicone.ai/features/reports): Automated weekly LLM usage, cost, and performance summaries via email/Slack
+- [Datasets](https://docs.helicone.ai/features/datasets): Curate and export LLM request/response data for fine-tuning and analysis
+- [Prompt Engineering Overview](https://docs.helicone.ai/guides/prompt-engineering/overview): Strategic prompt crafting techniques for LLM optimization and accuracy
+- [Helicone Evals with Ragas](https://docs.helicone.ai/guides/cookbooks/helicone-evals-with-ragas): Evaluate LLM applications using Ragas integration with Helicone
+
+## Provider Integrations
+
+- [AWS Bedrock JavaScript SDK](https://docs.helicone.ai/integrations/bedrock/javascript): Integrate AWS Bedrock with Helicone using JavaScript SDK
+- [Nvidia NIM JavaScript SDK](https://docs.helicone.ai/integrations/nvidia/javascript): Integrate Nvidia NIM with Helicone using OpenAI JavaScript SDK
+- [Nvidia NIM cURL Integration](https://docs.helicone.ai/integrations/nvidia/curl): Use cURL to log Nvidia NIM LLM usage through Helicone AI Gateway
+- [Llama Python SDK](https://docs.helicone.ai/integrations/llama/python): Log Llama usage via Helicone using OpenAI Python SDK integration
+- [Anyscale Integration](https://docs.helicone.ai/getting-started/integration-method/anyscale): Connect Anyscale-deployed LLMs (Llama, Mistral, GPT) with Helicone
+- [Dify](https://docs.helicone.ai/other-integrations/dify): Add observability to Dify open-source LLM app platform via Helicone
+
+## REST API Reference
+
+- [Get Requests](https://docs.helicone.ai/rest/request/post-v1requestquery-clickhouse): ClickHouse endpoint to query all requests in Helicone request table
+- [Get Prompt Versions](https://docs.helicone.ai/rest/prompts/post-v1prompt-2025-query-versions): REST API endpoint to retrieve all versions of a specific prompt
+- [Get Models](https://docs.helicone.ai/rest/ai-gateway/get-v1models): OpenAI-compatible endpoint returning all Helicone AI Gateway models
+- [Get Multimodal Models](https://docs.helicone.ai/rest/ai-gateway/get-v1models-multimodal): API endpoint returning all multimodal models in Helicone AI Gateway
+- [Get User Data](https://docs.helicone.ai/rest/user/post-v1userquery): REST API to retrieve user data by ID and time filters
+- [Get Webhooks](https://docs.helicone.ai/rest/webhooks/get-v1webhooks): REST API endpoint to retrieve all configured webhooks

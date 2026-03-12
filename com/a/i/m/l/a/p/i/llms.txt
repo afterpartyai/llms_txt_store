@@ -1,0 +1,34 @@
+# AI/ML API
+
+> > Unified API platform providing access to leading AI models including OpenAI GPT-4o, Claude 3.5 Sonnet, Google Gemma, DeepSeek R1, and Runway for multimodal applications.
+
+AI/ML API offers developers a single integration point to access state-of-the-art language models, vision APIs, speech recognition, and video generation capabilities from providers like OpenAI, Anthropic, Google, and Meta. The platform simplifies API key management and provides consistent interfaces across multiple AI services.
+
+## Key Topics
+
+- GPT-4o API
+- Claude 3.5 Sonnet
+- Multimodal AI
+- Vision Understanding
+- Speech Recognition
+- API Integration
+- DeepSeek R1
+- Gemma 3n
+- On-Device AI
+- Whisper-v3
+- Model Benchmarks (MMLU, MMMU, MathVista)
+- Audio Translation
+- Edge Deployment
+- Runway Gen-3
+- Text-to-Video Generation
+
+## Language Model APIs
+
+- [OpenAI GPT-4o API](https://aimlapi.com/openai-gpt-4o-api): OpenAI GPT-4o multimodal API with vision, speech & audio capabilities
+- [Build with Claude 3 Opus API](https://aimlapi.com/build-with-claude-3-opus-api): Claude 3 Opus API access with vision & NLP capabilities
+- [Build with DeepSeek R1 API](https://aimlapi.com/build-with-deepseek-r1-api): DeepSeek R1 API with RL reasoning comparable to OpenAI o1 performance
+
+## Specialized AI Model APIs
+
+- [Gemma 3n API - Multimodal AI Model for On-Device Apps](https://aimlapi.com/build-with-gemma-3n): Google Gemma 3n API for on-device AI with offline support & 140+ languages
+- [Runway API: Runway Developer](https://aimlapi.com/runway-ai-api): Runway Gen-3 AI API for text-to-video & image-to-video generation
