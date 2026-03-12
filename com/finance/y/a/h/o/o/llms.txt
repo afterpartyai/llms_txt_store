@@ -1,24 +1,36 @@
 # Yahoo Finance
 
-> > Comprehensive financial data platform providing real-time stock quotes, market analysis, and investment research tools.
+> > Yahoo Finance provides real-time stock quotes, financial news, market data, and investment analysis for Wall Street and global financial markets.
 
-Yahoo Finance serves as a leading destination for investors and traders seeking market data, company information, and financial news. The platform offers symbol lookup capabilities, trending ticker information, and detailed market analytics across stocks, ETFs, indices, and futures.
+Yahoo Finance is a leading financial media platform offering comprehensive coverage of stocks, commodities, indices, and market trends. The site features real-time quotes for companies like NVIDIA, Nokia, Nu Holdings, and Intel, along with market screeners, trading volume data, and breaking financial news from Wall Street and global exchanges including Nasdaq and NYSE.
 
 ## Key Topics
 
-- Stock quotes and market data
-- Ticker symbol search
-- Bitcoin and cryptocurrency tracking
-- Trending tickers
-- Company profiles (Firefly Aerospace, Bumble, MercadoLibre, UiPath, Himax Technologies, Dollar General, GE Aerospace)
-- Investment research
-- Morgan Stanley analysis
-- Technology sector (Taiwan Semiconductor, Netskope, Lightwave Logic)
-- Energy and industrial sectors (SLB, Dow Inc.)
-- ETFs and indices
-- Futures markets
-- Real-time market updates
+- Stock quotes and real-time market data
+- Trading volume and most active stocks
+- Trending stocks by market interest
+- Wall Street and financial market news
+- Stock screeners and market analysis
+- Nasdaq and NYSE listings
+- Commodities and futures (Gold, etc.)
+- Investment news and financial headlines
+- Tech stocks (NVIDIA, Intel, UiPath)
+- Fintech companies (Nu Holdings, SoFi)
+- Electric vehicles and emerging markets (NIO)
+- Market rankings and stock performance
+- Financial securities and derivatives
+- Healthcare and biotech stocks (Hims & Hers, Plug Power)
 
-## Market Data & Symbol Lookup
+## Market Data & Stock Screeners
 
-- [Symbol Lookup from Yahoo Finance](https://finance.yahoo.com/lookup?s=ERI): Search tool for ticker symbols across stocks, ETFs, indices, and futures
+- [Most Active Stocks](https://finance.yahoo.com/markets/stocks/most-active/): US stocks with highest trading volume featuring NVIDIA, Nokia, and others
+- [Top Trending Stocks](https://finance.yahoo.com/markets/stocks/trending/): Trending US stocks by interest including Airbnb, MercadoLibre, Bumble
+
+## Stock Quotes & Company Data
+
+- [Nu Holdings Ltd. (NU) Stock Quote](https://finance.yahoo.com/quote/NU/): Nu Holdings stock quote with price, history, and fintech news (NYSE)
+- [Gold Futures (GC=F) Quote](https://finance.yahoo.com/quote/GC=F/): Gold futures (COMEX) quote with real-time prices and commodity data
+
+## Financial News & Analysis
+
+- [Finance News](https://finance.yahoo.com/news/): Financial news covering Wall Street, markets, stocks, and securities

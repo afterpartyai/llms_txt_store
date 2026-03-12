@@ -1,30 +1,26 @@
-# GanttPRO Developer Portal
+# GanttPRO
 
-> > GanttPRO Developer Portal provides comprehensive REST API documentation and integration resources for building custom project management integrations.
+> > GanttPRO is a project management platform offering REST API documentation and developer tools for building custom integrations with their Gantt chart and project planning software.
 
-The GanttPRO Developer Portal offers technical documentation for developers looking to integrate with GanttPRO's project management platform. It includes REST API references, authentication guides, webhook documentation, and code examples in multiple programming languages including JavaScript, Python, and Ruby.
+GanttPRO provides comprehensive API documentation for developers looking to integrate project management capabilities into their applications. The platform supports multiple programming languages including JavaScript, Python, and Ruby, with JSON-based REST API endpoints for authentication and project management operations.
 
 ## Key Topics
 
+- GanttPRO API
 - REST API
-- GanttPRO
-- API Authentication
 - Project Management Integration
-- Webhooks
-- HTTP Methods (GET, POST, PUT, DELETE)
-- API Requests and Responses
+- API Authentication
+- JSON
+- HTTP Methods
 - JavaScript SDK
 - Python SDK
 - Ruby SDK
+- Developer Portal
+- API Reference
+- Custom Integrations
+- Gantt Charts
 - API Documentation
-- Developer Integration
-- API Changelog
-- Release Notes
 
-## API Reference & Documentation
+## API Reference
 
-- [GanttPRO Developer API Documentation Portal](https://developer.ganttpro.com/): Main API documentation portal for GanttPRO REST API integration, authentication, endpoints, and development resources
-
-## Optional
-
-- [API Releases & Changelog](https://developer.ganttpro.com/releases.html): API release notes and changelog for GanttPRO webhooks and requests
+- [GanttPRO Developer API Documentation Portal](https://developer.ganttpro.com/): Complete REST API documentation portal for building custom integrations with GanttPRO, including authentication, endpoints, and code examples in JavaScript, Python, and Ruby

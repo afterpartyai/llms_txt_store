@@ -1,0 +1,58 @@
+# Discourse
+
+> > Discourse is an open-source community platform and discussion forum software built with Ruby on Rails and Ember.js, offering enterprise plugins, chat features, and extensive integrations.
+
+Discourse provides both self-hosted and managed hosting solutions for online communities, with a focus on civilized discussion and modern forum capabilities. The platform offers extensive plugin architecture for integrations with tools like Jira, Zendesk, Slack, and authentication systems including SAML, OAuth 2.0, and OpenID Connect.
+
+## Key Topics
+
+- Discourse platform
+- Open source forum software
+- Community platform
+- Enterprise plugins
+- Authentication (SAML, OAuth 2.0, OpenID Connect)
+- Chat integration
+- ActivityPub federation
+- Plugin architecture
+- Workflow automation
+- LMS integration
+- Jira and Zendesk integration
+- Self-hosted and managed hosting
+- Forum moderation
+- Community engagement
+- Platform comparisons
+
+## Platform Overview
+
+- [Plugin Directory](https://www.discourse.org/plugins): Official plugin directory for extending Discourse functionality
+- [Open Source](https://www.discourse.org/open-source): Open source philosophy and GitHub community software information
+- [Discourse Chat Features](https://www.discourse.org/chat): Community chat solution with privacy controls and forum integration
+- [Resource Center](https://www.discourse.org/resource-center): Community guides, case studies, and platform comparison resources
+- [Team](https://www.discourse.org/team): Team page for Civilized Discourse Construction Kit, Inc.
+- [Discourse Support](https://www.discourse.org/customers/support): Customer support page for Discourse hosted communities
+
+## Enterprise & Business Plugins
+
+- [Automation](https://www.discourse.org/plugins/automation): Business tier plugin for workflow automation with scripts and triggers
+- [Saved Search](https://www.discourse.org/plugins/saved-search): Enterprise plugin for saving searches and getting notifications on new matches
+- [Jira Integration](https://www.discourse.org/plugins/jira): Enterprise plugin for Jira issue tracking integration
+- [Zendesk Integration](https://www.discourse.org/plugins/zendesk): Business plugin for Zendesk ticket management integration
+- [Newsletter Integration](https://www.discourse.org/plugins/newsletter-integration): Enterprise plugin for Mailchimp and newsletter subscription services
+- [Topic Voting](https://www.discourse.org/plugins/topic-voting): Business plugin for community voting on topics
+
+## Integration Plugins
+
+- [Chat Integration](https://www.discourse.org/plugins/chat-integration): Plugin for Slack, Telegram, and Discord notification integration
+- [ActivityPub](https://www.discourse.org/plugins/activitypub): ActivityPub plugin for publishing posts to Mastodon and federated networks
+- [Patreon](https://www.discourse.org/plugins/patreon): Patreon plugin for group sync and social login integration
+- [LMS Integration](https://www.discourse.org/plugins/lti): LTI 1.3 plugin for learning management system integration
+- [Topic Tooltips](https://www.discourse.org/plugins/tooltips): Enterprise plugin for hoverable topic preview tooltips
+
+## Platform Comparisons
+
+- [Khoros vs Discourse](https://www.discourse.org/compare/khoros): Comparison of Discourse vs Khoros community platforms
+
+## Optional
+
+- [Self-Serve Hosting Terms](https://www.discourse.org/self-serve-terms): Terms of service for CDCK self-serve hosting plans
+- [Accessibility Statement](https://www.discourse.org/accessibility): WCAG compliance and accessibility statement for Discourse
