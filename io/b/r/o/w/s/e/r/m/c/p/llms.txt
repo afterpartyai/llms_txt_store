@@ -1,0 +1,38 @@
+# Browser MCP
+
+> > Browser MCP enables AI-powered browser automation through the Model Context Protocol, integrating with Claude, Cursor, VS Code, and Windsurf.
+
+Browser MCP provides an MCP server (@browsermcp/mcp) and Chrome extension that allows AI assistants to control and automate browser interactions. Built by Road to Ramen LLC, it leverages the Model Context Protocol to connect AI coding assistants with web automation capabilities.
+
+## Key Topics
+
+- Model Context Protocol (MCP)
+- Browser automation
+- Claude Desktop integration
+- Cursor and VS Code support
+- Chrome extension
+- @browsermcp/mcp server
+- Node.js runtime
+- AI-assisted workflows
+- Web automation testing
+- MCP server configuration
+- npx installation
+- Windsurf integration
+- AI coding assistants
+
+## Getting Started
+
+- [Welcome - Browser MCP](https://docs.browsermcp.io/): Getting started guide for Browser MCP and Model Context Protocol
+- [Browser MCP - Automate your browser using VS Code, Cursor, Claude, and more](https://browsermcp.io/): Homepage: AI-powered browser automation for Claude, Cursor, VS Code
+
+## Installation & Configuration
+
+- [Set up MCP server - Browser MCP](https://docs.browsermcp.io/setup-server): MCP server installation and configuration guide for Node.js
+
+## Support & Troubleshooting
+
+- [Troubleshooting - Browser MCP](https://docs.browsermcp.io/troubleshooting): Troubleshooting guide for MCP server and extension connection issues
+
+## Optional
+
+- [Privacy Policy - Browser MCP](https://browsermcp.io/privacy): Privacy policy and GDPR compliance by Road to Ramen LLC

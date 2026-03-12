@@ -1,0 +1,59 @@
+# infoBAG
+
+> > Technical knowledge base covering embedded systems (RK3588, RockChip), API development (Fusio), command-line tools (feed2exec, restic), and software engineering practices.
+
+infoBAG is a personal technical documentation site maintained as a knowledge repository. It focuses on practical guides for embedded Linux systems, automation tools, API integration, and software development workflows, with particular emphasis on RK3588/RockChip hardware customization and Python-based utilities.
+
+## Key Topics
+
+- RK3588 embedded systems
+- RockChip hardware customization
+- feed2exec RSS processing
+- Fusio API framework
+- Python automation tools
+- NPU driver configuration
+- maildir and email tools (Offlineimap, Dovecot)
+- AoT prompt engineering
+- Flask deployment
+- Backup strategies (restic, tar, zstd)
+- X Window System configuration
+- GitHub repositories
+- Command-line utilities
+- Android device rooting
+- Software architecture patterns
+
+## Embedded Systems & Hardware
+
+- [RK3588 Customization](https://ib.bsb.br/rk3588-customization): RK3588 VPC-3588 embedded system customization and U-Boot management guide
+- [rk3588 npu](https://ib.bsb.br/rk3588-npu): RK3588 NPU driver management and hardware acceleration configuration guide
+- [RockChip devices](https://ib.bsb.br/rockchip-devices): RockChip rk3066 Android device rooting and firmware customization guide
+
+## API Development & Integration
+
+- [Creating APIs to Integrate tools and workflows using Fusio](https://ib.bsb.br/creating-apis-to-integrate-tools-and-workflows-using-fusio): Fusio API creation tutorial for workflow automation and service integration
+- [deploying Flask applications on DirectAdmin](https://ib.bsb.br/deploying-flask-applications-on-directadmin): Flask deployment guide using Nginx Unit on DirectAdmin hosting
+
+## Command-Line Tools & Automation
+
+- [feed2exec](https://ib.bsb.br/feed2exec): RSS feed processing tool with maildir storage and filtering examples
+- [backup bash script](https://ib.bsb.br/backup-bash-script): Bash backup script using tar, zstd compression, and USB storage utilities
+- [Copy Spotter and Duplicate-File-Remover](https://ib.bsb.br/dup-spotter): Duplicate file detection tools with content hashing and similarity scoring
+
+## AI & Prompt Engineering
+
+- [AoT prompt enhancer](https://ib.bsb.br/aot): AoT framework for LLM prompt engineering and optimization with SMART criteria
+- [AGENTS.md](https://ib.bsb.br/agentsmd): Documentation template and agent instructions for content generation
+
+## Software Engineering & Architecture
+
+- [How to write complex software](https://ib.bsb.br/how-to-write-complex-software): Software architecture methodology using layered design and abstraction
+
+## System Configuration
+
+- [X](https://ib.bsb.br/x): X Window System xorg configuration with ratpoison and key bindings setup
+- [Helium Browser](https://ib.bsb.br/helium): Helium Browser installation script for Debian 11 ARM64 with GPU config
+
+## Optional
+
+- [Pragmatic Guide to Parenting](https://ib.bsb.br/pragmatic-parenting): Self-directed education and alternative parenting guide by John Taylor Gatto
+- [Abril 2021](https://ib.bsb.br/abril-21): April 2021 Brazilian stock portfolio performance and investment tracking

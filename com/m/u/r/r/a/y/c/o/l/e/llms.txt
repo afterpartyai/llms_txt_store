@@ -1,0 +1,58 @@
+# Murray Cole
+
+> > Technical blog and project portfolio covering LLM system design, AI agents, machine learning, data engineering, and cloud infrastructure.
+
+Murray Cole shares practical guides and deep dives into building production AI systems, from LLM-powered applications to computer vision pipelines. The site features hands-on tutorials using technologies like Python, OpenAI APIs, TensorFlow, AWS, BigQuery, and Apache Spark, alongside security research and real-world project case studies.
+
+## Key Topics
+
+- Large Language Models (LLMs)
+- GPT-3, GPT-4, Claude
+- BERT and T5
+- Python
+- OpenAI API
+- BigQuery
+- AWS S3 Vectors
+- Convolutional Neural Networks (CNN)
+- Computer Vision
+- LLM System Design
+- Vector Databases
+- Data Pipelines
+- Model Training & Serving
+- SQL & Data Quality
+- Docker & Cloud Infrastructure
+
+## Featured Projects
+
+- [reelclips.tv](https://murraycole.com/projects/reelclips-tv): AI-powered Twitch/YouTube stream highlight generator using CNN
+- [platen.ai - An AI writer that rivals or surpasses human capabilities](https://murraycole.com/projects/platen-ai): GPT-4 powered AI content writer with Next.js and AWS Batch
+
+## LLM & AI Agent Development
+
+- [LLM System Design: A Practical Guide](https://murraycole.com/posts/llm-system-design): Practical guide to building LLM systems with GPT-3, BERT, and T5
+- [Build a Fast LLM Text-to-SQL Engine Without Frameworks](https://murraycole.com/posts/text-to-sql-engine): Build lightweight text-to-SQL engine with Claude/GPT-4o and SQLite
+- [Claude 4 Opus Guide: Advanced AI Coding and Long-Running Tool Use](https://murraycole.com/posts/understanding-claude-4-opus): Anthropic's Claude 4 Opus for advanced coding and extended reasoning
+- [Building an AI Agent's Code Execution Environment](https://murraycole.com/posts/ai-code-execution-environment): Sandboxed Python execution for AI agents with Jupyter Kernel Gateway
+- [Building an LLM Evaluation Tool with Synthetic Data Generation in 20 mins](https://murraycole.com/posts/llm-evaluation-tool): Build LLM evaluation tool with Pydantic and synthetic data generation
+- [How I Used an AI Agent's Memory to Achieve Remote Code Execution](https://murraycole.com/posts/how-i-used-an-ai-agents-memory-to-achieve-remote-code-execution): Exploiting eval() in Waclaude AI agent for RCE vulnerability
+
+## Machine Learning & Computer Vision
+
+- [Building Facial Recognition in Tensorflow](https://murraycole.com/posts/building-facial-recognition-in-tensorflow): Build facial recognition pipeline with TensorFlow, Dlib, and SVM
+- [How to build an age and gender multi-task predictor with deep learning in TensorFlow](https://murraycole.com/posts/age-and-gender-predictor): Multi-task CNN for age and gender prediction using TensorFlow
+- [Whisper Audio to Text: Transcribing Long Audio Files with Python](https://murraycole.com/posts/whisper-audio-to-text): Transcribe long audio with OpenAI Whisper using pydub chunking
+- [AI Energy Consumption](https://murraycole.com/posts/ai-energy-consumption): Research on AI datacenter energy usage and global power demand
+
+## Data Engineering & Cloud Infrastructure
+
+- [AWS S3 Vectors Latency Analysis: Performance Benchmarks from 100 to 1M Vectors](https://murraycole.com/posts/aws-s3-vectors-latency-analysis): Benchmarking AWS S3 Vectors latency vs traditional vector databases
+- [Spark Small Files Problem: Optimizing Data Processing](https://murraycole.com/posts/spark-small-files-problem): Solving Apache Spark small files problem in web crawling workflows
+- [Building a CI/CD Pipeline for a Serverless Express Application with AWS CDK](https://murraycole.com/posts/building-ci-cd-pipeline-aws-cdk): Deploy serverless Express.js on AWS Lambda with CDK CI/CD pipeline
+
+## SQL & Data Analysis
+
+- [Exploring BigQuery Cohort Analysis](https://murraycole.com/posts/bigquery-content-analysis): User cohort analysis in BigQuery for retention and behavior analytics
+- [SQL for Address Standardization: An Engineer's Approach](https://murraycole.com/posts/use-sql-for-address-standardization): SQL macros and REGEXP_REPLACE for cleaning messy addresses
+- [Data Joins Explained: How to Merge Multiple Datasets Into One](https://murraycole.com/posts/joining-multiple-datasets): Master SQL and Python data join techniques for merging datasets
+- [Understanding and Implementing Levenshtein Distance in BigQuery](https://murraycole.com/posts/levenshtein-distance-bigquery): Fuzzy string matching in BigQuery using EDIT_DISTANCE function
+- [Mean Reciprocal Rank (MRR): Definition, Calculation, and Applications](https://murraycole.com/posts/mean-reciprocal-rank): MRR metric for evaluating search engines and QA systems

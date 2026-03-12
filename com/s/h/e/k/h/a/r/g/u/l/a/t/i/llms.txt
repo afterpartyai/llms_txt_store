@@ -1,0 +1,60 @@
+# Shekhar Gulati
+
+> > Software engineering blog covering Java, Scala, Python, microservices, cloud platforms (OpenShift), and modern development practices.
+
+Shekhar Gulati shares technical tutorials, productivity insights, and curated content for software developers. The site features hands-on guides for technologies like Java 8, MongoDB, PostgreSQL, REST APIs, and cloud deployment, alongside reflections on engineering culture and best practices.
+
+## Key Topics
+
+- Java and Java 8
+- Scala
+- Python
+- OpenShift
+- Microservices architecture
+- REST API design
+- PostgreSQL and MongoDB
+- Docker and containers
+- Chaos engineering
+- Productivity and mental models
+- Web development
+- Cloud platforms
+- Open source
+- LLM and AI applications
+
+## Microservices & Cloud Architecture
+
+- [Introducing Chaos Engineering to an Organization](https://shekhargulati.com/2019/04/14/introducing-chaos-engineering-to-an-organization): Guide to adopting chaos engineering in microservices architecture
+- [How does FerretDB work?](https://shekhargulati.com/2022/08/03/how-does-ferretdb-work): Technical deep-dive into FerretDB MongoDB proxy over PostgreSQL
+- [Talk: Container Performance Analysis](https://shekhargulati.com/2017/05/31/talk-container-performance-analysis): DockerCon 2017 talk summary by Brendan Gregg on container performance
+- [Reducing size of Docling Pytorch Docker image](https://shekhargulati.com/2025/02/05/reducing-size-of-docling-pytorch-docker-image): Docker optimization for Docling PyTorch PDF processing microservice
+
+## Java & Scala Development
+
+- [Day 4 — Let's write Null free Java code](https://shekhargulati.com/2015/07/28/day-4-lets-write-null-free-java-code): Java 8 guide to avoiding NullPointerException and null-safe coding
+- [Finatra Tutorial — Build Beautiful REST API The Twitter Way](https://shekhargulati.com/2016/01/03/finatra-tutorial-build-beautiful-rest-api-the-twitter-way): Complete Finatra REST API tutorial using Scala and Twitter's stack
+- [TIL #7: Java Lambda Puzzler](https://shekhargulati.com/2018/05/23/til-7-java-lambda-puzzler): Java 8 lambda puzzler: converting Stream to Iterable with method refs
+- [Quick Tip on Mockito — Mocking Iterator](https://shekhargulati.com/2012/03/11/quick-tip-on-mockito-mocking-iterator): Mockito unit testing tip for mocking Java Iterator behavior
+
+## AI & LLM Applications
+
+- [Adding Web Search to a LLM Chat Application](https://shekhargulati.com/2024/11/05/adding-web-search-to-a-llm-chat-application): Gradio tutorial integrating web search into OpenAI ChatGPT applications
+
+## Productivity & Engineering Culture
+
+- [Mental Models for Software Engineers: Improve Your Productivity by Using the Eisenhower matrix](https://shekhargulati.com/2019/09/01/mental-models-for-software-engineers-improve-your-productivity-by-using-the-eisenhower-matrix): Productivity guide using Eisenhower matrix for task prioritization
+- [What Motivates After You Have Met the Baseline?](https://shekhargulati.com/2018/12/08/what-motivates-after-you-have-met-the-baseline): Reflection on intrinsic motivation behind 52-technologies-in-2016 series
+- [Issue #25: 10 Reads, A Handcrafted Weekly Newsletter For Software Developers](https://shekhargulati.com/2019/02/21/issue-25-10-reads-a-handcrafted-weekly-newsletter-for-software-developers): Weekly curated newsletter featuring AWS, innovation culture, and dev reads
+
+## Web Development & Tooling
+
+- [Hugo: A Modern WebSite Engine That Just Works](https://shekhargulati.com/2016/02/14/hugo-a-modern-website-engine-that-just-works): Hugo static site generator tutorial using Go and Markdown
+- [Day 7 : GruntJS LiveReload : Take Productivity To Another Level](https://shekhargulati.com/2013/11/04/day-7-gruntjs-livereload-take-productivity-to-another-level): GruntJS automation tutorial with LiveReload for improved productivity
+- [Implementing file save functionality with Angular 4](https://shekhargulati.com/2017/07/16/implementing-file-save-functionality-with-angular-4): Angular 4 file save implementation using FileSaver.js library
+- [Day 23: TimelineJS–Build Beautiful Timelines](https://shekhargulati.com/2013/11/21/day-23-timelinejs-build-beautiful-timelines): TimelineJS tutorial for creating visual timelines on OpenShift
+
+## Optional
+
+- [Run Gradle Builds on OpenShift](https://shekhargulati.com/2013/08/11/run-gradle-builds-on-openshift): Tutorial for configuring Gradle builds on OpenShift Java projects
+- [Blog created in couple of minutes using Spring Roo and Cloud Foundry](https://shekhargulati.com/2011/10/02/blog-created-in-couple-of-minutes-using-spring-roo-and-cloud-foundry): Rapid blog development with Spring Roo and Cloud Foundry PaaS deployment
+- [How to Write Node.js Applications in Python using PythonJS on OpenShift](https://shekhargulati.com/2014/07/03/how-to-write-node-js-applications-in-python-using-pythonjs-on-openshift-2): PythonJS transpiler tutorial for deploying Python to Node.js on OpenShift
+- [Spring Integration RSS Feed Issue](https://shekhargulati.com/2013/03/22/spring-integration-rss-feed-issue): Fix for Spring Integration fetcher.properties classpath error

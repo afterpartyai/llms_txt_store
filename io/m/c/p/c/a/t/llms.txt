@@ -1,0 +1,59 @@
+# MCPcat
+
+> > MCPcat provides observability, testing, and debugging tools for Model Context Protocol (MCP) servers used with Claude Code and AI coding assistants.
+
+MCPcat helps developers monitor, test, and secure MCP servers built with Python, Node.js, and TypeScript. The platform offers SDK integration, distributed tracing with OpenTelemetry, and comprehensive guides for debugging JSON-RPC errors, security testing, and deployment strategies using stdio and StreamableHTTP transports.
+
+## Key Topics
+
+- Model Context Protocol (MCP)
+- Claude Code
+- MCP servers
+- Observability and monitoring
+- JSON-RPC protocol
+- stdio and StreamableHTTP transports
+- Security testing and tool poisoning
+- Unit and integration testing
+- OpenTelemetry tracing
+- Docker deployment
+- pytest and testing frameworks
+- Connection management
+- Error debugging (-32000, -32601)
+- Tool input validation
+- Claude Desktop integration
+
+## Getting Started
+
+- [Quickstart - MCPcat](https://docs.mcpcat.io/quickstart): Install MCPcat SDK in 1 minute for MCP server observability
+- [Claude Code Quickstart Guide - Essential Commands & Features | MCPcat](https://mcpcat.io/guides/quickstart-with-claude-code): Master Claude Code essentials: /init, /terminal-start, /ide commands
+- [Best MCP Servers for Claude Code - Top Tools & Integrations | MCPcat](https://mcpcat.io/guides/best-mcp-servers-for-claude-code): Top MCP servers for Claude Code: filesystem tools to API integrations
+- [Claude Code Pricing Plans - Pro vs Max 5x vs Max 20x Comparison | MCPcat](https://mcpcat.io/guides/which-claude-code-plan-to-choose): Compare Claude Code plans: Pro, Max 5x, Max 20x features and limits
+
+## Testing and Validation
+
+- [Unit Testing MCP Servers - Complete Testing Guide | MCPcat](https://mcpcat.io/guides/writing-unit-tests-mcp-servers): Write unit tests for MCP servers using FastMCP, pytest, and in-memory patterns
+- [MCP Integration Testing - E2E Testing Guide | MCPcat](https://mcpcat.io/guides/integration-tests-mcp-flows): Write E2E integration tests for MCP workflows with Inspector CLI and pytest
+- [MCP Tool Input Validation Testing - Complete Guide | MCPcat](https://mcpcat.io/guides/validation-tests-tool-inputs): Write validation tests for MCP tools using Zod and Pydantic schemas
+- [MCP Server Security Testing - Comprehensive Guide | MCPcat](https://mcpcat.io/guides/security-tests-mcp-server-endpoints): Test MCP server security: authentication, authorization, vulnerability scanning
+
+## Monitoring and Observability
+
+- [Monitor MCP Performance with OpenTelemetry - Distributed Tracing | MCPcat](https://mcpcat.io/guides/monitor-mcp-performance-opentelemetry): Connect MCP servers to OpenTelemetry platforms via OTLP for distributed tracing
+- [Stream MCP Logs to Datadog - Complete Observability Guide | MCPcat](https://mcpcat.io/guides/stream-mcp-logs-to-datadog): Forward MCP logs and metrics to Datadog using MCPcat telemetry integration
+
+## Deployment and Configuration
+
+- [Deployment Options - MCPcat](https://docs.mcpcat.io/deployment): MCPcat deployment options: cloud-hosted, self-hosted, single-tenant models
+- [Configure MCP Transport in Docker - Container Guide | MCPcat](https://mcpcat.io/guides/configuring-mcp-transport-docker): Configure MCP servers in Docker with stdio and streamableHTTP transport
+- [StreamableHTTP for Scalable MCP Deployments - Setup Guide | MCPcat](https://mcpcat.io/guides/setting-up-streamablehttp-scalable-deployments): Deploy scalable MCP servers with StreamableHTTP for horizontal scaling
+
+## Troubleshooting and Debugging
+
+- [Fix MCP Error -32000: Connection Closed - Solutions Guide | MCPcat](https://mcpcat.io/guides/fixing-mcp-error-32000-connection-closed): Resolve MCP error -32000 with platform-specific fixes and debugging steps
+- [Fix MCP Error -32601: Method Not Found - Debugging Guide | MCPcat](https://mcpcat.io/guides/fixing-method-not-found-32601-error): Troubleshoot JSON-RPC method not found errors in MCP servers
+
+## Optional
+
+- [Team Management - MCPcat](https://docs.mcpcat.io/features/team-management): Manage team members and organization access in MCPcat
+- [Privacy & Security - MCPcat](https://docs.mcpcat.io/privacy-security): MCPcat privacy & security: PII detection, client/server-side redaction, SOC 2
+- [Contact Us | MCPcat](https://mcpcat.io/contact-us): Request MCPcat demo or contact support team

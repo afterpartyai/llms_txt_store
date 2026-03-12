@@ -1,38 +1,60 @@
 # Wiktionary
 
-> > A free multilingual dictionary providing comprehensive word definitions, etymologies, pronunciations, and grammatical information across languages including English, Latin, and others.
+> > A free multilingual dictionary covering words, symbols, proper nouns, and linguistic features across hundreds of languages with detailed etymologies, pronunciations, and Unicode references.
 
-Wiktionary is a collaborative dictionary project that documents words, their forms, pronunciations (using the International Phonetic Alphabet), and grammatical variations. It covers multiple languages with detailed linguistic information including declensions, conjugations, and usage notes for both modern and classical languages.
+Wiktionary is a collaborative dictionary project that documents vocabulary from all languages, including special characters, punctuation marks, currency symbols, and geographic names. Each entry provides comprehensive linguistic information including IPA pronunciation, etymology, translations, and character encoding details for Unicode symbols.
 
 ## Key Topics
 
+- Unicode character encoding
 - International Phonetic Alphabet (IPA)
-- Latin grammar and declensions
-- English verb forms and conjugations
-- Classical Latin pronunciation
-- General American English
-- Received Pronunciation
-- Dative and ablative cases
-- Genitive singular forms
-- Past tense and past participles
-- Noun declensions
-- Adjective forms
-- Verb conjugations
 - Etymology and word origins
-- Phonetic transcription
-- Grammatical inflection
+- Typography and punctuation
+- Currency symbols
+- Translingual symbols
+- Latin-1 Supplement
+- Proper nouns and geography
+- Multilingual definitions
+- Character references (HTML/XML)
+- Catalan language
+- Old Norse etymology
+- Quotation marks and guillemets
+- Pronunciation guides
+- Linguistic morphology
 
-## English Word Forms
+## Currency and Mathematical Symbols
 
-- [started](https://en.wiktionary.org/wiki/started): English verb form: past tense/participle with pronunciation variants
-- [street credibility](https://en.wiktionary.org/wiki/street_credibility): English uncountable noun: alternative form dictionary entry
+- [$ - Dollar Sign](https://en.wiktionary.org/wiki/$): Dollar sign currency symbol with Unicode character encoding reference
+- [£ - Pound Sterling](https://en.wiktionary.org/wiki/%C2%A3): Pound sterling currency symbol with Unicode and Latin-1 details
+- [± - Plus-Minus](https://en.wiktionary.org/wiki/%C2%B1): Plus-minus mathematical symbol for margin of error notation
 
-## Latin Grammar and Declensions
+## Typography and Punctuation
 
-- [pluribus](https://en.wiktionary.org/wiki/pluribus): Latin adjective form: dative/ablative plural declension with IPA
-- [cruris](https://en.wiktionary.org/wiki/cruris): Latin noun form: genitive singular declension entry
-- [debere](https://en.wiktionary.org/wiki/debere): Latin verb forms: infinitive and imperative conjugations
+- [« - Left Guillemet](https://en.wiktionary.org/wiki/%C2%AB): Left guillemet quotation mark with Unicode and HTML references
+- [» - Right Guillemet](https://en.wiktionary.org/wiki/%C2%BB): Right guillemet quotation mark (U+00BB) with XML references
+- [» « - Guillemet Pair](https://en.wiktionary.org/wiki/%C2%BB_%C2%AB): Guillemet punctuation pair for quotation marks in typography
+- [­ - Soft Hyphen](https://en.wiktionary.org/wiki/%C2%AD): Soft hyphen Unicode control character (U+00AD) definition
+- [º - Masculine Ordinal](https://en.wiktionary.org/wiki/%C2%BA): Masculine ordinal indicator for Romance languages typography
+
+## Diacritics and Phonetic Symbols
+
+- [ˉ - Macron](https://en.wiktionary.org/wiki/%C2%AF): Macron phonetic symbol for IPA tone marking and prosody
+- [À - A with Grave](https://en.wiktionary.org/wiki/%C3%80): Latin letter A with grave accent for Catalan orthography
+
+## Geographic Proper Nouns
+
+- [Àisia - Asia (Scottish Gaelic)](https://en.wiktionary.org/wiki/%C3%80isia): Scottish Gaelic proper noun for Asia continent
+- [Ànglia - Anglia (Catalan)](https://en.wiktionary.org/wiki/%C3%80nglia): Catalan proper noun for Anglia from Latin etymology
+- [Àustria - Austria (Catalan/Occitan)](https://en.wiktionary.org/wiki/%C3%80ustria): Catalan/Occitan proper noun for Austria in Central Europe
+- [Áland - Åland Islands](https://en.wiktionary.org/wiki/%C3%81land): Faroese/Icelandic proper noun for Åland from Old Norse
+- [Ártico - Arctic (Galician/Portuguese)](https://en.wiktionary.org/wiki/%C3%81rtico): Galician/Portuguese proper noun for Arctic region
+- [Árpádhalom - Hungarian Village](https://en.wiktionary.org/wiki/%C3%81rp%C3%A1dhalom): Hungarian village name in Csongrád-Csanád with declension table
+
+## Personal Names
+
+- [Ása - Given Name](https://en.wiktionary.org/wiki/%C3%81sa): Faroese/Icelandic female given name from Old Norse etymology
 
 ## Optional
 
-- [stigmatophilia](https://en.wiktionary.org/wiki/stigmatophilia): Paraphilia term: sexual arousal from body modification/piercings
+- [$cientology - Slang Term](https://en.wiktionary.org/wiki/$cientology): Derogatory slang term for Scientology with dollar sign spelling
+- [%iles - Plural Form](https://en.wiktionary.org/wiki/%25iles): Plural noun form dictionary entry for English grammar

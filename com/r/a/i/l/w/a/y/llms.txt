@@ -1,0 +1,58 @@
+# Railway
+
+> > Railway is a cloud platform for deploying and hosting applications with one-click templates, supporting PostgreSQL, Redis, AI assistants, WebSocket servers, and containerized workloads.
+
+Railway provides infrastructure-as-a-service with usage-based pricing and instant deployment templates. The platform specializes in AI integrations (OpenAI, Anthropic, OpenRouter), database hosting (PostgreSQL, Redis, TimescaleDB), and real-time communication services, with strong support for Docker, Node.js, Rust, and TypeScript applications.
+
+## Key Topics
+
+- Railway deployment platform
+- One-click deploy templates
+- PostgreSQL and TimescaleDB hosting
+- AI assistant deployment (OpenClaw, SimplestClaw)
+- OpenAI and Anthropic integration
+- WebSocket and real-time servers
+- Docker containerization
+- OpenRouter AI gateway
+- Self-hosting solutions
+- Database replication and high availability
+- Telegram and WhatsApp bot hosting
+- Rust and Node.js applications
+- Persistent storage management
+- Cloud infrastructure automation
+
+## Platform Overview
+
+- [Pricing](https://railway.com/pricing): Railway usage-based pricing with subscription tiers and resource limits
+
+## AI Assistants and Automation
+
+- [Deploy OpenClaw](https://railway.com/deploy/openclaw): Deploy OpenClaw: AI assistant with WhatsApp, Telegram, Discord integration
+- [Deploy OpenClaw (Production)](https://railway.com/deploy/openclaw-2): Deploy OpenClaw: Production-ready AI automation engine with Telegram support
+- [Deploy simplestclaw (openai)](https://railway.com/deploy/simplestclaw-openai): Deploy SimplestClaw: One-click OpenClaw AI assistant with OpenAI
+- [Deploy simplestclaw (openrouter)](https://railway.com/deploy/simplestclaw-openrouter): Deploy SimplestClaw: One-click OpenClaw with OpenRouter AI gateway
+- [Deploy NanoClaw (OpenClaw Lightweight Alternative)](https://railway.com/deploy/nanoclaw): Deploy NanoClaw: Lightweight Claude Agent SDK with multi-channel messaging
+- [Deploy Moltis](https://railway.com/deploy/moltis): Deploy Moltis: Personal AI gateway in Rust with multi-provider support
+- [Deploy n8n-MCP](https://railway.com/deploy/n8n-mcp-2): Deploy n8n-MCP: Model Context Protocol server with Claude Desktop integration
+- [Deploy Open Lovable](https://railway.com/deploy/open-lovable): Deploy Open Lovable: AI website builder with React cloning via ComputeSDK
+
+## Database Hosting
+
+- [Deploy PostgreSQL 18 HA Cluster (AI & GIS Ready)](https://railway.com/deploy/postgresql-18-ha-cluster-ai-and-gis-read): Deploy PostgreSQL 18 HA cluster with pgvector, PostGIS, and Pgpool-II
+- [Deploy TimescaleDB HA (Primary + Replica)](https://railway.com/deploy/timescaledb-replica-postgresql): Deploy TimescaleDB HA: Primary-replica time-series DB with Pgpool balancer
+
+## Real-Time Communication
+
+- [Deploy Sockudo](https://railway.com/deploy/sockudo): Deploy Sockudo: Pusher-compatible realtime WebSocket server in Rust
+- [Deploy FastAPI WebSocket Chat](https://railway.com/deploy/fastapi-websocket-chat): Deploy FastAPI WebSocket Chat: Real-time multi-user chat with Python/Uvicorn
+
+## Customer Support and Business Tools
+
+- [Deploy Chatwoot | Open-Source Customer Support Platform](https://railway.com/deploy/self-host-chatwoot): Deploy Chatwoot: Self-hosted omnichannel customer support with PostgreSQL
+- [Deploy Open Notebook](https://railway.com/deploy/open-notebook-1): Deploy Open Notebook: Privacy-focused Google Notebook LM alternative
+- [Deploy Pact Broker](https://railway.com/deploy/pact-broker): Deploy Pact Broker: Contract testing tool with PostgreSQL backend
+
+## Optional
+
+- [Deploy agent-bot](https://railway.com/deploy/agent-bot): Deploy agent-bot: Automated market-making bot for Uniswap on Base blockchain
+- [Deploy Background Remover API](https://railway.com/deploy/background-remover-api): Deploy Background Remover API: AI image processing with FastAPI and rembg

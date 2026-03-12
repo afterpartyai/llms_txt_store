@@ -1,0 +1,52 @@
+# DeepSeek API Documentation
+
+> > Official API documentation for DeepSeek's advanced language models including DeepSeek-V3.2, deepseek-chat, and deepseek-reasoner with thinking mode capabilities.
+
+DeepSeek API provides access to state-of-the-art language models with features like reasoning mode, fill-in-the-middle completion, and structured JSON output. The API is OpenAI SDK-compatible and offers competitive pricing for both chat and reasoning tasks.
+
+## Key Topics
+
+- DeepSeek-V3.2
+- deepseek-chat
+- deepseek-reasoner
+- thinking-mode
+- chat-completions
+- OpenAI SDK compatibility
+- FIM completion
+- streaming responses
+- deepseek-v3.1-terminus
+- JSON output
+- token usage
+- rate limiting
+- Python SDK
+- API pricing
+
+## Getting Started
+
+- [Models & Pricing](https://api-docs.deepseek.com/quick_start/pricing): DeepSeek-V3.2, deepseek-chat, deepseek-reasoner pricing and features
+- [Token & Token Usage](https://api-docs.deepseek.com/quick_start/token_usage): Token definition, calculation, and billing for DeepSeek API
+- [Rate Limit](https://api-docs.deepseek.com/quick_start/rate_limit): DeepSeek API rate limit policy and HTTP connection guidelines
+
+## Core Features & Guides
+
+- [Thinking Mode](https://api-docs.deepseek.com/guides/thinking_mode): Guide to using thinking mode with deepseek-reasoner and deepseek-chat
+- [Multi-round Conversation](https://api-docs.deepseek.com/guides/multi_round_chat): Guide for managing multi-turn conversations using chat/completions API
+- [JSON Output](https://api-docs.deepseek.com/guides/json_mode): Guide for structured JSON output using response_format parameter
+- [FIM Completion (Beta)](https://api-docs.deepseek.com/guides/fim_completion): Fill-in-the-middle completion guide for code and content completion
+- [V3.1-Terminus Comparison Testing](https://api-docs.deepseek.com/guides/comparison_testing): Guide for testing V3.2-Exp vs V3.1-Terminus with API endpoints
+
+## API Reference
+
+- [Lists Models](https://api-docs.deepseek.com/api/list-models): API endpoint to list available models with basic information
+- [Create FIM Completion (Beta)](https://api-docs.deepseek.com/api/create-completion): FIM completion API endpoint reference with parameters and streaming
+
+## Code Examples
+
+- [Thinking Mode Streaming Example](https://api-docs.deepseek.com/guides/thinking_mode_api_example_streaming): Streaming API example for deepseek-reasoner thinking mode
+- [Python SDK - V3.1 Terminus](https://api-docs.deepseek.com/api_samples/chat_python_v3.1_terminus): Python SDK example for deepseek-v3.1-terminus chat API
+- [Node.js SDK - V3.1 Terminus](https://api-docs.deepseek.com/api_samples/chat_nodejs_v3.1_terminus): Node.js SDK example for deepseek-v3.1-terminus chat API
+
+## Optional
+
+- [Change Log](https://api-docs.deepseek.com/updates): Version history for DeepSeek-V3.2, V3.1-Terminus, and model updates
+- [DeepSeek-V2.5 Release Announcement](https://api-docs.deepseek.com/news/news0905): DeepSeek-V2.5 model release combining V2-0628 and Coder-V2-0724

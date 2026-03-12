@@ -1,0 +1,52 @@
+# DevelopersIO
+
+> > Technical blog by Classmethod covering AWS cloud services, AI/ML development, game development, and modern data engineering.
+
+DevelopersIO is Classmethod's developer community platform featuring in-depth tutorials, troubleshooting guides, and technical insights. The site covers AWS infrastructure, AI tools like Claude and MCP, game development with Unity and Godot, data platforms like Snowflake, and practical engineering solutions for cloud-native applications.
+
+## Key Topics
+
+- AWS (Lambda, Backup, EC2, S3, ECS, CloudWatch)
+- AI & Machine Learning (Claude, MCP, Bedrock, semantic search)
+- Game Development (Unity, Godot, performance optimization)
+- Data Engineering (Snowflake, Modern Data Stack)
+- Infrastructure as Code (CDK, Terraform)
+- Performance Optimization (SoA pattern, cache efficiency, batch processing)
+- Cloud Architecture (blue/green deployment, monitoring)
+- Troubleshooting & Support
+- Developer Tools (AWS CLI, React, Vite)
+- Prompt Engineering
+
+## AWS Cloud Services & Infrastructure
+
+- [ECSサービスのデプロイ戦略をブルー/グリーンに変更する](https://dev.classmethod.jp/articles/ecs-blue-green-deployment): ECS service migration from rolling to blue/green deployment with Terraform
+- [AWS CLI v2 のエラー出力が構造化されています](https://dev.classmethod.jp/articles/aws-cli-v2-structured-error-output-and-off-format): AWS CLI v2.34.0+ structured error output with format options
+- [AWS BackupでEC2バックアップ時スナップショットが2倍生成される理由](https://dev.classmethod.jp/articles/jw-aws-backup-ec2-ebs-duplicate-snapshot): AWS Backup creates duplicate EBS snapshots for EC2 AMI backups explained
+- [AWS BackupでVaultのみ削除が可能か確認してみました](https://dev.classmethod.jp/articles/jw-aws-backup-delete-vault-only): AWS Backup Vault deletion requires removing recovery points first
+- [CloudWatch Application Signals で複数の異なるルックバックウィンドウを持つバーンレートアラームを CDK で実装してみる](https://dev.classmethod.jp/articles/cloudwatch-application-signals-several-windows-burnrate-alarm-cdk): CloudWatch Application Signals multi-window burnrate alarms with CDK
+- [CloudWatch Synthetics Canary にて自動作成された Lambda 関数のランタイムアップデート方法を教えてください。](https://dev.classmethod.jp/articles/tsnote-synthetics-canary-lambda-runtime-update): CloudWatch Synthetics Canary Lambda runtime upgrade procedure guide
+- [2026 年 1 月の AWS テクニカルサポートノートまとめ](https://dev.classmethod.jp/articles/summary-of-aws-technical-support-notes-for-january-2026): AWS technical support notes monthly summary for January 2026
+
+## AI & Machine Learning
+
+- [無料版でもOK！Claude Desktop でPCのファイルを操作する方法【filesystem MCP 設定手順】](https://dev.classmethod.jp/articles/free-claude-desktop-filesystem-mcp-setup): Claude Desktop filesystem MCP setup guide for free version users
+- [ベクトルDBレスで、6万件のDevelopersIO記事をNumPyとBedrockでセマンティック検索してみた](https://dev.classmethod.jp/articles/vector-db-less-semantic-search): NumPy + Bedrock Nova semantic search on 60k articles without vector DB
+- [MCP AppsをHono × React × Lambdaで作って、AIで商品を絞り込めるアプリを作ってみた](https://dev.classmethod.jp/articles/mcp-apps-lambda-hono-react-product-list): MCP Apps with Hono, React, Lambda for AI-powered product filtering
+- [Amazon Connect AIエージェントで、音声からの文字起こしが誤認識される場合の対策2選](https://dev.classmethod.jp/articles/amazon-connect-ai-agent-transcription-error): Amazon Connect AI agent transcription fixes with Lex vocabulary & prompts
+- [[登壇資料]「Claude Coworkで非エンジニアも業務効率化しよう」で登壇しました](https://dev.classmethod.jp/articles/260227_hakadoru_ai_suzaki): Claude Cowork presentation on AI productivity for non-engineers
+- [AIとAWS資格を勉強してみた](https://dev.classmethod.jp/articles/ai-aws): AWS Developer Associate exam prep with ChatGPT and Udemy practice tests
+
+## Game Development & Performance
+
+- [ゲーム開発のデータ配置戦略: ノードベースから SoA へ切り替えて更新処理を 3 倍速くした](https://dev.classmethod.jp/articles/game-dev-soa-data-layout-strategy): Godot Engine SoA pattern boosts game object update performance 3x
+- [Unity MCP × Claude Code に 2D ゲームの弾幕処理・アスレチック生成・ダンジョン生成をさせて破綻するかどうか観察してみた](https://dev.classmethod.jp/articles/unity-mcp-claude-code-2d-game-verification): Unity MCP + Claude Opus 4.6 tested on 2D game generation challenges
+
+## Data Engineering & Analytics
+
+- [Semantic View の NON ADDITIVE BY 句と Range Join を試してみた #SnowflakeDB](https://dev.classmethod.jp/articles/semantic-view-non-additive-by-range-join-try): Snowflake Semantic View NON ADDITIVE BY with Range Join tutorial
+- [[2026年3月4日号]個人的に気になったModern Data Stack情報まとめ](https://dev.classmethod.jp/articles/modern-data-stack-info-summary-20260304): Modern Data Stack weekly roundup: MotherDuck, LakeFS, Dolt versioning
+
+## Web Development & Frontend
+
+- [Rechartsの棒グラフで年ごとにバーの色を自動で変える方法](https://dev.classmethod.jp/articles/recharts-bar-color-by-year): Recharts bar chart automatic color coding by year using golden angle
+- [Deploy React & Vite App ไปยัง GitHub (Host Static-Website with AWS Amplify Part. 2)](https://dev.classmethod.jp/articles/deploy-react-and-vite-app-to-github): Deploy React+Vite app to GitHub for AWS Amplify static website hosting

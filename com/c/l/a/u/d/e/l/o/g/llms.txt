@@ -1,0 +1,59 @@
+# ClaudeLog
+
+> > Community-driven documentation hub for Claude Code, covering agent engineering, MCP integrations, workflow optimization, and CLAUDE.md configuration patterns.
+
+ClaudeLog serves as the comprehensive resource for Claude Code users, featuring tutorials, mechanics guides, and FAQs from the r/ClaudeAI community. The site documents core concepts like agent engineering with CLAUDE.md, Model Context Protocol (MCP) servers, skills systems, and advanced workflow patterns for AI-assisted development.
+
+## Key Topics
+
+- Claude Code
+- CLAUDE.md
+- Agent Engineering
+- Model Context Protocol (MCP)
+- Workflow Optimization
+- Skills System
+- Plan Mode
+- Task/Agent Tools
+- MCP Servers
+- Allowed Tools & Permissions
+- Named Sessions
+- Git Worktrees
+- Parallel Execution
+- Tool Maker Pattern
+- Configuration Management
+
+## Getting Started
+
+- [What is ClaudeLog - Claude Code Documentation Site](https://www.claudelog.com/faqs/what-is-claudelog): About ClaudeLog: Community-driven Claude Code documentation from r/ClaudeAI
+- [Tutorial](https://www.claudelog.com/claude-code-tutorial): Essential commands, CLAUDE.md setup, and workflow optimization basics
+- [Claude Code Usage](https://www.claudelog.com/claude-code-usage): Usage patterns, optimization strategies, and Sonnet/Opus model selection
+
+## Agent Engineering & Core Mechanics
+
+- [Agent Engineering](https://www.claudelog.com/mechanics/agent-engineering): Custom agent system fundamentals, CLAUDE.md, and best practices
+- [Task/Agent Tools](https://www.claudelog.com/mechanics/task-agent-tools): Task tools for parallel processing and sub-agent delegation workflows
+- [What are Skills in Claude Code](https://www.claudelog.com/faqs/what-are-skills-in-claude-code): Skills: Modular capabilities via SKILL.md for specialized expertise
+- [Tool Maker Example](https://www.claudelog.com/tool-maker): CLAUDE.md example for rapid tool creation with parallel Wear OS workflows
+
+## Configuration & Permissions
+
+- [What are Allowed Tools in Claude Code](https://www.claudelog.com/faqs/what-are-allowed-tools-in-claude-code): Granular permission control via ~/.claude.json or /permissions command
+- [Why You Should Use Plan Mode](https://www.claudelog.com/faqs/why-you-should-use-plan-mode): Plan Mode benefits: safety control, structured planning, token efficiency
+- [What is Dangerous Skip Permissions in Claude Code](https://www.claudelog.com/faqs/what-is-dangerous-skip-permissions-in-claude-code): Dangerous Skip Permissions flag bypasses safety checks vs allowedTools
+
+## MCP Integrations
+
+- [What is MCP Server in Claude Code](https://www.claudelog.com/faqs/what-is-mcp-server-in-claude-code): MCP servers extend Claude Code via Model Context Protocol integrations
+- [Puppeteer MCP](https://www.claudelog.com/claude-code-mcps/puppeteer-mcp): Puppeteer MCP: AI-powered Chrome automation via Model Context Protocol
+
+## Session & Interface Management
+
+- [What are Named Sessions in Claude Code](https://www.claudelog.com/faqs/what-are-named-sessions-in-claude-code): Named sessions with /rename and /resume commands for session management
+- [What is Micro-Compact in Claude Code](https://www.claudelog.com/faqs/what-is-micro-compact): Micro-compact auto-clears tool calls to extend session length
+- [How to Customize Status Line in Claude Code](https://www.claudelog.com/faqs/status-line-claude-code): Customize Claude Code status line with statusline-setup agent
+- [How to Edit Prompts in External Editor in Claude Code](https://www.claudelog.com/faqs/how-to-edit-prompt-in-editor-in-claude-code): Use Ctrl+G to edit prompts in Vim, VSCode, or Emacs external editors
+- [How to Search History in Claude Code](https://www.claudelog.com/faqs/how-to-search-history-in-claude-code): Search command history with Ctrl+R reverse search in v2.0.0+
+
+## Optional
+
+- [Claude AI is it Good](https://www.claudelog.com/faqs/claude-ai-is-it-good): Comprehensive Claude AI performance analysis and capability comparison

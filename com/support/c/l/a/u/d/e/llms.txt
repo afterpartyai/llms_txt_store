@@ -1,0 +1,63 @@
+# Claude Support Center
+
+> > Official support documentation for Claude AI assistant by Anthropic, covering account management, billing, integrations, and developer tools.
+
+This support site provides comprehensive help documentation for Claude users across all plan types (Pro, Max, Enterprise, Education), including guides for Claude Desktop, Claude Code, Model Context Protocol (MCP) integrations, and platform-specific features. Resources are available in multiple languages to serve Anthropic's global user base.
+
+## Key Topics
+
+- Claude AI assistant
+- Anthropic
+- Model Context Protocol (MCP)
+- Claude Desktop
+- Claude Code
+- Pro Plan and Max Plan subscriptions
+- Enterprise and Team Plans
+- Claude for Education
+- Remote MCP servers
+- Custom connectors
+- Extended Thinking feature
+- Account management and billing
+- Security and vulnerability reporting
+- Claude 4 models
+- Desktop extensions and integrations
+
+## Getting Started Guides
+
+- [Erste Schritte mit lokalen MCP-Servern auf Claude Desktop](https://support.claude.com/de/articles/10949351-erste-schritte-mit-lokalen-mcp-servern-auf-claude-desktop): Getting started with local Model Context Protocol servers on Claude Desktop
+- [Erste Schritte mit benutzerdefinierten Connectoren mit Remote MCP](https://support.claude.com/de/articles/11175166-erste-schritte-mit-benutzerdefinierten-connectoren-mit-remote-mcp): Getting started with custom connectors using Remote MCP in Claude Desktop
+- [Erste Schritte mit Claude für Bildung an Ihrer Universität (für Eigentümer/Administratoren)](https://support.claude.com/de/articles/11139094-erste-schritte-mit-claude-fur-bildung-an-ihrer-universitat-fur-eigentumer-administratoren): Admin guide for setting up Claude for Education with SSO at universities
+- [Erste Schritte mit Claude für Finanzdienstleistungen](https://support.claude.com/de/articles/11771619-erste-schritte-mit-claude-fur-finanzdienstleistungen): Getting started with Claude for Financial Services and MCP integration
+
+## Claude Code and Development
+
+- [Automatisierte Sicherheitsüberprüfungen in Claude Code](https://support.claude.com/de/articles/11932705-automatisierte-sicherheitsuberprufungen-in-claude-code): Automated security scanning for vulnerabilities in Claude Code with GitHub
+- [Claude Code Modellkonfiguration](https://support.claude.com/de/articles/11940350-claude-code-model-konfiguration): Configure Claude Code models including Sonnet 4.6 and Opus versions
+- [Wann man Desktop- und Web-Connectors verwendet](https://support.claude.com/de/articles/11725091-wann-desktop-und-web-connectors-verwendet-werden): Guide to choosing between Claude Desktop and Web connectors for integration
+- [Anthropic Connectors Directory FAQ](https://support.claude.com/de/articles/11596036-anthropic-connectors-directory-faq): FAQ for Anthropic's MCP Connectors Directory submission and policies
+
+## Features and Capabilities
+
+- [Erweitertes Denken verwenden](https://support.claude.com/de/articles/10574485-verwendung-von-extended-thinking): Guide to using Extended Thinking feature in Claude 4 and Claude 3.7 Sonnet
+- [Was ist der Max-Plan?](https://support.claude.com/de/articles/11049741-was-ist-der-max-plan): Overview of Claude Max-Plan features, pricing, and usage limits
+
+## Billing and Subscriptions
+
+- [So ändern Sie Ihren Pro-Plan von monatlicher zu jährlicher Abrechnung](https://support.claude.com/de/articles/10185996-so-andern-sie-ihren-pro-plan-von-monatlicher-zu-jahrlicher-abrechnung): Guide to switching Claude Pro Plan from monthly to annual billing
+- [Wie melde ich mich für den Max-Plan an?](https://support.claude.com/de/articles/11049752-wie-melde-ich-mich-fur-den-max-plan-an): How to sign up for Claude Max-Plan subscription and upgrade from Pro
+- [Wie wird mir mein Enterprise-Plan in Rechnung gestellt?](https://support.claude.com/de/articles/11526368-nutzungsbasierte-enterprise-plane): Usage-based billing explanation for Claude Enterprise and Self-Service plans
+
+## Account Management
+
+- [Wie kann ich mein Claude Console-Konto löschen?](https://support.claude.com/de/articles/10366376-wie-kann-ich-mein-claude-console-konto-loschen): Instructions for deleting Claude Console account as Console Admin
+- [Wer besitzt und verwaltet die Daten meines Claude for Education-Kontos?](https://support.claude.com/de/articles/11732894-wer-besitzt-und-verwaltet-die-daten-meines-claude-for-education-kontos): Data ownership and management for Claude for Education university accounts
+
+## Security and Safety
+
+- [Öffentliche Meldung von Sicherheitslücken](https://support.claude.com/de/articles/11427875-offentliche-meldung-von-sicherheitslucken): Anthropic's responsible disclosure process for Claude security vulnerabilities
+- [Online-Sicherheitskontakte](https://support.claude.com/de/articles/11174660-online-sicherheitskontakte): Anthropic security contacts for authorities and content moderation requests
+
+## Optional
+
+- [Claude 4 Einladungs-Gewinnspiel Offizielle Regeln](https://support.claude.com/de/articles/11140763-claude-4-invite-sweepstakes-offizielle-regeln): Official rules for Claude 4 invitation sweepstakes by Anthropic
+- [Email Protection | Cloudflare](https://support.claude.com/cdn-cgi/l/email-protection): Cloudflare email protection service for claude.com requiring Javascript

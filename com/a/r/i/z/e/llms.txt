@@ -1,0 +1,61 @@
+# Arize AI
+
+> Enterprise ML observability and LLM evaluation platform for monitoring, troubleshooting, and improving production AI systems.
+
+Arize AI provides observability tools for machine learning and generative AI applications, helping teams detect model drift, evaluate LLM performance, and monitor AI agents in production. Founded by Aparna Dhinakaran and Jason Lopatecki, Arize serves customers like Booking.com, Geotab, and Atlassian across industries from autonomous vehicles to recommendation systems.
+
+## Key Topics
+
+- ML Observability
+- LLM Evaluation
+- AI Agents & Agentic AI
+- Model Monitoring & Drift Detection
+- Generative AI
+- Agent Architecture & Interfaces
+- Model Performance Metrics
+- MLOps & Model Deployment
+- OpenAI & LlamaIndex Integration
+- Function Calling & Tool Use
+- ReAct Prompting
+- RLHF & Model Alignment
+- Computer Vision & Autonomous Vehicles
+- Production AI Systems
+- LLM-as-a-Judge
+
+## Company & Platform
+
+- [About Arize AI | Founders, Team, Awards & AI Infra & Ethics Alliance](https://arize.com/about-us): Company mission, founders, team culture, and ML observability platform
+- [Built with Arize - Arize AI](https://arize.com/customers): Customer case studies from Handshake, TheFork on production AI
+- [Enhancing Autonomous Vehicle AI - Real-Time Monitoring and Troubleshooting](https://arize.com/solutions/autonomous-vehicles): AV solution for monitoring object detection, computer vision, safety AI
+
+## AI Agents & Agentic AI
+
+- [Building an AI Agent or Assistant: Real World Examples](https://arize.com/agent-video-series): Tutorial series with agent cookbooks from Booking.com, Geotab, Arize
+- [AI Agent Interfaces: Filesystem vs API vs Database (What Works)](https://arize.com/blog/agent-interfaces-in-2026-filesystem-vs-api-vs-database-what-actually-works): Compares agent interface architectures: filesystem, API, MCP protocol
+- [NVIDIA's Peter Belcak Distills Why Small Language Models are the Future of Agentic AI - Arize AI](https://arize.com/blog/nvidias-small-language-models-are-the-future-of-agentic-ai-paper): NVIDIA research on small language models for efficient agentic AI
+- [Keys To Understanding ReAct: Synergizing Reasoning and Acting in Language Models - Arize AI](https://arize.com/blog/keys-to-understanding-react): Explains ReAct prompting technique for reasoning and acting in LLMs
+- [Toolformer: Training LLMs To Use Tools - Arize AI](https://arize.com/blog/toolformer-large-language-model-meta-ai): Meta AI research on training LLMs to use external tools via Toolformer
+
+## LLM Evaluation & Observability
+
+- [Benchmarking OpenAI Function Calling](https://arize.com/blog/calling-all-functions-benchmarking-openai-function-calling-and-explanations): OpenAI GPT function calling benchmark for hallucination detection
+- [Judging the Judges: Evaluating Alignment and Vulnerabilities in LLMs-as-Judges - Arize AI](https://arize.com/blog/judging-the-judges-llm-as-a-judge): Paper review on LLM-as-a-Judge evaluation and alignment vulnerabilities
+- [ChatGPT and InstructGPT: Aligning Language Models to Human Intention - Arize AI](https://arize.com/blog/podcast-openai-chatgpt): Deep Papers podcast on InstructGPT and RLHF for ChatGPT alignment
+- [Sora: OpenAI's Text-to-Video Generation Model - Arize AI](https://arize.com/blog/sora-openai): Technical analysis of OpenAI Sora text-to-video generation model
+
+## ML Observability & Monitoring
+
+- [ML Observability Advanced Metrics Course - Arize AI](https://arize.com/advanced-metrics-course): Arize University course on advanced metrics, drift, fairness, ranking
+- [Best Practices In ML Observability for Click-Through Rate Models - Arize AI](https://arize.com/blog/best-practices-in-ml-observability-for-click-through-rate-models): ML observability strategies for CTR models in digital advertising
+- [AI in the Time of Corona - Arize AI](https://arize.com/blog/ai-in-the-time-of-corona): COVID-19 impact on production ML systems and black swan event handling
+- [Why Business Executives Should Be Hip To ML Tools - Arize AI](https://arize.com/blog/business-leaders-should-use-ml-tools): ML observability guidance for business executives and digital leaders
+
+## Industry Insights & Interviews
+
+- [Interview: Mark Scarr, Senior Director of Data Science at Atlassian - Arize AI](https://arize.com/blog/interview-mark-scarr-senior-director-of-data-science-at-atlassian): Atlassian data science leader on recommendation engines and GenAI
+- [The Rise of the Machine Engineer: Alex Zamoshchin from Lyft - Arize AI](https://arize.com/blog/ml-engineer-alex-lyft): Interview with Lyft engineering manager on evolving ML engineer role
+
+## Optional
+
+- [Observe 2023 - Arize AI](https://arize.com/observe-2023): 2023 conference on model measurement, LLMOps, and generative AI
+- [Drift Happens - Arize AI](https://arize.com/drift-happens): Video chat series on ML observability and model drift best practices

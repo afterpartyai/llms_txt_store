@@ -1,0 +1,61 @@
+# Inventive HQ
+
+> > Inventive HQ provides cybersecurity consulting, compliance services, and cloud architecture solutions for SMBs, specializing in SOC 2, HIPAA, PCI-DSS, and multi-cloud environments.
+
+Inventive HQ offers security policy development, compliance implementation, and technical guidance across AWS, Azure, Google Cloud, and Cloudflare. Their content covers practical cybersecurity for small-to-medium businesses, developer security practices, and cloud infrastructure optimization.
+
+## Key Topics
+
+- SOC 2 Compliance
+- HIPAA Compliance
+- PCI-DSS
+- AWS Cloud Architecture
+- Security Policy Development
+- Multi-Cloud Strategy
+- Certificate Pinning
+- Service Account Security
+- Security Awareness Training
+- Google Cloud Platform
+- Azure
+- Cloudflare
+- SMB Cybersecurity
+- Python Development
+- API Security
+
+## Core Services & Solutions
+
+- [Security Policy Development Services | Audit-Ready Policies for SOC 2, ISO 27001, HIPAA | Inventive HQ](https://inventivehq.com/services/security-policies): Audit-ready security policies for SOC 2, ISO 27001, HIPAA, PCI-DSS compliance
+- [Cybersecurity Learning Resources | Inventive HQ](https://inventivehq.com/learn/cybersecurity): Comprehensive cybersecurity guides: threat detection, incident response, pentesting
+- [Retail & eCommerce Cybersecurity | Inventive HQ](https://inventivehq.com/industries/retail-ecommerce): Retail/eCommerce cybersecurity: PCI-DSS compliance and payment security
+
+## Compliance & Regulatory Guidance
+
+- [SMB Compliance Challenges | Cybersecurity](https://inventivehq.com/blog/compliance-solutions-for-smbs-practical-approaches-to-cybersecurity-regulations): SMB compliance guide for HIPAA, PCI-DSS, and SOC 2 implementation
+- [Security Awareness Training: Build a Human Firewall](https://inventivehq.com/blog/security-awareness): Security awareness training programs for phishing prevention from $499/mo
+- [Why Cybersecurity Metrics Matter](https://inventivehq.com/blog/why-cybersecurity-metrics-matter): Cybersecurity metrics for measuring security ROI and risk reduction
+
+## Cloud Architecture & Infrastructure
+
+- [Multi-Cloud, Vendor Lock-in, and Exit Strategies: Cloudflare, AWS, Azure, and Google Cloud](https://inventivehq.com/blog/multi-cloud-strategy-vendor-lock-in-cloudflare-aws-azure-gcp): Multi-cloud strategy analysis: vendor lock-in across Cloudflare, AWS, Azure, GCP
+- [Google Cloud Containers | Find Your Perfect Fit](https://inventivehq.com/blog/find-your-perfect-container-fit-on-google-cloud): Compare GKE, Cloud Run, and App Engine for containerization on GCP
+- [Service Account Security: Managing Non-Human Identities in Cloud Environments](https://inventivehq.com/blog/service-account-security): Non-human identity security guide for AWS, Azure, and GCP service accounts
+- [How to Autoscale Your WordPress Site on AWS](https://inventivehq.com/blog/how-to-autoscale-your-wordpress-site-on-aws): WordPress autoscaling tutorial using AWS EC2, RDS, and CloudFront
+- [Benefits of Using Virtualization for Disaster Recovery](https://inventivehq.com/blog/benefits-of-using-virtualization-for-disaster-recovery): Virtualization benefits for disaster recovery and business continuity
+- [What is Subnetting and Why Is It Used in Networking?](https://inventivehq.com/blog/what-is-subnetting-and-why-use-it): Subnetting fundamentals for network organization and security
+
+## Application Security & Development
+
+- [Certificate Pinning: Implementation Guide for Mobile and Web Apps](https://inventivehq.com/blog/certificate-pinning-implementation-guide): Certificate pinning guide for iOS/Android to prevent MITM attacks
+- [How should APIs use status codes for RESTful responses?](https://inventivehq.com/blog/api-restful-status-codes): RESTful API best practices for HTTP status codes and responses
+- [Python Virtual Environments: venv, virtualenv, conda, and pyenv Compared](https://inventivehq.com/blog/python-virtual-environments-guide): Python virtual environments compared: venv, virtualenv, conda, and pyenv
+- [Python Collections Guide | Master Lists, Tuples, Dicts & Sets](https://inventivehq.com/blog/working-with-python-collections): Python data structures guide: lists, tuples, dictionaries, and sets
+- [Git LFS: Managing Large Files in Git Repositories](https://inventivehq.com/blog/git-lfs-large-files-guide): Git LFS guide for managing large binary files in repositories
+
+## AI & Emerging Technologies
+
+- [Context Windows Explained: Why Size Matters for AI Coding](https://inventivehq.com/blog/context-windows-explained-ai-coding): AI coding context windows explained: Claude, Gemini, and token limits
+
+## Optional Resources
+
+- [What is a TLD Enumerator and Why Would I Use It?](https://inventivehq.com/blog/what-is-tld-enumerator): TLD enumeration for brand protection and cybersquatting prevention
+- [URL Defanging Styles: CyberChef vs Bracket vs Aggressive - Which to Use?](https://inventivehq.com/blog/url-defanging-styles-explained): URL defanging styles comparison: CyberChef, Bracket, Aggressive for IOCs

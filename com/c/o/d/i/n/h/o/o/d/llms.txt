@@ -1,0 +1,49 @@
+# Codinhood
+
+> > A developer resource hub covering JavaScript, React Native, CSS, TypeScript, and AI development tools with practical tutorials, code snippets, and interactive experiments.
+
+Codinhood provides concise technical guides, creative development projects, and experimental tools for modern web and mobile developers. The site features quick-reference 'nano' guides, in-depth tutorials, and unique projects like AI agent testing interfaces.
+
+## Key Topics
+
+- JavaScript
+- React Native
+- TypeScript
+- CSS
+- HTML
+- React
+- AI Testing
+- Dark Patterns
+- Array Deduplication
+- YellowBox Warnings
+- GitHub Markdown
+- Three.js
+- Debugging
+- UI Challenges
+- Code Snippets
+
+## AI & Development Tools
+
+- [AI & Development](https://codinhood.com/ai): AI tools, agent testing, and practical development insights
+- [Anti-AI UI Test](https://codinhood.com/anti-ai-ui): Interactive test challenging AI agents with hostile UX patterns
+
+## React Native Development
+
+- [Creating a Dynamic Starter Kit for React Native](https://codinhood.com/dynamic-react-native-starters): React Native Infinity CLI for multi-platform project generation
+- [How to Disable Yellow Box Warnings In React Native](https://codinhood.com/nano/react-native/disable-yellow-box-warnings): Disable React Native YellowBox warnings completely or per type
+
+## JavaScript Tutorials & Techniques
+
+- [Remove Duplicate Items In Arrays with the Javascript Set Object](https://codinhood.com/nano/js/remove-duplicate-items-arrays-set-object): Remove array duplicates using JavaScript Set object
+- [Get Current URL in JavaScript](https://codinhood.com/snippets/js/get-current-url-javascript): JavaScript window.location and URLSearchParams code snippet
+
+## Creative Development Projects
+
+- [How I Built an Oreo Generator with 1.1 Sextillion Combinations](https://codinhood.com/post/the-ultimate-oreo-generator): Building Oreo flavor generator with TypeScript and BigInt combinatorics
+- [How to Create a Skybox with Three.js](https://codinhood.com/post/create-skybox-with-threejs): Create 3D skyboxes with Three.js WebGL and Orbit Controls
+- [I Can't Believe It's Not CSS](https://codinhood.com/post/i-cant-believe-its-not-css): Satirical CSS alternative using SQL database migrations for styling
+
+## CSS & HTML Quick Guides
+
+- [Simple tree in CSS](https://codinhood.com/nano/css/simple-tree-in-css): Create CSS tree using triangles and rectangles with positioning
+- [How to Center Images and Text in Github Markdown and READMEs](https://codinhood.com/nano/git/center-images-text-github-readme): Center elements in GitHub markdown using HTML align attribute

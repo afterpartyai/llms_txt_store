@@ -1,0 +1,61 @@
+# Model Context Protocol
+
+> > A standardized protocol for connecting AI assistants to external data sources and tools using JSON-RPC 2.0, enabling context-aware AI applications through client-server architecture.
+
+The Model Context Protocol (MCP) is an open protocol that allows AI models to securely access context from various sources. It supports multiple transport layers (HTTP+SSE, STDIO), implements OAuth 2.1 authentication, and evolves through a community-driven Spec Enhancement Proposal (SEP) process.
+
+## Key Topics
+
+- Model Context Protocol (MCP)
+- JSON-RPC 2.0
+- Client-server architecture
+- Streamable HTTP transport
+- Context exchange
+- OAuth 2.1 authentication
+- Spec Enhancement Proposals (SEPs)
+- MCP Registry
+- Capability negotiation
+- Tools and resources
+- Protocol lifecycle
+- Security best practices
+- SDK development (Python, TypeScript, Rust)
+- HTTP+SSE transport
+- Dynamic Client Registration
+
+## Core Specification
+
+- [Overview - Model Context Protocol](https://modelcontextprotocol.io/specification/2025-06-18/basic): MCP spec overview: JSON-RPC 2.0, HTTP/STDIO transports, lifecycle basics
+- [Architecture - Model Context Protocol](https://modelcontextprotocol.io/specification/2024-11-05/architecture): MCP architecture spec: client-server design, JSON-RPC, security boundaries
+- [Lifecycle - Model Context Protocol](https://modelcontextprotocol.io/specification/2024-11-05/basic/lifecycle): MCP lifecycle spec: initialization, capability negotiation, handshake
+- [Schema Reference - Model Context Protocol](https://modelcontextprotocol.io/specification/2025-11-25/schema): MCP schema reference: JSON-RPC API spec, data types, ISO 8601 standards
+- [Tools - Model Context Protocol](https://modelcontextprotocol.io/specification/2025-06-18/server/tools): MCP tools spec: server capabilities, invocation, JSON-RPC messages
+- [Roots - Model Context Protocol](https://modelcontextprotocol.io/specification/draft/client/roots): Roots spec: filesystem access, workspace config, JSON-RPC notifications
+
+## Getting Started
+
+- [Architecture overview - Model Context Protocol](https://modelcontextprotocol.io/docs/learn/architecture): MCP architecture guide: client-server, SDKs, Inspector, context exchange
+- [Understanding MCP clients - Model Context Protocol](https://modelcontextprotocol.io/docs/learn/client-concepts): MCP client concepts: features, elicitation, roots, sampling, Claude.ai
+- [Example Clients - Model Context Protocol](https://modelcontextprotocol.io/clients): MCP client apps: features, CIMD, Dynamic Client Registration, ecosystem
+- [Design Principles - Model Context Protocol](https://modelcontextprotocol.io/community/design-principles): MCP design principles: composability, interoperability, stability, SEPs
+
+## Security
+
+- [Security Best Practices - Model Context Protocol](https://modelcontextprotocol.io/docs/tutorials/security/security_best_practices): MCP security guide: OAuth 2.0, confused deputy attacks, mitigation
+
+## MCP Registry
+
+- [How to Authenticate When Publishing to the Official MCP Registry - Model Context Protocol](https://modelcontextprotocol.io/registry/authentication): MCP Registry auth guide: GitHub OAuth, DNS setup, mcp-publisher CLI tool
+- [Frequently Asked Questions - Model Context Protocol](https://modelcontextprotocol.io/registry/faq): MCP Registry FAQ: publishing, metadata, API, security, abuse reporting
+
+## Community & Development
+
+- [Contributing to MCP - Model Context Protocol](https://modelcontextprotocol.io/community/contributing): Guide to contributing: Git, Node.js setup, SDK development, governance
+- [Roadmap - Model Context Protocol](https://modelcontextprotocol.io/development/roadmap): MCP roadmap: SEP priorities, Streamable HTTP, agents, working groups
+
+## Optional
+
+- [Key Changes - Model Context Protocol](https://modelcontextprotocol.io/specification/2025-03-26/changelog): MCP spec changelog: OAuth 2.1, HTTP+SSE, Streamable HTTP updates
+- [SEP-932: Model Context Protocol Governance - Model Context Protocol](https://modelcontextprotocol.io/seps/932-model-context-protocol-governance): SEP-932: MCP governance model, decision-making, SEP process by D. Parra
+- [SEP-1319: Decouple Request Payload from RPC Methods Definition - Model Context Protocol](https://modelcontextprotocol.io/seps/1319-decouple-request-payload-from-rpc-methods-definiti): SEP-1319: Decouple RPC payload for transport-agnostic gRPC/JSON-RPC support
+- [SEP-1699: Support SSE polling via server-side disconnect - Model Context Protocol](https://modelcontextprotocol.io/seps/1699-support-sse-polling-via-server-side-disconnect): SEP-1699: SSE polling via disconnect for Streamable HTTP by J. Hefner
+- [SEP-1303: Input Validation Errors as Tool Execution Errors - Model Context Protocol](https://modelcontextprotocol.io/seps/1303-input-validation-errors-as-tool-execution-errors): SEP-1303: Input validation as tool errors for model self-correction

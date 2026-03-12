@@ -1,0 +1,58 @@
+# DevStarSJ's Developer Notes
+
+> > A technical blog covering modern software engineering practices, cloud-native infrastructure, AI/ML systems, and emerging technologies in 2026.
+
+DevStarSJ's blog focuses on practical guides and insights for building production systems with Kubernetes, Python, TypeScript, AI agents, and modern data architectures. Content emphasizes real-world implementation patterns, cost optimization (FinOps), and developer experience improvements.
+
+## Key Topics
+
+- Kubernetes & Cloud-Native
+- AI Agents & Autonomous Systems
+- Model Context Protocol (MCP)
+- Platform Engineering & Developer Experience
+- FinOps & Cost Optimization
+- Python & TypeScript
+- Real-Time Data Streaming (Kafka, Flink)
+- OpenTelemetry & Observability
+- Infrastructure as Code (Pulumi, Terraform)
+- WebAssembly & Edge Computing
+- GraphQL Federation
+- PostgreSQL & Modern Data Stack
+- Rust Backend Development
+- Microservices Architecture
+- AI Coding Assistants
+
+## AI & Machine Learning Systems
+
+- [Model Context Protocol (MCP): The Universal Standard for AI Tool Integration](https://DevStarSJ.github.io/2026/02/06/model-context-protocol-mcp-ai-integration): MCP as universal standard for AI tool integration, like USB for devices
+- [AI Agents in 2026: Building Autonomous Systems That Actually Work](https://DevStarSJ.github.io/2026/02/13/ai-agents-autonomous-systems-2026): Building autonomous AI agents with ReAct pattern and LLM tool integration
+- [AI Agents in 2026: Building Autonomous Agentic Workflows](https://DevStarSJ.github.io/2026/02/09/ai-agents-agentic-workflows): Building autonomous AI agents with multi-agent orchestrator patterns
+- [Multi-Agent AI Systems in Production: Patterns, Pitfalls, and Best Practices for 2026](https://DevStarSJ.github.io/2026/03/01/multi-agent-ai-systems-production-patterns-2026): Production patterns for multi-agent AI with Claude Opus/Sonnet orchestration
+- [AI Coding Assistants in 2026: Claude Code vs GitHub Copilot vs Cursor](https://DevStarSJ.github.io/2026/02/07/ai-coding-assistants-2026-comparison): Comparing Claude Code, GitHub Copilot, and Cursor AI coding assistants
+
+## Kubernetes & Cloud Infrastructure
+
+- [Kubernetes 1.32: Gateway API Goes GA and the Rise of Autopilot Features](https://DevStarSJ.github.io/2026/03/10/kubernetes-1-32-gateway-api-autopilot-features): Kubernetes 1.32 Gateway API v1.2 GA, autopilot scheduler improvements
+- [Kubernetes 2026: Why FinOps and Cost Observability Are Now First-Class Concerns](https://DevStarSJ.github.io/2026/03/08/kubernetes-finops-cost-optimization-2026): Kubernetes FinOps practices with KubeCost and OpenCost for optimization
+- [Kubernetes FinOps: Slash Your Cloud Bill by 40% with Smart Resource Management](https://DevStarSJ.github.io/2026/02/13/kubernetes-finops-cost-optimization): Kubernetes cost optimization with VPA, HPA, and KubeCost allocation
+- [Platform Engineering in 2026: Building Internal Developer Platforms That Teams Actually Love](https://DevStarSJ.github.io/2026/02/19/platform-engineering-idp-developer-experience): Building IDPs with Kubernetes & Backstage for better developer experience
+- [Pulumi for Multi-Cloud: Infrastructure as Code with Real Programming Languages](https://DevStarSJ.github.io/2026/02/12/pulumi-multicloud-infrastructure-code): Pulumi IaC with TypeScript/Python for AWS, Azure, GCP multi-cloud
+
+## Data Engineering & Streaming
+
+- [Real-Time Data Streaming in 2026: Apache Kafka + Flink Architecture Guide](https://DevStarSJ.github.io/2026/02/06/realtime-data-streaming-kafka-flink-2026): Apache Kafka + Flink real-time streaming architecture and setup guide
+- [The Modern Data Stack in 2026: dbt, Iceberg, and the End of the Data Warehouse as We Knew It](https://DevStarSJ.github.io/2026/03/07/modern-data-stack-2026-iceberg-dbt-lakehouse): Lakehouse architecture with Apache Iceberg, dbt, and open table formats
+- [PostgreSQL 18: What's New and Why It Matters for Your Application](https://DevStarSJ.github.io/2026/03/09/postgresql-18-async-io-logical-replication-json-table): PostgreSQL 18 async I/O with io_uring, logical replication, NVMe tuning
+
+## Programming Languages & Runtimes
+
+- [Python 3.13: The Performance Release We've Been Waiting For](https://DevStarSJ.github.io/2026/02/10/python-313-performance-features): Python 3.13 free-threaded mode (no GIL) and experimental JIT compiler
+- [TypeScript 5.x in 2026: The Features That Actually Changed How We Write Code](https://DevStarSJ.github.io/2026/03/08/typescript-5x-features-that-matter-2026): TypeScript 5.x satisfies operator, const type parameters, type inference
+- [Rust for Backend Development in 2026: Why Engineering Teams Are Making the Switch](https://DevStarSJ.github.io/2026/02/24/rust-backend-development-2026-why-teams-switch): Rust backend adoption for memory safety, performance, and microservices
+- [Deno 2.0: The TypeScript Runtime That Finally Makes Sense](https://DevStarSJ.github.io/2026/02/06/deno-2-typescript-runtime-evolution): Deno 2.0 with npm compatibility, built-in tooling, and TypeScript runtime
+- [WebAssembly in 2026: The Universal Runtime for Cloud-Native and Edge Computing](https://DevStarSJ.github.io/2026/02/24/webassembly-cloud-native-edge-computing-2026): WASM with WASI for cloud-native, edge computing on Cloudflare Workers
+
+## Observability & Microservices
+
+- [OpenTelemetry: The Complete Guide to Modern Observability](https://DevStarSJ.github.io/2026/02/14/opentelemetry-observability-guide): OpenTelemetry complete guide: distributed tracing, metrics, Python setup
+- [GraphQL Federation 2.0: Scaling Microservices with Unified APIs](https://DevStarSJ.github.io/2026/02/10/graphql-federation-microservices-architecture): GraphQL Federation 2.0 with Apollo Router for microservices subgraphs

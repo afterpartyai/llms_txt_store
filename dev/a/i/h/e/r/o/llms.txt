@@ -1,0 +1,59 @@
+# AI Hero
+
+> > Learn to build production-ready AI agents with Vercel AI SDK, TypeScript, and eval-driven development.
+
+AI Hero teaches developers how to build, evaluate, and deploy AI agents using modern tools like Vercel AI SDK v6, evalite, and TypeScript. The site features comprehensive tutorials, workshops, and guides covering everything from basic LLM integration to advanced agent architectures with observability and evals.
+
+## Key Topics
+
+- Vercel AI SDK
+- AI SDK v6
+- TypeScript
+- AI Agents
+- Tool Calling
+- Eval-driven Development
+- evalite
+- Streaming
+- LLM Evaluation
+- Observability
+- Matt Pocock
+- Production-ready AI
+- Agent Architecture
+- OpenAI
+- Anthropic
+
+## Getting Started
+
+- [Vercel AI SDK Tutorial](https://www.aihero.dev/vercel-ai-sdk-tutorial): Complete Vercel AI SDK tutorial: streaming, tools, agents in TypeScript
+- [5 Questions To Ask Before Choosing An LLM](https://www.aihero.dev/how-to-choose-an-llm): Guide to selecting LLMs: open vs closed models, costs, latency & hosting
+- [The AI Engineer Mindset](https://www.aihero.dev/the-ai-engineer-mindset): Building LLM apps with success metrics & eval-driven improvement culture
+- [Use Local Models With Vercel's AI SDK](https://www.aihero.dev/use-local-models-with-vercel-ai-sdk): Connect local models via LM Studio using OpenAI-compatible APIs
+
+## AI SDK v6 Crash Course
+
+- [Tool Loop Agent (EBAAP)](https://www.aihero.dev/workshops/ai-sdk-v6-crash-course/tool-loop-agent-ebaap): AI SDK v6 crash course: tool calling, agents & eval-driven development
+- [LLM-as-a-Judge Evals](https://www.aihero.dev/workshops/ai-sdk-v6-crash-course/llm-as-a-judge-evals~my7sg): AI SDK v6: LLM-as-judge evals with evalite for production AI apps
+- [Streaming Custom Data Parts](https://www.aihero.dev/workshops/ai-sdk-v6-crash-course/streaming-custom-data-parts-to-the-frontend~t92sz): AI SDK v6: streaming custom data parts to frontend with TypeScript
+- [Calling MCP Servers via stdio](https://www.aihero.dev/workshops/ai-sdk-v6-crash-course/calling-mcp-servers-via-stdio~8yvuh): AI SDK v6: calling MCP servers via stdio for tool integration
+
+## Building AI Agents
+
+- [Build Your First Agent With Vercel's AI SDK](https://www.aihero.dev/agents-with-vercel-ai-sdk): Build AI agents with Vercel AI SDK using tool calling and streamText
+- [Day 1: Build A Naive Agent - First Model Call](https://www.aihero.dev/workshops/day-1-build-a-naive-agent/our-first-model-call-jkfv0): Workshop Day 1: first LLM call with Vercel AI SDK and TypeScript
+- [Day 6: Agent Architecture through Task Decomposition](https://www.aihero.dev/workshops/day-6-task-decomposition): Workshop on task decomposition & modular control loops for robust agents
+- [Day 9: Advanced Patterns - Showing Sources](https://www.aihero.dev/workshops/day-9-advanced-patterns/showing-sources-in-the-frontend~f0ugn): Advanced agent patterns: evaluator-optimizer loop & frontend sources
+
+## Streaming and Data Handling
+
+- [Streaming Text With Vercel's AI SDK](https://www.aihero.dev/streaming-text-with-vercel-ai-sdk): Stream text with Vercel AI SDK using streamText and async iterables
+- [Streaming Objects With Vercel's AI SDK](https://www.aihero.dev/streaming-objects-with-vercel-ai-sdk): Stream structured outputs with streamObject and partialObjectStream
+
+## Evaluation and Observability
+
+- [Day 3: Debug and Improve your Agent through Observability](https://www.aihero.dev/workshops/day-3-observability): Workshop Day 3: debugging AI agents with Langfuse observability
+- [Day 4: Our First Deterministic Eval](https://www.aihero.dev/workshops/day-4-intro-to-evals/our-first-deterministic-eval~cxp47): Workshop: building deterministic evals with Evalite for AI apps
+
+## Optional Topics
+
+- [Day 1: Rate Limiting (Optional)](https://www.aihero.dev/workshops/day-1-build-a-naive-agent/rate-limiting-optional~t0g70): Workshop Day 1: implementing rate limiting for AI agents (optional)
+- [Day 2: Fixing the New Chat Button (Optional)](https://www.aihero.dev/workshops/day-2-persistence/fixing-the-new-chat-button-optional~kcoi9): Workshop Day 2: chat persistence with Drizzle & useChat (optional)

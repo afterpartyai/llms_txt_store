@@ -1,0 +1,59 @@
+# Aider
+
+> > Aider is an AI pair programming tool that works with GPT-4o, Claude 3.5 Sonnet, and other LLMs to edit code in your local git repository through natural language chat.
+
+Aider enables voice-to-code workflows, supports multiple LLM providers (OpenAI, Anthropic, Cohere), and maintains leading performance on SWE Bench and polyglot coding benchmarks. The tool integrates deeply with git and offers multiple chat modes for different coding tasks.
+
+## Key Topics
+
+- AI pair programming
+- Code editing with LLMs
+- GPT-4o and Claude 3.5 Sonnet integration
+- Git integration and workflow
+- SWE Bench benchmarks
+- Polyglot benchmark performance
+- Model comparison and leaderboards
+- Voice-to-code with speech recognition
+- Prompt caching optimization
+- Chat modes (code, architect, ask, help)
+- OpenAI and Anthropic API configuration
+- Refactoring benchmark results
+- Python dependency management
+- Docker deployment
+
+## Getting Started
+
+- [Options reference](https://aider.chat/docs/config/options.html): Complete reference of aider CLI options and configuration settings
+- [Chat modes](https://aider.chat/docs/usage/modes.html): Guide to aider chat modes: code, architect, ask, and help workflows
+- [Aider with docker](https://aider.chat/docs/install/docker.html): Install and run aider using Docker containers with git configuration
+- [Prompt caching](https://aider.chat/docs/usage/caching.html): Configure prompt caching with Anthropic and DeepSeek for cost savings
+- [Voice-to-code with aider](https://aider.chat/docs/usage/voice.html): Voice-to-code guide for speaking with aider using speech recognition
+
+## Benchmarks and Performance
+
+- [Aider blog](https://aider.chat/blog): Aider blog with LLM benchmarks, model comparisons, and updates
+- [Refactoring leaderboard](https://aider.chat/docs/leaderboards/refactor.html): Quantitative LLM code refactoring benchmark leaderboard and comparisons
+- [Aider is SOTA for both SWE Bench and SWE Bench Lite](https://aider.chat/2024/06/02/main-swe-bench.html): Aider achieves SOTA on SWE Bench and SWE Bench Lite benchmarks with GPT-4o
+- [R1+Sonnet set SOTA on aider's polyglot benchmark](https://aider.chat/2025/01/24/r1-sonnet.html): R1+Sonnet achieves SOTA on polyglot benchmark at 14X less cost than o1
+- [Code editing benchmarks for OpenAI's "1106" models](https://aider.chat/2023/11/06/benchmarks-1106.html): Benchmark comparison of GPT-3.5 and GPT-4 1106 models for code editing
+- [GPT-4 Turbo with Vision is a step backwards for coding](https://aider.chat/2024/04/09/gpt-4-turbo.html): GPT-4 Turbo with Vision shows worse coding performance and lazy coding issues
+
+## LLM Provider Configuration
+
+- [Cohere](https://aider.chat/docs/llms/cohere.html): Configure aider with Cohere API and Command-R+ models
+
+## Tutorials and Examples
+
+- [Drawing graphs with aider, GPT-4o and matplotlib](https://aider.chat/2024/05/13/models-over-time.html): Use GPT-4o with aider to generate matplotlib graphs and code
+- [Aider in your browser](https://aider.chat/2024/05/02/browser.html): Experimental browser UI for aider with Claude 3.5 Sonnet and DeepSeek R1
+- [Modify an open source 2048 game with aider](https://aider.chat/examples/2048-game.html): Tutorial: modify 2048 game JavaScript with AI-assisted coding
+- [Automatically update docs with aider](https://aider.chat/examples/update-docs.html): Tutorial: automatically sync README.md with code changes using aider
+- [Create a "black box" test case](https://aider.chat/examples/add-test.html): Tutorial: create black box test cases using aider with ctags repo map
+
+## Troubleshooting
+
+- [Dependency versions](https://aider.chat/docs/troubleshooting/imports.html): Troubleshoot Python dependency conflicts and import errors in aider
+
+## Optional
+
+- [Analytics](https://aider.chat/docs/more/analytics.html): Opt-in anonymous analytics collection with UUID4 tracking in aider

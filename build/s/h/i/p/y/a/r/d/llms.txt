@@ -1,0 +1,61 @@
+# Shipyard
+
+> > Shipyard provides ephemeral environments and MCP-enabled infrastructure for testing, preview deployments, and AI agent workflows.
+
+Shipyard specializes in ephemeral environments for modern development workflows, including Kubernetes preview environments, Docker-based deployments, and AI agent integration through Model Context Protocol (MCP). The platform helps teams implement branch-based deploys, automated testing, and DORA metrics measurement.
+
+## Key Topics
+
+- Ephemeral environments
+- Model Context Protocol (MCP)
+- AI agents and agentic workflows
+- Preview environments and pull request environments
+- Kubernetes and Docker containerization
+- DORA metrics (lead time, change fail rate)
+- Branch-based deploys and GitOps
+- Automated testing (E2E, Playwright, Cypress)
+- Claude Code and Anthropic integration
+- Developer experience (DevEx) framework
+- CI/CD pipelines
+- Container orchestration
+- Next.js and modern web frameworks
+- Platform engineering
+- Test-driven development with AI
+
+## Core Product & AI Agent Integration
+
+- [Shipyard for AI Agents](https://shipyard.build/for-ai-agents): MCP-enabled ephemeral environments for autonomous AI agent workflows
+- [The Shipyard MCP Server: Manage environments with AI agents](https://shipyard.build/blog/shipyard-mcp-server): Beta MCP server enabling AI agents to manage Shipyard environments directly
+- [Best MCP servers for developers](https://shipyard.build/blog/best-mcp-servers-for-devs): Six essential MCP servers for faster development with AI agents
+- [Windsurf](https://shipyard.build/agents/windsurf): Codeium's Windsurf: AI-driven IDE for agentic programming and prototyping
+
+## Preview Environments & Deployment Strategies
+
+- [Understanding Branch-Based Deploys](https://shipyard.build/blog/branch-based-deploys): Full-stack environments reflecting git branches for development and review
+- [Kubernetes Preview Environments: A Quick Overview](https://shipyard.build/blog/kubernetes-preview-environments-guide): On-demand K8s deployments for testing branches and PRs with GitOps
+
+## AI-Assisted Development & Testing
+
+- [Test-first development with agents and the Playwright MCP](https://shipyard.build/blog/test-first-development-playwright-mcp): Using Playwright MCP with Claude Code for TDD with AI agents
+- [Taking screenshots of your app with the Playwright MCP server](https://shipyard.build/blog/playwright-mcp-screenshots): Automating app screenshots with Playwright MCP, Claude Code, and Gemini CLI
+- [Claude Opus 4.5 vs Gemini 3 Pro for software engineering](https://shipyard.build/blog/claude-opus-45-gemini-3-software-engineering): Comparing Anthropic Claude Opus 4.5 and Google Gemini 3 Pro for dev tasks
+- [Claude Cowork: Claude Code for everyone else](https://shipyard.build/blog/claude-cowork): Anthropic's Claude Cowork: filesystem agent UI for non-developers
+
+## DORA Metrics & Developer Experience
+
+- [How to Measure DORA Change Fail Rate](https://shipyard.build/blog/measure-dora-change-fail-rate): Guide to measuring DORA change fail rate metric for deployment stability
+- [How to Measure DORA Lead Time for Changes](https://shipyard.build/blog/measure-dora-change-lead-time): Measuring DORA lead time from code commit to production deployment
+- [What's New in the 2024 DORA Report](https://shipyard.build/blog/2024-dora-report-whats-new): Analysis of DORA's 10th report covering Platform Engineering and DevEx
+- [Measuring Developer Experience with the DevEx Framework](https://shipyard.build/blog/devex-framework): Using the DevEx framework to measure developer happiness and productivity
+
+## Containerization & Infrastructure
+
+- [Containers Are Here To Stay](https://shipyard.build/blog/containers-are-here-to-stay): Why organizations should containerize their stack with Docker
+- [How To: Build and Run a Next.js App with Docker](https://shipyard.build/blog/nextjs-with-docker): Tutorial: Containerizing Next.js apps with Docker and Bun runtime
+- [How to simulate a DockerHub outage to test image caching](https://shipyard.build/blog/how-to-simulate-a-dockerhub-outage): Testing pull-through image caching by simulating DockerHub outage on AWS
+
+## Optional
+
+- [Shipyard Session on April 27th: E2E Testing Before Merge with MaestroQA](https://shipyard.build/blog/session-maestroqa-e2e-testing-before-merge): Webinar announcement: E2E testing with MaestroQA using Cypress
+- [Recap: Shipyard at KCD Texas + Civo Navigate Local 2024](https://shipyard.build/blog/recap-kcd-texas-civo-navigate-2024): Event recap from KCD Texas Austin and Civo Navigate Tampa conferences
+- [Press & Media](https://shipyard.build/press): Media coverage, interviews, and conference talks featuring Shipyard team

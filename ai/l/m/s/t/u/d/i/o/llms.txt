@@ -1,0 +1,61 @@
+# LM Studio
+
+> > LM Studio is a desktop application for running open-weight large language models locally with GPU acceleration, featuring OpenAI and Anthropic-compatible APIs, Python/TypeScript SDKs, and support for GGUF and MLX model formats.
+
+LM Studio enables developers and researchers to run models like gpt-oss, Qwen, Magistral, and other open-weight LLMs on local hardware. The platform provides CLI tools (lms), REST APIs, SDKs (lmstudio-python, lmstudio-js), and features like tool use, stateful chats, and RAG capabilities.
+
+## Key Topics
+
+- LM Studio
+- lmstudio-python
+- lmstudio-js
+- GGUF model format
+- MLX (Apple Silicon)
+- OpenAI-compatible API
+- Anthropic-compatible API
+- tool-use
+- mixture-of-experts (MoE)
+- reasoning models
+- GPU offload
+- stateful chats
+- CLI (lms)
+- gpt-oss
+- LM Studio Hub
+
+## Getting Started
+
+- [Project Setup](https://lmstudio.ai/docs/python/getting-started/project-setup): Install and configure lmstudio-python SDK for your project
+
+## Featured Models
+
+- [gpt-oss](https://lmstudio.ai/models/gpt-oss): OpenAI's first open source LLM (20B/120B) with Apache 2.0 license
+- [Magistral](https://lmstudio.ai/models/magistral): MistralAI's 24B reasoning model with 128K context and vision support
+- [qwen3-coder](https://lmstudio.ai/models/qwen3-coder): Alibaba's MoE coding model with 256K context (30B/480B sizes)
+- [qwen3-next](https://lmstudio.ai/models/qwen3-next): 80B hybrid MoE model with Gated DeltaNet attention (3B active)
+- [Rnj-1](https://lmstudio.ai/models/rnj-1): Essential AI's 8B code model with STEM and tool use capabilities
+- [LFM2-24B-A2B](https://lmstudio.ai/models/lfm2-24b-a2b): Liquid's 24B hybrid MoE model for efficient on-device deployment
+- [gpt-oss-safeguard](https://lmstudio.ai/models/gpt-oss-safeguard): OpenAI's safety models (20B/120B) for content moderation
+
+## Developer APIs
+
+- [Stateful Chats](https://lmstudio.ai/docs/developer/rest/stateful-chats): Maintain conversation context across REST API requests
+- [Messages Endpoint](https://lmstudio.ai/docs/developer/anthropic-compat/messages): Anthropic-compatible Messages endpoint API reference
+- [Generate Completions](https://lmstudio.ai/docs/typescript/llm-prediction/completion): TypeScript SDK guide for generating text completions
+- [Tokenization](https://lmstudio.ai/docs/typescript/tokenization): TypeScript API for tokenizing text using model tokenizers
+
+## CLI Reference
+
+- [lms load](https://lmstudio.ai/docs/cli/local-models/load): CLI reference for loading models with GPU offload and context settings
+- [lms server status](https://lmstudio.ai/docs/cli/serve/server-status): CLI command to check running server instance status
+
+## Configuration & Advanced
+
+- [Per-model Defaults](https://lmstudio.ai/docs/app/advanced/per-model): Configure default settings per model using model.yaml
+- [Importing and Sharing](https://lmstudio.ai/docs/app/presets/import): Import and share preset files from disk or URL
+
+## Release Notes & Tutorials
+
+- [Use your LM Studio Models in Claude Code](https://lmstudio.ai/blog/claudecode): Run Claude Code with local models via Anthropic-compatible API
+- [LM Studio 0.3.31](https://lmstudio.ai/blog/lmstudio-v0.3.31): Release: Image input, MiniMax M2 tools, Flash Attention for CUDA
+- [LM Studio 0.3.11](https://lmstudio.ai/blog/lmstudio-v0.3.11): Release notes: Python/TypeScript SDK support and Speculative Decoding
+- [LM Studio 0.3.12](https://lmstudio.ai/blog/lmstudio-v0.3.12): Release notes: RAG chunking speed improvements and bug fixes

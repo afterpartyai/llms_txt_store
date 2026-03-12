@@ -1,0 +1,61 @@
+# Sereja.tech
+
+> > Personal blog by Сережа Рис exploring AI-driven development with Claude Code, Telegram automation, and event-driven agent architectures.
+
+Sereja.tech documents practical experiments in vibecoding—building production systems through conversational AI agents. The blog covers Claude Code workflows, Telegram Bot API optimization, AI agent coordination patterns, and the emerging paradigm of personal automation corporations powered by LLMs.
+
+## Key Topics
+
+- Claude Code
+- AI Agents & Subagents
+- Telegram Bot API
+- Vibecoding & Workflow Automation
+- Event-Driven Architecture
+- MapReduce for Context Management
+- Claude Code Skills & Superpowers
+- MCP (Model Context Protocol)
+- Python Automation
+- file_id Optimization
+- RAG (Retrieval-Augmented Generation)
+- Single Source of Truth (SSOT)
+- Task Tool & Agent Orchestration
+- Video Pipeline Automation
+- Personal Corporation Pattern
+
+## AI Agent Architecture & Patterns
+
+- [Личная корпорация: сотрудники живут в компьютере](https://sereja.tech/blog/personal-corporation-event-driven-agents): Event-driven architecture: AI agents as autonomous departments with task queues
+- [MapReduce для субагентов: как обработать 12800 строк и не потерять контекст](https://sereja.tech/blog/mapreduce-subagents): MapReduce pattern for Claude Code subagents to handle 12800 lines context
+- [Moltbook: как создать социальную сеть для AI-агентов](https://sereja.tech/blog/moltbook-social-network-ai-agents): Moltbook architecture: Reddit for bots with A2A/ANP protocols, skill-based onboarding
+- [Документируй разговоры с агентом, а не код](https://sereja.tech/blog/document-conversations-not-code): 54 prompts, 2.5hrs: why vibecoding docs are conversations, not tech specs
+
+## Claude Code Workflows & Automation
+
+- [Claude Code как операционка для марафона: рассылки, сегменты, аналитика](https://sereja.tech/blog/claude-code-marketing-ops): Managing 821 users via Claude Code: broadcasts, segments, TUI analytics
+- [Видео-пайплайн на Claude Code: от записи до YouTube за один промпт](https://sereja.tech/blog/video-pipeline-claude-code): Automated video pipeline: Whisper subtitles, chapters, preview, YouTube upload
+- [Superpowers: скиллы для Claude Code, которые экономят часы](https://sereja.tech/blog/superpowers-brainstorming-workflow): Superpowers skills: brainstorming workflow with web research saves hours
+- [Skill для автопостинга в Telegram: завайбкодил за стрим](https://sereja.tech/blog/blog-to-telegram-skill): Claude Code skill: Haiku generates previews, Python posts to Telegram
+- [Запускаю context.lat: почему половина из 90 минут — не код](https://sereja.tech/blog/context-lat-90-minutes): Launched context.lat in 90min: half was planning (PRD, prototype) before code
+- [Модульные правила: как не утонуть в CLAUDE.md](https://sereja.tech/blog/modular-rules-claude-md): Splitting 500-line CLAUDE.md into .claude/rules/ by domain (DB, tests, UI)
+- [Homebrew: тысяча инструментов для агента](https://sereja.tech/blog/homebrew-cli-vibecoding): Homebrew gives Claude Code access to 7000+ CLI tools (yt-dlp, ffmpeg, whisper)
+
+## Telegram Bot Optimization
+
+- [Массовая рассылка в Telegram: почему альбом на 800 юзеров шёл 30 минут](https://sereja.tech/blog/telegram-broadcast-file-id): Optimizing Telegram Bot API media broadcasts using file_id (30min→60sec)
+- [Как мой AI-агент отправил 717 сообщений за 8 минут](https://sereja.tech/blog/telegram-broadcast-slow): Claude Code learns from sync→async optimization in Telegram broadcasts
+
+## AI Tools & Integrations
+
+- [NotebookLM + Claude Code: бесплатный RAG за 5 минут](https://sereja.tech/blog/notebooklm-claude-code-rag): Free RAG via notebooklm-py: Claude Code controls Gemini-powered NotebookLM
+- [MIDI + OBS + Claude Code: от идеи до работающего решения за 3 часа](https://sereja.tech/blog/midi-obs-claude-code): Arturia MiniLab 3 MIDI controller for OBS scenes with LED feedback via Claude Code
+- [Gemini 3.1 Pro — мастер SVG, но не агент](https://sereja.tech/blog/gemini-3-1-pro-svg-animations): Gemini 3.1 Pro excels at SVG animations but lacks agent capabilities
+
+## Industry Insights & Commentary
+
+- [Tailwind уволил 75% команды. AI убил их бизнес-модель](https://sereja.tech/blog/tailwind-layoffs-ai-impact): Tailwind Labs cuts 3/4 engineers after 80% revenue drop: AI killed docs traffic
+
+## Optional
+
+- [Один источник правды: почему копировать данные в документацию — плохая идея](https://sereja.tech/blog/ssot-documentation): Single Source of Truth principle: avoiding data duplication in docs
+- [Персонализация уроков через данные о студентах](https://sereja.tech/blog/personalized-teaching-student-data): LLM-parsed student profiles for personalized teaching examples (cohort 8)
+- [TUI-презентация прямо в Claude Code](https://sereja.tech/blog/tui-presentation-claude-code): ASCII-art terminal presentation inside Claude Code using presenterm

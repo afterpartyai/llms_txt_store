@@ -1,0 +1,64 @@
+# Apidog
+
+> > Apidog is an all-in-one API development platform offering design-first workflows, testing, mocking, documentation, and debugging tools with native support for OpenAPI, REST, GraphQL, gRPC, and WebSocket protocols.
+
+Apidog provides a comprehensive suite of API lifecycle management tools, positioning itself as a Postman alternative with enhanced collaboration features, visual OpenAPI design capabilities, and support for multiple API protocols including HTTP, SOAP, SSE, and CI/CD integration.
+
+## Key Topics
+
+- API Design
+- API Testing
+- API Documentation
+- API Mocking
+- OpenAPI Specification
+- Design-First Development
+- RESTful APIs
+- Postman Alternative
+- JSON Schema
+- API Authorization
+- GraphQL
+- gRPC
+- WebSocket
+- CI/CD Integration
+- Developer Collaboration
+
+## Platform Overview
+
+- [Apidog: Plataforma API Tudo-em-Um: Design, Depuração, Mock, Teste e Documentação](https://apidog.com/pt-BR): Portuguese homepage: All-in-one design-first API development platform
+- [Acerca de Apidog - Empresa de plataforma de desarrollo de API](https://apidog.com/es/about): Spanish about page: Apidog's mission and API development platform overview
+
+## API Design & Documentation
+
+- [Design de API - Ferramenta de design OpenAPI visual | Apidog](https://apidog.com/pt-PT/api-design): Portuguese: Visual OpenAPI design tool with JSON Schema and design-first flow
+- [API 文件 - 產生美觀的 API 文件 | Apidog](https://apidog.com/zh-TW/api-doc): Traditional Chinese: Auto-generate beautiful API docs with custom domains
+- [OpenAPI 3.0 Tutorial: OpenAPI Specification Definition](https://apidog.com/blog/openapi-specification): Tutorial on defining OpenAPI 3.0 specs for RESTful API documentation
+- [Design First with Swagger Editor: The Ultimate API Tool](https://apidog.com/blog/design-first-with-swagger-editor): Tutorial on design-first API development using Swagger Editor and OpenAPI
+- [8 Best API Interface Documentation Management Tools](https://apidog.com/articles/api-interface-documentation-management-tools): Comparison of 8 API documentation tools including Swagger and Postman
+
+## API Testing & Debugging
+
+- [Mock REQUEST Bodies to Accelerate API Debugging](https://apidog.com/blog/mock-request-bodies-automatically-to-accelerate-api-debugging): Guide to auto-generating mock request bodies for faster API debugging
+- [Mocking APIs with Complexed Data in Minutes](https://apidog.com/blog/how-to-mock-apis): Guide to mocking complex APIs with enums, arrays, and schemas in Apidog
+- [Visualizing Responses - Apidog Docs](https://apidog.com/help/script/script-example/visualizing-responses): Apidog guide to visualizing API responses using Handlebars and HTML
+- [Import cURL - Apidog Docs](https://apidog.com/help/import/import-curl): Apidog documentation for importing cURL commands from DevTools and proxies
+- [Top 8 JavaScript Debugging Tools for Front-End Development](https://apidog.com/blog/best-javascript-debugging-tools): Review of 8 JavaScript debugging tools including VS Code and Chrome DevTools
+
+## API Security & Authorization
+
+- [API Authorization: Definition, Types, and Best Practices](https://apidog.com/blog/api-authorization): Guide to API authorization covering OAuth 1.0, JWT, API Keys, and Basic Auth
+
+## Platform Comparisons
+
+- [Apidog vs Postman: 4 usuários grátis vs 1 usuário—A melhor alternativa ao Postman](https://apidog.com/pt-BR/compare/apidog-vs-postman): Portuguese comparison: Apidog (4 free users) vs Postman (1 free user)
+- [Apidog vs RapidAPI - Comparação de plataformas de API | Apidog](https://apidog.com/pt-BR/compare/apidog-vs-rapidapi): Portuguese comparison: Apidog vs RapidAPI platform features and capabilities
+- [Apidog vs Stoplight - Comparación de diseño de API y sitios de documentación | Apidog](https://apidog.com/pt-PT/compare/apidog-vs-stoplight): Portuguese comparison: Apidog vs Stoplight for API design and documentation
+
+## Integration Guides
+
+- [解説:Postman Collectionのデータのエクスポート・インポート方法](https://apidog.com/jp/blog/how-to-import-export-postman-collections): Japanese tutorial: importing/exporting Postman Collections to Apidog
+- [徹底解説:JMeterとは?日本語化する方法は?](https://apidog.com/jp/blog/what-is-jmeter-and-its-japanese-setting): Japanese guide to JMeter load testing tool and Japanese localization setup
+
+## Reference Documentation
+
+- [XPath - Apidog Docs](https://apidog.com/help/reference/xpath): XPath reference guide for XML query and API response extraction in Apidog
+- [実経験!最高のテスト自動化プラットフォームおすすめ](https://apidog.com/jp/blog/best-test-platforms): Japanese review of best test automation platforms including Apidog

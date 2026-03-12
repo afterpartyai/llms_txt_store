@@ -1,0 +1,44 @@
+# Puter Developer
+
+> > Puter Developer provides unified AI model APIs through Puter.js, enabling developers to access GPT-4, Claude, Grok, Qwen, and dozens of other models without managing API keys.
+
+The platform offers a user-pays model where end users authenticate and pay for AI usage directly, eliminating the need for developers to handle API credentials. Puter.js integrates seamlessly with JavaScript, Node.js, React, and Vue applications.
+
+## Key Topics
+
+- Puter.js
+- User-pays model
+- No API keys required
+- Unified AI API
+- Multimodal AI
+- Chat models
+- Language models
+- OpenAI GPT-4
+- Anthropic Claude
+- xAI Grok
+- Qwen (Alibaba)
+- JavaScript integration
+- Node.js
+- React & Vue support
+- AI model aggregation
+
+## Leading AI Model APIs
+
+- [GPT-4o 2024-05-13 API](https://developer.puter.com/ai/openai/gpt-4o-2024-05-13): OpenAI GPT-4o May 2024 snapshot API with version-locked behavior
+- [Grok 2 API](https://developer.puter.com/ai/x-ai/grok-2): xAI's Grok 2 frontier language model API reference with chat & coding
+- [Qwen Plus 0728 API](https://developer.puter.com/ai/qwen/qwen-plus-2025-07-28): Qwen Plus July 2025 snapshot API for production deployments
+- [Qwen Plus 0728 (thinking) API](https://developer.puter.com/ai/qwen/qwen-plus-2025-07-28:thinking): Qwen Plus reasoning model API with chain-of-thought processing
+- [NVIDIA Nemotron API](https://developer.puter.com/ai/nvidia): NVIDIA Nemotron AI models API reference via Puter.js integration
+
+## Specialized AI Model APIs
+
+- [ByteDance AI API](https://developer.puter.com/ai/bytedance): ByteDance AI Seedance video generation & multimodal API reference
+- [AI21 Labs API](https://developer.puter.com/ai/ai21): AI21 Labs Jamba models API reference via Puter.js integration
+- [Devstral Medium API](https://developer.puter.com/ai/mistralai/devstral-medium): Mistral AI's Devstral Medium agentic coding model API reference
+- [LFM2-8B-A1B API](https://developer.puter.com/ai/liquid/lfm2-8b-a1b): Liquid AI's on-device Mixture-of-Experts model API with 8.3B params
+- [StepFun: Step3 API](https://developer.puter.com/ai/stepfun/step3): StepFun Step3 multimodal reasoning model API with 321B parameters
+
+## Image Generation & Specialized Models
+
+- [Rundiffusion/Juggernaut-Lightning-Flux API](https://developer.puter.com/ai/rundiffusion/juggernaut-lightning-flux): RunDiffusion Juggernaut-Lightning-Flux image generation API reference
+- [Cognitive Computations API](https://developer.puter.com/ai/cognitivecomputations): Cognitive Computations Dolphin Mistral uncensored AI model API

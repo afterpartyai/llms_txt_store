@@ -1,31 +1,55 @@
 # Amazon Web Services (AWS)
 
-> > Cloud computing platform offering scalable infrastructure, AI/ML services, and enterprise solutions across global availability zones.
+> > AWS is Amazon's comprehensive cloud computing platform offering global infrastructure, compute services like Amazon EC2 and Amazon EKS, edge computing through AWS Local Zones, and solutions across regions including AWS GovCloud.
 
-AWS is Amazon's comprehensive cloud services platform providing compute power, database storage, content delivery, and other functionality to help businesses scale and grow. The platform serves enterprises, startups, and government organizations with services spanning artificial intelligence, machine learning, IoT, and data analytics across a global infrastructure network.
+Amazon Web Services provides on-demand cloud computing platforms and APIs to individuals, companies, and governments on a metered pay-as-you-go basis. AWS operates a global infrastructure spanning multiple regions and availability zones, with specialized services for low-latency edge computing, data residency compliance, and government workloads.
 
 ## Key Topics
 
-- AWS (Amazon Web Services)
-- Cloud Computing
-- Global Infrastructure
+- AWS Global Infrastructure
+- AWS Local Zones
 - Availability Zones
-- AWS Free Tier
-- Enterprise Cloud
-- AI Innovation
+- Amazon EC2
+- Amazon EKS
 - AWS GovCloud
-- Customer Stories
-- Scalable Services
-- Database Storage
-- Content Delivery
-- Machine Learning
-- Blue Origin
+- Edge Computing
+- Low-latency Applications
+- Regional Services
+- Data Centers
+- Cloud Computing
+- Data Residency
+- High Availability
+- AWS Academy
 
 ## Core Platform
 
-- [Cloud Computing Services - Amazon Web Services (AWS)](https://aws.amazon.com): AWS homepage showcasing cloud services, customer stories, and innovations
-- [Free Cloud Computing Services - AWS Free Tier](https://aws.amazon.com/free): AWS Free Tier offering hands-on experience with cloud products and services
+- [Cloud Computing Services - Amazon Web Services (AWS)](https://aws.amazon.com): AWS homepage featuring cloud computing services and customer stories
+- [About AWS](https://aws.amazon.com/about-aws): Overview of Amazon Web Services, company info, and global infrastructure
+
+## Global Infrastructure
+
+- [Global Infrastructure -  AWS](https://aws.amazon.com/about-aws/global-infrastructure): AWS global infrastructure: regions, availability zones, and edge locations
+- [Global Infrastructure Regions & AZs](https://aws.amazon.com/about-aws/global-infrastructure/regions_az): AWS regions and availability zones for high-availability cloud deployment
+- [AWS Services by Region](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services): Regional availability of AWS services across global infrastructure
+
+## AWS Local Zones & Edge Computing
+
+- [Deployment –AWS Local Zones–Amazon Web Services](https://aws.amazon.com/about-aws/global-infrastructure/localzones): AWS Local Zones for low-latency apps and data residency requirements
+- [AWS Local Zones Features - AWS](https://aws.amazon.com/about-aws/global-infrastructure/localzones/features): AWS Local Zones features for low-latency edge computing applications
+- [AWS Local Zones Locations - AWS](https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations): Geographic locations and availability of AWS Local Zones worldwide
+- [AWS Local Zones Pricing - Amazon Web Services](https://aws.amazon.com/about-aws/global-infrastructure/localzones/pricing): Pricing details for AWS Local Zones services and data transfer
+- [AWS Local Zones Resources](https://aws.amazon.com/about-aws/global-infrastructure/localzones/resources): Documentation, blogs, and resources for AWS Local Zones deployment
+- [AWS Local Zones FAQs - AWS](https://aws.amazon.com/about-aws/global-infrastructure/localzones/faqs): Frequently asked questions about AWS Local Zones deployment and features
+
+## Support & Resources
+
+- [FAQs](https://aws.amazon.com/about-aws/global-infrastructure/global-network/faqs): FAQs on AWS global network data transfer fees and pricing
 
 ## Optional
 
-- [Terms of Use | Scientific American](https://scientificamerican.com/page/terms-of-use): Legal terms and conditions for ScientificAmerican.com users and subscribers
+- [Our Impact](https://aws.amazon.com/about-aws/our-impact): AWS social responsibility: education equity, health initiatives, and impact
+- [AWS In Communities](https://aws.amazon.com/about-aws/global-infrastructure/community-engagement): AWS community engagement program supporting STEM education and local impact
+- [2026 Formula 1 Chinese Grand Prix - AWS Special Program](https://aws.amazon.com/about-aws/events/f1-chinese-prix-2026-0314-shanghai): AWS special event at 2026 F1 Chinese Grand Prix in Shanghai
+- [AWS](https://aws.amazon.com/about-aws/events/f1-chinese-prix-2026-0313-shanghai/registration): Event registration for AWS F1 Chinese Prix 2026 in Shanghai
+- [AWS 2026 F1 Chinese Grand Prix – AWS Special Program](https://aws.amazon.com/about-aws/events/f1-chinese-prix-2026-0314-shanghai/registration): Registration for AWS 2026 F1 Chinese Grand Prix special program
+- [AWS 2026 F1 Chinese Grand Prix – AWS Special Program](https://aws.amazon.com/about-aws/events/f1-chinese-prix-2026-0315-shanghai/registration): Registration for AWS F1 Chinese Grand Prix event in Shanghai 2026

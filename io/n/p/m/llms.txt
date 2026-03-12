@@ -1,0 +1,30 @@
+# npm.io
+
+> > npm.io is a comprehensive NPM package registry explorer providing detailed metadata, documentation, and reference information for JavaScript packages published to npm.
+
+The site serves as a package discovery and documentation platform for the npm ecosystem, offering detailed views of package versions, dependencies, licenses, and utilities ranging from lodash-inspired helpers to CLI tools and specialized libraries.
+
+## Key Topics
+
+- npm packages
+- JavaScript utilities
+- package metadata
+- ISC license
+- lodash-inspired utilities
+- CLI tools
+- npx business cards
+- function utilities (throttle, debounce, call, apply, bind)
+- ES6 features
+- package dependencies
+- array manipulation methods
+- deprecated packages
+- Chrome USB libraries
+- one-liner tools
+
+## NPM Package Reference
+
+- [01slc_unsolved NPM](https://npm.io/package/01slc_unsolved): NPM package details for 01slc_unsolved v1.0.0 with ISC license
+- [0216tool_xiaoye NPM](https://npm.io/package/0216tool_xiaoye): NPM package details for 0216tool_xiaoye v1.2.0 lodash-inspired utilities
+- [07gond NPM](https://npm.io/package/07gond): NPM package details for 07gond v1.3.1 npx business card by Gerson Niño
+- [1-liners-cli NPM](https://npm.io/package/1-liners-cli): NPM package details for 1-liners-cli v1.0.3 JavaScript one-liner tool
+- [1-wire-js NPM](https://npm.io/package/1-wire-js): NPM package details for 1-wire-js v1.4.3 Chrome USB 1-Wire protocol lib

@@ -1,0 +1,61 @@
+# EzAI API
+
+> > EzAI API provides unified access to Claude, GPT, and Gemini models with simplified authentication, one-command setup for Claude Code and Cursor, and production-ready error handling.
+
+EzAI API is a developer platform that streamlines AI integration by offering a single API for multiple AI providers (Anthropic Claude, OpenAI GPT, Google Gemini, xAI Grok). The platform specializes in Python-based tutorials, production error handling, and seamless integration with popular AI coding tools like Claude Code, Cursor, and Cline.
+
+## Key Topics
+
+- Claude API integration
+- Python AI development
+- Multi-model API access
+- Claude Code setup
+- Cursor integration
+- Rate limiting and exponential backoff
+- Production error handling
+- API authentication
+- FastAPI tutorials
+- Anthropic Claude Sonnet 4.5
+- OpenAI GPT migration
+- AI embeddings and semantic search
+- RAG (Retrieval Augmented Generation)
+- AI API pricing comparison
+- Extended thinking mode
+
+## Getting Started
+
+- [EzAI API Documentation — Setup Guide, API Reference & SDK Examples](https://ezaiapi.com/docs): Complete API docs: authentication, endpoints, SDKs, and setup guide
+- [Install EzAI API — One-Command Setup for Claude Code, Cursor & More](https://ezaiapi.com/download): One-command install for Claude Code, Cursor, and Anthropic tools
+- [Getting Started with EzAI API in 5 Minutes — EzAI Blog](https://ezaiapi.com/blog/getting-started): Quick setup guide for EzAI API with Claude Code and Cursor
+- [EzAI API FAQ — Troubleshooting, Rate Limits & Common Questions](https://ezaiapi.com/faq): FAQ covering troubleshooting, rate limits, and Claude Code setup
+
+## Production Best Practices
+
+- [AI API Error Handling: Retries, Timeouts & Fallbacks — EzAI Blog](https://ezaiapi.com/blog/ai-api-error-handling-production): Production AI error handling: retries, timeouts, and model fallbacks
+- [How to Handle AI API Rate Limits Like a Pro — EzAI Blog](https://ezaiapi.com/blog/handle-ai-api-rate-limits): Handle 429 errors and implement exponential backoff for AI APIs
+- [AI API Pricing in 2026: What Every Developer Should Know — EzAI Blog](https://ezaiapi.com/blog/ai-api-pricing-guide-2026): Compare 2026 AI API pricing: Claude, GPT, Gemini, and Grok models
+- [How to Migrate from OpenAI to Claude API in 30 Minutes — EzAI Blog](https://ezaiapi.com/blog/migrate-openai-to-claude): Migrate from OpenAI GPT to Claude API with Python and Node.js examples
+
+## AI Model Comparisons & Features
+
+- [Claude Opus 4.6 vs GPT-5.2 vs Gemini 3.1 Pro — EzAI](https://ezaiapi.com/blog/claude-opus-vs-gpt5-vs-gemini): Compare Claude Opus 4.6, GPT-5.2, and Gemini 3.1 Pro benchmarks
+- [Free AI Models — Use AI Without Spending a Dime — EzAI Blog](https://ezaiapi.com/blog/free-ai-models): Access free AI models via EzAI API with no credit card required
+- [AI Extended Thinking: When and How to Use It — EzAI Blog](https://ezaiapi.com/blog/ai-extended-thinking-guide): When to use extended thinking for Claude, GPT, and Gemini APIs
+
+## Python Tutorials & Project Guides
+
+- [Build an AI Codebase Q&A Tool with Python — EzAI Blog](https://ezaiapi.com/blog/build-ai-codebase-qa): Build Python CLI for codebase Q&A using Claude API and RAG techniques
+- [Build an AI Content Moderation API with Python — EzAI Blog](https://ezaiapi.com/blog/build-ai-content-moderator): Build content moderation API with Claude and FastAPI in Python
+- [Build an AI PDF Analyzer with Python and Claude — EzAI Blog](https://ezaiapi.com/blog/build-ai-pdf-analyzer): Extract and analyze PDF content using Claude API and PyMuPDF
+- [Build an AI Discord Bot with Python and Claude API — EzAI Blog](https://ezaiapi.com/blog/build-ai-discord-bot): Build Discord bot with Claude API, slash commands, and threads
+- [Build AI Semantic Search with Python and Embeddings — EzAI Blog](https://ezaiapi.com/blog/build-ai-semantic-search): Build semantic search engine using AI embeddings and numpy
+- [Build an AI Web Scraper with Python and Claude — EzAI Blog](https://ezaiapi.com/blog/build-ai-web-scraper): Intelligent web scraper using Claude AI for structured data extraction
+- [Build an AI Incident Responder with Python and Claude — EzAI Blog](https://ezaiapi.com/blog/build-ai-incident-responder): AI incident responder for alert triage and log analysis with Claude
+
+## Blog & Tutorials
+
+- [EzAI Blog — AI API Tutorials, Tips & Developer Guides](https://ezaiapi.com/blog): AI API tutorials and developer guides for Claude and EzAI
+
+## Optional
+
+- [Build an AI Git Commit Message Generator — EzAI Blog](https://ezaiapi.com/blog/build-ai-commit-message-generator): Generate Conventional Commits messages from git diffs using Claude

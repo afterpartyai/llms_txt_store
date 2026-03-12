@@ -1,0 +1,49 @@
+# Claude API
+
+> > Comprehensive documentation for Anthropic's Claude API, covering Messages API, tool usage, vision capabilities, streaming responses, and prompt caching across multiple Claude models (Haiku 4.5, Sonnet 4.5, Opus 4.1).
+
+Claude API by Anthropic provides developer documentation for integrating Claude's AI models into applications. The site covers core API features including the Messages endpoint, Server-Sent Events (SSE) streaming, multimodal vision input, tool/function calling with JSON Schema, and prompt caching optimization techniques.
+
+## Key Topics
+
+- Messages API
+- Claude Haiku 4.5
+- Claude Sonnet 4.5
+- Claude Opus 4.1
+- Server-Sent Events (SSE)
+- Prompt Caching
+- Tool Usage / Function Calling
+- Multimodal Vision
+- JSON Schema
+- Streaming Responses
+- API Documentation
+- Model Selection
+- Anthropic
+
+## Getting Started
+
+- [Claude API Documentation](https://claudeapi.net): Main documentation hub for Claude API featuring Messages endpoint, tool usage, vision capabilities, and streaming responses
+
+## International Documentation
+
+- [中文文档 (Chinese)](https://claudeapi.net/zh): Complete Claude API documentation in Chinese covering Messages API, tools, vision, and streaming with Haiku & Sonnet models
+- [日本語ドキュメント (Japanese)](https://claudeapi.net/ja): Japanese documentation for Messages API, tools, vision, SSE streaming, and prompt caching features
+- [한국어 문서 (Korean)](https://claudeapi.net/ko): Korean language guide to Claude API with Messages, tools, vision, and streaming capabilities
+- [Documentación en Español (Spanish)](https://claudeapi.net/es): Spanish documentation covering Messages API, tools, vision, streaming, and prompt caching
+- [Documentation Française (French)](https://claudeapi.net/fr): French guide to Messages API, tools, vision, and SSE streaming by Anthropic
+- [Deutsche Dokumentation (German)](https://claudeapi.net/de): German documentation for Messages endpoint, tools, vision, and SSE streaming features
+- [Documentação em Português (Portuguese)](https://claudeapi.net/pt): Portuguese documentation for Messages API, tools, vision, streaming, and prompt caching
+- [Documentazione Italiana (Italian)](https://claudeapi.net/it): Italian guide to Messages API with tools, vision, streaming, and JSON Schema support
+- [Русская документация (Russian)](https://claudeapi.net/ru): Russian documentation covering Messages API, tools, vision, streaming, and prompt caching
+- [الوثائق العربية (Arabic)](https://claudeapi.net/ar): Arabic documentation for Messages endpoint, tools, vision, and SSE streaming features
+- [مستندات فارسی (Persian)](https://claudeapi.net/fa): Persian guide to Messages endpoint, tools, vision, streaming, and caching capabilities
+- [हिंदी दस्तावेज़ (Hindi)](https://claudeapi.net/hi): Hindi documentation for Messages endpoint, tools, vision, and streaming responses
+- [Türkçe Dokümantasyon (Turkish)](https://claudeapi.net/tr): Turkish documentation for Messages API, tool usage, vision, and streaming by Anthropic
+- [Dokumentasi Indonesia (Indonesian)](https://claudeapi.net/id): Indonesian documentation for Messages API with Haiku 4.5 and Sonnet 4.5 models
+- [Tài liệu Tiếng Việt (Vietnamese)](https://claudeapi.net/vi): Vietnamese guide to Messages endpoint, tools, vision, and SSE streaming
+- [Nederlandse Documentatie (Dutch)](https://claudeapi.net/nl): Dutch documentation for Messages API with tools, vision, SSE, and prompt caching
+
+## Legal & Policies
+
+- [Terms of Service](https://claudeapi.net/terms): Usage guidelines and legal terms for Claude API documentation site
+- [Privacy Policy](https://claudeapi.net/privacy): Privacy policy covering analytics and data collection practices

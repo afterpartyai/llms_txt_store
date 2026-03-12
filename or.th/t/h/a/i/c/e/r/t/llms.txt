@@ -1,0 +1,49 @@
+# ThaiCERT (Thailand Computer Emergency Response Team)
+
+> Thailand's national Computer Emergency Response Team providing cybersecurity incident response, threat intelligence, and coordination services for national cyber defense.
+
+ThaiCERT (ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่งชาติ) operates under the National Cyber Security Agency (NCSA) to monitor, prevent, and respond to cyber threats affecting Thailand's critical infrastructure and digital ecosystem. The organization provides threat bulletins, vulnerability alerts, and coordinates incident response across government and private sectors.
+
+## Key Topics
+
+- ThaiCERT - Thailand Computer Emergency Response Team
+- Incident Response & Threat Intelligence
+- Zero-Day Vulnerabilities & CVE Tracking
+- CISA (Cybersecurity and Infrastructure Security Agency)
+- National Cyber Security Agency (NCSA)
+- Data Breach Response
+- Email Security & Gateway Protection
+- Barracuda ESG Security
+- Ransomware & LockBit
+- WordPress Security
+- Known Exploited Vulnerabilities (KEV)
+- International Cybersecurity Cooperation
+- PGP Encryption & Secure Communications
+- Monthly Cyber Threat Bulletins
+- Critical Infrastructure Protection
+
+## About ThaiCERT
+
+- [Homepage - National Computer Emergency Response Team](https://www.thaicert.or.th): ThaiCERT homepage: National CERT providing cyber threat response services
+- [Roles and Responsibilities](https://www.thaicert.or.th/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AD%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%B3%E0%B8%99%E0%B8%B1): ThaiCERT responsibilities: threat prevention, monitoring & response
+
+## Critical Security Alerts & Zero-Day Vulnerabilities
+
+- [Barracuda ESG Zero-Day Alert (CVE-2023-2868)](https://www.thaicert.or.th/2023/05/26/barracuda-%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B9%80%E0%B8%95%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%AB%E0%B8%A7%E0%B9%88-zero-day-%E0%B9%83%E0%B8%99-email-se): Barracuda ESG zero-day vulnerability CVE-2023-2868 security alert
+- [CISA Warning on Barracuda Zero-Day](https://www.thaicert.or.th/2023/05/30/cisa-%E0%B9%80%E0%B8%95%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B9%80%E0%B8%81): CISA warns government agencies about Barracuda ESG zero-day exploit
+- [iPhone WebKit Vulnerabilities in KEV Catalog](https://www.thaicert.or.th/2023/05/24/cisa-%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%AB%E0%B8%A7%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87-iphone-%E0%B8%A5%E0%B8%87%E0%B9%83%E0%B8%99-known): CISA adds iPhone WebKit zero-day vulnerabilities to KEV catalog
+- [WordPress Cookie Consent Plugin XSS Vulnerability](https://www.thaicert.or.th/2023/05/26/%E0%B9%81%E0%B8%AE%E0%B9%87%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%9E%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%9B%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B9%84): WordPress cookie consent plugin XSS vulnerability affects 1.5M sites
+
+## Data Breach & Ransomware Incidents
+
+- [LockBit Ransomware Attack on MCNA Dental](https://www.thaicert.or.th/2023/05/31/lockbit-ransomware-%E0%B9%82%E0%B8%88%E0%B8%A1%E0%B8%95%E0%B8%B5-mcna-dental-%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%9C%E0%B8%A5%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%9A%E0%B8%95%E0%B9%88%E0%B8%AD): LockBit ransomware breaches MCNA Dental, exposing 8.9M patient records
+- [Toyota Cloud Misconfiguration Data Leak](https://www.thaicert.or.th/2023/06/02/toyota-%E0%B8%9E%E0%B8%9A%E0%B9%80%E0%B8%8B%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%9F%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%81%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B8%94): Toyota cloud misconfiguration exposes customer data from G-BOOK service
+
+## Threat Intelligence & Security Bulletins
+
+- [Monthly Cyber Threat News Bulletin](https://www.thaicert.or.th/%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%84%E0%B8%B8%E0%B8%81%E0%B8%84%E0%B8%B2%E0%B8%A1%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%8B%E0%B9%80-2): Monthly cyber threat news bulletin and security updates from ThaiCERT
+
+## International Cooperation & Events
+
+- [Thailand-Russia Cybersecurity Cooperation](https://www.thaicert.or.th/2022/11/30/%E0%B8%A5%E0%B8%98-%E0%B8%81%E0%B8%A1%E0%B8%8A-%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%A2%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B8%A7%E0%B8%B0-%E0%B9%80): Thailand-Russia bilateral cybersecurity cooperation MOU meeting
+- [ThaiCERT Internship Program](https://www.thaicert.or.th/2022/12/02/%E0%B8%AA%E0%B8%81%E0%B8%A1%E0%B8%8A-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9): ThaiCERT welcomes interns for cybersecurity professional development

@@ -1,0 +1,58 @@
+# LaoZhang AI Blog
+
+> > Technical blog covering AI API pricing, optimization, and implementation guides for Gemini, Claude, ChatGPT, Sora, and Nano Banana models.
+
+LaoZhang AI Blog provides comprehensive guides on AI model APIs, focusing on cost optimization, error troubleshooting, and practical implementation. The site features detailed comparisons of major AI platforms including Google Gemini, OpenAI, Anthropic Claude, and emerging image/video generation models.
+
+## Key Topics
+
+- Gemini API
+- Nano Banana Pro
+- API pricing optimization
+- AI image generation
+- ChatGPT Plus
+- Claude Opus 4.6
+- Sora 2 API
+- Google AI Studio
+- API error troubleshooting
+- Cost comparison
+- Rate limits
+- Batch API
+- Model comparison
+- API authentication
+- ai.google.dev
+
+## API Error Troubleshooting & Integration
+
+- [Gemini API Error Troubleshooting: Complete Guide to Fix 429, 400, 500 Errors (2026)](https://blog.laozhang.ai/en/posts/gemini-api-error-troubleshooting): Gemini API error fixes: 429, 400, 500, 503, 504 with Python/JS retry code
+- [Every Nano Banana Pro Error Fixed: Complete Troubleshooting Guide for 429, 503, IMAGE_SAFETY and More (2026)](https://blog.laozhang.ai/en/posts/nano-banana-pro-error): Nano Banana Pro error fixes: 429, 503, IMAGE_SAFETY with production code
+- [Nano Banana Pro 错误代码：完整排错指南（2026）— 修复 503、429、400 及安全过滤错误](https://blog.laozhang.ai/zh/posts/nano-banana-pro-error-codes): Nano Banana Pro error troubleshooting: 503, 429, 400, safety filters fix
+- [修复 OpenClaw Anthropic API Key 错误：完整指南 [2026]](https://blog.laozhang.ai/zh/posts/openclaw-anthropic-api-key-error): OpenClaw Anthropic API key error fixes: OAuth, credentials, diagnostics
+- [Gemini CLI 安装教程：2026年全平台完整设置指南](https://blog.laozhang.ai/zh/posts/gemini-cli-install): Gemini CLI install guide: npm, Homebrew, Node.js 20+, OAuth setup
+
+## AI Model Pricing & Cost Optimization
+
+- [2026年最便宜最稳定的Sora 2 API渠道：完整服务商对比指南](https://blog.laozhang.ai/zh/posts/cheapest-stable-sora-2-api): Cheapest Sora 2 API: $0.15/video (85% savings) vs $1.00 official pricing
+- [Cheap Gemini Image API guide: $0.02-$0.24, Imagen 4 Fast, batch discounts](https://blog.laozhang.ai/ru/posts/cheap-gemini-image-api): Cheap Gemini Image API guide: $0.02-$0.24, Imagen 4 Fast, batch discounts
+- [Стоимость Gemini 3 Pro Image API за изображение: полный гайд по ценам 2026 с калькулятором](https://blog.laozhang.ai/ru/posts/gemini-3-pro-image-api-cost-per-image): Gemini 3 Pro Image pricing guide: $0.134-$0.24/image, batch discounts
+- [Сколько стоит AI генератор видео в 2026? Полное руководство по ценам](https://blog.laozhang.ai/ru/posts/how-much-does-ai-video-generator-cost): AI video generator pricing guide 2026: Sora 2, Runway, Kling, Pika, Veo 3.1
+- [Nano Banana Pro 4K дёшево: полное руководство по ценам 2026 (экономия до 92%)](https://blog.laozhang.ai/ru/posts/nano-banana-pro-4k-cheap): Nano Banana Pro 4K pricing: $0.24 official, $0.02 third-party (92% savings)
+
+## AI Model Comparisons
+
+- [Seedance 2.0 vs Veo 3.1 vs Sora 2: полное руководство по сравнению 2026 года](https://blog.laozhang.ai/ru/posts/seedance-2-vs-veo-3-vs-sora-2): Seedance 2.0 vs Veo 3.1 vs Sora 2: AI video model comparison 2026
+- [Nano Banana 2 vs Midjourney vs GPT Image 1.5 vs FLUX.2: 완벽 비교 가이드 (2026)](https://blog.laozhang.ai/ko/posts/nano-banana-2-vs-midjourney-vs-gpt-image-vs-flux2): Nano Banana 2 vs Midjourney vs GPT Image 1.5 vs FLUX.2 benchmark comparison
+- [ChatGPT vs Claude 2026年完全比較ガイド（GPT-5.4 vs Opus 4.6）](https://blog.laozhang.ai/ja/posts/chatgpt-vs-claude): ChatGPT (GPT-5.4) vs Claude (Opus 4.6) comprehensive comparison 2026
+
+## API Setup & Configuration Guides
+
+- [如何申请 Gemini API Key 并升级到 Tier 3（T3）：2026 完整指南](https://blog.laozhang.ai/zh/posts/gemini-t3-api-key-guide): Gemini API Key setup & Tier 3 upgrade guide: $1000 spend + 30 days
+- [Бесплатный API Gemini 3.1 Pro Preview — полное руководство по доступу, тарифам и экономии (2026)](https://blog.laozhang.ai/ru/posts/gemini-3-1-pro-preview-free-api): Gemini 3.1 Pro Preview free access guide: AI Studio, pricing, optimization
+- [Claude 4.6 Agent Teams 完全指南：2026年多智能体协作编程详解](https://blog.laozhang.ai/zh/posts/claude-4-6-agent-teams): Claude 4.6 Agent Teams guide: multi-agent collaboration programming
+- [ChatGPT Plus Image Upload Limit: Complete Guide to 50 Images/Day & Beyond (2026)](https://blog.laozhang.ai/en/posts/chatgpt-plus-image-upload-limit): ChatGPT Plus image upload limits: 50/day, 80 files/3hrs explained
+
+## Nano Banana Model Reviews & Guides
+
+- [Nano Banana 2 実測レビュー：速度テストと 2K/4K 画像生成完全ガイド（2026年）](https://blog.laozhang.ai/ja/posts/nano-banana-2-hands-on-speed-test-2k-4k-guide): Nano Banana 2 speed test: 4-15s (1K), 10-56s (4K), $0.045-$0.151/image
+- [Nano Banana 2 бесплатно онлайн: все бесплатные способы доступа в 2026](https://blog.laozhang.ai/ru/posts/nano-banana-2-online-free): Nano Banana 2 free access: Gemini app 10-20 images/day, AI Studio 50/day
+- [Nano Banana бесплатно? Полное руководство по всем методам доступа (2026)](https://blog.laozhang.ai/ru/posts/is-nano-banana-free): Nano Banana free access: Gemini app 20/day, AI Studio 50/day, limits guide

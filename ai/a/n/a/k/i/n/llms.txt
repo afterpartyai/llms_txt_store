@@ -1,0 +1,58 @@
+# Anakin AI
+
+> > Anakin AI: Platform for AI automation and vector database integration with comprehensive guides for Milvus, LangChain, LlamaIndex, and Claude.
+
+Anakin AI provides technical documentation and tutorials focused on vector database operations, AI model integration, and framework interoperability. The platform specializes in practical guides for developers working with Milvus vector databases, LangChain, LlamaIndex, and various AI models including Claude and OpenAI.
+
+## Key Topics
+
+- Vector Databases
+- Milvus
+- Python Integration
+- RESTful API
+- LangChain
+- LlamaIndex
+- Claude
+- Vector Embeddings
+- Batch Operations
+- Database Operations
+- Performance Optimization
+- API Usage
+- MilvusClient
+- Error Handling
+- Model Context Protocol (MCP)
+
+## Vector Database API Reference
+
+- [How to Use to_numpy API for Vector Databases](http://anakin.ai/blog/how-to-use-to_numpy-api-for-vector-databases): Guide to to_numpy operations in Milvus vector databases with Python code
+- [How to Use EmbeddingList API for Vector Databases](http://anakin.ai/blog/how-to-use-embeddinglist-api-for-vector-databases): EmbeddingList API tutorial for Milvus with batch operations and examples
+- [How to Use index API for Vector Databases](http://anakin.ai/blog/how-to-use-index-api-for-vector-databases): Index API operations guide with Python, REST, and performance optimization
+- [How to Use Get Load State API for Vector Databases](http://anakin.ai/blog/how-to-use-get-load-state-api-for-vector-databases): Get Load State API for checking vector collection memory status via REST
+- [How to Use encode_queries API for Vector Databases](http://anakin.ai/blog/how-to-use-encode_queries-api-for-vector-databases): encode_queries API guide for embedding models with batch operations
+- [How to Use create_resource_group API for Vector Databases](http://anakin.ai/blog/how-to-use-create_resource_group-api-for-vector-databases): Milvus create_resource_group API for vector database resource management
+- [How to Use get_compaction_state API for Vector Databases](http://anakin.ai/blog/how-to-use-get_compaction_state-api-for-vector-databases): Milvus get_compaction_state API for database optimization operations
+- [How to Use add_field API for Vector Databases](http://anakin.ai/blog/how-to-use-add_field-api-for-vector-databases): Milvus add_field API tutorial for vector database schema modifications
+- [How to Use get API for Vector Databases](http://anakin.ai/blog/how-to-use-get-api-for-vector-databases-2): Vector database get API operations with RESTful HTTP and Python examples
+
+## AI Framework Integration
+
+- [can langchain use openai models and how do i set them up](http://anakin.ai/blog/can-langchain-use-openai-models-and-how-do-i-set-them-up): LangChain setup tutorial for OpenAI GPT-3, GPT-3.5, and GPT-4 integration
+- [What is Model Context Protocol (MCP)? AI Integration Explained](http://anakin.ai/blog/what-is-model-context-protocol-mcp): MCP standard for AI assistant integration with Claude, ChatGPT, and Gemini
+- [can langchain interact with other frameworks like haystack or llamaindex](http://anakin.ai/blog/can-langchain-interact-with-other-frameworks-like-haystack-or-llamaindex): LangChain framework interoperability with Haystack and LlamaIndex explained
+- [can llamaindex support document version control](http://anakin.ai/blog/can-llamaindex-support-document-version-control): LlamaIndex document version control with Git, SharePoint, and Google Docs
+
+## AI Model Configuration
+
+- [how do you decide which model to use for a given task within amazon bedrock for example choosing between claude jurassic or a titan model](http://anakin.ai/blog/how-do-you-decide-which-model-to-use-for-a-given-task-within-amazon-bedrock-for-example-choosing-between-claude-jurassic-or-a-titan-model): Amazon Bedrock model selection guide: Claude vs Jurassic vs Titan models
+- [is claude code available in all claude models](http://anakin.ai/blog/is-claude-code-available-in-all-claude-models): Claude Code availability across Anthropic models for Python and Java
+- [how does gemini cli handle privacy and local files](http://anakin.ai/blog/how-does-gemini-cli-handle-privacy-and-local-files): Gemini CLI privacy and local file handling with Google security features
+
+## Database Management
+
+- [How to Use drop_privilege_group API for Vector Databases](http://anakin.ai/blog/how-to-use-drop_privilege_group-api-for-vector-databases): Milvus drop_privilege_group API for database privilege management
+
+## Optional
+
+- [Top 8 AI Jerk-Off Sites You Should Try in 2026](http://anakin.ai/blog/ai-jerk-off): NSFW AI content generators including FluxFun.ai and Stable Diffusion tools
+- [2026년 제한 없는 최고의 AI 포르노 비디오 생성기 TOP 10: 현실감과 자유도를 위한 최신 기술](http://anakin.ai/blog/ko-8): Korean: Top 10 uncensored AI video generators with deepfake technology
+- [How to Use Qwen Image Edit for NSFW Content](http://anakin.ai/blog/how-to-use-qwen-image-edit-for-nsfw-content): Qwen Image Edit and Flux AI for uncensored adult content generation

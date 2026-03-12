@@ -1,0 +1,61 @@
+# Claude Hub
+
+> > A comprehensive resource directory for Claude Code tools, integrations, SDKs, and development utilities built around Anthropic's Claude AI.
+
+Claude Hub catalogs open-source projects, CLI tools, hooks, agents, and extensions that enhance Claude Code workflows. The site features resources spanning multiple programming languages including TypeScript, Python, Rust, and JavaScript, with emphasis on developer automation, session management, and API integrations.
+
+## Key Topics
+
+- Claude Code
+- Claude Code Hooks
+- Anthropic
+- CLI Tools
+- Development Tools
+- SDK Integrations
+- TypeScript
+- Python
+- Rust
+- GitHub CLI
+- Agent Management
+- Session Management
+- RAG Chatbot
+- DevOps Automation
+- API Wrappers
+
+## Core Tools & Management
+
+- [claudia](https://www.claude-hub.com/resource/github-cli-getAsterisk-claudia): GUI app and toolkit for managing Claude Code agents and sessions
+- [opcode](https://www.claude-hub.com/resource/github-cli-getAsterisk-opcode-opcode): GUI toolkit for custom agents and Claude Code session management
+- [claude-code-router](https://www.claude-hub.com/resource/github-cli-musistudio-claude-code-router-claude-code-router): Claude Code router for flexible model interaction with Anthropic updates
+- [claude-code-config](https://www.claude-hub.com/resource/github-cli-Yukuiii-claude-code-config-claude-code-config): Wails-based desktop app for modifying Claude Code configuration files
+- [lpclaude](https://www.claude-hub.com/resource/github-cli-lpasqualis-lpclaude-lpclaude): Custom agents and commands extension for Claude Code
+
+## Hooks & Extensions
+
+- [cchooks](https://www.claude-hub.com/resource/github-cli-GowayLee-cchooks-cchooks): Python SDK for Claude Code hooks integration
+- [cc-sessions](https://www.claude-hub.com/resource/github-cli-GWUDCAP-cc-sessions-cc-sessions): Extension set for Claude Code hooks, subagents, and task management
+- [claude-code-ntfy-service](https://www.claude-hub.com/resource/github-cli-pppobear-claude-code-ntfy-service): Rust CLI integrating Claude Code hooks with ntfy notifications
+- [/husky](https://www.claude-hub.com/resource/awesome-husky): Husky Git hooks setup for pre-commit standards and code quality
+
+## SDK & API Integration
+
+- [anthropics-claude-code-sdk-typescript-examples](https://www.claude-hub.com/resource/github-cli-hasangilak-anthropics-claude-code-sdk-typescript-examples-anthropics-claude-code-sdk-typescript-examples): TypeScript examples for Anthropic's Claude Code SDK, MCP, and hooks
+- [claude-code-openai-wrapper](https://www.claude-hub.com/resource/github-cli-ALTIbaba-claude-code-openai-wrapper-claude-code-openai-wrapper): OpenAI API-compatible wrapper for seamless Claude Code integration
+- [ClaudeMCP](https://www.claude-hub.com/resource/github-cli-jackpalm88-ClaudeMCP-ClaudeMCP): Development server tools with Claude integration
+
+## DevOps & Automation
+
+- [/pr-review](https://www.claude-hub.com/resource/awesome-pr-review): PR review tool for feedback, issue checking, and improvement suggestions
+- [Claudey-With-a-Chance-of-DevOps](https://www.claude-hub.com/resource/github-cli-jhs-Claudey-With-a-Chance-of-DevOps-Claudey-With-a-Chance-of-DevOps): Easy DevOps automation using Claude Code
+- [claude-daily-check-in](https://www.claude-hub.com/resource/github-cli-codeotter0201-claude-daily-check-in-claude-daily-check-in): GitHub Actions for automated Claude Code session reset scheduling
+
+## Specialized Applications
+
+- [Claudable](https://www.claude-hub.com/resource/github-cli-opactorai-Claudable-Claudable): Open-source web builder leveraging Claude Code and Cursor Agent
+- [dl-claude-code-ragchatbot-codebase](https://www.claude-hub.com/resource/github-cli-25b3nk-dl-claude-code-ragchatbot-codebase-dl-claude-code-ragchatbot-codebase): RAG chatbot codebase for Claude Code from DeepLearning.AI course
+- [plato](https://www.claude-hub.com/resource/github-cli-anubissbe-plato-plato): Claude Code-style terminal AI assistant powered by GitHub Copilot
+- [ai-ley](https://www.claude-hub.com/resource/github-cli-armoin2018-ai-ley-ai-ley): AI personas and instruction sets for Claude Code and other AI tools
+
+## Optional
+
+- [uigen-claude-practice](https://www.claude-hub.com/resource/github-cli-anisemadh-uigen-claude-practice-uigen-claude-practice): Practice project for Claude Code GitHub integration

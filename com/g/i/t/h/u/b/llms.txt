@@ -1,53 +1,41 @@
 # GitHub
 
-> > The world's leading AI-powered developer platform for building, collaborating, and shipping software with tools like GitHub Copilot, Actions, and Codespaces.
+> > GitHub is the world's leading AI-powered developer platform for building, scaling, and securing software with tools like GitHub Copilot, Actions, Codespaces, and Advanced Security.
 
-GitHub hosts millions of open source projects and provides integrated DevOps tools including CI/CD pipelines, code security scanning, cloud development environments, and AI-assisted coding. The platform serves individual developers, organizations, and enterprises across all programming languages and frameworks.
+GitHub provides comprehensive collaboration, CI/CD, and code security solutions for developers and enterprises. The platform integrates AI assistance through Copilot, cloud development environments via Codespaces, automated workflows with Actions, and extensive security features including Dependabot and Advanced Security.
 
 ## Key Topics
 
 - GitHub Copilot
 - GitHub Actions
 - GitHub Codespaces
-- AI code assistant
-- Developer platform
+- GitHub Advanced Security
+- CI/CD
+- Code Security
+- AI Code Assistant
+- Developer Platform
+- Open Source
+- Code Review
+- Dependabot
+- GitHub Packages
+- GitHub CLI
 - Collaboration
-- CI/CD automation
-- Code security
-- Cloudflare Workers
-- Cloudflare R2
-- Image hosting
-- MicroPython
-- Open source
-- Cloud development
-- Version control
+- Developer Community
 
-## Platform Overview
+## Getting Started
 
-- [GitHub Homepage](https://github.com): AI-powered developer platform homepage featuring Copilot, Actions & more
+- [GitHub Homepage](https://github.com/): AI-powered developer platform homepage featuring Copilot, Actions & more
+- [GitHub Features](https://github.com/features): Overview of GitHub features: Codespaces, Copilot, Actions & security
+- [GitHub Organization](https://github.com/github): GitHub's official organization profile with 535 repos and products
 
-## Organizations & Communities
+## Documentation
 
-- [01.AI](https://github.com/01-ai): AI 2.0 company building LLMs and multi-agent frameworks like Yi
-- [01 Education](https://github.com/01-edu): Open learning platform for software engineering and peer education
-- [01Studio](https://github.com/01studio-lab): MicroPython embedded programming org with dev boards and IoT projects
+- [GitHub Docs](https://docs.github.com/): Complete documentation for GitHub products, developers & administrators
 
-## Cloudflare & Serverless Projects
+## Tools & Marketplace
 
-- [JSimages](https://github.com/0-RTT/JSimages): Image/video hosting service built on Cloudflare R2 storage
-- [Telegraph Media Hosting](https://github.com/0-RTT/telegraph): Serverless media hosting using Cloudflare Worker and Pages
-
-## Developer Tools & Integrations
-
-- [WHMCS Mollie Payments](https://github.com/0100Dev/WHMCS-Mollie-Payments): WHMCS payment gateway integration for all Mollie payment methods
-- [01-Artikelsystem](https://github.com/01-Scripts/01-Artikelsystem): Article and content management module for 01ACP CMS in PHP
-- [MapStyleProfile](https://github.com/01100100/mapStyleProfile): Vector map style profiler for MapLibre performance testing
-
-## Documentation & Tutorials
-
-- [01Studio Wiki](https://github.com/01studio-lab/01studio_wiki): 01Studio tutorial wiki built with Docusaurus in Chinese
+- [GitHub Marketplace](https://github.com/marketplace): Developer tools marketplace with AI models, CI/CD, and automation tools
 
 ## Optional
 
-- [Shattered Pixel Dungeon Releases](https://github.com/00-Evan/shattered-pixel-dungeon/releases): Version history and downloads for Shattered Pixel Dungeon game
-- [007cg](https://github.com/007chigua/007cg): Address directory and link aggregation for 007吃瓜网
+- [Trending Repositories](https://github.com/trending): Daily trending repositories including AI, ML, and open-source projects

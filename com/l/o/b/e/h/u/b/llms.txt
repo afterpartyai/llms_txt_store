@@ -1,74 +1,51 @@
 # LobeHub
 
-> > LobeHub is an open-source AI agent collaboration platform supporting Claude, GPT-4o, DeepSeek, and local models with marketplace integrations for skills and Model Context Protocol (MCP) servers.
+> > LobeHub is an AI agent collaboration platform where you can discover, build, and deploy intelligent agents with multimodal workflow automation.
 
-LobeHub enables users to build, customize, and deploy AI agent teammates with multimodal capabilities, knowledge bases, and workflow automation. The platform offers self-hosting options via Docker, Vercel, and other platforms, plus cloud subscriptions with compute credits for major LLM providers.
+LobeHub provides a comprehensive marketplace and development environment for AI agents, featuring integrations with ChatGPT, Claude, Gemini, DeepSeek-OCR, and MCP (Model Context Protocol). The platform offers agent skills, workflow automation, knowledge base management, and a complete design system through Lobe UI, Icons, Charts, and TTS components.
 
 ## Key Topics
 
-- AI Agents & Agent Builder
-- Model Context Protocol (MCP)
-- Claude, GPT-4o, DeepSeek integration
-- Agent Marketplace & Skills Marketplace
-- Self-hosting with Docker & Vercel
-- Multimodal AI & Knowledge Bases
-- LLM Integration (OpenAI, Ollama, Hunyuan)
-- Agent Collaboration & Workflow Automation
-- Next.js & Open-source Development
-- S3 Storage & Vector Embeddings
-- Docker Compose Deployment
-- Cross-platform (macOS, Windows, Linux)
-- Developer Tools & Ecosystem
+- AI Agents
+- Agent Marketplace
+- Agent Builder
+- MCP (Model Context Protocol)
+- DeepSeek-OCR
+- ChatGPT
+- Multimodal Workflow Automation
+- Skills Integration
+- Knowledge Base (RAG)
+- Lobe UI Design System
+- Agent Collaboration
+- Image Generation
+- Workflow Automation
+- OIDC Authentication
+- ZenMux
 
 ## Getting Started
 
-- [LobeHub Homepage](https://lobehub.com): Main homepage for LobeHub's agent collaboration platform
-- [Introduction](https://lobehub.com/docs/usage/start): Introduction to LobeHub's agent platform and core concepts
-- [Agent Builder Guide](https://lobehub.com/docs/usage/getting-started/agent): Guide to creating and configuring agents with skills and knowledge
-- [Downloads](https://lobehub.com/downloads): Download LobeHub for macOS, Windows, Linux, iOS, and Android
-- [About LobeHub](https://lobehub.com/about): LobeHub's mission to make AI accessible through open-source tools
-- [Plans & Pricing](https://lobehub.com/pricing): Subscription plans with GPT-4o, Claude, and Gemini compute credits
+- [Homepage (Traditional Chinese)](https://lobehub.com/zh-TW/home): Homepage: Find, build & collaborate with AI agents featuring DeepSeek-OCR
+- [Homepage (Japanese)](https://lobehub.com/ja): Japanese homepage for AI agent collaboration with DeepSeek-OCR & MCP
+- [Homepage (Bulgarian)](https://lobehub.com/bg): Bulgarian homepage for agent marketplace with DeepSeek-OCR & MCP support
+- [Homepage (German)](https://lobehub.com/de): German homepage for AI agent platform with multimodal workflow automation
 
-## Marketplaces
+## Agent Marketplace
 
-- [Agent Skills Marketplace](https://lobehub.com/skills): Browse and install agent skills compatible with Claude and ChatGPT
-- [MCP Servers Marketplace](https://lobehub.com/mcp): Model Context Protocol servers for browser automation and integrations
+- [Agent Marketplace (Korean)](https://lobehub.com/ko/agent): Korean agent marketplace for writing, Q&A, images, video & workflows
 
-## Self-Hosting & Deployment
+## Skills & Extensions
 
-- [Self-Hosting Overview](https://lobehub.com/docs/self-hosting/start): Self-hosting guide with Vercel, Docker, Zeabur, and other platforms
-- [Docker Compose Deployment](https://lobehub.com/docs/self-hosting/platform/docker-compose): Docker Compose deployment guide for LobeHub server database version
-- [S3 Storage Configuration](https://lobehub.com/docs/self-hosting/advanced/s3): S3 storage configuration for multimodal AI with Amazon, Cloudflare R2
+- [Agent Skills Marketplace](https://lobehub.com/pt-BR/skills): Skills marketplace for Claude Code, Codex CLI & ChatGPT using SKILL.md
 
-## LLM Provider Integrations
+## Pricing & Plans
 
-- [DeepSeek Integration](https://lobehub.com/docs/usage/providers/deepseek): Configure DeepSeek-V3 and DeepSeek-R1 models in LobeHub
-- [Ollama Integration](https://lobehub.com/docs/usage/providers/ollama): Run Llama 2, Mistral, and other LLMs locally with Ollama integration
-- [SenseTime SenseNova](https://lobehub.com/docs/usage/providers/sensenova): Setup guide for SenseTime SenseNova API integration in LobeHub
-- [Tencent Hunyuan](https://lobehub.com/docs/usage/providers/hunyuan): Configure Tencent Hunyuan API for intelligent assistant conversations
+- [Pricing Plans](https://lobehub.com/pl/pricing): Pricing plans with GPT-4o mini, Claude 3.5 Sonnet & Gemini credits
 
-## Support & Resources
+## Developer Resources
 
-- [Help & Support](https://lobehub.com/docs/usage/help): Help resources, community channels, and contact information
-- [Resources Hub](https://lobehub.com/resources): Docs, guides, and community resources for LobeHub users
-- [FAQ: Insufficient Credits](https://lobehub.com/docs/usage/faq/calculating-credits-are-insufficient): FAQ on handling insufficient calculation credits in LobeHub Cloud
-- [FAQ: Vector Storage](https://lobehub.com/docs/usage/faq/how-is-vector-storage-calculated): FAQ explaining vector storage calculation for embeddings in LobeHub Cloud
-
-## Developer Reference
-
-- [Development Resources](https://lobehub.com/docs/development/basic/resources): Development resources including OpenAI API, AI SDK, and ecosystem tools
+- [Resources & Documentation](https://lobehub.com/ko/resources): Docs, guides & community resources for Lobe UI, Icons, Charts & TTS
 
 ## Optional
 
-- [Ethical Security Analyst Agent](https://lobehub.com/agent/cyber-specialist): Security analyst agent for vulnerability assessment and testing
-- [Sales Automation Skill](https://lobehub.com/skills/openclaw-skills-sales): Sales automation skill with CRM integration and pipeline management
-- [Songwriting Mentor Agent](https://lobehub.com/agent/singer): Songwriting mentor agent for lyrics, melodies, and composition
-- [React Native Guide Agent](https://lobehub.com/agent/react-native): React Native coding guide agent for TypeScript and Expo development
-- [Knowledge Base Builder Skill](https://lobehub.com/skills/onewave-ai-claude-skills-knowledge-base-builder): Automate support documentation and FAQ generation from tickets
-- [Tutorial Creation Skill](https://lobehub.com/skills/wahidyankf-open-sharia-enterprise-docs-creating-by-example-tutorials): Skill for authoring code-first tutorials with annotation standards
-- [MCP Crash Course](https://lobehub.com/mcp/anvisimi-mcpcrashcourse): MCP crash course covering server and client development tutorials
-- [Local Skills MCP Server](https://lobehub.com/mcp/moscaverd-local-skills-mcp): Universal MCP server for local filesystem skills with lazy loading
-- [SAP Documentation MCP](https://lobehub.com/mcp/marianfoo-mcp-sap-docs): MCP server for offline SAP documentation and community content access
-- [Drawing Guides MCP](https://lobehub.com/mcp/bhubbb-mcp-drawing-guides): MCP server for drawing tutorials from easydrawingguides.com
-- [Minecraft Command Tutor](https://lobehub.com/agent/mcse-helper): Minecraft command tutor agent for game command tutorials
-- [Soccer Companion Agent](https://lobehub.com/de/agent/soccer): Soccer companion agent for match updates and player statistics
+- [Changelog (Turkish)](https://lobehub.com/tr/changelog): Track new features, fixes & improvements with MCP, ZenMux & more
+- [Changelog (Vietnamese)](https://lobehub.com/vi-VN/changelog): Vietnamese changelog with MCP, ZenMux & Qiniu Cloud updates

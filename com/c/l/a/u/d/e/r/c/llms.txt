@@ -1,0 +1,64 @@
+# Claude Remote
+
+> > Control Claude Code from your iPhone or iPad — run AI coding agents remotely on your Mac with zero-cloud architecture.
+
+Claude Remote is a distributed development platform that enables mobile control of Claude Code sessions running on Mac. Built on tmux, WebSocket, and Cloudflare Tunnel, it provides secure remote access to AI coding agents with end-to-end encryption and local-only execution.
+
+## Key Topics
+
+- Claude Code remote control
+- iPhone/iPad mobile development
+- tmux session management
+- WebSocket real-time communication
+- Zero-cloud architecture
+- Cloudflare Tunnel networking
+- iOS lifecycle handling
+- AI coding agent monitoring
+- End-to-end encryption
+- macOS server setup
+- Session persistence
+- Mobile approval UX
+- Remote development workflow
+- Full-stack app building
+- Long-running task management
+
+## Getting Started
+
+- [Les 10 premières minutes avec Claude Remote](https://clauderc.com/fr/blog/2026-02-26-first-10-minutes-with-claude-remote): Quick-start guide: setup, connection modes, common mistakes with tmux
+- [Tutorial: Eine Full-Stack-App remote bauen mit Claude Remote](https://clauderc.com/de/blog/2026-02-27-building-fullstack-app-remotely): Tutorial: Build full-stack TaskFlow app with Claude Code from iPhone
+- [원격 개발 환경 최적화](https://clauderc.com/ko/blog/2026-02-27-optimizing-remote-dev-environment): Optimize Mac, network, iPhone setup for Claude Remote performance
+
+## Architecture & Technical Deep-Dives
+
+- [휴대폰에서 Claude Code 원격 실행하기](https://clauderc.com/ko/blog/2026-02-28-running-claude-code-remotely-from-your-phone): Technical deep-dive: websocket architecture, tmux, iPhone control of Mac
+- [L'architecture derrière Claude Remote : Construire une plateforme de codification distribuée](https://clauderc.com/fr/blog/2026-02-27-architecture-of-a-remote-coding-platform): Platform architecture: Mac as source of truth, tmux integration, iPhone UI
+- [One Dependency: Building a Production Server with Just the ws Package](https://clauderc.com/blog/2026-02-28-one-dependency-server): Node.js server architecture with single ws package dependency
+- [Diseño del comportamiento de reconexión para las restricciones del ciclo de vida de iOS](https://clauderc.com/es/blog/2026-02-26-ios-lifecycle-and-reconnect-design): iOS lifecycle handling and websocket reconnection design patterns
+- [零云架构：Claude Remote 如何让你的代码始终留在本地](https://clauderc.com/zh-CN/blog/2026-02-28-security-model-zero-cloud-architecture): Zero-cloud architecture: local execution, E2E encryption, Mac-iPhone pairing
+
+## Security & Best Practices
+
+- [Mejores prácticas de seguridad para codificación IA remota](https://clauderc.com/es/blog/2026-02-28-security-best-practices-remote-ai-coding): Security best practices: Cloudflare Tunnel, TLS, network encryption
+
+## Workflow & Session Management
+
+- [在移动端自信地运行长任务](https://clauderc.com/zh-CN/blog/2026-02-26-running-long-tasks-with-confidence): Long-running task workflow: session habits, Start protection, notifications
+- [管理多个 Claude Code 会话：高级用户技巧](https://clauderc.com/zh-CN/blog/2026-02-28-managing-multiple-claude-code-sessions): Managing multiple Claude Code sessions with tmux on Mac/iPhone
+- [5 Wege, KI-Coding-Agents auf dem Handy zu überwachen](https://clauderc.com/de/blog/2026-02-28-monitor-ai-coding-agents-on-phone): 5 methods to monitor AI coding agents via push notifications & streaming
+
+## Product Design & UX
+
+- [Conception de l'UX d'approbation mobile pour les actions à haut risque](https://clauderc.com/fr/blog/2026-02-27-designing-mobile-approval-ux-for-high-risk-actions): Mobile approval UX framework for high-risk actions and error prevention
+- [iOS 2.0 Redesign: Ein Ausblick auf das, was kommt](https://clauderc.com/de/blog/2026-02-27-ios-2-0-redesign-preview): iOS 2.0 redesign preview: split-view navigation and iPad support
+
+## Product Updates & Community
+
+- [社区里程碑：1,000 名活跃开发者](https://clauderc.com/zh-CN/blog/2026-02-27-community-milestone-1000-developers): 1,000 developers milestone: usage patterns and geographic distribution
+- [Lokalisierung und Verbesserungen der Eingabezuverlässigkeit](https://clauderc.com/de/news/2026-02-25-localization-rollout): Localization rollout and German keyboard IP input fix for iOS/macOS
+- [Déploiement de la localisation et améliorations de la fiabilité des entrées](https://clauderc.com/fr/news/2026-02-25-localization-rollout): Localization launch and IPv4 input reliability fix (French)
+
+## Optional
+
+- [博客 - Claude Remote](https://clauderc.com/zh-CN/blog): Blog index: product insights, engineering notes, UX improvements
+- [Blog - Claude Remote](https://clauderc.com/es/blog): Blog index: product ideas, engineering, UX improvements (Spanish)
+- [Neuigkeiten - Claude Remote](https://clauderc.com/de/news): Product news index: releases, announcements, Mac app, localization

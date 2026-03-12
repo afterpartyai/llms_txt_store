@@ -1,0 +1,61 @@
+# Claude Code
+
+> > Official documentation for Claude Code, Anthropic's agentic coding assistant for terminal, IDE, and browser environments.
+
+Claude Code is an AI-powered development tool that integrates with VS Code, GitHub, Slack, and CI/CD pipelines. It supports multiple deployment options including Amazon Bedrock, Google Vertex AI, and programmatic execution via the Agent SDK.
+
+## Key Topics
+
+- Claude Code
+- Anthropic
+- VS Code integration
+- Model Context Protocol (MCP)
+- GitHub Actions
+- Slack integration
+- Amazon Bedrock
+- Google Vertex AI
+- Agent SDK
+- CLI usage
+- Desktop app
+- Workflow automation
+- Dev containers
+- CI/CD integration
+- Browser automation
+
+## Getting Started
+
+- [Claude Code Overview](https://code.claude.com/docs): Introduction to Claude Code's agentic coding capabilities across terminal, IDE, and browser
+- [Quickstart Guide](https://code.claude.com/docs/de/quickstart): Fast installation and setup for CLI and IDE environments
+- [Desktop Application](https://code.claude.com/docs/de/desktop): Using the desktop app with sessions, diffs, previews, and integrations
+
+## Integrations & Extensions
+
+- [Model Context Protocol (MCP)](https://code.claude.com/docs/de/mcp): Connect external tools and services via MCP integration
+- [Plugin Marketplace](https://code.claude.com/docs/de/discover-plugins): Discover and install pre-built plugins and MCP servers
+- [Slack Integration](https://code.claude.com/docs/de/slack): Delegate coding tasks from Slack workspace channels
+- [Chrome Browser (Beta)](https://code.claude.com/docs/de/chrome): Web testing and browser automation with Chrome integration
+
+## CI/CD & Automation
+
+- [GitHub Actions](https://code.claude.com/docs/de/github-actions): AI-powered workflow automation with GitHub Actions
+- [GitLab CI/CD](https://code.claude.com/docs/de/gitlab-ci-cd): Automated merge requests and CI/CD with GitLab
+- [Workflow Hooks](https://code.claude.com/docs/de/hooks-guide): Automate workflows with shell command hooks on file events
+- [Programmatic Execution](https://code.claude.com/docs/de/headless): Run Claude Code via Agent SDK with Python, TypeScript, or CLI
+
+## Cloud Platforms & Deployment
+
+- [Amazon Bedrock](https://code.claude.com/docs/en/amazon-bedrock): Setup with AWS credentials and IAM configuration
+- [Google Vertex AI](https://code.claude.com/docs/de/google-vertex-ai): Configure with Google Cloud IAM and authentication
+- [Development Containers](https://code.claude.com/docs/de/devcontainer): Consistent development environments with Docker and VS Code
+
+## Configuration & Customization
+
+- [Output Styles](https://code.claude.com/docs/de/output-styles): Customize output formats and system prompts for various use cases
+
+## Support & Resources
+
+- [Troubleshooting](https://code.claude.com/docs/de/troubleshooting): Common installation and usage issues across platforms
+
+## Optional
+
+- [Changelog](https://code.claude.com/docs/de/changelog): Version history and release notes

@@ -1,0 +1,60 @@
+# Ollama
+
+> > Ollama is a platform for running and sharing quantized large language models locally, featuring collections from Google, Mistral, Llama, and specialized variants for medical AI, Japanese language processing, and multilingual translation.
+
+Ollama hosts a diverse ecosystem of AI models including MedGemma for healthcare applications, Japanese-tuned variants like ezo-gemma and LLM-JP-3, and quantized versions optimized for efficient local deployment. The platform supports model sharing through user profiles and provides detailed metadata including templates, licenses, and version tags.
+
+## Key Topics
+
+- Quantized models (Q4, Q6, Q8)
+- MedGemma medical AI
+- Gemma 2 and Gemma 3 variants
+- Japanese language models (ezo-gemma, LLM-JP-3)
+- Phi-3.5-mini-Instruct
+- Multilingual translation models
+- Model templates and chat formats
+- Fine-tuned instruction models
+- Llama-based architectures
+- Model quantization techniques
+- Healthcare NLP applications
+- User model collections
+- Mistral Nemo architecture
+- Chinese RAG models
+- Hugging Face integration
+
+## Medical & Healthcare AI Models
+
+- [alibayram/medgemma](https://ollama.com/alibayram/medgemma:latest): Latest MedGemma model for medical text/image comprehension
+- [alibayram/medgemma:27b](https://ollama.com/alibayram/medgemma:27b): MedGemma 27B for medical text/image comprehension by Google
+- [alibayram/medgemma:4b](https://ollama.com/alibayram/medgemma:4b): MedGemma 4B medical AI model variant for healthcare NLP
+- [alibayram Profile](https://ollama.com/alibayram): PhD candidate's profile with medical & multilingual AI models
+- [MedGemma Tags](https://ollama.com/alibayram/medgemma/tags): Version tags for MedGemma medical AI model variants
+
+## Japanese Language Models
+
+- [7shi/ezo-gemma-2-jpn](https://ollama.com/7shi/ezo-gemma-2-jpn): Japanese-tuned Gemma-2 model based on Google's gemma-2-2b-jpn-it
+- [7shi/llm-jp-3-ezo-humanities](https://ollama.com/7shi/llm-jp-3-ezo-humanities:3.7b-instruct-q8_0): Japanese LLM-JP-3 model tuned for humanities by AXCXEPT
+- [7shi Profile](https://ollama.com/7shi): User profile for 7shi with Japanese LLM models collection
+
+## Instruction-Tuned & General Purpose Models
+
+- [169pi/alpie-core](https://ollama.com/169pi/alpie-core): 4-bit AI model by 169Pi with high reasoning accuracy & efficiency
+- [akuldatta/mistral-nemo-instruct-12b](https://ollama.com/akuldatta/mistral-nemo-instruct-12b): Mistral Nemo 12B instruction-tuned model repository
+- [afarensis/afs-1-turbo](https://ollama.com/afarensis/afs-1-turbo): Chinese RAG model by Afarensis Institute based on Llama2
+- [Saiga Gemma2 Tags](https://ollama.com/akdengi/saiga-gemma2/tags): Version tags for quantized Saiga Gemma2 9B by QuantFactory
+
+## Model Templates & Configuration
+
+- [Borea-Phi-3.5 Template](https://ollama.com/7shi/borea-phi-3.5-common:3.8b-mini-instruct-q6_K/blobs/c608dc615584): Chat template for Borea-Phi-3.5 model by Axcxept
+- [ezo-common-gemma-2 Template](https://ollama.com/7shi/ezo-common-gemma-2:9b-instruct-q4_K_M/blobs/109037bec39c): Prompt template for ezo-common-gemma-2 9B model
+- [ezo-common-t2-gemma-2 Template](https://ollama.com/7shi/ezo-common-t2-gemma-2:2b-instruct-q8_0/blobs/109037bec39c): Chat template for Q8-quantized Gemma-2 2B model
+- [Llama Translate System Prompt](https://ollama.com/7shi/llama-translate:8b-q4_K_M/blobs/51a0a5ead63a): System prompt for multilingual Llama translation model
+
+## Model Weights & Metadata
+
+- [ezo-common-gemma-2 Model Weights](https://ollama.com/7shi/ezo-common-gemma-2:9b-instruct-q4_K_M/blobs/c3d0b4fbfca7): Model weights metadata for Q4-quantized Gemma-2 9B variant
+- [gemma-2-jpn-translate Model](https://ollama.com/7shi/gemma-2-jpn-translate:2b-instruct-q8_0/blobs/4319103424a0): Model weights for Japanese translation Gemma-2 variant
+
+## Optional
+
+- [Borea-Phi-3.5 License](https://ollama.com/7shi/borea-phi-3.5-common:3.8b-mini-instruct-q6_K/blobs/c8e8862c4ef0): License file for Borea-Phi-3.5 fine-tuned model

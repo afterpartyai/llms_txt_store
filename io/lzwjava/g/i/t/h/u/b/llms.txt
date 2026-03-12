@@ -1,0 +1,61 @@
+# Zhiwei's Technical Blog
+
+> > A software engineer's technical blog covering Java backend development, AI coding tools, and system architecture.
+
+This site documents practical tutorials, code examples, and technical explorations across backend engineering, AI-assisted development tools like GitHub Copilot and Cline, and deep dives into technologies like Apache Kafka, Spring Boot, and VSCode extensions. Written by a developer sharing hands-on experience with modern development workflows.
+
+## Key Topics
+
+- Java backend development
+- VSCode extensions and AI coding assistants
+- GitHub Copilot and Cline
+- Apache Kafka internals
+- API integration and configuration
+- Database migrations with Liquibase
+- HTTP protocols and status codes
+- XML and JSON parsing
+- File system monitoring (FSEvents, Chokidar)
+- Embeddings and AI APIs
+- JUnit, Mockito, and testing frameworks
+- Spring Boot and dependency injection
+- Package analysis and codebase statistics
+- Node.js build tools (Webpack, Vite)
+- Interview preparation for backend engineers
+
+## AI Coding Tools & VSCode
+
+- [Getting Started with GitHub Copilot in VS Code](https://lzwjava.github.io/notes/2025-03-21-vscode-copilot-en): GitHub Copilot setup and configuration guide for Visual Studio Code
+- [Using Cline in VSCode](https://lzwjava.github.io/notes/2025-03-21-vscode-cline-en): Setup guide for Cline AI coding assistant in VSCode with OpenRouter
+- [Visual Studio Code (VSCode) Copilot plugin](https://lzwjava.github.io/notes/2025-03-21-vscode-copilot-key-en): Configure VSCode Copilot with custom API keys and Gemini integration
+- [Mistral AI Embeddings](https://lzwjava.github.io/notes/2025-02-26-mistral-embedding-en): Python tutorial for Mistral AI embeddings API and semantic similarity
+
+## Java Backend Development
+
+- [Java Backend Engineer Interview Questions](https://lzwjava.github.io/notes/2025-02-04-java-questions-en): Java interview prep covering JVM, Spring, multithreading, and OOP
+- [Analyzing Packages in Kafka](https://lzwjava.github.io/notes/2025-03-04-kafka-packages-en): Deep dive into Apache Kafka package structure and Java dependencies
+- [Using XML in Java](https://lzwjava.github.io/notes/2025-02-27-java-xml-en): Java XML parsing tutorial with DOM and SAX examples
+- [Instantiation Exception](https://lzwjava.github.io/notes/2025-03-05-instantiation-exception-en): Debugging Java InstantiationException with Apache Commons BeanUtils
+- [Liquibase: Database Scheme Management](https://lzwjava.github.io/notes/2025-02-26-liquibase-en): Spring Boot integration guide for Liquibase database migrations
+
+## Web Development & APIs
+
+- [Common HTTP Response Codes](https://lzwjava.github.io/notes/2025-02-28-http-codes-en): Beginner guide to HTTP status codes and web protocols
+- [Curl](https://lzwjava.github.io/notes/2025-02-20-curl-en): Curl command-line tutorial with HTTP requests and API examples
+
+## File System & Build Tools
+
+- [Using Chokidar for File Watching](https://lzwjava.github.io/notes/2025-03-06-chokidar-en): Node.js file watching library guide for Webpack, Vite, and Parcel
+- [Monitoring Directory Changes with the FSEvents API](https://lzwjava.github.io/notes/2025-02-27-fsevents-en): macOS FSEvents API guide for filesystem monitoring in C and Jekyll
+
+## Technical Explorations
+
+- [Deepseek - Conversation](https://lzwjava.github.io/notes/2025-02-04-deepseek-conv-en): Technical discussion on DeepSeek-V3 Mixture-of-Experts architecture
+- [Android ROM](https://lzwjava.github.io/notes/2025-02-22-android-rom-en): Overview of custom Android ROMs: LineageOS, GrapheneOS, and AOSP
+- [How Do Radio Waves Work](https://lzwjava.github.io/notes/2025-03-23-radio-waves-en): Beginner guide to radio waves, electromagnetic transmission, and modulation
+
+## Optional
+
+- [Active Learning](https://lzwjava.github.io/notes/2025-01-16-active-learning-en): Study strategies and note-taking techniques including Cornell Notes
+- [University Chinese](https://lzwjava.github.io/notes/2025-01-16-chinese-en): Classical Chinese literature exam overview: Book of Songs to Tang poetry
+- [Chemistry Words in Breaking Bad](https://lzwjava.github.io/notes/2025-03-22-breaking-bad-words-en): Chemistry vocabulary from Breaking Bad: methamphetamine synthesis terms
+- [Lyrics of 雪の華 (Yuki No Hana)](https://lzwjava.github.io/notes/2025-03-14-yuki-no-hana-en): Mika Nakashima's Yuki No Hana lyrics with romaji translation

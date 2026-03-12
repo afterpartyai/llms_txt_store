@@ -1,0 +1,63 @@
+# Obot AI
+
+> > Obot AI provides enterprise-grade MCP (Model Context Protocol) Gateway solutions for AI agent development, authentication, and access control.
+
+Formerly Acorn Labs, Obot AI specializes in Model Context Protocol infrastructure with products including Obot MCP Gateway and Nanobot framework. The platform helps enterprises integrate MCP servers with AI agents while maintaining security, compliance, and governance controls across OpenAI, Anthropic, and other LLM providers.
+
+## Key Topics
+
+- Model Context Protocol (MCP)
+- Obot MCP Gateway
+- MCP Servers and Clients
+- Enterprise AI Security and Access Control
+- OAuth 2.1 Authentication
+- MCP Catalogs and Ecosystem
+- Nanobot Framework
+- AI Agent Development
+- Enterprise Compliance and Governance
+- OpenAI and Anthropic Integration
+- MCP Tools Landscape
+- Azure OpenAI Support
+- Docker Deployment
+- Python and GitHub Integration
+
+## MCP Gateway and Enterprise Solutions
+
+- [Managing Access Control for MCP Servers in the Enterprise](https://obot.ai/blog/managing-access-control-for-mcp-servers-in-the-enterprise): Enterprise access control for MCP servers with Obot MCP Gateway
+- [Evaluating Enterprise MCP Gateways](https://obot.ai/blog/evaluating-enterprise-mcp-gateways): Enterprise MCP gateway evaluation: Obot vs Microsoft vs IBM comparison
+- [Obot MCP Gateway v0.16.0: Enhancing Enterprise Control](https://obot.ai/blog/announcing-obot-mcp-platform-v0-16-0-api-keys-model-access-policies-and-other-enterprise-ready-controls): v0.16.0 release: API keys, model policies & Azure OpenAI support
+- [Single MCP Gateway vs Multiple MCP Servers](https://obot.ai/blog/single-mcp-gateway-vs-multiple-mcp-servers): Architecture comparison: MCP gateway vs multiple server deployment
+- [Refactoring Our MCP Gateway: From Intercepting Server to Composable Infrastructure](https://obot.ai/blog/refactoring-our-mcp-gateway-from-intercepting-server-to-composable-infrastructure): Technical deep-dive: Obot MCP Gateway architecture refactoring
+
+## MCP Authentication and Security
+
+- [MCP Authentication: Step by Step Guide and Security Best Practices](https://obot.ai/resources/learning-center/mcp-authentication): MCP OAuth 2.1 authentication guide with security best practices
+- [MCP Compliance: Model Context Protocol in Regulated Industries](https://obot.ai/resources/learning-center/mcp-compliance): MCP compliance guide for regulated industries & data governance
+- [Connecting Microsoft Office 365 MCP Servers in Obot](https://obot.ai/blog/connecting-microsoft-office-365-mcp-servers-in-obot): Tutorial: connect Office 365 via MCP in Obot with OAuth authentication
+
+## MCP Ecosystem and Tools
+
+- [The Practical MCP Tools Landscape — Who's Building What, and How to Pick the Pieces](https://obot.ai/blog/the-practical-mcp-tools-landscape-whos-building-what-and-how-to-pick-the-pieces): Overview of MCP ecosystem: tools, servers, clients & selection guide
+- [Top 5 MCP Catalogs in 2026 and Using Them Effectively](https://obot.ai/resources/learning-center/mcp-catalog): Guide to MCP catalogs: registries for finding & assessing MCP servers
+- [Introducing Nanobot: A New Framework for Turning MCP Servers into AI Agents](https://obot.ai/blog/introducing-nanobot-a-new-framework-for-turning-mcp-servers-into-ai-agents): Nanobot framework announcement: turn MCP servers into AI agents
+
+## AI Agent Development
+
+- [AI Agent Frameworks: Components & Top 5 Open Source Solutions](https://obot.ai/resources/learning-center/ai-agent-frameworks): Overview of AI agent framework components & top open source options
+- [Top 10 RAG Tutorials in 2024 + Bonus LangChain Tutorial](https://obot.ai/resources/learning-center/rag-tutorial): RAG tutorial collection: retrieval-augmented generation with LangChain
+- [Code Interpreter: Traditional vs. LLM Use Cases & Top 5 Tools](https://obot.ai/resources/learning-center/code-interpreter): Code interpreter guide: traditional vs LLM tools for GPT-4 & Gemini
+- [Fine-Tuning Llama 2 with Hugging Face PEFT Library](https://obot.ai/resources/learning-center/fine-tuning-llama-2): Tutorial: fine-tune Meta's Llama 2 using Hugging Face PEFT library
+
+## GPT-4 and OpenAI Tools
+
+- [GPT 4 Playground: The Basics and a Quick Tutorial](https://obot.ai/resources/learning-center/gpt4-playground): Beginner guide to OpenAI Playground for GPT-4 experimentation
+
+## Company News and Events
+
+- [Acorn Labs is Now Obot AI](https://obot.ai/blog/acorn-labs-is-now-obot-ai): Company rebrand announcement: Acorn Labs becomes Obot AI
+- [Online Workshop: Bringing Model Context Protocol to the Enterprise: From Chaos to Catalog](https://obot.ai/blog/online-workshop-20250820): Workshop on MCP enterprise adoption with Obot MCP Gateway demo
+
+## Optional
+
+- [8 AI Summarization Tools to Know in 2024](https://obot.ai/resources/learning-center/ai-summarization-tools): Comparison of 8 AI text summarization tools including Jasper & Writesonic
+- [7 AI Image Generation Tools Compared: Pros, Cons & Pricing](https://obot.ai/resources/learning-center/ai-image-generation-tools): Comparison of 7 AI image tools including DALL·E 3 & pricing analysis

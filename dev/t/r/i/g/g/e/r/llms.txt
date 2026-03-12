@@ -1,0 +1,54 @@
+# Trigger.dev
+
+> > Trigger.dev is a platform for building durable serverless background jobs and AI agents with no timeouts, featuring Realtime streaming, batch processing, and deep integrations with Vercel, Supabase, and modern AI tooling.
+
+Trigger.dev enables developers to create long-running tasks using TypeScript with features like warm starts via Run Engine 2.0, task cancellation propagation, and preview branches for testing. The platform evolved from v2 to v3 (durable serverless) and recently launched v4 GA with Waitpoints for AI agent workflows.
+
+## Key Topics
+
+- Trigger.dev v4
+- Run Engine 2.0
+- Realtime streaming
+- Durable serverless functions
+- AI agents and AI SDK
+- Task cancellation and cleanup
+- Batch processing
+- Vercel integration
+- Supabase integration
+- MicroVMs
+- Build extensions
+- Frontend triggers
+- Preview branches
+- @trigger.dev/sdk
+- TypeScript task triggering
+
+## Platform Releases & Major Announcements
+
+- [Trigger.dev v4 GA](https://trigger.dev/launchweek/0/trigger-v4-ga): v4 GA: Run Engine 2.0 with warm starts & Waitpoints for AI agents
+- [Trigger.dev v3: Durable Serverless functions. No timeouts.](https://trigger.dev/blog/v3-announcement): v3 launch: durable serverless functions with no timeouts using CRIU
+- [Trigger.dev v2 end-of-life and how to upgrade to v3](https://trigger.dev/blog/v2-end-of-life-announcement): v2 EOL Jan 31, 2025: migration guide to v3 serverless architecture
+- [Our roadmap for the next 3 months and beyond](https://trigger.dev/blog/our-roadmap-for-the-next-3-months): 3-month roadmap: GitHub/Vercel integrations, MicroVM optimization, Agent Toolkit
+
+## Launch Week Highlights
+
+- [Everything we launched during launchweek[0] (v2)](https://trigger.dev/launchweek/2/launchweek0-recap): Recap: v4, Realtime, batch processing, build extensions & more
+- [Everything we launched during launchweek[0] (v0)](https://trigger.dev/launchweek/0/launchweek0-recap): Launchweek recap: Realtime, build extensions, frontend triggers & more
+- [Preview branches](https://trigger.dev/launchweek/2/preview-branches): Isolated environments for git branches with Vercel integration
+
+## Integrations & Guides
+
+- [Trigger anything from a database change using Supabase with Trigger.dev](https://trigger.dev/blog/supabase-and-trigger-dev): Guide: Supabase integration for event-driven workflows & video processing
+
+## Feature Updates
+
+- [Alerts](https://trigger.dev/changelog/alerts): Slack/Webhook alerts for runs, deployments & errors (v3)
+- [Task delays and TTLs](https://trigger.dev/changelog/task-delays-and-timeouts): Task scheduling with delays, TTLs & run expiration control
+- [Task cancellation propagation](https://trigger.dev/changelog/task-cancellation-propagation): Cancellation propagates to child tasks and batch operations
+- [Run cleanup using onCancel hook](https://trigger.dev/changelog/oncancel): onCancel hook for cleanup when runs are canceled (beta feature)
+- [Improved typesafe task triggering](https://trigger.dev/changelog/typesafe-task-triggering): TypeScript typesafe task triggering with Task.trigger & type imports
+- [Run inspector improvements](https://trigger.dev/changelog/run-page-inspector): Redesigned run inspector with tabs, SuperJSON support & replay feature
+- [Add tags to your runs](https://trigger.dev/changelog/run-tags): Tag runs for filtering via dashboard or SDK (runs.list())
+
+## Optional
+
+- [Ray.so Trigger.dev dark / light themes](https://trigger.dev/changelog/ray-so-triggerdev-theme): Ray.so themes for Trigger.dev code image generation

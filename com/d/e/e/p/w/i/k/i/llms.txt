@@ -1,54 +1,60 @@
 # DeepWiki
 
-> > DeepWiki provides comprehensive technical documentation for software projects, with deep-dive coverage of Salesforce Lightning Web Components, PDF generation systems, and modern full-stack applications.
+> > DeepWiki is a comprehensive documentation platform for open-source software projects, providing detailed technical references for repositories spanning blockchain, security tools, game development, and developer utilities.
 
-DeepWiki hosts detailed architectural documentation and implementation guides for complex software systems. Current coverage includes Salesforce development patterns (Lightning Web Components, Apex, Visualforce) and modern web applications built with Next.js, React, and PostgreSQL.
+DeepWiki aggregates and organizes documentation for GitHub repositories across diverse domains including smart contracts (ERC-7857, ERC-4626), security tooling (Frida, token manipulation), VR applications, and developer libraries. The platform serves as a central knowledge base for understanding complex codebases with system architecture diagrams, API references, and implementation guides.
 
 ## Key Topics
 
-- Lightning Web Components (LWC)
-- Salesforce PDF Generation
-- Apex Controllers
-- Visualforce Templates
-- Next.js Full-Stack Architecture
-- System Architecture Patterns
-- BillingPdfGenerate Service
-- Clerk Authentication
-- Drizzle ORM
-- Component Reference Documentation
-- Educational Platforms
-- Monorepo Development
-- React Server Components
-- Invoice Generation Systems
+- Smart Contracts & Blockchain
+- Security & Reverse Engineering
+- VR & Gaming Development
+- System Architecture
+- Docker & Deployment
+- API Development
+- Frida Instrumentation
+- OSC Protocol
+- Monorepo Management
+- Token Manipulation
+- Data Availability
+- Knowledge Distillation
+- ERC Standards (ERC-7857, ERC-4626)
+- Python Development
+- TypeScript & React
 
-## Salesforce PDF Generation Systems
+## Blockchain & Smart Contracts
 
-- [LWCPDF-Preview-Download Overview](https://deepwiki.com/07hasib/LWCPDF-Preview-Download/1-overview): Overview of Salesforce Lightning dual PDF generation architecture
-- [PDF Generation Systems](https://deepwiki.com/07hasib/LWCPDF-Preview-Download/2-pdf-generation-systems): Two distinct PDF generation architectures for Salesforce LWC
-- [LwcPdfGenerate System](https://deepwiki.com/07hasib/LWCPDF-Preview-Download/2.1-lwcpdfgenerate-system): Primary invoice-style PDF generation with three-tier architecture
-- [pdfGeneratorLWC System](https://deepwiki.com/07hasib/LWCPDF-Preview-Download/2.2-pdfgeneratorlwc-system): Modern LWC PDF generation with client-side blob manipulation
-- [BillingPdfGenerate Service](https://deepwiki.com/07hasib/LWCPDF-Preview-Download/2.3-billingpdfgenerate-service): Backend Apex service for billing PDF generation and Visualforce rendering
-- [Architecture & Data Flow](https://deepwiki.com/07hasib/LWCPDF-Preview-Download/4-architecture-and-data-flow): System architecture, component interactions, and data flow analysis
-- [Development Guide](https://deepwiki.com/07hasib/LWCPDF-Preview-Download/5-development-guide): Developer guide for Salesforce PDF generation setup and deployment
+- [0gfoundation/0g-agent-nft](https://deepwiki.com/0gfoundation/0g-agent-nft): ERC-7857 Agent NFT implementation with private metadata & ZKP/TEE
+- [0gfoundation/0g-da-node](https://deepwiki.com/0gfoundation/0g-da-node): Data availability node with gRPC service & blockchain storage layer
+- [0kn0t/case](https://deepwiki.com/0kn0t/case): ERC4626-compliant meta-vault system for DeFi asset management
+- [021up/real-life-game](https://deepwiki.com/021up/real-life-game): Blockchain gaming platform with ERC-20 token rewards & GameFactory Contract
 
-## Salesforce Component Reference
+## Security & Reverse Engineering
 
-- [Component Reference](https://deepwiki.com/07hasib/LWCPDF-Preview-Download/3-component-reference): Technical reference for LWC, Apex, and Visualforce components
-- [Lightning Web Components](https://deepwiki.com/07hasib/LWCPDF-Preview-Download/3.1-lightning-web-components): LWC component structure and implementation reference documentation
-- [Apex Controllers](https://deepwiki.com/07hasib/LWCPDF-Preview-Download/3.2-apex-controllers): Apex controller reference for PDF generation architectural patterns
-- [Visualforce Templates](https://deepwiki.com/07hasib/LWCPDF-Preview-Download/3.3-visualforce-templates): Visualforce PDF template structure and data binding patterns
+- [0xdea/frida-scripts](https://deepwiki.com/0xdea/frida-scripts): Frida instrumentation scripts for mobile app reverse engineering
+- [0xbadjuju/Tokenvator](https://deepwiki.com/0xbadjuju/Tokenvator): C# tool for Windows token manipulation & privilege escalation testing
 
-## MentaMática Educational Platform
+## VR & Gaming Development
 
-- [MentaMática Overview](https://deepwiki.com/07Humberto-Mueses/mentamatica_app/1-overview): MentaMática educational mathematics platform architecture overview
-- [System Architecture](https://deepwiki.com/07Humberto-Mueses/mentamatica_app/3-system-architecture): MentaMática monorepo structure and Next.js full-stack architecture
-- [Frontend System](https://deepwiki.com/07Humberto-Mueses/mentamatica_app/4-frontend-system): Next.js frontend with React Server Components and Clerk authentication
-- [Authentication Middleware](https://deepwiki.com/07Humberto-Mueses/mentamatica_app/4.2-authentication-middleware): Clerk-based route protection and access control middleware
-- [Backend System](https://deepwiki.com/07Humberto-Mueses/mentamatica_app/5-backend-system): Next.js backend with Drizzle ORM and Neon PostgreSQL integration
-- [Development Environment](https://deepwiki.com/07Humberto-Mueses/mentamatica_app/2-development-environment): Full-stack development workflow orchestration and npm scripts
+- [0suu/sai_OSCController](https://deepwiki.com/0suu/sai_OSCController): VR device telemetry bridge for VRChat using OSC protocol & SwitchBot
+- [0x7c13/Pal3.Unity](https://deepwiki.com/0x7c13/Pal3.Unity): Unity recreation of Legend of Sword and Fairy 3 Chinese RPG
+- [0kihS/planar](https://deepwiki.com/0kihS/planar): Infinite canvas Wayland compositor built on wlroots library
+
+## Developer Tools & Libraries
+
+- [07akioni/xicons](https://deepwiki.com/07akioni/xicons): SVG icon library monorepo for Vue 3 and React frameworks
+- [0neDrop/mcdonalds-api](https://deepwiki.com/0neDrop/mcdonalds-api): Node.js library wrapper for McDonald's location services API
+- [0x90d/videoduplicatefinder](https://deepwiki.com/0x90d/videoduplicatefinder): Video Duplicate Finder using FFmpeg for cross-platform detection
+- [0oLiHano0/knowledge-distiller-kd](https://deepwiki.com/0oLiHano0/knowledge-distiller-kd): Knowledge Distiller tool for duplicate content detection in documents
+
+## Enterprise & Web Applications
+
+- [01-Enterprise/01-ERP-ERP002](https://deepwiki.com/01-Enterprise/01-ERP-ERP002): ERP002 enterprise system built on CodeIgniter framework
+- [0d9e-tech/web](https://deepwiki.com/0d9e-tech/web): Deno-based Telegram bot with web serving & Docker deployment pipeline
+- [022RaTiNdRa/TypeFast](https://deepwiki.com/022RaTiNdRa/TypeFast): Real-time multiplayer typing speed test app with Turborepo & TypeScript
+- [000-ghost-000/onlinebookstore](https://deepwiki.com/000-ghost-000/onlinebookstore): Java-based e-commerce web app with three-tier architecture
 
 ## Optional
 
-- [Next.js Development Server](https://deepwiki.com/07Humberto-Mueses/mentamatica_app/4.1-next.js-development-server): Next.js dev server with HMR, request tracing, and performance monitoring
-- [Frontend Components](https://deepwiki.com/07Humberto-Mueses/mentamatica_app/4.3-frontend-components): React components for landing page and math demonstrations
-- [Build System](https://deepwiki.com/07Humberto-Mueses/mentamatica_app/4.4-build-system): Next.js build system with Turbopack and chunk optimization
+- [05mxn/python_git](https://deepwiki.com/05mxn/python_git): Match Impact Analysis system for M60 motorway traffic in Manchester
+- [0raven04/Taller-Python-Jonathan-Kevin-Arana-Diaz](https://deepwiki.com/0raven04/Taller-Python-Jonathan-Kevin-Arana-Diaz): Python workshop materials for PCEP-30-02 certification preparation

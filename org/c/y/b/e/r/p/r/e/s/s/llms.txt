@@ -1,0 +1,60 @@
+# CyberPress
+
+> > CyberPress delivers breaking cybersecurity news covering threat actors, data breaches, ransomware campaigns, and vulnerability disclosures affecting organizations worldwide.
+
+CyberPress provides timely intelligence on cybersecurity incidents, malware analysis, and threat actor activities. The site focuses on data breaches, ransomware operations, APT groups, and critical vulnerabilities affecting platforms like Microsoft, Apple, and Android ecosystems.
+
+## Key Topics
+
+- Threat Actors & APT Groups
+- Data Breaches & Database Leaks
+- Ransomware Operations
+- IntelBroker
+- Personal Data Exposure
+- Dark Web Intelligence
+- Microsoft & .NET Security
+- Social Engineering Attacks
+- Law Enforcement Collaboration
+- Malware Analysis
+- Telegram-based Threats
+- EDR Bypass Techniques
+- PowerShell Exploits
+- E-commerce Security
+- Vulnerability Disclosures
+
+## Critical Vulnerabilities & Exploits
+
+- [Critical Vulnerability Found in .NET, .NET Framework & Visual Studio](https://cyberpress.org/vulnerability-in-net-visual-studio): Microsoft patches CVE-2024-21409 RCE in .NET & Visual Studio platforms
+- [Critical Flaw in Apple Ecosystems Let Attackers Gain unauthorized access](https://cyberpress.org/critical-flaw-in-apple-ecosystems-let-attackers-gain): CVE-2024-27801 NSXPC flaw enables unauthorized access across Apple platforms
+- [Dirty Stream Attack Impacts Android Applications Billions of Installations](https://cyberpress.org/dirty-stream-attack-impacts-android-applications): Dirty Stream path traversal flaw affects Xiaomi & WPS Office Android apps
+- [Researchers Uncover a Shocking New Technique to Bypass Top EDR Products!](https://cyberpress.org/new-technique-to-bypass-top-edr-products): EDRSilencer uses Windows Filtering Platform to bypass EDR telemetry
+
+## Ransomware & Advanced Malware
+
+- [Two in One Malware "Luxy" Steal Your Data & Encrypt Files](https://cyberpress.org/luxy-steal-your-data-encrypt-files): Luxy hybrid malware combines stealer & ransomware via Telegram exfiltration
+- [BianLian Ransomware Exploits RDP Credentials for Initial Access](https://cyberpress.org/bianlian-ransomware-exploits-rdp-credentials): BianLian ransomware group targets healthcare via RDP & ProxyShell exploits
+- [Researchers Hack Medusa Ransomware Group's Cloud](https://cyberpress.org/medusa-ransomware-groups-cloud): Researchers infiltrate Medusa ransomware cloud via Rclone token exploit
+- [Kinsing Malware Attacking Apache Tomcat servers to Deploy cryptominers](https://cyberpress.org/kinsing-malware-attacking-apache-tomcat-servers-to-deploy-cryptominers): Kinsing exploits Apache Tomcat to deploy XMRig Monero cryptominers
+
+## Threat Actor Operations & APT Campaigns
+
+- [Evil Corp Cyber Criminals Group Identity Exposed Along with LockBit affiliate](https://cyberpress.org/evil-corp-cyber-criminals-group): UK/US/Australia expose Evil Corp & LockBit affiliate identities
+- [Polish Government Under Massive Cyber Attack From APT 28 Group](https://cyberpress.org/massive-cyber-attack-from-apt-28-group): APT 28 (Russian GRU) launches malware campaign against Polish government
+- [Russian Hackers Target US Tech Giants with Fake Domains](https://cyberpress.org/us-tech-giants-with-fake-domains): Russian actors use fake domains for crypto scams targeting US tech & politics
+- [Threat Actors Forcing Victims to enter Login Credentials for Hijacking](https://cyberpress.org/threat-actors-forcing-victims-to-enter-login-credentials-for-hijacking): Amadey & StealC use kiosk mode to force credential entry for hijacking
+- [Operation Spincaster Exposes New Phishing Technique Draining Victims' Wallets](https://cyberpress.org/new-phishing-technique-draining-victims-wallets): Operation Spincaster reveals approval phishing draining crypto wallets
+
+## Data Breaches & Database Leaks
+
+- [Threat Actor Allegedly Claiming Leak of Smart Buy Database](https://cyberpress.org/claiming-leak-of-smart-buy-database): IntelBroker claims Smart Buy UAE breach exposing 8,500 users' data
+- [Threat Actor Allegedly Claim Breach of Doordash Database](https://cyberpress.org/claim-breach-doordash-database): DoorDash database breach claimed on Breachforums & dark web sites
+- [Threat Actor Allegedly Claims Breach of Russian University](https://cyberpress.org/breach-russian-university): IntelBroker claims RANEPA Russian university breach exposing student data
+- [Threat Actor Allegedly Claims Hack of bulletproof webhosting provider server](https://cyberpress.org/claims-hack-of-bulletproof-webhosting): zserver.ru bulletproof hosting breach claimed via client email compromise
+
+## Infrastructure & Service Disruptions
+
+- [Microsoft Azure & 365 Down – Users Affected Globally](https://cyberpress.org/microsoft-azure-365-down): Microsoft Azure & 365 global outage disrupts services July 30, 2024
+
+## Optional
+
+- [Gmail Turns 20! Evolves Constantly with Security Rules](https://cyberpress.org/gmail-security-rules): Gmail's 20-year evolution to 1.5B users with enhanced security features

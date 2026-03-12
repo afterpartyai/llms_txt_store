@@ -1,0 +1,57 @@
+# Simon Willison's Weblog
+
+> > Personal blog of Simon Willison covering AI security, LLMs, prompt injection, Datasette, SQLite, and practical experiments with emerging technologies.
+
+Simon Willison is a software developer and co-creator of Django and Datasette. This blog features in-depth technical analysis, security research on AI systems, hands-on experiments with language models, and development notes on open-source data tools.
+
+## Key Topics
+
+- Prompt injection attacks and defenses
+- Datasette and SQLite workflows
+- OpenAI and LLM APIs
+- AI security and safety
+- Retrieval Augmented Generation (RAG)
+- GitHub Actions and automation
+- Datasette Cloud deployment
+- Docker containers
+- LLM jailbreaking techniques
+- Image generation (Midjourney)
+- Meta Llama models
+- Google Gemini
+- Python tooling
+- Data journalism and scraping
+
+## AI Security and Prompt Injection
+
+- [The Dual LLM pattern for building AI assistants that can resist prompt injection](https://simonwillison.net/2023/Apr/25/dual-llm-pattern): Security pattern using dual LLMs to prevent prompt injection attacks
+- [Prompt injection and jailbreaking are not the same thing](https://simonwillison.net/2024/Mar/5/prompt-injection-jailbreaking): Clarifying differences between prompt injection and jailbreaking attacks
+- [Accidental prompt injection against RAG applications](https://simonwillison.net/2024/Jun/6/accidental-prompt-injection): How semantic search can trigger unintentional prompt injection in RAG
+- [New prompt injection papers: Agents Rule of Two and The Attacker Moves Second](https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers): Review of Meta AI research on LLM agent security frameworks
+- [The AI trust crisis](https://simonwillison.net/2023/Dec/14/ai-trust-crisis): Analysis of data privacy concerns with Dropbox and OpenAI AI features
+
+## LLM Experiments and Reviews
+
+- [AI assisted search-based research actually works now](https://simonwillison.net/2025/Apr/21/ai-assisted-search): Review of Perplexity, GPT-4, and Gemini deep research capabilities
+- [Initial impressions of Llama 4](https://simonwillison.net/2025/Apr/5/llama-4-notes): First look at Meta's Llama 4 Maverick multimodal model capabilities
+- [Experimenting with audio input and output for the OpenAI Chat Completion API](https://simonwillison.net/2024/Oct/18/openai-audio): Testing OpenAI's gpt-4o-audio-preview API with audio I/O capabilities
+- [The evolution of OpenAI's mission statement](https://simonwillison.net/2026/Feb/13/openai-mission-statement): Tracking changes in OpenAI's mission via IRS tax filings analysis
+- [Midjourney 5.1](https://simonwillison.net/2023/May/4/midjourney-51): Comparison of Midjourney v5.1 image generation with earlier versions
+
+## Datasette and SQLite Tools
+
+- [Datasette—an ecosystem of tools for working with small data](https://simonwillison.net/2021/Jul/22/small-data): PyGotham 2020 talk on Datasette and SQLite for personal data analytics
+- [Datasette 0.63: The annotated release notes](https://simonwillison.net/2022/Oct/27/datasette-0-63): Detailed release notes for Datasette 0.63 with Python 3.11 support
+- [Litestream backups for Datasette Cloud (and weeknotes)](https://simonwillison.net/2022/Aug/11/litestream-backups): Implementing Litestream SQLite backups for Datasette Cloud on Fly.io
+- [Google Drive to SQLite](https://simonwillison.net/2022/Feb/20/google-drive-to-sqlite): CLI tool to export Google Drive metadata to SQLite for Datasette analysis
+- [Tracking Mastodon user numbers over time with a bucket of tricks](https://simonwillison.net/2022/Nov/20/tracking-mastodon): Git scraping technique to track Mastodon user growth with GitHub Actions
+
+## Development Weeknotes
+
+- [Weeknotes: datasette-test, datasette-build, PSF board retreat](https://simonwillison.net/2024/Jan/21/weeknotes): Weekly updates on Datasette plugin testing and PSF board activities
+- [Weeknotes: Apache proxies in Docker containers, refactoring Datasette](https://simonwillison.net/2021/Nov/22/apache-proxies-datasette): Weekly notes on Apache proxy configuration and Datasette refactoring
+- [Weeknotes: Datasette internals](https://simonwillison.net/2020/Dec/27/weeknotes-datasette-internals): Weekly updates on SQLite schema versioning and Datasette permissions
+
+## Optional
+
+- [I still don't think companies serve you ads based on spying through your microphone](https://simonwillison.net/2025/Jan/2/they-spy-on-you-but-not-like-that): Debunking microphone surveillance myths in targeted advertising
+- [Weeknotes: Taking a break in Moss Landing](https://simonwillison.net/2022/Jan/4/moss-landing): Personal travel notes from Moss Landing wildlife and kayaking trip

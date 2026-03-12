@@ -1,0 +1,57 @@
+# WebScraping.AI
+
+> > WebScraping.AI is a web scraping API service that handles proxies, CAPTCHA solving, and AI-powered data extraction with support for JavaScript rendering using Chromium/Chrome.
+
+The service provides a comprehensive API for developers working with Python, JavaScript/Node.js, PHP, Ruby, and other languages. It offers tools like Beautiful Soup integration, proxy rotation, and browser automation with Puppeteer, Playwright, and Selenium support.
+
+## Key Topics
+
+- Web Scraping API
+- Proxy Rotation
+- CAPTCHA Solving
+- JavaScript Rendering
+- Beautiful Soup
+- Puppeteer & Playwright
+- Python Data Extraction
+- API Rate Limiting
+- HTML Parsing
+- Chromium Browser Automation
+- Residential & Datacenter Proxies
+- API Authentication
+- Retry Logic
+- Node.js Scraping Libraries
+- lxml Parser
+
+## Getting Started
+
+- [Web Scraping API with AI - Extract Data from Any Website](https://webscraping.ai): Main product page for WebScraping.AI API with proxy, CAPTCHA & AI extraction
+- [API Documentation](https://webscraping.ai/docs): Complete API docs with quick start, authentication & code examples
+- [API Request Builder](https://webscraping.ai/dashboard/api-request-builder): Interactive API request builder with code generation for cURL, Python, Node.js
+- [About WebScraping.AI](https://webscraping.ai/about): Company info for Urlooker LLC, operating WebScraping.AI from Portland, OR
+
+## API Reference
+
+- [OpenAPI Reference](https://webscraping.ai/docs/openapi): OpenAPI 3.1 specification with interactive endpoint documentation
+- [APIs FAQ](https://webscraping.ai/faq/apis): API-specific FAQ: endpoints, requests, retry logic & error handling
+- [API Throttling vs Rate Limiting](https://webscraping.ai/faq/apis/what-is-api-throttling-and-how-does-it-differ-from-rate-limiting): FAQ explaining API throttling vs rate limiting differences
+- [API Response Content Types](https://webscraping.ai/faq/apis/how-do-you-handle-api-responses-with-different-content-types): FAQ on handling API responses with different content types using Chromium
+- [API Response Caching Strategies](https://webscraping.ai/faq/apis/how-do-you-implement-caching-strategies-for-api-responses): FAQ on implementing caching strategies for API responses
+
+## Tutorials & Guides
+
+- [Blog](https://webscraping.ai/blog): Web scraping guides covering Python, BeautifulSoup, lxml & best practices
+- [JavaScript and NodeJS Libraries for Web Scraping: A 2025 Guide](https://webscraping.ai/blog/javascript-web-scraping-libraries): 2025 guide to JavaScript/Node.js scraping with Puppeteer, Playwright, Cheerio
+- [Web Scraping with PHP](https://webscraping.ai/blog/web-scraping-with-php): PHP web scraping tutorial using Goutte, cURL, Guzzle & Simple HTML DOM
+- [The Top 5 Proxy Providers for Web Scraping: Expert Picks for 2024](https://webscraping.ai/blog/best-proxy-providers-for-web-scraping): 2024 proxy provider comparison: Decodo, Smartproxy & residential proxies
+- [Different Types of Proxies for Web Scraping in 2025](https://webscraping.ai/blog/types-of-proxies-for-web-scraping): Proxy types guide: residential, datacenter, mobile proxies for web scraping
+
+## Beautiful Soup Support
+
+- [Beautiful Soup FAQ](https://webscraping.ai/faq/beautiful-soup): Beautiful Soup FAQ covering Python HTML parsing with lxml
+- [Parsing JavaScript Content with Beautiful Soup](https://webscraping.ai/faq/beautiful-soup/can-beautiful-soup-be-used-to-parse-content-loaded-dynamically-with-javascript): FAQ on parsing JavaScript content with Beautiful Soup & Selenium integration
+- [Beautiful Soup with Large HTML Documents](https://webscraping.ai/faq/beautiful-soup/can-beautiful-soup-work-with-streaming-or-very-large-html-documents-efficiently): FAQ on Beautiful Soup efficiency with streaming & large HTML documents
+- [Handling Comments and Special Strings in Beautiful Soup](https://webscraping.ai/faq/beautiful-soup/how-do-i-deal-with-comments-and-other-special-strings-in-beautiful-soup): FAQ on handling HTML comments, CDATA & special strings in Beautiful Soup
+
+## Support & FAQ
+
+- [Frequently Asked Questions](https://webscraping.ai/faq): General FAQ covering Puppeteer, Playwright & browser automation tools

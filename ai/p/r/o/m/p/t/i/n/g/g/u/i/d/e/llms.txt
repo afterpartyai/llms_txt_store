@@ -1,0 +1,62 @@
+# Prompt Engineering Guide
+
+> > A comprehensive guide to prompt engineering for large language models including GPT-4, GPT-3.5, and other LLMs, maintained by DAIR.AI
+
+This site provides extensive documentation on prompt engineering techniques, AI agent development, model-specific guides, and practical applications. It covers everything from basic prompting concepts to advanced topics like context engineering, function calling, and RAG systems, with support for multiple languages.
+
+## Key Topics
+
+- Prompt Engineering
+- Large Language Models (LLMs)
+- AI Agents
+- GPT-4 and GPT-3.5
+- Context Engineering
+- OpenAI API
+- Function Calling
+- RAG (Retrieval-Augmented Generation)
+- Fine-tuning
+- Chain-of-Thought (CoT)
+- Model Architecture
+- Text Classification
+- Prompt Injection
+- n8n Integration
+- DAIR.AI
+
+## Getting Started
+
+- [Prompt Engineering Guide](https://www.promptingguide.ai): Homepage for comprehensive LLM prompt engineering guide by DAIR.AI
+- [Grundlagen des Promptings (German)](https://www.promptingguide.ai/de/introduction/basics): German: Prompt engineering basics for gpt-3.5-turbo and gpt-4
+
+## AI Agents
+
+- [Introduction to AI Agents](https://www.promptingguide.ai/agents/introduction): Introduction to autonomous AI agents with LLM planning and tool access
+- [Agents Overview](https://www.promptingguide.ai/agents): Guide to AI agents and LLM agent design patterns with n8n integration
+- [Agent Components](https://www.promptingguide.ai/agents/components): Agent architecture guide covering planning, memory, and tool utilization
+- [Why Context Engineering?](https://www.promptingguide.ai/agents/context-engineering): Context engineering for AI agents with n8n system prompt design
+- [Context Engineering Deep Dive](https://www.promptingguide.ai/agents/context-engineering-deep-dive): Deep research agent tutorial using Gemini 2.5 Pro multi-agent architecture
+
+## Practical Applications
+
+- [Function Calling with LLMs](https://www.promptingguide.ai/applications/function_calling): Function calling tutorial for GPT-4 and GPT-3.5 API integration
+- [Fine-Tuning with GPT-4o Models](https://www.promptingguide.ai/applications/finetuning-gpt4o): GPT-4o fine-tuning guide for emotion classification via OpenAI API
+- [Generating Synthetic Dataset for RAG](https://www.promptingguide.ai/applications/synthetic_rag): Synthetic data generation for RAG systems using GPT-4 and ChatGPT
+- [Graduate Job Classification Case Study](https://www.promptingguide.ai/applications/workplace_casestudy): Job classification case study comparing GPT-3.5 and DeBERTa-V3 approaches
+
+## Advanced Techniques
+
+- [Generiertes Wissens-Prompting (German)](https://www.promptingguide.ai/de/techniques/knowledge): German: Generated knowledge prompting for commonsense reasoning in LLMs
+
+## Model Guides
+
+- [Gemini 1.5 Pro (German)](https://www.promptingguide.ai/de/models/gemini-pro): German: Gemini 1.5 Pro multimodal AI with long context window guide
+- [Mixtral (German)](https://www.promptingguide.ai/de/models/mixtral): German: Mixtral 8x7B sparse mixture-of-experts model by Mistral AI
+
+## Security & Risks
+
+- [Prompt Injection in LLMs (German)](https://www.promptingguide.ai/de/prompts/adversarial-prompting/prompt-injection): German: Prompt injection vulnerabilities in GPT-4 and Mixtral models
+- [Verzerrungen/Biases (German)](https://www.promptingguide.ai/de/risks/biases): German: Model biases in LLMs and few-shot learning distributions
+
+## Additional Resources
+
+- [Zusatzlektüre (German)](https://www.promptingguide.ai/de/readings): German: Additional reading resources on GPT-3, ChatGPT, and LLMs
+- [Fallstudie zur Klassifizierung von Absolventenjobs (German)](https://www.promptingguide.ai/de/applications/workplace_casestudy): German: Job classification case study with GPT-3.5 and few-shot CoT

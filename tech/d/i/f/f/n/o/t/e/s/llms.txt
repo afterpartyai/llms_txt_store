@@ -1,0 +1,58 @@
+# DiffNotes
+
+> > Technical guides and analysis for AI-powered development tools, with deep focus on Claude Code, MCP servers, and autonomous coding workflows.
+
+DiffNotes provides practical tutorials, configuration guides, and industry analysis for developers using AI coding assistants. Coverage spans Claude Code setup, MCP protocol integration, multi-model workflows, and the evolving landscape of AI-assisted software development.
+
+## Key Topics
+
+- Claude Code
+- MCP (Model Context Protocol)
+- Anthropic
+- AI coding agents
+- Autonomous coding workflows
+- GitHub Actions integration
+- Extended thinking models
+- Code review automation
+- Multi-model workflows
+- Terminal AI agents
+- Configuration & settings
+- OpenCode
+- Developer tools
+- Benchmarks (SWE-bench)
+- AI development tools
+
+## Claude Code Configuration Guides
+
+- [MCP-серверы для Claude Code - гайд по настройке](https://diffnotes.tech/posts/claude-code-mcp-servers-guide): Setup guide: 7 best MCP servers for Claude Code with Tool Search
+- [CLAUDE.md — гайд по настройке Claude Code](https://diffnotes.tech/posts/claude-md-effective-guide): CLAUDE.md configuration guide: file hierarchy, progressive disclosure
+- [Секретные настройки Claude Code - полный гайд 2026](https://diffnotes.tech/posts/claude-code-secret-settings-guide): 50+ Claude Code settings: settings.json, env vars, keybindings, status line
+- [Claude Code: Pro vs Max vs API - гайд по ценам 2026](https://diffnotes.tech/posts/claude-code-pricing-guide): Claude Code pricing comparison: Pro ($20), Max ($100-200), API costs
+- [Claude Code без разрешений - 5 способов автономной работы](https://diffnotes.tech/posts/claude-code-autonomous-permissions): Autonomous Claude Code setup: acceptEdits, allow-rules, bypass mode
+- [Claude Code skills: гайд по созданию команд](https://diffnotes.tech/posts/claude-code-custom-skills): Create custom skills & slash-commands in Claude Code with SKILL.md
+
+## Automation & Workflows
+
+- [Claude Code scheduled tasks: /loop и cron - обзор](https://diffnotes.tech/posts/claude-code-scheduled-tasks): Claude Code /loop and cron scheduling: setup, DST bugs, GitHub Actions
+- [Claude Code + Unity/Godot/Unreal — гайд по MCP для гейм­дева](https://diffnotes.tech/posts/claude-code-game-engine-mcp-guide): Connect Claude Code to Unity, Godot, Unreal Engine via MCP protocol
+- [Claude Code + Remotion: шортсы промптами - гайд](https://diffnotes.tech/posts/claude-code-remotion-shorts): Create vertical shorts for Instagram/TikTok with Claude Code + Remotion
+
+## AI Models & Benchmarks
+
+- [Claude Sonnet 4.6 — Adaptive Thinking, 1M контекст, 79.6% SWE-bench](https://diffnotes.tech/posts/claude-sonnet-46): Claude Sonnet 4.6 review: Adaptive Thinking, 1M context, 79.6% SWE-bench
+- [Gemini 3.1 Flash-Lite: цена, скорость и бенчмарки - обзор](https://diffnotes.tech/posts/gemini-31-flash-lite): Gemini 3.1 Flash-Lite: $0.25/1M tokens, 363 tok/s, thinking levels
+- [Opus vs Codex vs Gemini — workflow из трёх AI-моделей](https://diffnotes.tech/posts/opus-codex-gemini-coding-workflow): Multi-model workflow: Claude Opus 4.6, GPT-5.3 Codex, Gemini 3.1 Pro
+
+## AI Coding Tools & Agents
+
+- [OpenCode — open source AI-агент для терминала (108K звёзд)](https://diffnotes.tech/posts/opencode-terminal-agent): Open-source terminal AI agent OpenCode: 75+ models, GitHub Actions support
+- [Claude Code Security — AI ищет zero-day в коде](https://diffnotes.tech/posts/claude-code-security): Anthropic's Claude Code Security finds 500+ zero-day vulnerabilities
+- [Claude Code Review: мульти-агентное ревью PR - обзор](https://diffnotes.tech/posts/claude-code-review-multi-agent): Anthropic's Code Review: multi-agent PR analysis at $15-25 per review
+- [Autoresearch Karpathy: AI-агент для ML-экспериментов - обзор](https://diffnotes.tech/posts/autoresearch-karpathy-overnight-ml): Karpathy's Autoresearch: autonomous ML experiments & hyperparameter tuning
+- [Claude Code voice mode: голосовой ввод в CLI - обзор](https://diffnotes.tech/posts/claude-code-voice-mode): Native voice mode in Claude Code: /voice, push-to-talk, free transcription
+
+## Industry Analysis & Future of Coding
+
+- [Claude Code и будущее кодинга: агенты, модели, прогнозы](https://diffnotes.tech/posts/claude-code-future-autonomous-coding): Claude Code writes 4% GitHub commits; METR data & Anthropic predictions
+- [Программисты исчезнут в 2026 — правда или хайп?](https://diffnotes.tech/posts/programmers-disappear-2026-analysis): Boris Cherny stops coding; Spotify uses AI. Analysis of 2026 predictions
+- [OpenClaw бан-волна: Google и Anthropic закрывают доступ](https://diffnotes.tech/posts/google-anthropic-openclaw-ban): Google & Anthropic ban OpenClaw users without warning, OAuth blocks

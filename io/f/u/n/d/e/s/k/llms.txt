@@ -1,0 +1,64 @@
+# Fundesk
+
+> > Learning portal for data structures & algorithms, Python/Java programming, machine learning, and AI automation—built by FAANG engineers.
+
+Fundesk offers technical tutorials on DSA problems, custom ML implementations, and modern AI workflows. The site also provides AI engineering consulting services focused on workflow automation, custom agents, and LLM integration.
+
+## Key Topics
+
+- Data Structures & Algorithms (DSA)
+- Binary Search Tree (BST)
+- Linked List algorithms
+- Java implementations
+- Python programming
+- Machine Learning (Logistic Regression, NumPy)
+- AI Agents and Agentic Workflows
+- Vision Agents (Claude 3.5, GPT-4o)
+- AI Coding Tools (Cursor, GitHub Copilot, Windsurf)
+- ChatGPT and Claude integration
+- Iterative and from-scratch implementations
+- Array and matrix algorithms
+- UI testing automation
+- MCP (Model Context Protocol)
+- Technical interview preparation
+
+## Core Pages
+
+- [Portal for Java and Python Programming, DSA and Algorithm Resources and Technical Interview Preparation.](https://www.fundesk.io): Learning portal for DSA, Python, Java, AI/ML, and interview preparation
+- [AI Engineering Consulting | Fundesk](https://www.fundesk.io/services): AI consulting: workflow automation, custom agents, ChatGPT/Claude integration
+- [About Us | Fundesk](https://www.fundesk.io/about-us): FAANG engineers offering AI automation and software engineering services
+
+## AI & Automation Insights
+
+- [Agentic Workflows vs. Linear Chat: Why Loops are the Future of Coding - Fundesk](https://www.fundesk.io/agentic-workflows-vs-linear-chat): Agentic workflows with iterative loops vs linear ChatGPT/Claude interactions
+- [AI Coding Agents Compared: Cursor vs Copilot vs Claude Code vs Windsurf in 2026 - Fundesk](https://www.fundesk.io/ai-coding-agents-compared-cursor-copilot-claude-code-windsurf-2026): Compare Cursor, GitHub Copilot, Claude Code, Windsurf with benchmarks & pricing
+- [Automating UI Testing with Vision Agents: Catching Visual Bugs Before They Ship - Fundesk](https://www.fundesk.io/automating-ui-testing-vision-agents): Vision agents for UI testing with Claude 3.5, GPT-4o, and visual bug detection
+
+## Machine Learning Tutorials
+
+- [Machine Learning - Introduction to all concept of machine learning -
+    Fundesk](https://www.fundesk.io/machine-learning-topics): ML concepts hub: Logistic Regression, PCA, and data science tutorials
+- [Build a Custom Logistic Regression from Scratch - Fundesk](https://www.fundesk.io/custom-logistic-regression): Build Logistic Regression from scratch using Python/NumPy with gradient descent
+
+## Data Structures: Binary Search Trees
+
+- [Program to traverse using Postorder iterative approach - Fundesk](https://www.fundesk.io/binary-search-tree-or-bst-postorder-traversal-iterative-program): BST postorder traversal using iterative two-stack algorithm in Java
+- [Program to search a node using iterative approach - Fundesk](https://www.fundesk.io/binary-search-tree-or-bst-search-a-node-iterative-program): Iterative BST node search implementation in Java
+
+## Data Structures: Linked Lists
+
+- [Program to reverse a linked list using iterative approach - Fundesk](https://www.fundesk.io/program-to-reverse-a-linked-list-using-iterative-approach): Reverse linked list iteratively with Java implementation and algorithm
+- [Program to check the nodes form a palindrome - Fundesk](https://www.fundesk.io/check-if-linked-list-nodes-form-a-palindrome-program): Check if linked list nodes form palindrome using stack in Java
+- [Sort a Linked List with 0s 1s and 2s - Fundesk](https://www.fundesk.io/sort-linked-list-with-zero-one-two): Sort linked list with 0s, 1s, 2s using O(N) counting sort in Java
+
+## Array & Matrix Algorithms
+
+- [3 Sum: Find All Unique Triplets that Sum to Zero - Fundesk](https://www.fundesk.io/3-sum): Solve 3Sum problem with two-pointer approach achieving O(N^2) complexity
+- [Spiral Matrix - Fundesk](https://www.fundesk.io/spiral-matrix): Traverse matrix in spiral order using boundary-based approach in Java
+- [Rotate 2D Matrix by 90 Degrees - Fundesk](https://www.fundesk.io/rotate-matrix-90-degrees): Rotate matrix 90° in-place using transpose and reversal in Python
+- [Pair with given sum in rotated array - Fundesk](https://www.fundesk.io/pair-with-given-sum-in-rotated-array): Find pair sum in rotated sorted array using two-pointer technique in Java
+
+## Programming Fundamentals
+
+- [Java Data Types and Variables - Fundesk](https://www.fundesk.io/introduction-to-java-basics): Java basics: primitive types, reference types, and variable declaration guide
+- [Understanding List Comprehensions in Python - Fundesk](https://www.fundesk.io/list-comprehensions-in-python): Python list comprehensions tutorial with syntax and optimization examples
