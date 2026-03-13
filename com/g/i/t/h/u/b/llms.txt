@@ -1,36 +1,46 @@
 # GitHub
 
-> > GitHub is the AI-powered developer platform for building, collaborating, and securing software with tools like GitHub Copilot, Actions, and Codespaces.
+> > GitHub is the AI-powered developer platform for version control, collaborative coding, and software development, featuring GitHub Copilot, Actions, Codespaces, and Advanced Security.
 
-GitHub provides cloud-based Git repository hosting, CI/CD automation, AI-assisted coding, security scanning, and collaboration tools for millions of developers worldwide. The platform combines version control with DevOps workflows, code review, project management, and an extensive marketplace of integrations.
+GitHub hosts millions of open source repositories and provides integrated tools for code review, CI/CD automation, security analysis with CodeQL, and educational workflows. The platform combines Git-based version control with modern developer tools including AI-assisted coding, cloud development environments, and package management.
 
 ## Key Topics
 
 - GitHub Copilot
 - GitHub Actions
 - GitHub Codespaces
+- Git version control
 - GitHub Advanced Security
-- AI-powered coding assistant
+- CodeQL
+- Open source
+- Code review
 - CI/CD automation
-- Code security and vulnerability scanning
-- Open-source collaboration
-- Developer platform and tools
-- GitHub CLI and Desktop
+- Repository management
+- GitHub CLI
 - GitHub Packages
-- GitHub Sponsors
-- DevOps workflows
-- Version control with Git
+- Collaborative coding
+- Code security
+- Developer tools
 
-## Platform Overview
+## Core Platform
 
-- [GitHub Homepage](https://github.com/): AI-powered developer platform homepage featuring GitHub Copilot & Actions
-- [GitHub Features](https://github.com/features): Overview of GitHub platform features: Copilot, Actions, Codespaces & more
-- [GitHub Organization](https://github.com/github): GitHub's official organization profile with 535 repositories and products
+- [GitHub Homepage](https://github.com/): GitHub homepage: AI-powered developer platform with Copilot and Actions
+- [GitHub Features](https://github.com/features): GitHub features overview: Copilot, Actions, Codespaces, and Packages
+- [GitHub Organization](https://github.com/github): GitHub's official organization profile with 535 open source repositories
 
 ## Documentation
 
-- [GitHub Documentation](https://docs.github.com/): Complete documentation hub for GitHub products, tools, and workflows
+- [GitHub Docs](https://docs.github.com/): GitHub documentation hub for developers, admins, and all products
+- [Git Basics](https://docs.github.com/en/get-started/git-basics): Git setup guide: configure version control for GitHub repositories
+
+## Security & Code Analysis
+
+- [CodeQL](https://codeql.github.com/): CodeQL: semantic code analysis for vulnerability detection and security
+
+## Education
+
+- [GitHub Classroom](https://classroom.github.com/): GitHub Classroom for education: automate assignments and grading
 
 ## Optional
 
-- [Trending Repositories](https://github.com/trending): Daily trending open-source repositories including AI/ML and dev tools
+- [Trending Repositories](https://github.com/trending): Daily trending repositories: popular open source projects on GitHub

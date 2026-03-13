@@ -1,0 +1,52 @@
+# uCrowds
+
+> > uCrowds provides SimCrowds, a real-time 3D pedestrian simulation engine for crowd management, event planning, and public safety applications.
+
+Founded by Roland Geraerts from Utrecht University, uCrowds develops crowd simulation technology for digital twins, social distancing analysis, and large-scale event optimization. The platform integrates with Unity, USD, and GIS data to simulate pedestrian dynamics for venues, municipalities, and public spaces.
+
+## Key Topics
+
+- SimCrowds simulation engine
+- Crowd dynamics and pedestrian flow
+- Digital twins for events and venues
+- Social distancing simulation
+- Public safety and crowd management
+- Real-time 3D simulation
+- Event planning optimization
+- GIS integration and urban modeling
+- Roland Geraerts (CEO and founder)
+- Unity and USD integration
+- Vierdaagsefeesten Nijmegen projects
+- Academic research and startup applications
+- Crowd prediction and capacity planning
+
+## Overview
+
+- [Simulate your crowds](https://ucrowds.com): Homepage for uCrowds' SimCrowds simulation engine and crowd management tool
+- [Portfolios](https://ucrowds.com/portfolio): Project portfolio showcasing SimCrowds applications in crowd management
+
+## Major Projects and Case Studies
+
+- [Optimizing Crowd Flow for Nijmegen's Biggest Event](https://ucrowds.com/blog/2025-07-24-optimizing-crowd-flow-for-nijmegens-biggest-event): Case study: SimCrowds optimizes Vierdaagsefeesten crowd flow in Nijmegen
+- [Digital twins for safe events](https://ucrowds.com/blog/2022-01-20-digital-twins): Digital twin for Nijmegen's Vierdaagse events with Gemeente Nijmegen
+- [Project Dutch election](https://ucrowds.com/blog/2020-12-11-dutch-election): SimCrowds used to determine polling station capacity with COVID-19 measures
+- [World Economic Forum clip](https://ucrowds.com/blog/2020-09-28-world-economic-forum-clip): uCrowds featured in World Economic Forum video on social distancing
+
+## Platform Updates and Features
+
+- [SimCrowds is now available on MacOS](https://ucrowds.com/blog/2024-12-17-simcrowds-is-now-available-on-macos): SimCrowds launches on MacOS with Intel and Apple Silicon support
+- [Packaging crowd simulation data for real-time integration with USD](https://ucrowds.com/blog/2024-12-30-packaging-crowd-simulation-data-for-real-time-integration): SimCrowds adds USD export support for real-time integration and collaboration
+- [Directional pedestrian movement in SimCrowds: the Passageway block](https://ucrowds.com/blog/2023-09-21-being-in-control): SimCrowds Passageway feature for directional pedestrian flow control
+- [Year 2020 in review: interactive simulation](https://ucrowds.com/blog/2020-12-16-year-2020-in-review-interactive-simulation): 2020 milestone: interactive 3D crowd simulation with dynamic obstacles
+
+## Media and Insights
+
+- [Understanding Crowd Dynamics - from festivals to safety](https://ucrowds.com/blog/2025-02-09-understanding-crowd-dynamics-from-festivals-to-safety): uCrowds insights featured in Trouw on crowd safety and dynamics research
+- [Exploring the World of Crowd Simulation: Radio Interview CEO](https://ucrowds.com/blog/2023-09-07-exploring-the-world-of-crowd-simulation): CEO Roland Geraerts on RTV Utrecht discussing museum simulation project
+- [MT/Sprout and social distancing](https://ucrowds.com/blog/2021-04-20-mtsprout-about-social-distancing): Interview with Roland Geraerts on crowd simulation for social distancing
+- [Interview research paper](https://ucrowds.com/blog/2021-12-06-interview-research-paper-about-running-of-the-bulls): Roland Geraerts discusses Running of the Bulls crowd dynamics research
+
+## Optional
+
+- [314.159 cake celebration](https://ucrowds.com/blog/2020-07-08-314.159-cake-celebration): Milestone celebration: 314k pedestrians simulated in real-time with Unity3D
+- [Backyard Holiday](https://ucrowds.com/blog/2020-07-15-backyard-holiday): Quick setup demo: local pedestrian simulation using Dutch open data

@@ -1,0 +1,40 @@
+# SheepIt Renderfarm
+
+> > Free distributed renderfarm for Blender projects using collaborative computing power with support for Cycles, Eevee, and Workbench render engines.
+
+SheepIt Renderfarm is a community-driven, free rendering service where users contribute their idle computing resources to help others render Blender projects. The platform operates on a credit-based system where rendering for others earns points to render your own projects.
+
+## Key Topics
+
+- Blender
+- Cycles render engine
+- Eevee render engine
+- Workbench render engine
+- Distributed rendering
+- Collaborative rendering
+- Free rendering service
+- GPU rendering
+- Cloud rendering
+- Render credits system
+- Community renderfarm
+- Blender Foundation
+- Team rankings
+- Render jobs
+
+## Getting Started
+
+- [SheepIt Homepage](https://www.sheepit-renderfarm.com/): Main homepage for SheepIt distributed Blender renderfarm with Cycles/Eevee support
+- [SheepIt Landing Page](https://www.sheepit-renderfarm.com/index.php/home): Introduction to SheepIt free collaborative rendering service and how to get started
+
+## Rendering & Client Access
+
+- [Client Portal](https://client.sheepit-renderfarm.com/): Access your rendering jobs, manage projects, and monitor render progress
+
+## API Reference
+
+- [API Endpoint](https://api.sheepit-renderfarm.com/): Programmatic access to SheepIt renderfarm for automation and integration
+
+## Optional
+
+- [Sandbox Environment](http://sandbox.sheepit-renderfarm.com/): Testing environment for SheepIt renderfarm development and experimentation
+- [Team Rankings (Sandbox)](https://sandbox.sheepit-renderfarm.com/team): Team leaderboard and rankings in the SheepIt sandbox testing environment

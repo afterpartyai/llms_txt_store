@@ -1,0 +1,51 @@
+# Pixel Black Box
+
+> > A CGI artist's technical blog covering V-Ray, Arnold, Mental Ray rendering workflows, automotive visualization, and multi-pass compositing in Maya and Nuke.
+
+This is the personal blog of DBailey, a CGI/VFX artist specializing in automotive visualization, 3D modeling, and rendering. The site documents technical workflows, renderer comparisons, and production projects using industry-standard tools like Maya, V-Ray, Arnold, Mental Ray, Nuke, and Houdini.
+
+## Key Topics
+
+- V-Ray rendering
+- Arnold renderer
+- Mental Ray / MILA materials
+- Maya 3D modeling
+- Automotive visualization
+- Multi-pass compositing
+- Nuke compositing
+- Global illumination (GI)
+- Render comparisons
+- Quad modeling techniques
+- VRayMtl and GGX
+- HDRI lighting
+- Houdini FLIP fluids
+- CGI portfolio work
+
+## Portfolio & Automotive Visualization
+
+- [Portfolio Images (Automotive)](https://pixelblackbox.blogspot.com/2012/08/portfolio-images-automotive.html): Automotive CGI portfolio showcasing Maya, V-Ray, Nuke rendering work
+- [Vehicle I just worked on](https://pixelblackbox.blogspot.com/2012/11/vehicle-i-just-worked-on.html): Ford Transit Connect Wagon CGI project for Boston Globe using Maya/V-Ray
+
+## Rendering Workflows & Tutorials
+
+- [My latest lecture on Multi-pass Compositing with V-Ray](https://pixelblackbox.blogspot.com/2013/12/my-latest-lecture-on-multi-pass.html): V-Ray multi-pass compositing lecture with Nuke by Dillon Bailey
+- [MILA Mental Ray glossy reflection roughness -> V-Ray VRayMtl reflection glossiness (GGX)](https://pixelblackbox.blogspot.com/2016/10/mila-mental-ray-glossy-reflection.html): MILA Mental Ray to V-Ray GGX material conversion guide for glossiness
+- [Modeling and rendering in V-Ray](https://pixelblackbox.blogspot.com/2012/09/modeling-and-rendering-in-v-ray.html): V-Ray rendering and quad modeling workflow demonstration in Maya
+- [FREE Quality HDRS!!! I am very thankful for these people](https://pixelblackbox.blogspot.com/2014/12/free-quality-hdrs-i-am-very-thankful.html): Free HDRI resources from noemotionhdrs.com for image-based lighting
+
+## Renderer Comparisons & Benchmarks
+
+- [Arnold vs. V-Ray (significant difference)](https://pixelblackbox.blogspot.com/2012/10/arnold-vs-v-ray-significant-difference.html): Arnold vs V-Ray render performance and GI quality comparison
+- [Nice V-Ray vs. Arnold benchmark over at MaxDepth](https://pixelblackbox.blogspot.com/2013/11/nice-v-ray-vs-arnold-benchmark-over-at.html): V-Ray vs Arnold benchmark comparison from MaxDepth for particle rendering
+
+## Arnold Renderer Tests
+
+- [Arnold Interior Test (classroom)](https://pixelblackbox.blogspot.com/2012/10/arnold-interior-test-classroom.html): Arnold renderer interior test using aiSkyDomeLight on Mac Pro/Fedora
+- [Arnold First Tests](https://pixelblackbox.blogspot.com/2012/10/arnold-first-tests.html): Initial Arnold renderer tests and comparison with V-Ray
+- [Arnold Cornell Box (ish) Test](https://pixelblackbox.blogspot.com/2012/10/arnold-cornell-box-ish-test.html): Arnold Cornell Box GI test with subsurface and volume scattering
+
+## 3D Modeling & Animation Projects
+
+- [Tuk Tuk work in progress (Inspired by Art in Motion)](https://pixelblackbox.blogspot.com/2012/08/tuk-tuk-work-in-progress-inspired-by.html): WIP Tuk Tuk 3D model in Maya with Mental Ray quad modeling techniques
+- [Modeling, Animation, Rigging, and Rendering Test](https://pixelblackbox.blogspot.com/2013/12/modeling-animation-rigging-and.html): Maya animation, rigging, and Mental Ray rendering workflow test
+- [FLIP Fluid Sim test with houdini 13 and mantra.](https://pixelblackbox.blogspot.com/2014/08/flip-fluid-sim-test-with-houdini-13-and.html): FLIP fluid simulation test in Houdini 13 with Mantra renderer

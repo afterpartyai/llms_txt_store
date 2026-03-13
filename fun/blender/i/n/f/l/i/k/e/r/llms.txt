@@ -1,0 +1,64 @@
+# Blender | Infliker
+
+> > A curated collection of professional Blender addons and tools covering hard-surface modeling, character rigging, UV workflows, material libraries, and game engine integration for Cycles, Eevee, Unity, Unreal Engine 5, and Godot.
+
+This site showcases premium and essential Blender addons from developers like machin3, team_c, andrew_d, and others, focusing on non-destructive workflows, procedural systems, and professional pipeline integration. Resources span hard-surface modeling tools (Hard Ops, Boxcutter, Fluent), character creation (Auto-Rig Pro, Human Generator), UV optimization (Zen UV, UVPackmaster), and cross-platform export solutions for game development and VFX production.
+
+## Key Topics
+
+- Hard-surface modeling and boolean workflows
+- Non-destructive modeling techniques
+- UV mapping and texel density optimization
+- PBR materials and procedural texturing
+- Character rigging with Auto-Rig Pro and Rigify
+- Game engine export (FBX, Unity, Unreal Engine 5, Godot)
+- Geometry Nodes procedural systems
+- Cycles and Eevee rendering workflows
+- machin3 toolset (DECALmachine, MESHmachine, MACHIN3tools)
+- Workflow productivity and pie menus
+- UDIM and texture management
+- Physics-based simulation (FLIP Fluids, cloth)
+- GPL licensing and open-source integration
+- Photorealistic character generation
+- Sci-fi detailing and greeble generation
+
+## Hard-Surface Modeling & Boolean Workflows
+
+- [Hard Ops / Boxcutter Ultimate Bundle: The Definitive Hard Surface Toolkit for Blender](https://blender.infliker.fun/2026/02/hard-ops-boxcutter.html): Hard Ops/Boxcutter bundle by team_c for boolean hard-surface modeling
+- [Fluent 4: The Ultimate Hard Surface Tool Suite for Blender](https://blender.infliker.fun/2026/02/fluent-4-hard-surface-modeling.html): Fluent 4 hard-surface suite with Power Trip tools and boolean cutters
+- [MESHmachine: Ultimate Re-Constructive Modeling for Blender](https://blender.infliker.fun/2026/02/meshmachine.html): MESHmachine by machin3 for reconstructive bevel editing and boolean fixes
+- [DECALmachine: Non-Destructive Detailing for Blender](https://blender.infliker.fun/2026/02/decalmachine.html): DECALmachine by machin3 for mesh decals with parallax and trim sheets
+- [Random Flow: The Ultimate Sci-Fi Detail Generator for Blender](https://blender.infliker.fun/2026/02/random-flow-scifi-greeble-generator.html): Random Flow greeble generator using Geometry Nodes for sci-fi detailing
+
+## Character Creation & Rigging
+
+- [Auto-Rig Pro: The Industry-Standard Rigging & Animation Pipeline for Blender](https://blender.infliker.fun/2026/02/auto-rig-pro.html): Auto-Rig Pro with AI rigging and FBX/GLTF export for game engines
+- [Human Generator Ultimate: Photorealistic Characters in Blender](https://blender.infliker.fun/2026/02/human-generator-ultimate.html): Human Generator Ultimate with Rigify integration and ARKit facial rigging
+- [Voxel Heat Diffuse Skinning: The Complete Blender Rigging Solution](https://blender.infliker.fun/2026/02/voxel-heat-diffuse-skinning-blender.html): Voxel Heat Diffuse Skinning for advanced character weight painting
+- [Simply Cloth Studio 2: Professional Garment Creation in Blender](https://blender.infliker.fun/2026/02/simply-cloth.html): Simply Cloth Studio 2 with adaptive wrinkles and Cut & Sew library
+
+## UV Mapping & Texture Optimization
+
+- [Zen UV V5.3.0: The Professional UV Toolset for Blender](https://blender.infliker.fun/2026/02/zen-uv-v5-professional-uv-toolset.html): Zen UV V5.3.0 with Zen Gizmo and Hotspot Mapping for UE5 workflows
+- [UVPackmaster 4: The Gold Standard for UV Packing & Efficiency](https://blender.infliker.fun/2026/02/uvpackmaster-4.html): UVPackmaster 4 by glukoz with multi-GPU acceleration and UV stacking
+
+## Materials & Rendering
+
+- [Extreme PBR Nexus: The Ultimate 1800+ Material Library for Blender](https://blender.infliker.fun/2026/02/extreme-pbr-nexus-blender-material.html): Extreme PBR Nexus by andrew_d with 1800+ materials and FX layer system
+- [Physical Starlight and Atmosphere: Real-Time Physics-Based Sky for Blender](https://blender.infliker.fun/2026/02/physical-starlight-and-atmosphere-sky.html): PSA procedural sky system by Martins Upitis for Cycles/Eevee rendering
+- [Poly Haven Asset Browser: 2000+ Free CC0 Assets for Blender](https://blender.infliker.fun/2026/02/poly-haven-asset-browser.html): Poly Haven Asset Browser for CC0 HDRIs, materials, and photogrammetry models
+- [OCD: Procedural Wear & Damage for Blender Models](https://blender.infliker.fun/2026/02/ocd-one-click-damage.html): One Click Damage with HERO Module for procedural wear and imperfections
+
+## Game Engine Integration & Export
+
+- [Better FBX Importer & Exporter: Flawless Pipeline Integration](https://blender.infliker.fun/2026/02/better-fbx-importer-exporter.html): Better FBX addon using Autodesk SDK for Unity/Unreal/Godot pipelines
+
+## Workflow & Productivity Tools
+
+- [MACHIN3tools: The Ultimate Workflow & Productivity Suite for Blender](https://blender.infliker.fun/2026/02/machin3tools.html): MACHIN3tools workflow suite with pie menus for Cycles/Eevee rendering
+- [Conform Object: Effortless Surface Snapping in Blender](https://blender.infliker.fun/2026/02/conform-object.html): Conform Object addon for non-destructive surface projection using Shrinkwrap
+
+## Simulation & Physics
+
+- [FLIP Fluids: Professional Liquid Simulation for Blender](https://blender.infliker.fun/2026/02/flip-fluids.html): FLIP Fluids addon with whitewater effects and viscosity simulation
+- [Cablerator: The Ultimate Hanging Cable & Rope Suite for Blender](https://blender.infliker.fun/2026/02/cablerator-blender-cable-creation-addon.html): Cablerator by Sergey Kritskiy for physics-based cable and rope creation

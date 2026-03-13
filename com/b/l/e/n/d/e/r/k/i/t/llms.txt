@@ -1,0 +1,44 @@
+# BlenderKit
+
+> > BlenderKit is a 3D asset library and add-on for Blender, providing materials, models, HDRs, and node groups with integrated asset validation and creator tools.
+
+BlenderKit serves both creators and users in the Blender 3D ecosystem, offering documentation on asset uploads, validation requirements, and troubleshooting. The platform uses Django/Python backend infrastructure and provides GDPR-compliant services for 3D asset management and distribution.
+
+## Key Topics
+
+- Blender 3D modeling and materials
+- Asset upload validation and requirements
+- UV mapping and material setup
+- 3D printable models (FDM and resin)
+- HDR environment maps
+- Mesh quality and normals
+- Thumbnail generation
+- Creator payouts and licensing
+- Python and Django backend
+- Asset troubleshooting
+- Node groups and materials
+- Scene lighting techniques
+- GDPR data protection
+- Release notes and updates
+
+## Upload Troubleshooting & Asset Validation
+
+- [Don't include UV maps names in the material](https://www.blenderkit.com/docs/tutorials/most-common-upload-problems/uv-maps-material): Tutorial on avoiding UV map names in materials for BlenderKit uploads
+- [Inverted normals](https://www.blenderkit.com/docs/tutorials/most-common-upload-problems/fixing-inverted-normals-in-blender): Tutorial on fixing inverted normals in Blender mesh editing
+- [Insufficient lighting](https://www.blenderkit.com/docs/tutorials/most-common-upload-problems/unsufficient-scene-lighting): Guide on proper 3D scene lighting for BlenderKit asset uploads
+- [Upload real HDRs](https://www.blenderkit.com/docs/tutorials/most-common-upload-problems/low-range-for-hdr): HDR upload requirements: bit depth and 360-degree image guidelines
+- [Not printable](https://www.blenderkit.com/docs/tutorials/most-common-upload-problems/not-printable): Guide on 3D printable model requirements for FDM and resin printers
+
+## Creator Support & FAQ
+
+- [Creators FAQ](https://www.blenderkit.com/docs/faq-creators): FAQ covering payouts, licensing, uploads, and earnings for creators
+
+## Release Notes & Updates
+
+- [Release Notes 3.15.0](https://www.blenderkit.com/articles/release_notes_3_15_0): Version 3.15.0 features: search tabs, node groups, printable assets
+- [Release notes v3.3.1](https://www.blenderkit.com/articles/blenderkit-v331): Version 3.3.1 release: bug fixes, server health, and DDoS protection
+
+## Optional
+
+- [Privacy Policy](https://www.blenderkit.com/privacy-policy-2018): GDPR-compliant privacy policy for BlenderKit data collection practices
+- [We're hiring](https://www.blenderkit.com/we-are-hiring): Full-time Django/Python developer job posting for BlenderKit team

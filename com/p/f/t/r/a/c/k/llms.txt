@@ -1,0 +1,64 @@
+# PFTrack
+
+> PFTrack by The Pixel Farm is a spatial intelligence platform for camera tracking, matchmoving, photogrammetry, and 3D scene reconstruction for VFX workflows.
+
+PFTrack offers solutions from PFTrack Solo for beginners to PFTrack Enterprise with Python/PySide2 scripting capabilities. The platform integrates with industry-standard tools like Maya and provides comprehensive camera solving, lens distortion calibration, and automated tracking features for visual effects artists.
+
+## Key Topics
+
+- Camera tracking and matchmoving
+- Lens distortion calibration (barrel and pincushion)
+- PFTrack Solo and PFTrack Enterprise
+- Auto Track and User Track features
+- Tracking trees and presets
+- Camera solver workflows
+- Photogrammetry and scene reconstruction
+- Python and PySide2 scripting
+- Field of view and sensor size metadata
+- VFX Camera Database integration
+- Maya 2026 compatibility
+- Feature tracking methods
+- Camera sensor formats (Super 35)
+- Matchmove Machine
+- Visual effects pipeline integration
+
+## Getting Started
+
+- [PFTrack | Spatial Intelligence Platform — Camera Tracking, Photogrammetry & Scene Reconstruction](https://www.pftrack.com): Homepage: spatial intelligence platform for camera tracking and photogrammetry
+- [Resources and Learning Links | PFTrack](https://www.pftrack.com/resources-learning-links): Centralized hub for PFTrack tutorials, scripts, presets, and learning resources
+- [Tutorial 01 - Introduction to PFTrack & creating a project](https://www.pftrack.com/post/tutorial-01-intro-to-pftrack-creating-a-project): Beginner tutorial: creating first PFTrack project and UI overview
+- [PFTrack Solo Quick Start: 3D Camera Tracking to Export in 4 Mins](https://www.pftrack.com/post/pftrack-solo-3d-camera-tracking-tutorial): Quick start tutorial for 3D camera tracking in PFTrack Solo
+
+## Tracking and Solving Tutorials
+
+- [Tutorial 02 - The basics of tracking & solving a clip](https://www.pftrack.com/post/tutorial-02-the-basics-of-tracking-solving-a-clip): Basic tutorial on tracking and solving clips with PFTrack camera solver
+- [Tutorial 04: A Closer Look at Tracking and Solving Issues](https://www.pftrack.com/post/tutorial-04-tracking-and-solving-issues): Managing common tracking issues, masking, and camera calibration problems
+- [The How and Why of Feature Tracking in PFTrack](https://www.pftrack.com/post/the-how-and-why-of-feature-tracking-in-pftrack): Explains automatic vs manual feature tracking methods and camera solving
+- [Tracking Trees: Basic Presets](https://www.pftrack.com/post/tracking-trees-basic-presets): Basic tracking tree presets for camera and object solving workflows
+
+## Camera and Lens Fundamentals
+
+- [Sensor Size: A Practical Guide for Camera Tracking](https://www.pftrack.com/post/sensor-size-a-practical-guide-for-camera-tracking): Guide to sensor size terminology and metadata for camera tracking projects
+- [Why you need to know about distortion calibration](https://www.pftrack.com/post/why-you-need-to-know-about-distortion-calibration): Explains lens distortion calibration process for camera tracking workflows
+- [Understanding lenses & camera tracking](https://www.pftrack.com/post/lenses-and-camera-tracking): How lens types and distortion influence matchmoving and camera tracking
+- [Camera sensors and their effect on matchmoving](https://www.pftrack.com/post/camera-sensors-and-their-effect-on-matchmoving): How camera sensor formats and modes affect matchmoving workflows
+- [Precision in a Click: PFTrack Camera Sensor Database](https://www.pftrack.com/post/precision-in-a-click-pftrack-camera-sensor-database): PFTrack Camera Sensor Database streamlines accurate camera data input
+
+## Scripting and Automation
+
+- [Lock Object Motion script](https://www.pftrack.com/post/lock-object-motion-script): Python script for locking object motion and transferring camera tracking data
+- [PySide2 Example Script](https://www.pftrack.com/post/macro-scripts-pyside2-example-script): PySide2 GUI automation example for PFTrack Enterprise scripting
+
+## News and Updates
+
+- [PFTrack 26.02.11 available for download now.](https://www.pftrack.com/post/pftrack-26-02-11-available-for-download-now): Release announcement for PFTrack 26.02.11 with Maya 2026 support and fixes
+- [PFTrack Creator Program | PFTrack](https://www.pftrack.com/pftrack-creator-program): Affiliate program offering 15% commission for VFX creators promoting PFTrack
+
+## Cinematography Reference
+
+- [Types of camera movement explained](https://www.pftrack.com/post/types-of-camera-movement-explained): Guide to film production camera movement terminology for matchmovers
+- [Camera angles and shot sizes explained](https://www.pftrack.com/post/camera-angles-and-shot-sizes-explained): Cinematography fundamentals: shot sizes and camera angles for VFX artists
+
+## Optional
+
+- [Accessibility Statement | PFTrack](https://www.pftrack.com/accessibility-statement): WCAG 2.1 Level AA accessibility commitment and compliance statement

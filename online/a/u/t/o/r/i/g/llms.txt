@@ -1,0 +1,59 @@
+# AutoRig.online
+
+> > AutoRig.online is an automated character rigging service that converts T-pose OBJ, FBX, and GLB models into animation-ready characters for Unity and Unreal Engine.
+
+The platform serves as a Mixamo alternative, offering 50+ animations and supporting modern workflows including Humanoid avatars, Skeletal Mesh import, and animation retargeting. It provides both web-based tools and API access for game developers and 3D artists working with Unity Mecanim and Unreal Engine pipelines.
+
+## Key Topics
+
+- Auto-rigging
+- Character rigging
+- T-pose preparation
+- FBX format
+- GLB/glTF format
+- OBJ format
+- Unity Humanoid avatars
+- Unreal Engine Skeletal Mesh
+- Animation retargeting
+- Mixamo alternative
+- Unity Mecanim
+- A-pose vs T-pose
+- Mesh preparation
+- PBR textures
+- 3D character animation
+
+## Core Services
+
+- [Auto Rig OBJ Online — Convert OBJ to Rigged GLB/FBX](https://autorig.online/obj-auto-rig): Main OBJ rigging service: upload T-pose models, export to GLB/FBX formats
+- [Mixamo Alternative: Auto Rigging + Animations for GLB/FBX/OBJ](https://autorig.online/mixamo-alternative): Mixamo alternative with 50+ animations for GLB/FBX/OBJ, Unity/Unreal ready
+- [Buy Credits](https://autorig.online/buy-credits): Purchase credits for AutoRig service and API access
+
+## Getting Started & Tutorials
+
+- [AutoRig Guides & Tutorials](https://autorig.online/guides): Hub for character rigging tutorials: Unity, Unreal, T-pose, and retargeting
+- [T-Pose Rigging Checklist — Prepare Your Character for Auto-Rig](https://autorig.online/t-pose-rig): T-pose prep checklist: pose, scale, mesh issues, textures for auto-rigging
+- [Auto Rigging OBJ Characters: What Works (and What Breaks)](https://autorig.online/auto-rig-obj): Guide to auto-rigging OBJ characters: mesh prep, T-pose, and troubleshooting
+- [Auto Rig FAQ — GLB/FBX/OBJ Rigging Questions & Answers](https://autorig.online/faq): FAQ covering formats, pricing, Unity/Unreal compatibility, and troubleshooting
+
+## Unity Workflows
+
+- [How to Rig a GLB Character for Unity (Fast Workflow)](https://autorig.online/rig-glb-unity): GLB to Unity rigging workflow: T-pose prep to Humanoid animation setup
+- [Retarget Animations in Unity & Unreal: Simple Pipeline for Auto-Rigged Characters](https://autorig.online/animation-retargeting): Animation retargeting guide for Unity Mecanim and Unreal Engine workflows
+
+## Unreal Engine Workflows
+
+- [How to Rig an FBX Character for Unreal Engine](https://autorig.online/rig-fbx-unreal-hi): Step-by-step FBX rigging workflow for Unreal Engine Skeletal Mesh import
+
+## Format Guides
+
+- [GLB vs FBX for Characters: Which Format Should You Use?](https://autorig.online/glb-vs-fbx-hi): GLB vs FBX comparison for Unity, Unreal, and character rigging workflows
+- [GLB vs FBX for Characters: Which Format Should You Use?](https://autorig.online/glb-vs-fbx): Format comparison guide: GLB vs FBX for game engines and rigging pipelines
+
+## Localized Content
+
+- [Mixamo विकल्प: ऑटो रिगिंग + Animations for GLB/FBX/OBJ (Hindi)](https://autorig.online/mixamo-alternative-hi): Hindi version: Mixamo alternative with auto-rigging for Unity/Unreal
+- [How to Rig a GLB Character for Unity (Russian)](https://autorig.online/rig-glb-unity-ru): Russian version: GLB to Unity rigging workflow with Humanoid avatar setup
+- [How to Rig an FBX Character for Unreal Engine (Chinese)](https://autorig.online/rig-fbx-unreal-zh): Chinese version: FBX rigging for Unreal Engine Skeletal Mesh workflow
+- [T-Pose vs A-Pose: Which One Is Better for Auto-Rigging? (Chinese)](https://autorig.online/t-pose-vs-a-pose-zh): Chinese version: T-pose vs A-pose comparison for auto-rigging compatibility
+- [How to Rig a GLB Character for Unity (Hindi)](https://autorig.online/rig-glb-unity-hi): Hindi version: GLB to Unity rigging with Humanoid animation workflow
+- [ऑटो रिगिंग OBJ Characters: What Works (and What Breaks) (Hindi)](https://autorig.online/auto-rig-obj-hi): Hindi version: OBJ auto-rigging guide with mesh prep and troubleshooting

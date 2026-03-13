@@ -1,0 +1,55 @@
+# KeenTools
+
+> > KeenTools develops professional 3D tracking, face modeling, and texture projection plugins for Blender, Nuke, and After Effects, featuring AI-powered tools like FaceBuilder, FaceTracker, and GeoTracker.
+
+KeenTools specializes in computer vision and machine learning solutions for VFX artists and 3D professionals. Their product suite includes geometry-based tracking, markerless face reconstruction with ARKit blendshapes, MetaHuman integration workflows, and a Cloud API for automated 3D head generation.
+
+## Key Topics
+
+- FaceBuilder - 3D face modeling from photos
+- FaceTracker - Markerless face tracking
+- GeoTracker - 3D object and camera tracking
+- Blender addons and integrations
+- Nuke plugins and nodes
+- After Effects tracking tools
+- ARKit FACS blendshapes
+- MetaHuman workflow integration
+- Focal length estimation
+- Texture mapping and projection
+- TextureBuilder for clean plates
+- ReadRiggedGeo for skeletal animation
+- PinTool for precise tracking
+- Cloud API for 3D reconstruction
+- VFX education and training
+
+## Core Products & Integrations
+
+- [FaceTracker for Blender](https://keentools.io/products/facetracker-for-blender): Professional markerless face tracking for Blender with ARKit blendshapes
+- [FaceBuilder for Nuke](https://keentools.io/products/facebuilder-for-nuke): 3D face/head modeling from photos with focal length estimation in Nuke
+- [GeoTracker for Blender](https://keentools.io/products/geotracker-for-blender): Geometry-based 3D object/camera tracking with video texturing in Blender
+- [TextureBuilder for Nuke](https://keentools.io/products/texturebuilder): Nuke node for multi-frame texture projection and clean plate creation
+- [KeenTools Cloud API](https://keentools.io/products/api): Cloud API for 3D head reconstruction with blendshapes & texture mapping
+- [FaceBuilder x MetaHuman](https://keentools.io/integrations/fbb-mh): Photo-to-MetaHuman workflow with FaceBuilder and Mesh to MetaHuman
+- [ReadRiggedGeo for Nuke](https://keentools.io/products/readriggedgeo): Nuke node for skeletal animation and rigged FBX/Collada model import
+
+## Latest Release Notes
+
+- [2025.1.0 (13 February, 2025)](https://keentools.io/news/2025-1-0): Blender 4.4 & Nuke 15.2 Beta support with wireframe render feature
+- [2024.2.0 (20 August 2024)](https://keentools.io/news/2024-2): FaceTracker for Blender open beta launch with Blender 4.2 support
+- [2024.1.0 (20 March 2024)](https://keentools.io/news/2024-1-2): FaceBuilder for Blender UI revamp with auto face detection & texturing
+- [2023.3.1 (14 February 2024)](https://keentools.io/news/2023-3-1): Bug fixes for Blender Pack, Nuke Package & GeoTracker for After Effects
+- [KeenTools 2023.2.0 (8 August 2023)](https://keentools.io/news/2023-2): GeoTracker for Blender beta launch with object/camera tracking
+
+## Major Feature Updates
+
+- [KeenTools 2023.1.0 (7 March 2023)](https://keentools.io/news/2023-1): GeoTracker for After Effects enhancements with head tracking & masks
+- [KeenTools 2022.2.3 (03 November 2022)](https://keentools.io/news/2022-2-3): GeoTracker for After Effects launch with 3D object tracking capabilities
+- [KeenTools 2022.2 (4 August 2022)](https://keentools.io/news/2022-2): FaceBuilder MetaHuman-compatible UV layout and improved 2D/3D handles
+- [KeenTools version 2021.2 (24 March 2021)](https://keentools.io/news/2021-2): AI-powered face alignment in FaceBuilder/FaceTracker, Nuke 13 support
+- [KeenTools version 2021.1 (22 Dec 2020)](https://keentools.io/news/2021-1): ARKit FACS blendshapes in FaceBuilder and Nuke Indie support added
+
+## Optional
+
+- [Schools & Courses teaching with KeenTools](https://keentools.io/help/schools): VFX schools and courses using KeenTools plugins like Gnomon & 3D Akademie
+- [New licensing in KeenTools (16 December 2022)](https://keentools.io/news/new-licensing): Simplified licensing with freelancer/studio plans & subscription options
+- [Black Friday 2021 in KeenTools](https://keentools.io/news/bfcm2021): Black Friday/Cyber Monday 50% discount on personal licenses
