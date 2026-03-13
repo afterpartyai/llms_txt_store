@@ -1,0 +1,31 @@
+# timeanddate.com Developer Documentation
+
+> > Developer documentation for the Timeanddate API, providing programmatic access to time, date, location, and astronomy data worldwide.
+
+This documentation covers the Timeanddate API, which offers access to over 5,800 global locations with standardized time data (ISO8601, UTC), astronomical calculations including moon phases and lunar cycles, and geographic location information for developers building time-aware applications.
+
+## Key Topics
+
+- Timeanddate API
+- ISO8601
+- UTC
+- API Reference
+- Location Data
+- Geographic Locations
+- DateTime Format
+- Data Types
+- Moon Phase
+- Astronomy Data
+- Lunar Cycles
+- Time Data Type
+- Available Locations
+- Astro Service
+
+## API Data Types Reference
+
+- [General: Time](https://dev.timeanddate.com/docs/type-time): Time data type reference with ISO8601 and UTC formatting standards
+- [General: Moon Phase](https://dev.timeanddate.com/docs/type-moonphase): Moon phase data type reference for astronomy API services
+
+## Location Database
+
+- [Timeanddate API: Available Locations](https://dev.timeanddate.com/docs/available-locations): Complete list of 5,800+ locations in Timeanddate API database worldwide
