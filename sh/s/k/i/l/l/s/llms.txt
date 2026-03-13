@@ -1,60 +1,64 @@
-# skills.sh
+# Skills.sh
 
-> > skills.sh is a platform for sharing and discovering reusable AI agent skills, Copilot extensions, and MCP tools for GitHub Copilot, Azure, and other AI development workflows.
+> > A curated repository of agent skills and coding standards for GitHub Copilot, AI development tools, and modern web frameworks.
 
-The site hosts a community-driven repository of skills that enhance AI coding assistants with specialized capabilities ranging from API development and cloud migration to testing frameworks and design systems. Skills are packaged as SKILL.md files that provide structured context for AI agents.
+Skills.sh provides structured knowledge files (SKILL.md format) that help AI coding assistants like GitHub Copilot understand project-specific patterns, coding standards, and development workflows. The platform hosts skills for frameworks like Next.js and React, cloud platforms like Azure, and development practices ranging from UI/UX design to testing and infrastructure.
 
 ## Key Topics
 
 - GitHub Copilot
+- Agent Skills
+- Copilot Skills
+- Coding Standards
+- Next.js
+- React
+- Python
 - MCP (Model Context Protocol)
-- AI agents and agentic development
-- Azure cloud services
-- Context management
-- Copilot skills and extensions
-- CLI tools and automation
-- API documentation and routes
-- Design tokens and accessibility
-- Best practices and coding standards
-- Server-side development
-- Testing frameworks
-- Cloud migration
-- SKILL.md format
+- TypeScript/JavaScript
+- CLI Tools
+- Interface Design
+- Azure
+- Testing (JUnit)
+- Terraform
+- Design Systems
 
-## GitHub Copilot & MCP Tools
+## Getting Started
 
-- [github-copilot-starter](https://skills.sh/github/awesome-copilot/github-copilot-starter): GitHub Copilot project starter with configuration and coding standards
-- [mcp-cli](https://skills.sh/github/awesome-copilot/mcp-cli): MCP CLI reference for server discovery and JSON schema tool integration
-- [ruby-mcp-server-generator](https://skills.sh/github/awesome-copilot/ruby-mcp-server-generator): Ruby MCP server generator for scaffolding projects with Ruby SDK
-- [agentic-development-principles](https://skills.sh/supercent-io/skills-template/agentic-development-principles): AI agent development principles for context management and workflows
-- [remembering-conversations](https://skills.sh/obra/episodic-memory/remembering-conversations): Episodic memory skill for AI agent conversation search and context mgmt
+- [skill-standardization by supercent-io/skills-template](https://skills.sh/supercent-io/skills-template/skill-standardization): Agent Skills Specification with SKILL.md structure & validation
+- [find-skills by vercel-labs/skills](https://skills.sh/vercel-labs/skills/find-skills): Skills CLI tool for discovering & installing agent skills via npx
+- [github-copilot-starter by github/awesome-copilot](https://skills.sh/github/awesome-copilot/github-copilot-starter): GitHub Copilot setup guide with configuration & coding standards
 
-## Azure Cloud Development
+## GitHub Copilot Skills
 
-- [azure-compliance](https://skills.sh/microsoft/github-copilot-for-azure/azure-compliance): Azure compliance skill using azqr for security auditing and assessment
-- [azure-cloud-migrate](https://skills.sh/microsoft/github-copilot-for-azure/azure-cloud-migrate): Azure cloud migration skill for AWS Lambda to Azure Functions conversion
+- [copilot-usage-metrics by github/awesome-copilot](https://skills.sh/github/awesome-copilot/copilot-usage-metrics): GitHub Copilot usage metrics via CLI for enterprise & org statistics
+- [typespec-create-agent by github/awesome-copilot](https://skills.sh/github/awesome-copilot/typespec-create-agent): TypeSpec guide for creating Microsoft 365 Copilot declarative agents
+- [editorconfig by github/awesome-copilot](https://skills.sh/github/awesome-copilot/editorconfig): EditorConfig skill for consistent code style & formatting standards
+- [csharp-mcp-server-generator by github/awesome-copilot](https://skills.sh/github/awesome-copilot/csharp-mcp-server-generator): C# .NET 8.0 Model Context Protocol server generator & scaffolding
 
-## Web Development & API Skills
+## React & Next.js
 
-- [expo-api-routes](https://skills.sh/expo/skills/expo-api-routes): Expo API routes skill for server-side endpoints and HTTP request handling
-- [create-web-form](https://skills.sh/github/awesome-copilot/create-web-form): Web form creation skill with HTML/CSS/JS validation and accessibility
-- [api-documentation](https://skills.sh/supercent-io/skills-template/api-documentation): OpenAPI/Swagger REST API documentation template for user management
-- [tailwind-design-system](https://skills.sh/wshobson/agents/tailwind-design-system): Tailwind CSS v4 design system with tokens, theming, and dark mode
-- [polish](https://skills.sh/pbakaus/impeccable/polish): UI polish skill for visual refinement, typography, and accessibility
+- [next-cache-components by vercel-labs/next-skills](https://skills.sh/vercel-labs/next-skills/next-cache-components): Next.js 16 Cache Components & Partial Prerendering (PPR) guide
+- [vercel-composition-patterns by vercel-labs/agent-skills](https://skills.sh/vercel-labs/agent-skills/vercel-composition-patterns): React 19 component composition patterns & compound components guide
 
-## Testing & DevOps
+## Development Environment & Tools
 
-- [csharp-tunit](https://skills.sh/github/awesome-copilot/csharp-tunit): C# TUnit testing framework skill with data-driven test best practices
-- [containerize-aspnet-framework](https://skills.sh/github/awesome-copilot/containerize-aspnet-framework): ASP.NET Framework containerization skill for Docker Windows with IIS
-- [winapp-cli](https://skills.sh/github/awesome-copilot/winapp-cli): Windows App CLI reference for MSIX packaging and certificate management
+- [system-environment-setup by supercent-io/skills-template](https://skills.sh/supercent-io/skills-template/system-environment-setup): Docker Compose dev environment with PostgreSQL, Redis & Nginx setup
+- [codebase-search by supercent-io/skills-template](https://skills.sh/supercent-io/skills-template/codebase-search): Codebase navigation with semantic search & grep pattern strategies
+- [java-junit by github/awesome-copilot](https://skills.sh/github/awesome-copilot/java-junit): JUnit 5 testing guide with Maven/Gradle setup & parameterized tests
 
-## Documentation & Planning
+## Cloud & Infrastructure
 
-- [create-technical-spike](https://skills.sh/github/awesome-copilot/create-technical-spike): Technical spike documentation template for time-boxed research planning
-- [baoyu-format-markdown](https://skills.sh/jimliu/baoyu-skills/baoyu-format-markdown): Markdown formatter skill for CJK text processing and CLI configuration
+- [azure-postgres by microsoft/github-copilot-for-azure](https://skills.sh/microsoft/github-copilot-for-azure/azure-postgres): Azure PostgreSQL with Entra ID passwordless authentication setup
+- [terraform-azurerm-set-diff-analyzer by github/awesome-copilot](https://skills.sh/github/awesome-copilot/terraform-azurerm-set-diff-analyzer): Terraform AzureRM diff analyzer for detecting false positives in plans
 
-## Marketing & Growth
+## Design & UI/UX
 
-- [page-cro](https://skills.sh/coreyhaines31/marketingskills/page-cro): Conversion rate optimization skill for landing pages and CTAs
-- [referral-program](https://skills.sh/coreyhaines31/marketingskills/referral-program): Referral program design skill for viral growth and incentive strategy
-- [bmad-idea](https://skills.sh/supercent-io/skills-template/bmad-idea): BMAD creative intelligence suite for brainstorming and design thinking
+- [interface-design by dammyjay93/interface-design](https://skills.sh/dammyjay93/interface-design/interface-design): SaaS interface design guide covering typography, navigation & data viz
+- [responsive-design by supercent-io/skills-template](https://skills.sh/supercent-io/skills-template/responsive-design): Mobile-first responsive design with CSS Grid, Flexbox & media queries
+- [penpot-uiux-design by github/awesome-copilot](https://skills.sh/github/awesome-copilot/penpot-uiux-design): Penpot UI/UX design with MCP server plugin setup & troubleshooting
+
+## Optional
+
+- [datanalysis-credit-risk by github/awesome-copilot](https://skills.sh/github/awesome-copilot/datanalysis-credit-risk): Python credit risk analysis with data cleaning & feature selection
+- [marketing-psychology by coreyhaines31/marketingskills](https://skills.sh/coreyhaines31/marketingskills/marketing-psychology): Marketing psychology mental models: JTBD, Pareto Principle & more
+- [xlsx by anthropics/skills](https://skills.sh/anthropics/skills/xlsx): Excel formatting standards for financial modeling & formulas

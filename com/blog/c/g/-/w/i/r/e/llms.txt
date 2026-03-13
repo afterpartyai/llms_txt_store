@@ -1,0 +1,58 @@
+# CGWire Blog
+
+> > The official blog for CGWire and Kitsu, covering animation production management, pipeline development, and industry best practices.
+
+CGWire develops Kitsu, an open-source production tracker for animation studios. This blog features product updates, technical tutorials for Blender and Python integration, animation production guides, and customer success stories from studios worldwide.
+
+## Key Topics
+
+- Kitsu production tracker
+- CGWire platform
+- Animation production management
+- Blender pipeline integration
+- Python automation and scripting
+- Asset management workflows
+- Production planning and scheduling
+- Animation principles and techniques
+- Visual storytelling
+- Quality control processes
+- Look development
+- Character animation
+- Build in public updates
+- Studio case studies
+- CG pipeline metadata
+
+## Product Updates & Build in Public
+
+- [Build in Public: December 2025 Update](https://blog.cg-wire.com/build-in-public-december-2025-update): CGWire & Kitsu product updates: v1 release, plugins, schedule features
+- [Build in Public: September 2025 Update](https://blog.cg-wire.com/build-in-public-september-2025-update): Kitsu product update: schedule versioning, budget forecasting, Summit news
+- [Build in Public: September 2024 Update](https://blog.cg-wire.com/build-in-public-september-2024-update): CGWire & Kitsu updates: SAML/SSO, asset library, team schedule features
+
+## Technical Guides & Pipeline Development
+
+- [Managing Blender File Revisions with a Kitsu Versioning Addon (2026)](https://blog.cg-wire.com/blender-kitsu-versioning-addon): Build Blender addon for Kitsu integration and file version management
+- [(2026) How to Export and Share Kitsu Playlists with Python](https://blog.cg-wire.com/share-kitsu-playlists): Python tutorial for exporting Kitsu playlists and previews for client review
+- [Files and Nodes Metadata In A CG Pipeline (2026)](https://blog.cg-wire.com/cg-pipeline-files-and-nodes-metadata): Managing metadata in CG pipelines using TOML, YAML, JSON & Zou API
+- [Deep Dive Into The Kitsu Hosting Infrastructure](https://blog.cg-wire.com/deep-dive-into-our-hosting-infrastructure): Technical overview of Kitsu cloud hosting and SaaS operations with Flask
+- [The Beginner's Guide to Geometry Nodes in Blender 2026](https://blog.cg-wire.com/blender-scripting-geometry-nodes): Beginner tutorial on Blender Geometry Nodes for procedural modeling
+
+## Production Management & Planning
+
+- [Customer Story: Miyu Studio](https://blog.cg-wire.com/customer-story-miyu-studio): Miyu Studio case study on implementing Kitsu for TV animation production
+- [How To Make The Best Use of Your Productivity Quotas (2026)](https://blog.cg-wire.com/how-to-make-the-best-use-of-your-productivity-quotas): Production planning guide for setting and managing animator productivity quotas
+- [How To Prepare Your Production (2026): Part 1 The Contracts](https://blog.cg-wire.com/how-to-prepare-your-production-part-1-the-contracts): Animation production planning: contracts, milestones, and client agreements
+- [How To Prepare Your Production (2026) - Part 4: Send An Animation Supervisor Overseas](https://blog.cg-wire.com/how-to-prepare-your-production-part-4-send-an-animation-supervisor-overseas): Managing overseas animation outsourcing with supervision best practices
+
+## Animation Pipeline & Workflows
+
+- [Compositing in Animation (2026): Definition, Process & Challenges](https://blog.cg-wire.com/compositing-in-animation-definition-process-challenges): Compositing workflow guide covering Nuke, Blender, After Effects & Kitsu
+- [Texturing and Shading in Animation (2026): Definition, Process & Challenges](https://blog.cg-wire.com/texturing-shading-animation): 3D texturing and shading pipeline: UV mapping to look development
+- [Why Retopology Matters for Animation Pipelines](https://blog.cg-wire.com/retopology-animation-blender-guide): Blender retopology workflow guide for production-ready character models
+- [Color Correction in Animation (2026): The Secret to Polished Scenes](https://blog.cg-wire.com/color-correction-animation): Post-production color correction techniques for animation consistency
+
+## Animation Principles & Techniques
+
+- [Must-know Physics And Mechanics Principles Used In Animation (2026)](https://blog.cg-wire.com/physics-and-mechanics-principles-in-animation): Physics fundamentals for realistic character animation and body mechanics
+- [Exaggeration Principle (2026): Why Bigger Emotions Make Better Animation](https://blog.cg-wire.com/exaggeration-animation-principle): Disney animation principle: using exaggeration for impactful storytelling
+- [How Light Shapes Emotion in Animation (2026)](https://blog.cg-wire.com/how-light-shapes-emotion-in-animation): Lighting techniques for emotional storytelling in Disney & animation
+- [Creating Character Color Palettes (2026): Tips and Techniques for Animators](https://blog.cg-wire.com/character-color-palettes): Color theory guide for character design featuring Naruto & Avatar examples

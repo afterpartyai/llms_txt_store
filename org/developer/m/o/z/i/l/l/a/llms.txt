@@ -1,54 +1,35 @@
 # MDN Web Docs
 
-> > MDN Web Docs is Mozilla's comprehensive, open-source documentation platform for web technologies including HTML, CSS, JavaScript, and Web APIs.
+> > MDN Web Docs is the authoritative resource for web developers, providing comprehensive documentation on web technologies, standards, and best practices.
 
-Maintained by Mozilla with community contributions, MDN serves as the trusted reference for web developers worldwide. The site includes interactive tools like Playground, security testing via HTTP Observatory, and the annual Web DNA Report on developer needs and browser compatibility.
+MDN (Mozilla Developer Network) serves as the definitive reference for HTML, CSS, JavaScript, Web APIs, and modern web development practices. The platform includes tutorials, guides, and reference documentation maintained by Mozilla and the open-source community.
 
 ## Key Topics
 
-- HTML
-- CSS
-- JavaScript
-- Web APIs
-- Firefox DevTools
-- HTTP Observatory
-- Browser compatibility
-- Web standards
-- Open-source documentation
-- Developer community
-- Interactive coding (Playground)
-- Security best practices
-- Responsive design
-- Accessibility
-- Modern web development
+- Web Security
+- SubResource Integrity (SRI)
+- CDN Security
+- DevSecOps
+- GitHub to GitLab Migration
+- CI/CD Pipelines
+- Repository Migration
+- Web Development Curriculum
+- Third-party Resources
+- Content Delivery Networks
+- Git Large File Storage (LFS)
+- Script Integrity
+- CORS and Crossorigin
+- Project Import
+- Learning Resources
 
-## Learning Resources
+## Web Development Learning Resources
 
-- [Getting started modules - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started): Beginner modules for installing tools and building first websites
-- [Core learning modules - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core): Essential web dev curriculum covering modern best practices
-- [Web development tutorials - MDN Web Docs | MDN](https://developer.mozilla.org/en-US/docs/MDN/Tutorials): Tutorials for beginner to expert web developers
-- [Web developer guides - MDN Web Docs | MDN](https://developer.mozilla.org/en-US/docs/MDN/Guides): Curated list of goal-oriented guides for web features and APIs
-- [How to solve common problems - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto): Solutions to common front-end problems and CSS troubleshooting
+- [A new learning experience on MDN](https://developer.mozilla.org/en-US/blog/curriculum-learn-web-development): Announcement of MDN's new Learn Web Development section and curriculum
 
-## Interactive Tools
+## Web Security Best Practices
 
-- [Playground | MDN](https://developer.mozilla.org/en-US/play): Interactive HTML/CSS/JavaScript code editor with sharing features
-- [HTTP Header Security Test - HTTP Observatory | MDN](https://developer.mozilla.org/en-US/observatory): Mozilla's HTTP Observatory tool for security header analysis
+- [Securing your CDN: Why and how should you use SRI](https://developer.mozilla.org/en-US/blog/securing-cdn-using-sri-why-how): Guide on securing CDN resources using SubResource Integrity (SRI)
 
-## Developer Tools Reference
+## DevOps and Migration Guides
 
-- [about:debugging — Firefox Source Docs  documentation](https://developer.mozilla.org/en-US/docs/Tools/about:debugging): Firefox DevTools remote debugging setup for Android and extensions
-
-## Community & Insights
-
-- [Contribute to MDN](https://developer.mozilla.org/en-US/community): Join MDN's global community of contributors and volunteers
-- [Web DNA Report | MDN Web Docs](https://insights.developer.mozilla.org): Annual Web DNA reports on developer pain points and browser compat
-
-## About MDN
-
-- [MDN Web Docs](https://developer.mozilla.org/en-US): Homepage for MDN Web Docs - trusted resource for web developers
-- [About MDN](https://developer.mozilla.org/en-US/about): About MDN Web Docs, Mozilla's open-source web dev resource & team
-
-## Optional
-
-- [Microsummaries in Firefox and on the Web](https://developer.mozilla.org/presentations/microsummaries): OSCON 2006 presentation on Firefox 2.0 microsummaries feature
+- [Migrating from GitHub to GitLab seamlessly: A step-by-step guide](https://developer.mozilla.org/en-US/blog/migrating-from-github-to-gitlab-seamlessly-a-step-by-step-guide): Step-by-step guide for DevSecOps teams migrating from GitHub to GitLab

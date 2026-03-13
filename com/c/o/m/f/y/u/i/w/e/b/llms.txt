@@ -1,0 +1,55 @@
+# ComfyUI Web
+
+> > Free AI video and image generation platform powered by cutting-edge models including Wan 2.6, Seedance V1.5 Pro, Flux, and NVIDIA Chrono Edit.
+
+ComfyUI Web provides 40+ free online AI tools for creating videos, images, and music without installation. The platform integrates state-of-the-art models from Bytedance, Alibaba, NVIDIA, and Black Forest Labs, offering text-to-video, image-to-video, and advanced image editing capabilities with comprehensive tutorials and workflow guides.
+
+## Key Topics
+
+- ComfyUI
+- Wan 2.6
+- Seedance V1.5 Pro
+- Flux AI models
+- text-to-video generation
+- image-to-video conversion
+- text-to-image generation
+- AI video generation
+- NVIDIA Chrono Edit
+- Bytedance AI tools
+- fast video generation
+- AI image editing
+- CogVideoX
+- Luma AI Dream Machine
+- custom nodes and workflows
+
+## AI Video Generation Tools
+
+- [AI Video Generator](https://comfyuiweb.com/ja/ai-video-generator): Free AI video generator using Wan 2.6, Seedance, Hailuo models
+- [Minimax Hailuo 2.3 Fast](https://comfyuiweb.com/ja/apps/hailuo-23-fast): Minimax Hailuo 2.3 Fast image-to-short-video generator (6-10s, 768p)
+- [Lightricks LTX-2 Fast: Text → Video](https://comfyuiweb.com/ru/apps/ltx-2-fast-t2v): Lightricks LTX-2 Fast text-to-video with audio-video sync
+- [Wan 2.5 Image to Video Fast](https://comfyuiweb.com/es/apps/wan-25-i2v-fast): Alibaba Wan 2.5 fast image-to-video (720p/1080p, 5s/10s)
+- [Seedance V1.5 Pro Image to Video Fast](https://comfyuiweb.com/es/apps/seedance-i2v-fast): Bytedance Seedance V1.5 Pro image-to-video with frame control
+
+## AI Image Generation & Editing
+
+- [FLUX AI: Stunning Images from Text](https://comfyuiweb.com/ru/flux-ai): FLUX AI text-to-image generator by Black Forest Labs
+- [Flux 2 Klein 9B Edit](https://comfyuiweb.com/es/apps/flux-2-klein-9b-edit): Flux 2 Klein 9B image editor with natural language and multi-reference
+- [NVIDIA Chrono Edit](https://comfyuiweb.com/es/apps/nvidia-chrono-edit): NVIDIA Chrono Edit physics-aware image editor preserving pose & lighting
+- [Pixart-Alpha Online](https://comfyuiweb.com/zh/Pixart-alpha): PixArt-Alpha Transformer-based T2I diffusion model for image generation
+
+## Tutorials & Guides
+
+- [ComfyUI Luma AI API: A Simple Guide](https://comfyuiweb.com/es/posts/comfyui-luma-ai-api): Guide to integrating Luma AI Dream Machine API in ComfyUI
+- [ComfyUI-CogVideoXWrapper: Turn Text into Video with AI](https://comfyuiweb.com/zh/posts/comfyui-cog-video-x-wrapper): CogVideoXWrapper plugin guide for text/image-to-video in ComfyUI
+- [ComfyUI-CogVideoXWrapper Tutorial](https://comfyuiweb.com/es/posts/comfyui-cog-video-x-wrapper): CogVideoX models integration tutorial for ComfyUI video generation
+- [ComfyUI-PuLID-Flux Guide](https://comfyuiweb.com/es/posts/comfyui-pulid-flux-guide): Setup guide for PuLID-Flux image generation in ComfyUI
+- [How I Use SkyReels-A2 To Create Amazing AI Videos](https://comfyuiweb.com/zh/posts/how-i-use-skyreels-a2): SkyReels-A2 tutorial for multi-reference AI video generation
+
+## News & Resources
+
+- [AI Art News & Tutorials](https://comfyuiweb.com/posts): AI art news, model reviews (Flux, Wan, Seedance), workflow guides
+- [ComfyUI Resources — Free AI Model Downloads](https://comfyuiweb.com/es/resources): Curated AI model downloads: Stable Diffusion, Flux, LoRA, ControlNet
+
+## Optional
+
+- [Privacy Policy](https://comfyuiweb.com/privacy): Privacy policy for ComfyUI Web data collection and user rights

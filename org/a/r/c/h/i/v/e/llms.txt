@@ -1,30 +1,38 @@
 # Internet Archive
 
-> > A non-profit digital library offering free access to millions of books, movies, software, music, websites, and historical collections.
+> > A digital library offering universal access to books, movies, software, music, websites, and more through collections like the Wayback Machine.
 
-The Internet Archive provides permanent access to historical collections through its Wayback Machine and hosts digitized cultural artifacts including manuscripts like the Peresopnytsia Gospel. Users can download content in multiple formats (PDF, ePUB, ZIP) using tools like wget and the Internet Archive Command-line Tool.
+The Internet Archive preserves digital content and provides free access to millions of items including historical web pages, texts, audio recordings, videos, and software. Users can browse collections, download materials using tools like wget and the Internet Archive Command-line Tool, and search archived websites through the Wayback Machine.
 
 ## Key Topics
 
-- Internet Archive
-- wget
+- Wayback Machine
 - Internet Archive Command-line Tool
-- Python
-- downloading
-- bulk-download
-- file-formats
-- PDF
-- ePUB
-- command-line-tool
-- Peresopnytsia Gospel
-- 16th-century-manuscript
-- old-ukrainian-language
-- digital preservation
+- wget
+- Collections browsing
+- File downloading
+- Bulk download
+- Advanced search
+- Digital preservation
+- PDF and ePub formats
+- URL archiving
+- Command-line tools
+- Python utilities
+- Historical manuscripts
+- Web archiving
 
-## Download Guides
+## Getting Started
 
-- [Downloading – A Basic Guide](https://help.archive.org/help/downloading-a-basic-guide/): Comprehensive guide to downloading content from Internet Archive using wget, command-line tools, and bulk download options
+- [Introductory Tour of Archive.org and its Collections](https://help.archive.org/help/introductory-tour-of-archive-org-and-its-collections/): Getting started guide to Archive.org collections and navigation basics
 
-## Historical Collections
+## Wayback Machine
 
-- [Peresopnytsia Gospel 1556-1561: Research & Transliterated Text](https://archive.org/details/PY1561): Digitized 16th-century Ukrainian manuscript with research, transliterated text, and concordance by Chepiga I.P. and other scholars
+- [Wayback Machine Advanced Search](https://archive.org/web/web-advancedsearch.php): Wayback Machine advanced search with URL and date range filtering
+
+## Downloading and Tools
+
+- [Downloading – A Basic Guide](https://help.archive.org/help/downloading-a-basic-guide/): Guide to downloading files using wget, Python command-line tool, and bulk options
+
+## Optional
+
+- [Peresopnytsia Gospel 1556-1561](https://archive.org/details/PY1561): Peresopnytsia Gospel 16th-century Ukrainian manuscript with transliteration

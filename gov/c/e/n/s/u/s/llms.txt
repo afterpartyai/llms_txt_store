@@ -1,51 +1,50 @@
 # U.S. Census Bureau
 
-> > Official source for U.S. demographic, economic, and population data including American Community Survey (ACS), decennial Census, and business statistics
+> > The United States' premier statistical agency providing comprehensive demographic, economic, and geographic data through surveys, censuses, and developer-friendly APIs.
 
-The U.S. Census Bureau provides comprehensive data access through data.census.gov, Census API, and specialized tools like OnTheMap for employment statistics and Census Business Builder. The Bureau collaborates with the Center for Economic Studies (CES), Federal Research Data Centers, and government partners to ensure data quality and privacy protection.
+The Census Bureau, part of the Department of Commerce, collects and disseminates critical data including the American Community Survey, Economic Census, County Business Patterns, and population estimates. Developers can access hundreds of datasets through the Census Bureau API, with resources including documentation, app galleries, and an active developer community.
 
 ## Key Topics
 
+- Census Bureau API
 - American Community Survey (ACS)
-- Census API
-- 2020 Census
-- 2010 Census
-- data.census.gov
-- Center for Economic Studies (CES)
-- OnTheMap (LEHD)
-- Census Business Builder
+- Economic Census
+- Population Estimates and Projections
 - County Business Patterns
-- Federal Research Data Centers
-- Data protection and privacy
-- Survey methodology
-- Intergovernmental partnerships
-- Statistical resources
-- Census advisory committees
+- Census of Governments
+- Nonemployer Statistics
+- Business Dynamics Statistics
+- Data Visualization Tools
+- Developer Community and Forum
+- Demographic Data
+- Economic Data
+- Interactive Maps
+- Third-Party Applications
+- Statistical Quality Standards
 
-## Data Access & Tools
+## About the Census Bureau
 
-- [Data](https://www.census.gov/data.html): Main data access hub for Census Bureau demographic, economic, population data
-- [OnTheMap](http://onthemap.ces.census.gov): LEHD mapping tool showing employment origin-destination statistics
-- [Related Sites](https://www.census.gov/data/related-sites.html): External data resources including CES, Federal Research Data Centers
+- [What We Do](https://www.census.gov/about/what.html): Census Bureau mission overview: data collection & government authority
+- [Who We Are](https://www.census.gov/about/who.html): Census Bureau organization overview, headquarters & executive staff info
 
-## API Updates & Announcements
+## API Resources and Developer Tools
 
-- [Census Bureau's API Updated with 2013 ACS (1-yr) and New Features](https://www.census.gov/data/developers/updates/2013-ACS-1-yr-plus-new-features.html): API update announcement: 2013 ACS 1-year data and new features added
-- [Now available: 2008-2012 ACS 5 Year Summary Files and Data Profiles](https://www.census.gov/data/developers/updates/acs-5-yr-summary-available-2008-2012.html): Release announcement: 2008-2012 ACS 5-year summary files via API
-- [Introducing dwellr Mobile Application (built on ACS data from our API)](https://www.census.gov/data/developers/updates/introducing-dwellr-mobile-application.html): Mobile app showcase: dwellr uses ACS data from Census API
+- [App Gallery](https://www.census.gov/data/developers/app-gallery.html): Showcase of Census Bureau API apps from official & developer community
+- [Business Dynamics Statistics (BDS) Time Series (1978 – 2023)](https://www.census.gov/data/developers/data-sets/business-dynamics.html): BDS API reference: business statistics & job creation data 1978-2023
 
-## Government & Partnerships
+## API Updates and Announcements
 
-- [Intergovernmental Affairs](https://www.census.gov/about/cong-gov-affairs/intergovernmental-affairs.html): Liaison office for tribal, state, county, local government partnerships
-- [Subject/Topic Contacts](https://www.census.gov/about/contact-us/subjects.html): Contact directory for Census Bureau programs including ABS, BERD surveys
+- [New via API: Population Estimates and Projections Plus Economic Data](https://www.census.gov/data/developers/updates/population-estimates-projections-econ-business-patterns.html): Census Bureau API adds 2013 population estimates & 2012 economic datasets
+- [Now available: 2008-2012 ACS 5 Year Summary Files and Data Profiles](https://www.census.gov/data/developers/updates/acs-5-yr-summary-available-2008-2012.html): ACS 5-year 2008-2012 summary files & data profiles now in API
 
-## Support & Contact
+## Support and Policies
 
-- [Contact Us](https://www.census.gov/about/policies/privacy/contact_us.html): Privacy and confidentiality contact info for Policy Coordination Office
+- [Census Careers](https://www.census.gov/about/census-careers.html): Job opportunities at Census Bureau headquarters & regional offices
+- [FOIA Library](https://www.census.gov/about/policies/foia/foia_library.html): Freedom of Information Act requests, policies & public records access
+- [Census Bureau: Scheduled Down time](https://www.census.gov/main/www/downtime.html): System maintenance schedule & website availability status
 
 ## Optional
 
-- [Privacy Impact Assessments (PIA)](https://www.census.gov/about/policies/privacy/pia.html): Privacy Impact Assessments per E-Government Act and OMB guidelines
-- [Adaptive Design Working Group](https://www.census.gov/about/cac/sac/wg-adaptive-design.html): Archive of Adaptive Design Working Group (2013-2015) survey methodology
-- [Current Census Operations Photos](https://www.census.gov/about/census-ops-photos.html): Photo gallery of Census operations including 2010, 2020 Census activities
-- [Meetings](https://www.census.gov/about/adrm/fesac/meetings.html): FESAC meeting agendas and materials archive
+- [Statistical Quality Standards](https://www.census.gov/about/policies/quality/standards.html): OMB statistical quality standards & Information Quality Guidelines
+- [E-Gov Content Inventory](https://www.census.gov/about/policies/section207.html): E-Government Act Section 207 content inventory & dissemination categories
+- [Announcement of NAC Vice Chair](https://www.census.gov/about/cac/updates/2015-01-14.html): Carol Gore appointed NAC vice chair at National Advisory Committee

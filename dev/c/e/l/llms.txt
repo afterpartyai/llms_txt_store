@@ -1,0 +1,29 @@
+# CEL (Common Expression Language)
+
+> > Official documentation for Common Expression Language (CEL), a non-Turing complete expression language for safe, fast evaluation in performance-critical applications.
+
+CEL is developed by Google and provides implementations in Java, C++, and Go for embedding declarative configuration, policy evaluation, API filters, and authorization rules. The language is designed to be safe, portable, and efficient for evaluating expressions against structured data like JSON and protocol buffers.
+
+## Key Topics
+
+- Common Expression Language (CEL)
+- Expression evaluation
+- Policy configuration
+- Declarative configuration
+- CEL-Java implementation
+- CEL-C++ implementation
+- CEL-Go implementation
+- Protocol buffers
+- JSON data structures
+- Authorization rules
+- API filters
+- Embedded language
+- Performance-critical applications
+- Non-Turing complete
+- Safe expression evaluation
+
+## Getting Started
+
+- [CEL Homepage](https://cel.dev): Homepage for Common Expression Language developer documentation
+- [CEL Overview](https://cel.dev/overview/cel-overview): Overview of CEL for safe expression evaluation and policy configuration
+- [Get Started Tutorial](https://cel.dev/tutorials/cel-get-started-tutorial): Getting started tutorial for CEL with Java, C++, and Go implementations

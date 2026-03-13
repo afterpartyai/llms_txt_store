@@ -1,52 +1,48 @@
 # TradingView
 
-> Advanced charting platform and social network for traders offering real-time market data, technical analysis tools, broker integrations, and community-driven trading ideas across stocks, forex, crypto, and futures.
+> > TradingView is a comprehensive financial markets platform offering charting tools, broker comparisons, market data, economic indicators, and embeddable widgets for stocks, forex, futures, and cryptocurrencies.
 
-TradingView provides professional-grade financial visualization tools, broker comparisons, and embeddable widgets for traders and investors. The platform integrates with major brokers including Interactive Brokers, Webull, tastytrade, and cryptocurrency exchanges, while maintaining compliance with regulatory bodies like FINRA, SEC, CFTC, and NFA.
+TradingView provides real-time market data and analysis tools for traders and investors worldwide. The platform features broker comparison tools covering FINRA, SEC, CFTC, and NFA regulated brokers, economic indicators for global markets, and customizable widgets for embedding financial data.
 
 ## Key Topics
 
-- Broker comparisons and integrations
-- Trading fees and commission structures
-- Regulatory compliance (FINRA, SEC, CFTC, NFA, SIPC)
-- Futures trading platforms
-- Stock trading and order types
-- Forex broker features
-- Cryptocurrency trading and exchanges
-- Embeddable chart widgets
-- Technical analysis tools
-- Market data visualization
-- Multi-asset trading platforms
-- Broker regulatory oversight
-- Trading platform features
+- Broker comparisons and regulatory compliance
+- Trading fees and leverage analysis
+- Futures trading platforms (NinjaTrader, AMP Futures, Optimus Futures)
+- Forex brokers (FOREX.com, OANDA, tastyfx)
+- Crypto trading platforms (OKX, Coinbase Advanced, Bitstamp)
+- Stock trading brokers (Interactive Brokers, Webull, moomoo)
+- Regulatory bodies: FINRA, SEC, CFTC, NFA, FCA, CySEC, ASIC
+- Market movers and volatility analysis
+- Dividend yield screening
+- Economic indicators and country data
+- Embeddable widgets and heatmaps
+- Multi-asset trading platforms (StoneX, Tradier)
+- Order types and trading features
+- Market data for NASDAQ and global exchanges
 
 ## Broker Comparisons
 
-- [Broker Comparison: AMP Futures vs. Webull](https://www.tradingview.com/brokers/AMP_Futures-vs-Webull): Compare AMP Futures vs Webull: fees, assets, order types & features
-- [Broker Comparison: Webull vs. Gemini](https://www.tradingview.com/brokers/Gemini-vs-Webull): Compare Webull vs Gemini: crypto & stock trading fees and features
-- [Broker Comparison: OKX vs. Webull](https://www.tradingview.com/brokers/OKX-vs-Webull): Compare OKX vs Webull: crypto & stock broker fees and order types
-- [Broker Comparison: moomoo vs. Coinbase Advanced](https://www.tradingview.com/brokers/Coinbase_Advanced-vs-moomoo): Compare moomoo vs Coinbase Advanced: crypto & stock trading platforms
-- [Broker Comparison: OANDA vs. Webull](https://www.tradingview.com/brokers/OANDA-vs-Webull): Compare OANDA vs Webull: forex & stock broker fees and features
-- [Broker Comparison: tastyfx vs. Alpaca](https://www.tradingview.com/brokers/Alpaca-vs-tastyfx): Compare tastyfx vs Alpaca: forex & stock broker platforms and fees
-- [Broker Comparison: tastyfx vs. Cobra Trading](https://www.tradingview.com/brokers/CobraTrading-vs-tastyfx): Compare tastyfx vs Cobra Trading: forex & stock broker features
-- [Broker Comparison: Interactive Brokers vs. EdgeClear](https://www.tradingview.com/brokers/EdgeClear-vs-IBKR): Compare IBKR vs EdgeClear: futures trading fees and features
-- [Broker Comparison: OKX vs. Cobra Trading](https://www.tradingview.com/brokers/CobraTrading-vs-OKX): Compare OKX vs Cobra Trading: crypto & stock trading platforms
-- [Broker Comparison: NinjaTrader vs. tastytrade](https://www.tradingview.com/brokers/NinjaTrader-vs-tastytrade): Compare NinjaTrader vs tastytrade: futures & options trading fees
-- [Broker Comparison: FOREX.com vs. tastytrade](https://www.tradingview.com/brokers/FOREXcom-vs-tastytrade): Compare FOREX.com vs tastytrade: forex & options broker features
-- [Broker Comparison: tastytrade vs. Dorman Trading](https://www.tradingview.com/brokers/Dorman_Trading-vs-tastytrade): Compare tastytrade vs Dorman Trading: futures & options platforms
-- [Broker Comparison: AMP Futures vs. tastyfx](https://www.tradingview.com/brokers/AMP_Futures-vs-tastyfx): Compare AMP Futures vs tastyfx: futures & forex trading platforms
-- [Broker Comparison: Coinbase Advanced vs. Bitstamp](https://www.tradingview.com/brokers/Bitstamp-vs-Coinbase_Advanced): Compare Coinbase Advanced vs Bitstamp: crypto exchange fees
-- [Broker Comparison: Webull vs. Cobra Trading](https://www.tradingview.com/brokers/CobraTrading-vs-Webull): Compare Webull vs Cobra Trading: stock & futures broker features
-- [Broker Comparison: tastyfx vs. Interactive Brokers](https://www.tradingview.com/brokers/IBKR-vs-tastyfx): Compare tastyfx vs Interactive Brokers: forex & stock trading fees
+- [Broker Comparison: Interactive Brokers vs. Tradier Brokerage](https://www.tradingview.com/brokers/IBKR-vs-Tradier_Brokerage): Compare Interactive Brokers vs Tradier Brokerage fees and assets
+- [Broker Comparison: FOREX.com vs. Tradier Futures](https://www.tradingview.com/brokers/FOREXcom-vs-TradierFutures): Compare FOREX.com vs Tradier Futures fees, assets, and regulatory info
+- [Broker Comparison: OANDA vs. Ironbeam](https://www.tradingview.com/brokers/Ironbeam-vs-OANDA): Compare OANDA vs Ironbeam forex/futures brokers side by side
+- [Broker Comparison: OANDA vs. StoneX](https://www.tradingview.com/brokers/OANDA-vs-StoneX): Compare OANDA vs StoneX forex and futures broker features
+- [Broker Comparison: NinjaTrader vs. AMP Futures](https://www.tradingview.com/brokers/AMP_Futures-vs-NinjaTrader): Compare NinjaTrader vs AMP Futures trading fees and features
+- [Broker Comparison: NinjaTrader vs. OKX](https://www.tradingview.com/brokers/NinjaTrader-vs-OKX): Compare NinjaTrader futures vs OKX crypto trading features
+- [Broker Comparison: OKX vs. Optimus Futures](https://www.tradingview.com/brokers/OKX-vs-OptimusFutures): Compare OKX crypto vs Optimus Futures trading features and fees
+- [Broker Comparison: FOREX.com vs. tastytrade](https://www.tradingview.com/brokers/FOREXcom-vs-tastytrade): Compare FOREX.com vs tastytrade broker fees and leverage options
+- [Broker Comparison: tastyfx vs. TradeZero](https://www.tradingview.com/brokers/TradeZero-vs-tastyfx): Compare tastyfx vs TradeZero forex and stock broker features
+- [Broker Comparison: moomoo vs. StoneX](https://www.tradingview.com/brokers/StoneX-vs-moomoo): Compare moomoo vs StoneX broker fees, assets, and order types
+- [Broker Comparison: Coinbase Advanced vs. StoneX](https://www.tradingview.com/brokers/Coinbase_Advanced-vs-StoneX): Compare Coinbase Advanced vs StoneX crypto and futures trading
+- [Broker Comparison: Webull vs. Bitstamp](https://www.tradingview.com/brokers/Bitstamp-vs-Webull): Compare Webull vs Bitstamp for stock and crypto trading platforms
+- [Broker Comparison: Webull vs. EdgeClear](https://www.tradingview.com/brokers/EdgeClear-vs-Webull): Compare Webull vs EdgeClear for futures and stock trading
 
-## Widget Documentation
+## Market Data & Screeners
 
-- [Stock Market: Widget Code & Settings](https://www.tradingview.com/widget-docs/widgets/watchlists/stock-market): Stock Market widget embed code and configuration settings
+- [World's Companies with Highest Dividend Yields](https://www.tradingview.com/markets/world-stocks/worlds-highest-dividends): Global stocks with highest dividend yields for income investing
+- [Most Volatile South African Stocks](https://www.tradingview.com/markets/stocks-south-africa/market-movers-most-volatile): South African stocks with highest volatility and market movement
+- [Key Economic Indicators: Switzerland](https://www.tradingview.com/markets/world-economy/countries/switzerland): Switzerland economic indicators: GDP, interest rates, inflation data
 
-## Market News
+## Widgets & Developer Tools
 
-- [Alaska Silver launches fully funded 6,000m 2026 drill program at Illinois Creek](https://www.tradingview.com/news/tradingview:b187421f2c46d:0-alaska-silver-launches-fully-funded-6-000m-2026-drill-program-at-illinois-creek): Alaska Silver announces 6,000m drill program at Illinois Creek for 2026
-
-## Optional
-
-- [TradingView Tarot Reading for Traders](https://www.tradingview.com/tarot-reading): Tarot card reading tool for traders and market entertainment
+- [Forex Heatmap: Widget Code & Settings](https://www.tradingview.com/widget-docs/widgets/heatmaps/forex-heatmap): Forex Heatmap widget embed code and customization settings

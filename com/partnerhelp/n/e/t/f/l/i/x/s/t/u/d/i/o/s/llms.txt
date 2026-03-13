@@ -1,0 +1,57 @@
+# Netflix Partner Help Center
+
+> > Technical documentation and creative guidelines for Netflix content partners covering delivery specifications, localization workflows, and quality control standards.
+
+This resource supports production partners, post-production facilities, dubbing studios, and subtitle vendors working with Netflix. It provides detailed specifications for IMF delivery, Dolby Atmos/Vision, ProRes workflows, TTML timed text, automated QC validation, and multilingual dubbing/subtitling standards using tools like Backlot, DUBCARD, and PLDL frameworks.
+
+## Key Topics
+
+- IMF (Interoperable Master Format)
+- Dolby Atmos and Dolby Vision
+- TTML and dfxp subtitle formats
+- ProRes and ISOBMFF specifications
+- PLDL (Phonetic Lip-Sync Dubbing Language)
+- Backlot content delivery platform
+- DUBCARD dubbing workflow tool
+- Automated QC error validation
+- Quality control standards
+- Dubbing guidelines and lip-sync
+- Voice casting specifications
+- Translation and localization
+- Timed text workflows
+- Post-production requirements
+- Nonfiction and unscripted content
+
+## Getting Started
+
+- [Netflix | Partner Help Center](https://partnerhelp.netflixstudios.com/hc/en-us): Netflix Partner Help Center homepage for production and delivery support
+
+## Quality Control and Error Reference
+
+- [Automated QC Error Messages](https://partnerhelp.netflixstudios.com/hc/en-us/sections/203547178-automated-qc-error-messages?page=2): QC error reference for Dolby Atmos, Vision, ProRes, and IMF validation
+- [[007] Audio Pop](https://partnerhelp.netflixstudios.com/hc/en-us/articles/115000450951--007-Audio-Pop): Error 007: Audio pop defect definition and post-production fixes
+- [[064] Missing Format Black](https://partnerhelp.netflixstudios.com/hc/en-us/articles/115000978011--064-Missing-Format-Black): Error 064: Missing format black in Netflix delivery specifications
+- [[056] Visible Frame Edge](https://partnerhelp.netflixstudios.com/hc/en-us/articles/115001114951--056-Visible-Frame-Edge): Error 056: Visible frame edge quality control specification
+- [[057] Visible Matte Edge](https://partnerhelp.netflixstudios.com/hc/en-us/articles/115001115191--057-Visible-Matte-Edge): Error 057: VFX matte edge compositing defect definition
+- [[096] Visible Production Crew/Equipment](https://partnerhelp.netflixstudios.com/hc/en-us/articles/115001115691--096-Visible-Production-Crew-Equipment): Error 096: Visible crew/equipment quality control specification
+
+## Dubbing Creative Guidelines
+
+- [Voice Testing Specifications](https://partnerhelp.netflixstudios.com/hc/en-us/articles/115006123727-Voice-Testing-Specifications): Voice testing specs for dubbing with Casting Approval tool workflow
+- [Guiding Principles - German](https://partnerhelp.netflixstudios.com/hc/en-us/articles/10214194386963-Guiding-Principles-German): German dubbing quality standards covering lip-sync and performance
+- [Dubbing Creative Guidelines - Films & Series - German](https://partnerhelp.netflixstudios.com/hc/en-us/articles/10218002178195-Dubbing-Creative-Guidelines-Films-Series-German): German dubbing guidelines for films/series with PLDL standards
+- [Dubbing Creative Guidelines - Nonfiction/Unscripted - Italian](https://partnerhelp.netflixstudios.com/hc/en-us/articles/10257698270099-Dubbing-Creative-Guidelines-Nonfiction-Unscripted-Italian): Italian dubbing standards for nonfiction and unscripted content
+- [Dubbing Creative Guidelines - Animation & Anime [Castilian Spanish]](https://partnerhelp.netflixstudios.com/hc/en-us/articles/10270063522963-Dubbing-Creative-Guidelines-Animation-Anime-Castilian-Spanish): Castilian Spanish dubbing guidelines for animation and anime content
+- [India Dubbing Creative Guidelines - Nonfiction/Unscripted](https://partnerhelp.netflixstudios.com/hc/en-us/articles/11748388895507-India-Dubbing-Creative-Guidelines-Nonfiction-Unscripted): India dubbing standards for nonfiction and unscripted content
+- [Consignes pour la réalisation des doublages - Programmes documentaires et non scénarisés](https://partnerhelp.netflixstudios.com/hc/en-us/articles/11596341590675-Consignes-pour-la-r%C3%A9alisation-des-doublages-PROGRAMMES-DOCUMENTAIRES-ET-NON-SC%C3%89NARIS%C3%89S): French dubbing guidelines for documentary and unscripted programs
+
+## Timed Text and Subtitling
+
+- [How strict are the reading speed rules?](https://partnerhelp.netflixstudios.com/hc/en-us/articles/115001352352-How-strict-are-the-reading-speed-rules): Reading speed requirements for Netflix subtitle and timed text guidelines
+- [Subtitle Workshop](https://partnerhelp.netflixstudios.com/hc/en-us/articles/115000258171-Subtitle-Workshop): Subtitle Workshop tool guide for TTML/dfxp conversion and editing
+- [Subtitle Edit](https://partnerhelp.netflixstudios.com/hc/en-us/articles/115000258712-Subtitle-Edit): Subtitle Edit open-source tool documentation for TTML workflows
+- [CLP Communications Feature is now Available for Timed Text Users](https://partnerhelp.netflixstudios.com/hc/en-us/articles/11720985967635-CLP-Communications-Feature-is-now-Available-for-Timed-Text-Users): CLP messaging feature announcement for timed text collaboration
+
+## Production Best Practices
+
+- [Best Practices: Multicam Production at Netflix](https://partnerhelp.netflixstudios.com/hc/en-us/articles/1500000256962-Best-Practices-Multicam-Production-at-Netflix): Multicam workflow best practices for RAW and log capture formats

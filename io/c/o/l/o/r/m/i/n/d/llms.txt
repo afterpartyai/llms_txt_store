@@ -1,0 +1,32 @@
+# Colormind
+
+> > AI-powered color palette generator using deep learning and generative adversarial networks (GANs) to create intelligent color schemes for designers and developers.
+
+Colormind is a suite of AI-driven design tools that includes a neural network-based color palette generator, template customization tools, and related products like Huemint, Brandmark, and Fontjoy. The platform uses deep learning techniques including GANs, LSTM networks, and pix2pix to extract and generate color palettes from various sources.
+
+## Key Topics
+
+- Deep learning color generation
+- Generative Adversarial Networks (GANs)
+- Color palette extraction
+- LSTM networks for color prediction
+- Material Dashboard customization
+- Bootstrap theme generation
+- Color quantization (MMCQ)
+- Pix2pix neural networks
+- UI/UX design tools
+- CSS color customization
+- API for palette generation
+- Photo and video color extraction
+- AI-powered design automation
+- Color scheme inspiration
+
+## Core Tools
+
+- [Colormind - the AI powered color palette generator](http://colormind.io/): AI-powered color palette generator using deep neural networks
+- [Colormind - Material Dashboard Color Generator](http://colormind.io/template/material-dashboard/): Bootstrap Material Dashboard theme color scheme generator with live preview
+
+## Blog & Technical Documentation
+
+- [Colormind blog - generating color palettes with deep learning](http://colormind.io/blog/generating-color-palettes-with-deep-learning): Deep learning palette generation with GANs, LSTM, and pix2pix networks
+- [Colormind blog - extracting colors from photos and video](http://colormind.io/blog/extracting-colors-from-photos-and-video): Color extraction from photos/video using GANs and MMCQ quantization
