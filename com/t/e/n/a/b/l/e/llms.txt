@@ -1,0 +1,61 @@
+# Tenable
+
+> Tenable provides cybersecurity exposure management solutions including Nessus vulnerability scanner, Security Center, and compliance tools for critical infrastructure protection.
+
+Tenable is a leading cybersecurity company specializing in vulnerability management, network security, and regulatory compliance. Their flagship products include Nessus (vulnerability scanner), Security Center, and Passive Vulnerability Scanner (PVS), serving organizations across government, healthcare, and critical infrastructure sectors.
+
+## Key Topics
+
+- Nessus vulnerability scanner
+- Security Center platform
+- Passive Vulnerability Scanner (PVS)
+- Vulnerability management
+- Network security monitoring
+- PCI DSS compliance
+- Critical infrastructure cybersecurity
+- Web application security
+- Nessus plugins
+- CVSS risk scoring
+- Patch management
+- Configuration auditing
+- CISA regulations
+- Authenticated scanning
+- Threat detection
+
+## Cybersecurity Compliance & Regulations
+
+- [US Critical Infrastructure Cybersecurity Regulations](https://www.tenable.com/cybersecurity-regulations): Overview of US critical infrastructure cybersecurity regulations
+- [Oil and Gas Pipeline Cybersecurity](https://www.tenable.com/cybersecurity-regulations/oil-and-pipeline): TSA oil & gas pipeline cybersecurity compliance solutions
+
+## Vulnerability Scanning & Assessment
+
+- [Monitoring Internet-facing Servers with SecurityCenter & Nessus](https://www.tenable.com/blog/monitoring-internet-facing-servers-with-securitycenter-nessus): SecurityCenter & Nessus guide for monitoring internet-facing servers
+- [CVSS Scores in Nessus Plugins](https://www.tenable.com/blog/cvss-scores-in-nessus-plugins): CVSS base scores integration in Nessus plugins for risk assessment
+- [Nessus 4 Performance Benchmarks](https://www.tenable.com/blog/nessus-4-performance-benchmarks): Official Nessus 4 vs 3 vs 2 performance comparison benchmarks
+- [Using Nessus To Discover Rogue Access Points](https://www.tenable.com/blog/using-nessus-to-discover-rogue-access-points): Detecting rogue wireless access points with Nessus for PCI DSS compliance
+- [Solaris Software Enumeration with Nessus](https://www.tenable.com/blog/solaris-software-enumeration-with-nessus): Nessus plugin #29217 for Solaris software package enumeration via SSH
+
+## Web Application Security
+
+- [Presentation "Using Nessus In Web Application Assessments"](https://www.tenable.com/blog/presentation-using-nessus-in-web-application-assessments): OWASP presentation on Nessus web application testing techniques
+- [Video: Web App Scanning With Credentials Using Nessus](https://www.tenable.com/blog/video-web-app-scanning-with-credentials-using-nessus): Video tutorial on authenticated web application scanning with Nessus
+
+## Threat Detection & Analysis
+
+- [Boss, I think Half of our FTP Servers are fake!](https://www.tenable.com/blog/boss-i-think-half-of-our-ftp-servers-are-fake): Detecting fake FTP servers and backdoors with Nessus plugins
+- [Event Analysis Training - Advanced Blacklist Analysis](https://www.tenable.com/blog/event-analysis-training-advanced-blacklist-analysis): DNS blacklist analysis training for threat detection & monitoring
+- [Microsoft Windows Domain Name Server Service Vulnerability Plugin](https://www.tenable.com/blog/microsoft-windows-domain-name-server-service-vulnerability-plugin): Nessus plugin #25035 for Microsoft DNS server vulnerability detection
+
+## Security Tools & Integrations
+
+- [Dragon Intrusion Defense System support for Nessus and the PVS](https://www.tenable.com/blog/dragon-intrusion-defense-system-support-for-nessus-and-the-pvs): Enterasys Dragon IDS integration with Nessus and PVS sensors
+- [Graphical Data Visualizations with Tenable Products](https://www.tenable.com/blog/graphical-data-visualizations-with-tenable-products): Network topology & security data visualization using Tenable 3D & AfterGlow
+
+## Optional
+
+- [Careers](https://www.tenable.com/careers): Cybersecurity career opportunities at Tenable's global offices
+- [Tenable Network Security Podcast - Episode 20](https://www.tenable.com/blog/tenable-network-security-podcast-episode-20): Podcast episode 20 featuring Mike Murray interview on security topics
+- [Tenable Network Security Podcast - Episode 6](https://www.tenable.com/blog/tenable-network-security-podcast-episode-6): Podcast episode 6 on passive vulnerability scanning and Security Center 3.4.5
+- [Tenable Network Security Podcast - Episode 1](https://www.tenable.com/blog/tenable-network-security-podcast-episode-1): Inaugural podcast on PCI compliance, botnets, and Nessus scanning
+- [Cyberdawn - A Diverse Cyber Exercise - Part I](https://www.tenable.com/blog/cyberdawn-a-diverse-cyber-exercise-part-i): Red team vs blue team cyber exercise at Battlefield High School
+- [AfterBites: My Hospital Robo-Surgeon Has a What?](https://www.tenable.com/blog/afterbites-my-hospital-robo-surgeon-has-a-what): Marcus Ranum commentary on London hospital worm infection incident
