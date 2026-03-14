@@ -1,0 +1,56 @@
+# Expo Documentation
+
+> > Official documentation for Expo, the open-source framework for building universal native apps with React Native for Android, iOS, tvOS, and Web.
+
+Comprehensive guides and API references covering Expo SDK, Expo Router for file-based navigation, EAS (Expo Application Services) for building and deploying apps, development builds, push notifications, and integration with React Native libraries. Documentation includes setup instructions for npm, Yarn, and pnpm package managers, with full TypeScript support.
+
+## Key Topics
+
+- Expo SDK
+- React Native
+- Expo Router
+- EAS Build
+- Development Builds
+- Push Notifications
+- Authentication
+- API Reference
+- Mobile Development
+- Cross-platform (Android, iOS, tvOS, Web)
+- TypeScript
+- Image Processing
+- File System Operations
+- Expo Go
+- React Server Components
+
+## Getting Started & Development
+
+- [Use a development build](https://docs.expo.dev/develop/development-builds/use-development-builds): Guide to using development builds with Expo CLI and native platforms
+- [Install expo-dev-client in an existing React Native project](https://docs.expo.dev/bare/install-dev-builds-in-bare): Installation guide for expo-dev-client in bare React Native projects
+- [Unit testing with Jest](https://docs.expo.dev/develop/unit-testing): Guide to setup Jest and jest-expo for unit and snapshot testing
+
+## Expo Router & Navigation
+
+- [Authentication in Expo Router](https://docs.expo.dev/router/advanced/authentication): Implementing authentication and protected routes with Expo Router
+- [Nesting navigators](https://docs.expo.dev/router/advanced/nesting-navigators): Guide to nesting Stack and Tabs navigators in Expo Router
+- [Data loaders](https://docs.expo.dev/router/web/data-loaders): Server-side data fetching with useLoaderData in Expo Router (alpha)
+- [Using React Server Components in Expo Router apps](https://docs.expo.dev/guides/server-components): Guide to server-side rendering with React Server Components in Expo Router
+
+## EAS (Expo Application Services)
+
+- [EAS CLI reference](https://docs.expo.dev/eas/cli): Complete CLI reference for EAS commands and account management
+- [Configuring EAS Metadata](https://docs.expo.dev/eas/metadata/config): Configuration guide for EAS Metadata and App Store settings
+- [Cache dependencies](https://docs.expo.dev/build-reference/caching): Build optimization guide for caching npm and Maven dependencies in EAS
+- [How to launch an update using Expo Orbit](https://docs.expo.dev/review/with-orbit): Guide to preview EAS Updates with Expo Orbit in review workflow
+
+## Push Notifications
+
+- [Push notifications troubleshooting and FAQ](https://docs.expo.dev/push-notifications/faq): FAQ and troubleshooting for Expo push notification service
+
+## SDK API Reference
+
+- [react-native-gesture-handler](https://docs.expo.dev/versions/latest/sdk/gesture-handler): API reference for react-native-gesture-handler touch gesture library
+- [react-native-safe-area-context](https://docs.expo.dev/versions/latest/sdk/safe-area-context): API reference for safe area insets and device notch handling
+- [ImageManipulator](https://docs.expo.dev/versions/latest/sdk/imagemanipulator): API reference for expo-image-manipulator SDK for local image processing
+- [Pedometer](https://docs.expo.dev/versions/latest/sdk/pedometer): API reference for expo-sensors pedometer and step counting functionality
+- [LivePhoto](https://docs.expo.dev/versions/latest/sdk/live-photo): API reference for displaying iOS Live Photos in Expo apps
+- [FileSystem (legacy)](https://docs.expo.dev/versions/latest/sdk/filesystem-legacy): Legacy API reference for expo-file-system local storage operations

@@ -1,0 +1,58 @@
+# SportsDataIO
+
+> > SportsDataIO provides comprehensive sports data APIs, real-time betting odds, and the BAKER Predictive Engine for developers building sports analytics, fantasy sports, and sports betting applications.
+
+SportsDataIO delivers live and historical sports data feeds across NFL, NBA, MLB, NHL, NCAA, and WNBA with specialized tools including the SportsDataIO Vault for historical odds, SportsDataIO GRid for real-time data, and the BAKER Predictive Engine for odds origination. The platform serves developers, sportsbooks, media companies, and fantasy sports operators with RESTful APIs and comprehensive data dictionaries.
+
+## Key Topics
+
+- SportsDataIO Core Sports Data API
+- BAKER Predictive Engine
+- Betting Odds API and historical odds
+- Fantasy Sports API and player projections
+- SportsDataIO Vault (historical data)
+- SportsDataIO GRid (real-time feeds)
+- NFL, NBA, MLB, NHL, NCAA, WNBA coverage
+- API integration and workflow guides
+- Live & Final subfeeds
+- Scrambled data vs premium subscriptions
+- Tournament brackets and March Madness
+- Coded Content and betting metadata
+- Sports data feeds for SEO and marketing
+- Game simulations for testing
+
+## Getting Started & Developer Resources
+
+- [Getting Started with Sports Data APIs | SportsDataIO](https://sportsdata.io/developers): Developer portal for API integration across NFL, MLB, NBA, NHL coverage
+- [Live & Final Subfeed Explained](https://sportsdata.io/help/live-and-final): Guide to Live & Final vs Final subfeeds for real-time and post-game data
+- [Scrambled Data](https://sportsdata.io/help/scrambled-data): Explains scrambled data in free trials vs premium API subscriptions
+- [Sports Data API Live Game Simulations | SportsDataIO](https://sportsdata.io/developers/sports-data-api-live-game-simulations): Guide to NFL API game simulations for offseason testing and development
+
+## Core Products & Services
+
+- [BAKER Engine - Sports data predictions](https://sportsdata.io/baker-predictive-engine): BAKER Predictive Engine for odds origination and fantasy contest creation
+- [BAKER Engine Resources | Introduction & Testing | SportsDataIO](https://sportsdata.io/developers/baker-engine): Getting started guide for BAKER Predictive Engine API integration
+- [NHL Data API | NHL Historical Data | Sports Data Feeds | SportsDataIO](https://sportsdata.io/nhl-api): NHL live and historical data API with real-time stats and betting odds
+- [Historical Odds](https://sportsdata.io/historical-odds): SportsDataIO Vault historical betting odds database for AI and analytics
+
+## Sport-Specific Workflow Guides
+
+- [NCAA Women's Basketball Data Workflow Guide | SportsDataIO API Integration](https://sportsdata.io/developers/workflow-guide/ncaa-womens-basketball): Integration guide for NCAA Women's Basketball data including March Madness
+- [NCAA Basketball Data Workflow Guide | SportsDataIO API Integration](https://sportsdata.io/developers/workflow-guide/ncaa-basketball): NCAA Basketball API workflow for schedules, stats, and March Madness data
+
+## API Reference & Data Dictionaries
+
+- [NFL Database | Football Statistics Data | SportsDataIO](https://sportsdata.io/developers/data-dictionary/nfl): NFL API v3 data dictionary explaining football statistics and data points
+
+## Product Updates & Announcements
+
+- [SportsDataIO Launches New Depth Charts Endpoint For NFL Coverage](https://sportsdata.io/sportsdataio-nfl-depth-chart-api-update): Product launch announcement for NFL Depth Charts API endpoint
+- [SportsDataIO's 2025 WNBA Coverage: Ready for Tip-Off!](https://sportsdata.io/wnba-confirmed-coverage): Announcement of 2025 WNBA season coverage and data package details
+- [SportsDataIO: November Newsletter](https://sportsdata.io/sportsdataio-november-newsletter): November newsletter covering product upgrades and SBC award recognition
+
+## Industry Insights & Use Cases
+
+- [Super Bowl Betting Trends: How Data Shapes the Biggest Sports Betting Day of the Year](https://sportsdata.io/super-bowl-betting-trends-how-data-shapes-the-biggest-sports-betting-day-of-the-year): Analysis of Super Bowl betting trends and sports data analytics
+- [How Sports Data Drives SEO Growth With Long-Tail Keywords](https://sportsdata.io/how-sports-data-drives-seo-growth-with-long-tail-keywords): SEO strategy guide using sports data APIs for long-tail keyword growth
+- [How Price Chopper Uses Real-Time Sports Data to Power Game-Day Marketing](https://sportsdata.io/case-study-price-chopper): Case study: Price Chopper's game-day loyalty rewards using SportsDataIO
+- [2020 in Review: The 10 Running Backs with the Most Prop Bets Available](https://sportsdata.io/2020-in-review-the-10-running-backs-with-the-most-prop-bets-available): 2020 NFL season analysis of running back prop betting data

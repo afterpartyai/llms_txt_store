@@ -1,0 +1,61 @@
+# React Native
+
+> > Official documentation for React Native, a framework for building native mobile apps using JavaScript and React.
+
+React Native enables cross-platform iOS and Android development with JavaScript, TypeScript, and native modules. The documentation covers component APIs, native integration patterns, the New Architecture with Turbo Modules, styling, performance optimization, and migration guides for both new and existing applications.
+
+## Key Topics
+
+- React Native framework
+- iOS and Android development
+- JavaScript and TypeScript
+- Native modules (Objective-C, Swift, Java, Kotlin)
+- New Architecture and Turbo Modules
+- Core components (FlatList, ScrollView, Text)
+- Native UI integration
+- Cross-platform APIs
+- Performance optimization
+- Styling with StyleSheet
+- Accessibility (AccessibilityInfo)
+- App lifecycle (AppRegistry)
+- Native bridge communication
+- NPM library creation
+
+## Core Components & APIs
+
+- [FlatList](https://reactnative.dev/docs/0.78/flatlist): FlatList component API for performant virtualized list rendering
+- [Text](https://reactnative.dev/docs/0.78/text): Text component API reference for displaying and styling text
+- [ScrollView](https://reactnative.dev/docs/0.77/scrollview): ScrollView component API reference with props and methods
+- [AppRegistry](https://reactnative.dev/docs/0.78/appregistry): AppRegistry API reference for app lifecycle and component registration
+- [AccessibilityInfo](https://reactnative.dev/docs/0.78/accessibilityinfo): AccessibilityInfo API for screen reader state and TalkBack detection
+
+## Styling & Layout
+
+- [Style](https://reactnative.dev/docs/0.78/style): Guide to styling components using JavaScript StyleSheet and CSS-like props
+
+## Native Integration
+
+- [Integration with Existing Apps](https://reactnative.dev/docs/0.77/integration-with-existing-apps): Guide for integrating React Native into existing Android/iOS apps
+- [Android Native Modules](https://reactnative.dev/docs/0.77/legacy/native-modules-android): Legacy guide for building Android native modules with Java/Kotlin
+- [Communication between native and React Native (iOS)](https://reactnative.dev/docs/0.77/communication-ios): iOS guide for passing data between native UIView and RCTRootView
+
+## New Architecture
+
+- [Create a Library for Your Module](https://reactnative.dev/docs/0.78/the-new-architecture/create-module-library): Guide for creating NPM libraries with Turbo modules using new architecture
+
+## Platform-Specific APIs
+
+- [ActionSheetIOS (v0.79)](https://reactnative.dev/docs/0.79/actionsheetios): iOS ActionSheetIOS API reference for native action sheets (v0.79)
+- [ActionSheetIOS (v0.78)](https://reactnative.dev/docs/0.78/actionsheetios): iOS ActionSheetIOS API reference for native action sheets (v0.78)
+- [ActionSheetIOS (v0.77)](https://reactnative.dev/docs/0.77/actionsheetios): iOS ActionSheetIOS API reference for native action sheets and dialogs
+
+## Contributing & Support
+
+- [How to Report a Bug](https://reactnative.dev/contributing/how-to-report-a-bug): Guide for reporting bugs via GitHub issues with reproducers
+
+## Optional
+
+- [Blog Archive (Page 7)](https://reactnative.dev/blog/page/7): Blog archive page 7 with release notes and framework updates
+- [❌ ImagePickerIOS (Deprecated)](https://reactnative.dev/docs/0.77/imagepickerios): Deprecated ImagePickerIOS API removed in favor of community packages
+- [❌ TimePickerAndroid (Deprecated)](https://reactnative.dev/docs/0.77/timepickerandroid): Deprecated TimePickerAndroid API removed in favor of community packages
+- [❌ Clipboard (Deprecated)](https://reactnative.dev/docs/0.77/clipboard): Deprecated Clipboard API removed in favor of community packages

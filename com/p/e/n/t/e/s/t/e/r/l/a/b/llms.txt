@@ -1,0 +1,58 @@
+# PentesterLab
+
+> > Hands-on penetration testing exercises covering web security, privilege escalation, code review, and vulnerability exploitation across multiple languages and platforms.
+
+PentesterLab provides practical security training through interactive exercises spanning web application vulnerabilities (XSS, IDOR, SSRF), Unix privilege escalation, secure code review in PHP, Ruby, Java, Golang, and TypeScript, reconnaissance techniques, and HTTP protocol fundamentals. The platform offers both free and PentesterLab Pro exercises for beginners through advanced practitioners.
+
+## Key Topics
+
+- Cross-Site Scripting (XSS)
+- Privilege Escalation
+- Code Review
+- IDOR (Insecure Direct Object Reference)
+- SSRF (Server-Side Request Forgery)
+- Authentication Bypass
+- PHP Type Juggling
+- Unix/Linux Security
+- HTTP Protocol
+- OSINT/Reconnaissance
+- Ruby on Rails Security
+- Java Security
+- Authorization Vulnerabilities
+- Filter Bypass Techniques
+- ORM Security
+
+## Web Application Security Exercises
+
+- [XSS 05](https://pentesterlab.com/exercises/xss-05): Bypass XSS filter using JavaScript eval and String.fromCharCode()
+- [postMessage() III](https://pentesterlab.com/exercises/postmessage-iii): XSS exploitation via postMessage() without origin verification
+- [Authorization 01](https://pentesterlab.com/exercises/autho-01): Exploit IDOR vulnerability by incrementing URL IDs in Rails app
+- [Authorization 04](https://pentesterlab.com/exercises/autho-04): ORM mass-assignment exploitation for privilege escalation
+- [Intercept 01](https://pentesterlab.com/exercises/mitm): PITM attack tutorial: intercept HTTP traffic via DNS/TCP servers
+
+## Secure Code Review Challenges
+
+- [PHP Snippet #06](https://pentesterlab.com/exercises/php-06): Code review challenge: identify PHP vulnerability with htmlentities()
+- [PHP Snippet #08](https://pentesterlab.com/exercises/php-08): PHP hash_hmac signature bypass via array input type juggling
+- [Ruby Snippet #01](https://pentesterlab.com/exercises/ruby-01): Ruby on Rails MFA session security and brute-force vulnerability
+- [Java Snippet #02](https://pentesterlab.com/exercises/java-02): Java OTP security: identify predictable Random number generation flaw
+- [Java Snippet #10](https://pentesterlab.com/exercises/java-10): Java URL validation bypass leading to SSRF vulnerability
+- [Golang Snippet #04](https://pentesterlab.com/exercises/golang-04): Golang code review: identify authentication bypass vulnerability
+- [TypeScript Snippet #07](https://pentesterlab.com/exercises/typescript-07): TypeScript code review: detect race condition in Express/Sequelize app
+- [Code Review 15](https://pentesterlab.com/exercises/codereview-15): Java Twitter clone source code audit for template vulnerabilities
+
+## Unix/Linux Privilege Escalation
+
+- [Unix 20](https://pentesterlab.com/exercises/unix-20): MySQL password cracking with John the Ripper for system access
+- [Unix 33](https://pentesterlab.com/exercises/unix-33): Privilege escalation via sudo misconfiguration using Ruby REPL
+- [Unix 11](https://pentesterlab.com/exercises/unix-11): Extract tar.bz2 file from /var/tmp to retrieve challenge key
+
+## Reconnaissance & OSINT
+
+- [Recon 18](https://pentesterlab.com/exercises/recon-18): OSINT challenge: find key in developer's public GitHub repository
+- [Recon 26](https://pentesterlab.com/exercises/recon-26): Inspect JavaScript files to locate hardcoded secrets on server
+
+## HTTP Protocol Fundamentals
+
+- [HTTP 06](https://pentesterlab.com/exercises/http-06): HTTP basics: send POST request with curl and scripting practice
+- [HTTP 39](https://pentesterlab.com/exercises/http-39): Send POST request with JSON body using curl and scripting

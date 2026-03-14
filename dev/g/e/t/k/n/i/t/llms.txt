@@ -1,0 +1,68 @@
+# Knit
+
+> > Knit provides unified APIs for integrating with HR, ATS, CRM, Ticketing, and Accounting platforms through a single integration layer.
+
+Knit simplifies SaaS integrations by offering unified APIs that connect to multiple platforms including Paycom, QuickBooks, Brevo, ServiceNow, and dozens of HRIS, ATS, and CRM systems. The platform enables developers to build once and integrate with hundreds of business applications using standardized data models and endpoints.
+
+## Key Topics
+
+- Unified API
+- ATS (Applicant Tracking System)
+- HRIS Integration
+- CRM API
+- Ticketing API
+- Accounting API
+- API Integration
+- Employee Data Sync
+- OAuth Authentication
+- Schema Management
+- Python Integration
+- SaaS Connectors
+- Data Models
+- API Lifecycle Management
+
+## Getting Started
+
+- [Knit - Unified API for HR ATS CRM Integrations](https://getknit.dev/book-demo-lp): Demo booking landing page for Knit's unified API platform
+- [Plan Comparison](https://getknit.dev/plan-comparison): Knit pricing tiers and feature comparison across plans
+- [Feature Update: Revamped Getting Started Flow](https://getknit.dev/blog/getting-started-flow): Announcement of redesigned Knit onboarding and setup flow
+
+## Integration Guides
+
+- [ATS Integration : An In-Depth Guide With Key Concepts And Best Practices](https://getknit.dev/blog/ats-integration-guide): Complete ATS integration guide with data models and best practices
+- [Paycom API Integration Guide (In-Depth)](https://getknit.dev/blog/paycom-api-integration-guide-in-depth): Comprehensive Paycom API integration guide with auth and use cases
+- [Dropbox Sign API Integration (In-Depth)](https://getknit.dev/blog/dropbox-sign-api-integration-in-depth): In-depth guide for Dropbox Sign (HelloSign) API integration
+- [Quick Guide to API Lifecycle Management and Decommissioning](https://getknit.dev/blog/api-lifecycle-management-and-decommissioning): Guide to API security across lifecycle phases and decommissioning
+
+## Python Tutorials
+
+- [How to fetch expense data from QuickBooks API with Python](https://getknit.dev/blog/how-to-fetch-expense-data-from-quickbooks-api-with-python): Python guide for fetching QuickBooks expense data with OAuth
+- [Get employee details from Alexis HR API](https://getknit.dev/blog/get-employee-details-from-alexis-hr-api): Python tutorial for fetching employee data from Alexis HR API
+
+## API Reference Directories
+
+- [Personio API Directory](https://getknit.dev/blog/personio-api-directory-LW5f1o): Comprehensive Personio API data models and endpoints directory
+- [HiBob API Directory](https://getknit.dev/blog/hibob-api-directory-eCmbm8): Comprehensive HiBob API data models and endpoints directory
+
+## Accounting Integrations
+
+- [Integrate with Quickbooks](https://getknit.dev/integration/quickbooks): QuickBooks integration via Knit's Unified Accounting API
+
+## CRM Integrations
+
+- [Integrate with Brevo](https://getknit.dev/integration/brevo): Brevo CRM integration via Knit's Unified CRM API
+- [Integrate with Insightly CRM](https://getknit.dev/integration/insightly-crm): Insightly CRM integration via Knit's Unified CRM API
+
+## Ticketing Integrations
+
+- [Integrate with ServiceNow](https://getknit.dev/integration/servicenow): ServiceNow ticketing integration via Knit's Unified Ticketing API
+- [Integrate with Trello](https://getknit.dev/integration/trello): Trello integration via Knit's Unified Ticketing API for task sync
+
+## HRIS & ATS Integrations
+
+- [Integrate with Breezy HR](https://getknit.dev/integration/breezy-hr): Breezy HR ATS integration via Knit's Unified ATS API
+- [Integrate with IRIS Cascade](https://getknit.dev/integration/iris-cascade): IRIS Cascade HRIS integration for employee and payroll data sync
+
+## Optional
+
+- [Knit - Privacy Policy](https://getknit.dev/privacy-policy): Privacy policy and data collection terms for Knit API services

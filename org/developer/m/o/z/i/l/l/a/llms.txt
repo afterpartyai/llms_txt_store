@@ -1,35 +1,28 @@
 # MDN Web Docs
 
-> > MDN Web Docs is the authoritative resource for web developers, providing comprehensive documentation on web technologies, standards, and best practices.
+> > MDN Web Docs is Mozilla's comprehensive resource for web developers, providing documentation, tutorials, and references for HTML, CSS, JavaScript, Web APIs, and modern web development practices.
 
-MDN (Mozilla Developer Network) serves as the definitive reference for HTML, CSS, JavaScript, Web APIs, and modern web development practices. The platform includes tutorials, guides, and reference documentation maintained by Mozilla and the open-source community.
+MDN (Mozilla Developer Network) serves as the authoritative documentation platform for web standards and technologies, featuring extensive API references, learning resources, and community-driven content. The site includes the MDN Curriculum for structured front-end development education, regular blog updates on web platform features like Baseline compatibility indicators, and active engagement through GitHub and Discord communities.
 
 ## Key Topics
 
-- Web Security
-- SubResource Integrity (SRI)
-- CDN Security
-- DevSecOps
-- GitHub to GitLab Migration
-- CI/CD Pipelines
-- Repository Migration
-- Web Development Curriculum
-- Third-party Resources
-- Content Delivery Networks
-- Git Large File Storage (LFS)
-- Script Integrity
-- CORS and Crossorigin
-- Project Import
-- Learning Resources
+- Web APIs
+- CSS
+- HTML
+- JavaScript
+- Baseline compatibility
+- Web components
+- MDN Curriculum
+- Frontend development
+- Web standards
+- Modern CSS
+- Platform architecture
+- Mozilla
+- GitHub
+- Community contributions
 
-## Web Development Learning Resources
+## MDN Platform & Community
 
-- [A new learning experience on MDN](https://developer.mozilla.org/en-US/blog/curriculum-learn-web-development): Announcement of MDN's new Learn Web Development section and curriculum
-
-## Web Security Best Practices
-
-- [Securing your CDN: Why and how should you use SRI](https://developer.mozilla.org/en-US/blog/securing-cdn-using-sri-why-how): Guide on securing CDN resources using SubResource Integrity (SRI)
-
-## DevOps and Migration Guides
-
-- [Migrating from GitHub to GitLab seamlessly: A step-by-step guide](https://developer.mozilla.org/en-US/blog/migrating-from-github-to-gitlab-seamlessly-a-step-by-step-guide): Step-by-step guide for DevSecOps teams migrating from GitHub to GitLab
+- [Lift-off: The MDN Curriculum launch](https://developer.mozilla.org/en-US/blog/mdn-curriculum-launch): Launch announcement of MDN Curriculum for front-end development training
+- [Launching MDN's new front end](https://developer.mozilla.org/en-US/blog/launching-new-front-end): MDN's UI redesign with modern CSS, web components, and Baseline support
+- [Welcome to the MDN blog](https://developer.mozilla.org/en-US/blog/welcome-to-the-MDN-blog): Announcement of MDN blog launch for web development news and tutorials

@@ -1,0 +1,63 @@
+# Reducto API Documentation
+
+> > Reducto API enables document processing, parsing, extraction, and editing for PDFs, DOCX, spreadsheets, and forms using Python, JavaScript, and Go SDKs.
+
+Reducto provides enterprise-ready document intelligence APIs with OCR, table extraction, form filling, and multi-document pipeline capabilities. The platform includes Reducto Studio for visual pipeline configuration, CLI tools, and supports async processing with webhook integrations.
+
+## Key Topics
+
+- Reducto API
+- Document parsing and extraction
+- PDF and DOCX processing
+- Form filling and editing
+- Python SDK
+- JavaScript SDK
+- Reducto Studio
+- Pipeline configuration
+- Batch processing
+- Table extraction
+- OCR and chunking
+- Document sections and splitting
+- Enterprise deployment (SOC 2, AWS/GCP/Azure)
+- Webhook and async operations
+- Identity verification and KYC
+
+## Getting Started & Core Concepts
+
+- [Enterprise Readiness](https://docs.reducto.ai/enterprise/enterprise-readiness): Enterprise security, SOC 2, SLA, and deployment options (AWS/GCP/Azure)
+- [Reducto CLI](https://docs.reducto.ai/cli): CLI tool for parsing, extracting, and editing documents from command line
+
+## Studio Pipelines
+
+- [Split Pipeline](https://docs.reducto.ai/studio-split): Studio Split pipeline for dividing documents into targeted sections
+- [Edit Pipeline](https://docs.reducto.ai/studio-edit): Studio Edit pipeline for form filling with natural language instructions
+
+## Workflows & Use Cases
+
+- [Multi-document Pipelines](https://docs.reducto.ai/workflows/multi-document-pipelines): Process multiple related documents with shared extraction context
+- [Parallel Document Processing](https://docs.reducto.ai/cookbooks/batch-processing): AsyncReducto cookbook for concurrent processing with progress tracking
+- [ID & Onboarding Documents](https://docs.reducto.ai/cookbooks/identity-verification): KYC identity verification cookbook using ID cards, utility bills, W-9 forms
+- [Spreadsheet Processing](https://docs.reducto.ai/configs/parse/spreadsheet): Configure Excel/CSV spreadsheet parsing, clustering, and table splitting
+
+## Python SDK Reference
+
+- [Edit](https://docs.reducto.ai/sdk/python/edit): Python SDK edit method for PDF form filling and DOCX modification
+
+## JavaScript SDK Reference
+
+- [Pipeline](https://docs.reducto.ai/sdk/javascript/pipeline): JavaScript SDK pipeline method combining parse and extract operations
+- [Upload](https://docs.reducto.ai/sdk/javascript/upload): JavaScript SDK upload method for documents, S3, and large file streaming
+- [Edit](https://docs.reducto.ai/sdk/javascript/edit): JavaScript SDK edit method for PDF/DOCX form filling and modification
+- [Split](https://docs.reducto.ai/sdk/javascript/split): JavaScript SDK split method for document section partitioning
+
+## REST API Reference
+
+- [Upload](https://docs.reducto.ai/api-reference/upload): REST API upload endpoint with multipart form data support
+- [Edit Async](https://docs.reducto.ai/api-reference/edit-async): Async edit endpoint with webhook support for document modification
+- [Go SDK Pipeline](https://docs.reducto.ai/sdk/go/pipeline): Go SDK pipeline workaround using direct REST API calls
+
+## Optional
+
+- [Legacy: Get Version](https://docs.reducto.ai/api-reference/legacy/get-version): Legacy API endpoint for version checking
+- [Legacy: Edit](https://docs.reducto.ai/api-reference/legacy/edit): Legacy API edit endpoint for document modification
+- [Legacy: Parse](https://docs.reducto.ai/api-reference/legacy/parse): Legacy API parse endpoint for OCR, chunking, and table extraction

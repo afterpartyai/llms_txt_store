@@ -1,59 +1,61 @@
 # Apidog
 
-> > Apidog is an all-in-one API development platform offering visual OpenAPI design, smart mocking, automated testing, and comprehensive documentation tools.
+> > Apidog is an all-in-one API development platform for design, debugging, mocking, testing, and documentation generation.
 
-Apidog provides integrated solutions for the entire API lifecycle, supporting OpenAPI/Swagger specifications, JSON Schema, gRPC, and CI/CD workflows. The platform positions itself as a modern alternative to Postman with enhanced collaboration and automation features.
+Apidog provides a comprehensive API lifecycle management solution supporting REST, GraphQL, WebSocket, and gRPC protocols. It serves as a Postman alternative with enhanced collaboration features, AI-powered capabilities, and support for OpenAPI/Swagger standards.
 
 ## Key Topics
 
 - API Testing
 - API Documentation
 - API Design
-- OpenAPI Specification
-- Swagger
-- Postman Alternatives
-- Smart Mock
+- API Mocking
+- API Debugging
+- Postman Alternative
+- OpenAPI/Swagger
 - JSON Schema
-- CI/CD Integration
-- HTTP Protocols
+- WebSocket
+- GraphQL
 - gRPC
-- Test Automation
-- API Development Tools
-- REST APIs
-- Open Source API Tools
+- Collaboration Tools
+- Automated Testing
+- AI-Powered Features
+- Custom Domains
 
-## Core Platform Features
+## Product Overview
 
-- [Sobre o Apidog - Empresa de plataforma de desenvolvimento de API](https://apidog.com/pt-BR/about): Portuguese about page describing Apidog's mission and platform features
-- [API 設計 - 視覺化 OpenAPI 設計工具 | Apidog](https://apidog.com/zh-TW/api-design): Traditional Chinese page for visual OpenAPI design with JSON Schema support
-- [Apidog Learning](https://apidog.com/articles): Learning hub covering API fundamentals, testing, and documentation
-- [Apidog Learning (Page 1)](https://apidog.com/articles/base-knowledge): Base knowledge section covering API fundamentals and HTTP protocols
+- [Apidog：オールインワンAPIプラットフォーム：設計・デバッグ・モック作成・テスト実行・ドキュメント生成](https://apidog.com/jp): Japanese homepage for Apidog all-in-one API platform
+- [Baixar Apidog - Versões para Windows, Mac, Linux e Web | Apidog](https://apidog.com/pt-BR/download): Portuguese download page for Apidog on Windows, Mac, Linux, and Web
+- [Apidog料金プラン - サブスクリプションのプランと価格](https://apidog.com/jp/pricing): Japanese pricing page for Apidog subscription plans
+- [Apidog vs Postman：4人まで無料 vs 1人限定—Postmanの最適な代替ツール](https://apidog.com/jp/compare/apidog-vs-postman): Japanese comparison of Apidog vs Postman features and pricing
 
-## API Testing and Postman Alternatives
+## API Testing & Automation
 
-- [34 Best Postman Alternatives in 2026 | Free & Open Source API Testing Tools](https://apidog.com/blog/top-postman-alternative-open-source): Comprehensive comparison of 34 Postman alternatives for API testing
-- [20 Best Postman Alternatives for API Testing and Development](https://apidog.com/articles/best-postman-alternatives-for-api-testing): Comparison of 20 Postman alternatives including Apidog and Katalon Studio
-- [Master Postman in 10 Minutes: The Ultimate API Testing Tutorial for Beginners](https://apidog.com/blog/what-is-postman): Beginner tutorial on Postman with comparison to Apidog alternative
+- [Pytest Tutorial: API Automated Testing Framework](https://apidog.com/articles/pytest-api-automated-testing-framework): Tutorial on using Pytest framework for Python API automated testing
+- [Postman Tutorial: How to Test APIs Effectively](https://apidog.com/articles/how-to-test-apis-with-postman): Tutorial on effective API testing using Postman and Apidog
+- [Mock REQUEST Bodies to Accelerate API Debugging](https://apidog.com/blog/mock-request-bodies-automatically-to-accelerate-api-debugging): How auto-generated mock request bodies accelerate API debugging
+- [API Mocking: Common Use Cases](https://apidog.com/articles/api-mocking-use-cases): Real-world use cases for API mocking in development and testing
+- [詳細ガイド：Apidogで簡単にモックを行う方法](https://apidog.com/jp/blog/api-mock-with-apidog): Japanese guide to API mocking with Apidog smart and custom features
 
-## API Documentation and Specifications
+## API Documentation & Design
 
-- [8 Best API Interface Documentation Management Tools](https://apidog.com/articles/api-interface-documentation-management-tools): Comparison of 8 API documentation tools including Swagger and SwaggerHub
-- [API仕様書とは?その書き方は?|Apidog](https://apidog.com/jp/blog/how-to-write-api-document): Japanese guide on writing API specifications with GET/POST methods
-- [Swagger(OpenAPI) API仕様書の自動生成を実現する方法](https://apidog.com/jp/blog/swagger-openapi-api-document-auto-generate): Japanese guide for auto-generating Swagger/OpenAPI documentation with Apidog
-- [徹底解説:Swagger Codegenとは?その使い方は?](https://apidog.com/jp/blog/what-is-swagger-codegen): Japanese explanation of Swagger Codegen for client/server code generation
-- [What Is gRPC? Definition, Architecture Pros & Cons](https://apidog.com/articles/what-is-grpc): Comprehensive guide to gRPC framework with Protocol Buffers and HTTP/2
+- [How to Design a Standard API Interface Documentation](https://apidog.com/articles/api-interface-documentation): Best practices for designing comprehensive API interface documentation
+- [What Is the Difference Between an API & API Documentation](https://apidog.com/articles/what-is-the-difference-between-an-api-api-documentation): Beginner guide explaining APIs vs API documentation fundamentals
+- [Custom Domain - Apidog Docs](https://apidog.com/help/public-documentation/custom-domain): Guide to configuring custom domains for public API documentation
+- [解決済み：Swaggerとは？日本語化されるのは可能？](https://apidog.com/jp/blog/swagger-definition-and-its-japanese-setting): Japanese guide explaining Swagger and its localization options
 
-## Mocking and Testing Automation
+## API Protocols & Technologies
 
-- [Smart Mock - Apidog Docs](https://apidog.com/help/mock/smart-mock): Documentation for Smart Mock automatic data generation using JSON Schema
-- [詳細ガイド:Apidogで簡単にモックを行う方法](https://apidog.com/jp/blog/api-mock-with-apidog): Japanese guide for API mocking with Apidog using mock.js and Nunjucks
-- [Create a Test Scenario - Apidog Docs](https://apidog.com/help/test-manage/test-case): Guide for creating test scenarios with CI/CD integration in Apidog
-- [徹底ガイド:テストスクリプトでテスト自動化を実現する方法](https://apidog.com/jp/blog/test-automation-with-script): Japanese guide on test automation using Selenium and Robot Framework
+- [gRPC vs GraphQL](https://apidog.com/articles/grpc-vs-graphql): Comparison of gRPC and GraphQL for API development
+- [[SOLVED] WebSocket Connection Failed](https://apidog.com/blog/websocket-connection-failed): Troubleshooting guide for WebSocket connection failures
 
-## Technical Reference
+## Blog & Updates
 
-- [Network Proxy Configuration - Apidog Docs](https://apidog.com/help/more-feature/proxy): Documentation for configuring network proxy settings in Apidog
+- [Apidog Blog](https://apidog.com/blog): Main blog hub for Apidog articles on API testing and automation
+- [Apidog ブログ](https://apidog.com/jp/blog): Japanese blog hub covering API docs, security, and WebSocket protocols
+- [Apidog Update: New Feature Highlights](https://apidog.com/blog/apidog-update-new-feature): Product update highlighting new Apidog features and enhancements
 
-## Optional
+## Reference & Tools
 
-- [How to Use ChatGPT to Improve Your Writing (6 Steps)](https://apidog.com/blog/how-to-use-chatgpt-to-improve-your-writing): Step-by-step guide for using ChatGPT as an AI writing assistant
+- [Regular Expressions - Apidog Docs](https://apidog.com/help/reference/regex): Regex reference for API testing and response validation in Apidog
+- [JMeter日本語版｜無料ダウンロード](https://apidog.com/jp/blog/download-japanese-supported-jmeter): Guide to JMeter Japanese localization and Apidog as alternative

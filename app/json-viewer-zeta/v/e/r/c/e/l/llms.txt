@@ -1,0 +1,46 @@
+# JSON Viewer
+
+> > A free online JSON viewer, formatter, and validator tool with comprehensive guides for working with JSON across Python, JavaScript, Excel, and APIs.
+
+This site provides both an interactive JSON manipulation tool and educational content covering JSON parsing, validation, schema design, and data conversion workflows. It serves developers working with JSON in web development, data analysis, and API design contexts.
+
+## Key Topics
+
+- JSON parsing and serialization
+- JavaScript JSON methods (JSON.parse, JSON.stringify)
+- Python json module (json.loads, json.dumps)
+- JSON Schema validation
+- Excel integration (Power Query, VBA)
+- JSON to CSV/Excel conversion
+- pandas DataFrame operations
+- Node.js JSON processing
+- Nested data handling
+- Error handling best practices
+- REST API design
+- Data interchange formats
+- JSON formatting and beautification
+- Custom encoders and decoders
+- Data transformation techniques
+
+## Core Tool
+
+- [Free Online JSON Viewer](https://json-viewer-zeta.vercel.app): Free online JSON viewer, formatter, validator & beautifier tool for developers
+
+## Getting Started with JSON
+
+- [Understanding JSON: A Comprehensive Guide for Beginners](https://json-viewer-zeta.vercel.app/blog/understanding-json-beginners-guide): Beginner's guide to JSON fundamentals, syntax, data types & web development use
+- [Parsing JSON Data in JavaScript: A Step-by-Step Tutorial](https://json-viewer-zeta.vercel.app/blog/parsing-json-javascript-tutorial): JavaScript JSON parsing tutorial: JSON.parse(), JSON.stringify() & error handling
+- [Common Pitfalls When Working with JSON](https://json-viewer-zeta.vercel.app/blog/common-json-pitfalls): Avoid common JSON mistakes: syntax errors, data types & validation best practices
+
+## Programming Language Guides
+
+- [Working with JSON in Python: Tips and Techniques](https://json-viewer-zeta.vercel.app/blog/python-json-guide): Python JSON handling guide: json module, serialization, parsing & best practices
+- [JSON Schema: Validating Your JSON Data](https://json-viewer-zeta.vercel.app/blog/json-schema-validation-guide): JSON Schema validation guide using Ajv library with examples & best practices
+- [Best Practices for Structuring JSON APIs](https://json-viewer-zeta.vercel.app/blog/json-api-best-practices): JSON API design best practices: REST structure, versioning & error handling
+
+## Data Conversion and Excel Integration
+
+- [How to Import JSON Data into Excel: A Step-by-Step Guide](https://json-viewer-zeta.vercel.app/blog/importing-json-to-excel-guide): Import JSON to Excel using Power Query, VBA & data transformation techniques
+- [Converting JSON to Excel: Tools and Techniques](https://json-viewer-zeta.vercel.app/blog/json-to-excel-conversion): JSON to Excel conversion using Python pandas, Node.js xlsx & formatting tips
+- [Converting JSON to CSV: A Complete Guide](https://json-viewer-zeta.vercel.app/blog/json-to-csv-conversion-guide): JSON to CSV conversion using Python pandas, Node.js & nested data flattening
+- [Automating JSON Data Extraction in Excel](https://json-viewer-zeta.vercel.app/blog/automating-json-excel-extraction): Excel JSON automation guide using Power Query, VBA & Power Automate solutions

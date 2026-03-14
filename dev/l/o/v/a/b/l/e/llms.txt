@@ -1,59 +1,61 @@
 # Lovable
 
-> > Lovable is an AI-powered development platform that transforms ideas into production-ready web applications through natural language prompts, with integrations for Supabase, GitHub, Stripe, and major AI services.
+> > Lovable is an AI-powered app builder that enables developers and non-technical founders to build full-stack web applications 20x faster with integrations for Supabase, Stripe, GitHub, and Replicate.
 
-Founded by Anton Osika, Lovable enables rapid prototyping and full-stack development with visual editing, two-way GitHub sync, and pre-built connectors for ElevenLabs, Twilio, Perplexity, and more. The platform supports both no-code builders and developers using Cursor AI workflows.
+Lovable provides a no-code/low-code platform for rapid MVP development, internal tools, and production applications. The platform features ChatGPT integration, design system support, and partnerships with VCs and startups through their AI Native Startup Playbook.
 
 ## Key Topics
 
-- Lovable AI development platform
-- Supabase integration and authentication
-- GitHub two-way sync
-- Cursor AI workflow
-- AI app builder and rapid prototyping
+- AI app builder
 - No-code development
-- ElevenLabs voice integration
-- Twilio API integration
-- Stripe payment integration
-- Tailwind CSS styling
-- SaaS startup development
-- AI-powered website building
-- Webflow alternatives
-- Perplexity and Firecrawl connectors
-- Production app deployment
+- MVP development
+- Supabase integration
+- Stripe payments
+- GitHub deployment
+- Replicate AI models
+- Full-stack applications
+- Internal tools automation
+- AI code generation
+- ChatGPT integration
+- Startup partnerships
+- Design systems
+- API integrations
+- Code security
 
-## Product Announcements & Case Studies
+## Platform Overview
 
-- [$100M ARR & Lovable Agent](https://lovable.dev/blog/agent): Lovable Agent launch announcement with $100M ARR milestone and pricing
-- [How Delivery Hero Green-Lights Features 66% Faster with Lovable](https://lovable.dev/blog/deliveryhero): Delivery Hero case study: 66% faster feature approval with Lovable
-- [Perplexity, ElevenLabs, Firecrawl, and Miro: now in Lovable](https://lovable.dev/blog/ai-connectors): Announcement: Perplexity, ElevenLabs, Firecrawl, Miro connectors now live
+- [Lovable vs Bolt Comparison](https://lovable.dev/bolt-vs-lovable): Lovable vs Bolt comparison: features, pricing, GitHub & Supabase support
+- [ChatGPT Integration](https://lovable.dev/chatgpt-app): ChatGPT integration: turn ideas into full-stack apps with Lovable
+- [Internal Tools Builder](https://lovable.dev/tools): Build custom internal tools for workflow automation without engineering
 
-## Getting Started & Core Tutorials
+## Case Studies & Success Stories
 
-- [From Idea to Live App in Seconds – AI-Powered Development!](https://lovable.dev/video/from-idea-to-live-app-in-seconds-ai-powered-development): Complete tutorial: Lovable AI development with Supabase and GitHub deploy
-- [Here's My Lovable + Cursor AI Coding Workflow (Nothing Beats This!)](https://lovable.dev/video/heres-my-lovable-cursor-ai-coding-workflow-nothing-beats-this): Lovable + Cursor AI workflow tutorial with GitHub two-way sync for SaaS
-- [Using Lovable AI to build a SaaS | Startup | Part 1](https://lovable.dev/video/using-lovable-ai-to-build-a-saas-startup-part-1): SaaS startup tutorial Part 1: note-taking app with Supabase authentication
-- [🤖 Can AI Fix the Worst Website in 8 Minutes?](https://lovable.dev/video/can-ai-fix-the-worst-website-in-8-minutes): Tutorial showing Lovable AI transforming a contractor website in 8 minutes
+- [Solo Developer to $1M Business](https://lovable.dev/blog/2025-01-21-from-solo-developer-to-1-million-dream-building-a-thriving-business-with-lovable): Harry's journey: solo dev to entrepreneur tripling revenue with Lovable
+- [NHS Healthcare Innovation](https://lovable.dev/blog/reimagining-healthcare-innovation-nhs): NHS pharmacist Arun builds 20+ healthcare apps, sparks clinical hackathons
+- [Ruta Language App Launch](https://lovable.dev/video/ruta-is-launching-next-week-see-the-final-updates): Pre-launch updates for Ruta language learning app built with Lovable
 
-## Platform Comparisons & Alternatives
+## Tutorials & Integration Guides
 
-- [FlutterFlow vs Lovable: Which Tool Should You Use?](https://lovable.dev/guides/flutterflow-vs-lovable): FlutterFlow vs Lovable: mobile vs web app builder comparison guide
-- [8 Best Glide Alternatives for Building Apps in 2026](https://lovable.dev/guides/best-glide-alternatives-building-production-apps): 8 Glide alternatives compared: Lovable, Bubble, FlutterFlow for production
-- [ClickUp vs Asana: Which Tool Fits Your Workflow?](https://lovable.dev/guides/clickup-vs-asana): ClickUp vs Asana comparison guide for project management workflows
+- [Replicate AI Integration Tutorial](https://lovable.dev/blog/2025-01-24-supercharge-your-ai-projects-lovable-x-replicate-integration): Tutorial: integrating Replicate AI models for image and audio generation
+- [Lovable AI App Builder Tutorial](https://lovable.dev/video/lovable-the-best-ai-app-builder-in-the-world): Tutorial: building time-tracking app with Supabase, Stripe & GitHub
+- [Replicate Video Tutorials](https://lovable.dev/videos/replicate): Video tutorials for Replicate integration with Lovable AI app builder
+- [Maintaining Brand Control](https://lovable.dev/blog/how-to-maintain-brand-control-when-build-with-lovable): Using design systems and cross-project context for brand consistency
 
-## Integration Guides
+## Startup Resources & Insights
 
-- [Elevenlabs - Lovable Video Tutorials & Guides](https://lovable.dev/videos/elevenlabs): ElevenLabs integration tutorials and AI voice agent examples
-- [Twilio - Lovable Video Tutorials & Guides](https://lovable.dev/videos/twilio): Twilio integration tutorials and API guides for Lovable developers
-- [Rebuilding Webflow with Lovable...](https://lovable.dev/video/rebuilding-webflow-with-lovable): Tutorial cloning Webflow CMS functionality with Lovable and Firebase
-- [Lovable.Dev Generates ENTIRE RANKING WEBSITES WITH ONE PROMPT](https://lovable.dev/video/lovabledev-generates-entire-ranking-websites-with-one-prompt): Tutorial: AI-generated location-based SEO pages with Supabase integration
+- [Do You Need a CTO?](https://lovable.dev/blog/do-you-need-a-cto-as-startup): Startup guide: deciding if you need a CTO for MVP development
+- [Startup Partner Program](https://lovable.dev/partners/startup): Startup partner program with VC network and AI Native Startup Playbook
+- [Integration Partnership Program](https://lovable.dev/partners/integration): Integration partnership program and API marketplace for developers
 
-## Design & Development Guides
+## Blog & Updates
 
-- [Dark Mode Websites: 10 Stunning Examples That Actually Work](https://lovable.dev/guides/dark-mode-website-examples-guide): 10 dark mode website examples with design insights from Isabel Moranta
-- [How to Build a Multilingual Website in 2026](https://lovable.dev/guides/how-to-build-multilingual-website): Guide to building multilingual sites with AI: translation, SEO, localization
+- [Blog Home](https://lovable.dev/blog): Lovable blog index: updates, case studies, and AI development insights
+- [AI's Hidden Challenges](https://lovable.dev/blog/what-no-one-talks-about-ai): AI coding tools' hidden challenges: security, memory, and vulnerabilities
+- [Firebase Studio vs Lovable](https://lovable.dev/video/new-google-firebase-studio-vs-lovable-which-should-you-use): Comparison: Firebase Studio vs Lovable for MVP building and no-code dev
+- [Back to School Discount](https://lovable.dev/blog/back-to-school-discount): Student discount announcement for Lovable Pro and hackathon support
 
 ## Optional
 
-- [Become a Lovable Affiliate](https://lovable.dev/affiliates): Lovable affiliate program: earn rewards promoting AI development platform
-- [Lovable Privacy Policy](https://lovable.dev/privacy): Privacy policy for Lovable Labs: data collection, usage, and GDPR terms
+- [Brand & Press Kit](https://lovable.dev/brand): Brand assets, logos, and press contact guidelines for Lovable
+- [Abuse Policy](https://lovable.dev/abuse): Platform security, abuse reporting, and responsible disclosure policy
+- [Band Logo Design Principles](https://lovable.dev/guides/25-best-band-logos-that-stand-out): Design principles from Rolling Stones, Nirvana logos for brand identity

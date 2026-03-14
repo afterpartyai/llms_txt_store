@@ -1,67 +1,63 @@
 # Refine
 
-> > Refine is an open-source React framework for building enterprise-grade internal tools, admin panels, and B2B applications with AI-powered code generation, supporting integrations with Supabase, Auth0, Azure AD, and modern UI libraries.
+> > Refine is an open-source React framework for building enterprise-grade admin panels, internal tools, and CRUD applications with headless architecture and extensive UI library integrations.
 
-Refine (currently at v5) positions itself as an open-source alternative to Retool, offering a headless architecture that works with React Router, Next.js, and Remix. Backed by Y Combinator and 500 Emerging Europe, it provides comprehensive authentication (OAuth, Web3), authorization (RBAC/ABAC), and data provider patterns for rapid enterprise application development.
+Refine provides developers with a comprehensive ecosystem for rapidly building data-intensive applications. The platform offers templates, tutorials, and integrations with popular UI libraries like Material UI, Chakra UI, and Ant Design, while supporting modern development practices including TypeScript, REST APIs, and cloud-native technologies like Kubernetes.
 
 ## Key Topics
 
-- Refine v5
-- React Framework
-- Internal Tools & Admin Panels
-- AI Code Generation
-- Authentication (Auth0, Azure AD, Okta, Amazon Cognito)
-- Authorization (RBAC, ABAC, ACL)
-- Data Providers (Supabase, REST API)
-- UI Libraries (shadcn/ui, Ant Design, Material UI)
-- Routing (React Router, Next.js, Remix)
-- Access Control & Multitenancy
-- Web3 & Ethereum Integration
-- Self-Hosting & Open Source
-- CRUD Operations & Data Fetching
-- Enterprise B2B Applications
+- Refine Core
+- React framework
+- Admin panels and internal tools
+- CRUD applications
+- Material UI integration
+- Headless architecture
+- Data fetching and state management
+- UI component libraries
+- Ant Design
+- Chakra UI
+- Notification providers
+- TypeScript support
+- REST API integration
+- Kubernetes deployment
+- No-code dashboard builder
 
-## Getting Started
+## Core Framework & Templates
 
-- [Refine Homepage](https://refine.dev): Main homepage: AI-powered React framework for internal tools and B2B apps
-- [Refine Core Overview](https://refine.dev/core): Open-source React framework alternative to Retool for enterprise admin panels
-- [AI-Powered Builder](https://ai.refine.dev): AI-powered platform for building React internal apps with Supabase/REST APIs
-- [Quickstart Guide](https://refine.dev/core/docs/getting-started/quickstart): Quick start guide for Refine v5 with shadcn/ui, Auth0, Azure AD support
-- [Your First Refine App](https://refine.dev/core/tutorial/essentials/setup): Tutorial: Create first Refine app using create-refine-app with Vite/React
-- [Tutorial Introduction](https://refine.dev/core/tutorial/essentials/intro): Tutorial intro covering CRUD essentials with React Router, Next.js, Remix
+- [Introducing Refine Core - A New Chapter](https://refine.dev/blog/refine-core-introduction): Announcing split: Refine Core (open source) and Refine (AI builder)
+- [Headless React Framework Templates](https://refine.dev/core/templates/headless): Headless React framework templates for admin panels and internal tools
+- [Generic Internal Tool Template with Chakra UI](https://refine.dev/core/templates/chakra-ui-template): Chakra UI template for internal tools and admin panels with Vite
+- [How to Turn a CSV Into a Working Dashboard For Free (Without Writing Code)](https://refine.dev/blog/csv-to-dashboard-no-code): No-code CSV to React dashboard conversion using Refine builder
 
-## Documentation & Guides
+## React Development & Best Practices
 
-- [Main Documentation](https://refine.dev/core/docs): Main documentation hub for Refine v5 with guides, tutorials, and API refs
-- [Guides & Concepts Overview](https://refine.dev/core/docs/guides-concepts): Guides hub: Data fetching, forms, auth (OAuth/JWT), RBAC/ABAC, routing
-- [Authentication Guide](https://refine.dev/core/docs/guides-concepts/authentication): Auth guide: OAuth, Auth0, Azure AD, Web3/Ethereum authentication patterns
-- [Access Control Tutorial](https://refine.dev/core/docs/advanced-tutorials/access-control): Advanced tutorial: Role-based access control with Casbin in Refine v5
-- [Tables Guide](https://refine.dev/core/docs/guides-concepts/tables): Tables guide: Best practices for data display in Refine v5 applications
-- [Development Guide](https://refine.dev/core/docs/guides-concepts/development): Development setup guide: Devtools and commands for Refine v5 projects
-- [Testing Guide](https://refine.dev/docs/further-readings/testing): Testing best practices: Unit and end-to-end testing strategies for Refine
+- [Understanding Virtual DOM in React](https://refine.dev/blog/react-virtual-dom): Virtual DOM concept in React: purpose and performance optimization
+- [Error Boundaries in React - Handling Errors Gracefully](https://refine.dev/blog/react-error-boundaries): Handling React errors gracefully using Error Boundaries and libraries
+- [Top Front-End Frameworks in 2024 Worth Your Time and Effort to Master](https://refine.dev/blog/best-front-end-frameworks-in-2024): Comparing React, Refine, Angular, Svelte, and Vue frameworks in 2024
+- [What is RTK Query? Redux's Data Fetching Solution in 2025](https://refine.dev/blog/rtk-query-redux-toolkit-2025): RTK Query guide: Redux Toolkit's data fetching vs TanStack Query & SWR
+- [Framer Motion React Animations](https://refine.dev/blog/framer-motion): Framer Motion features for React animations and gesture handling
 
-## API Reference
+## UI Libraries & Component Guides
 
-- [Refine Component API](https://refine.dev/core/docs/core/refine-component): Core component API reference: Navigation helpers and meta properties
+- [Material UI Grid System in React](https://refine.dev/blog/material-ui-grid): Exploring Material UI Grid system with React examples and layouts
+- [How to use Material UI Tooltip](https://refine.dev/blog/material-ui-tooltip-component): Material UI Tooltip component guide with React examples
+- [Using React Hot Toast as a Notification Provider for CRUD apps](https://refine.dev/blog/react-hot-toast): Custom notification provider using react-hot-toast library for CRUD apps
+- [A Quick Introduction to Meta's Stylex](https://refine.dev/blog/meta-stylex): Applying atomic CSS styles to React with Meta's Stylex in Next.js
 
-## Templates & Examples
+## Application Tutorials & Examples
 
-- [Pixels Supabase CRUD App](https://refine.dev/core/templates/supabase-crud-app): Pixels template: Supabase CRUD app with Vite, Ant Design, realtime features
+- [Setting Up the Invoicer App](https://refine.dev/blog/refine-react-invoice-generator-2): Tutorial: Setting up Invoicer app with Ant Design and Strapi backend
+- [How to upload files from your HTML form using Base64 encoding](https://refine.dev/blog/how-to-base64-upload): File upload tutorial using Base64 encoding in HTML forms
 
-## Blog & Tutorials
+## CSS & Layout Techniques
 
-- [Refine Blog](https://refine.dev/blog): Blog homepage: Tutorials on admin panels, dashboards, React development
-- [Refine Pixels Complete Guide](https://refine.dev/blog/refine-pixels-guide): 7-part tutorial: Building Pixels CRUD app and admin dashboard with Supabase
-- [React-admin vs Refine CORE](https://refine.dev/blog/react-admin-vs-refine): Comparison: Refine CORE vs React-admin architecture for B2B applications
-- [What is a Dashboard?](https://refine.dev/blog/what-is-a-dashboard): Complete dashboard guide: Types, examples, build approaches (code/BI/AI)
-- [Version Control Guide](https://refine.dev/blog/version-control): Version control fundamentals: Git, CVS, SVN, Mercurial comparison guide
-- [Code Comments Best Practices](https://refine.dev/blog/code-comments): Guide to writing helpful code comments with humorous real-world examples
+- [How to Use Two Dimensional Layouts with CSS Grid?](https://refine.dev/blog/css-grid): Creating two-dimensional layouts with CSS Grid Layout system
 
-## Support & Community
+## Kubernetes & DevOps
 
-- [FAQ](https://refine.dev/core/docs/guides-concepts/faq): FAQ: Common questions and troubleshooting for Refine v5 development
-- [About Refine](https://refine.dev/about): About page: Team, investors (Y Combinator, 500 Emerging Europe), company info
+- [kubectl port-forward - Kubernetes Port Forwarding Explained](https://refine.dev/blog/kubectl-port-forward): Accessing internal Kubernetes services using kubectl port-forward
+- [A Guide for Delete Pods from Kubernetes Nodes - kubectl delete](https://refine.dev/blog/kubectl-delete-pod): Deleting Kubernetes pods using kubectl delete, drain, and cordon
 
-## Optional
+## JavaScript Fundamentals
 
-- [Refine + DEV Hackathon](https://hackathon.refine.dev): Past hackathon event page (June-July, results announced August)
+- [How to Use JavaScript Array some](https://refine.dev/blog/javascript-some-method): JavaScript Array.prototype.some method implementation with examples

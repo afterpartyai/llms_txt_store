@@ -1,0 +1,55 @@
+# CalculinoHub
+
+> > CalculinoHub is a comprehensive online calculator platform covering electrical engineering, mathematics, biology, and text conversion tools with multilingual support.
+
+CalculinoHub provides specialized calculators for electrical power conversions (kW, VA, amperes), mathematical operations (fractions, algebra, geometry), molecular biology (DNA/mRNA transcription), and text utilities. The platform serves students, engineers, and professionals with step-by-step solutions and supports multiple languages including English, Polish (pl), and German (de).
+
+## Key Topics
+
+- Electrical power conversion (kW, VA, amperes)
+- Apparent power and power factor calculations
+- Single-phase and three-phase systems
+- DNA to mRNA transcription and translation
+- Protein synthesis and molecular biology
+- Fraction operations and simplification
+- Linear equation conversions
+- Set theory (union and intersection)
+- Binary and two's complement
+- Trigonometric functions
+- Hardy-Weinberg equilibrium
+- Caesar cipher encryption
+- Text case conversion and Leet Speak
+- Kinetic energy calculations
+- GCF and common factors
+
+## Electrical Engineering Calculators
+
+- [kW to VA Calculator – Calculate Apparent Power Using Power Factor](https://calculinohub.com/calculators/electric/kw-to-va): Convert kilowatts to volt-amperes using power factor for electrical systems
+- [kVA to VA Calculator – Convert kVA to VA Instantly](https://calculinohub.com/calculators/electric/kva-to-va): Convert kilovolt-amperes to volt-amperes for power system calculations
+- [VA to Amps Calculator – Convert Apparent Power to Current](https://calculinohub.com/calculators/electric/va-to-amps): Convert volt-amperes to amperes for single/three-phase electrical systems
+- [Kalkulator Volty na Kilowaty – DC, Jednofazowy i Trójfazowy Moc](https://calculinohub.com/pl/calculators/electric/volts-to-kw): Convert volts to kilowatts for DC, single-phase, three-phase systems (Polish)
+- [Ampere zu VA Rechner - Strom in Scheinleistung Umrechnen](https://calculinohub.com/de/calculators/electric/amps-to-va): Convert amperes to volt-amperes for electrical power calculations (German)
+
+## Mathematics Calculators
+
+- [Standard Form to Slope Intercept Form Calculator](https://calculinohub.com/calculators/math/standard-form-to-slope-intercept-form-calculator): Convert linear equations from standard (Ax+By=C) to slope-intercept (y=mx+b)
+- [Common Factors Calculator – Find GCF & All Common Factors Online](https://calculinohub.com/calculators/math/common-factors): Find all common factors and GCF of two numbers with explanations
+- [Union and Intersection Calculator](https://calculinohub.com/calculators/math/union-intersection-calculator): Calculate union and intersection of sets using set theory principles
+- [Kalkulator uzupełnień do dwóch](https://calculinohub.com/pl/calculators/math/twos-complement-calculator): Two's complement calculator for binary/decimal conversion (Polish)
+- [Kalkulator Odejmowania Ułamków – Odejmij, Uprość i Pokaż Wynik](https://calculinohub.com/pl/calculators/math/subtracting-fractions): Subtract and simplify fractions with step-by-step solutions (Polish)
+- [Kalkulator Dodawania Ułamków – Dodaj, Uprość i Pokaż Kroki](https://calculinohub.com/pl/calculators/math/adding-fractions): Add and simplify fractions with step-by-step solutions (Polish)
+- [Kalkulator Cosinusa – cos(α) w stopniach i radianach z wykresem](https://calculinohub.com/pl/calculators/math/cosine): Cosine calculator with graph for angles in degrees/radians (Polish)
+- [Wurzel-Rechner – n-te Wurzel einer Zahl online](https://calculinohub.com/de/calculators/math/roots): Calculate nth root, square root, or cube root of any number (German)
+- [Kalkulator Energii Kinetycznej – KE = ½mv² online](https://calculinohub.com/pl/calculators/math/kinetic-energy): Calculate kinetic energy from mass and velocity using KE=½mv² (Polish)
+
+## Biology & Molecular Science Calculators
+
+- [DNA zu mRNA Konverter – Transkriptions- & Translations-Tool](https://calculinohub.com/de/calculators/biology/dna-to-mrna): Convert DNA to mRNA, tRNA, or proteins with transcription tools (German)
+- [Kalkulator Hardy-Weinberga: Kalkulator Częstości Alleli i Nosicieli](https://calculinohub.com/pl/calculators/biology/hardy-weinberg-calculator): Hardy-Weinberg equilibrium calculator with chi-square test (Polish)
+- [Konwerter DNA na mRNA – Narzędzie do transkrypcji i translacji](https://calculinohub.com/pl/calculators/biology/dna-to-mrna): DNA to mRNA/tRNA/protein converter with transcription tools (Polish)
+
+## Text Conversion & Encryption Tools
+
+- [Uppercase to Lowercase Converter – Free Online Text Case Tool](https://calculinohub.com/calculators/conversion/uppercase-to-lowercase): Convert uppercase text to lowercase for formatting and standardization
+- [Leet Speak Übersetzer – Text zu 1337 Speak Online Konvertieren](https://calculinohub.com/de/calculators/conversion/leet-speak-translator): Convert text to Leet Speak (1337) with multiple difficulty levels (German)
+- [Szyfr Cezara – Szyfruj i odszyfruj tekst online](https://calculinohub.com/pl/calculators/others/caesar-cipher): Caesar cipher encoder/decoder supporting multiple alphabets (Polish)

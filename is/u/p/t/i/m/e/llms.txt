@@ -1,0 +1,32 @@
+# Uptime.is
+
+> > SLA and uptime calculator for determining downtime allowances across different availability targets and service level agreements.
+
+Uptime.is provides tools for calculating, comparing, and analyzing service level agreement (SLA) metrics, including downtime calculations for various uptime percentages (99%, 99.5%, 99.9%, etc.) with support for custom schedules and weekday monitoring. Built with newLISP.
+
+## Key Topics
+
+- SLA (Service Level Agreement)
+- Uptime calculation
+- Downtime calculation
+- Availability metrics
+- 99.9% uptime (three nines)
+- 99.5% uptime
+- Nines uptime targets
+- Availability monitoring
+- Custom schedule monitoring
+- Weekday monitoring
+- SLA comparison
+- Downtime analysis
+- Uptime reporting
+- newLISP
+
+## SLA Calculators
+
+- [SLA & Uptime calculator: How much downtime corresponds to 99.9 % uptime](https://uptime.is/): Homepage SLA calculator for 99.9% uptime and downtime metrics
+- [SLA & Uptime calculator: How much downtime corresponds to 99.5 % uptime](https://uptime.is/99.5): SLA calculator showing downtime for 99.5% uptime availability target
+- [SLA & Uptime calculator: How much downtime corresponds to 99 % uptime](https://uptime.is/complex?sla=99&wk=pqryhyu): Complex SLA calculator with custom weekday schedule for 99% uptime
+
+## Comparison Tools
+
+- [Compare SLA Uptime & Downtime](https://uptime.is/compare?sla=97): SLA comparison tool for analyzing uptime and downtime across targets

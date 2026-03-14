@@ -1,61 +1,60 @@
 # Anthropic
 
-> > Anthropic develops Claude, an AI assistant built with Constitutional AI and advanced safety research, offering models through Claude.ai, Anthropic API, and Amazon Bedrock.
+> > AI safety company developing Claude, a family of frontier AI models built with Constitutional AI principles for safe, helpful, and honest interactions.
 
-Anthropic is an AI safety company founded by Daniela Amodei and former OpenAI researchers, focused on building reliable, interpretable, and steerable AI systems. The company conducts cutting-edge research in alignment, mechanistic interpretability, and societal impacts while deploying Claude models for enterprise, government, and consumer applications through partnerships and the Model Context Protocol (MCP).
+Anthropic creates advanced AI systems including Claude 3.7 Sonnet, Claude Code, and the Claude Developer Platform. The company pioneered Constitutional AI, conducts cutting-edge AI safety research, and partners with organizations like Google Cloud, Amazon Bedrock, and Snowflake to deploy enterprise AI solutions responsibly.
 
 ## Key Topics
 
-- Claude (AI assistant family including Claude 3.5 Sonnet, Claude Opus 3, Claude 3.5 Haiku)
-- Constitutional AI and AI safety research
+- Claude AI models and Claude Code
+- Constitutional AI and AI safety
+- Claude Developer Platform and API
+- AI agents and agentic systems
+- Frontier AI research and red teaming
 - Model Context Protocol (MCP)
-- Claude Code and agentic AI systems
-- Anthropic API and Amazon Bedrock integration
-- AI alignment and mechanistic interpretability
-- Societal impacts and real-world AI use
-- Computer use capability (beta)
-- Claude.ai consumer platform
-- National security and Claude Gov models
-- Prompt engineering best practices
-- Labs organization and experimental products
-- Transparency and responsible AI practices
+- AI regulation and policy advocacy
+- Cybersecurity and vulnerability detection
+- Contextual retrieval and RAG systems
+- Economic impacts and AI adoption
 - Claude Partner Network
-- AI education and fluency initiatives
+- Interpretability and model behavior
+- Enterprise AI partnerships (Google Cloud, Amazon Bedrock, Snowflake)
+- AI values and alignment
 
-## Claude Models & Core Products
+## Claude Models and Product Releases
 
-- [Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku](https://www.anthropic.com/news/3-5-models-and-computer-use): Claude 3.5 Sonnet refresh, Haiku launch, and computer use beta capability
-- [An update on our model deprecation commitments for Claude Opus 3](https://www.anthropic.com/research/deprecation-updates-opus-3): Claude Opus 3 deprecation policy update and model preservation approach
-- [Claude Gov models for U.S. national security customers](https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers): Claude Gov launch for U.S. national security & classified environments
+- [Claude 3.7 Sonnet and Claude Code](https://www.anthropic.com/news/claude-3-7-sonnet): Launch of Claude 3.7 Sonnet hybrid reasoning model and Claude Code
+- [Claude Code overview - Claude Code Docs](https://www.anthropic.com/engineering/claude-code-best-practices): Getting started guide for Claude Code agentic coding tool
+- [Collaborate with Claude on Projects](https://www.anthropic.com/news/projects): Projects feature for organizing chats and knowledge on Claude Pro/Team
+- [Claude is a space to think | Anthropic](https://www.anthropic.com/news/claude-is-a-space-to-think): Commitment to keeping Claude ad-free and user-focused
 
-## AI Safety & Research
+## AI Safety and Constitutional AI
 
-- [Alignment Research](https://www.anthropic.com/research/team/alignment): Alignment team researching AI safety, reward tampering, and oversight methods
-- [Societal Impacts Research](https://www.anthropic.com/research/team/societal-impacts): Societal Impacts team researching real-world AI use & Constitutional AI
-- [Evaluating and Mitigating Discrimination in Language Model Decisions](https://www.anthropic.com/research/evaluating-and-mitigating-discrimination-in-language-model-decisions): Research on evaluating & mitigating bias in Claude 2.0 high-stakes decisions
-- [In-context Learning and Induction Heads](https://www.anthropic.com/research/in-context-learning-and-induction-heads): Research on in-context learning mechanisms and induction heads in transformers
+- [Claude's Constitution](https://www.anthropic.com/news/claudes-constitution): Explains Constitutional AI and the values guiding Claude's training
+- [The case for targeted regulation](https://www.anthropic.com/news/the-case-for-targeted-regulation): Policy position on urgent need for targeted AI safety regulation
 - [Developing nuclear safeguards for AI through public-private partnership](https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership): DOE/NNSA partnership creating 96% accurate nuclear content classifier
-- [Clio: Privacy-preserving insights into real-world AI use](https://www.anthropic.com/research/clio): Clio system for privacy-preserving analysis of Claude.ai usage patterns
+- [Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned](https://www.anthropic.com/research/red-teaming-language-models-to-reduce-harms-methods-scaling-behaviors-and-lessons-learned): Red teaming methodology and dataset for reducing harmful AI outputs
+- [Sharing our compliance framework for California's Transparency in Frontier AI Act](https://www.anthropic.com/news/compliance-framework-SB53): Compliance framework for California SB 53 frontier AI transparency law
 
-## Developer Resources & Agentic AI
+## Developer Platform and Technical Guides
 
-- [AI Learning Resources & Guides from Anthropic](https://www.anthropic.com/learn): Educational hub with Claude guides, tutorials, and Anthropic Academy
-- [Writing effective tools for AI agents—using AI agents](https://www.anthropic.com/engineering/writing-tools-for-agents): Guide to developing effective tools for AI agents using MCP & Claude Code
-- [Building a C compiler with a team of parallel Claudes](https://www.anthropic.com/engineering/building-c-compiler): Building C compiler using parallel Claude Opus 4.6 autonomous agents
-- [Introducing Labs](https://www.anthropic.com/news/introducing-anthropic-labs): Labs org announcement for experimental products like Claude Code & MCP
+- [Introducing advanced tool use on the Claude Developer Platform](https://www.anthropic.com/engineering/advanced-tool-use): Dynamic tool discovery and execution for Claude AI agents via API
+- [Contextual Retrieval in AI Systems](https://www.anthropic.com/engineering/contextual-retrieval): Guide to improving RAG systems with contextual retrieval techniques
+- [Building AI for cyber defenders](https://www.anthropic.com/news/building-ai-cyber-defenders): Claude Sonnet 4.5's enhanced cybersecurity and vulnerability detection
 
-## Company & Transparency
+## Enterprise Partnerships and Ecosystem
 
-- [Anthropic's Transparency Hub](https://www.anthropic.com/transparency): Transparency hub for Claude model reports and responsible AI practices
-- [Updating our Usage Policy](https://www.anthropic.com/news/updating-our-usage-policy): Usage Policy update covering election integrity & high-risk use cases
-- [Paul Smith to join Anthropic as Chief Commercial Officer](https://www.anthropic.com/news/paul-smith-to-join-anthropic): Paul Smith appointed as first Chief Commercial Officer from Microsoft
+- [Anthropic invests $100 million into the Claude Partner Network](https://www.anthropic.com/news/claude-partner-network): $100M investment in Claude Partner Network for enterprise adoption
+- [Snowflake and Anthropic announce $200 million partnership to bring agentic AI to global enterprises](https://www.anthropic.com/news/snowflake-anthropic-expanded-partnership): $200M Snowflake partnership for enterprise agentic AI integration
 
-## Partnerships & Enterprise Applications
+## Research and Analysis
 
-- [Lyft to bring Claude to more than 40 million riders and over 1 million drivers](https://www.anthropic.com/news/lyft-announcement): Lyft deploys Claude for customer service to 40M riders via Amazon Bedrock
-- [Anthropic partners with Rwandan Government and ALX to bring AI education to hundreds of thousands of learners across Africa](https://www.anthropic.com/news/rwandan-government-partnership-ai-education): Rwanda & ALX partnership deploying Chidi AI education across Africa
-- [Anthropic Education Report: The AI Fluency Index](https://www.anthropic.com/research/AI-fluency-index): AI Fluency Index measuring collaboration skills across Claude.ai users
+- [The assistant axis: situating and stabilizing the character of large language models](https://www.anthropic.com/research/assistant-axis): Research on neural representations and persona stability in LLMs
+- [Measuring AI agent autonomy in practice](https://www.anthropic.com/research/measuring-agent-autonomy): Analysis of Claude Code agent autonomy and human oversight patterns
+- [Anthropic Economic Index: Tracking AI's role in the US and global economy](https://www.anthropic.com/research/economic-index-geography): Geographic analysis of Claude API usage patterns across US states
+- [Introducing the Anthropic Economic Futures Program](https://www.anthropic.com/news/introducing-the-anthropic-economic-futures-program): Launch of Economic Futures Program studying AI's labor market impact
 
-## Optional
+## Company Initiatives
 
-- [Independent Contractor Agreement](https://www.anthropic.com/legal/independent-contractor-agreement): Legal terms for independent contractors and consulting services
+- [Introducing Labs](https://www.anthropic.com/news/introducing-anthropic-labs): Announcement of Labs division for experimental product development
+- [Anthropic is donating $20 million to Public First Action](https://www.anthropic.com/news/donate-public-first-action): $20M donation to Public First Action for AI policy advocacy

@@ -1,0 +1,60 @@
+# Apify Blog
+
+> > The Apify Blog covers web scraping, automation, and AI integration with tutorials on Python, Selenium, Crawlee, and the Apify platform for data extraction and workflow automation.
+
+This blog provides technical guides, case studies, and product updates for developers and businesses using web scraping, data collection, and automation. Content ranges from beginner tutorials to advanced infrastructure insights, featuring the Apify Actor platform, integration with tools like n8n, and real-world applications in social media research, e-commerce, and AI.
+
+## Key Topics
+
+- Web scraping and crawling
+- Apify Actor platform
+- Python automation (Scrapy, Selenium, Beautiful Soup)
+- Anti-blocking techniques (proxies, CAPTCHAs, Cloudflare)
+- Data extraction and collection
+- Sentiment analysis and NLP
+- Social media scraping (Instagram, TikTok, YouTube)
+- AI and LLM integration
+- Crawlee framework
+- Automated workflows
+- JavaScript scraping tools
+- E-commerce data (Amazon)
+- API development and integration
+- Infrastructure monitoring
+- No-code automation solutions
+
+## Web Scraping Fundamentals & Anti-Blocking
+
+- [21 tips on how to crawl a website without getting blocked](https://blog.apify.com/crawl-without-getting-blocked): Guide on proxies, Cloudflare, CAPTCHAs & anti-scraping protection tips
+- [Scrapy alternatives in 2025](https://blog.apify.com/alternatives-scrapy-web-scraping): Python web scraping framework comparison: Scrapy vs Beautiful Soup & more
+- [Top 10 free proxies for web scraping (Reviewed in 2026)](https://blog.apify.com/get-proxies-free-proxy-services): Free & cheap proxy services for web scraping projects reviewed
+- [Selenium wait for page to load](https://blog.apify.com/selenium-wait-for-page-to-load): Selenium wait strategies guide: implicit, explicit & fluent waits
+
+## Scraping Tutorials & How-To Guides
+
+- [How to scrape Amazon product data with Python (+ no-code)](https://blog.apify.com/scrape-amazon-product-data): Amazon scraping tutorial with Python API & no-code options
+- [Sentiment analysis in Python (Complete guide for 2025)](https://blog.apify.com/sentiment-analysis-python): Complete Python NLP guide: sentiment analysis with VADER & WordCloud
+- [How to find tourist traps using data from Google Maps](https://blog.apify.com/google-maps-data-tourism): Map tourist traps & gentrification by scraping Google Maps ATM data
+
+## AI & Automation Workflows
+
+- [Build an automated Facebook sentiment analysis workflow](https://blog.apify.com/facebook-sentiment-analysis): Tutorial: Extract Facebook comments, label sentiment & automate delivery
+- [Build your own YouTube brand monitoring workflow](https://blog.apify.com/youtube-brand-monitoring): Automate YouTube brand monitoring with scraping & sentiment analysis
+- [Integrate Google Search into your AI apps](https://blog.apify.com/how-to-integrate-google-search-into-your-ai-apps): Enable internet access in GPT-4 apps via Google Search integration
+- [6 challenges of AI implementation you need to know about](https://blog.apify.com/ai-implementation-challenges): Common AI adoption challenges: talent gaps, infrastructure & ethics
+
+## Apify Platform & Integrations
+
+- [Introducing Actor permissions](https://blog.apify.com/introducing-actor-permissions): New Actor permissions feature for enhanced security & transparency
+- [Publish your Apify Actor as an n8n node](https://blog.apify.com/how-to-publish-actor-as-n8n-node): Convert Apify Actors to n8n community nodes in under 60 minutes
+- [What is an API?](https://blog.apify.com/what-is-an-api): API basics: definition, examples & characteristics of good APIs
+
+## Case Studies & Real-World Applications
+
+- [How a UNL research lab scaled social media research](https://blog.apify.com/unl-research-lab-scaled-multi-platform-social-media-research): UNL case study: TikTok, Instagram & YouTube data collection with Apify
+- [Acai Travel and Apify: a smooth take-off](https://blog.apify.com/acai-travel-and-apify): Case study: Acai Travel uses Apify for AI-powered travel operations
+- [How we monitor infrastructure processing 1PB data monthly](https://blog.apify.com/how-we-monitor): Apify infrastructure monitoring with New Relic, LogDNA & PagerDuty
+
+## Optional
+
+- [September updates from Apify](https://blog.apify.com/september-updates-from-apify): Monthly updates: web scraping legality, MongoDB performance & tutorials
+- [Tech career change done right with Zuzka Pelechova](https://blog.apify.com/zuzka-pelechova-tech-career-change): Zuzka Pelechova's career transition from politics to Apify via Czechitas

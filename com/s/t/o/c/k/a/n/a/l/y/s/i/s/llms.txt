@@ -1,61 +1,57 @@
 # Stock Analysis
 
-> > Comprehensive stock market research platform providing real-time data, financial analysis tools, and investment guides for stocks, ETFs, and REITs.
+> > Comprehensive stock market research platform providing financial data, industry analysis, and investment education across NASDAQ, NYSE, CBOE, and global exchanges.
 
-Stock Analysis offers detailed information on publicly traded companies, industry classifications, corporate actions (IPOs, delistings), and educational content on investment strategies. The platform features stock screeners, market data exports, and covers specialized sectors including REITs, with focus on companies like Equinix, American Tower, and Digital Realty Trust.
+Stock Analysis offers detailed stock screening tools, industry classifications, financial metrics definitions, and investment guides. The platform covers U.S. and international markets including exchanges in Germany, Japan, Portugal, and Sweden, with data-driven resources for long-term investors.
 
 ## Key Topics
 
-- Stock screeners and market data
-- Real Estate Investment Trusts (REITs)
-- Corporate actions (IPOs, delistings, bankruptcies)
-- Investment research and analysis
-- Pre-IPO investing and accredited investors
-- Industry analysis and classification
-- Specialty REITs (data centers, telecom towers)
-- Investment risk and low-risk strategies
-- Historical financial data
-- Short selling and margin trading
-- Google Sheets data exports
-- Recession indicators and business cycles
-- Investment platforms comparison
-- SG&A and financial metrics
+- Stock screening and market cap analysis
+- Industry classifications and sector analysis
+- Financial metrics (ROE, dividend payout ratio, cost of revenue)
+- NASDAQ, NYSE, and CBOE listed securities
+- ETFs and long-term investing strategies
+- International exchanges (Euronext, Nordic Growth Market)
+- Transportation and industrials sectors
+- Capital markets and financial services
+- Net income and profitability analysis
+- Investment education and brokerage reviews
+- Real estate and appreciating assets
+- Pre-IPO and secondary market investing
+- Environmental and specialty chemicals industries
+- Retail and consumer sectors
 
-## Core Platform Features
+## Financial Metrics & Terminology
 
-- [Sitemap - Stock Analysis](https://stockanalysis.com/sitemap): Navigation hub for stocks, ETFs, articles, and financial tools
-- [Google Sheets Exports - Stock Analysis](https://stockanalysis.com/faq/google-sheets-exports): Instructions for exporting Stock Analysis data to Google Sheets
-
-## Corporate Actions & Market Data
-
-- [Most Recently Listed Stocks](https://stockanalysis.com/actions/listed): Recent IPOs and new stock listings on US markets
-- [Latest Delisted Stocks](https://stockanalysis.com/actions/delisted): Recently delisted stocks from US markets including bankruptcies
-- [What Happens to Your Stock When a Company Goes Bankrupt?](https://stockanalysis.com/article/stocks-in-bankruptcy): Explains bankruptcy impact on shareholders with Chapter 7 and 11 examples
+- [Return on Equity (ROE): Formula, Definition, and How to Use](https://stockanalysis.com/term/roe-return-on-equity): ROE profitability metric formula and investment analysis guide
+- [Dividend Payout Ratio: Meaning, Formulas, and Examples](https://stockanalysis.com/term/dividend-payout-ratio): Dividend payout ratio calculation and sustainability analysis guide
+- [Cost of Revenue: Definition, Examples, and Formula](https://stockanalysis.com/term/cost-of-revenue): Financial term explaining cost of revenue vs COGS with examples
 
 ## Industry & Sector Analysis
 
-- [A List of Stocks in the REIT - Specialty Industry](https://stockanalysis.com/stocks/industry/reit-specialty): Specialty REIT stocks including Equinix, American Tower, and Crown Castle
-- [A List of Stocks in the REIT - Healthcare Facilities Industry](https://stockanalysis.com/stocks/industry/reit-healthcare-facilities): Healthcare REIT stocks including Welltower, Ventas, and Omega
-- [A List of Stocks in the Broadcasting Industry](https://stockanalysis.com/stocks/industry/broadcasting): Broadcasting stocks including Nexstar, TEGNA, and FuboTV
+- [A List of Stocks in the Industrials Sector](https://stockanalysis.com/stocks/sector/industrials): Industrials sector stocks: Caterpillar, GE Aerospace, RTX, Boeing
+- [A List of Stocks in the Capital Markets Industry](https://stockanalysis.com/stocks/industry/capital-markets): Capital markets stocks: Morgan Stanley, Goldman Sachs, Charles Schwab
+- [A List of Stocks in the Specialty Chemicals Industry](https://stockanalysis.com/stocks/industry/specialty-chemicals): Specialty chemicals stocks including Linde, Sherwin-Williams, Ecolab
+- [A List of Stocks in the Specialty Retail Industry](https://stockanalysis.com/stocks/industry/specialty-retail): Specialty retail stocks: Tractor Supply, Ulta Beauty, Dick's Sporting
+- [A List of Stocks in the Engineering & Construction Industry](https://stockanalysis.com/stocks/industry/engineering-and-construction): Engineering & construction stocks led by Quanta Services, EMCOR
+- [A List of Stocks in the Trucking Industry](https://stockanalysis.com/stocks/industry/trucking): Trucking industry stocks featuring Old Dominion, XPO, Saia
+- [A List of Stocks in the Resorts & Casinos Industry](https://stockanalysis.com/stocks/industry/resorts-and-casinos): Gaming industry stocks including Las Vegas Sands, Wynn, MGM Resorts
+- [A List of Stocks in the Lumber & Wood Production Industry](https://stockanalysis.com/stocks/industry/lumber-and-wood-production): Lumber stocks including Simpson Manufacturing, UFP Industries
+- [Industry: Pollution & Treatment Controls](https://stockanalysis.com/stocks/industry/pollution-and-treatment-controls): Environmental stocks: Veralto, Zurn Elkay, Federal Signal
 
-## Investment Strategies & Guides
+## International Stock Exchanges
 
-- [Top 10 Safe and Low-Risk Investments in 2026](https://stockanalysis.com/article/safe-low-risk-investments): Low-risk investment options including savings accounts and CDs
-- [The 10 Best Investments with 10% Returns](https://stockanalysis.com/article/10-percent-return-investments): Investment strategies for achieving double-digit returns
-- [How to Short Stocks: A Beginner's Guide to Short Selling](https://stockanalysis.com/article/how-to-short-stocks): Beginner's guide to short selling and margin account trading
-- [How to Invest in Stripe Stock in 2026](https://stockanalysis.com/article/invest-in-stripe-stock): Pre-IPO investment guide for Stripe payment processing company
-- [How to Invest in Kalshi Stock in 2026](https://stockanalysis.com/article/invest-in-kalshi-stock): Guide to buying Kalshi prediction market stock before IPO
+- [List of Stocks on the Euronext Lisbon (ELI) in Portugal](https://stockanalysis.com/list/euronext-lisbon): Portuguese stocks on Euronext Lisbon featuring EDP, Galp Energia
+- [List of Stocks on the Nordic Growth Market in Sweden](https://stockanalysis.com/list/nordic-growth-market): Swedish NGM stocks featuring Investment AB Spiltan, Briox AB
 
-## Investment Research & Tools
+## Investment Guides & Reviews
 
-- [Seeking Alpha vs The Motley Fool vs Morningstar vs Zacks: Which Is Best?](https://stockanalysis.com/article/seeking-alpha-vs-motley-fool-vs-morningstar-vs-zacks): Comparison of four popular investment research platforms
-- [The 5 Best Websites for Historical Financial Data](https://stockanalysis.com/article/historical-stock-data): Top sources for historical financial data including EDGAR and Koyfin
-
-## Financial Terms & Concepts
-
-- [Selling, General, and Administrative (SG&A) Expenses: Meaning and Formula](https://stockanalysis.com/term/sga-selling-general-administrative): Definition and formula for SG&A overhead expenses
-- [Who Determines When a Recession Begins and Ends?](https://stockanalysis.com/article/who-determines-recessions): NBER's role in dating recessions and business cycles
+- [9 Appreciating Assets to Build Your Net Worth](https://stockanalysis.com/article/appreciating-assets): Guide to 9 appreciating assets including ETFs and real estate investing
+- [How to Invest in Mercury Stock in 2026 (Before Its IPO)](https://stockanalysis.com/article/invest-in-mercury-stock): Guide to pre-IPO investing in Mercury fintech via secondary markets
+- [I Tried The Motley Fool's "Epic" Service: Here's My Review](https://stockanalysis.com/article/motley-fool-epic-review): Review of Motley Fool Epic service features, pricing, and value
+- [Public.com Review: Pros, Cons, Safety, and Fees](https://stockanalysis.com/article/public-review): Complete review of Public.com brokerage vs Fidelity, Vanguard, Schwab
 
 ## Optional
 
-- [Privacy Policy - Stock Analysis](https://stockanalysis.com/privacy-policy): Data collection and privacy practices using Plausible Analytics
+- [Privacy Policy - Stock Analysis](https://stockanalysis.com/privacy-policy): Privacy policy detailing data collection via Plausible Analytics
+- [Data Disclaimer - Stock Analysis](https://stockanalysis.com/data-disclaimer): Disclaimer for stock data from NASDAQ, NYSE, CBOE, and OTC Markets

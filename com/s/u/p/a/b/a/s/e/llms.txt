@@ -1,0 +1,36 @@
+# Supabase
+
+> Open source Firebase alternative built on Postgres, providing authentication, database, storage, edge functions, and real-time subscriptions for modern application development.
+
+Supabase is a comprehensive backend-as-a-service platform that combines Postgres database capabilities with developer tools including CLI, vector embeddings, and deployment automation. The platform emphasizes open source principles, GDPR compliance, and seamless migration from other services like Heroku.
+
+## Key Topics
+
+- Postgres
+- Supabase CLI
+- Supabase Vector
+- Authentication
+- Real-time subscriptions
+- Database migrations
+- CI/CD deployment
+- Local development
+- Performance monitoring
+- GDPR compliance
+- Edge Functions
+- Cost optimization
+- Version control
+- DevOps workflows
+- Usage analytics
+
+## Developer Tools & CLI
+
+- [CLI | Supabase Features](https://supabase.com/features/cli): Supabase CLI for local development, migrations, and CI/CD deployment
+
+## Monitoring & Analytics
+
+- [Reports & Metrics | Supabase Features](https://supabase.com/features/reports-and-metrics): Monitor project health with usage insights and performance analytics
+
+## Customer Stories
+
+- [GDPR-compliant AI chatbots for docs and websites.](https://supabase.com/customers/markprompt): Markprompt builds GDPR-compliant AI chatbots using Supabase Vector
+- [HappyTeams unlocks better performance and reduces cost with Supabase.](https://supabase.com/customers/happyteams): HappyTeams migrates from Heroku to Supabase for better performance

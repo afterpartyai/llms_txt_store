@@ -1,50 +1,41 @@
 # U.S. Census Bureau
 
-> > The United States' premier statistical agency providing comprehensive demographic, economic, and geographic data through surveys, censuses, and developer-friendly APIs.
+> > Official source for U.S. demographic and economic data, providing APIs, datasets, and geographic services from the American Community Survey (ACS) and other census programs.
 
-The Census Bureau, part of the Department of Commerce, collects and disseminates critical data including the American Community Survey, Economic Census, County Business Patterns, and population estimates. Developers can access hundreds of datasets through the Census Bureau API, with resources including documentation, app galleries, and an active developer community.
+The Census Bureau collects and disseminates statistical data about the American people and economy. Developers can access data through REST APIs including the ACS datasets and TIGERweb GeoServices for geographic information.
 
 ## Key Topics
 
-- Census Bureau API
 - American Community Survey (ACS)
-- Economic Census
-- Population Estimates and Projections
-- County Business Patterns
-- Census of Governments
-- Nonemployer Statistics
-- Business Dynamics Statistics
-- Data Visualization Tools
-- Developer Community and Forum
-- Demographic Data
-- Economic Data
-- Interactive Maps
-- Third-Party Applications
-- Statistical Quality Standards
+- Census Data APIs
+- TIGERweb GeoServices
+- TIGER Geographic Data
+- Developer Resources
+- API Catalog
+- Federal Relay Service
+- Office of the Respondent Advocate
+- Regional Offices
+- Census Datasets
+- Information Quality Guidelines
+- Discovery Tool
+- Developer Forum
+- Suitland Federal Center
 
-## About the Census Bureau
+## API Reference & Developer Resources
 
-- [What We Do](https://www.census.gov/about/what.html): Census Bureau mission overview: data collection & government authority
-- [Who We Are](https://www.census.gov/about/who.html): Census Bureau organization overview, headquarters & executive staff info
+- [Available APIs](https://www.census.gov/data/developers/data-sets.html): Catalog of Census Bureau APIs including ACS and other public datasets
+- [Census TIGERweb GeoServices REST API](https://www.census.gov/data/developers/data-sets/TIGERweb-map-service.html): GeoServices REST API for TIGER geographic data and GIS mapping services
 
-## API Resources and Developer Tools
+## Documentation & Guidelines
 
-- [App Gallery](https://www.census.gov/data/developers/app-gallery.html): Showcase of Census Bureau API apps from official & developer community
-- [Business Dynamics Statistics (BDS) Time Series (1978 – 2023)](https://www.census.gov/data/developers/data-sets/business-dynamics.html): BDS API reference: business statistics & job creation data 1978-2023
+- [Citing our Data, Tools, Technical Documents and Research](https://www.census.gov/about/policies/citation.html): Guidelines for citing Census Bureau data and research in various formats
 
-## API Updates and Announcements
+## Support & Contact
 
-- [New via API: Population Estimates and Projections Plus Economic Data](https://www.census.gov/data/developers/updates/population-estimates-projections-econ-business-patterns.html): Census Bureau API adds 2013 population estimates & 2012 economic datasets
-- [Now available: 2008-2012 ACS 5 Year Summary Files and Data Profiles](https://www.census.gov/data/developers/updates/acs-5-yr-summary-available-2008-2012.html): ACS 5-year 2008-2012 summary files & data profiles now in API
-
-## Support and Policies
-
-- [Census Careers](https://www.census.gov/about/census-careers.html): Job opportunities at Census Bureau headquarters & regional offices
-- [FOIA Library](https://www.census.gov/about/policies/foia/foia_library.html): Freedom of Information Act requests, policies & public records access
-- [Census Bureau: Scheduled Down time](https://www.census.gov/main/www/downtime.html): System maintenance schedule & website availability status
+- [Contact Us](https://www.census.gov/about/contact-us.html): Contact info for Census Bureau: phone 1-800-923-8282, regional offices
+- [Resources and FAQs](https://www.census.gov/about/census-careers/resources.html): Job application FAQs and resources for Census Bureau careers via USAJOBS
 
 ## Optional
 
-- [Statistical Quality Standards](https://www.census.gov/about/policies/quality/standards.html): OMB statistical quality standards & Information Quality Guidelines
-- [E-Gov Content Inventory](https://www.census.gov/about/policies/section207.html): E-Government Act Section 207 content inventory & dissemination categories
-- [Announcement of NAC Vice Chair](https://www.census.gov/about/cac/updates/2015-01-14.html): Carol Gore appointed NAC vice chair at National Advisory Committee
+- [Correction Procedures](https://www.census.gov/about/policies/quality/corrections.html): Data correction procedures per OMB Information Quality Guidelines
+- [National Advisory Committee (NAC)](https://www.census.gov/about/cac/nac.html): Archived NAC committee that advised Census on reaching diverse populations

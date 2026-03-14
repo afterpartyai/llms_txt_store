@@ -1,0 +1,44 @@
+# Appian Documentation
+
+> > Official documentation for Appian's low-code automation platform, covering Process HQ, Data Fabric, SAIL interfaces, process modeling, cloud administration, and enterprise integrations.
+
+Comprehensive technical documentation for Appian Designer, Appian Cloud, and Appian Government Cloud environments. Includes guides for business users, developers, and administrators across data management, workflow automation, network configuration, and success plan offerings.
+
+## Key Topics
+
+- Appian Designer
+- Process HQ
+- Data Catalog
+- Data Fabric
+- SAIL Components
+- Process Modeler
+- Appian Cloud
+- Smart Services
+- IPSec VPN
+- Border Gateway Protocol (BGP)
+- Salesforce Integration
+- Success Plans (Foundation, Professional, Signature)
+- Workflow Automation
+- Data Fabric Report Creators
+- Cloud Administration
+
+## Data Management & Analytics
+
+- [Data Catalog Page [Process HQ]](https://docs.appian.com/suite/help/24.2/data-catalog-page.html): Process HQ Data Catalog for dataset discovery and report building
+
+## Process Modeling & Workflow
+
+- [AND Gateway](https://docs.appian.com/suite/help/24.3/AND_Node.html): AND Gateway node for parallel execution in Process Modeler workflows
+
+## SAIL Interface Components
+
+- [User and Group Browser Component (a!userAndGroupBrowserFieldColumns)](https://docs.appian.com/suite/help/24.2/User_and_Group_Browser_Components.html): a!userAndGroupBrowserFieldColumns component for user/group navigation
+- [Add Multiple Validation Rules to One Component](https://docs.appian.com/suite/help/24.3/recipe-add-multiple-validation-rules-to-one-component.html): SAIL interface pattern for applying multiple validation rules to components
+
+## Cloud Administration & Networking
+
+- [Dynamic VPN Routing [Appian Cloud Administration]](https://docs.appian.com/suite/help/24.3/Dynamic_VPN_Routing.html): Appian Cloud VPN configuration with BGP peering and high availability
+
+## Deprecated Features
+
+- [Move Community Smart Service [Deprecated]](https://docs.appian.com/suite/help/25.1/Move_Community_Smart_Service.html): Deprecated smart service for moving communities to Portal Pages/Sites

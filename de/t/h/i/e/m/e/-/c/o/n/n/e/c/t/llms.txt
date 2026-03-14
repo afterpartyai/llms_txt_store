@@ -1,0 +1,22 @@
+# Thieme-Connect
+
+> > Thieme-Connect is a digital publishing platform providing access to medical and scientific content with OAI-PMH metadata harvesting capabilities.
+
+Thieme-Connect serves as the online portal for Thieme's medical and scientific publications, offering standardized metadata access through the Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH). This enables libraries, repositories, and research institutions to programmatically harvest and integrate Thieme's scholarly content metadata into their systems.
+
+## Key Topics
+
+- OAI-PMH (Open Archives Initiative Protocol for Metadata Harvesting)
+- Metadata harvesting
+- OAI provider
+- API endpoints
+- Thieme-Connect platform
+- Digital publishing
+- Medical and scientific content
+- Scholarly metadata
+- Repository integration
+- Library systems
+
+## API & Integration
+
+- [OAI Provider](https://www.thieme-connect.de/oai/): OAI-PMH metadata harvesting API endpoint for Thieme-Connect content

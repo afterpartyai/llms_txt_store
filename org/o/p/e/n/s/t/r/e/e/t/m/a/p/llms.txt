@@ -1,0 +1,26 @@
+# OpenStreetMap
+
+> > OpenStreetMap is a collaborative project to create a free, editable map of the world, providing open geographic data and database exports under open licenses.
+
+OpenStreetMap (OSM) offers the complete planet database as downloadable exports in XML and PBF formats, updated weekly. The data is licensed under the Open Database License (ODbL) and can be processed using tools like Osmosis, Osm2pgsql, and PostGIS for various mapping applications.
+
+## Key Topics
+
+- OpenStreetMap
+- Planet OSM
+- PBF format
+- XML format
+- Open Database License (ODbL)
+- Creative Commons Attribution-ShareAlike
+- Database exports
+- Changesets
+- Osmosis
+- Osm2pgsql
+- PostGIS
+- GeoFabrik
+- Weekly data updates
+- Data extracts
+
+## Database Exports
+
+- [Planet OSM](https://planet.openstreetmap.org/): Full OpenStreetMap database exports in XML/PBF format with weekly updates

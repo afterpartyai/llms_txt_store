@@ -1,0 +1,56 @@
+# CocoonTech
+
+> > A community-driven home automation forum featuring HomeSeer scripts, hardware integration, and DIY smart home solutions.
+
+CocoonTech is a long-standing home automation community focused on open-source solutions, custom scripting, and hardware platforms like Raspberry Pi, ESP32, and Arduino. The site features technical discussions, script repositories, product reviews, and tutorials for DIY smart home enthusiasts working with protocols like X10, UPB, and ZigBee.
+
+## Key Topics
+
+- HomeSeer automation platform
+- Raspberry Pi & single-board computers
+- X10 and UPB protocols
+- Custom automation scripts
+- ESP32 and Arduino microcontrollers
+- ELK M1 Gold security system
+- ZigBee wireless technology
+- Virtual device integration
+- DIY security systems
+- Media Center extenders
+- Dynamic DNS configuration
+- Home theater automation
+- Community contributors (electron, BraveSirRobbin, AutomatedOutlet)
+
+## Hardware & Single-Board Computers
+
+- [Hardware](https://cocoontech.com/forum/home-automation-hardware): Forum for ESP32, Arduino, Raspberry Pi & microcontroller hardware
+- [Single-Board Computers](https://cocoontech.com/forum/single-board-computers): Forum for Raspberry Pi, Banana Pi, Odroid & other SBC discussions
+
+## HomeSeer Scripts & Plugins
+
+- [Super Trigger 1.0](https://cocoontech.com/threads/super-trigger-1-0.9): HomeSeer plugin by electron for regex-based event automation triggers
+- [Mosquito Activity 0.9](https://cocoontech.com/threads/mosquito-activity-0-9.14): HomeSeer script to monitor mosquito activity using skeeterbites.com data
+- [Package Tracker 0.9 (beta)](https://cocoontech.com/threads/package-tracker-0-9-beta.121): Beta script for tracking FedEx, UPS, DHL & Airborne Express packages
+- [MSN Traffic Reporter 0.9](https://cocoontech.com/threads/msn-traffic-reporter-0-9.15): HomeSeer script by electron to publish MSN traffic alerts via virtual device
+- [Blockbuster 1.1](https://cocoontech.com/threads/blockbuster-1-1.11): HomeSeer script to fetch latest Blockbuster video releases
+
+## Tutorials & How-To Guides
+
+- [[How-To] Configuring no-ip.com](https://cocoontech.com/threads/how-to-configuring-no-ip-com.83): Tutorial by BraveSirRobbin on setting up No-IP dynamic DNS service
+- [Motion Sensors/Security Systems](https://cocoontech.com/threads/motion-sensors-security-systems.8): DIY security system discussion using Ocelot & SECU16I modules
+
+## Product Reviews & Resources
+
+- [Review - ELK M1 Gold](https://cocoontech.com/resources/elk-m1-gold.11): Product review of ELK M1 Gold security panel specs & features
+
+## Community & Industry News
+
+- [ZigBee to be key player in home automation market](https://cocoontech.com/threads/zigbee-to-be-key-player-in-home-automation-market.127): WTRS market research on ZigBee wireless tech for home automation
+- [Interview with Michael Dell](https://cocoontech.com/threads/interview-with-michael-dell.150): PC Magazine interview with Dell CEO on Media Center & product expansion
+- [Just announced: Windows Media Center Extender](https://cocoontech.com/threads/just-announced-windows-media-center-extender.68): Microsoft announces Media Center Extender device for MCE systems
+- [More home theaters](https://cocoontech.com/threads/more-home-theaters.164): Article on DIY home theater installation with market statistics
+
+## Optional
+
+- [Please allow me to introduce myself...](https://cocoontech.com/threads/please-allow-me-to-introduce-myself.197): Dean Roddey introduces Charmed Quark home automation control software
+- [who is AutomatedOutlet](https://cocoontech.com/threads/who-is-automatedoutlet.62): Member introduction from AutomatedOutlet on HomeSeer & X10 setup
+- [Crown Microphones](https://cocoontech.com/threads/crown-microphones.170): Discussion on Crown in-wall microphones pricing & recommendations

@@ -1,0 +1,58 @@
+# NeetCode
+
+> > A comprehensive platform for coding interview preparation featuring LeetCode problems, algorithm tutorials, and company-specific interview questions.
+
+NeetCode provides structured problem sets across data structures and algorithms, with solutions optimized for technical interviews at top companies like Google, Amazon, Meta, Microsoft, and Bloomberg. The platform offers both free problems and premium NeetCode Pro content with detailed explanations covering dynamic programming, graph theory, tree traversals, and other essential coding patterns.
+
+## Key Topics
+
+- Dynamic Programming
+- Depth-First Search (DFS)
+- Breadth-First Search (BFS)
+- Hash Table
+- Graph Theory
+- Binary Search
+- Heap & Priority Queue
+- Array Problems
+- Greedy Algorithms
+- Memoization
+- Topological Sort
+- Tree Traversal
+- Union Find
+- Algorithm Optimization
+- LeetCode Problems
+
+## Core Problem Collections
+
+- [Best Time to Buy and Sell Stock](https://neetcode.io/problems/buy-and-sell-crypto/question): LeetCode 121: Classic stock trading DP problem (Google, Meta, Amazon)
+- [Median of Two Sorted Arrays](https://neetcode.io/problems/median-of-two-sorted-arrays/question): LeetCode 4: Hard binary search for O(log(m+n)) median finding
+- [Binary Tree Maximum Path Sum](https://neetcode.io/problems/binary-tree-maximum-path-sum/question): LeetCode 124: Hard DFS problem on binary trees with path sum optimization
+- [Alien Dictionary](https://neetcode.io/problems/foreign-dictionary/question): LeetCode 269: Topological sort with DFS for character ordering
+
+## Company-Specific Interview Prep
+
+- [Oracle Interview Questions](https://neetcode.io/practice/company/oracle): Oracle-specific coding interview prep with company-tagged problems
+
+## Dynamic Programming Problems
+
+- [House Robber](https://neetcode.io/problems/house-robber/question): LeetCode 198: Dynamic programming problem with array & memoization hints
+
+## Graph & Search Algorithms
+
+- [Bus Routes](https://neetcode.io/problems/bus-routes/question): LeetCode 815: BFS graph traversal for shortest path in bus network
+- [Number of Provinces](https://neetcode.io/problems/number-of-provinces/question): LeetCode 547: Graph connectivity with DFS/BFS/Union Find algorithms
+
+## Data Structure Design
+
+- [Design Circular Queue](https://neetcode.io/problems/design-circular-queue/question): LeetCode 622: FIFO ring buffer implementation with array/linked list
+- [Last Stone Weight](https://neetcode.io/problems/last-stone-weight/question): LeetCode 1046: Max-Heap priority queue simulation problem
+
+## String & Array Manipulation
+
+- [Text Justification](https://neetcode.io/problems/text-justification/question): LeetCode 68: String formatting with greedy algorithm & simulation
+- [Isomorphic Strings](https://neetcode.io/problems/isomorphic-strings/question): LeetCode 205: String character mapping validation with hash table
+- [Number of Good Pairs](https://neetcode.io/problems/number-of-good-pairs/question): LeetCode 1512: Array counting problem using hash table techniques
+
+## Optional
+
+- [Maximum Product Difference Between Two Pairs](https://neetcode.io/problems/maximum-product-difference-between-two-pairs/question): LeetCode 1913: Array sorting/math problem for max product difference

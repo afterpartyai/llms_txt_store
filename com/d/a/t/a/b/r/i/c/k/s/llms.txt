@@ -1,0 +1,63 @@
+# Databricks
+
+> > Databricks provides the Data Intelligence Platform unifying data engineering, analytics, and AI with Unity Catalog, Delta Lake, Apache Spark, and generative AI capabilities.
+
+Databricks offers a comprehensive platform for data and AI workloads, featuring Unity Catalog for governance, Delta Lake for lakehouse storage, AI/BI tools like Genie for conversational analytics, and enterprise integrations with SAP, AWS, and other cloud providers. The platform supports data engineering with Delta Live Tables, machine learning workflows, and AI agent development through Agent Bricks.
+
+## Key Topics
+
+- Data Intelligence Platform
+- Unity Catalog (unified governance)
+- Delta Lake (lakehouse storage)
+- Apache Spark (data processing)
+- Genie (conversational analytics)
+- Agent Bricks (AI agent governance)
+- Delta Live Tables (declarative ETL)
+- Databricks Apps (custom applications)
+- Clean Rooms (secure data sharing)
+- Apache Iceberg (table format)
+- Business Intelligence and AI/BI
+- Data governance and quality
+- Machine learning and LLMs
+- Databricks Labs (open-source projects)
+- Multi-cloud support (AWS, Azure, GCP)
+
+## Core Platform & Governance
+
+- [Unity Catalog | Databricks](https://www.databricks.com/product/unity-catalog): Unified governance solution for all data and AI assets
+- [Lakehouse Storage | Databricks](https://www.databricks.com/kr/product/lakehouse-storage): Lakehouse storage with Delta Lake and Apache Iceberg support
+- [Databricks Clean Rooms: Privacy and Collaboration | Databricks](https://www.databricks.com/br/product/collaboration/clean-rooms): Clean Rooms for secure multi-party data sharing with Delta Sharing
+- [SAP Databricks | Databricks](https://www.databricks.com/product/sap): SAP integration with Databricks for enterprise AI and analytics
+
+## AI & Analytics Tools
+
+- [Agent Bricks | Databricks](https://www.databricks.com/es/product/artificial-intelligence/agent-bricks): Unified control plane for AI agent governance and observability
+- [GenAI-Powered Business Intelligence | Databricks](https://www.databricks.com/product/business-intelligence/genie): Genie: conversational analytics with natural language queries
+- [AI-Powered Dashboards and Apps Access | Databricks](https://www.databricks.com/de/product/business-intelligence/databricks-one): Central hub for AI/BI Dashboards, Genie, and Databricks Apps
+- [Databricks Apps | Databricks](https://www.databricks.com/it/product/databricks-apps): Build and deploy custom Python data apps on Data Intelligence Platform
+
+## Data Engineering
+
+- [Spark Declarative Pipelines | Databricks](https://www.databricks.com/jp/product/data-engineering/dlt): Declarative ETL pipelines with batch and streaming data processing
+
+## Industry Solutions
+
+- [Data Intelligence for Marketing | Databricks](https://www.databricks.com/solutions/industries/marketing): Data Intelligence Platform for marketing optimization and personalization
+- [Technology Solutions | Databricks](https://www.databricks.com/de/solutions/industries/tech): Data Intelligence Platform solutions for technology industry
+
+## Learning & Resources
+
+- [Databricks Labs Projects | Databricks](https://www.databricks.com/es/learn/labs): Open-source projects from Databricks Labs for faster production deployment
+- [Databricks Labs Projects | Databricks](https://www.databricks.com/kr/learn/labs): Databricks Labs open-source tools including DQX, Kasal, and Mosaic
+- [Free Edition | Replaces Databricks Community Edition](https://www.databricks.com/it/learn/free-edition): Free Edition replacing Community Edition for learning data and AI
+- [Data Governance vs. Data Management: Explained | Databricks](https://www.databricks.com/de/discover/data-governance/vs-management): Guide explaining differences between data governance and data management
+- [Data Warehousing Concepts: Common Processes | Databricks](https://www.databricks.com/br/discover/data-warehousing-concepts): Data warehousing concepts and processes for business intelligence
+- [Secure Your Data Intelligence Platform with Best Practices | Databricks](https://www.databricks.com/es/trust/security-features/best-practices): Security best practices for Data Intelligence Platform across AWS/Azure/GCP
+
+## Customer Stories
+
+- [PicPay banks on data + AI | Databricks](https://www.databricks.com/your-ai/customers/picpay): PicPay customer story: fraud detection and personalization for 30M users
+
+## Optional
+
+- [Start Your Free Trial on AWS Marketplace | Databricks](https://www.databricks.com/it/try-databricks-marketplace/aws-thank-you): AWS Marketplace trial confirmation and onboarding page

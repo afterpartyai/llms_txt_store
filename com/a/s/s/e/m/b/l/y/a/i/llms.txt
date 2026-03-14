@@ -1,0 +1,58 @@
+# AssemblyAI
+
+> > AssemblyAI provides Speech AI APIs and models for transcription, audio intelligence, and voice-powered applications.
+
+AssemblyAI offers enterprise-grade Speech-to-Text, real-time streaming transcription, and audio understanding capabilities through its Universal models and LeMUR framework. The platform serves developers building Voice AI applications across healthcare, customer analytics, and enterprise conversation intelligence.
+
+## Key Topics
+
+- Speech-to-Text API
+- Universal-1 and Universal-2 Models
+- Real-time Streaming Transcription
+- LeMUR (Large Language Model Framework)
+- Voice AI and Speech AI
+- Automatic Speech Recognition (ASR)
+- Speaker Diarization
+- Audio Intelligence
+- LLM Gateway
+- Speech Understanding
+- Medical Transcription
+- Conversation Intelligence
+- Audio Transcription
+- Generative AI with Audio
+- Python and Go SDKs
+
+## Core Products & APIs
+
+- [Universal-Streaming | Real-Time Speech-to-Text API](https://www.assemblyai.com/universal-streaming): Real-time speech-to-text API for voice agents with intelligent endpointing
+- [Introducing new products and model updates to help you build, deploy, and scale Voice AI applications](https://www.assemblyai.com/blog/introducing-new-products-and-model-updates): Product launch: Speech Understanding, LLM Gateway, and model improvements
+- [Newsletter #30: 🚀Universal-1 Model Launch](https://www.assemblyai.com/blog/assemblyai-newsletter-30): Universal-1 model launch: multilingual speech-to-text on 12.5M hours data
+- [🎉 Announcing our $50M Series C to build superhuman Speech AI models](https://www.assemblyai.com/blog/assemblyai-newsletter-14): Series C funding announcement and expanded docs for Speech AI models
+
+## Developer Guides & Tutorials
+
+- [Real-time speech recognition with Python](https://www.assemblyai.com/blog/real-time-speech-recognition-with-python): Python tutorial for streaming speech-to-text with AssemblyAI SDK
+- [Building Ambient AI Scribes: Your guide to evaluating Voice AI for healthcare](https://www.assemblyai.com/ambient-ai-scribes-guide): Healthcare Voice AI evaluation guide for ambient clinical documentation
+- [AI-powered call analytics: How to extract insights from customer conversations](https://www.assemblyai.com/blog/ai-powered-call-analytics-how-to-extract-insights-customer-conversations): Build call analytics tools with Voice AI for customer conversation insights
+- [Speech-to-Text AI for product managers: How it works and key considerations](https://www.assemblyai.com/blog/how-speech-to-text-ai-works-and-what-to-consider): Product manager guide to ASR technology and implementation considerations
+- [Medical terminology accuracy: Techniques for domain-specific transcription](https://www.assemblyai.com/blog/medical-transcription-accuracy): Medical transcription accuracy techniques using WER/CER metrics
+
+## Enterprise & Use Cases
+
+- [Enterprise conversation intelligence: The power of superior speech AI](https://www.assemblyai.com/blog/enterprise-conversation-intelligence): Enterprise conversation intelligence with Universal-2 Speech AI platform
+- [Business use cases for Generative AI](https://www.assemblyai.com/blog/business-use-cases-generative-ai): Guide to LLM applications and enterprise generative AI use cases
+- [7 LLM use cases and applications in 2026](https://www.assemblyai.com/blog/llm-use-cases): Top LLM applications for business automation and content generation
+
+## Integrations & Updates
+
+- [Introducing the AssemblyAI integration for Langflow](https://www.assemblyai.com/blog/introducing-langflow-integration): Langflow integration for low-code generative AI app development
+- [Use Claude 3.5 Sonnet With Audio Data & Latest Speech-to-Text Tutorials](https://www.assemblyai.com/blog/assemblyai-newsletter-44): Newsletter: Claude 3 models in LeMUR and speech-to-text tutorials
+- [Speech AI apps: 8 new Speech AI tools, releases, updates, and more](https://www.assemblyai.com/blog/speech-ai-apps-news): Roundup of new Speech AI tools and product releases from industry
+
+## AI Research & Deep Learning
+
+- [Reinforcement Learning With (Deep) Q-Learning Explained](https://www.assemblyai.com/blog/reinforcement-learning-with-deep-q-learning-explained): Tutorial on Reinforcement Learning and Deep Q-Learning concepts
+- [Deep Learning Paper Recap - Transfer Learning](https://www.assemblyai.com/blog/deep-learning-paper-recap-transfer-learning): Paper review: Transfer learning for multispeaker text-to-speech synthesis
+- [Deep Learning Paper Recap - Language Models](https://www.assemblyai.com/blog/deep-learning-paper-recap-language-models): Paper recap on sparse pre-trained language model pruning techniques
+- [AI research review - Merging Models Modulo Permutation Symmetries](https://www.assemblyai.com/blog/ai-research-review-merging-models-modulo-permutation-symmetries): Git Re-Basin paper review on neural network model merging techniques
+- [Deep Learning Paper Recap - Redundancy Reduction and Sparse MoEs](https://www.assemblyai.com/blog/deep-learning-paper-recap-redundancy-reduction-and-sparse-moes): Papers on Barlow Twins self-supervised learning and sparse MoE models

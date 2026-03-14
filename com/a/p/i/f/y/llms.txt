@@ -1,0 +1,54 @@
+# Apify
+
+> > Apify is a web scraping and automation platform for building, deploying, and integrating Actors—serverless cloud programs for data extraction, AI agents, and API integrations.
+
+Apify provides a marketplace of ready-made Actors for scraping popular platforms like LinkedIn, Google Places, Reddit, and Temu, along with SDKs in Python and JavaScript. The platform supports AI agent frameworks (LangChain, LlamaIndex), MCP integrations, and developer tools including CLI and ApifyClient for building custom automation workflows.
+
+## Key Topics
+
+- Actors (serverless cloud programs)
+- Web scraping and data extraction
+- API integration
+- Python and JavaScript SDKs
+- ApifyClient
+- MCP (Model Context Protocol)
+- AI agents (LangChain, LlamaIndex)
+- LinkedIn scraping
+- Google Places and Maps APIs
+- Automation and batch processing
+- Developer tools and CLI
+- Actor builds and memory allocation
+- HTTP and cURL integration
+- Social media scraping (Twitter, Reddit, YouTube)
+
+## Platform APIs and Integrations
+
+- [LinkedIn search API](https://apify.com/api/linkedin-search-api): LinkedIn search API for profiles, jobs, companies, and email validation
+- [Google Places API](https://apify.com/api/google-places-api): Google Places API for business data: names, addresses, ratings, hours
+- [Temu API](https://apify.com/api/temu-api): Temu API for product data: prices, ratings, reviews, sales counts
+
+## Python Client Documentation
+
+- [Reddit API Python Client](https://apify.com/api/reddit-api/python): Python client for Reddit API: posts, comments, votes, user data extraction
+- [job scraping API Python Client](https://apify.com/api/job-scraping-api/python): Python client for job scraping API with LinkedIn integration examples
+- [Google Vision API Python Client](https://apify.com/api/google-vision-api/python): Python client for Google Vision API image scraping and data extraction
+
+## Platform Updates
+
+- [Changelog](https://apify.com/change-log): Latest Apify releases, fixes, and features including MCP & OAuth updates
+- [New AI Agent Templates & Airtable Integration Now Available on Apify](https://apify.com/change-log/new-templates-and-integrations): AI agent templates (Bee, LangChain, CrewAI) and Airtable integration
+- [The Apify $1M Challenge](https://apify.com/challenge): $1M developer competition results for building Actors on Apify platform
+
+## Optional
+
+- [The Output tab is finally here!](https://apify.com/change-log/output-tab-finally-here): New Output tab for convenient Actor run results preview and validation
+- [Show what you bring to the table! Dev profiles & featured Actors](https://apify.com/change-log/dev-profiles-and-featured-actors): Apify Store updates: developer profiles and featured Actor collections
+- [Improvements to actors all over the board](https://apify.com/change-log/improvements-to-actors-all-over-the-board): Multiple Actor improvements: storages, UI shortcuts, status messages
+- [Actor builds now use 2 GB of memory](https://apify.com/change-log/actor-builds-2gb-memory): Actor builds doubled to 2GB memory with improved Docker resources
+- [Excel MCP Server](https://apify.com/ideas/excel-mcp-server-e82d77af): MCP server for AI assistants to interact with Excel files securely
+- [Google ads mcp](https://apify.com/ideas/google-ads-mcp-8a4890ec): Google Ads MCP integration for AI-driven campaign management
+- [Flight rider API](https://apify.com/ideas/flight-rider-api-b8b20c6f): Flight price tracking and comparison API across travel platforms
+- [AWS Integration](https://apify.com/ideas/aws-integration): AWS cloud platform integration for service and API communication
+- [Google Maps Location Sharing](https://apify.com/ideas/google-maps-location-sharing): Google Maps location API for geo-fencing and vehicle tracking
+- [AI pixel art generator](https://apify.com/ideas/ai-pixel-art-generator-41490cdc): AI-powered retro pixel art generator for game developers and artists
+- [AI movie poster generator](https://apify.com/ideas/ai-movie-poster-generator-fe14b9f5): AI-powered movie poster generation for filmmakers and creatives

@@ -1,0 +1,25 @@
+# NIMH MonkeyLogic
+
+> > NIMH MonkeyLogic is a MATLAB-based software toolkit developed by the National Institute of Mental Health for behavioral control and data acquisition in neuroscience research.
+
+MonkeyLogic provides researchers with tools for designing and running behavioral experiments, particularly for primate neuroscience studies. The platform requires MATLAB and various system dependencies including Visual C++ redistributables and DirectX runtime components for Windows-based experimental setups.
+
+## Key Topics
+
+- NIMH MonkeyLogic
+- MATLAB
+- Behavioral control software
+- Neuroscience research
+- System requirements
+- Windows installation
+- Visual C++ Redistributable
+- DirectX runtime
+- InpOutx64
+- Software dependencies
+- Getting started
+- Installation setup
+- Data acquisition
+
+## Getting Started
+
+- [NIMH ML: Docs](https://monkeylogic.nimh.nih.gov/docs_GettingStarted.html): Getting started guide for NIMH MonkeyLogic installation and setup

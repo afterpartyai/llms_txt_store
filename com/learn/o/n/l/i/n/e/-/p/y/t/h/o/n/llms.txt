@@ -1,0 +1,61 @@
+# Online-Python Learning Platform
+
+> > Comprehensive Python programming tutorials covering core language features, NumPy array operations, and pandas DataFrame manipulation for data analysis.
+
+Learn Online-Python provides interactive tutorials and guides for Python developers at all levels. The platform focuses on practical programming skills including data structures, scientific computing with NumPy, data analysis with pandas, and essential Python how-to guides with an integrated IDE for hands-on learning.
+
+## Key Topics
+
+- Python
+- NumPy
+- pandas
+- DataFrame
+- data-cleaning
+- dictionary-operations
+- data-structures
+- python-basics
+- logging module
+- NaN handling
+- pip
+- Anaconda
+- python-tuples
+- error-handling
+- debugging
+
+## Getting Started
+
+- [About Online-Python Learning Platform](https://learn.online-python.com/about): About Online-Python interactive learning platform with tutorials and IDE
+- [Installing NumPy](https://learn.online-python.com/numpy/installing-numpy): NumPy installation guide using pip and Anaconda for Python setup
+
+## Python Core Concepts
+
+- [Python Reserved Words](https://learn.online-python.com/python/reserved-words): Python keywords and reserved words language reference
+- [Loop Control Statements](https://learn.online-python.com/python/loop-control): Python loop control with break and continue statements tutorial
+- [Creating Python Modules](https://learn.online-python.com/python/creating-modules): Python module creation for code reusability tutorial
+
+## Data Structures
+
+- [Dictionary Operations](https://learn.online-python.com/python/dictionary-operations): Python dictionary methods and operations reference guide
+- [Dictionary Operations How-To](https://learn.online-python.com/python-how-to/dictionary-operations): Python dictionary operations tutorial covering key-value pairs basics
+- [Deleting Dictionary Items](https://learn.online-python.com/python/deleting-dictionary-items): Python dictionary deletion using del and pop() methods tutorial
+- [Creating Tuples](https://learn.online-python.com/python/creating-tuples): Python tuple creation and immutable sequences basics tutorial
+- [Python Tuples](https://learn.online-python.com/python/python-tuples): Python tuples immutable data structures and sequence types tutorial
+- [Set Methods](https://learn.online-python.com/python/set-methods): Python set methods and mathematical operations reference guide
+
+## Python How-To Guides
+
+- [Using Logging](https://learn.online-python.com/python-how-to/use-logging): Python logging module tutorial covering log levels and error handling
+- [Enumerate and Zip Functions](https://learn.online-python.com/python-how-to/enumerate-zip): Python enumerate() and zip() functions for parallel iteration
+- [Unicode and Special Characters](https://learn.online-python.com/python-how-to/unicode-special-chars): Python 3 Unicode and special character encoding tutorial
+
+## NumPy Tutorials
+
+- [Working with NaN Values](https://learn.online-python.com/numpy/working-with-nan-values): NumPy tutorial for handling NaN values and missing data cleaning
+- [Basic Indexing and Slicing](https://learn.online-python.com/numpy/basic-indexing-and-slicing): NumPy array indexing and slicing basics for 2D arrays tutorial
+- [Advanced Topics](https://learn.online-python.com/numpy/advanced-topics): NumPy advanced topics: random data, NaN handling, and optimization
+
+## pandas Data Analysis
+
+- [Concatenating DataFrames](https://learn.online-python.com/pandas/concatenating-dataframes): pandas DataFrame concatenation tutorial for combining data
+- [Boolean and Conditional Selection](https://learn.online-python.com/pandas/boolean-and-conditional-selection): pandas boolean selection and conditional DataFrame filtering tutorial
+- [String Cleaning Operations](https://learn.online-python.com/pandas/string-cleaning-operations): pandas string cleaning and text normalization operations tutorial

@@ -1,59 +1,55 @@
 # Cursor
 
-> > Cursor is an AI-powered code editor with an extensible plugin marketplace supporting MCP (Model Context Protocol) integrations for development workflows.
+> > Cursor is an AI-powered code editor with an extensible plugin marketplace for integrating development tools, testing frameworks, analytics platforms, and MCP servers.
 
-The Cursor Marketplace enables developers to extend their coding environment with plugins for cloud platforms (AWS, Cloudflare, Databricks), authentication (Clerk), databases (Prisma, Redis), AI/ML tools (Hugging Face), security scanning (Snyk), project management (Atlassian, Notion), and specialized development frameworks. Plugins leverage MCP servers to provide seamless integration with external services and automation capabilities.
+Cursor enables developers to enhance their coding workflow through plugins that connect to services like Supabase, Sentry, BrowserStack, and more. The marketplace features both official Cursor plugins and third-party integrations supporting testing automation, error monitoring, content management, and AI-driven development workflows.
 
 ## Key Topics
 
-- Model Context Protocol (MCP)
-- MCP Server Integration
-- Cursor Plugin Development
-- AI-Assisted Coding
+- MCP (Model Context Protocol)
+- Cursor Plugins
+- AI-Powered Code Editor
 - Agent Orchestration
-- Hugging Face Hub
-- Database Development (Prisma, Redis)
-- Cloud Deployment (AWS, Cloudflare)
-- Authentication & Security (Clerk, Snyk)
-- Task Management (Atlassian, Notion)
-- React & Frontend Development
-- Docker & Python Development
-- Playwright Testing
-- Dataset Management & ML Training
+- Cross-Browser Testing
+- Error Monitoring & Debugging
+- Mobile App Testing
+- Database Management
+- Web Scraping & Search
+- Content Management Systems
+- Security Scanning
+- Product Analytics
+- Accessibility Testing
+- Test Automation
+- Developer Tools Integration
 
-## Plugin Development
+## Core Cursor Plugins
 
-- [Create Plugin](https://cursor.com/marketplace/cursor/create-plugin): Plugin scaffolding tool for marketplace submission and validation
+- [Continual Learning](https://cursor.com/marketplace/cursor/continual-learning): Official Cursor plugin for learning user preferences via AGENTS.md
 
-## Cloud & Infrastructure
+## Development & Database Tools
 
-- [AWS](https://cursor.com/marketplace/aws): AWS deployment with IaC, architecture recommendations, and cost estimates
-- [Cloudflare](https://cursor.com/marketplace/cloudflare): Cloudflare Workers, Durable Objects, and Agents SDK development tools
-- [Databricks](https://cursor.com/marketplace/databricks): Databricks CLI, Unity Catalog, and Model Serving integration skills
+- [Supabase](https://cursor.com/marketplace/supabase): Supabase plugin for Postgres database management & project config
+- [Sanity](https://cursor.com/marketplace/sanity): Sanity CMS plugin with GROQ queries & content modeling support
+- [Webflow](https://cursor.com/marketplace/webflow): Webflow plugin for CMS management, accessibility audits & asset optimization
+- [Context7](https://cursor.com/marketplace/upstash): Upstash Context7 MCP server for version-specific documentation lookup
 
-## Database & Data Management
+## Testing & Quality Assurance
 
-- [Prisma](https://cursor.com/marketplace/prisma): Official Prisma plugin with MCP server for database development automation
-- [Redis](https://cursor.com/marketplace/redis): Redis development with vector search, caching, and query engine support
+- [BrowserStack](https://cursor.com/marketplace/browserstack): BrowserStack plugin for cross-browser & mobile testing with Appium support
+- [Snyk](https://cursor.com/marketplace/snyk): Snyk plugin for security scanning & vulnerability remediation
 
-## AI & Machine Learning
+## Monitoring & Analytics
 
-- [Hugging Face](https://cursor.com/marketplace/huggingface): Hugging Face Hub integration for AI/ML tasks, datasets, and model training
+- [Sentry](https://cursor.com/marketplace/sentry): Sentry plugin for error monitoring, debugging & MCP integration
+- [Amplitude](https://cursor.com/marketplace/amplitude): Amplitude plugin for product analytics, dashboards & A/B testing
 
-## Security & Authentication
+## Data & Research Tools
 
-- [Clerk](https://cursor.com/marketplace/clerk): Clerk authentication toolkit with Next.js integration and MCP server
-- [Snyk](https://cursor.com/marketplace/snyk): Snyk security scanning and vulnerability remediation for dependencies
-- [Runlayer](https://cursor.com/marketplace/runlayer): MCP orchestration with security policies, secrets management, and audit logs
+- [Firecrawl](https://cursor.com/marketplace/firecrawl): Firecrawl plugin for AI-powered web scraping, crawling & search
+- [Parallel](https://cursor.com/marketplace/parallel): Parallel plugin for web search, research & data enrichment via parallel-cli
 
-## Productivity & Collaboration
+## Optional Integrations
 
-- [Atlassian](https://cursor.com/marketplace/atlassian): Jira and Confluence integration with MCP for task and backlog management
-- [Notion](https://cursor.com/marketplace/notion): Notion Skills and MCP server for database and task management integration
-- [Compound Engineering](https://cursor.com/marketplace/every): 29 agents for code review, research, design, and workflow automation
-
-## Monitoring & Specialized Tools
-
-- [Datadog](https://cursor.com/marketplace/datadog): Datadog MCP server for querying logs, metrics, traces, and dashboards
-- [Meta Reality Labs](https://cursor.com/marketplace/meta-reality-labs): Meta Quest and Horizon OS development with Unity and Spatial SDK support
-- [Phantom Connect](https://cursor.com/marketplace/phantom): Phantom wallet integration for multi-chain crypto operations and signing
+- [JFrog](https://cursor.com/marketplace/jfrog): JFrog Platform plugin for Artifactory & supply-chain security
+- [Meta Reality Labs](https://cursor.com/marketplace/meta-reality-labs): Meta Quest & Horizon OS development plugin with Unity & WebXR support
+- [eToro](https://cursor.com/marketplace/etoro): eToro API plugin for trading, market data & portfolio management

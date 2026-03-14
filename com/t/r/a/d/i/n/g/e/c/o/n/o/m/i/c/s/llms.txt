@@ -1,53 +1,58 @@
 # Trading Economics
 
-> > Global economic data platform providing real-time quotes, historical data, and forecasts for government bonds, currencies, commodities, and stock markets across 196+ countries.
+> > Trading Economics provides comprehensive economic data, market indicators, and forecasts covering stock indices, government bonds, commodities, currencies, and energy markets worldwide.
 
-Trading Economics delivers comprehensive financial market data including bond yields (10-year, 52-week bills), forex rates (USD, EUR, GBP, JPY, and 20+ currencies), commodity prices, and equity indices. The platform serves investors, analysts, and researchers with charts, forecasts, and historical tracking for fixed income securities, currency exchange rates, and economic indicators.
+The platform offers real-time quotes, historical charts, and analytical data for global financial markets, including specialized coverage of natural gas infrastructure, agricultural commodities, and emerging market securities. Data spans major economies and currencies (USD, EUR, GBP, JPY, CNY, AUD) with particular focus on geopolitical impacts from regions like the Strait of Hormuz, Iran, Russia, and Ukraine.
 
 ## Key Topics
 
-- Government bonds and bond yields
-- Fixed income securities (bills, notes, treasuries)
-- Currency exchange rates and forex data
-- Commodity prices and trading
-- Stock market indices
-- 10-year bond benchmarks
-- Treasury bill yields (52-week, 6-month, 3-month)
-- Major currencies: USD, EUR, GBP, JPY, CHF, CAD, AUD
-- Emerging market currencies: CNY, INR, BRL, RUB, MXN, KRW
-- Historical data and price charts
-- Market forecasts and economic indicators
-- Electricity and energy prices
-- CFD trading data
-
-## Government Bonds & Fixed Income
-
-- [United States 52 Week Bill Yield](https://tradingeconomics.com/united-states/52-week-bill-yield): US 52-week Treasury bill yield with historical data & forecasts
-- [United Kingdom 52 Week Bill Yield](https://tradingeconomics.com/united-kingdom/52-week-bill-yield): UK 52-week Treasury bill yield with historical data & interest rates
-- [Mexico 10-Year Government Bond Yield](https://tradingeconomics.com/mexico/government-bond-yield): Mexico 10Y bond yield data with quotes, charts & historical tracking
-- [Canada 10-Year Government Bond Yield](https://tradingeconomics.com/canada/government-bond-yield): Canada 10Y bond yield with Bank of Canada monetary policy data
-- [Chile 10-Year Government Bond Yield](https://tradingeconomics.com/chile/government-bond-yield): Chile 10Y government bond yield with fixed income market tracking
-- [India 7 Year Note Yield](https://tradingeconomics.com/india/7-year-note-yield): India 7Y government bond yield tracking with forecasts & history
-- [Italy 3 Month Bill Yield](https://tradingeconomics.com/italy/3-month-bill-yield): Italy 3-month government bond yield with historical charts & data
-- [Portugal 6 Month Bill Yield](https://tradingeconomics.com/portugal/6-month-bill-yield): Portugal 6-month bill yield with interbank quotes & historical data
-- [Spain 50 Year Bond Yield](https://tradingeconomics.com/spain/50-year-bond-yield): Spain 50Y government bond yield with long-term historical tracking
-
-## Currency Exchange Rates & Forex
-
-- [Nigerian Naira](https://tradingeconomics.com/nigeria/currency): Nigerian Naira (NGN) exchange rates vs USD, EUR, GBP with forecasts
-- [Lao Kip](https://tradingeconomics.com/laos/currency): Lao Kip (LAK) forex rates vs USD, EUR, GBP with historical quotes
-- [Seychelles Rupee](https://tradingeconomics.com/seychelles/currency): Seychelles Rupee (SCR) forex rates vs USD, EUR, GBP with forecasts
-- [North Korea Currency](https://tradingeconomics.com/north-korea/currency): North Korea Won (KPW) exchange rate vs USD with forex data
+- Stock market indices and equity data
+- Government bond yields (10-year benchmarks)
+- Commodity prices (energy, agriculture, freight)
+- Currency exchange rates and forex
+- Natural gas storage and inventory (TWh, GWh/d)
+- Historical market data and forecasts
+- European Central Bank (ECB) policy
+- Geopolitical risk factors (Iran, Russia, Ukraine, Strait of Hormuz)
+- Energy market infrastructure
+- Emerging market securities
+- Credit ratings (Fitch, Moody's)
+- Agricultural commodity trading
+- Shipping and freight indices
+- Gas Infrastructure Europe data
+- Market volatility and crisis impacts
 
 ## Stock Market Indices
 
-- [Colombia Stock Market (IGBC)](https://tradingeconomics.com/colombia/stock-market): Colombia COLCAP/IGBC stock index with CFD quotes & market data
-- [Vietnam Ho Chi Minh Stock Index](https://tradingeconomics.com/vietnam/stock-market): Vietnam VN Index (Ho Chi Minh) with HNX & historical market data
-- [South Africa Stock Market (SAALL)](https://tradingeconomics.com/south-africa/stock-market): South Africa SAALL/JSE All Shares Index with market components
-- [Warsaw Stock Exchange WIG Index](https://tradingeconomics.com/poland/stock-market): Poland WIG Index from Warsaw Stock Exchange with historical data
+- [China Shanghai Composite Stock Market Index](https://tradingeconomics.com/china/stock-market): China Shanghai Composite index quotes, historical data & market analysis
+- [Taiwan Stock Market Index (TWSE)](https://tradingeconomics.com/taiwan/stock-market): Taiwan TWSE/TAIEX stock index quotes with historical market data
+- [Lithuania Stock Market Index (Vilnius)](https://tradingeconomics.com/lithuania/stock-market): Lithuania Vilnius stock index data, quotes, charts & forecasts
+- [Ukraine Stock Market (PFTS)](https://tradingeconomics.com/ukraine/stock-market): Ukraine PFTS stock market index quotes, charts & historical performance
+- [Laos Securities Exchange Composite Index](https://tradingeconomics.com/laos/stock-market): Laos LSX Composite stock index with Southeast Asia market data
 
-## Commodities & Energy Prices
+## Government Bond Markets
 
-- [Naphtha](https://tradingeconomics.com/commodity/naphtha): Naphtha commodity prices (USD/T) with CFD trading data & forecasts
-- [Soda Ash](https://tradingeconomics.com/commodity/soda-ash): Soda Ash commodity prices in CNY/T with CFD trading benchmarks
-- [Italy Electricity Price](https://tradingeconomics.com/italy/electricity-price): Italy electricity spot prices (EUR/MWh) with European market data
+- [France 10-Year Government Bond Yield](https://tradingeconomics.com/france/government-bond-yield): France 10-year government bond yield data with ECB policy context
+- [Spain 10-Year Government Bond Yield](https://tradingeconomics.com/spain/government-bond-yield): Spain 10-year bond yield quotes with historical market data
+- [Russia 10-Year Government Bond Yield](https://tradingeconomics.com/russia/government-bond-yield): Russia 10-year bond yield quotes with historical market trends
+- [Malaysia 10-Year Government Bond Yield](https://tradingeconomics.com/malaysia/government-bond-yield): Malaysia 10-year government bond yield data & forecasts
+- [Peru 10-Year Government Bond Yield](https://tradingeconomics.com/peru/government-bond-yield): Peru 10-year government bond yield with Fitch rating context
+
+## Energy and Natural Gas Markets
+
+- [Gasoline Prices](https://tradingeconomics.com/commodity/gasoline): Gasoline commodity prices in USD/Gal with Middle East crisis impact
+- [Germany Natural Gas THE](https://tradingeconomics.com/commodity/germany-natural-gas-the): German natural gas THE prices in EUR/MWh with market forecasts
+- [Germany Natural Gas Stocks Withdrawal](https://tradingeconomics.com/germany/natural-gas-stocks-withdrawal): Germany natural gas withdrawal rates in GWh/d from storage facilities
+- [Slovakia Natural Gas Stocks Inventory](https://tradingeconomics.com/slovakia/natural-gas-stocks-inventory): Slovakia natural gas storage inventory data in TWh from Gas Infrastructure
+- [Denmark Natural Gas Stocks Inventory](https://tradingeconomics.com/denmark/natural-gas-stocks-inventory): Denmark natural gas inventory levels in TWh from Gas Infrastructure
+
+## Commodity Markets
+
+- [Rapeseed Oil](https://tradingeconomics.com/commodity/rapeseed-oil): Rapeseed oil commodity prices in EUR/T with historical charts & forecasts
+- [Containerized Freight Index](https://tradingeconomics.com/commodity/containerized-freight-index): Containerized freight shipping index prices & historical trading data
+- [Wool Prices](https://tradingeconomics.com/commodity/wool): Wool commodity prices in AUD/100Kg with trading charts & forecasts
+
+## Currency Exchange Rates
+
+- [Vietnamese Dong](https://tradingeconomics.com/vietnam/currency): Vietnamese Dong USD/VND forex rates with exchange rate charts
+- [Nepalese Rupee](https://tradingeconomics.com/nepal/currency): Nepalese Rupee USD/NPR exchange rates with forex historical data

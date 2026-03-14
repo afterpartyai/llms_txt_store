@@ -1,0 +1,58 @@
+# Acciyo
+
+> > Acciyo provides comprehensive VPN guides, tutorials, and security resources for privacy-focused users across multiple platforms and languages.
+
+Acciyo specializes in VPN configuration guides, privacy protection tutorials, and network security documentation covering major providers like NordVPN, ExpressVPN, Mullvad, and Proton VPN. The site offers multilingual content (English, Japanese, Korean, Portuguese, French, German) with detailed setup instructions for Windows, Android, iOS, macOS, and browser-based VPN solutions.
+
+## Key Topics
+
+- VPN Configuration & Setup
+- NordVPN
+- ExpressVPN
+- OpenVPN
+- WireGuard
+- Privacy & Security
+- Split Tunneling
+- VPN Protocols (IKEv2, L2TP/IPsec)
+- Browser Extensions (Microsoft Edge)
+- Android VPN Setup
+- Windows VPN
+- DNS & WebRTC Leak Protection
+- Proxy vs VPN
+- Multi-Platform Guides
+- Network Security
+
+## VPN Setup & Configuration Guides
+
+- [Comment Configurer Openvpn Sur Nimporte Quel Ordinateur Ou Telephone](https://www.acciyo.com/fr/comment-configurer-openvpn-sur-nimporte-quel-ordinateur-ou-telephone): OpenVPN setup guide for computers and phones using .ovpn config files
+- [노트북 VPN 설치 방법: 초보자를 위한 완벽 가이드 (2025년 최신)](https://www.acciyo.com/ko/%eb%85%b8%ed%8a%b8%eb%b6%81-vpn-%ec%84%a4%ec%b9%98-%eb%b0%a9%eb%b2%95-%ec%b4%88%eb%b3%b4%ec%9e%90%eb%a5%bc-%ec%9c%84%ed%95%9c-%ec%99%84%eb%b2%bd-%ea%b0%80%ec%9d%b4%eb%93%9c-2025%eb%85%84-%ec%b5%9c): Laptop VPN installation guide: app setup, manual config, protocols 2025
+- [Como Conectar Uma VPN No Android: Guia Completo Passo A Passo Fácil](https://www.acciyo.com/pt/como-conectar-uma-vpn-no-android-guia-completo-passo-a-passo-facil): Step-by-step guide for connecting VPN on Android via app or native config
+- [VPN接続名とは？設定方法や役割を分かりやすく解説！](https://www.acciyo.com/ja/vpn%e6%8e%a5%e7%b6%9a%e5%90%8d%e3%81%a8%e3%81%af%ef%bc%9f%e8%a8%ad%e5%ae%9a%e6%96%b9%e6%b3%95%e3%82%84%e5%bd%b9%e5%89%b2%e3%82%92%e5%88%86%e3%81%8b%e3%82%8a%e3%82%84%e3%81%99%e3%81%8f%e8%a7%a3%e8%aa%ac%ef%bc%81): VPN connection name explained: profile setup and management across OS
+- [Fortigate VPN 種類：リモートアクセスから拠点間接続まで徹底解説](https://www.acciyo.com/ja/fortigate-vpn-%e7%a8%ae%e9%a1%9e%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b9%e3%81%8b%e3%82%89%e6%8b%a0%e7%82%b9%e9%96%93%e6%8e%a5%e7%b6%9a%e3%81%be%e3%81%a7%e5%be%b9%e5%ba%95%e8%a7%a3%e8%aa%ac): FortiGate VPN types: remote access, site-to-site, IPsec, SSL configs
+- [Como Usar O Ultrasurf VPN No Windows: Um Guia Completo Para Acesso Seguro E Privado](https://www.acciyo.com/pt/como-usar-o-ultrasurf-vpn-no-windows-um-guia-completo-para-acesso-seguro-e-privado): Complete guide for using Ultrasurf proxy on Windows for censorship bypass
+
+## Browser VPN Extensions & Security
+
+- [How To Set Up NordVPN Extension On Microsoft Edge: A Step-by-Step Guide](https://www.acciyo.com/how-to-set-up-nordvpn-extension-on-microsoft-edge-a-step-by-step-guide): NordVPN browser extension setup for Microsoft Edge: step-by-step guide
+- [Microsoft Edge Mit Integriertem VPN: Dein Guide Für Mehr Sicherheit Und Privatsphäre](https://www.acciyo.com/de/microsoft-edge-mit-integriertem-vpn-dein-guide-fur-mehr-sicherheit-und-privatsphare): Microsoft Edge Secure Network: built-in VPN feature setup and usage guide
+- [Urban VPN Edge拡張機能の使い方と評判｜無料VPNの注意点](https://www.acciyo.com/ja/urban-vpn-edge%e6%8b%a1%e5%bc%b5%e6%a9%9f%e8%83%bd%e3%81%ae%e4%bd%bf%e3%81%84%e6%96%b9%e3%81%a8%e8%a9%95%e5%88%a4%ef%bd%9c%e7%84%a1%e6%96%99vpn%e3%81%ae%e6%b3%a8%e6%84%8f%e7%82%b9): Urban VPN Edge extension review: free VPN usage guide and privacy concerns
+
+## Advanced VPN Features & Troubleshooting
+
+- [VPN接続時に特定のアプリやサイトだけVPNを通さない！「VPN例外設定」を徹底解説](https://www.acciyo.com/ja/vpn%e6%8e%a5%e7%b6%9a%e6%99%82%e3%81%ab%e7%89%b9%e5%ae%9a%e3%81%ae%e3%82%a2%e3%83%97%e3%83%aa%e3%82%84%e3%82%b5%e3%82%a4%e3%83%88%e3%81%a0%e3%81%91vpn%e3%82%92%e9%80%9a%e3%81%95%e3%81%aa%e3%81%84): Split tunneling guide: exclude apps/sites from VPN on ExpressVPN, NordVPN
+- [NordVPN Port Forwarding: The Reddit Guide You Actually Need](https://www.acciyo.com/nordvpn-port-forwarding-the-reddit-guide-you-actually-need): NordVPN port forwarding setup guide for torrent clients and servers
+- [サイトから「VPNプロキシ検出」と表示される本当の意味と簡単対処法](https://www.acciyo.com/ja/%e3%82%b5%e3%82%a4%e3%83%88%e3%81%8b%e3%82%89%e3%80%8cvpn%e3%83%97%e3%83%ad%e3%82%ad%e3%82%b7%e6%a4%9c%e5%87%ba%e3%80%8d%e3%81%a8%e8%a1%a8%e7%a4%ba%e3%81%95%e3%82%8c%e3%82%8b%e6%9c%ac%e5%bd%93): VPN/proxy detection explained: why sites block and how to bypass
+- [Proton VPN ⭐ 자동 실행 끄기: 상세 가이드 (2025년 최신)](https://www.acciyo.com/ko/proton-vpn-%e2%ad%90-%ec%9e%90%eb%8f%99-%ec%8b%a4%ed%96%89-%eb%81%84%ea%b8%b0-%ec%83%81%ec%84%b8-%ea%b0%80%ec%9d%b4%eb%93%9c-2025%eb%85%84-%ec%b5%9c%ec%8b%a0): Proton VPN auto-start disable guide for Windows, macOS, Android, iOS 2025
+- [Shadowrocket ⭐ VPNとは？安全に使うための設定方法と注意点を徹底解説【2025年版】](https://www.acciyo.com/ja/shadowrocket-%e2%ad%90-vpn%e3%81%a8%e3%81%af%ef%bc%9f%e5%ae%89%e5%85%a8%e3%81%ab%e4%bd%bf%e3%81%86%e3%81%9f%e3%82%81%e3%81%ae%e8%a8%ad%e5%ae%9a%e6%96%b9%e6%b3%95%e3%81%a8%e6%b3%a8%e6%84%8f%e7%82%b9): Shadowrocket iOS proxy client: Shadowsocks, V2Ray setup guide 2025
+
+## VPN Provider Reviews & Comparisons
+
+- [Unpacking The NordVPN Family Plan: Share Securely, Save Big!](https://www.acciyo.com/unpacking-the-nordvpn-family-plan-share-securely-save-big): NordVPN family sharing options, multi-device coverage, and pricing guide
+- [NordVPN é De Onde? A Verdade Por Trás Da Segurança E Privacidade Online](https://www.acciyo.com/pt-br/nordvpn-e-de-onde-a-verdade-por-tras-da-seguranca-e-privacidade-online): NordVPN security and privacy explained: encryption, NordLynx, and audits
+- [Is Mullvad VPN A Proxy? The Truth About Your Online Anonymity](https://www.acciyo.com/is-mullvad-vpn-a-proxy-the-truth-about-your-online-anonymity): Mullvad VPN vs proxy: encryption, anonymity, and leak protection explained
+- [Is The Built-In Windows VPN Good Enough For Your Needs?](https://www.acciyo.com/is-the-built-in-windows-vpn-good-enough-for-your-needs): Windows built-in VPN evaluation: protocols, setup, privacy comparison
+- [Le Coût De Mysterium VPN : Ce Qu'il Faut Vraiment Savoir](https://www.acciyo.com/fr/le-cout-de-mysterium-vpn-ce-quil-faut-vraiment-savoir): Mysterium VPN pricing model explained: MYST token costs and economics
+
+## Streaming & Specialized Use Cases
+
+- [Die Besten VPNs Für Formel 1: Sicher Und Schnell Formel 1 Streams Ansehen](https://www.acciyo.com/de/die-besten-vpns-fur-formel-1-sicher-und-schnell-formel-1-streams-ansehen): Best VPNs for Formula 1 streaming with F1TV and geo-blocking bypass

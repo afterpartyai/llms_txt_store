@@ -1,0 +1,32 @@
+# pandas - Python Data Analysis Library
+
+> > pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool built on top of the Python programming language.
+
+pandas provides high-performance, easy-to-use data structures like DataFrame and Series for data manipulation, analysis, and transformation. The library is widely used for data science, analytics, and scientific computing tasks in Python.
+
+## Key Topics
+
+- DataFrame
+- Series
+- Python
+- data analysis
+- data manipulation
+- open source
+- data merging
+- concatenation
+- JupyterLite
+- Pyodide
+- SQL integration
+- GitHub
+- Stack Overflow
+- browser demo
+- interactive shell
+
+## Getting Started
+
+- [pandas - Python Data Analysis Library](https://pandas.pydata.org/): Homepage for pandas Python data analysis library
+- [Try pandas in Browser](https://pandas.pydata.org/try.html): Interactive JupyterLite browser demo to try pandas with Pyodide
+
+## User Guide & Documentation
+
+- [Merge, join, concatenate and compare](https://pandas.pydata.org/docs/user_guide/merging.html?highlight=dataframe+drop): Guide on merging, joining, concatenating DataFrames and Series in pandas

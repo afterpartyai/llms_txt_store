@@ -1,0 +1,64 @@
+# CP-Algorithms
+
+> > Comprehensive collection of algorithms and data structures for competitive programming, covering graph theory, number theory, computational geometry, string algorithms, and dynamic programming optimization techniques.
+
+CP-Algorithms is a community-driven resource originally based on e-maxx.ru, providing detailed explanations and C++ implementations of advanced algorithms used in competitive programming contests. The site covers classical theorems (Chinese Remainder Theorem, Burnside's lemma, Berge's lemma) and modern techniques with mathematical rigor and practical code examples.
+
+## Key Topics
+
+- Competitive Programming
+- Graph Algorithms
+- Number Theory
+- Computational Geometry
+- Dynamic Programming Optimization
+- String Algorithms
+- Bipartite Matching
+- Modular Arithmetic
+- Algorithm Complexity Analysis
+- C++ Implementation
+- Binary Search Techniques
+- Tree Data Structures
+- Convex Hull and Polygon Algorithms
+- Greatest Common Divisor (GCD)
+- Range Query Optimization
+
+## Graph Algorithms
+
+- [Breadth First Search](https://cp-algorithms.com/graph/breadth-first-search.html): BFS algorithm for graph traversal and shortest paths in unweighted graphs
+- [Minimum Spanning Tree - Kruskal](https://cp-algorithms.com/graph/mst_kruskal.html): Kruskal's greedy algorithm for finding minimum spanning trees
+- [Kuhn's Algorithm - Maximum Bipartite Matching](https://cp-algorithms.com/graph/kuhn_maximum_bipartite_matching.html): Kuhn's Algorithm for maximum bipartite matching using augmenting paths
+- [Heavy-light Decomposition](https://cp-algorithms.com/graph/hld.html): Heavy-light decomposition for efficient tree path queries
+- [Lowest Common Ancestor - Farach-Colton and Bender Algorithm](https://cp-algorithms.com/graph/lca_farachcoltonbender.html): Farach-Colton-Bender LCA algorithm using RMQ and Euler tour technique
+
+## Number Theory and Algebra
+
+- [Euclidean Algorithm for Computing the Greatest Common Divisor](https://cp-algorithms.com/algebra/euclid-algorithm.html): Euclidean algorithm for computing GCD with implementation details
+- [Chinese Remainder Theorem](https://cp-algorithms.com/algebra/chinese-remainder-theorem.html): Chinese Remainder Theorem for solving systems of modular congruences
+- [Integer Factorization](https://cp-algorithms.com/algebra/factorization.html): Integer factorization algorithms including trial division and wheel method
+- [Factoring Exponentiation](https://cp-algorithms.com/algebra/factoring-exp.html): Optimized binary exponentiation using factoring for modular arithmetic
+
+## Computational Geometry
+
+- [Convex Hull Construction](https://cp-algorithms.com/geometry/convex-hull.html): Graham's scan and monotone chain algorithms for convex hull construction
+- [Check if Point Belongs to the Convex Polygon in O(log N)](https://cp-algorithms.com/geometry/point-in-convex-polygon.html): O(log N) algorithm for point-in-convex-polygon using binary search
+- [Half-plane Intersection - S&I Algorithm in O(N log N)](https://cp-algorithms.com/geometry/halfplane-intersection.html): Sort-and-Incremental algorithm for half-plane intersection in O(N log N)
+- [Finding the Equation of a Line for a Segment](https://cp-algorithms.com/geometry/segment-to-line.html): Algorithm for finding line equation from segment with integer coefficients
+
+## String Algorithms
+
+- [Z-function](https://cp-algorithms.com/string/z-function.html): Linear-time Z-function algorithm for string prefix matching
+
+## Data Structures and Optimization
+
+- [Sqrt Decomposition](https://cp-algorithms.com/data_structures/sqrt_decomposition.html): Sqrt decomposition technique for efficient range queries on arrays
+- [Knuth's Optimization](https://cp-algorithms.com/dynamic_programming/knuth-optimization.html): Knuth's optimization for speeding up range DP using quadrangle inequality
+
+## Combinatorics and Special Topics
+
+- [Burnside's Lemma / Pólya Enumeration Theorem](https://cp-algorithms.com/combinatorics/burnside.html): Burnside's lemma and Pólya enumeration for counting equivalence classes
+- [Tortoise and Hare Algorithm (Linked List Cycle Detection)](https://cp-algorithms.com/others/tortoise_and_hare.html): Floyd's cycle detection algorithm using two-pointer technique
+- [15 Puzzle Game: Existence Of The Solution](https://cp-algorithms.com/others/15-puzzle.html): Mathematical proof of 15 Puzzle solvability using permutation inversions
+
+## Optional
+
+- [Preview](https://cp-algorithms.com/preview.html): Live markdown preview tool for article contributors

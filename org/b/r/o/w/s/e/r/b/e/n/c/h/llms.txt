@@ -1,0 +1,31 @@
+# BrowserBench.org
+
+> Comprehensive browser performance benchmark suite featuring Speedometer, JetStream, and MotionMark tests for measuring JavaScript execution, WebAssembly, DOM manipulation, and web application responsiveness.
+
+BrowserBench.org is maintained by browser vendors and the web performance community to provide standardized benchmarks for evaluating browser performance across different engines. The suite includes Speedometer for responsiveness testing, JetStream for JavaScript and WebAssembly performance, and MotionMark for graphics capabilities.
+
+## Key Topics
+
+- Speedometer 3.1
+- JetStream 2.2
+- MotionMark
+- Browser responsiveness testing
+- JavaScript performance
+- WebAssembly
+- TodoMVC frameworks
+- DOM performance
+- ECMAScript 5 (ES5)
+- ECMAScript 2015 (ES6)
+- React
+- Elm
+- Web performance benchmarking
+- Browser benchmark standards
+
+## Main Benchmarks
+
+- [BrowserBench.org — Browser Benchmarks](https://browserbench.org/): Homepage featuring Speedometer, JetStream 2.2, and MotionMark benchmarks
+- [Speedometer 3.1](https://browserbench.org/Speedometer3.1/): Latest Speedometer 3.1 browser responsiveness benchmark tool
+
+## Previous Versions
+
+- [Speedometer 2.0](https://browserbench.org/Speedometer2.0/): Speedometer 2.0 benchmark using TodoMVC and ECMAScript 5 frameworks

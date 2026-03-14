@@ -1,0 +1,27 @@
+# Tree-sitter
+
+> > Tree-sitter is a parser generator tool and incremental parsing library for building fast, robust syntax trees for source code in any programming language.
+
+This site provides comprehensive API documentation for Tree-sitter's core library and its language bindings, including Node.js (node-tree-sitter) and Python (py-tree-sitter). It covers syntax tree traversal, parsing interfaces, and language grammar integration.
+
+## Key Topics
+
+- TreeCursor
+- SyntaxNode
+- Tree
+- Language
+- Point
+- LookaheadIterator
+- tree_sitter
+- py-tree-sitter
+- syntax-tree-traversal
+- tree-walking
+- parsing
+- node-types
+- incremental-parsing
+- syntax-analysis
+
+## API Reference
+
+- [TreeCursor | tree-sitter - v0.25.1](https://tree-sitter.github.io/node-tree-sitter/interfaces/TreeCursor.html): TreeCursor interface API reference for syntax tree traversal
+- [Language — py-tree-sitter 0.25.2 documentation](https://tree-sitter.github.io/py-tree-sitter/classes/tree_sitter.Language.html): Language class API reference for py-tree-sitter Python bindings

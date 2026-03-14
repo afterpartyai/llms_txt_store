@@ -1,0 +1,59 @@
+# Clerk
+
+> > Clerk provides authentication and user management infrastructure for modern web applications, specializing in Next.js, React, and B2B SaaS integrations.
+
+Clerk offers developer-first authentication with support for SSO, organizations, billing integration via Stripe, and comprehensive SDKs for frameworks like Next.js and Express. The platform emphasizes security best practices, multi-tenancy, and seamless integration with tools like Supabase and GitHub.
+
+## Key Topics
+
+- Authentication and user management
+- Next.js and React integration
+- Clerk Billing and Stripe subscriptions
+- B2B SaaS and multi-tenancy
+- Organizations and team management
+- SSO (Single Sign-On)
+- API key authentication
+- JWT and session management
+- Row Level Security with Supabase
+- Payment processing and feature gating
+- OTP (One-Time Password) authentication
+- Subscription management
+- Security compliance (NIST 800-63B)
+- Personal accounts and default settings
+
+## Getting Started and Core Concepts
+
+- [What is the best way to handle authentication in Next.js App Router?](https://clerk.com/blog/best-auth-nextjs-app-router): Authentication options and security patterns for Next.js App Router
+- [Getting started with Clerk Billing](https://clerk.com/blog/intro-to-clerk-billing): Complete billing setup with Clerk, Stripe, and usage-based pricing guide
+- [How We Roll – Chapter 1: Passwords](https://clerk.com/blog/how-we-roll-passwords): Deep-dive into Clerk's password authentication and NIST 800-63B compliance
+- [How We Roll – Chapter 10: Roundup](https://clerk.com/blog/how-we-roll-roundup): Series conclusion summarizing Clerk's authentication implementation approach
+
+## Billing and Monetization
+
+- [Add subscriptions to your SaaS with Clerk Billing](https://clerk.com/blog/add-subscriptions-to-your-saas-with-clerk-billing): Tutorial on monetizing SaaS with Clerk Billing and Stripe subscriptions
+- [Add API Key support to your SaaS in minutes](https://clerk.com/blog/add-api-key-support-to-your-saas-with-clerk): Implementing multi-tenant API Keys with Clerk and Next.js tutorial
+
+## B2B SaaS and Multi-Tenancy
+
+- [What are the risks and challenges of multi-tenancy?](https://clerk.com/blog/what-are-the-risks-and-challenges-of-multi-tenancy): Multi-tenancy security risks, data isolation, and B2B SaaS challenges
+- [Build a task manager with Next.js, Supabase, and Clerk](https://clerk.com/blog/nextjs-supabase-clerk): Integrating Clerk with Supabase Postgres and Row Level Security tutorial
+
+## Authentication Tutorials
+
+- [Exploring the Intricacies of OTP Authentication in Next.js](https://clerk.com/blog/otp-authentication-nextjs): One-time password implementation and best practices for Next.js apps
+- [Implementing reCAPTCHA in React](https://clerk.com/blog/implementing-recaptcha-in-react): Protect React apps from spam with Google reCAPTCHA integration guide
+
+## Company News and Updates
+
+- [Clerk ranked #4 fastest-growing software vendor on Ramp's December 2025 list](https://clerk.com/blog/clerk-ranked-4-fastest-growing-software-vendor-by-ramp): Clerk ranks #4 on Ramp's fastest-growing SaaS vendors list
+- [Clerk in 2023: A Year in Review](https://clerk.com/blog/clerk-2023-year-review): 2023 milestones: framework integrations, Series A funding, and features
+
+## Optional
+
+- [EASIE Support and no more SSO fees](https://clerk.com/changelog/2024-11-20-easie): EASIE SSO support with removed enterprise SSO pricing fees
+- [MCP Server Support for Express](https://clerk.com/changelog/2025-07-29-express-mcp): Build Model Context Protocol services with Clerk and Express.js
+- [User activity report](https://clerk.com/changelog/2026-01-30-user-activity): Dashboard feature for visualizing user activity and engagement tracking
+- ["Personal Accounts" disabled by default](https://clerk.com/changelog/2025-08-22-personal-accounts-disabled): B2B org membership enforcement via disabled Personal Accounts default
+- [Legal consent](https://clerk.com/changelog/2024-11-11-legal-consent): Terms of Service and Privacy Policy checkbox for SignUp compliance
+- [Changelog November 11, 2022](https://clerk.com/changelog/2022-11-11): B2B SaaS organization components: CreateOrganization, OrganizationProfile
+- [Changelog July 8, 2022](https://clerk.com/changelog/2022-07-08): Next.js 12.2 support, email deliverability, and Line OAuth provider

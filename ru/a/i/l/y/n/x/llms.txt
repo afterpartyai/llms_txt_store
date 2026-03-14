@@ -1,0 +1,63 @@
+# Ailynx
+
+> > Ailynx — аналитический ресурс о развитии искусственного интеллекта, языковых моделей и технологических трендах с фокусом на практическое применение LLM, машинное обучение и влияние ИИ на индустрии.
+
+Сайт освещает новости и глубокую аналитику в области GPT-моделей, Amazon Bedrock, безопасности ИИ, а также технологических разработок от OpenAI, Google, Apple и других лидеров рынка. Материалы ориентированы на разработчиков, исследователей и технологических энтузиастов, следящих за эволюцией искусственного интеллекта.
+
+## Key Topics
+
+- GPT-5 и языковые модели OpenAI
+- Amazon Bedrock и облачные ИИ-сервисы
+- LLM limitations и hallucinations
+- Машинное обучение и оптимизация моделей
+- AI safety и безопасность искусственного интеллекта
+- Chatbot architecture и ограничения чат-ботов
+- NVIDIA Blackwell и GPU-инфраструктура
+- AI-агенты и промышленное развертывание
+- Геопространственный анализ с LLM
+- Экономическое влияние ИИ на рынок труда
+- Cloudflare и монетизация контента для ИИ
+- Apple AI-продукты и умные устройства
+- Методы оптимизации без reinforcement learning
+- Open-source альтернативы коммерческим моделям
+
+## Языковые модели и LLM
+
+- [GPT-5 выпущен OpenAI: обзор возможностей и критики](https://ailynx.ru/news/llm/gpt-5-zdes-chto-dalshe): OpenAI's GPT-5 release: improved UX, reduced hallucinations, evolution not AGI
+- [Почему чат-боты не могут объяснить свои ошибки](https://ailynx.ru/news/llm/pochemu-bessmyslenno-sprashivat-u-chat-botov-ob-ih-oshibkah): Why AI assistants give false answers about errors; LLM limitations analysis
+- [GPT-5 и проблема эмпатии: нужны новые бенчмарки](https://ailynx.ru/news/llm/gpt-5-needs-benchmark-for-empathy): Why GPT-5 lacks empathy; Stanford & MIT propose new emotional AI metrics
+- [Интеграция Amazon Bedrock с геопространственным анализом через LLM](https://ailynx.ru/news/llm/amazon-bedrock-geospatial-analysis-gis-workflows): Amazon Bedrock integrates LLMs with GIS systems for spatial data automation
+- [Экономическое влияние ИИ: данные Anthropic и Claude в новом исследовании](https://ailynx.ru/news/llm/anthropic-economic-index-claude): Anthropic study: AI augments workers 57% of time, peaks in IT & creative roles
+
+## Машинное обучение и оптимизация
+
+- [Метод GEPA для оптимизации языковых моделей без обучения с подкреплением](https://ailynx.ru/news/machine-learning/gepa-optimizatsiya-llm-bez-reinforcement-learning): GEPA method: 35x more efficient than RL for LLM optimization via genetics
+- [NVIDIA Blackwell в облаке Lambda: характеристики, цена, примеры кода](https://ailynx.ru/news/hardware/lambda-zapuskaet-oblachnye-instansy-s-nvidia-blackwell): Lambda Cloud B200 GPU instances: specs, $4.99/GPU-hour pricing, Llama 3 code
+
+## Разработка и развертывание ИИ-агентов
+
+- [Amazon Bedrock AgentCore Runtime: промышленное развертывание ИИ-агентов](https://ailynx.ru/news/dev/amazon-bedrock-agentcore-runtime-ii-agenty): New runtime for secure AI agent scaling with LangGraph, CrewAI support
+- [Cloudflare AI Crawl Control: монетизация контента для ИИ-краулеров](https://ailynx.ru/news/digital/cloudflare-ai-crawl-control-monetizatsiya-kontenta): Cloudflare launches AI crawler control with HTTP 402 for content monetization
+
+## Безопасность и этика ИИ
+
+- [Уход сооснователя xAI в фонд безопасности ИИ](https://ailynx.ru/news/safety/igor-babushkin-uhod-iz-xai-bezopasnost-ii): Igor Babushkin leaves xAI for AI safety fund after Tegmark talk amid Grok scandal
+- [YouTube тайно тестировал ИИ-улучшение видео без уведомления создателей](https://ailynx.ru/news/digital/youtube-sekretno-testiroval-ai-uluchshenie-video-bez-uvedomleniya-sozdateley): Google's secret AI video enhancement testing on YouTube raises ethics issues
+
+## Применение ИИ в индустриях
+
+- [ИИ в туризме: как алгоритмы меняют индустрию гостеприимства](https://ailynx.ru/news/digital/kak-iskusstvennyy-intellekt-transformiruet-industriyu-gostepriimstva-i-turizma): AI transforms tourism through personalization & business optimization
+- [AI аудит расходов против традиционного финансового контроля](https://ailynx.ru/news/finance/ai-audit-raskhodov-protiv-traditsionnogo-kontrolya): AI-first expense audit vs traditional control: ML advantages in finance
+- [Matrix-Game 2.0: открытая альтернатива Genie 3 для игровых миров](https://ailynx.ru/news/games/matrix-game-20-otkrytaya-alternativa-genie-3): Open-source Matrix-Game 2.0: real-time interactive video generation vs Genie 3
+
+## Технологические продукты и гаджеты
+
+- [Apple ИИ-робот для дома: детали и анализ](https://ailynx.ru/news/gadgets/apple-ai-dom-robot-kamery): Apple's upcoming AI home robot, smart display & security cameras analyzed
+- [Android 16 получит принудительную темную тему и тематизацию иконок](https://ailynx.ru/news/gadgets/android-16-qpr2-beta-1-forced-dark-mode-icon-themes): Android 16 QPR2 beta adds forced dark mode, icon theming & parental controls
+- [Cowboy избежал банкротства: производство электровелосипедов спасли](https://ailynx.ru/news/gadgets/cowboy-elektrovelosipedy-rebirth-izbegal-bankrotstva): Rebirth Group funding saves Cowboy e-bike brand from bankruptcy
+
+## Опциональное
+
+- [Указ Трампа о конкуренции: последствия для рынка технологий](https://ailynx.ru/news/politics/tramp-podpisal-ukaz-o-stimulirovanii-rynochnoj-konkurencii): Trump's executive order on market competition impact on tech & startups
+- [Космические силы США проводят стратегические учения с союзниками](https://ailynx.ru/news/space/kosmicheskie-sily-ssha-provodiat-strategicheskie-ucheniia-s-soiuznikami): US Space Force Schriever Wargame exercises shape next decade's space tech
+- [TRAPPIST-1 d без землеподобной атмосферы: открытие телескопа Уэбб](https://ailynx.ru/news/space/webb-isklyuchil-zemlepodobnuyu-atmosferu-na-ekzoplanete-trappist-1-d): Webb telescope rules out Earth-like atmosphere on exoplanet TRAPPIST-1 d

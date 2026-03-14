@@ -1,0 +1,35 @@
+# Arena
+
+> > Crowdsourced AI model evaluation platform using human preference battles and Elo ratings to benchmark LLMs and vision models.
+
+Arena is developed by researchers at UC Berkeley and uses the Bradley-Terry system to rank AI models through real-world human feedback. The platform includes Chatbot Arena, Vision Arena, and open research datasets like LMSYS-Chat-1M used in leading ML conferences (ICML, NeurIPS, ICLR).
+
+## Key Topics
+
+- Chatbot Arena
+- Elo rating system
+- Bradley-Terry model
+- Human preference evaluation
+- Crowdsourced benchmarking
+- LLM-as-a-judge
+- Arena-Hard
+- Vision Arena
+- LMSYS-Chat-1M dataset
+- Prompt-to-Leaderboard
+- RouteLLM
+- Battle mode voting
+- Model ranking leaderboards
+- Open research transparency
+
+## Platform Overview
+
+- [About Arena | Crowdsourced AI Model Evaluation Platform](https://arena.ai/about): About Arena's mission for real-world AI evaluation from UC Berkeley
+- [How Arena Works | AI Model Evaluation & Benchmarking](https://arena.ai/how-it-works): Explains Arena's crowdsourced AI benchmarking via human preference battles
+
+## Support & Documentation
+
+- [Arena FAQ | AI Leaderboards, Benchmarks, and Arena Explained](https://arena.ai/faq): FAQ covering Arena leaderboards, Elo ratings, and Bradley-Terry system
+
+## Optional
+
+- [Arena: Privacy Policy](https://arena.ai/privacy-policy): Privacy policy for Arena Intelligence, Inc. covering data collection

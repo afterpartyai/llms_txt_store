@@ -1,0 +1,64 @@
+# w3resource
+
+> > Comprehensive programming tutorials, exercises, and solutions covering SQL, PostgreSQL, MySQL, JavaScript, Python, Swift, and data structures with hands-on practice problems.
+
+w3resource is an educational platform providing extensive programming exercises and tutorials across databases (SQL, PostgreSQL, MySQL), programming languages (JavaScript, Python, Swift), data visualization (Matplotlib), testing frameworks (Mocha), and computer science fundamentals (data structures and algorithms). The site emphasizes practical, hands-on learning through structured exercises with solutions.
+
+## Key Topics
+
+- SQL database operations and queries
+- PostgreSQL transaction isolation levels
+- MySQL window functions and backups
+- JavaScript Promises and async/await
+- PL/pgSQL stored procedures and triggers
+- Database security and access control
+- Transaction control and concurrency
+- Data integrity and consistency
+- Python Matplotlib visualization
+- Data structures and algorithms (DSA)
+- Swift programming for iOS/macOS
+- Window functions (NTILE, running totals)
+- mysqldump backup strategies
+- Event handling and DOM manipulation
+- Row-level security (RLS)
+
+## SQL and Database Fundamentals
+
+- [Segment Data Using NTILE() in SQL for Quartile Analysis](https://www.w3resource.com/sql-exercises/sql-query-to-divide-employees-into-quartiles-based-on-their-salary-using-the-ntile-window-function.php): SQL tutorial on using NTILE() window function for quartile salary analysis
+- [Rollback a Failed Transaction in SQL for Data Consistency](https://www.w3resource.com/sql-exercises/sql-query-to-rollback-a-transaction-if-an-error-occurs-during-execution.php): SQL exercise on transaction rollback and error handling for data consistency
+- [Update Multiple Records in SQL Based on a Condition](https://www.w3resource.com/sql-exercises/sql-query-to-update-a-multiple-records-in-a-table-based-on-a-specific-condition.php): SQL exercise on conditional UPDATE statements for multiple records
+- [Grant EXECUTE Permission on a Stored Procedure in SQL](https://www.w3resource.com/sql-exercises/sql-query-to-grant-execute-permission-on-a-stored-procedure-to-a-user.php): SQL tutorial on granting EXECUTE permissions for stored procedures
+- [Implement Row-Level Security (RLS) in SQL](https://www.w3resource.com/sql-exercises/sql-query-to-implement-row-level-security-on-a-table.php): SQL Server and PostgreSQL tutorial on implementing row-level security policies
+- [Add a Unique Constraint to an SQL Column using ALTER TABLE](https://www.w3resource.com/sql-exercises/sql-query-to-add-a-unique-constraint-to-a-column-in-an-existing-table.php): SQL DDL tutorial on adding UNIQUE constraints with ALTER TABLE statement
+
+## PostgreSQL Advanced Topics
+
+- [PostgreSQL - Set Transaction Isolation to SERIALIZABLE](https://www.w3resource.com/postgresql-exercises/postgresql-query-to-set-the-transaction-isolation-level-to-serializable-for-a-transaction.php): PostgreSQL exercise on setting SERIALIZABLE transaction isolation level
+- [PostgreSQL Isolation Levels Exercises for Transaction Control](https://www.w3resource.com/postgresql-exercises/isolation-levels-index.php): PostgreSQL exercises index on transaction isolation levels and control
+- [Master PostgreSQL Triggers with Stored Procedures for Data Management](https://www.w3resource.com/postgresql-exercises/using-triggers-with-stored-procedures-index.php): PostgreSQL exercises index on triggers and PL/pgSQL stored procedures
+
+## MySQL Database Management
+
+- [Calculate Running Total of Sales in MySQL with Window Functions](https://www.w3resource.com/mysql-exercises/mysql-query-to-calculate-the-running-total-of-sales-for-each-month-using-a-window-function.php): MySQL exercise on calculating running totals using window functions
+- [Full Database Backup using mysqldump](https://www.w3resource.com/mysql-exercises/mysql-command-to-back-up-an-entire-database-named-mydatabase-using-mysqldump.php): MySQL tutorial on full database backup using mysqldump command-line tool
+- [Compressed Database Backup using mysqldump](https://www.w3resource.com/mysql-exercises/mysql-command-to-back-up-the-mydatabase-database-and-compress-the-backup-file.php): MySQL guide on compressed database backups with mysqldump and gzip/bzip2
+
+## JavaScript Programming
+
+- [Create JavaScript Promises with setTimeout](https://www.w3resource.com/javascript-exercises/promises-and-async-await/promises-and-async-await-exercise-11.php): JavaScript exercise on creating Promises with setTimeout for async programming
+- [Handle Click Events using Event Delegation in JavaScript](https://www.w3resource.com/javascript-exercises/event/javascript-event-handling-exercise-11.php): JavaScript exercise on event delegation and DOM click event handling
+- [Introduction to Mocha](https://www.w3resource.com/mocha/getting-started.php): Getting started guide for Mocha JavaScript testing framework for Node.js
+
+## Programming Languages and Frameworks
+
+- [Swift Programming Exercises, Practice, Solution  - w3resource](https://www.w3resource.com/swift-programming-exercises): Swift programming exercises for iOS, macOS, and watchOS development practice
+- [Matplotlib: Exercises, Practice, Solution - w3resource](https://www.w3resource.com/graphics/matplotlib): Python Matplotlib exercises for data visualization and plotting practice
+
+## Computer Science Fundamentals
+
+- [Learn Data Structures and Algorithms (DSA)](https://www.w3resource.com/data-structures-and-algorithms/index.php): Comprehensive DSA tutorial covering fundamental data structures and algorithms
+
+## Optional
+
+- [Understanding AI Suite](https://www.w3resource.com/ai/ai-suite-tools.php): Beginner guide to AI Suite tools and integrated artificial intelligence platforms
+- [Challenges and impact of Data Center Technician Jobs](https://www.w3resource.com/data-center/challenges-impact-data-center-technicians.php): Career insights on data center technician roles, certifications, and challenges

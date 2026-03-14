@@ -1,0 +1,55 @@
+# Figma Developers
+
+> > Official developer documentation for building Figma plugins, Code Connect integrations, and code layers in Figma Sites
+
+Comprehensive technical resources for the Figma Plugin API, Code Connect framework, and code layer development. Covers React integration, component properties, variable bindings, node manipulation, and AI-powered workflows including the Figma MCP server.
+
+## Key Topics
+
+- Figma Plugin API
+- Code Connect
+- Figma Sites code layers
+- React components
+- Node types (BaseNode, DocumentNode, PageNode)
+- Component properties and variants
+- Variable bindings and theming
+- Code generation (codegen)
+- FigJam nodes
+- MCP (Model Context Protocol)
+- Document access and manipulation
+- Instance swap
+- Dev status tracking
+- AI-assisted iteration
+- Template API
+
+## Plugin API Reference
+
+- [Node Types](https://developers.figma.com/docs/plugins/api/nodes): Complete reference of Figma node types and layer properties
+- [ComponentProperties](https://developers.figma.com/docs/plugins/api/ComponentProperties): API reference for component properties and variable bindings
+- [ComponentPropertyDefinitions](https://developers.figma.com/docs/plugins/api/ComponentPropertyDefinitions): Component property definitions with variants and instance swap
+- [ExtendedVariableCollection](https://developers.figma.com/docs/plugins/api/ExtendedVariableCollection): Enterprise variable collection properties and theming API
+- [CodegenResult](https://developers.figma.com/docs/plugins/api/CodegenResult): API reference for code generation results with syntax highlighting
+- [CodegenPreference](https://developers.figma.com/docs/plugins/api/CodegenPreference): Define custom codegen commands in Figma's plugin UI
+- [EllipseNode](https://developers.figma.com/docs/plugins/api/EllipseNode): API reference for ellipse shape nodes and properties
+- [HighlightNode](https://developers.figma.com/docs/plugins/api/HighlightNode): FigJam highlighter tool stickable node API reference
+- [DevStatus](https://developers.figma.com/docs/plugins/api/DevStatus): API reference for node handoff and dev status tracking
+
+## Plugin Development Guides
+
+- [Accessing the Document](https://developers.figma.com/docs/plugins/accessing-document): Guide to accessing Figma document structure via Plugin API
+
+## Code Connect
+
+- [Template V2 API](https://developers.figma.com/docs/code-connect/template-v2-api): Custom Code Connect templates for component rendering control
+- [Connecting code with template files](https://developers.figma.com/docs/code-connect/no-parser): Framework-agnostic Code Connect using JavaScript template files
+
+## Figma Sites Code Layers
+
+- [Create your first code layer](https://developers.figma.com/docs/code/create-your-first-code-layer): Getting started with code layers in Figma Sites editor
+- [Props and variables](https://developers.figma.com/docs/code/props-and-variables): Implement React-style props and variables in code components
+- [Iterate your code with AI](https://developers.figma.com/docs/code/iterate-your-code-with-ai): Import React code into Figma Make/Sites and iterate using AI
+
+## Figma MCP Server
+
+- [Code to canvas](https://developers.figma.com/docs/figma-mcp-server/code-to-canvas): Convert live browser UI to editable Figma frames via MCP server
+- [Resources (Make → MCP)](https://developers.figma.com/docs/figma-mcp-server/bringing-make-context-to-your-agent): Bringing Make context to MCP agent workflows

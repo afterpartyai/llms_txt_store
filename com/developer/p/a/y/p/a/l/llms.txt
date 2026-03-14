@@ -1,0 +1,60 @@
+# PayPal Developer
+
+> > Comprehensive developer documentation for PayPal payment APIs, including PayPal Complete Payments Platform, Braintree, legacy NVP/SOAP APIs, and integration guides for checkout, subscriptions, and multiparty marketplaces.
+
+PayPal Developer provides technical documentation, API references, SDKs, and integration guides for developers building payment solutions with PayPal, Braintree, Venmo, and related services. The platform supports both modern REST APIs and legacy NVP/SOAP interfaces, with extensive resources for marketplace platforms, subscription billing, and payment processing.
+
+## Key Topics
+
+- PayPal Complete Payments Platform
+- Braintree GraphQL API
+- Multiparty payments and marketplaces
+- NVP/SOAP legacy APIs
+- PayPal Checkout integration
+- Sandbox testing and credentials
+- Payflow Gateway
+- Subscription billing
+- Invoice generation
+- SFTP reporting
+- Payment authorization and capture
+- Venmo integration
+- PYUSD cryptocurrency
+- Partner account setup
+- Donate SDK
+
+## Multiparty Platform & Marketplace Integration
+
+- [Get Started](https://developer.paypal.com/docs/multiparty/get-started): Getting started with PayPal Complete Payments Platform for marketplaces
+- [Set up partner account](https://developer.paypal.com/docs/multiparty/embedded-integration/set-up-partner-account): Partner account setup guide for multiparty embedded integrations
+- [Generate Reports with PayPal](https://developer.paypal.com/docs/multiparty/reports): Transaction reporting and SFTP access setup for multiparty platforms
+- [Test and go live with Invoicing](https://developer.paypal.com/docs/multiparty/invoicing/test-and-go-live): Testing and deployment guide for multiparty Invoicing API integration
+- [Test and go live with Subscriptions](https://developer.paypal.com/docs/multiparty/subscriptions/test-subscriptions): Testing guide for multiparty Subscriptions API with sandbox simulation
+- [Pricing program summary report](https://developer.paypal.com/docs/multiparty/reports/pricing-program-summary): Pricing program summary report format and SFTP delivery specification
+
+## Braintree Integration
+
+- [Braintree Graphql Docs](https://developer.paypal.com/braintree/graphql/guides): Braintree GraphQL API guides covering queries, mutations, and schema
+- [Braintree Articles](https://developer.paypal.com/braintree/articles): Support articles for Braintree payment processing and integration guides
+
+## SDKs & Client Integration
+
+- [Add a Donate Button with PayPal's Donate SDK](https://developer.paypal.com/sdk/donate): Integration guide for PayPal Donate SDK and JavaScript button rendering
+
+## Legacy NVP/SOAP APIs
+
+- [Get Started](https://developer.paypal.com/api/nvp-soap/get-started): Getting started guide for legacy NVP/SOAP APIs with sandbox setup
+- [PayPal SOAP API](https://developer.paypal.com/api/nvp-soap/soap): SOAP API overview and WSDL reference for legacy web services
+- [NVP/SOAP API endpoints](https://developer.paypal.com/api/nvp-soap/endpoints): Legacy NVP/SOAP API endpoints for sandbox and production environments
+- [Payflow Gateway and PayPal Payments Pro](https://developer.paypal.com/api/nvp-soap/payflow): Payflow Gateway API reference for credit card payment processing
+- [MassPay API Operation (NVP)](https://developer.paypal.com/api/nvp-soap/masspay-nvp): MassPay NVP API reference for bulk payment processing
+- [GetRecurringPaymentsProfileDetails API Operation (SOAP)](https://developer.paypal.com/api/nvp-soap/get-recurring-payments-profile-details-soap): SOAP API reference for retrieving recurring payment profile details
+- [UpdateAuthorization API Operation (NVP)](https://developer.paypal.com/api/nvp-soap/update-authorization-nvp): NVP API reference for updating payment authorization details
+
+## Community & Updates
+
+- [Simplifying PayPal USD Cross-Chain Transfers Between Ethereum and Solana](https://developer.paypal.com/community/blog/pyusd-ethereum-solana-venmo): PYUSD cross-chain transfers between Ethereum and Solana via Venmo
+
+## Optional
+
+- [AddPaymentCard API Operation](https://developer.paypal.com/api/nvp-soap/add-payment-card): Deprecated Adaptive Accounts API for adding payment cards to accounts
+- [BMButtonSearch API Operation (NVP)](https://developer.paypal.com/api/nvp-soap/button-search-nvp): Deprecated Button Manager NVP API for searching hosted payment buttons

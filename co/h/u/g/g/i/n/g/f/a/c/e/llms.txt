@@ -1,58 +1,64 @@
 # Hugging Face
 
-> > The leading platform for machine learning collaboration, hosting models, datasets, and applications with tools like Transformers, Optimum, and the Hugging Face Hub.
+> > The AI community platform for building, training, and deploying machine learning models with open-source tools and collaborative resources.
 
-Hugging Face is the AI community's home for sharing and deploying state-of-the-art machine learning models, including LLMs like Llama and Mistral, vision-language models, and specialized tools for evaluation, training, and deployment. The platform serves researchers, developers, and organizations building AI applications across natural language processing, computer vision, robotics, and more.
+Hugging Face provides state-of-the-art libraries like transformers, diffusers, and Gradio, alongside the Hugging Face Hub for sharing models and datasets. The platform serves researchers, developers, and organizations working with LLMs, vision models, robotics, and multimodal AI.
 
 ## Key Topics
 
-- Large Language Models (LLMs)
+- transformers library
 - Hugging Face Hub
-- Transformers library
-- Model evaluation and benchmarking
-- Vision-language models
-- LLM deployment and optimization
-- AI agents and tool calling
-- Multilingual NLP
-- Model fine-tuning and training
-- NVIDIA and Intel hardware acceleration
-- Open LLM Leaderboard
-- Llama and Mistral models
-- Synthetic data generation
-- Reinforcement learning
-- Content moderation and safety
+- model training and fine-tuning
+- model quantization
+- inference optimization
+- speculative decoding
+- LLMs (Large Language Models)
+- Llama models
+- DeepSeek-R1
+- WebGPU and browser ML
+- Gradio UI framework
+- diffusers library
+- Model Context Protocol (MCP)
+- chain-of-thought reasoning
+- open-source AI
 
-## Model Releases and Announcements
+## Learning Resources & Courses
 
-- [Welcome the NVIDIA Llama Nemotron Nano VLM to Hugging Face Hub](https://huggingface.co/blog/nvidia/llama-nemotron-nano-vl): NVIDIA Llama Nemotron Nano VL vision-language model release on Hub
-- [Falcon-Arabic: A Breakthrough in Arabic Language Models](https://huggingface.co/blog/tiiuae/falcon-arabic): TII's Falcon-Arabic language model announcement and benchmarks
-- [Welcoming Llama Guard 4 on Hugging Face Hub](https://huggingface.co/blog/llama-guard-4): Meta's Llama Guard 4 multimodal content moderation model release
-- [SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data](https://huggingface.co/blog/smolvla): SmolVLA vision-language-action model for robotics with Lerobot data
-- [Visual Document Retrieval Goes Multilingual](https://huggingface.co/blog/vdr-2b-multilingual): vdr-2b-multi-v1 multilingual visual document retrieval model release
+- [Welcome to the 🤗 Model Context Protocol (MCP) Course](https://huggingface.co/learn/mcp-course): Model Context Protocol course by Hugging Face and Anthropic
 
-## LLM Evaluation and Benchmarking
+## Model Training & Optimization
 
-- [The Hallucinations Leaderboard, an Open Effort to Measure Hallucinations in Large Language Models](https://huggingface.co/blog/leaderboard-hallucinations): Hallucinations Leaderboard for measuring LLM factuality and faithfulness
-- [Back to The Future: Evaluating AI Agents on Predicting Future Events](https://huggingface.co/blog/futurebench): FutureBench benchmark for evaluating AI agents on future event prediction
-- [Open LLM Leaderboard: DROP deep dive](https://huggingface.co/blog/open-llm-leaderboard-drop): Deep dive analysis of DROP benchmark in Open LLM Leaderboard
-- [🇵🇭 FilBench - Can LLMs Understand and Generate Filipino?](https://huggingface.co/blog/filbench): FilBench benchmark for evaluating LLMs on Filipino language understanding
-- [How good are LLMs at fixing their mistakes? A chatbot arena experiment with Keras and TPUs](https://huggingface.co/blog/keras-chatbot-arena): Chatbot arena experiment evaluating LLM error correction with Keras/TPUs
+- [GaLore: Advancing Large Model Training on Consumer-grade Hardware](https://huggingface.co/blog/galore): GaLore: Memory-efficient LLM training on consumer hardware
+- [Training and Finetuning Sparse Embedding Models with Sentence Transformers v5](https://huggingface.co/blog/train-sparse-encoder): Sparse embedding training with Sentence Transformers v5 and SPLADE
+- [Memory-efficient Diffusion Transformers with Quanto and Diffusers](https://huggingface.co/blog/quanto-diffusers): Quanto quantization for memory-efficient Stable Diffusion 3 models
+- [Introducing Trackio: A Lightweight Experiment Tracking Library from Hugging Face](https://huggingface.co/blog/trackio): Trackio: Lightweight ML experiment tracking library by Hugging Face
 
-## Model Deployment and Optimization
+## Inference & Performance
 
-- [Optimize and deploy with Optimum-Intel and OpenVINO GenAI](https://huggingface.co/blog/deploy-with-openvino): Guide to optimize and deploy models with Optimum-Intel and OpenVINO GenAI
-- [Hugging Face Text Generation Inference available for AWS Inferentia2](https://huggingface.co/blog/text-generation-inference-on-inferentia2): TGI deployment guide for AWS Inferentia2 with SageMaker integration
-- [Easily Train Models with H100 GPUs on NVIDIA DGX Cloud](https://huggingface.co/blog/train-dgx-cloud): Tutorial for training models with H100 GPUs on NVIDIA DGX Cloud
-- [Accelerating Protein Language Model ProtST on Intel Gaudi 2](https://huggingface.co/blog/intel-protein-language-model-protst): ProtST protein language model optimization for Intel Gaudi 2 accelerators
+- [Faster Text Generation with Self-Speculative Decoding](https://huggingface.co/blog/layerskip): LayerSkip: Self-speculative decoding for faster LLM inference
+- [Hugging Face Text Generation Inference available for AWS Inferentia2](https://huggingface.co/blog/text-generation-inference-on-inferentia2): Text Generation Inference (TGI) now supports AWS Inferentia2
+- [Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models](https://huggingface.co/blog/intel-qwen3-agent): Qwen3-8B acceleration on Intel Core Ultra via depth-pruned drafts
+- [Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers](https://huggingface.co/blog/faster-transformers): OpenAI GPT-OSS optimization tricks for Hugging Face transformers
 
-## AI Agents and Advanced Techniques
+## Model Releases & Announcements
 
-- [License to Call: Introducing Transformers Agents 2.0](https://huggingface.co/blog/agents): Transformers Agents 2.0 framework for LLM agents and tool calling
-- [KV Cache from scratch in nanoVLM](https://huggingface.co/blog/kv-cache): KV cache implementation tutorial for autoregressive generation in nanoVLM
-- [Cosmopedia: how to create large-scale synthetic data for pre-training Large Language Models](https://huggingface.co/blog/cosmopedia): Cosmopedia synthetic dataset creation for LLM pre-training methodology
-- [Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries](https://huggingface.co/blog/async-rl-training-landscape): Comparative analysis of async training in 16 open-source RL libraries
+- [SmolVLM2: Bringing Video Understanding to Every Device](https://huggingface.co/blog/smolvlm2): SmolVLM2: On-device video understanding vision-language model
+- [Welcoming Llama Guard 4 on Hugging Face Hub](https://huggingface.co/blog/llama-guard-4): Llama Guard 4: Meta's multimodal content moderation model release
+- [Transformers.js v3: WebGPU Support, New Models & Tasks, and More…](https://huggingface.co/blog/transformersjs-v3): Transformers.js v3 release: WebGPU support & browser ML enhancements
 
-## Specialized Applications
+## Company News & Ecosystem
 
-- [Patch Time Series Transformer in Hugging Face](https://huggingface.co/blog/patchtst): PatchTST for time series forecasting with transfer learning capabilities
-- [Hugging Face partners with TruffleHog to Scan for Secrets](https://huggingface.co/blog/trufflesecurity-partnership): TruffleHog partnership for automated secret scanning in repositories
+- [Hugging Face to sell open-source robots thanks to Pollen Robotics acquisition 🤖](https://huggingface.co/blog/hugging-face-pollen-robotics-acquisition): Hugging Face acquires Pollen Robotics for open-source robotics
+- [17 Reasons Why Gradio Isn't Just Another UI Library](https://huggingface.co/blog/why-gradio-stands-out): Gradio's unique features for ML UI and API generation
+
+## Benchmarks & Evaluation
+
+- [Introducing the Open FinLLM Leaderboard](https://huggingface.co/blog/leaderboard-finbench): Open FinLLM Leaderboard by TheFinAI for financial NLP evaluation
+- [🇵🇭 FilBench - Can LLMs Understand and Generate Filipino?](https://huggingface.co/blog/filbench): FilBench: LLM evaluation benchmark for Filipino and Philippine languages
+
+## Research & Specialized Topics
+
+- [Kimina-Prover-RL](https://huggingface.co/blog/AI-MO/kimina-prover-rl): Kimina-Prover-RL: Lean 4 theorem proving with reinforcement learning
+- [Open R1: Update #3](https://huggingface.co/blog/open-r1/update-3): Open R1 update: Code reasoning and competitive programming progress
+- [The 4 Things Qwen-3's Chat Template Teaches Us](https://huggingface.co/blog/qwen-3-chat-template-deep-dive): Deep dive into Qwen-3's chat template and reasoning model patterns
+- [A Short Summary of Chinese AI Global Expansion](https://huggingface.co/blog/chinese-ai-expansion): Analysis of Chinese AI companies' global expansion strategies

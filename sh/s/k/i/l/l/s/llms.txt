@@ -1,64 +1,64 @@
 # Skills.sh
 
-> > A curated repository of agent skills and coding standards for GitHub Copilot, AI development tools, and modern web frameworks.
+> > A comprehensive catalog of agent skills and templates for GitHub Copilot, AI agents, and development automation, featuring standardized skill documentation and prompt engineering best practices.
 
-Skills.sh provides structured knowledge files (SKILL.md format) that help AI coding assistants like GitHub Copilot understand project-specific patterns, coding standards, and development workflows. The platform hosts skills for frameworks like Next.js and React, cloud platforms like Azure, and development practices ranging from UI/UX design to testing and infrastructure.
+Skills.sh hosts structured skill definitions for AI agents, GitHub Copilot workflows, and development automation tools. The platform emphasizes skill standardization through the Agent Skills Specification, enabling developers to create, share, and discover reusable skills across various domains including cloud infrastructure, testing, monitoring, and prompt engineering.
 
 ## Key Topics
 
 - GitHub Copilot
-- Agent Skills
-- Copilot Skills
-- Coding Standards
-- Next.js
-- React
-- Python
+- Agent Skills Specification
+- Skill Standardization
+- Prompt Engineering
 - MCP (Model Context Protocol)
-- TypeScript/JavaScript
-- CLI Tools
-- Interface Design
-- Azure
-- Testing (JUnit)
-- Terraform
-- Design Systems
+- GitHub Actions & Automation
+- Azure Cloud Services
+- Skill Documentation & Validation
+- AI-Powered Development
+- Node.js & JavaScript
+- Infrastructure as Code
+- Multi-Agent Systems
+- Progressive Disclosure
+- SKILL.md Format
+- Development Workflows
 
-## Getting Started
+## Skill Standardization & Core Specifications
 
-- [skill-standardization by supercent-io/skills-template](https://skills.sh/supercent-io/skills-template/skill-standardization): Agent Skills Specification with SKILL.md structure & validation
-- [find-skills by vercel-labs/skills](https://skills.sh/vercel-labs/skills/find-skills): Skills CLI tool for discovering & installing agent skills via npx
-- [github-copilot-starter by github/awesome-copilot](https://skills.sh/github/awesome-copilot/github-copilot-starter): GitHub Copilot setup guide with configuration & coding standards
+- [skill-standardization by supercent-io/skills-template](https://skills.sh/supercent-io/skills-template/skill-standardization): Agent Skills Specification standard with SKILL.md validation & metadata
 
-## GitHub Copilot Skills
+## GitHub Copilot & AI Agent Development
 
-- [copilot-usage-metrics by github/awesome-copilot](https://skills.sh/github/awesome-copilot/copilot-usage-metrics): GitHub Copilot usage metrics via CLI for enterprise & org statistics
-- [typespec-create-agent by github/awesome-copilot](https://skills.sh/github/awesome-copilot/typespec-create-agent): TypeSpec guide for creating Microsoft 365 Copilot declarative agents
-- [editorconfig by github/awesome-copilot](https://skills.sh/github/awesome-copilot/editorconfig): EditorConfig skill for consistent code style & formatting standards
-- [csharp-mcp-server-generator by github/awesome-copilot](https://skills.sh/github/awesome-copilot/csharp-mcp-server-generator): C# .NET 8.0 Model Context Protocol server generator & scaffolding
+- [microsoft-foundry by microsoft/github-copilot-for-azure](https://skills.sh/microsoft/github-copilot-for-azure/microsoft-foundry): Microsoft Foundry AI agent development, deployment & evaluation guide
+- [prompt-builder by github/awesome-copilot](https://skills.sh/github/awesome-copilot/prompt-builder): GitHub Copilot prompt engineering with .prompt.md templates for VS Code
+- [prompt-repetition by supercent-io/skills-template](https://skills.sh/supercent-io/skills-template/prompt-repetition): LLM prompt optimization for Gemini 2.0 & GPT-4o with benchmarks
+- [copilot-usage-metrics by github/awesome-copilot](https://skills.sh/github/awesome-copilot/copilot-usage-metrics): GitHub Copilot usage analytics & enterprise metrics via CLI tool
+- [polyglot-test-agent by github/awesome-copilot](https://skills.sh/github/awesome-copilot/polyglot-test-agent): AI-powered polyglot test generation with multi-agent pipeline
 
-## React & Next.js
+## Development Automation & CI/CD
 
-- [next-cache-components by vercel-labs/next-skills](https://skills.sh/vercel-labs/next-skills/next-cache-components): Next.js 16 Cache Components & Partial Prerendering (PPR) guide
-- [vercel-composition-patterns by vercel-labs/agent-skills](https://skills.sh/vercel-labs/agent-skills/vercel-composition-patterns): React 19 component composition patterns & compound components guide
+- [create-github-action-workflow-specification by github/awesome-copilot](https://skills.sh/github/awesome-copilot/create-github-action-workflow-specification): GitHub Actions workflow specification template for CI/CD automation
+- [conventional-commit by github/awesome-copilot](https://skills.sh/github/awesome-copilot/conventional-commit): Conventional Commits standard for Git workflow automation with Copilot
+- [rust-mcp-server-generator by github/awesome-copilot](https://skills.sh/github/awesome-copilot/rust-mcp-server-generator): Rust MCP server code generator with rmcp SDK project scaffolding
+- [task-planning by supercent-io/skills-template](https://skills.sh/supercent-io/skills-template/task-planning): Agile task planning with INVEST principles & MoSCoW prioritization
 
-## Development Environment & Tools
+## Azure & Cloud Infrastructure
 
-- [system-environment-setup by supercent-io/skills-template](https://skills.sh/supercent-io/skills-template/system-environment-setup): Docker Compose dev environment with PostgreSQL, Redis & Nginx setup
-- [codebase-search by supercent-io/skills-template](https://skills.sh/supercent-io/skills-template/codebase-search): Codebase navigation with semantic search & grep pattern strategies
-- [java-junit by github/awesome-copilot](https://skills.sh/github/awesome-copilot/java-junit): JUnit 5 testing guide with Maven/Gradle setup & parameterized tests
+- [azure-static-web-apps by github/awesome-copilot](https://skills.sh/github/awesome-copilot/azure-static-web-apps): Azure Static Web Apps deployment guide with SWA CLI and configuration
+- [fabric-lakehouse by github/awesome-copilot](https://skills.sh/github/awesome-copilot/fabric-lakehouse): Microsoft Fabric Lakehouse guide with Delta Lake & OneLake integration
+- [terraform-azurerm-set-diff-analyzer by github/awesome-copilot](https://skills.sh/github/awesome-copilot/terraform-azurerm-set-diff-analyzer): Terraform AzureRM plan diff analyzer for false-positive detection
 
-## Cloud & Infrastructure
+## Architecture & Best Practices
 
-- [azure-postgres by microsoft/github-copilot-for-azure](https://skills.sh/microsoft/github-copilot-for-azure/azure-postgres): Azure PostgreSQL with Entra ID passwordless authentication setup
-- [terraform-azurerm-set-diff-analyzer by github/awesome-copilot](https://skills.sh/github/awesome-copilot/terraform-azurerm-set-diff-analyzer): Terraform AzureRM diff analyzer for detecting false positives in plans
+- [architecture-patterns by wshobson/agents](https://skills.sh/wshobson/agents/architecture-patterns): Clean, Hexagonal & DDD architecture patterns for backend design
+- [monitoring-observability by supercent-io/skills-template](https://skills.sh/supercent-io/skills-template/monitoring-observability): Prometheus monitoring setup for Node.js/Express application instrumentation
 
-## Design & UI/UX
+## Data & Analytics
 
-- [interface-design by dammyjay93/interface-design](https://skills.sh/dammyjay93/interface-design/interface-design): SaaS interface design guide covering typography, navigation & data viz
-- [responsive-design by supercent-io/skills-template](https://skills.sh/supercent-io/skills-template/responsive-design): Mobile-first responsive design with CSS Grid, Flexbox & media queries
-- [penpot-uiux-design by github/awesome-copilot](https://skills.sh/github/awesome-copilot/penpot-uiux-design): Penpot UI/UX design with MCP server plugin setup & troubleshooting
+- [looker-studio-bigquery by supercent-io/skills-template](https://skills.sh/supercent-io/skills-template/looker-studio-bigquery): Looker Studio & BigQuery integration guide for analytics dashboards
 
 ## Optional
 
-- [datanalysis-credit-risk by github/awesome-copilot](https://skills.sh/github/awesome-copilot/datanalysis-credit-risk): Python credit risk analysis with data cleaning & feature selection
-- [marketing-psychology by coreyhaines31/marketingskills](https://skills.sh/coreyhaines31/marketingskills/marketing-psychology): Marketing psychology mental models: JTBD, Pareto Principle & more
-- [xlsx by anthropics/skills](https://skills.sh/anthropics/skills/xlsx): Excel formatting standards for financial modeling & formulas
+- [microsoft-docs by github/awesome-copilot](https://skills.sh/github/awesome-copilot/microsoft-docs): Microsoft Learn documentation search skill with MCP tools integration
+- [mkdocs-translations by github/awesome-copilot](https://skills.sh/github/awesome-copilot/mkdocs-translations): MkDocs documentation translation automation with GitHub Copilot & GPT-4o
+- [game-engine by github/awesome-copilot](https://skills.sh/github/awesome-copilot/game-engine): HTML5 Canvas & WebGL game engine development with Phaser & Three.js
+- [copywriting by coreyhaines31/marketingskills](https://skills.sh/coreyhaines31/marketingskills/copywriting): Conversion copywriting principles & marketing copy best practices

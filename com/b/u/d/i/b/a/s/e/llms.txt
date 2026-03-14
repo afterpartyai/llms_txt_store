@@ -1,35 +1,40 @@
 # Budibase
 
-> > Budibase is a low-code platform for building internal tools and AI agents that automate business operations with drag-and-drop builders and data integration.
+> > Budibase is a low-code platform for building AI agents and workflow automation tools that integrate with enterprise systems and data sources.
 
-Budibase enables organizations to rapidly create custom internal applications, approval workflows, and automated business processes. The platform features AI agents powered by Mistral 3, extensive data integration capabilities, and pre-built templates for IT operations, serving customers including the Bulgarian Government, Schnellecke, Ströer-x, and Herrenknecht.
+Budibase enables teams to create internal tools, IT helpdesk systems, and automated workflows using drag-and-drop builders and AI capabilities powered by Mistral 3, Anthropic, Google, and OpenAI. The platform is trusted by organizations including the Bulgarian Government, Schnellecke, and Ströer-x.
 
 ## Key Topics
 
-- Low-code development
-- AI agents and automation
-- Internal tools and applications
+- AI agents
 - Workflow automation
-- Approval workflows
-- Business operations
-- Data integration
+- Low-code development
+- Internal tools
+- IT helpdesk
+- Data integration (PostgreSQL, MySQL, Google Sheets)
+- REST API authentication
 - Drag-and-drop builder
-- IT templates
+- Access control
 - Request management
-- Customer case studies
-- Slack and Gmail integration
-- Enterprise customers
-- Mistral 3 AI
-- Business process automation
+- Budibase AI
+- Mistral 3, Anthropic, OpenAI integrations
+- Slack and Gmail integrations
+- Enterprise customers (Bulgarian Government, Schnellecke, Ströer-x)
+- Case studies and testimonials
 
-## Platform Overview
+## Platform & Core Features
 
-- [AI agents that run your operations | Budibase](https://budibase.com/platform/): Platform overview: AI agents with Mistral 3 for business automation
+- [Build AI agents. Make work flow.](https://budibase.com/): Homepage: AI agents and workflow automation platform by Budibase
+- [AI agents that run your operations](https://budibase.com/platform/): AI agents platform with Mistral 3, Anthropic, Google integrations
 
-## Templates and Solutions
+## Templates & Use Cases
 
-- [Build internal tools in minutes | Budibase](https://budibase.com/it/templates/): IT templates for approvals, operations & internal requests automation
+- [Build internal tools in minutes](https://budibase.com/it/templates/): IT templates for internal tools with PostgreSQL, MySQL, Google Sheets
 
-## Customer Stories
+## Customer Stories & Case Studies
 
-- [Customers | Budibase](https://budibase.com/customers/): Customer stories featuring Bulgarian Government, Schnellecke & others
+- [Customers](https://budibase.com/customers/): Customer stories from Bulgarian Government, Schnellecke and more
+
+## Tutorials & Documentation
+
+- [4 Methods for REST API Authentication](https://budibase.com/blog/tutorials/rest-api-authentication/): Tutorial on REST API authentication: API keys, basic auth, bearer tokens

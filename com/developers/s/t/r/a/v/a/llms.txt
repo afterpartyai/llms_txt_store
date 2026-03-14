@@ -1,0 +1,40 @@
+# Strava Developers
+
+> > Official documentation and API reference for building applications with the Strava V3 API, featuring OAuth 2.0 authentication, webhooks, and REST endpoints for athlete and activity data.
+
+The Strava Developer Platform provides comprehensive resources for integrating with Strava's fitness tracking ecosystem. Developers can access athlete profiles, activities, routes, and real-time updates through a RESTful API with OAuth 2.0 authentication, rate limiting, and webhook support.
+
+## Key Topics
+
+- Strava V3 API
+- OAuth 2.0 authentication
+- REST API endpoints
+- Webhook Events API
+- Access tokens and refresh tokens
+- Rate limits
+- Activity data
+- Athlete profiles
+- API authorization scopes
+- Swagger Playground
+- cURL examples
+- ISO 8601 standards
+- Developer community
+- Brand guidelines
+
+## Getting Started
+
+- [Strava Developers](https://developers.strava.com/): Strava API developer platform homepage and community hub
+- [Getting Started Guide](https://developers.strava.com/docs/getting-started/): Getting started guide for Strava API with OAuth 2.0 and rate limits
+- [API Documentation](https://developers.strava.com/docs/): Strava V3 API documentation with OAuth and Swagger Codegen support
+
+## API Reference
+
+- [REST API Reference](https://developers.strava.com/docs/reference/): Strava REST API reference with endpoints and ISO 8601 standards
+
+## Authentication & Authorization
+
+- [OAuth Updates](https://developers.strava.com/docs/oauth-updates/): OAuth migration guide for refresh tokens and authorization scopes
+
+## Webhooks & Events
+
+- [Webhook Events API](https://developers.strava.com/docs/webhooks/): Webhook Events API guide for real-time activity and athlete updates

@@ -1,0 +1,58 @@
+# Apipheny
+
+> > Apipheny is a no-code Google Sheets add-on that connects REST APIs to spreadsheets, enabling users to import data from hundreds of services without writing code.
+
+The site provides comprehensive tutorials for integrating popular APIs (OpenAI, GitHub, Facebook Ads, cryptocurrency exchanges, NFT marketplaces, and more) with Google Sheets using the Apipheny connector. It also offers educational resources explaining API fundamentals, authentication methods, and HTTP request types for beginners.
+
+## Key Topics
+
+- Apipheny add-on
+- Google Sheets integration
+- REST API connector
+- API authentication
+- No-code API integration
+- Cryptocurrency APIs (Coinbase, Binance, CoinGecko, Nomics)
+- Blockchain data (Etherscan, BscScan, Cardano)
+- NFT marketplace APIs (OpenSea, Magic Eden)
+- API keys and tokens
+- HTTP methods (GET, POST)
+- Data import automation
+- OAuth authentication
+- RapidAPI integration
+- Marketing API connectors
+- API request configuration
+
+## Getting Started & API Fundamentals
+
+- [What Is An API & How Do APIs Work?](https://apipheny.io/what-is-an-api): Beginner guide explaining API fundamentals and workflow basics
+- [What's an API Key? API Key & Value Meaning [Explained]](https://apipheny.io/what-is-an-api-key): Explanation of API keys, authentication methods, and security basics
+- [What Is A POST API Call? How A POST HTTP Request Works](https://apipheny.io/what-is-post-request): Explanation of POST HTTP method and how it differs from GET requests
+- [How To Modify API Request Settings in Apipheny](https://apipheny.io/request-settings): Guide to configuring Apipheny request settings and data import options
+
+## Popular API Integrations
+
+- [Connect OpenAI To Google Sheets [API Integration]](https://apipheny.io/openai-api): Guide to connect OpenAI API to Google Sheets using Apipheny connector
+- [Connect Facebook Ads To Google Sheets [Import/Export]](https://apipheny.io/facebook-ads-api-google-sheets): Tutorial: Connect Facebook Marketing API to Google Sheets for ads data
+- [Connect Github To Google Sheets [API Integration]](https://apipheny.io/github-api-google-sheets): Tutorial: Connect GitHub REST API to Google Sheets using access tokens
+- [Connect Notion To Google Sheets [API Integration]](https://apipheny.io/notion-api): Tutorial: Integrate Notion REST API with Google Sheets using Apipheny
+- [Connect Figma To Google Sheets [Integration]](https://apipheny.io/figma-api-google-sheets): Tutorial: Connect Figma REST API to Google Sheets with OAuth authentication
+- [Connect RapidAPI To Google Sheets [Integration]](https://apipheny.io/rapidapi-google-sheets): No-code guide to connect RapidAPI services to Google Sheets with Apipheny
+
+## Cryptocurrency & Blockchain APIs
+
+- [Connect Etherscan To Google Sheets [API Integration]](https://apipheny.io/etherscan-api): Tutorial: Integrate Etherscan Ethereum blockchain API with Google Sheets
+- [Connect Cardano API To Google Sheets [Integration]](https://apipheny.io/cardano-blockchain-api): Guide to integrate Cardano blockchain API with Google Sheets via Apipheny
+- [Connect Nomics To Google Sheets [Integration]](https://apipheny.io/nomics-api): Tutorial: Integrate Nomics crypto data API with Google Sheets via Apipheny
+- [Connect PancakeSwap To Google Sheets [API Integration]](https://apipheny.io/pancakeswap-api): Guide to integrate PancakeSwap DEX API on Binance Smart Chain with Sheets
+
+## NFT Marketplace APIs
+
+- [Connect OpenSea To Google Sheets [API Integration]](https://apipheny.io/opensea-api): Guide to integrate OpenSea NFT marketplace API with Google Sheets
+- [Connect Magic Eden To Google Sheets [API Integration]](https://apipheny.io/magic-eden-api): Guide to integrate Magic Eden NFT marketplace API with Google Sheets
+
+## Optional
+
+- [Connect Sports Data API To Google Sheets [Integration]](https://apipheny.io/sportsdata-api): Tutorial: Connect Sportsdata API to Google Sheets using Apipheny addon
+- [Connect Outbrain To Google Sheets [Integration]](https://apipheny.io/outbrain-api): Tutorial: Connect Outbrain REST API to Google Sheets with authentication
+- [Connect Minecraft API To Google Sheets [Integration]](https://apipheny.io/minecraft-api): Tutorial: Integrate Mojang Minecraft API with Google Sheets via Apipheny
+- [Best Salesforce QuickBooks Integration Software](https://apipheny.io/salesforce-quickbooks-integration): Review of Salesforce-QuickBooks integration tools including Breadwinner

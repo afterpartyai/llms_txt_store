@@ -1,69 +1,67 @@
 # PeerDH
 
-> > Programming tutorials and insights covering Python, JavaScript, Django REST APIs, quantum computing with Qiskit, data structures, IoT, and web development.
+> > A programming and web development resource covering Python, Rust, C++, machine learning, REST APIs, game development, and software engineering best practices.
 
-PeerDH is a technical education platform offering hands-on tutorials and guides for developers. The site features practical projects ranging from data visualization with Pandas and Matplotlib to quantum computing simulations, hash table implementations, and smart home automation systems.
+PeerDH provides practical tutorials, beginner guides, and technical insights spanning multiple programming domains including systems programming with Rust and C++, data science with Python and NumPy/Pandas, API development with Node.js and Express, and emerging technologies in AI and game development. The site emphasizes hands-on learning through project-based tutorials and explores both technical skills and developer psychology.
 
 ## Key Topics
 
 - Python
-- JavaScript
-- Django REST Framework
-- Node.js
-- Qiskit
-- Data Structures (Hash Tables)
-- API Development
-- Data Visualization (Pandas, Matplotlib)
-- Quantum Computing
-- IoT and Home Automation
-- Web Development (HTML, CSS, React)
-- Collision Resolution
-- Encryption and Security
-- Game Development (Unity, Unreal Engine)
-- Network Troubleshooting
+- REST API Development
+- Machine Learning
+- Rust
+- C++
+- Node.js & Express
+- Systems Programming
+- Game Development
+- Web Development
+- Data Science
+- Artificial Intelligence
+- NumPy & Pandas
+- MongoDB
+- Memory Safety
+- Beginner Programming Guides
 
 ## API Development & Backend
 
-- [Develop A Rest Api For A Task Management Application Using Django Rest](https://peerdh.com/blogs/programming-insights/develop-a-rest-api-for-a-task-management-application-using-django-rest-framework-2): Django REST Framework tutorial with authentication and CRUD operations
-- [Developing A Rest Api For A Social Media Application](https://peerdh.com/blogs/programming-insights/developing-a-rest-api-for-a-social-media-application-2): Node.js/Express REST API for social media with rate limiting
-- [Create A Simple Password Manager That Securely Stores And Retrieves Pa](https://peerdh.com/blogs/programming-insights/create-a-simple-password-manager-that-securely-stores-and-retrieves-passwords-emphasizing-encryption-techniques): Python password manager tutorial using Fernet encryption
+- [Build A Rest Api For An Online Store: Managing Products, Categories, A](https://peerdh.com/blogs/programming-insights/build-a-rest-api-for-an-online-store-managing-products-categories-and-orders-with-pagination-and-filtering-1): Node.js/Express REST API tutorial for ecommerce with MongoDB backend
+- [Developing A Rest Api For A Social Media Application](https://peerdh.com/blogs/programming-insights/developing-a-rest-api-for-a-social-media-application-2): Node.js REST API for social media: user profiles, posts, and friendships
 
-## Data Structures & Algorithms
+## Machine Learning & Data Science
 
-- [Developing A Simple Hash Table With Collision Resolution Techniques](https://peerdh.com/blogs/programming-insights/developing-a-simple-hash-table-with-collision-resolution-techniques): Hash table implementation in Python with collision resolution methods
-- [Develop A Simple Hash Table With Collision Resolution Techniques](https://peerdh.com/blogs/programming-insights/develop-a-simple-hash-table-with-collision-resolution-techniques-1): Python hash table implementation with collision handling strategies
+- [A Beginner's Guide To Creating A Simple Machine Learning Model In Pyth](https://peerdh.com/blogs/programming-insights/a-beginners-guide-to-creating-a-simple-machine-learning-model-in-python-using-scikit-learn): Python ML tutorial with Scikit-Learn for linear regression predictions
+- [Develop A Data Visualization Dashboard Using Apache Zeppelin Or Tablea](https://peerdh.com/blogs/programming-insights/develop-a-data-visualization-dashboard-using-apache-zeppelin-or-tableau-to-present-insights-from-big-data-processed-with-spark-1): Build dashboards with Apache Zeppelin, Tableau and Spark for big data
 
-## Web Development & Design
+## Systems Programming & Language Comparisons
 
-- [Responsive Web Design: Best Practices For Modern Websites](https://peerdh.com/blogs/programming-insights/responsive-web-design-best-practices-for-modern-websites): Best practices for responsive design with CSS and WCAG guidelines
-- [The Evolution Of Web Development: From Static Pages To Dynamic Applica](https://peerdh.com/blogs/programming-insights/the-evolution-of-web-development-from-static-pages-to-dynamic-applications): Web development history from HTML to React and modern frameworks
-- [Network Troubleshooting Guide: Common Issues And Command-line Solution](https://peerdh.com/blogs/programming-insights/network-troubleshooting-guide-common-issues-and-command-line-solutions-2): Network diagnostics guide using ping and traceroute commands
+- [C++ Vs Rust: Performance And Safety In Systems Programming](https://peerdh.com/blogs/programming-insights/c-vs-rust-performance-and-safety-in-systems-programming): C++ vs Rust comparison: performance, memory safety, and ownership models
+- [Emerging Programming Languages: Overview Of Rust And Julia](https://peerdh.com/blogs/programming-insights/emerging-programming-languages-overview-of-rust-and-julia): Rust and Julia comparison: systems programming vs data science languages
+- [Why Python Is The Swiss Army Knife Of Programming](https://peerdh.com/blogs/programming-insights/why-python-is-the-swiss-army-knife-of-programming): Python's versatility across web dev, data science, ML, and automation
 
-## Data Visualization & Analysis
+## Web Development Fundamentals
 
-- [Create A Project That Visualizes Survey Results Using Bar Charts And P](https://peerdh.com/blogs/programming-insights/create-a-project-that-visualizes-survey-results-using-bar-charts-and-pie-charts-2): Python data visualization tutorial using Matplotlib and Pandas
-- [Build An Interactive Map Using Folium To Visualize Geographical Data](https://peerdh.com/blogs/programming-insights/build-an-interactive-map-using-folium-to-visualize-geographical-data-1): Folium/Leaflet.js tutorial for interactive geographical data maps
+- [Building Your First Website: A Step-by-step Guide](https://peerdh.com/blogs/programming-insights/building-your-first-website-a-step-by-step-guide): Beginner guide to website building: hosting, domain, CMS, and SEO basics
+- [The Importance Of Seo In Web Development: Tips And Techniques](https://peerdh.com/blogs/programming-insights/the-importance-of-seo-in-web-development-tips-and-techniques): SEO best practices: page speed, meta tags, and content optimization tips
+- [Web Accessibility: Creating Inclusive Websites For All Users](https://peerdh.com/blogs/programming-insights/web-accessibility-creating-inclusive-websites-for-all-users): Web accessibility guide: WCAG principles, semantic HTML, and WAVE testing
+- [The Future Of Web Development: Trends In Web Technologies](https://peerdh.com/blogs/programming-insights/the-future-of-web-development-trends-in-web-technologies-2): Web dev trends: PWAs, AI integration, serverless, and voice optimization
 
-## Quantum Computing & Advanced Topics
+## Game Development & AI
 
-- [Develop A Project That Simulates A Quantum Random Number Generator Usi](https://peerdh.com/blogs/programming-insights/develop-a-project-that-simulates-a-quantum-random-number-generator-using-quantum-principles-to-generate-random-bits-1): Quantum RNG tutorial using Qiskit and Python with Hadamard gates
+- [Game Development For Beginners: Key Tools And Resources](https://peerdh.com/blogs/programming-insights/game-development-for-beginners-key-tools-and-resources): Beginner guide to Unity, Unreal Engine, Godot and game dev essentials
+- [Exploring The Impact Of Ai On Game Development And Player Experience](https://peerdh.com/blogs/programming-insights/exploring-the-impact-of-ai-on-game-development-and-player-experience): AI's role in NPCs, procedural generation, and game personalization
 
-## IoT & Hardware Projects
+## Practical Programming Projects
 
-- [Build A Basic Motion Detection System Using A Pir Sensor](https://peerdh.com/blogs/programming-insights/build-a-basic-motion-detection-system-using-a-pir-sensor): Arduino tutorial for PIR sensor motion detection system
-- [Create A Smart Home Lighting System That Allows Users To Control Light](https://peerdh.com/blogs/programming-insights/create-a-smart-home-lighting-system-that-allows-users-to-control-lights-remotely-using-a-mobile-app-or-web-interface-1): Smart home IoT tutorial for remote lighting control with Philips Hue
+- [Currency Converter: Build A Currency Converter That Fetches Live Excha](https://peerdh.com/blogs/programming-insights/currency-converter-build-a-currency-converter-that-fetches-live-exchange-rates): Python tutorial: build currency converter with ExchangeRate-API integration
+- [Basic Quiz Application: Create A Quiz App That Presents Questions To U](https://peerdh.com/blogs/programming-insights/basic-quiz-application-create-a-quiz-app-that-presents-questions-to-users-and-keeps-track-of-their-scores): Build interactive quiz app with HTML, CSS, JavaScript and score tracking
 
-## Programming Fundamentals & Career
+## Developer Psychology & Productivity
 
-- [Building A Simple Quiz Application In Python](https://peerdh.com/blogs/programming-insights/building-a-simple-quiz-application-in-python): Beginner Python tutorial for building command-line quiz app
-- [Why Every Programmer Should Learn A New Language: Exploring The Benefi](https://peerdh.com/blogs/programming-insights/why-every-programmer-should-learn-a-new-language-exploring-the-benefits-of-polyglot-programming): Benefits of polyglot programming and learning multiple languages
-- [Using Unity Vs Unreal Engine: Which Is Right For Your Game?](https://peerdh.com/blogs/programming-insights/using-unity-vs-unreal-engine-which-is-right-for-your-game): Unity vs Unreal Engine comparison for game development decisions
-
-## Core Pages
-
-- [Products](https://peerdh.com/collections/products): Product catalog page (currently empty)
+- [The Psychology Of A Programmer: Exploring The Mindset Of Programmers](https://peerdh.com/blogs/programming-insights/the-psychology-of-a-programmer-exploring-the-mindset-of-programmers): Programmer psychology: problem-solving, resilience, and imposter syndrome
+- [The Art Of Code Review: How To Give Feedback Without Breaking Spirits](https://peerdh.com/blogs/programming-insights/the-art-of-code-review-how-to-give-feedback-without-breaking-spirits): Constructive code review techniques for effective developer collaboration
+- [The Art Of Procrastination: Why We Do It And How To Overcome It](https://peerdh.com/blogs/programming-insights/the-art-of-procrastination-why-we-do-it-and-how-to-overcome-it): Psychology of procrastination with productivity tips and Pomodoro Technique
+- [The Art Of Procrastination: Why We Delay And How To Overcome It](https://peerdh.com/blogs/programming-insights/the-art-of-procrastination-why-we-delay-and-how-to-overcome-it-1): Time management strategies and psychology behind procrastination habits
 
 ## Optional
 
-- [The Power Of Storytelling: How Narratives Shape Our Lives](https://peerdh.com/blogs/programming-insights/the-power-of-storytelling-how-narratives-shape-our-lives-1): Article on storytelling's impact on human connection and culture
-- [The Fascinating World Of Sleep: Why We Need It And How To Improve It](https://peerdh.com/blogs/programming-insights/the-fascinating-world-of-sleep-why-we-need-it-and-how-to-improve-it-1): Sleep science covering REM/NREM cycles and health improvement tips
+- [GDPR Privacy Policy](https://peerdh.com/pages/gdpr-privacy-policy): GDPR-compliant privacy policy for peerdh.com data protection practices

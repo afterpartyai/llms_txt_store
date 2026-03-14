@@ -1,0 +1,26 @@
+# SWE-bench
+
+> > SWE-bench is a benchmark for evaluating AI agents on real-world software engineering tasks, featuring multiple variants and comprehensive leaderboards.
+
+SWE-bench provides standardized evaluation frameworks for measuring how well AI models and agents can solve authentic GitHub issues across various programming languages and modalities. The platform tracks performance across multiple benchmark variants including Verified, Lite, Multilingual, and Multimodal versions, with support from organizations like OpenAI, Anthropic, Open Philanthropy, AWS, and Andreessen Horowitz.
+
+## Key Topics
+
+- SWE-bench Verified
+- SWE-bench Lite
+- SWE-bench Multilingual
+- SWE-bench Multimodal
+- SWE-agent
+- mini-SWE-agent
+- AI agents for software engineering
+- Code generation benchmarking
+- Model evaluation leaderboards
+- Real-world GitHub issue resolution
+- Multilingual code tasks
+- Multimodal code evaluation
+- SWE-smith
+- CodeClash
+
+## Main Leaderboard & Overview
+
+- [SWE-bench Leaderboards](https://www.swebench.com/): Homepage featuring SWE-bench AI agent evaluation leaderboards & variants

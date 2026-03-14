@@ -1,61 +1,64 @@
 # 16x Prompt
 
-> 16x Prompt is an AI coding assistant with advanced context management, supporting ChatGPT, Claude, DeepSeek, and other LLMs for software development.
+> > 16x Prompt is an AI coding assistant platform offering API integration with ChatGPT, Claude, DeepSeek, and other LLMs for software development workflows.
 
-Created by Zhu Liang, 16x Prompt helps developers compose effective prompts by combining task instructions with source code context. It supports multiple AI providers including OpenAI, Anthropic, Ollama, and Fireworks, with features for Python, Next.js, and general software development workflows.
+The site provides setup guides for various AI model providers (OpenAI, Anthropic, Hyperbolic, DeepInfra), comparison analyses between AI coding tools, and educational content on AI coding evolution, token management, and enterprise adoption. Created by Zhu Liang, it serves developers seeking to optimize their AI-assisted coding workflows.
 
 ## Key Topics
 
-- prompt-engineering
-- context-management
-- code-generation
-- api-integration
+- 16x Prompt
 - ChatGPT
-- Claude
-- DeepSeek
+- Claude 3.5 Sonnet
+- DeepSeek V3
 - GPT-4o
-- Ollama
-- Python
-- ai-coding-tools
-- developer-tools
-- llm-integration
-- model-selection
-- prompt-management
+- API configuration
+- Token usage and limits
+- AI coding tools
+- Context windows
+- LLM benchmarks
+- GitHub Copilot
+- Prompt engineering
+- OpenRouter
+- Developer tools
+- Code completion
 
 ## Getting Started
 
-- [16x Prompt - AI Coding with Advanced Context Management](https://prompt.16x.engineer): Homepage: AI coding tool with context management and multi-LLM support
-- [About | 16x Prompt](https://prompt.16x.engineer/about): About 16x Prompt: AI coding assistant for composing ChatGPT prompts
-- [Basic Usage Guide | 16x Prompt](https://prompt.16x.engineer/guide/basic): Getting started: compose prompts from task instructions and source code
-- [Pricing | 16x Prompt](https://prompt.16x.engineer/pricing): Pricing options: free version and lifetime license for 16x Prompt
-- [Comparisons | 16x Prompt](https://prompt.16x.engineer/comparisons): Compare 16x Prompt to ChatGPT, Cursor, aider, and GitHub Copilot
+- [Guide](https://prompt.16x.engineer/guide): Setup guides for OpenAI, Claude APIs and LLM configuration in 16x Prompt
+- [Comparisons](https://prompt.16x.engineer/comparisons): Compare 16x Prompt to ChatGPT, Claude, Cursor, and aider for coding
 
 ## API Setup Guides
 
-- [OpenAI API Setup Guide | 16x Prompt](https://prompt.16x.engineer/guide/openai): Setup OpenAI API to use GPT models in 16x Prompt
-- [Claude API Setup Guide | 16x Prompt](https://prompt.16x.engineer/guide/claude): Setup Claude API to use Anthropic models and bypass web interface limits
-- [Ollama Setup Guide | 16x Prompt](https://prompt.16x.engineer/guide/ollama): Setup Ollama locally to serve models like deepseek-r1:14b in 16x Prompt
-- [Fireworks Setup Guide | 16x Prompt](https://prompt.16x.engineer/guide/fireworks): Setup Fireworks API for deepseek-r1 and deepseek-v3 models
+- [Claude API Setup Guide](https://prompt.16x.engineer/guide/claude): Configure Anthropic Claude API to bypass web interface usage limits
+- [DeepSeek Setup Guide](https://prompt.16x.engineer/guide/deepseek): Setup DeepSeek V3/R1 models via API, Hyperbolic, or Fireworks
+- [Hyperbolic Setup Guide](https://prompt.16x.engineer/guide/hyperbolic): Setup Hyperbolic API provider with DeepSeek-R1 in 16x Prompt
+- [Deep Infra Setup Guide](https://prompt.16x.engineer/guide/deepinfra): Configure DeepInfra API with DeepSeek V3/R1 models in 16x Prompt
 
-## Use Cases and Workflows
+## AI Coding Fundamentals
 
-- [AI Coding - Python Code Generator for Developers | 16x Prompt](https://prompt.16x.engineer/python-code-generator-ai): Python code generator with AI for data processing and backend services
-- [16x Prompt for Python | 16x Prompt](https://prompt.16x.engineer/use-cases/python): Use 16x Prompt for Python scripts, data processing, and backend services
-- [16x Prompt for Next.js | 16x Prompt](https://prompt.16x.engineer/use-cases/nextjs): Use 16x Prompt for Next.js app development and web applications
-- [AI Coding Workflow - Developer Tools and Best Practices | 16x Prompt](https://prompt.16x.engineer/blog/ai-coding-workflow): AI tools and best practices for coding tasks and developer productivity
+- [AI Coding Evolution and Landscape: L1 to L5](https://prompt.16x.engineer/blog/ai-coding-l1-l5): Framework for AI coding evolution from L1 completion to L5 dev teams
+- [AI Coding Workflow - Developer Tools and Best Practices](https://prompt.16x.engineer/blog/ai-coding-workflow): Best practices for AI coding workflows with GitHub Copilot and Cursor
+- [AI Coding: Enterprise Adoption and Concerns](https://prompt.16x.engineer/blog/ai-coding-enterprise-adoption-concerns): Enterprise AI coding adoption: IP, privacy, GDPR/HIPAA compliance concerns
+- [Top 8 Apps Built with AI Coding in 2024](https://prompt.16x.engineer/blog/coding-projects-developed-using-chatgpt): Showcase of apps built by non-developers using ChatGPT and Claude
 
-## Model Comparisons and Reviews
+## Model Comparisons and Analysis
 
-- [ChatGPT Plus vs API: Cost Comparison | 16x Prompt](https://prompt.16x.engineer/blog/chatgpt-plus-vs-api-cost): Compare ChatGPT Plus subscription vs GPT-4o API costs for coding
-- [Claude 3.7 vs 3.5 Sonnet for Coding - Which One Should You Use? | 16x Prompt](https://prompt.16x.engineer/blog/claude-37-vs-35-sonnet-coding): Compare Claude 3.7 vs 3.5 Sonnet coding performance and features
-- [How Good is Qwen 2.5 Coder 32B for Coding? | 16x Prompt](https://prompt.16x.engineer/blog/qwen-25-coder-32b-coding): Review of Qwen 2.5 Coder 32B model for software development tasks
-- [Code to Tokens Conversion: A Developer's Guide | 16x Prompt](https://prompt.16x.engineer/blog/code-to-tokens-conversion): How lines of code translate to tokens in ChatGPT and GPT-4o
+- [ChatGPT vs Claude for Coding - Which AI Model is Better?](https://prompt.16x.engineer/blog/chatgpt-vs-claude-for-coding): Performance comparison: ChatGPT vs Claude for coding tasks and benchmarks
+- [Is New Claude Sonnet 3.5 the Best Model for Coding?](https://prompt.16x.engineer/blog/new-claude-sonnet-35-coding): Claude 3.5 Sonnet coding abilities and benchmark comparison with Aider
+- [Claude 3.7 vs 3.5 Sonnet for Coding - Which One Should You Use?](https://prompt.16x.engineer/blog/claude-37-vs-35-sonnet-coding): Claude 3.7 vs 3.5 Sonnet coding comparison and benchmark analysis
+- [Quasar Alpha: The Mysterious New Model Likely From OpenAI](https://prompt.16x.engineer/blog/quasar-alpha-openai-stealth-model): Analysis of Quasar Alpha stealth model with 1M token context from OpenAI
 
-## Tools and Resources
+## Token Management and Pricing
 
-- [CLI Tools Collection | 16x Prompt](https://prompt.16x.engineer/cli-tools): CLI tools like code2prompt and SnapSource for converting code to prompts
-- [Repo Prompt Alternative | 16x Prompt](https://prompt.16x.engineer/comparisons/repoprompt-alternative): 16x Prompt as simpler Repo Prompt alternative with intuitive interface
+- [Token Calculator - Calculate Claude and GPT-4o API Cost](https://prompt.16x.engineer/tool/token-calculator): Calculate token count and API costs for Claude and GPT-4o models
+- [ChatGPT Context Window and Token Limit](https://prompt.16x.engineer/blog/chatgpt-context-window-token-limit): Understanding ChatGPT context window and token limits for coding tasks
+- [Code to Tokens Conversion: A Developer's Guide](https://prompt.16x.engineer/blog/code-to-tokens-conversion): Understanding code-to-token conversion for GPT-4o and ChatGPT pricing
+- [ChatGPT Plus vs API: Cost Comparison](https://prompt.16x.engineer/blog/chatgpt-plus-vs-api-cost): Cost analysis: ChatGPT Plus subscription vs GPT-4o API for coding
+
+## Use Cases
+
+- [16x Prompt for SQL](https://prompt.16x.engineer/use-cases/sql): Generate SQL scripts for MySQL database queries using 16x Prompt
 
 ## Optional
 
-- [BKAV False Alarm for 16x Prompt | 16x Prompt](https://prompt.16x.engineer/blog/bkav-false-positive-false-alarm): BKAV false positive detection on VirusTotal for 16x Prompt
+- [BKAV False Alarm for 16x Prompt](https://prompt.16x.engineer/blog/bkav-false-positive-false-alarm): BKAV false positive malware detection for 16x Prompt on VirusTotal

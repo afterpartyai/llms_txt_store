@@ -1,0 +1,55 @@
+# Twelve Data
+
+> > Financial market data API platform providing real-time and historical data for stocks, forex, cryptocurrencies, and indices across global exchanges including KRX, HKEX, LSE, Euronext, and Cboe.
+
+Twelve Data offers comprehensive APIs for accessing financial market data with support for technical indicators, time-series analysis, and WebSocket streaming. The platform serves developers, FinTech companies, and enterprises with tools including Python libraries, Excel add-ins, and Google Sheets integration.
+
+## Key Topics
+
+- Real-time market data
+- Historical financial data
+- Forex API & exchange rates
+- Time-series analysis
+- Technical indicators
+- WebSocket streaming
+- Global exchanges (KRX, HKEX, TWSE, Euronext, LSE, Cboe)
+- Cryptocurrency data (Binance)
+- Python integration (TDClient)
+- Excel & Google Sheets add-ons
+- JSON/CSV data formats
+- Stock market indices (DAX, FTSE 100, Nifty 50, CAC 40)
+- API documentation
+- Enterprise FinTech solutions
+
+## Core Data Products
+
+- [Forex APIs (Real Time & Historical)](https://twelvedata.com/forex): Forex & metals data API for 2000+ pairs with real-time streaming
+- [Global Indices APIs (Real Time & Historical)](https://twelvedata.com/indices): Global stock market indices API: DAX, FTSE 100, Nifty 50, CAC 40 data
+
+## API Documentation & Tools
+
+- [API Request Builder](https://twelvedata.com/request-builder): No-code tool to construct API requests for financial data in JSON/CSV
+- [Twelve Data Excel Add-in Installation Guide for Windows](https://twelvedata.com/news/twelve-data-excel-add-in-installation-guide-for-windows): Step-by-step Excel Add-in installation guide for Windows users
+- [Twelve Data Google Sheets Add-on Documentation](https://twelvedata.com/news/twelve-data-google-sheets-add-on-documentation): Google Sheets Add-on function reference and integration guide
+
+## Tutorials & Guides
+
+- [Forex API: Accessing the $6.6 Trillion Market](https://twelvedata.com/news/forex-api-accessing-the-66-trillion-market): Tutorial on accessing Forex market data via Twelve Data API
+- [Get High-Quality Financial Data Directly into Python](https://twelvedata.com/news/get-high-quality-financial-data-directly-into-python): Python tutorial using TDClient library with pandas integration
+
+## Platform Updates
+
+- [Jan 2025 updates](https://twelvedata.com/news/jan-2025-updates): Jan 2025 platform improvements: RapidAPI, ASX, Cboe endpoint updates
+- [July 2025 updates](https://twelvedata.com/news/july-2025-updates): July 2025: Intercom live chat, Swagger docs, OAuth, mutual funds updates
+- [June 2025 updates](https://twelvedata.com/news/june-2025-updates): June 2025 updates: Loop Crypto payments, UX improvements, Cboe data
+- [Sep/Oct 2024 updates](https://twelvedata.com/news/sep-oct-2024-updates): Product updates for Sep/Oct 2024: SEC EDGAR, Crypto WebSocket improvements
+
+## Support & Consultation
+
+- [Request consultation](https://twelvedata.com/contact/consultation): Business consultation request form for FinTech companies & enterprises
+
+## Optional
+
+- [Changelog](https://twelvedata.com/changelog): Complete version history: features, enhancements, security updates
+- [Previous Privacy Policy](https://twelvedata.com/previous-privacy): Previous version of privacy policy for Twelve Data Pte. Ltd.
+- [Previous Cookie Policy](https://twelvedata.com/previous-cookies): Previous cookie policy and user consent documentation

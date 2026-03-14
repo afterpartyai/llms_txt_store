@@ -1,37 +1,41 @@
 # Claude
 
-> > Claude is Anthropic's AI assistant platform offering enterprise solutions, desktop and mobile applications, integrations with Excel and PowerPoint, AI agents, and deployment options through Google Cloud Vertex AI and Amazon Bedrock.
+> > Claude by Anthropic: Enterprise AI platform featuring Claude Code for autonomous programming, Claude Marketplace for integrated AI tools, and solutions spanning life sciences, code modernization, and education.
 
-Claude provides AI capabilities across multiple tiers (Claude Max, Claude Team, Claude Enterprise) with features like Claude Code for development, Cowork for collaboration, and specialized integrations for productivity tools. The platform supports agentic workflows, voice input, and enterprise-grade deployment options.
+Claude offers enterprise-grade AI products including Claude Code (an IDE-integrated coding agent), Claude Marketplace (curated AI partners like GitLab, Harvey, and Snowflake), and industry-specific solutions. The platform emphasizes security, compliance, and developer productivity with deployment options across AWS Bedrock, GCP, and Azure.
 
 ## Key Topics
 
-- Claude AI Assistant
-- Anthropic
-- Claude Enterprise
 - Claude Code
-- Google Cloud Vertex AI
-- Amazon Bedrock
-- Excel Integration
-- Agentic AI
-- Enterprise AI Solutions
-- Cowork Collaboration
-- Desktop Applications
-- Workflow Automation
-- Formula Debugging
-- Microsoft Foundry
-- API Integrations
+- Claude Marketplace
+- Enterprise AI solutions
+- Code modernization and legacy system migration
+- IDE integration and autonomous programming
+- Developer productivity tools
+- Claude Builder Clubs and Campus Program
+- Regional compliance and data residency
+- Life sciences and biotech research
+- Enterprise integrations (Slack, Jira, Confluence)
+- SSO and security features
+- GitLab, Harvey, Lovable partnerships
+- AWS Bedrock, GCP, Azure deployments
 
-## Core Products & Downloads
+## Enterprise Products
 
-- [Download Claude](https://claude.com/ja-jp/download): Download Claude desktop & mobile apps for macOS, Windows with Cowork
-- [AI Agents](https://claude.com/ja-jp/solutions/agents): Build AI agents with Claude for autonomous task execution and reasoning
+- [Claude Code for Enterprise](https://claude.com/de-de/product/claude-code/enterprise): Enterprise coding agent with IDE integration and codebase migration
+- [Enterprise Plan Pricing](https://claude.com/fr-fr/pricing/enterprise): Enterprise plan with SSO, compliance, Jira/Confluence integrations
+- [Claude Marketplace](https://claude.com/platform/marketplace): Curated AI-powered partners like GitLab & Harvey with unified billing
+- [Claude Marketplace (Korean)](https://claude.com/ko-kr/platform/marketplace): Claude Marketplace for enterprise AI tools with unified spending
 
-## Enterprise Integrations
+## Industry Solutions
 
-- [Claude for Excel](https://claude.com/ja-jp/claude-for-excel): Claude integration for Excel with formula debugging and sheet analysis
-- [Google Cloud Vertex AI](https://claude.com/fr-fr/partners/google-cloud-vertex-ai): Deploy Claude on Google Cloud Vertex AI for enterprise solutions
+- [Code Modernization](https://claude.com/solutions/code-modernization): Legacy system modernization with Claude Code AI automation
+- [Life Sciences Solutions](https://claude.com/ja-jp/solutions/life-sciences): Biotech research acceleration with Broad Institute & Terra.bio integration
 
-## Customer Stories
+## Education & Community
 
-- [Customer Case Studies](https://claude.com/ko-kr/customers): Customer stories from Binti, Intercom, Asana, Mintlify using Claude
+- [Claude Campus Program](https://claude.com/ja-jp/programs/campus): Student-led AI initiative with Builder Clubs and campus ambassadors
+
+## Compliance & Security
+
+- [Regional Compliance](https://claude.com/ja-jp/regional-compliance): Regional compliance, data residency via AWS, GCP, Azure deployments

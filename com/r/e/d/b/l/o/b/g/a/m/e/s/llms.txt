@@ -1,0 +1,60 @@
+# Red Blob Games
+
+> > Interactive visual tutorials and explorations of algorithms, procedural generation, and computer graphics techniques for game development.
+
+Created by Amit Patel, this site features in-depth interactive explanations of pathfinding algorithms, hexagonal grids, procedural terrain generation, and graphics programming. The tutorials combine WebGL demos, mathematical concepts, and practical code examples to teach complex topics through hands-on experimentation.
+
+## Key Topics
+
+- A* pathfinding
+- Breadth First Search
+- Hexagonal grids
+- Procedural generation
+- Reaction-diffusion patterns
+- Turing patterns
+- WebGL implementation
+- SDF fonts
+- Bezier curves
+- Terrain generation
+- Physics simulation
+- Generative art
+- Map generation
+- Interactive demos
+- Game development algorithms
+
+## Pathfinding and Algorithms
+
+- [Introduction to the A* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html): Interactive tutorial for A*, Dijkstra's, and pathfinding algorithms
+
+## Grid Systems and Coordinates
+
+- [Hexagonal grid debugger](https://www.redblobgames.com/grids/hexagons/debugger.html): Interactive debugging tool for hexagonal grid coordinate systems
+- [Fractional hex line drawing](https://www.redblobgames.com/x/2045-fractional-hex-line-drawing): Line drawing algorithm for fractional hex grid coordinates
+
+## Procedural Generation and Map Creation
+
+- [Terrain generation with sine waves](https://www.redblobgames.com/x/1733-sine-wave-terrain): Procedural terrain generation using sine waves and Fourier transforms
+- [Mapgen Cylinder](https://www.redblobgames.com/x/2505-mapgen-cylinder): Cylindrical map generation with wind simulation and rain shadows
+- [Mapgen4 river shader](https://www.redblobgames.com/blog/2025-09-30-mapgen4-river-shader): Mapgen4 river rendering with Bezier curves and barycentric coordinates
+
+## Graphics and Rendering Techniques
+
+- [Reaction Diffusion](https://www.redblobgames.com/x/1905-reaction-diffusion): Interactive WebGL demo of reaction-diffusion patterns and Turing patterns
+- [SDF letter spacing](https://www.redblobgames.com/blog/2024-09-08-sdf-font-spacing): SDF font rendering techniques for map labels with kerning and spacing
+- [Canvas drawing speed - circles](https://www.redblobgames.com/x/1822-canvas-drawing-circles): Canvas performance comparison across Chrome, Firefox, and Safari
+
+## Physics and Simulation
+
+- [Box2D physics demo](https://www.redblobgames.com/x/1539-articulated): Interactive Box2D physics simulation with articulated bodies
+- [Spaceship flyer](https://www.redblobgames.com/x/2216-spaceship-flyer): Interactive spaceship physics demo with thruster simulation
+- [Hopf bifurcations](https://www.redblobgames.com/x/2040-ghrist-hopf): Interactive demo of Hopf bifurcations in dynamical systems
+
+## Generative Art and Creative Tools
+
+- [Jimmy Huguet's Magic Seals](https://www.redblobgames.com/x/2031-huguet-magic-seal): Procedural generation of magic seals in JavaScript
+- [Svg Logo Generator](https://www.redblobgames.com/plotter/2229-svg-logo): SVG logo generator using Bezier curves for AxiDraw plotter
+
+## Optional
+
+- [Let's write a search engine, part 1 of 2](https://www.redblobgames.com/blog/2025-08-29-lets-write-a-search-engine-1): Building a custom search engine with text extraction and parsing
+- [URLs with trailing punctuation](https://www.redblobgames.com/blog/2026-02-12-urls-with-trailing-punctuation): Web server configuration for handling URLs with trailing punctuation

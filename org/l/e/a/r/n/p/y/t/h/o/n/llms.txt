@@ -1,0 +1,61 @@
+# Learn Python
+
+> > Free interactive Python tutorial covering fundamentals through advanced topics including decorators, generators, data structures, and file handling.
+
+Learn Python offers hands-on Python tutorials in multiple languages, from basic syntax and operators to advanced concepts like closures, partial functions, and regex. The site provides interactive lessons with practical examples including CSV parsing, the Fibonacci sequence, and working with Python's functools and csv modules.
+
+## Key Topics
+
+- Python tutorial
+- Decorators and callable objects
+- Generators and yield statements
+- Data structures (lists, dictionaries)
+- CSV parsing and file handling
+- Regular expressions (re module)
+- Closures and nested functions
+- Partial functions (functools)
+- Modules and packages
+- Loops and control flow
+- String formatting
+- Code introspection
+- Iterators and lazy evaluation
+- Function modification
+- Python syntax fundamentals
+
+## Core Python Fundamentals
+
+- [Basic Operators](http://learnpython.org/cs/Basic%20Operators): Czech guide to Python arithmetic, string, and list operators
+- [Loops](http://learnpython.org/cs/Loops): Czech tutorial on for/while loops and control flow in Python
+- [Lists](http://learnpython.org/no/Lists): Norwegian tutorial on Python lists and basic operations
+- [String Formatting](http://learnpython.org/es/String%20Formatting): Spanish guide to Python string formatting and C-style operators
+
+## Data Structures
+
+- [Dictionaries (Italian)](http://learnpython.org/it/Dictionaries): Italian guide to Python dictionaries and key-value pairs
+- [Dictionaries (French)](http://learnpython.org/fr/Dictionaries): French tutorial on Python dictionaries and key-value data structures
+
+## Advanced Python Concepts
+
+- [Decorators (Spanish)](http://learnpython.org/es/Decorators): Spanish tutorial on Python decorators and function modification
+- [Decorators (Italian)](http://learnpython.org/it/Decorators): Italian tutorial on Python decorators and wrapper functions
+- [Decorators (French)](http://learnpython.org/fr/Decorators): French tutorial on Python decorators and callable objects
+- [Generators (French)](http://learnpython.org/fr/Generators): French tutorial on Python generators and yield statements
+- [Generators (Norwegian)](http://learnpython.org/no/Generators): Norwegian guide to Python generators with Fibonacci examples
+- [Generators (Arabic)](http://learnpython.org/ar/Generators): Arabic tutorial on Python generators and lazy evaluation
+- [Closures (Italian)](http://learnpython.org/it/Closures): Italian tutorial on Python closures and nested functions
+- [Closures (Finnish)](http://learnpython.org/fi/Closures): Finnish tutorial on Python closures and function scope
+- [Partial Functions](http://learnpython.org/fr/Partial%20functions): French guide to partial functions using functools module
+
+## Modules and Organization
+
+- [Modules and Packages](http://learnpython.org/vi/Modules%20and%20Packages): Vietnamese guide to Python modules, packages, and import statements
+
+## File Handling and Data Processing
+
+- [Parsing CSV Files (Hebrew)](http://learnpython.org/he/Parsing%20CSV%20Files): Tutorial on parsing CSV files using Python's csv module
+- [Parsing CSV Files (Italian)](http://learnpython.org/it/Parsing%20CSV%20Files): Italian tutorial on CSV file handling with Python csv module
+- [Regular Expressions](http://learnpython.org/ar/Regular%20Expressions): Arabic tutorial on regex pattern matching using Python's re module
+
+## Optional
+
+- [Code Introspection](http://learnpython.org/ar/Code%20Introspection): Arabic guide to Python code introspection with help() and dir()

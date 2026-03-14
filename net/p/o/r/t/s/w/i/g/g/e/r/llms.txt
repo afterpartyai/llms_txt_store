@@ -1,0 +1,61 @@
+# PortSwigger
+
+> > PortSwigger provides Burp Suite, the leading web application security testing platform, along with extensive resources for penetration testing and vulnerability research.
+
+PortSwigger is the company behind Burp Suite, offering professional and enterprise security testing tools, a vast library of Burp extensions through the BApp Store, and educational content on web security. Founded by Dafydd Stuttard, PortSwigger serves the global AppSec community with innovative solutions including AI-powered testing capabilities.
+
+## Key Topics
+
+- Burp Suite
+- Burp Extensions (BApp Store)
+- Web Application Security Testing
+- Penetration Testing
+- Vulnerability Scanning
+- Burp Suite Enterprise Edition
+- Burp AI
+- HTTP Security
+- Active Scanner
+- Security Research
+- XSS, XXE, SSRF Detection
+- JSON and API Testing
+- Prototype Pollution
+- CSP Bypass
+- AppSec Community
+
+## Core Platform
+
+- [Web Application Security, Testing, & Scanning - PortSwigger](https://portswigger.net): PortSwigger homepage featuring Burp Suite and web security tools
+
+## Product News & Announcements
+
+- [Burp AI takes on a vulnerable web app: watch Tib3rius put Burp's new agentic capabilities to the test](https://portswigger.net/blog/burp-ai-takes-on-a-vulnerable-web-app-watch-tib3rius-put-burps-new-agentic-capabilities-to-the-test): Tib3rius demonstrates Burp AI's agentic capabilities on vulnerable app
+- [Burp Suite Enterprise Edition beta now available](https://portswigger.net/blog/burp-suite-enterprise-edition-beta-now-available): Burp Suite Enterprise Edition 1.0 beta launch announcement by Dafydd
+- [Burp Suite roadmap for 2020](https://portswigger.net/blog/burp-suite-roadmap-for-2020): Dafydd Stuttard announces 2020 Burp Suite product roadmap and features
+- [Burp On Tour 2025: bringing the AppSec community together around the world](https://portswigger.net/blog/burp-on-tour-2025-bringing-the-appsec-community-together-around-the-world): Burp On Tour 2025 global AppSec community events announcement
+
+## Vulnerability Detection Extensions
+
+- [Server-Side Prototype Pollution Scanner](https://portswigger.net/bappstore/c1d4bd60626d4178a54d36ee802cf7e8): Burp extension by Gareth Heyes detecting server-side prototype pollution
+- [Upload Scanner](https://portswigger.net/bappstore/b2244cbb6953442cb3c82fa0a0d908fa): Burp extension testing file uploads for XSS, XXE, SSRF vulnerabilities
+- [CSP-Bypass](https://portswigger.net/bappstore/b113bdc1390647b092cb527c0b95116d): Burp extension by Joe DeMesy scanning CSP headers for bypass weaknesses
+- [DNS Exfilnspector](https://portswigger.net/bappstore/0e9c1b7acd25422ab1fd1df5d1f09bbd): Burp extension decoding DNS exfiltration via Burp Collaborator for RCE
+- [IIS Tilde Enumeration Scanner](https://portswigger.net/bappstore/523ae48da61745aaa520ef689e75033b): Burp extension exploiting IIS Tilde vulnerability for shortname discovery
+- [Cypher Injection Scanner](https://portswigger.net/bappstore/72f7b61e22f64ef5882dff6054df5ac7): Burp extension detecting Cypher code injection in Neo4j databases
+
+## AI-Powered & Advanced Testing Tools
+
+- [Shadow Repeater](https://portswigger.net/bappstore/7be1798d600647688bb2f051da37f504): AI-powered Burp extension generating payload variations for testing
+- [Turbo Data Miner](https://portswigger.net/bappstore/84350b8f090a4388a9d12cca141f201b): Python-based Burp extension for data extraction and HTTP modification
+
+## Protocol & Format Handlers
+
+- [JSON Escaper](https://portswigger.net/bappstore/5ebb21c4a50a40db9236067e3812fa3f): Burp extension by Akash C for escaping JSON payloads in pentesting
+- [gRPC-Web Coder](https://portswigger.net/bappstore/63b92be302fa4521bf18d74b3adbbc00): Burp extension by Amin Nasiri for encoding/decoding gRPC-Web payloads
+- [AES Payloads](https://portswigger.net/bappstore/7718318c8ae94d329e8037454585faba): Burp extension by Luis Grangeia for AES encryption/decryption in testing
+
+## Workflow & Utility Extensions
+
+- [Add Custom Header](https://portswigger.net/bappstore/807907f5380c4cb38748ef4fc1d8cdbc): Burp extension by Lorenzo Grespan for custom HTTP headers and JWT support
+- [Magic Variables](https://portswigger.net/bappstore/1c19036ead3241b789cc8fcc45387fa7): Burp extension providing dynamic random values and UUID generation
+- [Conditional Match and Replace](https://portswigger.net/bappstore/5037418cbd064e439839760567dc12d0): Burp extension by Daniel Jensen for conditional match/replace operations
+- [Linebreaker](https://portswigger.net/bappstore/cd13bde2eb2248838432aa36f53c8301): Burp extension by Ads Dawson enabling newline view for readability

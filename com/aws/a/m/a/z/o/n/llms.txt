@@ -1,55 +1,30 @@
 # Amazon Web Services (AWS)
 
-> > AWS is Amazon's comprehensive cloud computing platform offering global infrastructure, compute services like Amazon EC2 and Amazon EKS, edge computing through AWS Local Zones, and solutions across regions including AWS GovCloud.
+> > Amazon Web Services provides comprehensive cloud computing platforms and services including AI/ML, infrastructure, and enterprise solutions to customers worldwide including Mercedes-Benz, Pinterest, Condé Nast, and government entities.
 
-Amazon Web Services provides on-demand cloud computing platforms and APIs to individuals, companies, and governments on a metered pay-as-you-go basis. AWS operates a global infrastructure spanning multiple regions and availability zones, with specialized services for low-latency edge computing, data residency compliance, and government workloads.
+AWS is the world's most comprehensive cloud platform, offering over 200 fully featured services from data centers globally. The platform serves enterprises, governments (including AWS GovCloud), and developers across regions including the United States, Canada, Mexico, Chile, Kingdom of Saudi Arabia, and beyond.
 
 ## Key Topics
 
-- AWS Global Infrastructure
-- AWS Local Zones
-- Availability Zones
-- Amazon EC2
-- Amazon EKS
-- AWS GovCloud
-- Edge Computing
-- Low-latency Applications
-- Regional Services
-- Data Centers
 - Cloud Computing
-- Data Residency
-- High Availability
-- AWS Academy
+- AWS Global Infrastructure
+- Artificial Intelligence & Machine Learning
+- Neural Networks (Sinir Ağı)
+- Deep Learning (Derin Öğrenme)
+- Enterprise Cloud Solutions
+- AWS GovCloud
+- Video Conferencing
+- Customer Stories
+- Innovation
+- Image Processing (Görüntü İşleme)
+- Speech Recognition (Konuşma Tanıma)
+- AI Services
 
-## Core Platform
+## Core Platform & Services
 
-- [Cloud Computing Services - Amazon Web Services (AWS)](https://aws.amazon.com): AWS homepage featuring cloud computing services and customer stories
-- [About AWS](https://aws.amazon.com/about-aws): Overview of Amazon Web Services, company info, and global infrastructure
+- [Cloud Computing Services - Amazon Web Services (AWS)](https://aws.amazon.com/): AWS homepage showcasing cloud computing services and customer stories
+- [Video Conferencing & Online Meetings - Amazon Chime](https://aws.amazon.com/chime/): Amazon Chime video conferencing product and SDK for developers
 
-## Global Infrastructure
+## AI & Machine Learning Guides
 
-- [Global Infrastructure -  AWS](https://aws.amazon.com/about-aws/global-infrastructure): AWS global infrastructure: regions, availability zones, and edge locations
-- [Global Infrastructure Regions & AZs](https://aws.amazon.com/about-aws/global-infrastructure/regions_az): AWS regions and availability zones for high-availability cloud deployment
-- [AWS Services by Region](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services): Regional availability of AWS services across global infrastructure
-
-## AWS Local Zones & Edge Computing
-
-- [Deployment –AWS Local Zones–Amazon Web Services](https://aws.amazon.com/about-aws/global-infrastructure/localzones): AWS Local Zones for low-latency apps and data residency requirements
-- [AWS Local Zones Features - AWS](https://aws.amazon.com/about-aws/global-infrastructure/localzones/features): AWS Local Zones features for low-latency edge computing applications
-- [AWS Local Zones Locations - AWS](https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations): Geographic locations and availability of AWS Local Zones worldwide
-- [AWS Local Zones Pricing - Amazon Web Services](https://aws.amazon.com/about-aws/global-infrastructure/localzones/pricing): Pricing details for AWS Local Zones services and data transfer
-- [AWS Local Zones Resources](https://aws.amazon.com/about-aws/global-infrastructure/localzones/resources): Documentation, blogs, and resources for AWS Local Zones deployment
-- [AWS Local Zones FAQs - AWS](https://aws.amazon.com/about-aws/global-infrastructure/localzones/faqs): Frequently asked questions about AWS Local Zones deployment and features
-
-## Support & Resources
-
-- [FAQs](https://aws.amazon.com/about-aws/global-infrastructure/global-network/faqs): FAQs on AWS global network data transfer fees and pricing
-
-## Optional
-
-- [Our Impact](https://aws.amazon.com/about-aws/our-impact): AWS social responsibility: education equity, health initiatives, and impact
-- [AWS In Communities](https://aws.amazon.com/about-aws/global-infrastructure/community-engagement): AWS community engagement program supporting STEM education and local impact
-- [2026 Formula 1 Chinese Grand Prix - AWS Special Program](https://aws.amazon.com/about-aws/events/f1-chinese-prix-2026-0314-shanghai): AWS special event at 2026 F1 Chinese Grand Prix in Shanghai
-- [AWS](https://aws.amazon.com/about-aws/events/f1-chinese-prix-2026-0313-shanghai/registration): Event registration for AWS F1 Chinese Prix 2026 in Shanghai
-- [AWS 2026 F1 Chinese Grand Prix – AWS Special Program](https://aws.amazon.com/about-aws/events/f1-chinese-prix-2026-0314-shanghai/registration): Registration for AWS 2026 F1 Chinese Grand Prix special program
-- [AWS 2026 F1 Chinese Grand Prix – AWS Special Program](https://aws.amazon.com/about-aws/events/f1-chinese-prix-2026-0315-shanghai/registration): Registration for AWS F1 Chinese Grand Prix event in Shanghai 2026
+- [Sinir Ağı Nedir? - Yapay Sinir Ağına Ayrıntılı Bakış - AWS](https://aws.amazon.com/tr/what-is/neural-network/): Turkish guide explaining neural networks and AI concepts on AWS

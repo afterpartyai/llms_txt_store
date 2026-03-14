@@ -1,0 +1,46 @@
+# LogoKit Documentation
+
+> > LogoKit provides Logo APIs and Brand APIs for retrieving company logos, stock/ETF logos, cryptocurrency logos, and brand data via CDN with authentication and flexible pricing.
+
+LogoKit is a comprehensive API platform for accessing high-quality logos for domains, stock tickers (AAPL, NVDA), cryptocurrencies (BTC, ETH), and detailed brand information including GICS classification, CUSIP, SEDOL identifiers, and social media data. The service offers both free and paid plans with CDN delivery and hotlinking support.
+
+## Key Topics
+
+- Logo API
+- Brand API
+- Stock Logo API
+- CDN delivery
+- Bearer token authentication
+- Domain logos
+- Ticker symbols (AAPL, NVDA)
+- Cryptocurrency logos
+- CUSIP and SEDOL identifiers
+- GICS classification
+- Hotlinking
+- Rate limits
+- Image retrieval
+- API tokens
+- Fallback options
+
+## Getting Started
+
+- [Introduction - LogoKit](https://docs.logokit.com/introduction): LogoKit overview: Logo API for brands, stocks, ETFs & brand data
+- [Quick Start Guide - LogoKit](https://docs.logokit.com/quick-start): Step-by-step setup guide for LogoKit Logo and Brand APIs
+- [Authentication - LogoKit](https://docs.logokit.com/authentication): Authentication guide for Logo API and Brand API using bearer tokens
+- [Free vs Paid Plans - LogoKit](https://docs.logokit.com/free-vs-paid-plans): Comparison of free and paid plan features for Logo and Brand APIs
+
+## API Reference
+
+- [Logo API - LogoKit](https://docs.logokit.com/api-reference/logo-API): Logo API reference for retrieving domain-based logos via CDN
+- [Brand API - LogoKit](https://docs.logokit.com/api-reference/brand-API): Brand API reference for company data, GICS classification & social media
+- [Stock Logo API - LogoKit](https://docs.logokit.com/api-reference/stock-logo-API): Stock Logo API reference for ticker-based logo retrieval (AAPL, etc.)
+- [Crypto Logo API - LogoKit](https://docs.logokit.com/api-reference/crypto-logo-API): Crypto Logo API reference for cryptocurrency symbols (BTC, ETH)
+
+## Usage & Policies
+
+- [Rate Limits - LogoKit](https://docs.logokit.com/rate-limits): Rate limiting policies and HTTP 429 handling for API usage
+- [Attribution (Free Plan) - LogoKit](https://docs.logokit.com/attribution): Attribution requirements for free plan users with HTML link examples
+
+## Migration Guides
+
+- [Migrate from Clearbit - LogoKit](https://docs.logokit.com/migrate-from-clearbit): Migration guide from Clearbit Logo API to LogoKit

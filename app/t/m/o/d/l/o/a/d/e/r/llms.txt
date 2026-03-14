@@ -1,0 +1,62 @@
+# tModLoader
+
+> > Official modding framework for Terraria, enabling players to create, install, and manage custom content using C# and the Steam Workshop.
+
+tModLoader is an open-source modding framework that extends Terraria with comprehensive APIs (ModItem, ModNPC, ModTile) and tools for mod development. The platform supports cross-platform installation on Windows, macOS, and Linux, with integrated Steam Workshop publishing and an in-game Mod Browser featuring popular mods like Magic Storage, Recipe Browser, and Auto Reforge.
+
+## Key Topics
+
+- tModLoader framework
+- Terraria modding
+- Steam Workshop integration
+- C# API (ModItem, ModNPC, ModTile)
+- Mod Browser
+- Cross-platform support (Windows, macOS, Linux)
+- Visual Studio and .NET SDK development
+- Magic Storage mod
+- Recipe Browser mod
+- GitHub repository
+- Mod publishing and distribution
+- Multiplayer mod synchronization
+- Open-source modding tools
+- Discord community
+
+## Getting Started
+
+- [Installation Guide](https://tmodloader.app/docs/installation.html): Complete installation guide for tModLoader on Windows, macOS, and Linux
+- [Panduan Instalasi (Indonesian)](https://tmodloader.app/id/docs/installation.html): Indonesian installation guide for tModLoader across platforms
+- [Uso de Mods (Spanish)](https://tmodloader.app/es/docs/using-mods.html): Spanish guide for finding, installing, and using mods via Steam Workshop
+- [Gerenciando Mods (Portuguese)](https://tmodloader.app/pt/docs/managing-mods.html): Portuguese guide for managing mod profiles and load order
+- [Mengelola Mod (Indonesian)](https://tmodloader.app/id/docs/managing-mods.html): Indonesian mod management guide covering profiles and configuration
+
+## Mod Development
+
+- [Mod Development Guide](https://tmodloader.app/zh/docs/mod-development.html): Chinese mod development guide covering C# setup with Visual Studio/Rider
+- [Creating Items](https://tmodloader.app/docs/creating-items.html): Tutorial for creating custom items using ModItem API and DamageClass
+- [Development Setup (Portuguese)](https://tmodloader.app/pt/docs/development-setup.html): Portuguese dev setup guide for Visual Studio 2022 and .NET SDK
+
+## API Reference
+
+- [API Reference](https://tmodloader.app/docs/api-reference.html): C# API reference covering ModItem, ModNPC, ModTile classes
+- [ModNPC](https://tmodloader.app/docs/modnpc.html): ModNPC API reference for creating custom NPCs, enemies, and bosses
+- [ModNPC (Arabic)](https://tmodloader.app/ar/docs/modnpc.html): Arabic ModNPC API reference for custom NPC and boss creation
+
+## Mod Browser & Discovery
+
+- [Mod-Browser (German)](https://tmodloader.app/de/docs/mod-browser.html): German Mod Browser guide featuring Magic Storage and Recipe Browser
+- [Mod Browser (Indonesian)](https://tmodloader.app/id/docs/mod-browser.html): Indonesian Mod Browser guide with quality-of-life mod recommendations
+
+## Publishing & Distribution
+
+- [Publishing Mods (Arabic)](https://tmodloader.app/ar/docs/publishing-mods.html): Arabic guide for publishing mods to Steam Workshop and Mod Browser
+- [Publicar Mods (Spanish)](https://tmodloader.app/es/docs/publishing-mods.html): Spanish mod publishing guide for Steam Workshop with best practices
+- [Menerbitkan Mod (Indonesian)](https://tmodloader.app/id/docs/publishing-mods.html): Indonesian guide for publishing mods to Steam Workshop and Mod Browser
+
+## Multiplayer & Servers
+
+- [Multiplayer Setup (Portuguese)](https://tmodloader.app/pt/docs/multiplayer-setup.html): Portuguese multiplayer setup guide with server hosting and mod sync
+
+## Localized Homepages
+
+- [tModLoader (French)](https://tmodloader.app/fr): French homepage for tModLoader, official Terraria modding framework
+- [tModLoader (Russian)](https://tmodloader.app/ru): Russian homepage for tModLoader Terraria modding framework

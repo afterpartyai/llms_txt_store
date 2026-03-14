@@ -1,0 +1,57 @@
+# Xmodulo
+
+> > Linux system administration tutorials and how-to guides covering Ubuntu, Debian, CentOS, RHEL, and Fedora distributions.
+
+Xmodulo provides practical, command-line focused tutorials for Linux administrators and power users. The site covers system configuration, virtualization, networking, backup solutions, and kernel-level customization across major Linux distributions.
+
+## Key Topics
+
+- Linux system administration
+- Ubuntu and Debian configuration
+- CentOS and RHEL management
+- Command-line tools and utilities
+- Virtualization (VMware, libvirt, KVM)
+- Network configuration and bridging
+- IPsec VPN and Openswan
+- Kernel modules and drivers
+- System backup and recovery
+- rsyslog and remote logging
+- SR-IOV and network virtualization
+- Filesystem management and fsck
+- GRUB bootloader configuration
+- Android file transfer with ADB
+- FFmpeg multimedia processing
+
+## System Administration and Configuration
+
+- [How to change hostname without reboot on Linux](https://www.xmodulo.com/how-to-change-hostname-without-reboot-on-linux.html): Change Linux hostname without rebooting on CentOS, RHEL, Ubuntu, Debian
+- [How to disable automatic updates on Ubuntu](https://www.xmodulo.com/disable-automatic-updates-ubuntu.html): Disable unattended-upgrades and automatic APT updates on Ubuntu server
+- [How to boot into command line on Ubuntu or Debian](https://www.xmodulo.com/boot-into-command-line-ubuntu-debian.html): Boot Ubuntu/Debian into text-mode using GRUB and systemd targets
+- [How to set up automatic filesystem checks and repair on Linux](https://www.xmodulo.com/automatic-filesystem-checks-repair-linux.html): Configure automatic fsck filesystem checks on Debian/Ubuntu systems
+- [How to configure rsyslog client for remote logging on CentOS](https://www.xmodulo.com/configure-rsyslog-client-centos.html): Configure rsyslog client for remote log forwarding on CentOS
+- [How to back up a Debian system using Backupninja](https://www.xmodulo.com/backup-debian-system-backupninja.html): Configure incremental system backups on Debian using Backupninja tool
+
+## Virtualization and Networking
+
+- [How to create a site-to-site IPsec VPN tunnel using Openswan in Linux](https://www.xmodulo.com/create-site-to-site-ipsec-vpn-tunnel-openswan-linux.html): Set up site-to-site IPsec VPN tunnel with Openswan on CentOS/Linux
+- [How to configure a Linux bridge with Network Manager on Ubuntu](https://www.xmodulo.com/configure-linux-bridge-network-manager-ubuntu.html): Set up Linux network bridge using Network Manager on Ubuntu
+- [How to enable SR-IOV virtual function on Intel ixgbe NIC](https://www.xmodulo.com/enable-sr-iov-virtual-function-intel-ixgbe-nic.html): Enable SR-IOV virtual functions on Intel ixgbe network interface
+- [How to clone or copy VMware Player VM](https://www.xmodulo.com/how-to-clone-or-copy-vmware-player-vm.html): Clone or copy virtual machines in VMware Player 5 on Linux
+- [How to change default location of libvirt VM images](https://www.xmodulo.com/change-default-location-libvirt-vm-images.html): Change libvirt storage pool location using virt-manager and virsh
+
+## Kernel and Driver Development
+
+- [How to build a custom kernel module or device driver for XenServer](https://www.xmodulo.com/how-to-build-custom-kernel-module-for-xenserver-using-ddk.html): Build custom kernel modules for Citrix XenServer using DDK
+- [How to catch and handle a signal in Perl](https://www.xmodulo.com/catch-handle-interrupt-signal-perl.html): Handle POSIX interrupt signals in Perl using signal handlers
+
+## Multimedia and File Management
+
+- [How to install FFmpeg on Linux](https://www.xmodulo.com/how-to-install-ffmpeg-on-linux.html): Install FFmpeg multimedia framework across different Linux distributions
+- [How to convert PS/EPS file into JPG image on Linux](https://www.xmodulo.com/how-to-convert-pseps-file-into-jpg.html): Convert PostScript/EPS files to JPG using ghostscript on Linux
+- [How to burn an ISO or NRG image to a DVD from the command line on Linux](https://www.xmodulo.com/burn-iso-nrg-image-dvd-command-line.html): Burn ISO/NRG images to DVD using command-line tools on Linux
+- [How to copy or transfer multiple files to Android devices](https://www.xmodulo.com/how-to-copy-or-transfer-multiple-files-to-android-devices.html): Transfer multiple files from Linux to Android using ADB command-line tool
+
+## Optional
+
+- [How to disable Flash plugin on Google Chrome browser](https://www.xmodulo.com/disable-flash-plugin-google-chrome.html): Disable Pepper Flash Player plugin in Google Chrome browser
+- [Articles by Enrique Bruzual](https://www.xmodulo.com/enrique-bruzual.html): Python developer and technical writer with NLP expertise

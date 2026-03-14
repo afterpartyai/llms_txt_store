@@ -1,0 +1,31 @@
+# Google Cloud
+
+> > Google Cloud's comprehensive platform documentation covering cloud infrastructure, AI/ML compute, billing management, and enterprise services.
+
+This documentation hub provides technical guides for Google Cloud Platform services including Compute Engine, Cloud Storage, Cloud Run, GKE, and specialized AI infrastructure like AI Hypercomputer. Resources cover deployment, cost management, networking, and automation for cloud-native applications.
+
+## Key Topics
+
+- Google Cloud Platform
+- Compute Engine
+- Cloud Billing & Cost Management
+- AI Hypercomputer
+- Google Kubernetes Engine (GKE)
+- Cloud Storage
+- Cloud Run
+- Pub/Sub
+- Virtual Private Cloud (VPC)
+- Cluster Toolkit
+- Slurm Workload Manager
+- Budget Notifications & Alerts
+- GPU & RDMA Networking
+- Billing Automation & API
+- Resource Control & Governance
+
+## Cost Management & Billing
+
+- [Control resource usage with notifications](https://cloud.google.com/billing/docs/how-to/control-usage): Guide to controlling Cloud Billing resource usage with budget notifications
+
+## AI & High-Performance Computing
+
+- [Network services for deployments](https://cloud.google.com/ai-hypercomputer/docs/networking-services): Overview of network services for AI Hypercomputer cluster and VM deployments

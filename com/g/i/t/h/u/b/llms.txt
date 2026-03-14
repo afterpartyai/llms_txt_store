@@ -1,46 +1,46 @@
 # GitHub
 
-> > GitHub is the AI-powered developer platform for version control, collaborative coding, and software development, featuring GitHub Copilot, Actions, Codespaces, and Advanced Security.
+> > GitHub is the world's leading AI-powered developer platform for building, scaling, and securing software with tools like GitHub Copilot, Actions, and Codespaces.
 
-GitHub hosts millions of open source repositories and provides integrated tools for code review, CI/CD automation, security analysis with CodeQL, and educational workflows. The platform combines Git-based version control with modern developer tools including AI-assisted coding, cloud development environments, and package management.
+GitHub provides cloud-based Git repository hosting, collaborative development tools, and integrated CI/CD workflows. The platform serves millions of developers and organizations with features spanning code review, project management, security scanning, and AI-assisted coding through GitHub Copilot.
 
 ## Key Topics
 
 - GitHub Copilot
 - GitHub Actions
 - GitHub Codespaces
-- Git version control
+- GitHub Desktop
+- GitHub Mobile
 - GitHub Advanced Security
-- CodeQL
-- Open source
-- Code review
-- CI/CD automation
+- Visual Studio Code
+- Git version control
+- Open source collaboration
+- CI/CD pipelines
+- Code security scanning
+- AI code assistance
+- Cloud development environments
+- Developer workflows
 - Repository management
-- GitHub CLI
-- GitHub Packages
-- Collaborative coding
-- Code security
-- Developer tools
 
-## Core Platform
+## Getting Started
 
 - [GitHub Homepage](https://github.com/): GitHub homepage: AI-powered developer platform with Copilot and Actions
-- [GitHub Features](https://github.com/features): GitHub features overview: Copilot, Actions, Codespaces, and Packages
-- [GitHub Organization](https://github.com/github): GitHub's official organization profile with 535 open source repositories
+- [Download GitHub Desktop](https://desktop.github.com/download/): Download GitHub Desktop for macOS (Apple silicon/Intel) and Windows
+- [Adding SSH Keys to GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account): Guide to add SSH keys for GitHub authentication and commit signing
 
-## Documentation
+## GitHub Copilot & AI Tools
 
-- [GitHub Docs](https://docs.github.com/): GitHub documentation hub for developers, admins, and all products
-- [Git Basics](https://docs.github.com/en/get-started/git-basics): Git setup guide: configure version control for GitHub repositories
+- [Getting Started with GitHub Copilot](https://github.com/features/copilot/tutorials): GitHub Copilot tutorials for VS Code and Visual Studio setup
 
-## Security & Code Analysis
+## Desktop Applications
 
-- [CodeQL](https://codeql.github.com/): CodeQL: semantic code analysis for vulnerability detection and security
+- [GitHub Desktop Beta](https://desktop.github.com/beta/): GitHub Desktop Beta channel with latest features and bug fixes
 
-## Education
+## Optional Resources
 
-- [GitHub Classroom](https://classroom.github.com/): GitHub Classroom for education: automate assignments and grading
-
-## Optional
-
-- [Trending Repositories](https://github.com/trending): Daily trending repositories: popular open source projects on GitHub
+- [Visual Studio Code Repository](https://github.com/microsoft/vscode): Microsoft Visual Studio Code open source repository on GitHub
+- [GitHub Brand Logo Guidelines](https://brand.github.com/foundations/logo): GitHub logo guidelines: Invertocat, Octocat, and product lockups
+- [FMHY Repository](https://github.com/fmhy/FMHY): FMHY repository: free media, streaming, torrents, and privacy resources
+- [Handy - Offline Speech-to-Text](https://github.com/cjpais/handy): Handy by cjpais: offline speech-to-text desktop app using Tauri
+- [frp - Fast Reverse Proxy](https://github.com/fatedier/frp): frp by fatedier: Go-based reverse proxy for NAT/firewall traversal
+- [RVC Voice Conversion Releases](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/releases): RVC-Project voice conversion WebUI releases and changelog

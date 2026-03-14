@@ -1,60 +1,64 @@
 # DeepWiki
 
-> > DeepWiki is a comprehensive documentation platform for open-source software projects, providing detailed technical references for repositories spanning blockchain, security tools, game development, and developer utilities.
+> > AI-powered conversational documentation platform that transforms GitHub repositories into interactive, queryable knowledge bases
 
-DeepWiki aggregates and organizes documentation for GitHub repositories across diverse domains including smart contracts (ERC-7857, ERC-4626), security tooling (Frida, token manipulation), VR applications, and developer libraries. The platform serves as a central knowledge base for understanding complex codebases with system architecture diagrams, API references, and implementation guides.
+DeepWiki provides AI-enhanced documentation for open source projects, covering everything from enterprise systems and machine learning frameworks to IoT devices and developer tools. The platform indexes repositories spanning Python, Node.js, Java, and other technologies, making complex codebases accessible through natural language interaction.
 
 ## Key Topics
 
-- Smart Contracts & Blockchain
-- Security & Reverse Engineering
-- VR & Gaming Development
-- System Architecture
-- Docker & Deployment
-- API Development
-- Frida Instrumentation
-- OSC Protocol
-- Monorepo Management
-- Token Manipulation
-- Data Availability
-- Knowledge Distillation
-- ERC Standards (ERC-7857, ERC-4626)
-- Python Development
-- TypeScript & React
+- AI documentation
+- GitHub repositories
+- Python frameworks
+- Node.js applications
+- API documentation
+- CLI tools
+- Web scraping
+- Docker containers
+- OpenAI integration
+- Firebase services
+- Active Directory security
+- IoT and ESP32
+- Machine learning models
+- E-commerce systems
+- Real-time data processing
 
-## Blockchain & Smart Contracts
+## Platform Overview
 
-- [0gfoundation/0g-agent-nft](https://deepwiki.com/0gfoundation/0g-agent-nft): ERC-7857 Agent NFT implementation with private metadata & ZKP/TEE
-- [0gfoundation/0g-da-node](https://deepwiki.com/0gfoundation/0g-da-node): Data availability node with gRPC service & blockchain storage layer
-- [0kn0t/case](https://deepwiki.com/0kn0t/case): ERC4626-compliant meta-vault system for DeFi asset management
-- [021up/real-life-game](https://deepwiki.com/021up/real-life-game): Blockchain gaming platform with ERC-20 token rewards & GameFactory Contract
+- [DeepWiki Home](https://deepwiki.com): AI-powered conversational documentation platform for GitHub repositories
 
-## Security & Reverse Engineering
+## AI and Machine Learning
 
-- [0xdea/frida-scripts](https://deepwiki.com/0xdea/frida-scripts): Frida instrumentation scripts for mobile app reverse engineering
-- [0xbadjuju/Tokenvator](https://deepwiki.com/0xbadjuju/Tokenvator): C# tool for Windows token manipulation & privilege escalation testing
+- [01-ai/Yi](https://deepwiki.com/01-ai/Yi): Yi bilingual large language model family by 01.AI with Docker support
+- [0235-jp/Claude-Code-Server](https://deepwiki.com/0235-jp/Claude-Code-Server): HTTP gateway providing OpenAI API-compatible access to Claude CLI
+- [0010skn/daletou](https://deepwiki.com/0010skn/daletou): AI-powered Chinese Super Lotto analysis and prediction system
 
-## VR & Gaming Development
+## Enterprise and E-Commerce Systems
 
-- [0suu/sai_OSCController](https://deepwiki.com/0suu/sai_OSCController): VR device telemetry bridge for VRChat using OSC protocol & SwitchBot
-- [0x7c13/Pal3.Unity](https://deepwiki.com/0x7c13/Pal3.Unity): Unity recreation of Legend of Sword and Fairy 3 Chinese RPG
-- [0kihS/planar](https://deepwiki.com/0kihS/planar): Infinite canvas Wayland compositor built on wlroots library
+- [01-Java/mall](https://deepwiki.com/01-Java/mall): E-commerce system with Nuxt frontend and Spring Boot backend monorepo
+- [01101sam/Cloudreve](https://deepwiki.com/01101sam/Cloudreve): Self-hosted file management system with multi-cloud and WebDAV support
+- [007gzs/meeting](https://deepwiki.com/007gzs/meeting): Django meeting room booking system with WeChat mini-program integration
+- [00labs/huma-contracts](https://deepwiki.com/00labs/huma-contracts): Huma Protocol Solidity smart contracts for credit pools and factoring
 
-## Developer Tools & Libraries
+## Security and Network Tools
 
-- [07akioni/xicons](https://deepwiki.com/07akioni/xicons): SVG icon library monorepo for Vue 3 and React frameworks
-- [0neDrop/mcdonalds-api](https://deepwiki.com/0neDrop/mcdonalds-api): Node.js library wrapper for McDonald's location services API
-- [0x90d/videoduplicatefinder](https://deepwiki.com/0x90d/videoduplicatefinder): Video Duplicate Finder using FFmpeg for cross-platform detection
-- [0oLiHano0/knowledge-distiller-kd](https://deepwiki.com/0oLiHano0/knowledge-distiller-kd): Knowledge Distiller tool for duplicate content detection in documents
+- [000pp/hexodus](https://deepwiki.com/000pp/hexodus): Python framework for Active Directory enumeration via LDAP, SMB, and RPC
+- [03/ONVIF-Java](https://deepwiki.com/03/ONVIF-Java): Java library for ONVIF IP camera control, PTZ operations, and streaming
+- [00xdF/halcon_plate_recognize](https://deepwiki.com/00xdF/halcon_plate_recognize): Halcon-based license plate recognition with OCR for .NET Framework
 
-## Enterprise & Web Applications
+## Developer Tools and Libraries
 
-- [01-Enterprise/01-ERP-ERP002](https://deepwiki.com/01-Enterprise/01-ERP-ERP002): ERP002 enterprise system built on CodeIgniter framework
-- [0d9e-tech/web](https://deepwiki.com/0d9e-tech/web): Deno-based Telegram bot with web serving & Docker deployment pipeline
-- [022RaTiNdRa/TypeFast](https://deepwiki.com/022RaTiNdRa/TypeFast): Real-time multiplayer typing speed test app with Turborepo & TypeScript
-- [000-ghost-000/onlinebookstore](https://deepwiki.com/000-ghost-000/onlinebookstore): Java-based e-commerce web app with three-tier architecture
+- [07akioni/lyla](https://deepwiki.com/07akioni/lyla): TypeScript HTTP client library with platform adapters for mini-programs
+- [00frank/dolarhoy-cli](https://deepwiki.com/00frank/dolarhoy-cli): CLI tool for real-time Argentine peso exchange rates using Node.js scraping
+- [0000gde/-SQlite3](https://deepwiki.com/0000gde/-SQlite3): Python SQLite3 tutorial demonstrating basic database operations
 
-## Optional
+## IoT and Embedded Systems
 
-- [05mxn/python_git](https://deepwiki.com/05mxn/python_git): Match Impact Analysis system for M60 motorway traffic in Manchester
-- [0raven04/Taller-Python-Jonathan-Kevin-Arana-Diaz](https://deepwiki.com/0raven04/Taller-Python-Jonathan-Kevin-Arana-Diaz): Python workshop materials for PCEP-30-02 certification preparation
+- [0015/ThatProject](https://deepwiki.com/0015/ThatProject): ESP32/ESP8266 IoT projects collection with LVGL UI and sensor apps
+- [00-Evan/pixel-dungeon-gradle](https://deepwiki.com/00-Evan/pixel-dungeon-gradle): Pixel Dungeon game engine with OpenGL wrapper and shader system
+
+## Educational and Utility Projects
+
+- [01Brxyan/Proyecto_Python_Castro1Brayan1Navas2Andres2](https://deepwiki.com/01Brxyan/Proyecto_Python_Castro1Brayan1Navas2Andres2): CampusLands academic management system for student lifecycle tracking
+- [02BBQ/FishServer](https://deepwiki.com/02BBQ/FishServer): Node.js fish catching simulation with Firebase and inventory management
+- [0707rf/TDTA_bot](https://deepwiki.com/0707rf/TDTA_bot): Taiwan driving test appointment automation bot for Motor Vehicle Office
+- [01Brxyan/Trabajo-de-cuenta-bancaria](https://deepwiki.com/01Brxyan/Trabajo-de-cuenta-bancaria): Educational Python console banking system for account management

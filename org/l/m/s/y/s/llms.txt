@@ -1,0 +1,37 @@
+# LMSYS Org
+
+> > LMSYS Org is a nonprofit research organization democratizing large model systems through open-source projects like SGLang, Chatbot Arena, and Vicuna.
+
+Founded as LMSYS Corp., the organization focuses on LLM serving infrastructure, performance optimization, and crowdsourced model evaluation. The team includes researchers like Ying Sheng, Lianmin Zheng, and Liangsheng Yin, with support from NVIDIA, AMD, and other industry partners.
+
+## Key Topics
+
+- SGLang
+- Chatbot Arena
+- Large Model Systems
+- LLM serving and inference
+- Performance optimization
+- Crowdsourced evaluation
+- Model benchmarking
+- Vicuna
+- Open-source AI
+- GPU optimization
+- Compressed finite state machines
+- JSON schema validation
+- NVIDIA DGX Spark
+- Nonprofit AI research
+
+## About LMSYS
+
+- [LMSYS Org](https://lmsys.org/): Homepage for LMSYS Org democratizing large model systems and infrastructure
+- [About](https://lmsys.org/about/): About LMSYS Corp nonprofit, team members, directors, and flagship projects
+
+## Blog & Research
+
+- [Blog](https://lmsys.org/blog/): Blog index covering LLM inference, SGLang, GPU optimization, and AI research
+- [NVIDIA DGX Spark In-Depth Review](https://lmsys.org/blog/2025-10-13-nvidia-dgx-spark/): In-depth review of NVIDIA DGX Spark for local AI inference with SGLang
+- [Fast JSON Decoding for Local LLMs](https://lmsys.org/blog/2024-02-05-compressed-fsm/): Compressed FSM technique for fast JSON schema validation in LLM generation
+
+## Support
+
+- [Donations](https://lmsys.org/donations/): 501c3 donation info and sponsors including Voltage Park, NVIDIA, Nebius

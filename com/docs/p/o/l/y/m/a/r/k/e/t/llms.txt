@@ -1,0 +1,58 @@
+# Polymarket Documentation
+
+> > Developer documentation for Polymarket's decentralized prediction market platform built on Polygon with CLOB orderbook trading and CTF conditional tokens.
+
+Polymarket Documentation provides comprehensive guides for trading, market making, and building on Polymarket's Central Limit Order Book (CLOB) using USDC.e collateral. The platform integrates with Ethereum/Polygon wallets, UMA's Optimistic Oracle for resolution, and offers REST/WebSocket APIs via Gamma API and Relayer Client for programmatic access.
+
+## Key Topics
+
+- CLOB (Central Limit Order Book)
+- CTF (Conditional Token Framework)
+- USDC.e (bridged USDC on Polygon)
+- Gamma API
+- Relayer Client
+- Prediction markets
+- Orderbook trading
+- Market makers
+- Price discovery
+- Token splitting and merging
+- Bridge API
+- WebSocket real-time data
+- UMA Optimistic Oracle
+- Builder program
+- Non-custodial wallets
+
+## Trading & Core Concepts
+
+- [Trading Overview](https://docs.polymarket.com/trading/overview): CLOB trading architecture, authentication, and non-custodial wallet setup
+- [Prices & Orderbook](https://docs.polymarket.com/concepts/prices-orderbook): CLOB price discovery, limit/market orders, and bid-ask spread mechanics
+- [Split Tokens](https://docs.polymarket.com/trading/ctf/split): Convert USDC.e to outcome token pairs via CTF contract on Polygon
+
+## Market Makers
+
+- [Market Maker Overview](https://docs.polymarket.com/market-makers/overview): Market making guide covering liquidity, CLOB/Gamma APIs, and USDC.e setup
+
+## API Reference
+
+- [Get Market by Slug](https://docs.polymarket.com/api-reference/markets/get-market-by-slug): Gamma API: fetch market data using slug identifier
+- [Get Last Trade Price](https://docs.polymarket.com/api-reference/market-data/get-last-trade-price): Market data API: fetch last trade price and side by token ID
+- [Get Builder Trades](https://docs.polymarket.com/api-reference/trade/get-builder-trades): Trade API: retrieve originated trades for authenticated builders
+- [Get Current Nonce for a User](https://docs.polymarket.com/api-reference/relayer/get-current-nonce-for-a-user): Relayer API: retrieve Proxy/Safe nonce by Ethereum signer address
+- [Get All Relayer API Keys](https://docs.polymarket.com/api-reference/relayer-api-keys/get-all-relayer-api-keys): Relayer API: retrieve all API keys for authenticated Ethereum address
+- [Get Server Time](https://docs.polymarket.com/api-reference/data/get-server-time): CLOB API: get Unix timestamp for client-server time synchronization
+
+## Bridge & Deposits
+
+- [Deposit Status](https://docs.polymarket.com/trading/bridge/status): Bridge API endpoint for tracking cross-chain deposit progress
+- [Supported Assets](https://docs.polymarket.com/trading/bridge/supported-assets): Bridge API: supported chains, tokens, and minimum deposit requirements
+
+## 中文文档 (Chinese Documentation)
+
+- [构建者计划 (Builder Program)](https://docs.polymarket.com/cn/builders/overview): Chinese: Builder program for order routing, revenue sharing, and CLOB integration
+- [市场与事件 (Markets & Events)](https://docs.polymarket.com/cn/concepts/markets-events): Chinese: Binary markets, ERC1155 tokens, and multi-outcome events explained
+- [价格与订单簿 (Prices & Orderbook)](https://docs.polymarket.com/cn/concepts/prices-orderbook): Chinese: CLOB pricing mechanics and peer-to-peer trading explained
+- [判定 (Resolution)](https://docs.polymarket.com/cn/concepts/resolution): Chinese: UMA Optimistic Oracle resolution and token redemption process
+- [订单归因 (Order Attribution)](https://docs.polymarket.com/cn/trading/orders/attribution): Chinese: Attribute orders to Builder API keys for volume credits
+- [库存管理 (Inventory Management)](https://docs.polymarket.com/cn/market-makers/inventory): Chinese: CTF token splitting, merging, and USDC.e inventory management
+- [合并代币 (Merge Tokens)](https://docs.polymarket.com/cn/trading/ctf/merge): Chinese: Merge outcome token pairs back to USDC.e collateral
+- [Market 频道 (Market Channel)](https://docs.polymarket.com/cn/market-data/websocket/market-channel): Chinese: WebSocket API for real-time Level 2 orderbook and trade updates

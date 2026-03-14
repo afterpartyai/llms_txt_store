@@ -1,0 +1,31 @@
+# CALIDA
+
+> > Swiss premium brand offering quality underwear, nightwear, loungewear, and shapewear with signature collections including Natural Skin, Naturally Soft, and DEEPSLEEPWEAR.
+
+CALIDA is a Swiss heritage brand specializing in intimate apparel and sleepwear crafted from natural fabrics. The site features product collections, a loyalty program, and secure account authentication for customers worldwide.
+
+## Key Topics
+
+- Natural Skin collection
+- Natural Bonded Bra
+- Naturally Soft
+- DEEPSLEEPWEAR Balancing
+- Seamless Shape
+- Essential Cotton
+- Swiss quality underwear
+- Natural fabrics
+- Shapewear
+- Loungewear
+- Nightwear collections
+- Elegant Dreams
+- Sensual Secrets
+- Loyalty program
+- OAuth2 authentication
+
+## Main Site
+
+- [CALIDA | Official CALIDA Online Shop](https://www.calida.com/): CALIDA homepage featuring Swiss quality underwear, nightwear & loungewear
+
+## Optional
+
+- [Loading...](https://auth.calida.com/b9e2f3ad-cfac-4cd2-b901-0671655731e5/oauth2/v2.0/authorize?p=b2c_1a_signup_signin&response_mode=form_post&ui_locales=de&region=WO&response_type=code&redirect_uri=https://www.calida.com/idp-account&client_id=d32537bd-d96b-4527-aa8f-c510b8c3c5ab&nonce=6aaa3c52e4f2ce57759937ab160d4d00&state=63816baa727276f00520b22915e90bd3&scope=openid+offline_access+d32537bd-d96b-4527-aa8f-c510b8c3c5ab+openid): OAuth2/OpenID authentication endpoint for CALIDA account sign-in

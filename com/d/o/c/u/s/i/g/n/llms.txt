@@ -1,0 +1,58 @@
+# Docusign
+
+> > Docusign provides cloud-based electronic signature and agreement management solutions, including eSignature, CLM (Contract Lifecycle Management), and AI-powered tools for automating and streamlining business agreements.
+
+Docusign Agreement Cloud is a comprehensive platform that combines electronic signature capabilities with contract lifecycle management, AI-assisted review, and workflow automation. The platform offers REST APIs for developers, integrations with Salesforce and Microsoft tools, and compliance features including CFR Part 11 and GDPR support.
+
+## Key Topics
+
+- Docusign eSignature
+- Docusign CLM (Contract Lifecycle Management)
+- Docusign Agreement Cloud
+- eSignature REST API
+- AI-Assisted Review and Agreement Summaries
+- Contract automation and workflow automation
+- Embedded signing
+- Agreement management
+- Docusign Navigator
+- Docusign Gen
+- CFR Part 11 compliance
+- Salesforce integration and Apex Toolkit
+- Small business solutions
+- Identity verification (IDNow)
+- API development (Python, C#, Postman)
+
+## AI-Powered Agreement Solutions
+
+- [Introducing AI-Assisted Agreement Summaries and Q&A in Docusign eSignature](https://www.docusign.com/blog/ai-assisted-agreement-summaries-Q-A): New AI features for agreement summaries and natural language Q&A
+- [AI Contract Review, Explained](https://www.docusign.com/blog/ai-contract-review): Overview of AI-powered contract review and analysis technology
+- [How Our Legal Team Accelerates Contracting with Docusign AI-Assisted Review](https://www.docusign.com/blog/how-our-legal-team-accelerates-contracting-with-docusign-ai-assisted-review): Case study: Docusign legal team uses AI-Assisted Review in CLM
+- [How to Use Docusign Navigator](https://www.docusign.com/blog/how-to-use-docusign-navigator): Guide to using Navigator for AI-powered agreement management and search
+
+## Contract Management and Automation
+
+- [4 Ways to Automate the Contract Management Process](https://www.docusign.com/blog/4-ways-to-automate-the-contract-management-process): Contract automation strategies for small businesses using CLM
+- [4 Key Benefits of Contract Automation](https://www.docusign.com/blog/4-key-benefits-contract-automation): Business benefits of contract automation across organizations
+- [8 Best Practices for Implementing Contract Management Systems](https://www.docusign.com/blog/8-best-practices-implementing-contract-management-systems): CLM implementation best practices from Docusign deployment experts
+- [Gain Control Over Your Agreements With Docusign Enhanced Plans](https://www.docusign.com/blog/gain-control-over-your-agreements-docusign-enhanced-plans): Enhanced Plans features for small business agreement management
+
+## Developer API Documentation
+
+- [Embedded signing in CFR Part 11 accounts](https://www.docusign.com/blog/developers/embedded-signing-cfr-part-11-accounts): How to implement embedded signing with CFR Part 11 compliance via API
+- [How to bypass Signature Adoption in Docusign embedded signing flows](https://www.docusign.com/blog/developers/how-to-bypass-signature-adoption-in-docusign-embedded-signing-flows): API tutorial for uploading signature images in embedded signing flows
+- [Common API Tasks: Purging envelopes from your Docusign account](https://www.docusign.com/blog/developers/common-api-tasks-purging-envelopes-your-docusign-account): API tutorial for purging envelopes using eSignature REST API
+- [From the Trenches: Apply your brand to your Docusign emails](https://www.docusign.com/blog/developers/the-trenches-apply-your-brand-to-your-docusign-emails): API guide for email branding using Postman and C# with eSignature API
+- [Technical Deep Dive: Build no-code agreement agents with Docusign and Microsoft Copilot Studio](https://www.docusign.com/blog/developers/technical-deep-dive-build-no-code-agreement-agents): Build conversational agents with Docusign and Microsoft Copilot Studio
+- [Recipient IDNow verification with Apex Toolkit](https://www.docusign.com/blog/developers/recipient-idnow-verification-apex-toolkit): Configure IDNow QES identity verification in Salesforce Apex Toolkit
+
+## Product Releases and Updates
+
+- [Announcing the Docusign Agreement Cloud: 2021 Release 3](https://www.docusign.com/blog/docusign-agreement-cloud-2021-release-3): 2021 Release 3 product updates for eSignature and CLM features
+- [Announcing the Docusign Agreement Cloud: 2022 Release 2](https://www.docusign.com/blog/docusign-agreement-cloud-2022-release-2): 2022 Release 2 updates for eSignature, CLM, Gen, and Notary products
+
+## Optional
+
+- [Docusign Community: Let's Grow Together](https://www.docusign.com/blog/docusign-community-grow-together): Announcing Docusign Community hub with forums, groups, and FAQs
+- [Docusign eSignature System Requirements](https://www.docusign.com/blog/docusign-esignature-system-requirements): Technical specs and browser compatibility for Docusign eSignature
+- [The End of Privacy Shield: What it Means for Agreements](https://www.docusign.com/blog/the-end-privacy-shield-what-it-means-agreements): Impact of Schrems II decision on EU-US data transfers and GDPR
+- [What Is a Promissory Note?](https://www.docusign.com/blog/promissory-notes): Explanation of promissory notes and loan agreements with eSignature

@@ -1,0 +1,55 @@
+# Vercel
+
+> > Vercel is a cloud platform for deploying and scaling web applications, featuring AI Gateway for unified access to AI models, frontend frameworks like Next.js, and developer tools including v0, Turborepo, and Vercel Agent.
+
+Vercel provides infrastructure for modern web development with deep integrations for AI model deployment through AI Gateway, supporting models from providers like Meta, Google, Alibaba, xAI, and Black Forest Labs. The platform specializes in serverless deployment, edge computing, and AI-powered development workflows.
+
+## Key Topics
+
+- AI Gateway
+- Next.js
+- AI SDK
+- TypeScript
+- Model Playground
+- API Integration
+- Image Generation
+- Video Generation
+- Text Embedding
+- Tool Calling
+- Vercel Agent
+- v0
+- Turborepo
+- Edge Functions
+- Serverless Deployment
+
+## AI Gateway - Language & Reasoning Models
+
+- [Llama 4 Scout 17B 16E Instruct Playground & API on Vercel AI Gateway](https://vercel.com/ai-gateway/models/llama-4-scout): Meta's Llama 4 Scout multimodal AI model with mixture-of-experts
+- [Grok 4.20 Beta Non-Reasoning Playground & API on Vercel AI Gateway](https://vercel.com/ai-gateway/models/grok-4.20-non-reasoning-beta): xAI's Grok 4.20 Beta non-reasoning model with tool calling support
+- [Gemini 2.5 Flash Image (Nano Banana) Playground & API on Vercel AI Gateway](https://vercel.com/ai-gateway/models/gemini-2.5-flash-image): Google's Gemini 2.5 Flash Image hybrid reasoning & generation model
+- [GLM-4.6V Playground & API on Vercel AI Gateway](https://vercel.com/ai-gateway/models/glm-4.6v): Z.ai's GLM-4.6V multimodal vision model with 128k context window
+- [Kimi K2 Thinking Playground & API on Vercel AI Gateway](https://vercel.com/ai-gateway/models/kimi-k2-thinking): Moonshot AI's Kimi K2 reasoning model with tool calling capabilities
+
+## AI Gateway - Code Generation Models
+
+- [Mistral Codestral Playground & API on Vercel AI Gateway](https://vercel.com/ai-gateway/models/codestral): Mistral Codestral AI model for code generation and fill-in-middle
+
+## AI Gateway - Image Generation Models
+
+- [FLUX.1 Kontext Max Playground & API on Vercel AI Gateway](https://vercel.com/ai-gateway/models/flux-kontext-max): Black Forest Labs FLUX.1 for image generation with character consistency
+- [FLUX1.1 [pro] Ultra Playground & API on Vercel AI Gateway](https://vercel.com/ai-gateway/models/flux-pro-1.1-ultra): Black Forest Labs FLUX1.1 Ultra for high-resolution image generation
+
+## AI Gateway - Video & Audio Generation Models
+
+- [Kling v2.6 Motion Control Playground & API on Vercel AI Gateway](https://vercel.com/ai-gateway/models/kling-v2.6-motion-control): Kling v2.6 Motion Control model playground for video/audio generation
+- [Seedance v1.0 Pro Playground & API on Vercel AI Gateway](https://vercel.com/ai-gateway/models/seedance-v1.0-pro): ByteDance Seedance v1.0 Pro for 1080p video generation & storytelling
+
+## AI Gateway - Embedding Models
+
+- [Qwen3 Embedding 4B API on Vercel AI Gateway](https://vercel.com/ai-gateway/models/qwen3-embedding-4b): Alibaba's Qwen3 Embedding 4B text embedding model API
+- [Qwen3 Embedding 8B API on Vercel AI Gateway](https://vercel.com/ai-gateway/models/qwen3-embedding-8b): Alibaba's Qwen3 Embedding 8B text embedding model API
+- [voyage-3.5 API on Vercel AI Gateway](https://vercel.com/ai-gateway/models/voyage-3.5): Voyage AI's voyage-3.5 embedding model for multilingual retrieval
+
+## Platform Updates & Announcements
+
+- [AI agents and services on the Vercel Marketplace - Vercel](https://vercel.com/blog/ai-agents-and-services-on-the-vercel-marketplace): Announcing AI agents and tools in Vercel Marketplace with integrations

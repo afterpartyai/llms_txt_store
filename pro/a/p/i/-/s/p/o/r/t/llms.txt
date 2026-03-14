@@ -1,0 +1,48 @@
+# API-sport
+
+> > API-sport provides comprehensive sports data APIs with REST and WebSocket support for real-time statistics, betting platforms, and analytics across football, basketball, hockey, and other sports.
+
+API-sport delivers live scores, player metrics (xG, xA), head-to-head analysis, and event data through flexible API integration. The platform supports developers, betting services, and analysts with real-time data feeds, statistical analysis tools, and comparison guides against competing APIs like FONBET.
+
+## Key Topics
+
+- API-sport
+- REST API
+- WebSocket
+- Sports events API
+- Real-time statistics
+- xG (expected goals)
+- xA (expected assists)
+- Sports data integration
+- Betting platforms
+- Player ratings
+- H2H analysis
+- Football API
+- NBA API
+- Hockey API
+- AI prediction services
+
+## API Integration & Documentation
+
+- [NBA API: access to results and statistics of basketball matches via API-sport](https://api-sport.pro/nba-api-access-to-basketball-match-results-and-statistics): NBA API integration via API-sport: REST/WebSocket with code examples
+- [Analysis of football events using a sports API | Football API live scores and sport stats API](https://api-sport.pro/analyzing-football-events-using-a-sports-api): Football event analysis via API-sport: live scores, odds & arbitrage
+- [How to analyze a team's form based on statistics — Sports Events API](https://api-sport.pro/how-to-analyze-the-teams-form-based-on-statistical-parameters): Guide to analyzing team form via Sports Events API with xG & examples
+- [Automation of personal meeting analysis (H2H) — API-Sport.ru](https://api-sport.pro/how-to-automate-the-analysis-of-personal-meetings-h2h-2): Automate H2H analysis for betting services using API-Sport.ru
+- [Team strength assessment by Elo rating - calculation based on sports API](https://api-sport.pro/team-strength-assessment-based-on-statistics-building-your-own-elo-rating): Build custom Elo ratings using Sports API with Python examples
+
+## API Comparisons & Service Selection
+
+- [FONBET API vs API-sport — comparison of sports APIs, access, rates, and capabilities](https://api-sport.pro/fonbet-api): Compares FONBET API vs API-sport for betting & analytics integration
+- [Hockey API vs API-sport — Complete Guide for Developers, Betting Platforms, and Analysts](https://api-sport.pro/hockey-api): Hockey API vs API-sport comparison: REST/WebSocket integration guide
+- [How to choose a sports statistics service for betting — overview, tips, and API-sport](https://api-sport.pro/how-to-choose-a-sports-statistics-service-for-betting): Selection guide for sports stats services with API-sport overview
+
+## Sports Analytics & Betting Insights
+
+- [Why player ratings on websites are inaccurate — sports data API](https://api-sport.pro/why-are-player-ratings-on-websites-often-inaccurate): Explains rating discrepancies & how API-sport aligns xG/xA metrics
+- [Prediction services for results using AI: how sports APIs and API-sport work](https://api-sport.pro/ai-based-result-prediction-services-how-they-work): How AI prediction services leverage API-sport for sports forecasting
+
+## Documentación en Español
+
+- [API para analizar estadísticas individuales de jugadores | API-sport, estadísticas en vivo y pronósticos](https://api-sport.pro/es/api-para-analizar-metricas-individuales-de-jugadores): Spanish guide: API-sport for player metrics via REST/WebSocket
+- [Caché y optimización de la API de deportes | Conexión e integración de API-deportes](https://api-sport.pro/es/9-fox-sports-api-como-usar-la-api-para-resultados-en-vivo-y-estadisticas): Spanish: Sports API caching & optimization with Python/JavaScript examples
+- [Cómo usar estadísticas de equipos y jugadores de fútbol para apostar | API-sport](https://api-sport.pro/es/como-usar-estadisticas-de-equipos-y-jugadores-de-futbol-para-apostar): Spanish: Using API-sport team/player stats for football betting

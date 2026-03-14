@@ -1,0 +1,30 @@
+# xAI
+
+> > xAI developer documentation for Grok AI models, APIs, and SDKs
+
+xAI provides AI models including Grok with capabilities for text generation, reasoning, and audio synthesis. Developers can integrate xAI models using the xAI API, Python SDK, JavaScript SDK, and OpenAI-compatible interfaces.
+
+## Key Topics
+
+- Grok models
+- xAI API
+- xAI SDK
+- Python SDK
+- JavaScript SDK
+- Text to Speech API
+- grok-4.20-beta-latest-non-reasoning
+- API key generation
+- xAI Console
+- OpenAI SDK compatibility
+- Audio generation
+- Voice synthesis
+- Swift integration
+- @ai-sdk/xai
+
+## Getting Started
+
+- [Getting Started | xAI](https://docs.x.ai/developers/quickstart): Quickstart tutorial for using Grok models via xAI API and SDK
+
+## Audio & Speech
+
+- [Text to Speech | xAI](https://docs.x.ai/developers/model-capabilities/audio/text-to-speech): xAI Text to Speech API guide for converting text to audio (MP3, μ-law)

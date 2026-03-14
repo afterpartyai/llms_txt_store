@@ -1,0 +1,29 @@
+# CodeArena
+
+> > CodeArena is a competitive programming platform offering curated coding challenges across algorithms, data structures, and SQL.
+
+The platform provides structured problem sets ranging from easy to medium difficulty, focusing on essential interview preparation topics including recursion, backtracking, string manipulation, and database queries. Each challenge is designed to build practical coding skills through hands-on practice.
+
+## Key Topics
+
+- SQL queries and database problems
+- Medium-difficulty algorithmic challenges
+- Recursion and backtracking techniques
+- String manipulation and hash maps
+- Array processing and sorting
+- Self-join operations
+- Employee-manager relationships
+- Group anagrams pattern
+- Generate parentheses pattern
+- Easy-difficulty problems
+- Salary comparison queries
+- Data structure optimization
+
+## Algorithm Challenges
+
+- [Group Anagrams Problem](https://codearena.co/problems/group-anagrams): Medium challenge: group anagrams using hash maps and string manipulation
+- [Generate Parentheses Problem](https://codearena.co/problems/generate-parentheses): Medium recursion challenge: generate all well-formed parentheses combos
+
+## SQL Database Problems
+
+- [SQL Employee Manager Salary Problem](https://codearena.co/problems/sql-employee-manager-salary): Easy SQL challenge: find employees earning more than their managers

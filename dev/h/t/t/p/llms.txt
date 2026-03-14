@@ -1,0 +1,61 @@
+# HTTP.dev
+
+> > Comprehensive reference for HTTP protocol standards, status codes, headers, and web technologies
+
+HTTP.dev provides expert-level documentation on HTTP/HTTPS protocols, covering standardized and vendor-specific headers, status codes, cookies, security mechanisms, and modern web standards. The site serves as a technical reference for developers working with HTTP, WebRTC, caching, and web infrastructure technologies like Cloudflare, Varnish, and CDNs.
+
+## Key Topics
+
+- HTTP headers
+- HTTP status codes
+- HTTPS and TLS
+- Cookies and session management
+- Security headers (HSTS, CSP)
+- Caching and CDN
+- URL encoding and data URLs
+- Web standards (RFC 6648, IETF)
+- Performance optimization
+- Cloudflare and Varnish
+- WebRTC and WHIP
+- Well-Known URIs
+- Resource hints
+- Client and server errors
+- Vendor-specific headers
+
+## Core HTTP Concepts
+
+- [HTTP Cookies explained](https://http.dev/cookies): HTTP cookies guide: Set-Cookie, SameSite, Secure, HttpOnly, session mgmt
+- [Percent-Encoding explained](https://http.dev/percent-encoding): Percent-encoding (URL encoding) guide: reserved chars, UTF-8, hex encoding
+- [Data URLs explained](https://http.dev/data-url): Data URL scheme guide: syntax, base64 encoding, security, performance
+- [Well-Known URIs explained](https://http.dev/well-known-uris): Well-Known URIs guide: /.well-known/ path for metadata discovery standards
+- [Resource Hints explained](https://http.dev/resource-hints): Resource hints guide: preconnect, prefetch, preload via HTTP Link headers
+- [WHIP (WebRTC-HTTP Ingestion Protocol) explained](https://http.dev/whip): WHIP protocol guide: WebRTC-HTTP ingestion with POST/PATCH/DELETE methods
+
+## Security Headers
+
+- [Strict-Transport-Security - Expert Guide to HTTP headers](https://http.dev/strict-transport-security): HSTS Strict-Transport-Security header: max-age, preload, HTTPS enforcement
+- [Origin-Trial - Expert Guide to HTTP headers](https://http.dev/origin-trial): Origin-Trial header for Chrome experimental feature tokens and registration
+- [X-Adblock-Key - Expert Guide to HTTP headers](https://http.dev/x-adblock-key): X-Adblock-Key header for Acceptable Ads cryptographic authentication
+- [X-AspNetMvc-Version - Expert Guide to HTTP headers](https://http.dev/x-aspnetmvc-version): X-AspNetMvc-Version header security risks and removal in ASP.NET MVC
+
+## Client Error Status Codes
+
+- [400 Bad Request - HTTP status code explained](https://http.dev/400): 400 Bad Request status code: causes, troubleshooting malformed URLs/cookies
+- [420 Method Failure or Enhance your calm](https://http.dev/420): 420 status code: Spring Framework Method Failure, Twitter API rate limiting
+- [470 Request Denied - HTTP status code explained](https://http.dev/470): 470 Request Denied status code for Azure Firewall application rule blocks
+- [498 Invalid Token - HTTP status code explained](https://http.dev/498): 498 Invalid Token status code for ArcGIS/Esri authentication errors
+
+## Server Error Status Codes
+
+- [526 Invalid SSL Certificate - HTTP status code explained](https://http.dev/526): 526 Invalid SSL Certificate: Cloudflare origin certificate validation errors
+- [299 Miscellaneous Persistent Warning](https://http.dev/299): 299 Miscellaneous Persistent Warning code (obsolete cache warning)
+
+## Performance and Monitoring Headers
+
+- [X-Runtime - Expert Guide to HTTP headers](https://http.dev/x-runtime): X-Runtime header reference for Ruby on Rails/Rack server processing time
+- [X-Varnish - Expert Guide to HTTP headers](https://http.dev/x-varnish): X-Varnish header: transaction IDs for Varnish Cache debugging and tracing
+- [X-Drupal-Cache - Expert Guide to HTTP headers](https://http.dev/x-drupal-cache): X-Drupal-Cache header for Drupal Internal Page Cache HIT/MISS debugging
+
+## CDN and Infrastructure Headers
+
+- [Cf-Ray - Expert Guide to HTTP headers](https://http.dev/cf-ray): Cloudflare Cf-Ray header for request tracing and datacenter identification

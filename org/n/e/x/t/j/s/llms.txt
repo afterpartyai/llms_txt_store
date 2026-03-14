@@ -1,62 +1,61 @@
-# Next.js by Vercel
+# Next.js
 
-> > The official documentation and learning hub for Next.js, the React framework for building full-stack web applications with App Router and Pages Router.
+> > The React Framework for the Web – used by some of the world's largest companies
 
-Next.js is developed by Vercel and provides comprehensive documentation covering both the modern App Router (with React Server Components) and the legacy Pages Router. The site includes getting started guides, API references, interactive tutorials, and deployment instructions for building production-ready React applications.
+Next.js is a full-stack React framework developed by Vercel that enables server-side rendering, static site generation, and modern web application development with TypeScript support. The framework features two routing paradigms: the modern App Router with React Server Components and the legacy Pages Router.
 
 ## Key Topics
 
 - App Router
 - Pages Router
 - React Server Components
-- Server Components
-- Client Components
-- File-system routing
-- Server Actions
 - TypeScript
-- Tailwind CSS
-- create-next-app
 - Server-side rendering (SSR)
-- Static Site Generation (SSG)
-- Deployment
-- Vercel
+- Static site generation (SSG)
+- Image optimization (next/image)
+- Font optimization (next/font)
+- Script optimization (next/script)
+- CSS Modules
+- Self-hosting and deployment
 - Turbopack
+- Edge Runtime
+- Authentication and security
+- MDX support
 
 ## Getting Started
 
-- [Next.js by Vercel - The React Framework](https://nextjs.org): Homepage for Next.js React framework by Vercel
-- [Next.js Docs | Next.js](https://nextjs.org/docs): Main documentation hub for Next.js with App Router and Pages Router
-- [Getting Started: Installation | Next.js](https://nextjs.org/docs/app/getting-started/installation): Install Next.js with create-next-app, TypeScript, ESLint setup
-- [App Router: Getting Started | Next.js](https://nextjs.org/docs/app/getting-started): Getting started guide for Next.js App Router with React fundamentals
-- [Pages Router: Getting Started | Next.js](https://nextjs.org/docs/pages/getting-started): Pages Router getting started guide with installation and deployment
-- [Getting Started: Project Structure | Next.js](https://nextjs.org/docs/app/getting-started/project-structure): Complete folder and file conventions reference for Next.js projects
+- [App Router: Getting Started](https://nextjs.org/docs/app/getting-started): Getting started with App Router: React Server Components and TypeScript
+- [Pages Router: Getting Started](https://nextjs.org/docs/pages/getting-started): Getting started guide for Pages Router with create-next-app and TypeScript
+- [Getting Started: Project Structure](https://nextjs.org/docs/app/getting-started/project-structure): Folder and file conventions for App Router and Pages Router projects
+- [Getting Started: Linking and Navigating](https://nextjs.org/docs/app/getting-started/linking-and-navigating): Navigation with Link component: prefetching, client-side transitions, streaming
+- [Getting Started: Upgrading](https://nextjs.org/docs/app/getting-started/upgrading): Upgrade Next.js and React to latest or canary versions with npm/pnpm
 
-## App Router Documentation
+## Optimization and Performance
 
-- [Next.js Docs: App Router | Next.js](https://nextjs.org/docs/app): App Router documentation with Server Components and file-system routing
-- [Getting Started: Layouts and Pages | Next.js](https://nextjs.org/docs/app/getting-started/layouts-and-pages): Guide to file-system routing, creating layouts and pages in App Router
-- [Getting Started: Server and Client Components | Next.js](https://nextjs.org/docs/app/getting-started/server-and-client-components): Using React Server Components and Client Components in Next.js
-- [Guides: Forms | Next.js](https://nextjs.org/docs/app/guides/forms): Creating forms with React Server Actions and FormData handling
+- [Getting Started: Images](https://nextjs.org/docs/pages/getting-started/images): Optimize images with next/image: WebP, lazy loading, layout shift prevention
+- [Getting Started: Fonts](https://nextjs.org/docs/pages/getting-started/fonts): Font optimization with next/font: Google Fonts, self-hosting (Pages Router)
+- [Guides: Scripts](https://nextjs.org/docs/pages/guides/scripts): Optimize third-party scripts with next/script component (Pages Router)
 
-## Learning Courses
+## Deployment and Configuration
 
-- [Learn Next.js | Next.js by Vercel - The React Framework](https://nextjs.org/learn): Learning hub with courses on App Router, React foundations, Pages Router
-- [React Foundations | Next.js](https://nextjs.org/learn/react-foundations): Beginner course teaching React fundamentals for Next.js development
-- [React Foundations: About React and Next.js | Next.js](https://nextjs.org/learn/react-foundations/what-is-react-and-nextjs): Introduction to React and Next.js framework fundamentals
-- [App Router | Next.js](https://nextjs.org/learn/dashboard-app): Full-stack App Router course building dashboard with authentication
-- [Pages Router | Next.js](https://nextjs.org/learn/pages-router): Pages Router tutorial course for building blog apps with SSG/SSR
-- [SEO | Next.js](https://nextjs.org/learn/seo): SEO optimization course covering Googlebot and Core Web Vitals
+- [Guides: Self-Hosting](https://nextjs.org/docs/app/guides/self-hosting): Self-host Next.js on Node.js, Docker, or static exports with nginx
+- [Guides: Authentication](https://nextjs.org/docs/pages/guides/authentication): Authentication guide: session management, authorization, securing routes
+- [Guides: Sass](https://nextjs.org/docs/app/guides/sass): Style Next.js apps with Sass/SCSS and CSS Modules configuration
+- [Guides: MDX](https://nextjs.org/docs/app/guides/mdx): Configure and use MDX (Markdown + JSX) in Next.js App Router applications
+- [Guides: JSON-LD](https://nextjs.org/docs/app/guides/json-ld): Add JSON-LD structured data with schema.org for SEO and search engines
 
-## Pages Router Documentation
+## Release Announcements
 
-- [Building Your Application: Routing | Next.js](https://nextjs.org/docs/pages/building-your-application/routing): Pages Router file-system routing and navigation guide
-- [Getting Started: Deploying | Next.js](https://nextjs.org/docs/pages/getting-started/deploying): Deploy Next.js as Node.js server, Docker container, or static export
+- [Next.js Security Update: December 11, 2025](https://nextjs.org/blog/security-update-2025-12-11): Security update for React Server Components vulnerabilities (CVE advisory)
+- [Next.js 15.3](https://nextjs.org/blog/next-15-3): Next.js 15.3 release: Turbopack builds, navigation hooks, instrumentation
+- [Next.js 10.1](https://nextjs.org/blog/next-10-1): Next.js 10.1 release: 3x faster refresh, 58% smaller install, WebAssembly
 
-## Release Notes
+## API Reference
 
-- [Next.js 16 | Next.js](https://nextjs.org/blog/next-16): Next.js 16 release with Turbopack, Cache Components, React 19.2 support
+- [App Router: API Reference](https://nextjs.org/docs/app/api-reference): Complete API reference for Next.js App Router, Edge Runtime, Turbopack
 
-## Optional
+## Migration and Error Reference
 
-- [Introduction: Getting Started | Next.js](https://nextjs.org/docs/14/getting-started): Next.js 14 getting started guide with installation and setup
-- [Pages Router: Set up pages | Next.js](https://nextjs.org/learn/pages-router/navigate-between-pages-setup): Pages Router tutorial chapter for setting up navigation
+- [Dynamic APIs are Asynchronous](https://nextjs.org/docs/messages/sync-dynamic-apis): Migration guide: dynamic APIs now async in Next.js 15 (params, cookies)
+- [No Before Interactive Script Outside Document](https://nextjs.org/docs/messages/no-before-interactive-script-outside-document): Error reference: beforeInteractive script must be in _document layout
+- [No CSS Tags](https://nextjs.org/docs/messages/no-css-tags): Error reference: use CSS Modules or imports instead of <link> tags

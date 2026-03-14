@@ -1,0 +1,54 @@
+# Caesar Cipher
+
+> > Comprehensive classical cryptography resource featuring interactive cipher tools, decoders, and educational tutorials for Caesar, Vigenere, Playfair, and polyalphabetic substitution ciphers.
+
+Caesar Cipher provides hands-on cryptography education through interactive encoder/decoder tools, cryptanalysis techniques like Kasiski examination and frequency analysis, and historical context from Charles Wheatstone to modern applications. The site covers classical encryption methods with visual aids, worked examples, and reference materials for both learners and practitioners.
+
+## Key Topics
+
+- Caesar Cipher
+- Playfair cipher
+- Vigenere cipher
+- Polyalphabetic substitution
+- Cryptanalysis
+- Kasiski examination
+- Index of Coincidence
+- Frequency analysis
+- Running Key Cipher
+- Alberti Cipher
+- Classical cryptography
+- Encryption and decryption
+- Charles Wheatstone
+- Tabula Recta
+
+## Core Cipher Tools
+
+- [Caesar Cipher Wheel - Interactive Visual Encoder](https://caesarcipher.org/ciphers/caesar/wheel): Interactive Caesar cipher wheel with visual rotation controls
+- [Playfair Cipher - Online Encoder, Decoder, Solver](https://caesarcipher.org/ciphers/playfair): 5x5 matrix digraph cipher by Wheatstone and Lord Playfair
+- [Playfair Cipher Decoder Online](https://caesarcipher.org/ciphers/playfair/decoder): Decrypt Playfair messages with 5x5 grid visualization
+- [Running Key Cipher - Online Encoder, Decoder, Solver](https://caesarcipher.org/ciphers/running-key): Vigenere variant using book passages as encryption keys
+- [Autokey Cipher - Online Encoder, Decoder, Solver](https://caesarcipher.org/ciphers/autokey): Self-keying Vigenere variant cipher encoder/decoder tool
+- [Alberti Cipher Decoder - Decryption Tool](https://caesarcipher.org/ciphers/alberti/decoder): Decrypt Alberti polyalphabetic cipher with visual disk position analysis
+- [Porta Cipher (Della Porta) - Online Encoder, Decoder](https://caesarcipher.org/ciphers/porta): Giovanni della Porta's digraphic 13-alphabet reciprocal cipher tool
+- [Straddling Checkerboard Decoder Online](https://caesarcipher.org/ciphers/straddling-checkerboard/decoder): Decode Straddling Checkerboard with VIC cipher preset support
+- [Hebrew Atbash Cipher - Ancient Hebrew Encryption](https://caesarcipher.org/ciphers/atbash/hebrew): Original Hebrew Atbash with biblical examples from Jeremiah
+
+## Cipher Tutorials & Examples
+
+- [Vigenere Cipher Examples - Encryption Tutorial](https://caesarcipher.org/ciphers/vigenere/examples): Vigenere cipher examples with Civil War historical context and code samples
+- [Playfair Cipher Examples & Tutorials](https://caesarcipher.org/ciphers/playfair/examples): Playfair cipher tutorials including classic Hide the Gold message
+- [Running Key Cipher Examples & Tutorials](https://caesarcipher.org/ciphers/running-key/examples): Running Key cipher tutorials using Pride and Prejudice text keys
+
+## Reference Guides
+
+- [Morse Code Chart - Complete Visual Reference Guide](https://caesarcipher.org/ciphers/morse/chart): International Morse Code reference with dots, dashes, and timing rules
+- [Playfair Cipher Rules & Guide](https://caesarcipher.org/ciphers/playfair/rules): Complete Playfair encryption rules with interactive visual examples
+- [Quagmire Cipher Variants - I, II, III, IV Guide](https://caesarcipher.org/ciphers/quagmire/variants): Comparison guide for all four Quagmire cipher variants
+
+## Optional Tools & Utilities
+
+- [Word Counter - Count Words, Characters, Sentences](https://caesarcipher.org/converters/word-counter): Count words, characters, sentences with reading/speaking time tracking
+- [Tip Calculator - Calculate Tip & Split Bill Easily](https://caesarcipher.org/calculators/tip-calculator): Calculate tips and split bills with customizable percentages
+- [REM to PX Converter - Convert REM Units to Pixels](https://caesarcipher.org/converters/rem-to-px-converter): Convert CSS REM units to pixels for responsive design debugging
+- [Lat Long Distance Calculator - GPS Coordinate Distance](https://caesarcipher.org/calculators/latlong-distance-calculator): Calculate GPS coordinate distances using Haversine formula
+- [Stock Profit Calculator - Calculate Stock Trading Gains](https://caesarcipher.org/calculators/stock-profit-calculator): Calculate stock trading profit, ROI, and commissions

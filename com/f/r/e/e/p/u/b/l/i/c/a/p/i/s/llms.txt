@@ -1,0 +1,64 @@
+# FreePublicAPIs
+
+> > A curated directory of free, tested public APIs spanning entertainment, finance, data, IoT, and developer tools—all verified daily for reliability.
+
+FreePublicAPIs provides a comprehensive collection of REST APIs with detailed documentation, CORS support information, and daily testing status. The platform covers diverse categories including NASA space data, currency conversion (UniRate), NPM packages, DeFi analytics, entertainment APIs (The Office, nekos.best), and real-time datasets from Hong Kong visitor statistics to Zurich pedestrian tracking.
+
+## Key Topics
+
+- REST API
+- CORS support
+- JSON/CSV/XLSX formats
+- API testing and reliability
+- Currency conversion and exchange rates
+- Entertainment and TV show data
+- Financial and DeFi data
+- IoT and environmental sensors
+- Developer tools and package registries
+- Real-time analytics and statistics
+- Image and media APIs
+- Transportation and mobility data
+- Space and NASA datasets
+- Gaming and PlayStation data
+- Business entity lookups
+
+## Finance & Cryptocurrency APIs
+
+- [UniRate API](https://www.freepublicapis.com/unirate-api): Currency conversion & exchange rates API with USD and multi-currency support
+- [DexPaprika API](https://www.freepublicapis.com/dexpaprika-api): DeFi & DEX data API with Solana token prices & liquidity pools
+- [Shodan EntityDB API](https://www.freepublicapis.com/shodan-entitydb-api): US business entity lookups with financial data & executive info
+
+## Developer Tools & Package Management
+
+- [NPM Registry API](https://www.freepublicapis.com/npm-registry-api): NPM package metadata, versions & search for JavaScript packages
+- [Text Validation API](https://www.freepublicapis.com/text-validation-api): Text input validation API hosted on Vercel for ringtone search
+
+## Space, Science & Environmental Data
+
+- [NASA Open APIs](https://www.freepublicapis.com/nasa-open-apis): NASA space data, asteroid info & imagery APIs with CORS support
+- [openSenseMap API](https://www.freepublicapis.com/opensensemap-api): IoT sensor & senseBox management API with environmental measurements
+- [Fruityvice](https://www.freepublicapis.com/fruityvice): Fruit nutrition data API with CORS support (per 100g servings)
+
+## Entertainment & Media APIs
+
+- [The Office API](https://www.freepublicapis.com/the-office-api): The Office TV show API with seasons, characters & episode data
+- [nekos.best API](https://www.freepublicapis.com/nekosbest-api): RESTful API for SFW anime images and GIFs (neko content)
+- [Playstation Store API](https://www.freepublicapis.com/playstation-store-api): PSN game info API with regional availability & language settings
+- [Openwhyd API](https://www.freepublicapis.com/openwhyd-api): Music curation API aggregating YouTube, SoundCloud, Vimeo & Deezer
+- [Random Fox API](https://www.freepublicapis.com/random-fox-api): Random fox pictures API from randomfox.ca
+- [Cat Fact API](https://www.freepublicapis.com/cat-fact-api): Random cat facts REST API hosted on Heroku by Alex Wohlbruck
+
+## Transportation & Mobility Data
+
+- [PubliBike Stations API](https://www.freepublicapis.com/publibike-stations-api): PubliBike station locations, states & vehicle availability data
+- [Metropolitano de Lisboa](https://www.freepublicapis.com/metropolitano-de-lisboa): Lisbon Metro API with stations, lines, schedules & passenger stats
+
+## Analytics & Statistics APIs
+
+- [Visitor Statistics API](https://www.freepublicapis.com/visitor-statistics-api): Hong Kong visitor arrivals data in JSON, CSV & XLSX formats
+- [Passantenfrequenzen Zürich](https://www.freepublicapis.com/passantenfrequenzen-zuerich): Zurich pedestrian frequency data by Hystreet with real-time analytics
+
+## Optional
+
+- [TikTok Engagement Bot](https://www.freepublicapis.com/tiktok-engagement-bot): Zefoy API for automating TikTok likes, followers, shares & views
+- [Multifon Client API](https://www.freepublicapis.com/multifon-client-api): Megafon account management API for routing, balance & profile

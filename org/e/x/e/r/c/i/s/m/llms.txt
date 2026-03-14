@@ -1,0 +1,64 @@
+# Exercism
+
+> > Exercism is a nonprofit coding platform offering practice exercises, mentoring, and track-based learning across 60+ programming languages.
+
+Exercism provides a comprehensive learning environment with Practice Exercises, Concept Exercises, and human mentoring. The platform supports both online and CLI-based workflows, with tooling for track maintainers including representers, analyzers, and configlet. Key initiatives include the #12in23 challenge and the deprecated Teams Edition.
+
+## Key Topics
+
+- Practice Exercises
+- Concept Exercises
+- Mentoring
+- Track building
+- #12in23 challenge
+- Swift programming
+- Test-Driven Development (TDD)
+- Online editor and CLI workflow
+- Representers and analyzers
+- Social mobility through programming education
+- Community-driven learning
+- Jeremy Walker (founder)
+- Exercism v3
+- Configlet tooling
+- Problem-specifications
+
+## Getting Started
+
+- [About Exercism](https://exercism.org/about): Exercism's vision, mission, and strategy as a nonprofit coding platform
+- [Solving exercises](https://exercism.org/docs/using/solving-exercises): Guide to solving exercises using online editor or CLI workflow
+- [What is Test-Driven Development?](https://exercism.org/docs/using/solving-exercises/tdd): Guide to Test-Driven Development methodology for solving exercises
+
+## Swift Track - Concepts & Exercises
+
+- [Wordy in Swift on Exercism](https://exercism.org/tracks/swift/exercises/wordy): Swift exercise: parse word problems and evaluate arithmetic operations
+- [Nested Functions in Swift](https://exercism.org/tracks/swift/concepts/nested-functions): Swift concept: nested functions, helper functions, and function scope
+- [Value and reference types in Swift](https://exercism.org/tracks/swift/concepts/value-and-reference-types): Swift concept: value vs reference types, structs, classes, memory semantics
+- [Higher Order Functions in Swift](https://exercism.org/tracks/swift/concepts/higher-order-functions): Swift concept: higher-order functions and functional programming patterns
+
+## Mentoring
+
+- [The Mentoring Mindset](https://exercism.org/docs/mentoring/mindset): Mentoring philosophy, mindset, and communication approach guidelines
+
+## Track Building & Maintenance
+
+- [Syllabus](https://exercism.org/docs/building/tracks/syllabus): Track syllabus design: Concept and Practice Exercises structure
+- [Representers](https://exercism.org/docs/building/product/representers): Representer tooling for normalizing solutions and automated feedback
+- [Deprecated Exercises](https://exercism.org/docs/building/tracks/deprecated-exercises): Guide to deprecating exercises and managing exercise status in config.json
+
+## Tooling Reference
+
+- [Exercism CLI](https://exercism.org/docs/building/tooling/cli): CLI tool reference for downloading exercises and running tests
+- [configlet sync](https://exercism.org/docs/building/configlet/sync): Configlet sync command for syncing exercises with problem-specifications
+
+## Blog & Community Updates
+
+- [Introducing the Exercism blog](https://exercism.org/blog/introducing-the-exercism-blog): Blog launch announcement to share platform updates and community news
+- [Independent Mode has been renamed to Practice Mode](https://exercism.org/blog/independent-mode-becomes-practice-mode): Announcement: Independent Mode renamed to Practice Mode for clarity
+- [It's Object Oriented October](https://exercism.org/blog/object-oriented-october): #12in23 October: OOP languages C#, Ruby, PowerShell, Crystal, Java, Pharo
+- [December Diversions](https://exercism.org/blog/december-diversions): #12in23 December challenge: ColdFusion, Groovy, Lua, VimScript, and Wren
+- [An interview with Ryan Potts](https://exercism.org/blog/interview-with-ryan-potts): Ryan Potts on Delphi track maintenance and automotive testing programming
+
+## Optional
+
+- [Privacy Policy](https://exercism.org/docs/using/legal/privacy-policy): Privacy policy covering data collection, GitHub OAuth, and third-party tools
+- [Exercism Teams Edition](https://exercism.org/docs/using/editions/teams): Deprecated Teams Edition feature history and team learning capabilities

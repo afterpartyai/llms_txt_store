@@ -1,0 +1,61 @@
+# Testsigma
+
+> > Testsigma is a cloud-based test automation platform offering no-code automation for web, mobile, and API testing with AI-powered capabilities.
+
+Testsigma provides comprehensive test automation solutions with natural language processing (NLP) for creating tests, cross-browser testing, CI/CD integrations with Jenkins and Azure DevOps, and alternatives to tools like Selenium, Cypress, and ACCELQ. The platform supports continuous testing across multiple environments and frameworks.
+
+## Key Topics
+
+- Test Automation
+- No-Code Automation
+- API Testing
+- Cross-Browser Testing
+- Mobile Testing (Appium, Espresso)
+- CI/CD Integration (Jenkins, GitLab)
+- Selenium & Cypress Alternatives
+- BDD Frameworks (Cucumber, JBehave)
+- Quality Assurance Process
+- Automated GUI Testing
+- Tool Comparisons (ACCELQ, Tosca, Postman)
+- Software Testing Methodologies
+- Continuous Integration
+- Desktop Test Recorder
+- Azure DevOps Integration
+
+## Test Automation Tools & Comparisons
+
+- [Accelq vs Cypress - Which One to Choose?](https://testsigma.com/blog/accelq-vs-cypress): Compares ACCELQ vs Cypress test automation tools with Testsigma alternative
+- [AccelQ vs Tosca: Test Automation Tools Comparison (2026)](https://testsigma.com/blog/accelq-vs-tosca): 2026 comparison of AccelQ vs Tosca enterprise test automation platforms
+- [Appium vs Espresso: Comparison & Which is Better?](https://testsigma.com/blog/appium-vs-espresso): Appium vs Espresso mobile testing comparison for Android and iOS apps
+- [JBehave vs Cucumber: BDD Framework Comparison](https://testsigma.com/blog/jbehave-vs-cucumber): BDD framework comparison: JBehave vs Cucumber syntax and adoption
+- [Insomnia vs Postman: Which is Better for Your Project?](https://testsigma.com/blog/insomnia-vs-postman): Compares Insomnia vs Postman API testing tools with Testsigma option
+- [GitLab vs Jenkins - Which CI/CD tool should you choose?](https://testsigma.com/blog/gitlab-vs-jenkins): GitLab vs Jenkins CI/CD comparison for DevOps automation pipelines
+
+## Testsigma Platform & Features
+
+- [July '23 Product Digest: The latest on Testsigma](https://testsigma.com/blog/july-23-product-digest-the-latest-on-testsigma): July 2023 Testsigma release: Desktop Recorder, Jenkins, Azure DevOps
+- [Test Website on Different Browsers](https://testsigma.com/blog/how-to-test-a-website-on-different-browsers-using-testsigma): Tutorial: Cross-browser testing with Testsigma for Chrome, Firefox, Safari
+- [Automated GUI Testing – What , Approaches & Benefits](https://testsigma.com/blog/automated-gui-testing): Automated GUI testing guide: NLP approaches, CI/CD, and benefits
+
+## API & UI Testing Strategies
+
+- [API vs UI Testing: Which One Should You Pick](https://testsigma.com/blog/api-vs-ui-testing): API vs UI testing comparison guide to choose right approach for your app
+- [Feature Testing- What It Is and How It Works?](https://testsigma.com/blog/feature-testing): Feature testing guide covering manual and automated best practices
+- [Concurrency Testing In Software Testing- Overview](https://testsigma.com/blog/concurrency-testing): Overview of concurrency testing for multi-process apps and race conditions
+
+## Software Testing Methodologies
+
+- [Alpha Testing in Software Testing](https://testsigma.com/blog/alpha-testing): Guide to alpha testing methodology and pre-release internal testing
+- [Field Testing](https://testsigma.com/blog/field-testing): Field testing guide for real-world app evaluation and user behaviors
+- [Breadth Testing in Software Testing](https://testsigma.com/blog/breadth-testing): Breadth testing methodology for integration and module dependencies
+- [Incident in Software Testing](https://testsigma.com/blog/incident-in-software-testing): Incident reporting in QA: writing reports and managing test incidents
+- [How do you write data migration test cases?](https://testsigma.com/blog/data-migration-test-cases): Guide to writing data migration test cases for system transfers
+
+## Quality Assurance & Process Improvement
+
+- [Capability Maturity Model: The Complete 2025 Guide](https://testsigma.com/blog/capability-maturity-model): 2025 CMM/CMMI guide: maturity levels and process improvement framework
+
+## Optional
+
+- [Top difference between training data and testing data](https://testsigma.com/blog/difference-between-training-data-and-testing-data): Explains ML training vs testing data differences and usage patterns
+- [What is Cross Website Tracking | How to Prevent It?](https://testsigma.com/blog/cross-website-tracking): Cross-website tracking explained: cookies, fingerprinting, privacy tips

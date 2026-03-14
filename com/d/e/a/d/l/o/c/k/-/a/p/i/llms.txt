@@ -1,0 +1,44 @@
+# Deadlock API
+
+> > Comprehensive API and analytics platform for Valve's Deadlock game, providing real-time stats, hero analytics, leaderboards, and developer tools.
+
+Deadlock API offers game data APIs, live event streams, player statistics, and streaming tools for Valve's Deadlock. The platform supports developers with database dumps, Server-Sent Events for live match data, and integration with Steam, OBS, and other services.
+
+## Key Topics
+
+- Deadlock
+- Game Data API
+- Hero Analytics
+- Player Statistics
+- Leaderboards
+- Match History
+- Win Rates
+- Live Events API
+- Stream Kit
+- Server-Sent Events
+- Steam Integration
+- OBS Widgets
+- Developer Tools
+- Item Analytics
+- Prioritized Fetching
+
+## Core Analytics & Statistics
+
+- [Deadlock API - Game Stats, Hero Analytics & Leaderboards](https://deadlock-api.com): Homepage for Deadlock API: game stats, hero analytics & leaderboards
+- [Game Statistics Dashboard](https://deadlock-api.com/game-stats): Game statistics dashboard with match history and hero analytics
+- [Hero Stats & Analytics](https://deadlock-api.com/heroes): Hero win rates, pick rates, and matchup analytics for all Deadlock heroes
+- [Item Stats & Build Analytics](https://deadlock-api.com/items): Item win rates, purchase timing, and combo analytics for Deadlock
+
+## Player & Match Data
+
+- [Player Scoreboard](https://deadlock-api.com/player-scoreboard): Player scoreboard with match history and prioritized fetching
+- [Match Heatmap Visualization](https://deadlock-api.com/heatmap): Heatmap visualization for Deadlock match and player analytics
+
+## Streaming & Content Creation
+
+- [Stream Toolkit & OBS Widgets](https://deadlock-api.com/streamkit): OBS widgets and chat commands for Deadlock streaming with Steam integration
+
+## Optional
+
+- [Data Privacy Policy](https://deadlock-api.com/data-privacy): Data privacy policy for Deadlock API services and user data
+- [Cache Ingestion](https://deadlock-api.com/ingest-cache): Cache ingestion page for Deadlock API data processing and updates

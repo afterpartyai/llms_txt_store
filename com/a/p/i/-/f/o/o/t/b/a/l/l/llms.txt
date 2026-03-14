@@ -1,0 +1,60 @@
+# API-FOOTBALL
+
+> > Comprehensive sports data API platform providing real-time and historical data for football, basketball, hockey, and other sports with live odds, fixtures, statistics, and player information.
+
+API-FOOTBALL is part of the API-SPORTS ecosystem, offering RESTful APIs with JSON responses accessible via HTTPS. The platform supports integrations with JavaScript, Google Sheets, and custom widgets, serving developers building sports data applications, betting platforms, and analytics tools.
+
+## Key Topics
+
+- API-FOOTBALL
+- API-SPORTS
+- Football data APIs
+- Live odds and betting
+- API-HOCKEY
+- API-Basketball
+- Real-time fixtures and statistics
+- JavaScript integration
+- JSON data format
+- Widget customization
+- Competition announcements
+- Player statistics
+- League coverage
+- Google Sheets integration
+- API quota management
+
+## Pricing & Plans
+
+- [API-Football - All our pricing plans](https://www.api-football.com/pricing): Subscription pricing plans starting at $19/month with Stripe/PayPal payment
+
+## Integration Guides & Tutorials
+
+- [HOW TO GET ALL FIXTURES DATA FROM ONE LEAGUE](https://www.api-football.com/news/post/how-to-get-all-fixtures-data-from-one-league): Step-by-step tutorial for retrieving complete league fixtures using JavaScript
+- [API-FOOTBALL & GOOGLESHEETS](https://www.api-football.com/news/post/api-football-googlesheets): No-code integration guide for accessing API-Football data via Google Sheets
+- [Allow only certain IPs/Domains to call the APIs](https://www.api-football.com/news/post/allow-only-certain-ipsdomains-to-call-the-apis): Guide to securing API keys with IP address and domain whitelisting
+- [Create a Custom Translation File for Your Widgets](https://www.api-football.com/news/post/create-a-custom-translation-file-for-your-widgets): Tutorial on creating custom JSON translation files for API-SPORTS widgets
+
+## Major API Updates & Features
+
+- [API-FOOTBALL - NEW RELEASE AVAILABLE](https://www.api-football.com/news/post/api-football-new-release-available): Major release announcement with new endpoints for statistics and player data
+- [IN-PLAY ODDS](https://www.api-football.com/news/post/in-play-odds): Beta release announcement for new odds/live endpoint for in-play betting odds
+- [DASHBOARD : QUOTA ALERTS](https://www.api-football.com/news/post/dashboard-quota-alerts): New dashboard feature for email alerts based on API quota usage (50-100%)
+- [Leagues & Teams IDs](https://www.api-football.com/news/post/leagues-teams-ids): Dashboard feature added: complete list of competition and team IDs
+
+## API-HOCKEY & API-Basketball Expansions
+
+- [API-HOCKEY - 124 New competitions](https://www.api-football.com/news/post/api-hockey-124-new-competitions): Announcement of 124 new hockey competitions added to API-HOCKEY
+- [API-HOCKEY - 46 New competitions](https://www.api-football.com/news/post/api-hockey-46-new-competitions): 46 new international hockey competitions added to API-HOCKEY
+- [API-Basketball - 12 New competitions](https://www.api-football.com/news/post/api-basketball-12-new-competitions): Announcement of 12 new European basketball competitions added to API-Basketball
+
+## User Showcases & Integrations
+
+- [GPTFOOT: The Ultimate Telegram and Discord Bot for Football Fanatics, Powered by AI](https://www.api-football.com/news/post/gptfoot-the-ultimate-telegram-and-discord-bot-for-football-fanatics-powered-by-ai): Showcase of GPTFOOT bot combining API-FOOTBALL data with OpenAI GPT-4
+- [EUROFOOTBALL DATA](https://www.api-football.com/news/post/eurofootball-data): User showcase: Eurofootball data prediction platform powered by API-FOOTBALL
+
+## Optional: League & Competition Announcements
+
+- [Copa Argentina](https://www.api-football.com/news/post/copa-argentina): Copa Argentina league added with historical data since 2016
+- [DFB POKAL](https://www.api-football.com/news/post/dfb-pokal): German DFB POKAL competition added with 2016-2018 season history
+- [3 NEW LEAGUES](https://www.api-football.com/news/post/3-new-leagues): Hungary NB I, NB II, and Copa America competitions added
+- [IRAN & SOUTH KOREA](https://www.api-football.com/news/post/iran-south-korea): Persian Gulf Cup, Azadegan League, and K-League competitions added
+- [paraguay, primera division](https://www.api-football.com/news/post/paraguay-primera-division): Paraguay Primera Division added with three seasons of historical data

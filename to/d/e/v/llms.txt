@@ -1,26 +1,25 @@
 # DEV Community
 
-> > A community platform for software developers to share articles, tutorials, and discussions on web development, JavaScript, CSS, APIs, and open-source technologies.
+> > A community of software developers sharing knowledge through articles, tutorials, and discussions on web development, open-source, and programming.
 
-DEV Community is built on Forem, an open-source platform, and partnered with Major League Hacking (MLH). The community is led by Ben Halpern, Jess Lee, and Peter Frank, fostering collaboration among developers worldwide.
+DEV Community is built on Forem, an open-source platform, and partnered with Major League Hacking (MLH). The community is led by Ben Halpern, Jess Lee, and Peter Frank, fostering collaboration among developers across topics like JavaScript, HTML5, game development, terminal tools, and API design.
 
 ## Key Topics
 
+- DEV Community
+- Forem platform
+- Open-source development
 - JavaScript
 - HTML5
-- CSS
-- HTTP
+- Web development
+- Game development
 - REST API
-- Forem
-- Web Development
-- Open Source
-- jQuery
-- Canvas
-- three.js
-- Developer Community
-- Game Development
-- MLH Partnership
-- Code Examples
+- Terminal tools
+- Linux/Ubuntu
+- Community-driven learning
+- Developer tutorials
+- Code examples
+- Beginner-friendly content
 
 ## About DEV Community
 
@@ -28,14 +27,11 @@ DEV Community is built on Forem, an open-source platform, and partnered with Maj
 
 ## Web Development Tutorials
 
-- [CSS Grid : Auto-Fit & Auto-Fill - DEV Community](https://dev.to/nunocpnp/css-grid-auto-fit-auto-fill-4hkh): Guide to CSS Grid auto-fit and auto-fill with minmax for responsive layouts
-- [Java Script Game Codes: 10+ The Best javascript games code - DEV Community](https://dev.to/gscode/10-best-of-javascript-games-3mjj): Collection of JavaScript game code examples using HTML5, CSS, and jQuery
+- [Handling HTTP Status Codes in a REST API (200 OK vs. 201 Created) - DEV Community](https://dev.to/msnmongare/handling-http-status-codes-in-a-rest-api-200-ok-vs-201-created-28d): Tutorial on REST API HTTP status codes: 200 OK vs 201 Created usage
+- [Java Script Game Codes: 10+ The Best javascript games code - DEV Community](https://dev.to/gscode/10-best-of-javascript-games-3mjj): Collection of 10+ JavaScript game code examples using HTML5, CSS, jQuery
 
-## API and HTTP Guides
+## Terminal & System Administration
 
-- [Handling HTTP Status Codes in a REST API (200 OK vs. 201 Created) - DEV Community](https://dev.to/msnmongare/handling-http-status-codes-in-a-rest-api-200-ok-vs-201-created-28d): Tutorial on REST API HTTP status codes: 200 OK vs 201 Created differences
-- [How to use Basic authentication with curl? - DEV Community](https://dev.to/lucasg/how-to-use-basic-authentication-with-curl-1j6j): Tutorial on using Basic Auth with curl and HTTP authorization headers
-
-## Optional
-
-- [Rufus Bootable USB to install Ubuntu 22.04 LTS - DEV Community](https://dev.to/pinky057/rufus-bootable-usb-to-install-ubuntu-2204-lts-g7c): Step-by-step guide to creating bootable USB for Ubuntu 22.04 using Rufus
+- [Kitty Terminal Basics + Cheatsheet - DEV Community](https://dev.to/otamm/kitty-terminal-basics-cheatsheet-1f0o): Kitty terminal emulator reference guide with shortcuts and configuration
+- [Top 10 Termux Commands Every Beginner Should Know - DEV Community](https://dev.to/terminaltools/top-10-termux-commands-every-beginner-should-know-ooo): Beginner guide to essential Termux commands for Android Linux terminal
+- [Rufus Bootable USB to install Ubuntu 22.04 LTS - DEV Community](https://dev.to/pinky057/rufus-bootable-usb-to-install-ubuntu-2204-lts-g7c): Step-by-step tutorial for creating Ubuntu 22.04 LTS bootable USB with Rufus

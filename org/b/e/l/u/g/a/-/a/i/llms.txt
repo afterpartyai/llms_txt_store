@@ -1,0 +1,41 @@
+# Beluga AI
+
+> > Beluga AI is a Go-native agentic framework for building production-ready AI agents with 22+ LLM providers, streaming-first architecture, and enterprise-grade observability.
+
+Beluga AI provides a comprehensive Go framework for AI agent development, featuring integrations with OpenAI, Anthropic, Gemini, and other major providers, along with RAG pipelines, OpenTelemetry observability, and enterprise security controls. The framework emphasizes production readiness, streaming capabilities, and Go's performance advantages for AI orchestration.
+
+## Key Topics
+
+- Go-native AI framework
+- Agentic AI development
+- LLM orchestration
+- Streaming-first architecture
+- Production-ready AI agents
+- OpenTelemetry observability
+- RAG pipelines
+- 22+ LLM providers (OpenAI, Anthropic, Gemini)
+- ReAct agent pattern
+- Enterprise security (RBAC/ABAC)
+- ChatModel abstraction
+- Tool integration
+- LiveKit real-time AI
+- Open source (MIT License)
+- Kubernetes deployment
+
+## Getting Started
+
+- [Beluga AI](https://beluga-ai.org/): Homepage for Beluga AI Go framework with 22+ LLM providers and RAG support
+- [Getting Started with Beluga AI | Beluga AI](https://beluga-ai.org/docs/getting-started/overview/): Overview of Beluga AI's Go-native agentic framework and core capabilities
+- [Quick Start — Beluga AI | Beluga AI](https://beluga-ai.org/docs/getting-started/quick-start/): 5-minute tutorial: build first AI agent in Go with OpenAI GPT-4o
+
+## Guides & Documentation
+
+- [Beluga AI Guides | Beluga AI](https://beluga-ai.org/docs/guides/): In-depth guides for building AI agents with ChatModel, Agent, and Tools
+
+## Enterprise & Production
+
+- [Enterprise AI Agent Infrastructure | Beluga AI](https://beluga-ai.org/enterprise/): Enterprise features: RBAC/ABAC security, OTel observability, guardrails
+
+## About
+
+- [About Beluga AI — Why Go for AI Agents | Beluga AI](https://beluga-ai.org/about/): About page explaining Go framework choice for production AI agents

@@ -1,63 +1,60 @@
 # ScienceInsights
 
-> > A science education platform covering biomedical engineering, analytical chemistry, environmental biology, and applied life sciences with evidence-based explanations.
+> > ScienceInsights provides evidence-based explanations of scientific concepts spanning medical diagnostics, microbiology, environmental science, and biology.
 
-ScienceInsights provides accessible scientific explanations across diverse topics including diagnostic technologies (MRI, GC-MS, LC-MS), biomedical engineering applications, environmental science, toxicology, and natural history. Content emphasizes practical applications of scientific principles with technical accuracy suitable for students, professionals, and curious learners.
+The site covers laboratory techniques like immunoassay testing, GC-MS, and LC-MS/MS for medical diagnostics, alongside topics in microbiology (biofilm formation, antibiotic resistance), climate science (AMOC collapse), molecular biology (DNA structure, parthenogenesis), and natural history. Content is designed to make complex scientific principles accessible through clear, detailed explanations.
 
 ## Key Topics
 
-- Biomedical Engineering
-- MRI Safety and Technology
-- Gas Chromatography-Mass Spectrometry (GC-MS)
-- Liquid Chromatography-Mass Spectrometry (LC-MS)
-- Drug Screening and Immunoassay
-- Cross-Reactivity and False Positives
-- Healthcare Technology and Medical Devices
-- Tissue Engineering and Regenerative Medicine
-- Environmental Biology
-- Invasive Species Management
-- Toxicology and Chemical Safety
-- Biosafety and Laboratory Standards
-- Microbiology Culture Methods
-- Genetics and Inheritance Patterns
+- Immunoassay testing and antibody-antigen interactions
+- Medical diagnostics (HIV, hepatitis, COVID-19)
+- Laboratory techniques (GC-MS, LC-MS/MS)
+- Drug testing and hair follicle analysis
+- Biofilm formation and quorum sensing
+- Antibiotic resistance in healthcare
+- DNA structure and molecular biology
+- Environmental persistence and plastic degradation
+- Nuclear imaging (PET, SPECT)
+- Asexual reproduction and parthenogenesis
+- Climate systems (AMOC)
+- Microbial pathogens (C. diff, Citrobacter, Providencia)
+- Wildlife biology and behavior
+- Pest control ecology
 
-## Biomedical Science and Healthcare Technology
+## Medical Diagnostics & Laboratory Testing
 
-- [What Is Biomedical Science and Engineering?](https://scienceinsights.org/what-is-biomedical-science-and-engineering): Overview of biomedical engineering field covering MRI, biosensors & gene therapy
-- [How Many MRIs Are Safe in a Year?](https://scienceinsights.org/how-many-mris-are-safe-in-a-year): Clarifies MRI safety: no radiation limits, gadolinium contrast considerations
-- [How to Tell If a Molecule Is an Acid or Base](https://scienceinsights.org/how-to-tell-if-a-molecule-is-an-acid-or-base): Covers Arrhenius, Brønsted-Lowry & Lewis theories for acid-base ID
+- [What Is Immunoassay Testing and How Does It Work?](https://scienceinsights.org/what-is-immunoassay-testing-and-how-does-it-work): Explains immunoassay testing for detecting HIV, hepatitis, COVID-19
+- [How to Read Hair Follicle Test Results and Levels](https://scienceinsights.org/how-to-read-hair-follicle-test-results-and-levels): Guide to interpreting hair follicle drug test results using GC-MS/LC-MS
+- [SPECT Scan vs. PET Scan: Key Differences Explained](https://scienceinsights.org/spect-scan-vs-pet-scan-key-differences-explained): Compares SPECT and PET nuclear imaging using Technetium-99m radiotracers
 
-## Analytical Chemistry and Drug Testing
+## Microbiology & Infectious Disease
 
-- [What Can Cause a False Positive for Cocaine on a Drug Test?](https://scienceinsights.org/what-can-cause-a-false-positive-for-cocaine-on-a-drug-test): Explains false positives in cocaine tests via GC-MS/LC-MS & cross-reactivity
+- [What Is Biofilm Formation and How Does It Happen?](https://scienceinsights.org/what-is-biofilm-formation-and-how-does-it-happen): Explores microbial biofilm formation via quorum sensing and EPS matrix
+- [What Kills C. diff Spores? Effective Disinfection Methods](https://scienceinsights.org/what-kills-c-diff-spores-effective-disinfection-methods): EPA-approved sporicidal methods for Clostridioides difficile decontamination
+- [When the Citrobacter freundii Complex Becomes a Threat](https://scienceinsights.org/when-the-citrobacter-freundii-complex-becomes-a-threat): Covers Citrobacter freundii as opportunistic pathogen in healthcare settings
+- [What Are Providencia Bacteria and Are They Dangerous?](https://scienceinsights.org/what-are-providencia-bacteria-and-are-they-dangerous): Covers Providencia stuartii and antibiotic-resistant healthcare infections
 
-## Microbiology and Laboratory Science
+## Molecular Biology & Genetics
 
-- [How Many BSL-4 Labs Are There in the US?](https://scienceinsights.org/how-many-bsl-4-labs-are-there-in-the-us): Details US BSL-4 labs operated by CDC, NIH for dangerous pathogen research
-- [What Is Peptone and How Is It Used in Microbiology?](https://scienceinsights.org/what-is-peptone-and-how-is-it-used-in-microbiology): Explains peptone/tryptone use in E. coli & Salmonella culture media
+- [What Is Simple DNA and How Does It Work?](https://scienceinsights.org/what-is-simple-dna-and-how-does-it-work): Introduces DNA structure fundamentals including nucleotide bases and replication
+- [What Is Parthenogenesis? The Science of Virgin Birth](https://scienceinsights.org/what-is-parthenogenesis-the-science-of-virgin-birth): Explains asexual reproduction in Komodo dragons, aphids, bees, wasps
+- [How Spontaneous Generation Was Disproved](https://scienceinsights.org/how-spontaneous-generation-was-disproved): History of Redi, Spallanzani experiments disproving spontaneous generation
 
-## Environmental Biology and Invasive Species
+## Environmental Science & Climate
 
-- [Why Are Spotted Lanternflies Bad for the Environment?](https://scienceinsights.org/why-are-spotted-lanternflies-bad-for-the-environment): Documents Lycorma delicatula invasive impact on North American agriculture
-- [Where Does the Kissing Bug Live and Hide?](https://scienceinsights.org/where-does-the-kissing-bug-live-and-hide): Maps triatomine bug habitats in Latin America; Chagas disease prevention
-- [What Eats a Yellow Jacket? Its Natural Predators](https://scienceinsights.org/what-eats-a-yellow-jacket-its-natural-predators): Identifies yellow jacket predators: kingbirds, flickers, blue jays & mammals
-- [Why Are There So Many Yellow Jackets?](https://scienceinsights.org/why-are-there-so-many-yellow-jackets): Explains yellow jacket population dynamics & seasonal colony development
-- [Why Are the Gnats So Bad This Year?](https://scienceinsights.org/why-are-the-gnats-so-bad-this-year): Analyzes gnat population surges: fungus gnats, fruit flies & drain flies
+- [What Would Happen If the AMOC Collapsed?](https://scienceinsights.org/what-would-happen-if-the-amoc-collapsed): Examines climate impacts of Atlantic Meridional Overturning Circulation collapse
+- [How Long Does It Take for Plastic to Degrade?](https://scienceinsights.org/how-long-does-it-take-for-plastic-to-degrade): Details plastic degradation timelines and environmental persistence of PET
 
-## Toxicology and Chemical Safety
+## Wildlife Biology & Natural History
 
-- [How Cyanide Occurs Naturally in the Environment](https://scienceinsights.org/how-cyanide-occurs-naturally-in-the-environment): Examines natural cyanide (HCN) sources via cyanogenic glycosides in plants
-- [Do Snakes Hate Mothballs? The Truth About Snake Repellents](https://scienceinsights.org/do-snakes-hate-mothballs-the-truth-about-snake-repellents): Debunks mothball myths for snake control; covers EPA regulations & safety
-
-## Genetics and Human Biology
-
-- [If My Blood Type Is O Negative, What Are My Parents?](https://scienceinsights.org/if-my-blood-type-is-o-negative-what-are-my-parents): Details O negative inheritance via ABO system & Rh factor genetics
+- [What Are the Different Types of Black Bees?](https://scienceinsights.org/what-are-the-different-types-of-black-bees): Identifies black bee species: Xylocopa carpenter bees, Andrena mining bees
+- [The European Fallow Deer: Appearance, Habitat, and Life](https://scienceinsights.org/the-european-fallow-deer-appearance-habitat-and-life): Profiles Dama dama biology, habitat from Turkey to Italian Peninsula
+- [What Do Skunks Eat? A Look at Their Omnivorous Diet](https://scienceinsights.org/what-do-skunks-eat-a-look-at-their-omnivorous-diet): Details North American skunk omnivorous diet and pest control role
+- [When Do Mosquitoes Go Away for the Season?](https://scienceinsights.org/when-do-mosquitoes-go-away-for-the-season): Explains mosquito seasonal cycles including Culex and Aedes species
+- [Why Do Spiders Take Down Their Webs?](https://scienceinsights.org/why-do-spiders-take-down-their-webs): Explains spider web recycling behavior and silk protein conservation
 
 ## Optional
 
-- [What Is Dicalcium Phosphate and How Is It Used?](https://scienceinsights.org/what-is-dicalcium-phosphate-and-how-is-it-used): Explores dicalcium phosphate (CaHPO₄) uses in supplements & food additives
-- [When Do Purple Martins Migrate South?](https://scienceinsights.org/when-do-purple-martins-migrate-south): Tracks Progne subis migration from North America to Brazil wintering grounds
-- [Why Is the Dead Sea So Salty and Full of Minerals?](https://scienceinsights.org/why-is-the-dead-sea-so-salty-and-full-of-minerals): Explains Dead Sea hypersalinity via Jordan Rift Valley geology & evaporation
-- [What Are Bearcats? Facts About the Binturong](https://scienceinsights.org/what-are-bearcats-facts-about-the-binturong): Profile of Arctictis binturong: Southeast Asian Viverridae species facts
-- [What Is Marrow (the Vegetable) and How Do You Cook It?](https://scienceinsights.org/what-is-marrow-the-vegetable-and-how-do-you-cook-it): Guide to Cucurbita pepo marrow squash: nutrition & UK cooking methods
-- [When Do Acorns Fall Off Trees?](https://scienceinsights.org/when-do-acorns-fall-off-trees): Details oak species (Quercus) acorn drop timing & mast year ecology
+- [How Much Protein Is in Rice?](https://scienceinsights.org/how-much-protein-is-in-rice): Analyzes protein content and amino acid profile across rice varieties
+- [What Wild Animal Has Black Poop?](https://scienceinsights.org/what-wild-animal-has-black-poop): Wildlife tracking guide identifying black bear, raccoon, coyote scat
+- [What Does It Mean When a Hummingbird Comes Right Up to You?](https://scienceinsights.org/what-does-it-mean-when-a-hummingbird-comes-right-up-to-you): Explores hummingbird territorial behavior and symbolic interpretations

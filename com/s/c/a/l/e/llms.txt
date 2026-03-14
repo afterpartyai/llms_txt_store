@@ -1,0 +1,35 @@
+# Scale AI
+
+> > Scale AI provides data labeling, AI training infrastructure, and model evaluation tools including Rapid API, Scale Studio, and Scale Labs benchmarks.
+
+Scale AI is a comprehensive platform for building and evaluating AI systems. The platform offers data annotation services through Rapid, API infrastructure for project management, and Scale Labs for rigorous LLM evaluation using benchmarks like GSM8k and GSM1k.
+
+## Key Topics
+
+- Scale API
+- Rapid (self-labeling platform)
+- Scale Labs
+- Scale Studio
+- LLM evaluation and benchmarks
+- GSM8k and GSM1k datasets
+- Data annotation and labeling
+- Model evaluation
+- REST API and authentication
+- Project management
+- Math reasoning benchmarks
+- Data contamination detection
+- Dynamic task parameters
+- ScaleClient
+
+## Scale Labs & Model Evaluation
+
+- [Scale Labs Leaderboard: Math Evaluation](https://labs.scale.com/leaderboard/math): SEAL Math Leaderboard evaluating LLMs on GSM8k/GSM1k reasoning benchmarks
+
+## API Reference
+
+- [Projects API Reference](https://scale.com/docs/api-reference/projects): Scale API projects endpoint reference with HTTP Basic Auth and JSON
+
+## Rapid Platform Documentation
+
+- [Dynamic Per Task Parameters](https://scale.com/docs/dynamic-per-task-parameters): Rapid API guide for configuring dynamic per-task parameters and taxonomy
+- [Rapid FAQ](https://scale.com/docs/rapid-faq): Rapid product FAQ covering self-labeling, pricing, and task types

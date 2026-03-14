@@ -1,0 +1,24 @@
+# NVIDIA Build
+
+> > NVIDIA Build is a platform for exploring and testing NVIDIA NIM APIs, featuring AI models including Qwen's vision-language and instruct models for multimodal chat, coding, and agentic applications.
+
+This platform provides access to NVIDIA's inference microservices (NIM) APIs, enabling developers to experiment with state-of-the-art AI models including large language models, vision-language models, and mixture-of-experts architectures for various enterprise and development use cases.
+
+## Key Topics
+
+- NVIDIA NIM APIs
+- Qwen AI Models
+- Qwen 3.5 VLM
+- Qwen3-Next Instruct
+- Vision-Language Models
+- Multimodal Chat
+- Mixture of Experts (MoE)
+- RAG (Retrieval-Augmented Generation)
+- Agentic AI
+- Coding Models
+- LLM Catalog
+- API Integration
+
+## AI Model Catalogs
+
+- [AI Models by qwen | Try NVIDIA NIM APIs](https://build.nvidia.com/qwen): Qwen AI models catalog featuring VLM and Instruct variants via NIM APIs

@@ -1,0 +1,57 @@
+# Webflow Developers
+
+> > Official documentation for Webflow's Designer API, Data API, webhooks, and developer extensions for building custom integrations and tools.
+
+Webflow Developers provides comprehensive API references and guides for extending Webflow's visual development platform. The documentation covers Designer Extensions for manipulating DOM elements and components, Data API for programmatic site management, ecommerce integrations, webhook events, and authentication flows.
+
+## Key Topics
+
+- Designer API
+- Data API
+- DOM manipulation
+- Component management
+- Webhooks
+- Authentication (OAuth)
+- Collections API
+- Ecommerce API
+- Orders API
+- Inventory API
+- DOMElement methods
+- Element Presets
+- Color Variables
+- Site management
+- API versioning
+
+## Designer API - Components & DOM
+
+- [Components Overview](https://developers.webflow.com/designer/reference/components-overview): Overview of creating and editing Webflow Components via API
+- [Bulk Add Elements](https://developers.webflow.com/designer/reference/bulk-add-elements): Element builder API for creating complex DOM structures efficiently
+- [Element Presets](https://developers.webflow.com/designer/reference/element-presets): Element Presets reference for Designer Extension element creation
+- [Set Component Name](https://developers.webflow.com/designer/reference/set-component-name): Set component name method for Designer component management
+- [Delete a Component](https://developers.webflow.com/designer/reference/delete-component-definition): Unregister component definitions using webflow.unregisterComponent
+- [Get Attribute](https://developers.webflow.com/designer/reference/dom-element/getAttribute): DOMElement.getAttribute() method for retrieving HTML attributes
+- [Remove Attribute](https://developers.webflow.com/designer/reference/dom-element/removeAttribute): DOMElement.removeAttribute() method for removing HTML attributes
+
+## Designer API - Assets & Variables
+
+- [Create Color Variable](https://developers.webflow.com/designer/reference/create-color-variable): Create ColorVariable with name, value, and mode support
+- [Set Alt Text](https://developers.webflow.com/designer/reference/set-alt-text): Set alt text for assets with localization support
+- [Create Folder](https://developers.webflow.com/designer/reference/create-folder): Create page folders in Webflow Designer via API
+
+## Data API - Sites & Collections
+
+- [List Sites](https://developers.webflow.com/data/reference/sites/list): List all accessible sites endpoint with sites:read scope
+- [Get Comment Thread](https://developers.webflow.com/data/reference/comments/get-comment-thread): Retrieve specific comment thread details with Bearer authentication
+
+## Webhooks & Events
+
+- [Get Webhook](https://developers.webflow.com/data/reference/webhooks/get): Get specific Webhook instance with sites:read scope
+- [Order Changed](https://developers.webflow.com/data/v1.0.0/reference/ecomm_order_changed): Order Changed webhook event reference with Stripe integration
+- [Inventory Changed](https://developers.webflow.com/data/v1.0.0/reference/ecomm_inventory_changed): Inventory Changed webhook event for SKU tracking
+
+## Optional
+
+- [New LLMS.txt endpoints, Audit Log events, and Google Tag support](https://developers.webflow.com/data/changelog/1082025): Jan 2025: LLMS.txt endpoints, Audit Log events, Google Tag support
+- [Changelog](https://developers.webflow.com/data/v1.0.0/changelog): Data API v1.0.0 changelog with updates and bug fixes
+- [Enhanced Ecommerce API Support](https://developers.webflow.com/data/changelog/march-2020-updates): March 2020: Ecommerce API improvements with new collection models
+- [Versioning and OAuth docs update](https://developers.webflow.com/data/changelog/api-version-defaults-and-docs-update): API versioning defaults and OAuth redirect_uri documentation update

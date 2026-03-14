@@ -1,0 +1,24 @@
+# Muzéo
+
+> > Muzéo is an online art marketplace offering museum-quality prints and reproductions with integrated e-commerce and payment processing.
+
+The platform features works from various artists including Iryna Kuznetsova (Iridi) and utilizes PayPal for secure payment transactions. Muzéo connects art enthusiasts with high-quality reproductions and original artworks through a streamlined digital commerce experience.
+
+## Key Topics
+
+- Muzéo
+- Art marketplace
+- Museum-quality prints
+- PayPal integration
+- Payment processing
+- E-commerce platform
+- Iryna Kuznetsova (Iridi)
+- Payment gateway
+- IPN (Instant Payment Notification)
+- Art reproductions
+- Online gallery
+- Secure transactions
+
+## Payment Integration
+
+- [PayPal IPN Endpoint](https://en.muzeo.com/commerce_paypal/ipn/paypal_ec|commerce_payment_paypal_ec): PayPal Instant Payment Notification endpoint for processing payment callbacks and transaction verification
