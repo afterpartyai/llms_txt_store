@@ -1,64 +1,55 @@
 # PromptGather.io
 
-> > A comprehensive resource for AI video generation, featuring case studies, tutorials, and prompts for tools like veo3, Seedance 2.0, and other AI video creation platforms.
+> PromptGather.io is an all-in-one AI platform for generating high-quality videos and images from text, images, and other inputs using cutting-edge generative models.
 
-PromptGather.io provides practical examples, optimization techniques, and creative prompts for AI-generated video content across genres including fantasy, sci-fi, commercial production, and cinematic storytelling. The site features detailed case studies demonstrating prompt engineering, lighting techniques, camera work, and production workflows using leading AI video generation tools.
+The platform aggregates multiple state-of-the-art AI video and image generation models, providing users with unified access to tools like Sora 2 Pro, Veo 3, Kling, and others. It supports diverse creative workflows including text-to-video, image-to-video, text-to-image, and image-to-image transformations with advanced features like audio sync, lip-sync, character consistency, and physics simulation.
 
 ## Key Topics
 
-- veo3
+- Text-to-Video Generation
+- Text-to-Image Generation
+- Image-to-Video Conversion
+- AI Video Models
+- AI Image Models
+- Sora 2 Pro
+- Veo 3
+- Kling 3.0
 - Seedance 2.0
-- AI video generation
-- prompt optimization
-- lighting techniques
-- camera angles
-- video production
-- storytelling
-- Midjourney
-- DeepBrain
-- RunwayML
-- cinematography
-- content creation
-- visual effects
-- commercial production
+- Flux.2 Pro
+- Video Creation Tools
+- Image Generation Tools
+- Character Consistency
+- Audio Synchronization
+- Photorealistic Generation
 
-## AI Video Generation Tutorials
+## Core Generators
 
-- [Creating Looping Videos with Seedance 2.0](https://promptgather.io/video/mqqU74wCCD): Tutorial for creating looping videos using Seedance 2.0 with veo3
-- [Creating Charming Beauty Vlogs with Seedance2.0 Formula](https://promptgather.io/video/VCzVeuaKk7): Beauty vlog creation guide using Seedance2.0 Formula and AI tools
+- [AI Text to Video Generator](https://promptgather.io/ai-video/text-to-video): Core text-to-video generation tool supporting Veo 3, Sora 2 Pro, and other models
+- [AI Image to Video Generator](https://promptgather.io/ai-video/image-to-video): Core image-to-video conversion tool with advanced AI animation technology
+- [AI Text to Image Generator](https://promptgather.io/ai-image/text-to-image): Core text-to-image generation tool for creating photos, artwork, and illustrations
+- [AI Image to Image Generator](https://promptgather.io/ai-image/image-to-image): Core image-to-image transformation and editing tool with AI-powered enhancements
 
-## AI Model References & Prompts
+## Video Generation Models
 
-- [Nano Banana 2 AI Image Generate - Free Prompts & Examples](https://promptgather.io/prompts/nano-banana-2): Nano Banana 2 model reference with free prompts and examples
+- [Sora 2 Pro](https://promptgather.io/models/sora-2-pro): Physics simulation, 3D consistency, audio sync, and advanced video editing capabilities
+- [Veo 3](https://promptgather.io/models/veo-3): Photorealistic cinematic video generation from text with exceptional visual quality
+- [Seedance 2.0](https://promptgather.io/models/seedance-2-0): Multi-modal video generation with 4-15s duration and character consistency
+- [Kling 3.0](https://promptgather.io/models/kling-3-0): Text/image-to-video with 15s duration, multilingual lip-sync, and multi-shot control
+- [Kling 2.6](https://promptgather.io/models/kling-2-6): 1080p text/image-to-video with physics simulation and motion control
+- [Seedance 1.5 Pro](https://promptgather.io/models/seedance-1-5-pro): Text/image-to-video with audio sync, 720p resolution, and multi-shot capabilities
+- [Wan 2.6](https://promptgather.io/models/wan-2-6): 1080p text-to-video with native audio, lip sync, and character animation
+- [Grok Imagine](https://promptgather.io/models/grok-imagine): 10-15s video generation with native audio, lip-sync, and Spicy Mode for creative control
+- [Hailuo 2.3](https://promptgather.io/models/hailuo-2-3): Motion-rich text-to-video with reference images and fast generation speed
 
-## Commercial & Professional Production
+## Image Generation Models
 
-- [Ultra-Realistic Cola Commercial with Stunning Slow Motion Effects](https://promptgather.io/video/gMxdJKvGhV): Commercial production case study with veo3 slow-motion and lighting
-- [Urban Solitude in Ultra-High Definition](https://promptgather.io/video/sLw1xl42aq): Urban cinematography tutorial with veo3 depth-of-field techniques
+- [Flux.2 Pro](https://promptgather.io/models/flux-2-pro): Photorealistic images with exceptional detail and accurate typography
+- [Z-Image](https://promptgather.io/models/z-image): Photorealistic images with pixel-perfect text, 50+ styles, and fast generation
+- [Nano Banana Pro](https://promptgather.io/models/nano-banana-pro): Consistent character images, 4K output, and infographics with accurate text
+- [Nano Banana 2](https://promptgather.io/models/nano-banana-2): 4-6s generation, 5 consistent characters, text accuracy, and up to 4K resolution
+- [Seedream 5.0 Lite](https://promptgather.io/models/seedream-5-0-lite): Real-time web search integration, example editing, text rendering, and 3K resolution
+- [Seedream 4.5](https://promptgather.io/models/seedream-4-5): 4K image generation with precise editing, multiple art styles, and text capabilities
 
-## Fantasy & Epic Storytelling
+## Getting Started
 
-- [Frost Mage Unleashes Icy Fury in Frozen Valley](https://promptgather.io/video/4eNHzV2mcu): Fantasy AI video case study with storytelling and optimization techniques
-- [A Dragon's Descent: Power, Fate, and the Throne Await](https://promptgather.io/video/GOCoCqdHZo): Epic fantasy video with cinematography, color grading, and lighting tips
-
-## Sci-Fi & Futuristic Worlds
-
-- [Eclipse: Shadows Over an Alien World](https://promptgather.io/video/EPkcT7EtEa): Sci-fi AI video generation case study with production tips
-- [Zero-Gravity Blade Duel Across a Shattered Asteroid Field](https://promptgather.io/video/gdUlhjbnRI): AI video case study: zero-gravity duel using veo3 with lighting tips
-- [Cyberhawk: Neon Skies and Futuristic Decay](https://promptgather.io/video/K7DZm97lYw): Cyberpunk AI video with prompt engineering and creation tips
-
-## Action & Dynamic Effects
-
-- [Cold Storage Sprint with Violent Camera Shake](https://promptgather.io/video/dfQFq3m3yQ): AI video prompt showcasing camera shake effects and optimization
-- [Avalanche Chase: A Thrilling Dash to Safety](https://promptgather.io/video/lKAQeLQeBN): Action sequence case study with storytelling and prompt optimization
-- [Unstoppable Foam Floods a House in Seconds](https://promptgather.io/video/4vfDyDefIv): Dynamic foam flood effect video with camera angles and pacing tips
-- [City on the Edge of a Molten Eruption](https://promptgather.io/video/T2C1GDb0au): Disaster scene AI video with prompt optimization and engagement tips
-
-## Creative & Surreal Concepts
-
-- [When Donuts Transform Into Furniture: A Surreal, Sweet Fantasy](https://promptgather.io/video/kCGe2TJG5p): Surreal AI video generation example with creative prompts and optimization
-- [Golden Hour Flight Through a Cozy Treehouse](https://promptgather.io/video/qwBICmQ1n0): Golden hour AI video with Veo3 camera motion and storyboarding tips
-- [Vader and Obi-Wan's Imperial Arcade Truce](https://promptgather.io/video/OvyFYbgZHr): Star Wars-themed AI video case study with Midjourney integration
-- [The Soundwave City: New York's Rhythm in Motion](https://promptgather.io/video/t1srPgxTjo): NYC-themed AI video with veo3 lighting and production techniques
-- [Decay Unleashed: A Post-Apocalyptic Mall Crumbles](https://promptgather.io/video/VKzSCRVemy): Post-apocalyptic video with Synthesia and storytelling optimization
-- [Golden Morning: Sea Turtle Rising from the Depths](https://promptgather.io/video/CBleOUfRFv): Nature video using DeepBrain and RunwayML with visual storytelling
+- [PromptGather.io Homepage](https://promptgather.io): Homepage showcasing PromptGather.io's AI video and image generation capabilities

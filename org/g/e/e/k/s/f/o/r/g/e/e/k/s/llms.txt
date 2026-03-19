@@ -1,42 +1,56 @@
 # GeeksforGeeks
 
-> > A comprehensive computer science portal providing tutorials, guides, and resources for programming languages, data structures, algorithms, web development, and emerging technologies.
+> > GeeksforGeeks is a comprehensive learning platform offering tutorials, courses, and practice problems for computer science fundamentals, programming languages, data structures, algorithms, and emerging technologies.
 
-GeeksforGeeks is one of the most popular educational platforms for computer science students and professionals, offering in-depth tutorials on programming languages (Python, Java, C, C++, JavaScript), web technologies (HTML, CSS, React), data science libraries (NumPy, Pandas), and advanced topics like AI and machine learning. The site serves beginners through advanced developers with practical examples and structured learning paths.
+GeeksforGeeks serves as an all-in-one educational portal for students and professionals learning DSA, programming languages (Python, Java, C++, JavaScript), machine learning, data science, and DevOps. The platform combines free tutorials with structured self-paced and live courses, interview preparation resources, and hands-on coding practice.
 
 ## Key Topics
 
-- Programming Languages (Python, Java, C, C++, JavaScript)
 - Data Structures and Algorithms (DSA)
-- Web Development (HTML, CSS, React, PHP)
-- Object-Oriented Programming (OOP)
-- Artificial Intelligence and Machine Learning
-- Data Science (NumPy, Pandas)
-- Programming Fundamentals
-- Client-Side and Server-Side Development
-- Standard Template Library (STL)
-- Java Virtual Machine (JVM)
-- Beginner Programming Guides
-- Web Structure and Markup Languages
-- Hello World Programs
-- Memory Management
-- Django Framework
+- Python Programming
+- Java Programming
+- C++ Programming
+- JavaScript & Web Development
+- Machine Learning
+- Data Science
+- System Design
+- DevOps & Linux
+- Interview Preparation
+- Object-Oriented Programming
+- Deep Learning
+- Competitive Programming
+- Web Development Technologies
+- Artificial Intelligence
+
+## Core Learning Hub
+
+- [GeeksforGeeks Homepage](https://www.geeksforgeeks.org): Main learning portal for DSA, programming languages, and interview prep
+- [DSA Tutorial - Learn Data Structures and Algorithms](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms): Comprehensive DSA tutorial covering data structures, algorithms, and interview preparation fundamentals
+- [Practice Platform](https://www.geeksforgeeks.org/explore): Interactive practice platform for coding problems, challenges, and interview question solving
+- [Courses Portal](https://www.geeksforgeeks.org/courses): Online courses including DSA, system design, data science, and backend development
 
 ## Programming Languages
 
-- [Programming Languages Tutorials - GeeksforGeeks](https://www.geeksforgeeks.org/tutorials/programming-language-tutorials/): Central hub for programming language tutorials including C, C++, Java, Python
-- [Python Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/python/python-programming-language-tutorial/): Python tutorial with NumPy, Pandas, Django for data science and web dev
-- [Learn Python Basics - GeeksforGeeks](https://www.geeksforgeeks.org/python/python-basics/): Python basics tutorial covering syntax, variables, and fundamental concepts
-- [Java Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/java/java/): Complete Java tutorial covering OOP, JVM, and programming fundamentals
-- [Introduction to Java - GeeksforGeeks](https://www.geeksforgeeks.org/java/introduction-to-java/): Java introduction covering JVM, features, and Hello World programming basics
-- [C Programming Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/c/c-programming-language/): C programming tutorial covering Dennis Ritchie's language and UNIX basics
-- [C++ Programming Language - GeeksforGeeks](https://www.geeksforgeeks.org/cpp/c-plus-plus/): C++ tutorial covering OOP, STL, and memory management fundamentals
-- [JavaScript Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/javascript/javascript-tutorial/): JavaScript tutorial for client-side and server-side web development basics
+- [Python Tutorial](https://www.geeksforgeeks.org/python/python-programming-language-tutorial): Python programming guide with Django, Flask, NumPy, and web development basics
+- [Java Tutorial](https://www.geeksforgeeks.org/java/java): Java tutorial covering JVM concepts, OOP, and fundamentals for beginners
+- [C++ Programming Language](https://www.geeksforgeeks.org/cpp/c-plus-plus): C++ tutorial covering OOP, competitive programming, and language fundamentals
+- [C Programming Language](https://www.geeksforgeeks.org/c/c-programming-language): C programming tutorial covering language basics, syntax, and fundamental concepts
+- [JavaScript Tutorial](https://www.geeksforgeeks.org/javascript/javascript-tutorial): JavaScript guide covering web development, React, and client-side programming
 
-## Web Development
+## Data Science & Machine Learning
 
-- [HTML Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/html/html-tutorial/): Comprehensive HTML tutorial covering markup language basics and web structure
+- [Machine Learning Tutorial](https://www.geeksforgeeks.org/machine-learning/machine-learning): ML tutorial covering supervised, unsupervised, and reinforcement learning with Python
+- [Data Science Tutorial](https://www.geeksforgeeks.org/data-science/data-science-for-beginners): Data science tutorial with Python, NumPy, machine learning, and data analysis fundamentals
+- [AI, ML and Data Science Guide](https://www.geeksforgeeks.org/ai-ml-ds): Comprehensive AI, ML, data science guide with Python, deep learning, NLP, and computer vision
+- [Data Science Project Based Learning Course](https://www.geeksforgeeks.org/courses/data-science-live): Project-based data science course with Python, SQL, Pandas, and ML fundamentals
 
-## Artificial Intelligence & Machine Learning
+## Advanced Topics & System Design
 
-- [Artificial Intelligence Tutorial | AI Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/artificial-intelligence/artificial-intelligence/): AI tutorial covering machine learning, search algorithms, and generative AI
+- [System Design: Low-Level to High-Level Course](https://www.geeksforgeeks.org/courses/mastering-system-design-low-level-to-high-level-solutions): System design course covering OOP, design patterns, scalable architecture, and interview prep
+- [Data Structures and Algorithms - Self Paced Course](https://www.geeksforgeeks.org/courses/dsa-self-paced): Self-paced DSA course covering arrays, trees, graphs, sorting, and interview preparation
+- [Web Development Technologies](https://www.geeksforgeeks.org/web-development): Web development overview covering frontend, backend, HTML, CSS, and JavaScript basics
+
+## Infrastructure & DevOps
+
+- [DevOps Tutorial](https://www.geeksforgeeks.org/devops/devops-tutorial): DevOps tutorial with Git, Jenkins, Docker, Kubernetes, and CI/CD fundamentals
+- [Linux Tutorial](https://www.geeksforgeeks.org/linux-unix/linux-tutorial): Linux tutorial covering OS basics, commands, DevOps, and system administration

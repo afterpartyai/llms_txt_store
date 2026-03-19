@@ -1,37 +1,55 @@
 # Open Library
 
-> > An open, editable library catalog with over 3 million borrowable ebooks through Controlled Digital Lending, powered by Internet Archive.
+> > Open Library is a free, open-access digital library offering 3M+ books with community-driven cataloging, borrowing, and reading discovery features.
 
-Open Library serves as a comprehensive digital library catalog offering free book borrowing through BookReader, supporting multiple formats (PDF, ePub, DAISY), and integrating with WorldCat and LibriVox. The platform enables users to track reading goals, maintain reading logs, and contribute as volunteers to build the world's largest open library database.
+Open Library provides universal access to books through digital lending powered by the Internet Archive's Controlled Digital Lending model. The platform combines a searchable catalog with community features like reading lists, subject browsing, and educational resources for students.
 
 ## Key Topics
 
+- Digital books
+- Free ebooks
+- Book borrowing
 - Controlled Digital Lending
+- Open access
+- Reading lists
+- Subject discovery
+- Account authentication
 - Internet Archive
-- BookReader
-- ebook lending
-- digital library catalog
-- reading goals and logs
-- volunteer opportunities
-- WorldCat integration
-- PDF, ePub, DAISY formats
-- LibriVox audiobooks
-- book editions and works
-- author pages
-- borrowing policies
-- fantasy fiction collections
-- Turkish translations
+- DAISY format
+- Book collections
+- Community contributions
+- Educational resources
+- API access
+- Open source
 
 ## Getting Started
 
-- [Welcome to Open Library](https://openlibrary.org/): Homepage for Open Library digital catalog with 3M+ borrowable books
+- [Welcome to Open Library](https://openlibrary.org): Open Library homepage: free digital library catalog with 3M+ books
+- [Sign Up to Open Library](https://openlibrary.org/account/create): Account registration page for Open Library access
+- [Log In](https://openlibrary.org/account/books): User login page for accessing Open Library account and books
+- [Help Center](https://openlibrary.org/help): Help center with FAQs, getting started guides, troubleshooting
 
-## Borrowing & Lending Help
+## Book Discovery & Collections
 
-- [Borrowing Books Through Open Library](https://openlibrary.org/help/faq/borrow): FAQ explaining book borrowing, lending policies, and BookReader usage
+- [Subjects](https://openlibrary.org/subjects): Subject directory for browsing Open Library books by categories
+- [Curated Collections](https://openlibrary.org/collections): Curated book collections including awards, banned books, curricula
+- [Trending Books](https://openlibrary.org/trending): Trending books page showing real-time community reading activity
+- [Reading Lists](https://openlibrary.org/lists): User-created reading lists and book collections with export options
+
+## Borrowing & Access
+
+- [Borrowing Books Through Open Library](https://openlibrary.org/help/faq/borrow): FAQ guide on borrowing ebooks, checkout limits, and book holds
+- [Add Books](https://openlibrary.org/books/add): Login page for adding books to Open Library catalog
+
+## Educational Resources
+
+- [Student Library](https://openlibrary.org/k-12): Student Library resource with K-12 educational materials
+
+## Developer Resources
+
+- [Developer Center](https://openlibrary.org/developers): Developer center with API docs, Web API, data dumps, open source
 
 ## Optional
 
-- [Yedi Krallık Şövalyesi by George R. R. Martin](https://openlibrary.org/books/OL35304273M/Yedi_Krallık_Şövalyesi): Book edition page for George R. R. Martin's Turkish hardcover
-- [Düşman Okullar 2 by Dilara Keskin](https://openlibrary.org/works/OL24328214W/Düşman_Okullar_2): Book work page for Dilara Keskin's Turkish novel
-- [Congrès des psychanalystes de langue française des pays romans](https://openlibrary.org/authors/OL10717183A/Congrès_des_psychanalystes_de_langue_française_des_pays_romans_(52_28-31_mai_1992_Rome)): Author page for French psychoanalysis congress held in Rome 1992
+- [Recent Changes](https://openlibrary.org/recentchanges): Activity log showing recent community edits and contributions
+- [Random Book](https://openlibrary.org/random): Random book page from Open Library catalog

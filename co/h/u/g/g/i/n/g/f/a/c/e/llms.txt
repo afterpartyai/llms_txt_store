@@ -1,64 +1,49 @@
 # Hugging Face
 
-> > The AI community platform for building, training, and deploying machine learning models with open-source tools and collaborative resources.
+> > The open-source AI community platform for discovering, sharing, and collaborating on models, datasets, and applications.
 
-Hugging Face provides state-of-the-art libraries like transformers, diffusers, and Gradio, alongside the Hugging Face Hub for sharing models and datasets. The platform serves researchers, developers, and organizations working with LLMs, vision models, robotics, and multimodal AI.
+Hugging Face is the central hub for the machine learning community, providing access to hundreds of thousands of pre-trained models, datasets, and interactive spaces. The platform supports both individual researchers and enterprises with tools for model discovery, fine-tuning, deployment, and collaboration.
 
 ## Key Topics
 
-- transformers library
-- Hugging Face Hub
-- model training and fine-tuning
-- model quantization
-- inference optimization
-- speculative decoding
-- LLMs (Large Language Models)
-- Llama models
-- DeepSeek-R1
-- WebGPU and browser ML
-- Gradio UI framework
-- diffusers library
-- Model Context Protocol (MCP)
-- chain-of-thought reasoning
-- open-source AI
+- Transformers
+- Model Hub
+- Datasets
+- Spaces
+- Inference Endpoints
+- PyTorch
+- Open-source models
+- Machine learning
+- GPU compute
+- Fine-tuning
+- Model deployment
+- AI collaboration
+- Qwen3.5
+- NVIDIA Nemotron
+- Enterprise AI
 
-## Learning Resources & Courses
+## Core Platform
 
-- [Welcome to the 🤗 Model Context Protocol (MCP) Course](https://huggingface.co/learn/mcp-course): Model Context Protocol course by Hugging Face and Anthropic
+- [Hugging Face Home](https://huggingface.co): AI community platform for open source models and collaboration
+- [Models Hub](https://huggingface.co/models): Model hub for discovering and exploring machine learning models across frameworks
+- [Datasets Hub](https://huggingface.co/datasets): Dataset hub for browsing and accessing machine learning training datasets
+- [Spaces](https://huggingface.co/spaces): Interactive ML apps and demos gallery showcasing community-built AI applications
+- [Documentation](https://huggingface.co/docs): Documentation hub for Hugging Face libraries, tools, and platform features
 
-## Model Training & Optimization
+## Infrastructure & Services
 
-- [GaLore: Advancing Large Model Training on Consumer-grade Hardware](https://huggingface.co/blog/galore): GaLore: Memory-efficient LLM training on consumer hardware
-- [Training and Finetuning Sparse Embedding Models with Sentence Transformers v5](https://huggingface.co/blog/train-sparse-encoder): Sparse embedding training with Sentence Transformers v5 and SPLADE
-- [Memory-efficient Diffusion Transformers with Quanto and Diffusers](https://huggingface.co/blog/quanto-diffusers): Quanto quantization for memory-efficient Stable Diffusion 3 models
-- [Introducing Trackio: A Lightweight Experiment Tracking Library from Hugging Face](https://huggingface.co/blog/trackio): Trackio: Lightweight ML experiment tracking library by Hugging Face
+- [Pricing](https://huggingface.co/pricing): Pricing plans for Hub, Spaces, storage, and compute resources with hardware options
+- [Storage](https://huggingface.co/storage): Storage buckets and data management solutions for AI projects and models
+- [Enterprise Plans](https://huggingface.co/enterprise): Enterprise and team subscription plans with SSO, security, and collaboration features
 
-## Inference & Performance
+## Featured Models
 
-- [Faster Text Generation with Self-Speculative Decoding](https://huggingface.co/blog/layerskip): LayerSkip: Self-speculative decoding for faster LLM inference
-- [Hugging Face Text Generation Inference available for AWS Inferentia2](https://huggingface.co/blog/text-generation-inference-on-inferentia2): Text Generation Inference (TGI) now supports AWS Inferentia2
-- [Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models](https://huggingface.co/blog/intel-qwen3-agent): Qwen3-8B acceleration on Intel Core Ultra via depth-pruned drafts
-- [Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers](https://huggingface.co/blog/faster-transformers): OpenAI GPT-OSS optimization tricks for Hugging Face transformers
+- [NVIDIA Nemotron-3-Super-120B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16): NVIDIA Nemotron 120B large language model with MoE, long context, and reasoning
+- [Qwen3.5-35B-Uncensored](https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive): Qwen3.5 35B language model with quantization variants and aggressive tuning
+- [Qwen3.5-27B-Claude-Reasoning](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled): Fine-tuned Qwen3.5 27B model with reasoning distillation and chain-of-thought
+- [Fish Audio S2 Pro](https://huggingface.co/fishaudio/s2-pro): Fish Audio S2 Pro text-to-speech model with prosody and emotion control
+- [OmniCoder-9B](https://huggingface.co/Tesslate/OmniCoder-9B): OmniCoder 9B coding agent model fine-tuned for code generation and agentic tasks
 
-## Model Releases & Announcements
+## Featured Datasets
 
-- [SmolVLM2: Bringing Video Understanding to Every Device](https://huggingface.co/blog/smolvlm2): SmolVLM2: On-device video understanding vision-language model
-- [Welcoming Llama Guard 4 on Hugging Face Hub](https://huggingface.co/blog/llama-guard-4): Llama Guard 4: Meta's multimodal content moderation model release
-- [Transformers.js v3: WebGPU Support, New Models & Tasks, and More…](https://huggingface.co/blog/transformersjs-v3): Transformers.js v3 release: WebGPU support & browser ML enhancements
-
-## Company News & Ecosystem
-
-- [Hugging Face to sell open-source robots thanks to Pollen Robotics acquisition 🤖](https://huggingface.co/blog/hugging-face-pollen-robotics-acquisition): Hugging Face acquires Pollen Robotics for open-source robotics
-- [17 Reasons Why Gradio Isn't Just Another UI Library](https://huggingface.co/blog/why-gradio-stands-out): Gradio's unique features for ML UI and API generation
-
-## Benchmarks & Evaluation
-
-- [Introducing the Open FinLLM Leaderboard](https://huggingface.co/blog/leaderboard-finbench): Open FinLLM Leaderboard by TheFinAI for financial NLP evaluation
-- [🇵🇭 FilBench - Can LLMs Understand and Generate Filipino?](https://huggingface.co/blog/filbench): FilBench: LLM evaluation benchmark for Filipino and Philippine languages
-
-## Research & Specialized Topics
-
-- [Kimina-Prover-RL](https://huggingface.co/blog/AI-MO/kimina-prover-rl): Kimina-Prover-RL: Lean 4 theorem proving with reinforcement learning
-- [Open R1: Update #3](https://huggingface.co/blog/open-r1/update-3): Open R1 update: Code reasoning and competitive programming progress
-- [The 4 Things Qwen-3's Chat Template Teaches Us](https://huggingface.co/blog/qwen-3-chat-template-deep-dive): Deep dive into Qwen-3's chat template and reasoning model patterns
-- [A Short Summary of Chinese AI Global Expansion](https://huggingface.co/blog/chinese-ai-expansion): Analysis of Chinese AI companies' global expansion strategies
+- [Step-3.5-Flash-SFT](https://huggingface.co/datasets/stepfun-ai/Step-3.5-Flash-SFT): Step-3.5-Flash supervised fine-tuning dataset for chat model training

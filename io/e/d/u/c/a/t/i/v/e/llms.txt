@@ -1,63 +1,56 @@
 # Educative
 
-> > Interactive learning platform offering hands-on courses in coding interview preparation, system design, cloud computing (AWS), generative AI, and software development with technologies like Python, Java, LangChain, and Flutter.
+> Educative is an AI-powered interactive learning platform for developers offering courses in generative AI, system design, cloud certifications, and technical interview preparation.
 
-Educative provides text-based, browser-based coding courses and interview prep resources including the popular Blind 75 LeetCode problems and Grokking the Coding Interview Patterns. The platform serves developers preparing for MAANG (Meta, Apple, Amazon, Netflix, Google) interviews and engineers learning cloud technologies, AI/ML, and modern programming languages.
+Educative provides hands-on, interactive courses designed to help developers master modern technologies including LLMs, agentic AI systems, AWS cloud services, and coding fundamentals. The platform combines AI-assisted feedback with practical labs and real-world project experience.
 
 ## Key Topics
 
-- Coding Interview Preparation
-- Blind 75 LeetCode Problems
-- Grokking the Coding Interview Patterns
-- MAANG Interviews
+- Generative AI
+- Large Language Models (LLMs)
+- Agentic Systems
+- Model Context Protocol (MCP)
+- RAG (Retrieval-Augmented Generation)
 - System Design
-- AWS Cloud Computing
-- Generative AI & LLMs
-- Python Programming
-- Java Development
-- LangChain
-- Flutter & Dart
-- Web Development
-- DevOps Training
-- Developer Productivity Tools
-- Cloud Certification
+- AWS Cloud
+- Claude Code
+- Llama Stack
+- Interview Preparation
+- Prompt Engineering
+- Multi-Agent Systems
+- Interactive Learning
+- Cloud Certifications
+- Full-Stack Development
 
-## Coding Interview Preparation
+## AI & Generative AI Fundamentals
 
-- [Blind 75 Questions with Solutions](https://www.educative.io/blind75): Curated Blind 75 LeetCode problems for coding interview preparation
-- [Blind 75 vs LeetCode patterns: Which wins coding interviews?](https://www.educative.io/blog/blind-75-and-leetcode-patterns): Comparing Blind 75 questions vs LeetCode patterns for FAANG interviews
-- [The counterfeit coin problem: A popular MAANG interview question](https://www.educative.io/blog/counterfeit-coin-problem): MAANG interview puzzle: solving counterfeit coin problem analytically
-- [Top 10 .NET interview questions and answers](https://www.educative.io/blog/dotnet-interview-questions): Top 10 intermediate to advanced .NET and C# interview questions
+- [Generative AI Essentials - AI-Powered Course](https://www.educative.io/courses/generative-ai-essentials): Foundational course on LLMs, NLP, and generative AI ethics
+- [Essentials of Large Language Models: A Beginner's Journey](https://www.educative.io/courses/essentials-of-large-language-models-a-beginners-journey): Beginner course on LLM fundamentals, RAG, embeddings, and prompting
+- [Agentic System Design - AI-Powered Course](https://www.educative.io/courses/agentic-ai-systems): Course on designing autonomous AI agents and multi-agent systems
+- [Agentic System Design Crash Course - AI-Powered Course](https://www.educative.io/courses/agentic-system-design-crash-course): 8-hour crash course on AI agent design and agentic architectures
 
-## Generative AI & Machine Learning
+## AI Development & Tools
 
-- [Top 5 Best Generative AI Courses](https://www.educative.io/blog/best-generative-ai-courses): Top 5 generative AI courses for building LLM apps and AI agents
-- [Mastering advanced prompt engineering: Part 1](https://www.educative.io/blog/advanced-prompt-engineering-pt-1): Chain-of-Thought and advanced LLM prompting techniques for AI reasoning
-- [Bellman Equation in Reinforcement Learning](https://www.educative.io/blog/bellman-equation-in-reinforcement-learning): Bellman equation, MDPs, and shortest path algorithms in RL explained
+- [Claude Code: Workflows and Tools - AI-Powered Course](https://www.educative.io/courses/claude-code): Course on Claude Code AI development with Anthropic models and GitHub
+- [Mastering MCP: Building Advanced Agentic Applications](https://www.educative.io/courses/advanced-model-context-protocol): Advanced course on Model Context Protocol for agentic AI applications
+- [Llama Stack: From Fundamentals to Deployment - AI-Powered Course](https://www.educative.io/courses/llamastack): Course on Llama Stack with RAG, agentic workflows, and deployment
+- [Advanced Windsurf AI for Professionals - AI-Powered Course](https://www.educative.io/courses/advanced-windsurf-ai-for-professionals): Full-stack development with Windsurf AI, Cascade, and JavaScript
 
-## Developer Tools & Productivity
+## Technical Interview & System Design
 
-- [Top AI coding copilots: Why Codeium is the best choice?](https://www.educative.io/blog/ai-coding-copilots): Comparing Codeium, GitHub Copilot, Tabnine for AI-powered coding
-- [Claude Code vs. Codex vs. Gemini Code Assist: 2026 dev review](https://www.educative.io/blog/claude-code-vs-codex-vs-gemini-code-assist): Comparing Claude Code, OpenAI Codex, and Gemini Code Assist for devs
+- [Tech Interview Prep: Get Hired](https://www.educative.io/interview): Interview prep hub with coding, system design, and AI-assisted feedback
+- [Grokking the Mobile System Design Interview](https://www.educative.io/courses/mobile-system-design): Mobile system design interview prep with architecture patterns
 
-## Cloud Computing & AWS
+## Cloud & AWS Certifications
 
-- [A quick AWS tutorial: The services you should definitely use](https://www.educative.io/blog/amazon-aws-best-services): Essential AWS services tutorial: EC2, Lambda, and cloud storage basics
-- [Applied Data Science: serverless functions, pipelines and PySpark](https://www.educative.io/blog/applied-data-science-pyspark-serverless-functions): PySpark and AWS Lambda for scalable data science model pipelines
+- [AWS Solutions Architect Associate](https://www.educative.io/courses/aws-solutions-architect-associate): AWS SAA-C03 certification prep with hands-on Cloud Labs
+- [Master AWS Certified Cloud Practitioner CLF-C02 Exam](https://www.educative.io/courses/aws-certified-cloud-practitioner-exam): AWS Cloud Practitioner certification prep with practice exams
 
-## Web Development & Programming Fundamentals
+## Programming Fundamentals
 
-- [Angular for Beginners: A Step-by-Step Guide](https://www.educative.io/blog/angular-for-beginners): Complete Angular beginner tutorial with TypeScript and Angular CLI setup
-- [The basics of responsive web design](https://www.educative.io/blog/basics-of-responsive-web-design): CSS media queries, viewport config, and mobile-first responsive design
-- [Computer networking 101: Terms, tools, and getting started](https://www.educative.io/blog/computer-networking-101): Networking basics: Ethernet, LAN, WAN, TCP/IP, OSI model for beginners
-- [Can I learn Dart as my first language?](https://www.educative.io/blog/can-i-learn-dart-as-my-first-language): Beginner guide comparing Dart to Python/Java for first-time programmers
+- [Learn Java from Scratch - Free AI-Powered Course](https://www.educative.io/courses/learn-java-from-scratch): Free beginner Java course with fundamentals and hands-on projects
+- [Learn Intermediate SQL - AI-Powered Course](https://www.educative.io/courses/learn-intermediate-sql): Intermediate SQL course covering queries, joins, and aggregations
 
-## Learning Resources & Course Guides
+## Core Platform
 
-- [Learn to code: 15 FREE courses to learn coding from scratch](https://www.educative.io/blog/15-free-programming-courses-for-developers): 15 free Educative courses covering Python, Java, C++, Rust, and more
-- [Coding Bootcamp vs. Computer Science Degree](https://www.educative.io/blog/coding-bootcamp): Pros and cons comparing coding bootcamps to CS degrees for tech careers
-- [Give the gift of learning this holiday season](https://www.educative.io/gift): Gift subscriptions for Educative's tech courses and learning platform
-
-## Optional
-
-- [Educative Black Friday Sale Is Live!](https://www.educative.io/blog/black-friday-sale): Black Friday sale announcement for Educative subscription & courses
+- [Educative: AI-Powered Interactive Courses for Developers](https://www.educative.io): Educative homepage: AI-powered interactive learning platform for developers

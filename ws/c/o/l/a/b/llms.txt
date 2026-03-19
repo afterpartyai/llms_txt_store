@@ -1,55 +1,30 @@
 # CoLab
 
-> > CoLab is a collaborative platform connecting students, scientists, labs, and R&D companies, featuring cutting-edge research in materials science, chemistry, and nanotechnology.
+> > A comprehensive scientific publication search and discovery platform spanning all research disciplines with advanced citation metrics and researcher tools.
 
-The platform showcases peer-reviewed research articles spanning advanced materials, energy storage, drug delivery, catalysis, and organic synthesis. CoLab bridges academic research with industry applications, emphasizing innovation in perovskite devices, high-entropy alloys, thermoelectric materials, and energetic compounds.
+CoLab provides researchers with integrated access to scientific publications, citation data, and research metrics across multidisciplinary fields. The platform combines publication discovery with academic indexing capabilities to support open-access research exploration.
 
 ## Key Topics
 
-- Perovskite solar cells and LECs
-- Carbon nanotubes and nanomaterials
-- Drug delivery systems (Pluronic L61, doxorubicin)
-- High-entropy alloys (HfNbTaTiZr)
-- Catalysis and oxidation reactions
-- X-ray diffraction and NMR spectroscopy
-- DFT and quantum chemistry
-- Sodium-ion battery cathodes
-- Thermoelectric composites
-- Bone cement and biomaterials
-- Energetic materials and explosives
-- Silsesquioxane cage compounds
-- Phase change materials (PCM)
-- Polyelectrolyte multilayers
-- IR spectroscopy and materials characterization
+- Scientific publication database
+- Research search and discovery
+- Citation metrics
+- Academic indexing
+- Multidisciplinary research
+- Open-access publishing
+- Researcher tools
+- Cobalt search engine
+- Journal archives
+- Publication metrics
+- ORCID integration
+- SCImago indexing
+- Nature Index
+- Web of Science compatibility
 
-## Energy Materials & Devices
+## Core Search & Discovery
 
-- [Resonant Silicon Nanoparticles for Enhanced Light Harvesting in Halide Perovskite Solar Cells](https://colab.ws/articles/10.1002/adom.201800576): Silicon nanoparticles boost perovskite solar cell efficiency to 18.8%
-- [Reconfigurable Perovskite LEC: Effects of Ionic Additives and Dual Function Devices](https://colab.ws/articles/10.1002/adom.202001715): Perovskite light-emitting electrochemical cells with ionic additives
-- [Reaching the Energy Density Limit of Layered O3-NaNi0.5Mn0.5O2 Electrodes via Dual Cu and Ti Substitution](https://colab.ws/articles/10.1002/aenm.201901785): Cu/Ti dual substitution in Na-ion battery cathodes for enhanced energy density
-- [Flexible Thermoelectric Polymer Composites Based on a Carbon Nanotubes Forest](https://colab.ws/articles/10.1002/adfm.201801246): CNT-PEDOT:PSS flexible thermoelectric composites for energy harvesting
-- [A Hard Oxide Semiconductor with A Direct and Narrow Bandgap and Switchable p-n Electrical Conduction](https://colab.ws/articles/10.1002/adma.201403304): Perovskite Mn2O3 semiconductor with 0.45 eV bandgap for IR detectors
-- [Doubly Coated, Organic–Inorganic Paraffin Phase Change Materials: Zinc Oxide Coating of Hermetically Encapsulated Paraffins](https://colab.ws/articles/10.1002/admi.201900368): ZnO-coated paraffin PCM capsules for thermal energy storage applications
+- [Cobalt](https://cobalt.colab.ws/): Comprehensive scientific publication search engine across all research fields with advanced discovery and filtering capabilities
 
-## Advanced Materials & Alloys
+## Journal Archives
 
-- [Microstructure and Mechanical Properties Evolution in HfNbTaTiZr Refractory High-Entropy Alloy During Cold Rolling](https://colab.ws/articles/10.1002/adem.202000105): HfNbTaTiZr refractory high-entropy alloy microstructure evolution during rolling
-- [Strontium Substituted Tricalcium Phosphate Bone Cement: Short and Long-Term Time-Resolved Studies and In Vitro Properties](https://colab.ws/articles/10.1002/admi.202200803): Sr-TCP bone cement with enhanced mechanical and biological properties
-- [How Can One Controllably Use of Natural ΔpH in Polyelectrolyte Multilayers?](https://colab.ws/articles/10.1002/admi.201600282): pH control in polyelectrolyte multilayers for drug delivery and self-healing
-
-## Drug Delivery & Biomedical Chemistry
-
-- [Pluronic L61 Accelerates Flip–Flop and Transbilayer Doxorubicin Permeation](https://colab.ws/articles/10.1002/CHEM.200204621): Study on Pluronic L61 block copolymer effects on doxorubicin permeation
-- [Isatin-3-acylhydrazones with Enhanced Lipophilicity: Synthesis, Antimicrobial Activity Evaluation and the Influence on Hemostasis System](https://colab.ws/articles/10.1002/cbdv.202100496): Isatin-3-acylhydrazones with anti-MRSA activity and anticoagulation properties
-
-## Catalysis & Inorganic Chemistry
-
-- [Cage-like Copper(II) Silsesquioxanes: Transmetalation Reactions and Structural, Quantum Chemical, and Catalytic Studies](https://colab.ws/articles/10.1002/chem.201500791): Copper silsesquioxane cage compounds for catalytic oxidation reactions
-- [Meet the Cerium(IV) Phosphate Sisters: CeIV(OH)PO4 and CeIV2O(PO4)2](https://colab.ws/articles/10.1002/chem.202002527): Two new cerium(IV) phosphate compounds with related crystal structures
-- [Solvent-Dependent Dihydrogen/Dihydride Stability for [Mo(CO)(Cp*)H2(PMe3)2]+[BF4]− Determined by Multiple Solvent···Anion···Cation Non-Covalent Interactions](https://colab.ws/articles/10.1002/chem.200901613): Solvent effects on Mo dihydrogen/dihydride tautomerism via non-covalent forces
-
-## Organic Synthesis & Energetic Materials
-
-- [Assembly of Tetrazolylfuroxan Organic Salts: Multipurpose Green Energetic Materials with High Enthalpies of Formation and Excellent Detonation Performance](https://colab.ws/articles/10.1002/chem.201806378): Green energetic salts with high detonation performance as primary explosives
-- [Base-promoted Synthesis of Trifluoromethylated (1,3-dioxolan-4-ylidene)methylphosphonates from Trifluoromethylketones and Ethynylphosphonates](https://colab.ws/articles/10.1002/ajoc.202100428): Synthesis of CF3-functionalized dioxolane phosphonates using alkynylphosphonates
-- [How Strong is Hydrogen Bonding to Amide Nitrogen?](https://colab.ws/articles/10.1002/cphc.201901104): Investigation of hydrogen bond strength with amide nitrogen using proton sponges
+- [Mendeleev Communications 2026 Issues](https://mendcomm.colab.ws/issues/2026): 2026 issues archive for Mendeleev Communications chemistry journal with access to published research volumes

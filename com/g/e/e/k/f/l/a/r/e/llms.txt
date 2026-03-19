@@ -1,61 +1,52 @@
 # Geekflare
 
-> > Geekflare is a technology resource covering cybersecurity, development tools, hosting solutions, consumer tech, and gaming guides for developers, IT professionals, and tech enthusiasts.
+> Geekflare is a collaborative AI workspace and developer API platform unifying access to 40+ LLM models with powerful web scraping, data extraction, and business automation tools.
 
-Geekflare provides practical tutorials, product reviews, and technical guides across infrastructure, security, software development, and consumer technology. The site features in-depth coverage of Linux, Windows, DNS security, email security, cloud services, and emerging technologies like cryptocurrency and NFT gaming.
+Geekflare provides both a unified AI platform (supporting OpenAI, Google, Anthropic models) and a comprehensive API suite for web scraping, screenshots, and RAG context extraction. The platform serves developers, teams, and businesses seeking cost-effective AI collaboration and data extraction solutions.
 
 ## Key Topics
 
-- Cybersecurity & Email Security
-- DNS & DNSSEC
-- Linux System Administration
-- Windows System Maintenance
-- Driver Updates & PC Performance
-- Apache HTTP Server
-- Ubuntu & APT Package Management
-- Crontab & Task Scheduling
-- SPF Records & Email Spoofing
-- Bitcoin Mining & Cryptocurrency
-- Real-time Application Development
-- Smart Home & Consumer Electronics
-- Game Server Hosting
-- Instagram Analytics
-- Applicant Tracking Systems (ATS)
+- Geekflare AI
+- Geekflare API
+- Geekflare Connect
+- Multi-model LLM access
+- Web scraping API
+- RAG pipeline
+- Team collaboration
+- BYOK (Bring Your Own Key)
+- Data extraction
+- Headless browser
+- ChatGPT, Claude, Gemini
+- Cost reduction
+- API documentation
+- AI workspace
 
-## Cybersecurity & Infrastructure
+## Core Products
 
-- [How to Test & Fix Missing SPF Record Vulnerability/Email Spoofing?](https://geekflare.com/cybersecurity/fix-email-spoofing-missing-spf-record-vulnerability): Guide to testing and fixing SPF record vulnerabilities using MX Toolbox
-- [How to Test DNS Security Risk & Fix to Avoid Being Hacked?](https://geekflare.com/cybersecurity/dns-security-test): Guide to testing DNS security, DNSSEC, and zone transfer vulnerabilities
-- [Spear Phishing: What Is It and How to Detect and Mitigate It?](https://geekflare.com/cybersecurity/spear-phishing): Guide to detecting and mitigating spear phishing attacks and social engineering
-- [Apache HTTP Installation Troubleshooting Guide](https://geekflare.com/cybersecurity/apache-installation-troubleshooting): Troubleshooting Apache 2.4 compilation errors and APR dependencies on CentOS
+- [Geekflare - Collaborative AI Workspace & Developer APIs](https://geekflare.com): Geekflare homepage: AI workspace with 40+ models, APIs for search & scraping
+- [Geekflare AI | Unify Your Business AI Strategy](https://geekflare.com/ai): Unified platform for OpenAI, Google, Anthropic models with team collaboration features
+- [Geekflare Connect | BYOK AI Workspace for Teams](https://geekflare.com/ai/connect): BYOK platform for team AI collaboration and cost reduction
+- [Geekflare API - Scrape, Screenshot & Extract RAG Context](https://geekflare.com/api): Web scraping, screenshots, and RAG context extraction for developers
+- [Geekflare Tools for Business Growth](https://geekflare.com/tools): Free suite for website audit, invoicing, and business productivity
 
-## Linux & Development
+## API Reference & Documentation
 
-- [Crontab in Linux – with Real-time Examples and Tools](https://geekflare.com/dev/crontab-linux-with-real-time-examples-and-tools): Tutorial on Linux crontab commands and cron task scheduling with examples
-- [What are Ubuntu Repositories? How It Works and How to Enable/Disable It](https://geekflare.com/dev/ubuntu-repositories-explained): Explanation of Ubuntu repositories, APT package manager, and DEB packages
-- [9 Websites to Run Linux from Web Browser [Online Emulators]](https://geekflare.com/dev/run-linux-from-a-web-browser): List of online Linux emulators like JSLinux for browser-based testing
+- [Geekflare API Docs - Geekflare](https://docs.geekflare.com/api): REST API documentation: authentication, rate limits, and integration guides
+- [Geekflare AI Docs - Geekflare](https://docs.geekflare.com/ai): AI platform documentation: getting started, system requirements, setup
+- [Web Scraping API - Extract HTML, Markdown & LLM Data](https://geekflare.com/api/webscraping): Web scraping API with code examples, pricing, and data extraction capabilities
+- [Geekflare API Collection | Scraping, Screenshots, Security & SEO APIs](https://geekflare.com/api/collection): Complete API collection: web scraping, screenshots, DNS, security tools
 
-## Software & Application Development
+## Learning & Reference
 
-- [11 Best Software to Build Real-time Applications](https://geekflare.com/software/build-real-time-apps): Comparison of real-time app platforms: Ably, Pusher, PubNub, ZEGOCLOUD
-- [Guide to Different Types of ATS [Applicant Tracking Systems]](https://geekflare.com/guide/ats-types): Guide to ATS deployment models covering Oracle Taleo, iCIMS, Greenhouse
-- [What Is Instagram Insights?](https://geekflare.com/guide/instagram-insights): Guide to Instagram Insights metrics and social media analytics tracking
+- [Geekflare Guides](https://geekflare.com/guides): B2B software and AI technology recommendations and guides
+- [AI Glossary - Comprehensive Definitions of AI Terms | Geekflare](https://geekflare.com/ai/glossary): Definitions of agentic AI, machine learning, and technical terms
+- [Geekflare Newsletter](https://newsletter.geekflare.com): Tech & business newsletter covering AI trends, ChatGPT, Nvidia, and industry news
 
-## Windows System Maintenance
+## Support & Infrastructure
 
-- [Top 8 Driver Updaters to Keep Your System Running Smoothly](https://geekflare.com/consumer-tech/best-driver-updaters): Review of top driver updaters like DriverMax for Windows 10 performance
-- [How to Fix 'Discord Installation Has Failed' in 5 Minutes](https://geekflare.com/consumer-tech/fix-discord-installation-failed-error): Troubleshooting guide for Discord installation errors on Windows
-- [10 Best MAC Address Lookup Tools for Every Need](https://geekflare.com/consumer-tech/mac-address-lookup-tools): Review of MAC address lookup tools like Wireshark for vendor identification
+- [Security Policy - Geekflare](https://geekflare.com/security): Security policy: infrastructure, encryption, and compliance standards
+- [Geekflare status page ✨](https://status.geekflare.com): Service monitoring and uptime dashboard
 
-## Gaming & Cryptocurrency
+## Optional
 
-- [Bitcoin Mining for Dummies: Understanding the Fundamentals](https://geekflare.com/crypto/bitcoin-mining-for-dummies): Beginner guide to Bitcoin mining, blockchain, and SHA-256 fundamentals
-- [6 Best Play to Earn Crypto Games To Check Out](https://geekflare.com/gaming/play-to-earn-crypto-games): Review of play-to-earn crypto games including Axie Infinity and NFT gaming
-- [5 Assetto Corsa Hosting Servers for Action-Packed Gameplay](https://geekflare.com/hosting/best-assetto-corsa-hosting-servers): Comparison of Assetto Corsa dedicated game server hosting providers
-- [How to Make Smooth Stone on Minecraft](https://geekflare.com/gaming/smooth-stone-on-minecraft): Minecraft tutorial on crafting smooth stone using furnace and blast furnace
-
-## Consumer Electronics & Smart Home
-
-- [10 Best Universal Remotes for Easy Multi-Device Control](https://geekflare.com/consumer-tech/best-universal-remotes): Product roundup of universal remotes for smart home device control
-- [15 Best Robot Mops for Squeaky Clean Floors](https://geekflare.com/consumer-tech/best-robot-mops): Product review of robot mops including Roborock S7 and iRobot Braava
-- [12 White Noise Apps to Fall Asleep To [Android and iPhone]](https://geekflare.com/consumer-tech/white-noise-apps): Roundup of white noise sleep aid apps for Android and iPhone devices
+- [What is MCM Client? [Everything You Need To Know]](https://geekflare.com/about): Article on Mobile Content Management (MCM) systems and security

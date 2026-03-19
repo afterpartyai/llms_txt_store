@@ -1,67 +1,35 @@
 # PeerDH
 
-> > A programming and web development resource covering Python, Rust, C++, machine learning, REST APIs, game development, and software engineering best practices.
+> > PeerDH is a royalty-free stock photo marketplace offering fast search, clear licensing, and curated collections for commercial and creative use.
 
-PeerDH provides practical tutorials, beginner guides, and technical insights spanning multiple programming domains including systems programming with Rust and C++, data science with Python and NumPy/Pandas, API development with Node.js and Express, and emerging technologies in AI and game development. The site emphasizes hands-on learning through project-based tutorials and explores both technical skills and developer psychology.
+PeerDH provides a streamlined platform for discovering and licensing high-quality stock photography. Built with modern web technologies, the marketplace emphasizes fast search capabilities and transparent licensing information for photographers and creators worldwide.
 
 ## Key Topics
 
-- Python
-- REST API Development
-- Machine Learning
-- Rust
-- C++
-- Node.js & Express
-- Systems Programming
-- Game Development
-- Web Development
-- Data Science
-- Artificial Intelligence
-- NumPy & Pandas
-- MongoDB
-- Memory Safety
-- Beginner Programming Guides
+- royalty-free images
+- stock photo library
+- product photography
+- commercial licensing
+- lifestyle imagery
+- photo collections
+- image search
+- stock-image-library
+- product-catalog
+- creative assets
+- photography marketplace
+- image licensing
+- curated collections
+- visual content
 
-## API Development & Backend
+## Core Platform
 
-- [Build A Rest Api For An Online Store: Managing Products, Categories, A](https://peerdh.com/blogs/programming-insights/build-a-rest-api-for-an-online-store-managing-products-categories-and-orders-with-pagination-and-filtering-1): Node.js/Express REST API tutorial for ecommerce with MongoDB backend
-- [Developing A Rest Api For A Social Media Application](https://peerdh.com/blogs/programming-insights/developing-a-rest-api-for-a-social-media-application-2): Node.js REST API for social media: user profiles, posts, and friendships
+- [PeerDH Images Royalty-Free Stock Photos](https://peerdh.com): Homepage for PeerDH royalty-free stock photo marketplace with fast search and clear licensing
+- [Products](https://peerdh.com/collections/all): Product catalog page displaying all stock photo collections with filtering and sorting
 
-## Machine Learning & Data Science
+## Resources & Guides
 
-- [A Beginner's Guide To Creating A Simple Machine Learning Model In Pyth](https://peerdh.com/blogs/programming-insights/a-beginners-guide-to-creating-a-simple-machine-learning-model-in-python-using-scikit-learn): Python ML tutorial with Scikit-Learn for linear regression predictions
-- [Develop A Data Visualization Dashboard Using Apache Zeppelin Or Tablea](https://peerdh.com/blogs/programming-insights/develop-a-data-visualization-dashboard-using-apache-zeppelin-or-tableau-to-present-insights-from-big-data-processed-with-spark-1): Build dashboards with Apache Zeppelin, Tableau and Spark for big data
+- [Royalty-Free Stock Photos](https://peerdh.com/blogs/stock-images): Blog post about browsing royalty-free stock images with fast search and licensing info
 
-## Systems Programming & Language Comparisons
+## Legal & Policies
 
-- [C++ Vs Rust: Performance And Safety In Systems Programming](https://peerdh.com/blogs/programming-insights/c-vs-rust-performance-and-safety-in-systems-programming): C++ vs Rust comparison: performance, memory safety, and ownership models
-- [Emerging Programming Languages: Overview Of Rust And Julia](https://peerdh.com/blogs/programming-insights/emerging-programming-languages-overview-of-rust-and-julia): Rust and Julia comparison: systems programming vs data science languages
-- [Why Python Is The Swiss Army Knife Of Programming](https://peerdh.com/blogs/programming-insights/why-python-is-the-swiss-army-knife-of-programming): Python's versatility across web dev, data science, ML, and automation
-
-## Web Development Fundamentals
-
-- [Building Your First Website: A Step-by-step Guide](https://peerdh.com/blogs/programming-insights/building-your-first-website-a-step-by-step-guide): Beginner guide to website building: hosting, domain, CMS, and SEO basics
-- [The Importance Of Seo In Web Development: Tips And Techniques](https://peerdh.com/blogs/programming-insights/the-importance-of-seo-in-web-development-tips-and-techniques): SEO best practices: page speed, meta tags, and content optimization tips
-- [Web Accessibility: Creating Inclusive Websites For All Users](https://peerdh.com/blogs/programming-insights/web-accessibility-creating-inclusive-websites-for-all-users): Web accessibility guide: WCAG principles, semantic HTML, and WAVE testing
-- [The Future Of Web Development: Trends In Web Technologies](https://peerdh.com/blogs/programming-insights/the-future-of-web-development-trends-in-web-technologies-2): Web dev trends: PWAs, AI integration, serverless, and voice optimization
-
-## Game Development & AI
-
-- [Game Development For Beginners: Key Tools And Resources](https://peerdh.com/blogs/programming-insights/game-development-for-beginners-key-tools-and-resources): Beginner guide to Unity, Unreal Engine, Godot and game dev essentials
-- [Exploring The Impact Of Ai On Game Development And Player Experience](https://peerdh.com/blogs/programming-insights/exploring-the-impact-of-ai-on-game-development-and-player-experience): AI's role in NPCs, procedural generation, and game personalization
-
-## Practical Programming Projects
-
-- [Currency Converter: Build A Currency Converter That Fetches Live Excha](https://peerdh.com/blogs/programming-insights/currency-converter-build-a-currency-converter-that-fetches-live-exchange-rates): Python tutorial: build currency converter with ExchangeRate-API integration
-- [Basic Quiz Application: Create A Quiz App That Presents Questions To U](https://peerdh.com/blogs/programming-insights/basic-quiz-application-create-a-quiz-app-that-presents-questions-to-users-and-keeps-track-of-their-scores): Build interactive quiz app with HTML, CSS, JavaScript and score tracking
-
-## Developer Psychology & Productivity
-
-- [The Psychology Of A Programmer: Exploring The Mindset Of Programmers](https://peerdh.com/blogs/programming-insights/the-psychology-of-a-programmer-exploring-the-mindset-of-programmers): Programmer psychology: problem-solving, resilience, and imposter syndrome
-- [The Art Of Code Review: How To Give Feedback Without Breaking Spirits](https://peerdh.com/blogs/programming-insights/the-art-of-code-review-how-to-give-feedback-without-breaking-spirits): Constructive code review techniques for effective developer collaboration
-- [The Art Of Procrastination: Why We Do It And How To Overcome It](https://peerdh.com/blogs/programming-insights/the-art-of-procrastination-why-we-do-it-and-how-to-overcome-it): Psychology of procrastination with productivity tips and Pomodoro Technique
-- [The Art Of Procrastination: Why We Delay And How To Overcome It](https://peerdh.com/blogs/programming-insights/the-art-of-procrastination-why-we-delay-and-how-to-overcome-it-1): Time management strategies and psychology behind procrastination habits
-
-## Optional
-
-- [GDPR Privacy Policy](https://peerdh.com/pages/gdpr-privacy-policy): GDPR-compliant privacy policy for peerdh.com data protection practices
+- [Privacy Policy](https://peerdh.com/policies/privacy-policy): Privacy policy outlining data collection, personal information handling, and user rights

@@ -1,53 +1,58 @@
 # itch.io
 
-> > An indie game distribution platform and community hub for independent game developers to publish, distribute, and sell their games directly to players.
+> > itch.io is an open indie game marketplace and distribution platform enabling developers to host, sell, and monetize games while players discover and play independent titles across multiple platforms.
 
-itch.io is a marketplace and hosting platform created by leafo that empowers indie developers to share their work. The platform supports game jams, devlogs, analytics tools, and community features like GitHub integration for public issue tracking.
+itch.io serves as a central hub for indie game developers and players, offering game hosting, digital distribution, asset marketplaces, and community features. The platform supports multiple platforms including Windows, macOS, Linux, Web, iOS, and Android, with extensive filtering by genre, input methods (controller support for Xbox, PlayStation, Joy-Con, Kinect, etc.), and game characteristics.
 
 ## Key Topics
 
-- indie game distribution
-- game jams and jam hosting
-- devlogs and patch notes
-- game development community
-- direct-to-player sales
-- platformer games
-- interactive fiction
-- bug tracking and GitHub integration
-- game analytics and CSV export
-- community contribution
-- indie game releases
-- game updates and versioning
-- developer tools
-- public issues tracker
+- indie games
+- game discovery
+- game development
+- game jams
+- game marketplace
+- free games
+- game bundles
+- game assets
+- game development tools
+- game engines
+- multi-platform support
+- game genres
+- multiplayer games
+- input methods
+- community
 
-## Platform Updates & Features
+## Game Discovery & Browsing
 
-- [Welcome - itch.io](https://itch.io/updates/welcome): Welcome post introducing itch.io indie game distribution platform
-- [Jam hosting open for everyone - itch.io](https://itch.io/updates/jam-hosting-open-for-everyone): Game jam hosting now open to all users without admin approval
-- [Contribute to itch.io through the public issues tracker - itch.io](https://itch.io/updates/contribute-to-itchio-through-the-public-issues-tracker): Announcing GitHub issues tracker for itch.io feature requests & bugs
-- [Enhancing jams: late submissions and entry editor - itch.io](https://itch.io/updates/enhancing-jams-late-submissions-and-entry-editor): New jam admin tools: late submissions and entry editor features
-- [CSV export for purchases - itch.io](https://itch.io/updates/csv-export-for-purchases): CSV export now available for purchase data in Game Analytics
+- [Download the latest indie games - itch.io](https://itch.io): itch.io homepage: indie game marketplace for discovering and distributing games
+- [Top games - itch.io](https://itch.io/games): Main game discovery and browsing hub with filtering across platforms
+- [Top free games - itch.io](https://itch.io/games/free): Free games discovery page with platform and genre filtering options
+- [Top paid games - itch.io](https://itch.io/games/store): Paid games marketplace with filtering by platform and input methods
+- [Top games for Web - itch.io](https://itch.io/games/platform-web): Web-based games discovery and browsing on itch.io
+- [Top games tagged Horror - itch.io](https://itch.io/games/tag-horror): Horror games browsing with tag filtering and genre discovery
+- [Top games tagged Multiplayer - itch.io](https://itch.io/games/tag-multiplayer): Multiplayer games discovery with local and online filtering
+- [Fun games - Top games - itch.io](https://itch.io/games/fun): Curated fun games collection for indie game discovery
+- [Top tags - itch.io](https://itch.io/tags): Directory of content tags and categories for game discovery
 
-## Game Updates & Patch Notes
+## Developer Platform & Distribution
 
-- [Update 1.4 - More Settings - RED ZOMBIES by WGGames](https://wggames.itch.io/red-zombies/devlog/526/update-14-more-settings): RED ZOMBIES v1.4 adds CRT effect toggle and sound settings
-- [Warsim 0.6.8.2 - Warsim: The Realm of Aslona by Huw2k8](https://huw2k8.itch.io/warsim/devlog/516/warsim-0682): Warsim v0.6.8.2 adds bards guild, musicians, and blackmarket fixes
-- [0.1.4 - Hollow by NightGlow74, Fluid_Fizzics](https://nightglow74.itch.io/1234/devlog/524/014): Hollow v0.1.4 adds health system and death animations for enemies/player
-- [Version D0.20 Update 3 uploaded! - Immortal Sins by AceOfAces](https://aceofaces.itch.io/immortal-sins/devlog/385/version-d020-update-3-uploaded): Immortal Sins D0.20 Update 3 with balancing changes and bug fixes
-- [Harmon:i:c - v0.0.4 out now! - Harmon:i:c by AWK](https://awk.itch.io/harmonic/devlog/348/harmonic-v004-out-now): Harmon:i:c v0.0.4 for Demo Day 14 adds map, sound effects, fullscreen
-- [Updated for Demo Day 14 - Ctesiphon by stomygame](https://stomygame.itch.io/ctesiphon/devlog/367/updated-for-demo-day-14): Ctesiphon updated for AGDG Demo Day 14 with minor changes
+- [Sell your indie games online - itch.io](https://itch.io/developers): Developer platform for hosting, selling, and distributing indie games
+- [Devlogs - itch.io](https://itch.io/devlogs): Community developer logs showcasing game development updates and releases
+- [Game jams - itch.io](https://itch.io/jams): Game jam directory and calendar for community game development events
+- [Game development jobs - itch.io](https://itch.io/jobs): Game industry job listings and hiring opportunities
+- [itch.io Community - itch.io](https://itch.io/community): Community forum and discussion boards for developers and players
 
-## Bug Fixes & Technical Updates
+## Game Development Resources
 
-- [Fixing the first bugs and added Web version for Remember Ben - Remember Ben by IndieAlchemist](https://indiealchemist.itch.io/remember-ben/devlog/318/fixing-the-first-bugs-and-added-web-version-for-remember-ben): Remember Ben bug fixes, web version, sprint button, and speed tweaks
-- [added language: english - Soolakalamees by Hakaponttoauto](https://hakaponttoauto.itch.io/soolakalamees/devlog/507/added-language-english): Soolakalamees adds English localization and OSX support
+- [Top tools - itch.io](https://itch.io/tools): Game development tools marketplace including editors and utilities
+- [Top game assets - itch.io](https://itch.io/game-assets): Game assets marketplace for sprites, music, and 3D models
+- [Top Game Engines - itch.io](https://itch.io/game-development/engines): Game engine directory including Unity, Godot, and GameMaker
 
-## Game Releases
+## Sales, Bundles & Promotions
 
-- [Released! The Last Game Designer. - The Last Game Designer by Gabriel Cornish](https://gabrielcornish.itch.io/the-last-game-designer/devlog/562/released-the-last-game-designer): The Last Game Designer interactive fiction released for Ludum Dare 38
-- [Released! - No Other Medicine by Jane Titor](https://janetitor.itch.io/no-other-medicine/devlog/447/released): No Other Medicine visual novel released for TyranoBuilder Spring Jam
+- [Sales - itch.io](https://itch.io/sales): Discounted games, bundles, and assets during sales events
+- [Bundles - itch.io](https://itch.io/bundles): Game and asset bundles with discounted bulk pricing
 
-## Optional
+## Additional Content
 
-- [New screnshots - Rush by Pineapple Software](https://pineapple-software.itch.io/rush/devlog/577/new-screnshots): Rush platformer game receives new screenshots update
+- [Top comics - itch.io](https://itch.io/comics): Comics and webcomics directory on itch.io platform

@@ -1,38 +1,60 @@
 # DergiPark
 
-> > DergiPark is Turkey's national academic journal hosting platform operated by TÜBİTAK ULAKBİM, providing open access to peer-reviewed Turkish scholarly publications across medical, social sciences, and humanities disciplines.
+> > DergiPark is TÜBİTAK ULAKBİM's comprehensive academic journal hosting and editorial workflow platform for Turkish and international peer-reviewed journals.
 
-DergiPark serves as the primary repository for Turkish academic journals, hosting publications indexed in TR Dizin, DOAJ, EBSCO, and ERIH PLUS. The platform supports both active journals and discontinued archives across multiple disciplines, with content available in Turkish and English.
+DergiPark provides a centralized infrastructure for academic journal management, publication, and indexing services including DOI registration, TR Dizin and DOAJ integration, and support for continuous publication models. The platform serves Turkish universities and research institutions with editorial tools, author submission systems, and reader access to peer-reviewed content.
 
 ## Key Topics
 
-- DergiPark
-- TÜBİTAK ULAKBİM TR DİZİN
-- Turkish academic journals
-- Peer-reviewed publications (hakemli-dergi)
-- Open access publishing (DOAJ)
-- Medical journals
-- Social sciences journals (sosyal-bilimler-dergisi)
-- Multidisciplinary research (disiplinlerarası)
-- Turkish-English bilingual content
-- EBSCO indexing
-- ERIH PLUS
-- Journal archives
-- Physiotherapy and rehabilitation
-- Historical documents (Belgeler)
-- Clinical medicine
+- Academic Journal Hosting
+- Editorial Workflow Management
+- DOI Service & Crossref Registration
+- TR Dizin Indexing
+- DOAJ Integration
+- e-Devlet Authentication
+- ORCID Login
+- OAuth Integration
+- Peer-Reviewed Publishing
+- Continuous Publication Model
+- Journal Registration Wizard
+- TÜBİTAK ULAKBİM
+- UKOD Subject Classification
+- User Account Management
+- Publisher Dashboard
 
-## Active Medical Journals
+## Core Platform
 
-- [Türk Fizyoterapi ve Rehabilitasyon Dergisi](https://dergipark.org.tr/tr/pub/tjpr): Turkish Journal of Physiotherapy and Rehabilitation homepage - peer-reviewed publication by Türkiye Fizyoterapistler Derneği
-- [Türk Plastik Rekonstrüktif Ve Estetik Cerrahi Dergisi](https://dergipark.org.tr/tr/pub/turkplastsurg): Turkish Plastic Reconstructive and Aesthetic Surgery Journal homepage - specialized surgical publication
+- [Home](https://dergipark.org.tr/en): DergiPark homepage: TÜBİTAK ULAKBİM's academic journal hosting and editorial workflow platform
+- [Ana Sayfa (Turkish)](https://dergipark.org.tr/tr): DergiPark Turkish homepage: TÜBİTAK ULAKBİM's academic journal hosting and management platform
+- [About](https://dergipark.org.tr/en/pub/page/about): DergiPark platform overview: services, standards, and participation requirements for Turkish academic journals
 
-## Social Sciences and Humanities Journals
+## User Authentication & Access
 
-- [İnönü Üniversitesi Uluslararası Sosyal Bilimler Dergisi (INIJOSS)](https://dergipark.org.tr/tr/pub/inijoss): İnönü University International Social Sciences Journal - multidisciplinary social sciences publication indexed in TR Dizin and ERIH PLUS
-- [Belgeler](https://dergipark.org.tr/tr/pub/belgeler): Turkish Historical Society (Türk Tarih Kurumu) archival documents journal - historical research and primary sources
+- [User Login](https://dergipark.org.tr/en/user/notification): User login and authentication via e-Devlet, ORCID, and account credentials
+- [User Dashboard](https://dergipark.org.tr/en/user/panel): User dashboard login and account access via multiple authentication methods
+- [Publisher Panel](https://dergipark.org.tr/en/user/publisher/panel): Publisher panel login for journal management and editorial workflow access
+- [Journal Management](https://dergipark.org.tr/en/journal/my): Journal management login for editors and journal administrators
+- [Journal Wizard](https://dergipark.org.tr/en/journal-wizard): Journal wizard login for journal registration and setup via e-Devlet and ORCID
+- [User Projects](https://dergipark.org.tr/en/user-project): User project login and account authentication with OAuth integration
+- [Logout](https://dergipark.org.tr/en/logout): User logout and redirect to DergiPark homepage
 
-## Discontinued Journal Archives
+## Publishing Services & Standards
 
-- [Klinik Tıp Bilimleri](https://dergipark.org.tr/tr/pub/ktb): Clinical Medical Sciences discontinued journal archive - historical medical research collection
-- [Medical Sciences (NWS)](https://dergipark.org.tr/tr/pub/nwsamed): Medical Sciences discontinued journal archive - preserved medical publications
+- [DOI Service](https://dergipark.org.tr/en/pub/page/doi-hizmeti): DOI service documentation: requirements, Crossref registration, and indexing in TR Dizin and DOAJ
+- [Subject Classification](https://dergipark.org.tr/en/pub/subjects): UKOD academic subject classification standards and taxonomy for journal categorization
+
+## Platform Development
+
+- [Roadmap](https://dergipark.org.tr/en/pub/page/yol-haritasi): DergiPark development roadmap: planned features, editorial tools, and platform enhancements
+- [Developments & Announcements](https://dergipark.org.tr/en/pub/announcement): Platform announcements and updates on system integrations, publication models, and new features
+
+## Hosted Journals
+
+- [Atatürk Yolu Dergisi](https://dergipark.org.tr/en/pub/ankuayd): Atatürk Yolu Dergisi: peer-reviewed Turkish history journal hosted on DergiPark
+- [Turkish Journal of Science and Technology](https://dergipark.org.tr/en/pub/tjst): Turkish Journal of Science and Technology: open-access multidisciplinary journal from Fırat University
+- [Journal of Eskişehir Osmangazi University Faculty of Theology](https://dergipark.org.tr/en/pub/esoguifd): ESOGUIFD: peer-reviewed theology and Islamic sciences journal from Eskişehir Osmangazi University
+
+## Optional
+
+- [Academic Journal](https://dergipark.org.tr/en/pub/daad): Academic journal homepage with submission guidelines and publication schedule
+- [User Followers](https://dergipark.org.tr/en/user/user-followers): User followers and social features login page

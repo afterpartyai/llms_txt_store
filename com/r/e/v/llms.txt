@@ -1,60 +1,64 @@
 # Rev
 
-> > Rev provides AI-powered speech-to-text services including transcription, captions, and subtitles through human and automated solutions, with specialized tools for legal, education, and marketing professionals.
+> Rev is a comprehensive transcription, captioning, and AI-powered media processing platform serving legal, criminal justice, and digital content creators.
 
-Rev offers both consumer transcription services and developer APIs (Rev.ai) for speech recognition integration. The platform serves diverse industries with products like Rev Insights for legal document analysis, SmartDepo for depositions, and accessibility solutions compliant with ADA and HIPAA standards.
+Rev provides professional transcription services, video captioning solutions, and AI-powered tools for converting audio and video content to text. The platform serves diverse industries including legal depositions, criminal justice, and digital media, with support for multiple audio/video formats and accessibility compliance standards.
 
 ## Key Topics
 
-- Rev.ai API
-- Speech-to-text transcription
-- Closed captions and subtitles
-- Legal transcription and Rev Insights
-- AI transcription services
-- Accessibility (ADA/HIPAA compliance)
-- Avid Media Composer integration
-- ScriptSync workflow
-- Speech recognition API
-- Rev Mobile App
-- Legal tech and SmartDepo
-- Academic transcription
-- Content creation and SEO
-- Multilingual transcription
-- Video editing workflows
+- Transcription services
+- Video captioning
+- AI transcription
+- Legal technology
+- Court reporting
+- Audio-to-text conversion
+- Closed captions
+- Subtitles
+- Digital evidence
+- Speech-to-text API
+- File format conversion
+- Video accessibility
+- WCAG/ADA compliance
+- Deposition services
+- Audio formats (MP3, WAV, M4A, MOV, etc.)
 
-## Core Services & Solutions
+## Core Services & Pricing
 
-- [Academic Transcription Services For Research](https://www.rev.com/solutions/education): Academic transcription for lectures, research, ADA/HIPAA compliant solutions
-- [Speech to Text Transcription for Marketing](https://www.rev.com/solutions/marketing): Marketing transcription services for market research, SEO, and content creation
-- [Customer Reviews for Our Speech-to-Text Services](https://www.rev.com/reviews): Customer testimonials and reviews for Rev transcription services from 1M+ users
-- [Greening Law Case Study: Sentence Reduced By 30 Years](https://www.rev.com/customers/greening-law-group): Case study: Greening Law Group used Rev Insights to analyze 1M+ documents
+- [Subscription Plans + Per-Minute Pricing](https://www.rev.com/pricing): Rev's pricing and subscription plans for transcription, AI analysis, and translation.
+- [Pricing Calculator: Transcriptions, Captions, + Subtitles](https://www.rev.com/apps-and-tools/pricing-calculator): Interactive tool to estimate costs for Rev's transcription and captioning services.
+- [Criminal Justice Services](https://www.rev.com/lp/solutions/criminal-justice): Solution page for criminal justice transcription and evidence management services.
 
-## API & Developer Resources
+## Getting Started Guides
 
-- [How To Get Speech Recognition in C++ with a Speech-to-Text API](https://www.rev.com/resources/guide-to-speech-recognition-in-c-with-a-speech-to-text-api): Implement Rev.ai speech recognition in C++ using Asynchronous & Streaming APIs
-- [How to Set Up the Rev.com API in Postman](https://www.rev.com/resources/how-to-set-up-the-rev-com-api): Step-by-step guide to setting up Rev.com API authentication in Postman
-- [Building a Speech Recognition System vs. Buying or Using an API](https://www.rev.com/resources/building-a-speech-recognition-system-vs-buying-or-using-an-api): Build vs buy analysis for ASR systems and Rev.ai API services
-- [Add Language Identification to ASR Apps](https://www.rev.com/blog/add-automatic-language-identification-to-your-asr-applications): Multilingual transcription using Rev AI Language Identification API
+- [How to Order Transcripts Online](https://www.rev.com/resources/how-to-order-transcripts-online): Guide to ordering and uploading files for Rev's online transcription services.
+- [How to Create Subtitles for a Video](https://www.rev.com/resources/how-to-create-subtitles-for-a-video): Step-by-step guide to creating video subtitles using Rev's captioning tool.
+- [How to Get a Webinar Transcript](https://www.rev.com/resources/webinar-transcription-services-how-to-get-a-webinar-transcript): Instructions for transcribing webinars for accessibility and SEO purposes.
+- [How To Transcribe AMR Files](https://www.rev.com/resources/how-to-convert-amr-to-text-online): Guide to converting AMR audio files to text using Rev's transcription tools.
+- [How to Create an SCC Caption File in 5 Steps](https://www.rev.com/resources/how-to-create-a-scc-caption-file-format): Tutorial on creating SCC closed caption files for video production.
 
-## Captions & Subtitles
+## Developer Resources & Integrations
 
-- [How To Meet Amazon Prime's Standards for Captions](https://www.rev.com/resources/amazon-prime-video-standards-captions-subtitles): Caption standardization guide for Amazon Prime Video distribution
-- [What Does SDH Mean and How Can You Meet Unique Subtitle Needs?](https://www.rev.com/resources/what-does-sdh-mean): Explanation of SDH subtitles vs closed captions for accessibility
-- [Add Captions & Subtitles in Avid Media Composer](https://www.rev.com/blog/avid-media-composer-subtitles-and-captions): Tutorial on importing, editing, and exporting captions in Avid Media Composer
+- [Build a Speech-to-Text Web App With Rev AI & PHP](https://www.rev.com/blog/build-a-speech-to-text-web-application-with-rev-ai-and-php): Tutorial for integrating Rev AI's speech-to-text API with PHP web applications.
+- [What Is Word Error Rate (WER)?](https://www.rev.com/resources/what-is-wer-what-does-word-error-rate-mean): Technical reference on Word Error Rate calculation for speech recognition systems.
 
-## Video Production Integrations
+## Industry Solutions & Case Studies
 
-- [How to Export Avid ScriptSync Transcripts](https://www.rev.com/resources/how-to-export-avid-scriptsync-transcripts): Guide to exporting Rev transcripts to Avid Media Composer ScriptSync format
-- [Transcribe Cisco Webex Meetings & Recordings](https://www.rev.com/resources/cisco-webex-transcription-transcribe-webex-meetings-recordings): How to record and transcribe Cisco Webex meetings with Rev
+- [E-Deposition Customer Story](https://www.rev.com/customers/e-depositions): Case study: How e-Depositions uses Rev to streamline court reporting services.
+- [Webinar: Gain Insights With AI Deposition Summaries](https://www.rev.com/resources/unlock-insights-ai-deposition-summaries-webinar): Webinar on implementing AI-powered deposition summaries for legal workflows.
+- [What Is Digital Evidence? What Are Digital Evidence Types?](https://www.rev.com/blog/digital-evidence): Article on digital evidence types, collection methods, and legal admissibility.
 
-## Legal & Professional Resources
+## Video Captioning & Accessibility
 
-- [The Optimized Firm: AI-Powered Legal Practices](https://www.rev.com/resources/optimized-firm-whitepaper): Whitepaper on AI-powered legal tools including SmartDepo for law firms
-- [Effective Cross Examination Questions You May Not Know](https://www.rev.com/blog/cross-examination-questions): Guide to cross-examination question techniques for trial advocacy
-- [49 Criminal Justice Statistics For 2026](https://www.rev.com/blog/criminal-justice-statistics): Criminal justice data and statistics from Department of Justice sources
+- [Closed Caption Service Conundrum: How to Choose the Best Provider](https://www.rev.com/blog/choose-best-online-closed-captioning-service-videos): Comparison guide for selecting closed captioning service providers for videos.
+- [5 Best Apps for Adding Captions & Subtitles to Videos](https://www.rev.com/blog/best-closed-caption-subtitle-apps-for-adding-text-to-videos): Review of top apps for adding captions and subtitles to video content.
+- [ADA/WCAG 2.0 Compliance Website Checklist](https://www.rev.com/blog/ada-compliance-website-checklist-wcag-2-0-website-accessibility-checker): Checklist for ADA and WCAG 2.0 website accessibility compliance standards.
+
+## Additional Resources
+
+- [How We Differentiate Transcription and Caption Freelancers](https://www.rev.com/blog/freelance-transcriptionist-and-captioner-at-rev): Guide explaining roles and differences between Rev's transcriptionists and captioners.
+- [14 AI Marketing Tools For Growth](https://www.rev.com/blog/ai-marketing-tools): Review of AI marketing tools for content creation and strategy optimization.
+- [Top 12 Aesthetic Fonts Options](https://www.rev.com/blog/aesthetic-fonts): Guide to aesthetic fonts for branding and creative design projects.
 
 ## Optional
 
-- [7 AI Transcription Services With Free Trials](https://www.rev.com/blog/ai-transcription-services-free-trials): Comparison of AI transcription services with free trials including Otter.ai
-- [Best LMS for Online Courses](https://www.rev.com/blog/best-learning-management-systems-lms-for-online-courses-in-2020): Learning management system comparison focusing on closed caption support
-- [The 5 Best Video Cameras for Documentary Filmmaking](https://www.rev.com/blog/best-video-camera-for-a-documentary-film-top-5-cameras): Documentary camera recommendations including Blackmagic Pocket Cinema 4K
+- [Master Services Agreement 2020](https://www.rev.com/legal/master-service-agreement-01092020): Legal terms and conditions for Rev's transcription and AI services.

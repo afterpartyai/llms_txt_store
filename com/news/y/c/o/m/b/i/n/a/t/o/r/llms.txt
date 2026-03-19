@@ -1,31 +1,48 @@
 # Hacker News
 
-> > Social news aggregator focused on computer science, entrepreneurship, and technology, operated by Y Combinator.
+> Community-driven technology news aggregator and discussion platform featuring startup launches, developer tools, and open-source projects.
 
-Hacker News is a community-driven platform where users submit, vote on, and discuss stories about technology, startups, programming, and science. The site features discussions on companies like Meta Platforms and xAI, AI models like Claude (Opus 4.6, Sonnet 4.6), and topics ranging from NSA surveillance to app store regulation.
+Hacker News is a social news website focused on computer science and entrepreneurship, operated by Y Combinator. It serves as a platform for tech professionals, developers, and startup founders to share and discuss news, ask questions, and showcase projects.
 
 ## Key Topics
 
+- Community Submissions
+- Tech News
+- Startup Launches
+- Open Source
+- Developer Tools
+- AI/Machine Learning
 - Y Combinator
-- Tech news aggregation
-- Startup community
-- Artificial Intelligence (Claude, Opus 4.6, Sonnet 4.6)
-- Meta Platforms
-- xAI and Elon Musk
-- Privacy and surveillance (NSA, Section 702)
-- App Store regulation
-- Programming and software development
-- Open source projects
-- YouTube and content platforms
-- Technology policy
-- Channel Surfer
-- TUI Studio
-- Community discussion
+- News Aggregation
+- Community Guidelines
+- Karma System
+- Moderation
+- Security
+- Job Listings
+- Project Showcases
+- Q&A Discussion
 
-## Main Pages
+## Main Feed & Discovery
 
-- [Hacker News Homepage](https://news.ycombinator.com/): Main landing page featuring current top stories, newest submissions, and community discussions on technology and startups
+- [Hacker News Homepage](https://news.ycombinator.com): Hacker News homepage: tech news aggregator with community submissions
+- [Main Feed](https://news.ycombinator.com/news): Hacker News main feed: community-driven tech and startup news
+- [Newest Submissions](https://news.ycombinator.com/newest): Latest submissions to Hacker News by newest timestamp
+- [New Comments](https://news.ycombinator.com/newcomments): Real-time stream of newest comments across Hacker News
+
+## Community Features
+
+- [Ask HN](https://news.ycombinator.com/ask): Ask HN: community Q&A section for questions and discussions
+- [Show HN](https://news.ycombinator.com/show): Show HN: community submissions of projects and product launches
+- [Job Listings](https://news.ycombinator.com/jobs): Hacker News job listings for Y Combinator companies and startups
+- [Lists & Navigation](https://news.ycombinator.com/lists): Navigation page listing curated views and community features
+- [Filter by Source](https://news.ycombinator.com/from): Filter submissions by source or user on Hacker News
+
+## Guidelines & Support
+
+- [Community Guidelines](https://news.ycombinator.com/newsguidelines.html): Community guidelines and content policy for Hacker News
+- [Frequently Asked Questions](https://news.ycombinator.com/newsfaq.html): FAQ covering ranking, karma system, and Hacker News features
+- [Security & Vulnerability Reporting](https://news.ycombinator.com/security.html): Security disclosure and vulnerability reporting for Hacker News
 
 ## Optional
 
-- [Front Page Archive - March 13, 2026](https://news.ycombinator.com/front?day=&birth=manx): Historical snapshot of the front page from March 13, 2026
+- [Front Page Archive](https://news.ycombinator.com/front): Hacker News front page archive for specific date

@@ -1,39 +1,56 @@
 # PubMed
 
-> > A comprehensive biomedical literature database providing access to millions of research articles, clinical studies, and scientific publications from MEDLINE and life sciences journals.
+> > PubMed is the free search interface to 40+ million biomedical citations from MEDLINE, journals, and books, providing access to life science literature and clinical evidence.
 
-PubMed is maintained by the National Center for Biotechnology Information (NCBI) at the U.S. National Library of Medicine. It serves as the primary resource for researchers, clinicians, and healthcare professionals to search peer-reviewed biomedical and life sciences literature.
+PubMed is maintained by the National Library of Medicine (NLM) and National Center for Biotechnology Information (NCBI), part of the National Institutes of Health. It offers advanced search capabilities, citation management, clinical query tools, and programmatic access via E-utilities API for researchers, clinicians, and the general public.
 
 ## Key Topics
 
-- Hypoxia-inducible factors (HIFs)
-- HIF-1α and HIF-2α transcription factors
-- Oxygen homeostasis and hypoxia response
-- DNA barcoding and species identification
-- Cytochrome c oxidase I (COI)
-- Glucose metabolism and metabolic regulation
-- Pyruvate dehydrogenase (PDH) and PDK1
-- Sleep physiology and sleep stages
-- Emotional intelligence assessment
-- Pulmonary hypertension
-- Mitochondrial DNA analysis
-- Transcriptional regulation
-- Taxonomic classification
-- Combat casualty care
+- PubMed
+- MEDLINE
+- NCBI
+- National Library of Medicine
+- Biomedical literature
+- Citation search
+- Clinical queries
+- Search filters
+- Citation management
+- E-utilities API
+- PubMed Central
+- Bookshelf
+- Clinical practice guidelines
+- Cardiovascular disease
+- Evidence-based medicine
 
-## Molecular Biology and Physiology
+## Core Search & Discovery
 
-- [Hypoxia-inducible factors in physiology and medicine](https://pubmed.ncbi.nlm.nih.gov/22304911/): Research article on HIFs as master regulators of oxygen homeostasis
-- [Physiology, Sleep Stages](https://pubmed.ncbi.nlm.nih.gov/30252388/): StatPearls reference on REM/NREM sleep stages and physiological patterns
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov): PubMed homepage: 40M+ biomedical citations from MEDLINE, journals, books
+- [Advanced Search Results - PubMed](https://pubmed.ncbi.nlm.nih.gov/advanced): Advanced search builder with filters, saved searches, and query alerts
+- [Clinical Queries - PubMed](https://pubmed.ncbi.nlm.nih.gov/clinical): Specialized search tool for clinical studies and evidence retrieval
+- [Single Citation Matcher - PubMed](https://pubmed.ncbi.nlm.nih.gov/citmatch): Tool to find articles by citation details or PMID lookup
+- [Batch Citation Matcher - PubMed](https://pubmed.ncbi.nlm.nih.gov/batchcitmatch): Bulk citation lookup tool with file upload and PMID retrieval
 
-## Genomics and Taxonomy
+## Citation Management & Tools
 
-- [Biological identifications through DNA barcodes](https://pubmed.ncbi.nlm.nih.gov/12614582/): Study on DNA barcoding using cytochrome c oxidase I for species ID
+- [Clipboard - PubMed](https://pubmed.ncbi.nlm.nih.gov/clipboard): Citation management tool supporting AMA, APA, MLA formatting
 
-## Psychology and Behavioral Sciences
+## Data Access & APIs
 
-- [Human abilities: emotional intelligence](https://pubmed.ncbi.nlm.nih.gov/17937602/): Review article on emotional intelligence theory and measurement approaches
+- [Download Data - PubMed](https://pubmed.ncbi.nlm.nih.gov/download): Data download, FTP access, E-utilities API, XML format documentation
 
-## Clinical Medicine and Emergency Care
+## Documentation & Support
 
-- [Tactical combat casualty care in special operations](https://pubmed.ncbi.nlm.nih.gov/8772308/): Military medicine study on ATLS protocols for combat casualty care
+- [Help - PubMed](https://pubmed.ncbi.nlm.nih.gov/help): Search tutorials, FAQ, syntax guides, citation management documentation
+- [About - PubMed](https://pubmed.ncbi.nlm.nih.gov/about): Overview of PubMed, NCBI, NLM, NIH, and database components
+
+## Featured Clinical Research
+
+- [2026 ACC/AHA/AACVPR/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Dyslipidemia](https://pubmed.ncbi.nlm.nih.gov/41824552): 2026 clinical practice guideline on dyslipidemia management and cholesterol
+- [2026 ACC/AHA Guideline on the Management of Dyslipidemia](https://pubmed.ncbi.nlm.nih.gov/41824590): Clinical guideline on dyslipidemia, statin therapy, and lipid disorders
+- [Bleeding Risk with Apixaban vs. Rivaroxaban in Acute Venous Thromboembolism](https://pubmed.ncbi.nlm.nih.gov/41812192): RCT comparing bleeding risk between apixaban and rivaroxaban
+- [CRLF1 Secreted by Cardiac Fibroblasts Promotes Human Hypertrophic Cardiomyopathy](https://pubmed.ncbi.nlm.nih.gov/41838796): Research on CRLF1 signaling in hypertrophic cardiomyopathy pathogenesis
+- [Senescence-associated metabolic alterations aggravate calcific aortic valve disease](https://pubmed.ncbi.nlm.nih.gov/41841768): Study on NAD+ metabolism and inflammaging in aortic valve disease
+
+## Optional
+
+- [Disclaimer - PubMed](https://pubmed.ncbi.nlm.nih.gov/disclaimer): Legal disclaimer and content policy for PubMed and related databases

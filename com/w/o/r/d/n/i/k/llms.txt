@@ -1,30 +1,53 @@
-# Wordnik Developer
+# Wordnik
 
-> Developer platform providing RESTful API access to comprehensive dictionary data from American Heritage Dictionary, Century Dictionary, Wiktionary, WordNet, and more.
+> A comprehensive nonprofit dictionary platform and API providing word definitions, etymology, and community-driven language reference powered by multiple authoritative sources.
 
-Wordnik offers a robust language API with word definitions, synonyms, antonyms, pronunciations, and usage examples. The platform provides Swagger-documented endpoints and client libraries for multiple programming languages, enabling developers to integrate rich dictionary functionality into their applications.
+Wordnik combines crowdsourced word adoption with professional dictionary content from sources like The Century Dictionary, American Heritage Dictionary, and Wiktionary. The platform serves both casual word enthusiasts and developers through its public API and web interface.
 
 ## Key Topics
 
-- Wordnik API
-- RESTful API
-- Word definitions
-- American Heritage Dictionary of the English Language
-- Century Dictionary
+- word definitions
+- dictionary API
+- etymology
+- word adoption
+- nonprofit language reference
+- English language
+- word of the day
+- community contributions
+- dictionary sources
+- developer tools
+- The Century Dictionary
+- American Heritage Dictionary
 - Wiktionary
-- WordNet
-- Swagger documentation
-- Client libraries and SDKs
-- Synonyms and antonyms
-- Pronunciations
-- Language data
-- Developer tools
-- Open-source libraries
+- Creative Commons licensing
+- language learning
 
-## API Documentation
+## Getting Started
 
-- [Wordnik for Developers](https://developer.wordnik.com/): Developer hub for Wordnik API with RESTful access to word definitions
+- [Wordnik](https://wordnik.com): Wordnik homepage: nonprofit word dictionary and API platform
+- [About Wordnik](https://wordnik.com/about): About page explaining Wordnik's mission, sources, and nonprofit status
+- [Frequently Asked Questions](https://wordnik.com/faq): FAQ covering accounts, API usage, definitions, and troubleshooting
 
-## Client Libraries & SDKs
+## Word Reference & Definitions
 
-- [Wordnik Developer Libraries](https://developer.wordnik.com/libraries): Client libraries and SDKs for Wordnik API including Swagger support
+- [Word of the Day](https://wordnik.com/word-of-the-day): Daily word feature with definitions, etymology, and usage examples
+- [company - definition and meaning](https://wordnik.com/words/company): Word definition page for 'company' with multiple dictionary sources
+- [news - definition and meaning](https://wordnik.com/words/news): Word definition page for 'news' with multiple dictionary sources
+- [code - definition and meaning](https://wordnik.com/words/code): Word definition page for 'code' with multiple dictionary sources
+- [et cetera - definition and meaning](https://wordnik.com/words/et%20cetera): Word definition page for 'et cetera' with etymology and synonyms
+
+## Community & Engagement
+
+- [Adopt a Word at Wordnik!](https://wordnik.com/adoptaword): Word adoption fundraising program supporting Wordnik's nonprofit mission
+- [Wordnik: Adopted Words](https://wordnik.com/adoptedwords): Showcase of community-adopted words and sponsors
+- [Wordnik Community](https://wordnik.com/community): Community hub featuring user comments, word discussions, and social features
+
+## News & Press
+
+- [Wordnik Press and Blog Mentions](https://wordnik.com/press): Press coverage and media mentions featuring Wordnik and founder Erin McKean
+
+## Legal & Policies
+
+- [Wordnik Terms of Service](https://wordnik.com/terms): Legal terms of service for Wordnik website and API usage
+- [Wordnik's Privacy Policy](https://wordnik.com/privacy): Privacy policy covering data collection and user information practices
+- [Wordnik's Colophon](https://wordnik.com/colophon): Attribution and sources for dictionary content and licensing information

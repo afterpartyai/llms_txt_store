@@ -1,31 +1,36 @@
 # Zillow
 
-> > Zillow is a leading real estate marketplace platform offering property search, home valuations, rental listings, mortgage services, and marketing tools for real estate professionals.
+> Zillow is a leading real estate platform offering home search, rental listings, mortgage services, and agent marketing tools powered by comprehensive property data and APIs.
 
-Zillow operates a comprehensive real estate ecosystem including consumer-facing search tools for buyers and renters, the Zillow Premier Agent platform for real estate professionals, and complementary brands like Trulia, StreetEasy, and Hotpads. The platform provides home value estimates (Zestimates), mortgage calculators, and lead generation services for agents.
+Zillow operates a comprehensive real estate ecosystem including its core marketplace, Premier Agent platform for agent lead generation, and APIs for mortgage rate data. The platform serves homebuyers, renters, agents, and lenders with integrated tools for property discovery, valuation, and transactions.
 
 ## Key Topics
 
-- Zillow
-- Zillow Premier Agent
+- Real Estate Marketplace
+- Premier Agent Platform
+- Lead Generation
+- Mortgage Rates API
+- Home Search
+- Property Values
+- Rental Listings
+- Agent Marketing
+- Buyer Connections
+- Mortgage Loans
 - Zillow Group
-- Property listings and search
-- Rental search and apartments
-- Home values and Zestimates
-- Mortgage services and calculators
-- Real estate agent marketing
-- Lead generation for agents
-- Trulia
-- StreetEasy
-- Hotpads
-- Zillow Flex
-- Buyer-agent connections
-- Real estate advertising
+- Apartment Rentals
+- Property Browse
+- Agent Tools
+- Real Estate Data
 
 ## Core Platform
 
-- [Zillow: Real Estate, Apartments, Mortgages & Home Values](https://www.zillow.com/): Zillow homepage for searching property listings, rentals, and home values
+- [Zillow: Real Estate, Apartments, Mortgages & Home Values](https://www.zillow.com/): Zillow's main real estate marketplace for searching homes, rentals, mortgages and property values
 
-## Real Estate Professional Tools
+## Agent Platform & Tools
 
-- [Zillow Premier Agent](https://premieragent.zillow.com/): Zillow Premier Agent platform connecting real estate agents with buyers
+- [Zillow Premier Agent](https://premieragent.zillow.com/): Zillow Premier Agent platform connects agents with buyers via lead generation and marketing tools
+- [Premier Agent App](https://premieragent.zillow.com/crm/video-walkthrough): Video walkthrough guide demonstrating Premier Agent app features for real estate agents
+
+## API Reference
+
+- [getCurrentRates](https://mortgageapi.zillow.com/api/getCurrentRates): API endpoint for querying current mortgage rates via Zillow's mortgage API

@@ -1,51 +1,40 @@
 # LobeHub
 
-> > LobeHub is an AI agent collaboration platform where you can discover, build, and deploy intelligent agents with multimodal workflow automation.
+> LobeHub is an AI Agent platform for discovering, building, and collaborating on intelligent assistants with support for multiple models and marketplace integrations.
 
-LobeHub provides a comprehensive marketplace and development environment for AI agents, featuring integrations with ChatGPT, Claude, Gemini, DeepSeek-OCR, and MCP (Model Context Protocol). The platform offers agent skills, workflow automation, knowledge base management, and a complete design system through Lobe UI, Icons, Charts, and TTS components.
+LobeHub provides a comprehensive ecosystem for AI agent development, featuring marketplaces for agents, skills, and MCP servers, along with cloud infrastructure for team collaboration. The platform supports leading AI models including Claude, GPT, Gemini, and DeepSeek with flexible pricing and multi-platform availability.
 
 ## Key Topics
 
 - AI Agents
 - Agent Marketplace
-- Agent Builder
+- Skills Marketplace
 - MCP (Model Context Protocol)
-- DeepSeek-OCR
-- ChatGPT
-- Multimodal Workflow Automation
-- Skills Integration
-- Knowledge Base (RAG)
-- Lobe UI Design System
-- Agent Collaboration
-- Image Generation
+- Multi-Agent Systems
+- Claude
+- GPT
+- DeepSeek
+- LobeHub Cloud
 - Workflow Automation
-- OIDC Authentication
-- ZenMux
+- AI Collaboration
+- Agent Builder
+- Compute Credits
+- Model Pricing
+- Team Collaboration
 
-## Getting Started
+## Core Platform
 
-- [Homepage (Traditional Chinese)](https://lobehub.com/zh-TW/home): Homepage: Find, build & collaborate with AI agents featuring DeepSeek-OCR
-- [Homepage (Japanese)](https://lobehub.com/ja): Japanese homepage for AI agent collaboration with DeepSeek-OCR & MCP
-- [Homepage (Bulgarian)](https://lobehub.com/bg): Bulgarian homepage for agent marketplace with DeepSeek-OCR & MCP support
-- [Homepage (German)](https://lobehub.com/de): German homepage for AI agent platform with multimodal workflow automation
+- [LobeHub Homepage](https://lobehub.com): LobeHub homepage: AI Agent platform for discovery, building, and team collaboration
+- [Agent Marketplace](https://lobehub.com/agent): LobeHub Agent marketplace: discover, customize, and deploy AI assistants
+- [Skills Marketplace](https://lobehub.com/skills): LobeHub Skills marketplace for AI coding assistants with SKILL.md format
+- [MCP Servers Marketplace](https://lobehub.com/mcp): LobeHub MCP marketplace: Model Context Protocol servers for Agent systems
 
-## Agent Marketplace
+## Pricing & Access
 
-- [Agent Marketplace (Korean)](https://lobehub.com/ko/agent): Korean agent marketplace for writing, Q&A, images, video & workflows
+- [Plans & Pricing](https://lobehub.com/pricing): LobeHub pricing plans with compute credits, free trial, and multi-model support
+- [Model Pricing](https://lobehub.com/docs/usage/subscription/model-pricing): LobeHub Cloud AI model pricing: GPT, Claude, Gemini token costs and billing
+- [Download LobeHub](https://lobehub.com/downloads): LobeHub desktop and mobile app downloads for macOS, Windows, Linux, iOS, Android
 
-## Skills & Extensions
+## Legal & Privacy
 
-- [Agent Skills Marketplace](https://lobehub.com/pt-BR/skills): Skills marketplace for Claude Code, Codex CLI & ChatGPT using SKILL.md
-
-## Pricing & Plans
-
-- [Pricing Plans](https://lobehub.com/pl/pricing): Pricing plans with GPT-4o mini, Claude 3.5 Sonnet & Gemini credits
-
-## Developer Resources
-
-- [Resources & Documentation](https://lobehub.com/ko/resources): Docs, guides & community resources for Lobe UI, Icons, Charts & TTS
-
-## Optional
-
-- [Changelog (Turkish)](https://lobehub.com/tr/changelog): Track new features, fixes & improvements with MCP, ZenMux & more
-- [Changelog (Vietnamese)](https://lobehub.com/vi-VN/changelog): Vietnamese changelog with MCP, ZenMux & Qiniu Cloud updates
+- [Privacy Policy](https://lobehub.com/privacy): LobeHub privacy policy covering data collection and cloud synchronization

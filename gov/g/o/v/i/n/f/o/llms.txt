@@ -1,29 +1,50 @@
 # GovInfo
 
-> > Official repository of federal government documents published by the U.S. Government Publishing Office (GPO), providing free public access to presidential papers, Congressional Record, and official publications.
+> GovInfo is the Government Publishing Office's (GPO) official digital repository providing free, authenticated access to legislative, executive, and judicial branch documents.
 
-GovInfo serves as the digital archive maintained by GPO in partnership with the National Archives and Records Administration (NARA) and the Office of the Federal Register. The platform provides authenticated access to historical and current government documents including presidential addresses, congressional proceedings, and federal regulations.
+GovInfo serves as the successor to FDsys and is the authoritative source for federal government information including Congressional publications, the Federal Register, Code of Federal Regulations, and agency submissions. The platform emphasizes digital preservation, public access, and authenticated document delivery.
 
 ## Key Topics
 
-- U.S. Government Publishing Office (GPO)
-- Congressional Record
-- Presidential Documents and Public Papers
-- Office of the Federal Register
-- National Archives and Records Administration (NARA)
-- State of the Union Addresses
-- Presidential Archives (Trump, Biden, Obama, Hoover administrations)
-- House of Representatives and Senate Proceedings
-- Compilation of Presidential Documents
-- White House Press Secretary Records
-- Joint Sessions of Congress
-- Federal Government Documents
-- Authenticated Government Publications
+- GovInfo
+- Government Printing Office (GPO)
+- Congress
+- Federal Register
+- Congressional Serial Set
+- Digital Preservation
+- Public Access
+- API Access
+- Bulk Data Repository
+- Document Authentication
+- FDLP
+- Government Documents
+- FDsys Transition
+- ISO 16363
+- Code of Federal Regulations
 
-## Presidential Documents
+## Getting Started
 
-- [State of the Union](https://www.govinfo.gov/features/state-of-the-union): Presidential State of the Union addresses archive with Congressional Record
+- [About Us](https://govinfo.gov/about): Overview of GovInfo service, GPO mission, and transition from FDsys
+- [U.S. Government Information](https://govinfo.gov/about/us-gov-info): Overview of legislative, executive, and judicial branches of federal government
+- [Browse by A to Z](https://govinfo.gov/browse-a-z): Alphabetical index for discovering government documents and congressional publications
+
+## Developer Resources & APIs
+
+- [Developer Hub](https://govinfo.gov/developers): API documentation, bulk data access, and developer resources for GovInfo
+- [System Design and Documentation](https://govinfo.gov/developers/system-design): Technical specifications and architecture documentation for GovInfo platform
+- [RSS Feeds](https://govinfo.gov/feeds): RSS feed subscriptions for GovInfo collections and recent document updates
+- [Sitemaps](https://govinfo.gov/sitemaps): XML sitemaps for web crawling and content harvesting from GovInfo
+
+## Content & Preservation
+
+- [Digital Preservation](https://govinfo.gov/about/digital-preservation): Digital stewardship practices, ISO 16363 certification, and archival standards
+- [Agency Submission](https://govinfo.gov/about/agency-submission): Instructions for federal agencies to submit content for preservation and access
+
+## Policies & Reference
+
+- [Policies](https://govinfo.gov/about/policies): Digital dissemination, preservation, copyright, privacy, and accessibility policies
+- [Authentication](https://govinfo.gov/about/authentication): Guide to digital signatures and PDF document authentication verification
 
 ## Optional
 
-- [Page Not Found](https://analytics.govinfo.gov/): 404 error page with GPO contact instructions for reporting issues
+- [History](https://govinfo.gov/about/history): Timeline of GovInfo and GPO's online government information access evolution

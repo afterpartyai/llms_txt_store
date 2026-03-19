@@ -1,46 +1,37 @@
 # roadmap.sh
 
-> > Community-driven platform providing step-by-step learning roadmaps for developers across multiple programming languages, frameworks, and career paths.
+> Community-driven learning roadmaps and career guides for developers across all specializations and skill levels.
 
-roadmap.sh offers comprehensive visual guides for mastering technologies like JavaScript, Python, React, Node.js, and more, with AI tutor support and hands-on projects. The platform serves beginners and experienced developers looking to advance their careers in web development, backend engineering, database management, and other technical roles.
+roadmap.sh provides structured, step-by-step learning paths for various developer roles including frontend, backend, full stack, DevOps, data analytics, and AI engineering. The platform helps developers navigate their career progression with technology-focused guides covering languages like JavaScript, Python, Java, and frameworks like React and Vue.
 
 ## Key Topics
 
 - JavaScript
 - Python
-- Node.js
-- React
-- TypeScript
-- HTML/CSS
-- PostgreSQL
-- Redis
-- GitHub
-- Go
-- Rust
 - Java
-- PHP
-- Backend Development
-- Web Development
+- React
+- Vue
+- HTML/CSS
+- DevOps
+- Machine Learning
+- Career Guide
+- Learning Path
+- Skill Development
+- Developer Roadmap
+- Full Stack Development
+- AI Engineer
+- PostgreSQL
 
-## Core Resources
+## Core Developer Roadmaps
 
-- [Developer Roadmaps - roadmap.sh](https://roadmap.sh): Homepage: community-driven roadmaps for developers across multiple roles
-- [Developer Roadmaps](https://roadmap.sh/roadmaps): Directory of all roadmaps: role-based, skill-based, and language paths
-- [Developer Roadmaps](https://roadmap.sh/get-started): Getting started guide with AI tutor and beginner-friendly roadmaps
-- [Guides - roadmap.sh](https://roadmap.sh/guides): Collection of tutorials, comparisons, and programming guides
+- [Developer Roadmaps - roadmap.sh](https://roadmap.sh): Community-driven roadmaps and guides for Frontend, Backend, Full Stack, DevOps.
+- [Frontend Developer Roadmap](https://roadmap.sh/frontend): Step-by-step guide to becoming a modern frontend developer with HTML, CSS, JavaScript.
+- [Backend Developer Roadmap](https://roadmap.sh/backend): Step-by-step guide to backend development covering Python, Java, Ruby, PHP.
+- [Full Stack Developer Roadmap](https://roadmap.sh/full-stack): Full stack developer learning path covering frontend and backend technologies.
 
-## Career Path Roadmaps
+## Specialized Career Paths
 
-- [Backend Developer Roadmap: What is Backend Development](https://roadmap.sh/backend): Backend developer roadmap covering server-side languages and APIs
-- [BI Analyst](https://roadmap.sh/bi-analyst): Business Intelligence Analyst career roadmap with projects
-
-## Technology & Language Guides
-
-- [Learn Git and GitHub](https://roadmap.sh/git-github): Step-by-step guide to learning Git and GitHub version control in 2026
-- [SQL Roadmap](https://roadmap.sh/sql): Step-by-step SQL learning guide for 2026 with AI tutor support
-- [HTML Roadmap: Master HTML](https://roadmap.sh/html): Step-by-step HTML learning guide with projects and AI tutor
-- [Redis Roadmap](https://roadmap.sh/redis): Step-by-step Redis database learning guide for 2026
-
-## Optional
-
-- [GO.ROADMAP.SH - A Dub Custom Domain | Dub](https://go.roadmap.sh): Custom short domain powered by Dub link management platform
+- [DevOps Roadmap](https://roadmap.sh/devops): Career guide for DevOps engineers and SREs covering CI/CD and operations roles.
+- [AI Engineer Roadmap](https://roadmap.sh/ai-engineer): Career guide for AI engineers covering machine learning, NLP, and computer vision.
+- [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist): Learning path for AI and data scientists covering machine learning and data analysis.
+- [Data Analyst Roadmap](https://roadmap.sh/data-analyst): Learning path for data analysts covering Power BI, Excel, and data visualization.

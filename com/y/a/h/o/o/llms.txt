@@ -1,41 +1,62 @@
 # Yahoo
 
-> > Yahoo is a comprehensive digital media platform providing news, finance, search, entertainment, and personalized services to millions of users worldwide.
+> > Yahoo is a comprehensive digital media and services platform offering news, finance, search, sports, shopping, health, and entertainment content with real-time market data and trending information.
 
-Yahoo serves as a major internet portal offering real-time news coverage on global events (Iran, TSA, China-Taiwan relations), financial market data through Yahoo Finance (Federal Reserve, stock quotes), celebrity entertainment, sports updates, and integrated web services. The platform aggregates breaking news, market analysis, and multimedia content across politics, business, and popular culture.
+Yahoo serves as a major aggregator of breaking news, financial market data, and lifestyle content, featuring live stock quotes, sports coverage, weather forecasts, and entertainment updates. The platform integrates multiple verticals including Yahoo Finance (stock market and business news), Yahoo Sports (fantasy games and live scores), Yahoo News (breaking headlines), and specialized sections for health, tech, shopping, and entertainment.
 
 ## Key Topics
 
-- Yahoo Finance
-- Breaking News & Current Events
-- Stock Market & Market Data
-- Iran & World Politics
-- Federal Reserve & Powell
-- TSA & Domestic News
-- China-Taiwan Relations
-- Celebrity Entertainment
-- Web Search & Yahoo Scout
-- Product Directory
-- Real-time Quotes
-- News Aggregation
-- Sports Coverage
-- Weather Updates
+- stock-market-live
+- breaking-news
+- market-indices
+- trending-stories
+- financial-news
+- politics
+- news-aggregator
+- product-reviews
+- entertainment
+- health-wellness
+- S&P 500
+- Federal Reserve
+- business-news
+- commodity-prices
+- personalized-feed
 
-## Core Services
+## Core Platforms
 
-- [Yahoo Homepage](https://www.yahoo.com/): Main portal with news aggregation, mail, weather, search, politics, finance, sports, and multimedia content
-- [Yahoo News](https://news.yahoo.com/?fr=sycsrp_catchall): Breaking news hub covering global events including TSA, Iran, Federal Reserve, and world headlines with live updates
-- [Yahoo Finance](https://finance.yahoo.com/?fr=sycsrp_catchall): Comprehensive stock market platform with live quotes, business news, Federal Reserve updates, and financial analysis
-- [Yahoo Search](https://us.search.yahoo.com/;_ylt=AwrgxTjFRrVpRAIA7AdXNyoA;_ylu=Y29sbwNncTEEcG9zAzQEdnRpZAMEc2VjA3Ny): Web search engine featuring Yahoo Scout, Flickr integration, and trending search queries
+- [Yahoo Homepage](https://www.yahoo.com): Yahoo homepage with news, mail, weather, search, finance, sports & entertainment
+- [Yahoo News](https://www.yahoo.com/news): Breaking news, headlines, live updates on politics, business, world, and trending topics
+- [Yahoo Search](https://search.yahoo.com): Yahoo Search engine with web search, voice search, and trending searches
 
-## Finance & Market Data
+## Finance & Markets
 
-- [Symbol Lookup](https://finance.yahoo.com/lookup?s=ERI): Stock ticker symbol search tool for companies including Adobe, Bitcoin, Block Inc., and Ulta Beauty
+- [Yahoo Finance](https://finance.yahoo.com): Stock quotes, market data, indices (S&P 500, Dow, Nasdaq), and financial news
+- [Stock Market Today: Dow, S&P 500, Nasdaq Amid Inflation Worries](https://www.yahoo.com/finance/news/live/stock-market-today-dow-sp-500-nasdaq-slide-amid-inflation-worries-as-iran-war-sends-oil-surging-133439504.html): Market analysis: Dow, S&P 500, Nasdaq decline amid inflation and oil price surge
+- [Powell on Stagflation Concerns](https://www.yahoo.com/finance/news/plenty-to-worry-about-but-not-stagflation-says-powell-100025342.html): Fed Chair Powell on stagflation concerns, inflation, and monetary policy outlook
 
-## Entertainment & Lifestyle
+## Sports & Entertainment
 
-- [Celebrity News](https://celebrity.yahoo.com/): Latest celebrity headlines covering Hollywood, relationships, fashion, and entertainment news featuring Kerry Washington, J.Lo, and awards coverage
+- [Yahoo Sports](https://sports.yahoo.com): Live scores, fantasy games, March Madness, NCAA coverage, and sports news
+- [Yahoo Entertainment](https://www.yahoo.com/entertainment): TV, movies, music, celebrity news, interviews, and trailers
 
-## Reference & Directory
+## Lifestyle & Wellness
 
-- [Yahoo Everything](https://www.yahoo.com/all/): Complete directory and catalog of all Yahoo products and integrated services including LastPass and McAfee
+- [Yahoo Health](https://health.yahoo.com): Fitness, nutrition, sleep, wellness, and health product reviews
+- [Yahoo Life](https://www.yahoo.com/lifestyle): Health, wellness, fashion, beauty, lifestyle and trending topics
+- [Yahoo Creators](https://creators.yahoo.com): Community of creative voices: recipes, travel, parenting, DIY, lifestyle content
+
+## Shopping & Technology
+
+- [Yahoo Shopping](https://shopping.yahoo.com): Deals, product reviews, clothing, beauty, home, tech sales and comparisons
+- [Yahoo Tech](https://tech.yahoo.com): Technology news, product reviews, smartphones, AI, gaming updates and trends
+
+## News & Trending
+
+- [Yahoo Trends 100](https://www.yahoo.com/trending): Real-time trending stories and topics across news, politics, entertainment
+- [Strait of Hormuz Disruption Analysis](https://www.yahoo.com/news/articles/strait-hormuz-disrupted-look-past-220854193.html): Geopolitical analysis: Strait of Hormuz disruption risks and global oil supply
+- [House Democrats Briefing on Epstein Files](https://www.yahoo.com/news/articles/house-democrats-walk-tense-briefing-035619651.html): Political news: House Democrats, AG Pam Bondi, Epstein investigation briefing
+- [Trump's Iran Diplomacy Strategy](https://www.yahoo.com/news/articles/trumps-failed-strong-arming-allies-140609996.html): Political analysis: Trump's Iran policy and US-allies diplomacy tensions
+
+## Optional
+
+- [Yahoo Weather](https://www.yahoo.com/news/weather): Weather forecast, conditions, hourly and 8-day forecasts for locations

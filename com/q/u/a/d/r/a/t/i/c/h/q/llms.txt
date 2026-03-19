@@ -1,61 +1,57 @@
 # Quadratic
 
-> > Quadratic is an AI-powered spreadsheet platform that combines Python, SQL, and JavaScript with traditional formulas for advanced data analysis and visualization.
+> Quadratic is an AI-powered spreadsheet platform that combines Python, SQL, and JavaScript for advanced data analysis, visualization, and automation.
 
-Quadratic enables data professionals to perform sophisticated analysis using code-based spreadsheets with native support for databases, APIs, and AI assistance. The platform offers templates for finance, healthcare, marketing analytics, and more, while providing educational content on data analysis techniques and AI-powered workflows.
+Quadratic enables teams to perform complex data analytics, build interactive dashboards, and automate workflows using multiple programming languages within a collaborative spreadsheet interface. It integrates with popular data sources like PostgreSQL, Google Analytics, and Mixpanel, serving business intelligence, product management, sales, and marketing use cases.
 
 ## Key Topics
 
-- Quadratic AI
-- Python
-- SQL
-- JavaScript
-- Data analysis
-- Spreadsheet formulas
-- API integration
-- Stock and revenue analysis
-- Financial forecasting
-- Database visualization
-- AI-powered analysis
-- Healthcare analytics
-- Funnel analysis
-- Sensitivity analysis
-- Excel and CSV compatibility
+- AI Spreadsheet
+- Python Integration
+- SQL Queries
+- Data Visualization
+- JavaScript Support
+- Dashboard Builder
+- Data Analysis
+- API Integration
+- Automation & Scheduled Tasks
+- Multi-language Support
+- Business Intelligence
+- Team Collaboration
+- Enterprise Security
+- PDF Data Import
+- Analytics Connections
 
-## Core Platform Features
+## Core Platform
 
-- [Spreadsheet Formulas: Modern Formula Experience in Quadratic](https://www.quadratichq.com/formulas): AI-powered formulas with multi-line editing, Python, SQL, JavaScript support
+- [Quadratic: The AI Spreadsheet](https://www.quadratichq.com): Quadratic AI spreadsheet for data analysis with Python, SQL integration
+- [Quadratic: The Python Spreadsheet](https://www.quadratichq.com/python): Native Python code cells with APIs, charts, and SQL support
+- [SQL Spreadsheet: Run Queries and Analyze Data | Quadratic](https://www.quadratichq.com/sql-client): SQL client for databases like PostgreSQL, MySQL, Snowflake
+- [The JavaScript Spreadsheet | Quadratic](https://www.quadratichq.com/javascript): JavaScript spreadsheet with native code execution and charting
+- [Spreadsheet Formulas: Modern Formula Experience in Quadratic](https://www.quadratichq.com/formulas): AI-assisted formulas with Python, SQL, and JavaScript support
 
-## Data Analysis & Visualization Guides
+## AI Features & Analytics
 
-- [Why Every Data Pro Should use a Database Visualization Tool](https://www.quadratichq.com/blog/why-you-need-a-database-visualization-tool-and-how-quadratic-helps): Compare database visualization tools and Quadratic's SQL/Python approach
-- [The Best Coding Spreadsheets for Faster, Better Analysis](https://www.quadratichq.com/blog/the-best-coding-spreadsheets-for-faster-better-analysis): Compare coding in Excel, Google Sheets, and Quadratic for data analysis
-- [SQL data analytics: Build Trustworthy, Repeatable Insights](https://www.quadratichq.com/blog/build-trustworthy-repeatable-data-analysis-using-sql): Best practices for SQL data validation and repeatable analysis workflows
-- [Funnel Analysis 101: From Signup to Activation (and Beyond)](https://www.quadratichq.com/blog/funnel-analysis-from-signup-to-activation-and-beyond): Measure conversion funnels and user progression with SQL templates
-- [What is Sensitivity Analysis? Evaluating Risk and Uncertainty](https://www.quadratichq.com/blog/what-is-sensitivity-analysis-evaluating-risk-and-uncertainty): Guide to sensitivity analysis, Monte Carlo simulation, and risk evaluation
-- [Logistic Regression vs Linear Regression: When to Use Which](https://www.quadratichq.com/blog/logistic-regression-vs-linear-regression-when-to-use-which-approach): Compare linear vs logistic regression for continuous vs categorical outcomes
+- [AI Analysis: Powerful Analytics with Spreadsheet AI | Quadratic](https://www.quadratichq.com/ai/analysis): AI-driven analytics with Python, SQL, and real-time visualization
+- [AI Chart Generator | Quadratic](https://www.quadratichq.com/ai/charts): AI chart generator for data visualization in spreadsheet interface
+- [Import Data from PDFs with AI | Quadratic](https://www.quadratichq.com/ai/pdf-import): AI-powered PDF data extraction and import into spreadsheets
+- [AI Research | Quadratic](https://www.quadratichq.com/ai/research): AI research assistant for dataset generation and analysis
+- [Scheduled Tasks: Automate Spreadsheet Updates | Quadratic](https://www.quadratichq.com/ai/scheduled-tasks): Automated spreadsheet updates and data refresh from APIs/databases
 
-## Financial Analysis & Stock Research
+## Data Connections & Integrations
 
-- [Alphabet (GOOGL) revenue analysis | Quadratic](https://www.quadratichq.com/finance/googl/revenue): AI-powered Alphabet (GOOGL) revenue analysis with competitor comparisons
-- [Accenture (ACN) revenue analysis | Quadratic](https://www.quadratichq.com/finance/acn/revenue): AI-powered Accenture (ACN) revenue analysis and stock performance tracking
-- [The Walt Disney (DIS) revenue analysis | Quadratic](https://www.quadratichq.com/finance/dis/revenue): AI-powered Disney (DIS) revenue analysis and financial performance tracking
+- [PostgreSQL Data Analytics | Quadratic](https://www.quadratichq.com/connections/postgresql-db): PostgreSQL integration for data analysis and visualization
+- [Google Analytics Spreadsheet | Quadratic](https://www.quadratichq.com/connections/google-analytics): GA4 integration for analytics dashboards and automated reporting
+- [Mixpanel Data Analytics | Quadratic](https://www.quadratichq.com/connections/mixpanel): Mixpanel integration for product analytics and dashboard building
+- [Plaid Personal Finance Analytics | Quadratic](https://www.quadratichq.com/connections/plaid): Plaid integration for personal finance tracking and dashboards
 
-## Templates & Use Cases
+## Industry Solutions
 
-- [Meta Ads API Analytics Template | Quadratic](https://www.quadratichq.com/templates/meta-ads-api-analytics-template): Auto-fetch Meta Ads metrics via API with Python for ROI tracking
-- [Sales Quota Calculator | Quadratic](https://www.quadratichq.com/templates/sales-quota-calculator): Visualize sales quota attainment, pipeline health, and rep performance
-- [Gym Management Dashboard | Quadratic](https://www.quadratichq.com/templates/gym-management-dashboard): Real-time gym analytics: member demographics, peak hours, multi-location data
-- [Home Remodel Budget Template | Quadratic](https://www.quadratichq.com/templates/home-remodel-budget-template): Track renovation costs vs estimates with interactive Gantt charts
-- [Medication Log Template | Quadratic](https://www.quadratichq.com/templates/medication-log-template): Track medication adherence with interactive heatmaps and dosage logs
-- [2's Complement Calculator | Quadratic](https://www.quadratichq.com/templates/2s-complement-calculator): Convert decimal/binary/hex and perform signed arithmetic calculations
+- [Business Intelligence Spreadsheet | Quadratic](https://www.quadratichq.com/solutions/business-intelligence): Modern BI solution with AI, code, and collaborative visualizations
+- [Quadratic for Product Managers](https://www.quadratichq.com/solutions/product-management): Product analytics platform with AI-generated SQL and dashboards
+- [The AI Spreadsheet for Sales | Quadratic](https://www.quadratichq.com/solutions/sales): Sales analytics with custom reports and secure data sharing
+- [Quadratic for Marketing Teams](https://www.quadratichq.com/solutions/marketing): Marketing analytics integrating GA4, Python, and SQL analysis
 
-## AI & Innovation
+## Pricing & Plans
 
-- [Quadratic AI Now Supports AI Formatting](https://www.quadratichq.com/blog/quadratic-ai-now-supports-formatting): Feature announcement: Quadratic AI now applies formatting automatically
-- [The Importance of AI Data Analysis in Healthcare](https://www.quadratichq.com/blog/the-importance-of-ai-data-analysis-in-healthcare): How AI data analysis improves patient outcomes and healthcare operations
-- [Math AI: How AI is Changing the Way we Solve Problems](https://www.quadratichq.com/blog/math-ai-how-ai-is-changing-the-way-we-solve-problems): How Math AI transforms problem-solving and personalized learning
-
-## Optional
-
-- [Full tool scope for spreadsheet AI and other changes](https://www.quadratichq.com/changelog/new-tools-for-agentic-ai): Changelog: Full AI agent tool support, Excel import, SQL filtering updates
+- [Quadratic Pricing Plans: Free, Pro, and Business](https://www.quadratichq.com/pricing): Pricing plans and subscription tiers for Quadratic platform

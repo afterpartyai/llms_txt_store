@@ -1,42 +1,44 @@
 # HyperPhysics
 
-> > A comprehensive physics reference covering electromagnetism, optics, nuclear physics, relativity, and thermodynamics with interactive concept maps.
+> A comprehensive physics reference resource covering classical mechanics, electromagnetism, quantum mechanics, relativity, and optics with interactive educational content.
 
-HyperPhysics is an educational resource developed by R Nave at Georgia State University, providing interconnected explanations of physics concepts from classical mechanics to modern physics. The site uses hierarchical concept maps to help students and educators navigate fundamental laws including Coulomb's law, Gauss' law, Snell's Law, and the Lorentz transformation.
+HyperPhysics is an educational physics website maintained by Georgia State University that provides reference materials and explanations of fundamental physics concepts. It serves as a learning resource for students and educators exploring classical and modern physics topics through detailed concept maps and cross-referenced materials.
 
 ## Key Topics
 
-- Electromagnetism and electric fields
-- Coulomb's law and Gauss' law
-- Optics: refraction, Snell's Law, Huygens' principle
-- Special relativity and Lorentz transformation
-- Nuclear physics and shell model
+- Gauss' law
+- Coulomb's law
+- Electric field
+- Moment of inertia
+- Rotational motion
+- Angular momentum
+- Time dilation
+- Lorentz transformation
+- Wave-particle duality
+- Snell's Law
 - Lorentz force law
-- Pauli exclusion principle and fermions
-- Quantum mechanics: square well, harmonic oscillator
-- Point charges and electric permittivity
-- Magnetic permeability and electromagnetic constants
-- Kinetic theory and diffusion
-- Wave optics and light bending
-- Physics fundamentals and classical laws
+- Quantum mechanics
+- Special relativity
+- Electromagnetism
+- Optics
 
-## Electromagnetism
+## Electromagnetism & Field Theory
 
-- [Electric field](http://hyperphysics.phy-astr.gsu.edu/hbase/electric/elefie.html): Electric field fundamentals with Coulomb's, Gauss', and Lorentz force laws
-- [Electric Field, Spherical Geometry](http://hyperphysics.phy-astr.gsu.edu/hbase/electric/elesph.html): Spherical electric fields using Gauss' law and Coulomb's law
+- [Electric field](http://hyperphysics.phy-astr.gsu.edu/hbase/electric/elefie.html): Electric field reference covering Coulomb's law, Gauss' law, and field theory
+- [Electric Field, Spherical Geometry](http://hyperphysics.phy-astr.gsu.edu/hbase/electric/elesph.html): Electrostatics reference for spherical electric fields using Gauss' law and Coulomb's law
 
-## Relativity
+## Quantum Mechanics & Modern Physics
 
-- [Time dilation/length contraction](http://hyperphysics.phy-astr.gsu.edu/hbase/Relativ/tdil.html): Special relativity effects via Lorentz transformation and proper time
+- [Wave nature of electron](http://hyperphysics.phy-astr.gsu.edu/hbase/Bohr.html): Quantum mechanics reference on electron wave nature, Bohr model, and DeBroglie wavelength
 
-## Optics
+## Relativity & Spacetime
 
-- [Refraction of Light](http://hyperphysics.phy-astr.gsu.edu/hbase/geoopt/refr.html): Light refraction principles covering Snell's Law and Huygens' principle
+- [Time dilation/length contraction](http://hyperphysics.phy-astr.gsu.edu/hbase/Relativ/tdil.html): Special relativity reference on time dilation and length contraction via Lorentz transformation
 
-## Nuclear Physics
+## Mechanics & Rotational Dynamics
 
-- [Shell Model of Nucleus](http://hyperphysics.phy-astr.gsu.edu/hbase/Nuclear/shell.html): Nuclear shell model explaining magic numbers and nucleon energy levels
+- [Moment of Inertia](http://hyperphysics.phy-astr.gsu.edu/hbase/mi.html): Reference guide to moment of inertia in rotational dynamics and angular momentum
 
-## Thermodynamics and Kinetic Theory
+## Optics & Wave Phenomena
 
-- [Diffusion and Osmosis](http://hyperphysics.phy-astr.gsu.edu/hbase/Kinetic/diffus.html): Molecular diffusion and osmosis in kinetic theory and biology
+- [Refraction of Light](http://hyperphysics.phy-astr.gsu.edu/hbase/geoopt/refr.html): Optical physics reference covering Snell's Law and light refraction principles

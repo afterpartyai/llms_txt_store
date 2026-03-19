@@ -1,64 +1,60 @@
 # w3resource
 
-> > Comprehensive programming tutorials, exercises, and solutions covering SQL, PostgreSQL, MySQL, JavaScript, Python, Swift, and data structures with hands-on practice problems.
+> Comprehensive web development tutorials covering HTML, CSS, JavaScript, and modern frameworks for building responsive, standards-compliant websites.
 
-w3resource is an educational platform providing extensive programming exercises and tutorials across databases (SQL, PostgreSQL, MySQL), programming languages (JavaScript, Python, Swift), data visualization (Matplotlib), testing frameworks (Mocha), and computer science fundamentals (data structures and algorithms). The site emphasizes practical, hands-on learning through structured exercises with solutions.
+w3resource provides beginner-friendly documentation and tutorials for core web technologies (HTML5, CSS, JavaScript) alongside modern frameworks (Angular, Vue.js), responsive design methodologies, and essential development tools. The site emphasizes practical learning with step-by-step guides and real-world examples.
 
 ## Key Topics
 
-- SQL database operations and queries
-- PostgreSQL transaction isolation levels
-- MySQL window functions and backups
-- JavaScript Promises and async/await
-- PL/pgSQL stored procedures and triggers
-- Database security and access control
-- Transaction control and concurrency
-- Data integrity and consistency
-- Python Matplotlib visualization
-- Data structures and algorithms (DSA)
-- Swift programming for iOS/macOS
-- Window functions (NTILE, running totals)
-- mysqldump backup strategies
-- Event handling and DOM manipulation
-- Row-level security (RLS)
+- HTML5
+- CSS
+- JavaScript
+- Responsive Design
+- Angular
+- Vue.js
+- Bootstrap
+- npm
+- Package Management
+- Web Development
+- Canvas
+- Schema.org
+- Testing Frameworks
+- CSS Frameworks
+- Web Standards
 
-## SQL and Database Fundamentals
+## Core Web Technologies
 
-- [Segment Data Using NTILE() in SQL for Quartile Analysis](https://www.w3resource.com/sql-exercises/sql-query-to-divide-employees-into-quartiles-based-on-their-salary-using-the-ntile-window-function.php): SQL tutorial on using NTILE() window function for quartile salary analysis
-- [Rollback a Failed Transaction in SQL for Data Consistency](https://www.w3resource.com/sql-exercises/sql-query-to-rollback-a-transaction-if-an-error-occurs-during-execution.php): SQL exercise on transaction rollback and error handling for data consistency
-- [Update Multiple Records in SQL Based on a Condition](https://www.w3resource.com/sql-exercises/sql-query-to-update-a-multiple-records-in-a-table-based-on-a-specific-condition.php): SQL exercise on conditional UPDATE statements for multiple records
-- [Grant EXECUTE Permission on a Stored Procedure in SQL](https://www.w3resource.com/sql-exercises/sql-query-to-grant-execute-permission-on-a-stored-procedure-to-a-user.php): SQL tutorial on granting EXECUTE permissions for stored procedures
-- [Implement Row-Level Security (RLS) in SQL](https://www.w3resource.com/sql-exercises/sql-query-to-implement-row-level-security-on-a-table.php): SQL Server and PostgreSQL tutorial on implementing row-level security policies
-- [Add a Unique Constraint to an SQL Column using ALTER TABLE](https://www.w3resource.com/sql-exercises/sql-query-to-add-a-unique-constraint-to-a-column-in-an-existing-table.php): SQL DDL tutorial on adding UNIQUE constraints with ALTER TABLE statement
+- [HTML tutorials - w3resource](https://www.w3resource.com/html/HTML-tutorials.php): HTML tutorials covering basics, elements, and structure for beginners
+- [CSS tutorials - w3resource](https://www.w3resource.com/css/CSS-tutorials.php): CSS tutorials on styling, selectors, and properties for web development
+- [JavaScript Tutorial - w3resource](https://www.w3resource.com/javascript/javascript.php): JavaScript tutorial covering client-side scripting and browser basics
+- [HTML5 tutorials - w3resource](https://www.w3resource.com/html5/introduction.php): HTML5 introduction covering new elements, tags, and APIs
+- [JavaScript Crash Course - w3resource](https://www.w3resource.com/course/javascript-course.html): JavaScript crash course covering basics, data types, and functions
 
-## PostgreSQL Advanced Topics
+## Frontend Frameworks & Libraries
 
-- [PostgreSQL - Set Transaction Isolation to SERIALIZABLE](https://www.w3resource.com/postgresql-exercises/postgresql-query-to-set-the-transaction-isolation-level-to-serializable-for-a-transaction.php): PostgreSQL exercise on setting SERIALIZABLE transaction isolation level
-- [PostgreSQL Isolation Levels Exercises for Transaction Control](https://www.w3resource.com/postgresql-exercises/isolation-levels-index.php): PostgreSQL exercises index on transaction isolation levels and control
-- [Master PostgreSQL Triggers with Stored Procedures for Data Management](https://www.w3resource.com/postgresql-exercises/using-triggers-with-stored-procedures-index.php): PostgreSQL exercises index on triggers and PL/pgSQL stored procedures
+- [Getting Started with Angular: Setup and First Project Guide](https://www.w3resource.com/angular/getting-started-with-angular.php): Angular setup guide and first project tutorial for beginners
+- [Installation Guide for Vue.js: Step-by-Step Tutorial](https://www.w3resource.com/vue/installation-guide.php): Vue.js installation and setup guide with step-by-step instructions
+- [Twitter Bootstrap Tutorial for beginners | w3resource](https://www.w3resource.com/twitter-bootstrap/tutorial.php): Bootstrap framework tutorial covering responsive design and components
+- [Introduction to Zurb Foundation 3 | w3resource](https://www.w3resource.com/zurb-foundation3/introduction.php): Zurb Foundation 3 responsive CSS framework introduction and overview
+- [Pure - responsive CSS modules,framework from Yahoo yui for your web projects](https://www.w3resource.com/pure/index.php): Pure CSS framework tutorial for responsive web design
 
-## MySQL Database Management
+## Responsive Design & Advanced HTML
 
-- [Calculate Running Total of Sales in MySQL with Window Functions](https://www.w3resource.com/mysql-exercises/mysql-query-to-calculate-the-running-total-of-sales-for-each-month-using-a-window-function.php): MySQL exercise on calculating running totals using window functions
-- [Full Database Backup using mysqldump](https://www.w3resource.com/mysql-exercises/mysql-command-to-back-up-an-entire-database-named-mydatabase-using-mysqldump.php): MySQL tutorial on full database backup using mysqldump command-line tool
-- [Compressed Database Backup using mysqldump](https://www.w3resource.com/mysql-exercises/mysql-command-to-back-up-the-mydatabase-database-and-compress-the-backup-file.php): MySQL guide on compressed database backups with mysqldump and gzip/bzip2
+- [Responsive Web Design Tutorial - w3resource](https://www.w3resource.com/responsive-web-design/overview.php): Responsive web design tutorial for cross-device compatibility
+- [HTML5 Canvas Tutorial for beginners - w3resource](https://www.w3resource.com/html5-canvas/index.php): HTML5 Canvas tutorial for 2D graphics and drawing shapes
+- [Schema.org Tutorial - w3resource](https://www.w3resource.com/schema.org/introduction.php): Schema.org tutorial on structured data and semantic web markup
 
-## JavaScript Programming
+## Development Tools & Package Management
 
-- [Create JavaScript Promises with setTimeout](https://www.w3resource.com/javascript-exercises/promises-and-async-await/promises-and-async-await-exercise-11.php): JavaScript exercise on creating Promises with setTimeout for async programming
-- [Handle Click Events using Event Delegation in JavaScript](https://www.w3resource.com/javascript-exercises/event/javascript-event-handling-exercise-11.php): JavaScript exercise on event delegation and DOM click event handling
-- [Introduction to Mocha](https://www.w3resource.com/mocha/getting-started.php): Getting started guide for Mocha JavaScript testing framework for Node.js
+- [Getting Started with npm: A Comprehensive Guide](https://www.w3resource.com/npm/npm-getting-started.php): npm package manager getting started guide and comprehensive tutorial
+- [Getting Started with Yarn: A Beginner's Guide](https://www.w3resource.com/yarn/getting-started-with-yarn.php): Yarn package manager beginner guide with installation and CLI commands
 
-## Programming Languages and Frameworks
+## Testing & Quality Assurance
 
-- [Swift Programming Exercises, Practice, Solution  - w3resource](https://www.w3resource.com/swift-programming-exercises): Swift programming exercises for iOS, macOS, and watchOS development practice
-- [Matplotlib: Exercises, Practice, Solution - w3resource](https://www.w3resource.com/graphics/matplotlib): Python Matplotlib exercises for data visualization and plotting practice
+- [Jest: JavaScript Testing Framework Overview](https://www.w3resource.com/jest/jest-testing-framework-introduction.php): Jest testing framework overview for JavaScript unit testing
+- [Introduction to Mocha](https://www.w3resource.com/mocha/getting-started.php): Mocha testing framework introduction for JavaScript and Node.js
 
-## Computer Science Fundamentals
+## Optional Resources
 
-- [Learn Data Structures and Algorithms (DSA)](https://www.w3resource.com/data-structures-and-algorithms/index.php): Comprehensive DSA tutorial covering fundamental data structures and algorithms
-
-## Optional
-
-- [Understanding AI Suite](https://www.w3resource.com/ai/ai-suite-tools.php): Beginner guide to AI Suite tools and integrated artificial intelligence platforms
-- [Challenges and impact of Data Center Technician Jobs](https://www.w3resource.com/data-center/challenges-impact-data-center-technicians.php): Career insights on data center technician roles, certifications, and challenges
+- [Icon Tutorial - w3resource](https://www.w3resource.com/icon/index.php): Icon tutorial covering Font Awesome and web icon fonts
+- [php.js tutorial - Use PHP functions in JavaScript - w3resource](https://www.w3resource.com/phpjs/use-php-functions-in-javascript.php): php.js library tutorial for using PHP functions in JavaScript

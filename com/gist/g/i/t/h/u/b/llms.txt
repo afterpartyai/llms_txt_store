@@ -1,29 +1,56 @@
 # GitHub Gist
 
-> > GitHub Gist is a simple way to share code snippets, notes, and files with version control and syntax highlighting.
+> GitHub Gist is a simple way to share code snippets, notes, and configurations with the community through version-controlled, shareable documents.
 
-GitHub Gist allows developers to share standalone code files, configuration scripts, documentation, and technical notes. Each gist can contain multiple files and supports Markdown rendering, making it useful for sharing examples, troubleshooting guides, and collaborative coding.
+GitHub Gist serves as a lightweight code sharing platform where developers can discover, fork, and collaborate on code snippets, templates, and documentation. The platform hosts diverse content ranging from smart home automation templates to AI integration guides and technical references.
 
 ## Key Topics
 
-- Code snippets
-- Version control
-- Syntax highlighting
-- Markdown support
-- File sharing
-- Collaboration
-- GitHub integration
-- Public and private gists
-- Embedded gists
-- Git repository
-- Developer tools
-- Configuration files
-- Technical documentation
+- code-sharing
+- code-snippets
+- gist-discovery
+- community-contributions
+- GitHub Gist
+- version-control
+- starred-gists
+- smart-home-automation
+- Claude Skills
+- Azure telemetry
+- Manim MCP
+- Home Assistant
+- code-templates
+- gist-repository
+- developer-tools
+
+## Core Discovery & Navigation
+
+- [GitHub Gist Homepage](https://gist.github.com): GitHub Gist homepage for discovering and sharing code snippets
+- [Discover Gists](https://gist.github.com/discover): Discover gists page showcasing community code sharing contributions
+- [Starred Gists](https://gist.github.com/starred): Browse starred gists across GitHub community with code snippets
+- [Forked Gists](https://gist.github.com/forked): View forked gists with version control and code sharing features
+
+## Getting Started
+
+- [Sign Up for GitHub](https://gist.github.com/join): GitHub account registration and sign-up page with features overview
+
+## Featured Guides & References
+
+- [Complete Guide to Building Claude Skills](https://gist.github.com/liskl/269ae33835ab4bfdd6140f0beb909873): Complete guide to building Claude Skills with YAML reference and fundamentals
+- [Manim MCP Integration Setup](https://gist.github.com/AndrewAltimit/c437c9fbc9a72271969127fcbf935561): Manim MCP integration setup guide for mathematical animations
+- [Home Assistant Dashboard Templates](https://gist.github.com/EverythingSmartHome/13f14c328669f72eee717752069a0398): Home Assistant dashboard templates with Jinja2 sensor configurations
+- [Azure Skills Telemetry Reference](https://gist.github.com/saikoumudi/8b19b6dbcea4ece9eccc35bb42706096): Azure Skills Plugin telemetry tracking and usage metrics reference
+
+## Creator Profiles
+
+- [EverythingSmartHome's Gists](https://gist.github.com/EverythingSmartHome): EverythingSmartHome's collection of smart home automation gists
+- [AndrewAltimit's Gists](https://gist.github.com/AndrewAltimit): AndrewAltimit's gists on AI policy research and security analysis
+- [saikoumudi's Gists](https://gist.github.com/saikoumudi): saikoumudi's gists featuring Azure telemetry and AI coding tools
 
 ## Optional
 
-- [Office 2021 Pro Plus Product Key](https://gist.github.com/arshadkh507/1f9f6d33ddfffa143f4b318128ae25e7): User gist sharing Microsoft Office 2021 Pro Plus product keys
-- [Resets CRYPTO pro trial period](https://gist.github.com/alexanykey/9d7cf6c691ff0ef36268bb2d370d8478): User gist with Windows Registry hack to reset CRYPTO Pro trial period
-- [Disk Drill Pro 5.5.900.0 Crack 2024 With Activation Code [Latest]](https://gist.github.com/ervenpaltok/29db009183c31d262192e500f21939b0): User gist sharing Disk Drill Pro crack and activation code
-- [Исправление ошибки обнаружения WiFi сети 5GHz на роутерах Mikrotik](https://gist.github.com/nskforward/7684e1c3bb4a8fd8e280c39910d7ef8a): User gist troubleshooting Mikrotik RouterOS 5GHz WiFi detection issues
-- [Download IBM SPSS Statistics 30.1 Crack With License Code [Updated 2024]](https://gist.github.com/Amrashrafa/a5251e2bfe0001203b5ffd41a18de089): User gist sharing IBM SPSS Statistics 30.1 crack and license code
+- [Home Assistant Templates - Forks](https://gist.github.com/EverythingSmartHome/13f14c328669f72eee717752069a0398/forks): Forks list for Home Assistant dashboard template gist
+- [Home Assistant Templates - Stargazers](https://gist.github.com/EverythingSmartHome/13f14c328669f72eee717752069a0398/stargazers): Stargazers list for Home Assistant dashboard template gist
+- [Azure Telemetry - Forks](https://gist.github.com/saikoumudi/8b19b6dbcea4ece9eccc35bb42706096/forks): Forks list for azure-skills telemetry gist
+- [Azure Telemetry - Stargazers](https://gist.github.com/saikoumudi/8b19b6dbcea4ece9eccc35bb42706096/stargazers): Stargazers list for azure-skills telemetry gist
+- [Manim MCP - Forks](https://gist.github.com/AndrewAltimit/c437c9fbc9a72271969127fcbf935561/forks): Forks list for Manim MCP integration gist
+- [Manim MCP - Stargazers](https://gist.github.com/AndrewAltimit/c437c9fbc9a72271969127fcbf935561/stargazers): Stargazers list for Manim MCP integration gist

@@ -1,64 +1,60 @@
 # DeepWiki
 
-> > AI-powered conversational documentation platform that transforms GitHub repositories into interactive, queryable knowledge bases
+> > AI-powered conversational documentation platform that transforms GitHub repositories into interactive, queryable knowledge bases.
 
-DeepWiki provides AI-enhanced documentation for open source projects, covering everything from enterprise systems and machine learning frameworks to IoT devices and developer tools. The platform indexes repositories spanning Python, Node.js, Java, and other technologies, making complex codebases accessible through natural language interaction.
+DeepWiki provides intelligent documentation for popular open-source projects across machine learning, web development, and infrastructure. It enables developers to explore complex codebases through natural language conversations powered by AI.
 
 ## Key Topics
 
-- AI documentation
-- GitHub repositories
-- Python frameworks
-- Node.js applications
-- API documentation
-- CLI tools
-- Web scraping
-- Docker containers
-- OpenAI integration
-- Firebase services
-- Active Directory security
-- IoT and ESP32
-- Machine learning models
-- E-commerce systems
-- Real-time data processing
+- LLM Integration
+- API Documentation
+- Machine Learning
+- Python SDK
+- Web Automation
+- RAG (Retrieval-Augmented Generation)
+- System Architecture
+- Developer Tools
+- GitHub Repositories
+- TypeScript
+- Neural Networks
+- Task Queues
+- Schema Validation
+- PDF Parsing
+- Agent Frameworks
 
-## Platform Overview
+## LLM & AI Frameworks
 
-- [DeepWiki Home](https://deepwiki.com): AI-powered conversational documentation platform for GitHub repositories
+- [langchain-ai/langchain](https://deepwiki.com/langchain-ai/langchain): Modular framework for composable LLM applications with integrations
+- [huggingface/transformers](https://deepwiki.com/huggingface/transformers): 400+ ML models for text, vision, audio, multimodal tasks
+- [eosphoros-ai/DB-GPT](https://deepwiki.com/eosphoros-ai/DB-GPT): AI-native data application framework with RAG and multi-agent support
+- [agent0ai/agent-zero](https://deepwiki.com/agent0ai/agent-zero): LLM-powered agent framework with memory and MCP tool integration
+- [karpathy/nanochat](https://deepwiki.com/karpathy/nanochat): Complete LLM training and deployment system with complexity dial
+- [infiniflow/ragflow](https://deepwiki.com/infiniflow/ragflow): Retrieval-Augmented Generation engine with document understanding
 
-## AI and Machine Learning
+## API SDKs & Client Libraries
 
-- [01-ai/Yi](https://deepwiki.com/01-ai/Yi): Yi bilingual large language model family by 01.AI with Docker support
-- [0235-jp/Claude-Code-Server](https://deepwiki.com/0235-jp/Claude-Code-Server): HTTP gateway providing OpenAI API-compatible access to Claude CLI
-- [0010skn/daletou](https://deepwiki.com/0010skn/daletou): AI-powered Chinese Super Lotto analysis and prediction system
+- [openai/openai-python](https://deepwiki.com/openai/openai-python): Official client library for OpenAI API endpoints
+- [anthropics/anthropic-sdk-python](https://deepwiki.com/anthropics/anthropic-sdk-python): Official Claude API client with async support
 
-## Enterprise and E-Commerce Systems
+## Development Tools & Infrastructure
 
-- [01-Java/mall](https://deepwiki.com/01-Java/mall): E-commerce system with Nuxt frontend and Spring Boot backend monorepo
-- [01101sam/Cloudreve](https://deepwiki.com/01101sam/Cloudreve): Self-hosted file management system with multi-cloud and WebDAV support
-- [007gzs/meeting](https://deepwiki.com/007gzs/meeting): Django meeting room booking system with WeChat mini-program integration
-- [00labs/huma-contracts](https://deepwiki.com/00labs/huma-contracts): Huma Protocol Solidity smart contracts for credit pools and factoring
+- [microsoft/vscode](https://deepwiki.com/microsoft/vscode): VS Code architecture overview: editor systems, extensions, workbench, debugging
+- [microsoft/playwright](https://deepwiki.com/microsoft/playwright): Cross-browser web automation and testing framework overview
+- [celery/celery](https://deepwiki.com/celery/celery): Distributed task queue framework architecture and concurrency models
+- [redis/redis](https://deepwiki.com/redis/redis): In-memory data structure store architecture and internals overview
+- [colinhacks/zod](https://deepwiki.com/colinhacks/zod): TypeScript-first schema validation library with static type inference
 
-## Security and Network Tools
+## Machine Learning & Neural Networks
 
-- [000pp/hexodus](https://deepwiki.com/000pp/hexodus): Python framework for Active Directory enumeration via LDAP, SMB, and RPC
-- [03/ONVIF-Java](https://deepwiki.com/03/ONVIF-Java): Java library for ONVIF IP camera control, PTZ operations, and streaming
-- [00xdF/halcon_plate_recognize](https://deepwiki.com/00xdF/halcon_plate_recognize): Halcon-based license plate recognition with OCR for .NET Framework
+- [Tencent/ncnn](https://deepwiki.com/Tencent/ncnn): High-performance neural network inference for mobile and edge devices
+- [opendatalab/MinerU](https://deepwiki.com/opendatalab/MinerU): High-accuracy PDF/image parsing to Markdown and JSON formats
 
-## Developer Tools and Libraries
+## Visualization & Search
 
-- [07akioni/lyla](https://deepwiki.com/07akioni/lyla): TypeScript HTTP client library with platform adapters for mini-programs
-- [00frank/dolarhoy-cli](https://deepwiki.com/00frank/dolarhoy-cli): CLI tool for real-time Argentine peso exchange rates using Node.js scraping
-- [0000gde/-SQlite3](https://deepwiki.com/0000gde/-SQlite3): Python SQLite3 tutorial demonstrating basic database operations
+- [mermaid-js/mermaid](https://deepwiki.com/mermaid-js/mermaid): JavaScript diagram visualization library with plugin system
+- [nextapps-de/flexsearch](https://deepwiki.com/nextapps-de/flexsearch): High-performance full-text search library for browser and Node.js
 
-## IoT and Embedded Systems
+## Optional
 
-- [0015/ThatProject](https://deepwiki.com/0015/ThatProject): ESP32/ESP8266 IoT projects collection with LVGL UI and sensor apps
-- [00-Evan/pixel-dungeon-gradle](https://deepwiki.com/00-Evan/pixel-dungeon-gradle): Pixel Dungeon game engine with OpenGL wrapper and shader system
-
-## Educational and Utility Projects
-
-- [01Brxyan/Proyecto_Python_Castro1Brayan1Navas2Andres2](https://deepwiki.com/01Brxyan/Proyecto_Python_Castro1Brayan1Navas2Andres2): CampusLands academic management system for student lifecycle tracking
-- [02BBQ/FishServer](https://deepwiki.com/02BBQ/FishServer): Node.js fish catching simulation with Firebase and inventory management
-- [0707rf/TDTA_bot](https://deepwiki.com/0707rf/TDTA_bot): Taiwan driving test appointment automation bot for Motor Vehicle Office
-- [01Brxyan/Trabajo-de-cuenta-bancaria](https://deepwiki.com/01Brxyan/Trabajo-de-cuenta-bancaria): Educational Python console banking system for account management
+- [linshenkx/prompt-optimizer](https://deepwiki.com/linshenkx/prompt-optimizer): Multi-platform AI prompt optimization tool with monorepo structure
+- [hackjutsu/Lepton](https://deepwiki.com/hackjutsu/Lepton): Electron desktop app for GitHub Gist code snippet management

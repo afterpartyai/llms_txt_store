@@ -1,24 +1,59 @@
 # Packt Subscription
 
-> > Packt Subscription is a comprehensive learning platform providing access to technical books, courses, and resources covering software development, testing automation, and IT technologies.
+> Packt Subscription is a comprehensive learning platform offering 7,500+ eBooks and videos on AI agents, large language models, RAG systems, and modern tech skills.
 
-The platform offers in-depth technical documentation and tutorials for developers, testers, and IT professionals. Content includes practical guides on testing frameworks like Selenium, web technologies, and programming techniques with hands-on examples and best practices.
+This site provides in-depth technical content on building AI agents with LLMs, retrieval-augmented generation (RAG), and knowledge graphs. The collection emphasizes practical implementation using frameworks like PyTorch, Hugging Face Transformers, and LangChain.
 
 ## Key Topics
 
-- Selenium WebDriver
-- Element Location Strategies
-- CSS Selectors
-- XPath
-- jQuery Selectors
-- Test Automation
-- findElement Methods
-- Web Testing
-- Selenium Testing Tools
-- Browser Automation
-- DOM Navigation
-- Locator Strategies
+- Large Language Models (LLMs)
+- AI Agents
+- Retrieval-Augmented Generation (RAG)
+- Knowledge Graphs
+- Transformer Architecture
+- Deep Learning
+- Natural Language Processing (NLP)
+- LangChain
+- PyTorch
+- Self-Attention Mechanisms
+- Reinforcement Learning
+- Streamlit
+- Hugging Face Transformers
+- Text Processing
+- Multi-Agent Systems
 
-## Selenium Testing & Automation
+## LLM Foundations & Architecture
 
-- [Locating Elements | Selenium Testing Tools Cookbook](https://subscription.packtpub.com/book/all+books/9781849515740/1): Selenium element location guide using CSS, XPath, and jQuery selectors
+- [Part 1: The AI Agent Engine: From Text to Large Language Models](https://subscription.packtpub.com/book/data/9781835087060/1): Detailed chapter on Transformer architecture, attention mechanisms, and LLM foundations
+- [Chapter 2: The Transformer: The Model Behind the Modern AI Revolution](https://subscription.packtpub.com/book/data/9781835087060/3): Deep dive into Transformer architecture, self-attention, and NLP fundamentals
+- [Chapter 1: Analyzing Text Data with Deep Learning](https://subscription.packtpub.com/book/data/9781835087060/2): Guide to text analysis techniques including Bag of Words and TF-IDF methods
+- [Chapter 3: Exploring LLMs as a Powerful AI Engine](https://subscription.packtpub.com/book/data/9781835087060/4): Tutorial on LLM engines using PyTorch, Hugging Face Transformers, and technical setup
+
+## AI Agents & RAG Systems
+
+- [Part 2: AI Agents and Retrieval of Knowledge](https://subscription.packtpub.com/book/data/9781835087060/5): Introduction to AI agents, RAG systems, and Knowledge Graphs integration
+- [Chapter 5: Extending Your Agent with RAG to Prevent Hallucinations](https://subscription.packtpub.com/book/data/9781835087060/7): Tutorial on RAG systems and hallucination prevention in AI agents
+- [Chapter 6: Advanced RAG Techniques for Information Retrieval and Augmentation](https://subscription.packtpub.com/book/data/9781835087060/8): Advanced RAG techniques for improved information retrieval and LLM augmentation
+- [Chapter 4: Building a Web Scraping Agent with an LLM](https://subscription.packtpub.com/book/data/9781835087060/6): How-to guide for building web scraping agents using LangChain and PyTorch
+
+## Knowledge Graphs & Advanced Techniques
+
+- [Chapter 7: Creating and Connecting a Knowledge Graph to an AI Agent](https://subscription.packtpub.com/book/data/9781835087060/9): Guide to Knowledge Graph construction and integration with AI agents
+- [Chapter 8: Reinforcement Learning and AI Agents](https://subscription.packtpub.com/book/data/9781835087060/10): Tutorial on deep reinforcement learning, policy learning, and neural networks
+
+## Building Production AI Systems
+
+- [Part 3: Creating Sophisticated AI to Solve Complex Scenarios](https://subscription.packtpub.com/book/data/9781835087060/11): Part 3 on sophisticated AI systems using Streamlit, Docker, and multi-agent orchestration
+- [Chapter 9: Creating Single- and Multi-Agent Systems](https://subscription.packtpub.com/book/data/9781835087060/12): Guide to building single and multi-agent systems with travel planning examples
+- [Chapter 10: Building an AI Agent Application](https://subscription.packtpub.com/book/data/9781835087060/13): Tutorial on building Streamlit-based AI agent applications with multi-agent systems
+
+## Reference & Resources
+
+- [Index | Building AI Agents with LLMs, RAG, and Knowledge Graphs](https://subscription.packtpub.com/book/data/9781835087060/16): Comprehensive index for AI agents, LLMs, RAG, and Knowledge Graphs topics
+- [Packt Subscription | Advance your knowledge in tech](https://subscription.packtpub.com): Packt subscription service offering 7,500+ eBooks and videos on programming, AI, and tech skills
+
+## Optional
+
+- [Chapter 11: The Future Ahead](https://subscription.packtpub.com/book/data/9781835087060/14): Discussion of future AI applications in biomedical, healthcare, robotics, and gaming
+- [Chapter 12: Unlock Your Exclusive Benefits](https://subscription.packtpub.com/book/data/9781835087060/15): Guide to Packt reader setup and exclusive eBook benefits
+- [Other Books You May Enjoy](https://subscription.packtpub.com/book/data/9781835087060/17): Related book recommendations on AI agents, LangChain, and generative AI

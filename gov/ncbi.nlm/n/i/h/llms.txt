@@ -1,72 +1,36 @@
-# NCBI (National Center for Biotechnology Information)
+# National Center for Biotechnology Information (NCBI)
 
-> > The National Center for Biotechnology Information provides access to biomedical and genomic information through databases including PubMed, GenBank, BLAST, dbSNP, and PubMed Central.
+> NCBI provides comprehensive databases and tools for accessing, searching, and analyzing biological sequence data, genetic variations, and biomedical literature.
 
-NCBI is part of the National Library of Medicine (NLM) at the National Institutes of Health (NIH). It maintains essential bioinformatics resources for researchers worldwide, including literature archives (PubMed, PMC), sequence databases (GenBank), analysis tools (BLAST), and specialized databases for genetic variations, chemical compounds, and clinical data.
+NCBI is a premier resource for biological and genetic data, offering integrated access to major databases like GenBank, dbSNP, and RefSeq. The organization maintains extensive FTP repositories and web interfaces for researchers to download and query genomic sequences, SNP variations, and related biological information.
 
 ## Key Topics
 
-- PubMed - biomedical literature database with 39M+ citations
-- PubMed Central (PMC) - full-text open access archive
-- BLAST - sequence alignment search tool
-- GenBank - genetic sequence database
-- MEDLINE - premier bibliographic database
-- dbSNP - single nucleotide polymorphism database
-- MeSH - Medical Subject Headings vocabulary
-- Entrez - cross-database search system
-- MyNCBI - personalized account features
-- NIH Public Access Policy - open access mandate
-- dbGaP - genotype-phenotype database
-- ClinVar - clinical genetic variants
-- ASN.1 format - NCBI data structure format
-- PubChem - chemical compound database
+- GenBank
+- dbSNP
+- SNP (Single Nucleotide Polymorphism)
+- RefSeq
+- BLAST
+- Sequence Database
+- Genetic Variation
+- Genomic Data
+- ASN.1 Format
+- RefSNP
+- Allele Frequency
+- Variant Annotation
+- Biological Data Download
+- FTP Repository
+- eUtils API
 
-## Core Databases & Tools
+## Genetic Variation Databases
 
-- [PubMed](https://pubmed.ncbi.nlm.nih.gov): PubMed homepage: 39M+ biomedical literature citations from MEDLINE
-- [About - PubMed](https://pubmed.ncbi.nlm.nih.gov/about): PubMed overview: biomedical literature search with MEDLINE & PMC content
-- [PMC Home](https://pmc.ncbi.nlm.nih.gov): PubMed Central homepage: free full-text biomedical literature archive
-- [About PMC - PMC](https://pmc.ncbi.nlm.nih.gov/about/intro): PMC overview: NIH/NLM full-text archive supporting biomedical research
-- [Home - SNP - NCBI](https://ncbi.nlm.nih.gov/snp): dbSNP homepage: database of short genetic variations and SNP data
-- [BLAST Highlights](https://blast.ncbi.nlm.nih.gov/about): BLAST interface overview: features, MyNCBI integration, search strategies
+- [dbSNP - SNP Database](https://www.ncbi.nlm.nih.gov/snp/): dbSNP genetic variation database for human SNPs and genomic mapping with SNP search, allele frequency data, and variant annotation
 
-## Documentation & Guides
+## Sequence Data Repositories
 
-- [NCBI Help Manual - NCBI Bookshelf](https://ncbi.nlm.nih.gov/books/NBK3831): NCBI Help Manual: comprehensive documentation for all NCBI resources
-- [Training & Tutorials - Site Guide - NCBI](https://ncbi.nlm.nih.gov/guide/training-tutorials): NCBI training resources: tutorials, guides, Handbook, database documentation
-- [Welcome to BLAST Help — BLASTHelp documentation](https://blast.ncbi.nlm.nih.gov/doc/blast-help): BLAST help hub: quick start, databases, tutorials, FAQ, command-line docs
-- [Web BLAST Quick Start Guide — BlastQuickStartGuide 0.1.1 documentation](https://blast.ncbi.nlm.nih.gov/doc/blast-quick-start-guide): BLAST quick start: minimal steps for sequence alignment search results
-- [Help - PubMed](https://pubmed.ncbi.nlm.nih.gov/help): PubMed user guide: search help, filters, author/journal search, citations
-- [Installation - BLAST® Command Line Applications User Manual - NCBI Bookshelf](https://ncbi.nlm.nih.gov/books/NBK569861): BLAST+ command-line installation guide for Windows, Linux, Unix, MacOSX
-- [PMC and Research Funder Policies - PMC](https://pmc.ncbi.nlm.nih.gov/about/public-access): PMC public access policies: NIH mandate, funder requirements, repositories
+- [NCBI ASN.1 GenBank Files](https://ftp.ncbi.nlm.nih.gov/ncbi-asn1/): FTP repository of NCBI GenBank ASN.1 sequence database files for nucleotide sequences and compressed biological data archives
+- [BLAST Database Repository](https://ftp.ncbi.nlm.nih.gov/blast/db/): BLAST sequence database repository with genomic and ribosomal RNA data for sequence alignment and comparison
 
-## Data Downloads & FTP Resources
+## Legacy Resources
 
-- [Index of /genomes](https://ftp.ncbi.nlm.nih.gov/genomes): Genome data FTP directory with assembly reports and genomic databases
-- [Index of /ncbi-asn1](https://ftp.ncbi.nlm.nih.gov/ncbi-asn1): NCBI ASN.1 format data including GenBank, protein FASTA, WGS, TSA files
-- [Index of /pubchem/Compound/CURRENT-Full](https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/CURRENT-Full): PubChem Compound data archive with ASN, SDF, XML format downloads
-
-## Support & FAQs
-
-- [PMC FAQs - PMC](https://pmc.ncbi.nlm.nih.gov/about/faq): PMC FAQ: publishers, authors, NIH policy, article submission, open access
-- [Frequently Asked Questions — BLASTHelp documentation](https://blast.ncbi.nlm.nih.gov/doc/blast-help/FAQ.html): BLAST FAQ: sequence filtering, organism limits, Entrez queries, Primer-BLAST
-- [NCBI Account Login Changes FAQs - NCBI Insights](https://ncbiinsights.ncbi.nlm.nih.gov/ncbi-login-retirement-faqs): My NCBI account transition to federated login (Google, NIH, ORCID) FAQ
-- [Frequently Asked Questions - PubMed Data Management - NCBI](https://ncbi.nlm.nih.gov/pubmed/management/help/faq): PMDM FAQ: citation editing, access permissions, MEDLINE indexing, MeSH
-- [Frequently Asked Questions - Bookshelf Help - NCBI Bookshelf](https://ncbi.nlm.nih.gov/books/NBK45610): NCBI Bookshelf FAQ: copyright, permissions, reuse policy, public domain
-- [dbgap.ncbi.nlm.nih.gov/beta/ FAQs /committees](https://dbgap.ncbi.nlm.nih.gov/beta/FAQs/committees): dbGaP DAC FAQ: standardized responses for data access request approval
-
-## News & Updates
-
-- [NCBI Insights - News about NCBI resources and events](https://ncbiinsights.ncbi.nlm.nih.gov): NCBI news blog: GenBank releases, ClinVar API, GTR, RefSeq updates
-- [Trending page - PubMed](https://pubmed.ncbi.nlm.nih.gov/trending): PubMed trending articles with citation management and search filters
-- [ClinicalTrials.gov updates the PRS Guided Tutorials, step-by-step instructions for data providers - NCBI Insights](https://ncbiinsights.ncbi.nlm.nih.gov/2021/03/08/clinicaltrials-gov-updated-prs-guided-tutorials): ClinicalTrials.gov PRS tutorial updates for data submission and QC review
-- [About this blog - NCBI Insights](https://ncbiinsights.ncbi.nlm.nih.gov/about): NCBI Insights blog policy: comment guidelines and moderation rules
-
-## Optional
-
-- [Common questions and misconceptions about creatine supplementation: what does the scientific evidence really show?](https://pubmed.ncbi.nlm.nih.gov/33557850): Research article on creatine supplementation safety and efficacy evidence
-- [A Guided Tutorial on Modelling Human Event-Related Potentials with Recurrent Neural Networks](https://pubmed.ncbi.nlm.nih.gov/36501944): Research tutorial on RNN modeling of ERP waveforms in neuroscience
-- [Counting channels: a tutorial guide on ion channel fluctuation analysis](https://pubmed.ncbi.nlm.nih.gov/12444005): Tutorial on ion channel patch clamp and fluctuation analysis methods
-- [A guided tutorial on linear mixed-effects models for the analysis of accuracies and response times in experiments with fully crossed design](https://pubmed.ncbi.nlm.nih.gov/39666542): Tutorial on linear mixed-effects models for psychology experiments
-- [Tutorial: Statistical analysis and reporting of clinical pharmacokinetic studies - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9372427): Clinical pharmacokinetic study design and statistical analysis tutorial
-- [Tutorial: guidelines for the computational analysis of single-cell RNA sequencing data](https://pubmed.ncbi.nlm.nih.gov/33288955): scRNA-seq computational workflow tutorial for experimentalists & developers
+- [HapMap Legacy Resource](https://hapmap.ncbi.nlm.nih.gov/): HapMap legacy resource retirement announcement with migration to 1000 Genomes Project

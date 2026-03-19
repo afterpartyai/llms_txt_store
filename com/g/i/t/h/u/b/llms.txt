@@ -1,46 +1,61 @@
 # GitHub
 
-> > GitHub is the world's leading AI-powered developer platform for building, scaling, and securing software with tools like GitHub Copilot, Actions, and Codespaces.
+> GitHub is the AI-powered developer platform providing code collaboration, CI/CD automation, security, and AI-assisted development tools for individuals, teams, and enterprises.
 
-GitHub provides cloud-based Git repository hosting, collaborative development tools, and integrated CI/CD workflows. The platform serves millions of developers and organizations with features spanning code review, project management, security scanning, and AI-assisted coding through GitHub Copilot.
+GitHub offers a comprehensive suite of development tools centered around version control, automation, and artificial intelligence. The platform emphasizes AI integration through GitHub Copilot, advanced security features, and modern DevOps capabilities to enable developers and teams to build, ship, and secure software at scale.
 
 ## Key Topics
 
 - GitHub Copilot
 - GitHub Actions
-- GitHub Codespaces
-- GitHub Desktop
-- GitHub Mobile
 - GitHub Advanced Security
-- Visual Studio Code
-- Git version control
-- Open source collaboration
-- CI/CD pipelines
-- Code security scanning
-- AI code assistance
-- Cloud development environments
-- Developer workflows
-- Repository management
+- CI/CD automation
+- Code review
+- GitHub Codespaces
+- GitHub Enterprise
+- Secret Protection
+- Code Security
+- GitHub Issues
+- Dependabot
+- Collaboration tools
+- AI models
+- Workflow automation
+- Developer platform
 
-## Getting Started
+## AI-Powered Development
 
-- [GitHub Homepage](https://github.com/): GitHub homepage: AI-powered developer platform with Copilot and Actions
-- [Download GitHub Desktop](https://desktop.github.com/download/): Download GitHub Desktop for macOS (Apple silicon/Intel) and Windows
-- [Adding SSH Keys to GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account): Guide to add SSH keys for GitHub authentication and commit signing
+- [GitHub Copilot](https://github.com/features/copilot): GitHub Copilot AI code completion product with IDE integration and enterprise features.
+- [GitHub Spark](https://github.com/features/spark): GitHub Spark full-stack AI-powered app builder with natural language interface.
+- [GitHub Models](https://github.com/features/models): GitHub Models platform for accessing AI models with API and deployment tools.
+- [MCP Registry](https://github.com/mcp): MCP Registry centralizing MCP servers for AI agent integration and discovery.
 
-## GitHub Copilot & AI Tools
+## Core Development Features
 
-- [Getting Started with GitHub Copilot](https://github.com/features/copilot/tutorials): GitHub Copilot tutorials for VS Code and Visual Studio setup
+- [GitHub Features](https://github.com/features): GitHub Features overview covering collaboration, CI/CD, security, and automation.
+- [GitHub Actions](https://github.com/features/actions): GitHub Actions CI/CD automation platform with workflow and marketplace features.
+- [GitHub Code Review](https://github.com/features/code-review): GitHub Code Review with pull requests, branch protection, and team workflow.
+- [GitHub Issues](https://github.com/features/issues): GitHub Issues project planning and issue tracking tool for developer collaboration.
+- [GitHub Codespaces](https://github.com/features/codespaces): GitHub Codespaces cloud development environment for browser-based remote coding.
 
-## Desktop Applications
+## Security & Protection
 
-- [GitHub Desktop Beta](https://desktop.github.com/beta/): GitHub Desktop Beta channel with latest features and bug fixes
+- [GitHub Advanced Security](https://github.com/security/advanced-security): GitHub Advanced Security with vulnerability detection, secret scanning, and protection.
+- [GitHub Code Security](https://github.com/security/advanced-security/code-security): GitHub Code Security with CodeQL analysis, vulnerability detection, and Copilot Autofix.
+- [GitHub Secret Protection](https://github.com/security/advanced-security/secret-protection): GitHub Secret Protection with push protection and secret scanning for credentials.
 
-## Optional Resources
+## Enterprise & Teams
 
-- [Visual Studio Code Repository](https://github.com/microsoft/vscode): Microsoft Visual Studio Code open source repository on GitHub
-- [GitHub Brand Logo Guidelines](https://brand.github.com/foundations/logo): GitHub logo guidelines: Invertocat, Octocat, and product lockups
-- [FMHY Repository](https://github.com/fmhy/FMHY): FMHY repository: free media, streaming, torrents, and privacy resources
-- [Handy - Offline Speech-to-Text](https://github.com/cjpais/handy): Handy by cjpais: offline speech-to-text desktop app using Tauri
-- [frp - Fast Reverse Proxy](https://github.com/fatedier/frp): frp by fatedier: Go-based reverse proxy for NAT/firewall traversal
-- [RVC Voice Conversion Releases](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/releases): RVC-Project voice conversion WebUI releases and changelog
+- [GitHub Enterprise](https://github.com/enterprise): GitHub Enterprise AI-powered platform with advanced security and governance.
+- [GitHub for Teams](https://github.com/team): GitHub for Teams with CI/CD, Dependabot, and collaboration tools.
+- [Why Choose GitHub?](https://github.com/why-github): Why GitHub page highlighting platform benefits, enterprise solutions, and Copilot.
+- [GitHub for Startups](https://github.com/enterprise/startups): GitHub for Startups program offering credits, Copilot, and enterprise support.
+
+## Resources & Marketplace
+
+- [GitHub Docs](https://docs.github.com): GitHub documentation hub covering platform, APIs, CI/CD, security, and enterprise.
+- [GitHub Marketplace](https://github.com/marketplace): GitHub Marketplace with apps, AI models, and tools for workflow improvement.
+- [GitHub Homepage](https://github.com): GitHub homepage showcasing AI-powered developer platform with Copilot, Actions, and Codespaces.
+
+## Optional
+
+- [GitHub Roadmap Webinar, Q1 2026](https://github.com/resources/events/github-roadmap-webinar-q1): Q1 2026 roadmap webinar featuring GitHub Copilot, agentic systems, and platform governance.

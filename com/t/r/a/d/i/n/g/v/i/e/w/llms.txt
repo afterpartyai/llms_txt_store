@@ -1,48 +1,58 @@
 # TradingView
 
-> > TradingView is a comprehensive financial markets platform offering charting tools, broker comparisons, market data, economic indicators, and embeddable widgets for stocks, forex, futures, and cryptocurrencies.
+> TradingView is a comprehensive charting platform and social network for traders offering real-time market data, technical analysis tools, and broker reviews across stocks, forex, cryptocurrencies, and global indices.
 
-TradingView provides real-time market data and analysis tools for traders and investors worldwide. The platform features broker comparison tools covering FINRA, SEC, CFTC, and NFA regulated brokers, economic indicators for global markets, and customizable widgets for embedding financial data.
+TradingView provides traders and investors with access to live charts, quotes, and market analysis across multiple asset classes including equities, indices, cryptocurrencies, and forex. The platform combines professional-grade charting tools with community features and broker integration.
 
 ## Key Topics
 
-- Broker comparisons and regulatory compliance
-- Trading fees and leverage analysis
-- Futures trading platforms (NinjaTrader, AMP Futures, Optimus Futures)
-- Forex brokers (FOREX.com, OANDA, tastyfx)
-- Crypto trading platforms (OKX, Coinbase Advanced, Bitstamp)
-- Stock trading brokers (Interactive Brokers, Webull, moomoo)
-- Regulatory bodies: FINRA, SEC, CFTC, NFA, FCA, CySEC, ASIC
-- Market movers and volatility analysis
-- Dividend yield screening
-- Economic indicators and country data
-- Embeddable widgets and heatmaps
-- Multi-asset trading platforms (StoneX, Tradier)
-- Order types and trading features
-- Market data for NASDAQ and global exchanges
+- Technical Analysis
+- Market Quotes
+- Trading Data
+- Stock Indices
+- Trading Platform
+- Market Overview
+- Index Charts
+- Market Data
+- Cryptocurrency
+- Bitcoin
+- Ethereum
+- S&P 500
+- Nasdaq 100
+- DAX
+- Market Analysis
 
-## Broker Comparisons
+## Core Platform
 
-- [Broker Comparison: Interactive Brokers vs. Tradier Brokerage](https://www.tradingview.com/brokers/IBKR-vs-Tradier_Brokerage): Compare Interactive Brokers vs Tradier Brokerage fees and assets
-- [Broker Comparison: FOREX.com vs. Tradier Futures](https://www.tradingview.com/brokers/FOREXcom-vs-TradierFutures): Compare FOREX.com vs Tradier Futures fees, assets, and regulatory info
-- [Broker Comparison: OANDA vs. Ironbeam](https://www.tradingview.com/brokers/Ironbeam-vs-OANDA): Compare OANDA vs Ironbeam forex/futures brokers side by side
-- [Broker Comparison: OANDA vs. StoneX](https://www.tradingview.com/brokers/OANDA-vs-StoneX): Compare OANDA vs StoneX forex and futures broker features
-- [Broker Comparison: NinjaTrader vs. AMP Futures](https://www.tradingview.com/brokers/AMP_Futures-vs-NinjaTrader): Compare NinjaTrader vs AMP Futures trading fees and features
-- [Broker Comparison: NinjaTrader vs. OKX](https://www.tradingview.com/brokers/NinjaTrader-vs-OKX): Compare NinjaTrader futures vs OKX crypto trading features
-- [Broker Comparison: OKX vs. Optimus Futures](https://www.tradingview.com/brokers/OKX-vs-OptimusFutures): Compare OKX crypto vs Optimus Futures trading features and fees
-- [Broker Comparison: FOREX.com vs. tastytrade](https://www.tradingview.com/brokers/FOREXcom-vs-tastytrade): Compare FOREX.com vs tastytrade broker fees and leverage options
-- [Broker Comparison: tastyfx vs. TradeZero](https://www.tradingview.com/brokers/TradeZero-vs-tastyfx): Compare tastyfx vs TradeZero forex and stock broker features
-- [Broker Comparison: moomoo vs. StoneX](https://www.tradingview.com/brokers/StoneX-vs-moomoo): Compare moomoo vs StoneX broker fees, assets, and order types
-- [Broker Comparison: Coinbase Advanced vs. StoneX](https://www.tradingview.com/brokers/Coinbase_Advanced-vs-StoneX): Compare Coinbase Advanced vs StoneX crypto and futures trading
-- [Broker Comparison: Webull vs. Bitstamp](https://www.tradingview.com/brokers/Bitstamp-vs-Webull): Compare Webull vs Bitstamp for stock and crypto trading platforms
-- [Broker Comparison: Webull vs. EdgeClear](https://www.tradingview.com/brokers/EdgeClear-vs-Webull): Compare Webull vs EdgeClear for futures and stock trading
+- [TradingView — Track All Markets](https://www.tradingview.com): TradingView homepage: charting platform and social network for traders
+- [TradingView Features — Power Up Your Analysis & Trading](https://www.tradingview.com/features): Platform features: charts, alerts, screeners, Pine Script tools
+- [TradingView Subscriptions: Pricing and Features](https://www.tradingview.com/pricing): TradingView subscription plans and feature comparison
 
-## Market Data & Screeners
+## Market Data & Overview
 
-- [World's Companies with Highest Dividend Yields](https://www.tradingview.com/markets/world-stocks/worlds-highest-dividends): Global stocks with highest dividend yields for income investing
-- [Most Volatile South African Stocks](https://www.tradingview.com/markets/stocks-south-africa/market-movers-most-volatile): South African stocks with highest volatility and market movement
-- [Key Economic Indicators: Switzerland](https://www.tradingview.com/markets/world-economy/countries/switzerland): Switzerland economic indicators: GDP, interest rates, inflation data
+- [Markets Today — Quotes, Charts, and Events — TradingView](https://www.tradingview.com/markets): Market overview with stock, forex, crypto quotes and indices
+- [Major Indices — Quotes and Overview — TradingView](https://www.tradingview.com/markets/indices/quotes-major): Global major indices overview with real-time quotes
 
-## Widgets & Developer Tools
+## Global Stock Indices
 
-- [Forex Heatmap: Widget Code & Settings](https://www.tradingview.com/widget-docs/widgets/heatmaps/forex-heatmap): Forex Heatmap widget embed code and customization settings
+- [S&P 500 Index Chart — SPX Quote — TradingView](https://www.tradingview.com/symbols/SPX): Live S&P 500 Index chart with forecasts and market news
+- [Nasdaq 100 Index Chart — NDX Quote — TradingView](https://www.tradingview.com/symbols/NASDAQ-NDX): Live Nasdaq 100 Index chart with trading ideas and analysis
+- [DAX Index Chart - DAX 40 Quote — TradingView](https://www.tradingview.com/symbols/XETR-DAX): DAX 40 Index chart from Frankfurt Stock Exchange
+- [UKX Index Charts and Quotes — TradingView](https://www.tradingview.com/symbols/FTSE-UKX): FTSE 100 Index chart from London Stock Exchange
+- [PX1 Index Charts and Quotes — TradingView](https://www.tradingview.com/symbols/EURONEXT-PX1): CAC 40 Index chart from EURONEXT Paris
+- [Japan 225 Chart – NI225 Quote — TradingView](https://www.tradingview.com/symbols/TVC-NI225): Live Japan 225 Nikkei index chart with forecasts
+- [000001 Index Charts and Quotes — TradingView](https://www.tradingview.com/symbols/SSE-000001): SSE Composite Index chart from Shanghai Stock Exchange
+
+## Cryptocurrency Markets
+
+- [BTC USD — Bitcoin Price and Chart — TradingView](https://www.tradingview.com/symbols/BTCUSD): Live Bitcoin USD price chart with technical analysis
+- [Total Crypto Market Cap — Index Chart — TradingView](https://www.tradingview.com/symbols/TOTAL): Global crypto market cap index chart and analysis
+- [Crypto Dominance Chart — BTC Dominance — TradingView](https://www.tradingview.com/markets/cryptocurrencies/dominance): Bitcoin and Ethereum dominance charts for crypto market
+
+## Brokers & Services
+
+- [Top Brokers — Verified Reviews by Actual Clients — TradingView](https://www.tradingview.com/brokers): Broker comparison and reviews with verified ratings
+
+## Optional
+
+- [TradingView Space Mission — To Global Markets and Beyond](https://www.tradingview.com/space-mission): Brand story featuring pilot Scott Poteet and Polaris Dawn mission

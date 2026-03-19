@@ -1,34 +1,54 @@
 # Microsoft Learn
 
-> > Microsoft's official learning platform providing technical documentation, training paths, certifications, and product lifecycle information across Azure, Windows, Microsoft Defender, and the broader Microsoft ecosystem.
+> Microsoft Learn is a comprehensive learning platform offering free technical training, certifications, and documentation across cloud computing, AI, and Microsoft technologies.
 
-Microsoft Learn serves as the comprehensive knowledge hub for IT professionals, developers, and learners seeking to build skills in Microsoft technologies. The platform combines hands-on training modules, certification preparation, product documentation, and lifecycle policies for Windows, Azure, security products, and AI tools like Microsoft Copilot.
+The platform provides structured learning paths, hands-on training modules, professional certifications, and community support for developers and IT professionals building skills in Azure, AI, and Microsoft products. It serves as both a documentation hub and a career development resource with interactive courses and applied skills credentials.
 
 ## Key Topics
 
-- Azure cloud computing
-- Windows 11 and Windows 10
-- Microsoft Defender for Endpoint
-- Microsoft Certification programs
-- Modern Lifecycle Policy
-- Windows as a Service (WaaS)
-- Microsoft Copilot and AI
-- Windows Security
-- Microsoft Azure Fundamentals
-- Technical training and developer education
-- Threat remediation and antivirus protection
-- Product lifecycle and support dates
-- Cloud computing resources
+- Azure
+- Microsoft Copilot
+- Generative AI
+- AI Fundamentals
+- Cloud Computing
+- Microsoft Certifications
+- Skill Development
+- Azure Fundamentals
+- .NET
+- Microsoft 365
+- Applied Skills
+- Career Growth
+- AI Training
+- Beginner Guides
+- Microsoft Fabric
 
-## Learning Platform & Training
+## Core Learning Hubs
 
-- [Microsoft Learn: Build skills that open doors in your career](https://learn.microsoft.com/): Homepage for Microsoft Learn training, certifications, and documentation
+- [Microsoft Learn Homepage](https://learn.microsoft.com/en-us): Main portal for technical skill development and certifications
+- [Azure Documentation](https://learn.microsoft.com/azure): Comprehensive Azure cloud services documentation and tutorials for developers
+- [Technical Documentation Index](https://learn.microsoft.com/docs): Central documentation hub for .NET, Azure, C++, and Microsoft development tools
+- [AI Learning Hub](https://learn.microsoft.com/ai): Structured learning for Copilot, Microsoft Foundry, and practical AI skill development
+- [Microsoft Copilot Learning Hub](https://learn.microsoft.com/copilot): Training and deployment resources for Microsoft Copilot across products
 
-## Windows Lifecycle & Support
+## Certifications & Credentials
 
-- [Windows 11 Home and Pro - Microsoft Lifecycle](https://learn.microsoft.com/en-us/lifecycle/products/windows-11-home-and-pro): Windows 11 Home and Pro lifecycle policy and support dates
-- [Windows 10 Home and Pro - Microsoft Lifecycle](https://learn.microsoft.com/en-us/lifecycle/products/windows-10-home-and-pro): Windows 10 Home and Pro lifecycle policy and support dates
+- [Professional and Technical Credentials](https://learn.microsoft.com/credentials): Directory of Microsoft Certifications and Applied Skills credentials
+- [Azure AI Fundamentals (AI-900) Course](https://learn.microsoft.com/training/courses/ai-900t00): Certification course with hands-on exercises for Azure AI fundamentals
+- [Azure Fundamentals Learning Path](https://learn.microsoft.com/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts): Cloud concepts learning path preparing for AZ-900 certification exam
+- [Student Certifications Hub](https://learn.microsoft.com/training/student-hub/certifications): Student certification programs and Azure training with special discounts
 
-## Security & Threat Protection
+## Training Modules
 
-- [Restore quarantined files in Microsoft Defender Antivirus](https://learn.microsoft.com/en-us/defender-endpoint/restore-quarantined-files-microsoft-defender-antivirus): Guide to restore quarantined files in Microsoft Defender Antivirus
+- [Introduction to Generative AI and Agents](https://learn.microsoft.com/training/modules/fundamentals-generative-ai): Beginner module covering generative AI, LLMs, and AI agents fundamentals
+
+## Community & Support
+
+- [Microsoft Q&A Community](https://learn.microsoft.com/answers): Community question and answer platform for technical support on Microsoft products
+- [Experts Hub Contributor Guide](https://learn.microsoft.com/en-us/contribute): Guide for contributing content and joining the Microsoft Experts Hub community
+- [Internet Explorer and Microsoft Edge Lifecycle FAQ](https://learn.microsoft.com/en-us/lifecycle/faq/internet-explorer-microsoft-edge): Frequently asked questions on lifecycle policies for Internet Explorer and Microsoft Edge
+
+## Optional
+
+- [Principles for AI-Generated Content](https://learn.microsoft.com/en-us/principles-for-ai-generated-content): Microsoft's policy on AI-generated content and responsible AI practices
+- [Previous Versions Documentation](https://learn.microsoft.com/en-us/previous-versions): Archive of legacy documentation for deprecated Microsoft product versions
+- [Terms of Use](https://learn.microsoft.com/en-us/legal/termsofuse): Legal terms of use and user agreement for Microsoft Learn platform

@@ -1,25 +1,28 @@
 # National Gallery of Art
 
-> > National Gallery of Art's digital resources, featuring the Samuel H. Kress Collection digital archive and institutional services.
+> The National Gallery of Art provides digital access to world-class art collections, including the Samuel H. Kress Foundation's European art archive and museum databases.
 
-The National Gallery of Art (NGA) maintains specialized digital resources including comprehensive archives of its renowned art collections. The Kress Collection represents one of the most significant assemblages of European art in the museum's holdings.
+NGA serves as a premier cultural institution offering comprehensive digital archival materials and collection distribution for researchers and art enthusiasts. The site maintains extensive European art collections with advanced cataloging and authentication systems.
 
 ## Key Topics
 
-- Samuel H. Kress Collection
+- Kress Collection
+- Samuel H. Kress Foundation
 - National Gallery of Art
 - European art
-- Digital archives
-- Museum collections
-- Art history
-- Kress Foundation
+- Digital archive
+- Art collection
+- Museum database
 - Archival materials
-- Authentication services (ADFS)
+- Collection distribution
+- Cultural heritage
+- ADFS authentication
+- MSIS7065
 
-## Digital Archives & Collections
+## Digital Collections & Archives
 
-- [Kress Collection Digital Archive](https://kress.nga.gov/): Digital archive of Samuel H. Kress Collection at National Gallery of Art
+- [Kress Collection Digital Archive](https://kress.nga.gov/): Digital archive of Samuel H. Kress Foundation's European art collection at National Gallery of Art
 
 ## Optional
 
-- [Error](https://adfs.nga.gov/adfs/ls/): ADFS authentication error page for NGA services
+- [Error](https://adfs.nga.gov/adfs/ls/): ADFS authentication error page with protocol handler configuration issue

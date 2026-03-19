@@ -1,34 +1,59 @@
 # AffordableHousing.com
 
-> National platform connecting property owners and tenants with Section 8 Housing Choice Voucher programs, HUD-assisted rentals, and affordable housing resources across all 50 states.
+> > AffordableHousing.com connects renters and property owners through a comprehensive platform for affordable housing search, Section 8 listings, and tenant management.
 
-AffordableHousing.com serves as a comprehensive rental listing service for Section 8 and affordable housing, featuring state-specific housing authority portals, centralized waiting lists, and tools like QuikMatch and Market Rent Reports for landlords and tenants navigating government housing programs including Project-Based Vouchers (PBV) and the Family Unification Program.
+AffordableHousing.com is a dual-sided marketplace serving both renters seeking affordable housing and property owners managing Section 8 and subsidized rental properties. The platform includes B2B solutions for housing authorities through products like RevoList, CentralHub, and RentWatch.
 
 ## Key Topics
 
-- Section 8 Housing Choice Voucher Program
-- HUD (U.S. Department of Housing and Urban Development)
-- Rental Assistance Programs
-- Centralized Waiting Lists
-- Property Owner Benefits & Landlord Tools
-- QuikMatch Tenant Matching
-- Market Rent Reports
-- Project-Based Voucher (PBV)
-- Family Unification Program
-- Section 8 Rental Listings
-- Affordable Housing Search
-- Tenant Screening & Applicant Management
-- State Housing Authorities (VSHA, DHAA)
-- Government Housing Programs
-- Free Property Listings for Owners
+- Section 8 Housing
+- Affordable Housing
+- Property Listings
+- Renter Portal
+- Landlord Portal
+- Account Authentication
+- Property Management
+- HUD Vouchers
+- Rental Listings
+- Housing Authorities
+- Account Setup
+- Sign-In
+- RevoList
+- CentralHub
+- Rent Calculator
 
-## State Housing Authority Portals
+## Core Platforms
 
-- [Vermont State Housing Authority](https://vermont.affordablehousing.com/): VSHA Section 8 rental assistance program serving 8500+ Vermont families
-- [Delaware Centralized Waiting List](https://delaware.affordablehousing.com/): DHAA centralized waiting list for Delaware Section 8 voucher programs
-- [Maine Affordable Housing Hub](https://maine.affordablehousing.com/): Maine housing hub for rental assistance programs and waiting lists
+- [Homepage](https://www.affordablehousing.com): Homepage for affordable housing search and rental listings platform
+- [Renter Portal](https://www.affordablehousing.com/renters): Renter portal for searching and applying to affordable housing
+- [Owner Portal](https://www.affordablehousing.com/owners): Owner portal for property listing and tenant management tools
+- [B2B Solutions](https://info.affordablehousing.com): B2B products for housing agencies: RentWatch, RevoList, CentralHub
 
-## Property Owner Resources
+## Property Search & Listings
 
-- [Owner Benefits & Listing Service](https://custompages.affordablehousing.com/owner/benefits): Property owner benefits: list Section 8 rentals and connect with tenants
-- [Help Center for Property Owners](https://help.affordablehousing.com/owners): Help center for property owners with FAQs and platform instructions
+- [All Rental Properties](https://www.affordablehousing.com/properties): Browse all rental properties and affordable housing listings
+- [Apartments for Rent](https://www.affordablehousing.com/apartments): Search and filter affordable apartments available for rent
+- [Houses for Rent](https://www.affordablehousing.com/houses): Search and filter affordable houses available for rent
+- [Section 8 Housing](https://www.affordablehousing.com/properties/section8-owners): Section 8 housing listings and owner resources on platform
+
+## Account Management & Authentication
+
+- [User Login](https://www.affordablehousing.com/ll/dashboard.aspx): User login and authentication dashboard for AffordableHousing.com
+- [My Account](https://www.affordablehousing.com/ll/ll_myaccount.aspx): User account management for owners and renters on platform
+- [Tenant Account](https://www.affordablehousing.com/v4/pages/tenantAccount/tenantAccount.aspx): Tenant account setup and management portal for renters
+- [Alert Preferences](https://www.affordablehousing.com/v4/pages/alertPreferences/alertPreferences.aspx): User alert preferences and notification settings management
+
+## Renter Tools & Applications
+
+- [Waitlist Applications](https://www.affordablehousing.com/v4/pages/myWaitlistApplications/myWaitlistApplications.aspx): Renter waitlist applications tracking and management portal
+- [Renter Inbox](https://www.affordablehousing.com/v4/pages/renterInbox/renterInbox.aspx): Renter inbox for housing application messages and communications
+- [Market Rent Estimator](https://www.affordablehousing.com/market-rent-estimator): Rent affordability calculator tool for estimating housing costs
+
+## Owner & Landlord Resources
+
+- [Owner Pricing](https://www.affordablehousing.com/v4/pages/ownerPricing/pricing.aspx): Pricing plans for property owners listing on AffordableHousing.com
+- [Owner Plans](https://www.affordablehousing.com/v4/pages/ownerPricing/Plans.aspx): Owner account plans and subscription options for property listings
+
+## Housing Authorities & Agencies
+
+- [Housing Authorities Directory](https://www.affordablehousing.com/housing-authorities): Directory of housing authorities and Section 8 agencies by location

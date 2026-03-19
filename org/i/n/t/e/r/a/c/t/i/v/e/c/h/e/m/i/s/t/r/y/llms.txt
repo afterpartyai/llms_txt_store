@@ -1,53 +1,57 @@
 # Interactive Chemistry
 
-> > Interactive Chemistry provides game-based simulations and digital tools for learning chemistry concepts including ionic bonding, redox reactions, Lewis structures, and organic chemistry mechanisms.
+> Interactive Chemistry provides game-based learning simulations for chemistry education, covering organic reactions, bonding, and fundamental concepts through engaging interactive puzzles.
 
-The site features interactive educational games like Matchmaker (ionic bonding), Ketone Crush (organic functional groups), and ChemLEAP (molecular interactions sandbox). Tools include molecular model kits, reaction simulations, and games that teach electron transfer, combustion, photosynthesis, and nucleophilic substitution through hands-on digital experiences.
+Created by Steve Sogo, Interactive Chemistry offers a comprehensive suite of educational games and simulations designed to make chemistry concepts accessible and engaging for students. The platform emphasizes interactive learning through visual models, reaction simulations, and puzzle-based gameplay across general chemistry, organic chemistry, and biochemistry topics.
 
 ## Key Topics
 
-- Ionic Bonding
-- Lewis Dot Models
-- Redox Reactions
-- Electron Transfer
-- Octet Rule
-- Metal Reactivity
-- Equation Balancing
-- Polyatomic Ions
-- Activation Energy
-- Valence Bonds
-- SN2 Reactions
-- Combustion Reactions
-- Molecular Model Kit
-- Chemistry Simulations
-- Educational Games
-
-## Core Interactive Games
-
-- [Matchmaker & PT Intro Page](https://interactivechemistry.org/IntroPageMatchmaker2024): Ionic bonding and Periodic Table game introduction page
-- [Matchmaker (Ionic Bonding Game)](https://interactivechemistry.org/MatchmakerRJ): Ionic bonding game using interlocking shapes for cations and anions
-- [ChemLEAP](https://interactivechemistry.org/ChemLEAP): Digital sandbox for molecular interactions and phase transitions
-- [Ketone Crush Intro Page](https://interactivechemistry.org/IntroPageKetoneCrush): Organic chemistry game matching structures to functional groups
-
-## Molecular Structure Tools
-
-- [2-D Molecular Model Kit](https://interactivechemistry.org/Assignment10.3): Interactive tool for building Lewis Dot Models following Octet Rule
-
-## Redox and Electron Transfer Simulations
-
-- [Electron Transfer 2020](https://interactivechemistry.org/BattleRoyalNew): Redox reactions simulation using Activity Series and metal reactivity
-- [Matchmaker with Electron Transfer](https://interactivechemistry.org/CuSO4B): Copper Sulfate redox reactions with metals using interlocking shapes
-- [Reactions of Calcium Metal](https://interactivechemistry.org/CalciumReactions): Calcium redox reactions with water and hydrochloric acid simulation
-
-## Reaction Simulations
-
-- [Combustion Reactions](https://interactivechemistry.org/CombustionReactions): Combustion simulation with methane/propane using activation energy
-- [Photosynthesis](https://interactivechemistry.org/Photosynthesis1): Photosynthesis simulation using Lewis Dot Models and energetics
+- interactive-game
+- chemistry-education
+- organic-chemistry
+- ionic-bonding
+- covalent-bonding
+- nucleophilic-substitution
+- equation-balancing
+- Lewis Dots
+- Coulomb's Law
+- electrostatic-forces
+- dimensional-analysis
+- activation-energy
+- educational-tool
+- Ketone Crush
+- mobile-compatible
 
 ## Organic Chemistry Games
 
-- [SN2 Reaction Game](https://interactivechemistry.org/SN2): Nucleophilic substitution game with collision-based SN2 reactions
+- [Ketone Crush Intro Page](https://InteractiveChemistry.org/IntroPageKetoneCrush): Ketone Crush game: match chemical structures to organic chemistry families
+- [SN2 Reaction Game](https://InteractiveChemistry.org/SN2): SN2 Reaction Game: fire nucleophiles at electrophiles to learn substitution
+- [SN1 Reaction Game](https://InteractiveChemistry.org/SN1): SN1 Reaction Game: two-step nucleophilic substitution with energy profiles
 
-## Optional
+## Bonding & Molecular Structure
 
-- [Experiments and Prototypes](https://interactivechemistry.org/Experiments-Prototypes): Collection of experimental chemistry simulations and prototypes
+- [Covalent Bonding Game with 21st Century Lewis Dots](https://interactivechemistry.org/2-DMolecularModels): Covalent Bonding Game: build molecules using puzzle pieces and Lewis dot models
+- [Matchmaker & PT Intro Page](https://interactivechemistry.org/Matchmaker): Matchmaker Game: learn ionic bonding and periodic table relationships interactively
+- [Coulomb's Law Game](https://InteractiveChemistry.org/ElectrostaticForcesIntroPage): Coulomb's Law Game: explore electrostatic forces through six interactive puzzles
+
+## Ionic & Redox Reactions
+
+- [Double Replacement Reactions using Matchmaker Models](https://interactivechemistry.org/MatchmakerReactions): Double Replacement Reactions: model ionic reactions and equation balancing
+- [Double Replacement Reaction Simulator](https://interactivechemistry.org/IonicReactions): Ionic Reactions Simulator: react compounds to observe precipitate formation
+- [IonicReactions](https://interactivechemistry.org/IonicReactions2020): Ionic Reactions Simulator: demonstrate solubility and limiting reactants concepts
+- [Matchmaker with Electron Transfer](https://interactivechemistry.org/CuSO4): Copper Sulfate Redox Game: explore electron transfer reactions with metals
+- [Reactions of Calcium Metal](https://interactivechemistry.org/CalciumReactions): Calcium Reactions Game: illustrate redox reactions with water and acids
+
+## General Chemistry Concepts
+
+- [Dimensional Analysis Game](https://InteractiveChemistry.org/DimensionalAnalysis): Dimensional Analysis Game: learn unit conversion through playful chemistry games
+- [Combustion Reactions](https://interactivechemistry.org/CombustionReactions): Combustion Reactions Game: simulate fuel reactions and energy conservation concepts
+- [Sucrose Hydrolysis with Catalyst](https://interactivechemistry.org/Catalysis): Catalysis Game: model sucrose hydrolysis with acid and enzyme catalysts
+
+## Biochemistry & Life Processes
+
+- [Photosynthesis](https://interactivechemistry.org/Photosynthesis2022): Photosynthesis Game: investigate solar energy conversion to sugar and oxygen
+
+## Home
+
+- [Interactive Chemistry](https://interactivechemistry.org): Homepage for Interactive Chemistry educational games and simulations by Steve Sogo

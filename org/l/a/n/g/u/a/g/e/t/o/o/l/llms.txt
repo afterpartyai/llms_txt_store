@@ -1,64 +1,61 @@
 # LanguageTool
 
-> Multilingual grammar, spelling, and style checker with AI-powered paraphrasing for 30+ languages, available as browser extensions, desktop apps, and integrations for Microsoft Word, Google Docs, and LibreOffice.
+> > LanguageTool is an AI-powered grammar checker and writing assistant supporting 30+ languages with browser extensions, desktop apps, and API integration.
 
-LanguageTool is an open-source writing assistant developed in Germany that provides GDPR-compliant proofreading services. It offers browser extensions for Chrome, Firefox, Safari, Microsoft Edge, Opera, and Yandex, along with native desktop applications for Windows and macOS, serving millions of users worldwide with support for major languages including English, Spanish, French, German, Dutch, and Portuguese.
+LanguageTool provides free and premium multilingual grammar checking, paraphrasing, and writing assistance across web, desktop, and email platforms. The service offers enterprise solutions with GDPR compliance and integrates with popular productivity tools like Microsoft Word, Google Docs, and Gmail.
 
 ## Key Topics
 
-- Grammar checking and correction
-- Spelling and punctuation correction
-- AI-powered paraphrasing and style improvement
-- Browser extensions (Chrome, Firefox, Safari, Edge, Opera, Yandex)
-- Microsoft Word and Google Docs integration
-- LibreOffice compatibility
-- Desktop applications (Windows, macOS)
-- Multilingual support (30+ languages)
-- Open-source proofreading API
-- GDPR-compliant processing
-- Premium subscription features
-- Academic writing for students
-- Dialect and variant support
-- Twitter and email integration
-- Chrome Store and AppSource distribution
+- AI grammar checker
+- Multilingual support
+- Paraphrasing tool
+- Browser extensions
+- Desktop applications
+- Microsoft Word integration
+- Google Docs add-on
+- Gmail integration
+- Writing assistant
+- API documentation
+- Premium subscription
+- Enterprise/Business solutions
+- GDPR compliance
+- Spell checker
+- Style guide
 
-## Core Product & Platform
+## Core Products
 
-- [About LanguageTool](https://languagetool.org/pt/about): About page with company info, open source details, and career statistics
-- [Premium Subscription](https://languagetool.org/ca/premium): Premium subscription pricing with FAQ and browser extension support
-- [Spanish Grammar Checker](https://languagetool.org/es/corrector-ortografico-espanol): Spanish grammar and spell checker with browser extensions for 30+ languages
+- [Free AI Grammar Checker - LanguageTool](https://languagetool.org): LanguageTool homepage: AI-powered grammar checker for 30+ languages
+- [Premium - LanguageTool](https://languagetool.org/premium): Premium subscription page with enhanced grammar and style features
+- [AI Paraphrasing Tool | Free Paraphraser - LanguageTool](https://languagetool.org/paraphrasing-tool): LanguageTool's free AI paraphrasing tool for text rewriting
+- [LanguageTool for Businesses - LanguageTool](https://languagetool.org/business): Enterprise solution with team accounts and GDPR compliance
 
-## Desktop Applications
+## Desktop & Email Applications
 
-- [Windows Desktop App](https://languagetool.org/de/windows-desktop): Windows desktop app with Outlook integration for grammar checking
-- [macOS App (Italian)](https://languagetool.org/it/ios): macOS app for Apple Pages, Mail, and Slack with AI paraphrasing
-- [macOS App (Russian)](https://languagetool.org/ru/mac-desktop): macOS app for Apple Pages, Mail, Slack with AI paraphrasing features
+- [Grammar Checker for Windows - LanguageTool](https://languagetool.org/windows-desktop): Windows desktop app with Outlook and writing tool integration
+- [Grammar Checker for macOS - LanguageTool](https://languagetool.org/mac-desktop): macOS desktop app with paraphrasing and multi-app integration
+- [Grammar Checker for Gmail - LanguageTool](https://languagetool.org/google-mail): Gmail integration for LanguageTool grammar checking
+- [Grammar Checker for Apple Mail - LanguageTool](https://languagetool.org/apple-mail): Apple Mail integration for macOS grammar checking
+- [Grammar Checker for Thunderbird - LanguageTool](https://languagetool.org/thunderbird): Thunderbird email client addon for multilingual grammar checking
 
-## Office Suite Integrations
+## Office & Productivity Integrations
 
-- [Microsoft Word Add-in (French)](https://languagetool.org/fr/word-add-in): Microsoft Word add-in for grammar checking via AppSource integration
-- [Microsoft Word Add-in (Russian)](https://languagetool.org/ru/word-add-in): Russian Microsoft Word add-in for grammar and style checking
-- [Google Docs Add-on](https://languagetool.org/de/google-docs): Google Docs add-on for multilingual grammar and style checking
+- [Elevate Your Writing With LanguageTool for Word - LanguageTool](https://languagetool.org/word): Microsoft Word add-in for grammar, style, and writing assistance
+- [Grammar Checker for Google Docs - LanguageTool](https://languagetool.org/google-docs): Google Docs add-on for integrated grammar and style checking
+- [How to Use LanguageTool as a Free LibreOffice Spell Checker](https://languagetool.org/libre-office): Installation guide for LanguageTool LibreOffice plugin
+- [Free AI Grammar Checker - LanguageTool](https://languagetool.org/services): Overview of LanguageTool integrations across platforms and apps
 
-## Language-Specific Checkers
+## User Account & Dashboard
 
-- [Dutch Grammar Checker](https://languagetool.org/ca/corrector-ortografic-neerlandais): Dutch grammar checker with dialect support for 30+ languages
-- [Portuguese Spell Checker](https://languagetool.org/de/rechtschreibpruefung-portugiesisch): Portuguese spell checker with dialect options and browser extensions
-- [German Grammar Checker](https://languagetool.org/ca/corrector-ortografic-alemany): German grammar checker with AI reformulation and dialect support
-- [Spanish Spell Checker (Polish)](https://languagetool.org/pl/sprawdzanie-pisowni-hiszpanski): Spanish spell checker with browser extension and dialect selection
-- [English Spell Checker (Polish)](https://languagetool.org/pl/sprawdzanie-pisowni-angielski): English spell checker with AI paraphrasing and punctuation correction
-- [Dutch Grammar Checker (Ukrainian)](https://languagetool.org/uk/spellchecking-dutch): Dutch grammar checker with Ukrainian interface and browser extensions
+- [Login - LanguageTool](https://languagetool.org/user-login): User sign-in page with OAuth integration support
+- [Login - LanguageTool](https://languagetool.org/editor/new): User login and registration page with social login options
+- [Login - LanguageTool](https://languagetool.org/editor/statistics): User account statistics and writing analytics dashboard
+- [Login - LanguageTool](https://languagetool.org/editor/settings): User account settings and preferences configuration page
 
-## Education & Students
+## Developer & API Resources
 
-- [Student Solution (French)](https://languagetool.org/fr/students): Student solution for academic writing in Word, Google Docs, LibreOffice
-- [Student Solution (Dutch)](https://languagetool.org/nl/students): Dutch student solution with educational discount for academic writing
+- [API, Open Source and Developer information - LanguageTool](https://languagetool.org/proofreading-api): API documentation with GDPR compliance and pricing information
 
-## Developer Resources
+## Support & Learning
 
-- [API & Developer Documentation](https://languagetool.org/fr/proofreading-api): API documentation and developer info with GDPR-compliant proofreading
-
-## Optional
-
-- [Twitter Integration](https://languagetool.org/twitter): Twitter integration for multilingual grammar and spelling checking
-- [User Login](https://languagetool.org/de/user-login): User login page with Google, Apple, and Facebook authentication options
+- [Home | LanguageTool Help Center](https://help.languagetool.org): Help center with account, billing, and troubleshooting support
+- [LanguageTool - Insights into Good Writing](https://languagetool.org/insights): Writing tips and grammar insights for language learning
