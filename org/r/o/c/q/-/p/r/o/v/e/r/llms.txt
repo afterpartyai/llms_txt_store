@@ -1,0 +1,59 @@
+# Rocq Prover
+
+> Rocq is a general-purpose interactive theorem prover based on dependent type theory, offering formal verification, proof development, and program extraction capabilities.
+
+Rocq (formerly Coq) is a mature proof assistant with a rich ecosystem including the Rocq Platform distribution, standard library, community packages via opam, and comprehensive learning resources. The project is governed by the Rocq Consortium and supported by an active global community.
+
+## Key Topics
+
+- Rocq Prover
+- Rocq Platform
+- Dependent Types
+- Formal Verification
+- Theorem Proving
+- Proof Assistant
+- Gallina
+- Ltac2
+- OCaml
+- opam
+- Program Extraction
+- Coq Compatibility
+- Binary Installers
+- GitHub
+- CEP52
+
+## Getting Started
+
+- [Welcome to a World of Rocq](https://rocq-prover.org): Homepage introducing Rocq, a general-purpose interactive theorem prover
+- [Install the Rocq Prover](https://rocq-prover.org/install): Setup instructions for Rocq on Linux, macOS, Windows via opam/Nix
+- [About The Rocq Prover](https://rocq-prover.org/about): History and overview of Rocq's dependent-typed theorem prover
+- [Why Rocq?](https://rocq-prover.org/why): Key features and strengths of Rocq's dependent type theory approach
+
+## Learning & Documentation
+
+- [Learn Rocq](https://rocq-prover.org/docs): Official tutorials, exercises, and language manual for learning Rocq
+- [Rocq Books](https://rocq-prover.org/books): Curated selection of books for learning Rocq programming and proofs
+- [Rocq Standard Library](https://rocq-prover.org/stdlib): API reference for Rocq Standard Library modules and data structures
+
+## Platform & Distribution
+
+- [Rocq Platform](https://rocq-prover.org/platform): Overview of Rocq Platform distribution and installation for developers
+- [Rocq Packages · Browse Community Packages](https://rocq-prover.org/packages): Community package directory and ecosystem discovery via opam
+
+## Community & Governance
+
+- [The Rocq Community](https://rocq-prover.org/community): Community hub with Zulip, forums, events, and engagement resources
+- [Rocq Consortium](https://rocq-prover.org/consortium): Rocq Consortium governance, funding, and stakeholder information
+
+## Releases & Updates
+
+- [Rocq Prover and Rocq Platform releases](https://rocq-prover.org/releases): Complete release history with changelogs and manual versions
+- [Rocq Changelog](https://rocq-prover.org/changelog): Latest releases and updates across the Rocq ecosystem
+- [Rocq Prover 9.1.0 Release Notes](https://rocq-prover.org/releases/9.1.0): Release notes for Rocq Prover version 9.1.0 with features and fixes
+- [Release of Rocq 9.1 · Rocq Changelog](https://rocq-prover.org/changelog/2025-09-15-rocq-9.1): Changelog entry for Rocq 9.1 release with features and fixes
+
+## Optional
+
+- [Rocq Platform 2025.08.2 Release Notes](https://rocq-prover.org/releases/2025.08.2): Release notes for Rocq Platform version 2025.08.2
+- [Rocq Platform 2025.08.1 Release Notes](https://rocq-prover.org/releases/2025.08.1): Release notes for Rocq Platform version 2025.08.1
+- [Rocq Platform 2025.08.0 Release Notes](https://rocq-prover.org/releases/2025.08.0): Release notes for Rocq Platform version 2025.08.0

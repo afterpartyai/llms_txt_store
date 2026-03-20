@@ -1,0 +1,57 @@
+# StudyPlan.dev
+
+> > Free, structured C++ courses from beginner fundamentals to professional game development with CMake and SDL3.
+
+StudyPlan.dev offers comprehensive C++ learning paths covering everything from introductory programming concepts to advanced topics like game development, build systems, and performance optimization. The platform provides hands-on projects and cross-platform setup guides for Windows, macOS, and Linux.
+
+## Key Topics
+
+- C++
+- SDL3
+- CMake
+- Game Development
+- C++ Fundamentals
+- Object-Oriented Programming
+- Build Tools
+- Cross-Platform Development
+- Memory Optimization
+- Bit Manipulation
+- Professional C++
+- Development Environment
+- Data Types
+- Variables and Types
+- Branchless Programming
+
+## Course Catalogs
+
+- [Free Online C++ Courses](https://www.studyplan.dev): StudyPlan.dev homepage offering free C++ courses from basics to portfolio-ready projects
+- [C++ Course Catalog](https://www.studyplan.dev/cpp): C++ course catalog with structured lessons covering CMake, SDL3, and beginner to advanced topics
+- [Intro to C++ Programming](https://www.studyplan.dev/intro-to-programming): Beginner C++ course with step-by-step guidance from basics across Windows, Mac, and Linux
+- [Professional C++](https://www.studyplan.dev/pro-cpp): Advanced C++ course covering professional development, OOP, and large-scale project practices
+
+## Game Development with SDL3
+
+- [SDL3 Course Catalog](https://www.studyplan.dev/sdl): SDL3 course catalog for game development with C++ and 3D graphics programming
+- [Game Development with SDL3](https://www.studyplan.dev/sdl3): SDL3 game development course with hands-on C++ projects inspired by retro games
+- [What is SDL? An Introduction for C++ Game Developers](https://www.studyplan.dev/sdl3/what-is-sdl): Introduction to SDL library for cross-platform C++ game development and graphics programming
+
+## Build Systems and Project Management
+
+- [Managing C++ Projects Using CMake](https://www.studyplan.dev/cmake): CMake tutorial for managing complex C++ projects with cross-platform builds and CI/CD automation
+- [Introduction to the C++ Build Process and Tools](https://www.studyplan.dev/cmake/cpp-build-process): CMake course introduction covering C++ build process, compilers, and cross-platform toolchain setup
+
+## Development Environment Setup
+
+- [Setting Up Your C++ Development Environment](https://www.studyplan.dev/intro-to-programming/cpp-ide): Setup guide for C++ IDEs including Visual Studio, CLion, and Xcode for beginners
+
+## C++ Fundamentals and Core Concepts
+
+- [C++ Variables, Types and Operators](https://www.studyplan.dev/pro-cpp/variables-and-types): C++23 guide on variables, data types, and operators with practical code examples
+- [C++ Programming: Objects, Variables and Types Explained](https://www.studyplan.dev/intro-to-programming/objects-and-variables): Beginner guide to C++ objects, variables, and OOP fundamentals with practical examples
+- [C++ for Beginners: Creating & Updating Variables](https://www.studyplan.dev/intro-to-programming/creating-variables): Beginner lesson on creating and updating C++ variables with clear explanations
+
+## Advanced Topics: Performance and Memory Optimization
+
+- [C++ Bitwise Operations: Flags, Masks, and Memory Packing](https://www.studyplan.dev/working-with-bits/manipulating-bits): Advanced C++ guide on bit manipulation, bitmasking, and memory-efficient data structures
+- [C++ Branchless Programming: Bitwise vs Logical Operators](https://www.studyplan.dev/working-with-bits/boolean-algebra): C++ performance optimization guide on branchless programming and Boolean algebra techniques
+- [C++ Data Compression: Bit-Packing, Quantization, and Delta Encoding](https://www.studyplan.dev/working-with-bits/bit-packing): Advanced C++ tutorial on data compression, bit-packing, and memory optimization techniques

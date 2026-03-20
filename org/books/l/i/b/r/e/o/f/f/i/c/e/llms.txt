@@ -1,0 +1,52 @@
+# LibreOffice Books
+
+> Comprehensive guides and references for LibreOffice applications covering spreadsheets, databases, word processing, and drawing tools across multiple languages.
+
+LibreOffice Books provides official documentation for LibreOffice Calc, Base, Writer, and Draw applications. The collection includes user guides, tutorials, and reference materials maintained by the LibreOffice Documentation Team and community contributors, available in multiple languages including English and Czech.
+
+## Key Topics
+
+- LibreOffice Calc
+- LibreOffice Base
+- LibreOffice Writer
+- LibreOffice Draw
+- Spreadsheet Organization
+- Database Maintenance
+- Data Analysis
+- Pivot Tables
+- Styles and Templates
+- Keyboard Shortcuts
+- User Interface Customization
+- Data Linking
+- Forms and Data Entry
+- Document Export
+- HSQLDB
+
+## Calc Spreadsheet Guides
+
+- [Chapter 1 Introduction](https://books.libreoffice.org/en/CG75/CG7501-Introduction.html): LibreOffice Calc 7.5 introduction with spreadsheet basics
+- [Chapter 5 Using Styles and Templates](https://books.libreoffice.org/en/CG74/CG7405-StylesAndTemplates.html): Calc Guide on styles and templates for spreadsheet formatting
+- [Chapter 9 Using Pivot Tables](https://books.libreoffice.org/en/CG74/CG7409-PivotTables.html): LibreOffice Calc tutorial on pivot tables for data analysis
+- [Calc Guide 24.8 - Chapter 12, Linking Data](https://books.libreoffice.org/en/CG248/CG24812-LinkingCalcData.html): LibreOffice Calc guide chapter on linking data across sheets
+
+## Database and Forms
+
+- [Chapter 10 Database Maintenance](https://books.libreoffice.org/en/BG72/BG7210-DatabaseMaintenance.html): LibreOffice Base guide on database maintenance and HSQLDB
+- [Kapitola 4 Formuláře](https://books.libreoffice.org/cs/BG73/BG7304-Forms.html): LibreOffice Base guide on database forms and data entry
+
+## Writer and Templates
+
+- [Kapitola 10, Práce se šablonami](https://books.libreoffice.org/cs/WG242/WG24210-WorkingWithTemplates.html): LibreOffice Writer guide on working with templates and styles
+
+## User Interface and Customization
+
+- [24.2 Calc Guide - Chapter 16 User Interface Variants](https://books.libreoffice.org/en/CG24/CG2416-UserInterfaceVariants.html): Calc Guide on user interface customization and keyboard shortcuts
+
+## Reference and Appendices
+
+- [Appendix A, Keyboard Shortcuts](https://books.libreoffice.org/en/DG72/DG7213-KeyboardShortcuts.html): LibreOffice Draw appendix with keyboard shortcuts reference
+- [Dodatek B, Nástrojové lišty](https://books.libreoffice.org/cs/DG71/DG71/DG7114-Toolbars.html): LibreOffice Draw appendix on toolbar management and customization
+
+## Optional Content
+
+- [Kapitola 6 Tisk, export, odeslání e-mailem a podepisování](https://books.libreoffice.org/cs/CG74/CG7406-PrintExportEmailSign.html): Calc Guide chapter on printing, export, email, and digital signatures

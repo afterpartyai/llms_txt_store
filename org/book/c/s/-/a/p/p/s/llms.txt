@@ -1,0 +1,57 @@
+# Computer Science with Applications
+
+> > A comprehensive textbook introducing computational thinking and programming fundamentals through Python, data structures, and practical applications.
+
+This documentation site hosts the Computer Science with Applications textbook, designed for students learning programming basics through advanced topics like functional programming and data manipulation. The book emphasizes hands-on learning with real-world examples using Python, NumPy, and pandas.
+
+## Key Topics
+
+- Python
+- Data Structures
+- Functional Programming
+- Recursion
+- NumPy
+- pandas
+- Getting Started
+- Control Flow
+- Functions
+- Exception Handling
+- Classes and Objects
+- Computational Thinking
+- Code Organization
+- CSV/JSON
+- Educational Resource
+
+## Core Chapters
+
+- [Computer Science with Applications](https://book.cs-apps.org): Homepage for Computer Science with Applications textbook covering Python, NumPy, pandas
+- [1. Getting Started](https://book.cs-apps.org/getting_started/index.html): Getting Started chapter covering Python basics, control flow, functions, exceptions
+- [2. Data Structures](https://book.cs-apps.org/data_structures/index.html): Data Structures chapter on lists, dicts, sets, stacks, queues, classes in Python
+- [3. Functional Programming and Recursion](https://book.cs-apps.org/functions/index.html): Functional programming and recursion tutorial covering higher-order functions, trees
+- [4. Working with Data](https://book.cs-apps.org/working_with_data/index.html): Working with Data chapter on NumPy, pandas, CSV, JSON file I/O and processing
+
+## Programming Fundamentals
+
+- [1.1. Computational Thinking](https://book.cs-apps.org/getting_started/introduction/index.html): Computational thinking introduction with real-world examples and problem-solving
+- [1.2. Programming Basics](https://book.cs-apps.org/getting_started/basics/index.html): Programming Basics tutorial for Python 3 on Windows, MacOS, Linux platforms
+- [1.3. Control Flow Statements](https://book.cs-apps.org/getting_started/control_structures/index.html): Control Flow Statements tutorial covering conditionals, loops, and Python basics
+- [1.4. Introduction to Functions](https://book.cs-apps.org/getting_started/intro_functions/index.html): Introduction to Functions covering parameters, return values, code reuse in Python
+- [1.6. Understanding Errors and Catching Exceptions](https://book.cs-apps.org/getting_started/exceptions/index.html): Exception handling guide covering Python errors, stack traces, and error catching
+
+## Data Structures & Object-Oriented Programming
+
+- [2.1. Lists, Tuples, and Strings](https://book.cs-apps.org/data_structures/lists/index.html): Lists, Tuples, and Strings tutorial covering Python collections and sequences
+- [2.2. Dictionaries and Sets](https://book.cs-apps.org/data_structures/dictionaries/index.html): Dictionaries and Sets tutorial on key-value storage and data organization in Python
+- [2.3. Implementing a Data Structure: Stacks and Queues](https://book.cs-apps.org/data_structures/stacks_queues/index.html): Stacks and Queues implementation tutorial with API design and interfaces
+- [2.4. Classes and Objects](https://book.cs-apps.org/data_structures/classes/index.html): Classes and Objects tutorial on OOP, encapsulation, and Python fundamentals
+
+## Advanced Programming Concepts
+
+- [3.1. Functional Programming](https://book.cs-apps.org/functions/functions/index.html): Functional Programming tutorial on higher-order functions and programming paradigms
+- [3.2. Recursion](https://book.cs-apps.org/functions/recursion/index.html): Recursion tutorial covering base cases, recursive definitions, algorithm design
+
+## Reference & Getting Started
+
+- [Preface](https://book.cs-apps.org/preface.html): Preface introducing book notation, example code, and learning guide structure
+- [1.5. Basics of Code Organization](https://book.cs-apps.org/getting_started/organization/index.html): Code Organization tutorial on Python modules, imports, file structure fundamentals
+- [1.7. Example: A Game of Chance](https://book.cs-apps.org/getting_started/example/index.html): Code example implementing a medieval dice game with probability and simulation

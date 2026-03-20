@@ -1,0 +1,64 @@
+# OpenReplay Blog
+
+> A comprehensive frontend development resource covering security, performance, modern web standards, and practical coding techniques.
+
+OpenReplay Blog provides in-depth tutorials and guides for frontend developers, with a focus on security best practices, modern CSS and JavaScript features, web performance optimization, and emerging web technologies. The blog serves as a knowledge base for building secure, performant, and maintainable web applications.
+
+## Key Topics
+
+- JavaScript
+- TypeScript
+- CSS
+- Node.js
+- Security
+- Web Components
+- DOM
+- HTTP
+- Chrome DevTools
+- Performance Optimization
+- Input Validation
+- Web Standards
+- Frontend Architecture
+- Developer Tools
+- Best Practices
+
+## Security & Best Practices
+
+- [Safe User Input Handling in Node.js](https://blog.openreplay.com/safe-user-input-handling-node-js): Guide to preventing SQL/NoSQL injection attacks in Node.js with Zod
+- [A First Look at the HTML Sanitizer API](https://blog.openreplay.com/html-sanitizer-api-overview): Overview of HTML Sanitizer API for XSS prevention vs DOMPurify
+- [How to Secure a WordPress Site](https://blog.openreplay.com/secure-wordpress-site): WordPress security hardening guide with authentication and plugin best practices
+- [Why You Should Be Careful with `!` in TypeScript](https://blog.openreplay.com/typescript-exclamation-mark): Best practices for TypeScript non-null assertions and type safety
+
+## Modern CSS & Styling
+
+- [Styling Select Elements with Modern CSS](https://blog.openreplay.com/style-select-elements-modern-css): Cross-browser techniques for styling form select elements with CSS
+- [Exploring the CSS random() Function](https://blog.openreplay.com/css-random-function): Exploration of native CSS random() function and browser support
+- [Relative Color Syntax in CSS Explained](https://blog.openreplay.com/css-relative-color-syntax): CSS relative color syntax with OKLCH, HSL, RGB color spaces
+- [Understanding Dynamic Viewport Units in CSS](https://blog.openreplay.com/understanding-dynamic-viewport-units-css): Guide to CSS dynamic viewport units (svh, lvh, dvh) for responsive design
+
+## JavaScript & Async Programming
+
+- [The Case for Vanilla JavaScript Over Frameworks](https://blog.openreplay.com/vanilla-javascript-over-frameworks): Analysis of vanilla JavaScript alternatives to React, Vue, Angular frameworks
+- [Writing Cleaner Async Chains with Promise.try](https://blog.openreplay.com/clean-async-chains-promise-try): Guide to Promise.try for cleaner async/await error handling chains
+- [How to Find DOM Elements by Text](https://blog.openreplay.com/find-dom-elements-text): Tutorial on DOM element selection using querySelector, XPath, TreeWalker
+
+## Web Components & Frameworks
+
+- [How OpenUI Is Shaping Web Components](https://blog.openreplay.com/openui-shaping-web-components): OpenUI W3C initiative shaping web components with Popover and Invoker APIs
+- [Getting Started with Laravel Livewire](https://blog.openreplay.com/laravel-livewire-getting-started): Beginner guide to Laravel Livewire reactive components and Blade templates
+- [Real-Time UX with the htmx SSE Extension](https://blog.openreplay.com/real-time-ux-htmx-sse): Building real-time UX with htmx Server-Sent Events extension
+
+## Web Technologies & Infrastructure
+
+- [The Best CDNs for Modern Web Apps](https://blog.openreplay.com/best-cdns-modern-web-apps): Comparison of CDNs: Cloudflare, Fastly, AWS CloudFront, Akamai, Bunny
+- [What's Inside an HTTP Response?](https://blog.openreplay.com/inside-http-response): Educational guide to HTTP response structure, headers, and status codes
+- [Meet UnJS: Framework-Agnostic JavaScript Tools](https://blog.openreplay.com/unjs-framework-agnostic-javascript-tools): Overview of UnJS ecosystem tools for Node.js and Deno development
+
+## Developer Tools & 3D Graphics
+
+- [Hidden Gems in Chrome DevTools](https://blog.openreplay.com/hidden-gems-chrome-devtools): Guide to advanced Chrome DevTools features: CSS Overview, Logpoints, Coverage
+- [What Is Babylon.js? A Quick Introduction](https://blog.openreplay.com/babylon-js-introduction): Introduction to Babylon.js 3D engine with WebGL, WebGPU, WebXR
+
+## Homepage
+
+- [OpenReplay Blog - Resources for Frontend Developers](https://blog.openreplay.com): OpenReplay blog homepage featuring frontend dev resources and tutorials

@@ -1,0 +1,42 @@
+# Jackson Shi's Blog
+
+> A tech blog featuring Rust programming tutorials, LeetCode algorithm solutions, and web development insights built with Next.js and Tailwind CSS.
+
+Jackson Shi maintains a focused technical blog covering computer science fundamentals and modern programming languages. The site emphasizes practical problem-solving through LeetCode challenges and deep dives into Rust's memory management systems.
+
+## Key Topics
+
+- Rust
+- LeetCode
+- Binary Search
+- Smart Pointers
+- Rc and Weak References
+- Arc
+- RefCell
+- Algorithm Solutions
+- Coding Interviews
+- Next.js
+- Tailwind CSS
+- Web Development
+- Reference Counter
+- Rotated Sorted Arrays
+- Newton's Method
+
+## Core Pages
+
+- [Jackson Shi's Blog](https://jacksonshi.vercel.app): Homepage featuring tech blog on Rust, algorithms, and web development
+- [Blog Index](https://jacksonshi.vercel.app/blog): Blog index page with LeetCode solutions and Rust programming tutorials
+
+## Rust Programming
+
+- [Rc and Weak in Rust](https://jacksonshi.vercel.app/blog/rust/rc-weak-rust): Tutorial on Rust smart pointers: Rc, Arc, and Weak references for memory management
+
+## LeetCode Algorithm Solutions
+
+- [Leetcode 153. Find Minimum in Rotated Sorted Array](https://jacksonshi.vercel.app/blog/leetcode/leetcode-find-minimum-in-rotated-sorted-array): Binary search solution on rotated sorted array implemented in Rust
+- [Leetcode 69. Sqrt(x)](https://jacksonshi.vercel.app/blog/leetcode/leetcode-sqrt(x)): Binary search and Newton's method approaches for computing square roots
+- [Leetcode 162. Find Peak Element](https://jacksonshi.vercel.app/blog/leetcode/leetcode-find-peak-in-list): Binary search algorithm for efficiently finding peak elements in arrays
+
+## Web Development & Tools
+
+- [Introducing Tailwind Nextjs Starter Blog](https://jacksonshi.vercel.app/blog/introducing-tailwind-nextjs-starter-blog): Article about the Next.js and Tailwind CSS blog template used to build this site

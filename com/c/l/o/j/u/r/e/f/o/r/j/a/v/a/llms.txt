@@ -1,0 +1,63 @@
+# Clojure for Java
+
+> A comprehensive learning platform helping Java developers transition to functional programming with Clojure on the JVM.
+
+Clojure for Java provides structured courses, guides, and best practices for Java professionals adopting Clojure. The site covers foundational concepts, enterprise migration strategies, and advanced topics like asynchronous programming and performance optimization.
+
+## Key Topics
+
+- Functional Programming
+- Java to Clojure Migration
+- Immutable Data Structures
+- JVM
+- Pure Functions
+- Concurrency
+- OOP to Functional Paradigm
+- Enterprise Software
+- Clojure Foundations
+- Asynchronous Programming
+- Performance Optimization
+- Leiningen
+- REPL
+- Thread Safety
+- Web Development
+
+## Core Learning Paths
+
+- [Clojure for Java](https://clojureforjava.com): Homepage introducing Clojure on JVM for Java developers with practical examples
+- [Clojure Foundations for Java Developers](https://clojureforjava.com/clojure-foundations-for-java-developers): Main product page for comprehensive Clojure learning course for Java developers
+- [Mastering Functional Programming with Clojure](https://clojureforjava.com/mastering-functional-programming-with-clojure): Core product covering functional programming mastery with Clojure and immutable data
+- [Migrating from Java OOP to Functional Clojure](https://clojureforjava.com/migrating-from-java-oop-to-functional-clojure): Comprehensive guide for migrating enterprise Java OOP systems to Clojure
+
+## Intermediate & Advanced Topics
+
+- [Intermediate Clojure Java Engineers: Enhancing Your Skills](https://clojureforjava.com/intermediate-clojure-java-engineers-enhancing-your): Intermediate-level guide for Java engineers enhancing functional programming skills
+- [Concurrency & Parallelism: Thread Safety and Immutability](https://clojureforjava.com/mastering-functional-programming-with-clojure/concurrency-parallelism/thread-safety-and-immutability): Guide to thread safety through Clojure's immutable data structures and pure functions
+- [Asynchronous & Reactive Programming: Designing for Asynchrony](https://clojureforjava.com/clojure-foundations-for-java-developers/asynchronous-reactive-programming/best-practices/designing-for-asynchrony): Best practices for designing asynchronous systems with core.async in Clojure
+- [Managing Side Effects & Interoperability: Managing State Changes Functionally](https://clojureforjava.com/mastering-functional-programming-with-clojure/managing-side-effects-interoperability/managing-state-changes-functionally): Tutorial on functional state management using immutable data and event sourcing
+- [Protocols, Multimethods, & Polymorphism: Introduction to Protocols](https://clojureforjava.com/mastering-functional-programming-with-clojure/protocols-multimethods-polymorphism/introduction-to-protocols): Tutorial on Clojure protocols for abstraction and polymorphism implementation
+
+## Best Practices & Design
+
+- [Clojure Design Patterns & Best Practices Java](https://clojureforjava.com/clojure-design-patterns-best-practices-java): Design patterns and best practices for Clojure development targeting Java professionals
+- [Performance Optimization: Setting Performance Goals](https://clojureforjava.com/clojure-foundations-for-java-developers/performance-optimization/identifying-performance-bottlenecks/setting-performance-goals): Guide to setting realistic performance goals for Clojure applications on JVM
+- [Performance Tuning Web Applications](https://clojureforjava.com/clojure-foundations-for-java-developers/web-development-with-clojure/performance-tuning): Performance tuning guide for Clojure web applications using profiling tools
+- [Performance Optimization: Inlining Functions](https://clojureforjava.com/clojure-foundations-for-java-developers/performance-optimization/optimizing-function-calls/inlining-functions): Tutorial on function inlining optimization techniques in Clojure compiler
+
+## Web Development & Deployment
+
+- [Deploying Clojure Web Applications](https://clojureforjava.com/clojure-foundations-for-java-developers/web-development-with-clojure/deploying-clojure-web-applications): Guide to deploying Clojure web applications using Uberjar and Docker
+- [Clojure Frameworks & Libraries](https://clojureforjava.com/clojure-frameworks-libraries): Reference guide for Clojure frameworks, libraries, and enterprise development tools
+
+## Data & Architecture
+
+- [Clojure & NoSQL](https://clojureforjava.com/clojure-nosql): Guide to designing scalable data solutions with Clojure and NoSQL databases
+
+## Getting Started
+
+- [Setting Up the Clojure Development Environment](https://clojureforjava.com/mastering-functional-programming-with-clojure/functional-programming-clojure/setting-up-the-clojure-development-environment): Setup guide for Clojure development environment with Leiningen and deps.edn
+
+## Optional Resources
+
+- [Cultural Shift to Functional Programming: Encouraging Innovation and Experimentation](https://clojureforjava.com/migrating-from-java-oop-to-functional-clojure/cultural-shift-to-functional-programming/encouraging-innovation-and-experimentation): Guide on fostering team innovation during Java to Clojure functional paradigm shift
+- [Real-World Success Stories](https://clojureforjava.com/migrating-from-java-oop-to-functional-clojure/the-evolution-of-enterprise-software-development/real-world-success-stories): Case studies of enterprises successfully transitioning from Java OOP to Clojure

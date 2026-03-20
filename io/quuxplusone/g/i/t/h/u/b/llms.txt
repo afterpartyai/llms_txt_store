@@ -1,0 +1,35 @@
+# quuxplusone.github.io
+
+> A collection of interactive games, word puzzles, and C++ educational resources by Arthur O'Dwyer.
+
+This site features classic game ports and modern word puzzle games alongside technical educational content focused on C++ standard library implementation. The projects span retro gaming preservation and contemporary programming education.
+
+## Key Topics
+
+- Adventure game
+- Word games
+- Interactive fiction
+- C++ standard library
+- Game ports
+- Scrabble
+- Wordle
+- Text adventure
+- Z-machine
+- Crowther and Woods
+- Anagram generator
+- Hands-on course
+- Retro gaming
+- Arthur O'Dwyer
+
+## Educational Resources
+
+- [The Standard Library From Scratch](https://quuxplusone.github.io/from-scratch/): Hands-on C++ standard library implementation workshop course
+
+## Interactive Games
+
+- [Adventure](https://quuxplusone.github.io/Advent/): Port of classic Adventure game by Crowther and Woods
+- [Birdle](https://quuxplusone.github.io/wordle-clone/birdle/): Bird-themed Wordle clone with daily five-letter word puzzles
+
+## Word Puzzles & Tools
+
+- [Scrabblegrams](https://quuxplusone.github.io/Scrabblegrams/): Interactive Scrabble anagram generator and word puzzle tool

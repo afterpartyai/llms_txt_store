@@ -1,0 +1,61 @@
+# V8
+
+> Google's open-source high-performance JavaScript and WebAssembly engine powering Chrome and Node.js with cutting-edge compiler optimizations and runtime features.
+
+V8 is the JavaScript engine that executes code in Chrome, Node.js, and other environments. The site provides documentation, feature explainers, performance optimization techniques, and research opportunities for developers and researchers working with JavaScript and WebAssembly.
+
+## Key Topics
+
+- V8 Engine
+- JavaScript Performance
+- WebAssembly
+- TurboFan Compiler
+- ECMAScript Standards
+- Memory Management
+- Security & Sandbox
+- Optimization Techniques
+- JSPI (JavaScript Promise Integration)
+- Explicit Resource Management
+- Iterator Helpers
+- JSON.stringify
+- Compiler Architecture
+- Engine Development
+
+## Getting Started
+
+- [V8 JavaScript engine](https://v8.dev): Google's open-source high-performance JavaScript and WebAssembly engine
+- [Documentation · V8](https://v8.dev/docs): V8 documentation including getting started and C++ embedding guides
+- [V8 Tools Landing Page](https://v8.dev/tools): V8 tools for profiling, debugging, and performance analysis
+
+## JavaScript Features & Standards
+
+- [Features · V8](https://v8.dev/features): V8 JavaScript and WebAssembly feature explainers and ECMAScript standards
+- [JavaScript's New Superpower: Explicit Resource Management · V8](https://v8.dev/features/explicit-resource-management): JavaScript Explicit Resource Management proposal and Symbol.dispose API
+- [Iterator helpers · V8](https://v8.dev/features/iterator-helpers): JavaScript Iterator helpers for enhanced iterator usage and consumption
+
+## Performance & Optimization
+
+- [Blog · V8](https://v8.dev/blog): V8 blog archive covering performance, optimization, and engine updates
+- [How we made JSON.stringify more than twice as fast · V8](https://v8.dev/blog/json-stringify): JSON.stringify performance optimization techniques in V8
+- [Giving V8 a Heads-Up: Faster JavaScript Startup with Explicit Compile Hints · V8](https://v8.dev/blog/explicit-compile-hints): Explicit Compile Hints for improved JavaScript startup performance
+- [Turbocharging V8 with mutable heap numbers · V8](https://v8.dev/blog/mutable-heap-number): V8 optimization using mutable heap numbers for numeric performance
+
+## Compiler & Engine Architecture
+
+- [Land ahoy: leaving the Sea of Nodes · V8](https://v8.dev/blog/leaving-the-sea-of-nodes): TurboFan compiler architecture shift from Sea of Nodes to CFG
+- [Speculative Optimizations for WebAssembly using Deopts and Inlining · V8](https://v8.dev/blog/wasm-speculative-optimizations): WebAssembly optimization techniques: speculative inlining and deoptimization
+
+## WebAssembly & Security
+
+- [Introducing the WebAssembly JavaScript Promise Integration API · V8](https://v8.dev/blog/jspi): WebAssembly JavaScript Promise Integration API (JSPI) introduction
+- [WebAssembly JSPI has a new API · V8](https://v8.dev/blog/jspi-newapi): Updates to WebAssembly JavaScript Promise Integration API in Chrome
+- [The V8 Sandbox · V8](https://v8.dev/blog/sandbox): V8 Sandbox: lightweight in-process security sandbox for memory safety
+
+## Research & Community
+
+- [Research Grant · V8](https://v8.dev/grant): V8 Research Grant funding for JavaScript and WebAssembly research
+
+## Optional
+
+- [V8 logos · V8](https://v8.dev/logo): Official V8 logos and branding assets in SVG format
+- [Terms of service · V8](https://v8.dev/terms): V8 website terms of service and licensing information

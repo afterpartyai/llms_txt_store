@@ -1,0 +1,60 @@
+# VisuAlgo
+
+> Interactive algorithm and data structure visualizations with animations to help learners understand computational concepts through visual learning.
+
+VisuAlgo is an educational platform created by Steven Halim at the National University of Singapore that provides animated visualizations of algorithms and data structures. It includes interactive training modules, assessments, and supports multiple languages including English, Chinese, and Indonesian.
+
+## Key Topics
+
+- Algorithm Visualization
+- Data Structures
+- Graph Algorithms
+- DFS/BFS
+- Shortest Paths
+- Minimum Spanning Tree
+- Network Flow
+- Binary Heap
+- Dynamic Programming
+- Interactive Learning
+- Animation
+- Competitive Programming
+- NP-Hard Problems
+- Educational Tool
+- Computer Science Education
+
+## Core Platform
+
+- [VisuAlgo Homepage](https://visualgo.net): Main entry point for interactive algorithm visualization tool by Steven Halim
+- [Training Platform](https://visualgo.net/training): Formative assessment and training modules for data structures and algorithms
+- [User Profile](https://visualgo.net/profile): Account login and user profile management for VisuAlgo platform
+
+## Graph Algorithms
+
+- [Graph Data Structures](https://visualgo.net/en/graphds): Interactive visualization of adjacency matrix, adjacency list, and edge list representations
+- [Graph Traversal (DFS/BFS)](https://visualgo.net/en/dfsbfs): Depth-first and breadth-first search visualization with topological sort and strongly connected components
+- [Shortest Paths](https://visualgo.net/en/sssp): Single-source shortest path algorithms including Dijkstra, Bellman-Ford, BFS, and dynamic programming approaches
+- [Minimum Spanning Tree](https://visualgo.net/en/mst): Interactive visualization of Prim's and Kruskal's minimum spanning tree algorithms
+- [Network Flow (Max Flow, Min Cut)](https://visualgo.net/en/maxflow): Maximum flow and minimum cut visualization with Ford-Fulkerson and Dinic's algorithms
+
+## Advanced Graph Problems
+
+- [Graph Matching](https://visualgo.net/en/matching): Maximum cardinality bipartite matching and graph matching algorithm visualization
+- [Minimum Vertex Cover](https://visualgo.net/en/mvc): NP-hard minimum vertex cover problem with bruteforce, approximation, dynamic programming, and greedy approaches
+- [Steiner Tree](https://visualgo.net/en/steinertree): Steiner tree NP-hard optimization problem visualization and solution algorithms
+
+## Linear Data Structures
+
+- [Linked Lists and Linear Structures](https://visualgo.net/en/list): Visualization of single/doubly linked lists, stacks, queues, and deques
+- [Binary Heap (Priority Queue)](https://visualgo.net/en/heap): Binary heap and priority queue data structure visualization and operations
+
+## Localization
+
+- [English Version](https://visualgo.net/en): VisuAlgo English language interface for algorithm visualization
+- [Chinese Version](https://visualgo.net/zh): VisuAlgo Chinese language interface for data structure and algorithm learning
+- [Indonesian Version](https://visualgo.net/id): VisuAlgo Indonesian language interface for algorithm and data structure education
+
+## Optional
+
+- [Statistics](https://visualgo.net/statistics): Translation statistics and localization progress metrics
+- [Tests and Quizzes](https://visualgo.net/tests): Quiz and test system for assessing algorithm knowledge
+- [Logout](https://visualgo.net/logout): User session management and logout functionality

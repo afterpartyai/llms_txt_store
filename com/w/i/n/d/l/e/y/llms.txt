@@ -1,0 +1,61 @@
+# Phil Windley's Technometria
+
+> > A blog and knowledge base exploring decentralized identity, agentic AI governance, and the Internet of Things through policy-driven architecture and verifiable credentials.
+
+Phil Windley's Technometria is a long-running platform for technical essays and research on building trustworthy, decentralized systems. The site covers foundational concepts in IoT architecture using picos, modern challenges in digital identity and verifiable credentials, and emerging patterns in agentic AI safety through deterministic policy enforcement frameworks like Cedar.
+
+## Key Topics
+
+- Cedar (authorization policy language)
+- OpenClaw (agentic AI framework)
+- Agentic AI
+- Authorization & Access Control
+- Digital Identity
+- Verifiable Credentials
+- Policy Enforcement
+- Internet of Things
+- Picos (programmable actors)
+- SEDI (State-Endorsed Digital Identity)
+- Decentralization
+- Dynamic Authorization
+- Agent Delegation
+- AI Safety
+- Technometria Philosophy
+
+## Agentic AI & Policy Enforcement
+
+- [Why Authorization Is the Hard Problem in Agentic AI](https://www.windley.com/archives/2026/02/why_authorization_is_the_hard_problem_in_agentic_ai.shtml): Analysis of dynamic authorization as core challenge in agentic AI systems
+- [A Policy-Aware Agent Loop with Cedar and OpenClaw](https://www.windley.com/archives/2026/02/a_policy-aware_agent_loop_with_cedar_and_openclaw.shtml): Cedar authorization integration into OpenClaw agent loop for Zero Trust agentic AI
+- [Beyond Denial: Using Policy Constraints to Guide OpenClaw Planning](https://www.windley.com/archives/2026/02/beyond_denial_using_policy_constraints_to_guide_openclaw_planning.shtml): Cedar constraints guiding OpenClaw agent planning within policy boundaries
+- [Childproofing the Control Plane: Using Cedar to Build Frontal Lobes for Agentic Systems](https://www.windley.com/archives/2026/02/childproofing_the_control_plane_using_cedar_to_build_frontal_lobes_for_agentic_systems.shtml): Cedar policies for safe OpenClaw and Home Assistant integration with governed autonomy
+- [AI Is Not Your Policy Engine (And That's a Good Thing)](https://www.windley.com/archives/2025/12/ai_is_not_your_policy_engine_and_thats_a_good_thing.shtml): Argument for deterministic policy enforcement separate from LLM decision-making
+- [Policy Authoring and Analysis with AI](https://www.windley.com/archives/2025/12/policy_authoring_and_analysis_with_ai.shtml): AI-assisted Cedar policy authoring and analysis with human-in-the-loop guardrails
+- [From Architecture to Accountability: How AI Helps Policy Become Practice](https://www.windley.com/archives/2026/01/from_architecture_to_accountability_how_ai_helps_policy_become_practice.shtml): Using AI to trace policy intent and ensure authorization accountability
+
+## Agent Delegation & Cross-Domain Authorization
+
+- [Cross-Domain Delegation in a Society of Agents](https://www.windley.com/archives/2026/03/cross-domain_delegation_in_a_society_of_agents.shtml): Cedar and OpenClaw policies for agent authorization and cross-domain delegation
+- [Delegation as Data: Applying Cedar Policies to OpenClaw Subagents](https://www.windley.com/archives/2026/03/delegation_as_data_applying_cedar_policies_to_openclaw_subagents.shtml): Cedar policy enforcement for OpenClaw subagent delegation and access control
+
+## Digital Identity & Verifiable Credentials
+
+- [A Legal Identity Foundation Isn't Optional](https://www.windley.com/archives/2026/03/a_legal_identity_foundation_isnt_optional.shtml): Analysis of SEDI and verifiable credentials for legal identity infrastructure
+- [SEDI and Client-Side Identity](https://www.windley.com/archives/2026/02/sedi_and_client-side_identity.shtml): Exploration of state-endorsed digital identity and SSL/TLS authentication history
+- [Fix Identity First](https://www.windley.com/archives/2026/03/fix_identity_first.shtml): Analysis of SAVE Act and need for federated identity infrastructure for voting
+- [Establishing First Person Digital Trust](https://www.windley.com/archives/2025/04/establishing_first_person_digital_trust.shtml): Verifiable relationship credentials for decentralized first-person identity trust
+
+## Internet of Things & Picos Architecture
+
+- [Social Things, Trustworthy Spaces, and the Internet of Things](https://www.windley.com/archives/2015/07/social_things_trustworthy_spaces_and_the_internet_of_things.shtml): IoT architecture model using picos for social things in trustworthy spaces
+- [Promises and Communities of Things](https://www.windley.com/archives/2015/12/promises_and_communities_of_things.shtml): Promise theory application to picos and communities of social IoT things
+- [The CompuServe of Things](https://www.windley.com/archives/2014/04/the_compuserve_of_things.shtml): Critique of IoT silos and call for decentralized Internet of Things architecture
+- [Monitoring Temperatures in a Remote Pump House Using LoraWAN](https://www.windley.com/archives/2023/03/monitoring_temperatures_in_a_remote_pump_house_using_lorawan.shtml): LoraWAN sensor deployment guide using picos for remote temperature monitoring
+
+## Foundational Essays
+
+- [Why Technometria](https://www.windley.com/essays/2005/why_technometria.shtml): Foundational essay explaining Technometria philosophy and knowledge categorization
+- [Phil Windley's Technometria](https://www.windley.com): Phil Windley's Technometria homepage on building the Internet of My Things
+
+## Optional
+
+- [Contact Form](https://www.windley.com/contact.shtml): Contact form for reaching Phil Windley about Technometria

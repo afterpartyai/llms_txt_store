@@ -1,0 +1,58 @@
+# CodeLessGenie.com
+
+> > CodeLessGenie.com is a comprehensive tutorial platform covering web development (frontend and backend), DevOps, computer science fundamentals, and popular programming languages with beginner-friendly guides and in-depth technical articles.
+
+The site focuses on making complex technical concepts accessible through structured tutorials and practical examples. It covers full-stack web development, DevOps practices, algorithms, and languages like Python, C#, and Rust, with extensive Python-specific content including Django REST Framework and data science libraries.
+
+## Key Topics
+
+- Python
+- Django REST Framework
+- Web Development
+- DevOps & CI/CD
+- Algorithms & Data Structures
+- Frontend Development
+- Backend Development
+- Debugging
+- Object-Oriented Programming
+- C#
+- Rust
+- Pandas
+- Error Handling
+- Best Practices
+- Getting Started
+
+## Getting Started Guides
+
+- [Getting Started with Web Backend: A Beginner's Guide](https://www.codelessgenie.com/backend-web-dev): Beginner's guide to backend development covering fundamentals and tech stacks
+- [Getting Started with Frontend Web: A Beginner's Guide](https://www.codelessgenie.com/frontend-web-dev): Beginner's guide to frontend development using HTML, CSS, and JavaScript
+- [Getting Started with DevOps: A Beginner's Guide](https://www.codelessgenie.com/devops-cicd): Introduction to DevOps principles, CI/CD, and automation tools like Jenkins
+- [Getting Started with Algorithms: A Beginner's Guide](https://www.codelessgenie.com/data-structures-algorithms): Beginner's guide to algorithms, complexity analysis, and problem-solving
+- [Getting Started with C#: A Beginner's Guide](https://www.codelessgenie.com/csharp-tutorial): C# tutorial covering .NET SDK, Visual Studio setup, and OOP fundamentals
+- [Getting Started with Rust: A Beginner's Guide](https://www.codelessgenie.com/rust-tutorial): Rust tutorial covering memory safety, ownership, and Cargo package manager
+
+## Python & Django Development
+
+- [Python: Understanding the Difference Between Functions, Unbound Methods, and Bound Methods](https://www.codelessgenie.com/blog/what-is-the-difference-between-a-function-an-unbound-method-and-a-bound-method): Python OOP explained: functions vs bound/unbound methods in Python 2 and 3
+- [What is a Python Expression? Demystifying Definitions, Strings, and eval() Usage Explained](https://www.codelessgenie.com/blog/what-is-an-expression-in-python): Python expressions tutorial covering eval(), f-strings, and security concerns
+- [Is Using a Python Variable Outside a With Statement Safe? Future Versions Explained](https://www.codelessgenie.com/blog/using-python-variable-outside-with-statement): Python with statement scoping: variable safety and context manager best practices
+- [How to Fix 400 Bad Request Error When Using APITestCase with Django REST Framework](https://www.codelessgenie.com/blog/using-apitestcase-with-django-rest-framework): Django REST Framework testing: fixing 400 errors in APITestCase with serializers
+- [Python super() in Django Models: Explaining the Save Method Usage and Alternatives](https://www.codelessgenie.com/blog/use-of-python-super-function-in-django-model): Django models: using super() to override save() method with best practices
+- [Python super() with Non-Immediate Parent: Is This a Legal Use?](https://www.codelessgenie.com/blog/use-of-super-with-not-immediate-parent): Python inheritance: super() with non-immediate parents and MRO explanation
+
+## Python Debugging & Advanced Topics
+
+- [Python: Why `pdb.set_trace()` Fails in Scripts Reading Stdin via a Pipe (and How to Fix It)](https://www.codelessgenie.com/blog/use-pdb-set-trace-in-a-script-that-reads-stdin-via-a-pipe): Python debugging: pdb.set_trace() with piped stdin and TTY redirection solutions
+- [What Happens When Using yield in a Python Dict Comprehension? Behavior Explained](https://www.codelessgenie.com/blog/use-of-yield-with-a-dict-comprehension): Python generators: yield behavior in dict comprehensions and lazy evaluation
+- [What is `1..__truediv__` in Python? Exploring the Dot Dot (..) Notation Syntax](https://www.codelessgenie.com/blog/what-is-1-truediv-does-python-have-a-dot-dot-notation-syntax): Python syntax exploration: understanding dot-dot notation and magic methods
+
+## Data & File Processing
+
+- [What is the Point of .ix Indexing for Pandas Series? Explained](https://www.codelessgenie.com/blog/what-is-the-point-of-ix-indexing-for-pandas-series): Pandas .ix indexing explained: deprecated methods and alternatives like loc/iloc
+- [How to Edit Excel 2007 (.xlsx) Files Using Openpyxl Without Altering Original Styles](https://www.codelessgenie.com/blog/use-openpyxl-to-edit-a-excel2007-file-xlsx-without-changing-its-own-styles): Openpyxl tutorial: editing Excel files while preserving formatting and styles
+
+## Core Pages
+
+- [CodeLessGenie.com — Web dev, DevOps, and CS tutorials](https://www.codelessgenie.com): Homepage showcasing tutorials on backend, frontend, DevOps, and CS fundamentals
+- [Blog](https://www.codelessgenie.com/blog): Blog hub featuring Python, Django REST Framework, and debugging articles
+- [About us](https://www.codelessgenie.com/about): About page describing CodeLessGenie's mission and tutorial focus areas

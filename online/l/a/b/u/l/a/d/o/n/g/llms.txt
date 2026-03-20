@@ -1,0 +1,40 @@
+# labuladong.online
+
+> A comprehensive algorithm and coding problem resource featuring real interview questions from major tech companies with detailed solutions.
+
+labuladong.online provides curated algorithm challenges and design pattern implementations sourced from actual technical interviews at companies like Huawei, Baidu, and Akuna. The platform covers fundamental computer science concepts including graph algorithms, tree traversal, string manipulation, and software design patterns.
+
+## Key Topics
+
+- BFS Algorithm
+- DFS Traversal
+- Graph Theory
+- Binary Tree
+- Shortest Path
+- Design Patterns
+- Bridge Pattern
+- String Hashing
+- Greedy Algorithm
+- NP-Complete Problems
+- Manhattan Distance
+- Maze Pathfinding
+- Wormhole Teleportation
+- Dynamic Programming
+
+## Graph & Pathfinding Algorithms
+
+- [蜜蜂洞迷宫最短路径](https://labuladong.online/zh/problem/huawei-wormhole-maze/description): BFS shortest path algorithm for maze with wormhole teleportation
+- [NP完全问题](https://labuladong.online/zh/problem/baidu-np-complete/description): NP-complete problem and graph theory algorithm challenge
+
+## Tree Algorithms & Data Structures
+
+- [树上曼哈顿距离](https://labuladong.online/zh/problem/ant-tree-manhattan-distance/description): Binary tree DFS traversal with Manhattan distance calculation
+
+## Design Patterns
+
+- [实现桥接模式](https://labuladong.online/zh/problem/design-pattern-bridge/description): Bridge design pattern implementation for message notification systems
+
+## String & Optimization Problems
+
+- [讨厌鬼的糖葫芦](https://labuladong.online/zh/problem/jibite-unique-candy-stick/description): String hashing and degree calculation algorithm problem
+- [二进制字符串间隔最大成本](https://labuladong.online/zh/problem/akuna-get-max-cost/description): Greedy string manipulation algorithm for maximum cost optimization

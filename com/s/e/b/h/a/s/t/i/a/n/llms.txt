@@ -1,0 +1,61 @@
+# sebhastian.com
+
+> A comprehensive programming tutorial site specializing in JavaScript, Python, and React with practical code examples and beginner-friendly guides.
+
+Created by Nathan Sebhastian, this site provides in-depth tutorials covering JavaScript fundamentals, array and string manipulation, DOM operations, and modern web development frameworks. The content ranges from beginner guides to intermediate-level programming concepts.
+
+## Key Topics
+
+- JavaScript
+- React
+- Python
+- Array Methods
+- String Manipulation
+- Regular Expressions
+- Date Formatting
+- DOM Operations
+- Web Development
+- Code Examples
+- Beginner Guides
+- typeof Operator
+- Map Objects
+- Express
+- Web Tutorials
+
+## Core Pages
+
+- [Homepage](https://sebhastian.com): Homepage featuring JavaScript, Python, React tutorials and programming guides
+- [About](https://sebhastian.com/about): Author bio for Nathan Sebhastian and site overview
+
+## JavaScript Fundamentals
+
+- [JavaScript const Keyword Explained with Examples](https://sebhastian.com/javascript-const): Tutorial explaining const keyword and variable declaration in JavaScript
+- [JavaScript Check if Value is an Object](https://sebhastian.com/javascript-check-if-value-is-object): Tutorial on type checking and object detection in JavaScript
+- [Sort Keys in Map Using JavaScript](https://sebhastian.com/javascript-sort-keys-in-map): Tutorial on sorting Map object keys in JavaScript using ES6
+
+## Array & String Operations
+
+- [JavaScript Get the Index of Max Value in Array](https://sebhastian.com/javascript-get-index-of-max-value-in-array): Beginner guide to finding max value index in arrays using Math.max()
+- [JavaScript Get Sum of Array of Numbers](https://sebhastian.com/javascript-get-sum-of-array-of-numbers): Beginner guide to calculating sum of array numbers using reduce
+- [JavaScript Filter Array to Only Numbers](https://sebhastian.com/javascript-filter-array-to-only-numbers): Guide to filtering arrays to include only numeric values
+- [JavaScript Array Not Includes a Certain Value](https://sebhastian.com/javascript-array-not-includes): Guide to checking if array excludes specific values using includes()
+- [JavaScript Remove Special Characters From a String](https://sebhastian.com/javascript-remove-special-characters-from-string): Tutorial on removing special characters using regular expressions
+- [JavaScript Remove Substring From a String](https://sebhastian.com/javascript-remove-substring-from-string): Guide to removing substrings using replace and replaceAll methods
+- [JavaScript Replace All Numbers in a String](https://sebhastian.com/javascript-replace-all-numbers-in-string): Tutorial on replacing/removing all numbers using regex patterns
+- [JavaScript How To Split String by Index](https://sebhastian.com/javascript-split-string-by-index): Tutorial on splitting strings by index using substring and slice
+
+## Date & Time Operations
+
+- [JavaScript How to Format Date as DD/MM/YYYY](https://sebhastian.com/javascript-format-date-dd-mm-yyyy): Guide to formatting JavaScript dates in DD/MM/YYYY format
+- [Convert Milliseconds to Hours Minutes Seconds in JavaScript](https://sebhastian.com/javascript-convert-milliseconds-to-hours-minutes-seconds): Tutorial on converting milliseconds to time format in JavaScript
+
+## DOM & Browser Operations
+
+- [Get Element by Data Attribute Using JavaScript](https://sebhastian.com/javascript-get-element-by-data-attribute): Guide to selecting DOM elements by data attributes using querySelector
+- [Auto Refresh Page Every N Seconds in JavaScript](https://sebhastian.com/auto-refresh-page-every-n-seconds-in-javascript): Guide to auto-refreshing web pages using setTimeout and location.reload()
+- [You Need to Enable JavaScript to Run This App error in React](https://sebhastian.com/you-need-to-enable-javascript-to-run-this-app): Troubleshooting guide for React JavaScript disabled error
+
+## Community & Support
+
+- [Nathan's Newsletter](https://sebhastian.com/newsletter): Newsletter signup for programming tutorials and developer community updates
+- [Contact Us](https://sebhastian.com/contact): Contact page for inquiries, feedback, and guest post submissions

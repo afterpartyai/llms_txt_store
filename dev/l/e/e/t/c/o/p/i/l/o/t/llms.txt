@@ -1,0 +1,61 @@
+# LeetCopilot
+
+> > AI-powered LeetCode assistant combining interactive visualizers, pattern tutorials, and interview prep guidance to accelerate coding interview mastery.
+
+LeetCopilot is a comprehensive platform for LeetCode problem-solving and coding interview preparation, featuring 7 essential algorithm patterns with 137+ tutorials, interactive learning tools, and expert guidance on interview strategy. The platform combines AI assistance with proven study methodologies like Blind 75 and Grind 75 to help candidates prepare efficiently for FAANG and tech company interviews.
+
+## Key Topics
+
+- LeetCode
+- Binary Search
+- Sliding Window
+- Two Pointers
+- Greedy Algorithm
+- Monotonic Stack
+- Hash Map
+- Prefix Sum
+- Interview Preparation
+- Coding Patterns
+- Algorithm Techniques
+- FAANG
+- Behavioral Interviews
+- Mock Interviews
+- Problem-Solving
+
+## Core Platform
+
+- [LeetCopilot: LeetCode AI Assistant for Coding Interview Prep](https://leetcopilot.dev): LeetCopilot AI assistant for LeetCode with hints, notes, flashcards, mock interviews
+- [Free Interactive Algorithm Visualizers & Learning Tools](https://leetcopilot.dev/tool): Interactive algorithm visualizers for sliding window, two pointers, data structures
+
+## Algorithm Patterns & Techniques
+
+- [LeetCode Pattern - Complete Guide to Coding Interview](https://leetcopilot.dev/leetcode-pattern): Master 7 essential LeetCode patterns with 137+ tutorials and practice problems
+- [Fast and Slow Pointers: The Complete Guide for Linked Lists and Arrays](https://leetcopilot.dev/leetcode-pattern/two-pointers/fast-slow-pointers): Tortoise-hare algorithm with templates for cycle detection and linked lists
+- [Sliding Window Maximum: The Monotonic Queue Trick Explained](https://leetcopilot.dev/blog/step-by-step-monotonic-queue-for-sliding-window-maximum): Step-by-step breakdown of monotonic queue pattern for sliding window problems
+- [Why Binary Search Works on Rotated Sorted Arrays (Visual Proof)](https://leetcopilot.dev/leetcode-pattern/binary-search/rotated-array-proof): Mathematical proof and visual explanation of binary search on rotated arrays
+- [5 Common Interval Scheduling Mistakes (And How to Avoid Them)](https://leetcopilot.dev/leetcode-pattern/greedy/interval-scheduling-mistakes): Debugging guide and common mistakes for greedy interval scheduling problems
+- [Jump Game: Why Greedy Beats DP (Proof and Complexity Comparison)](https://leetcopilot.dev/leetcode-pattern/greedy/jump-game-greedy-vs-dp): Proof comparing greedy O(n) vs DP O(n²) solutions for Jump Game problem
+- [Binary Search Overflow: The Bug That Fails Hidden Tests](https://leetcopilot.dev/blog/binary-search-mid-overflow-mistakes-on-leetcode-arrays): Safe binary search formulas to avoid overflow and off-by-one errors
+
+## Interview Preparation Guides
+
+- [Behavioral Interview Preparation: The Complete Guide (2026)](https://leetcopilot.dev/blog/behavioral-interview-prep-complete-guide): Complete behavioral interview guide with STAR method for FAANG companies
+- [How to Prepare for a Coding Interview in 2 Weeks (Realistic Plan)](https://leetcopilot.dev/blog/how-to-prepare-coding-interview-2-weeks): Day-by-day focused 2-week coding interview preparation plan with DSA patterns
+- [Should I Do Grind 75 or Blind 75 in 2024? A Complete Comparison Guide](https://leetcopilot.dev/blog/should-i-do-grind-75-or-blind-75-in-2024): Criteria-based comparison of Grind 75 vs Blind 75 study lists for interviews
+- [Leidos LeetCode: The 'Operational Realism' Interview Guide](https://leetcopilot.dev/blog/leidos-leetcode-beyond-the-myth): Defense contractor coding interview prep strategy for Leidos and similar companies
+
+## Problem-Solving Strategies
+
+- [What to Do When Completely Stuck During a Coding Interview: A Survival Guide](https://leetcopilot.dev/blog/what-to-do-when-completely-stuck-during-coding-interview): Survival strategies for handling panic and getting unstuck in live coding interviews
+- [What to Do When You Don't Understand a LeetCode Problem](https://leetcopilot.dev/blog/what-to-do-when-you-dont-understand-a-leetcode-problem): 5-step framework for understanding confusing LeetCode problem statements
+- [Stuck for Hours? The 'Productive Struggle' Rule for LeetCode](https://leetcopilot.dev/blog/how-long-should-i-spend-on-one-leetcode-problem-before-giving-up): Skill-based time limits for LeetCode problems and when to view solutions
+
+## Blog & Resources
+
+- [Blog - LeetCode Tips & Coding Interview Prep](https://leetcopilot.dev/blog): Expert insights on LeetCode, interview prep, algorithms, and AI-powered learning
+- [When LeetCode Burnout Hits: A Brutally Honest Guide to Getting Unstuck](https://leetcopilot.dev/blog/when-leetcode-burnout-hits-what-to-do): Recovery guide for LeetCode burnout with motivation and learning strategies
+
+## Optional
+
+- [Privacy Policy](https://leetcopilot.dev/privacy): LeetCopilot privacy policy and data protection practices
+- [Terms of Service](https://leetcopilot.dev/terms): LeetCopilot terms of service and user agreement

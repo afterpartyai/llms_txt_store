@@ -1,0 +1,56 @@
+# Blender Documentation
+
+> Complete reference for Blender 3D creation software covering user manuals, Python API scripting, and rendering engines across multiple languages.
+
+Blender Documentation provides comprehensive guides for 3D modeling, animation, rendering with EEVEE and Cycles, compositing, and Python scripting automation. The site supports multiple languages including English, Japanese, Korean, French, German, Spanish, Chinese, and Russian, with both stable and LTS versions available.
+
+## Key Topics
+
+- Blender 5.2 LTS
+- Python API (bpy)
+- Cycles Rendering
+- EEVEE Real-time Rendering
+- 3D Modeling
+- Animation & Rigging
+- Grease Pencil
+- Compositing
+- Video Editing
+- Freestyle
+- bpy.context
+- bpy.data
+- bpy.ops
+- Getting Started
+- Documentation
+
+## User Manuals
+
+- [Blender 5.1 Manual](https://docs.blender.org/manual): Current stable Blender user manual covering modeling, rendering, animation with EEVEE, Cycles, and Grease Pencil
+- [Blender 5.2 LTS Manual (English)](https://docs.blender.org/manual/en/dev): Long-term support manual for 3D modeling, rendering, animation, and compositing in Blender 5.2
+
+## Python API Reference
+
+- [Blender Python API](https://docs.blender.org/api/current): Complete Python API reference for bpy module scripting, automation, and add-on development
+- [Blender API Documentation Hub](https://docs.blender.org/api): Central hub for Python scripting resources, API documentation, and version archives
+
+## Localized Manuals - European Languages
+
+- [Blender 5.2 LTS Manual (German)](https://docs.blender.org/manual/de/dev): German translation for 3D modeling, rendering, and compositing
+- [Blender 5.2 LTS Manual (French)](https://docs.blender.org/manual/fr/dev): French translation covering modeling, animation, and rendering
+- [Blender 5.2 LTS Manual (Spanish)](https://docs.blender.org/manual/es/dev): Spanish translation for 3D modeling, animation, and compositing
+- [Blender 5.2 LTS Manual (Italian)](https://docs.blender.org/manual/it/dev): Italian translation for 3D creation and rendering
+- [Blender 5.2 LTS Manual (Norwegian)](https://docs.blender.org/manual/nb/dev): Norwegian translation for 3D modeling and animation
+- [Blender 5.2 LTS Manual (Finnish)](https://docs.blender.org/manual/fi/dev): Finnish translation for 3D creation and animation
+- [Blender 5.2 LTS Manual (Ukrainian)](https://docs.blender.org/manual/uk/dev): Ukrainian translation covering modeling, animation, and rendering
+- [Blender 5.2 LTS Manual (Portuguese)](https://docs.blender.org/manual/pt/dev): Portuguese translation for 3D creation and compositing
+
+## Localized Manuals - Asian Languages
+
+- [Blender 5.2 LTS Manual (Japanese)](https://docs.blender.org/manual/ja/dev): Japanese translation for modeling, rendering, and animation
+- [Blender 5.2 LTS Manual (Korean)](https://docs.blender.org/manual/ko/dev): Korean translation covering 3D creation and compositing
+- [Blender 5.2 LTS Manual (Simplified Chinese)](https://docs.blender.org/manual/zh-hans/dev): Simplified Chinese translation for 3D modeling and rendering
+- [Blender 5.2 LTS Manual (Traditional Chinese)](https://docs.blender.org/manual/zh-hant/dev): Traditional Chinese translation for 3D creation and scripting
+- [Blender 5.2 LTS Manual (Russian)](https://docs.blender.org/manual/ru/dev): Russian translation for 3D modeling, rendering, and animation
+
+## Documentation Hub
+
+- [Blender Documentation Home](https://docs.blender.org): Central documentation hub with access to user manual, Python API, and getting started guides

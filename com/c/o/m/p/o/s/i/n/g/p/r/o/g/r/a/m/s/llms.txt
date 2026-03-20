@@ -1,0 +1,53 @@
+# Composing Programs
+
+> A comprehensive Python 3 introduction to computer science covering programming fundamentals, data structures, and object-oriented programming.
+
+Composing Programs is an online textbook by John DeNero at UC Berkeley based on the CS 61A curriculum. It provides interactive tutorials and programming projects designed to teach computer science principles through practical Python examples.
+
+## Key Topics
+
+- Python 3
+- Programming Fundamentals
+- Object-Oriented Programming
+- Data Structures
+- Functional Programming
+- Recursion
+- Higher-Order Functions
+- Data Abstraction
+- Control Flow
+- Classes and Objects
+- Algorithm Efficiency
+- CS 61A
+- UC Berkeley
+- Function Design
+- Mutable Data
+
+## Getting Started
+
+- [Composing Programs](http://www.composingprograms.com): Homepage for Composing Programs, a Python 3 introduction to computer science
+- [About Composing Programs](http://www.composingprograms.com/about.html): About page describing Composing Programs by John DeNero at UC Berkeley
+- [1.1 Getting Started](http://www.composingprograms.com/pages/11-getting-started.html): Getting started guide for Python 3 installation and interactive sessions
+
+## Chapter 1: Building Abstractions with Functions
+
+- [1.2 Elements of Programming](http://www.composingprograms.com/pages/12-elements-of-programming.html): Tutorial on Python fundamentals: expressions, functions, and programming basics
+- [1.3 Defining New Functions](http://www.composingprograms.com/pages/13-defining-new-functions.html): Guide to defining user-defined functions and function abstractions in Python
+- [1.4 Designing Functions](http://www.composingprograms.com/pages/14-designing-functions.html): Tutorial on function design, documentation, and default arguments in Python
+- [1.5 Control](http://www.composingprograms.com/pages/15-control.html): Guide to control flow: conditionals, iteration, and statements in Python
+- [1.6 Higher-Order Functions](http://www.composingprograms.com/pages/16-higher-order-functions.html): Tutorial on higher-order functions and functional programming in Python
+- [1.7 Recursive Functions](http://www.composingprograms.com/pages/17-recursive-functions.html): Guide to recursive functions and recursive function design in Python
+
+## Chapter 2: Building Abstractions with Data
+
+- [2.1 Introduction](http://www.composingprograms.com/pages/21-introduction.html): Chapter 2 introduction covering data structures and native data types
+- [2.2 Data Abstraction](http://www.composingprograms.com/pages/22-data-abstraction.html): Tutorial on data abstraction, abstraction barriers, and pairs in Python
+- [2.3 Sequences](http://www.composingprograms.com/pages/23-sequences.html): Guide to sequences: lists, strings, trees, and linked-list data structures
+- [2.4 Mutable Data](http://www.composingprograms.com/pages/24-mutable-data.html): Tutorial on mutable data, dictionaries, and local state in Python
+- [2.5 Object-Oriented Programming](http://www.composingprograms.com/pages/25-object-oriented-programming.html): Guide to OOP fundamentals: classes, inheritance, and message passing
+- [2.6 Implementing Classes and Objects](http://www.composingprograms.com/pages/26-implementing-classes-and-objects.html): Tutorial on implementing classes and objects with data abstraction in Python
+- [2.7 Object Abstraction](http://www.composingprograms.com/pages/27-object-abstraction.html): Guide to object abstraction and data structures in object-oriented programming
+- [2.8 Efficiency](http://www.composingprograms.com/pages/28-efficiency.html): Tutorial on algorithm efficiency, analysis, and performance optimization
+
+## Programming Projects
+
+- [Programming Projects](http://www.composingprograms.com/projects.html): CS 61A programming projects including game development and OOP assignments

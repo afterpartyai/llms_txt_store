@@ -1,0 +1,59 @@
+# GitHub Docs
+
+> Complete documentation for GitHub's development platform, covering repositories, CI/CD automation, AI-assisted coding, and enterprise collaboration tools.
+
+GitHub Docs provides comprehensive guides for developers and teams using GitHub for version control, continuous integration, code review, and AI-powered development. The documentation covers both GitHub.com and GitHub Enterprise deployments, with extensive resources for automation, security, and modern development workflows.
+
+## Key Topics
+
+- GitHub
+- GitHub Actions
+- GitHub Copilot
+- Git
+- CI/CD
+- REST API
+- SSH
+- Authentication
+- Pull Requests
+- Repositories
+- Workflows
+- Code Review
+- Integrations
+- Security
+- GitHub Enterprise
+
+## Core Workflows & Collaboration
+
+- [Repositories documentation](https://docs.github.com/en/repositories): Documentation for repository management, Git LFS, and collaboration.
+- [Pull requests documentation](https://docs.github.com/en/pull-requests): Guide for pull requests, code review, and merge conflict resolution.
+- [GitHub Actions documentation](https://docs.github.com/en/actions): Complete guide to GitHub Actions CI/CD workflows and automation.
+- [GitHub Discussions documentation](https://docs.github.com/en/discussions): Guide for GitHub Discussions community collaboration and moderation.
+
+## AI-Powered Development
+
+- [GitHub Copilot documentation](https://docs.github.com/en/copilot): Comprehensive guide to GitHub Copilot AI coding assistant features.
+- [Tutorials for GitHub Copilot](https://docs.github.com/en/copilot/tutorials): Hands-on tutorials for GitHub Copilot Chat and coding assistance.
+- [GitHub Copilot Chat Cookbook](https://docs.github.com/en/copilot/tutorials/copilot-chat-cookbook): Collection of prompt examples and use cases for Copilot Chat.
+- [GitHub Copilot CLI](https://docs.github.com/en/copilot/how-tos/copilot-cli): Setup and usage guide for GitHub Copilot command-line interface.
+- [Plans for GitHub Copilot](https://docs.github.com/en/copilot/get-started/plans): Reference for Copilot plan options, pricing, and feature comparison.
+
+## Getting Started & Account Management
+
+- [Get started with GitHub documentation](https://docs.github.com/en/get-started): Beginner-friendly guide to GitHub basics, Git, and account setup.
+- [Authentication documentation](https://docs.github.com/en/authentication): Security guide for SSH keys, tokens, and account protection methods.
+- [Account and profile documentation](https://docs.github.com/en/account-and-profile): Instructions for customizing account settings and profile preferences.
+- [Subscriptions and notifications documentation](https://docs.github.com/en/subscriptions-and-notifications): Guide for configuring notifications and subscription preferences.
+
+## Development Environments & Integrations
+
+- [Codespaces documentation](https://docs.github.com/en/codespaces): Guide for GitHub Codespaces cloud development environment setup.
+- [GitHub integrations](https://docs.github.com/en/integrations): Documentation for GitHub Apps, integrations, and API tools.
+
+## Administration & Operations
+
+- [Migrations documentation](https://docs.github.com/en/migrations): Guide for migrating repositories and data to GitHub using migration tools.
+- [Billing and payments documentation](https://docs.github.com/en/billing): Reference for billing components, payment setup, and cost tracking.
+
+## Optional
+
+- [Customization library](https://docs.github.com/en/copilot/tutorials/customization-library): Curated customizations and custom agents for Copilot enhancement.

@@ -1,0 +1,56 @@
+# Jorge Castillo's Dev Blog
+
+> > A comprehensive resource for mastering Jetpack Compose internals, Kotlin advanced features, and Android architecture patterns from an expert instructor and Google Developer Expert.
+
+Jorge Castillo is a Google Developer Expert who shares deep technical knowledge about Jetpack Compose, Kotlin, and functional programming in Android development. The site features a cohort-based course, technical book, and extensive blog posts covering both foundational concepts and advanced implementation details.
+
+## Key Topics
+
+- Jetpack Compose
+- Kotlin
+- Android Development
+- Compose Internals
+- Functional Programming
+- Material Design
+- Android UI
+- Composable Functions
+- ConstraintLayout
+- Theming
+- Continuations
+- Side Effects
+- Online Courses
+- Arrow
+- Accompanist
+
+## Core Learning Resources
+
+- [Jetpack Compose internals 📖](https://jorgecastillo.dev/book): Technical book on Jetpack Compose internals by Jorge Castillo
+- [Jetpack Compose and internals cohort course 🧑‍💻](https://jorgecastillo.dev/course): Jetpack Compose cohort-based course by Jorge Castillo
+- [Hey! I am Jorge 👋](https://jorgecastillo.dev/about): Jorge Castillo's bio and professional background
+
+## Jetpack Compose Deep Dives
+
+- [Diving into Mosaic for Jetpack Compose](https://jorgecastillo.dev/diving-into-mosaic): Deep dive into Mosaic library and Jetpack Compose runtime
+- [Composed modifiers in Jetpack Compose](https://jorgecastillo.dev/composed-modifiers-in-jetpack-compose): Guide to custom composed modifiers in Jetpack Compose
+- [Jetpack Compose ViewPager](https://jorgecastillo.dev/compose-viewpager): Tutorial on Jetpack Compose pager with Accompanist library
+- [Await next frame in Jetpack Compose](https://jorgecastillo.dev/jetpack-compose-await-next-frame): Frame timing and animation techniques in Jetpack Compose
+- [Jetpack Compose ConstraintLayout](https://jorgecastillo.dev/jetpack-compose-constraintlayout): ConstraintLayout usage tutorial for Jetpack Compose
+
+## Kotlin Advanced Concepts
+
+- [Kotlin Continuations](https://jorgecastillo.dev/digging-into-kotlin-continuations): Deep dive into Kotlin continuations and CPS internals
+- [Tracking side effects at compile time with suspend](https://jorgecastillo.dev/tracking-side-effects-with-suspend): Using Kotlin suspend for compile-time side effect tracking
+- [Sealed interfaces in Kotlin](https://jorgecastillo.dev/sealed-interfaces-kotlin): Kotlin 1.5 sealed interfaces feature and usage guide
+- [Support for Kotlin SAM in release 1.4](https://jorgecastillo.dev/kotlin-sam-conversions): Kotlin 1.4 SAM conversions and Java interoperability
+
+## Android Architecture & Design
+
+- [When Android met FP](https://jorgecastillo.dev/when-android-met-fp): Functional programming paradigms applied to Android development
+- [Dependency Inversion on Android Theming](https://jorgecastillo.dev/dependency-inversion-on-android-theming): Architecture patterns for Android theming with Material Design
+- [Putting view theming into Context](https://jorgecastillo.dev/theming-your-custom-views-through-the-context): Android view theming and Material Design best practices
+- [Contrasting text and icons over background](https://jorgecastillo.dev/contrasting-text-and-icons-over-background): Color contrast and luminance calculation for Android UI
+
+## Teaching & Professional Growth
+
+- [Tips for productive online courses](https://jorgecastillo.dev/online-courses-tips): Instructor guide for effective online course delivery
+- [A letter to my younger self](https://jorgecastillo.dev/a-letter-to-my-younger-self): Career advice and professional growth reflections

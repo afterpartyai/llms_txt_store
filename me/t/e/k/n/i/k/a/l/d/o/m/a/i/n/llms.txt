@@ -1,0 +1,62 @@
+# Tek's Domain
+
+> > A technical blog exploring programming, networking, amateur radio, and analog photography with a focus on privacy, decentralized systems, and hands-on experimentation.
+
+Tek's Domain is a personal technical website covering diverse interests including server administration, ham radio operations (POTA activations), film photography, and decentralized communication protocols. The site emphasizes privacy-first tools, federation technologies, and practical guides for technical enthusiasts.
+
+## Key Topics
+
+- Amateur Radio (Ham Radio)
+- POTA Activations
+- Privacy & Encryption
+- Matrix Messaging
+- Federation & Decentralization
+- Film Photography
+- Analog Processing
+- IPv6 Networking
+- Mail Server Security
+- Fail2Ban Configuration
+- XMPP/Jabber
+- OTR Protocol
+- PeerTube
+- Postfix
+- Reverse Proxy
+
+## Amateur Radio & POTA
+
+- [Let's Ham It up a Little](https://teknikaldomain.me/post/ham-it-up): Beginner's guide to amateur radio licensing and terminology for hobbyists.
+- [First Amateur Activity: POTA Activation With 92 Contacts, 6 Hours](https://teknikaldomain.me/post/hf-pota): Amateur radio POTA activation report with 92 HF contacts from Bulgaria.
+
+## Server Administration & Security
+
+- [Fail2Ban Behind a Reverse Proxy: The Almost-Correct Way](https://teknikaldomain.me/code/reverse-proxy-f2b): Technical guide for configuring Fail2Ban with reverse proxy and IP filtering.
+- [AbuseIPDB Checking With Postfix](https://teknikaldomain.me/code/postfix-abuseipdb): Mail server security guide integrating AbuseIPDB with Postfix for spam filtering.
+
+## Networking & Protocols
+
+- [What Exactly Is Federation, Anyways?](https://teknikaldomain.me/post/what-is-federation): Explanation of federation in decentralized systems like Matrix, XMPP, and ActivityPub.
+- [IPv6 Is a Total Nightmare — This is Why](https://teknikaldomain.me/post/ipv6-is-a-total-nightmare): Critical analysis of IPv6 protocol design and comparison with IPv4.
+
+## Film Photography & Video
+
+- [Videoes](https://teknikaldomain.me/video): Video content hub featuring film photography and analog processing on PeerTube.
+- [A Professional Amateur Develops Color Film](https://teknikaldomain.me/video/first-time-color-film-dev): PeerTube video documenting color film development process and techniques.
+
+## Site Updates & Features
+
+- [What's Changed: Bilberry Theme Version 4](https://teknikaldomain.me/post/theme-version-4): Hugo Bilberry theme v4 changelog detailing improvements and new features.
+- [Narration for Posts, for You!](https://teknikaldomain.me/post/narration): Audio narration feature implementation using HTML5 for post accessibility.
+
+## Community & Support
+
+- [Contact](https://teknikaldomain.me/page/contact): Contact information and communication channels including Matrix, email, and PGP encryption.
+- [Errata](https://teknikaldomain.me/page/errata): Error reporting and correction submission process with community leaderboard.
+- [Donations Box](https://teknikaldomain.me/page/donations-box): Donation and funding options via Ko-fi and other payment methods.
+
+## Optional
+
+- [Tek's Domain](https://teknikaldomain.me): Homepage covering programming, photography, cars, ham radio POTA activations.
+- [Blog Archive Page 2](https://teknikaldomain.me/page/2): Blog archive page featuring OTR protocol, instant messaging, and privacy topics.
+- [Categories](https://teknikaldomain.me/categories): Category index for navigating blog content organization.
+- [Tags](https://teknikaldomain.me/tags): Tag directory for browsing content by technology topics and subjects.
+- [Archive](https://teknikaldomain.me/archive): Complete archive of blog posts covering tech, ham radio, and photography.

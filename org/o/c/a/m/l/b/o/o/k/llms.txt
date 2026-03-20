@@ -1,0 +1,46 @@
+# OCaml From the Ground Up
+
+> A comprehensive, open-source beginner's guide to OCaml programming covering fundamentals, type systems, and functional programming concepts.
+
+OCaml From the Ground Up is an educational resource designed to teach OCaml from first principles. The book covers core language features including values, functions, recursion, algebraic data types, and pattern matching, making it ideal for programmers new to OCaml or functional programming.
+
+## Key Topics
+
+- OCaml
+- Type system
+- Functional programming
+- Pattern matching
+- Algebraic data types
+- Higher-order functions
+- Parametric polymorphism
+- Recursion and tail-call optimization
+- Linked lists
+- Records and references
+- Control flow
+- Beginner guide
+- Open-source book
+- Immutability
+- Data structures
+
+## Getting Started
+
+- [OCaml From the Ground Up](https://ocamlbook.org): Homepage for OCaml From the Ground Up, an open-source beginner's guide to OCaml programming.
+- [Preface — OCaml From the Ground Up](https://ocamlbook.org/preface): Introduction to OCaml covering language history, type system, and why to use OCaml.
+
+## Language Fundamentals
+
+- [Values, expressions, and bindings — OCaml From the Ground Up](https://ocamlbook.org/values-and-bindings): Tutorial on OCaml fundamentals: values, expressions, bindings, and type system basics.
+- [Arithmetics — OCaml From the Ground Up](https://ocamlbook.org/arithmetics): Guide to arithmetic operators and floating-point operations in OCaml with examples.
+- [Boolean values and conditional expressions — OCaml From the Ground Up](https://ocamlbook.org/conditional-expressions): Guide to boolean values, conditionals, and control flow in OCaml with type safety.
+
+## Functions and Abstraction
+
+- [Functions — OCaml From the Ground Up](https://ocamlbook.org/functions): Tutorial on OCaml functions including anonymous functions, currying, and partial application.
+- [Recursive functions — OCaml From the Ground Up](https://ocamlbook.org/recursive-functions): Tutorial on recursive functions, tail-call optimization, and mutually-recursive definitions.
+- [Higher order functions and parametric polymorphism — OCaml From the Ground Up](https://ocamlbook.org/polymorphism): Guide to parametric polymorphism, higher-order functions, and generics in OCaml.
+
+## Data Structures and Types
+
+- [Algebraic data types and pattern matching — OCaml From the Ground Up](https://ocamlbook.org/algebraic-types): Tutorial on algebraic data types, pattern matching, sum types, and product types.
+- [Linked lists and structural recursion — OCaml From the Ground Up](https://ocamlbook.org/lists-and-structural-recursion): Guide to linked lists, structural recursion, and list functions in OCaml.
+- [Records and references — OCaml From the Ground Up](https://ocamlbook.org/records-and-references): Tutorial on records, references, immutable data, and mutable fields in OCaml.

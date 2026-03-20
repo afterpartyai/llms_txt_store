@@ -1,0 +1,63 @@
+# Programming.Guide
+
+> A comprehensive resource for learning programming languages, algorithms, and data structures with deep technical explanations and practical examples.
+
+Programming.Guide provides in-depth tutorials and reference materials covering Java, Go, and fundamental computer science concepts. The site emphasizes language internals, concurrency patterns, algorithm design, and common pitfalls developers encounter.
+
+## Key Topics
+
+- Java
+- Go
+- Concurrency
+- Data Structures
+- Algorithms
+- Big O Notation
+- Interfaces
+- Lambda Expressions
+- Goroutines
+- Channels
+- Hash Tables
+- Unicode
+- Time Complexity
+- Dynamic Programming
+- Type System
+
+## Language Fundamentals
+
+- [Java](https://programming.guide/java/index.html): Index of all Java articles covering arrays, exceptions, types, and language features
+- [Go](https://programming.guide/go/index.html): Index of Go tutorials, cheat sheets, and language reference
+
+## Concurrency & Threading
+
+- [Go: Concurrent programming](https://programming.guide/go/go-concurrency-tutorial.html): Comprehensive guide to Go concurrency: goroutines, channels, synchronization
+- [Java: Why wait must be called in a synchronized block](https://programming.guide/java/why-wait-must-be-in-synchronized.html): Explains Java concurrency: synchronized blocks and wait-notify patterns
+- [Java: Handling InterruptedException](https://programming.guide/java/handling-interrupted-exceptions.html): Tutorial on handling InterruptedException in Java threading
+
+## Java Language Deep Dives
+
+- [Java: Functional Interfaces](https://programming.guide/java/functional-interfaces.html): Guide to Java functional interfaces, lambda expressions, and method references
+- [Java: Do interfaces inherit from Object?](https://programming.guide/java/do-interfaces-inherit-from-object.html): Explains Java interface inheritance from Object and related methods
+- [Java: Executing code in comments?!](https://programming.guide/java/executing-code-in-comments.html): Explains Java Unicode escapes and code execution in comments
+
+## Go Language Essentials
+
+- [Go: For loops explained](https://programming.guide/go/for-loop.html): Tutorial on Go for loops, loop control flow, and break/continue
+- [Go: Maps explained](https://programming.guide/go/maps-explained.html): Guide to using maps (hashmaps) and hash tables in Go
+- [Go: String handling cheat sheet](https://programming.guide/go/string-functions-reference-cheat-sheet.html): Reference cheat sheet for Go string functions and Unicode handling
+- [Go gotcha](https://programming.guide/go/go-gotcha.html): Tutorial covering common mistakes and corner cases in Go
+
+## Algorithms & Data Structures
+
+- [Algorithms](https://programming.guide/algorithms.html): Index of algorithms, data structures, and complexity analysis articles
+- [Big O notation explained](https://programming.guide/big-o-notation-explained.html): Guide to Big O notation and complexity analysis in algorithms
+- [Dynamic programming vs memoization vs tabulation](https://programming.guide/dynamic-programming-vs-memoization-vs-tabulation.html): Explains dynamic programming techniques: memoization and tabulation
+- [Sliding Window Algorithm with Example](https://programming.guide/sliding-window-example.html): Explains sliding window algorithm technique for data structures
+
+## Program Correctness & Theory
+
+- [What makes a good loop invariant?](https://programming.guide/what-makes-a-good-loop-invariant.html): Guide to loop invariants and Hoare logic for program correctness
+- [Generating a random point within a circle (uniformly)](https://programming.guide/random-point-within-circle.html): Explains uniform random point generation within circles using sampling
+
+## Optional
+
+- [Terms and Conditions](https://programming.guide/terms-and-conditions.html): Privacy policy, terms, and content license information

@@ -1,0 +1,63 @@
+# Rollbar
+
+> Rollbar is a real-time error tracking and debugging platform that helps software teams identify, understand, and fix production errors with AI-powered automation and session replay.
+
+Rollbar provides comprehensive error monitoring, session replay, and automated error fixing capabilities across multiple programming languages and frameworks. The platform integrates with popular development tools and CI/CD workflows to streamline error resolution and deployment tracking.
+
+## Key Topics
+
+- Error Monitoring & Tracking
+- Session Replay
+- AI-Powered Error Fixing
+- Real-time Alerts & Notifications
+- Deploy Tracking
+- RQL (Rollbar Query Language)
+- Multi-language SDK Support
+- CI/CD Integration
+- Telemetry & Breadcrumbs
+- REST API
+- Slack & Email Notifications
+- JavaScript, Python, Go, Java, .NET
+- Production Error Management
+- Anomaly Detection
+- Automated PR Generation
+
+## Core Platform Features
+
+- [Rollbar Platform](https://rollbar.com/platform): Rollbar platform overview: error monitoring, session replay, RQL, alerts
+- [Rollbar Resolve](https://rollbar.com/resolve-alpha): AI-powered automated error fixing with PR generation for production errors
+- [Session Replay](https://rollbar.com/session-replay): Session Replay feature for error monitoring and debugging across platforms
+
+## Getting Started & Setup
+
+- [Rollbar Homepage](https://rollbar.com): Rollbar homepage: real-time error tracking and debugging platform
+- [Getting Started Overview](https://docs.rollbar.com/docs/getting-started): Getting started guide with Terraform, REST API, and SDK setup
+- [Setting up Rollbar](https://docs.rollbar.com/docs/setup): Rollbar setup guide: account configuration, integrations, deploy tracking
+- [Supported Languages](https://rollbar.com/languages): Rollbar SDK support for JavaScript, Python, Go, Java, .NET and more
+
+## Monitoring & Alerting
+
+- [Notifications & Alerting](https://docs.rollbar.com/docs/notifications): Configure notifications and alerts with Slack, email, anomaly detection
+- [Deploy Tracking](https://docs.rollbar.com/docs/deploy-tracking): Deploy tracking guide: CI/CD integration, auto-resolve, suspect deploys
+- [Telemetry](https://docs.rollbar.com/docs/telemetry): Telemetry breadcrumb tracking for JavaScript, iOS, .NET SDKs
+
+## API & Developer Resources
+
+- [Rollbar REST API](https://docs.rollbar.com/reference/getting-started-1): Rollbar REST API reference: authentication, endpoints, SDKs
+- [Integrations](https://rollbar.com/integrations): Integrations with Asana, Azure DevOps, Ansible, and workflow tools
+
+## Pricing & Company
+
+- [Pricing Plans](https://rollbar.com/pricing): Rollbar pricing plans and subscription tiers with feature comparison
+- [About Rollbar](https://rollbar.com/about-us): About Rollbar: company culture, team, careers, remote work benefits
+- [Contact Support](https://rollbar.com/contact-us): Rollbar contact form and customer support information
+
+## Legal & Compliance
+
+- [Security & Compliance Policy](https://docs.rollbar.com/docs/security): Rollbar security, HIPAA, ISO 27001, SOC 2 compliance documentation
+- [Privacy Policy](https://docs.rollbar.com/docs/privacy-policy): Rollbar privacy policy: data collection, user consent, account security
+- [Terms of Service](https://docs.rollbar.com/docs/terms-of-service): Rollbar terms of service: legal agreement, GDPR compliance, arbitration
+
+## Optional Resources
+
+- [Rollbar Changelog](https://changelog.rollbar.com): Rollbar product updates, feature releases, and dashboard improvements

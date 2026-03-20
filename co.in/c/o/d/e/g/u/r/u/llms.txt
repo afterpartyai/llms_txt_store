@@ -1,0 +1,46 @@
+# CodeGuru
+
+> A developer blog covering algorithms, cloud messaging, and modern programming languages with practical tutorials and solutions.
+
+CodeGuru provides in-depth technical content on graph algorithms, Leetcode problem-solving, cloud platforms (Azure, Kafka), and programming languages including JavaScript, TypeScript, C#, and Java. The site serves developers preparing for interviews and seeking to master complex architectural patterns.
+
+## Key Topics
+
+- Graph Algorithms
+- Depth-First Search (DFS)
+- Leetcode Solutions
+- Kafka
+- Azure Service Bus
+- Backtracking
+- Data Structures
+- Path Finding
+- Directed Acyclic Graphs (DAG)
+- JavaScript
+- C#
+- Interview Preparation
+- Cloud Messaging
+- Algorithm Design
+- Code Refactoring
+
+## Algorithm & Data Structure Tutorials
+
+- [All Paths From Source To Target - Leetcode Solution](https://www.codeguru.co.in/2024/11/all-paths-from-source-to-target.html): Leetcode graph theory solution using DFS for finding paths in directed acyclic graphs
+- [Counting the Number of Islands in a 2D Grid: An Efficient Depth-First Search](https://www.codeguru.co.in/2024/10/counting-number-of-islands-in-2d-grid.html): DFS algorithm tutorial solving island counting problem in 2D grids with JavaScript
+- [Expression Add Operators - In-Depth Explanation](https://www.codeguru.co.in/2024/10/expression-add-operators-in-depth.html): In-depth Leetcode solution using backtracking and memoization for expression evaluation
+
+## Cloud Messaging & Architecture
+
+- [Key Kafka Features Every Developer Should Know](https://www.codeguru.co.in/2024/10/key-kafka-features-every-developer.html): Guide to essential Kafka features, Streams API, Connect, and architecture for developers
+- [Azure Service Bus messaging - Advanced Features](https://www.codeguru.co.in/2024/10/azure-service-bus-messaging-advanced.html): Tutorial on Azure Service Bus advanced features including sessions, deferral, and patterns
+
+## Language-Specific Programming
+
+- [Convert FileStream to base64 string in C#](https://www.codeguru.co.in/2021/05/convert-filestream-to-base64-string-in-c.html): C# tutorial on converting FileStream to base64 encoding with code examples
+
+## Developer Tools & Productivity
+
+- [Vscode Rename Or Change All Instances Of a Variable Everywhere](https://www.codeguru.co.in/2020/04/vscode-rename-all-instances-of-variable.html): Visual Studio Code productivity guide for efficient variable renaming and refactoring
+
+## Core
+
+- [CodeGuru](https://www.codeguru.co.in): CodeGuru blog covering Angular, JavaScript, TypeScript, C#, .NET Core, and front-end topics

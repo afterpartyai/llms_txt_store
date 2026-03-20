@@ -1,0 +1,19 @@
+# nam.edu
+
+> > Nam.edu provides educational resources with enterprise-grade security infrastructure powered by Cloudflare.
+
+Nam.edu is a educational institution website that leverages Cloudflare's security services to protect user communications and prevent bot abuse. The site implements email obfuscation and JavaScript-based protection mechanisms to safeguard visitor information.
+
+## Key Topics
+
+- Cloudflare
+- Email Protection
+- Bot Protection
+- Email Obfuscation
+- JavaScript Security
+- Cloudflare Security
+- Web Security
+
+## Security & Protection
+
+- [Email Protection](https://nam.edu/cdn-cgi/l/email-protection): Cloudflare email protection service for nam.edu with JavaScript-based obfuscation to prevent email harvesting and spam

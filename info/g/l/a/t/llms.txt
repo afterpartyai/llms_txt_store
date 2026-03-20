@@ -1,0 +1,51 @@
+# glat.info
+
+> > Guillaume Lathoud's portfolio of programming tools, research, and optimized computing libraries spanning audio processing, JavaScript compilation, and mathematical algorithms.
+
+glat.info is a developer portfolio showcasing research and open-source projects in signal processing, performance optimization, and compiler design. The site features both practical tools for web development and academic resources for audio-visual research.
+
+## Key Topics
+
+- JavaScript
+- Performance Optimization
+- Audio Processing
+- Signal Processing
+- Microphone Arrays
+- Speaker Localization
+- Linear Algebra
+- Matrix Operations
+- Code Generation
+- Compiler Design
+- Discrete Fourier Transform
+- Speed Benchmarks
+- Guillaume Lathoud
+- C/D/Python
+- MATLAB
+
+## Audio Processing & Research
+
+- [Online resources for audio processing](http://www.glat.info/ma): Audio processing resources including microphone arrays and speaker localization
+- [AV16.3 Audio-Visual Corpus Homepage](http://www.glat.info/ma/av16.3): AV16.3 audio-visual corpus for speaker localization and tracking research
+- [Questions and answers about microphone array ressources and Unsupervised Spectral Subtraction](https://glat.info/qa.html): FAQ on microphone arrays, spectral subtraction, and AV16.3 corpus
+
+## JavaScript Performance Libraries
+
+- [Flatorize](http://glat.info/flatorize): Flatorize: JavaScript compiler for optimized flat mathematical expressions
+- [Fast explicit tail calls in JavaScript](https://glat.info/fext): Documentation for fext library enabling tail call optimization in JavaScript
+- [flatmat.js](http://glat.info/flatorize/lib/flatmat_speedtest.html): flatmat.js performance benchmarks for matrix operations and linear algebra
+- [Generate flat expressions for speed](http://glat.info/bpjs2014/index.html): Guide on generating optimized flat expressions for performance using flatorize
+
+## Web Tools & Utilities
+
+- [Hashfiddle](https://glat.info/hafi): Hashfiddle: minimalist web-based code editor with URL hash storage
+- [Guillaume Lathoud's page](https://glat.info): Guillaume Lathoud's developer portfolio covering programming languages and tools
+
+## Mathematical Algorithms & Theory
+
+- [Soft Optimal Stop For 99% Guarantee](https://glat.info/sos99): Algorithm for Secretary Problem with 99% worst-case guarantee optimization
+- [Circular sets and powers of two](https://glat.info/cipo): Mathematical proof on circular sets and powers-of-two permutations
+- [PCR Test aus mathematischer Sicht - Deutschland, 18.12.2020](https://glat.info/pcrt): Mathematical analysis of PCR test accuracy using Bayes' theorem
+
+## Optional
+
+- [Funny things about the number 108](https://glat.info/108): Mathematical curiosities and properties of the number 108

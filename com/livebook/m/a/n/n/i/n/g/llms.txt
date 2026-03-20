@@ -1,0 +1,62 @@
+# Manning LiveBook
+
+> A comprehensive digital library of programming books covering Node.js, Go, C#, Ruby, MongoDB, and enterprise frameworks like Liferay.
+
+Manning LiveBook provides interactive access to technical programming books spanning multiple languages and domains, from foundational concepts to advanced frameworks and databases. The collection emphasizes practical, hands-on learning through detailed chapters and reference materials.
+
+## Key Topics
+
+- Node.js
+- Go
+- MongoDB
+- Liferay Portal
+- API Development
+- CRUD Operations
+- JSON
+- Service Builder
+- Data Structures
+- Portlet Development
+- AJAX
+- Structs & Interfaces
+- Text Search
+- Mobile Development
+- Probabilistic Programming
+
+## Backend & API Development
+
+- [Lesson 27. Accessing Your API from Your Application](https://livebook.manning.com/book/get-programming-with-node-js/chapter-27): Node.js lesson on API access using AJAX and JSON responses
+- [Part 1. First steps](https://livebook.manning.com/book/hapi-js-in-action/part-1): hapi.js framework introduction for Node.js API development
+- [Lesson 21. Capstone: Adding CRUD Models to Confetti Cuisine](https://livebook.manning.com/book/get-programming-with-node-js/chapter-21): Node.js capstone project on CRUD operations and database models
+
+## Programming Languages & Fundamentals
+
+- [Part 1 Background and fundamentals](https://livebook.manning.com/book/go-in-practice-second-edition/part-1): Go programming fundamentals and foundational concepts
+- [3 Structs, interfaces, and generics](https://livebook.manning.com/book/go-in-practice-second-edition/chapter-3): Go programming guide covering structs, interfaces, and generic types
+- [Chapter 4. C# 4: Improving interoperability](https://livebook.manning.com/book/c-sharp-in-depth-fourth-edition/chapter-4): C# 4 features for interoperability, dynamic typing, and COM integration
+- [Chapter 9. Collection and container objects](https://livebook.manning.com/book/the-well-grounded-rubyist/chapter-9): Ruby collections including arrays, hashes, and container data structures
+- [Index](https://livebook.manning.com/book/go-in-action/index): Go programming language comprehensive index and reference
+
+## Database & Data Management
+
+- [Chapter 9. Text search](https://livebook.manning.com/book/mongodb-in-action-second-edition/chapter-9): MongoDB text search indexing, queries, and aggregation framework
+
+## Enterprise Portal Development
+
+- [Part 1. Working with Liferay and portlets](https://livebook.manning.com/book/liferay-in-action/part-1): Liferay portal development introduction with portlets and Plugins SDK
+- [Part 2. Writing applications on Liferay's platform](https://livebook.manning.com/book/liferay-in-action/part-2): Liferay platform development with Service Builder and portlet architecture
+- [Chapter 3. A data-driven portlet made easy](https://livebook.manning.com/book/liferay-in-action/chapter-3): Liferay Service Builder for data-driven portlets using DAO/DTO architecture
+- [Appendix E. Liferay 6.1 Documents API](https://livebook.manning.com/book/liferay-in-action/appendix-e): Liferay 6.1 Documents API and Document Library reference
+
+## Mobile & UI Development
+
+- [About this Book](https://livebook.manning.com/book/sencha-touch-in-action/about-this-book): Introduction to Sencha Touch mobile development framework with HTML5
+- [Chapter 6. Getting the user's attention](https://livebook.manning.com/book/sencha-touch-in-action/chapter-6): Sencha Touch UI components for overlays, modals, and message boxes
+
+## Specialized Topics
+
+- [Chapter 2. A quick Figaro tutorial](https://livebook.manning.com/book/practical-probabilistic-programming/chapter-2): Figaro probabilistic programming tutorial on model building and inference
+
+## Optional
+
+- [About the Cover Illustration](https://livebook.manning.com/book/mongodb-in-action-second-edition/about-the-cover-illustration): MongoDB book cover illustration and historical context
+- [Acknowledgments](https://livebook.manning.com/book/deep-learning-with-r/acknowledgments): Deep Learning with R book credits and contributors

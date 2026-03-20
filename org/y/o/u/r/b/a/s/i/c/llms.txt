@@ -1,0 +1,51 @@
+# YourBasic
+
+> YourBasic is a comprehensive educational resource covering algorithms, data structures, complexity analysis, and Go programming with clear explanations and practical code examples.
+
+Created by Stefan Nilsson, YourBasic provides in-depth tutorials and reference materials for programmers learning computer science fundamentals and the Go programming language. The site emphasizes practical understanding through step-by-step examples and best practices.
+
+## Key Topics
+
+- Go programming
+- Algorithms
+- Data structures
+- Time complexity
+- Big O notation
+- Dynamic programming
+- Concurrent programming
+- Graph algorithms
+- Loop invariants
+- API design
+- Language comparison
+- String handling
+- Maps and hash tables
+- Functional programming
+- Algorithm analysis
+
+## Go Programming Guides
+
+- [Go go-to guide](https://yourbasic.org/golang): Comprehensive Go programming tutorials and code examples for all levels
+- [Concurrent programming](https://yourbasic.org/golang/concurrent-programming): Tutorial on Go concurrency: goroutines, channels, deadlock, and synchronization
+- [Do you make these Go coding mistakes?](https://yourbasic.org/golang/gotcha): 27 Go gotchas and pitfalls guide to help identify and fix common mistakes
+- [Why Go? – Key advantages you may have overlooked](https://yourbasic.org/golang/advantages-over-java-python): Comprehensive comparison of Go advantages over Java and Python
+- [Java to Go in-depth tutorial](https://yourbasic.org/golang/go-java-tutorial): In-depth guide for Java programmers learning Go with syntax comparisons
+- [Go string handling overview [cheat sheet]](https://yourbasic.org/golang/string-functions-reference-cheat-sheet): Cheat sheet of 40+ essential Go string functions and UTF-8 operations
+- [Maps explained: create, add, get, delete](https://yourbasic.org/golang/maps-explained): Tutorial on Go maps: hash table implementation and key operations
+- [Functional programming in Go [case study]](https://yourbasic.org/golang/your-basic-func): Case study of functional graph implementation using immutable data types
+
+## Algorithms & Complexity Analysis
+
+- [Algorithms explained](https://yourbasic.org/algorithms): Introduction to algorithms, data structures and analysis with code examples
+- [Big O notation: definition and examples](https://yourbasic.org/algorithms/big-o-notation-explained): Explanation of Big O, Big Omega, and Theta notation for complexity analysis
+- [How to analyze time complexity: Count your steps](https://yourbasic.org/algorithms/time-complexity-explained): Guide to analyzing time complexity using Big O notation and step counting
+- [Dynamic programming [step-by-step example]](https://yourbasic.org/algorithms/dynamic-programming-explained): Step-by-step guide to dynamic programming with memoization and tabulation
+- [Loop invariants can give you coding superpowers](https://yourbasic.org/algorithms/loop-invariants-explained): Tutorial on using loop invariants for algorithm design and code verification
+
+## Design & Best Practices
+
+- [API design: principles and best practices](https://yourbasic.org/algorithms/your-basic-api): Best practices for API design including documentation, versioning, and interfaces
+
+## Optional Resources
+
+- [About YourBasic](https://yourbasic.org/about): Stefan Nilsson's site about coding, algorithms, data structures and Go
+- [Top programming languages in use 2000-2020 [informal study]](https://yourbasic.org/top-programming-languages): Analysis of top programming languages in tech job listings from 2000-2020

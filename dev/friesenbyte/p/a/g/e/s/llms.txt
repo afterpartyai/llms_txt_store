@@ -1,0 +1,48 @@
+# FriesenByte
+
+> FriesenByte breaks down complex code through practical programming tutorials, code snippets, and best practices across multiple languages and technologies.
+
+FriesenByte is a developer-focused blog covering Git workflows, JavaScript, Java, C#, PHP, and .NET with hands-on guides and error solutions. The site emphasizes practical tutorials and code examples for web development, version control, and backend frameworks.
+
+## Key Topics
+
+- Git
+- JavaScript
+- Java
+- C#
+- .NET
+- PHP
+- SQL
+- Laravel
+- Version Control
+- Web Development
+- Programming Tutorials
+- Code Snippets
+- Bash
+- IIS
+- Backend Frameworks
+
+## Getting Started
+
+- [FriesenByte | Build-Deploy-Repeat!](https://friesenbyte.pages.dev): FriesenByte homepage: breaking down complex code through programming tutorials and code snippets.
+- [Posts](https://friesenbyte.pages.dev/posts): Posts archive covering Git, .NET, JavaScript, C# and web development tutorials.
+
+## Git Tutorials
+
+- [Difference between git add -A and git add](https://friesenbyte.pages.dev/posts/difference-between-git-add-a-and-git-add): Git tutorial explaining differences between git add -A and git add commands.
+- [git push --force-with-lease vs --force](https://friesenbyte.pages.dev/posts/git-push-force-with-lease-vs-force): Git best practices comparing force-push variants for safe version control collaboration.
+
+## JavaScript & Web Development
+
+- [Get difference between 2 dates in JavaScript duplicate](https://friesenbyte.pages.dev/posts/get-difference-between-2-dates-in-javascript): JavaScript guide for calculating date differences using Moment.js and date libraries.
+- [How to convert an array into an object](https://friesenbyte.pages.dev/posts/how-to-convert-an-array-into-an-object): JavaScript tutorial on array-to-object conversion using reduce and Lodash.
+
+## Backend & Database
+
+- [How do I get the query builder to output its raw SQL query as a string](https://friesenbyte.pages.dev/posts/how-do-i-get-the-query-builder-to-output-its-raw-sql-query-as-a-string): Database debugging guide for Knex.js and Sequelize query builder raw SQL output.
+- [How to get the current datetime in Java duplicate](https://friesenbyte.pages.dev/posts/how-to-get-the-current-date-time-in-java): Java guide for getting current date/time using java.time API and LocalDateTime.
+
+## Browse & Explore
+
+- [Categories](https://friesenbyte.pages.dev/categories): Content taxonomy organizing posts by programming languages and tech topics.
+- [Tags](https://friesenbyte.pages.dev/tags): Tag directory indexing development topics across .NET, mobile, and cloud services.

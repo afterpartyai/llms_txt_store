@@ -1,0 +1,55 @@
+# OpenTabletDriver
+
+> > A free, open-source cross-platform tablet driver for Windows, Linux, and macOS supporting hundreds of tablet models with advanced input filtering and plugin extensibility.
+
+OpenTabletDriver is a community-driven alternative to proprietary tablet drivers, offering broad hardware compatibility across Wacom, Gaomon, Huion, XP-Pen, and other manufacturers. The project emphasizes accessibility, performance, and user control through a modular plugin architecture and comprehensive documentation.
+
+## Key Topics
+
+- OpenTabletDriver
+- Cross-platform support
+- Windows/Linux/macOS
+- Tablet detection
+- WinUSB driver
+- HID/uinput
+- Permissions
+- Plugin system
+- Configuration
+- Troubleshooting
+- Wacom/Gaomon/Huion/XP-Pen
+- systemd
+- Pressure sensitivity
+- Area mapping
+
+## Getting Started
+
+- [OpenTabletDriver](https://opentabletdriver.net): OpenTabletDriver homepage with cross-platform tablet driver for Windows, Linux, MacOS
+- [Windows Installation Guide](https://opentabletdriver.net/Wiki/Install/Windows): Windows setup guide covering .NET 8, WinUSB driver, and Zadig installation
+- [Linux Installation Guide](https://opentabletdriver.net/Wiki/Install/Linux): Linux setup guide for Ubuntu, Debian, Fedora, openSUSE, and Arch Linux distributions
+- [macOS (Intel) Installation Guide](https://opentabletdriver.net/Wiki/Install/MacOS): macOS Intel installation guide with GitHub downloads and Applications folder setup
+
+## Troubleshooting & Support
+
+- [General FAQ](https://opentabletdriver.net/Wiki/FAQ/General): General FAQs covering tablet support, detection, configuration, pressure, and area mapping
+- [Windows FAQ](https://opentabletdriver.net/Wiki/FAQ/Windows): Windows troubleshooting FAQs for tablet detection, pressure support, and WinUSB setup
+- [Linux FAQ](https://opentabletdriver.net/Wiki/FAQ/Linux): Linux troubleshooting covering systemd, HID, uinput, permissions, and multi-monitor setup
+- [MacOS FAQ](https://opentabletdriver.net/Wiki/FAQ/MacOS): macOS troubleshooting for Apple verification, permissions, and installation issues
+- [Windows App-specific FAQ](https://opentabletdriver.net/Wiki/FAQ/WindowsAppSpecific): Windows app-specific troubleshooting for osu!, Valorant, Clip Studio Paint compatibility
+- [Linux App-specific FAQ](https://opentabletdriver.net/Wiki/FAQ/LinuxAppSpecific): Linux app-specific troubleshooting for osu!, GIMP, Wine, Wayland, and XWayland issues
+- [Model-specific FAQ](https://opentabletdriver.net/Wiki/FAQ/ModelSpecific): Model-specific FAQs for Wacom CTL-x100 tablet modes and Android compatibility
+
+## Hardware & Compatibility
+
+- [Tablets](https://opentabletdriver.net/Tablets): Supported tablets database listing compatibility for Wacom, Gaomon, Acepen, Adesso, Genius
+- [Tablet configuration reference](https://opentabletdriver.net/Wiki/Development/Configurations): Technical reference for tablet configuration, digitizer specs, and pen input hardware
+- [Guide: Adding support for a new tablet](https://opentabletdriver.net/Wiki/Documentation/ConfigurationGuide): Developer guide for adding new tablet hardware support across Windows, Linux, macOS
+
+## Plugins & Extensions
+
+- [Plugins](https://opentabletdriver.net/Plugins): Plugin repository featuring cursor smoothing, calibration, and input filtering extensions
+
+## Documentation & Reference
+
+- [Required Permissions](https://opentabletdriver.net/Wiki/Documentation/RequiredPermissions): Cross-platform permissions setup for Windows WinUSB, Linux udev, and macOS installation
+- [Command Line Arguments](https://opentabletdriver.net/Wiki/Documentation/CommandLine): CLI reference documentation for daemon, UI, and console command-line arguments
+- [Logs](https://opentabletdriver.net/Wiki/Documentation/Logs): Logging and debugging documentation for GUI, daemon, and systemd log diagnostics

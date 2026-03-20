@@ -1,0 +1,62 @@
+# OneUptime
+
+> > OneUptime is an open-source observability platform providing real-time monitoring, incident management, status pages, and APM for enterprises and startups.
+
+OneUptime consolidates monitoring, logging, tracing, metrics, and incident response into a single unified platform with OpenTelemetry support and Kubernetes-native observability. The platform serves as a comprehensive alternative to fragmented observability stacks, offering features from uptime monitoring to distributed tracing with AI-powered insights.
+
+## Key Topics
+
+- Real-time Monitoring
+- Incident Management
+- OpenTelemetry
+- Distributed Tracing
+- Log Management
+- Status Pages
+- On-Call Scheduling
+- Kubernetes Observability
+- Exception Tracking
+- Alerting & Notifications
+- Metrics & Performance
+- Workflow Automation
+- Observability Platform
+- Uptime Monitoring
+- Infrastructure Monitoring
+
+## Core Observability Features
+
+- [Monitor any resource in real-time](https://oneuptime.com/product/monitoring): Real-time monitoring for websites, APIs, servers with global coverage and multi-channel alerts.
+- [Distributed Tracing - End-to-End Request Visibility](https://oneuptime.com/product/traces): Distributed tracing across microservices with OpenTelemetry for performance optimization.
+- [Fastest log ingest and search on the planet](https://oneuptime.com/product/logs-management): High-speed log ingestion and search powered by Ceph and Clickhouse with OpenTelemetry support.
+- [Metrics - Performance Insights & Real-time Monitoring](https://oneuptime.com/product/metrics): Monitor application and infrastructure metrics with Prometheus compatibility and anomaly detection.
+- [Exception Tracking - Catch, Fix, and Prevent Bugs](https://oneuptime.com/product/exceptions): Exception tracking with stack traces, intelligent grouping, and AI-powered root cause analysis.
+
+## Incident & Alert Management
+
+- [Incident Management and Response](https://oneuptime.com/product/incident-management): Streamline incident response with timelines, collaboration, and postmortems via Slack/Teams.
+- [On-Call Policies and Alerts](https://oneuptime.com/product/on-call): On-call scheduling with rotations, escalations, and multi-channel alerts; PagerDuty alternative.
+- [Integrate with any software or service with workflows](https://oneuptime.com/product/workflows): Workflow automation with no-code builder for incident response and third-party integrations.
+
+## Status & Communication
+
+- [Free Status Page | Public & Private | Unlimited Subscribers](https://oneuptime.com/product/status-page): Free status pages with unlimited subscribers, custom domains, and automatic monitoring updates.
+- [Scheduled Maintenance - Plan & Communicate Downtime](https://oneuptime.com/product/scheduled-maintenance): Plan and communicate maintenance windows with automatic subscriber notifications and status updates.
+
+## Infrastructure & Kubernetes
+
+- [Kubernetes Observability - Monitor Clusters, Pods & Nodes](https://oneuptime.com/product/kubernetes): Complete Kubernetes observability with cluster monitoring, pod health, and OpenTelemetry native.
+- [Dashboards - Visualize All Your Data in One Place](https://oneuptime.com/product/dashboards): Custom dashboards with drag-and-drop builder for metrics, logs, traces, and status data.
+- [AI Agent - Automatically Fix Code Issues](https://oneuptime.com/product/ai-agent): AI agent automatically fixes errors and performance issues with pull request generation.
+
+## Documentation & API
+
+- [Getting Started - OneUptime Docs](https://oneuptime.com/docs): Complete documentation covering monitoring, alerts, incidents, and observability setup.
+- [OneUptime API Reference - Introduction](https://oneuptime.com/reference): REST API reference for OneUptime incident management, monitoring, and status pages.
+
+## Pricing & Enterprise
+
+- [OneUptime | One Complete Observability platform](https://oneuptime.com/pricing): Pricing plans with free tier, pay-as-you-go, and SMS alerts for observability.
+- [Request Demo | OneUptime](https://oneuptime.com/enterprise/demo): Schedule personalized demo of OneUptime's observability platform for enterprises.
+
+## Optional Resources
+
+- [OneUptime Blog - Latest posts on Observability, Monitoring, Reliability and more](https://oneuptime.com/blog): Blog covering observability, monitoring, Kubernetes, and infrastructure topics.

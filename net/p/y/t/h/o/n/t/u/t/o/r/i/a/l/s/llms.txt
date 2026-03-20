@@ -1,0 +1,58 @@
+# PythonTutorials.net
+
+> Comprehensive Python learning platform offering beginner guides, interactive tools, and skill assessments for web frameworks, data science, and machine learning.
+
+PythonTutorials.net provides structured tutorials and hands-on learning resources for Python developers at all levels, with a focus on popular frameworks like Django and Flask, data science libraries like NumPy and Scikit-Learn, and specialized tools for image processing and natural language processing. The site combines foundational guides with interactive quizzes and a browser-based compiler for immediate practice.
+
+## Key Topics
+
+- Python
+- Django
+- Flask
+- NumPy
+- Scikit-Learn
+- Pandas
+- NLTK
+- Pillow
+- ORM
+- REST API
+- Machine Learning
+- Data Analysis
+- Image Processing
+- Natural Language Processing
+- Web Development
+
+## Core & Tools
+
+- [PythonTutorials.net](https://www.pythontutorials.net): Homepage for PythonTutorials.net covering Python, Django, Flask, and ML.
+- [Online Python Compiler](https://www.pythontutorials.net/online-python-compiler): Free browser-based Python compiler for learning and code execution.
+
+## Web Frameworks
+
+- [Getting Started with Django: A Beginner's Guide](https://www.pythontutorials.net/django): Beginner's guide to Django framework with MVT architecture and ORM.
+- [Getting Started with Python Flask: A Beginner's Guide](https://www.pythontutorials.net/flask): Beginner's guide to Flask microframework for Python web development.
+- [Django Fundamentals](https://www.pythontutorials.net/quiz/django-fundamentals): Quiz covering Django models, views, templates, and ORM concepts.
+- [Django ORM Mastery](https://www.pythontutorials.net/quiz/django-orm-mastery): Quiz assessing Django ORM QuerySet and database query knowledge.
+- [Building REST APIs with Django Rest Framework](https://www.pythontutorials.net/quiz/building-rest-apis-with-django-rest-framework): Quiz on Django REST Framework serializers, viewsets, and authentication.
+- [Flask Web Development](https://www.pythontutorials.net/quiz/flask-web-development): Quiz assessing Flask routing, request handling, and Jinja2 templating.
+- [Flask API Design and Testing](https://www.pythontutorials.net/quiz/flask-api-design-and-testing): Quiz evaluating Flask RESTful API creation, documentation, and testing.
+- [Flask Extensions and Middleware](https://www.pythontutorials.net/quiz/flask-extensions-and-middleware): Quiz on Flask extensions, blueprints, and middleware architecture.
+
+## Data Science & Machine Learning
+
+- [Getting Started with NumPy: A Beginner's Guide](https://www.pythontutorials.net/numpy): Beginner's guide to NumPy for numerical computing and arrays.
+- [Getting Started with Scikitlearn: A Beginner's Guide](https://www.pythontutorials.net/scikit-learn): Beginner's guide to Scikit-learn for machine learning and data analysis.
+- [Data Analysis with NumPy and Pandas](https://www.pythontutorials.net/quiz/data-analysis-with-numpy-and-pandas): Quiz testing NumPy and Pandas skills for data manipulation.
+- [Feature Engineering in Scikit-Learn](https://www.pythontutorials.net/quiz/feature-engineering-in-scikit-learn): Quiz on feature preprocessing, scaling, and selection in Scikit-Learn.
+- [End-to-End Machine Learning Project](https://www.pythontutorials.net/quiz/end-to-end-machine-learning-project): Quiz on ML preprocessing, modeling, and deployment workflows.
+
+## Image Processing & NLP
+
+- [Getting Started with Pillow: A Beginner's Guide to Image Processing in Python](https://www.pythontutorials.net/pillow): Beginner's guide to Pillow for image processing and manipulation.
+- [Getting Started with NLTK: A Beginner's Guide to Natural Language Toolkit](https://www.pythontutorials.net/nltk): Beginner's guide to NLTK for natural language processing tasks.
+- [Image Processing with Pillow](https://www.pythontutorials.net/quiz/image-processing-with-pillow): Quiz testing Pillow image transformations, filtering, and conversions.
+- [Advanced Image Manipulation in Pillow](https://www.pythontutorials.net/quiz/advanced-image-manipulation-in-pillow): Quiz assessing Pillow skills in color modes, masks, and compositing.
+
+## Blog & Community
+
+- [Blog](https://www.pythontutorials.net/blog): Blog hub featuring Python tutorials, web scraping, and development tips.

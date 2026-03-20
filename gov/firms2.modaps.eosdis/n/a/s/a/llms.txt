@@ -1,0 +1,35 @@
+# FIRMS2 - Fire Information and Resource Management System
+
+> > Global real-time fire detection and monitoring system powered by NASA satellite data (MODIS, VIIRS) with interactive mapping, data downloads, and alerting capabilities.
+
+FIRMS2 is NASA's LANCE (Land, Atmosphere Near real-time Capability for EOS) fire detection platform that processes thermal anomalies from multiple polar-orbiting satellites (NOAA-20, NOAA-21, S-NPP) and GOES geostationary data to provide wildfire monitoring and hotspot detection worldwide. The system offers both global coverage and regional tools for US/Canada fire tracking, with data available in multiple formats (shapefile, CSV, JSON) for research, emergency response, and resource management.
+
+## Key Topics
+
+- FIRMS (Fire Information and Resource Management System)
+- MODIS and VIIRS satellite sensors
+- NOAA-20, NOAA-21, S-NPP, JPSS-2 satellites
+- Real-time fire detection and thermal anomalies
+- LANCE (Land, Atmosphere Near real-time Capability for EOS)
+- Hotspot detection and wildfire monitoring
+- Data download and archive access
+- Geospatial data formats (shapefile, CSV, JSON)
+- Collection-2 fire products
+- US/Canada fire alerts and mapping
+- Email notifications and alerting
+- Burned area estimation
+- University of Maryland
+- NOAA and GOES integration
+
+## Core Fire Detection & Mapping
+
+- [FIRMS Global Fire Detection](https://firms2.modaps.eosdis.nasa.gov): Global fire detection system with MODIS/VIIRS satellite data and email alerts
+- [US/Canada Fire Alerts & Map](https://firms2.modaps.eosdis.nasa.gov/usfs): Real-time fire detection and alerts for US and Canada via interactive map
+
+## Data Access & Downloads
+
+- [Archive Download](https://firms2.modaps.eosdis.nasa.gov/download): Download fire data from MODIS/VIIRS in multiple formats with authentication
+
+## News & Updates
+
+- [What's New](https://firms2.modaps.eosdis.nasa.gov/content/notifications/firms/news.html): Updates on FIRMS Collection-2, GOES-19, and product improvements

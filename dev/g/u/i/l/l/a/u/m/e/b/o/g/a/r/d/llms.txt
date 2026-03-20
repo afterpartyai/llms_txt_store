@@ -1,0 +1,53 @@
+# Guillaume Bogard
+
+> > A functional programming expert's portfolio showcasing expertise in Scala, stream processing, and infrastructure automation.
+
+Guillaume Bogard is a software engineer specializing in functional programming with Scala, distributed systems, and DevOps infrastructure. The site features technical tutorials, blog posts, and video crash courses on modern software engineering practices.
+
+## Key Topics
+
+- Scala
+- Functional Programming
+- Cats Library
+- Type Classes
+- Stream Processing (fs2)
+- JSON Handling (Circe)
+- Kafka
+- NixOS
+- Terraform
+- Error Handling
+- Monad Transformers
+- Distributed Systems
+- React
+- Redux Saga
+- DevOps
+
+## Core
+
+- [λ Guillaume Bogard](https://guillaumebogard.dev): Homepage showcasing Guillaume Bogard's functional programming expertise
+- [Resume](https://guillaumebogard.dev/resume): Resume detailing Guillaume's experience in Scala, Rust, and functional programming
+
+## Functional Programming Guides
+
+- [Functional error handling with monads, monad transformers and Cats MTL](https://guillaumebogard.dev/posts/functional-error-handling): Guide to functional error handling using Scala, Cats, and monad transformers
+- [Understanding Type classes in Scala : extending types you don't own](https://guillaumebogard.dev/posts/typeclasses): Comprehensive guide to type classes in Scala and their evolution in Dotty
+
+## Scala & Stream Processing Tutorials
+
+- [Working with JSON in Scala, a Circe Crash Course](https://guillaumebogard.dev/videos/json-handling-scala-circe): Video crash course on Circe JSON library for Scala with encoders and decoders
+- [Functional stream processing with Scala, a crash course on fs2](https://guillaumebogard.dev/videos/fs2-crash-course): Introductory video tutorial on fs2 stream processing library for Scala
+
+## Infrastructure & Systems Design
+
+- [Taming Cloud Infrastructure with NixOS, Terraform, and Colmena](https://guillaumebogard.dev/posts/declarative-server-management-with-nix): Tutorial on reproducible server management using NixOS, Terraform, and Colmena
+- [Moving away from a legacy system using Scala and Kafka - Part 1](https://guillaumebogard.dev/posts/moving-away-from-a-legacy-system-using-scala-and-kafka/part-one-building-blocks): Case study on migrating legacy systems using Scala and Kafka at Canal+
+
+## Content Collections
+
+- [Posts](https://guillaumebogard.dev/posts): Blog posts on Scala, NixOS, functional programming, and DevOps infrastructure
+- [Videos](https://guillaumebogard.dev/videos): Video tutorials on Scala, Circe, fs2, and functional programming crash courses
+
+## Optional
+
+- [Managing side effects and building scalable React apps with Redux Saga](https://guillaumebogard.dev/posts/discover-redux-saga): Article on Redux Saga for managing side effects in React applications
+- [Attending NE Scala 2020, my first online-only conference](https://guillaumebogard.dev/posts/attending-ne-scala-2020-online-conference): Personal account of attending Northeast Scala Symposium and Typelevel Summit

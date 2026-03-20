@@ -1,0 +1,45 @@
+# MyPaint
+
+> MyPaint is an open-source digital painting application with comprehensive documentation for users and contributors, featuring the libmypaint brush engine and support for multiple file formats.
+
+MyPaint provides user manuals across multiple language versions (English, French, Japanese), detailed technical documentation for its brush engine and UI architecture, and contributor guidelines for development. The project emphasizes community contribution through clear documentation standards, git workflows, and licensing practices.
+
+## Key Topics
+
+- libmypaint
+- Brush Engine
+- Brush Settings
+- Canvas Manipulation
+- Tablet Controls
+- File Formats (PNG, JPEG, ORA, OpenRaster)
+- Python
+- C/C++
+- Git Workflow
+- OpenRaster Format
+- Keyboard Shortcuts
+- User Interface
+- Digital Painting
+- Open Source
+
+## User Manuals & Guides
+
+- [v0.9.0 User Manual](http://mypaint.app/en/docs/manuals/v0.9.0): User manual for MyPaint v0.9.0 covering file formats, canvas manipulation, and tablet controls
+- [v0.7.0 User Guide (French)](http://mypaint.app/fr/docs/manuals/v0.7.0): French user guide for MyPaint v0.7.0 with brush customization and settings tutorials
+- [v0.7.0 User Guide (Japanese)](http://mypaint.app/ja/docs/manuals/v0.7.0): Japanese user guide for MyPaint v0.7.0 with beginner tutorials and basic usage
+
+## Technical Reference
+
+- [Brush Engine](http://mypaint.app/en/docs/backend/brush-engine): Technical reference for MyPaint's libmypaint brush engine architecture and filtering
+- [Menubar UI Specification](http://mypaint.app/en/docs/uxui/menubar): MyPaint menubar UI specification documenting file operations and menu items
+
+## Contributor Guidelines
+
+- [Git Workflow](http://mypaint.app/en/docs/contributing/git): Git workflow guide for MyPaint contributors covering pull requests and code review
+- [Programming Style Guide](http://mypaint.app/en/docs/contributing/style-guide): MyPaint code style guide for Python, C, and C++ with PEP8 compliance standards
+- [Writing Documentation](http://mypaint.app/en/docs/contributing/documentation): Contributor guidelines for writing MyPaint documentation with style and translation standards
+- [Licensing Works](http://mypaint.app/en/docs/contributing/licenses): Licensing guide for MyPaint contributions with Creative Commons and open-source standards
+
+## Community & Support
+
+- [Blog](http://mypaint.app/en/blog): MyPaint blog featuring release notes, project updates, and development announcements
+- [Donate](http://mypaint.app/en/donate): MyPaint donation page for community support via OpenCollective and sponsorships

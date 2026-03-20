@@ -1,0 +1,58 @@
+# Honeybadger
+
+> All-in-one error tracking, APM, logging, and uptime monitoring platform for Ruby, Python, JavaScript, Elixir, PHP, and more.
+
+Honeybadger provides developer-focused observability solutions combining error tracking, application performance monitoring (APM), log management via Honeybadger Insights, uptime monitoring, and cron job heartbeat checks. The platform integrates seamlessly with GitHub, Slack, PagerDuty, and other developer tools.
+
+## Key Topics
+
+- Error Tracking
+- Application Performance Monitoring (APM)
+- Logging & Observability
+- Uptime Monitoring
+- Status Pages
+- Cron Job Monitoring
+- Ruby
+- Python
+- JavaScript
+- Elixir
+- PHP
+- Real-time Alerts
+- Slack Integration
+- PagerDuty Integration
+- BadgerQL
+
+## Core Platform Features
+
+- [Honeybadger Homepage](https://www.honeybadger.io): All-in-one error tracking, APM, and logging platform for comprehensive application monitoring
+- [Error Tracking & Application Monitoring](https://www.honeybadger.io/tour/logging-observability): Log management and observability with BadgerQL query language and real-time alerting
+- [APM & Infrastructure Monitoring Dashboards](https://www.honeybadger.io/tour/dashboards): Developer-friendly dashboards with custom metrics and infrastructure performance monitoring
+- [Uptime & API Monitoring](https://www.honeybadger.io/tour/uptime-monitoring): Monitor APIs and websites with Slack and PagerDuty integration for instant notifications
+- [Cron Job & Heartbeat Monitoring](https://www.honeybadger.io/tour/cron-job-heartbeat-monitoring): Monitor cron jobs and background job execution with heartbeat check-in verification
+- [Hosted Status Pages](https://www.honeybadger.io/tour/status-pages): Managed status pages displaying live service status and incident history to customers
+
+## Language & Platform Support
+
+- [Ruby Monitoring & Error Tracking](https://www.honeybadger.io/for/ruby): Full-stack Ruby monitoring with error tracking, APM, logging, and performance insights
+- [JavaScript Error Tracking & APM](https://www.honeybadger.io/for/javascript): Full-stack JavaScript monitoring with error tracking and application performance analysis
+- [Python Monitoring & Error Tracking](https://www.honeybadger.io/for/python): Python monitoring with Django integration, error tracking, APM, and comprehensive logging
+- [Elixir Monitoring & Error Tracking](https://www.honeybadger.io/for/elixir): Elixir and Phoenix framework monitoring with error tracking, APM, logging, and observability
+- [PHP Error Tracking & Monitoring](https://www.honeybadger.io/for/php): PHP monitoring with Laravel integration, error tracking, APM, and log management
+- [Supported Platforms](https://www.honeybadger.io/platforms): Complete list of supported platforms including Ruby, Python, JavaScript, PHP, Elixir, .NET, and Go
+
+## Integrations & Workflows
+
+- [All Integrations](https://www.honeybadger.io/integrations): Honeybadger integrations with GitHub, Slack, Jira, PagerDuty, Trello, and more
+- [GitHub Integration](https://www.honeybadger.io/integrations/github): Auto-create GitHub issues from errors, link backtraces, and sync status updates
+- [Slack Integration](https://www.honeybadger.io/integrations/slack): Real-time error alerts and incident notifications delivered directly to Slack channels
+- [PagerDuty Integration](https://www.honeybadger.io/integrations/pagerduty): Incident escalation and error management with PagerDuty for on-call teams
+
+## Pricing & Comparison
+
+- [Plans & Pricing](https://www.honeybadger.io/plans): Honeybadger pricing plans starting at $26/month with 30-day free trial available
+- [Honeybadger vs Datadog](https://www.honeybadger.io/vs/datadog): Comparison: Honeybadger's developer-focused error tracking versus Datadog's enterprise APM
+
+## Resources & Updates
+
+- [Developer Blog](https://www.honeybadger.io/blog): Tutorials, product updates, observability tips, and best practices for developers
+- [Changelog](https://www.honeybadger.io/changelog): Product updates, feature releases, and platform improvements
