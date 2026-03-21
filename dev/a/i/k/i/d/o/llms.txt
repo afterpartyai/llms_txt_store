@@ -1,0 +1,58 @@
+# Aikido Security
+
+> > Aikido is a unified code-to-cloud security platform combining SAST, SCA, container scanning, cloud posture management, and AI-powered pentesting.
+
+Aikido Security provides enterprise developers and security teams with an integrated platform for detecting and remediating vulnerabilities across the entire software development lifecycle—from code and dependencies through cloud infrastructure and runtime environments. The platform leverages AI-driven analysis, automated remediation, and continuous pentesting to reduce security risk at scale.
+
+## Key Topics
+
+- SAST (Static Code Analysis)
+- SCA (Software Composition Analysis)
+- DAST (Dynamic Application Security Testing)
+- CSPM (Cloud Security Posture Management)
+- Container Security & Scanning
+- Infrastructure as Code (IaC)
+- Secrets Detection
+- Supply Chain Security
+- Vulnerability Management
+- AI-Powered Pentesting
+- SBOM Generation
+- Malware Detection
+- CI/CD Integration
+- Kubernetes Security
+- Automated Remediation
+
+## Platform Overview
+
+- [Aikido Unified Security Platform](https://www.aikido.dev/platform): Aikido unified platform: code-to-cloud protection with SAST, SCA, and runtime security
+- [Aikido Code: End-to-End Code Security](https://www.aikido.dev/platform/code): Aikido Code product for end-to-end code security with AI-driven scanning
+- [Aikido Cloud: Complete Cloud Security](https://www.aikido.dev/platform/cloud): Aikido Cloud platform for cloud posture management and security visibility
+
+## Code & Dependency Scanning
+
+- [SAST Platform - Static Code Analysis](https://www.aikido.dev/scanners/static-code-analysis-sast): SAST scanner for early vulnerability detection with AI-powered triage
+- [Software Composition Analysis (SCA)](https://www.aikido.dev/scanners/open-source-dependency-scanning-sca): SCA scanner for dependency vulnerabilities, license risks, and supply chain security
+- [Secrets Scanning & Detection Software](https://www.aikido.dev/scanners/secrets-detection): Secrets scanner for API keys, passwords, tokens, and encryption key detection
+- [Software Supply Chain Security (Malware) Scanner](https://www.aikido.dev/scanners/malware-detection-in-dependencies): Malware detection in dependencies using threat intelligence and supply chain analysis
+- [Open Source License Scanner & Compliance](https://www.aikido.dev/scanners/open-source-license-risk): License compliance scanner with SBOM generation and risk detection
+- [Outdated & End-of-Life Software Detection](https://www.aikido.dev/scanners/outdated-eol-software): EOL and outdated package detection across containers and dependencies
+- [AI Code Reviews - Code Quality](https://www.aikido.dev/code-quality): AI-powered code reviews for quality and bug detection before production
+
+## Infrastructure & Cloud Security
+
+- [Cloud Security Posture Management (CSPM)](https://www.aikido.dev/scanners/cloud-posture-management-cspm): CSPM scanner for AWS, Azure, GCP misconfigurations and compliance
+- [Infrastructure as Code (IaC)](https://www.aikido.dev/scanners/infrastructure-as-a-code-iac): IaC scanner for Terraform, CloudFormation, and Kubernetes misconfigurations
+- [Container Security](https://www.aikido.dev/scanners/container-image-scanning): Container image scanning for Docker and Kubernetes vulnerability detection
+- [Virtual Machine Vulnerability Scanning](https://www.aikido.dev/scanners/virtual-machine-scanning): VM vulnerability scanning with agentless and agent-based options
+- [Hardened Images](https://www.aikido.dev/scanners/hardenend-images): Hardened container base images with CVE patching and ELS support
+
+## Runtime & Attack Surface Testing
+
+- [Dynamic Application Security Testing (DAST) Tool](https://www.aikido.dev/scanners/surface-monitoring-dast): DAST scanner for real-world vulnerabilities via attack surface monitoring
+- [AI Pentests That Simulate Real Attacks](https://www.aikido.dev/attack/aipentest): Aikido Attack: AI-powered pentest service with audit-ready reports
+- [Aikido Infinite](https://www.aikido.dev/attack/infinite): Aikido Infinite: continuous pentesting with AI agents for every release
+- [AI Bug Bounty Validation](https://www.aikido.dev/attack/ai-bug-bounty-validation): Automated bug bounty validation and triage with autonomous remediation
+
+## Events & Community
+
+- [Connect with Aikido at RSAC 2026](https://www.aikido.dev/aikido-rsac-2026): Aikido at RSAC 2026 conference in San Francisco with workshops and events

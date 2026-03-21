@@ -1,0 +1,64 @@
+# Curiousily - Hacker's Guide to Machine Learning
+
+> A practical, hands-on resource for learning machine learning, deep learning, and AI through tutorials, books, and consulting services.
+
+Curiousily provides in-depth tutorials and guides on implementing ML models using Python, PyTorch, and TensorFlow. The platform covers everything from neural network fundamentals to advanced applications in NLP, computer vision, and time series analysis, with a focus on practical, working code examples.
+
+## Key Topics
+
+- Deep Learning
+- Neural Networks
+- Machine Learning
+- PyTorch
+- TensorFlow
+- Python
+- Natural Language Processing (NLP)
+- Computer Vision
+- BERT
+- LSTM
+- TensorFlow.js
+- Keras
+- Time Series
+- Text Classification
+- JavaScript ML
+
+## Core Resources
+
+- [Homepage](https://curiousily.com): Homepage for ML tutorials covering deep learning, NLP, and AI fundamentals
+- [Posts Archive](https://curiousily.com/posts): Archive of tutorials on deep learning, NLP, computer vision with PyTorch/TensorFlow
+- [Books](https://curiousily.com/books): Curated ML books covering neural networks, deep learning, and practical applications
+- [Hacker's Guide to Machine Learning with Python](https://curiousily.com/books/hackers-guide-to-machine-learning-with-python): Book: ML fundamentals with Python covering computer vision, NLP, time series
+- [Hands-On Machine Learning from Scratch](https://curiousily.com/books/hands-on-machine-learning-from-scratch): Book: Build ML algorithms from scratch in Python with practical guidance
+- [About](https://curiousily.com/about): About Venelin: author, ML expert, and founder of Curiousily platform
+- [Consulting](https://curiousily.com/consulting): ML consulting services for NLP, computer vision, time series, and model deployment
+
+## Deep Learning & Neural Networks Fundamentals
+
+- [How Neural Networks make predictions](https://curiousily.com/posts/how-neural-networks-make-predictions): Guide to how deep learning models make predictions using PyTorch
+- [TensorFlow 2 and Keras - Quick Start Guide](https://curiousily.com/posts/tensorflow-2-and-keras-quick-start-guide): Quick start guide to TensorFlow 2 and Keras fundamentals with Python
+- [Hacker's Guide to Fixing Underfitting and Overfitting Models](https://curiousily.com/posts/hackers-guide-to-fixing-underfitting-and-overfitting-models): Guide to diagnosing and fixing underfitting/overfitting in neural networks
+- [Practical Guide to Handling Imbalanced Datasets](https://curiousily.com/posts/practical-guide-to-handling-imbalanced-datasets): Guide to training classifiers on imbalanced data with resampling and metrics
+
+## Natural Language Processing
+
+- [Multi-label Text Classification with BERT and PyTorch Lightning](https://curiousily.com/posts/multi-label-text-classification-with-bert-and-pytorch-lightning): Tutorial: Fine-tune BERT for multi-label text classification on toxic comments
+
+## Time Series & Sequence Models
+
+- [Cryptocurrency price prediction using LSTMs](https://curiousily.com/posts/cryptocurrency-price-prediction-in-tensorflow-2): Tutorial: Predict Bitcoin price using LSTM neural networks in TensorFlow 2
+- [Time Series Anomaly Detection using LSTM Autoencoders with PyTorch](https://curiousily.com/posts/time-series-anomaly-detection-using-lstm-autoencoder-with-pytorch-in-python): Tutorial: Detect ECG anomalies using LSTM autoencoders with PyTorch
+
+## Computer Vision & JavaScript ML
+
+- [Build a simple Neural Network with TensorFlow.js in JavaScript](https://curiousily.com/posts/build-a-simple-neural-network-with-tensorflow-js-in-javascript): Tutorial: Build and train neural networks with TensorFlow.js in JavaScript
+- [Making Predictions with a Simple Neural Network from Scratch in JavaScript](https://curiousily.com/posts/making-predictions-with-a-simple-neural-network-from-scratch-in-javascript): Tutorial: Build neural networks from scratch in JavaScript for predictions
+- [Burglar alarm system using Object Detection with TensorFlow.js](https://curiousily.com/posts/burglar-alarm-system-using-object-detection-with-tensorflow-js): Tutorial: Build object detection with TensorFlow.js for webcam intruder alerts
+
+## Reinforcement Learning
+
+- [AppGym - Android Apps as Reinforcement Learning Environment](https://curiousily.com/posts/android-reinforcement-learning-environment): Tutorial: Use Android apps as RL training environments with AppGym
+
+## Optional
+
+- [About Time - Part I](https://curiousily.com/posts/about-time-1): Article on time management and productivity principles for goal-setting
+- [Sometimes you got to smash that](https://curiousily.com/posts/sometimes-you-got-to-smash-that): Personal story on powerlifting recovery and comeback after injury

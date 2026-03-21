@@ -1,0 +1,64 @@
+# Z.AI Developer Documentation
+
+> Complete API reference and developer guides for Z.AI's GLM family of language and vision models, from quick start to advanced agentic engineering.
+
+Z.AI provides comprehensive documentation for integrating GLM foundation models (GLM-5, GLM-4.x series) and vision-language models into applications. The docs cover API setup, model selection, pricing, migration paths, and real-world integration examples with tools like Claude Code and Cline.
+
+## Key Topics
+
+- GLM-5
+- GLM-5-Turbo
+- GLM-4.5
+- GLM-4.6
+- GLM-4.7
+- GLM-4.6V
+- Function Calling
+- Multimodal AI
+- Vision-Language Models
+- Agentic Coding
+- API Reference
+- OpenClaw
+- GLM-OCR
+- Tool Invocation
+- Context Window
+
+## Getting Started
+
+- [Quick Start](https://docs.z.ai/guides/overview/quick-start): Quick start guide for Z.AI API setup and GLM model integration
+- [Overview](https://docs.z.ai/guides/overview/overview): Z.AI model overview covering GLM-5, vision, and agent tools
+- [API Introduction](https://docs.z.ai/api-reference/introduction): Z.AI Platform API reference with authentication and REST endpoints
+
+## Language Models
+
+- [GLM-5](https://docs.z.ai/guides/llm/glm-5): GLM-5 foundation model overview with agentic engineering capabilities
+- [GLM-5-Turbo](https://docs.z.ai/guides/llm/glm-5-turbo): GLM-5-Turbo model with OpenClaw optimization and tool invocation
+- [GLM-4.7](https://docs.z.ai/guides/llm/glm-4.7): GLM-4.7 model capabilities for coding, multimodal, and function calling
+- [GLM-4.6](https://docs.z.ai/guides/llm/glm-4.6): GLM-4.6 model with context window and coding performance benchmarks
+- [GLM-4.5](https://docs.z.ai/guides/llm/glm-4.5): GLM-4.5 model variants with reasoning and tool invocation capabilities
+- [GLM-4-32B-0414-128K](https://docs.z.ai/guides/llm/glm-4-32b-0414-128k): GLM-4-32B model with 128K context window and web search integration
+
+## Vision & Multimodal Models
+
+- [GLM-4.6V](https://docs.z.ai/guides/vlm/glm-4.6v): GLM-4.6V vision-language model with function calling and multimodal
+- [GLM-OCR](https://docs.z.ai/guides/vlm/glm-ocr): GLM-OCR model for document parsing and text/table recognition
+- [AutoGLM-Phone-Multilingual](https://docs.z.ai/guides/vlm/autoglm-phone-multilingual): AutoGLM mobile assistant for Android device automation and task planning
+
+## API Reference & Configuration
+
+- [Core Parameters](https://docs.z.ai/guides/overview/concept-param): Core API parameters for model configuration and output generation
+- [Pricing](https://docs.z.ai/guides/overview/pricing): Z.AI pricing for text, vision, image, and audio models in USD
+
+## Integration & Tools
+
+- [Claude Code Integration](https://docs.z.ai/scenario-example/develop-tools/claude): Integration guide for GLM Coding Plan in Claude Code environment
+- [GLM Coding Plan Overview](https://docs.z.ai/devpack/overview): GLM Coding Plan overview with pricing and AI coding tool support
+- [Migrate to GLM-5](https://docs.z.ai/guides/overview/migrate-to-glm-new): Migration guide from GLM-4.x to GLM-5 with code examples
+
+## Support & Resources
+
+- [FAQ](https://docs.z.ai/help/faq): Frequently asked questions on billing, rates, and GLM-4.5 usage
+
+## Optional
+
+- [Release Notes](https://docs.z.ai/release-notes/new-released): Release notes for Z.AI models including GLM-5 and multimodal updates
+- [Privacy Policy](https://docs.z.ai/legal-agreement/privacy-policy): Z.AI privacy policy and data handling compliance information

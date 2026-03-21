@@ -1,56 +1,51 @@
 # PubMed
 
-> > PubMed is the free search interface to 40+ million biomedical citations from MEDLINE, journals, and books, providing access to life science literature and clinical evidence.
+> PubMed is the free search interface to MEDLINE and 40M+ biomedical literature citations maintained by the National Library of Medicine (NLM) and National Center for Biotechnology Information (NCBI).
 
-PubMed is maintained by the National Library of Medicine (NLM) and National Center for Biotechnology Information (NCBI), part of the National Institutes of Health. It offers advanced search capabilities, citation management, clinical query tools, and programmatic access via E-utilities API for researchers, clinicians, and the general public.
+PubMed provides comprehensive access to peer-reviewed biomedical and life sciences literature through multiple search tools, data download options, and citation management features. The platform integrates MeSH indexing, advanced filtering, and specialized search modes for clinical research discovery.
 
 ## Key Topics
 
-- PubMed
 - MEDLINE
 - NCBI
-- National Library of Medicine
+- National Library of Medicine (NLM)
+- MeSH
+- PubMed Central
 - Biomedical literature
 - Citation search
-- Clinical queries
-- Search filters
-- Citation management
+- Advanced search
 - E-utilities API
-- PubMed Central
-- Bookshelf
-- Clinical practice guidelines
-- Cardiovascular disease
-- Evidence-based medicine
+- Data download
+- FTP
+- JSON output
+- Clinical queries
+- Literature search
+- Citation database
 
 ## Core Search & Discovery
 
-- [PubMed](https://pubmed.ncbi.nlm.nih.gov): PubMed homepage: 40M+ biomedical citations from MEDLINE, journals, books
-- [Advanced Search Results - PubMed](https://pubmed.ncbi.nlm.nih.gov/advanced): Advanced search builder with filters, saved searches, and query alerts
-- [Clinical Queries - PubMed](https://pubmed.ncbi.nlm.nih.gov/clinical): Specialized search tool for clinical studies and evidence retrieval
-- [Single Citation Matcher - PubMed](https://pubmed.ncbi.nlm.nih.gov/citmatch): Tool to find articles by citation details or PMID lookup
-- [Batch Citation Matcher - PubMed](https://pubmed.ncbi.nlm.nih.gov/batchcitmatch): Bulk citation lookup tool with file upload and PMID retrieval
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov): PubMed homepage: 40M+ biomedical literature citations from MEDLINE
+- [Advanced Search Results - PubMed](https://pubmed.ncbi.nlm.nih.gov/advanced): Advanced search interface with filters, saved searches, and alerts
+- [Clinical Queries - PubMed](https://pubmed.ncbi.nlm.nih.gov/clinical): Specialized search tool for clinical studies and COVID-19 content
 
-## Citation Management & Tools
+## Citation Tools & Lookup
 
-- [Clipboard - PubMed](https://pubmed.ncbi.nlm.nih.gov/clipboard): Citation management tool supporting AMA, APA, MLA formatting
+- [Single Citation Matcher - PubMed](https://pubmed.ncbi.nlm.nih.gov/citmatch): Citation lookup tool for journal/author searches with JSON output
+- [Batch Citation Matcher - PubMed](https://pubmed.ncbi.nlm.nih.gov/batchcitmatch): Bulk PMID retrieval tool with file upload and JSON output
 
-## Data Access & APIs
+## Citation Management & Collections
 
-- [Download Data - PubMed](https://pubmed.ncbi.nlm.nih.gov/download): Data download, FTP access, E-utilities API, XML format documentation
+- [Clipboard - PubMed](https://pubmed.ncbi.nlm.nih.gov/clipboard): Citation management tool: clipboard, bibliography, collections
 
-## Documentation & Support
+## Data Access & Download
 
-- [Help - PubMed](https://pubmed.ncbi.nlm.nih.gov/help): Search tutorials, FAQ, syntax guides, citation management documentation
-- [About - PubMed](https://pubmed.ncbi.nlm.nih.gov/about): Overview of PubMed, NCBI, NLM, NIH, and database components
+- [Download Data - PubMed](https://pubmed.ncbi.nlm.nih.gov/download): MEDLINE data download via FTP, E-utilities, baseline files
 
-## Featured Clinical Research
+## Information & Support
 
-- [2026 ACC/AHA/AACVPR/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Dyslipidemia](https://pubmed.ncbi.nlm.nih.gov/41824552): 2026 clinical practice guideline on dyslipidemia management and cholesterol
-- [2026 ACC/AHA Guideline on the Management of Dyslipidemia](https://pubmed.ncbi.nlm.nih.gov/41824590): Clinical guideline on dyslipidemia, statin therapy, and lipid disorders
-- [Bleeding Risk with Apixaban vs. Rivaroxaban in Acute Venous Thromboembolism](https://pubmed.ncbi.nlm.nih.gov/41812192): RCT comparing bleeding risk between apixaban and rivaroxaban
-- [CRLF1 Secreted by Cardiac Fibroblasts Promotes Human Hypertrophic Cardiomyopathy](https://pubmed.ncbi.nlm.nih.gov/41838796): Research on CRLF1 signaling in hypertrophic cardiomyopathy pathogenesis
-- [Senescence-associated metabolic alterations aggravate calcific aortic valve disease](https://pubmed.ncbi.nlm.nih.gov/41841768): Study on NAD+ metabolism and inflammaging in aortic valve disease
+- [About - PubMed](https://pubmed.ncbi.nlm.nih.gov/about): PubMed service overview by NCBI/NLM/NIH
+- [Help - PubMed](https://pubmed.ncbi.nlm.nih.gov/help): User guide covering search techniques, Boolean operators, basics
 
 ## Optional
 
-- [Disclaimer - PubMed](https://pubmed.ncbi.nlm.nih.gov/disclaimer): Legal disclaimer and content policy for PubMed and related databases
+- [Disclaimer - PubMed](https://pubmed.ncbi.nlm.nih.gov/disclaimer): Legal disclaimer on PubMed, PMC, and Bookshelf content policy

@@ -1,54 +1,55 @@
 # CodeHS
 
-> > CodeHS provides comprehensive K-12 computer science curriculum with state-aligned courses covering Python, JavaScript, Karel, web development, cybersecurity, and game design.
+> CodeHS is a comprehensive K-12 computer science education platform offering standards-aligned curriculum, certifications, and teacher tools across multiple programming languages and skill levels.
 
-CodeHS offers standards-aligned computer science education for middle and high school students across multiple U.S. states. The platform features interactive courses using tools like Karel the Dog, Tracy the Turtle, p5.js, Unity, and SQL, with emphasis on digital citizenship, cybersecurity fundamentals (CIA Triad), and CSTA framework alignment.
+CodeHS provides schools and districts with a complete CS solution including 100+ customizable courses, an interactive web-based IDE, professional development, and data analytics. The platform supports AP-endorsed curricula, cybersecurity training, and differentiated learning through AI-powered tools.
 
 ## Key Topics
 
-- Python programming
-- JavaScript programming
-- Karel the Dog
-- Tracy the Turtle
-- Web design (HTML/CSS)
-- Cybersecurity and CIA Triad
-- Digital citizenship
-- CSTA standards
-- Turtle Graphics
-- p5.js
-- micro:bit
-- Game design and Unity
-- SQL and databases
-- Cryptography
-- State-aligned curriculum
+- Python
+- JavaScript
+- Java
+- AP Computer Science
+- Web Design
+- Cybersecurity
+- CodeHS Pro
+- AI Creator
+- Cyber Range
+- Online IDE
+- LMS Integration
+- Classroom Management
+- Student Progress Tracking
+- Computer Science Certifications
+- Standards-Aligned Curriculum
 
-## High School Computer Science Courses
+## Core Platform & Products
 
-- [Game Development in Unity - Overview](https://codehs.com/course/21443/overview): High school Unity game dev with C#, 2D/3D games & VR using MDA framework
-- [Introduction to SQL - Overview](https://codehs.com/course/25/overview): Beginner SQL course covering relational databases & data analysis queries
-- [Pennsylvania Foundations of Computer Science - Overview](https://codehs.com/course/6361/overview): PA high school CS course with Karel, JavaScript, and CSTA framework
-- [Tennessee Computer Science Foundations - Overview](https://codehs.com/course/25729/overview): TN high school CS foundations with HTML, CSS, cybersecurity & cloud computing
-- [Illinois Introduction to Computer Science - Overview](https://codehs.com/course/19648/overview): IL high school intro CS course with JavaScript, Karel, and cybersecurity
-- [Indiana Computer Science I - Overview](https://codehs.com/course/5639/overview): IN high school CS I with Karel, JavaScript, and cybersecurity basics
-- [Tennessee Introduction to Computer Science - Overview](https://codehs.com/course/19781/overview): TN intro CS course with JavaScript, Karel, and CIA Triad cybersecurity
-- [Florida Computing Ideas (2019) - Overview](https://codehs.com/course/6378/overview): FL high school year-long CS with Karel, JavaScript & mobile app development
+- [CodeHS - Teach Coding and Computer Science at Your School](https://codehs.com): CodeHS homepage: K-12 coding platform with Python, JavaScript, and computer science curriculum.
+- [Web-Based IDE for Education](https://codehs.com/ide): Free browser-based IDE supporting 10+ languages with real-time collaboration for classrooms.
+- [CodeHS Pro](https://codehs.com/pro): CodeHS Pro premium features: grading tools, AI hints, classroom integration, and analytics.
+- [CodeHS AI Creator](https://codehs.com/ai_creator): AI-powered tool for generating differentiated coding assignments aligned to standards.
+- [Cyber Range](https://codehs.com/cyber_range): Interactive cybersecurity labs with CTF challenges aligned to AP Cybersecurity standards.
 
-## Middle School Computer Science Courses
+## Curriculum & Courses
 
-- [Mix and Match Middle School Course - Overview](https://codehs.com/course/20485/overview): Customizable middle school modular course with Karel, JavaScript & web design
-- [Python Basics with Tracy the Turtle - Overview](https://codehs.com/course/21071/overview): Middle school beginner Python with Tracy Turtle visual programming
-- [Python Basics with Tracy the Turtle 2 - Overview](https://codehs.com/course/21069/overview): Middle school Python 2 with Tracy: lists, strings & file I/O fundamentals
-- [West Virginia Discovering Computer Science - Overview](https://codehs.com/course/20502/overview): WV middle school intro CS with Karel, p5.js, cryptography & CIA Triad
-- [Rhode Island Tech Apps and Coding - Overview](https://codehs.com/course/23375/overview): RI middle school Python, web design, micro:bit & cryptography course
-- [Montana Tech Apps and Coding - Overview](https://codehs.com/course/16603/overview): MT middle school Python, web design, micro:bit & CSTA 2 standards course
-- [Utah Introduction to Python 2 - Overview](https://codehs.com/course/20333/overview): UT middle school Python 2 with lists, strings, file I/O & Tracy Turtle
+- [Curriculum](https://codehs.com/curriculum): 100+ customizable K-12 CS courses from elementary to AP CSA, Principles, and cybersecurity.
+- [Course Catalog](https://codehs.com/curriculum/catalog): Searchable catalog of AP and programming language courses for middle and high school.
+- [Elementary Curriculum (CodeHop)](https://codehs.com/codehop): CodeHop: Elementary computer science curriculum using Scratch and ScratchJr for K-5 students.
+- [Certifications](https://codehs.com/info/certifications): Industry-based CS certifications in Java, Python, JavaScript, and Web Design for K-12.
+- [Spanish Curriculum](https://codehs.com/curriculum/spanish): Spanish-language CS curriculum for English language learners covering AP and programming.
+- [Hour of Code](https://codehs.com/hourofcode): Hour of Code activities with Karel, Tracy, and block-based coding for beginners.
+- [Typing Curriculum](https://codehs.com/keyboarding): Standards-aligned typing curriculum with gamified learning and real-time progress tracking.
 
-## State-Aligned Grade-Level Courses
+## For Schools & Districts
 
-- [Connecticut Computer Science: 8th Grade - Overview](https://codehs.com/course/25038/overview): CT 8th grade Python programming course with Tracy the Turtle
-- [Connecticut Computer Science: 7th Grade - Overview](https://codehs.com/course/25037/overview): CT 7th grade course with Karel, HTML/CSS web design & game design intro
-- [Indiana Computer Science: 8th Grade - Overview](https://codehs.com/course/22924/overview): IN 8th grade CS with Karel, game design & digital citizenship standards
+- [Districts - K-12 Computer Science Curriculum](https://codehs.com/districts): District-wide CS implementation with curriculum, PD, data insights, and dedicated support.
+- [Schools](https://codehs.com/schools): School program offering AP-endorsed curriculum, certifications, and teacher professional development.
+- [Teacher Use Cases](https://codehs.com/teachers): Teacher-focused platform features for AP CSA, classroom management, and course authoring.
 
-## Interdisciplinary and Specialized Courses
+## Classroom Management & Teacher Tools
 
-- [Coding in Math - Overview](https://codehs.com/course/13419/overview): STEM integration course using Python & Turtle Graphics for math education
+- [Classroom Management](https://codehs.com/info/platform/classroom_management): Features for managing student rosters, assignments, communication, and virtual teaching.
+- [Assignments](https://codehs.com/info/platform/assignments): Guide to creating and customizing CS assignments with due dates and LMS integration.
+- [Grading](https://codehs.com/info/grading): Grading tools including autograder, Fast Grade, and CodeHS Pro feedback features.
+- [Progress Tracking](https://codehs.com/info/platform/progress_tracking): Student data analytics, dashboards, and assignment monitoring for teachers and administrators.
+- [Educational Platform Integrations for Districts](https://codehs.com/info/integrations): LMS integrations with Google Classroom, Clever, ClassLink for roster and grade management.

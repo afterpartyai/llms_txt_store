@@ -1,0 +1,42 @@
+# CML
+
+> > CML (Continuous Machine Learning) brings DevOps best practices to machine learning with automated, reproducible workflows across GitHub, GitLab, and Bitbucket.
+
+CML is an open-source platform that enables ML teams to automate model training, evaluation, and reporting through CI/CD pipelines. It integrates seamlessly with popular version control and CI/CD systems to streamline machine learning workflows.
+
+## Key Topics
+
+- Continuous Machine Learning
+- GitHub Actions
+- CI/CD Integration
+- Machine Learning Workflow
+- DVC Integration
+- Model Reporting
+- Metrics Tracking
+- GitLab CI
+- Bitbucket Pipelines
+- Automated Testing
+- Version Control
+- Docker
+- Workflow Automation
+- Getting Started
+- Asset Publishing
+
+## Getting Started
+
+- [CML · Continuous Machine Learning](https://cml.dev): CML homepage: DevOps practices for automatic, reproducible ML
+- [Get Started | CML](https://cml.dev/doc/start): CML quick start guide for ML automation setup
+- [Home | CML](https://cml.dev/doc): CML documentation home with getting started and core concepts
+
+## Installation & Setup
+
+- [Install as a Package | CML](https://cml.dev/doc/install): CML installation guide for Node.js, Docker, and GitHub Actions
+- [GitHub | CML](https://cml.dev/doc/start/github): CML GitHub Actions setup tutorial with workflow examples
+
+## Usage & Workflows
+
+- [Usage | CML](https://cml.dev/doc/usage): CML usage guide for GitHub, GitLab, Bitbucket workflows
+
+## API Reference
+
+- [CML · Continuous Machine Learning](https://cml.dev/doc/ref/publish): CML publish command reference for asset storage and reporting

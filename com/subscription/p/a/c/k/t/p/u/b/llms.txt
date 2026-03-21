@@ -1,59 +1,59 @@
 # Packt Subscription
 
-> Packt Subscription is a comprehensive learning platform offering 7,500+ eBooks and videos on AI agents, large language models, RAG systems, and modern tech skills.
+> > Packt Subscription provides 7,500+ eBooks and videos for tech professionals to advance knowledge in programming, AI, data science, and modern software development.
 
-This site provides in-depth technical content on building AI agents with LLMs, retrieval-augmented generation (RAG), and knowledge graphs. The collection emphasizes practical implementation using frameworks like PyTorch, Hugging Face Transformers, and LangChain.
+Packt Subscription is a comprehensive learning platform offering access to curated technical content including the complete 'Building AI Agents with LLMs, RAG, and Knowledge Graphs' course by Salvatore Raieli. The platform focuses on practical, hands-on learning for AI, machine learning, and software engineering professionals.
 
 ## Key Topics
 
 - Large Language Models (LLMs)
-- AI Agents
 - Retrieval-Augmented Generation (RAG)
 - Knowledge Graphs
+- AI Agents
 - Transformer Architecture
+- Attention Mechanisms
 - Deep Learning
-- Natural Language Processing (NLP)
 - LangChain
 - PyTorch
-- Self-Attention Mechanisms
+- Natural Language Processing
 - Reinforcement Learning
+- Web Scraping
 - Streamlit
-- Hugging Face Transformers
-- Text Processing
-- Multi-Agent Systems
+- Text Embeddings
+- Information Retrieval
 
-## LLM Foundations & Architecture
+## AI Agents & LLM Fundamentals
 
-- [Part 1: The AI Agent Engine: From Text to Large Language Models](https://subscription.packtpub.com/book/data/9781835087060/1): Detailed chapter on Transformer architecture, attention mechanisms, and LLM foundations
-- [Chapter 2: The Transformer: The Model Behind the Modern AI Revolution](https://subscription.packtpub.com/book/data/9781835087060/3): Deep dive into Transformer architecture, self-attention, and NLP fundamentals
-- [Chapter 1: Analyzing Text Data with Deep Learning](https://subscription.packtpub.com/book/data/9781835087060/2): Guide to text analysis techniques including Bag of Words and TF-IDF methods
-- [Chapter 3: Exploring LLMs as a Powerful AI Engine](https://subscription.packtpub.com/book/data/9781835087060/4): Tutorial on LLM engines using PyTorch, Hugging Face Transformers, and technical setup
+- [Part 1: The AI Agent Engine: From Text to Large Language Models](https://subscription.packtpub.com/book/data/9781835087060/1): Foundational concepts of AI agents, LLMs, RAG, and Knowledge Graphs by Salvatore Raieli
+- [Chapter 1: Analyzing Text Data with Deep Learning](https://subscription.packtpub.com/book/data/9781835087060/2): Tutorial on analyzing text data using Deep Learning, BoW, and TF-IDF techniques
+- [Chapter 2: The Transformer: The Model Behind the Modern AI Revolution](https://subscription.packtpub.com/book/data/9781835087060/3): Guide on Transformer architecture, attention mechanisms, and LLM fundamentals
+- [Chapter 3: Exploring LLMs as a Powerful AI Engine](https://subscription.packtpub.com/book/data/9781835087060/4): LLM engines using PyTorch, Hugging Face, and practical AI agent setup
 
-## AI Agents & RAG Systems
+## RAG & Knowledge Retrieval Systems
 
-- [Part 2: AI Agents and Retrieval of Knowledge](https://subscription.packtpub.com/book/data/9781835087060/5): Introduction to AI agents, RAG systems, and Knowledge Graphs integration
-- [Chapter 5: Extending Your Agent with RAG to Prevent Hallucinations](https://subscription.packtpub.com/book/data/9781835087060/7): Tutorial on RAG systems and hallucination prevention in AI agents
-- [Chapter 6: Advanced RAG Techniques for Information Retrieval and Augmentation](https://subscription.packtpub.com/book/data/9781835087060/8): Advanced RAG techniques for improved information retrieval and LLM augmentation
-- [Chapter 4: Building a Web Scraping Agent with an LLM](https://subscription.packtpub.com/book/data/9781835087060/6): How-to guide for building web scraping agents using LangChain and PyTorch
+- [Part 2: AI Agents and Retrieval of Knowledge](https://subscription.packtpub.com/book/data/9781835087060/5): Overview of AI agents, RAG systems, Knowledge Graphs, and GraphRAG techniques
+- [Chapter 4: Building a Web Scraping Agent with an LLM](https://subscription.packtpub.com/book/data/9781835087060/6): Tutorial on building web scraping agents using LangChain, PyTorch, and LLMs
+- [Chapter 5: Extending Your Agent with RAG to Prevent Hallucinations](https://subscription.packtpub.com/book/data/9781835087060/7): RAG implementation to prevent LLM hallucinations and improve information retrieval
+- [Chapter 6: Advanced RAG Techniques for Information Retrieval and Augmentation](https://subscription.packtpub.com/book/data/9781835087060/8): Guide on advanced RAG techniques, query handling, and retrieval pipeline optimization
 
-## Knowledge Graphs & Advanced Techniques
+## Knowledge Graphs & Agent Architecture
 
-- [Chapter 7: Creating and Connecting a Knowledge Graph to an AI Agent](https://subscription.packtpub.com/book/data/9781835087060/9): Guide to Knowledge Graph construction and integration with AI agents
-- [Chapter 8: Reinforcement Learning and AI Agents](https://subscription.packtpub.com/book/data/9781835087060/10): Tutorial on deep reinforcement learning, policy learning, and neural networks
+- [Chapter 7: Creating and Connecting a Knowledge Graph to an AI Agent](https://subscription.packtpub.com/book/data/9781835087060/9): Tutorial on Knowledge Graph construction, enrichment, and LLM agent integration
+- [Chapter 8: Reinforcement Learning and AI Agents](https://subscription.packtpub.com/book/data/9781835087060/10): Deep reinforcement learning, policy learning, and neural network value functions
+- [Chapter 9: Creating Single- and Multi-Agent Systems](https://subscription.packtpub.com/book/data/9781835087060/12): Single and multi-agent architecture with travel planning and recommendation systems
 
-## Building Production AI Systems
+## Production Deployment & Applications
 
-- [Part 3: Creating Sophisticated AI to Solve Complex Scenarios](https://subscription.packtpub.com/book/data/9781835087060/11): Part 3 on sophisticated AI systems using Streamlit, Docker, and multi-agent orchestration
-- [Chapter 9: Creating Single- and Multi-Agent Systems](https://subscription.packtpub.com/book/data/9781835087060/12): Guide to building single and multi-agent systems with travel planning examples
-- [Chapter 10: Building an AI Agent Application](https://subscription.packtpub.com/book/data/9781835087060/13): Tutorial on building Streamlit-based AI agent applications with multi-agent systems
+- [Part 3: Creating Sophisticated AI to Solve Complex Scenarios](https://subscription.packtpub.com/book/data/9781835087060/11): Multi-agent systems, production deployment with Streamlit and Docker
+- [Chapter 10: Building an AI Agent Application](https://subscription.packtpub.com/book/data/9781835087060/13): Tutorial on building Streamlit-based AI agent applications with travel planning system
+- [Chapter 11: The Future Ahead](https://subscription.packtpub.com/book/data/9781835087060/14): Future AI agent applications in biomedical, robotics, gaming, and web automation
 
 ## Reference & Resources
 
-- [Index | Building AI Agents with LLMs, RAG, and Knowledge Graphs](https://subscription.packtpub.com/book/data/9781835087060/16): Comprehensive index for AI agents, LLMs, RAG, and Knowledge Graphs topics
-- [Packt Subscription | Advance your knowledge in tech](https://subscription.packtpub.com): Packt subscription service offering 7,500+ eBooks and videos on programming, AI, and tech skills
+- [Packt Subscription Homepage](https://subscription.packtpub.com): Packt Subscription homepage offering 7,500+ eBooks and videos on programming, AI, and tech skills
+- [Index](https://subscription.packtpub.com/book/data/9781835087060/16): Comprehensive index for AI Agents, LLMs, RAG, Knowledge Graphs, and related AI concepts
 
 ## Optional
 
-- [Chapter 11: The Future Ahead](https://subscription.packtpub.com/book/data/9781835087060/14): Discussion of future AI applications in biomedical, healthcare, robotics, and gaming
-- [Chapter 12: Unlock Your Exclusive Benefits](https://subscription.packtpub.com/book/data/9781835087060/15): Guide to Packt reader setup and exclusive eBook benefits
-- [Other Books You May Enjoy](https://subscription.packtpub.com/book/data/9781835087060/17): Related book recommendations on AI agents, LangChain, and generative AI
+- [Chapter 12: Unlock Your Exclusive Benefits](https://subscription.packtpub.com/book/data/9781835087060/15): Guide on accessing Packt Reader, DRM-free downloads, and exclusive book benefits
+- [Other Books You May Enjoy](https://subscription.packtpub.com/book/data/9781835087060/17): Recommended reading list of related Packt books on AI agents and LangChain by Valentina Alto

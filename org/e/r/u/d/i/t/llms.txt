@@ -1,57 +1,57 @@
 # Érudit
 
-> Érudit is a comprehensive open-access digital library for scholarly publishing in social sciences and humanities, featuring journals, books, theses, and research data repositories with advanced search capabilities.
+> > Érudit is a comprehensive open-access digital library providing access to scholarly journals, books, and theses in humanities and social sciences, primarily from French-speaking academia.
 
-Érudit serves as a major hub for francophone academic research and publishing, offering multilingual access (French and English) to peer-reviewed journals, institutional repositories, and research collections. The platform implements bot-protection security measures including proof-of-work challenges and JavaScript verification to safeguard access to its scholarly content.
+Érudit serves as a major repository for academic publishing in French-language scholarship, offering advanced search capabilities and curated collections across multiple disciplines. The platform implements Anubis proof-of-work security measures to prevent automated scraping while maintaining open access to scholarly content.
 
 ## Key Topics
 
-- Scholarly publishing
+- Open-access publishing
 - Academic journals
+- Scholarly publishing
+- French-language content
+- Humanities and social sciences
 - Bot protection
-- Proof-of-work
-- JavaScript verification
-- Anti-scraping
-- Browser fingerprinting
-- Security challenges
-- Social sciences
-- Humanities research
+- Proof-of-work verification
+- Anubis security
+- Hashcash challenge
 - Digital repository
 - Advanced search
-- Research data
-- Open access
-- Francophone academia
+- Theses collection
+- Journal articles
+- DSpace platform
+- Scholarly databases
 
 ## Core Collections
 
-- [Érudit Homepage](https://www.erudit.org): Main gateway to access journals, books, theses in social sciences and humanities
-- [French Homepage](https://www.erudit.org/fr): French-language entry point to Érudit's scholarly collections
-- [English Homepage](https://www.erudit.org/en): English-language entry point to Érudit's scholarly collections
-- [Journals Collection](https://www.erudit.org/fr/revues): Browse and access peer-reviewed journals in social sciences and humanities
-- [Books Collection](https://www.erudit.org/fr/livres): Access scholarly books and monographs from Érudit's catalog
-- [Theses Collection](https://www.erudit.org/fr/theses): Browse and search academic theses and dissertations
-- [Records & Notices](https://www.erudit.org/fr/notices): Access bibliographic records and metadata for scholarly works
-
-## Research Data & Repository
-
-- [Érudit Document Repository](https://depot.erudit.org): DSpace-powered repository for research data, datasets, and institutional collections
+- [Érudit Homepage](https://www.erudit.org): Main entry point providing access to journals, books, and theses in humanities and social sciences
+- [French Homepage](https://www.erudit.org/fr): French-language homepage with bot protection using Anubis proof-of-work challenge
+- [English Homepage](https://www.erudit.org/en): English-language homepage with Anubis proof-of-work bot protection challenge
+- [Journal Directory](https://www.erudit.org/fr/revues): Comprehensive directory of academic journals protected by Anubis bot-protection challenge
+- [Theses Collection](https://www.erudit.org/fr/theses): Collection of academic theses with Anubis proof-of-work security verification
+- [Books Collection](https://www.erudit.org/fr/livres): Scholarly books collection protected by Anubis Hashcash challenge system
 
 ## Search & Discovery
 
-- [Advanced Search](https://www.erudit.org/fr/recherche/avancee): Sophisticated search interface with boolean operators, filters by publication type, date, and subject
+- [Advanced Search](https://www.erudit.org/fr/recherche/avancee): Advanced search interface with boolean operators and filters for querying the Érudit academic database
 
 ## Featured Journals
 
-- [XYZ. La revue de la nouvelle](https://www.erudit.org/fr/revues/xyz): Journal focused on short fiction and literary studies
-- [Entrevous](https://www.erudit.org/fr/revues/entrevous): Peer-reviewed journal in social sciences and humanities
-- [À bâbord!](https://www.erudit.org/fr/revues/babord): Journal dedicated to critical perspectives in social sciences
+- [Revue québécoise de droit international](https://www.erudit.org/fr/revues/rqdi): Quebec Journal of International Law journal homepage with bot protection
+- [XYZ. La revue de la nouvelle](https://www.erudit.org/fr/revues/xyz): XYZ literary journal homepage with Anubis Hashcash security verification
+- [Entre vous](https://www.erudit.org/fr/revues/entrevous): Entre vous journal homepage with Anubis proof-of-work security system
 
-## User Access & Authentication
+## Document Repository
 
-- [User Login](https://www.erudit.org/fr/compte/bienvenue): Account login page for authenticated access to Érudit resources
+- [Érudit Dépôt de documents](https://depot.erudit.org): Érudit document repository on DSpace platform for open-access scholarly content
 
-## Sample Articles
+## User Accounts
 
-- [XYZ Journal Article (2026, Issue 165)](https://www.erudit.org/fr/revues/xyz/2026-n165-xyz010646): Example article from XYZ journal
-- [Entrevous Journal Article (2026, Issue 30)](https://www.erudit.org/fr/revues/entrevous/2026-n30-entrevous010647): Example article from Entrevous journal
-- [À bâbord! Journal Article (2026, Issue 106)](https://www.erudit.org/fr/revues/babord/2026-n106-babord010648): Example article from À bâbord! journal
+- [User Login & Account Access](https://www.erudit.org/fr/compte/bienvenue): Login portal for librarians and journal managers to access account features
+
+## Optional
+
+- [Notices Page](https://www.erudit.org/fr/notices): Notices page with Anubis security challenge for bot detection
+- [Revue québécoise de droit international Article](https://www.erudit.org/fr/revues/rqdi/2024-v37-n2-rqdi010649): Sample journal article from Revue québécoise de droit international protected by Anubis
+- [XYZ Literary Journal Article](https://www.erudit.org/fr/revues/xyz/2026-n165-xyz010646): Sample article from XYZ literary journal protected by Anubis proof-of-work challenge
+- [Entre vous Article](https://www.erudit.org/fr/revues/entrevous/2026-n30-entrevous010647): Sample journal article from Entre vous protected by Anubis bot-protection challenge

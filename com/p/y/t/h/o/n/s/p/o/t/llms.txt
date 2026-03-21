@@ -1,0 +1,61 @@
+# Python Spot
+
+> > A comprehensive Python tutorial resource covering fundamentals, data structures, web development, databases, machine learning, and GUI frameworks for beginners to intermediate learners.
+
+Python Spot provides structured, practical tutorials on core Python concepts and popular libraries. The site emphasizes hands-on examples and covers both foundational programming skills and advanced topics like machine learning and database integration.
+
+## Key Topics
+
+- Python 3
+- Python 2
+- Data Structures
+- Variables
+- Functions
+- Loops
+- Conditionals
+- Object-Oriented Programming
+- Database Programming
+- SQLite
+- MySQL
+- Flask
+- Machine Learning
+- GUI Frameworks
+- Type Casting
+
+## Getting Started
+
+- [Python Tutorials - Python Tutorial](https://pythonspot.com): Main hub for Python tutorials covering fundamentals to Flask web development
+- [Introduction - Python Tutorial](https://pythonspot.com/introduction): Getting started guide with Python setup, IDE selection, and hello-world examples
+- [Python Beginner Tutorials - Python Tutorial](https://pythonspot.com/beginner): Beginner-focused Python guide covering syntax, data structures, and OOP basics
+
+## Core Language Fundamentals
+
+- [variables in python - Python Tutorial](https://pythonspot.com/python-variables): Variables tutorial covering data types, numeric variables, and arithmetic operations
+- [python if string equals - Python Tutorial](https://pythonspot.com/python-strings): String operations and comparison tutorial for Python beginners
+- [python string slice - Python Tutorial](https://pythonspot.com/string-slices-part-2): String slicing and indexing guide for Python string manipulation
+- [if statement python - Python Tutorial](https://pythonspot.com/if-statements): Conditional logic tutorial covering if statements and logical operators
+- [python for loop - Python Tutorial](https://pythonspot.com/loops): Loop control tutorial with for loops, while loops, and nested loop patterns
+- [python range - Python Tutorial](https://pythonspot.com/python-range): Range function guide covering sequence generation and Python 2 vs 3 differences
+- [python function - Python Tutorial](https://pythonspot.com/functions): Functions guide with parameters, return values, and code reusability examples
+
+## Data Structures & Collections
+
+- [python lists, lists in python, python  - Python Tutorial](https://pythonspot.com/python-lists): Python lists guide with operations, sorting, and append/remove methods
+- [python tuple - Python Tutorial](https://pythonspot.com/python-tuples): Tuples tutorial covering immutable collections and data structure syntax
+- [python dictionary - Python Tutorial](https://pythonspot.com/python-dictionaries): Dictionary guide with key-value pairs and dictionary manipulation techniques
+- [python cast - Python Tutorial](https://pythonspot.com/datatype-casting): Type conversion and datatype casting tutorial with casting functions
+- [python random number between 1 and 100 - Python Tutorial](https://pythonspot.com/random-numbers): Random number generation guide with randint and random module functions
+
+## Advanced Programming Concepts
+
+- [python global variable - Python Tutorial](https://pythonspot.com/global-local-variables): Variable scope tutorial explaining global and local variables in functions
+- [what is scope in python - Python Tutorial](https://pythonspot.com/scope): Scope fundamentals tutorial covering variable scope in Python functions
+
+## Databases & Data Persistence
+
+- [Python Database - Python Tutorial](https://pythonspot.com/python-database): Database programming guide covering SQLite, MySQL, PostgreSQL, and SQLAlchemy ORM
+
+## Specialized Applications
+
+- [Machine Learning - Python Tutorial](https://pythonspot.com/machine-learning): Machine learning tutorial with linear regression and k-nearest neighbors algorithms
+- [Graphical User Interfaces (GUI) - Python Tutorial](https://pythonspot.com/gui): GUI frameworks tutorial with PyQt5, Tkinter, and wxPython for cross-platform apps

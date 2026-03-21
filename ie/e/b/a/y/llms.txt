@@ -1,31 +1,55 @@
 # eBay Ireland
 
-> > eBay Ireland is the Irish marketplace for buying and selling electronics, cars, fashion, collectibles, and more with integrated social login authentication.
+> eBay Ireland is a multi-category online marketplace offering electronics, fashion, collectibles, cars, and more with integrated buying, selling, and account management features.
 
-eBay Ireland (ebay.ie) serves as the localized Irish portal of the global eBay marketplace, offering online retail across diverse product categories. The platform provides streamlined user authentication through social login integration with Google, Facebook, and Apple.
+eBay Ireland serves as the Irish localization of the global eBay platform, providing secure authentication, seller tools, and buyer protections across various product categories. The platform emphasizes account security, identity verification, and fraud prevention throughout the user experience.
 
 ## Key Topics
 
-- eBay
-- online marketplace
-- ecommerce
-- Ireland
-- user authentication
-- social login
-- Google login
-- Facebook login
-- Apple login
-- account registration
-- shopping categories
-- electronics
-- online retail
-- sign-in
+- My eBay
+- Account Authentication
+- Identity Verification
+- Buy It Now
+- Auction
+- Best Offer
+- eBay Motors
+- Seller Protection
+- Fraud Prevention
+- OAuth Integration
+- Authenticity Guarantee
+- eBay Postage Labels
+- Security Verification
+- Customer Service
+- Shopping Cart
 
-## Core Marketplace
+## Core Marketplace & Authentication
 
-- [Electronics, Cars, Fashion, Collectibles & More | eBay](https://www.ebay.ie/): eBay Ireland homepage - online marketplace for electronics, cars & more
+- [Electronics, Cars, Fashion, Collectibles & More | eBay](https://www.ebay.ie): eBay Ireland homepage with multi-category marketplace for electronics, fashion, collectibles.
+- [Sign in or Register | eBay](https://signin.ebay.ie/ws/eBayISAPI.dll): eBay account sign-in and registration with OAuth social login integration.
+- [Security measure | eBay](https://signup.ebay.ie/pa/crte): eBay account verification and security measure page for user authentication.
+- [Advanced search | eBay](https://www.ebay.ie/sch/ebayadvsearch): eBay advanced search with category filters, price range, delivery options.
 
-## User Authentication
+## My eBay Account Management
 
-- [Sign in or Register | eBay](http://signin.ebay.ie/): eBay user authentication with Google, Facebook & Apple login options
-- [Sign in or Register | eBay](https://signin.ebay.ie/ws/eBayISAPI.dll?SignIn&sgfl=gh): eBay sign-in portal with social login integration via API endpoint
+- [Sign in or Register | eBay](https://www.ebay.ie/mys/home): eBay My eBay home account page with social login options.
+- [Sign in or Register | eBay](https://www.ebay.ie/mye/myebay/summary): eBay My eBay account summary dashboard requiring user authentication.
+- [Sign in or Register | eBay](https://www.ebay.ie/mye/myebay/watchlist): eBay My eBay watchlist account page requiring authentication.
+- [Sign in or Register | eBay](https://www.ebay.ie/mye/myebay/bidsoffers): eBay My eBay bids and offers account section with authentication.
+- [Sign in or Register | eBay](https://www.ebay.ie/mye/myebay/rvi): eBay My eBay review and items section requiring account login.
+
+## Saved Items & Preferences
+
+- [Security measure | eBay](https://www.ebay.ie/mye/myebay/saved): eBay saved items page with account security and identity verification.
+- [Security measure | eBay](https://www.ebay.ie/mye/myebay/savedsearches): eBay saved searches page with account security and user authentication.
+- [Security measure | eBay](https://www.ebay.ie/mye/myebay/savedsellers): eBay saved sellers page with fraud prevention and account security measures.
+
+## Shopping & Transactions
+
+- [Security measure | eBay](https://cart.ebay.ie): eBay shopping cart with fraud prevention and login security measures.
+- [Security measure | eBay](https://www.ebay.ie/mye/myebay/purchase): eBay purchase history page with security verification and fraud prevention.
+- [Security measure | eBay](https://mesg.ebay.ie/mesgweb/ViewMessages/0): eBay messaging center with security verification and account protection.
+
+## Selling & Support
+
+- [Selling on eBay | Electronics, Fashion, Home & Garden | eBay](https://www.ebay.ie/sl/sell): eBay seller guide covering listing, pricing, shipping, fees, and seller protection.
+- [eBay Customer Service](https://www.ebay.ie/help/home): eBay help center with FAQs on buying, selling, returns, refunds, account management.

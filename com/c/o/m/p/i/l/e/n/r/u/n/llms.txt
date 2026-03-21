@@ -1,56 +1,60 @@
 # Compile N Run
 
-> > Free online platform for learning and practicing programming languages with interactive code compilation and execution.
+> > A free, browser-based platform for learning programming languages and computer science fundamentals through interactive coding.
 
-Compile N Run provides comprehensive documentation and tutorials for beginners and intermediate programmers across 10+ programming languages including Python, Java, JavaScript, C, C++, and more. The platform covers both language fundamentals and core computer science concepts through structured learning guides.
+Compile N Run provides beginner-friendly documentation and hands-on coding environments for 10+ programming languages including Python, Java, JavaScript, C++, and Rust. The platform covers both language fundamentals and core CS concepts like algorithms, databases, networking, and operating systems, making it ideal for aspiring developers and interview preparation.
 
 ## Key Topics
 
 - Python
 - Java
 - JavaScript
-- C
 - C++
-- SQL
+- C
 - TypeScript
-- Go
-- Rust
-- Web Development
+- SQL
 - Algorithms
 - Databases
 - Operating Systems
 - Networks
+- Web Development
 - Interview Preparation
+- Object-Oriented Programming
+- Memory Management
 
 ## Programming Languages
 
-- [Python Introduction](https://www.compilenrun.com/docs/language/python): Python language overview covering history, features, and basic syntax
-- [Java Introduction](https://www.compilenrun.com/docs/language/java): Comprehensive Java introduction with history, features, and applications
-- [JavaScript Introduction](https://www.compilenrun.com/docs/language/javascript): JavaScript fundamentals for web development with HTML, CSS integration
-- [C Introduction](https://www.compilenrun.com/docs/language/c): C language history, features, and fundamentals for systems programming
-- [C++ Introduction](https://www.compilenrun.com/docs/language/cpp): C++ language guide covering syntax, data types, and programming basics
-- [SQL Introduction](https://www.compilenrun.com/docs/language/sql): SQL fundamentals for relational databases and database communication
-- [TypeScript Introduction](https://www.compilenrun.com/docs/language/typescript): TypeScript setup guide covering static typing and JavaScript superset basics
-- [Go Introduction](https://www.compilenrun.com/docs/language/go): Go language introduction with setup, features, and basic syntax tutorial
-- [C# Introduction](https://www.compilenrun.com/docs/language/c-sharp): C# programming guide covering .NET framework and environment setup
-- [Rust Introduction](https://www.compilenrun.com/docs/language/rust): Rust language introduction with memory safety and systems programming focus
+- [Python Introduction](https://www.compilenrun.com/docs/language/python): Python language introduction covering history, features and basics
+- [Java Introduction](https://www.compilenrun.com/docs/language/java): Java programming language overview with history and OOP features
+- [JavaScript Introduction](https://www.compilenrun.com/docs/language/javascript): JavaScript fundamentals for web development with React and basics
+- [C Introduction](https://www.compilenrun.com/docs/language/c): C language fundamentals: history, UNIX influence and low-level memory
+- [C++ Introduction](https://www.compilenrun.com/docs/language/cpp): C++ programming basics covering history and object-oriented features
+- [TypeScript Introduction](https://www.compilenrun.com/docs/language/typescript): TypeScript setup and introduction to static typing superset of JS
+- [C# Introduction](https://www.compilenrun.com/docs/language/c-sharp): C# programming with .NET, .NET Framework and .NET Core setup
+- [Rust Introduction](https://www.compilenrun.com/docs/language/rust): Rust systems programming language with memory safety focus
+- [Go Introduction](https://www.compilenrun.com/docs/language/go): Go (Golang) language introduction by Google with basic syntax
+- [Kotlin Introduction](https://www.compilenrun.com/docs/language/kotlin): Kotlin JVM language for Android development by JetBrains
+- [PHP Introduction](https://www.compilenrun.com/docs/language/php): PHP server-side scripting for web development basics
+
+## Databases & Data Management
+
+- [Introduction to Databases](https://www.compilenrun.com/docs/fundamental/database): Database fundamentals covering MySQL, PostgreSQL, MongoDB and more
+- [SQL Introduction](https://www.compilenrun.com/docs/language/sql): SQL fundamentals for MySQL, PostgreSQL and database communication
 
 ## Computer Science Fundamentals
 
-- [Algorithm Introduction](https://www.compilenrun.com/docs/fundamental/algorithm): Beginner guide to algorithms, efficiency, and problem-solving fundamentals
-- [Introduction to Databases](https://www.compilenrun.com/docs/fundamental/database): Database fundamentals covering MySQL, PostgreSQL, MongoDB and relational DBs
-- [Operating System Fundamentals](https://www.compilenrun.com/docs/fundamental/os): OS concepts, resource management, and core functions across Windows, Linux
-- [Networks Introduction](https://www.compilenrun.com/docs/fundamental/network): Introduction to computer networks, topologies, and networking fundamentals
+- [Algorithm Introduction](https://www.compilenrun.com/docs/fundamental/algorithm): Beginner-friendly introduction to algorithms and computational efficiency
+- [Operating System Fundamentals](https://www.compilenrun.com/docs/fundamental/os): Operating systems concepts: Windows, Linux, macOS and resource management
+- [Networks Introduction](https://www.compilenrun.com/docs/fundamental/network): Learn computer networks basics, components, topologies and protocols
 
-## Frameworks & Tools
+## Frameworks & Platforms
 
-- [.NET Introduction](https://www.compilenrun.com/docs/framework/dotnet): .NET framework guide with C#, F#, and cross-platform development basics
+- [.NET Introduction](https://www.compilenrun.com/docs/framework/dotnet): .NET framework guide covering C#, F# and Visual Basic setup
 
 ## Career & Interview Preparation
 
-- [Interview Types](https://www.compilenrun.com/docs/fundamental/interview): Guide to technical interview types and preparation for programming careers
+- [Interview Types](https://www.compilenrun.com/docs/fundamental/interview): Guide to technical interview types and preparation strategies
 
-## Optional
+## Getting Started
 
-- [PHP Introduction](https://www.compilenrun.com/docs/language/php): PHP server-side scripting guide with setup and web development basics
-- [Kotlin Introduction](https://www.compilenrun.com/docs/language/kotlin): Kotlin language guide for JVM and Android development fundamentals
+- [Compile N Run](https://www.compilenrun.com): Free platform to learn Python, Java, JavaScript, TypeScript, C and more

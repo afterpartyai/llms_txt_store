@@ -1,25 +1,54 @@
 # Chrome Web Store
 
-> > Official marketplace for Chrome browser extensions, themes, and add-ons that enhance browsing functionality and productivity.
+> > The official marketplace for Chrome extensions, themes, and web applications offering productivity tools, writing assistants, shopping utilities, and browser enhancements.
 
-The Chrome Web Store serves as Google's central distribution platform for Chrome browser extensions and themes. It features thousands of tools ranging from AI-powered assistants and productivity enhancers to ad blockers, VPNs, and specialized utilities for platforms like YouTube and gaming.
+Chrome Web Store is Google's primary distribution platform for Chrome browser extensions and web applications. It features a curated collection of productivity tools, AI-powered writing assistants, shopping utilities, and sustainability-focused extensions that enhance browsing functionality and user productivity.
 
 ## Key Topics
 
-- Chrome browser extensions
-- Browser themes and customization
-- AI-powered extensions
+- Chrome extension
+- Browser extension
 - Productivity tools
-- Ad blocking and privacy
-- YouTube enhancements
-- VPN services
-- Developer tools
-- Gaming utilities
-- Content automation
-- Browser add-ons
-- Extension marketplace
-- Chrome Web Store API
+- Writing assistant
+- Grammar checker
+- AI-powered tools
+- Shopping assistant
+- Price comparison
+- Sustainability
+- Privacy-focused
+- Document editing
+- PDF tools
+- Translation
+- Music identification
+- Browser themes
 
-## Main
+## Core Platform
 
-- [Chrome Web Store](https://chromewebstore.google.com/): Chrome Web Store homepage for browser extensions, themes, and add-ons
+- [Chrome Web Store](https://chromewebstore.google.com): Chrome Web Store homepage showcasing extensions, themes, and productivity tools
+
+## Writing & Grammar Assistance
+
+- [Grammarly: AI Writing Assistant and Grammar Checker App](https://chromewebstore.google.com/detail/grammarly-ai-writing-assi/kbfnbcaeplbcioakkpcpgfkobkghlhen): Grammarly AI writing assistant for grammar checking and tone improvement
+- [JetBrains Grazie Writing Companion](https://chromewebstore.google.com/detail/jetbrains-grazie-writing/fonaoompfjljjllgccccgjnhnoghohgc): JetBrains Grazie writing assistant for proofreading and AI-powered text improvement
+- [Wordtune: AI Paraphrasing and Grammar Tool](https://chromewebstore.google.com/detail/wordtune-ai-paraphrasing/nllcnknpjnininklegdoijpljgdjkijc): Wordtune AI extension for paraphrasing, grammar fixing, and writing improvement
+- [Jetwriter AI: Reply Emails, Ask Page, Summarize, Fix Grammar, and More](https://chromewebstore.google.com/detail/jetwriter-ai-reply-emails/pdnenlnelpdomajfejgapbdpmjkfpjkp): Jetwriter AI extension for email writing, summarization, and grammar correction
+
+## Document & Content Tools
+
+- [Adobe Acrobat: PDF edit, convert, sign tools](https://chromewebstore.google.com/detail/adobe-acrobat-pdf-edit-co/efaidnbmnnnibpcajpcglclefindmkaj): Adobe Acrobat extension for PDF editing, conversion, and document signing
+- [Adobe Photoshop](https://chromewebstore.google.com/detail/adobe-photoshop/kjchkpkjpiloipaonppkmepcbhcncedo): Adobe Photoshop web extension for image editing and background removal
+- [Google Translate](https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb): Google Translate extension for viewing translations while browsing the web
+- [Shazam: Find song names from your browser](https://chromewebstore.google.com/detail/shazam-find-song-names-fr/mmioliijnhnoblpgimnlajmefafdfilb): Shazam extension for identifying music and searching lyrics from Chrome
+
+## Shopping & Sustainability
+
+- [Faircado - Second hand shopping](https://chromewebstore.google.com/detail/faircado-second-hand-shop/gngckpdhcngilcedefiiiapkhocojghm): Faircado extension for sustainable second-hand shopping and price comparison
+- [Beni - Find it Secondhand](https://chromewebstore.google.com/detail/beni-find-it-secondhand/efdgbhncnligcbloejoaemnfhjihkccj): Beni extension for secondhand shopping and sustainable resale marketplace
+- [Clearya](https://chromewebstore.google.com/detail/clearya/imenjneiobjaiopidanhnejjjaifdhcf): Clearya extension for nontoxic shopping with ingredient and product safety checks
+- [Ecosia - The search engine that plants trees](https://chromewebstore.google.com/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk): Ecosia extension setting search engine to plant trees with every search
+
+## Browser Utilities & Wellness
+
+- [Click and Clean](https://chromewebstore.google.com/detail/click-and-clean/mgngmngjioknlgjjaiiamcdbahombpfb): Click and Clean extension for quickly deleting browsing data and cache
+- [Pebble - Digital Carbon Emissions Calculator](https://chromewebstore.google.com/detail/pebble-digital-carbon-emi/oeamjgnkoelgkegbphiminanlbegaaga): Pebble extension calculating digital carbon emissions and environmental impact
+- [Earth View from Google Earth](https://chromewebstore.google.com/detail/earth-view-from-google-ea/bhloflhklmhfpedakmangadcdofhnnoh): Google Earth View extension displaying beautiful Earth imagery on new tabs

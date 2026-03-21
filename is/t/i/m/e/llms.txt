@@ -1,37 +1,58 @@
 # Time.is
 
-> > Accurate world clock and timezone conversion service providing real-time information for cities worldwide including San Jose, Tehran, Tokyo, Beijing, Paris, London, and New York.
+> Time.is provides exact current time and timezone information for 7 million global locations in 58 languages, with sunrise/sunset data and timezone conversion tools.
 
-Time.is offers precise current time displays, timezone conversions, and event scheduling tools across all global time zones. The service supports historical time lookups, sunrise/sunset data, and UTC offset calculations for coordinating international meetings and events.
+Time.is is a comprehensive world clock service offering real-time time displays, timezone converters, and daylight saving time information for cities worldwide. The platform leverages IANA timezone data to deliver accurate time information across all time zones.
 
 ## Key Topics
 
+- Current time
 - World clock
+- Time zones
+- Timezone converter
+- UTC
+- Daylight saving time
+- Sunrise/sunset
+- Exact time
+- Time comparison
+- IANA timezone database
+- Time zone info
+- Global locations
+- DST handling
+- Time display
 - Timezone conversion
-- Pacific Time
-- UTC offset
-- Event scheduling
-- Current time lookup
-- Iran Standard Time
-- Sunrise and sunset times
-- International time zones
-- Meeting coordination
-- Historical time conversion
-- Time zone comparison
-- Chile time
-- Tehran time
-- Real-time synchronization
 
-## Time Conversion Tools
+## Major World Cities
 
-- [Timezone Converter](https://time.is/uk/compare): Compare and convert times across different time zones worldwide
-- [Chile Time Conversion](https://time.is/19:30+in+Chile): Convert specific times to Chile timezone with detailed offset information
+- [Time in New York, United States now](https://time.is/New_York): Current time in New York (ET/EDT) with timezone info
+- [Time in London, United Kingdom now](https://time.is/London): Current time in London (GMT) with timezone and sunrise/sunset
+- [Time in Paris, France now](https://time.is/Paris): Current time in Paris with timezone, DST, and sunrise/sunset
+- [Time in Tokyo, Japan now](https://time.is/Tokyo): Current time in Tokyo (JST) with timezone and sunrise/sunset
+- [Time in Beijing, China now](https://time.is/Beijing): Current time in Beijing (CST) with timezone and sunrise/sunset
+- [Time in San Jose, California, United States now](https://time.is/San_Jose,_United_States): Current time in San Jose with timezone, sunrise/sunset info
+- [Time in Bangkok, Thailand now](https://time.is/Bangkok): Current time in Bangkok (ICT) with timezone converter
+- [Time in Amsterdam, Netherlands now](https://time.is/Amsterdam): Current time in Amsterdam (CET) with timezone data
+- [Time in Barcelona, Spain now](https://time.is/Barcelona,_Spain): Current time in Barcelona (CET) with DST and sunrise/sunset
+- [Time in Auckland, New Zealand now](https://time.is/Auckland,_New_Zealand): Current time in Auckland with DST and timezone conversion
 
-## World Clock - Major Cities
+## Global Timezone Coverage
 
-- [Tehran, Iran Current Time](https://test.time.is/Tehran): Real-time clock for Tehran with Iran Standard Time, sunrise/sunset data
+- [Time.is - exact time, any time zone](https://time.is): Homepage: Time.is world clock with 7M locations, 58 languages
+- [Time in Abu Dhabi, United Arab Emirates now](https://time.is/Abu_Dhabi): Current time in Abu Dhabi (GST) with timezone data
+- [Time in Addis Ababa, Ethiopia now](https://time.is/Addis_Ababa): Current time in Addis Ababa (EAT) with timezone info
+- [Time in Amman, Jordan now](https://time.is/Amman): Current time in Amman (AST) with timezone and sunrise/sunset
+- [Time in Antananarivo, Madagascar now](https://time.is/Antananarivo): Current time in Antananarivo (EAT) with timezone info
+- [Time in Athens, Greece now](https://time.is/Athens): Current time in Athens (EET) with DST and sunrise/sunset
+- [Time in Baghdad, Iraq now](https://time.is/Baghdad): Current time in Baghdad (AST) with timezone data
 
-## Event Scheduling & Meeting Times
+## Time Display & Conversion Tools
 
-- [CNCF Security TAG Meeting](https://time.is/1000_today_in_PT?CNCF_Security_TAG_Meeting): Scheduled meeting time converter for CNCF Security TAG at 10:00 Pacific Time
-- [Intl WG Meeting - August 2015](https://time.is/0900AM_11_Aug_2015_in_PT?Intl_WG): Historical meeting time reference for Intl WG on August 11, 2015 in Pacific Time
+- [Time.is - exact time, any time zone](https://time.is/h/52472b): Time display page for San Jose with global timezone data
+
+## User Account & Premium
+
+- [Log in on Time.is](https://time.is/log_in): User login and account authentication page for Time.is
+
+## Optional
+
+- [Ad-free subscription](https://time.is/ad-free): Ad-free subscription page for Time.is premium service

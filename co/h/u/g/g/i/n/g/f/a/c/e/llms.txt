@@ -1,49 +1,52 @@
 # Hugging Face
 
-> > The open-source AI community platform for discovering, sharing, and collaborating on models, datasets, and applications.
+> > The AI community building the future: a comprehensive platform for discovering, sharing, and collaborating on open-source machine learning models, datasets, and applications.
 
-Hugging Face is the central hub for the machine learning community, providing access to hundreds of thousands of pre-trained models, datasets, and interactive spaces. The platform supports both individual researchers and enterprises with tools for model discovery, fine-tuning, deployment, and collaboration.
+Hugging Face is the leading hub for the machine learning community, providing access to hundreds of thousands of pre-trained models, datasets, and interactive spaces. The platform supports multiple frameworks including PyTorch and TensorFlow, and offers enterprise solutions with compute resources, storage, and deployment infrastructure for organizations of all sizes.
 
 ## Key Topics
 
 - Transformers
-- Model Hub
+- Models
 - Datasets
 - Spaces
 - Inference Endpoints
 - PyTorch
-- Open-source models
-- Machine learning
-- GPU compute
-- Fine-tuning
-- Model deployment
-- AI collaboration
-- Qwen3.5
-- NVIDIA Nemotron
-- Enterprise AI
+- Diffusers
+- Open Source
+- GPU Compute
+- Model Hub
+- Text-to-Speech
+- LLMs
+- Enterprise Solutions
+- AI Community
+- Model Sharing
 
 ## Core Platform
 
-- [Hugging Face Home](https://huggingface.co): AI community platform for open source models and collaboration
-- [Models Hub](https://huggingface.co/models): Model hub for discovering and exploring machine learning models across frameworks
-- [Datasets Hub](https://huggingface.co/datasets): Dataset hub for browsing and accessing machine learning training datasets
-- [Spaces](https://huggingface.co/spaces): Interactive ML apps and demos gallery showcasing community-built AI applications
-- [Documentation](https://huggingface.co/docs): Documentation hub for Hugging Face libraries, tools, and platform features
+- [Hugging Face Homepage](https://huggingface.co): AI community platform for open source and democratized ML
+- [Models Hub](https://huggingface.co/models): Explore and discover machine learning models across frameworks
+- [Datasets Repository](https://huggingface.co/datasets): Discover and browse datasets for machine learning
+- [Spaces](https://huggingface.co/spaces): Interactive ML app directory with community-built demos and showcases
 
 ## Infrastructure & Services
 
-- [Pricing](https://huggingface.co/pricing): Pricing plans for Hub, Spaces, storage, and compute resources with hardware options
-- [Storage](https://huggingface.co/storage): Storage buckets and data management solutions for AI projects and models
-- [Enterprise Plans](https://huggingface.co/enterprise): Enterprise and team subscription plans with SSO, security, and collaboration features
+- [Storage Buckets](https://huggingface.co/storage): Object storage solution for ML data management and deployment
+- [Pricing Plans](https://huggingface.co/pricing): Pricing for Hub, Spaces, storage, ZeroGPU, and inference services
+- [Enterprise Solutions](https://huggingface.co/enterprise): Team and enterprise plans with SSO, security, access controls, and compute resources
+
+## Documentation
+
+- [Documentation Hub](https://huggingface.co/docs): Comprehensive guides for Hub, libraries, deployment, and ML tools integration
 
 ## Featured Models
 
-- [NVIDIA Nemotron-3-Super-120B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16): NVIDIA Nemotron 120B large language model with MoE, long context, and reasoning
-- [Qwen3.5-35B-Uncensored](https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive): Qwen3.5 35B language model with quantization variants and aggressive tuning
-- [Qwen3.5-27B-Claude-Reasoning](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled): Fine-tuned Qwen3.5 27B model with reasoning distillation and chain-of-thought
-- [Fish Audio S2 Pro](https://huggingface.co/fishaudio/s2-pro): Fish Audio S2 Pro text-to-speech model with prosody and emotion control
-- [OmniCoder-9B](https://huggingface.co/Tesslate/OmniCoder-9B): OmniCoder 9B coding agent model fine-tuned for code generation and agentic tasks
+- [Mistral Small 4 119B](https://huggingface.co/mistralai/Mistral-Small-4-119B-2603): Hybrid MoE LLM with reasoning and multimodal capabilities
+- [Qwen3.5 27B Claude Reasoning Distilled](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled): Fine-tuned reasoning LLM distilled with Claude-4.6-Opus capabilities
+- [Qwen3.5 35B Uncensored](https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive): Qwen3.5 35B uncensored LLM variant with quantization options
+- [Fish Audio S2 Pro](https://huggingface.co/fishaudio/s2-pro): Multilingual text-to-speech model with prosody control
+- [Baidu Qianfan-OCR](https://huggingface.co/baidu/Qianfan-OCR): Vision-language model for document intelligence and extraction
 
 ## Featured Datasets
 
-- [Step-3.5-Flash-SFT](https://huggingface.co/datasets/stepfun-ai/Step-3.5-Flash-SFT): Step-3.5-Flash supervised fine-tuning dataset for chat model training
+- [Step-3.5-Flash SFT Dataset](https://huggingface.co/datasets/stepfun-ai/Step-3.5-Flash-SFT): Supervised fine-tuning data for chat model training

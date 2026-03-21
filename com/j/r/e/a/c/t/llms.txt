@@ -1,0 +1,51 @@
+# jreact.com
+
+> A comprehensive guide to reactive programming on the JVM, covering frameworks like Vert.x, Project Reactor, and RxJava with practical tutorials and design patterns.
+
+jreact.com provides in-depth documentation and tutorials for building event-driven, non-blocking applications using Java and JVM-based reactive frameworks. The site covers both foundational concepts like the Observer Pattern and advanced topics including distributed messaging, database integration, and web server development.
+
+## Key Topics
+
+- Vert.x
+- Project Reactor
+- RxJava
+- Reactive Streams
+- Reactive Programming
+- Observer Pattern
+- Event-Driven Architecture
+- Event Bus
+- Verticles
+- Non-Blocking I/O
+- Backpressure
+- JVM
+- Java
+- Hibernate Reactive
+- Event Handling
+
+## Reactive Frameworks
+
+- [Vert.x](https://jreact.com/index.php/vert-x): Guide to Eclipse Vert.x: open-source reactive framework for event-driven design
+- [Project Reactor](https://jreact.com/index.php/project-reactor): Guide to Project Reactor: non-blocking reactive programming for JVM with backpressure
+- [ReactiveX / RxJava](https://jreact.com/index.php/reactivex): RxJava tutorial with Flowable and Observable examples for reactive programming
+- [Reactive Java Libraries](https://jreact.com/index.php/reactive-java-libraries): Reference overview of reactive Java libraries: RxJava, Project Reactor, Akka Streams
+
+## Vert.x Deep Dive
+
+- [Verticles](https://jreact.com/index.php/vert-x/verticles): Tutorial on Vert.x Verticles: deployable code chunks with event loop and examples
+- [Deploying a Verticle](https://jreact.com/index.php/vert-x/deploying-a-verticle): How-to guide for deploying Verticles in Vert.x with code examples
+- [Event Bus](https://jreact.com/index.php/vert-x/event-bus): Tutorial on Vert.x EventBus for inter-verticle messaging and distributed communication
+- [Web](https://jreact.com/index.php/vert-x/web): Guide to Vert.x-Web for HTTP server routing and request handling
+- [Hibernate Reactive](https://jreact.com/index.php/vert-x/hibernate-reactive): Tutorial on Hibernate Reactive with Vert.x and PostgreSQL with code examples
+- [Packaging](https://jreact.com/index.php/vert-x/packaging): Guide to packaging Vert.x applications using maven-shade-plugin and fat JAR
+
+## Reactive Programming Fundamentals
+
+- [Intro](https://jreact.com/index.php/intro-2): Introduction to reactive programming tools: RxJS, Project Reactor, RxJava, and frameworks
+- [Observer Pattern](https://jreact.com/index.php/observer-pattern): Tutorial on Observer Pattern design pattern with Java implementation and examples
+- [Observable Class](https://jreact.com/index.php/observer-pattern/observable-class-in-java): Reference for Java Observable class methods: setChanged() and notifyObservers()
+
+## Navigation & Overview
+
+- [Homepage](https://jreact.com): Homepage covering AI trends, ML tutorials, and data science with tools like DuckDB and scikit-learn
+- [Main Menu](https://jreact.com/index.php/menu-main): Main navigation menu for jreact.com technology categories and frameworks overview
+- [Reactive Programming Menu](https://jreact.com/index.php/menu-main-reactive-programming): Navigation menu for reactive programming frameworks including Vert.x and Kafka Streams

@@ -1,0 +1,50 @@
+# Learn PyTorch
+
+> A comprehensive deep learning course teaching PyTorch fundamentals through hands-on projects and real-world applications.
+
+Learn PyTorch is an interactive online course by Zero to Mastery that guides learners from PyTorch basics to advanced topics like transfer learning, model deployment, and paper replication. The curriculum emphasizes practical skills through milestone projects including FoodVision Mini and computer vision applications.
+
+## Key Topics
+
+- PyTorch
+- Deep Learning
+- Neural Networks
+- Computer Vision
+- Transfer Learning
+- Image Classification
+- TorchVision
+- Model Training
+- GPU Acceleration
+- PyTorch Workflow
+- Custom Datasets
+- Model Deployment
+- Experiment Tracking
+- PyTorch 2.0
+- Production-Ready Code
+
+## Getting Started
+
+- [Zero to Mastery Learn PyTorch for Deep Learning](https://www.learnpytorch.io): Homepage for Zero to Mastery PyTorch course covering deep learning fundamentals
+- [00. PyTorch Fundamentals](https://www.learnpytorch.io/00_pytorch_fundamentals): Introductory module on PyTorch fundamentals, tensors, and GPU acceleration
+- [01. PyTorch Workflow Fundamentals](https://www.learnpytorch.io/01_pytorch_workflow): Guide to PyTorch workflow: model training, inference, and neural networks
+- [PyTorch Cheatsheet](https://www.learnpytorch.io/pytorch_cheatsheet): Quick reference guide for PyTorch syntax, tensor ops, and neural networks
+
+## Core Deep Learning Modules
+
+- [02. PyTorch Neural Network Classification](https://www.learnpytorch.io/02_pytorch_classification): Tutorial on binary and multi-class classification with PyTorch neural networks
+- [03. PyTorch Computer Vision](https://www.learnpytorch.io/03_pytorch_computer_vision): Computer vision guide using FashionMNIST dataset and image classification
+- [04. PyTorch Custom Datasets](https://www.learnpytorch.io/04_pytorch_custom_datasets): Tutorial on loading custom datasets with TorchVision and PyTorch utilities
+- [06. PyTorch Transfer Learning](https://www.learnpytorch.io/06_pytorch_transfer_learning): Transfer learning with pretrained models from ImageNet and torchvision
+
+## Advanced Topics
+
+- [05. PyTorch Going Modular](https://www.learnpytorch.io/05_pytorch_going_modular): Best practices for modular code organization and production-ready PyTorch
+- [07. PyTorch Experiment Tracking](https://www.learnpytorch.io/07_pytorch_experiment_tracking): Experiment tracking and model evaluation using TensorBoard with FoodVision
+- [08. PyTorch Paper Replicating](https://www.learnpytorch.io/08_pytorch_paper_replicating): Implementing Vision Transformer (ViT) paper with PyTorch for computer vision
+- [09. PyTorch Model Deployment](https://www.learnpytorch.io/09_pytorch_model_deployment): Deploying PyTorch models to production using Hugging Face and related tools
+
+## Reference & Support
+
+- [The Three Most Common Errors in PyTorch](https://www.learnpytorch.io/pytorch_most_common_errors): Guide to debugging shape, device, and datatype errors in PyTorch
+- [A Quick PyTorch 2.0 Tutorial](https://www.learnpytorch.io/pytorch_2_intro): PyTorch 2.0 features including torch.compile() for performance optimization
+- [PyTorch Extra Resources](https://www.learnpytorch.io/pytorch_extra_resources): Curated links to PyTorch documentation, blog, and ecosystem resources

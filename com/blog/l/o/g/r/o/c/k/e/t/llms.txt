@@ -1,61 +1,64 @@
 # LogRocket Blog
 
-> A resource hub for product teams, engineers, and leaders covering development practices, product strategy, AI adoption, and digital experience optimization.
+> A comprehensive resource hub for product teams, engineers, and designers to ship better digital experiences through technical guides, industry insights, and best practices.
 
-LogRocket Blog publishes in-depth guides, industry analysis, and expert interviews on modern software development, product management, and UX design. The blog features thought leadership from engineers and product leaders navigating AI-era challenges, alongside practical technical content on React, TypeScript, and emerging web technologies.
+LogRocket Blog covers the full spectrum of modern product development, from engineering architecture and AI tooling to product management strategy and UX design. The site features technical deep-dives, industry analysis, and practical guides aimed at senior engineers, product leaders, and design professionals.
 
 ## Key Topics
 
-- AI adoption
-- Engineering leadership
-- Product management
 - TypeScript
 - React
-- Product-market fit
-- Schema-driven development
-- Knowledge sharing
-- Token optimization
-- UX design
-- Engineering culture
-- Performance optimization
-- JSON Render
-- Ask Galileo
-- AI agents
+- Node.js
+- AI Development Tools
+- Product Management
+- Engineering Leadership
+- UX Design
+- Vercel
+- Schema-Driven Development
+- Performance Optimization
+- AI-First Engineering
+- Product-Market Fit
+- Engineering Culture
+- Developer Tools
+- Web Development Best Practices
 
-## Core Sections
+## Engineering & Architecture
 
-- [LogRocket Blog Home](https://blog.logrocket.com): LogRocket Blog homepage featuring resources for product teams
-- [Dev](https://blog.logrocket.com/dev): Developer news and technology resources from LogRocket Blog
-- [Product Management](https://blog.logrocket.com/product-management): Product management articles, interviews, and industry resources
-- [UX Design](https://blog.logrocket.com/ux-design): UX design resources, interviews, and industry news
+- [A complete guide to React performance optimization](https://blog.logrocket.com/a-complete-guide-to-react-performance-optimization): Complete React performance optimization guide with best practices
+- [Node.js project architecture best practices](https://blog.logrocket.com/node-js-project-architecture-best-practices): Node.js project structure and architecture best practices guide
+- [TypeScript at scale in 2026: What senior engineers should know](https://blog.logrocket.com/typescript-at-scale-2026): TypeScript best practices for large-scale development
+- [Stop fighting forms: The schema-driven approach to validation](https://blog.logrocket.com/stop-fighting-schema-driven-form-validation): Schema-driven form validation guide for frontend and backend
+- [Exploring Vercel's JSON Render: build dynamic UI from structured data](https://blog.logrocket.com/vercel-json-render-dynamic-ui): Guide to building dynamic UI with Vercel's JSON Render
+- [Why engineering knowledge disappears as teams scale (and how to fight it)](https://blog.logrocket.com/dev/knowledge-sharing-engineering-teams): Guide to scaling knowledge sharing across engineering teams
 
-## AI & Engineering Leadership
+## AI & Development Tools
 
-- [Thinking beats coding: How to hire the right engineers in the AI era](https://blog.logrocket.com/how-to-hire-the-right-engineers-in-the-ai-era): CTO Ken Pickering on prioritizing thinking skills in AI-era hiring
-- [What it actually means to be an AI-first engineering organization](https://blog.logrocket.com/ai-first-engineering-org): Ken Pickering on AI-first strategies for engineering organizations
-- [Your engineering team's AI training is probably failing: How to fix it](https://blog.logrocket.com/engineering-team-ai-training): Strategies for structured AI training and adoption in engineering teams
-- [AI dev tool power rankings & comparison [March 2026]](https://blog.logrocket.com/ai-dev-tool-power-rankings): Comparison and rankings of top AI development tools and models
-- [Stop wasting money on AI: 10 ways to cut token usage](https://blog.logrocket.com/stop-wasting-ai-tokens-10-ways-to-reduce-usage): 10 practical strategies to reduce LLM token usage and costs
-- [Does splitting work across AI agents actually save time? I tested it.](https://blog.logrocket.com/splitting-across-ai-agents): Experimental analysis of work splitting across AI agents
+- [AI dev tool power rankings & comparison [March 2026]](https://blog.logrocket.com/ai-dev-tool-power-rankings): Comparison and rankings of AI development tools and models
+- [Introducing Ask Galileo: AI that answers any question about your users' experience in seconds](https://blog.logrocket.com/introducing-ask-galileo): Ask Galileo AI product announcement for user experience insights
+- [Stop wasting money on AI: 10 ways to cut token usage](https://blog.logrocket.com/stop-wasting-ai-tokens-10-ways-to-reduce-usage): AI cost optimization guide for reducing LLM token usage
+- [What it actually means to be an AI-first engineering organization](https://blog.logrocket.com/ai-first-engineering-org): AI-first engineering strategy and organizational transformation
+- [Does splitting work across AI agents actually save time? I tested it.](https://blog.logrocket.com/splitting-across-ai-agents): Experimental analysis of AI agent splitting efficiency
 
-## Product Strategy & Management
+## Product Management & Strategy
 
-- [How to stop tracking outputs and start driving outcomes](https://blog.logrocket.com/product-management/outcome-driven-product-management): Guide to outcome-driven product management with impact metrics
+- [How to stop tracking outputs and start driving outcomes](https://blog.logrocket.com/product-management/outcome-driven-product-management): Outcome-driven product management strategy and metrics guide
 - [What to do when product-market fit starts to break](https://blog.logrocket.com/product-management/product-market-fit-erosion): Guide to diagnosing and recovering from product-market fit erosion
-- [Introducing Ask Galileo: AI that answers any question about your users' experience in seconds](https://blog.logrocket.com/introducing-ask-galileo): Ask Galileo AI product announcement for user experience analytics
+- [Product Management](https://blog.logrocket.com/product-management): Product management articles, industry news, and resources
 
-## Web Development & Performance
+## Engineering Leadership & Hiring
 
-- [A complete guide to React performance optimization](https://blog.logrocket.com/a-complete-guide-to-react-performance-optimization): Comprehensive React performance optimization guide with LCP tuning
-- [TypeScript at scale in 2026: What senior engineers should know](https://blog.logrocket.com/typescript-at-scale-2026): Guide to operating TypeScript at scale for senior engineers
-- [Exploring Vercel's JSON Render: build dynamic UI from structured data](https://blog.logrocket.com/vercel-json-render-dynamic-ui): Guide to building dynamic UI with Vercel JSON Render
-- [Stop fighting forms: The schema-driven approach to validation](https://blog.logrocket.com/stop-fighting-schema-driven-form-validation): Guide to schema-driven form validation with Vue.js and JSON Schema
+- [Thinking beats coding: How to hire the right engineers in the AI era](https://blog.logrocket.com/how-to-hire-the-right-engineers-in-the-ai-era): Engineering hiring strategy and talent recruitment in the AI era
+- [Dev](https://blog.logrocket.com/dev): Development and engineering news, resources, and technology articles
 
-## Engineering Culture & Knowledge Sharing
+## Design & User Experience
 
-- [Why engineering knowledge disappears as teams scale (and how to fight it)](https://blog.logrocket.com/dev/knowledge-sharing-engineering-teams): Guide to scaling knowledge sharing across growing engineering teams
+- [UX Design](https://blog.logrocket.com/ux-design): UX design guides, design resources, and industry interviews
 
-## Newsletter & News
+## Industry News & Roundups
 
-- [The Replay (3/18/26): Hiring in the AI era, coding isn't dead, and more](https://blog.logrocket.com/the-replay-3-18-26): LogRocket newsletter covering AI hiring, TypeScript, and tech news
-- [The Replay (3/11/26): AI education failures, Prisma Next, and more](https://blog.logrocket.com/the-replay-3-11-26-2): LogRocket newsletter on AI education, Prisma, and developer news
+- [The Replay (3/18/26): Hiring in the AI era, coding isn't dead, and more](https://blog.logrocket.com/the-replay-3-18-26): Weekly newsletter roundup on AI hiring and engineering trends
+- [The Replay (3/11/26): AI education failures, Prisma Next, and more](https://blog.logrocket.com/the-replay-3-11-26-2): Weekly newsletter on AI education and engineering updates
+
+## Core Pages
+
+- [LogRocket Blog Home](https://blog.logrocket.com): LogRocket Blog homepage for product teams and digital experiences

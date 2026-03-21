@@ -1,26 +1,27 @@
-# Shedevrum AI
+# shedevrum.ai
 
-> > Shedevrum AI is a platform that utilizes Yandex Cloud infrastructure with SmartCaptcha security for bot detection and access verification.
+> > A platform utilizing Yandex Cloud's SmartCaptcha technology for secure bot detection and access verification.
 
-The site implements robust security measures through Yandex's SmartCaptcha technology to protect against automated requests and ensure legitimate user access. All available pages currently show security verification endpoints.
+shedevrum.ai implements SmartCaptcha verification mechanisms powered by Yandex Cloud to protect against unauthorized access and bot activity. The site uses intelligent security challenges to verify human users.
 
 ## Key Topics
 
 - SmartCaptcha
 - Yandex Cloud
-- Yandex
-- Bot Detection
-- Access Verification
-- Automated Request Prevention
-- Security Challenge
-- Captcha Verification
-- Cloud Security
+- bot-detection
+- robot-verification
+- security-check
+- captcha-verification
+- access-blocked
+- security-challenge
+- robot-detection
+- yandex-smartcaptcha
 
-## Optional
+## Security & Verification
 
-- [SmartCaptcha Verification](https://shedevrum.ai/post/29c23e4d105e11f197b62e527f6122a4/): Yandex SmartCaptcha bot detection and access verification page
-- [Automated Request Detection](https://shedevrum.ai/post/246e6c5c461711ef82c84e083c53c8ae/): Yandex SmartCaptcha verification for automated request detection
-- [Security Challenge](https://shedevrum.ai/post/123bfa87a61b11f0b6df2233075cab06/): Yandex Cloud SmartCaptcha security challenge page
-- [Bot Detection Verification](https://shedevrum.ai/post/12aa692a538711f09d7662beaec65da9/): SmartCaptcha bot detection security verification
-- [Security Check](https://shedevrum.ai/post/07192679fbe111efb207ea120268400c/): Yandex Cloud SmartCaptcha security check page
-- [Access Verification](https://shedevrum.ai/post/079a55710f5211f1912c967de15b6428/): Yandex SmartCaptcha access verification and bot detection
+- [Are you not a robot?](https://shedevrum.ai/post/246e6c5c461711ef82c84e083c53c8ae/): SmartCaptcha verification page by Yandex Cloud for bot detection
+- [Are you not a robot?](https://shedevrum.ai/post/079a55710f5211f1912c967de15b6428/): SmartCaptcha verification page by Yandex Cloud for bot detection
+- [Are you not a robot?](https://shedevrum.ai/post/0152c57e16ab11f18bab36b1e9ed52c7/): SmartCaptcha verification page by Yandex Cloud for bot detection
+- [Are you not a robot?](https://shedevrum.ai/post/12ce2f37af5a11f0928e1a9e672d63fd/): SmartCaptcha verification page by Yandex Cloud for bot detection
+- [Are you not a robot?](https://shedevrum.ai/post/136279630d1411f18e30eeba09ae9e87/): SmartCaptcha verification page by Yandex Cloud for bot detection
+- [Are you not a robot?](https://shedevrum.ai/post/1d23386c187311f194967a0485f2f663/): SmartCaptcha verification page by Yandex Cloud for bot detection

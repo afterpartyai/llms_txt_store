@@ -1,0 +1,64 @@
+# OpenLM
+
+> > OpenLM is a comprehensive software license management platform that provides real-time usage monitoring, cost optimization, compliance tracking, and AI-powered governance across enterprise software and cloud services.
+
+OpenLM offers integrated solutions for managing software licenses, SaaS subscriptions, and AI/LLM usage across enterprises. The platform combines monitoring agents, analytics dashboards, identity management, and policy automation to help organizations optimize costs, ensure compliance, and gain visibility into their software asset portfolios.
+
+## Key Topics
+
+- License Management
+- Software Asset Management (SAM)
+- Usage Monitoring
+- Cost Reduction
+- Compliance (GDPR, CCPA, SOC-2)
+- SaaS Management
+- License Optimization
+- AI FinOps
+- FlexLM & RLM Support
+- Docker & Kubernetes
+- Directory Sync
+- Dongle Monitoring
+- License Harvesting
+- Identity Alignment
+- Real-time Analytics
+
+## Core Products
+
+- [OpenLM Platform](https://www.openlm.com/product/openlm-platform): Main product offering with Docker, Kubernetes support, advanced BI reports, and comprehensive license management capabilities
+- [OpenLM Analytics](https://www.openlm.com/product/openlm-analytics): AI-powered insights and business intelligence dashboards for actionable reporting and data visualization
+- [OpenLM SaaS Management](https://www.openlm.com/product/openlm-saas-management): Subscription visibility, cost reduction, and vendor management for cloud-based software services
+- [Enterprise AI Gateway](https://www.openlm.com/enable-ai-finops-with-real-time-token-attribution): LLM governance with real-time token attribution for AI FinOps and cost management
+
+## Identity & Access Management
+
+- [OpenLM Identity Alignment](https://www.openlm.com/products/openlm-identity-alignment): Centralized directory sync, user provisioning, and Azure AD integration for identity management
+- [OpenLM LDAP Connector](https://www.openlm.com/product/ldap-connector): User management and directory synchronization with GDPR compliance support
+
+## License Management Features
+
+- [Actual Usage Tracking](https://www.openlm.com/features/actual-usage): Real-time license efficiency monitoring through workstation agent tracking
+- [License Harvesting](https://www.openlm.com/features/license-harvesting): Idle license recovery and optimization using machine learning policies
+- [License Server Monitoring](https://www.openlm.com/features/license-server-monitoring): Usage optimization, compliance verification, and vendor negotiation support
+- [License Access Control](https://www.openlm.com/features/license-access-control): Policy automation and permission management for FlexLM and other license systems
+- [License Files Management](https://www.openlm.com/features/license-files-management): Centralized repository for license activation, tracking, and management
+- [Group Usage & Cost Allocation](https://www.openlm.com/features/group-usage): Directory sync integration with chargeback and cost-center allocation capabilities
+
+## Monitoring & Compliance
+
+- [OpenLM Alerts](https://www.openlm.com/features/openlm-alerts): Proactive monitoring with custom rules for expirations, server outages, and notifications
+- [OpenLM Audit System](https://www.openlm.com/features/openlm-audit-system): Event logging and compliance support for GDPR, CCPA, and SOC-2 standards
+- [Dongle Monitoring](https://www.openlm.com/features/dongle-monitoring): Real-time USB hardware key tracking with offline monitoring and asset security
+
+## Specialized Solutions
+
+- [Virtual License Manager (VLM)](https://www.openlm.com/products/virtual-license-manager-vlm): License virtualization and allocation for cost reduction and flexible deployment
+- [Dongle Monitoring Solutions](https://www.openlm.com/products/dongle-monitoring): Comprehensive USB hardware key tracking with real-time insights and management
+- [License Parser Tool](https://www.openlm.com/products/license-parser): Free tool for license usage analysis without installation requirements
+
+## Customization & Automation
+
+- [Custom Commands](https://www.openlm.com/features/custom-commands): Personalization and scripting capabilities for alert management and automation
+
+## Getting Started
+
+- [OpenLM Homepage](https://www.openlm.com): Software license management solutions, compliance, and cost optimization overview

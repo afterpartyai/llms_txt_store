@@ -1,61 +1,62 @@
-# Visual Studio Code Documentation
+# Visual Studio Code
 
-> > Official documentation for Visual Studio Code, covering extension development, language support (C++, Java, Python), GitHub Copilot integration, debugging, and containerized development workflows.
+> Visual Studio Code is an open-source, AI-powered code editor with GitHub Copilot integration, extensibility APIs, and cloud development capabilities.
 
-Visual Studio Code is a free, open-source code editor from Microsoft that runs on Windows, Linux, and macOS. This documentation site provides comprehensive guides for using VS Code's features, developing extensions, configuring debuggers, working with GitHub Copilot AI agents, and setting up development environments with Docker containers.
+VS Code serves as a comprehensive platform for modern software development, featuring integrated AI assistance through Copilot, extensive customization options, and a robust extension ecosystem. The site provides documentation for core features, API references for extension development, and guides for leveraging AI capabilities through the Language Model and Model Context Protocol (MCP) standards.
 
 ## Key Topics
 
-- Extension API
+- Visual Studio Code
 - GitHub Copilot
-- Debugger Configuration
-- launch.json
-- Workbench Extension
-- C++ Debugging (GDB/LLDB)
-- Java Development
-- Docker Containers
-- Tree View API
-- Webview
-- AI Agents
-- Multi-root Workspaces
-- View Containers
-- Status Bar
-- Contribution Points
+- Extension API
+- Model Context Protocol (MCP)
+- AI code completion
+- Copilot Chat
+- Language Model API
+- GitHub integration
+- Source control
+- GitHub Codespaces
+- Terminal integration
+- Profiles and customization
+- Open source
+- Cross-platform (Windows, macOS, Linux)
+- Insiders Build
 
-## GitHub Copilot and AI Agents
+## Getting Started
 
-- [GitHub Copilot in VS Code cheat sheet](https://code.visualstudio.com/docs/copilot/reference/copilot-vscode-features): Quick reference for GitHub Copilot features, shortcuts, and AI agents
-- [Tutorial: Work with agents in VS Code](https://code.visualstudio.com/docs/copilot/agents/agents-tutorial): Tutorial on using local, background, and cloud agents with GitHub Copilot
-- [Set up a context engineering flow in VS Code](https://code.visualstudio.com/docs/copilot/guides/context-engineering-guide): Implement context engineering workflow with GitHub Copilot custom agents
-- [Third-party agents in Visual Studio Code](https://code.visualstudio.com/docs/copilot/agents/third-party-agents): Use Claude and OpenAI agents for autonomous coding with Copilot subscription
-- [Agent hooks in Visual Studio Code (Preview)](https://code.visualstudio.com/docs/copilot/customization/hooks): Execute custom shell commands at agent lifecycle points for automation
+- [Visual Studio Code - The open source AI code editor](https://code.visualstudio.com): Main homepage showcasing VS Code as AI-powered code editor with GitHub Copilot integration
+- [Download Visual Studio Code - Mac, Linux, Windows](https://code.visualstudio.com/Download): Download page for VS Code across Linux, macOS, and Windows platforms
+- [Documentation for Visual Studio Code](https://code.visualstudio.com/docs): Central documentation hub for VS Code, AI agents, Copilot, and extensions
+- [Download Visual Studio Code Insiders](https://code.visualstudio.com/insiders): Download daily Insiders Build of VS Code for early adopters
 
-## Extension Development API
+## AI & Copilot Features
 
-- [Extending Workbench](https://code.visualstudio.com/api/extension-capabilities/extending-workbench): Guide to extending VS Code workbench with custom UI components and views
-- [Tree View API](https://code.visualstudio.com/api/extension-guides/tree-view): Guide to implementing Tree View with TreeDataProvider in extensions
-- [Notebook API](https://code.visualstudio.com/api/extension-guides/notebook): Guide to creating Jupyter-style notebook experiences using Notebook API
-- [Panel UX Guidelines](https://code.visualstudio.com/api/ux-guidelines/panel): UX guidelines for Panel Bar view containers and webview implementation
+- [Chat overview](https://code.visualstudio.com/docs/copilot/chat/chat-agent-mode): Guide to GitHub Copilot Chat features, surfaces, and effective prompting
+- [Inline suggestions from GitHub Copilot in VS Code](https://code.visualstudio.com/docs/copilot/ai-powered-suggestions): Documentation for Copilot inline suggestions and AI code completion
+- [AI extensibility in VS Code | Visual Studio Code Extension API](https://code.visualstudio.com/docs/copilot/copilot-extensibility-overview): Guide to extending AI features via Language Model, Tools, and Chat APIs
 
-## C/C++ Development and Debugging
+## Extension Development & API Reference
 
-- [Debug C++ in Visual Studio Code](https://code.visualstudio.com/docs/cpp/cpp-debug): Debug C++ programs with GDB, LLDB, and Visual Studio Windows Debugger
-- [Configure C/C++ debugging](https://code.visualstudio.com/docs/cpp/launch-json-reference): launch.json configuration reference for C/C++ debugging with GDB/LLDB
-- [C/C++ extension logging](https://code.visualstudio.com/docs/cpp/enable-logging-cpp): Enable debug adapter and language server logging for C/C++ troubleshooting
+- [Extension API | Visual Studio Code Extension API](https://code.visualstudio.com/api): Extension API documentation for creating VS Code extensions and plugins
+- [MCP Registry · GitHub](https://code.visualstudio.com/mcp): GitHub MCP Registry for discovering and integrating Model Context Protocol servers
 
-## Java Development
+## Configuration & Customization
 
-- [Running and debugging Java](https://code.visualstudio.com/docs/java/java-debugging): Tutorial on running and debugging Java with Debugger for Java extension
-- [Java Web Apps with Visual Studio Code](https://code.visualstudio.com/docs/java/java-webapp): Build and deploy Java web apps to Azure App Service using Maven and Tomcat
-- [Java formatting and linting](https://code.visualstudio.com/docs/java/java-linting): Configure Java formatting with Eclipse, Checkstyle, and SonarLint tools
+- [User and workspace settings](https://code.visualstudio.com/docs/configure/settings): Guide to configuring VS Code user and workspace settings
+- [Profiles in Visual Studio Code](https://code.visualstudio.com/docs/configure/profiles): Managing VS Code profiles for customized development workflows
+- [Themes](https://code.visualstudio.com/docs/configure/themes): How to customize VS Code color themes and workbench appearance
 
-## Container Development
+## Development Tools & Integration
 
-- [Your development environment](https://code.visualstudio.com/docs/containers/choosing-dev-environment): Choose remote or local environments for containerized app development
-- [Python in a container](https://code.visualstudio.com/docs/containers/quickstart-python): Develop and debug Python/Django/Flask apps in Docker containers
-- [Debug .NET within a container](https://code.visualstudio.com/docs/containers/debug-netcore): Debug containerized .NET apps using C# extension and Docker integration
+- [Source Control in VS Code](https://code.visualstudio.com/docs/sourcecontrol/overview): Integrated Git and source control features including GitHub integration
+- [GitHub Codespaces](https://code.visualstudio.com/docs/remote/codespaces): Guide to using GitHub Codespaces with VS Code for cloud development
+- [Terminal Basics](https://code.visualstudio.com/docs/terminal/basics): Using VS Code's integrated terminal and shell integration features
 
-## Workspace and Editor Configuration
+## Support & FAQ
 
-- [Multi-root Workspaces](https://code.visualstudio.com/docs/editing/workspaces/multi-root-workspaces): Work with multiple project folders using .code-workspace files
-- [Glob Patterns Reference](https://code.visualstudio.com/docs/editor/glob-patterns): Reference for glob pattern syntax in file matching and search exclusion
+- [Visual Studio Code FAQ](https://code.visualstudio.com/docs/supporting/faq): Frequently asked questions about VS Code, Copilot, licensing, and open source
+
+## Optional
+
+- [Visual Studio Code 1.112](https://code.visualstudio.com/updates): Release notes for VS Code 1.112 with Copilot CLI and MCP updates
+- [License - Visual Studio Code](https://code.visualstudio.com/license): Legal license and terms of service for Visual Studio Code

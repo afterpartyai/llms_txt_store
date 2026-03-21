@@ -1,47 +1,44 @@
 # OpenReview
 
-> > OpenReview is a scientific publishing platform enabling open peer review, transparent collaboration, and community-driven evaluation across major AI and machine learning conferences.
+> OpenReview is an open-science platform for peer review and academic publishing that hosts major AI and ML conference venues with transparent, community-driven review processes.
 
-OpenReview hosts peer review and submission management for leading academic venues including ICLR, NeurIPS, and ACL. The platform promotes transparency and openness in the academic review process while supporting workshops, conferences, and collaborative research initiatives.
+OpenReview.net serves as a centralized hub for academic conferences (ICLR, CVPR, ACL, AAAI, and others) to conduct open peer review, manage submissions, and publish research transparently. The platform operates with open-source principles and provides REST API access for programmatic integration.
 
 ## Key Topics
 
-- open peer review
-- scientific publishing
-- peer-review transparency
-- conference submissions
-- academic venues
+- peer-review
+- open-science
+- academic-conferences
+- research-transparency
+- scientific-communication
+- conference-venues
+- AI community
 - ICLR
-- NeurIPS
-- ACL
 - CVPR
-- call for papers
-- open science
-- review openness
-- academic collaboration
-- conference deadlines
-- AI research community
+- ACL
+- call-for-papers
+- open-submissions
+- reviewer-feedback
+- research-venues
+- academic-publishing
 
 ## Getting Started
 
-- [Homepage](https://openreview.net): Homepage showcasing OpenReview venues and upcoming conferences
-- [About OpenReview](https://openreview.net/about): About page describing OpenReview's mission and open peer review platform
-- [Venue Directory](https://openreview.net/venues): Directory of academic conferences and venues using OpenReview
+- [Venues](https://openreview.net): Main OpenReview homepage showcasing academic conference venues (CVPR, ICLR, ACL, IEEE ICRA)
+- [About OpenReview](https://openreview.net/about): About page explaining OpenReview's mission, open-source model, and REST API capabilities
+- [Venue Directory](https://openreview.net/venues): Searchable directory of academic venues (AAAI, AAMAS, ACL, ACM) hosted on OpenReview
 
-## Community & Advocacy
+## Community & News
 
-- [A Message from AI Research Leaders: Join Us in Supporting OpenReview](https://openreview.net/forum/pineau|a_message_from_ai_research_leaders_join_us_in_supporting_openreview): Fundraising message from AI leaders including Bengio, Ng, and Pineau
-- [Survey Finds Broad Support for Greater Openness in AI Peer Review](https://openreview.net/forum/shah|survey_finds_broad_support_for_greater_openness_in_ai_peer_review): Survey on peer review openness in AI research community by Shah & McCallum
-
-## Security & Transparency
-
-- [Initial Analysis of OpenReview API Security Incident](https://openreview.net/forum/user|initial_analysis_of_openreview_api_security_incident): Analysis of OpenReview API security breach and incident response
+- [A Message from AI Research Leaders: Join Us in Supporting OpenReview](https://openreview.net/forum/pineau|a_message_from_ai_research_leaders_join_us_in_supporting_openreview): Fundraising appeal from AI leaders (Bengio, Ng, Pineau, Cho, Precup) supporting OpenReview
+- [Survey Finds Broad Support for Greater Openness in AI Peer Review](https://openreview.net/forum/shah|survey_finds_broad_support_for_greater_openness_in_ai_peer_review): Research survey by Shah and McCallum on community support for open peer review practices
+- [Initial Analysis of OpenReview API Security Incident](https://openreview.net/forum/user|initial_analysis_of_openreview_api_security_incident): Security incident analysis documenting API vulnerability and reviewer privacy impact
 
 ## Support & Contact
 
-- [Contact](https://openreview.net/contact): Contact page for venue requests, bug reports, and feature suggestions
+- [Contact](https://openreview.net/contact): Contact page for venue requests, bug reports, feature suggestions, and general support
 
-## Legal & Policies
+## Optional
 
-- [Terms of Use](https://openreview.net/legal/terms): Terms of use for OpenReview platform, API, and database
-- [Privacy Policy](https://openreview.net/legal/privacy): Privacy policy covering GDPR compliance and data protection practices
+- [Terms of Use](https://openreview.net/legal/terms): Terms of use governing OpenReview.net platform, API, and database usage
+- [Privacy Policy](https://openreview.net/legal/privacy): Privacy policy covering GDPR compliance, data collection, cookies, and user information

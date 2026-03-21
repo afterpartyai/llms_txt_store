@@ -1,58 +1,58 @@
 # OpenArt
 
-> > OpenArt is an all-in-one AI creator studio for generating and editing images, videos, and creative content with free tools and advanced features.
+> > OpenArt is an all-in-one AI creator studio for generating and editing images and videos with advanced features like style transfer, pose reference, and custom model training.
 
-OpenArt provides a comprehensive suite of AI-powered tools for content creators, including text-to-image generation, image editing, video creation, and custom model training. The platform combines free accessibility with professional-grade features for image enhancement, object manipulation, and creative transformation.
+OpenArt provides a comprehensive suite of free AI-powered tools for creative professionals and enthusiasts to generate, transform, and enhance visual content. The platform combines text-to-image generation, video creation, and advanced editing capabilities with features like inpainting, upscaling, and custom AI model training.
 
 ## Key Topics
 
 - AI Image Generator
-- Image-to-Image
 - Image-to-Video
+- Text-to-Image
 - Style Transfer
-- AI Inpainting
-- Background Removal
-- Image Upscaling
-- Face Editor
-- Custom Model Training
+- Image Inpainting
 - Pose Reference
-- Magic Remover
-- Creative Variations
+- Model Training
+- Background Remover
+- Image Upscaler
+- Creative Upscale
+- Sketch-to-Image
+- Face Editor
+- Object Removal
+- Composition Reference
 - Blend Board
-- Bulk Create
-- Object Replacer
 
 ## Core Generation Tools
 
-- [AI Creator Studio for Video & Images](https://openart.ai/home): OpenArt Suite: all-in-one AI creator studio for images, videos, characters, and audio
-- [Free AI Image Generator](https://openart.ai/ai-image-generator): Free AI image generator converting text prompts to stunning visuals instantly
-- [AI Image to Video Generator](https://openart.ai/apps/image-to-video): Image-to-video generator with Kling, Veo, and Seedance for dynamic video creation
+- [AI Image Generator](https://openart.ai/ai-image-generator): Free AI image generator converting text prompts to high-quality images instantly
+- [Image to Video Generator](https://openart.ai/apps/image-to-video): Image-to-video generator using Kling2.1, Veo3, and other models for dynamic video creation
+- [OpenArt Suite](https://openart.ai/home): All-in-one AI creator studio for images, videos, characters, and audio
 
 ## Image Transformation Features
 
-- [Image to Image](https://openart.ai/highlights/image-to-image): Image-to-image transformation feature for style variations and image enhancement
-- [Style Transfer](https://openart.ai/highlights/style-transfer): Style transfer tool for photo transformation and creative texture editing
-- [Change Image Background](https://openart.ai/features/change-image-background): Free background removal and replacement tool for professional image editing
-- [Background Remover](https://openart.ai/features/background-remover): Free background remover for ecommerce and social media image enhancement
-- [AI Background Expander](https://openart.ai/features/ai-background-expander): Free AI background expander for seamless image expansion and enhancement
+- [Image to Image](https://openart.ai/highlights/image-to-image): Image-to-image transformation feature with sketch-to-image and creative upscaling
+- [Style Transfer](https://openart.ai/highlights/style-transfer): Style transfer feature for photo transformation with texture and time-of-day conversion
+- [Blend Board](https://openart.ai/highlights/blend-board): Blend Board visual editing tool for layer blending and element arrangement with inpaint
+- [Change Image Background](https://openart.ai/features/change-image-background): Free background changer for removing and replacing image backgrounds instantly
+- [AI Object Replacer](https://openart.ai/features/ai-object-replacer): Free AI object replacer for transforming images through intelligent object replacement
 
 ## Image Enhancement & Restoration
 
-- [Image Upscaler](https://openart.ai/features/image-upscaler): Free image upscaler with creative modes for resolution and quality enhancement
-- [Image Enhancer](https://openart.ai/features/image-enhancer): Free image enhancer for quality, clarity, and detail improvement
-- [Face Editor](https://openart.ai/features/face-editor): Free face editor for expression changes and profile picture enhancement
-- [Fix Hand or Face](https://openart.ai/highlights/fix-hand-or-face): Hand and face correction feature for image enhancement and quality improvement
-- [AI Image Inpainting](https://openart.ai/features/ai-image-inpainting): Free AI image inpainting for object removal and photo restoration
+- [Image Upscaler](https://openart.ai/features/image-upscaler): Free AI image upscaler with creative modes for resolution and quality enhancement
+- [Image Enhancer](https://openart.ai/features/image-enhancer): Free AI image enhancer boosting clarity, detail, and quality with creative modes
+- [Background Remover](https://openart.ai/features/background-remover): Free AI background remover for professional image editing and e-commerce use
+- [AI Image Inpainting](https://openart.ai/features/ai-image-inpainting): Free AI image inpainting tool for object removal and photo restoration
+- [Magic Remover](https://openart.ai/highlights/magic-remover): Magic Remover feature for object removal and image inpainting with AI technology
+- [Background Expander](https://openart.ai/features/ai-background-expander): Free AI background expander for seamless image extension and visual enhancement
 
-## Advanced Editing & Composition
+## Specialized Editing Tools
 
-- [Magic Remover](https://openart.ai/highlights/magic-remover): Magic Remover feature for content-aware object removal and image editing
-- [AI Object Replacer](https://openart.ai/features/ai-object-replacer): Free AI object replacer for find-and-replace image customization
-- [Blend Board](https://openart.ai/highlights/blend-board): Blend Board composition tool for layer blending and element arrangement
-- [Pose Reference](https://openart.ai/highlights/pose-reference): Pose reference feature for consistent character generation and pose matching
-- [Composition Reference](https://openart.ai/highlights/composition-reference): Composition reference tool for layout guidance and visual design creation
+- [Face Editor](https://openart.ai/features/face-editor): Free AI-powered face editor for expression editing and profile picture enhancement
+- [Fix Hand or Face](https://openart.ai/highlights/fix-hand-or-face): Hand and face correction feature for improving image quality with AI enhancement
+- [Pose Reference](https://openart.ai/highlights/pose-reference): Pose reference feature enabling pose-matching for consistent character generation
+- [Composition Reference](https://openart.ai/highlights/composition-reference): Composition reference feature for visual layout guidance in image generation
 
-## Custom Training & Workflow Automation
+## Advanced Features
 
-- [Model Training](https://openart.ai/highlights/model-training): Custom model training feature for style and character-specific AI generation
-- [Bulk Create](https://openart.ai/highlights/bulk-create): Bulk creation feature for batch image generation and workflow automation
+- [Model Training](https://openart.ai/highlights/model-training): Custom AI model training for personalized style and character generation with FLUX
+- [Bulk Create](https://openart.ai/highlights/bulk-create): Bulk creation feature for high-volume batch image generation via CSV upload

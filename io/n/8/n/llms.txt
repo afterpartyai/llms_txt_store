@@ -1,64 +1,57 @@
 # n8n
 
-> > n8n is a low-code workflow automation platform enabling technical teams to build integrations, AI workflows, and data pipelines connecting 400+ apps including Google Sheets, Slack, OpenAI, HubSpot, and Airtable.
+> n8n is an AI-powered workflow automation platform combining no-code and code flexibility for enterprise integration and automation.
 
-n8n provides both cloud and self-hosted deployment options with a visual workflow builder. The platform specializes in AI automation (RAG, agents, MCP), CRM integration, and event-driven triggers for marketing, sales, and customer support teams.
+n8n provides a comprehensive platform for building, deploying, and scaling workflow automation across 1000+ integrations. The platform supports AI agents, RAG systems, and specialized automation for ITOps, SecOps, CRM, and lead management use cases, with options for self-hosted deployment and embedded iPaaS solutions.
 
 ## Key Topics
 
-- workflow automation
-- AI workflows and agents
-- CRM integration (HubSpot, Pipedrive, Salesforce)
-- Google Sheets integration
-- Slack and team messaging automation
-- OpenAI and LLM integration
-- webhook triggers and event-driven workflows
-- Gmail and email automation
-- Airtable and database connectivity
-- lead management and sales automation
-- marketing automation
-- customer support automation
+- Workflow Automation
+- AI Agents
+- Integrations
+- No-Code Automation
 - RAG (Retrieval-Augmented Generation)
-- low-code and no-code automation
-- self-hosted and cloud deployment
+- Self-Hosted Deployment
+- Multi-Agent Systems
+- Human-in-the-Loop
+- CRM Automation
+- ITOps & SecOps
+- Embedded iPaaS
+- Workflow Templates
+- Data Transformation
+- Security Operations
+- Enterprise Integration
 
-## Platform Overview
+## Core Platform
 
-- [Advanced AI Workflow Automation Software & Tools - n8n](https://n8n.io/ai): AI workflow automation with RAG, MCP, agents, and human-in-the-loop tools
-- [CRM Workflow Automation Software & Tools - n8n](https://n8n.io/supercharge-your-crm): CRM automation with HubSpot, Gmail, Google Sheets for lead scoring & enrichment
+- [AI Workflow Automation Platform - n8n](https://n8n.io): n8n homepage: AI-powered workflow automation platform combining no-code and code flexibility
+- [Workflows App Automation Features from n8n.io](https://n8n.io/features): n8n product features overview including AI nodes, integrations, and workflow automation
+- [8834 Workflow Automation Templates](https://n8n.io/workflows): n8n template library with 8834+ pre-built workflow templates for various integrations
 
-## Customer Case Studies
+## AI & Advanced Automation
 
-- [How Flow AI built a voice-controlled real estate outreach engine on n8n](https://n8n.io/case-studies/flow-ai): Flow AI case study: voice-controlled real estate outreach with n8n Enterprise
-- [How Field Aerospace uses n8n to generate proposals faster and stay ahead of government solicitations](https://n8n.io/case-studies/field-aerospace): Field Aerospace case study: AI-assisted government proposal generation with n8n
-- [Building a $100K online business powered by low-code](https://n8n.io/case-studies/bordr): Bordr case study: scaling Portugal relocation services with n8n automation
+- [Advanced AI Workflow Automation Software & Tools - n8n](https://n8n.io/ai): n8n AI automation features: agents, RAG, human-in-the-loop, and multi-agent systems
+- [Build Custom AI Agents With Logic & Control | n8n Automation Platform](https://n8n.io/ai-agents): n8n AI agents: build production-ready agents with OpenAI, Gemini, 1000+ integrations
+- [Build Custom RAG Systems With Logic & Control | n8n Automation Platform](https://n8n.io/rag): n8n RAG workflows: retrieval-augmented generation with Qdrant, Weaviate, 500+ integrations
 
-## Popular Integrations
+## Industry-Specific Solutions
 
-- [Microsoft Excel 365 integrations | Workflow automation with n8n](https://n8n.io/integrations/microsoft-excel): Excel 365 integration with Google Sheets, Gmail, OpenAI for data automation
-- [Supabase integrations | Workflow automation with n8n](https://n8n.io/integrations/supabase): Supabase integration with Google Sheets, Gmail, OpenAI for database sync
-- [WooCommerce Trigger integrations | Workflow automation with n8n](https://n8n.io/integrations/woocommerce-trigger): WooCommerce Trigger for ecommerce order notifications and CRM sync automation
-- [Typeform Trigger integrations | Workflow automation with n8n](https://n8n.io/integrations/typeform-trigger): Typeform Trigger with HubSpot, Slack for form response and lead capture automation
+- [ITOps Workflow Automation Software & Tools - n8n](https://n8n.io/itops): n8n ITOps automation: helpdesk, incident management, infrastructure with Slack, Teams
+- [SecOps Workflow Automation Software & Tools - n8n](https://n8n.io/secops): n8n SecOps automation: security operations with self-hosted, encryption, API integration
+- [CRM Workflow Automation Software & Tools - n8n](https://n8n.io/supercharge-your-crm): n8n CRM automation: lead scoring, data enrichment with Pipedrive, Gmail, Google Drive
+- [Lead Management Workflow Automation Software & Tools - n8n](https://n8n.io/automate-lead-management): n8n lead management: CRM integration with HubSpot, Pipedrive, form automation
 
-## CRM & Sales Integrations
+## Integration & Deployment
 
-- [Hunter integrations | Workflow automation with n8n](https://n8n.io/integrations/hunter): Hunter integration for sales automation and lead management workflows
-- [Agile CRM integrations | Workflow automation with n8n](https://n8n.io/integrations/agile-crm): Agile CRM integration for marketing automation and lead generation workflows
+- [Custom Workflow Automation Software & Tools - n8n](https://n8n.io/limitless-integrations): n8n integrations: enterprise automation with Slack, HubSpot, Stripe, 1000+ apps
+- [Embedded iPaaS | Native automation workflows - n8n](https://n8n.io/embed): n8n embedded iPaaS: white-label automation workflows for SaaS products
+- [Prototyping Workflow Automation Software & Tools - n8n](https://n8n.io/saas): n8n SaaS prototyping: backend automation platform with enterprise features
 
-## Customer Support Integrations
+## Documentation & Resources
 
-- [Freshdesk integrations | Workflow automation with n8n](https://n8n.io/integrations/freshdesk): Freshdesk integration with Google Sheets, Gmail for customer support automation
-- [Help Scout Trigger integrations | Workflow automation with n8n](https://n8n.io/integrations/helpscout-trigger): Help Scout Trigger for customer support conversation event automation
-
-## HR & Business Integrations
-
-- [BambooHR integrations | Workflow automation with n8n](https://n8n.io/integrations/bamboohr): BambooHR integration with Google Sheets, Gmail for HR automation workflows
-- [Webflow Trigger integrations | Workflow automation with n8n](https://n8n.io/integrations/webflow-trigger): Webflow Trigger for form submissions and lead management automation
+- [Explore n8n Docs: Your Resource for Workflow Automation and Integrations | n8n Docs](https://docs.n8n.io): n8n documentation hub: guides on workflow automation, integrations, setup, and AI
+- [n8n Hosting Documentation and Guides | n8n Docs](https://docs.n8n.io/hosting): n8n hosting guide: self-hosted setup, Docker deployment, authentication, scaling
 
 ## Optional
 
-- [RSS Read integrations | Workflow automation with n8n](https://n8n.io/integrations/rss-read): RSS Read integration with OpenAI, Gmail, WordPress for content automation
-- [QuestDB integrations | Workflow automation with n8n](https://n8n.io/integrations/questdb): QuestDB integration with Google Sheets, Gmail for database connectivity
-- [Orbit integrations | Workflow automation with n8n](https://n8n.io/integrations/orbit): Orbit integration with Google Sheets, Gmail, OpenAI for analytics workflows
-- [AMQP Sender integrations | Workflow automation with n8n](https://n8n.io/integrations/amqp-sender): AMQP Sender integration for messaging protocol and API workflows
-- [Security](https://n8n.io/legal/security): Security compliance docs: SOC 2/3, GDPR, encryption, audit reports
+- [Release notes | n8n Docs](https://docs.n8n.io/release-notes): n8n release notes: version history, changelog, bug fixes, semantic versioning

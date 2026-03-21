@@ -1,0 +1,58 @@
+# SPDX
+
+> > SPDX is the open standard for creating software bills of materials (SBOMs) to enable transparency and compliance across the software supply chain.
+
+SPDX (Software Package Data Exchange) is an ISO/IEC 5962:2021 standard maintained by The Linux Foundation that provides a unified format for documenting software components, licenses, and supply chain metadata. The standard supports multiple specialized profiles for different use cases including AI systems, security, hardware, and supply chain compliance.
+
+## Key Topics
+
+- Software Bill of Materials (SBOM)
+- SPDX Specification
+- SPDX License List
+- Supply Chain Security
+- License Compliance
+- Software Provenance
+- Compliance Framework
+- ISO/IEC 5962:2021
+- Software Supply Chain
+- Vulnerability Management (VEX)
+- AI-SBOM
+- Open Standard
+- Intellectual Property
+- Software Compliance
+- Regulatory Requirements
+
+## Getting Started
+
+- [SPDX Homepage](https://spdx.dev): SPDX homepage introducing the open standard for software bills of materials and supply chain transparency
+- [Overview](https://spdx.dev/about/overview): Overview of SPDX standard, ISO/IEC 5962:2021, and its role in software compliance
+- [Learning Overview](https://spdx.dev/learn/overview): Getting started guide covering SPDX specification versions and core concepts
+
+## SPDX Profiles & Areas of Interest
+
+- [Areas of Interest Overview](https://spdx.dev/learn/areas-of-interest): Overview of SPDX profiles for AI, security, licensing, hardware, and supply chain
+- [Core Profile](https://spdx.dev/learn/areas-of-interest/core): SPDX Core profile covering essential bill of materials and licensing metadata
+- [Software Profile](https://spdx.dev/learn/areas-of-interest/software): Software profile for creating bills of materials with licensing and metadata
+- [Security Profile](https://spdx.dev/learn/areas-of-interest/security): Security profile with vulnerability management, VEX notation, and risk assessment
+- [Supply Chain Profile](https://spdx.dev/learn/areas-of-interest/supply-chain): Supply chain profile covering traceability, compliance, and regulatory requirements
+- [AI Profile](https://spdx.dev/learn/areas-of-interest/ai): AI-SBOM profile for documenting AI systems, datasets, and compliance with EU AI Act
+- [Build Profile](https://spdx.dev/learn/areas-of-interest/build): Build profile for software provenance, reproducibility, and supply chain auditing
+- [Licensing Profile](https://spdx.dev/learn/areas-of-interest/licensing): SPDX licensing profile with license expressions and standardized identifiers
+- [Hardware Profile](https://spdx.dev/learn/areas-of-interest/hardware): Hardware bill of materials profile for semiconductor tracking and compliance
+- [Dataset Profile](https://spdx.dev/learn/areas-of-interest/dataset): Dataset profile SBOM for documenting datasets used in AI and data governance
+- [Lite Profile](https://spdx.dev/learn/areas-of-interest/lite): Lightweight SPDX profile for basic software supply chain compliance requirements
+- [Services Profile](https://spdx.dev/learn/areas-of-interest/services): Services profile for data governance and supplier infrastructure in SPDX 3.1
+
+## Licensing & Compliance
+
+- [Handling License Information](https://spdx.dev/learn/handling-license-info): Guide to SPDX License List, identifiers, and machine-readable license expressions
+
+## Community & Contribution
+
+- [Participate in SPDX](https://spdx.dev/engage/participate): Guide to participating in SPDX community, teams, and contribution opportunities
+- [Technical Team](https://spdx.dev/engage/participate/technical-team): Technical team structure, communication channels, and contribution guidelines
+
+## Optional
+
+- [Governance](https://spdx.dev/about/governance): SPDX governance model, steering committee, and organizational structure details
+- [Legal Notices](https://spdx.dev/about/legal-notices): Legal notices, trademarks, and licensing information for SPDX specification

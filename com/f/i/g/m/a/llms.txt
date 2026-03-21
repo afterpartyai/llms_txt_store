@@ -1,63 +1,61 @@
 # Figma
 
-> > Figma is a collaborative design platform offering AI-powered tools like Figma Make, Figma Sites, and Dev Mode for design, prototyping, and no-code application development.
+> Figma is a collaborative, cloud-based design platform that unifies design, prototyping, development, and team collaboration with AI-powered features and integrations for modern product teams.
 
-Figma provides a comprehensive suite of design and development tools including Figma Design for interface creation, FigJam for collaborative whiteboarding, Dev Mode for design-to-code workflows, and AI-powered features like Figma Make for no-code app building. The platform serves teams at companies like SAP, King (Candy Crush), and Doctor Anywhere.
+Figma offers a comprehensive suite of tools including Design, Dev Mode, FigJam, Slides, Draw, Buzz, Sites, and Make, enabling teams to design, prototype, and build products collaboratively. The platform integrates with developer tools like VS Code and Cursor through MCP (Model Context Protocol) servers, bridging the gap between design and development workflows.
 
 ## Key Topics
 
-- Figma Make - AI-powered no-code app builder
-- Figma Sites - Website creation and publishing
-- FigJam - Collaborative whiteboarding tool
-- Dev Mode - Design-to-code developer workflows
-- Design systems - Component libraries and collaboration
-- Natural language prompts - AI-driven design generation
-- Design-to-code - Automated code generation
-- Product development - PRD and spec creation
-- Dashboard generators - AI-powered data visualization
-- No-code development - Build apps without coding
-- Design collaboration - Real-time team workflows
-- Prototyping - Interactive design testing
-- AI website builders - Automated site creation
-- Customer stories - Enterprise case studies
+- Design collaboration
+- Dev Mode
+- Design systems
+- Prototyping
+- AI-powered design
+- FigJam whiteboarding
+- Design-to-code workflow
+- Component management
+- Interactive design
+- Website builder
+- Team collaboration
+- Responsive design
+- Design tokens
+- Developer tools
+- MCP integration
 
-## AI-Powered Tools & Features
+## Core Products
 
-- [Figma AI: Your Creativity, unblocked with Figma AI](https://www.figma.com/ai): Main landing page for Figma AI tools including Make, Sites, and Code Layers
-- [AI PRD Generator: Write Better Product Requirements with AI](https://www.figma.com/solutions/ai-prd-generator): AI-powered product requirements document generator in Figma Make
-- [AI Feature Spec Generator](https://www.figma.com/solutions/ai-feature-spec-generator): Generate structured feature specs with AI using Figma Make prompts
-- [AI Sales Dashboard Generator](https://www.figma.com/solutions/ai-sales-dashboard-generator): AI-powered sales dashboard builder using Figma Make with natural language
-- [AI Fleet Management Dashboard Generator](https://www.figma.com/solutions/ai-fleet-management-dashboard-generator): Real-time fleet dashboard generator with AI prompts in Figma Make
+- [Figma: The Collaborative Interface Design Tool](https://www.figma.com): Figma homepage showcasing collaborative design platform with Make, Dev Mode, Buzz, and Sites
+- [Figma Design: Free Design Tool for Websites, Product Design & More](https://www.figma.com/design): Core design product featuring vector graphics, real-time collaboration, and comprehensive design tools
+- [Dev Mode: Design-to-Development](https://www.figma.com/dev-mode): Design-to-code workflow enabling seamless handoff with VS Code and Cursor integration
+- [Figma Sites: Design, Prototype & Publish Your Next Website](https://www.figma.com/sites): All-in-one website design, prototyping, and publishing platform with built-in CMS
+- [Figma Make: Create with AI-Powered Design Tools](https://www.figma.com/make): AI-powered design generation and web app building for rapid prototyping
+- [Figma AI: Your Creativity, unblocked with Figma AI](https://www.figma.com/ai): AI features across Make, Sites, and design automation for accelerated workflows
+- [FigJam: The Online Collaborative Whiteboard for Teams](https://www.figma.com/figjam): Collaborative whiteboarding platform for brainstorming, diagramming, and team ideation
+- [Figma Slides: Create Presentations & Slides for Every Occasion](https://www.figma.com/slides): AI-powered presentation creation tool for collaborative slide design and storytelling
+- [Figma Draw: Creative Tools for Illustration & Visual Design](https://www.figma.com/draw): Illustration and vector editing tools for creative visual storytelling and design
+- [Figma Buzz: Create & Share On-Brand Assets Instantly](https://www.figma.com/buzz): On-brand asset creation and distribution platform for team consistency
 
-## No-Code App & Website Builders
+## Design & Prototyping Tools
 
-- [AI Project Management App Builder](https://www.figma.com/solutions/ai-project-management-app-builder): Build interactive project management apps without code using Figma Make
-- [AI Contact Manager App Builder](https://www.figma.com/solutions/ai-crm-app-builder): No-code CRM and contact manager app builder using Figma Make AI
-- [Small Business Website Builder: AI-powered creation](https://www.figma.com/solutions/small-business-website-builder): No-code AI website builder for small businesses using Figma Make
-- [AI Photographer Website Builder](https://www.figma.com/solutions/ai-photographer-website-builder): Portfolio and booking page builder for photographers using AI prompts
-- [Figma Make & Sites Gallery](https://www.figma.com/gallery): Community showcase of live projects built with Figma Make and Sites
+- [Design Systems: Online Design System Software For Teams](https://www.figma.com/design-systems): Manage components, tokens, variables, and design systems for enterprise team collaboration
+- [Prototyping: Free Prototyping Tool for Interactive Designs](https://www.figma.com/prototyping): Interactive design, animations, and responsive mockups for product validation
+- [UX Design Tool: Free Online UX Design Tool & Software](https://www.figma.com/ux-design-tool): User experience prototyping with real-time collaboration and design testing
+- [Web Design: Free Online Web Design Tool for Teams](https://www.figma.com/web-design): Responsive website design with Dev Mode integration and design system support
+- [Wireframe Tool: Free Online Wireframe Tool For Teams](https://www.figma.com/wireframe-tool): Collaborative wireframing with templates for rapid visual communication
 
-## Product Solutions & Use Cases
+## FigJam Collaboration
 
-- [Figma for Engineers: Scope & Ship Products Faster](https://www.figma.com/engineers): Engineer-focused landing page for Dev Mode and design-to-code workflows
-- [Design Processes: Develop Design Solutions with FigJam](https://www.figma.com/figjam/design-processes): FigJam for design sprints, user research, and collaborative workflows
+- [FigJam Online Whiteboard: Free Online Whiteboard for Teams](https://www.figma.com/figjam/online-whiteboard): Free team brainstorming and interactive diagramming on collaborative whiteboard
+- [FigJam Agile Workflows: Agile Workflow Tool & Online Scrum Board](https://www.figma.com/figjam/agile-workflows): Sprint planning, stand-ups, and Jira/Asana integrations for agile teams
 
-## Customer Stories & Case Studies
+## Developer Integration & Reference
 
-- [How SAP uses Figma as a global collaboration platform](https://www.figma.com/customers/how-sap-uses-figma-for-collaboration): SAP case study on enterprise design system and global collaboration
-- [How Candy Crush is Created in Figma](https://www.figma.com/customers/how-king-brings-game-design-together): Case study: King uses Figma across six studios for Candy Crush design
-- [Designing healthcare experiences 30% faster with Figma](https://www.figma.com/customers/doctor-anywhere-designing-healthcare-experiences-faster): Doctor Anywhere achieves 30% efficiency boost with Figma design system
-- [Customer Story: Saddle - From Idea to Launch in 2 Weeks](https://www.figma.com/customers/figma-make-helps-saddle-go-from-idea-to-launch-in-2-weeks): Saddle startup launches SaaS MVP in 2 weeks using Figma Make
+- [Figma MCP Catalog](https://www.figma.com/mcp-catalog): MCP server catalog for integrating Figma with VS Code, Cursor, and Claude Code
 
-## Best Practices & Reports
+## Getting Started & Downloads
 
-- [How the best teams build developer tools](https://www.figma.com/reports/build-developer-tools): Report on developer tool workflows at Linear, Atlassian, and VS Code teams
-- [Make your design system work better for everyone](https://www.figma.com/best-practices/tips-and-tricks/make-your-design-system-work-better-for-everyone): DataGuard's tips for cross-functional design system collaboration
-
-## Design Resources
-
-- [Analogous Colors Definition & Examples](https://www.figma.com/dictionary/analogous-colors): Color theory guide on analogous colors with Cadbury and McDonald's examples
+- [Figma Downloads: Web Design App for Desktops & Mobile](https://www.figma.com/downloads): Desktop, mobile, and cross-platform app installations for all devices
 
 ## Optional
 
-- [Figma Sub-processors](https://www.figma.com/sub-processors): GDPR-compliant list of third-party sub-processors including AWS and Agora
+- [Figma Release Notes: Product News & Updates](https://www.figma.com/release-notes): Product updates, AI features, and MCP integration announcements

@@ -1,0 +1,61 @@
+# NumPy
+
+> NumPy is the fundamental package for array computing and scientific computing in Python, providing tools for numerical operations, data analysis, and scientific research.
+
+NumPy serves as the foundation for the scientific Python ecosystem, enabling researchers and data scientists across academia and industry to perform efficient numerical computations. The project is maintained by a global community with institutional support and emphasizes accessibility through comprehensive documentation, tutorials, and educational resources.
+
+## Key Topics
+
+- array computing
+- numerical computing
+- scientific computing
+- Python library
+- open source
+- data analysis
+- API reference
+- installation
+- community contribution
+- ecosystem integration
+- SciPy
+- Pandas
+- C/Fortran backends
+- case studies
+- getting started
+
+## Getting Started
+
+- [NumPy Homepage](https://numpy.org): NumPy homepage showcasing array computing and scientific tools
+- [Installing NumPy](https://numpy.org/install): Installation guide for NumPy with pip, conda, uv, and pixi
+- [Learn NumPy](https://numpy.org/learn): Learning resources including tutorials, Jupyter notebooks, and guides
+- [Get Help](https://numpy.org/gethelp): Support resources including StackOverflow and community forums
+
+## Documentation & Reference
+
+- [NumPy v2.4 Manual](https://numpy.org/doc/stable): Complete NumPy v2.4 API reference and user guide documentation
+- [NumPy Enhancement Proposals (NEPs)](https://numpy.org/neps/roadmap.html): NumPy development roadmap including interoperability and performance goals
+- [Citing NumPy](https://numpy.org/citing-numpy): Citation formats and bibliographic information for NumPy research
+
+## Real-World Applications
+
+- [First Image of a Black Hole](https://numpy.org/case-studies/blackhole-image): Case study on NumPy use in Event Horizon Telescope black hole imaging
+- [Discovery of Gravitational Waves](https://numpy.org/case-studies/gw-discov): Case study on NumPy use in LIGO gravitational wave detection
+- [DeepLabCut 3D Pose Estimation](https://numpy.org/case-studies/deeplabcut-dnn): Case study on NumPy use in DeepLabCut pose estimation and tracking
+- [Cricket Analytics](https://numpy.org/case-studies/cricket-analytics): Case study on NumPy application in Indian Premier League analytics
+
+## Community & Contribution
+
+- [About NumPy](https://numpy.org/about): Project history, governance, steering council, and institutional partners
+- [Community Overview](https://numpy.org/community): Community overview with communication channels and contribution guidelines
+- [Contribute to NumPy](https://numpy.org/contribute): Contribution guide for code, documentation, and issue triaging
+- [News & Announcements](https://numpy.org/news): Release notes, announcements, and fellowship program updates
+
+## Localized Resources
+
+- [NumPy em Português](https://numpy.org/pt): NumPy homepage in Portuguese with overview and key features
+- [NumPy 日本語](https://numpy.org/ja): NumPy homepage in Japanese with overview and key features
+- [NumPy en Español](https://numpy.org/es): NumPy homepage in Spanish with overview and key features
+
+## Optional
+
+- [Code of Conduct](https://numpy.org/code-of-conduct): Community standards and guidelines for professional conduct
+- [User Surveys](https://numpy.org/user-surveys): Community user survey results and feedback from 2020-2021

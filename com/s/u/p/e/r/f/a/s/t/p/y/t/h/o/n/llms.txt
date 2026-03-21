@@ -1,0 +1,31 @@
+# Super Fast Python
+
+> > A comprehensive resource for mastering Python concurrency, parallelism, and asynchronous programming techniques.
+
+Super Fast Python provides in-depth guides and tutorials on Python's threading, multiprocessing, and asyncio modules, along with practical examples for parallel loops and concurrent programming patterns. The site is authored by Leon Marusa and offers complete guides suitable for beginners through intermediate Python developers.
+
+## Key Topics
+
+- Python concurrency
+- threading module
+- multiprocessing module
+- asyncio
+- asynchronous programming
+- thread-based programming
+- process-based parallelism
+- coroutines
+- parallel loops
+- concurrent programming
+- Python Asyncio Jump-Start
+- Python Multiprocessing Jump-Start
+- Python Threading Jump-Start
+
+## Core Concurrency Guides
+
+- [Python Threading: The Complete Guide](https://superfastpython.com/threading-in-python): Complete guide to Python threading module for concurrent programming
+- [Python Multiprocessing: The Complete Guide](https://superfastpython.com/multiprocessing-in-python): Complete guide to Python multiprocessing for process-based parallelism
+- [Python Asyncio: The Complete Guide](https://superfastpython.com/python-asyncio): Complete guide to asyncio module for asynchronous Python programming
+
+## Practical Patterns & Techniques
+
+- [Parallel Loops in Python](https://superfastpython.com/plip-menu): Tutorial and code templates for parallel loops in Python

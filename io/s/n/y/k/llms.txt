@@ -1,0 +1,64 @@
+# Snyk
+
+> Snyk is an AI-driven developer security platform that secures code, dependencies, containers, and infrastructure throughout the software development lifecycle.
+
+Snyk provides comprehensive application security solutions with AI-powered vulnerability detection, automated remediation, and security intelligence. The platform integrates with major development tools and CI/CD pipelines to enable shift-left security practices.
+
+## Key Topics
+
+- AI Security Fabric
+- SAST (Static Application Security Testing)
+- SCA (Software Composition Analysis)
+- Container Security
+- Infrastructure as Code Security
+- DAST (Dynamic Application Security Testing)
+- DevSecOps
+- Vulnerability Management
+- Software Supply Chain Security
+- DeepCode AI
+- Snyk Code
+- Risk-Based Prioritization
+- IDE Integration
+- CI/CD Integration
+- Developer Security Training
+
+## Platform & Core Products
+
+- [Snyk AI Security Platform](https://snyk.io/platform): Main platform covering DevSecOps, vulnerability prevention, and AI governance for secure development
+- [Snyk Homepage](https://snyk.io): Snyk AI Security Fabric for secure code, models, and agents
+- [Snyk Code](https://snyk.io/product/snyk-code): SAST code scanning tool with auto-fix and IDE integration for code security analysis
+- [DeepCode AI](https://snyk.io/platform/deepcode-ai): AI code review and autofix powered by GPT-4 for SAST vulnerability detection
+- [Snyk Studio](https://snyk.io/product/studio): AI development lifecycle platform for preventing vulnerabilities in AI-generated code
+
+## Security Scanning & Management
+
+- [Open Source Security Management](https://snyk.io/product/open-source-security-management): SCA tool for dependency scanning and open source vulnerability management
+- [Container Vulnerability Management](https://snyk.io/product/container-vulnerability-management): Kubernetes and Docker security with vulnerability scanning for container images
+- [Infrastructure as Code Security](https://snyk.io/product/infrastructure-as-code-security): IaC security scanning for Terraform, CloudFormation, and Kubernetes configurations
+- [DAST Tool](https://snyk.io/product/dast-api-web): Dynamic application security testing for API and web application security with AI
+- [Security Intelligence Platform](https://snyk.io/platform/security-intelligence): Industry-leading vulnerability data and threat detection insights with proprietary research
+
+## AI-Driven Workflows & Solutions
+
+- [Snyk AI Workflow](https://snyk.io/platform/workflows): AI-driven SDLC security solutions with Snyk Assist and Agent Fix for automated remediation
+- [Secure AI-Generated Code](https://snyk.io/solutions/secure-ai-generated-code): Solution for securing AI-generated code with SAST scanning and automated auto-fix
+- [Application Security Solutions](https://snyk.io/solutions/application-security): Comprehensive AppSec solution covering code, dependencies, containers, and infrastructure
+- [Software Supply Chain Security](https://snyk.io/solutions/software-supply-chain-security): Supply chain security with SBOM generation, vulnerability management, and shift-left practices
+
+## Integration & Workflow
+
+- [Snyk Integrations](https://snyk.io/integrations): Integration hub for SDLC tools, CI/CD platforms, IDEs, and partner solutions
+
+## Developer Resources & Training
+
+- [Snyk Learn](https://snyk.io/platform/snyk-learn): Developer security training platform covering OWASP Top 10 and secure coding practices
+- [AI Code Checker](https://snyk.io/code-checker): Free AI-powered code checker for vulnerability detection and code analysis
+
+## Vulnerability Management & Prioritization
+
+- [Zero-Day Vulnerability Security](https://snyk.io/solutions/zero-day-vulnerability-security): Zero-day vulnerability detection and remediation using Snyk Vulnerability Database
+- [Risk-Based Prioritization](https://snyk.io/solutions/risk-based-prioritization): Risk-based prioritization using CVSS and EPSS scores for efficient vulnerability remediation
+
+## Pricing & Plans
+
+- [Snyk Plans and Pricing](https://snyk.io/plans): Pricing plans and subscription tiers from free to enterprise with comprehensive feature comparison

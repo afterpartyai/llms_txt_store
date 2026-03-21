@@ -1,0 +1,58 @@
+# Mend.io
+
+> Mend.io is an AI-native application security platform that automates vulnerability detection, remediation, and risk management across proprietary code, open source dependencies, and AI-generated applications.
+
+Mend.io provides comprehensive AppSec solutions including SAST, SCA, DAST, and specialized tools for AI security, dependency management, and supply chain visibility. The platform leverages AI-powered remediation and automation to help development teams reduce technical debt and secure modern applications at scale.
+
+## Key Topics
+
+- Application Security (AppSec)
+- AI Security
+- Vulnerability Detection & Remediation
+- SAST (Static Application Security Testing)
+- SCA (Software Composition Analysis)
+- DAST (Dynamic Application Security Testing)
+- AI-Generated Code Security
+- Open Source Security
+- Dependency Management
+- SBOM (Software Bill of Materials)
+- Prompt Injection Protection
+- AI Red Teaming
+- Security Automation
+- Vulnerability Management
+- Software Supply Chain Security
+
+## Core Platform & Solutions
+
+- [Mend.io - AI Powered Application Security](https://www.mend.io): Mend.io AI-native application security platform for securing AI-generated code.
+- [Mend AI Native AppSec Platform](https://www.mend.io/mend-platform): Mend's AI-native platform automating code fixes and open source risk management.
+- [Mend SCA: End-To-End Open Source Risk Management](https://www.mend.io/sca): Mend SCA tool for managing open source security and compliance risks.
+- [Mend SAST: Secure Your Proprietary Code 10x Faster](https://www.mend.io/sast): Mend SAST for detecting vulnerabilities in proprietary source code.
+- [DAST: Dynamic Application Security Testing](https://www.mend.io/dast): Mend DAST for finding runtime vulnerabilities in web applications.
+- [API Security: Protect APIs from exploitation](https://www.mend.io/api-security): API security solutions to protect applications from exploitation.
+
+## AI Security & Remediation
+
+- [Mend AI: Secure & Manage AI Risks in Your Applications](https://www.mend.io/mend-ai): Mend AI product for AI risk management and governance in applications.
+- [Secure AI powered applications | Mend.io](https://www.mend.io/ai-powered-application-security): Securing AI-driven applications with visibility and threat simulation.
+- [Secure AI generated code](https://www.mend.io/ai-generated-code-security): Real-time scanning and fixing of AI-generated code vulnerabilities.
+- [Automate AI Red Teaming: Proactive Conversational AI Security](https://www.mend.io/ai-red-teaming): Automated AI red teaming for conversational AI security testing.
+- [System Prompt Hardening: Secure AI Logic | Mend.io](https://www.mend.io/system-prompt-hardening): System prompt hardening to protect AI applications from injection.
+- [AI Based Remediation Workflows | Mend.io](https://www.mend.io/ai-based-remediation): AI-powered remediation for SAST and SCA vulnerabilities.
+
+## Dependency & Lifecycle Management
+
+- [Mend Renovate Enterprise Edition](https://www.mend.io/mend-renovate): Mend Renovate automates dependency updates to reduce technical debt.
+- [EOL Support: Maintain support for critical end-of-life software](https://www.mend.io/eol-support): Never-ending support for end-of-life software packages and compliance.
+- [Generate Accurate SBOMs Automatically - Mend.io](https://www.mend.io/sbom): Automated SBOM generation for software supply chain visibility.
+
+## Code Scanning & Analysis
+
+- [Continuous Code Scanning with SAST](https://www.mend.io/code-scanning): Continuous SAST code scanning for vulnerability identification.
+- [Repository Scanning - Resolve Security Risks – Mend.io](https://www.mend.io/repo-integration): Repository scanning for early vulnerability detection in development.
+- [Advanced Reachability Analysis – Mend.io](https://www.mend.io/reachability): Reachability analysis to identify real-risk vulnerabilities and prioritize.
+- [Dynamic Testing: Test for risks in running applications](https://www.mend.io/dynamic-testing): Dynamic testing for runtime security risks in running applications.
+
+## Enterprise & Scalability
+
+- [Proactive AppSec Tools That Scale and Adapt - Mend.io](https://www.mend.io/scalability): AppSec platform scalability for enterprise development complexity.

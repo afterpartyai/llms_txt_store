@@ -1,0 +1,55 @@
+# CodeSandbox
+
+> CodeSandbox is a cloud-based development platform providing instant, collaborative coding environments with AI-powered features and secure code execution infrastructure.
+
+CodeSandbox offers cloud development environments, the CodeSandbox SDK for sandboxed code execution, and Sandpack for interactive code editing experiences. The platform supports modern JavaScript frameworks like React, Vue, Next.js, and Vite, with recent integration of Together AI for enhanced AI capabilities.
+
+## Key Topics
+
+- CodeSandbox SDK
+- Cloud Development Environments
+- MicroVM Technology
+- Secure Sandboxing
+- AI Agent Infrastructure
+- Code Execution Platform
+- React & JavaScript Frameworks
+- Devboxes
+- Sandpack Component Toolkit
+- VS Code Integration
+- Live Collaboration
+- No-Setup Coding
+- Docker Support
+- Web Development
+- Together AI
+
+## Getting Started
+
+- [CodeSandbox: Instant Cloud Development Environments](https://codesandbox.io): CodeSandbox cloud platform for instant development, collaboration, and project deployment
+- [Discover all CodeSandbox features](https://codesandbox.io/features): Overview of CodeSandbox features including SDK, microVMs, AI autocomplete, and VS Code
+- [CodeSandbox templates](https://codesandbox.io/templates): Starter project templates for React, Node.js, and various JavaScript frameworks
+- [Code in Sandboxes](https://codesandbox.io/code-in-sandboxes): Cloud sandboxes for web development with React, Vite, Next.js, and Vue frameworks
+- [Learn and Experiment](https://codesandbox.io/learn-and-experiment): Learning platform with Devboxes, code templates, and live collaboration features
+
+## CodeSandbox SDK
+
+- [CodeSandbox SDK](https://codesandbox.io/sdk): CodeSandbox SDK for sandboxed code execution, AI agents, and isolated VMs
+- [CodeSandbox SDK – Documentation](https://codesandbox.io/docs/sdk): SDK documentation with quickstart guide and API integration for code execution
+- [CodeSandbox SDK Use Cases](https://codesandbox.io/use-cases): CodeSandbox SDK use cases for development, code review, prototyping, and AI
+- [Joining Together AI and Introducing CodeSandbox SDK](https://codesandbox.io/blog/joining-together-ai-introducing-codesandbox-sdk): Announcement of Together AI acquisition and CodeSandbox SDK product launch
+
+## Documentation & Integration
+
+- [Overview – CodeSandbox](https://codesandbox.io/docs): Documentation overview covering dev environments, VM sandboxes, and editors
+- [Sandpack: Component toolkit for live-running code editing](https://sandpack.codesandbox.io): Sandpack React component toolkit for live code editing and interactive documentation
+- [Storybook Integration](https://codesandbox.io/docs/learn/integrations/storybook): Integration guide for Storybook addon to open stories as CodeSandbox sandboxes
+
+## Community & Resources
+
+- [Blog - CodeSandbox](https://codesandbox.io/blog): Engineering blog with product announcements, SDK releases, and infrastructure updates
+- [Pricing](https://codesandbox.io/pricing): Pricing plans for CodeSandbox including free tier, pay-as-you-go, and enterprise options
+- [Support](https://codesandbox.io/support): Support hub with FAQs, documentation links, and contact options for CodeSandbox
+
+## Optional
+
+- [Changelog](https://codesandbox.io/changelog): Release notes for CodeSandbox SDK updates, features, and API changes
+- [Service Status](https://status.codesandbox.io): Service status page monitoring CodeSandbox API and platform uptime

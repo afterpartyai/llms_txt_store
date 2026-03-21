@@ -1,0 +1,31 @@
+# OpenEdition Journals
+
+> A scholarly journal platform implementing advanced bot protection and anti-scraping measures using Proof-of-Work challenges and Hashcash verification.
+
+OpenEdition Journals hosts peer-reviewed academic journals across multiple disciplines. The platform uses Anubis-based Proof-of-Work challenges with Hashcash to protect against automated access and web scraping while maintaining legitimate user access.
+
+## Key Topics
+
+- Anubis
+- Hashcash
+- Proof-of-Work
+- Bot Protection
+- Anti-Scraping
+- Challenge Verification
+- JavaScript Challenge
+- Website Security
+- CAPTCHA Alternative
+- Server Security
+- Web Scraping Defense
+- Anti-Spam
+- JShelter
+- Headless Browsers
+
+## Bot Protection & Security
+
+- [Bot Verification Challenge - ABPO Journal](https://journals.openedition.org/abpo/6636?file=1): Bot verification page using Anubis Proof-of-Work challenge with Hashcash
+- [Bot Verification Challenge - ABE Journal (Instance 1)](https://journals.openedition.org/abe/2098?lang=en): Bot verification page using Anubis Proof-of-Work challenge with Hashcash
+- [Bot Verification Challenge - ABE Journal (Instance 2)](https://journals.openedition.org/abe/3021?lang=en): Bot verification page using Anubis Proof-of-Work challenge with Hashcash
+- [Bot Verification Challenge - ABE Journal (Instance 3)](https://journals.openedition.org/abe/4545?lang=en): Bot verification page using Anubis Proof-of-Work challenge with Hashcash
+- [Bot Verification Challenge - ABE Journal (Instance 4)](https://journals.openedition.org/abe/7652?lang=en): Bot verification page using Anubis Proof-of-Work challenge with Hashcash
+- [Bot Verification Challenge - AAA Journal](https://journals.openedition.org/aaa/4061?lang=en): Bot verification page using Anubis Proof-of-Work challenge with Hashcash

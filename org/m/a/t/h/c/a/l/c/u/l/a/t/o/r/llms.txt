@@ -1,0 +1,22 @@
+# Math Calculator
+
+> A REST API service for mathematical calculations with JSON responses and LaTeX notation support.
+
+Math Calculator provides developers with a simple, unauthenticated REST API for performing mathematical operations. The service supports standard HTTP methods (GET/POST), CORS-enabled requests, and returns results in both JSON and LaTeX formats.
+
+## Key Topics
+
+- REST API
+- JSON responses
+- LaTeX notation
+- HTTP methods (GET/POST)
+- CORS support
+- No authentication required
+- Rate limiting
+- Math Calculator API
+- API documentation
+- Quick start guide
+
+## API Reference
+
+- [API Documentation](https://mathcalculator.org/api-docs): Complete REST API documentation for Math Calculator with JSON responses and LaTeX notation support.

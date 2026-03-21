@@ -1,48 +1,50 @@
 # imagy.app
 
-> > A free, browser-based image editing suite offering compression, conversion, cropping, resizing, and metadata analysis without requiring uploads or installation.
+> > A comprehensive suite of free, browser-based image tools for compression, conversion, cropping, resizing, and metadata analysis without software installation.
 
-imagy.app provides essential image manipulation tools entirely in the browser, supporting multiple formats including PNG, JPG, WebP, GIF, BMP, TIFF, RAW, and more. Built with privacy-first principles and WebAssembly technology, the platform enables batch processing and quick edits for photographers, designers, and content creators.
+imagy.app offers a collection of lightweight, privacy-focused online utilities for common image manipulation tasks. All tools work directly in the browser and support modern formats including PNG, WebP, AVIF, JPEG, GIF, and RAW files, with batch processing capabilities for efficient workflow.
 
 ## Key Topics
 
 - Image compression
 - Format conversion
-- Image resizing
-- Crop and split
-- Aspect ratio
-- EXIF metadata
-- Browser-based
 - Batch processing
-- PNG, JPG, WebP
+- Browser-based tools
+- PNG, JPEG, WebP, AVIF
+- Image resizing
+- Aspect ratio
+- Metadata (EXIF)
+- Crop and split
 - Privacy-focused
 - Free online tools
-- No upload required
-- WebAssembly
 - Social media optimization
-- Image dimensions
+- GIF support
+- RAW image support
 
 ## Core Image Tools
 
-- [Free Online Image Compressor](https://imagy.app/image-compressor): Reduce file size for JPEG, PNG, and WebP images while preserving quality
-- [Free Online Image Converter](https://imagy.app/image-converter): Convert between all major image formats including JPEG, PNG, WebP, GIF, BMP, and more
-- [Image Resizer](https://imagy.app/image-resizer): Resize images to custom dimensions supporting JPG, PNG, TIFF, and RAW formats
-- [Crop Your Images Online](https://imagy.app/crop-image-online): Free image cropping tool with batch processing for JPG, PNG, and WebP
-- [Split Your Image Online](https://imagy.app/split-image): Split images vertically, horizontally, or into grids for social media and design projects
+- [Image Compressor](https://imagy.app/image-compressor): Free online image compressor supporting JPEG, PNG, WebP, AVIF formats with batch processing.
+- [Image Converter](https://imagy.app/image-converter): Free browser-based image format converter for JPEG, PNG, WebP, GIF, BMP and more.
+- [Image Resizer](https://imagy.app/image-resizer): Free online image resizer supporting JPG, PNG, TIFF, RAW with batch resize and custom dimensions.
+- [Crop Image Online](https://imagy.app/crop-image-online): Free online image cropper with batch processing, aspect ratio, and animated GIF support.
 
-## Image Analysis & Adjustment
+## Image Optimization & Adjustment
 
-- [Image Aspect Ratio Changer](https://imagy.app/image-aspect-ratio-changer): Adjust aspect ratios for JPEG, PNG, and WebP with social media optimization presets
-- [EXIF Data Viewer](https://imagy.app/exif-data-viewer): View and analyze image metadata including GPS location, camera settings, and EXIF data
-- [Image Size Finder](https://imagy.app/image-size-finder): Check image dimensions, width, height, and file size across multiple formats
-- [Aspect Ratio Calculator](https://imagy.app/aspect-ratio-calculator): Calculate aspect ratios for images and videos with standard preset dimensions
+- [Image Aspect Ratio Changer](https://imagy.app/image-aspect-ratio-changer): Free aspect ratio adjuster for JPEG, PNG, WebP with social media optimization presets.
+- [Split Image](https://imagy.app/split-image): Free image splitter for vertical/horizontal cuts with Instagram tiles and grid support.
+- [Aspect Ratio Calculator](https://imagy.app/aspect-ratio-calculator): Free aspect ratio calculator for images and videos with common presets (16:9, 1:1, 4:3).
 
-## About & Resources
+## Image Analysis & Metadata
 
-- [imagy.app Homepage](https://imagy.app): Free browser-based image tools for compression, conversion, cropping, and resizing
-- [About imagy](https://imagy.app/about-us): Learn about imagy's mission, team members Moritz and Casey, and open-source commitments
-- [Blog](https://imagy.app/blog): Design tutorials and guides for graphic design software and image editing techniques
+- [EXIF Data Viewer](https://imagy.app/exif-data-viewer): Free EXIF metadata viewer showing GPS location, camera settings, and image properties.
+- [Image Size Finder](https://imagy.app/image-size-finder): Free image dimension and file size checker supporting JPG, PNG, TIFF, RAW formats.
 
-## Legal & Privacy
+## Information & Resources
 
-- [Privacy Policy](https://imagy.app/privacy-policy): Privacy policy with GDPR and CCPA compliance details and data protection information
+- [Homepage](https://imagy.app): imagy.app homepage: free browser-based image tools for compression, conversion, cropping, and resizing.
+- [Blog](https://imagy.app/blog): Blog archive featuring design tutorials for Inkscape, Canva, and Adobe Illustrator.
+- [About imagy](https://imagy.app/about-us): About imagy: company mission, team members, and open-source attribution information.
+
+## Optional
+
+- [Privacy Policy](https://imagy.app/privacy-policy): Privacy policy covering GDPR, CCPA compliance, data collection, and user rights.

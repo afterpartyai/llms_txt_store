@@ -1,57 +1,59 @@
 # TutorialsPoint
 
-> TutorialsPoint is a comprehensive learning platform offering 3500+ coding problems, tutorials, and practice tools across programming languages, data science, DevOps, and enterprise technologies.
+> TutorialsPoint is a comprehensive learning platform offering 3500+ coding problems, tutorials, and online development tools across programming languages, frameworks, and technologies.
 
-TutorialsPoint provides beginner-to-advanced tutorials, interactive coding environments, and developer tools covering the full spectrum of modern software development. The platform serves as both a learning resource and a practical development utility hub.
+TutorialsPoint provides beginner-to-advanced tutorials, DSA practice, coding challenges, and online compilers for learners across web development, machine learning, data science, DevOps, and enterprise technologies. The platform combines interactive learning with practical development tools.
 
 ## Key Topics
 
 - Python
 - Java
+- Web Development
 - Machine Learning
 - Data Science
-- Web Development
 - DevOps
 - Docker
 - Kubernetes
-- Database Systems
-- Big Data
-- Mobile Development
-- Cloud Computing
-- Coding Practice
-- Data Structures & Algorithms
-- Software Testing
+- Jenkins
+- Hadoop
+- MongoDB
+- MySQL
+- Django
+- Flask
+- Spring
 
-## Core Learning & Practice
+## Learning & Practice
 
-- [TutorialsPoint Homepage](https://www.tutorialspoint.com): Main platform hub with 3500+ coding problems, DSA tutorials, and comprehensive practice platform
-- [Online Coding Environment](https://www.tutorialspoint.com/codingground.htm): Free online compilers and editors for C, C++, Java, Python, JavaScript, PHP and other languages
-- [Technical Articles & Resources](https://www.tutorialspoint.com/articles/index.php): Index of technical articles covering Python, Java, JavaScript, PHP with practical examples
+- [Coding Practice Problems & Tutorials](https://www.tutorialspoint.com): TutorialsPoint homepage: 3500+ coding problems, DSA practice, algorithms
+- [Technical Articles & Resources](https://www.tutorialspoint.com/articles/index.php): Technical articles directory covering Python, Java, JavaScript, PHP
+
+## Development Tools & Environments
+
+- [Online Programming Compilers and Editors](https://www.tutorialspoint.com/codingground.htm): Online compilers/IDEs for C, C++, Java, Python, JavaScript, PHP
+- [Software Development & Testing Tools](https://www.tutorialspoint.com/online_dev_tools.htm): Developer tools: formatters, minifiers, JSON tools, security utilities
 
 ## Programming Languages & Frameworks
 
-- [Python Technologies Tutorials](https://www.tutorialspoint.com/python_technologies_tutorials.htm): Python ecosystem tutorials including AI, Beautiful Soup, Behave, data science, and machine learning
-- [Java Technologies Tutorials](https://www.tutorialspoint.com/java_technology_tutorials.htm): Comprehensive Java tutorials covering Apache Ant, ActiveMQ, POI, AWT, and 99+ frameworks
-- [Web Development Tutorials](https://www.tutorialspoint.com/web_development_tutorials.htm): Full-stack web development tutorials including Angular, Ajax, AWS, and modern frontend/backend technologies
-- [Microsoft Technologies Tutorials](https://www.tutorialspoint.com/microsoft_technologies_tutorials.htm): Microsoft ecosystem tutorials covering ASP.Net Core, ASP.Net MVC, Excel, and cloud computing
-- [Mobile Development Tutorials](https://www.tutorialspoint.com/mobile_development_tutorials.htm): Mobile app development tutorials for Android, Flutter, Cordova, and cross-platform frameworks
+- [Python Technologies Tutorials](https://www.tutorialspoint.com/python_technologies_tutorials.htm): Python tutorials: AI, Beautiful Soup, Behave, frameworks, libraries
+- [Java Technologies Tutorials](https://www.tutorialspoint.com/java_technology_tutorials.htm): Java tutorials: Apache Ant, ActiveMQ, NiFi, POI frameworks/tools
+- [Web Development Tutorials](https://www.tutorialspoint.com/web_development_tutorials.htm): Web development tutorials: frontend, backend, Ajax, AWS technologies
 
-## Data, AI & Analytics
+## Data & Infrastructure Technologies
 
-- [Machine Learning Tutorials](https://www.tutorialspoint.com/machine_learning_tutorials.htm): ML and AI tutorials covering deep learning, Apache MXNet, ChatGPT, Claude AI, and generative AI
-- [Big Data & Analytics Tutorials](https://www.tutorialspoint.com/big_data_tutorials.htm): Big data processing tutorials including Hadoop, Kafka, Flume, Pig, Solr, and analytics tools
-- [Database Tutorials](https://www.tutorialspoint.com/database_tutorials.htm): Database tutorials covering SQL, NoSQL, Amazon RDS, ArangoDB, Apache Presto, and Derby
-- [Computer Science Tutorials](https://www.tutorialspoint.com/computer_science_tutorials.htm): Foundational computer science catalog including Python, Django, Flask, data science, DevOps, and ML
+- [Databases Tutorials](https://www.tutorialspoint.com/database_tutorials.htm): Database tutorials: SQL, NoSQL, RDS, Derby, ArangoDB, Presto
+- [Big Data & Analytics Tutorials](https://www.tutorialspoint.com/big_data_tutorials.htm): Big Data tutorials: Hadoop, Kafka, Flume, Pig, Solr analytics
+- [DevOps Tutorials](https://www.tutorialspoint.com/devops_tutorials.htm): DevOps tutorials: Ansible, Chef, Consul, CI/CD, containerization
 
-## DevOps & Infrastructure
+## Advanced Topics
 
-- [DevOps Tutorials](https://www.tutorialspoint.com/devops_tutorials.htm): DevOps tutorials covering Ansible, Chef, Consul, CI/CD pipelines, configuration management, and containers
+- [Machine Learning Tutorials](https://www.tutorialspoint.com/machine_learning_tutorials.htm): ML tutorials: deep learning, frameworks, generative AI, Python
+- [Software Quality Tutorials](https://www.tutorialspoint.com/software_quality_tutorials.htm): QA tutorials: testing, automation, Agile, security, CI tools
 
-## Developer Tools & Utilities
+## Enterprise & Specialized Technologies
 
-- [Software Development & Testing Tools](https://www.tutorialspoint.com/online_dev_tools.htm): Developer utilities including code formatters, minifiers, JSON tools, network and security tools
+- [Microsoft Technologies Tutorials](https://www.tutorialspoint.com/microsoft_technologies_tutorials.htm): Microsoft tech tutorials: ASP.Net, Azure, SQL Server, Excel
+- [Computer Science Fundamentals](https://www.tutorialspoint.com/computer_science_tutorials.htm): CS fundamentals, Python, Django, Flask, web dev, ML, DevOps
 
-## Optional
+## Optional Resources
 
-- [Software Quality Tutorials](https://www.tutorialspoint.com/software_quality_tutorials.htm): QA and testing tutorials covering Agile testing, Bugzilla, mockups, and testing frameworks
-- [Digital Marketing Tutorials](https://www.tutorialspoint.com/digital_marketing_tutorials.htm): Digital marketing tutorials including SEO, social media, Google Tag Manager, and Amazon Marketplace
+- [Digital Marketing Tutorials](https://www.tutorialspoint.com/digital_marketing_tutorials.htm): Digital marketing: SEO, social media, Google Tag Manager, analytics

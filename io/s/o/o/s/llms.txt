@@ -1,0 +1,41 @@
+# SOOS
+
+> SOOS is an Application Security Posture Management platform providing comprehensive vulnerability scanning, compliance integration, and CI/CD pipeline automation.
+
+SOOS offers integrated security scanning capabilities including SCA, SAST, DAST, and container scanning with seamless CI/CD integrations for GitHub and other platforms. The platform enables teams to manage security posture, track vulnerabilities, and automate compliance workflows through third-party integrations like Vanta.
+
+## Key Topics
+
+- Application Security Posture Management
+- CI/CD Integrations
+- SCA Scanning
+- DAST Scanning
+- SAST Scanning
+- Container Scanning
+- GitHub Integration
+- SBOM Manager
+- Vanta Integration
+- Security Scanning
+- Vulnerability Management
+- Compliance Automation
+- Pipeline Configuration
+- Issue Management
+- Notification Integrations
+
+## Getting Started
+
+- [Getting Started with SOOS](https://kb.soos.io/help): Getting started guide covering SOOS scanning tools and integrations
+
+## CI/CD & Deployment Integrations
+
+- [CI/CD Integrations](https://kb.soos.io/ci-cd-integrations): Guide to integrating SOOS security scanning with CI/CD pipelines and GitHub
+- [GitHub Integration](https://kb.soos.io/github-integration): Setup guide for GitHub integration with SOOS SCA and DAST scanning
+
+## Notifications & Issue Management
+
+- [Notification Integrations](https://kb.soos.io/notification-integrations): Configure alerting and notification integrations for SOOS platform
+- [Issue Management Integrations](https://kb.soos.io/issue-management-integration): Integrate SOOS with GitHub and Vanta for issue management
+
+## Compliance & Posture Management
+
+- [Vanta Integration](https://kb.soos.io/vanta): Vanta integration for SOOS compliance and security posture management

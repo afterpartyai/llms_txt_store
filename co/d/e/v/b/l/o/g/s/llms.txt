@@ -1,0 +1,59 @@
+# devblogs.co
+
+> > A curated aggregator of engineering blogs from top tech companies, providing real-time access to technical insights on AI, infrastructure, and distributed systems.
+
+devblogs.co serves as a central hub for discovering high-quality engineering content from companies like Airbnb, Slack, Pinterest, and Dropbox. The platform indexes both company engineering blogs and independent technical writers, with a focus on AI agents, observability, and modern infrastructure practices.
+
+## Key Topics
+
+- AI Agents
+- LLM Integration
+- MCP Ecosystem
+- Observability
+- Incident Management
+- Notifications Systems
+- Distributed Systems
+- Python Tools
+- Machine Learning
+- Infrastructure
+- On-Call Management
+- Case Studies
+- Best Practices
+
+## Core Platform
+
+- [Feed](https://devblogs.co/feed): Real-time feed of engineering content from top tech companies and indie blogs
+- [Library](https://devblogs.co/library): Directory of engineering blogs from Airbnb, Slack, OpenAI, and other tech leaders
+
+## AI Agents & LLM Systems
+
+- [Building an MCP Ecosystem at Pinterest](https://devblogs.co/posts/building-an-mcp-ecosystem-at-pinterest): Production architecture for Model Context Protocol with AI agents and governance
+- [From firefighting to building: How AI agents restored our team's core productivity](https://devblogs.co/posts/from-firefighting-to-building-how-ai-agents-restored-our-teams-core-productivity): Multi-agent AI system deployment for data warehouse team productivity gains
+- [How we optimized Dash's relevance judge with DSPy](https://devblogs.co/posts/how-we-optimized-dashs-relevance-judge-with-dspy): DSPy-based optimization of LLM relevance judge for search quality improvement
+- [Thoughts on OpenAI acquiring Astral and uv/ruff/ty](https://devblogs.co/posts/thoughts-on-openai-acquiring-astral-and-uvruffty): Commentary on OpenAI's acquisition of Astral and Python tooling integration
+
+## Infrastructure & Observability
+
+- [From vendors to vanguard: Airbnb's hard-won lessons in observability ownership](https://devblogs.co/posts/from-vendors-to-vanguard-airbnbs-hard-won-lessons-in-observability-ownership): Migration from vendor to Prometheus-based observability platform with AI tooling
+- [How Slack Rebuilt Notifications](https://devblogs.co/posts/how-slack-rebuilt-notifications): Case study: Slack's unified notification system redesign across platforms
+- [How to migrate your paging tool without breaking your team](https://devblogs.co/posts/how-to-migrate-your-paging-tool-without-breaking-your-team): Framework for migrating on-call systems with change management and team coordination
+
+## Featured Engineering Blogs
+
+- [Slack engineering blog](https://devblogs.co/library/slack): Slack's engineering articles on notifications, security, and distributed systems
+- [Pinterest engineering blog](https://devblogs.co/library/pinterest): Pinterest's articles on AI agents, MCP ecosystem, and LLM integration
+- [Airbnb engineering blog](https://devblogs.co/library/airbnb): Airbnb's engineering articles on observability, monitoring, and infrastructure
+- [Dropbox engineering blog](https://devblogs.co/library/dropbox): Dropbox's content on LLM optimization, search relevance, and machine learning
+- [Grab engineering blog](https://devblogs.co/library/grab): Grab's engineering content on AI agents, optimization, and distributed systems
+- [Incident.io engineering blog](https://devblogs.co/library/incidentio): Incident.io's curated articles on incident management, infrastructure, and DevOps
+
+## Independent Technical Writers
+
+- [Simon Willison's Weblog](https://devblogs.co/library/simonwillison): Simon Willison's coverage of AI, Python tools, and OpenAI acquisition of Astral
+
+## Optional
+
+- [LogRocket engineering blog](https://devblogs.co/library/logrocket): LogRocket's coverage of AI engineering, hiring, and LLM applications
+- [The Replay (3/18/26): Hiring in the AI era, coding isn't dead, and more](https://devblogs.co/posts/the-replay-31826-hiring-in-the-ai-era-coding-isnt-dead-and-more): Curated roundup on AI hiring, RAG systems, and AI agents for engineering leaders
+- [Internals for Interns blog](https://devblogs.co/library/internals-for-interns): Educational deep dives into software internals, filesystems, and runtime systems
+- [NTFS](https://devblogs.co/posts/ntfs): Technical walkthrough of NTFS internals: MFT, journaling, and compression design

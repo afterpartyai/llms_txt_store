@@ -1,57 +1,46 @@
-# HAL - Open Science Archive
+# HAL - Archive Ouverte
 
-> > HAL is France's national multidisciplinary open archive for research publications, operated by CCSD and CNRS with FAIR principles and OAI-PMH interoperability.
+> HAL is a multidisciplinary open-access research repository operated by CNRS and CCSD for archiving and sharing scientific publications, theses, and media across all disciplines.
 
-HAL (Hyper Articles en Ligne) provides researchers with tools for self-archiving publications, managing academic profiles with ORCID integration, and accessing specialized services like TEL for theses, auréHAL for institutional listings, and dataHAL APIs. The platform supports interoperability with arXiv, DOI, ROR, and maintains CoreTrustSeal certification for trusted digital preservation.
+HAL (Hyper Articles en Ligne) is France's primary open science infrastructure, providing free access to research outputs including peer-reviewed articles, dissertations, and multimedia content. The platform supports self-archiving and institutional repositories while maintaining accessibility standards and compliance with French and European regulations.
 
 ## Key Topics
 
-- HAL - National open archive platform
-- CCSD - Centre for Direct Scientific Communication
-- CNRS - French National Centre for Scientific Research
-- ORCID - Researcher identifier integration
-- OAI-PMH - Open Archives Initiative Protocol
-- arXiv - Preprint server integration
-- TEL - Theses repository
-- Episciences - Overlay journal platform
-- FAIR principles - Findable, Accessible, Interoperable, Reusable
-- CoreTrustSeal - Repository certification
-- Self-archiving - Open access deposit
-- ROR - Research Organization Registry
-- idHAL - Author identifier system
-- Open science - Research transparency movement
-- Institutional repositories - Organization-specific collections
+- Open Science
+- Open Access
+- Research Repository
+- Self-Archiving
+- Academic Archive
+- Multidisciplinary
+- Publication Platform
+- Thesis Repository
+- Scientific Papers
+- Institutional Repository
+- Research Infrastructure
+- CCSD
+- CNRS
+- Web Accessibility
+- ORCID
 
-## Core Platform
+## Main Repositories
 
-- [Home - Archive ouverte HAL](https://hal.science): Homepage for HAL open archive: upload, share research with ORCID integration
-- [About HAL](https://about.hal.science): About HAL French national archive by CCSD/CNRS with CoreTrustSeal cert
-- [About HAL - About HAL](https://about.hal.science/en): About HAL multidisciplinary open archive operated by CCSD and CNRS
-- [Principles - About HAL](https://about.hal.science/en/principles): HAL principles: open access, FAIR standards, OAI-PMH, OAIS preservation
-- [Services - About HAL](https://about.hal.science/en/services): HAL services: auréHAL listings, Monitor analytics, dataHAL triplestore APIs
-- [Home - TEL - Thèses en ligne](https://theses.hal.science): TEL: HAL environment for PhD theses and HDR self-archiving with OAI-PMH
+- [HAL Home](https://hal.science): HAL open science research repository by CNRS and CCSD
+- [HAL-SHS](https://shs.hal.science): HAL-SHS humanities and social sciences specialized repository
+- [TEL - Theses en Ligne](https://theses.hal.science): HAL Theses repository for PhD and HDR dissertations
+- [MédiHAL](https://media.hal.science): MédiHAL scientific images and media repository
 
-## Documentation
+## Discovery & Access
 
-- [Documentation](https://doc.hal.science): HAL documentation homepage for researchers and repository administrators
-- [idHAL and CV - Documentation](https://doc.hal.science/en/idhal-and-cv): Guide to idHAL unique author identifier and CV creation with ORCID integration
-- [Legal aspects - Documentation](https://doc.hal.science/en/legal-aspects): Legal guide: copyright, self-archiving, publisher policies via Sherpa/Romeo
-- [Submitting a preprint to a publishing or a peer-review service - Documentation](https://doc.hal.science/en/deposit/submitting-preprint-to-publishing-service): Guide for submitting preprints to Episciences journals via HAL platform
-- [Arxiv transfert - Documentation](https://doc.hal.science/en/arxiv-transfer): Guide for transferring HAL deposits to arXiv with LaTeX requirements
+- [Search & Browse Portal](https://hal.science/browse/portal): HAL search and browse portal for research documents
+- [HAL Monitor](https://monitor.hal.science): Real-time monitoring dashboard for HAL collection analytics
 
-## Interoperability and APIs
+## About & Information
 
-- [Interoperability and data dissemination - About HAL](https://about.hal.science/en/interoperability-dissemination): HAL interoperability: APIs, OAI-PMH, PIDs (DOI, ORCID, ROR), arXiv integration
+- [About HAL](https://about.hal.science): Information about HAL multidisciplinary open-access archive
 
-## Optional Collections and Conferences
+## Optional - Legal & Compliance
 
-- [Home - International Network for Didactic Research in University Mathematics](https://hal.science/INDRUM): INDRUM network for university mathematics education research and conferences
-- [Home - 30ème conférence francophone sur l'Interaction Homme-Machine](https://hal.science/IHM-2018): IHM 2018 French conference collection on human-computer interaction
-- [Home - Phylogenetics in the Genomic Era](https://hal.science/PGE): Open access book on phylogenetics/genomics with CC BY-NC-ND 4.0 license
-- [Home - Artificial Intelligence Applications and Innovations](https://hal.science/IFIP-AICT-584): IFIP AICT-584 conference proceedings on AI applications and deep learning
-- [Home - ERME Topic Conference ETC3 on Mathematics Teaching, Resources and Teacher Professional Development](https://hal.science/ETC3): ETC3 conference proceedings on mathematics teacher education and pedagogy
-- [About - ERME Topic Conference ETC3 on Mathematics Teaching, Resources and Teacher Professional Development](https://hal.science/ETC3/page/about): ETC3 2016 conference info: mathematics teaching at Humboldt-Universität Berlin
-- [Home - CRAN - Identification, Restauration, Images et Signaux](https://hal.science/CRAN-IRIS): CRAN-IRIS collection: system identification and signal processing research
-- [Home - ARTIS](https://hal.science/LJK_GI_ARTIS): ARTIS research group collection at LJK laboratory with 112 fulltexts
-- [Home - SAMPling Theory and Applications](https://hal.science/SAMPTA09): SAMPTA'09 conference proceedings on sampling theory and compressed sensing
-- [Home - Workshops safecomp 2013](https://hal.science/SAFECOMP2013): SAFECOMP 2013 workshops on safety-critical and embedded systems
+- [Privacy Policy](https://about.hal.science/privacy-policy): HAL privacy policy and personal data protection statement
+- [Web Accessibility](https://about.hal.science/web-accessibility): HAL web accessibility statement and WCAG compliance
+- [RGAA Compliance](https://about.hal.science/RGAA-compliance): HAL RGAA 3.0 accessibility compliance declaration
+- [Legal Notice](https://about.hal.science/legal-notice): HAL legal notice and terms by CCSD and CNRS

@@ -1,40 +1,56 @@
-# Open Computing Facility (OCF)
+# Open Computing Facility at UC Berkeley
 
-> > UC Berkeley's student-run computing organization providing free hosting, mirrors, and lab services
+> OCF is a student-run organization providing free computing services to the UC Berkeley community, including lab access, web hosting, email, HPC resources, and shell accounts.
 
-The Open Computing Facility is a student-run organization at UC Berkeley offering free computing resources including web hosting, shell accounts, mirror servers for Linux distributions and open-source software, and physical computer lab access. OCF maintains infrastructure supporting the campus community with services like Jenkins CI/CD, collaborative documentation, and system status monitoring.
+The Open Computing Facility operates as a volunteer-driven student organization at UC Berkeley, offering essential computing infrastructure and support services. OCF maintains diverse resources including physical computer labs, virtual hosting platforms, high-performance computing capabilities, and software mirrors, all managed through open-source technologies like Linux and Kubernetes.
 
 ## Key Topics
 
 - Open Computing Facility (OCF)
 - UC Berkeley
-- Student computing services
-- Linux distributions
-- Mirror server
-- Open-source software
-- Debian
-- AlmaLinux
-- Arch Linux
-- Jenkins CI/CD
-- Lab services
-- Web hosting
-- Documentation
-- Package mirrors
-- Continuous integration
+- student-organization
+- computing-services
+- web-hosting
+- shell-accounts
+- computer-lab
+- Linux
+- Kubernetes
+- email-hosting
+- HPC (high-performance computing)
+- open-source
+- service-status
+- CalNet authentication
+- OCF Software Mirror
 
-## Documentation & Resources
+## Getting Started
 
-- [Documentation – Open Computing Facility](https://wiki.ocf.berkeley.edu/): OCF documentation hub for UC Berkeley student computing and lab services
+- [Open Computing Facility at UC Berkeley](https://www.ocf.berkeley.edu): OCF homepage: student-run free computing services at UC Berkeley
+- [Services](https://www.ocf.berkeley.edu/docs/services): Overview of OCF services: lab access, hosting, HPC, email
+- [Computer Lab](https://www.ocf.berkeley.edu/docs/services/lab): OCF computer lab details: hours, location, workstations, software
+- [Lab Statistics](https://www.ocf.berkeley.edu/stats): Real-time lab statistics: desktop utilization, printer status
 
-## Core Services
+## Account & Access
 
-- [OCF Mirrors](https://mirrors.ocf.berkeley.edu/): OCF mirror server hosting Linux distros and open-source software packages
-- [HedgeDoc - Collaborative markdown notes](https://notes.ocf.berkeley.edu/): HedgeDoc collaborative markdown editor for real-time note-taking at OCF
+- [OCF Login](https://www.ocf.berkeley.edu/account/vhost/mail): OCF user login portal for account and service access
+- [CAS - CalNet Authentication Service Login](https://www.ocf.berkeley.edu/account/password): CalNet authentication and password reset portal for OCF
+- [Staff Hours](https://www.ocf.berkeley.edu/staff-hours): OCF staff office hours and drop-in support schedule
 
-## System Status & Monitoring
+## Service Status & Announcements
 
-- [Open Computing Facility Status](https://status.ocf.berkeley.edu/): OCF service status page tracking outages and infrastructure maintenance
+- [Open Computing Facility Status](https://status.ocf.berkeley.edu): OCF service status page: incidents, outages, maintenance
+- [News from the Staff Team](https://www.ocf.berkeley.edu/announcements): OCF announcements, service status updates, and staff news
+- [Planned Outage: All OCF Services, August 14](https://status.ocf.berkeley.edu/2024/08/planned-outage-all-ocf-services-august.html): Outage notice for all OCF services on August 14
+- [Planned Outage: OCF Mirrors, Aug. 11](https://status.ocf.berkeley.edu/2024/08/planned-outage-ocf-mirrors.html): Outage notice for OCF Mirrors maintenance on August 11
+
+## Organization & Leadership
+
+- [Officers](https://www.ocf.berkeley.edu/docs/about/officers): OCF leadership: board of directors and current officers
+- [Join the Staff Team](https://www.ocf.berkeley.edu/about/staff): Staff recruitment page for OCF volunteer positions
+
+## Infrastructure & Technical Reference
+
+- [Servers](https://www.ocf.berkeley.edu/docs/staff/backend/servers): Server infrastructure documentation: hypervisors, VMs, Kubernetes
 
 ## Optional
 
-- [Dashboard - Jenkins](https://jenkins.ocf.berkeley.edu/): Jenkins CI/CD dashboard for OCF build automation and project health
+- [Subdomain Migration FAQ](https://www.ocf.berkeley.edu/docs/services/vhost/subdomain-migration): FAQ on berkeley.edu subdomain migration for student orgs

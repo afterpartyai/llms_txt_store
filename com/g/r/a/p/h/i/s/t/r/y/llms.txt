@@ -1,0 +1,58 @@
+# Graphistry
+
+> > GPU-accelerated graph visualization and analytics platform for security investigations, threat hunting, and fraud detection.
+
+Graphistry provides visual graph analytics for security teams and data scientists, enabling rapid investigation and threat detection through GPU-powered visualization and automated playbooks. The platform integrates with major SIEM systems, data science tools, and cloud deployment options.
+
+## Key Topics
+
+- GPU-accelerated analytics
+- Graph visualization
+- Threat hunting
+- Incident response
+- SIEM integration
+- Security investigation
+- Visual playbooks
+- PyGraphistry
+- Splunk integration
+- Network analysis
+- Fraud detection
+- Real-time rendering
+- Apache Arrow
+- Jupyter notebooks
+- Cloud deployment
+
+## Core Platform
+
+- [Home](https://www.graphistry.com): Graphistry homepage showcasing GPU-accelerated graph analytics for SIEM and data visualization
+- [How it Works](https://www.graphistry.com/how-it-works): Platform overview with GPU analytics, data connectors, and deployment options
+- [Graph Analytics](https://www.graphistry.com/graph-analytics): GPU-accelerated graph analytics for investigation, threat hunting, and fraud detection
+- [Investigate at Scale](https://www.graphistry.com/gpu): GPU-powered investigation platform with Apache Arrow and real-time rendering
+- [Repeat and Automate](https://www.graphistry.com/visual-playbooks): Visual playbooks for automated investigation templates and threat detection
+
+## Security Use Cases
+
+- [Use Cases Overview](https://www.graphistry.com/use-cases): Overview of Graphistry use cases: incident response, threat hunting, SIEM optimization
+- [Incident Response](https://www.graphistry.com/use-cases/incident-response): Graphistry for incident response with SIEM integration and threat analysis
+- [Threat Hunting](https://www.graphistry.com/use-cases/threat-hunting): Threat hunting platform with graph visualization and notebook integration
+- [SIEM Optimization](https://www.graphistry.com/use-cases/siem-optimization): SIEM optimization with Graphistry visual investigation and threat detection
+- [Anti-Fraud](https://www.graphistry.com/use-cases/anti-fraud): Financial crime and fraud detection using graph analysis and link analysis
+
+## Developer & Data Science
+
+- [Developers](https://www.graphistry.com/developers): Developer APIs and integration options for React, JavaScript, and deployment
+- [Data Science](https://www.graphistry.com/data-science): PyGraphistry for data scientists with GPU acceleration and Jupyter integration
+- [Embed and Integrate](https://www.graphistry.com/embed-2): Integration guide for PyGraphistry, Jupyter, SageMaker, and Databricks
+- [Graphistry for PowerBI](https://www.graphistry.com/graphistry-for-powerbi): Graphistry Custom Visual for PowerBI with GPU-accelerated graph visualization
+
+## Documentation & Deployment
+
+- [Documentation](https://www.graphistry.com/docs): Complete documentation for installation, APIs, Python, and administration
+- [Get Started](https://www.graphistry.com/get-started): Getting started guide with pricing, deployment options, and account setup
+- [Deploy](https://www.graphistry.com/deployment): Deployment options: Graphistry Cloud, AWS, Azure, GovCloud, and self-hosted
+- [Connect Your Data](https://www.graphistry.com/connectors): Data connectors for SIEM, Elasticsearch, Splunk, and VirusTotal integration
+- [Video Guides](https://www.graphistry.com/videos): Video tutorials for threat hunting, Splunk integration, and network analysis
+
+## Optional
+
+- [News](https://www.graphistry.com/news): News, newsletters, and community resources for PyGraphistry and RAPIDS

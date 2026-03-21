@@ -1,39 +1,50 @@
 # EconPapers
 
-> > EconPapers is a comprehensive economics research database powered by RePEc, providing access to working papers, journal articles, author profiles, and JEL classification codes.
+> EconPapers is a comprehensive open-access repository of economics research papers, journals, and academic resources powered by the RePEc network.
 
-EconPapers serves as a central access point to economics research literature, indexing content from RePEc (Research Papers in Economics). The platform offers searchable access to academic papers, author profiles through the RePEc Author Service, and institutional directories via EDIRC, making it an essential resource for economics researchers worldwide.
+EconPapers aggregates working papers, peer-reviewed journal articles, books, and software from the Research Papers in Economics (RePEc) network. Maintained by Sune Karlsson at Örebro University Business School, it provides free access to economic research and connects economists through author registration and discovery services.
 
 ## Key Topics
 
 - RePEc (Research Papers in Economics)
-- EconPapers database
-- JEL classification codes
-- RePEc Author Service
-- Working papers and MPRA
-- Economics journal articles
-- Author profiles and citations
-- EDIRC institutional directory
-- Economics research taxonomy
-- Academic paper indexing
-- Economics subject categorization
-- Research literature database
-- Economist directory
+- Working papers
+- Journal articles
+- Economics research
+- Open-access repository
+- Author registration
+- JEL classification
+- New Economics Papers (NEP)
+- Academic database
+- Paper search and discovery
+- Citations in Economics (CitEc)
+- Munich Personal RePEc Archive (MPRA)
+- Economics papers
+- Research database
+- Peer-reviewed publications
 
-## Getting Started
+## Core Collections
 
-- [EconPapers Homepage](https://econpapers.repec.org/): Main entry point to the EconPapers economics research database powered by RePEc
+- [EconPapers: Working Paper Series](https://econpapers.repec.org/paper): EconPapers working paper series directory and repository access
+- [EconPapers: Journals](https://econpapers.repec.org/article): EconPapers journal directory with peer-reviewed economics publications
+- [EconPapers: Books and Chapters](https://econpapers.repec.org/bookchap): EconPapers books and book chapters repository
+- [EconPapers: Software Series](https://econpapers.repec.org/software): EconPapers software and computational tools for econometrics research
 
-## Classification & Reference
+## Author Directory and Registration
 
-- [JEL Classification Codes](https://econpapers.repec.org/scripts/jelsearch.pf): Complete reference for JEL codes used to categorize economics research by subject area
+- [EconPapers: Authors registered with RePEc](https://econpapers.repec.org/RAS): EconPapers economist author directory and RePEc Author Service
+- [EconPapers: Persons registered with RePEc](https://econpapers.repec.org/RAS/defaultother.htm): EconPapers directory of unregistered persons and economist database
 
-## Author Profiles
+## Discovery and Alerts
 
-- [Dana Scott](https://econpapers.repec.org/RAS/psc871.htm): Research profile and publications for Dana Scott, Yale University Economics Department
-- [Kenwin Maung](https://econpapers.repec.org/RAS/pma2990.htm): Research profile and publications for Kenwin Maung, University of Rochester
-- [Ke Song](https://econpapers.repec.org/RAS/pso668.htm): Research profile and publications for Ke Song, Renmin University finance researcher
+- [EconPapers: New Economics Papers](https://econpapers.repec.org/scripts/nep.pf): New Economics Papers announcement and subscription service
+- [EconPapers: JEL-codes](https://econpapers.repec.org/scripts/jelsearch.pf): JEL classification taxonomy search for economics papers
 
-## Research Papers
+## Help and Documentation
 
-- [Public-Private Partnership and Sustainable Development](https://econpapers.repec.org/article/nos00pard/175.htm): Research article examining PPP as a tool for sustainable territorial development
+- [EconPapers FAQ](https://econpapers.repec.org/FAQ.htm): EconPapers user FAQ covering search, downloads, and citations
+- [EconPapers: About](https://econpapers.repec.org/about.htm): About EconPapers service by Sune Karlsson at Örebro University Business School
+- [EconPapers: Archive Maintainers FAQ](https://econpapers.repec.org/archiveFAQ.htm): Archive maintainer guide for ReDIF, RePEc setup, and data submission
+
+## Homepage
+
+- [EconPapers](https://econpapers.repec.org): EconPapers homepage: economics research repository with working papers and journal articles

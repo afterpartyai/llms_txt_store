@@ -1,0 +1,56 @@
+# A Developer Diary
+
+> A comprehensive resource for learning machine learning, deep learning, NLP, and game development through detailed tutorials and implementations.
+
+A Developer Diary is a technical blog covering practical implementations of AI/ML algorithms, neural networks, and game development using Python, PyTorch, and PyGame. The site features in-depth tutorials ranging from foundational concepts to advanced architectures, with a focus on hands-on coding examples and mathematical explanations.
+
+## Key Topics
+
+- PyTorch
+- Transformer Model
+- Support Vector Machines
+- Machine Translation
+- Deep Learning
+- Natural Language Processing
+- Dynamic Programming
+- Neural Networks
+- PyGame
+- Encoder-Decoder Architecture
+- Recurrent Neural Networks
+- Gradient Descent
+- Computer Vision
+- Algorithm Tutorials
+- Data Science
+
+## Deep Learning & NLP
+
+- [Coding Transformer Model from Scratch Using PyTorch - Part 1 (Understanding and Implementing the Architecture)](https://adeveloperdiary.com/data-science/deep-learning/nlp/coding-transformer-model-from-scratch-using-pytorch-part-1): PyTorch Transformer architecture guide covering self-attention and positional encoding
+- [Coding Transformer Model from Scratch Using PyTorch - Part 2 (Data Processing and Preparation)](https://adeveloperdiary.com/data-science/deep-learning/nlp/coding-transformer-model-from-scratch-using-pytorch-part-2): PyTorch Transformer tutorial on data preprocessing, tokenization, and HuggingFace
+- [Machine Translation using Recurrent Neural Network and PyTorch](https://adeveloperdiary.com/data-science/deep-learning/nlp/machine-translation-recurrent-neural-network-pytorch): Seq2Seq machine translation guide with encoder-decoder and RNN/LSTM in PyTorch
+- [Machine Translation using Attention with PyTorch](https://adeveloperdiary.com/data-science/deep-learning/nlp/machine-translation-using-attention-with-pytorch): PyTorch machine translation tutorial using attention mechanisms and RNN/LSTM
+
+## Machine Learning & Algorithms
+
+- [Support Vector Machines for Beginners – Linear SVM (Part 1)](https://adeveloperdiary.com/data-science/machine-learning/support-vector-machines-for-beginners-linear-svm): Linear SVM tutorial with mathematical derivations and Python implementation
+- [Support Vector Machines for Beginners – Duality Problem (Part 2)](https://adeveloperdiary.com/data-science/machine-learning/support-vector-machines-for-beginners-duality-problem): SVM duality problem guide covering quadratic programming and optimization
+- [Support Vector Machines for Beginners – Kernel SVM (Part 3)](https://adeveloperdiary.com/data-science/machine-learning/support-vector-machines-for-beginners-kernel-svm): Kernel SVM tutorial explaining kernel trick and non-linear classification
+- [Support Vector Machines for Beginners – Training Algorithms (Part 4)](https://adeveloperdiary.com/data-science/machine-learning/support-vector-machines-for-beginners-training-algorithms): SVM training algorithms guide covering gradient descent and optimization methods
+- [Dynamic Programming - Unique Paths](https://adeveloperdiary.com/algorithm/dp/unique-paths): Dynamic programming tutorial solving unique paths algorithm problem
+- [Algorithm](https://adeveloperdiary.com/algorithm): Algorithm tutorial hub covering data structures, coding patterns, and problem-solving
+
+## Game Development
+
+- [Coding Board Game Using PyGame (The Lost Expedition)](https://adeveloperdiary.com/python/pygame/coding-board-game-using-pygame-the-lost-expedition): PyGame tutorial for building The Lost Expedition board game with game loops
+
+## Site Navigation & Resources
+
+- [A Developer Diary](https://adeveloperdiary.com): Homepage for Jekyll theme featuring PyGame, PyTorch, and Transformer tutorials
+- [Categories](https://adeveloperdiary.com/categories): Content organization hub for ML, algorithms, and programming guides
+- [About](https://adeveloperdiary.com/about): About page for A Developer Diary site
+
+## Optional
+
+- [Archives](https://adeveloperdiary.com/archives): Archive index of PyGame, algorithms, and dynamic programming content
+- [Moving From WordPress to GitPages](https://adeveloperdiary.com/generic/moving-from-wordpress-to-gitpages): Migration guide from WordPress to GitPages with Markdown-based blogging workflow
+- [A Developer Diary (Page 2)](https://adeveloperdiary.com/page2): Content page featuring LDA, edge detection, and computer vision tutorials
+- [A Developer Diary (Page 3)](https://adeveloperdiary.com/page3): Content page on Hidden Markov Models and unsupervised machine learning

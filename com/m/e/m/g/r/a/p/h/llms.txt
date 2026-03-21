@@ -1,0 +1,63 @@
+# Memgraph
+
+> Memgraph is a high-performance in-memory graph database with AI integration, vector search, and GraphRAG capabilities for real-time analytics and intelligent applications.
+
+Memgraph provides an open-source, ACID-compliant graph database platform with 8x faster performance than Neo4j, comprehensive tooling including Lab visualization and natural language querying, and deep integration with LLMs for building context-aware AI applications. The platform serves enterprises across fraud detection, cybersecurity, knowledge graphs, and recommendation systems.
+
+## Key Topics
+
+- Memgraph DB
+- GraphRAG
+- Cypher
+- Knowledge Graphs
+- Graph Database
+- LLM Integration
+- Vector Search
+- Fraud Detection
+- Real-time Analytics
+- Memgraph Lab
+- AI Applications
+- Performance Optimization
+- Neo4j Alternative
+- ACID Transactions
+- Graph Algorithms
+
+## Core Platform
+
+- [Memgraph](https://memgraph.com): Memgraph homepage: high-performance in-memory graph database with AI integration
+- [Memgraph Database](https://memgraph.com/memgraphdb): Memgraph DB: open-source in-memory graph database with ACID transactions
+- [Memgraph for Neo4j Developers](https://memgraph.com/memgraph-for-neo4j-developers): Memgraph as Neo4j alternative: 8x faster performance with Cypher compatibility
+- [Download Hub](https://memgraph.com/download): Memgraph downloads: DB, Lab, Platform, mgconsole installation and setup
+- [Pricing](https://memgraph.com/pricing): Memgraph pricing: Community, Enterprise editions, and cloud hosting options
+
+## AI & GraphRAG
+
+- [GraphRAG](https://memgraph.com/graphrag): GraphRAG: AI apps with graph context, LLM integration, vector search
+- [Knowledge Graphs](https://memgraph.com/knowledge-graph): Knowledge graphs with Memgraph: scalable real-time insights and LLM integration
+
+## Tools & Visualization
+
+- [Tools Ecosystem](https://memgraph.com/tools): Memgraph tools ecosystem: Lab, GraphChat, MAGE, and streaming connectors
+- [Memgraph Lab](https://memgraph.com/lab): Memgraph Lab: graph visualization and natural language querying tool
+
+## Use Cases & Customers
+
+- [Use Cases](https://memgraph.com/use-cases): Memgraph use cases: fraud detection, cybersecurity, IAM, and recommendations
+- [Use Cases List](https://memgraph.com/use-cases-list): Memgraph applications: cybersecurity, fraud detection, data lineage, optimization
+- [Customer Stories](https://memgraph.com/customer-stories): Customer case studies: Memgraph real-world applications with NASA, Orbis Holding
+
+## Documentation & Learning
+
+- [Documentation](https://memgraph.com/docs): Memgraph documentation: getting started, client libraries, data migration, Cypher
+- [Memgraph Academy](https://memgraph.com/academy): Memgraph Academy: bootcamp, Cypher, knowledge graphs, LLM integration training
+- [On-Demand Resources](https://memgraph.com/on-demand): On-demand resources: GraphRAG tutorials, webinars, customer stories, LLM integration
+- [Blog](https://memgraph.com/blog): Memgraph blog: graph databases, GraphRAG, AI retrieval, fraud detection insights
+
+## Community & Support
+
+- [Events](https://memgraph.com/events): Memgraph events: webinars, Graph.Build, customer stories, knowledge sharing
+- [Office Hours](https://memgraph.com/office-hours): Office hours: expert engineering support for modeling, optimization, migration
+
+## Performance & Benchmarks
+
+- [Benchmark](https://memgraph.com/benchmark): Benchgraph: performance comparison tool for Memgraph vs Neo4j

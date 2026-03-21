@@ -1,0 +1,38 @@
+# scikit-learn
+
+> scikit-learn is a Python machine learning library providing tools for data generation, model building, and evaluation across supervised and unsupervised learning tasks.
+
+scikit-learn offers comprehensive APIs for dataset generation, model training, and utilities for handling metadata and estimator properties. The library focuses on practical machine learning workflows with synthetic and real-world datasets.
+
+## Key Topics
+
+- scikit-learn
+- Dataset Generation
+- Gaussian Blobs
+- Synthetic Data
+- API Reference
+- Regression
+- Clustering
+- Estimator Tags
+- Metadata Routing
+- Python
+- RandomState
+- Transformer Utilities
+- Regressor Utilities
+- Sample Generators
+- Data Loading
+
+## Dataset Generation
+
+- [make_blobs](https://sklearn.org/stable/modules/generated/sklearn.datasets.make_blobs.html): Generate Gaussian blob datasets for clustering and synthetic data creation
+- [fetch_species_distributions](https://sklearn.org/stable/modules/generated/sklearn.datasets.fetch_species_distributions.html): Fetch ecological species distribution dataset for real-world machine learning tasks
+
+## Estimator Utilities & Metadata
+
+- [MetadataRouter](https://sklearn.org/stable/modules/generated/sklearn.utils.metadata_routing.MetadataRouter.html): Route metadata through machine learning pipelines for proper parameter handling
+- [RegressorTags](https://sklearn.org/stable/modules/generated/sklearn.utils.RegressorTags.html): Access and manage metadata tags for regressor estimators
+- [TransformerTags](https://sklearn.org/stable/modules/generated/sklearn.utils.TransformerTags.html): Access and manage metadata tags for transformer estimators
+
+## Data Loading & Samples
+
+- [load_sample_image](https://sklearn.org/stable/modules/generated/sklearn.datasets.load_sample_image.html): Load sample images for computer vision and image processing demonstrations

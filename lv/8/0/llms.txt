@@ -1,41 +1,58 @@
 # 80 Level
 
-> > 80 Level is a community platform for game developers, digital artists, and CGI/VFX professionals featuring tutorials, industry news, and technical breakdowns.
+> > 80 Level is a premier industry platform for game developers, digital artists, and CGI/VFX specialists covering game engines, art techniques, and interactive media.
 
-The site covers game development workflows using Unreal Engine, Unity, Maya, ZBrush, Substance 3D Designer, Substance 3D Painter, and Marmoset Toolbag. It features interviews with industry professionals, game announcements, and in-depth technical articles on 3D modeling, animation systems, and procedural tools.
+80 Level publishes in-depth technical articles, interviews, and case studies focused on game development pipelines, 3D art creation, visual effects, and emerging game technologies. The site covers major engines like Unreal Engine and Blender alongside indie game showcases and industry news.
 
 ## Key Topics
 
+- Unreal Engine 5
+- Blender
 - Game Development
-- 3D Modeling
-- Digital Art
-- Unreal Engine
-- Unity
-- Substance 3D Designer
-- Substance 3D Painter
-- ZBrush
-- Maya
-- Marmoset Toolbag
-- Tutorials
-- Industry News
-- Game Announcements
-- Technical Breakdowns
-- VFX and CGI
+- 3D Art & Modeling
+- Visual Effects (VFX)
+- Indie Games
+- Character Rigging
+- Lighting & Rendering
+- Shader Development
+- Level Design
+- Terrain Generation
+- World Creator
+- DLSS Technology
+- Game Design
+- Cyberpunk
 
-## Home
+## Game Engine Techniques & Tutorials
 
-- [80 Level](https://80.lv/): Homepage for game dev, digital art, CGI/VFX community platform
+- [How Little Nightmares VR is Powered by Unity, Lighting, and Design](https://80.lv/articles/how-little-nightmares-vr-is-powered-by-unity-lighting-and-spatial-design): Iconik breaks down Unity, lighting, and design techniques for Little Nightmares VR development.
+- [How to Sculpt & Texture a Greatsword with a Realistic and Alive Look](https://80.lv/articles/how-to-sculpt-and-texture-a-greatsword-with-a-realistic-and-alive-look): Kirill Muslimov's Blender workflow for sculpting and texturing realistic greatsword game assets.
+- [The Making Of 2D-Looking 3D Smoke](https://80.lv/articles/how-to-achieve-a-2d-look-with-3d-smoke): Sil Roosenstein's approach to creating stylized 2D-looking 3D smoke effects and VFX.
+- [Previs & Layout in KPop Demon Hunters](https://80.lv/articles/see-how-previs-layout-were-done-in-kpop-demon-hunters): Sony Pictures Imageworks' Unreal Engine previs and layout techniques for KPop Demon Hunters.
+- [Customizable Stylized Water Shader For Unreal Engine 5](https://80.lv/articles/grab-this-stylized-water-shader-for-ue5): Jean-Baptiste Louis' customizable stylized water shader project for Unreal Engine 5.
+- [Artist Shows a Horror Lighting Study Using a Hinako Fan Model](https://80.lv/articles/artist-shows-a-ue5-horror-lighting-study-featuring-hinako-from-silent-hill-f): Horror lighting study in Unreal Engine 5 featuring Silent Hill f character with atmospheric design.
 
-## Technical Tutorials & Tools
+## 3D Character & Asset Creation
 
-- [Custom Ledge Grab System For Unity](https://80.lv/articles/advanced-ledge-grab-system-for-unity-with-full-ik-animation-support?trk=article-ssr-frontend-pulse_little-text-block): Salman Hoseini's Unity ledge grab system with IK animation support
-- [Free Shield Generator](https://80.lv/articles/free-shield-generator/?amp=1): Simon Tartar's free Substance Designer shield generator tool
-- [The Story and Development of Magma, a Collaborative Art Platform](https://80.lv/articles/the-story-and-development-of-magma-a-collaborative-art-platform): Magma platform development story: web-based collaborative art tool
+- [Detailed Chun-Li Blender Rig With Many Expressions](https://80.lv/articles/ultra-expressive-street-fighter-s-chun-li-blender-rig-showcase): A$AP BERG's detailed Chun-Li Blender rig with facial expressions and shapekeys.
+- [Create Realistic Eyebrows, Eyelashes, & Beard with This Brush Pack](https://80.lv/articles/create-realistic-eyebrows-eyelashes-beard-with-this-brush-pack): Facial Hair IMM Curve pack review: 44 ZBrush brushes for realistic character hair creation.
 
-## Game Industry News
+## Game News & Industry Coverage
 
-- [Horizon: Forbidden West Announced](https://80.lv/articles/horizon-forbidden-west-announced?amp=1): Game announcement: Sony's Horizon Forbidden West sequel for PS5
+- [Crimson Desert Sells 2 Million Copies at Launch With Strong Reception](https://80.lv/articles/crimson-desert-sells-2-million-copies-at-launch-in-strong-debut): Pearl Abyss' Crimson Desert launches successfully with 2 million copies sold on PS5 Pro.
+- [NVIDIA Explains How DLSS 5 Honors Artistic Intent](https://80.lv/articles/nvidia-says-dlss-5-was-designed-with-developers-they-have-creative-control): NVIDIA discusses DLSS 5 design philosophy and developer creative control in rendering.
+- ["Just Pretend We Didn't Announce It": Todd Howard on Elder Scrolls 6](https://80.lv/articles/just-pretend-we-didn-t-announce-it-todd-howard-on-keeping-balance-with-the-elder-scrolls-6-news): Todd Howard interview on Elder Scrolls 6 announcement strategy and Bethesda's approach.
+
+## World Building & Terrain Tools
+
+- [World Creator 2026.3 Now Allows You to Use Real-World Elevation Data](https://80.lv/articles/world-creator-2026-3-now-allows-you-to-use-real-world-elevation-data-in-its-system): World Creator 2026.3 update adds real-world elevation data support for terrain generation.
+
+## Indie Game Showcases & Developer Interviews
+
+- [NFS-Inspired Cyberpunk Racing Game With Flying Cars](https://80.lv/articles/cyberpunk-flying-car-racing-game-inspired-by-need-for-speed-underground): Punk Runner: cyberpunk racing game with flying cars and customization inspired by NFS Underground 2.
+- [Diablo 2 Gets First-Person Makeover By Solo Dev In UE5](https://80.lv/articles/solo-developer-recreates-diablo-2-as-first-person-game-in-ue5): Solo developer converts Diablo 2 to first-person action RPG in Unreal Engine 5.
+- [Digital Dreams Entertainment on Creating Mutant Football League 2](https://80.lv/articles/digital-dreams-entertainment-on-creating-mutant-football-league-2-and-arcade-sports-games): Interview with Digital Dreams Entertainment on Mutant Football League 2 indie development.
+- [An In-Depth Interview With The Creative Team at Sideshow](https://80.lv/articles/an-in-depth-interview-with-the-creative-team-at-sideshow): In-depth interview with Sideshow Collectibles on artistic process and manufacturing.
 
 ## Optional
 
-- [TON Play](https://80.lv/partners/ton-play): Partner page: TON Play blockchain gaming monetization on Telegram
+- [Have a Look at This Upcoming Indie Game Where You Clean an Island](https://80.lv/articles/have-a-look-at-this-upcoming-indie-game-where-you-explore-clean-an-island): Muri: Wildwoods indie platformer demo on Steam with relaxing island cleaning gameplay.

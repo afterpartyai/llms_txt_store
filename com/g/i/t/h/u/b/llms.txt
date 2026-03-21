@@ -1,61 +1,64 @@
 # GitHub
 
-> GitHub is the AI-powered developer platform providing code collaboration, CI/CD automation, security, and AI-assisted development tools for individuals, teams, and enterprises.
+> GitHub is the AI-powered developer platform for building, collaborating, and shipping software with Copilot, Actions, and enterprise-grade security.
 
-GitHub offers a comprehensive suite of development tools centered around version control, automation, and artificial intelligence. The platform emphasizes AI integration through GitHub Copilot, advanced security features, and modern DevOps capabilities to enable developers and teams to build, ship, and secure software at scale.
+GitHub provides a comprehensive platform for version control, CI/CD automation, code review, and AI-assisted development. It serves developers from individuals to large enterprises with integrated tools for collaboration, security, and deployment.
 
 ## Key Topics
 
 - GitHub Copilot
 - GitHub Actions
+- GitHub Codespaces
 - GitHub Advanced Security
 - CI/CD automation
 - Code review
-- GitHub Codespaces
-- GitHub Enterprise
 - Secret Protection
-- Code Security
-- GitHub Issues
+- CodeQL
 - Dependabot
+- GitHub Enterprise
+- GitHub Issues
+- Copilot Autofix
+- AI-powered development
 - Collaboration tools
-- AI models
-- Workflow automation
 - Developer platform
 
 ## AI-Powered Development
 
-- [GitHub Copilot](https://github.com/features/copilot): GitHub Copilot AI code completion product with IDE integration and enterprise features.
-- [GitHub Spark](https://github.com/features/spark): GitHub Spark full-stack AI-powered app builder with natural language interface.
-- [GitHub Models](https://github.com/features/models): GitHub Models platform for accessing AI models with API and deployment tools.
-- [MCP Registry](https://github.com/mcp): MCP Registry centralizing MCP servers for AI agent integration and discovery.
+- [GitHub Copilot](https://github.com/features/copilot): GitHub Copilot AI code completion tool with IDE integration and LLM model options.
+- [GitHub Spark](https://github.com/features/spark): GitHub Spark no-code AI-powered full-stack app builder with prototype-to-production.
+- [GitHub Models](https://github.com/features/models): GitHub Models platform for building AI projects with prompt engineering and deployment.
+- [MCP Registry](https://github.com/mcp): MCP Registry directory for discovering and integrating AI servers and development tools.
 
 ## Core Development Features
 
-- [GitHub Features](https://github.com/features): GitHub Features overview covering collaboration, CI/CD, security, and automation.
-- [GitHub Actions](https://github.com/features/actions): GitHub Actions CI/CD automation platform with workflow and marketplace features.
-- [GitHub Code Review](https://github.com/features/code-review): GitHub Code Review with pull requests, branch protection, and team workflow.
-- [GitHub Issues](https://github.com/features/issues): GitHub Issues project planning and issue tracking tool for developer collaboration.
-- [GitHub Codespaces](https://github.com/features/codespaces): GitHub Codespaces cloud development environment for browser-based remote coding.
+- [GitHub Actions](https://github.com/features/actions): GitHub Actions CI/CD automation platform with workflow, deployment, and marketplace.
+- [GitHub Codespaces](https://github.com/features/codespaces): GitHub Codespaces cloud-based IDE for secure remote development and collaboration.
+- [GitHub Code Review](https://github.com/features/code-review): GitHub code review via pull requests with branch protection and team collaboration.
+- [GitHub Issues](https://github.com/features/issues): GitHub Issues project planning and tracking tool with agile workflow automation.
+- [Features Overview](https://github.com/features): GitHub features overview covering collaboration, code review, CI/CD, and security.
 
-## Security & Protection
+## Security & Compliance
 
-- [GitHub Advanced Security](https://github.com/security/advanced-security): GitHub Advanced Security with vulnerability detection, secret scanning, and protection.
-- [GitHub Code Security](https://github.com/security/advanced-security/code-security): GitHub Code Security with CodeQL analysis, vulnerability detection, and Copilot Autofix.
-- [GitHub Secret Protection](https://github.com/security/advanced-security/secret-protection): GitHub Secret Protection with push protection and secret scanning for credentials.
+- [GitHub Advanced Security](https://github.com/security/advanced-security): GitHub Advanced Security with secret protection, vulnerability detection, and Copilot Autofix.
+- [GitHub Code Security](https://github.com/security/advanced-security/code-security): GitHub Code Security with CodeQL analysis, dependency scanning, and AI-powered fixes.
+- [GitHub Secret Protection](https://github.com/security/advanced-security/secret-protection): GitHub Secret Protection with push protection and secret scanning for compliance.
 
-## Enterprise & Teams
+## Platform & Enterprise
 
-- [GitHub Enterprise](https://github.com/enterprise): GitHub Enterprise AI-powered platform with advanced security and governance.
-- [GitHub for Teams](https://github.com/team): GitHub for Teams with CI/CD, Dependabot, and collaboration tools.
-- [Why Choose GitHub?](https://github.com/why-github): Why GitHub page highlighting platform benefits, enterprise solutions, and Copilot.
-- [GitHub for Startups](https://github.com/enterprise/startups): GitHub for Startups program offering credits, Copilot, and enterprise support.
+- [GitHub Enterprise](https://github.com/enterprise): GitHub Enterprise for large organizations with security, governance, and Copilot.
+- [GitHub for Teams](https://github.com/team): GitHub team collaboration platform with CI/CD, Dependabot, and community features.
+- [GitHub for Startups](https://github.com/enterprise/startups): GitHub for Startups program offering credits, Copilot, and enterprise tools.
+- [Why Choose GitHub](https://github.com/why-github): GitHub value proposition for enterprise, teams, and developers with AI capabilities.
 
-## Resources & Marketplace
+## Marketplace & Extensions
 
-- [GitHub Docs](https://docs.github.com): GitHub documentation hub covering platform, APIs, CI/CD, security, and enterprise.
-- [GitHub Marketplace](https://github.com/marketplace): GitHub Marketplace with apps, AI models, and tools for workflow improvement.
-- [GitHub Homepage](https://github.com): GitHub homepage showcasing AI-powered developer platform with Copilot, Actions, and Codespaces.
+- [GitHub Marketplace](https://github.com/marketplace): GitHub Marketplace for apps, tools, and AI models to enhance development workflows.
+
+## Documentation & Resources
+
+- [GitHub Docs](https://docs.github.com): GitHub documentation hub for users, developers, admins covering all products and features.
+- [GitHub Homepage](https://github.com): GitHub homepage showcasing AI-powered developer platform with Copilot, Actions, Codespaces.
 
 ## Optional
 
-- [GitHub Roadmap Webinar, Q1 2026](https://github.com/resources/events/github-roadmap-webinar-q1): Q1 2026 roadmap webinar featuring GitHub Copilot, agentic systems, and platform governance.
+- [GitHub Roadmap Webinar, Q1 2026](https://github.com/resources/events/github-roadmap-webinar-q1): Q1 2026 roadmap webinar featuring AI-powered SDLC and agentic systems announcements.

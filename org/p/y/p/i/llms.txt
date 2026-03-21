@@ -1,42 +1,44 @@
 # PyPI · The Python Package Index
 
-> > The official repository for Python packages, enabling developers to discover, install, and publish Python software distributions.
+> PyPI is the official Python package repository, hosting millions of open-source packages and enabling secure distribution and installation of Python software.
 
-PyPI (Python Package Index) is the central hub for the Python community's package ecosystem, hosting hundreds of thousands of projects. It provides package metadata standards, Trove classifiers for categorization, and organizational profiles for major Python contributors.
+PyPI (Python Package Index) serves as the central hub for Python package discovery, distribution, and management. Maintained by the Python Software Foundation and supported by the Python Packaging Authority (pypa), PyPI provides essential infrastructure for the Python ecosystem including package publishing, installation via pip, security features like Trusted Publishers and two-factor authentication, and comprehensive documentation for developers.
 
 ## Key Topics
 
 - Python packages
-- Package repository
-- Software distribution
-- Package installation
-- Trove classifiers
-- Package metadata
-- PEP 301
-- Python Packaging User Guide
-- Project categorization
-- Python libraries
-- Organization profiles
-- Ansible Community
-- Python community
-- PyPI reference
+- package repository
+- package publishing
+- pip
+- software distribution
+- API tokens
+- Trusted Publishers
+- two-factor authentication
+- account management
+- package installation
+- Python ecosystem
+- Warehouse
+- project administration
+- security
+- Python Software Foundation
 
-## Core Resources
+## Getting Started & Core Resources
 
-- [PyPI · The Python Package Index](https://pypi.org): Homepage of PyPI, the official Python package repository
+- [PyPI Homepage](https://pypi.org): PyPI homepage - the official Python package repository and distribution platform
+- [PyPI Documentation](https://docs.pypi.org): Official PyPI documentation including guides, getting started, and contributing
+- [Help Center](https://pypi.org/help): PyPI help center covering account management, authentication, and publishing
 
-## Package Metadata & Classification
+## Security & Account Management
 
-- [Classifiers · PyPI](https://pypi.org/classifiers): Complete list of Trove classifiers for Python package metadata (PEP 301)
+- [Security Policy](https://pypi.org/security): PyPI security policy and vulnerability disclosure procedures
 
-## Organization Profiles
+## News & Community
 
-- [Profile of Ansible Community · PyPI](https://pypi.org/org/ansible-community): Ansible Community organization profile with packages for testing & tools
-- [Profile of Arm Ltd · PyPI](https://pypi.org/org/Arm): Arm Ltd organization profile featuring ML inference and NPU tools
-- [Profile of BeeWare · PyPI](https://pypi.org/org/beeware): BeeWare organization profile for cross-platform native GUI applications
-- [Profile of Comfy-Org · PyPI](https://pypi.org/org/Comfy-Org): Comfy-Org profile with ComfyUI packages and workflow tools
-- [Profile of ESMValGroup · PyPI](https://pypi.org/org/esmvalgroup): ESMValGroup profile for Earth system models and CMIP climate data tools
-- [Profile of GEMSEO · PyPI](https://pypi.org/org/gemseo): GEMSEO organization profile for multidisciplinary optimization frameworks
-- [Profile of GPlates · PyPI](https://pypi.org/org/GPlates): GPlates organization profile for plate tectonics and geoscience libraries
-- [Profile of OpenSemanticWorld · PyPI](https://pypi.org/org/OpenSemanticWorld): OpenSemanticWorld profile with semantic web and workflow language packages
-- [Profile of Revenium · PyPI](https://pypi.org/org/revenium): Revenium organization profile for AI metering and API monitoring tools
+- [PyPI Blog](https://blog.pypi.org): Official PyPI blog covering security, updates, and package management news
+- [Sponsors](https://pypi.org/sponsors): PyPI sponsors and funding information from PSF and open source organizations
+
+## Optional
+
+- [Statistics](https://pypi.org/stats): PyPI repository statistics, download metrics, and third-party analytics
+- [Trademarks](https://pypi.org/trademarks): PyPI trademark and intellectual property information and usage guidelines
+- [Donations](https://donate.pypi.org): Donation page for PSF Packaging Workgroup supporting PyPI and pip

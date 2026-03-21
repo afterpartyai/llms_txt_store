@@ -1,0 +1,59 @@
+# Source Example
+
+> > A comprehensive resource for Git, GitHub, and Linux system administration with tutorials spanning version control, CentOS setup, and DevOps tools.
+
+Source Example is a technical blog and documentation site focused on practical guides for developers and system administrators. It covers version control workflows, Linux server configuration, containerization, and multimedia processing with hands-on tutorials and troubleshooting guides.
+
+## Key Topics
+
+- Git
+- GitHub
+- CentOS 7
+- CentOS
+- Windows 10
+- Docker
+- Linux setup
+- Command-line
+- WSL
+- Vagrant
+- PostgreSQL
+- FFmpeg
+- SSH configuration
+- Virtual environments
+- System administration
+
+## Getting Started with Git & GitHub
+
+- [Git and GitHub Introduction & Troubleshooting Guide](https://sourceexample.com/en/e4ccf3212a11d42396b6): Comprehensive Git and GitHub guide covering setup, troubleshooting, and SSH configuration
+- [Source Example Homepage](https://sourceexample.com): Homepage introducing Git, GitHub, and setup guides for Windows 10 and CentOS 7
+- [Blog Posts Archive](https://sourceexample.com/posts): Archive of blog posts on Git, GitHub, and version control tutorials
+
+## CentOS & Linux System Administration
+
+- [Installing CentOS 7 on PC Hardware](https://sourceexample.com/en/1449c55e799ebc5eb6be): Step-by-step guide to installing CentOS 7 using Rufus and USB boot media
+- [802.1X Authentication and Bonding in CentOS 7](https://sourceexample.com/en/fc2750d5aa9564d834cc): Advanced network configuration guide for 802.1X authentication and bonding in CentOS 7
+- [CentOS Terminal Shortcuts Setup](https://sourceexample.com/en/0de26a914384b220b5fe): How-to guide for adding terminal shortcuts in CentOS and GNOME Terminal
+- [Upgrading curl on CentOS 7](https://sourceexample.com/en/dd37b494ab924c04ed2a): Tutorial on upgrading curl version on CentOS 7 with source compilation
+- [Checking CentOS Version](https://sourceexample.com/en/3c6316544123b62d7c0e): Quick reference for checking CentOS version and system information via bash
+- [Updating rbenv on CentOS](https://sourceexample.com/en/33dbab943852119af70e): Guide to updating rbenv Ruby version manager on CentOS and resolving SSL errors
+
+## Containerization & Virtual Environments
+
+- [Vagrant and VirtualBox Setup on Windows 10](https://sourceexample.com/en/c6486aa270e18cf2ac5f): Complete guide to setting up Vagrant and VirtualBox virtual environment on Windows 10
+- [Docker Operation Reference](https://sourceexample.com/en/1c0742f454939e50952f): Reference guide for Docker container management, commands, and troubleshooting
+- [Docker Installation on CentOS 6](https://sourceexample.com/en/2d4f27c1f17de96debd2): Installation guide for Docker and docker-engine on CentOS 6 using RPM packages
+
+## Databases & Monitoring
+
+- [PostgreSQL 12 Installation on CentOS 8](https://sourceexample.com/en/7ae5ecc18ebae6a0dfbc): Installation and configuration guide for PostgreSQL 12 on CentOS 8
+- [Zabbix Server Setup on CentOS 7](https://sourceexample.com/en/fdee2bffecf9363b4a49): Quick setup guide for installing and configuring Zabbix monitoring server on CentOS 7
+
+## Media Processing & Streaming
+
+- [FFmpeg with AWS Lambda Layers](https://sourceexample.com/en/c3ffae2276390cc62f31): Guide to using ffmpeg with AWS Lambda layers for serverless video processing
+- [HDR Video Encoding with FFmpeg](https://sourceexample.com/en/1145108231641a4fb043): Article on HDR video encoding with FFmpeg for Sony α6400 camera footage
+- [Publishing IP Camera Videos on Web Pages](https://sourceexample.com/en/dca866616d441e0d6fd8): Tutorial on publishing IP camera videos using SV3C camera with RTSP and ONVIF
+
+## About & Site Information
+
+- [About Source Example](https://sourceexample.com/about): About page introducing the Source Example blog and its purpose

@@ -1,0 +1,44 @@
+# Finite State
+
+> Finite State is an autonomous product security OS that automates the security lifecycle for connected devices across automotive, medical, industrial, energy, and government sectors.
+
+Finite State provides AI-powered security automation through its Alloy engine, enabling organizations to achieve compliance with regulations like EU CRA, FDA §524B, ISO/SAE 21434, NERC CIP, and IEC 62443. The platform combines SBOM generation, vulnerability prioritization, threat modeling, and compliance evidence automation to reduce security risk across product development and supply chains.
+
+## Key Topics
+
+- SBOM (Software Bill of Materials)
+- Vulnerability Management
+- Firmware Analysis
+- Compliance Automation
+- Supply Chain Security
+- Product Security Automation
+- Alloy Engine
+- Threat Modeling
+- Vulnerability Prioritization
+- ISO/SAE 21434
+- FDA §524B
+- EU CRA Compliance
+- NERC CIP
+- IEC 62443
+- Assurance Studio
+
+## Platform Overview
+
+- [Finite State Platform](https://finitestate.io/platform): AI-powered product security platform with Alloy engine for code and firmware analysis.
+- [Finite State Home](https://finitestate.io): Autonomous Product Security OS for Connected Devices - automates the entire product security lifecycle.
+
+## Core Security Capabilities
+
+- [Ground Truth Inventory](https://finitestate.io/platform/ground-truth-inventory): SBOM generation and software inventory management for compliance automation.
+- [Exploitability-Based Vulnerability Prioritization](https://finitestate.io/platform/exploitability-based-prioritization): Vulnerability prioritization via reachability analysis, KEV, and EPSS scoring.
+- [Design-Time Architecture Security](https://finitestate.io/platform/design-time-architecture-security): Threat modeling and architecture security validation with Assurance Studio.
+- [Automated Evidence-Backed Compliance](https://finitestate.io/platform/automated-evidence-backed-compliance): Audit-ready compliance evidence generation for EU CRA, FDA §524B, and CE RED regulations.
+
+## Industry Solutions
+
+- [Connected Device Manufacturers](https://finitestate.io/industry/connected-device-manufacturers): Device manufacturer solutions for EU CRA, UK PSTI, and NIST IoT compliance.
+- [Automotive & Connected Vehicles](https://finitestate.io/industry/connected-vehicles): Automotive cybersecurity platform for ISO/SAE 21434 and UNECE WP.29 compliance.
+- [Medical Devices](https://finitestate.io/industry/medical-devices): Medical device security platform with FDA §524B compliance automation.
+- [Energy & Utilities](https://finitestate.io/industry/energy-utilities): OT/ICS security solutions with SBOM management and NERC CIP compliance.
+- [Industrial Control Systems](https://finitestate.io/industry/industrial): Industrial ICS security with IEC 62443 and NIS2 compliance for PLC/SCADA environments.
+- [Federal & Government](https://finitestate.io/industry/government): Federal supply chain security solutions for Executive Order 14028 and FISMA compliance.

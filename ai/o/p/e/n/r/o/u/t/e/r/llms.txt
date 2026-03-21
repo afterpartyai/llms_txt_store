@@ -1,0 +1,40 @@
+# OpenRouter
+
+> > OpenRouter is a unified API platform that routes requests across multiple AI model providers with intelligent optimization for uptime, availability, and reliability.
+
+OpenRouter provides developers with a single interface to access various large language models from providers like Anthropic, OpenAI, and others. The platform emphasizes smart routing, provider selection, and uptime optimization to ensure reliable AI model access.
+
+## Key Topics
+
+- OpenRouter SDK
+- Chat Completions API
+- Provider Routing
+- Uptime Optimization
+- Multi-Provider Request Routing
+- Availability Monitoring
+- Smart Routing
+- Fallback Handling
+- API Authentication
+- Data Privacy & Logging
+- Claude 4 Sonnet
+- Llama 3.3 70B Instruct
+- TypeScript & Python Support
+- HTTP Headers
+- AI Model Reliability
+
+## Getting Started
+
+- [OpenRouter Quickstart Guide](https://openrouter.ai/docs/quickstart): Get started with OpenRouter SDK and API integration with code examples
+
+## Provider Routing & Selection
+
+- [Provider Routing](https://openrouter.ai/docs/guides/routing/provider-selection): Intelligent multi-provider request routing and provider selection strategies
+
+## Reliability & Uptime
+
+- [Uptime Optimization](https://openrouter.ai/docs/features/uptime-optimization): Track provider availability and optimize AI model uptime with smart routing
+- [Uptime Optimization Best Practices](https://openrouter.ai/docs/guides/best-practices/uptime-optimization): Best practices for maximizing AI model availability and reliability
+
+## Privacy & Data Management
+
+- [Logging & Data Retention](https://openrouter.ai/docs/guides/privacy/logging): Provider logging policies, data retention, and privacy settings including EU routing

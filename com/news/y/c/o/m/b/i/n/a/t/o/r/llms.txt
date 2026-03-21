@@ -1,48 +1,48 @@
 # Hacker News
 
-> Community-driven technology news aggregator and discussion platform featuring startup launches, developer tools, and open-source projects.
+> A tech community news aggregator and discussion forum where developers, founders, and tech enthusiasts discover, share, and debate the latest in technology, startups, and programming.
 
-Hacker News is a social news website focused on computer science and entrepreneurship, operated by Y Combinator. It serves as a platform for tech professionals, developers, and startup founders to share and discuss news, ask questions, and showcase projects.
+Hacker News is one of the internet's most influential tech communities, featuring real-time news feeds, community-driven submissions, job listings, and discussion forums. The platform emphasizes substantive technical discussion and discovery of novel ideas in computing and entrepreneurship.
 
 ## Key Topics
 
-- Community Submissions
-- Tech News
-- Startup Launches
-- Open Source
-- Developer Tools
-- AI/Machine Learning
+- tech-news
+- open-source
+- community-submissions
+- discussion-forum
+- news-aggregator
+- programming
+- ai-ml
+- developer-tools
+- startup
+- Rust
+- Python
+- GitHub
 - Y Combinator
-- News Aggregation
-- Community Guidelines
-- Karma System
-- Moderation
-- Security
-- Job Listings
-- Project Showcases
-- Q&A Discussion
+- Deno
+- tech-community
 
-## Main Feed & Discovery
+## Main Feeds
 
-- [Hacker News Homepage](https://news.ycombinator.com): Hacker News homepage: tech news aggregator with community submissions
-- [Main Feed](https://news.ycombinator.com/news): Hacker News main feed: community-driven tech and startup news
-- [Newest Submissions](https://news.ycombinator.com/newest): Latest submissions to Hacker News by newest timestamp
-- [New Comments](https://news.ycombinator.com/newcomments): Real-time stream of newest comments across Hacker News
+- [Hacker News Homepage](https://news.ycombinator.com): Hacker News homepage - tech community news aggregator and discussion forum
+- [News Feed](https://news.ycombinator.com/news): Hacker News main news feed with community submissions and discussions
+- [Newest Links](https://news.ycombinator.com/newest): Real-time feed of newest submitted links on Hacker News
+- [New Comments](https://news.ycombinator.com/newcomments): Real-time feed of newest community comments and discussions
+- [Daily Front Page Archive](https://news.ycombinator.com/front): Daily front page archive view of Hacker News stories
 
-## Community Features
+## Community Sections
 
-- [Ask HN](https://news.ycombinator.com/ask): Ask HN: community Q&A section for questions and discussions
-- [Show HN](https://news.ycombinator.com/show): Show HN: community submissions of projects and product launches
-- [Job Listings](https://news.ycombinator.com/jobs): Hacker News job listings for Y Combinator companies and startups
-- [Lists & Navigation](https://news.ycombinator.com/lists): Navigation page listing curated views and community features
-- [Filter by Source](https://news.ycombinator.com/from): Filter submissions by source or user on Hacker News
+- [Ask HN](https://news.ycombinator.com/ask): Ask HN - community questions and discussion forum section
+- [Show HN](https://news.ycombinator.com/show): Show HN - community projects and products showcase section
+- [Jobs](https://news.ycombinator.com/jobs): Hacker News job board for tech careers and startup hiring
 
-## Guidelines & Support
+## Navigation & Discovery
+
+- [Lists](https://news.ycombinator.com/lists): Navigation lists and curated collections of Hacker News features
+- [User Submissions](https://news.ycombinator.com/from): User submissions filter and navigation for Hacker News content
+
+## Guidelines & Policies
 
 - [Community Guidelines](https://news.ycombinator.com/newsguidelines.html): Community guidelines and content policy for Hacker News
-- [Frequently Asked Questions](https://news.ycombinator.com/newsfaq.html): FAQ covering ranking, karma system, and Hacker News features
-- [Security & Vulnerability Reporting](https://news.ycombinator.com/security.html): Security disclosure and vulnerability reporting for Hacker News
-
-## Optional
-
-- [Front Page Archive](https://news.ycombinator.com/front): Hacker News front page archive for specific date
+- [FAQ](https://news.ycombinator.com/newsfaq.html): FAQ covering ranking, karma system, and moderation on Hacker News
+- [Security Policy](https://news.ycombinator.com/security.html): Security disclosure and vulnerability reporting policy for Hacker News

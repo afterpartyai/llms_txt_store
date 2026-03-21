@@ -1,41 +1,42 @@
 # Goodreads
 
-> Goodreads is a social cataloging website for book lovers to discover, share, and discuss books across multiple genres.
+> Goodreads is a social platform for discovering, sharing, and discussing books across diverse genres with personalized recommendations and reading challenges.
 
-Goodreads, owned by Amazon, provides a platform for readers to browse book recommendations, track reading progress, and explore content across diverse genres including fiction, nonfiction, biography, business, art, children's books, and Christian literature. The site features user authentication, reading challenges, and book discovery tools powered by community engagement.
+Goodreads connects millions of readers through book discovery, ratings, reviews, and community features. The platform supports browsing across numerous genres including fiction, nonfiction, classics, children's books, and specialized categories like business and biography.
 
 ## Key Topics
 
 - Book recommendations
-- Genre exploration
-- User authentication
-- Reading challenges
-- New releases
-- Goodreads community
 - Book discovery
-- Account management
-- Privacy and security
-- Amazon integration
-- Social features
+- Genre browsing
+- Reading challenges
+- User authentication
 - Book giveaways
-- Nonfiction
-- Biography
-- Children's literature
+- New releases
+- User accounts
+- Social reading
+- Literary classics
+- Goodreads LLC
+- Amazon integration
+- Single sign-on (SSO)
+- Book ratings and reviews
+- Reading community
 
-## User Authentication & Account
+## Authentication & Account
 
-- [Sign In](https://www.goodreads.com/user/sign_in): User authentication and login page with social login options
-- [Goodreads Sign In](https://www.goodreads.com/challenges/11680): Goodreads login and authentication page with passkey support
+- [Sign in](https://www.goodreads.com/user/sign_in): Goodreads authentication with Amazon, Google, and Apple SSO
+- [Goodreads Sign in](https://www.goodreads.com/challenges/11680): Goodreads login page with password reset and account access
 
-## Book Genres & Discovery
+## Genre Browsing & Discovery
 
-- [Art Books](https://www.goodreads.com/genres/art): Art genre page with new releases and popular book recommendations
-- [Biography Books](https://www.goodreads.com/genres/biography): Biography genre page featuring new releases and historical biographies
-- [Business Books](https://www.goodreads.com/genres/business): Business genre page with leadership and professional development books
-- [Children's Books](https://www.goodreads.com/genres/children-s): Children's books genre page with picture books and young reader content
-- [Christian Books](https://www.goodreads.com/genres/christian): Christian books genre page with fiction and living category recommendations
+- [Art Books](https://www.goodreads.com/genres/art): Browse Art genre books with new releases and recommendations
+- [Biography Books](https://www.goodreads.com/genres/biography): Browse Biography genre with new releases and popular titles
+- [Business Books](https://www.goodreads.com/genres/business): Browse Business genre with leadership and productivity books
+- [Childrens Books](https://www.goodreads.com/genres/children-s): Browse Children's books with illustrated stories and giveaways
+- [Christian Books](https://www.goodreads.com/genres/christian): Browse Christian fiction and living books with recommendations
+- [Classics Books](https://www.goodreads.com/genres/classics): Browse literary classics including Orwell, Fitzgerald, Morrison
 
-## Legal & Privacy
+## Legal & Policies
 
-- [Terms of Use](https://www.goodreads.com/about/terms): Legal terms of use for Goodreads.com service and user accounts
-- [Privacy Policy](https://www.goodreads.com/about/privacy): Privacy policy for Goodreads LLC covering user data and Amazon integration
+- [Terms of Use](https://www.goodreads.com/about/terms): Goodreads LLC terms of service and user responsibilities
+- [Privacy Policy](https://www.goodreads.com/about/privacy): Goodreads LLC data collection and privacy practices

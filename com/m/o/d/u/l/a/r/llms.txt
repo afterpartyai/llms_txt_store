@@ -1,0 +1,61 @@
+# Modular
+
+> > Modular delivers a unified AI inference stack optimized from GPU kernels to cloud serving, enabling high-performance deployment of 500+ models across NVIDIA and AMD hardware.
+
+Modular provides end-to-end AI inference solutions through its MAX platform, combining compiler optimization (MLIR), the Mojo language, and managed cloud infrastructure. The platform supports shared endpoints, dedicated GPU serving, custom model deployment, and bring-your-own-cloud options with 2x vLLM throughput improvements.
+
+## Key Topics
+
+- Modular MAX Platform
+- GPU Optimization
+- NVIDIA & AMD Support
+- Mojo Language
+- MLIR Compiler
+- Model Serving
+- LLM Inference
+- OpenAI-Compatible APIs
+- Managed Infrastructure
+- Custom Model Deployment
+- vLLM Performance
+- Image Generation
+- Code Generation
+- Speculative Decoding
+- Hardware Portability
+
+## Platform & Deployment
+
+- [Modular: Inference from Kernel to Cloud](https://www.modular.com): Homepage: unified AI inference stack from GPU kernels to cloud serving on NVIDIA and AMD
+- [Modular Documentation | Modular](https://docs.modular.com/max): Documentation for Modular Platform covering AI inference, deployment, and Mojo language
+- [Modular: Our Cloud](https://www.modular.com/deploy/our-cloud): Managed AI deployment on NVIDIA and AMD with 2x vLLM throughput and 500+ models
+- [Modular: Your Cloud, Our Engineers, Any GPU](https://www.modular.com/deploy/your-cloud): BYOC deployment in your VPC on NVIDIA and AMD with auto-scaling and data privacy
+
+## Inference Endpoints & APIs
+
+- [Modular: Shared Endpoints, Our Cloud, Any GPU](https://www.modular.com/inference/shared-endpoints): OpenAI-compatible shared endpoints with pay-per-token pricing for 500+ models
+- [Modular: Dedicated Endpoints](https://www.modular.com/inference/dedicated-endpoints): Dedicated GPU endpoints with $/minute pricing and compiler-optimized performance
+- [Modular: Custom Models](https://www.modular.com/inference/custom-models): Deploy proprietary models with Mojo kernels and MLIR compilation across hardware
+
+## Model Library & Solutions
+
+- [Modular: Model Library](https://www.modular.com/models): Library of 500+ open source models ready for API deployment
+- [Modular: Image generation](https://www.modular.com/solutions/image-generation): FLUX and Stable Diffusion deployment with 4x PyTorch performance on NVIDIA/AMD
+- [Modular: Code generation](https://www.modular.com/solutions/code-generation): Code model serving with speculative decoding and structured output at scale
+- [Modular: Audio Models](https://www.modular.com/solutions/audio): TTS, speech-to-text, and voice models with GPU optimization and custom Mojo support
+
+## Featured Models
+
+- [Modular: FLUX.2 Dev](https://www.modular.com/models/flux2): FLUX.2 Dev 32B image generation model for text-to-image and image editing
+- [Modular: DeepSeek V3](https://www.modular.com/models/deepseek-v3-2): DeepSeek V3.2 685B MoE model deployment with 37B active parameters
+- [Modular: Kimi K2.5](https://www.modular.com/models/kimi-k2-5): Kimi K2.5 ~1T MoE model with text, vision, and reasoning capabilities
+- [Modular: GLM-5](https://www.modular.com/models/glm-5): GLM-5 744B MoE model with 44B active parameters for multilingual reasoning
+- [Modular: MiniMax M2.5](https://www.modular.com/models/minimax-m2-5): MiniMax M2.5 230B MoE model optimized for efficient text generation
+
+## Resources & Updates
+
+- [Modular: Blog](https://www.modular.com/blog): Blog hub with perspectives on high-performance AI, infrastructure, and Mojo ecosystem
+- [Modular: Modular 26.2: State-of-the-Art Image Generation and Upgraded AI Coding with Mojo](https://www.modular.com/blog/modular-26-2-state-of-the-art-image-generation-and-upgraded-ai-coding-with-mojo): Release announcement for Modular 26.2 with FLUX.2 image generation and 4x performance improvements
+
+## Pricing & Support
+
+- [Modular: Editions & Pricing](https://www.modular.com/pricing): Pricing and editions for self-hosted, cloud, and BYOC AI inference deployment
+- [Modular: Request a Demo](https://www.modular.com/request-demo): Demo request form for custom platform walkthrough, use case consultation, and pricing

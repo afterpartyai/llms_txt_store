@@ -1,0 +1,58 @@
+# HPCC Systems
+
+> HPCC Systems is an open-source, cloud-native big-data platform featuring the ECL programming language, Kubernetes deployment, and machine learning capabilities for enterprise data engineering.
+
+HPCC Systems provides a comprehensive data engineering platform with distributed processing engines (Thor and Roxie), containerized deployment via Kubernetes and Helm, and extensive training resources. The platform is maintained by LexisNexis Risk Solutions and supports both cloud-native and bare-metal deployments.
+
+## Key Topics
+
+- ECL (Enterprise Control Language)
+- HPCC Systems Platform
+- Thor (distributed processing engine)
+- Roxie (query engine)
+- Kubernetes
+- Cloud-native architecture
+- Docker containerization
+- Helm charts
+- Machine Learning Library
+- Big-data processing
+- Data transformation
+- ECL IDE
+- Terraform deployment
+- Community Edition
+- High-performance computing
+
+## Platform Overview
+
+- [Home](https://hpccsystems.com): HPCC Systems homepage showcasing data engineering platform with ECL, Kubernetes, and machine learning capabilities
+- [About HPCC Systems](https://hpccsystems.com/about): Overview of HPCC Systems platform with Kubernetes, cloud-native architecture, and big-data capabilities
+- [Platform](https://hpccsystems.com/platform): HPCC Systems platform details covering Kubernetes, cloud deployment, and data engineering features
+- [Why HPCC Systems](https://hpccsystems.com/platform/why-hpcc-systems): Product comparison and feature highlights explaining HPCC Systems advantages for big-data
+- [Platform Overview Videos](https://hpccsystems.com/platform/videos): Training videos on HPCC Systems platform, ECL programming, Thor and ROXIE architecture
+
+## Getting Started & Installation
+
+- [Getting Started](https://hpccsystems.com/getting-started): Installation and setup guide for HPCC Systems using Docker Desktop and Minikube
+- [Deploy](https://hpccsystems.com/downloads): HPCC Systems Platform v10.2 deployment guide using Helm, Terraform, and Kubernetes
+- [Deploy](https://hpccsystems.com/download): HPCC Systems Platform v10.2 installation and deployment options for cloud and bare-metal
+- [Installation and Administration](https://hpccsystems.com/training/documentation/installation-and-administration): System setup and administration guide for HPCC Systems Community Edition installation
+- [Cloud Native Containerized Platform](https://hpccsystems.com/training/documentation/cloud-native-containerized-platform): Docker and Kubernetes deployment guide for HPCC Systems with Helm charts
+
+## ECL Programming & Learning
+
+- [Learning ECL](https://hpccsystems.com/training/documentation/learning-ecl): Comprehensive ECL programming language guide with tutorials and reference materials
+- [Tutorials](https://hpccsystems.com/training/documentation/tutorials): ECL programming tutorials covering Thor, Roxie, and data analytics with HPCC Systems
+- [ECL IDE And Client Tools](https://hpccsystems.com/training/documentation/ecl-ide-and-client-tools): Documentation for ECL IDE, compiler, and command-line client tools
+- [Training](https://hpccsystems.com/training): Official training courses covering ECL, data transformation, machine learning, and Roxie
+- [Learn](https://hpccsystems.com/learn): Learning resources and training tracks for ECL programming and big-data processing
+
+## Documentation & Reference
+
+- [Documentation](https://hpccsystems.com/training/documentation): Central documentation hub for HPCC Systems covering installation, ECL, and cloud deployment
+- [HPCC Systems Machine Learning Library](https://hpccsystems.com/download/free-modules/hpcc-systems-machine-learning-library): Machine Learning Library module with ECL algorithms for supervised learning and predictive modeling
+- [White Papers and Books](https://hpccsystems.com/training/publications): White papers and technical publications on HPCC Systems, Spark, and data lake management
+- [FAQs](https://hpccsystems.com/training/faqs): Frequently asked questions about HPCC Systems platform and Hadoop alternatives
+
+## Resources & Community
+
+- [Resources](https://hpccsystems.com/resources): Resource center with documentation, blog posts, releases, and community highlights

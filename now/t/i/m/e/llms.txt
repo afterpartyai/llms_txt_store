@@ -1,59 +1,63 @@
-# Time.now
+# time.now
 
-> > Time.now is a comprehensive time zone and calendar resource providing converters, prayer times, astronomical events, and cultural time-keeping information worldwide.
+> > A comprehensive global time and information platform providing real-time current times, timezones, prayer times, weather, and astronomical data for cities and regions worldwide.
 
-Time.now serves users globally with timezone conversion tools (EST, EDT, UTC, IST, BRT, NPT, ACST, NZST), Islamic prayer time calculations (Fajr, Asr, Maghrib), and educational content about calendars, daylight saving time, and astronomical phenomena. The platform combines practical time management tools with cultural and religious time-keeping traditions.
+time.now is a multi-purpose world information hub that combines precise timekeeping with location-based data. The platform serves users seeking current local times across 200+ locations, timezone conversions, Islamic prayer schedules, weather conditions, air quality monitoring, and astronomical events.
 
 ## Key Topics
 
-- Time zone conversion
-- UTC offsets and DST
-- Eastern Standard Time (EST/EDT)
-- Islamic prayer times (Fajr, Asr, Maghrib)
-- Daylight Saving Time
-- Prayer calculation methods
-- Calendar systems
-- Astronomical events
-- Regional time zones (United States, Canada, New Zealand)
-- Time management and planning
-- Sunset and twilight timing
-- Religious observances
-- Travel time planning
+- Current Time
+- Time Zones
+- World Clock
+- UTC/GMT
+- Timezone Converter
+- Global Cities
+- IANA Timezones
+- Prayer Times
+- Local Times
+- Major Cities
+- Atomic Time
+- Sunrise/Sunset
+- Islamic Calendar
+- Weather
+- Air Quality Index
 
-## Time Zone Converters
+## Core Time Tools
 
-- [EST to BRT Converter](https://time.now/tool/est-to-brt-converter): Convert Eastern Standard Time to Brasília Time with DST support
-- [CDT to IST Converter](https://time.now/tool/cdt-to-ist-converter): Convert Central Daylight Time to India Standard Time instantly
-- [EST to NPT Converter](https://time.now/tool/est-to-npt-converter): Convert Eastern Time to Nepal Time with 45-minute offset handling
-- [ACST to NZST Converter](https://time.now/tool/acst-to-nzst-converter): Convert Australian Central to New Zealand Standard Time with DST
-- [Current Time in States & Regions Worldwide](https://time.now/regions): Browse current time across 200+ global states and regions directory
+- [Current Time Now](https://time.now): Homepage showcasing current time across major cities and global timezones
+- [Online Clock](https://time.now/clock): Precise online clock with full-screen mode and atomic time synchronization
+- [Interactive Time Zone Map](https://time.now/time-zone-map): Interactive world map for exploring timezones and city search
 
-## Islamic Prayer Times & Calculations
+## Global Location Browsing
 
-- [Guide to the Five Daily Islamic Prayers](https://time.now/articles/five-daily-islamic-prayers): Guide to Salah: Fajr, Dhuhr, Asr and daily Islamic prayer timing
-- [Major Islamic Prayer Calculation Methods Explained](https://time.now/articles/major-islamic-prayer-calculation-methods-explained): Islamic prayer calculation methods for Fajr and Isha solar angles
-- [Why Asr Time Varies More in Winter Compared to Summer](https://time.now/articles/asr-winter-summer-variation): Explains Asr prayer timing variation due to seasonal sun angles
-- [What Breaks Your Fast (During Ramadan) and Common Myths Explained](https://time.now/articles/what-breaks-your-fast-ramadan-myths-explained): Ramadan fasting rules from Fajr to Maghrib and common myths debunked
+- [Current Time in All Countries](https://time.now/countries): Complete list of all countries with live current local times
+- [Current Local Time in Most Popular Cities](https://time.now/cities): Live current times for most popular cities worldwide
+- [World Time by Continent](https://time.now/continents): Browse current time across all seven continents and major cities
+- [Current Time in States & Regions Worldwide](https://time.now/regions): Browse current time in states and regions across 200+ locations
 
-## Calendars & Time Systems
+## Timezone Reference
 
-- [Calendar Days vs Business Days and Why It Matters for Planning](https://time.now/articles/calendar-days-vs-business-days): Explains calendar vs business days for contracts and deadline planning
-- [The Liturgical Calendar and Its Cycle of Religious Seasons](https://time.now/articles/liturgical-calendar-seasons): Christian liturgical calendar seasons: Advent, Lent, Easter cycle
-- [The Revised Julian Calendar](https://time.now/articles/revised-julian-calendar): History of Revised Julian Calendar used by Orthodox churches
-- [How to Plan Your Entire Year Using a Digital Calendar](https://time.now/articles/plan-your-year-digital-calendar): Yearly planning guide using Time.now's digital calendar tool
+- [Time Now in All Time Zones](https://time.now/timezones): Reference guide for all major timezones (EST, PST, UTC, GMT, CET)
+- [All IANA Timezones Current Times](https://time.now/iana-time-zone): Complete IANA/Olson timezone database with live current times
 
-## Daylight Saving Time & Time Zones
+## Astronomical & Natural Data
 
-- [25 Facts about DST](https://time.now/articles/25-facts-about-daylight-saving-time): 25 facts about Daylight Saving Time history and global adoption
-- [Your Way To Moscow: Time and Travel](https://time.now/blog/your-way-to-moscow-time-and-travel): Moscow travel guide covering MSK timezone (UTC+3) and local tips
+- [Sunrise Times Today](https://time.now/sunrise): Live sunrise times and countdowns for cities worldwide
+- [Sunset Times Today](https://time.now/sunset): Live sunset times and countdowns for cities worldwide
+- [Solar & Lunar Eclipses: 2026-2035 Guide & Visibility Schedules](https://time.now/eclipses): Comprehensive eclipse guide with visibility maps and local timings
 
-## Astronomical Events & Phenomena
+## Religious & Cultural Information
 
-- [How Long After Sunset Does It Get Dark?](https://time.now/articles/how-long-after-sunset-does-it-get-dark): Explains twilight phases and 70-100 minute darkness timeline after sunset
-- [Predictions for Future Total Solar Eclipses Through 2050](https://time.now/articles/predictions-future-total-solar-eclipses-through-2050): Total solar eclipse predictions and viewing tips through 2050
-- [What is Moonset?](https://time.now/articles/what-is-moonset): Explains moonset timing and 50-minute daily shift in lunar cycles
+- [Islamic Prayer Times Worldwide](https://time.now/prayer-times): Accurate daily Islamic prayer times (Salah) for worldwide cities
+- [Islamic Calendar 2026](https://time.now/islamic-calendar): Islamic Hijri calendar with prayer times and Ramadan schedule
+- [Public Holidays Worldwide](https://time.now/holidays): Global public holidays calendar for next 30 days
+
+## Environmental & Weather Data
+
+- [Weather Around The World](https://time.now/weather): Live weather conditions and temperatures for world capital cities
+- [World Air Quality Index (AQI)](https://time.now/aqi): Real-time air quality index monitoring PM2.5 and pollution levels
 
 ## Optional
 
-- [Best Lucky Colors to Wear for Chinese New Year 2026](https://time.now/articles/best-lucky-colors-chinese-new-year-2026): Lucky colors and cultural symbolism for Chinese New Year 2026
-- [How Many Public Holidays Does Panama Have, And What Happens On December 8?](https://time.now/articles/panama-public-holidays-december-8): Panama's 11 public holidays including Dec 8 Mother's Day celebration
+- [Go Premium](https://time.now/premium): Premium subscription plans with ad-free experience and enhanced features
+- [Calendar 2026](https://time.now/calendar): Printable calendar with public holidays for worldwide countries

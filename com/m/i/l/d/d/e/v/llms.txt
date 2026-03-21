@@ -1,0 +1,60 @@
+# MildDev
+
+> > A comprehensive coding blog covering Python fundamentals, web development, and practical programming tutorials with best practices and real-world examples.
+
+MildDev is a technical blog focused on helping developers master core programming concepts, particularly Python, TypeScript, and JavaScript. The site offers beginner-friendly guides, code tutorials, and best practices across data structures, file I/O, functional programming, and modern development patterns.
+
+## Key Topics
+
+- Python
+- Python basics
+- Data structures
+- Context managers
+- Lambda functions
+- Decorators
+- List comprehension
+- JSON handling
+- File I/O
+- Best practices
+- Code examples
+- Error handling
+- Enumerate
+- TypeScript
+- Web development
+
+## Python Fundamentals
+
+- [What Are Python Decorators?](https://milddev.com/what-are-python-decorators): Python decorators guide: function wrapping, functools.wraps, design patterns, best practices.
+- [Python Context Manager Guide](https://milddev.com/mastering-python-context-managers): Python context managers tutorial: with statement, custom managers, exception handling.
+- [What are the differences between Python Modules and Packages?](https://milddev.com/what-are-the-differences-between-python-modules-and-packages): Python modules vs packages: code organization, import system, project structure guide.
+- [Python for Loop with Index](https://milddev.com/python-for-loops-with-index): Python loops with index: enumerate(), range(), iteration patterns, clean code tips.
+- [How to sort in Python using Lambda](https://milddev.com/how-to-sort-in-python-using-lambda): Python sorting with lambda: sorted(), list.sort(), custom key functions, examples.
+- [Python One-Line If Else Statement](https://milddev.com/python-oneline-if-else-statement): Python ternary operator: one-line if-else, list comprehension, readability best practices.
+
+## Data Structures & Collections
+
+- [Adding Elements to Python Sets](https://milddev.com/adding-elements-to-python-sets): Guide to Python sets: add(), update() methods, pitfalls, performance tips with examples.
+- [Python Append to Dictionary](https://milddev.com/python-append-to-dictionary): Append to Python dictionaries: update(), setdefault(), defaultdict, unpacking methods.
+- [Python Get Index of Item in List](https://milddev.com/python-get-index-of-item-in-list): Get list index in Python: index() method, error handling, enumerate, performance tips.
+- [How to Check if a Python List Is Empty](https://milddev.com/how-to-check-if-a-python-list-is-empty): Check empty Python lists: len(), truthiness checks, comparisons, best practices.
+
+## File I/O & Data Handling
+
+- [How to Pretty Print JSON in Python?](https://milddev.com/how-to-pretty-print-json-in-python): Tutorial: pretty print JSON in Python using json module and pprint for readable output.
+- [How to save JSON to a Dictionary in python](https://milddev.com/how-to-save-json-to-a-dictionary-in-python): Convert JSON to Python dict: json.loads(), error handling, streaming, performance tips.
+- [How to save data to CSV file in python?](https://milddev.com/how-to-save-data-to-a-csv-file-in-python): Save data to CSV in Python: csv.writer, DictWriter, encoding, performance best practices.
+- [Python Write String to File](https://milddev.com/how-to-write-a-string-to-a-file-in-python): Python file I/O tutorial: write strings using open(), context managers, encoding.
+
+## Utilities & Tools
+
+- [Python UUID Generator](https://milddev.com/python-uuid-generator): Python UUID generation: uuid module, versions, formatting, best practices, RFC 4122.
+
+## Site Information
+
+- [MildDev - Your Comprehensive Coding Blog](https://milddev.com): MildDev homepage: comprehensive coding blog covering web dev, APIs, Python, TypeScript, and more.
+- [About Us](https://milddev.com/about-us): MildDev about page: coding blog mission, tutorials on Python, TypeScript, Node.js.
+- [Contact Us](https://milddev.com/contact-us): MildDev contact: reach out, guest contributions, social media links, feedback.
+
+## Optional
+
+- [Privacy Policy](https://milddev.com/privacy-policy): MildDev privacy policy: data collection, cookies, Google Analytics, data security.

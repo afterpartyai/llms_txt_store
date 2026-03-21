@@ -1,58 +1,59 @@
 # Apipheny
 
-> > Apipheny is a no-code Google Sheets add-on that connects REST APIs to spreadsheets, enabling users to import data from hundreds of services without writing code.
+> > Apipheny is a Google Sheets add-on that enables seamless API data import and integration directly into spreadsheets with support for all HTTP methods, authentication, pagination, and scheduling.
 
-The site provides comprehensive tutorials for integrating popular APIs (OpenAI, GitHub, Facebook Ads, cryptocurrency exchanges, NFT marketplaces, and more) with Google Sheets using the Apipheny connector. It also offers educational resources explaining API fundamentals, authentication methods, and HTTP request types for beginners.
+Apipheny provides a comprehensive toolkit for connecting APIs to Google Sheets without coding. It supports REST APIs, OAuth 2.0 authentication, multiple HTTP methods, automated scheduling, and batch processing of API requests.
 
 ## Key Topics
 
-- Apipheny add-on
-- Google Sheets integration
-- REST API connector
-- API authentication
-- No-code API integration
-- Cryptocurrency APIs (Coinbase, Binance, CoinGecko, Nomics)
-- Blockchain data (Etherscan, BscScan, Cardano)
-- NFT marketplace APIs (OpenSea, Magic Eden)
-- API keys and tokens
-- HTTP methods (GET, POST)
-- Data import automation
-- OAuth authentication
-- RapidAPI integration
-- Marketing API connectors
-- API request configuration
+- Google Sheets
+- API Integration
+- REST API
+- HTTP Methods (GET, POST, PUT, PATCH, DELETE)
+- OAuth 2.0
+- JSON Parsing
+- API Pagination
+- Data Import
+- API Scheduling
+- Custom Functions
+- API Connector
+- Spreadsheet Automation
+- Response Viewer
+- Request Management
 
-## Getting Started & API Fundamentals
+## Getting Started
 
-- [What Is An API & How Do APIs Work?](https://apipheny.io/what-is-an-api): Beginner guide explaining API fundamentals and workflow basics
-- [What's an API Key? API Key & Value Meaning [Explained]](https://apipheny.io/what-is-an-api-key): Explanation of API keys, authentication methods, and security basics
-- [What Is A POST API Call? How A POST HTTP Request Works](https://apipheny.io/what-is-post-request): Explanation of POST HTTP method and how it differs from GET requests
-- [How To Modify API Request Settings in Apipheny](https://apipheny.io/request-settings): Guide to configuring Apipheny request settings and data import options
+- [Apipheny – Import API Data to Google Sheets](https://apipheny.io): Apipheny homepage showcasing API data import to Google Sheets
+- [Apipheny - API Connector - Google Workspace Marketplace](https://apipheny.io/install): Installation page for Apipheny Google Sheets add-on via Workspace
+- [What Is An API & How Do APIs Work?](https://apipheny.io/what-is-an-api): Beginner guide explaining API fundamentals and how APIs work
 
-## Popular API Integrations
+## HTTP Methods & Requests
 
-- [Connect OpenAI To Google Sheets [API Integration]](https://apipheny.io/openai-api): Guide to connect OpenAI API to Google Sheets using Apipheny connector
-- [Connect Facebook Ads To Google Sheets [Import/Export]](https://apipheny.io/facebook-ads-api-google-sheets): Tutorial: Connect Facebook Marketing API to Google Sheets for ads data
-- [Connect Github To Google Sheets [API Integration]](https://apipheny.io/github-api-google-sheets): Tutorial: Connect GitHub REST API to Google Sheets using access tokens
-- [Connect Notion To Google Sheets [API Integration]](https://apipheny.io/notion-api): Tutorial: Integrate Notion REST API with Google Sheets using Apipheny
-- [Connect Figma To Google Sheets [Integration]](https://apipheny.io/figma-api-google-sheets): Tutorial: Connect Figma REST API to Google Sheets with OAuth authentication
-- [Connect RapidAPI To Google Sheets [Integration]](https://apipheny.io/rapidapi-google-sheets): No-code guide to connect RapidAPI services to Google Sheets with Apipheny
+- [How To Make A HTTP GET API Request](https://apipheny.io/get-request-google-sheets): Tutorial on making HTTP GET requests in Google Sheets with Apipheny
+- [How To Make A POST Request In Google Sheets](https://apipheny.io/post-request-google-sheets): Guide to making POST requests in Google Sheets using Apipheny
+- [PUT, PATCH, & DELETE API Requests](https://apipheny.io/put-patch-delete-google-sheets): Tutorial covering PUT, PATCH, DELETE HTTP methods in Google Sheets
+- [How To Get Cell Value In Your Google Sheets API Request](https://apipheny.io/reference-cell-value-api-request): Guide to referencing cell values in Apipheny API requests
+- [How To Modify API Request Settings in Apipheny](https://apipheny.io/request-settings): Guide to customizing API request settings in Apipheny
 
-## Cryptocurrency & Blockchain APIs
+## Authentication & Data Handling
 
-- [Connect Etherscan To Google Sheets [API Integration]](https://apipheny.io/etherscan-api): Tutorial: Integrate Etherscan Ethereum blockchain API with Google Sheets
-- [Connect Cardano API To Google Sheets [Integration]](https://apipheny.io/cardano-blockchain-api): Guide to integrate Cardano blockchain API with Google Sheets via Apipheny
-- [Connect Nomics To Google Sheets [Integration]](https://apipheny.io/nomics-api): Tutorial: Integrate Nomics crypto data API with Google Sheets via Apipheny
-- [Connect PancakeSwap To Google Sheets [API Integration]](https://apipheny.io/pancakeswap-api): Guide to integrate PancakeSwap DEX API on Binance Smart Chain with Sheets
+- [Connect To An OAuth 2.0 API in Google Sheets](https://apipheny.io/oauth-settings): Guide to setting up OAuth 2.0 authentication in Apipheny
+- [Parsing Options & Array Handling in Apipheny](https://apipheny.io/parsing-options): Guide to JSON parsing options and array handling in Apipheny
+- [API Data Response Viewer – Preview Your API Import](https://apipheny.io/response-viewer): Tutorial on using Apipheny's response viewer to preview API data
 
-## NFT Marketplace APIs
+## Advanced Features
 
-- [Connect OpenSea To Google Sheets [API Integration]](https://apipheny.io/opensea-api): Guide to integrate OpenSea NFT marketplace API with Google Sheets
-- [Connect Magic Eden To Google Sheets [API Integration]](https://apipheny.io/magic-eden-api): Guide to integrate Magic Eden NFT marketplace API with Google Sheets
+- [How To Use The =APIPHENY() Custom Function in Google Sheets](https://apipheny.io/apipheny-custom-function): Tutorial on using the APIPHENY custom function in Google Sheets
+- [Automatic API Pagination in Google Sheets](https://apipheny.io/pagination): Tutorial on configuring automatic API pagination in Apipheny
+- [Schedule API Calls In Google Sheets Using Apipheny](https://apipheny.io/schedule-requests): Tutorial on scheduling automated API calls with Apipheny
+- [How To Stack & Fetch Multiple API URLs in Apipheny](https://apipheny.io/stacking-urls): Tutorial on stacking and fetching multiple API URLs simultaneously
 
-## Optional
+## Request Management
 
-- [Connect Sports Data API To Google Sheets [Integration]](https://apipheny.io/sportsdata-api): Tutorial: Connect Sportsdata API to Google Sheets using Apipheny addon
-- [Connect Outbrain To Google Sheets [Integration]](https://apipheny.io/outbrain-api): Tutorial: Connect Outbrain REST API to Google Sheets with authentication
-- [Connect Minecraft API To Google Sheets [Integration]](https://apipheny.io/minecraft-api): Tutorial: Integrate Mojang Minecraft API with Google Sheets via Apipheny
-- [Best Salesforce QuickBooks Integration Software](https://apipheny.io/salesforce-quickbooks-integration): Review of Salesforce-QuickBooks integration tools including Breadwinner
+- [How to Save Your API Requests in Apipheny](https://apipheny.io/save-api-requests): Guide to saving and managing API requests in Apipheny
+- [Run All Saved Requests At Once](https://apipheny.io/run-all-requests): Guide to executing all saved API requests in batch with Apipheny
+- [Transfer Saved API Requests To A Different Google Sheet](https://apipheny.io/transfer-saved-api-requests): Tutorial on exporting and transferring saved API requests
+
+## Tutorials & Resources
+
+- [API Integration Tutorials](https://apipheny.io/tutorials): Index of API integration tutorials covering various platforms

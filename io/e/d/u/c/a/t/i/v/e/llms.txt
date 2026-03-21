@@ -1,8 +1,8 @@
 # Educative
 
-> Educative is an AI-powered interactive learning platform for developers offering courses in generative AI, system design, cloud certifications, and technical interview preparation.
+> AI-powered interactive learning platform offering hands-on courses in generative AI, system design, cloud architecture, and technical interview preparation for developers.
 
-Educative provides hands-on, interactive courses designed to help developers master modern technologies including LLMs, agentic AI systems, AWS cloud services, and coding fundamentals. The platform combines AI-assisted feedback with practical labs and real-world project experience.
+Educative provides interactive, project-based courses designed to help developers master modern technologies including LLMs, agentic AI systems, AWS cloud services, and interview preparation. The platform emphasizes practical, hands-on learning with AI-assisted feedback and real-world applications.
 
 ## Key Topics
 
@@ -14,43 +14,46 @@ Educative provides hands-on, interactive courses designed to help developers mas
 - System Design
 - AWS Cloud
 - Claude Code
-- Llama Stack
 - Interview Preparation
-- Prompt Engineering
+- LlamaIndex
+- Llama Stack
 - Multi-Agent Systems
-- Interactive Learning
-- Cloud Certifications
-- Full-Stack Development
+- AI Agents
+- Hands-on Projects
+- Cloud Certification
 
 ## AI & Generative AI Fundamentals
 
-- [Generative AI Essentials - AI-Powered Course](https://www.educative.io/courses/generative-ai-essentials): Foundational course on LLMs, NLP, and generative AI ethics
-- [Essentials of Large Language Models: A Beginner's Journey](https://www.educative.io/courses/essentials-of-large-language-models-a-beginners-journey): Beginner course on LLM fundamentals, RAG, embeddings, and prompting
-- [Agentic System Design - AI-Powered Course](https://www.educative.io/courses/agentic-ai-systems): Course on designing autonomous AI agents and multi-agent systems
-- [Agentic System Design Crash Course - AI-Powered Course](https://www.educative.io/courses/agentic-system-design-crash-course): 8-hour crash course on AI agent design and agentic architectures
+- [Generative AI Essentials](https://www.educative.io/courses/generative-ai-essentials): Generative AI fundamentals covering LLMs, NLP, and AI ethics for beginners
+- [Essentials of Large Language Models: A Beginner's Journey](https://www.educative.io/courses/essentials-of-large-language-models-a-beginners-journey): LLM fundamentals including inference, training, prompting, embeddings, and RAG
+- [Claude Code: Workflows and Tools](https://www.educative.io/courses/claude-code): Tutorial on Claude Code AI development with Opus, Sonnet, and GitHub integration
 
-## AI Development & Tools
+## Agentic AI Systems & Advanced Applications
 
-- [Claude Code: Workflows and Tools - AI-Powered Course](https://www.educative.io/courses/claude-code): Course on Claude Code AI development with Anthropic models and GitHub
-- [Mastering MCP: Building Advanced Agentic Applications](https://www.educative.io/courses/advanced-model-context-protocol): Advanced course on Model Context Protocol for agentic AI applications
-- [Llama Stack: From Fundamentals to Deployment - AI-Powered Course](https://www.educative.io/courses/llamastack): Course on Llama Stack with RAG, agentic workflows, and deployment
-- [Advanced Windsurf AI for Professionals - AI-Powered Course](https://www.educative.io/courses/advanced-windsurf-ai-for-professionals): Full-stack development with Windsurf AI, Cascade, and JavaScript
+- [Agentic System Design](https://www.educative.io/courses/agentic-ai-systems): Course on designing autonomous AI agents and agentic system architectures
+- [Agentic System Design Crash Course](https://www.educative.io/courses/agentic-system-design-crash-course): Intensive 8-hour crash course on real-world AI agent design and architectures
+- [Mastering MCP: Building Advanced Agentic Applications](https://www.educative.io/courses/advanced-model-context-protocol): Advanced MCP course for building agentic apps with LlamaIndex and RAG systems
+- [Llama Stack: From Fundamentals to Deployment](https://www.educative.io/courses/llamastack): Llama Stack guide covering agentic workflows, RAG, safety, and deployment
 
-## Technical Interview & System Design
+## Technical Interview & System Design Preparation
 
-- [Tech Interview Prep: Get Hired](https://www.educative.io/interview): Interview prep hub with coding, system design, and AI-assisted feedback
-- [Grokking the Mobile System Design Interview](https://www.educative.io/courses/mobile-system-design): Mobile system design interview prep with architecture patterns
+- [Tech Interview Prep: Get Hired](https://www.educative.io/interview): Tech interview preparation with coding, system design, and AI-assisted feedback
+- [Grokking the Mobile System Design Interview](https://www.educative.io/courses/mobile-system-design): Mobile system design interview prep covering architecture patterns and optimization
 
-## Cloud & AWS Certifications
+## Cloud & AWS Certification
 
-- [AWS Solutions Architect Associate](https://www.educative.io/courses/aws-solutions-architect-associate): AWS SAA-C03 certification prep with hands-on Cloud Labs
-- [Master AWS Certified Cloud Practitioner CLF-C02 Exam](https://www.educative.io/courses/aws-certified-cloud-practitioner-exam): AWS Cloud Practitioner certification prep with practice exams
+- [AWS Solutions Architect Associate](https://www.educative.io/courses/aws-solutions-architect-associate): AWS Solutions Architect Associate (SAA-C03) certification course with hands-on labs
+- [Master AWS Certified Cloud Practitioner CLF-C02 Exam](https://www.educative.io/courses/aws-certified-cloud-practitioner-exam): AWS Cloud Practitioner (CLF-C02) exam prep with practice tests and labs
+
+## AI Development Tools & Frameworks
+
+- [Advanced Windsurf AI for Professionals](https://www.educative.io/courses/advanced-windsurf-ai-for-professionals): Advanced course on Windsurf AI and Cascade for full-stack development
 
 ## Programming Fundamentals
 
-- [Learn Java from Scratch - Free AI-Powered Course](https://www.educative.io/courses/learn-java-from-scratch): Free beginner Java course with fundamentals and hands-on projects
-- [Learn Intermediate SQL - AI-Powered Course](https://www.educative.io/courses/learn-intermediate-sql): Intermediate SQL course covering queries, joins, and aggregations
+- [Learn Java from Scratch](https://www.educative.io/courses/learn-java-from-scratch): Free beginner Java course with fundamentals, projects, and career preparation
+- [Learn Intermediate SQL](https://www.educative.io/courses/learn-intermediate-sql): Intermediate SQL course covering queries, joins, subqueries, and aggregations
 
-## Core Platform
+## Platform Overview
 
-- [Educative: AI-Powered Interactive Courses for Developers](https://www.educative.io): Educative homepage: AI-powered interactive learning platform for developers
+- [Educative: AI-Powered Interactive Courses for Developers](https://www.educative.io): Educative homepage showcasing AI-powered interactive courses for developers at all levels

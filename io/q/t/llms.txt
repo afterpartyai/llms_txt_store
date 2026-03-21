@@ -1,0 +1,61 @@
+# Qt
+
+> Qt is a comprehensive cross-platform development ecosystem providing frameworks, IDEs, design tools, and quality assurance solutions for building scalable software across desktop, mobile, embedded, and automotive platforms.
+
+Qt offers an integrated suite of products spanning the entire software development lifecycle, from UI design and application development to testing and code quality analysis. The platform emphasizes cross-platform compatibility, embedded systems support, and safety-critical application development.
+
+## Key Topics
+
+- Qt Framework
+- QML
+- C++
+- Qt Creator IDE
+- Qt Design Studio
+- Cross-platform development
+- Embedded systems
+- Qt for MCUs
+- Squish GUI testing
+- Axivion static analysis
+- Quality assurance
+- Automotive HMI
+- Functional safety
+- UI design tools
+- Test automation
+
+## Core Products & Frameworks
+
+- [Qt | Tools for Each Stage of Software Development Lifecycle](https://www.qt.io): Qt homepage showcasing tools for all software development lifecycle stages.
+- [Qt Products | Design, Develop & Deploy Cross-Platform UIs](https://www.qt.io/development): Main Qt products page covering Framework, Creator IDE, Design Studio.
+- [Qt Framework – Build Fast, Scalable Cross-Platform Software | Qt](https://www.qt.io/development/qt-framework): Qt Framework product page with APIs, QML, and cross-platform capabilities.
+- [Qt for MCUs | Design & Develop Applications for Microcontrollers](https://www.qt.io/development/develop-software-microcontrollers-mcu): Qt for MCUs product page for embedded microcontroller development.
+- [Qt Framework – Build Fast, Scalable Cross-Platform Software | Qt](https://www.qt.io/development/develop-embedded-devices): Qt Framework for embedded devices with IoT and automotive focus.
+
+## Development Tools & IDEs
+
+- [Qt Development Tools & IDE Support | Qt Creator & More](https://www.qt.io/development/tools): Overview of Qt development tools including Creator IDE and integrations.
+- [Qt Creator IDE – The Professional IDE for Qt Development](https://www.qt.io/development/tools/qt-creator-ide): Qt Creator IDE product page with QML, C++, and AI assistance features.
+- [Qt Design Studio - UI Development Tool for Applications & Devices](https://www.qt.io/development/ui-design-tools): Qt Design Studio product page for 2D/3D UI design and QML export.
+- [Figma to Qt - GUI Design for Embedded Systems](https://www.qt.io/development/gui-design-figma): Figma to Qt plugin for converting designs to embedded device GUIs.
+
+## Application Development Solutions
+
+- [Desktop, Mobile, XR & Web App Development Tools | Qt](https://www.qt.io/development/application-development): Qt tools for desktop, mobile, XR, and web application development.
+- [Qt for Automotive HMI Development in Software-Defined Vehicles](https://www.qt.io/development/qt-in-automotive): Qt tools for automotive HMI development and software-defined vehicles.
+- [Qt + IAR | Embedded Development Tools | Qt Group](https://www.qt.io/qt-and-iar): Qt and IAR partnership for embedded development and functional safety.
+
+## Quality Assurance & Testing
+
+- [QA Software & Tools | Qt Quality Assurance](https://www.qt.io/quality-assurance): Qt quality assurance tools: Squish, Coco, Test Center, Axivion.
+- [Squish GUI Testing | Automate Cross-Platform GUI Tests Fast](https://www.qt.io/quality-assurance/squish): Squish GUI test automation tool for desktop, web, and embedded apps.
+- [Coco: The Code Coverage Analysis Tool for Embedded Devices](https://www.qt.io/quality-assurance/coco): Coco code coverage analysis tool for Qt projects and embedded devices.
+- [Test Center for Test Results Management | Quality Assurance](https://www.qt.io/quality-assurance/test-center): Test Center centralized test result management and automation platform.
+
+## Code Quality & Static Analysis
+
+- [Axivion Static Code Analysis: Premier static analyzer](https://www.qt.io/quality-assurance/axivion-static-code-analysis): Axivion static code analysis for C/C++ compliance and code quality.
+- [Software Architecture Verification | Axivion](https://www.qt.io/quality-assurance/axivion-architecture-verification): Axivion architecture verification for safety-critical software systems.
+- [CUDA Code Verification for Safety-Critical Systems | Axivion](https://www.qt.io/quality-assurance/axivion-for-cuda): Axivion CUDA code verification for NVIDIA safety-critical systems.
+
+## Optional
+
+- [QA Licensing | Choose the Right License for Your Testing Needs](https://www.qt.io/quality-assurance/licensing): QA licensing options for Squish, Coco, Test Center, and Axivion.

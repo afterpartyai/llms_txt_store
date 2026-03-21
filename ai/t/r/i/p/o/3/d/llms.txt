@@ -1,53 +1,60 @@
-# Tripo AI
+# Tripo
 
-> > Tripo AI is an AI-powered 3D model generation platform that converts text and images into production-ready 3D assets in seconds, supporting Unity, Unreal, Blender, and industry-standard formats (FBX, OBJ, GLB, STL).
+> > Tripo is an AI-powered 3D generation platform that converts text prompts and images into production-ready 3D models with advanced editing, texturing, rigging, and export capabilities.
 
-Tripo AI provides advanced features including GPT-4o integration, auto-rigging, AI stylization, and API access for developers. The platform serves game developers, architects, urban planners, and construction professionals with tools for rapid 3D content creation, BIM/GIS workflows, and VR/MR applications.
+Tripo provides a comprehensive suite of AI tools for 3D model creation, including text-to-3D and image-to-3D generation, intelligent segmentation, PBR texturing, auto-rigging, and stylization. The platform supports multiple export formats (OBJ, FBX, STL) and integrates with industry-standard software like Blender, Maya, and Unity, making it suitable for game development, animation, and professional 3D workflows.
 
 ## Key Topics
 
 - Text-to-3D generation
 - Image-to-3D conversion
 - AI 3D modeling
-- PBR materials
-- Unity and Unreal Engine integration
-- BIM (Building Information Modeling)
-- GIS (Geographic Information Systems)
-- 3D city modeling and urban planning
-- Construction VR and architectural visualization
-- Auto-rigging and character animation
-- Tripo API and Tripo Studio
-- FBX, OBJ, GLB, STL formats
-- Blender and Godot workflows
-- AI stylization (Lego, Voxel, Voronoi)
-- Digital twins and virtual construction
+- PBR texturing
+- Auto-rigging
+- Model segmentation
+- 3D stylization
+- Tripo Studio
+- Game creation
+- Production workflow
+- FBX/OBJ export
+- Free credits
+- AI-powered editing
+- Mesh topology
+- 3D model generation
 
-## Core AI 3D Generation Features
+## Core Platform
 
-- [Discover AI 3D Model Generators](https://www.tripo3d.ai/discover): Discover Tripo's AI 3D generators: text/image to high-quality 3D models
-- [Text-to-3D Model Generation](https://www.tripo3d.ai/ja/features/text-to-3d-model): Text-to-3D generation feature: prompts to production-ready AI 3D models
-- [GPT-4o Enhanced 3D Generation](https://www.tripo3d.ai/ru/features/image-gen-gpt-4o): Integrates GPT-4o multimodal AI with Tripo's 3D generation pipeline
-- [AI Auto-Rigging](https://www.tripo3d.ai/pt/features/ai-auto-rigging): AI auto-rigging: automatic skeleton detection & skinning for 3D characters
-- [AI Model Stylization](https://www.tripo3d.ai/pt/features/ai-model-stylization): AI stylization: transform models into Lego, Voxel, Voronoi styles instantly
+- [Tripo Homepage](https://www.tripo3d.ai): Main landing page: AI 3D model generator for text/image to 3D conversion
+- [Tripo Studio Workspace](https://studio.tripo3d.ai): Complete AI-powered 3D workspace with generation and editing tools
+- [Studio Home](https://studio.tripo3d.ai/home): Tripo Studio main interface for AI-powered 3D generation and editing
+- [Workspace Overview](https://studio.tripo3d.ai/workspace/overview): 3D generation workspace overview with editing tools and project management
+- [Generation Interface](https://studio.tripo3d.ai/workspace/generate): Create 3D models with AI from text prompts and image inputs
 
-## Urban Planning and 3D City Modeling
+## 3D Generation Features
 
-- [Best 3D City Modeling Tools 2025](https://www.tripo3d.ai/content/pt/compare/the-best-3d-city-modeling): Reviews Tripo AI, Esri, Bentley for 3D city modeling & digital twins
-- [أفضل أدوات نمذجة المدن ثلاثية الأبعاد لعام 2025](https://www.tripo3d.ai/content/ar/compare/the-best-3d-city-modeling): Compares Tripo AI, Esri, Bentley for AI-powered 3D city modeling tools
-- [Best Urban Planning Software 2025](https://www.tripo3d.ai/content/de/compare/the-best-urban-planning-software-3D): Reviews Tripo AI, Esri ArcGIS, Autodesk for 3D urban planning & GIS
-- [2025年最高の都市デザイン3Dビジュアライゼーションツール](https://www.tripo3d.ai/content/ja/compare/the-best-urban-design-3d-visualization): Compares Tripo AI, Autodesk, Esri for urban-scale 3D visualization tools
-- [2025年最佳3D城市景觀設計工具](https://www.tripo3d.ai/content/zh-Hant/compare/the-best-3d-cityscape-design): Reviews Tripo AI, Esri CityEngine, Houdini for 3D cityscape design
-- [2025年版ベスト都市開発モデルツール](https://www.tripo3d.ai/content/ja/compare/the-best-city-development-models): Compares Tripo AI, ESRI, Autodesk for GIS, BIM & urban simulation tools
-- [Melhor Software de Planeamento Urbano 2025](https://www.tripo3d.ai/content/pt/compare/the-best-city-planning-software): Reviews Tripo AI, Esri, Autodesk for GIS, BIM & digital twin city planning
+- [Text-to-3D Model](https://www.tripo3d.ai/features/text-to-3d-model): Convert text prompts to production-ready 3D models in seconds
+- [Image-to-3D Model](https://www.tripo3d.ai/features/image-to-3d-model): Generate 3D models from single or multi-view images instantly
+- [AI Model Segmentation](https://www.tripo3d.ai/features/ai-model-segmentation): Split 3D models into editable parts with intelligent one-click segmentation
+- [AI Texturing](https://www.tripo3d.ai/features/ai-texturing): Auto-texture 3D models with PBR materials for production-quality results
+- [Auto-Rigging](https://www.tripo3d.ai/features/ai-auto-rigging): AI-powered skeleton detection and automatic skin weight assignment for animation
+- [Model Stylization](https://www.tripo3d.ai/features/ai-model-stylization): Transform 3D models into artistic styles like Lego, Voxel, and Voronoi
 
-## Architecture and BIM Workflows
+## Pricing & Plans
 
-- [2025年最佳虚拟建筑模型工具](https://www.tripo3d.ai/content/zh-Hans/compare/the-best-virtual-architecture-models): Reviews Tripo AI, Revit, ArchiCAD for virtual architecture modeling workflows
-- [Meilleurs Outils de Plans de Construction Numériques 2025](https://www.tripo3d.ai/content/fr/compare/the-best-digital-building-plans): Compares Tripo AI, Revit, ArchiCAD for BIM & digital building documentation
-- [2025年最佳3D平面图软件工具](https://www.tripo3d.ai/content/zh-Hans/compare/the-best-3D-floor-plan-software): Compares Tripo AI, SketchUp, RoomSketcher for 3D floor plan creation
+- [Tripo Studio Pricing](https://www.tripo3d.ai/pricing): Flexible subscription tiers and credit-based pricing for 3D model generation
 
-## Construction VR and Virtual Review
+## Community & Events
 
-- [Die Besten Tools für Virtuelle Bauprojektprüfung 2025](https://www.tripo3d.ai/content/de/compare/the-best-virtual-construction-project-review): Compares Tripo AI, Autodesk, Revizto & more for BIM/VDC construction review
-- [أفضل أدوات الواقع الافتراضي في مجال البناء لعام 2025](https://www.tripo3d.ai/content/ar/compare/the-best-construction-virtual-reality): Compares Tripo AI, Autodesk BIM 360, Trimble for construction VR workflows
-- [2025年最佳建筑虚拟现实工具](https://www.tripo3d.ai/content/zh-Hans/compare/the-best-construction-virtual-reality): Reviews Tripo AI, Autodesk, Trimble for construction VR & BIM integration
+- [Tripo Events](https://www.tripo3d.ai/event): 3D design challenges, competitions, and community contests
+- [Tripo GameHub](http://gamehub.tripo3d.ai): Game creation platform with AI tools and monthly challenges
+- [GameHub Home](https://gamehub.tripo3d.ai/home): Game development platform with competitions, API access, and creation tools
+- [Tripo Blog](https://www.tripo3d.ai/blog): Tutorials, tips, and trends in AI 3D modeling and creation
+
+## Partnerships & Support
+
+- [Affiliate Program](https://www.tripo3d.ai/affiliate): Earn 30% recurring commissions for 12 months by promoting Tripo
+
+## Optional
+
+- [Terms of Service](https://www.tripo3d.ai/terms): Legal agreement for Tripo AI platform usage
+- [Privacy Policy](https://www.tripo3d.ai/privacy): Data collection and protection information

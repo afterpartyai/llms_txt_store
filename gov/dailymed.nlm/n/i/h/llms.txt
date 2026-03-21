@@ -1,0 +1,62 @@
+# DailyMed
+
+> > DailyMed is the FDA's official source for structured drug labeling information, providing comprehensive medication data, APIs, and downloadable resources for healthcare professionals and developers.
+
+DailyMed is a National Library of Medicine (NLM) database that distributes FDA-approved drug labels in Structured Product Labeling (SPL) format. It serves as the authoritative source for prescription and over-the-counter medication information, offering both web-based search and programmatic access through REST APIs and bulk data downloads.
+
+## Key Topics
+
+- Structured Product Labeling (SPL)
+- FDA Drug Labels
+- RxNorm Mapping
+- REST API
+- NDC Codes
+- REMS Files
+- Medication Information
+- Drug Database
+- SPL Format
+- RxImage API
+- Pharmacologic Classes
+- Data Downloads
+- RSS Feeds
+- Drug Labeling Standards
+
+## Core Resources
+
+- [DailyMed Homepage](https://dailymed.nlm.nih.gov/dailymed): DailyMed homepage providing FDA drug labels and structured product labeling
+- [DailyMed Main Index](https://dailymed.nlm.nih.gov/dailymed/index.cfm): DailyMed main index with FDA medication information and RxImage API
+- [About DailyMed](https://dailymed.nlm.nih.gov/dailymed/about-dailymed.cfm): DailyMed overview covering FDA and NLM drug labeling database mission
+
+## API & Developer Resources
+
+- [Web Services Documentation](https://dailymed.nlm.nih.gov/dailymed/app-support-web-services.cfm): DailyMed RESTful API documentation for medication and NDC data access
+- [Application Support](https://dailymed.nlm.nih.gov/dailymed/app-support.cfm): Developer resources for DailyMed REST API and web services
+- [Mapping Files Reference](https://dailymed.nlm.nih.gov/dailymed/app-support-mapping-files.cfm): SPL to RxNorm mapping files and pharmacologic classification metadata
+
+## Structured Product Labeling (SPL)
+
+- [SPL Resources](https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm): Structured Product Labeling resources including REMS and XML data files
+- [FDA Drug Guidance & SPL Standards](https://dailymed.nlm.nih.gov/dailymed/fda-drug-guidance.cfm): FDA SPL resources and prescription drug labeling guidance and standards
+- [SPL Image Guidelines](https://dailymed.nlm.nih.gov/dailymed/splimage-guidelines.cfm): Technical specifications for SPL image submission and pharmaceutical imaging
+
+## Data Downloads & Bulk Access
+
+- [Download All Drug Labels](https://dailymed.nlm.nih.gov/dailymed/spl-resources-all-drug-labels.cfm): Bulk download of all DailyMed drug labels in SPL format with updates
+- [Download All Indexing & REMS Files](https://dailymed.nlm.nih.gov/dailymed/spl-resources-all-indexing-files.cfm): Download indexing and REMS files for DailyMed drug database
+- [Download All Mapping Files](https://dailymed.nlm.nih.gov/dailymed/spl-resources-all-mapping-files.cfm): SPL to RxNorm pharmacologic class mapping file downloads
+
+## Search & Browse
+
+- [Advanced Search](https://dailymed.nlm.nih.gov/dailymed/advanced-search.cfm): Advanced search interface for FDA medication labels and drug lookup
+- [Browse Drug Classes](https://dailymed.nlm.nih.gov/dailymed/browse-drug-classes.cfm): Browse pharmacologic drug classes using VA MED-RT and NDF-RT standards
+- [Search Help](https://dailymed.nlm.nih.gov/dailymed/help.cfm): Search help guide with NDC codes and Boolean operator instructions
+
+## Updates & Notifications
+
+- [Announcements](https://dailymed.nlm.nih.gov/dailymed/dailymed-announcements.cfm): DailyMed announcements including API deprecation and FDA product updates
+- [RSS Updates](https://dailymed.nlm.nih.gov/dailymed/rss-updates.cfm): Guide to RSS feed subscriptions for DailyMed drug label updates
+
+## Optional Resources
+
+- [Presentations and Articles](https://dailymed.nlm.nih.gov/dailymed/spl-resources-presentations-articles.cfm): Educational presentations and articles on SPL and DailyMed resources
+- [Labeling Archives](https://dailymed.nlm.nih.gov/dailymed/archives/index.cfm): Historical drug label archives for DailyMed retrieval

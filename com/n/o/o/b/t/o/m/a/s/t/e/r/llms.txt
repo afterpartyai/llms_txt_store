@@ -1,0 +1,64 @@
+# Noob To Master
+
+> A comprehensive learning platform for Java developers covering algorithms, data structures, design patterns, build tools, databases, and DevOps practices.
+
+Noob To Master provides in-depth tutorials and guides for developers transitioning from beginner to advanced levels. The site focuses on practical Java development, system design, and modern development tools with emphasis on performance optimization and best practices.
+
+## Key Topics
+
+- Java
+- Algorithms
+- Data Structures
+- Gradle
+- Hibernate & JPA
+- Big O Notation
+- CI/CD & Jenkins
+- Apache Kafka
+- Elasticsearch
+- Design Patterns
+- Stream API
+- Build Optimization
+- Git
+- Log4J
+- Clean Code
+
+## Core Platforms & Frameworks
+
+- [Competitive Programming Using Java](https://noobtomaster.com/competitive-programming-java): Comprehensive guide to competitive programming with Java algorithms and data structures
+- [Apache Kafka](https://noobtomaster.com/apache-kafka): Complete Apache Kafka guide with architecture, producers, consumers, and setup
+- [Elasticsearch](https://noobtomaster.com/elastic-search): Comprehensive Elasticsearch tutorial covering search, indexing, and performance
+- [Log4J](https://noobtomaster.com/log4j): Comprehensive Log4J logging framework tutorial for Java applications
+
+## Algorithms & Data Structures
+
+- [Evaluating the Efficiency and Performance of Data Structures](https://noobtomaster.com/data-structures-using-java/evaluating-the-efficiency-and-performance-of-data-structures): Tutorial on data structure performance evaluation using Big O notation and Java
+- [Exploring Graph Traversal Algorithms (BFS & DFS)](https://noobtomaster.com/algorithms-using-java/exploring-graph-traversal-algorithms-breadth-first-search-depth-first-search): Tutorial on BFS and DFS graph traversal algorithms with Java implementation
+- [Implementing Linear Search and Binary Search Algorithms](https://noobtomaster.com/algorithms-using-java/implementing-linear-search-and-binary-search-algorithms): Tutorial on linear and binary search algorithm implementation in Java
+
+## Gradle Build Optimization
+
+- [Optimizing Gradle Builds for Performance and Efficiency](https://noobtomaster.com/gradle/optimizing-gradle-builds-for-performance-and-efficiency): Guide to optimizing Gradle builds using Build Cache, Daemon, and parallel execution
+- [Caching Build Artifacts, Configuring Build Parallelization, and Incremental Builds](https://noobtomaster.com/gradle/caching-build-artifacts-configuring-build-parallelization-and-incremental-builds): Guide to Gradle build optimization with caching, parallelization, and incremental builds
+- [Exploring Best Practices for Effective Gradle Usage](https://noobtomaster.com/gradle/exploring-best-practices-for-effective-gradle-usage): Best practices guide for Gradle configuration, dependencies, and build automation
+
+## Hibernate & JPA Database Mapping
+
+- [Understanding the Entity Lifecycle in JPA](https://noobtomaster.com/hibernate-and-jpa/understanding-the-entity-lifecycle-in-jpa): Tutorial on JPA entity lifecycle states and Hibernate ORM persistence management
+- [Using Inheritance Mapping Strategies (Single Table, Joined, Table Per Class)](https://noobtomaster.com/hibernate-and-jpa/using-inheritance-mapping-strategies-single-table-joined-table-per-class): Guide to Hibernate inheritance mapping strategies and database schema design
+- [Mapping Enums, Embeddable Objects, and Collections](https://noobtomaster.com/hibernate-and-jpa/mapping-enums-embeddable-objects-and-collections): Guide to Hibernate mapping for enums, embeddable objects, and database relationships
+
+## Java Advanced Topics
+
+- [Stream API and Stream Processing Techniques](https://noobtomaster.com/effective-java/stream-api-and-stream-processing-techniques): Guide to Java 8 Stream API with functional programming and parallel processing
+- [Proper Use of Finalizers and Cleaners](https://noobtomaster.com/effective-java/proper-use-of-finalizers-and-cleaners): Guide to Java finalizers, cleaners, garbage collection, and resource management
+- [Understanding the Concept of Function Length and Complexity](https://noobtomaster.com/clean-code/understanding-the-concept-of-function-length-and-complexity): Clean Code guide on function complexity, cyclomatic complexity, and refactoring
+
+## CI/CD & DevOps
+
+- [Creating and Configuring Jenkins Jobs to Build, Test, and Deploy Applications](https://noobtomaster.com/ci-cd-using-jenkins/creating-and-configuring-jenkins-jobs-to-build-test-and-deploy-applications): Guide to creating and configuring Jenkins jobs for CI/CD automation
+- [Implementing Rolling Deployments and Canary Releases in Jenkins](https://noobtomaster.com/ci-cd-using-jenkins/implementing-rolling-deployments-and-canary-releases-in-jenkins): Guide to advanced Jenkins deployment strategies with rolling and canary releases
+
+## Optional
+
+- [Strategy Pattern – Encapsulating Interchangeable Algorithms](https://noobtomaster.com/design-patterns/strategy-pattern-encapsulating-interchangeable-algorithms): Design Patterns tutorial on Strategy Pattern for algorithm encapsulation
+- [Git Cherry-pick: Selecting Specific Commits](https://noobtomaster.com/git/git-cherry-pick-selecting-specific-commits): Tutorial on Git cherry-pick command for selective commit application

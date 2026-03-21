@@ -1,0 +1,61 @@
+# pub.dev
+
+> Pub.dev is the official Dart and Flutter package repository, hosting thousands of open-source libraries for building cross-platform applications.
+
+Pub.dev serves as the central package manager for the Dart ecosystem, enabling developers to discover, evaluate, and integrate packages for Flutter mobile development, server-side Dart, and web applications. The platform provides quality scoring, publisher verification, and comprehensive documentation for each package.
+
+## Key Topics
+
+- Flutter
+- Dart
+- State Management
+- Firebase
+- Camera Plugin
+- Image Processing
+- Cross-Platform Development
+- Flutter Packages
+- BLoC Pattern
+- Google Fonts
+- Publisher Directory
+- Package Scoring
+- Native Integration
+- Mobile Development
+- Plugin Architecture
+
+## Core Package Directory
+
+- [Top packages](https://pub.dev/packages): Main package directory and search interface for the Dart ecosystem
+- [Package scores & pub points](https://pub.dev/help/scoring): Explains Pub package scoring system and quality metrics evaluation
+
+## Official Publishers
+
+- [Flutter.dev packages](https://pub.dev/publishers/flutter.dev): Official Flutter SDK packages and plugins directory
+- [Google.dev packages](https://pub.dev/publishers/google.dev): Google open-source Dart and Flutter packages directory
+- [Firebase.google.com packages](https://pub.dev/publishers/firebase.google.com): Firebase plugins for Flutter and Dart packages directory
+
+## State Management Packages
+
+- [flutter_bloc](https://pub.dev/packages/flutter_bloc): Flutter BLoC pattern state management package documentation
+- [flutter_mobx](https://pub.dev/packages/flutter_mobx): MobX state management integration for Flutter applications
+- [BLoC library publisher](https://pub.dev/publishers/bloclibrary.dev): BLoC library publisher packages directory and overview
+- [Vyuh.tech publisher](https://pub.dev/publishers/vyuh.tech): Vyuh framework and reactive programming packages directory
+
+## Backend & Core Libraries
+
+- [firebase_core](https://pub.dev/packages/firebase_core): Firebase Core plugin enabling multi-app Firebase connections
+- [built_collection](https://pub.dev/packages/built_collection): Immutable collections package with builder pattern support
+
+## Camera & Image Processing
+
+- [camera_extended](https://pub.dev/packages/camera_extended): Extended Flutter camera plugin with sensor-level aspect ratio
+- [camera_extended_android](https://pub.dev/packages/camera_extended_android): Android camera plugin with native aspect ratio support
+- [camera_extended_ios](https://pub.dev/packages/camera_extended_ios): iOS camera plugin implementation with aspect ratio control
+- [camera_extended_platform_interface](https://pub.dev/packages/camera_extended_platform_interface): Platform interface for camera_extended plugin
+- [flutter_bicubic_resize](https://pub.dev/packages/flutter_bicubic_resize): High-performance image resizing and compression for Flutter
+- [Codigee publisher](https://pub.dev/publishers/codigee.com): Codigee publisher packages for image and camera processing
+
+## UI & Integration Libraries
+
+- [google_fonts](https://pub.dev/packages/google_fonts): Flutter package for Google Fonts integration with caching
+- [unity_kit](https://pub.dev/packages/unity_kit): Flutter plugin for Unity 3D integration and communication
+- [Ravenlab publisher](https://pub.dev/publishers/ravenlab.tech): Ravenlab publisher packages for native and image processing

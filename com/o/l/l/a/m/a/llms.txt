@@ -1,43 +1,46 @@
 # Ollama
 
-> > Ollama is an open-source platform for running large language models locally, supporting models like llama3.2, DeepSeek-R1, Qwen3, and Gemma 3 across macOS, Linux, and Windows.
+> Ollama is a platform for running and integrating large language models locally with APIs, multi-platform support, and ecosystem integrations.
 
-Ollama provides a unified interface for downloading, running, and managing LLMs on local hardware with GPU acceleration support. The platform offers comprehensive API references, client libraries for Python and JavaScript/TypeScript, and extensive documentation for server setup and configuration.
+Ollama provides comprehensive documentation and tools for deploying open-source LLMs across macOS, Windows, and Linux. The platform emphasizes local model execution, API-first architecture, and seamless integration with popular development tools and workflows.
 
 ## Key Topics
 
-- Ollama platform
-- Local LLM deployment
-- llama3.2
-- DeepSeek-R1
-- Qwen3
-- Gemma 3
-- GPU compatibility (NVIDIA, AMD)
-- Python client library
-- JavaScript/TypeScript SDK
-- API reference
-- Model library
-- Context window management
-- Environment variables
-- Server configuration
-- Cross-platform support (macOS, Linux, Windows)
+- Large Language Models
+- Local Model Deployment
+- API Configuration
+- Installation & Setup
+- Model Configuration
+- Integrations
+- Docker
+- Python & JavaScript Libraries
+- macOS, Windows, Linux
+- Quickstart
+- Workflow Automation
+- RAG (Retrieval-Augmented Generation)
+- Community Models
+- Headless Mode
+- Cloud Models
 
-## Documentation & Getting Started
+## Getting Started
 
-- [Ollama's documentation](https://docs.ollama.com/): Main documentation hub for Ollama with quickstart and API references
+- [Quickstart Guide](https://docs.ollama.com/quickstart): Quick start guide for Ollama installation on macOS, Windows, and Linux
+- [Documentation Hub](https://docs.ollama.com): Main documentation for Ollama LLM setup, APIs, and community resources
+- [Installation & Setup](https://ollama.com/docs): Documentation hub for Ollama with guides on installation, APIs, and LLM integration
 
-## Platform Installation
+## Integrations & Extensions
 
-- [Windows](https://docs.ollama.com/windows): Windows installation guide with NVIDIA and AMD GPU support details
+- [Integrations Overview](https://docs.ollama.com/integrations): Ollama integrations overview with coding agents, IDEs, and AI tools
+- [OpenClaw Integration](https://docs.ollama.com/integrations/openclaw): Guide to integrating OpenClaw with Ollama for messaging apps and AI assistants
+- [Claude Code Integration](https://docs.ollama.com/integrations/claude-code): Claude Code integration with Ollama for agentic coding and open models
+- [Codex Integration](https://docs.ollama.com/integrations/codex): Integration guide for Codex with Ollama setup and model configuration
+- [n8n Workflow Automation](https://docs.ollama.com/integrations/n8n): n8n integration with Ollama for workflow automation and Docker deployment
+- [Onyx RAG Integration](https://docs.ollama.com/integrations/onyx): Onyx integration with Ollama for RAG, chat UI, and self-hosted deployment
 
-## Model Library
+## Pricing & Plans
 
-- [glm-4.7-flash](https://ollama.com/library/glm-4.7-flash): GLM-4.7-Flash model page: 30B class MoE for lightweight deployment
+- [Pricing Plans](https://ollama.com/pricing): Ollama pricing plans, subscription tiers, and GPU usage information
 
-## Support & Troubleshooting
+## Blog & Community
 
-- [FAQ](https://docs.ollama.com/faq): FAQ covering Ollama setup, GPU compatibility, and troubleshooting
-
-## Optional
-
-- [infidelis](https://ollama.com/infidelis): User profile for infidelis featuring GigaChat Russian language models
+- [Blog](https://ollama.com/blog): Ollama blog covering AI models, integrations, and product updates

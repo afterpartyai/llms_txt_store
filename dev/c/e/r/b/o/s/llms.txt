@@ -1,0 +1,55 @@
+# Cerbos
+
+> Cerbos is a policy-as-code authorization platform that provides fine-grained access control for enterprise software, AI systems, and multi-tenant applications.
+
+Cerbos offers a comprehensive authorization solution through multiple products (Hub, PDP, Synapse) designed for Zero Trust architectures and AI-powered systems. The platform uses declarative policies to enforce consistent access control across applications, APIs, and infrastructure.
+
+## Key Topics
+
+- Authorization
+- Policy-as-Code
+- Fine-Grained Access Control
+- Cerbos Hub
+- Zero Trust
+- Multi-Tenant SaaS
+- AI Agent Authorization
+- RBAC/ABAC/PBAC
+- Policy Decision Point
+- Enterprise Security
+- RAG Authorization
+- MCP Servers
+- Cerbos PDP
+- Policy Management
+- Non-Human Identities
+
+## Core Products
+
+- [Cerbos Hub: Future-Proof Authorization, Built for Scale](https://www.cerbos.dev/product-cerbos-hub): Fine-grained contextual authorization across apps, APIs, and AI agents
+- [Cerbos Synapse](https://www.cerbos.dev/product-synapse): Connect APIs and infrastructure for consistent authorization decisions
+- [How It Works](https://www.cerbos.dev/how-it-works): How Cerbos integrates into applications and authorization workflows
+- [Cerbos Ecosystem: Integrations, SDKs and Deployment Options](https://www.cerbos.dev/features-benefits-and-use-cases/ecosystem): Cerbos integrations, SDKs, and deployment options across frameworks
+
+## AI and Modern Architecture
+
+- [AI Agent Authorization & Access Control for Agentic Systems](https://www.cerbos.dev/features-benefits-and-use-cases/agentic-authorization): Cerbos AI agent authorization for deterministic, bounded, revocable access
+- [Permissions-Aware Authorization for RAG Pipelines](https://www.cerbos.dev/features-benefits-and-use-cases/access-control-for-rag): Cerbos enforces user-level permissions at RAG retrieval layer
+- [Enterprise-Grade Authorization for MCP Servers](https://www.cerbos.dev/features-benefits-and-use-cases/dynamic-authorization-for-MCP-servers): Cerbos centralized authorization layer for MCP server tools and AI capabilities
+
+## Use Cases and Features
+
+- [Multi-Tenant SaaS With Cerbos](https://www.cerbos.dev/features-benefits-and-use-cases/multi-tenant-saas): Multi-tenant SaaS authorization with policy-enforced tenant isolation
+- [Personalized Access Control for Every SaaS Tenant](https://www.cerbos.dev/features-benefits-and-use-cases/per-tenant-custom-policies): Dynamic tenant-specific policies for multi-tenant SaaS
+- [Application Permissions With Cerbos](https://www.cerbos.dev/features-benefits-and-use-cases/application-permissions): Context-aware, fine-grained access control for application permissions
+- [Dynamic Policy Management at Scale](https://www.cerbos.dev/features-benefits-and-use-cases/dynamic-policies): Automated policy creation and deployment at scale
+- [Scalable NHI Permission Management](https://www.cerbos.dev/features-benefits-and-use-cases/authorization-non-human-identities): Policy-driven authorization for workloads, microservices, and AI agents
+
+## Documentation and Learning
+
+- [Cerbos Documentation](https://docs.cerbos.dev/cerbos/latest/index.html): Getting started with policy-as-code authorization
+
+## Business and Support
+
+- [Cerbos: Authorization for Enterprise Software and AI](https://www.cerbos.dev): Cerbos homepage: End-to-end access control for Zero Trust and AI systems
+- [Cerbos Hub Pricing](https://www.cerbos.dev/pricing): Pricing options for Hub, PDP, and Synapse products
+- [Customers](https://www.cerbos.dev/customers): Customer case studies and success stories
+- [Speak to an Engineer](https://www.cerbos.dev/workshop): Sales consultation and workshop signup to speak with Cerbos engineers

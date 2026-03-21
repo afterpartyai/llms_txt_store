@@ -1,37 +1,40 @@
 # Drugs.com
 
-> Comprehensive pharmaceutical reference providing FDA prescribing information, dosage guides, medication identification, and patient safety resources.
+> Comprehensive medication reference and health information platform providing drug details, interactions, side effects, and condition-specific treatment options.
 
-Drugs.com is a leading medication information resource offering healthcare professionals and patients access to drug dosing, side effects, interactions, and FDA-approved prescribing information. The site covers a wide range of medications from stimulants and fertility treatments to cardiovascular and immunological drugs.
+Drugs.com serves as a trusted resource for patients and healthcare providers seeking detailed pharmaceutical information, drug interaction checking, and medical procedure guidance. The site aggregates medication data across multiple therapeutic categories including contraceptives, antibiotics, and specialty treatments.
 
 ## Key Topics
 
-- FDA prescribing information
-- Dosage guides
-- Side effects
-- Medication interactions
-- Amphetamine
-- ADHD treatment
-- Narcolepsy
-- Fertility medications
-- Clomiphene
-- Lisinopril
-- Pill identifier
-- Pediatric dosing
-- Extended-release formulations
-- Dose adjustments
-- Patient medication guides
+- drug-information
+- side-effects
+- medication-guide
+- drug-interactions
+- warnings
+- contraceptive
+- birth-control
+- norethindrone
+- indications
+- health-guide
+- medical-procedure
+- diagnostic-test
+- amoxicillin
+- Ortho Micronor
+- drug-comparison
 
-## Dosage Guides & Clinical References
+## Drug Information & References
 
-- [Amphetamine Dosage Guide + Max Dose, Adjustments](https://failover.drugs.com/dosage/amphetamine.html): Amphetamine dosage guide with max doses and adjustments for ADHD, narcolepsy, and obesity.
-- [Clinoril - FDA Prescribing Information, Side Effects and Uses](https://failover.drugs.com/pro/clinoril.html): FDA prescribing information for Clinoril (sulindac) NSAID with pharmacology and interactions.
+- [Ortho Micronor: Indications, Side Effects, Warnings](https://failover.drugs.com/cdi/ortho-micronor.html): Comprehensive drug information page for Ortho Micronor contraceptive including indications, side effects, and safety warnings.
+- [Acetaminophen, Pheniramine, and Phenylephrine Uses, Side Effects & Warnings](https://failover.drugs.com/mtm/acetaminophen-pheniramine-and-phenylephrine.html): Detailed medication information for this combination cold remedy including usage guidelines, side effects, and contraindications.
 
-## Patient Medication Guides
+## Drug Interaction Checker
 
-- [Serophene: Indications, Side Effects, Warnings](https://failover.drugs.com/cdi/serophene.html): Patient leaflet for Serophene (clomiphene) fertility medication with indications and side effects.
-- [Rh(D) Immune Globulin: Indications, Side Effects, Warnings](https://failover.drugs.com/cdi/rh-d-immune-globulin.html): Patient medication guide for Rh(D) Immune Globulin with indications, warnings, and dosage.
+- [Bedaquiline Interactions Checker](https://failover.drugs.com/drug-interactions/bedaquiline.html): Interactive drug interaction checker tool for Bedaquiline with 587 known medication interactions and safety alerts.
 
-## Pill Identifier & Drug Lookup
+## Condition & Treatment Guides
 
-- [GP Pill Orange Round 8mm - Pill Identifier](https://failover.drugs.com/imprints/gp-150-1636.html): Pill identifier tool identifying Lisinopril 30mg by imprint code GP 150.
+- [Helicobacter Pylori Infection Medications Compared](https://failover.drugs.com/condition/helicobacter-pylori-infection.html): Comprehensive medication comparison list for Helicobacter Pylori infection treatment with 47 medication options and user ratings.
+
+## Medical Procedures & Health Guides
+
+- [Lymph Node Biopsy Guide: Causes, Symptoms and Treatment Options](https://failover.drugs.com/health-guide/lymph-node-biopsy.html): Comprehensive health guide covering lymph node biopsy procedures, diagnostic criteria, preparation, and treatment options.

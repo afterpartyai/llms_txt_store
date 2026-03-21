@@ -1,0 +1,32 @@
+# Fedora Project Documentation
+
+> Comprehensive documentation for the Fedora Project covering system configuration, package management, and desktop environment customization.
+
+Fedora Project Documentation provides guides and references for installing, configuring, and managing Fedora Linux systems. The site includes quick-start guides, repository setup instructions, and tutorials for common tasks like installing development tools and switching desktop environments.
+
+## Key Topics
+
+- Fedora Linux
+- Package Management
+- RPM/DNF
+- Desktop Environments
+- Java Development
+- Repository Configuration
+- System Administration
+- EPEL (Extra Packages for Enterprise Linux)
+- RPMFusion
+- Quick-Start Guides
+
+## Getting Started
+
+- [Fedora Project Documentation Homepage](https://docs.fedoraproject.org/): Main entry point for Fedora Project documentation with access to all guides and references
+
+## Quick Start Guides
+
+- [Installing Java](https://docs.fedoraproject.org/en-US/quick-docs/installing-java/): Guide for installing Java on Fedora systems
+- [Setting Up RPMFusion Repository](https://docs.fedoraproject.org/en-US/quick-docs/rpmfusion-setup/): Quick guide for setting up RPMFusion repository on Fedora
+- [Switching Desktop Environments](https://docs.fedoraproject.org/en-US/quick-docs/switching-desktop-environments/): Tutorial on switching between desktop environments in Fedora
+
+## Repository & Package Management
+
+- [Extra Packages for Enterprise Linux (EPEL)](https://docs.fedoraproject.org/en-US/epel/): Documentation for Extra Packages for Enterprise Linux (EPEL)

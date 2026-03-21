@@ -1,0 +1,61 @@
+# Godot Engine Documentation
+
+> > Comprehensive documentation for Godot Engine, a free and open-source 2D/3D game engine with GDScript scripting support.
+
+The Godot Engine documentation provides official guides, API references, and tutorials for developers using Godot 4.6. It covers core concepts, class references, platform support, and community resources for building games across multiple platforms including Windows, macOS, Linux, Android, and iOS.
+
+## Key Topics
+
+- Godot Engine
+- GDScript
+- Node
+- Scene Tree
+- API Reference
+- Class Documentation
+- Game Development
+- 2D/3D Graphics
+- Physics
+- Animation
+- Open Source
+- MIT License
+- Cross-Platform
+- Game Engine
+- Documentation
+
+## Getting Started & Core Concepts
+
+- [Godot Docs – 4.6 branch](https://docs.godotengine.org/en/stable): Official Godot Engine documentation hub with guides, tutorials, and API reference
+- [Introduction](https://docs.godotengine.org/en/stable/about/introduction.html): Introduction to Godot Engine: free, open-source 2D/3D game engine with GDScript
+- [List of features](https://docs.godotengine.org/en/stable/about/list_of_features.html): Comprehensive list of Godot Engine features across platforms and export targets
+- [System requirements](https://docs.godotengine.org/en/stable/about/system_requirements.html): Hardware and OS requirements for Godot Editor and exported projects
+
+## API Reference & Class Documentation
+
+- [All classes](https://docs.godotengine.org/en/stable/classes/index.html): Complete index of all Godot Engine classes, nodes, and API documentation
+- [Node](https://docs.godotengine.org/en/stable/classes/class_node.html): Node class API reference: base class for scene tree architecture
+- [@GDScript](https://docs.godotengine.org/en/stable/classes/class_%40gdscript.html): GDScript built-in functions, constants, and utility annotations reference
+- [@GlobalScope](https://docs.godotengine.org/en/stable/classes/class_%40globalscope.html): Global scope constants, enums, and built-in functions API reference
+- [AnimatedSprite2D](https://docs.godotengine.org/en/stable/classes/class_animatedsprite2d.html): AnimatedSprite2D class for 2D sprite animation with multiple frame textures
+- [AnimatableBody2D](https://docs.godotengine.org/en/stable/classes/class_animatablebody2d.html): AnimatableBody2D 2D physics body class for animated platforms and objects
+- [AnimatableBody3D](https://docs.godotengine.org/en/stable/classes/class_animatablebody3d.html): AnimatableBody3D 3D physics body class for animated platforms and objects
+- [AimModifier3D](https://docs.godotengine.org/en/stable/classes/class_aimmodifier3d.html): AimModifier3D bone constraint class for 3D skeleton animation control
+- [AcceptDialog](https://docs.godotengine.org/en/stable/classes/class_acceptdialog.html): AcceptDialog UI component class reference for user notification dialogs
+
+## Support & Troubleshooting
+
+- [Troubleshooting](https://docs.godotengine.org/en/stable/tutorials/troubleshooting.html): Common Godot issues and solutions for performance, editor, and hardware problems
+- [Frequently asked questions](https://docs.godotengine.org/en/stable/about/faq.html): FAQ covering Godot licensing, cost, and MIT license terms
+- [Community channels](https://docs.godotengine.org/en/stable/community/channels.html): Links to official and community Godot forums, chat, and support channels
+
+## Learning Resources & Community
+
+- [Tutorials and resources](https://docs.godotengine.org/en/stable/community/tutorials.html): Third-party Godot tutorials, GDScript guides, and community learning resources
+
+## Project Information
+
+- [Godot release policy](https://docs.godotengine.org/en/stable/about/release_policy.html): Godot versioning, release schedule, and semantic versioning policy
+
+## Optional
+
+- [Complying with licenses](https://docs.godotengine.org/en/stable/about/complying_with_licenses.html): MIT License compliance and attribution requirements for Godot Engine
+- [Documentation changelog](https://docs.godotengine.org/en/stable/about/docs_changelog.html): Documentation updates and changes for Godot 4.6 and previous versions

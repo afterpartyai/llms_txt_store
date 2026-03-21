@@ -1,0 +1,58 @@
+# Espressif Developer Portal
+
+> Central hub for ESP32 and ESP-IDF development, offering tutorials, compliance guidance, hardware support, and community resources for IoT and embedded systems.
+
+The Espressif Developer Portal serves as the primary resource for developers working with ESP32 microcontrollers and the ESP-IDF framework. It provides comprehensive documentation, hands-on workshops, release announcements, and regulatory compliance information for building IoT and embedded applications.
+
+## Key Topics
+
+- ESP32
+- ESP-IDF
+- GPIO
+- Embedded Systems
+- IoT Development
+- ESP-IDF Installation Manager
+- Cybersecurity
+- Regulatory Compliance
+- Firmware Security
+- Hardware Support
+- CI/CD
+- EU Cyber Resilience Act
+- EN 18031
+- OTA Updates
+- MicroPython
+
+## Getting Started & Core Resources
+
+- [Developer Portal](https://developer.espressif.com): Espressif Developer Portal hub for ESP32, ESP-IDF, and IoT development
+- [Hardware](https://developer.espressif.com/hardware): Hardware support, chip status, and SDK compatibility information
+- [Software](https://developer.espressif.com/software): Software frameworks including Zephyr and Arduino support status
+
+## Releases & Updates
+
+- [Announcing ESP-IDF v6.0](https://developer.espressif.com/blog/2026/03/idf-v6-0-release): ESP-IDF 6.0 release announcement with key changes and improvements
+- [ESP-IDF Installation Manager v0.8 Release](https://developer.espressif.com/blog/2026/03/esp-idf-installation-manager): ESP-IDF Installation Manager v0.8 with cross-platform setup and CI/CD
+- [Blog](https://developer.espressif.com/blog): Blog covering ESP-IDF releases, compliance, security, and IoT tutorials
+
+## Training & Workshops
+
+- [Workshops](https://developer.espressif.com/workshops): Hands-on workshops for ESP-IDF, MicroPython, and embedded development
+- [ESP-IDF Advanced Workshop](https://developer.espressif.com/workshops/esp-idf-advanced): Advanced ESP-IDF training on modular development, event loops, security
+- [ESP-IDF tutorial series: GPIO get started - Part 2](https://developer.espressif.com/blog/2026/02/esp-idf-tutorial-gpio-get-started-2): GPIO input configuration, pull-up/pull-down, polling, and interrupts
+- [Introducing ESP-IDF button component](https://developer.espressif.com/blog/2026/02/component-introduction-button): ESP-IDF button component guide with GPIO event detection and debouncing
+
+## Compliance & Security
+
+- [Understanding the EU Cyber Resilience Act (CRA)](https://developer.espressif.com/blog/2026/03/esp32-cra-compliance): EU CRA requirements for ESP32-based products and manufacturer obligations
+- [RED DA Assessment Tool: Cybersecurity Compliance](https://developer.espressif.com/blog/2026/03/red_da_assessment_tool_overview): RED DA Assessment Tool for ESP32 EN 18031 compliance documentation
+- [Staying Ahead with ESP32 Security Updates](https://developer.espressif.com/blog/2026/03/esp32-security-updates): ESP32 firmware security maintenance, OTA updates, and compliance tools
+
+## Events & Community
+
+- [Events](https://developer.espressif.com/events): Espressif events including Embedded World 2026 and DevCon conferences
+- [Embedded World 2026](https://developer.espressif.com/events/embedded-world-2026): Espressif at Embedded World 2026 in Nuremberg with live demos
+
+## Optional
+
+- [Tags](https://developer.espressif.com/tags): Tag index for content organization and categorization
+- [Contribution guide](https://developer.espressif.com/pages/contribution-guide): Guidelines for contributing content to Espressif Developer Portal

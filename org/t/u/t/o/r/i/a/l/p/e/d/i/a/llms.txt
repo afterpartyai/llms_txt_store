@@ -1,0 +1,64 @@
+# TutorialPedia.org
+
+> > A comprehensive tutorial platform offering interactive learning resources, quizzes, and guides across programming languages and system administration topics.
+
+TutorialPedia.org provides beginner-friendly tutorials, interactive compilers, and assessment quizzes for JavaScript, Go, Linux, and web development. The platform combines hands-on coding tools with structured learning paths to help developers master modern programming concepts and best practices.
+
+## Key Topics
+
+- Go (Golang)
+- JavaScript
+- Linux Command Line
+- Goroutines & Concurrency
+- React & Angular
+- Web Development
+- REST APIs
+- Promises & Async/Await
+- DOM Manipulation
+- Data Structures
+- Error Handling
+- Testing & Benchmarking
+- ES6+ Features
+- Memory Management
+- Module Dependencies
+
+## Interactive Tools & Compilers
+
+- [Online Go Compiler](https://www.tutorialpedia.org/online-go-compiler): Free browser-based Go compiler for learning, practice, and code validation.
+
+## Programming Language Guides
+
+- [Beginner's Guide to JavaScript Variables and Data Types](https://www.tutorialpedia.org/javascript-tutorial): JavaScript variables, data types, and best practices for beginners.
+- [Best Practices for Writing Go Code: A Beginner's Guide](https://www.tutorialpedia.org/golang-tutorial): Go programming fundamentals, syntax, and best practices guide.
+- [An Introduction to Linux Command Line Interface for Beginners](https://www.tutorialpedia.org/linux-command-line): Linux CLI introduction covering commands, shells, and navigation basics.
+
+## Go Programming Quizzes
+
+- [Go Concurrency Patterns](https://www.tutorialpedia.org/quiz/go-concurrency-patterns): Quiz on Go goroutines, channels, and concurrency pattern concepts.
+- [Go Data Structures and Interfaces](https://www.tutorialpedia.org/quiz/go-data-structures-and-interfaces): Quiz assessing Go slices, maps, structs, and interfaces knowledge.
+- [Go Error Handling](https://www.tutorialpedia.org/quiz/go-error-handling): Quiz on Go error handling, propagation, and panic/recover patterns.
+- [Go Memory Management](https://www.tutorialpedia.org/quiz/go-memory-management): Quiz on Go memory allocation, garbage collection, and pointer management.
+- [Go Modules and Dependency Management](https://www.tutorialpedia.org/quiz/go-modules-and-dependency-management): Quiz on Go modules, go.mod, go.sum, and dependency management.
+- [Go Testing and Benchmarking](https://www.tutorialpedia.org/quiz/go-testing-and-benchmarking): Quiz on Go testing framework, benchmarking tools, and unit testing.
+- [Go Web Development](https://www.tutorialpedia.org/quiz/go-web-development): Quiz on Go web servers, REST APIs, and net/http package usage.
+
+## JavaScript Assessment Quizzes
+
+- [JavaScript Fundamentals](https://www.tutorialpedia.org/quiz/javascript-fundamentals): Quiz on JavaScript basics: variables, functions, scope, and operators.
+- [JavaScript Asynchronous Programming](https://www.tutorialpedia.org/quiz/javascript-asynchronous-programming): Quiz on JavaScript promises, async/await, and event loop concepts.
+- [JavaScript DOM Manipulation](https://www.tutorialpedia.org/quiz/javascript-dom-manipulation): Quiz on DOM manipulation, event handling, and browser APIs.
+- [JavaScript ES6+ Features](https://www.tutorialpedia.org/quiz/javascript-es6+-features): Quiz on modern JavaScript ES6+ features and syntax.
+- [JavaScript Frameworks Overview](https://www.tutorialpedia.org/quiz/javascript-frameworks-overview): Quiz on React, Vue, Angular, and popular JavaScript frameworks.
+- [JavaScript Debugging and Performance](https://www.tutorialpedia.org/quiz/javascript-debugging-and-performance): Quiz on JavaScript debugging, optimization, and performance techniques.
+
+## Linux & System Administration
+
+- [Linux Command Line Basics](https://www.tutorialpedia.org/quiz/linux-command-line-basics): Quiz on fundamental Linux commands and shell navigation.
+
+## Blog & Articles
+
+- [Blog](https://www.tutorialpedia.org/blog): Blog hub featuring Python, Django, image processing, and API development tutorials.
+
+## Core
+
+- [TutorialPedia.org](https://www.tutorialpedia.org): TutorialPedia.org homepage: comprehensive tutorial platform for technology and lifestyle topics.

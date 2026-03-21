@@ -1,22 +1,25 @@
 # files.ethz.ch
 
-> > ETH Zurich file hosting and sharing service for the university community.
+> > A file hosting and distribution service for ETH Zurich, currently experiencing server configuration issues.
 
-This service provides secure file storage, sharing, and collaboration capabilities for ETH Zurich students, faculty, and staff. The platform supports academic workflows and research data management needs.
+files.ethz.ch is the institutional file repository and distribution platform for ETH Zurich. The site is currently returning IIS (Internet Information Services) error pages, indicating potential server misconfiguration or maintenance.
 
 ## Key Topics
 
+- ETH Zurich
 - File hosting
-- ETH Zurich services
-- Document sharing
-- Collaboration tools
-- Academic storage
-- Research data management
-- Secure file transfer
-- University infrastructure
-- Cloud storage
-- Access management
+- IIS server
+- Web server configuration
+- HTTP error handling
+- Internet Information Services
+- Port configuration
+- Site availability
+- Microsoft IIS Manager
+- Error 404
+
+## Server Status & Errors
+
+- [The Web site cannot be found](https://files.ethz.ch): IIS error page indicating the site is not properly configured or accessible. Returns HTTP error suggesting server misconfiguration or maintenance in progress.
 
 ## Optional
 
-- [The Web site cannot be found](https://files.ethz.ch): 404 error page - IIS web server configuration issue

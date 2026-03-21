@@ -1,0 +1,34 @@
+# DataTalks.RU
+
+> > A comprehensive Russian-language resource for data engineers covering orchestration, distributed systems, and modern data stack technologies.
+
+DataTalks.RU provides learning materials, documentation translations, and practical guides for data engineering professionals. The site focuses on Apache Airflow, Trino, and other enterprise data tools with Russian translations and tutorials.
+
+## Key Topics
+
+- Apache Airflow
+- Data Engineering
+- Data Pipeline
+- Orchestration
+- Trino
+- PySpark
+- Apache Kafka
+- ClickHouse
+- Kubernetes
+- DAG Workflow
+- Medallion Architecture
+- dbt
+- System Design
+- Python
+
+## Getting Started
+
+- [Главная - DataTalks.RU. Data Engineering / DWH / Data Pipeline](https://datatalks.ru): DataTalks.RU roadmap for data engineers covering tools, pipelines, and system design
+
+## Orchestration & Workflows
+
+- [Airflow Docs (RU)](https://datatalks.ru/airflow-docs): Russian translation of Apache Airflow documentation and Astronomer Learn guides
+
+## Query Engines & Data Warehousing
+
+- [Trino 479 документация — Trino 479 Documentation](https://datatalks.ru/trino-docs): Trino 479 documentation with installation, security, and deployment guides

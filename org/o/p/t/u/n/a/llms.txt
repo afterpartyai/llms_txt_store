@@ -1,0 +1,31 @@
+# Optuna
+
+> > Optuna is an open-source hyperparameter optimization framework that automates machine learning model tuning through Bayesian optimization and advanced sampling strategies.
+
+Optuna provides automated hyperparameter optimization for ML practitioners, supporting popular frameworks like TensorFlow, PyTorch, Scikit-Learn, and LightGBM. The framework includes advanced features like multi-objective optimization, constrained optimization, and parallel search capabilities, with an extensible ecosystem through OptunaHub.
+
+## Key Topics
+
+- Hyperparameter optimization
+- Bayesian optimization
+- Automated search
+- Sampler selection
+- Multi-objective optimization
+- Constrained optimization
+- Parallelization
+- OptunaHub
+- AutoSampler
+- GPSampler
+- Machine learning
+- Open-source
+- Optuna-Dashboard
+- Framework integration
+- Optuna v5
+
+## Getting Started
+
+- [Optuna - A hyperparameter optimization framework](https://optuna.org): Optuna homepage: automatic hyperparameter optimization framework for ML
+
+## API Reference & Samplers
+
+- [AutoSampler | OptunaHub](https://hub.optuna.org/samplers/auto_sampler): AutoSampler API reference with installation guide and example code

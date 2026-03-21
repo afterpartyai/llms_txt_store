@@ -1,0 +1,55 @@
+# Algorithms, 4th Edition
+
+> A comprehensive resource for learning algorithms and data structures with Java implementations, based on the acclaimed textbook by Sedgewick and Wayne.
+
+This site provides tutorials, case studies, and implementations for the Algorithms, 4th Edition textbook used at Princeton University. It covers fundamental data structures, sorting algorithms, searching techniques, and graph algorithms with practical Java code examples.
+
+## Key Topics
+
+- Data Structures
+- Algorithm Analysis
+- Java Implementation
+- Sorting Algorithms
+- Symbol Tables
+- Binary Search Trees
+- Hash Tables
+- Union-Find
+- Priority Queues
+- Graph Algorithms
+- Abstract Data Types
+- Divide-and-Conquer
+- Balanced Search Trees
+- Elementary Sorts
+- API Design
+
+## Fundamentals & Core Concepts
+
+- [Algorithms, 4th Edition](https://algs4.cs.princeton.edu): Homepage for Algorithms textbook by Sedgewick & Wayne with Java implementations
+- [Fundamentals](https://algs4.cs.princeton.edu/10fundamentals): Introduction to algorithms fundamentals including ADTs, stacks, queues, bags
+- [Programming Model](https://algs4.cs.princeton.edu/11model): Guide to Java programming model fundamentals for algorithm implementation
+- [Data Abstraction](https://algs4.cs.princeton.edu/12oop): Tutorial on object-oriented programming and abstract data types in Java
+- [Bags, Queues, and Stacks](https://algs4.cs.princeton.edu/13stacks): Guide to fundamental collection data structures: bags, queues, and stacks
+- [Analysis of Algorithms](https://algs4.cs.princeton.edu/14analysis): Tutorial on algorithm analysis, complexity, and running time measurement
+
+## Sorting Algorithms
+
+- [Sorting](https://algs4.cs.princeton.edu/20sorting): Overview of sorting algorithms including elementary sorts and advanced methods
+- [Elementary Sorts](https://algs4.cs.princeton.edu/21elementary): Guide to elementary sorting: selection sort, insertion sort, and shellsort
+- [Mergesort](https://algs4.cs.princeton.edu/22mergesort): Tutorial on mergesort algorithm and divide-and-conquer sorting techniques
+- [Quicksort](https://algs4.cs.princeton.edu/23quicksort): Guide to quicksort algorithm with partitioning and in-place sorting
+- [Priority Queues](https://algs4.cs.princeton.edu/24pq): Tutorial on priority queues, heaps, and heap-based implementations
+- [Sorting Applications](https://algs4.cs.princeton.edu/25applications): Guide to sorting applications with comparable interface and multiple keys
+
+## Searching & Symbol Tables
+
+- [Searching](https://algs4.cs.princeton.edu/30searching): Overview of searching algorithms, symbol tables, and search data structures
+- [Elementary Symbol Tables](https://algs4.cs.princeton.edu/31elementary): Guide to elementary symbol table implementations with key-value pairs
+- [Binary Search Trees](https://algs4.cs.princeton.edu/32bst): Tutorial on binary search trees for ordered symbol table operations
+- [Balanced Search Trees](https://algs4.cs.princeton.edu/33balanced): Guide to balanced search trees including 2-3 trees and red-black trees
+- [Hash Tables](https://algs4.cs.princeton.edu/34hash): Tutorial on hash tables, hash functions, and collision resolution methods
+- [Searching Applications](https://algs4.cs.princeton.edu/35applications): Guide to searching applications including sets, filtering, and indexing
+
+## Advanced Topics
+
+- [Case Study: Union-Find](https://algs4.cs.princeton.edu/15uf): Case study on Union-Find data structure for dynamic connectivity problems
+- [Graphs](https://algs4.cs.princeton.edu/40graphs): Overview of graph algorithms including DFS, BFS, shortest paths, and MST

@@ -1,0 +1,60 @@
+# Garry's blog
+
+> > A personal journal documenting DIY electronics, radio builds, Arduino projects, and creative hobby explorations with a focus on practical tinkering and maker culture.
+
+Garry's blog is a hobbyist's documentation of electronics projects, microcontroller programming, vintage equipment restoration, and creative DIY modifications. The site features Arduino and ESP32 projects, radio receiver builds, sensor experiments, and explorations with AI tools for music generation and creative problem-solving.
+
+## Key Topics
+
+- Arduino
+- ESP32
+- LovyanGFX library
+- SI4732 radio receiver
+- LCD displays
+- DIY electronics
+- AI tools (ChatGPT, Claude, Suno)
+- Radio builds
+- Sensor projects
+- Vintage equipment restoration
+- Microcontroller programming
+- Electronics modification
+- Hobby projects
+- ILI9341/GC9A01/ST7789 displays
+- I²C protocol
+
+## Arduino & Microcontroller Projects
+
+- [Animating a Blinking Eye on an Arduino-Powered LCD Display](https://garrysblog.com/2025/11/13/animating-a-blinking-eye-on-an-arduino-powered-lcd-display): Arduino ESP32 LCD animation project: blinking eye using LovyanGFX library and SGC9A01
+- [I Asked Claude for Info, and It Built a Standalone Tool](https://garrysblog.com/2025/11/11/i-asked-claude-for-info-and-it-built-a-standalone-tool): Claude AI created image converter tool for Arduino LCD displays using LovyanGFX library
+- [LovyanGFX Display Config Code: ILI9341, GC9A01 and ST7789 Displays](https://garrysblog.com/2025/11/10/lovyangfx-display-config-code-ili9341-gc9a01-and-st7789-displays): Configuration code examples for LovyanGFX library with ILI9341, GC9A01, ST7789 displays
+
+## Radio & RF Projects
+
+- [Thoughts After Building a SI4732 AM, LW, SW, FM Receiver](https://garrysblog.com/2026/02/19/thoughts-after-building-a-si4732-receiver): SI4732 radio receiver build project: two-month journey with IC radio design and modifications
+
+## DIY Sensors & Environmental Projects
+
+- [Extending a Cheap Soil Moisture Meter](https://garrysblog.com/2026/02/06/extending-a-cheap-soil-moisture-meter): DIY soil moisture meter modification for water conservation in drought-prone Australia
+- [Solar Garden Light Experiments: A simple light and a Crack in the Gate Post](https://garrysblog.com/2025/12/11/solar-garden-light-experiments-a-simple-light-and-a-crack-in-the-gate-post): Solar garden light hacks: LED swaps and RGB color-changing modifications
+- [I Searched an Idea and Google's AI Quoted My Blog](https://garrysblog.com/2025/11/20/i-searched-an-idea-and-googles-ai-quoted-my-blog): Google AI Overview cited Garry's blog for anemometer design using magnetic angle sensors
+
+## AI & Creative Experiments
+
+- [Trying Out Suno: My First Experiments with AI Generated Music](https://garrysblog.com/2025/11/27/trying-out-suno-my-first-experiments-with-ai-generated-music): First impressions of Suno AI music generator with subscription experiments and results
+- [Experimenting with AI to write a song to help memorize facts](https://garrysblog.com/2026/01/13/experimenting-with-ai-to-write-a-song-to-help-memorize-facts): Using ChatGPT and Suno to create songs for memory aids with Mohs scale and periodic table
+
+## Vintage Equipment & Restoration
+
+- [Tip Shop Find: Mysterious Faith SR-1000 Cassette Deck](https://garrysblog.com/2025/11/25/tip-shop-find-mysterious-faith-sr-1000-cassette-deck): Vintage FAITH SR-1000 cassette deck discovery and restoration project exploration
+- [Vintage Vacuum Cleaner Find: Potential Steampunk Project?](https://garrysblog.com/2026/01/06/vintage-vacuum-cleaner-find-potential-steampunk-project): Vintage Electrolux vacuum cleaner thrift find and steampunk upcycling project exploration
+
+## Site Navigation & Information
+
+- [Garry's blog – A journal of hobbies](https://garrysblog.com): Homepage showcasing Garry's hobby projects including DIY electronics and radio builds
+- [About – Garry's blog](https://garrysblog.com/about): About Garry: hobbyist sharing tinkering, electronics, DIY, woodwork and metalwork projects
+- [Blog Archive – Page 2](https://garrysblog.com/page/2): Blog archive page 2: Arduino projects, LCD displays, sensors and electronics tutorials
+- [Explore Classic BBC Documentaries on YouTube](https://garrysblog.com/2026/03/17/explore-classic-bbc-documentaries-on-youtube): YouTube recommendations: BBC Archive's classic documentaries and historical television content
+
+## Optional
+
+- [Disclaimer – Garry's blog](https://garrysblog.com/disclaimer): Legal disclaimer for personal non-profit blog with hobbyist content

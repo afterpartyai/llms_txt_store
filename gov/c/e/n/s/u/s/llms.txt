@@ -1,41 +1,57 @@
-# U.S. Census Bureau
+# U.S. Census Bureau (Census.gov)
 
-> > Official source for U.S. demographic and economic data, providing APIs, datasets, and geographic services from the American Community Survey (ACS) and other census programs.
+> The U.S. Census Bureau provides comprehensive demographic, economic, and population data through surveys, programs, and interactive tools to inform policy, business, and research decisions.
 
-The Census Bureau collects and disseminates statistical data about the American people and economy. Developers can access data through REST APIs including the ACS datasets and TIGERweb GeoServices for geographic information.
+Census.gov serves as the official portal for accessing decennial census data, ongoing surveys like the American Community Survey (ACS), economic indicators, and historical census records. The site offers data access tools, educational resources, and support for survey participants and data users.
 
 ## Key Topics
 
 - American Community Survey (ACS)
-- Census Data APIs
-- TIGERweb GeoServices
-- TIGER Geographic Data
-- Developer Resources
-- API Catalog
-- Federal Relay Service
-- Office of the Respondent Advocate
-- Regional Offices
-- Census Datasets
-- Information Quality Guidelines
-- Discovery Tool
-- Developer Forum
-- Suitland Federal Center
+- 2020 Census
+- 2030 Census
+- Demographic Data
+- Economic Indicators
+- Population Data
+- QuickFacts
+- Data Tools
+- Census Programs
+- Survey Participation
+- Business Statistics
+- Decennial Census
+- Population Clock
+- Census Records
+- Data Access
 
-## API Reference & Developer Resources
+## Core Data & Programs
 
-- [Available APIs](https://www.census.gov/data/developers/data-sets.html): Catalog of Census Bureau APIs including ACS and other public datasets
-- [Census TIGERweb GeoServices REST API](https://www.census.gov/data/developers/data-sets/TIGERweb-map-service.html): GeoServices REST API for TIGER geographic data and GIS mapping services
+- [Census Bureau Data and Maps](https://www.census.gov/data.html): Access demographic and economic data with visualizations and tutorials
+- [American Community Survey (ACS)](https://www.census.gov/programs-surveys/acs.html): Premier source for population, housing, and workforce demographic information
+- [Our Surveys & Programs](https://www.census.gov/programs-surveys.html): Overview of Census Bureau surveys and programs for national statistics
+- [Topics](https://www.census.gov/topics.html): Topic-based navigation to census data, news, and publications
 
-## Documentation & Guidelines
+## About & Information
 
-- [Citing our Data, Tools, Technical Documents and Research](https://www.census.gov/about/policies/citation.html): Guidelines for citing Census Bureau data and research in various formats
+- [About the U.S. Census Bureau](https://www.census.gov/about.html): Census Bureau mission, data quality standards, and government transparency policies
+- [Census.gov | U.S. Census Bureau Homepage](https://www.census.gov): U.S. Census Bureau homepage providing access to population, economic data and census tools
+- [Index A-Z](https://www.census.gov/about/index.html): Alphabetical index of Census Bureau statistics, products, and data resources
+- [Census Partners](https://www.census.gov/partners.html): Census Bureau partnership opportunities and data sharing initiatives
 
-## Support & Contact
+## Support & Participation
 
-- [Contact Us](https://www.census.gov/about/contact-us.html): Contact info for Census Bureau: phone 1-800-923-8282, regional offices
-- [Resources and FAQs](https://www.census.gov/about/census-careers/resources.html): Job application FAQs and resources for Census Bureau careers via USAJOBS
+- [Are You in a Survey? Help for Survey Participants](https://www.census.gov/programs-surveys/surveyhelp.html): Survey participation guidance, verification info, and fraud prevention for respondents
+- [Contact Us | U.S. Census Bureau](https://www.census.gov/about/contact-us.html): Census Bureau contact information, phone numbers, and customer service options
+
+## Research & Resources
+
+- [Research](https://www.census.gov/topics/research.html): Census Bureau research on survey methodology, AI, and machine learning applications
+- [Library](https://www.census.gov/library.html): Multimedia library with audio, video, images, and census publications
+- [Census Records and Family History](https://www.census.gov/about/history/census-records-family-history.html): Historical census records, genealogy resources, and age search services
+
+## News & Education
+
+- [Newsroom](https://www.census.gov/newsroom.html): Census Bureau press releases, news updates, and media resources
+- [Statistics in Schools](https://www.census.gov/programs-surveys/sis.html): K-12 educational program with classroom activities and statistics learning resources
 
 ## Optional
 
-- [Correction Procedures](https://www.census.gov/about/policies/quality/corrections.html): Data correction procedures per OMB Information Quality Guidelines
-- [National Advisory Committee (NAC)](https://www.census.gov/about/cac/nac.html): Archived NAC committee that advised Census on reaching diverse populations
+- [Census Careers](https://www.census.gov/about/census-careers.html): Job opportunities and hiring information at U.S. Census Bureau locations

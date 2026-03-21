@@ -1,0 +1,44 @@
+# text-processing.com
+
+> A Python NLTK-powered API for sentiment analysis, named entity recognition, stemming, POS tagging, and comprehensive natural language processing tasks.
+
+text-processing.com provides both interactive demos and RESTful API endpoints for core NLP operations. Built on NLTK and accessible via HTTP POST, it serves as a practical gateway to common text processing workflows with multilingual support.
+
+## Key Topics
+
+- NLTK
+- sentiment-analysis
+- named-entity-recognition
+- stemming
+- POS tagging
+- text-classification
+- API reference
+- natural-language-processing
+- HTTP POST
+- Python
+- phrase extraction
+- tokenization
+- multilingual support
+- JSON
+- text-mining
+
+## API Reference
+
+- [API Documentation Index](https://text-processing.com/docs/index.html): Main API documentation with getting started guide and overview of all endpoints
+- [Sentiment Analysis API](https://text-processing.com/docs/sentiment.html): HTTP POST endpoint for sentiment classification with examples and parameters
+- [Stemming API](https://text-processing.com/docs/stem.html): Stemming endpoint supporting Porter, Lancaster, and Snowball algorithms
+- [POS Tagging & Chunking API](https://text-processing.com/docs/tag.html): Part-of-speech tagging and IOB chunking using NLTK and Brill tagger
+- [Phrase Extraction & NER API](https://text-processing.com/docs/phrases.html): Named entity recognition and phrase extraction with CoNLL2002 support
+- [Complete API Documentation](https://text-processing.com/docs): Full API reference documentation for text-processing.com API 1.0
+
+## Interactive Demos
+
+- [Sentiment Analysis Demo](https://text-processing.com/demo/sentiment): Interactive sentiment classification demo using Naive Bayes text classifiers
+- [POS Tagging & NER Demo](https://text-processing.com/demo/tag): Interactive demonstration of part-of-speech tagging, chunking, and named entity recognition
+- [Stemming & Lemmatization Demo](https://text-processing.com/demo/stem): Compare Porter, Lancaster, and Snowball stemming algorithms interactively
+- [Word Tokenization Demo](https://text-processing.com/demo/tokenize): Test multiple tokenizer types for splitting and processing text
+- [NLP Demos Overview](https://text-processing.com/demo): Collection of interactive Python NLTK demos for core NLP tasks
+
+## Support & FAQ
+
+- [Frequently Asked Questions](https://text-processing.com/docs/faq.html): Common questions about sentiment analysis, stemming, NER, and API usage patterns

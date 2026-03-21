@@ -1,0 +1,60 @@
+# date.is
+
+> A comprehensive world clock and timezone utility providing real-time time information, UTC conversion, and date calculations across global cities.
+
+date.is is a time and date reference platform offering instant access to current time in major cities worldwide, timezone conversion tools, calendar views, and practical utilities like age calculators and year progress trackers. The site leverages standard time formats (ISO 8601, Unix Timestamp) and comprehensive timezone data including daylight saving time adjustments.
+
+## Key Topics
+
+- UTC (Coordinated Universal Time)
+- Timezone Conversion
+- World Clock
+- Current Time
+- ISO 8601
+- Unix Timestamp
+- GMT (Greenwich Mean Time)
+- Daylight Saving Time
+- City Time Lookup
+- Time Zone Converter
+- UTC Offset
+- Intl.DateTimeFormat
+- Business Hours
+- Calendar View
+- Time Comparison
+
+## Core Time Tools
+
+- [World Clock & Time - Current Time Around the World](https://date.is): Homepage with world clock, UTC converter, timezone calculator, and comprehensive time tools
+- [UTC Time | Coordinated Universal Time](https://date.is/utc): UTC time standard reference with Coordinated Universal Time information and global time baseline
+- [Age Calculator | Calculate Your Exact Age](https://date.is/age-calculator): Calculate exact age in years, months, days with calendar or manual input options
+
+## Calendar & Planning
+
+- [2025 Calendar | Full Year View](https://date.is/calendar/2025): Full year 2025 calendar view with week numbers and date reference
+- [World Holidays Calendar | Browse Holidays by Country](https://date.is/holidays): World holidays calendar browsable by country with public holiday dates and observances
+- [Year Progress Bar 2026 - Real-Time Progress Tracker](https://date.is/year-progress-bar): Real-time year progress tracker with completion percentage and goal planning visualization
+
+## Major Cities - North America
+
+- [Current Time in New York, United States](https://date.is/cities/new-york): Current time in New York with America/New_York timezone information and Eastern Time reference
+- [Current Time in Los Angeles, United States](https://date.is/cities/los-angeles): Current time in Los Angeles with America/Los_Angeles timezone and Pacific Time details
+- [Current Time in Chicago, United States](https://date.is/cities/chicago): Current time in Chicago with America/Chicago timezone information and Central Time reference
+- [Current Time in Toronto, Canada](https://date.is/cities/toronto): Current time in Toronto with America/Toronto timezone and daylight saving time adjustments
+- [Current Time in Miami, United States](https://date.is/cities/miami): Current time in Miami with America/New_York timezone and daylight saving time information
+- [Current Time in Mexico City, Mexico](https://date.is/cities/mexico-city): Current time in Mexico City with America/Mexico_City timezone and Central Time reference
+
+## Major Cities - Europe & Africa
+
+- [Current Time in London, United Kingdom](https://date.is/cities/london): Current time in London with Europe/London timezone and GMT reference information
+- [Current Time in Paris, France](https://date.is/cities/paris): Current time in Paris with Europe/Paris timezone and UTC offset details
+
+## Major Cities - Asia & Pacific
+
+- [Current Time in Tokyo, Japan](https://date.is/cities/tokyo): Current time in Tokyo with Asia/Tokyo timezone (GMT+9) and Japan Standard Time information
+- [Current Time in Beijing, China](https://date.is/cities/beijing): Current time in Beijing with Asia/Shanghai timezone (GMT+8) and China Standard Time
+- [Current Time in Sydney, Australia](https://date.is/cities/sydney): Current time in Sydney with Australia/Sydney timezone and daylight saving time adjustments
+
+## Optional City References
+
+- [Current Time in Vancouver, Canada](https://date.is/cities/vancouver): Current time in Vancouver with America/Vancouver timezone comparison
+- [Current Time in Houston, United States](https://date.is/cities/houston): Current time in Houston with America/Chicago timezone information

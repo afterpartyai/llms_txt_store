@@ -1,60 +1,60 @@
 # DergiPark
 
-> > DergiPark is TÜBİTAK ULAKBİM's comprehensive academic journal hosting and editorial workflow platform for Turkish and international peer-reviewed journals.
+> DergiPark is Turkey's leading academic journal hosting and editorial management platform operated by TÜBİTAK ULAKBİM, providing DOI services, TR Dizin integration, and comprehensive journal management tools for Turkish and international researchers.
 
-DergiPark provides a centralized infrastructure for academic journal management, publication, and indexing services including DOI registration, TR Dizin and DOAJ integration, and support for continuous publication models. The platform serves Turkish universities and research institutions with editorial tools, author submission systems, and reader access to peer-reviewed content.
+DergiPark serves as a centralized hub for academic publishing in Turkey, hosting peer-reviewed journals across multiple disciplines. The platform integrates with Turkish national systems (e-Devlet, TR Dizin) and international standards (ORCID, DOI) to support open-access publishing and continuous publication workflows.
 
 ## Key Topics
 
-- Academic Journal Hosting
-- Editorial Workflow Management
-- DOI Service & Crossref Registration
-- TR Dizin Indexing
-- DOAJ Integration
-- e-Devlet Authentication
-- ORCID Login
-- OAuth Integration
-- Peer-Reviewed Publishing
-- Continuous Publication Model
-- Journal Registration Wizard
+- DergiPark
 - TÜBİTAK ULAKBİM
-- UKOD Subject Classification
-- User Account Management
-- Publisher Dashboard
+- DOI Service
+- TR Dizin Integration
+- ORCID Authentication
+- e-Devlet Integration
+- Journal Management
+- Open Access
+- Academic Publishing
+- Article Submission
+- Peer Review
+- Continuous Publication
+- Turkish Journals
+- Subject Classification (UKOD)
+- Journal Hosting
 
 ## Core Platform
 
-- [Home](https://dergipark.org.tr/en): DergiPark homepage: TÜBİTAK ULAKBİM's academic journal hosting and editorial workflow platform
-- [Ana Sayfa (Turkish)](https://dergipark.org.tr/tr): DergiPark Turkish homepage: TÜBİTAK ULAKBİM's academic journal hosting and management platform
-- [About](https://dergipark.org.tr/en/pub/page/about): DergiPark platform overview: services, standards, and participation requirements for Turkish academic journals
+- [Homepage](https://dergipark.org.tr/tr): DergiPark main portal providing access to Turkish academic journal hosting and editorial management
+- [English Homepage](https://dergipark.org.tr/en): DergiPark international gateway for English-language access to the academic journal platform
+- [About DergiPark](https://dergipark.org.tr/tr/pub/page/about): Platform overview, mission statement, and organizational structure under TÜBİTAK ULAKBİM
 
-## User Authentication & Access
+## Services & Features
 
-- [User Login](https://dergipark.org.tr/en/user/notification): User login and authentication via e-Devlet, ORCID, and account credentials
-- [User Dashboard](https://dergipark.org.tr/en/user/panel): User dashboard login and account access via multiple authentication methods
-- [Publisher Panel](https://dergipark.org.tr/en/user/publisher/panel): Publisher panel login for journal management and editorial workflow access
-- [Journal Management](https://dergipark.org.tr/en/journal/my): Journal management login for editors and journal administrators
-- [Journal Wizard](https://dergipark.org.tr/en/journal-wizard): Journal wizard login for journal registration and setup via e-Devlet and ORCID
-- [User Projects](https://dergipark.org.tr/en/user-project): User project login and account authentication with OAuth integration
-- [Logout](https://dergipark.org.tr/en/logout): User logout and redirect to DergiPark homepage
+- [DOI Service](https://dergipark.org.tr/tr/pub/page/doi-hizmeti): Digital Object Identifier service documentation with eligibility criteria and implementation guidelines for DergiPark journals
+- [Subject Classification Standards](https://dergipark.org.tr/tr/pub/subjects): UKOD subject classification taxonomy and standards for organizing academic journals by discipline
+- [Platform Announcements](https://dergipark.org.tr/tr/pub/announcement): System updates, feature releases, and platform changes affecting DergiPark users and journal administrators
 
-## Publishing Services & Standards
+## User & Publisher Access
 
-- [DOI Service](https://dergipark.org.tr/en/pub/page/doi-hizmeti): DOI service documentation: requirements, Crossref registration, and indexing in TR Dizin and DOAJ
-- [Subject Classification](https://dergipark.org.tr/en/pub/subjects): UKOD academic subject classification standards and taxonomy for journal categorization
+- [User Account Panel](https://dergipark.org.tr/tr/user/panel): Main login and authentication portal for DergiPark user accounts with ORCID and e-Devlet integration
+- [Publisher Management Panel](https://dergipark.org.tr/tr/user/publisher/panel): Administrative dashboard for journal publishers to manage submissions, issues, and journal metadata
+- [Journal Editor Dashboard](https://dergipark.org.tr/tr/journal/my): Dedicated management interface for journal editors to oversee peer review, publications, and editorial workflow
+- [Journal Setup Wizard](https://dergipark.org.tr/tr/journal-wizard): Guided configuration tool for new journal registration with e-Devlet and ORCID authentication support
 
-## Platform Development
+## Account Management
 
-- [Roadmap](https://dergipark.org.tr/en/pub/page/yol-haritasi): DergiPark development roadmap: planned features, editorial tools, and platform enhancements
-- [Developments & Announcements](https://dergipark.org.tr/en/pub/announcement): Platform announcements and updates on system integrations, publication models, and new features
+- [Notification Settings](https://dergipark.org.tr/tr/user/notification): User notification preferences and alert configuration for DergiPark account activities
+- [User Project Management](https://dergipark.org.tr/tr/user-project): Project-based account management and authentication for collaborative research initiatives
+- [User Followers & Social Features](https://dergipark.org.tr/tr/user/user-followers): Social networking features allowing researchers to follow colleagues and track academic activities
+- [Logout](https://dergipark.org.tr/tr/logout): Session termination and secure logout functionality for DergiPark user accounts
 
-## Hosted Journals
+## Featured Journals
 
-- [Atatürk Yolu Dergisi](https://dergipark.org.tr/en/pub/ankuayd): Atatürk Yolu Dergisi: peer-reviewed Turkish history journal hosted on DergiPark
-- [Turkish Journal of Science and Technology](https://dergipark.org.tr/en/pub/tjst): Turkish Journal of Science and Technology: open-access multidisciplinary journal from Fırat University
-- [Journal of Eskişehir Osmangazi University Faculty of Theology](https://dergipark.org.tr/en/pub/esoguifd): ESOGUIFD: peer-reviewed theology and Islamic sciences journal from Eskişehir Osmangazi University
+- [Balkan Music and Arts Journal](https://dergipark.org.tr/tr/pub/bmsd): Peer-reviewed open-access journal focusing on music and arts research in the Balkan region
+- [Aydın Turkish Studies Journal](https://dergipark.org.tr/tr/pub/atb): Academic journal dedicated to Turkish studies, language, and cultural research
+- [ITU Journal of Wireless Communications and Cybersecurity](https://dergipark.org.tr/tr/pub/itujwcc): Peer-reviewed research journal publishing advances in wireless communications and cybersecurity
+- [Kafdağı Journal](https://dergipark.org.tr/tr/pub/kafdagi): Open-access humanities journal hosting interdisciplinary research and scholarly articles
 
 ## Optional
 
-- [Academic Journal](https://dergipark.org.tr/en/pub/daad): Academic journal homepage with submission guidelines and publication schedule
-- [User Followers](https://dergipark.org.tr/en/user/user-followers): User followers and social features login page
+- [Development Roadmap](https://dergipark.org.tr/tr/pub/page/yol-haritasi): Planned feature updates and future development initiatives for the DergiPark platform

@@ -1,0 +1,64 @@
+# Snakify
+
+> > An interactive learning platform with 200+ exercises for teaching Python 3 and web design fundamentals through problem-solving.
+
+Snakify is a comprehensive online coding education platform designed for beginners and students learning Python 3 and web development. The platform features structured lessons, interactive coding exercises, and a teacher dashboard for classroom management, making it suitable for Key Stage 3, AP Computer Science Principles, and CS1 curricula.
+
+## Key Topics
+
+- Python 3
+- Control flow
+- Data structures
+- Functions and recursion
+- String manipulation
+- Lists and dictionaries
+- Problem-solving
+- Web development
+- HTML5 and CSS
+- JavaScript
+- Bootstrap
+- Interactive exercises
+- Beginner tutorials
+- Input/output
+- Conditional logic
+
+## Core Platform
+
+- [Snakify Homepage](https://snakify.org/en): Python 3 and web design learning platform with 200+ interactive exercises
+- [Teacher Dashboard](https://snakify.org/teacher): Teacher dashboard for managing Python 3 student progress and classroom assignments
+
+## Python Fundamentals
+
+- [Input, print and numbers](https://snakify.org/en/lessons/print_input_numbers): Python 3 lesson on input, print functions, numbers, and basic data types
+- [Integer and float numbers](https://snakify.org/en/lessons/integer_float_numbers): Python 3 lesson covering integer/float arithmetic, operators, and type casting
+- [Strings](https://snakify.org/en/lessons/strings_str): Python 3 tutorial on strings: slicing, indexing, and substring manipulation
+
+## Control Flow and Loops
+
+- [Conditions: if, then, else](https://snakify.org/en/lessons/if_then_else_conditions): Python 3 conditional statements lesson: if-then-else control flow and indentation
+- [For loop with range](https://snakify.org/en/lessons/for_loop_range): Python 3 lesson on for loops, range function, and iteration control flow
+- [While loop](https://snakify.org/en/lessons/while_loop): Python 3 lesson on while loops, loop control, break statements, and loop-else
+
+## Data Structures
+
+- [Lists](https://snakify.org/en/lessons/lists): Python 3 tutorial on lists: data structures, indexing, and sequence handling
+- [Two-dimensional lists (arrays)](https://snakify.org/en/lessons/two_dimensional_lists_arrays): Python 3 tutorial on 2D arrays, nested lists, matrices, and loop iteration
+- [Dictionaries](https://snakify.org/en/lessons/dictionaries_dicts): Python 3 tutorial on dictionaries: key-value pairs and associative arrays
+- [Sets](https://snakify.org/en/lessons/sets): Python 3 lesson on sets data structure, operations, and immutable types
+
+## Functions and Advanced Python
+
+- [Functions and recursion](https://snakify.org/en/lessons/functions): Python 3 lesson on functions, recursion, parameters, returns, and code reusability
+
+## Web Development
+
+- [HTML5 and CSS](https://snakify.org/en/lessons/html5-and-css): Web development lesson on HTML5, CSS styling, and responsive design basics
+- [JavaScript](https://snakify.org/en/lessons/javascript_js): JavaScript lesson with code examples and input/output programming tutorial
+- [jQuery](https://snakify.org/en/lessons/jquery): jQuery tutorial on DOM manipulation, selectors, and web development
+- [Responsive Design with Bootstrap](https://snakify.org/en/lessons/bootstrap): Bootstrap framework lesson on responsive design, grid systems, and mobile layout
+
+## Practice Problems
+
+- [Rook move](https://snakify.org/lessons/if_then_else_conditions/problems/rook_move): Chess-themed coding exercise on conditional logic and if-then-else statements
+- [Least divisor](https://snakify.org/lessons/while_loop/problems/least_divisor): While loop coding exercise on number theory and divisor computation
+- [Number of occurrences](https://snakify.org/lessons/dictionaries_dicts/problems/number_of_occurrences_before): Dictionary coding exercise on word counting and string manipulation

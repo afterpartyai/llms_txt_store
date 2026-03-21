@@ -1,0 +1,48 @@
+# LWN.net
+
+> LWN.net is the premier source for Linux kernel development news, security coverage, and free software analysis.
+
+Founded by Eklektix, Inc. and edited by Jonathan Corbet, LWN.net provides in-depth weekly coverage of Linux kernel changes, security vulnerabilities, and open-source community developments. The site maintains extensive archives, a kernel patch database, and community event calendars.
+
+## Key Topics
+
+- Linux kernel
+- BPF (Berkeley Packet Filter)
+- io_uring
+- kernel development
+- security vulnerabilities
+- free software
+- open-source
+- kernel patches
+- community governance
+- Linux distributions
+- asynchronous I/O
+- development tools
+- weekly editions
+- security articles
+
+## Core Resources
+
+- [Welcome to LWN.net](https://lwn.net): LWN.net homepage covering Linux news, kernel development, and free software
+- [LWN.net Subscriptions](https://lwn.net/subscribe): Subscription pricing and account management for LWN services
+- [Subscription Information](https://lwn.net/subscribe/Info): Subscription information, registration, and payment plans
+
+## Kernel & Technical Coverage
+
+- [Kernel Coverage at LWN.net](https://lwn.net/Kernel): Linux kernel coverage index with BPF, io_uring, and patch database
+- [BPF Meets io_uring](https://lwn.net/Articles/847951): Article on BPF and io_uring kernel subsystems and asynchronous I/O
+- [BPF Controlled io_uring Patch Discussion](https://lwn.net/ml/all/cover.1772109579.git.asml.silence@gmail.com): Kernel patch discussion on BPF-controlled io_uring by Pavel Begunkov
+
+## Security & Community
+
+- [LWN Security Resources](https://lwn.net/Security): Security resources, vulnerability database, and Linux security articles
+- [The LWN.net Community Calendar](https://lwn.net/Calendar): Linux community events calendar with conference listings and CFP deadlines
+
+## Reference & Support
+
+- [The LWN.net FAQ](https://lwn.net/op/FAQ.lwn): FAQ covering subscriptions, site guide, and contact information
+- [Writing for LWN](https://lwn.net/op/AuthorGuide.lwn): Guide for contributing articles and freelance writing to LWN
+
+## Optional
+
+- [LWN.net Weekly Edition Archives](https://lwn.net/Archives): Archive index of LWN weekly editions, kernel updates, and security articles

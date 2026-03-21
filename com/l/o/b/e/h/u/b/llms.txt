@@ -1,40 +1,43 @@
 # LobeHub
 
-> LobeHub is an AI Agent platform for discovering, building, and collaborating on intelligent assistants with support for multiple models and marketplace integrations.
+> > LobeHub is an AI agent platform for discovering, building, and collaborating with intelligent agent teammates powered by leading LLMs.
 
-LobeHub provides a comprehensive ecosystem for AI agent development, featuring marketplaces for agents, skills, and MCP servers, along with cloud infrastructure for team collaboration. The platform supports leading AI models including Claude, GPT, Gemini, and DeepSeek with flexible pricing and multi-platform availability.
+LobeHub provides a unified platform for AI agent creation and management, featuring integrated marketplaces for agents, skills, and MCP servers. The platform supports multiple AI models from OpenAI, Anthropic, and Google, with flexible pricing options and cross-platform availability.
 
 ## Key Topics
 
 - AI Agents
 - Agent Marketplace
-- Skills Marketplace
-- MCP (Model Context Protocol)
-- Multi-Agent Systems
-- Claude
-- GPT
-- DeepSeek
-- LobeHub Cloud
-- Workflow Automation
-- AI Collaboration
-- Agent Builder
-- Compute Credits
+- Agent Collaboration
+- Multi-Agent Platform
+- No-Code Agent Builder
 - Model Pricing
-- Team Collaboration
+- Skills Integration
+- MCP Servers
+- Workflow Automation
+- Agent Tools
+- Claude
+- GPT-4
+- Subscription Plans
+- Credits System
+- Agent Groups
 
 ## Core Platform
 
-- [LobeHub Homepage](https://lobehub.com): LobeHub homepage: AI Agent platform for discovery, building, and team collaboration
-- [Agent Marketplace](https://lobehub.com/agent): LobeHub Agent marketplace: discover, customize, and deploy AI assistants
-- [Skills Marketplace](https://lobehub.com/skills): LobeHub Skills marketplace for AI coding assistants with SKILL.md format
-- [MCP Servers Marketplace](https://lobehub.com/mcp): LobeHub MCP marketplace: Model Context Protocol servers for Agent systems
+- [LobeHub - Agent teammates that grow with you](https://lobehub.com): LobeHub homepage: AI agent platform for finding, building, and collaborating with agent teammates.
+- [Download LobeHub](https://lobehub.com/downloads): Download LobeHub desktop and mobile apps for macOS, Windows, Linux, iOS, Android.
 
-## Pricing & Access
+## Agent Marketplaces
 
-- [Plans & Pricing](https://lobehub.com/pricing): LobeHub pricing plans with compute credits, free trial, and multi-model support
-- [Model Pricing](https://lobehub.com/docs/usage/subscription/model-pricing): LobeHub Cloud AI model pricing: GPT, Claude, Gemini token costs and billing
-- [Download LobeHub](https://lobehub.com/downloads): LobeHub desktop and mobile app downloads for macOS, Windows, Linux, iOS, Android
+- [Agent Market](https://lobehub.com/agent): LobeHub Agent Marketplace: discover and customize ready-to-use AI agents.
+- [Agent Skills Marketplace](https://lobehub.com/skills): LobeHub Skills Marketplace for Claude, ChatGPT, and other AI coding assistants.
+- [MCP Servers Marketplace](https://lobehub.com/mcp): MCP Servers Marketplace: find trustworthy Model Context Protocol servers for agents.
 
-## Legal & Privacy
+## Pricing & Billing
 
-- [Privacy Policy](https://lobehub.com/privacy): LobeHub privacy policy covering data collection and cloud synchronization
+- [Pricing](https://lobehub.com/pricing): LobeHub pricing plans with subscription tiers, credits system, and AI model costs.
+- [LobeHub Model Pricing](https://lobehub.com/docs/usage/subscription/model-pricing): Documentation on LobeHub Cloud AI model pricing and token calculation structure.
+
+## Legal
+
+- [Privacy Policy](https://lobehub.com/privacy): LobeHub Privacy Policy covering data collection and user privacy practices.

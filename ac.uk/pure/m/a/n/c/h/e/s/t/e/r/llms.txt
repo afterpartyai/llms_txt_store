@@ -1,0 +1,27 @@
+# Pure - University of Manchester Research Information System
+
+> Pure is a comprehensive research information management platform providing REST API access for institutional research data, publications, and academic profiles.
+
+Pure serves as the University of Manchester's central repository for research information management. The platform offers robust API capabilities for integrating research data across institutional systems, supporting CRUD operations, authentication, and standards-based data exchange.
+
+## Key Topics
+
+- Pure API
+- REST API
+- CRUD operations
+- OpenAPI 3
+- JSON
+- Authentication
+- SSO
+- HTTP
+- RFC7386
+- JSON merge patch
+- Data management
+- Research information
+- API documentation
+- Write API
+- Integration
+
+## API Reference
+
+- [Pure API Documentation](https://pure.manchester.ac.uk/ws/api/documentation/index.html): Complete REST API documentation for Pure including CRUD operations, authentication methods (SSO), request/response formats (JSON, OpenAPI 3), and RFC7386 JSON merge patch support for data management

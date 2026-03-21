@@ -1,0 +1,61 @@
+# Monetate Knowledge Base
+
+> Comprehensive documentation for Monetate's personalization, testing, and recommendations platform with guides for implementation, platform navigation, and experience management.
+
+Monetate Knowledge Base provides technical documentation and guides for the Monetate personalization platform, covering everything from initial implementation and platform setup to advanced features like automated personalization, dynamic testing, and product recommendations. The documentation includes best practices, API references, and configuration tutorials for marketing and technical teams.
+
+## Key Topics
+
+- Monetate Platform
+- Web Experiences
+- Automated Personalization
+- Dynamic Testing
+- Product Recommendations
+- Engine API
+- Monetate JavaScript API
+- Action Builder
+- Experience Management
+- Audience Segmentation
+- A/B Testing
+- Analytics & Reporting
+- Customer Data Onboarding
+- Platform Navigation
+- Dynamic Bundles
+
+## Getting Started
+
+- [Monetate Knowledge Base](https://docs.monetate.com/docs): Central hub for Monetate documentation covering personalization, testing, and recommendations
+- [Monetate Experiences Overview](https://docs.monetate.com/docs/monetate-experiences-overview): Introduction to Monetate platform, experience types, and testing capabilities
+- [Types of Implementations](https://docs.monetate.com/docs/implementation-overview): Guide to Monetate implementation options including JavaScript API and tag deployment
+- [Navigating the Platform](https://docs.monetate.com/docs/platform-user-interface): Guide to Monetate platform navigation and UI layout introduced in September 2025
+
+## Platform Management & Configuration
+
+- [Platform Dashboard](https://docs.monetate.com/docs/platform-dashboard): Overview of Monetate platform dashboard metrics and experience data reporting
+- [Settings Overview](https://docs.monetate.com/docs/settings-overview): Guide to Monetate platform settings, configuration options, and admin features
+- [Account Analytics](https://docs.monetate.com/docs/account-analytics): Guide to understanding Monetate metrics including orders, revenue, and visitors
+- [Configure the WHY of a Web Experience](https://docs.monetate.com/docs/configure-why-settings-of-web-experience): Tutorial for configuring WHY settings, goal metrics, and secondary metrics
+- [Platform Organization Tips](https://docs.monetate.com/docs/platform-organization-best-practices): Best practices for organizing experiences, targets, and actions in Monetate
+
+## Experience & Campaign Management
+
+- [Experience List Page](https://docs.monetate.com/docs/experience-list-page): Documentation for Web Experiences list page features and management tools
+- [Experience Statuses](https://docs.monetate.com/docs/experience-status): Reference guide describing Web experience status states and lifecycle
+- [Actions List Page](https://docs.monetate.com/docs/actions-list-page): Guide to viewing and organizing WHAT action templates in Monetate
+- [Events List Page](https://docs.monetate.com/docs/events-list-page): Documentation for managing custom events and metrics on Events list page
+
+## Data & Audience Management
+
+- [Customer Data Overview](https://docs.monetate.com/docs/customer-data-onboarding-overview): Guide to uploading customer data via Engine API, SFTP, or Amazon S3
+- [Datasets List Page](https://docs.monetate.com/docs/datasets-list-page): Documentation for managing product catalogs and customer attributes datasets
+- [Monetate Session](https://docs.monetate.com/docs/the-monetate-session): Technical reference explaining Monetate session management and expiration rules
+
+## Reference & Support
+
+- [Glossary](https://docs.monetate.com/docs/glossary): Glossary defining Monetate terminology and ecommerce marketing concepts
+- [Monetate Platform FAQ](https://docs.monetate.com/docs/platform-introduction-faq): FAQs about Stealth Mode, currency conversion, and platform configuration
+- [Webcast: Inspector Tool, Engine API & More](https://docs.monetate.com/docs/master-monetate-ui-secrets-more): Training webinar on Monetate Inspector Tool and Engine API features
+
+## Optional
+
+- [2026 Release Notes](https://docs.monetate.com/docs/2026): Release notes documenting 2026 updates, bug fixes, and new feature releases

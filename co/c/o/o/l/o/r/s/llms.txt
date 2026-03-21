@@ -1,50 +1,63 @@
 # Coolors
 
-> > Coolors is a comprehensive color tool platform providing color palette generation, detailed color information, format conversion, and accessibility testing for designers and developers.
+> Coolors is a super fast color palette generator and comprehensive design toolkit for creating, exploring, and optimizing colors for web and UI design.
 
-Coolors offers extensive color utilities including HEX, RGB, CMYK, HSL, HSB, LAB, XYZ, LCH, LUV, and HWB format conversions, color harmony generation, blindness simulation, and WCAG contrast checking. The platform integrates with popular design tools like Figma, Tailwind CSS, Chrome, and iOS.
+Coolors provides an integrated suite of AI-powered color tools including palette generation, contrast checking, image color extraction, and gradient creation. The platform supports multiple frameworks like Tailwind CSS and offers extensions for Chrome and iOS, making it accessible across design workflows.
 
 ## Key Topics
 
-- Color conversion (HEX, RGB, CMYK, HSL, HSB, LAB, XYZ, LCH, LUV, HWB)
-- Color harmonies and variations
-- Accessibility checker and WCAG contrast compliance
-- Color blindness simulator
-- Tailwind CSS integration
-- Figma plugin
-- Gradient palettes
-- Color picker tools
-- RGB to CMYK conversion
-- Hex color information
-- Contrast checker
-- Color palette generation
-- Design tool integrations (Chrome, iOS)
+- Color Palette Generator
+- AI-Powered Color Suggestions
+- Contrast Checker
+- Color Picker
+- Palette Visualizer
+- Gradient Maker
+- Image Color Extraction
+- Accessibility Compliance
+- Tailwind CSS Integration
+- Color Bot
+- SVG Recoloring
+- WCAG Standards
+- Design Tools
+- Color Accessibility
+- Figma Integration
 
-## Color Palettes & Generators
+## Core Color Tools
 
-- [Gradient Color Palettes](https://coolors.co/palettes/trending/gradient): Trending gradient color palettes for Figma, Chrome, iOS, and Tailwind
+- [Create a Palette](https://coolors.co/generate): Core palette generator with AI-powered color creation and accessibility tools
+- [Color Picker](https://coolors.co/color-picker): Analyze colors with blindness simulation, harmonies, and format conversion
+- [Color Bot](https://coolors.co/color-bot): AI-powered chat interface for intelligent color suggestions and exploration
+- [Explore Color Palettes](https://coolors.co/palettes): Browse thousands of color palette schemes for design inspiration
+- [Color Library](https://coolors.co/colors): Browse 800+ colors organized by shade with accessibility features
 
-## Color Information & Tools
+## Accessibility & Quality Tools
 
-- [#0000F7 Color Info](https://coolors.co/0000f7): Color info for #0000F7: RGB/HSB/HSL data, harmonies, accessibility tools
-- [#0000DE Color Info](https://coolors.co/0000de): Color info for #0000DE: RGB/CMYK conversion, accessibility checker, harmonies
-- [#0000DF Color Info](https://coolors.co/0000df): Color info for #0000DF: hex conversions, harmonies, accessibility features
-- [#0000D1 Color Info](https://coolors.co/0000d1): Color info for #0000D1: RGB/CMYK conversion, accessibility contrast check
-- [#0000E7 Color Info](https://coolors.co/0000e7): Color info for #0000E7: hex conversions, harmonies, contrast/blindness tools
-- [#0001B6 Color Info](https://coolors.co/0001b6): Color info for #0001B6: format conversion, harmonies, blindness simulation
-- [#0001BA Color Info](https://coolors.co/0001ba): Color info for #0001BA: conversions, harmonies, accessibility contrast tools
-- [#0001B5 Color Info](https://coolors.co/0001b5): Color info for #0001B5: harmonies, variations, accessibility/contrast check
-- [#0000B7 Color Info](https://coolors.co/0000b7): Color info for #0000B7: harmonies, variations, blindness/contrast simulator
-- [#0000A4 Color Info](https://coolors.co/0000a4): Color info for #0000A4: RGB/CMYK data, blindness simulator, contrast check
-- [#0000A5 Color Info](https://coolors.co/0000a5): Color info for #0000A5: RGB/CMYK/HSL data, accessibility, blindness sim
-- [#00007F Color Info](https://coolors.co/00007f): Color info for #00007F: conversions, harmonies, accessibility/blindness sim
-- [#000085 Color Info](https://coolors.co/000085): Color info for #000085: harmonies, contrast checker, blindness simulator
-- [#000147 Color Info](https://coolors.co/000147): Color info for #000147: hex conversions, harmonies, accessibility checker
-- [#000142 Color Info](https://coolors.co/000142): Color info for #000142: RGB data, harmonies, blindness simulator, contrast
+- [Color Contrast Checker](https://coolors.co/contrast-checker): Check WCAG contrast compliance for text and background colors
+- [Palette Visualizer](https://coolors.co/visualizer): Preview color palettes on actual UI designs and templates
 
-## Optional
+## Gradient Tools
 
-- [#000015 Color Info](https://coolors.co/000015): Color info for #000015: RGB/HSL conversion, harmonies, accessibility check
-- [#000103 Color Info](https://coolors.co/000103): Color info for #000103: conversions, blindness simulation, Tailwind/Figma
-- [#000129 Color Info](https://coolors.co/000129): Color info for #000129: conversions, harmonies, contrast/accessibility tools
-- [#000038 Color Info](https://coolors.co/000038): Color info for #000038: conversions, harmonies, accessibility/blindness sim
+- [Create a Gradient](https://coolors.co/gradient-maker): Generate and export custom gradients with CSS export capability
+- [Browse Gradients](https://coolors.co/gradients): Explore beautiful gradient designs for UI and web projects
+- [Create a Gradient Palette](https://coolors.co/gradient-palette): Create gradient palettes between two colors for design projects
+
+## Image & Visual Tools
+
+- [Extract Palette from Image](https://coolors.co/image-picker): Extract color palettes from photos using image color extraction
+- [Image Recolor](https://coolors.co/image-recolor): Recolor SVG images to match your custom color palettes
+- [Image Converter](https://coolors.co/image-converter): Bulk convert images between PNG, JPG, GIF and other formats
+- [Create a Collage](https://coolors.co/collage-maker): Create collages combining photos and color palettes with customization
+
+## Framework & Design Integration
+
+- [Tailwind Colors](https://coolors.co/tailwind): Explore and preview Tailwind CSS color palette with export options
+
+## Typography & Fonts
+
+- [Fonts](https://coolors.co/fonts): Browse hundreds of free fonts for typography and design projects
+- [Font Generator](https://coolors.co/font-generator): Generate custom styled fonts for social media and design applications
+
+## Account & Home
+
+- [Home](https://coolors.co): Main homepage showcasing Coolors color palette generator and design tools
+- [User Dashboard](https://coolors.co/user): User dashboard for managing saved palettes and design projects

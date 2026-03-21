@@ -1,57 +1,63 @@
 # python-course.eu
 
-> > Comprehensive free Python tutorials and online courses for self-study, from fundamentals to advanced topics including OOP, machine learning, and numerical programming.
+> A comprehensive, free online Python learning platform offering tutorials from beginner to advanced levels, with specialized courses in OOP, machine learning, numerical programming, and GUI development.
 
-python-course.eu offers detailed online Python education covering beginner to advanced levels, with content created by Bernd Klein and Bodenseo. The site includes practical projects, live courses, and professional PDF eBook versions for learners worldwide.
+python-course.eu is an educational resource created by Bernd Klein that provides detailed, self-paced Python tutorials covering core language concepts, advanced topics, and practical applications. The site includes both free web-based content and professional PDF eBooks, supplemented by live training courses.
 
 ## Key Topics
 
-- Python fundamentals
-- Object-Oriented Programming (OOP)
+- Python
+- Object Oriented Programming (OOP)
 - Machine Learning
 - Numerical Programming
 - Pandas
 - NumPy
-- Advanced Python
-- Type Hints & Annotations
-- Tkinter GUI
 - Data Analysis
-- Deep Learning
+- Tkinter
+- Advanced Python
+- Beginner Guide
+- Type Annotations
 - Functional Programming
-- Generators
-- Web Development
-- System Programming
+- Data Science
+- Bernd Klein
+- Programming Education
 
-## Core Python Tutorials
+## Core Python Learning
 
-- [Intro to Python Tutorial](https://python-course.eu/python-tutorial): Detailed online introduction course into Python programming suitable for self-study.
-- [For Loops](https://python-course.eu/python-tutorial/for-loops.php): Introduction to for loops and iteration in Python with range examples.
-- [Intro to Object Oriented Programming](https://python-course.eu/oop): Introduction to Object Oriented Programming (OOP) concepts with Python.
-- [Intro to Advanced Python](https://python-course.eu/advanced-python): Advanced Python topics including functional programming and generators.
-- [Annotations](https://python-course.eu/annotations): Guide to Python type hints and annotations for improved code quality.
+- [Intro to Python Tutorial](https://python-course.eu/python-tutorial): Detailed online introduction course into Python programming suitable for self-study
+- [For Loops](https://python-course.eu/python-tutorial/for-loops.php): Tutorial on for loops and iteration in Python with range examples
+- [Annotations](https://python-course.eu/annotations): Guide to Python type hints and annotations for improved code quality
+
+## Advanced Python & OOP
+
+- [Intro to Object Oriented Programming](https://python-course.eu/oop): Introduction to Object Oriented Programming concepts and practices with Python
+- [Intro to Advanced Python](https://python-course.eu/advanced-python): Advanced Python topics including functional programming, generators, and ML concepts
 
 ## Data Science & Numerical Programming
 
-- [Numerical Programming with Python](https://python-course.eu/numerical-programming): Overview of NumPy, SciPy, Pandas, and Matplotlib for numerical computing.
-- [Intro to Machine Learning with Python](https://python-course.eu/machine-learning): Machine Learning tutorial with examples using NumPy, SciPy, and Pandas.
-- [Multi-level Indexing in Pandas](https://python-course.eu/numerical-programming/multi-level-indexing-in-pandas.php): Advanced Pandas tutorial on multi-level indexing and hierarchical data.
-- [Pandas Groupby Example](https://python-course.eu/numerical-programming/pandas-groupby-example.php): Extensive Pandas groupby example for CSV data aggregation and analysis.
-- [Pandas Styling](https://python-course.eu/numerical-programming/pandas-styling.php): Guide to Pandas DataFrame styling for data formatting and visualization.
+- [Numerical Programming with Python](https://python-course.eu/numerical-programming): Overview of NumPy, SciPy, Pandas, and Matplotlib for numerical computing
+- [Multi-level Indexing in Pandas](https://python-course.eu/numerical-programming/multi-level-indexing-in-pandas.php): Advanced Pandas tutorial on multi-level and hierarchical indexing
+- [Pandas Groupby Example](https://python-course.eu/numerical-programming/pandas-groupby-example.php): Practical Pandas example using groupby for data aggregation and analysis
+- [Pandas Styling](https://python-course.eu/numerical-programming/pandas-styling.php): Tutorial on formatting and styling Pandas DataFrames for data visualization
 
-## Applications & Projects
+## Machine Learning & Applications
 
-- [Introduction to Applications of Python](https://python-course.eu/applications-python): Python applications including system programming, graphs, and state machines.
-- [Tkinter - the Python interface for Tk](https://python-course.eu/tkinter): Tutorial to Tkinter, the most commonly used Python GUI framework.
-- [Introduction | Projects](https://python-course.eu/projects): Small projects to practice Python skills across beginner to advanced levels.
+- [Intro to Machine Learning with Python](https://python-course.eu/machine-learning): Machine Learning tutorial with examples using NumPy, SciPy, and Pandas
+- [Introduction to Applications of Python](https://python-course.eu/applications-python): Practical Python applications including system programming, graphs, and state machines
 
-## About & Community
+## GUI Development & Projects
 
-- [About this site](https://python-course.eu/about): Overview of python-course.eu site contents, courses, and general information.
-- [Live courses](https://python-course.eu/about/live-courses.php): Listing of live courses conducted by Bernd Klein and Bodenseo.
-- [Contact](https://python-course.eu/about/contact.php): Contact form and information for reaching python-course.eu administrators.
+- [Tkinter - the Python interface for Tk](https://python-course.eu/tkinter): Tutorial on Tkinter, Python's most commonly used graphical user interface toolkit
+- [Introduction to Projects](https://python-course.eu/projects): Small projects to practice Python concepts from beginner to advanced levels
+
+## About & Training
+
+- [About this site](https://python-course.eu/about): Overview of python-course.eu site contents, courses, and general information
+- [Live courses](https://python-course.eu/about/live-courses.php): Listing of live courses and training conducted by Bernd Klein
+- [Contact](https://python-course.eu/about/contact.php): Contact form and information for reaching python-course.eu
 
 ## Optional Resources
 
-- [PDF version of this site](https://python-course.eu/about/pdf-version-of-this-site.php): Professional eBook versions of python-course.eu content in PDF format.
-- [Donate to python-course.eu](https://python-course.eu/about/donate-to-python-course-eu.php): Donation page to support python-course.eu development and maintenance.
-- [News](https://python-course.eu/about/news.php): Overview of significant development events and updates to the site.
+- [PDF version of this site](https://python-course.eu/about/pdf-version-of-this-site.php): Professional eBook versions of python-course.eu tutorials in PDF format
+- [Donate to python-course.eu](https://python-course.eu/about/donate-to-python-course-eu.php): Donation page to support python-course.eu and its free content
+- [News](https://python-course.eu/about/news.php): Significant updates and changelog of python-course.eu development

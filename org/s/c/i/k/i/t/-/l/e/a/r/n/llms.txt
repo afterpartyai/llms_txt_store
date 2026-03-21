@@ -1,0 +1,38 @@
+# scikit-learn
+
+> scikit-learn is a Python machine learning library providing tools for supervised and unsupervised learning, model evaluation, and data preprocessing.
+
+scikit-learn offers comprehensive APIs for regression, classification, preprocessing, and metrics evaluation. It integrates with SciPy, NumPy, and joblib to provide efficient, production-ready machine learning algorithms and utilities.
+
+## Key Topics
+
+- Linear Regression
+- Classification Metrics
+- Model Evaluation
+- Label Encoding
+- Preprocessing
+- Mean Absolute Error
+- Mean Squared Error
+- Loss Functions
+- Supervised Learning
+- Ordinary Least Squares
+- sklearn.metrics
+- sklearn.preprocessing
+- Regression Models
+- joblib
+- SciPy
+
+## Regression Models & Evaluation
+
+- [LinearRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html): LinearRegression API reference with parameters, methods, and OLS implementation
+- [mean_absolute_error](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_absolute_error.html): mean_absolute_error metric API reference for regression model evaluation
+- [mean_squared_error](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html): mean_squared_error metric API reference for regression model evaluation
+
+## Classification Metrics & Evaluation
+
+- [classification_report](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html): classification_report API reference with precision, recall, and F1 metrics
+- [log_loss](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.log_loss.html): log_loss API reference for classification probability and cross-entropy loss
+
+## Data Preprocessing & Encoding
+
+- [LabelEncoder](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html): LabelEncoder API reference for categorical data encoding and transformation

@@ -1,0 +1,41 @@
+# hishan.me
+
+> > A portfolio of full-stack software projects spanning robotics, mobile applications, healthcare systems, and IoT solutions.
+
+Hishan Indrajith's project portfolio showcasing expertise in computer vision, Android development, backend systems, and IoT. Projects range from academic competitions to real-world applications built with Python, Java, and mobile technologies.
+
+## Key Topics
+
+- Computer Vision
+- Python/OpenCV
+- Android Development
+- Firebase
+- Java
+- Robot Navigation
+- Path Following
+- Google Maps API
+- IoT Systems
+- Multithreaded Architecture
+- MySQL
+- Arduino
+- GPS Tracking
+- Healthcare Systems
+- Stock Exchange Trading
+
+## Computer Vision & Robotics
+
+- [Python/OpenCV Path Following and Arrow Detection](https://hishan.me/opencv.html): Python/OpenCV implementation for robot navigation using line and arrow detection with directional analysis
+
+## Mobile Applications
+
+- [iservant](https://hishan.me/iservant.html): Android domestic services app with Firebase backend and Google Maps integration for service provider discovery
+- [Dogapp](https://hishan.me/dogapp.html): Android GPS-based application for dog counting and location tracking to support population control initiatives
+
+## Backend & Systems
+
+- [Pera EMS](https://hishan.me/peraems.html): Computerized Electronic Medical System for University of Peradeniya health center management
+- [Multithreaded Auction Server/Client System](https://hishan.me/auctionsystem.html): Java socket-based multithreaded auction system designed for stock exchange trading with concurrent client handling
+
+## IoT & Hardware
+
+- [Networked Weather Monitoring and Alerting System](https://hishan.me/weather.html): Arduino-based IoT system for automated weather monitoring with network connectivity and alert notifications

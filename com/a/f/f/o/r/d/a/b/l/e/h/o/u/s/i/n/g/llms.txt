@@ -1,59 +1,56 @@
 # AffordableHousing.com
 
-> > AffordableHousing.com connects renters and property owners through a comprehensive platform for affordable housing search, Section 8 listings, and tenant management.
+> > AffordableHousing.com is a comprehensive platform connecting renters and property owners with affordable housing options, Section 8 programs, and housing authority resources.
 
-AffordableHousing.com is a dual-sided marketplace serving both renters seeking affordable housing and property owners managing Section 8 and subsidized rental properties. The platform includes B2B solutions for housing authorities through products like RevoList, CentralHub, and RentWatch.
+The site serves as a dual-sided marketplace featuring rental listings, Section 8 housing programs, and tools for both tenants and landlords. It includes enterprise solutions like RevoList and Central Hub for housing authorities and property management, along with integrated authentication, messaging, and application tracking systems.
 
 ## Key Topics
 
 - Section 8 Housing
 - Affordable Housing
-- Property Listings
-- Renter Portal
-- Landlord Portal
-- Account Authentication
-- Property Management
-- HUD Vouchers
 - Rental Listings
+- Property Management
+- Renter Portal
+- Owner Portal
 - Housing Authorities
-- Account Setup
-- Sign-In
-- RevoList
-- CentralHub
+- User Authentication
+- Account Management
 - Rent Calculator
+- Property Search
+- Application Tracking
+- HUD Programs
+- RevoList
+- Central Hub
 
-## Core Platforms
+## Main Platforms
 
-- [Homepage](https://www.affordablehousing.com): Homepage for affordable housing search and rental listings platform
-- [Renter Portal](https://www.affordablehousing.com/renters): Renter portal for searching and applying to affordable housing
-- [Owner Portal](https://www.affordablehousing.com/owners): Owner portal for property listing and tenant management tools
-- [B2B Solutions](https://info.affordablehousing.com): B2B products for housing agencies: RentWatch, RevoList, CentralHub
+- [Homepage](https://www.affordablehousing.com): Homepage for affordable housing search and rental listings
+- [Renter Portal](https://www.affordablehousing.com/renters): Renter portal for Section 8 and affordable housing search
+- [Owner Portal](https://www.affordablehousing.com/owners): Property owner portal for listing and managing rentals
+- [Enterprise Solutions](https://info.affordablehousing.com): Enterprise solutions including RevoList, RentWatch, CentralHub
 
-## Property Search & Listings
+## Rental Search & Listings
 
-- [All Rental Properties](https://www.affordablehousing.com/properties): Browse all rental properties and affordable housing listings
-- [Apartments for Rent](https://www.affordablehousing.com/apartments): Search and filter affordable apartments available for rent
-- [Houses for Rent](https://www.affordablehousing.com/houses): Search and filter affordable houses available for rent
-- [Section 8 Housing](https://www.affordablehousing.com/properties/section8-owners): Section 8 housing listings and owner resources on platform
+- [Browse Properties](https://www.affordablehousing.com/properties): Browse and search available rental properties
+- [Apartments for Rent](https://www.affordablehousing.com/apartments): Search and filter apartments for rent
+- [Houses for Rent](https://www.affordablehousing.com/houses): Search and filter houses available for rent
+- [Section 8 Properties](https://www.affordablehousing.com/properties/section8-owners): Section 8 properties and owner resources
+- [Housing Authorities Directory](https://www.affordablehousing.com/housing-authorities): Directory of housing authorities and Section 8 programs
 
-## Account Management & Authentication
+## User Authentication & Account Management
 
-- [User Login](https://www.affordablehousing.com/ll/dashboard.aspx): User login and authentication dashboard for AffordableHousing.com
-- [My Account](https://www.affordablehousing.com/ll/ll_myaccount.aspx): User account management for owners and renters on platform
-- [Tenant Account](https://www.affordablehousing.com/v4/pages/tenantAccount/tenantAccount.aspx): Tenant account setup and management portal for renters
-- [Alert Preferences](https://www.affordablehousing.com/v4/pages/alertPreferences/alertPreferences.aspx): User alert preferences and notification settings management
+- [Login & Dashboard](https://www.affordablehousing.com/ll/dashboard.aspx): User authentication and dashboard access for renters and owners
+- [Account Management](https://www.affordablehousing.com/ll/ll_myaccount.aspx): Account management for renters and property owners
+- [Tenant Account Setup](https://www.affordablehousing.com/v4/pages/tenantAccount/tenantAccount.aspx): Tenant account setup and management portal
+- [Alert Preferences](https://www.affordablehousing.com/v4/pages/alertPreferences/alertPreferences.aspx): User alert preferences and notification settings
 
 ## Renter Tools & Applications
 
-- [Waitlist Applications](https://www.affordablehousing.com/v4/pages/myWaitlistApplications/myWaitlistApplications.aspx): Renter waitlist applications tracking and management portal
-- [Renter Inbox](https://www.affordablehousing.com/v4/pages/renterInbox/renterInbox.aspx): Renter inbox for housing application messages and communications
-- [Market Rent Estimator](https://www.affordablehousing.com/market-rent-estimator): Rent affordability calculator tool for estimating housing costs
+- [Waitlist Applications](https://www.affordablehousing.com/v4/pages/myWaitlistApplications/myWaitlistApplications.aspx): Renter portal for managing waitlist applications
+- [Renter Messaging](https://www.affordablehousing.com/v4/pages/renterInbox/renterInbox.aspx): Renter messaging and communication portal
+- [Market Rent Estimator](https://www.affordablehousing.com/market-rent-estimator): Rent affordability calculator tool for users
 
-## Owner & Landlord Resources
+## Owner Pricing & Plans
 
-- [Owner Pricing](https://www.affordablehousing.com/v4/pages/ownerPricing/pricing.aspx): Pricing plans for property owners listing on AffordableHousing.com
-- [Owner Plans](https://www.affordablehousing.com/v4/pages/ownerPricing/Plans.aspx): Owner account plans and subscription options for property listings
-
-## Housing Authorities & Agencies
-
-- [Housing Authorities Directory](https://www.affordablehousing.com/housing-authorities): Directory of housing authorities and Section 8 agencies by location
+- [Pricing Plans](https://www.affordablehousing.com/v4/pages/ownerPricing/pricing.aspx): Pricing plans for property owners to list affordable housing
+- [Subscription Plans](https://www.affordablehousing.com/v4/pages/ownerPricing/Plans.aspx): Available subscription plans for property owners

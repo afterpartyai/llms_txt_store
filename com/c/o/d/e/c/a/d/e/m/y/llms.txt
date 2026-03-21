@@ -1,64 +1,61 @@
 # Codecademy
 
-> > An interactive learning platform offering tutorials and guides on programming, web development, AI/ML, cloud computing, and software engineering fundamentals.
+> > Codecademy is a free online platform with 50M+ users learning to code through interactive courses in programming, data science, AI, and professional skills.
 
-Codecademy provides hands-on coding education covering languages like Python and JavaScript, frameworks like React and LangChain, development tools like VS Code and Docker, and emerging technologies including generative AI and agentic systems. The platform combines beginner-friendly guides with practical tutorials for building real-world applications.
+Codecademy offers comprehensive coding education across multiple programming languages and specializations, from beginner fundamentals to advanced professional development. The platform serves both individual learners and enterprises through Codecademy Teams, with structured skill paths, certification preparation, and real-world project-based learning.
 
 ## Key Topics
 
 - Python
 - JavaScript
-- AI and Machine Learning
-- LangChain and LangGraph
+- Web Development
+- Data Science
+- Machine Learning
+- AI & Generative AI
+- SQL
+- Java
 - React
-- Generative AI and ChatGPT
-- Prompt Engineering
-- Docker and Kubernetes
-- Visual Studio Code
-- Git Version Control
-- Cloud Computing (AWS, Azure, Google Cloud)
-- Test-Driven Development
-- API Testing and Development
-- User-Centered Design
-- Cybersecurity
+- HTML & CSS
+- Career Paths
+- Certification Prep
+- Skill Development
+- Full-Stack Development
+- Interview Prep
 
-## AI and Machine Learning
+## Core Platforms
 
-- [How to Create Effective AI Prompts (With Examples)](https://www.codecademy.com/article/how-to-create-effective-ai-prompts): Guide to creating effective AI prompts with ChatGPT and generative AI
-- [Top AI Agent Frameworks in 2025](https://www.codecademy.com/article/top-ai-agent-frameworks-in-2025): Comparison of LangChain, AutoGen, CrewAI and other AI agent frameworks
-- [How to Build Agentic AI with LangChain and LangGraph](https://www.codecademy.com/article/agentic-ai-with-langchain-langgraph): Tutorial on building autonomous AI agents with LangChain and LangGraph
-- [CPU vs GPU: What's the Difference and Which One Should You Use?](https://www.codecademy.com/article/cpu-vs-gpu-whats-the-difference-and-which-one-should-you-use): Comparison of CPU and GPU architecture, performance, and use cases
+- [Learn to Code - for Free | Codecademy](https://www.codecademy.com): Codecademy homepage: Free coding platform with 50M+ users learning Python, AI, and professional skills.
+- [Codecademy for Business | Codecademy](https://www.codecademy.com/business): Codecademy Teams enterprise solution for corporate upskilling and team training.
 
-## Development Tools and Environment Setup
+## Programming Languages
 
-- [Getting Started with Visual Studio Code](https://www.codecademy.com/article/visual-studio-code-setup): VS Code installation and setup guide for coding and debugging
-- [Setting Up Postman](https://www.codecademy.com/article/setting-up-postman): Setup guide for Postman API testing and HTTP request development
-- [Web Programming on a Chromebook](https://www.codecademy.com/article/web-programming-on-chromebook): Setup Chromebook for web development with Linux and VS Code
-- [How to Force Git Pull to Overwrite Local Changes in Git](https://www.codecademy.com/article/force-git-pull): Git force pull guide using git reset and git stash commands
+- [Best Python Courses + Tutorials | Codecademy](https://www.codecademy.com/catalog/language/python): Python courses from basics to advanced with Django, Pandas, and machine learning paths.
+- [JavaScript Courses & Tutorials | Codecademy](https://www.codecademy.com/catalog/language/javascript): JavaScript courses covering React, Angular, front-end, and back-end development.
+- [Java Courses & Tutorials | Codecademy](https://www.codecademy.com/catalog/language/java): Java programming courses covering OOP, Spring framework, and certification prep.
+- [Best HTML + CSS Courses & Tutorials | Codecademy](https://www.codecademy.com/catalog/language/html-css): HTML & CSS web development courses for front-end learning and React fundamentals.
+- [C++ (C Plus Plus) Courses & Tutorials | Codecademy](https://www.codecademy.com/catalog/language/c-plus-plus): C++ programming courses from fundamentals to advanced OOP and game development.
+- [C# (C Sharp) Courses & Tutorials | Codecademy](https://www.codecademy.com/catalog/language/c-sharp): C# programming courses for web, game development, and ASP.NET applications.
 
-## Web Development and React
+## Specialized Career Paths
 
-- [React: The Virtual DOM](https://www.codecademy.com/article/react-virtual-dom): Explains React's Virtual DOM and DOM manipulation optimization techniques
-- [Browser Compatibility](https://www.codecademy.com/article/f1-u5-browser-compatibility): Cross-browser compatibility guide for CSS and HTML web development
-- [Introduction to User Centered Design](https://www.codecademy.com/article/ui-design-intro-to-ucd): User-centered design process, research, and iteration fundamentals
+- [Web Development Courses | Codecademy](https://www.codecademy.com/catalog/subject/web-development): Full-stack web development courses: HTML, CSS, JavaScript, React, PHP, and more.
+- [Data Science Courses & Tutorials | Codecademy](https://www.codecademy.com/catalog/subject/data-science): Data science courses covering Python, SQL, R, ML/AI, and business intelligence.
+- [Machine Learning Courses & Tutorials | Codecademy](https://www.codecademy.com/catalog/subject/machine-learning): Machine learning courses with Python, SQL, Git, and AWS AI certification prep.
+- [AI Courses + Training | Codecademy](https://www.codecademy.com/catalog/subject/artificial-intelligence): AI courses covering generative AI, prompt engineering, PyTorch, and NLP.
+- [Data Analytics Courses & Tutorials | Codecademy](https://www.codecademy.com/catalog/subject/data-analytics): Data analytics courses with Python, SQL, R, Excel, and business intelligence.
+- [Mobile Development Courses & Tutorials | Codecademy](https://www.codecademy.com/catalog/subject/mobile-development): Mobile development courses: iOS/Android, Swift, Kotlin, React Native, Flutter.
 
-## Python Programming
+## Foundations & Computer Science
 
-- [List Comprehensions](https://www.codecademy.com/article/list-comprehension): Python list comprehensions tutorial for creating lists in one line
-- [How to Sort Lists of Lists in Python (With Examples)](https://www.codecademy.com/article/how-to-sort-lists-of-lists-in-python): Python nested list sorting using sorted(), lambda, and key functions
+- [Code Foundations Courses & Tutorials | Codecademy](https://www.codecademy.com/catalog/subject/code-foundations): Beginner-friendly Code Foundations courses covering JavaScript, Python syntax, and problem-solving.
+- [Computer Science Courses & Tutorials | Codecademy](https://www.codecademy.com/catalog/subject/computer-science): Computer science fundamentals: algorithms, data structures, Python, Java, C++.
+- [Interview Prep Courses & Tutorials | Codecademy](https://www.codecademy.com/catalog/subject/interview-prep): Technical interview prep for Python, JavaScript, Java, and data structures.
 
-## Cloud Computing and DevOps
+## Design & Professional Development
 
-- [What is Cloud Computing Architecture?](https://www.codecademy.com/article/what-is-cloud-computing-architecture): Cloud architecture fundamentals with AWS, Azure, and Google Cloud examples
-- [What is Kubernetes](https://www.codecademy.com/article/what-is-kubernetes): Introduction to Kubernetes container orchestration and Docker integration
-
-## Testing and Quality Assurance
-
-- [Reading Tests with Mocha and Chai](https://www.codecademy.com/article/bapi-reading-tests): Tutorial on reading JavaScript tests written with Mocha and Chai frameworks
-- [Testing Models in Swift](https://www.codecademy.com/article/testing-models-in-swift): Guide to unit testing Swift code with Xcode for robust applications
+- [Web Design Courses + Classes | Codecademy](https://www.codecademy.com/catalog/subject/web-design): Web design courses: HTML, CSS, UX/UI, color theory, and Figma prototyping.
+- [Professional Skills Courses & Tutorials | Codecademy](https://www.codecademy.com/catalog/subject/professional-skills): Soft skills and professional development courses: leadership, communication, project management.
 
 ## Optional
 
-- [Threat Hunting](https://www.codecademy.com/article/threat-hunting): Proactive cybersecurity defense using threat intelligence techniques
-- [Get Started with Amundsen](https://www.codecademy.com/article/get-started-with-amundsen): Bootstrap Amundsen data catalog with Docker and Neo4j backend
-- [All the (Internet of) Things](https://www.codecademy.com/article/all-the-internet-of-things): IoT insights by Limor Fried, founder of Adafruit Industries
+- [IT Courses & Tutorials | Codecademy](https://www.codecademy.com/catalog/subject/information-technology): IT courses: SQL, cybersecurity, Linux, and CompTIA certification paths.

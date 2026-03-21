@@ -1,0 +1,57 @@
+# TensorFlow
+
+> TensorFlow is Google's open-source machine learning platform providing tools and libraries for building, training, and deploying ML models across desktop, web, mobile, and production environments.
+
+TensorFlow offers a comprehensive ecosystem including core Python APIs, JavaScript support via TensorFlow.js, edge deployment through LiteRT/TensorFlow Lite, and production ML pipelines via TensorFlow Extended (TFX). The platform serves developers from beginners to production ML engineers with extensive documentation, tutorials, and pre-trained models.
+
+## Key Topics
+
+- TensorFlow
+- Machine Learning
+- Neural Networks
+- Keras API
+- Python
+- JavaScript
+- TensorFlow.js
+- TensorFlow Lite
+- TFX (TensorFlow Extended)
+- GPU Training
+- Model Deployment
+- Edge Computing
+- Responsible AI
+- Data Preparation
+- Google Colab
+
+## Getting Started
+
+- [TensorFlow](https://www.tensorflow.org): TensorFlow homepage showcasing ML platform ecosystem and tools
+- [Install TensorFlow 2](https://www.tensorflow.org/install): Installation guide for TensorFlow with pip, Docker, GPU support
+- [Introduction to TensorFlow](https://www.tensorflow.org/learn): Beginner introduction to TensorFlow for desktop and mobile
+- [Tutorials | TensorFlow Core](https://www.tensorflow.org/tutorials): Tutorials for TensorFlow with Keras, neural networks, training
+- [Machine learning education | TensorFlow](https://www.tensorflow.org/resources/learn-ml): ML education curriculum covering coding, math, and theory
+
+## Core Documentation
+
+- [Guide | TensorFlow Core](https://www.tensorflow.org/guide): Comprehensive guide to TensorFlow concepts and APIs
+- [Models & datasets | TensorFlow](https://www.tensorflow.org/resources/models-datasets): Repository of pre-trained models and datasets from community
+- [Libraries & extensions | TensorFlow](https://www.tensorflow.org/resources/libraries-extensions): TensorFlow ecosystem libraries and domain-specific extensions
+- [Tools | TensorFlow](https://www.tensorflow.org/resources/tools): Development tools and environments for TensorFlow workflows
+
+## API Reference
+
+- [TensorFlow API Versions | TensorFlow v2.16.1](https://www.tensorflow.org/api): TensorFlow API versions and release notes documentation
+- [Module: tf | TensorFlow v2.16.1](https://www.tensorflow.org/api/stable): TensorFlow v2 stable Python API reference documentation
+- [TensorFlow API Versions | TensorFlow v2.16.1](https://www.tensorflow.org/versions): TensorFlow version history and API documentation
+- [TensorFlow.js API](https://js.tensorflow.org/api/latest): TensorFlow.js JavaScript API reference documentation
+- [TFX API Reference | TensorFlow](https://www.tensorflow.org/tfx/api_docs): TensorFlow Extended production ML pipeline API reference
+
+## Platform Ecosystems
+
+- [TensorFlow.js | Machine Learning for JavaScript Developers](https://www.tensorflow.org/js): TensorFlow.js platform for JavaScript and browser ML
+- [Google AI Edge | Google AI for Developers](https://www.tensorflow.org/lite): LiteRT/TensorFlow Lite for edge and on-device inference
+- [TFX | ML Production Pipelines | TensorFlow](https://www.tensorflow.org/tfx): TensorFlow Extended for end-to-end production ML pipelines
+
+## Advanced Topics
+
+- [Responsible AI Toolkit | TensorFlow](https://www.tensorflow.org/responsible_ai): Responsible AI practices and tools for ML fairness and privacy
+- [Recommendation systems | TensorFlow](https://www.tensorflow.org/resources/recommendation-systems): TensorFlow Recommenders for production recommendation systems

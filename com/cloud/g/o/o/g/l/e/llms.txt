@@ -1,31 +1,57 @@
 # Google Cloud
 
-> > Google Cloud's comprehensive platform documentation covering cloud infrastructure, AI/ML compute, billing management, and enterprise services.
+> Google Cloud provides enterprise AI, machine learning, and cloud infrastructure solutions powered by Vertex AI, Gemini, and custom processors.
 
-This documentation hub provides technical guides for Google Cloud Platform services including Compute Engine, Cloud Storage, Cloud Run, GKE, and specialized AI infrastructure like AI Hypercomputer. Resources cover deployment, cost management, networking, and automation for cloud-native applications.
+Google Cloud offers a comprehensive suite of cloud services ranging from AI and machine learning platforms to compute infrastructure, containerization, and data analytics. The platform emphasizes enterprise AI agents, generative AI capabilities, and flexible pricing with free trial options for developers.
 
 ## Key Topics
 
-- Google Cloud Platform
-- Compute Engine
-- Cloud Billing & Cost Management
-- AI Hypercomputer
+- Vertex AI
+- Gemini Enterprise
+- Generative AI
+- AI Agents
 - Google Kubernetes Engine (GKE)
-- Cloud Storage
+- Compute Engine
 - Cloud Run
-- Pub/Sub
-- Virtual Private Cloud (VPC)
-- Cluster Toolkit
-- Slurm Workload Manager
-- Budget Notifications & Alerts
-- GPU & RDMA Networking
-- Billing Automation & API
-- Resource Control & Governance
+- TPUs (Tensor Processing Units)
+- Google Axion Processors
+- Speech-to-Text API
+- BigQuery
+- Cloud Storage
+- Enterprise AI
+- Serverless Computing
+- Machine Learning
 
-## Cost Management & Billing
+## AI and Machine Learning Platforms
 
-- [Control resource usage with notifications](https://cloud.google.com/billing/docs/how-to/control-usage): Guide to controlling Cloud Billing resource usage with budget notifications
+- [Gemini Enterprise: Best of Google AI for Business](https://cloud.google.com/gemini-enterprise): Gemini Enterprise platform for AI agents and business automation.
+- [Vertex AI Platform](https://cloud.google.com/vertex-ai): Vertex AI unified platform with 200+ foundation models.
+- [Google AI Studio vs. Vertex AI vs. Gemini Enterprise](https://cloud.google.com/ai/gemini): Comparison of Gemini platforms: AI Studio, Vertex AI, Enterprise.
+- [Customer Experience Agent Studio](https://cloud.google.com/products/conversational-agents): Customer Experience Agent Studio for conversational agents.
+- [Speech-to-Text: AI voice typing & transcription](https://cloud.google.com/speech-to-text): Speech-to-Text API for transcription in 125+ languages.
 
-## AI & High-Performance Computing
+## Compute and Infrastructure
 
-- [Network services for deployments](https://cloud.google.com/ai-hypercomputer/docs/networking-services): Overview of network services for AI Hypercomputer cluster and VM deployments
+- [Compute Engine](https://cloud.google.com/compute): Compute Engine for creating and running virtual machines.
+- [Google Kubernetes Engine (GKE)](https://cloud.google.com/kubernetes-engine): GKE fully managed Kubernetes service with autoscaling.
+- [Cloud Run](https://cloud.google.com/run): Cloud Run serverless platform for containerized applications.
+- [Tensor Processing Units (TPUs)](https://cloud.google.com/tpu): TPUs for accelerating machine learning workloads.
+- [Google Axion processors](https://cloud.google.com/products/axion): Google Axion custom Arm processors for cloud workloads.
+
+## Getting Started and Resources
+
+- [Products and Services](https://cloud.google.com/products): Comprehensive catalog of Google Cloud products and services.
+- [Free Trial and Free Tier Services and Products](https://cloud.google.com/free): $300 free credits and 20+ free products for Google Cloud.
+- [The AI agent handbook](https://cloud.google.com/resources/content/ai-agent-handbook): Practical handbook with 10 examples of using AI agents.
+- [Choose the right Google AI developer tool for your workflow](https://cloud.google.com/blog/products/ai-machine-learning/choose-the-right-google-ai-developer-tool-for-your-workflow): Guide to Google AI developer tools: Gemini, Code Assist, AI Studio.
+
+## AI Business Insights and Reports
+
+- [AI Business Trends 2025](https://cloud.google.com/resources/ai-trends-report): 2025 report on AI business trends and market analysis.
+- [ROI of AI 2025](https://cloud.google.com/resources/content/roi-of-ai-2025): Report on business value delivered by AI and AI agents.
+- [Welcoming Wiz to Google Cloud: Redefining security for the AI era](https://cloud.google.com/blog/products/identity-security/google-completes-acquisition-of-wiz): Google completes acquisition of Wiz security platform.
+
+## Partners and Sales
+
+- [AI partners](https://cloud.google.com/partners/ai): Google Cloud's generative AI partner ecosystem and case studies.
+- [Contact Sales](https://cloud.google.com/contact): Contact Google Cloud sales team for pricing, solutions, and purchasing.

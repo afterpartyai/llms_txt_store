@@ -1,43 +1,32 @@
 # Internet Archive
 
-> > Internet Archive is a non-profit digital library providing universal access to preserved websites, books, audio, video, and government publications through the Wayback Machine and other archival services.
+> Internet Archive is a digital library providing free access to millions of books, texts, audio, and video files with tools for downloading, uploading, and preserving digital content.
 
-Founded by Brewster Kahle, Internet Archive serves as a federal depository library and operates the Wayback Machine, the world's largest web archive. The organization focuses on digital preservation, providing free access to humanity's cultural and informational heritage.
+The Internet Archive is a nonprofit organization dedicated to universal access to knowledge and digital preservation. It maintains vast collections of digitized materials across multiple languages and formats, and provides comprehensive documentation for users to access and contribute content.
 
 ## Key Topics
 
-- Wayback Machine
-- Digital Preservation
-- Web Archiving
 - Internet Archive
-- Federal Depository Library
-- Universal Access
-- Digital Archive
-- Government Publications
-- Web Capture
-- Metadata Search
-- File Upload
-- Brewster Kahle
-- Library of Congress
-- Information Access
-- Web-Advancedsearch
+- downloading
+- uploading
+- wget
+- bulk-download
+- file-formats
+- PDF
+- ePub
+- metadata
+- account-setup
+- getting-started
+- Ukrainian literature
+- digital preservation
+- command-line tools
+- access-options
 
-## Core Services & Search
+## Getting Started
 
-- [Wayback Machine Search](http://search.archive.org/): Main search interface for accessing Wayback Machine digital archive collections and historical web snapshots
-- [Wayback Machine Advanced Search](https://archive.org/web/web-advancedsearch.php): Advanced search interface for precise Wayback Machine web archive retrieval with filtering options
-- [How To Search the Internet Archive](https://help.archive.org/help/how-to-search-the-internet-archive/): Guide to searching Internet Archive collections using metadata, text search, and discovery tools
+- [Downloading – A Basic Guide](https://help.archive.org/help/downloading-a-basic-guide/): Guide to downloading content from Internet Archive using wget and command-line tools
+- [Uploading – A Basic Guide](https://help.archive.org/help/uploading-a-basic-guide/): Tutorial for uploading files to archive.org with metadata and account setup
 
-## Getting Started & Support
+## Collections
 
-- [Wayback Machine General Information](https://help.archive.org/help/wayback-machine-general-information/): FAQ and comprehensive overview of Wayback Machine functionality, features, and digital preservation methods
-- [Uploading – A Basic Guide](https://help.archive.org/help/uploading-a-basic-guide/): Tutorial for uploading files, managing metadata, and contributing content to Internet Archive
-
-## News & Milestones
-
-- [Internet Archive 25th Anniversary](https://anniversary.archive.org/): Celebration of Internet Archive's 25th anniversary and institutional achievements in digital preservation and universal access
-- [Internet Archive Designated as Federal Depository Library](https://blog.archive.org/2025/07/24/internet-archive-designated-as-a-federal-depository-library/): News announcement: Internet Archive officially designated as a federal depository library for government publications
-
-## Optional
-
-- [Хрестоматія по українській літературі. Ч. 1](https://archive.org/details/sumtsov1918): Ukrainian literature chrestomathy by Sumtsov (1918) - archived historical text item
+- [Хрестоматія по українській літературі. Ч. 1](https://archive.org/details/sumtsov1918): Ukrainian literature chrestomathy by Sumtsov (1918) with folk and old literature texts

@@ -1,0 +1,54 @@
+# FOSSA
+
+> FOSSA is a software supply chain security platform that automates open source license compliance, vulnerability management, SBOM generation, and dependency analysis.
+
+FOSSA provides enterprises with unified tools to control their software supply chain through automated scanning, policy enforcement, and compliance reporting. The platform integrates SCA, BCA, and container security capabilities with AI-powered dependency review through fossabot.
+
+## Key Topics
+
+- Software Supply Chain Security
+- Open Source License Compliance
+- SBOM Management
+- Software Composition Analysis (SCA)
+- Vulnerability Management
+- Binary Composition Analysis (BCA)
+- Compliance Automation
+- Supply Chain Transparency
+- Dependency Management
+- CI/CD Integration
+- fossabot
+- CycloneDX/SPDX
+- Obsolescence Management
+- Policy Enforcement
+- Enterprise Compliance
+
+## Core Products & Solutions
+
+- [FOSSA - Control Your Software Supply Chain](https://fossa.com): FOSSA homepage: software supply chain security, license compliance, and dependency management
+- [fossabot | Automatically review dependency updates](https://fossa.com/products/fossabot): AI-powered dependency review for breaking changes and code impact analysis
+- [Open Source License Compliance | FOSSA](https://fossa.com/solutions/oss-license-compliance): Automated OSS license scanning and policy enforcement
+- [Unified Open Source Security | FOSSA](https://fossa.com/solutions/code-security): SCA, BCA, and container security in one unified platform
+- [Best in Class SBOM Management | FOSSA](https://fossa.com/solutions/sbom-management): Generate, manage, and share SBOMs in CycloneDX and SPDX formats
+- [Binary Composition Analysis | FOSSA](https://fossa.com/products/binary-composition-analysis): Analyze binaries and firmware for vulnerabilities and compliance issues
+- [Obsolescence Management | FOSSA](https://fossa.com/solutions/obsolescence-management): Track EOL dependencies and manage software deprecation across the supply chain
+
+## Pricing & Getting Started
+
+- [Pricing & Plans - FOSSA](https://fossa.com/pricing): FOSSA pricing plans with features like SBOM, SSO, RBAC, and AI-powered scanning
+- [Request a Demo | FOSSA](https://fossa.com/request-demo): Learn about SBOM, compliance, and vulnerability products with a personalized demo
+- [Introduction](https://docs.fossa.com): FOSSA documentation: getting started guide for open source management setup
+
+## Customer Success & Case Studies
+
+- [Customers | FOSSA](https://fossa.com/customers): Customer showcase: F5, Omnissa, and enterprises using FOSSA for compliance
+- [Customers | FOSSA](https://fossa.com/case-studies): FOSSA customers page: case studies and customer success stories
+- [Omnissa Case Study | FOSSA](https://fossa.com/customers/omnissa): SBOM and license compliance automation at enterprise scale
+- [CNCF Case Study | FOSSA](https://fossa.com/customers/cncf): Kubernetes and Prometheus projects using FOSSA for compliance
+- [UiPath Case Study | FOSSA](https://fossa.com/customers/uipath): Managing license compliance, security, and SBOMs at scale
+- [Applause Case Study | FOSSA](https://fossa.com/customers/applause): Audit-grade OSS compliance reporting and automation
+- [How Sentry Manages Software License Compliance | FOSSA Blog](https://fossa.com/customers/sentry): License compliance policies and automation implementation
+- [Customer Q&A: Collibra's Journey to Scaling OSS License Compliance](https://fossa.com/customers/collibra): Scaling OSS license compliance across enterprise organizations
+
+## Optional
+
+- [Privacy Policy](https://docs.fossa.com/docs/privacy-policy): FOSSA privacy policy: data collection and processing for cloud platform

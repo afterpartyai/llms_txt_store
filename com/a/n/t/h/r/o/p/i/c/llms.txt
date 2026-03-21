@@ -1,60 +1,60 @@
 # Anthropic
 
-> > AI safety company developing Claude, a family of frontier AI models built with Constitutional AI principles for safe, helpful, and honest interactions.
+> Anthropic develops Claude, a family of safe and capable AI assistants, while advancing AI safety research and responsible scaling practices.
 
-Anthropic creates advanced AI systems including Claude 3.7 Sonnet, Claude Code, and the Claude Developer Platform. The company pioneered Constitutional AI, conducts cutting-edge AI safety research, and partners with organizations like Google Cloud, Amazon Bedrock, and Snowflake to deploy enterprise AI solutions responsibly.
+Anthropic is an AI safety company focused on creating reliable, interpretable, and steerable AI systems. The site showcases Claude models across different capability tiers, documents constitutional AI principles, and shares research on AI alignment, economic impact, and responsible development practices.
 
 ## Key Topics
 
-- Claude AI models and Claude Code
-- Constitutional AI and AI safety
-- Claude Developer Platform and API
-- AI agents and agentic systems
-- Frontier AI research and red teaming
-- Model Context Protocol (MCP)
-- AI regulation and policy advocacy
-- Cybersecurity and vulnerability detection
-- Contextual retrieval and RAG systems
-- Economic impacts and AI adoption
-- Claude Partner Network
-- Interpretability and model behavior
-- Enterprise AI partnerships (Google Cloud, Amazon Bedrock, Snowflake)
-- AI values and alignment
+- Claude
+- Claude Opus 4.6
+- Claude Sonnet 4.6
+- Claude Haiku 4.5
+- Constitutional AI
+- AI Safety
+- AI Alignment
+- Claude API
+- Prompt Caching
+- Batch Processing
+- Context Window
+- Model Interpretability
+- Responsible Scaling
+- AI Policy
+- Economic Impact
 
-## Claude Models and Product Releases
+## Claude Models
 
-- [Claude 3.7 Sonnet and Claude Code](https://www.anthropic.com/news/claude-3-7-sonnet): Launch of Claude 3.7 Sonnet hybrid reasoning model and Claude Code
-- [Claude Code overview - Claude Code Docs](https://www.anthropic.com/engineering/claude-code-best-practices): Getting started guide for Claude Code agentic coding tool
-- [Collaborate with Claude on Projects](https://www.anthropic.com/news/projects): Projects feature for organizing chats and knowledge on Claude Pro/Team
-- [Claude is a space to think | Anthropic](https://www.anthropic.com/news/claude-is-a-space-to-think): Commitment to keeping Claude ad-free and user-focused
+- [Claude Opus 4.6](https://www.anthropic.com/claude/opus): Claude Opus 4.6 hybrid reasoning model with 1M context window
+- [Claude Sonnet 4.6](https://www.anthropic.com/claude/sonnet): Claude Sonnet 4.6 hybrid reasoning model for agents and coding
+- [Claude Haiku 4.5](https://www.anthropic.com/claude/haiku): Claude Haiku 4.5 cost-efficient model for agent tasks
+- [Introducing Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6): Announcement of Claude Sonnet 4.6 with improved coding abilities
 
-## AI Safety and Constitutional AI
+## AI Safety & Research
 
-- [Claude's Constitution](https://www.anthropic.com/news/claudes-constitution): Explains Constitutional AI and the values guiding Claude's training
-- [The case for targeted regulation](https://www.anthropic.com/news/the-case-for-targeted-regulation): Policy position on urgent need for targeted AI safety regulation
-- [Developing nuclear safeguards for AI through public-private partnership](https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership): DOE/NNSA partnership creating 96% accurate nuclear content classifier
-- [Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned](https://www.anthropic.com/research/red-teaming-language-models-to-reduce-harms-methods-scaling-behaviors-and-lessons-learned): Red teaming methodology and dataset for reducing harmful AI outputs
-- [Sharing our compliance framework for California's Transparency in Frontier AI Act](https://www.anthropic.com/news/compliance-framework-SB53): Compliance framework for California SB 53 frontier AI transparency law
+- [Research](https://www.anthropic.com/research): Anthropic's AI safety and research initiatives including alignment work
+- [Claude's Constitution](https://www.anthropic.com/constitution): Constitutional AI framework defining Claude's values and behavior
+- [Transparency Hub](https://www.anthropic.com/transparency): Safety evaluations and system cards for Claude model versions
+- [Responsible Scaling Policy](https://www.anthropic.com/responsible-scaling-policy): AI safety governance and responsible scaling policy documentation
+- [Economic Futures](https://www.anthropic.com/economic-futures): Research on AI's economic impact via Anthropic Economic Index
 
-## Developer Platform and Technical Guides
+## Developer Resources
 
-- [Introducing advanced tool use on the Claude Developer Platform](https://www.anthropic.com/engineering/advanced-tool-use): Dynamic tool discovery and execution for Claude AI agents via API
-- [Contextual Retrieval in AI Systems](https://www.anthropic.com/engineering/contextual-retrieval): Guide to improving RAG systems with contextual retrieval techniques
-- [Building AI for cyber defenders](https://www.anthropic.com/news/building-ai-cyber-defenders): Claude Sonnet 4.5's enhanced cybersecurity and vulnerability detection
+- [Learning Resources & Guides](https://www.anthropic.com/learn): Guides, tutorials, and best practices for Claude API and development
+- [Engineering Blog](https://www.anthropic.com/engineering): Engineering blog covering Claude models, agents, and tool use
 
-## Enterprise Partnerships and Ecosystem
+## Company & Mission
 
-- [Anthropic invests $100 million into the Claude Partner Network](https://www.anthropic.com/news/claude-partner-network): $100M investment in Claude Partner Network for enterprise adoption
-- [Snowflake and Anthropic announce $200 million partnership to bring agentic AI to global enterprises](https://www.anthropic.com/news/snowflake-anthropic-expanded-partnership): $200M Snowflake partnership for enterprise agentic AI integration
+- [Home](https://www.anthropic.com): Anthropic homepage showcasing Claude AI and company mission in safety
+- [Company](https://www.anthropic.com/company): Company overview, mission, values, and team structure
+- [Claude is a space to think](https://www.anthropic.com/news/claude-is-a-space-to-think): Anthropic's ad-free policy and principles for Claude design
 
-## Research and Analysis
+## News & Insights
 
-- [The assistant axis: situating and stabilizing the character of large language models](https://www.anthropic.com/research/assistant-axis): Research on neural representations and persona stability in LLMs
-- [Measuring AI agent autonomy in practice](https://www.anthropic.com/research/measuring-agent-autonomy): Analysis of Claude Code agent autonomy and human oversight patterns
-- [Anthropic Economic Index: Tracking AI's role in the US and global economy](https://www.anthropic.com/research/economic-index-geography): Geographic analysis of Claude API usage patterns across US states
-- [Introducing the Anthropic Economic Futures Program](https://www.anthropic.com/news/introducing-the-anthropic-economic-futures-program): Launch of Economic Futures Program studying AI's labor market impact
+- [Newsroom](https://www.anthropic.com/news): Press releases and announcements about Claude and Anthropic
+- [What 81,000 people want from AI](https://www.anthropic.com/features/81k-interviews): Global user research on AI hopes, dreams, and concerns
+- [Where things stand with the Department of War](https://www.anthropic.com/news/where-stand-department-war): Statement from CEO on Department of War designation and policy
 
-## Company Initiatives
+## Community & Careers
 
-- [Introducing Labs](https://www.anthropic.com/news/introducing-anthropic-labs): Announcement of Labs division for experimental product development
-- [Anthropic is donating $20 million to Public First Action](https://www.anthropic.com/news/donate-public-first-action): $20M donation to Public First Action for AI policy advocacy
+- [Careers](https://www.anthropic.com/careers): Career opportunities and hiring information at Anthropic
+- [Events](https://www.anthropic.com/events): Upcoming conferences, webinars, and livestreams featuring Anthropic

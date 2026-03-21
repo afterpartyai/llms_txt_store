@@ -1,70 +1,64 @@
 # CodingEasyPeasy
 
-> > Programming tutorials and guides covering Python, Node.js, TypeScript, web development, database management, and security best practices.
+> > A comprehensive platform for beginners to learn web development through interactive HTML, CSS, and JavaScript tutorials and hands-on projects.
 
-CodingEasyPeasy provides comprehensive tutorials for modern web development, focusing on full-stack technologies including Python frameworks (Flask, FastAPI, SQLAlchemy), JavaScript ecosystems (Node.js, React, Vue.js, Next.js), database management, security implementations, and DevOps practices. The site emphasizes practical, example-driven learning for developers at various skill levels.
+CodingEasyPeasy provides step-by-step guides and practical projects for students and programming enthusiasts learning front-end web development. The platform emphasizes interactive learning through building real-world components and tools using HTML5, CSS, and JavaScript.
 
 ## Key Topics
 
-- Python
-- Node.js
-- TypeScript
+- HTML5
+- CSS
 - JavaScript
-- HTML/CSS
-- Flask
-- FastAPI
-- React Router
-- Vue Router
-- Next.js
-- SQLAlchemy
-- Git & SSH Authentication
-- Web Scraping
-- Microservices Security
-- Database Connection Pooling
+- Web Development
+- Interactive Components
+- Front-End Development
+- HTML/CSS Tutorials
+- Beginner Projects
+- DOM Manipulation
+- Responsive Design
+- Form Validation
+- CSS Animations
+- Local Storage
+- API Integration
+- Semantic HTML
 
 ## Core Pages
 
-- [CodingEasyPeasy](https://codingeasypeasy.com): Homepage featuring HTML/CSS tutorials and interactive web development projects
-- [About](https://codingeasypeasy.com/about): CodingEasyPeasy platform overview: programming tutorials and math resources
+- [CodingEasyPeasy](https://codingeasypeasy.com): Homepage featuring programming and mathematics tutorials with HTML, CSS, and web development.
+- [About](https://codingeasypeasy.com/about): Platform overview for students and enthusiasts learning Python, JavaScript, PHP, and Java.
 
-## JavaScript & Frontend Frameworks
+## Interactive Web Components
 
-- [Next.js Route Handlers: A Comprehensive Guide With Examples (API Routes Replacement)](https://codingeasypeasy.com/blog/nextjs-route-handlers-a-comprehensive-guide-with-examples-api-routes-replacement): Complete guide to Next.js Route Handlers replacing API Routes in app directory
-- [React Router V6 Tutorial: A Complete Guide To Navigation In React Apps](https://codingeasypeasy.com/blog/react-router-v6-tutorial-a-complete-guide-to-navigation-in-react-apps): Complete React Router v6 tutorial for SPA navigation and client-side routing
-- [Vue Router Tutorial: A Complete Guide To Setting Up Navigation In Vue.js](https://codingeasypeasy.com/blog/vue-router-tutorial-a-complete-guide-to-setting-up-navigation-in-vuejs): Set up Vue Router for Vue.js SPAs with comprehensive installation guide
-- [Vue.js With TypeScript: A Comprehensive Guide To Building Robust Applications](https://codingeasypeasy.com/blog/vuejs-with-typescript-a-comprehensive-guide-to-building-robust-applications): Build robust Vue.js apps with TypeScript using Vue CLI and Vite setup
+- [Build A Simple HTML & CSS Interactive Color Picker](https://codingeasypeasy.com/blog/build-a-simple-html-css-interactive-color-picker): JavaScript tutorial for building an interactive RGB color picker tool for web development.
+- [Build A Simple HTML & CSS Interactive Password Strength Checker](https://codingeasypeasy.com/blog/build-a-simple-html-css-interactive-password-strength-checker): Real-time form validation tutorial for building a password strength checker tool.
+- [Build A Simple HTML & CSS Interactive File Upload Component](https://codingeasypeasy.com/blog/build-a-simple-html-css-interactive-file-upload-component): Guide to creating custom file upload components supporting PDF and DOC formats.
+- [Build A Simple HTML & CSS Interactive QR Code Generator](https://codingeasypeasy.com/blog/build-a-simple-html-css-interactive-qr-code-generator): API integration tutorial for building a QR code generator with HTML, CSS, and JavaScript.
+- [Build A Simple HTML & CSS Interactive Blog Comment Section](https://codingeasypeasy.com/blog/build-a-simple-html-css-interactive-blog-comment-section): Form validation tutorial for creating interactive comment sections with HTML and CSS.
 
-## Python & Backend Development
+## Data & Productivity Tools
 
-- [Secure Service-to-Service Communication: Implementing MTLS With FastAPI](https://codingeasypeasy.com/blog/secure-service-to-service-communication-implementing-mtls-with-fastapi): Implement mTLS for secure microservices with FastAPI, OpenSSL, and Uvicorn
-- [Web Scraping With Flask: A Comprehensive Guide With Python](https://codingeasypeasy.com/blog/web-scraping-with-flask-a-comprehensive-guide-with-python): Build web scraping apps with Flask, Beautiful Soup, and Python Requests
-- [Visualize Complex Functions With Python: A Comprehensive Guide To 3D Plotting And More](https://codingeasypeasy.com/blog/visualize-complex-functions-with-python-a-comprehensive-guide-to-3d-plotting-and-more): Create 3D plots and visualizations with Python matplotlib and numpy
-- [Optimize Flask SQLAlchemy Engine Configuration: A Comprehensive Guide](https://codingeasypeasy.com/blog/optimize-flask-sqlalchemy-engine-configuration-a-comprehensive-guide): Optimize Flask-SQLAlchemy engine with connection pooling and performance tuning
-- [SQLAlchemy And Asyncpg Connection Pooling: Best Practices For Performance And Reliability](https://codingeasypeasy.com/blog/sqlalchemy-and-asyncpg-connection-pooling-best-practices-for-performance-and-reliability): Optimize SQLAlchemy and asyncpg connection pooling for Python performance
+- [Build A Simple HTML & CSS Interactive To-Do List With Local Storage](https://codingeasypeasy.com/blog/build-a-simple-html-css-interactive-to-do-list-with-local-storage): DOM manipulation tutorial for building a to-do app with local storage persistence.
+- [Build A Simple HTML & CSS Interactive Expense Tracker](https://codingeasypeasy.com/blog/build-a-simple-html-css-interactive-expense-tracker): Interactive finance app tutorial for creating a personal expense tracking tool.
+- [Build A Simple HTML & CSS Interactive Markdown Editor](https://codingeasypeasy.com/blog/build-a-simple-html-css-interactive-markdown-editor): Frontend project guide for creating a Markdown text editor with HTML, CSS, and JavaScript.
+- [Build A Simple HTML & CSS Interactive Simple Text Editor](https://codingeasypeasy.com/blog/build-a-simple-html-css-interactive-simple-text-editor): Step-by-step guide for creating a text formatting tool with HTML, CSS, and JavaScript.
 
-## Database & ORM
+## E-Commerce & Business Projects
 
-- [Sequelize Tutorial: Using Sequelize With Node.js For Efficient Database Management](https://codingeasypeasy.com/blog/sequelize-tutorial-using-sequelize-with-nodejs-for-efficient-database-management): Use Sequelize ORM with Node.js for PostgreSQL, MySQL, and SQLite databases
-- [SQL ASC Keyword: Mastering Ascending Order Sorting With Examples](https://codingeasypeasy.com/blog/sql-asc-keyword-mastering-ascending-order-sorting-with-examples): Master SQL ASC keyword for ascending order sorting with ORDER BY examples
+- [Build A Simple HTML & CSS Interactive Product Catalog](https://codingeasypeasy.com/blog/build-a-simple-html-css-interactive-product-catalog): Tutorial for building responsive e-commerce product catalogs with HTML5 and CSS.
+- [Build A Simple HTML & CSS Interactive Digital Business Card](https://codingeasypeasy.com/blog/build-a-simple-html-css-interactive-digital-business-card): Responsive design guide for creating interactive digital business cards with HTML and CSS.
 
-## Git & Security
+## Advanced Web Design & Effects
 
-- [Secure Git With SSH Keys: A Comprehensive Guide To Management And Best Practices](https://codingeasypeasy.com/blog/secure-git-with-ssh-keys-a-comprehensive-guide-to-management-and-best-practices): Complete guide to Git SSH key management with Ed25519 and RSA authentication
-- [Git Authentication: SSH Keys Vs. HTTPS With Credentials Vs. Credential Helpers - A Comprehensive Guide](https://codingeasypeasy.com/blog/git-authentication-ssh-keys-vs-https-with-credentials-vs-credential-helpers-a-comprehensive-guide): Compare Git authentication methods: SSH keys, HTTPS, and credential helpers
+- [Build A Simple HTML & CSS Interactive Parallax Scrolling Website](https://codingeasypeasy.com/blog/build-a-simple-html-css-interactive-parallax-scrolling-website): CSS animations guide for creating parallax scrolling effects in HTML5 web pages.
+- [Build A Simple HTML & CSS Interactive Webpage With A Sticky Header](https://codingeasypeasy.com/blog/build-a-simple-html-css-interactive-webpage-with-a-sticky-header): Navigation design tutorial for implementing sticky headers with HTML and CSS.
+- [Build A Simple HTML & CSS Interactive Storytelling Website](https://codingeasypeasy.com/blog/build-a-simple-html-css-interactive-storytelling-website): Interactive storytelling tutorial for creating choose-your-own-adventure web projects.
 
-## Web Scraping & Data Collection
+## Utility & Learning Tools
 
-- [Data Scraping Android Apps On Google Play Store With Node.js & Google-play-scraper](https://codingeasypeasy.com/blog/data-scraping-android-apps-on-google-play-store-with-nodejs-and-google-play-scraper): Scrape Google Play Store app data with Node.js and google-play-scraper
-
-## HTML & CSS Fundamentals
-
-- [Semantic HTML Elements Explained: Article, Aside, Nav, Header, Footer Examples](https://codingeasypeasy.com/blog/semantic-html-elements-explained-article-aside-nav-header-footer-examples): Learn semantic HTML5 elements: article, aside, nav, header, footer for SEO
-- [Mastering CSS Borders: Styles, Widths, Colors, And Advanced Techniques](https://codingeasypeasy.com/blog/mastering-css-borders-styles-widths-colors-and-advanced-techniques): Complete CSS borders guide covering styles, widths, colors, and border-radius
+- [Build A Simple HTML & CSS Interactive Multiplication Table](https://codingeasypeasy.com/blog/build-a-simple-html-css-interactive-multiplication-table): Interactive HTML5 and JavaScript tutorial for building a multiplication table tool.
+- [Build A Simple HTML & CSS Interactive Typing Speed Test](https://codingeasypeasy.com/blog/build-a-simple-html-css-interactive-typing-speed-test): Tutorial for creating an interactive typing speed test with HTML, CSS, and JavaScript.
+- [Build A Simple HTML & CSS Interactive Temperature Converter](https://codingeasypeasy.com/blog/build-a-simple-html-css-interactive-temperature-converter): JavaScript tutorial for building a Celsius-Fahrenheit-Kelvin temperature converter.
 
 ## Optional
 
-- [Using Jakarta EE 9+ APIs In Spring Boot 3.x: A Comprehensive Guide](https://codingeasypeasy.com/blog/using-jakarta-ee-9-apis-in-spring-boot-3x-a-comprehensive-guide): Integrate Jakarta EE 9+ APIs in Spring Boot 3.x with namespace migration
-- [WSL1 Vs WSL2: Understanding The Key Differences And Choosing The Right One](https://codingeasypeasy.com/blog/wsl1-vs-wsl2-understanding-the-key-differences-and-choosing-the-right-one): Compare WSL1 vs WSL2 architecture, performance, and Docker compatibility
-- [Recover Deleted Files Using CMD: Attrib, Chkdsk, And More (Windows Guide)](https://codingeasypeasy.com/blog/recover-deleted-files-using-cmd-attrib-chkdsk-and-more-windows-guide): Recover deleted Windows files using CMD with attrib and chkdsk commands
-- [How To Disable A Windows Service Using CMD: The Ultimate Guide](https://codingeasypeasy.com/blog/how-to-disable-a-windows-service-using-cmd-the-ultimate-guide): Disable Windows services using CMD with sc config command and services.msc
-- [Web2py Debugging: Enable Debug=True In Models/db.py For Detailed Error Messages](https://codingeasypeasy.com/blog/web2py-debugging-enable-debugtrue-in-modelsdbpy-for-detailed-error-messages): Enable Web2py debug mode in models/db.py for detailed DAL error messages
+- [Privacy Policy](https://codingeasypeasy.com/privacy-policy): Privacy policy covering data collection, cookies, and third-party services like Gravatar.

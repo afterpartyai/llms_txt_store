@@ -1,54 +1,57 @@
 # Microsoft Learn
 
-> Microsoft Learn is a comprehensive learning platform offering free technical training, certifications, and documentation across cloud computing, AI, and Microsoft technologies.
+> > Microsoft Learn is a comprehensive learning platform offering technical documentation, hands-on training, AI and cloud certifications, and community support to help developers build practical skills across Azure, .NET, Microsoft 365, and emerging technologies.
 
-The platform provides structured learning paths, hands-on training modules, professional certifications, and community support for developers and IT professionals building skills in Azure, AI, and Microsoft products. It serves as both a documentation hub and a career development resource with interactive courses and applied skills credentials.
+Microsoft Learn serves as the central hub for technical education and professional development across Microsoft's product ecosystem. The platform combines self-paced training modules, certification preparation, official documentation, and community-driven Q&A to support learners from beginners to advanced professionals.
 
 ## Key Topics
 
-- Azure
+- Azure cloud services
+- AI fundamentals and generative AI
 - Microsoft Copilot
-- Generative AI
-- AI Fundamentals
-- Cloud Computing
-- Microsoft Certifications
-- Skill Development
-- Azure Fundamentals
-- .NET
+- Certifications and credentials
+- Training courses and modules
+- Technical documentation
+- .NET development
+- Skill development
+- Career advancement
+- Cloud concepts
+- AI agents
+- Responsible AI
 - Microsoft 365
-- Applied Skills
-- Career Growth
-- AI Training
-- Beginner Guides
-- Microsoft Fabric
+- Learning paths
+- Community support
 
 ## Core Learning Hubs
 
-- [Microsoft Learn Homepage](https://learn.microsoft.com/en-us): Main portal for technical skill development and certifications
-- [Azure Documentation](https://learn.microsoft.com/azure): Comprehensive Azure cloud services documentation and tutorials for developers
-- [Technical Documentation Index](https://learn.microsoft.com/docs): Central documentation hub for .NET, Azure, C++, and Microsoft development tools
-- [AI Learning Hub](https://learn.microsoft.com/ai): Structured learning for Copilot, Microsoft Foundry, and practical AI skill development
-- [Microsoft Copilot Learning Hub](https://learn.microsoft.com/copilot): Training and deployment resources for Microsoft Copilot across products
+- [Microsoft Learn: Build skills that open doors in your career](https://learn.microsoft.com/en-us): Microsoft Learn homepage offering technical skills, certifications, and community
+- [Azure documentation](https://learn.microsoft.com/azure): Azure cloud services documentation, tutorials, and developer resources
+- [Technical documentation](https://learn.microsoft.com/docs): Technical documentation hub for .NET, Azure, C++, and Microsoft tools
+- [AI learning hub](https://learn.microsoft.com/ai): AI learning hub for foundational AI training and Copilot skills development
+- [Learn how to use Microsoft Copilot](https://learn.microsoft.com/copilot): Microsoft Copilot learning hub for training and extensibility resources
 
 ## Certifications & Credentials
 
-- [Professional and Technical Credentials](https://learn.microsoft.com/credentials): Directory of Microsoft Certifications and Applied Skills credentials
-- [Azure AI Fundamentals (AI-900) Course](https://learn.microsoft.com/training/courses/ai-900t00): Certification course with hands-on exercises for Azure AI fundamentals
-- [Azure Fundamentals Learning Path](https://learn.microsoft.com/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts): Cloud concepts learning path preparing for AZ-900 certification exam
-- [Student Certifications Hub](https://learn.microsoft.com/training/student-hub/certifications): Student certification programs and Azure training with special discounts
+- [Professional and Technical Credentials and Certifications](https://learn.microsoft.com/credentials): Microsoft credentials, certifications, and applied skills hub
+- [Course AI-900T00-A: Introduction to AI in Azure - Training](https://learn.microsoft.com/training/courses/ai-900t00): AI-900 certification prep course introducing AI fundamentals in Azure
+- [Student Certifications - Student Hub](https://learn.microsoft.com/training/student-hub/certifications): Student certifications guide with discounts and beginner-friendly exams
 
-## Training Modules
+## Training Modules & Learning Paths
 
-- [Introduction to Generative AI and Agents](https://learn.microsoft.com/training/modules/fundamentals-generative-ai): Beginner module covering generative AI, LLMs, and AI agents fundamentals
+- [Introduction to generative AI and agents - Training](https://learn.microsoft.com/training/modules/fundamentals-generative-ai): Training module on generative AI, LLMs, and AI agents fundamentals
+- [Introduction to Cloud Infrastructure: Describe Cloud Concepts - Training](https://learn.microsoft.com/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts): Azure fundamentals learning path covering cloud concepts for AZ-900
 
 ## Community & Support
 
-- [Microsoft Q&A Community](https://learn.microsoft.com/answers): Community question and answer platform for technical support on Microsoft products
-- [Experts Hub Contributor Guide](https://learn.microsoft.com/en-us/contribute): Guide for contributing content and joining the Microsoft Experts Hub community
-- [Internet Explorer and Microsoft Edge Lifecycle FAQ](https://learn.microsoft.com/en-us/lifecycle/faq/internet-explorer-microsoft-edge): Frequently asked questions on lifecycle policies for Internet Explorer and Microsoft Edge
+- [Microsoft Q&A](https://learn.microsoft.com/answers): Microsoft Q&A platform for technical questions and community support
+- [Experts Hub: Share what you know. Shape what's next. - Contributor guide](https://learn.microsoft.com/en-us/contribute): Contributor guide for sharing expertise on Microsoft Q&A and Experts Hub
 
-## Optional
+## Product Lifecycle & Browser Support
 
-- [Principles for AI-Generated Content](https://learn.microsoft.com/en-us/principles-for-ai-generated-content): Microsoft's policy on AI-generated content and responsible AI practices
-- [Previous Versions Documentation](https://learn.microsoft.com/en-us/previous-versions): Archive of legacy documentation for deprecated Microsoft product versions
-- [Terms of Use](https://learn.microsoft.com/en-us/legal/termsofuse): Legal terms of use and user agreement for Microsoft Learn platform
+- [Lifecycle FAQ - Internet Explorer and Microsoft Edge](https://learn.microsoft.com/en-us/lifecycle/faq/internet-explorer-microsoft-edge): FAQ on lifecycle policy for Internet Explorer and Microsoft Edge browsers
+
+## Optional Resources
+
+- [Principles for AI-Generated Content](https://learn.microsoft.com/en-us/principles-for-ai-generated-content): Microsoft's approach and principles for AI-generated content disclosure
+- [Microsoft previous versions of technical documentation](https://learn.microsoft.com/en-us/previous-versions): Archive of deprecated product versions and legacy technical documentation
+- [Terms of Use](https://learn.microsoft.com/en-us/legal/termsofuse): Terms of Use and service agreement for learn.microsoft.com platform

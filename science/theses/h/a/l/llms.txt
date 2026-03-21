@@ -1,40 +1,41 @@
 # TEL - Thèses en ligne (HAL Theses)
 
-> Open-access repository for French PhD dissertations and academic research, powered by HAL (Hyper Articles en Ligne) and CCSD.
+> > An open-access French PhD thesis repository operated by CCSD, providing free access to doctoral research and academic publications.
 
-TEL - Thèses en ligne is the official French national repository for doctoral theses, providing free access to PhD dissertations across all academic disciplines. It implements OAI-PMH protocol standards and supports self-archiving by researchers and institutions.
+TEL (Thèses en ligne) is the primary platform for depositing and accessing French doctoral theses. It is part of HAL (Hyper Articles en Ligne), a multidisciplinary open-access archive that implements OAI-PMH protocols for scientific communication and self-archiving.
 
 ## Key Topics
 
 - HAL Open Archive
-- Open-access
-- PhD dissertations
-- Self-archiving
-- OAI-PMH protocol
-- Thesis repository
-- French research
-- Academic publishing
-- Scientific documents
-- CCSD
 - TEL - Thèses en ligne
+- Open Access
+- PhD Theses
+- CCSD
+- OAI Protocol
+- Doctoral Research
+- French Theses
+- Academic Publishing
+- Self-Archiving
+- Scientific Communication
+- Thesis Repository
 - IdRef
 - Open Archives Initiative
 
-## Repository Overview
+## Core Platform
 
-- [Home - TEL - Thèses en ligne](https://theses.hal.science): HAL Theses homepage: open-access repository for French PhD dissertations
+- [Home - TEL - Thèses en ligne](https://theses.hal.science): Main portal for accessing the French open-access PhD thesis repository operated by CCSD
 
-## Featured Dissertations
+## Featured Theses
 
-- [Vers une reconnaissance dans les processus collaboratifs](https://theses.hal.science/tel-05558566v1): Doctoral thesis by Levacque on facilitation ethics and recognition in collaborative processes
-- [Feuilletages de Calabi-Yau, déformations et structures multifeuilletées](https://theses.hal.science/tel-05558543v1): Doctoral thesis by Danain-Bertoncini on Calabi-Yau foliations and deformation theory
-- [Coupled modeling of ductile and brittle fracture for transition simulation](https://theses.hal.science/tel-05558460v1): Doctoral thesis by Guerret on fracture mechanics for nuclear power plant safety
-- [Privacy and confidentiality preserving data sharing methods](https://theses.hal.science/tel-05558452v1): Doctoral thesis by Stippel on privacy-preserving data sharing for energy systems
-- [A multi-country investigation into relationship quality](https://theses.hal.science/tel-05558451v1): Doctoral thesis by Silan on measuring romantic relationship quality across cultures
+- [Sur les ruptures faibles dans les modèles hétéroscédastiques non-linéaires](https://theses.hal.science/tel-05559910v1): PhD thesis by Fatma Aouissaoui on statistical testing for weak change-point detection in nonlinear heteroscedastic models
+- [Le code de conduite, instrument de soumission des entreprises multinationales](https://theses.hal.science/tel-05559856v1): PhD thesis by Mary Lambard examining codes of conduct as regulatory instruments for multinational corporations
+- [Travaux expérimentaux sur les détonations dans les gaz](https://theses.hal.science/tel-05559827v1): HDR thesis by Vincent Rodriguez on gaseous detonation dynamics and fluid mechanics research
+- [La politique des déchets à Kinshasa](https://theses.hal.science/tel-05559790v1): PhD thesis by Joël Munongo Yula analyzing waste management policy in Kinshasa
+- [Numerical and experimental study of a passive oscillating-foil](https://theses.hal.science/tel-05559789v1): PhD thesis by Siham Eddine Zantoute on hydraulic energy recovery using oscillating foil technology
 
 ## Optional
 
-- [Search - HAL Open Archive (Recent)](https://theses.hal.science/browse/last): Search interface showing recent theses (access-denied error page)
-- [Search - HAL Open Archive (By Domain)](https://theses.hal.science/browse/domain): Domain-based thesis search interface (robot-detection error page)
-- [Search - HAL Open Archive (By Period)](https://theses.hal.science/browse/period): Period-based thesis search interface (access-blocked error page)
-- [Search - HAL Open Archive (By Collection)](https://theses.hal.science/browse/collection): Collection-based thesis search interface (access-denied error page)
+- [Search - HAL Open Archive (Latest)](https://theses.hal.science/browse/last): Search interface for browsing recently deposited theses
+- [Search - HAL Open Archive (Domain)](https://theses.hal.science/browse/domain): Domain-based browsing and search functionality for theses by research field
+- [Search - HAL Open Archive (Period)](https://theses.hal.science/browse/period): Period-based search interface for accessing theses by publication date
+- [Search - HAL Open Archive (Collection)](https://theses.hal.science/browse/collection): Collection browsing interface for exploring theses by institutional groupings

@@ -1,0 +1,55 @@
+# Junis
+
+> Junis is an AI orchestration platform for building and managing multi-agent workflows with MCP integration and enterprise integrations.
+
+Junis provides a comprehensive platform for orchestrating generative AI models through multi-agent systems. The documentation covers everything from getting started with the web interface to advanced integrations with external services like Composio, MCP-compatible clients, and enterprise tools.
+
+## Key Topics
+
+- AI Orchestration
+- Multi-Agent Workflows
+- Model Context Protocol (MCP)
+- Composio Integration
+- RAG (Retrieval-Augmented Generation)
+- Agent Memory Systems
+- Agent Identity & Personality
+- External API Integration
+- OAuth Integrations
+- Claude Desktop
+- AI Agents
+- LLM Agents
+- Authentication
+- Tools & Extensions
+- Platform Architecture
+
+## Getting Started
+
+- [Welcome to Junis](https://docs.junis.ai): Junis homepage: orchestrate generative AI models with multi-agent workflows
+- [Introduction](https://docs.junis.ai/introduction): Platform introduction covering AI orchestration, MCP integration, and multi-agent workflows
+- [Quickstart](https://docs.junis.ai/quickstart): Build your first Junis AI agent in 5 minutes with web interface
+- [Core Concepts](https://docs.junis.ai/concepts): Junis platform architecture, multi-agent systems, and core concepts
+
+## API Reference
+
+- [External API Overview](https://docs.junis.ai/api-reference/external-overview): External API overview for integrating Junis AI agents into applications
+- [Authentication](https://docs.junis.ai/api-reference/authentication): API key authentication and security for Junis External API requests
+
+## Integration Guides
+
+- [MCP Integration Overview](https://docs.junis.ai/guides/mcp/overview): Model Context Protocol integration guide for connecting agents to external services
+- [Composio Integration](https://docs.junis.ai/integrations/composio): Connect 200+ OAuth apps (Gmail, Slack, GitHub) to Junis AI agents
+- [Junis Magic](https://docs.junis.ai/guides/junis-magic): Manage Junis platform via Claude Desktop and MCP-compatible clients
+- [Tools Overview](https://docs.junis.ai/guides/tools/overview): Extend agents with tools via MCP, Composio, and RAG capabilities
+
+## Agent Configuration
+
+- [Memory System](https://docs.junis.ai/guides/memory-system): Persistent hierarchical memory system for AI agents to learn over time
+- [Soul & Identity](https://docs.junis.ai/guides/soul-identity): Configure AI agent personality, brand voice, and communication style
+
+## Services
+
+- [AI Consulting Services](https://docs.junis.ai/consulting/overview): AI consulting services for business innovation and organizational transformation
+
+## Optional
+
+- [Updates & News](https://docs.junis.ai/updates): Platform announcements, feature releases, and roadmap updates for Junis

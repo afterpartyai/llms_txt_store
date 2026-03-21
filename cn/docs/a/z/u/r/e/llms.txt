@@ -1,0 +1,64 @@
+# Azure Docs for China
+
+> Comprehensive documentation for Azure services in the China region, covering cloud computing, AI, databases, and infrastructure-as-code deployment.
+
+Azure Docs for China provides localized documentation for developers and enterprises deploying applications and services on Microsoft Azure in China. The site covers core Azure services including compute, storage, databases, AI services, and hybrid cloud management with guides, API references, and quickstart tutorials.
+
+## Key Topics
+
+- Azure
+- REST API
+- Azure CLI
+- Azure AI Services
+- Azure Cosmos DB
+- Azure Blob Storage
+- ARM Templates
+- Infrastructure-as-Code
+- App Service
+- Authentication
+- Document Intelligence
+- API Management
+- Getting Started
+- Deployment
+- Multi-language Support
+
+## Core Platform & Getting Started
+
+- [Azure Documentation Hub](https://docs.azure.cn/zh-cn): Azure documentation hub for China region with guides, samples, and tutorials
+- [Azure Developer Guide](https://docs.azure.cn/guides/developer/azure-developer-guide): Getting started guide for developers using Azure platform and services
+
+## AI & Cognitive Services
+
+- [Azure AI Services](https://docs.azure.cn/ai-services): Azure AI Services overview with APIs for speech, vision, and language
+- [Document Intelligence](https://docs.azure.cn/ai-services/document-intelligence): Document Intelligence for extracting data from forms and documents
+- [Language Service](https://docs.azure.cn/ai-services/language-service): Language Service for NLP, sentiment analysis, and text processing
+- [Content Moderator](https://docs.azure.cn/ai-services/content-moderator): Content Moderator API for text, image, and video content safety checks
+- [Bot Service](https://docs.azure.cn/bot-service): Bot Framework SDK and Composer for building conversational bots
+
+## Compute & Application Services
+
+- [Azure App Service](https://docs.azure.cn/zh-cn/app-service): App Service guides for hosting websites, APIs, and mobile backends
+- [API Management](https://docs.azure.cn/zh-cn/api-management): API Management documentation covering gateway, policies, and deployment
+
+## Data & Storage Services
+
+- [Azure Cosmos DB](https://docs.azure.cn/cosmos-db): Cosmos DB NoSQL and vector database for cloud-scale applications
+- [Azure Blob Storage](https://docs.azure.cn/zh-cn/storage/blobs): Blob Storage documentation for cloud object storage solutions
+- [Azure Data Lake Storage](https://docs.azure.cn/zh-cn/storage/blobs/data-lake-storage-introduction): Data Lake Storage for big data analytics and distributed file systems
+- [Azure Cache for Redis](https://docs.azure.cn/zh-cn/azure-cache-for-redis): Cache for Redis documentation for data caching and messaging
+
+## Database Services
+
+- [Azure Database for PostgreSQL](https://docs.azure.cn/postgresql): PostgreSQL managed database with AI, high performance, and security
+- [Azure Database for MySQL](https://docs.azure.cn/mysql): MySQL database service for deploying MySQL in Azure cloud
+- [Azure Database for MariaDB](https://docs.azure.cn/mariadb): MariaDB relational database service for developers on Azure
+
+## Infrastructure & Management
+
+- [ARM Templates](https://docs.azure.cn/zh-cn/azure-resource-manager/templates): Azure Resource Manager templates for infrastructure-as-code deployment
+- [Azure Arc](https://docs.azure.cn/azure-arc): Azure Arc for hybrid and multi-cloud resource management
+
+## Optional
+
+- [Azure Analysis Services](https://docs.azure.cn/zh-cn/analysis-services): Analysis Services for enterprise data modeling and BI analytics
+- [Azure Data Box](https://docs.azure.cn/zh-cn/databox): Data Box documentation for offline data migration to cloud

@@ -1,60 +1,65 @@
-# Talkin.icu
+# talkin.icu
 
-> > A developer-focused blog covering troubleshooting guides, backend development, and open source tools across Python, JavaScript, and various frameworks.
+> > A trusted destination for development tutorials, technical debugging guides, and programming best practices across Java, quantum computing, and modern DevOps tools.
 
-Talkin.icu provides practical technical guides and troubleshooting solutions for modern software development challenges. The site covers topics ranging from NestJS and Python dependency management to API security, database persistence, and build error resolution, with a focus on real-world developer problems and their solutions.
+talkin.icu is a comprehensive resource hub featuring in-depth tutorials, troubleshooting guides, and technical documentation. The site covers a wide range of topics including Java programming, Git workflows, code optimization, and specialized technologies like quantum computing frameworks and decentralized science platforms.
 
 ## Key Topics
 
-- Troubleshooting & Debugging
-- Python (uv, astral-sh, pytest)
-- Backend Development (NestJS, TypeORM, PostgreSQL)
-- API Security & Best Practices
-- Data Persistence & State Management
-- Package Management (npm, yarn)
-- GitHub & Open Source
-- Windows & WSL Development
-- React Native & Expo
-- Elasticsearch
-- Machine Learning (TensorFlow, PyTorch)
-- Feature Requests & UX
-- Build Errors & Configuration
-- Developer Tooling
+- Java programming
+- Method invocation
+- Git workflow
+- Code optimization
+- Development tools
+- Testing frameworks
+- Configuration management
+- Quantum computing
+- API integration
+- Modularity
+- Code refactoring
+- Debugging
+- VPN configuration
+- Technical documentation
 
-## Backend Development & Architecture
+## Java Programming & Development
 
-- [NestJS Project Setup: PostgreSQL, TypeORM & More](https://talkin.icu/blog/nestjs-project-setup-postgresql-typeorm): NestJS backend setup with PostgreSQL and TypeORM integration guide
-- [Keep Your Count: Persisting Data After Service Restarts](https://talkin.icu/blog/keep-your-count-persisting-data): Backend data persistence and state management after service restarts
-- [Securing Your API Key: Best Practices To Avoid Exposure](https://talkin.icu/blog/securing-your-api-key-best): API key security with dotenv and GitHub best practices guide
+- [Java Method Calls: Your Ultimate Guide To Diverse Invocation Styles](https://talkin.icu/blog/java-method-calls-your-ultimate-1774033959970): Complete guide to Java method invocation styles and object-oriented patterns
+- [深入理解方法调用：从基础到高级](https://talkin.icu/blog/-1774035140743): Comprehensive guide to Java method calls from basics to advanced
+- [Make Your App Talk: Personalize With User Names](https://talkin.icu/blog/make-your-app-talk-personalize): App personalization and user engagement through name customization
 
-## Python & Package Management
+## Code Optimization & Refactoring
 
-- [Nesting Groups In Optional Dependencies: A Deep Dive](https://talkin.icu/blog/nesting-groups-in-optional-dependencies): Python dependency groups with uv and astral-sh package management guide
+- [Optimize Your Codebase: Index Partitions Explained](https://talkin.icu/blog/optimize-your-codebase-index-partitions): LanceDB index partitions for codebase optimization and AI tools
+- [Enhance PR Analysis: Extracting The Item Analyzer](https://talkin.icu/blog/enhance-pr-analysis-extracting-the): Code refactoring using Single Responsibility Principle for PR analysis
+- [Unlocking Core Tests: Breaking Free From Desktop UI Dir](https://talkin.icu/blog/unlocking-core-tests-breaking-free): Test decoupling and modularity guide for Gradle-based projects
 
-## Build Errors & Troubleshooting
+## Git & Version Control
 
-- [Expo V54 Build Error: A Troubleshooting Guide](https://talkin.icu/blog/expo-v54-build-error-a): Expo v54 and React Native build error troubleshooting guide
-- [Elasticsearch GeoIP Test Failures: Root Cause Analysis](https://talkin.icu/blog/elasticsearch-geoip-test-failures-root): Elasticsearch GeoIP processor test failure analysis on ubuntu-2404-aarch64
-- [Troubleshooting Guide For Your README.md](https://talkin.icu/blog/troubleshooting-guide-for-your-readme): GCC installation troubleshooting for Debian/Ubuntu development setup
-- [Fix: Periscope Mock No Data Stream On Windows](https://talkin.icu/blog/fix-periscope-mock-no-data): Periscope Mock Windows/WSL data stream fix using Git Bash
-- [Fixing Grok Code Preview Errors With Images In History](https://talkin.icu/blog/fixing-grok-code-preview-errors): Grok VS Code extension error 400 troubleshooting with image handling
-- [GTNH: Crash After Disabling VSync - Quick Fixes & Guide](https://talkin.icu/blog/gtnh-crash-after-disabling-vsync): GT: New Horizons VSync crash troubleshooting and Java 8 fixes
+- [Git Diff Panel: Review & Stage Changes Easily](https://talkin.icu/blog/git-diff-panel-review-and): Git workflow optimization guide for code staging and review
 
-## Open Source & Developer Resources
+## Debugging & Troubleshooting
 
-- [GitHub & Gitcoin $15M Fund For Open Source Devs](https://talkin.icu/blog/github-and-gitcoin-15m-fund): GitHub Developer Fund $15M quadratic funding for open source projects
+- [TARDIS Crash: Shape Mismatch In Estimate_jblues](https://talkin.icu/blog/tardis-crash-shape-mismatch-in): TARDIS debugging guide for shape mismatch errors in radiative transfer
+- [Pegasus & Condor: Fixing Unit Conversion In Resource Requests](https://talkin.icu/blog/pegasus-and-condor-fixing-unit): Fix unit conversion issues in Pegasus-Condor resource request handling
+- [DeepSeek Fails In Zed: Fixing 400 Bad Request Tool Call Errors](https://talkin.icu/blog/deepseek-fails-in-zed-fixing): Troubleshooting DeepSeek API integration errors in Zed editor
+- [Why Your Downloaded VPN Configs Lose Commented DNS Lines](https://talkin.icu/blog/why-your-downloaded-vpn-configs): WireGuard VPN configuration parsing and DNS comment handling
 
-## Feature Requests & Product Improvements
+## Specialized Technologies & Research
 
-- [Missing Invoice History Panel: Let's Get It Fixed!](https://talkin.icu/blog/missing-invoice-history-panel-lets): BillForge app missing invoice history feature - bug fix discussion
-- [Enable Animated Images In Lemmy: A User Settings Update](https://talkin.icu/blog/enable-animated-images-in-lemmy): Lemmy animated GIF user settings feature request for bandwidth control
-- [Vacuum Map Card: Control Your Cleaning Order!](https://talkin.icu/blog/vacuum-map-card-control-your): Vacuum Map Card smart home room cleaning order feature request
-- [Employee Scheduling: Availability And Calendar Guide](https://talkin.icu/blog/employee-scheduling-availability-and-calendar): Employee scheduling and workforce availability management guide
+- [Bloqade Lane Address: Convention & Validation Docs](https://talkin.icu/blog/bloqade-lane-address-convention-and): Bloqade quantum computing lane address conventions and validation rules
+- [P2PCLAW Mempool Review: Stopping Fake 'Quantum' Claims](https://talkin.icu/blog/p2pclaw-mempool-review-stopping-fake): Research integrity and quality control for decentralized science submissions
+
+## Tools & Platforms
+
+- [Metabase Search: Can't Edit Search Terms After Filtering](https://talkin.icu/blog/metabase-search-cant-edit-search): Metabase search UI limitation and workflow issue documentation
+- [微信红包链接打不开？诱导分享惹的祸](https://talkin.icu/blog/-1774035144096): WeChat red packet sharing issues and Java method invocation examples
+
+## Core Pages
+
+- [TALKIN WEB](https://talkin.icu): Homepage featuring development tools, code optimization, and programming guides
+- [About](https://talkin.icu/pages/About): About talkin.icu: trusted destination for news, tutorials, and AI content
 
 ## Optional
 
-- [Sharing Your Mindustry Project: A Friendly Request](https://talkin.icu/blog/sharing-your-mindustry-project-a): Mindustry community project sharing and creator credit guidelines
-- [Lab Grown Diamond Market: Growth, Trends & Forecast](https://talkin.icu/blog/lab-grown-diamond-market-growth): Lab-grown diamond market analysis with CVD/HPHT methods and trends
-- [Dispose Unwanted Materials: Add A Garbage Can!](https://talkin.icu/blog/dispose-unwanted-materials-add-a): Woodworking Tycoon game garbage disposal feature suggestion
-- [Oxygen Sharing: Boost Teamwork In Your Modpack Server](https://talkin.icu/blog/oxygen-sharing-boost-teamwork-in): Minecraft modpack oxygen sharing mechanics for multiplayer teamwork
-- [宁波捐卵/代妈/供卵：联系方式及技术讨论](https://talkin.icu/blog/-1757932485759): Ningbo services discussion with Spring Boot and Java8 tech references
+- [Privacy](https://talkin.icu/pages/Privacy): Privacy policy covering data collection, cookies, and user tracking
+- [Disclaimer](https://talkin.icu/pages/Disclaimer): Legal disclaimer and liability waiver for website information

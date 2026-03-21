@@ -1,0 +1,57 @@
+# OpenGenus IQ
+
+> A comprehensive CS education platform offering algorithms, deep learning, system design, and interview preparation resources with curated checklists and technical cheatsheets.
+
+OpenGenus IQ is a CS publication platform that combines structured learning paths (checklists), technical reference materials (cheatsheets), and practical tutorials. It serves computer science students, interview candidates, and AI/ML engineers with content spanning algorithms, deep learning, system design, and emerging technologies.
+
+## Key Topics
+
+- Deep Learning
+- System Design
+- Algorithms
+- Interview Preparation
+- Machine Learning
+- C++
+- PyTorch
+- Go
+- Linux
+- Blockchain
+- Cyber-Physical Systems
+- LLM Deployment
+- Data Structures
+- AI Engineering
+- Network Security
+
+## Learning Checklists & Curriculums
+
+- [100 Must attempt Problems for Coding Interview: Checklist](https://iq.opengenus.org/100-interview-problems): Coding interview problem checklist covering arrays, linked lists, algorithms for interview prep
+- [Deep Learning Checklist: 13 Months course](https://iq.opengenus.org/deep-learning-checklist): 13-month deep learning curriculum covering neural networks, AI, machine learning fundamentals
+- [One AI Systems Question | OpenGenus IQ](https://iq.opengenus.org/oneai): AI/ML systems design practice covering inference serving, RAG, distributed training
+
+## Technical Cheatsheets & References
+
+- [AI Engineer's Silicon Cheatsheet: Must have book for AI Engineers and Researchers](https://iq.opengenus.org/ai-engineers-silicon-cheatsheet): AI engineer cheatsheet covering LLM architecture, optimization, system design, ML research
+- [DL1943 Deep Learning Cheatsheet](https://iq.opengenus.org/dl1943-cheatsheet): Deep learning cheatsheet covering DL/AI/ML concepts, optimization, system design, research
+- [C++ Coding Cheatsheet: GOAT edition](https://iq.opengenus.org/cpp-cheatsheet-goat): C++ cheatsheet covering OOP, STL, performance optimization, design patterns for interviews
+- [Understanding the differences and use Cases of torch.Tensor.max and torch.max in PyTorch](https://iq.opengenus.org/torch-tensor-max-and-torch-max-in-pytorch): PyTorch API documentation comparing torch.Tensor.max and torch.max tensor operations
+
+## Programming & Systems Guides
+
+- [Introduction to Concurrency in Go](https://iq.opengenus.org/concurrency-in-go-once-again): Go concurrency guide covering goroutines, channels, parallelism for beginners
+- [Understanding Linux Namespaces: The Building Blocks of Containerization](https://iq.opengenus.org/linux-namespaces): Linux namespaces guide covering containerization, Docker, Kubernetes, process isolation
+- [Run Llama3.1-8B (LLM) on DigitalOcean CPU droplet](https://iq.opengenus.org/llama-on-digitalocean-cpu-droplet): Tutorial for deploying Llama3.1-8B LLM on DigitalOcean CPU with setup and configuration steps
+- [Goals of Network Security](https://iq.opengenus.org/goals-of-network-security): Network security fundamentals covering encryption, authentication, integrity, cryptography
+
+## Advanced Topics
+
+- [An Introduction to Cyber-Physical Systems](https://iq.opengenus.org/introduction-to-cyber-physical-systems): Introduction to cyber-physical systems covering hybrid automata and mathematical modeling
+- [Multi-Agent Cyber-Physical Systems](https://iq.opengenus.org/multi-agent-cps): Introduction to multi-agent cyber-physical systems with hybrid automata and composition
+- [Blockchain Nodes Demystified: A Technical Overview](https://iq.opengenus.org/blockchain-nodes-demystified-a-technical-overview): Technical overview of blockchain node types, infrastructure, Bitcoin, Ethereum architecture
+
+## Community & Support
+
+- [Writing Guide for writers at OpenGenus IQ](https://iq.opengenus.org/guide-to-writing-a-note-at-opengenus-iq): Writer onboarding guide with editorial guidelines and formatting standards for OpenGenus IQ
+
+## Optional
+
+- [Random Number Generators: The Core of Online Gambling Fairness](https://iq.opengenus.org/random-number-generators-the-core-of-online-gambling-fairness): Article on RNG technology, casino fairness mechanisms, and security certifications

@@ -1,0 +1,51 @@
+# Paperspace by DigitalOcean Blog
+
+> A comprehensive resource for AI/ML tutorials, GPU computing guides, and deep learning best practices powered by DigitalOcean's Paperspace infrastructure.
+
+The Paperspace by DigitalOcean Blog provides practical tutorials and technical guides for machine learning engineers and AI researchers working with GPU-accelerated cloud computing. Content covers model fine-tuning, optimization techniques, computer vision, NLP, and hands-on implementations using H100 GPUs and modern AI frameworks.
+
+## Key Topics
+
+- H100 GPU
+- FLUX.1 image generation
+- Model fine-tuning
+- GPU computing
+- Deep learning
+- Machine learning
+- Computer vision
+- NLP
+- Model optimization
+- Quantization
+- Adversarial training
+- DigitalOcean
+- Paperspace
+- AI Toolkit
+- Neural networks
+
+## Model Fine-Tuning & Generation
+
+- [How to Fine-Tune a FLUX Model in under an hour with AI Toolkit and a DigitalOcean H100 GPU](https://blog.paperspace.com/fine-tune-flux-schnell-dev): Step-by-step tutorial for fine-tuning FLUX.1 models on H100 GPUs with AI Toolkit
+- [FLUX Image Generation with DigitalOcean](https://blog.paperspace.com/flux): Guide to using FLUX image generation models with Paperspace H100 GPUs
+
+## Model Optimization & Performance
+
+- [Optimizing AI Models with Quanto](https://blog.paperspace.com/optimizing-ai-models-with-quanto-on-h100-gpus): Guide to using Quanto quantization for optimizing AI models on H100 GPUs
+- [The Role of Warps in Parallel Processing: Optimizing GPU Performance for High-Speed Computing](https://blog.paperspace.com/divide-and-conquer-the-role-of-warps-in-parallel-processing): Technical tutorial on GPU warps and parallel processing optimization techniques
+
+## Natural Language Processing & Security
+
+- [Exploring the TextAttack Framework: Components, Features, and Practical Applications](https://blog.paperspace.com/enhancing-nlp-robustness-with-textattack-2): Tutorial on TextAttack framework for NLP adversarial training and data augmentation
+- [Understanding Adversarial Attacks Using Fast Gradient Sign Method](https://blog.paperspace.com/understanding-adversarial-attacks-using-fast-gradient-sign-method): Tutorial on FGSM adversarial attacks and model security using Gradio
+- [CODEGEN: A Transformative Open-Source Language Model for Versatile Program Synthesis](https://blog.paperspace.com/codegen-a-transformative-open-source-language-model-for-versatile-program-synthesis): Tutorial on CODEGEN language model for code generation and program synthesis
+
+## Computer Vision Applications
+
+- [Text Labeling and Image Resolution with the Monkey Chat Vision Model and DigitalOcean+Paperspace GPUs](https://blog.paperspace.com/text-labeling-and-image-resolution-with-the-monkey-chat-vision-model-2): Guide to using Monkey Chat Vision Model for image captioning on Paperspace GPUs
+
+## Research & Theory
+
+- [Exploring the Convergence of Artificial Intelligence and Neuroscience](https://blog.paperspace.com/exploring-the-convergence-of-artificial-intelligence-and-neuroscience): Article examining AI applications in neuroscience research and neural networks
+
+## Optional
+
+- [Paperspace by DigitalOcean Blog (Page 2)](https://blog.paperspace.com/page/2): Archive page listing additional blog posts on GPU hardware and deep learning

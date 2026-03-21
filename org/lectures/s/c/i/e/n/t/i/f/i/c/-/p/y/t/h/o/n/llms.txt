@@ -1,0 +1,58 @@
+# Scientific Python Lectures
+
+> Comprehensive educational resource for learning Python scientific computing with NumPy, Matplotlib, and SciPy.
+
+Scientific Python Lectures provides structured tutorials and guides for both beginners and intermediate learners in scientific computing. Created by leading educators in the scientific Python community, these lectures cover fundamental Python programming through advanced numerical computing techniques.
+
+## Key Topics
+
+- NumPy
+- Matplotlib
+- SciPy
+- Python
+- Scientific Computing
+- Numerical Computing
+- Data Visualization
+- Arrays
+- Jupyter
+- IPython
+- Numerical Methods
+- Object-Oriented Programming
+- File I/O
+- Exception Handling
+- Python Ecosystem
+
+## Core Overview
+
+- [Scientific Python Lectures](https://lectures.scientific-python.org): Homepage for Scientific Python Lectures covering NumPy, Matplotlib, SciPy
+- [Python scientific computing ecosystem](https://lectures.scientific-python.org/intro/intro.html): Introduction to Python scientific computing ecosystem and key libraries
+
+## Python Language Fundamentals
+
+- [The Python language](https://lectures.scientific-python.org/intro/language/python_language.html): Tutorial on Python language fundamentals and features
+- [First steps](https://lectures.scientific-python.org/intro/language/first_steps.html): Beginner guide to getting started with Python and IPython
+- [Basic types](https://lectures.scientific-python.org/intro/language/basic_types.html): Tutorial on Python data types and type conversion
+- [Control Flow](https://lectures.scientific-python.org/intro/language/control_flow.html): Guide to Python control flow: conditionals, loops, and indentation
+- [Defining functions](https://lectures.scientific-python.org/intro/language/functions.html): Tutorial on defining and using functions in Python
+- [Object-oriented programming (OOP)](https://lectures.scientific-python.org/intro/language/oop.html): Tutorial on object-oriented programming concepts and Python classes
+
+## NumPy: Numerical Computing
+
+- [NumPy: creating and manipulating numerical data](https://lectures.scientific-python.org/intro/numpy/index.html): Introduction to NumPy for numerical computing and data manipulation
+- [The NumPy array object](https://lectures.scientific-python.org/intro/numpy/array_object.html): Guide to NumPy arrays and multi-dimensional array operations
+- [Numerical operations on arrays](https://lectures.scientific-python.org/intro/numpy/operations.html): Tutorial on numerical and arithmetic operations with NumPy arrays
+- [More elaborate arrays](https://lectures.scientific-python.org/intro/numpy/elaborate_arrays.html): Advanced NumPy topics: data types, casting, and complex numbers
+- [Advanced operations](https://lectures.scientific-python.org/intro/numpy/advanced_operations.html): Advanced NumPy operations including polynomial fitting and interpolation
+- [Some exercises](https://lectures.scientific-python.org/intro/numpy/exercises.html): Practice exercises for NumPy array manipulation and image processing
+
+## Data Visualization and Scientific Libraries
+
+- [Matplotlib: plotting](https://lectures.scientific-python.org/intro/matplotlib/index.html): Introduction to Matplotlib for data visualization and plotting
+- [SciPy: high-level scientific computing](https://lectures.scientific-python.org/intro/scipy/index.html): Overview of SciPy for advanced scientific computing and numerical methods
+
+## Advanced Python Topics
+
+- [Reusing code: scripts and modules](https://lectures.scientific-python.org/intro/language/reusing_code.html): Guide to code reuse with scripts, modules, and Jupyter
+- [Input and Output](https://lectures.scientific-python.org/intro/language/io.html): Tutorial on file I/O and input/output operations in Python
+- [Standard Library](https://lectures.scientific-python.org/intro/language/standard_library.html): Overview of Python Standard Library modules and utilities
+- [Exception handling in Python](https://lectures.scientific-python.org/intro/language/exceptions.html): Guide to exception handling and error management in Python

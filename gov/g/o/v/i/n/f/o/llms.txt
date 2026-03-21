@@ -1,50 +1,47 @@
 # GovInfo
 
-> GovInfo is the Government Publishing Office's (GPO) official digital repository providing free, authenticated access to legislative, executive, and judicial branch documents.
+> GovInfo is the Federal Government's official repository for legislative, executive, and judicial publications, providing public access to Congressional documents, Federal Register, Code of Federal Regulations, and other government information.
 
-GovInfo serves as the successor to FDsys and is the authoritative source for federal government information including Congressional publications, the Federal Register, Code of Federal Regulations, and agency submissions. The platform emphasizes digital preservation, public access, and authenticated document delivery.
+GovInfo, operated by the Government Publishing Office (GPO), succeeded FDsys as the primary platform for digital dissemination and preservation of U.S. government publications. The platform serves as a trusted digital repository certified under ISO 16363 standards, ensuring long-term preservation of official government documents for public access.
 
 ## Key Topics
 
-- GovInfo
-- Government Printing Office (GPO)
-- Congress
+- GovInfo Platform
+- Government Publishing Office (GPO)
+- Congressional Documents
 - Federal Register
-- Congressional Serial Set
+- Code of Federal Regulations
 - Digital Preservation
 - Public Access
-- API Access
+- FDLP (Federal Depository Library Program)
 - Bulk Data Repository
+- RSS Feeds
+- API Access
 - Document Authentication
-- FDLP
-- Government Documents
 - FDsys Transition
-- ISO 16363
-- Code of Federal Regulations
+- Government Publications
+- ISO 16363 Certification
 
 ## Getting Started
 
-- [About Us](https://govinfo.gov/about): Overview of GovInfo service, GPO mission, and transition from FDsys
-- [U.S. Government Information](https://govinfo.gov/about/us-gov-info): Overview of legislative, executive, and judicial branches of federal government
-- [Browse by A to Z](https://govinfo.gov/browse-a-z): Alphabetical index for discovering government documents and congressional publications
+- [About Us](https://govinfo.gov/about): Overview of GovInfo, GPO, FDLP, and transition from FDsys with FAQs.
+- [Browse by A to Z](https://govinfo.gov/browse-a-z): Alphabetical directory for browsing GovInfo's government publications and congressional documents.
+- [U.S. Government Information](https://govinfo.gov/about/us-gov-info): Overview of legislative, executive, and judicial branches of U.S. Federal Government.
 
-## Developer Resources & APIs
+## Developer Resources
 
-- [Developer Hub](https://govinfo.gov/developers): API documentation, bulk data access, and developer resources for GovInfo
-- [System Design and Documentation](https://govinfo.gov/developers/system-design): Technical specifications and architecture documentation for GovInfo platform
-- [RSS Feeds](https://govinfo.gov/feeds): RSS feed subscriptions for GovInfo collections and recent document updates
-- [Sitemaps](https://govinfo.gov/sitemaps): XML sitemaps for web crawling and content harvesting from GovInfo
+- [Developer Hub](https://govinfo.gov/developers): Developer hub for accessing GovInfo API, bulk data, GitHub repositories, and RSS feeds.
+- [System Design and Documentation](https://govinfo.gov/developers/system-design): GovInfo System Design Document (SDD) for technical architecture and platform reference.
+- [RSS Feeds](https://govinfo.gov/feeds): RSS feeds for GovInfo collections with 100 most recent documents published.
+- [Sitemaps](https://govinfo.gov/sitemaps): XML sitemaps for crawling and harvesting GovInfo document collections.
 
-## Content & Preservation
+## Content Management
 
-- [Digital Preservation](https://govinfo.gov/about/digital-preservation): Digital stewardship practices, ISO 16363 certification, and archival standards
-- [Agency Submission](https://govinfo.gov/about/agency-submission): Instructions for federal agencies to submit content for preservation and access
+- [Agency Submission](https://govinfo.gov/about/agency-submission): Guide for Federal agencies to submit content to GovInfo for preservation and public access.
+- [Digital Preservation](https://govinfo.gov/about/digital-preservation): GovInfo digital preservation practices, ISO 16363 certification, and trustworthy repository standards.
+- [Authentication](https://govinfo.gov/about/authentication): Guide to PDF document authentication and digital signature verification in GovInfo.
 
-## Policies & Reference
+## Optional Resources
 
-- [Policies](https://govinfo.gov/about/policies): Digital dissemination, preservation, copyright, privacy, and accessibility policies
-- [Authentication](https://govinfo.gov/about/authentication): Guide to digital signatures and PDF document authentication verification
-
-## Optional
-
-- [History](https://govinfo.gov/about/history): Timeline of GovInfo and GPO's online government information access evolution
+- [Policies](https://govinfo.gov/about/policies): GovInfo policies covering digital dissemination, preservation, copyright, and accessibility.
+- [History](https://govinfo.gov/about/history): Timeline of GovInfo evolution from GPO Access through FDsys to current platform.

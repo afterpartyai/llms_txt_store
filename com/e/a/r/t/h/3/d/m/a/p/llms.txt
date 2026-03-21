@@ -1,54 +1,57 @@
 # Earth 3D Map
 
-> > A comprehensive 3D globe explorer providing real-time geospatial data including weather, earthquakes, and radiation monitoring with interactive satellite imagery.
+> > Interactive 3D globe platform for real-time geospatial exploration, weather tracking, and geographic visualization with satellite imagery and live data feeds.
 
-Earth 3D Map offers an immersive 3D globe interface for exploring Earth's geography, weather patterns, seismic activity, and environmental data. The platform integrates real-time feeds from authoritative sources like USGS, NWS, and EURDEP, with regional maps of major cities and landmarks accessible via web and Chrome extension.
+Earth 3D Map provides an immersive web-based and Chrome extension platform for exploring Earth through 3D interactive visualization. The site aggregates real-time data from authoritative sources like USGS, NOAA, and National Weather Service to deliver live earthquake tracking, weather forecasting, and aurora forecasts alongside comprehensive geographic reference materials.
 
 ## Key Topics
 
-- 3D interactive globe
-- Real-time earthquake monitoring
-- Satellite imagery
-- Live weather maps
-- USGS data
-- Seismic activity
-- Geographic reference
-- World geography
-- Radiation monitoring
-- Weather forecasting
-- Regional maps
-- Travel reference
-- Chrome extension
-- Aerial views
-- Global locations
+- 3D Globe Visualization
+- Interactive Maps
+- Satellite Imagery
+- Real-Time Weather Data
+- Earthquake Monitoring
+- Aurora Forecasting
+- Chrome Extension
+- Geographic Reference
+- Travel Planning
+- 3D City Maps
+- Political Boundaries
+- Radiation Monitoring
+- USGS Data Integration
+- NOAA Integration
+- Bird's-Eye View
 
-## Core Features
+## Core Mapping Tools
 
-- [Earth 3D Map - Travel around the world](https://earth3dmap.com): Homepage: 3D globe explorer with geographic data navigation
-- [3D Interactive Globe](https://earth3dmap.com/3d-globe): 3D interactive globe with high-resolution satellite imagery
-- [Live Weather Map - Satellite and Radar](https://earth3dmap.com/weather-map): Real-time weather with geostationary satellite imagery and radar
-- [Earthquake Live Map](https://earth3dmap.com/earthquake-live-map): Real-time earthquake monitoring with USGS data, magnitude and location
+- [Earth 3D Map - Travel around the world](https://earth3dmap.com): Homepage: Navigate and explore geographic data on 3D globe via web browser
+- [3D Interactive Globe](https://earth3dmap.com/3d-globe): Explore Earth with 3D interactive globe featuring high-resolution satellite imagery
+- [Political Map of the World](https://earth3dmap.com/political-map-of-the-world): Political world map showing countries, states, and political alliances
+- [Earth 3D Map - Country Directory](https://earth3dmap.com/page/2): Country directory with capitals and geographic reference for global exploration
 
-## Real-Time Environmental Monitoring
+## Real-Time Weather & Environmental Data
 
-- [Snow and Ice Weather Forecast US Map](https://earth3dmap.com/snowfall-us-weather): 72-hour US snowfall and ice forecast with NWS data
-- [Radiological Maps - Radiation and Radioactivity Monitoring](https://earth3dmap.com/radiological-maps): Real-time European radiation monitoring with EURDEP data
-- [Earthquake in Turkey Live Map](https://earth3dmap.com/earthquake-turkey): Real-time earthquake monitoring for Turkey with USGS data
+- [Live Weather Map - Satellite and Radar](https://earth3dmap.com/weather-map): Real-time weather map using geostationary satellites for storm tracking
+- [Snow and Ice Weather Forecast US Map](https://earth3dmap.com/snowfall-us-weather): 72-hour US snow and ice forecast using National Weather Service data
+- [Aurora forecast - Northern lights maps](https://earth3dmap.com/aurora-forecast): NOAA-powered Northern Lights forecast map showing aurora visibility
+- [Radiological Maps - Radiation and Radioactivity Monitoring](https://earth3dmap.com/radiological-maps): European radioactivity monitoring map showing gamma dose rates via EURDEP
 
-## Regional Maps & Geographic Exploration
+## Seismic & Hazard Monitoring
 
-- [Middle East Map](https://earth3dmap.com/middle-east-map): Interactive 3D map of Middle East countries and regions
-- [Spain: Map of Spain, Europe - Earth 3D Map](https://earth3dmap.com/spain): Interactive 3D map of Spain with cities and landmarks
-- [New York 3D Map](https://earth3dmap.com/new-york-3d-map): Interactive 3D map of New York City and Manhattan
-- [Mount Everest 3D Maps](https://earth3dmap.com/mount-everest-3d-maps): Interactive 3D map of Mount Everest and Himalayas
-- [Aerial View of Apple Park in Cupertino, California, United States](https://earth3dmap.com/aerial-view-apple-park): Aerial 3D satellite view of Apple Park headquarters
+- [Earthquake Live Map](https://earth3dmap.com/earthquake-live-map): Real-time earthquake map with USGS data showing magnitude, location, depth
 
-## Browser Extension & Tools
+## Chrome Extension & Desktop Tools
 
-- [Earth 3D Map - Chrome Extension](https://earth3dmap.com/chrome-extension): Chrome extension for bird's-eye 3D map exploration
+- [Earth 3D Map - Chrome Extension](https://earth3dmap.com/chrome-extension): Chrome extension for bird's-eye 3D maps of cities and landmarks
+- [Earth 3D Maps for Chrome version 6.00](https://earth3dmap.com/earth-3d-maps-for-chrome): Chrome extension for 3D bird's eye maps of Earth cities and attractions
+
+## Regional & City Maps
+
+- [New York 3D Map](https://earth3dmap.com/new-york-3d-map): Interactive 3D map of New York City and metropolitan area
+- [Alaska Map, USA](https://earth3dmap.com/alaska-map-usa): Interactive map of Alaska showing cities, roads, mountains, and geography
+- [Mount Everest 3D Maps](https://earth3dmap.com/mount-everest-3d-maps): 3D map and climbing guide for Mount Everest in the Himalayas
+- [Aerial View of Apple Park in Cupertino, California, United States](https://earth3dmap.com/aerial-view-apple-park): Aerial 3D view of Apple Park headquarters in Cupertino, California
 
 ## Optional
 
-- [Earth 3D Map - Travel around the world](https://earth3dmap.com/page/2): Country directory and geography reference page 2
-- [Fix the Google Maps problem "For development purposes only"](https://earth3dmap.com/for-development-purposes-only): Guide to fixing Google Maps API billing and watermark issues
-- [Uninstall Chrome Extension](https://earth3dmap.com/uninstall): Instructions for uninstalling and reinstalling Chrome extension
+- [Uninstall Chrome Extension](https://earth3dmap.com/uninstall): Guide for uninstalling and reinstalling Earth 3D Maps Chrome extension

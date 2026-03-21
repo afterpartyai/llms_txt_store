@@ -1,31 +1,32 @@
-# timeanddate.com Developer Documentation
+# timeanddate.com
 
-> > Developer documentation for the Timeanddate API, providing programmatic access to time, date, location, and astronomy data worldwide.
+> A comprehensive global timekeeping resource providing real-time world clock data, timezone information, and time-related tools for worldwide cities.
 
-This documentation covers the Timeanddate API, which offers access to over 5,800 global locations with standardized time data (ISO8601, UTC), astronomical calculations including moon phases and lunar cycles, and geographic location information for developers building time-aware applications.
+timeanddate.com specializes in accurate time information and timezone management across major cities globally. The site offers both interactive world clocks and embeddable widgets for websites, serving users who need to coordinate time across different regions or track current time in multiple locations.
 
 ## Key Topics
 
-- Timeanddate API
-- ISO8601
-- UTC
-- API Reference
-- Location Data
-- Geographic Locations
-- DateTime Format
-- Data Types
-- Moon Phase
-- Astronomy Data
-- Lunar Cycles
-- Time Data Type
-- Available Locations
-- Astro Service
+- world clock
+- time zones
+- current time
+- global cities
+- timezone support
+- DST (Daylight Saving Time)
+- city comparison
+- local times
+- clock widgets
+- embedded clocks
+- timezone reference
+- worldwide time
+- New York
+- London
+- Tokyo
 
-## API Data Types Reference
+## World Clock & Time Tools
 
-- [General: Time](https://dev.timeanddate.com/docs/type-time): Time data type reference with ISO8601 and UTC formatting standards
-- [General: Moon Phase](https://dev.timeanddate.com/docs/type-moonphase): Moon phase data type reference for astronomy API services
+- [The World Clock — Worldwide](https://www.timeanddate.com/worldclock): World clock displaying current time across major cities with timezone and DST support.
+- [The World Clock (extended version)](https://www.timeanddate.com/worldclock/full.html): Extended world clock with comprehensive city listings, weather, sunrise/sunset data.
 
-## Location Database
+## Developer Resources
 
-- [Timeanddate API: Available Locations](https://dev.timeanddate.com/docs/available-locations): Complete list of 5,800+ locations in Timeanddate API database worldwide
+- [Free Clocks for Your Website](https://www.timeanddate.com/clocks/free.html): Guide to creating and embedding customizable clock widgets on websites.

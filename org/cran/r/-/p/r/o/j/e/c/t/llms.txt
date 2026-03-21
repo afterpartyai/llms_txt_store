@@ -1,0 +1,28 @@
+# CRAN (Comprehensive R Archive Network)
+
+> The official repository for R packages, providing access to thousands of vetted packages, build tools, and comprehensive documentation for the R statistical computing ecosystem.
+
+CRAN is the primary distribution network for R packages and tools, serving the global R community with package hosting, installation guides, and development resources. It maintains strict quality standards and provides infrastructure for building R from source across multiple platforms.
+
+## Key Topics
+
+- R programming language
+- CRAN packages
+- Package installation
+- Google Sheets API
+- Data access
+- API wrappers
+- Windows toolchain
+- RTools
+- Build from source
+- Spreadsheet interaction
+- Posit Software
+- Package dependencies
+
+## Package Repository
+
+- [CRAN: Package googlesheets4](https://cran.r-project.org/web/packages/googlesheets4/index.html): googlesheets4 R package for accessing Google Sheets via Sheets API V4, enabling programmatic interaction with spreadsheets
+
+## Build Tools & Installation
+
+- [RTools: Toolchains for building R and R packages from source on Windows](https://cran.r-project.org/bin/windows/Rtools/): RTools installation guide for building R packages from source on Windows, providing essential compilation toolchains

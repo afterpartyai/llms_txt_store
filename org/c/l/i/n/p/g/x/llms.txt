@@ -1,0 +1,31 @@
+# ClinPGx
+
+> > ClinPGx provides pharmacogenomics clinical annotation and API tools for precision medicine, enabling healthcare providers to make data-driven drug recommendations based on genetic variants.
+
+ClinPGx is a comprehensive pharmacogenomics platform that combines the PharmCAT annotation tool with RESTful API access to clinical genetic data. It integrates with clinical workflows through standards like CPIC and DPWG guidelines to deliver actionable pharmacogenomic insights.
+
+## Key Topics
+
+- Pharmacogenomics
+- PharmCAT
+- ClinPGx API
+- VCF Processing
+- Genotyping
+- Phenotyping
+- Drug Recommendations
+- Clinical Decision Support
+- RESTful API
+- JSON Endpoints
+- NGS
+- CPIC
+- DPWG
+- Allele Calling
+- Bioinformatics
+
+## API Reference
+
+- [ClinPGx API](https://api.clinpgx.org/): ClinPGx RESTful API documentation with JSON endpoints and Swagger specs for programmatic access to pharmacogenomics data and clinical annotations
+
+## Core Tools & Methods
+
+- [How It Works | PharmCAT](https://pharmcat.clinpgx.org/methods/): PharmCAT methodology: VCF processing, genotyping, phenotyping, and drug recommendations for clinical pharmacogenomics annotation

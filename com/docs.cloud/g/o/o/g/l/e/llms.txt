@@ -1,0 +1,63 @@
+# Google Cloud Documentation
+
+> Comprehensive documentation for Google Cloud Platform covering infrastructure, AI/ML, databases, analytics, security, and enterprise solutions.
+
+Google Cloud Documentation serves as the central hub for developers, architects, and operations teams building on Google Cloud Platform. It provides guides, API references, learning paths, and best practices across compute, storage, databases, AI/ML, networking, security, and industry-specific solutions.
+
+## Key Topics
+
+- Google Cloud Platform
+- Compute Engine
+- Google Kubernetes Engine (GKE)
+- Vertex AI
+- Gemini
+- BigQuery
+- Cloud Storage
+- Firestore
+- IAM
+- Terraform
+- Cloud Run
+- VPC
+- Cloud Monitoring
+- gcloud CLI
+- Generative AI
+
+## Core Documentation
+
+- [Google Cloud Documentation](https://docs.cloud.google.com): Google Cloud documentation hub with guides, SDKs, and developer resources
+- [Google Cloud Documentation Index](https://docs.cloud.google.com/docs): Central documentation index for Google Cloud products and services
+
+## AI and Machine Learning
+
+- [AI and ML](https://docs.cloud.google.com/docs/ai-ml): Vertex AI, Gemini, and ML platform documentation and learning paths
+
+## Compute and Hosting
+
+- [Application hosting](https://docs.cloud.google.com/docs/application-hosting): GKE, Cloud Run, and Compute Engine hosting and deployment documentation
+- [Compute](https://docs.cloud.google.com/docs/compute-area): Compute Engine virtual machine and workload documentation
+- [Application development](https://docs.cloud.google.com/docs/application-development): Application development guides with Apigee, APIs, and cloud-native tools
+
+## Data, Storage, and Databases
+
+- [Data analytics](https://docs.cloud.google.com/docs/data): BigQuery and data analytics platform documentation and learning paths
+- [Databases](https://docs.cloud.google.com/docs/databases): Firestore, Bigtable, and managed database services documentation
+- [Storage](https://docs.cloud.google.com/docs/storage): Cloud Storage, Filestore, and backup/disaster recovery documentation
+
+## Infrastructure, Networking, and Security
+
+- [Networking technologies](https://docs.cloud.google.com/docs/networking): VPC, load balancing, and network connectivity documentation
+- [Security](https://docs.cloud.google.com/docs/security): IAM, authentication, and security best practices documentation
+- [Access and resource management](https://docs.cloud.google.com/docs/access-resources): Identity and access management setup and configuration guides
+- [Infrastructure as code](https://docs.cloud.google.com/docs/iac): Terraform, Infrastructure Manager, and IaC tools documentation
+
+## Operations and Management
+
+- [Observability and monitoring](https://docs.cloud.google.com/docs/observability): Cloud Monitoring, Logging, and observability tools documentation
+- [Costs and usage management](https://docs.cloud.google.com/docs/costs-usage): Billing, cost optimization, and usage tracking documentation
+- [Developer Tools and SDKs](https://docs.cloud.google.com/docs/devtools): SDK, CLI, client libraries, and developer tools documentation
+
+## Enterprise and Specialized Solutions
+
+- [Distributed, hybrid, and multicloud](https://docs.cloud.google.com/docs/dhm-cloud): Hybrid, multicloud, and edge computing architecture documentation
+- [Migration](https://docs.cloud.google.com/docs/migration): Cloud migration guides from AWS, Azure, and on-premises systems
+- [Industry solutions](https://docs.cloud.google.com/docs/industry): Industry-specific solutions for commerce, healthcare, and finance

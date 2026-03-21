@@ -1,0 +1,60 @@
+# OWOX
+
+> > OWOX is a self-service analytics platform that helps organizations build data marts and integrate multi-source business data into cloud data warehouses.
+
+OWOX provides a comprehensive data integration and analytics solution enabling teams to collect, structure, and analyze data from advertising platforms, business applications, and cloud data warehouses. The platform supports 150+ connectors and integrates with major data warehouse solutions including BigQuery, Snowflake, Redshift, Athena, and Databricks.
+
+## Key Topics
+
+- Data Marts
+- Data Warehouse
+- Cloud Analytics
+- Data Integration
+- ETL/ELT
+- Google Ads
+- Facebook Ads
+- BigQuery
+- Snowflake
+- Data Connectors
+- Business Intelligence
+- Self-Service Analytics
+- Marketing Data
+- Data Sources
+- Data Visualization
+
+## Core Platform
+
+- [OWOX Data Marts — Build a Self-Service Analytics System](https://www.owox.com): OWOX Data Marts homepage: self-service analytics platform for data warehouses
+- [Data Mart Management](https://www.owox.com/product-features/data-mart-management): Structure your data once and reuse it everywhere with reusable data structures for BigQuery, Snowflake, and other warehouses
+- [Data Sources](https://www.owox.com/product-features/data-sources): Collect and blend data from business apps and advertising platforms into your data warehouse
+- [Data Storages](https://www.owox.com/product-features/data-storages): Support for BigQuery, Snowflake, Redshift, Athena, and Databricks cloud data warehouses
+
+## Advertising Data Connectors
+
+- [Google Ads Integration](https://www.owox.com/data-sources/google-ads): Integrate Google Ads data with BigQuery, Snowflake, and other data destinations
+- [Facebook Ads Integration](https://www.owox.com/data-sources/facebook-ads): Integrate Facebook Ads data with BigQuery, Snowflake, Redshift, and other warehouses
+- [LinkedIn Ads Integration](https://www.owox.com/data-sources/linkedin-ads): Integrate LinkedIn Ads data with BigQuery, Snowflake, Redshift, and other platforms
+- [TikTok Ads Integration](https://www.owox.com/data-sources/tik-tok): Integrate TikTok Ads data with BigQuery, Snowflake, and other data destinations
+- [Reddit Integration](https://www.owox.com/data-sources/reddit): Integrate Reddit data with BigQuery, Snowflake, Redshift, and other warehouses
+- [Free Connectors Library](https://www.owox.com/connectors): Access OWOX's free connector library for Facebook, Google, LinkedIn, Microsoft, and other ad platforms
+
+## Data Warehouse Destinations
+
+- [Google BigQuery](https://www.owox.com/data-destination/google-bigquery): Connect your business data to Google BigQuery for scalable analytics
+- [Snowflake](https://www.owox.com/data-destination/snowflake): Build scalable analytics-ready data marts on Snowflake
+- [Amazon Redshift](https://www.owox.com/data-destination/aws-redshift): Collect and model business data in Amazon Redshift for analytics
+- [Amazon Athena](https://www.owox.com/data-destination/aws-athena): Run serverless analytics on Amazon S3 with OWOX integration
+- [Databricks](https://www.owox.com/data-destination/databricks): Build analytics-ready data marts on Databricks Delta Lake
+
+## Visualization & Reporting
+
+- [Google Sheets](https://www.owox.com/data-destination/google-sheets): Free connector for integrating data warehouse data with Google Sheets
+- [Looker Studio](https://www.owox.com/data-destination/looker-studio): Free connector for data visualization and reporting with Looker Studio
+
+## Integrations Hub
+
+- [Integrations & Data Connectors](https://www.owox.com/integrations): Complete integrations hub with 150+ free no-code connectors for data sources and destinations
+
+## Resources & Events
+
+- [AI Insights for Marketers Webinar](https://www.owox.com/events/ai-insights-for-marketers): Learn how to extract marketing insights from Google Ads and Meta Ads data

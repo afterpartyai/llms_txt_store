@@ -1,0 +1,58 @@
+# aman.ai
+
+> > A comprehensive learning resource for artificial intelligence and deep learning fundamentals, covering classical ML algorithms through modern neural architectures with detailed primers and comparative analyses.
+
+aman.ai (Aman's AI Journal) provides in-depth educational content on machine learning and deep learning concepts. The site features detailed primers on foundational algorithms, neural network architectures, and advanced techniques like prompt engineering and diffusion models, making it a valuable reference for understanding AI fundamentals.
+
+## Key Topics
+
+- Transformers
+- Neural Networks
+- Natural Language Processing
+- Deep Learning
+- Machine Learning
+- Attention Mechanism
+- Convolutional Neural Networks
+- Recurrent Neural Networks
+- LSTM
+- Classification
+- Regression
+- Ensemble Methods
+- Graph Neural Networks
+- Diffusion Models
+- Prompt Engineering
+
+## Core Concepts & Fundamentals
+
+- [aman.ai • the art of artificial intelligence](https://aman.ai): Homepage for aman.ai AI and Deep Learning learning resource platform
+- [Linear and Logistic Regression](https://aman.ai/primers/ai/linear-logistic-regression): Guide to Linear and Logistic Regression with MSE and R-Squared metrics
+- [k-Nearest Neighbors](https://aman.ai/primers/ai/k-nearest-neighbors): Tutorial on kNN algorithm variants including distance-weighted and adaptive methods
+- [Naive Bayes](https://aman.ai/primers/ai/naive-bayes): Primer on Naive Bayes classifier using Bayes' theorem for text classification
+- [Support Vector Machines (SVM)](https://aman.ai/primers/ai/support-vector-machines): Tutorial on SVM classification using hyperplanes and kernel methods
+
+## Advanced Machine Learning
+
+- [Decision Trees and Ensemble Methods](https://aman.ai/primers/ai/decision-trees-and-ensemble-methods): Guide to Decision Trees, Bagging, and ensemble methods with Gini Impurity
+- [Clustering](https://aman.ai/primers/ai/clustering): Comprehensive guide to K-Means, Hierarchical, and Fuzzy C-Means clustering
+- [ML Algorithms Comparative Analysis](https://aman.ai/primers/ai/ml-comp): Comparative analysis of major ML algorithms for classification and regression
+- [Inductive Bias](https://aman.ai/primers/ai/inductive-bias): Primer on inductive bias in machine learning model selection and architecture design
+
+## Deep Learning Architectures
+
+- [Neural Architectures](https://aman.ai/primers/ai/architectures): Tutorial on RNN, LSTM, GRU, CNN, and Transformer neural architectures for NLP
+- [Transformers](https://aman.ai/primers/ai/transformers): Comprehensive guide to Transformer architecture with positional encoding and components
+- [Attention Mechanism](https://aman.ai/primers/ai/attention): Tutorial on Attention mechanisms and self-attention for sequence-to-sequence models
+- [Encoder vs. Decoder vs. Encoder-Decoder Models](https://aman.ai/primers/ai/encoder-vs-decoder-models): Guide to encoder-decoder architectures including BERT and XLNet language models
+- [Deep Learning Architectures Comparative Analysis](https://aman.ai/primers/ai/dl-comp): Comparative analysis of CNNs, RNNs, LSTMs, and Transformer architectures
+
+## Specialized Neural Networks
+
+- [Graph Neural Networks](https://aman.ai/primers/ai/gnn): Guide to Graph Neural Networks including GCN, GAT, and GraphSAGE architectures
+- [Separable Convolutions](https://aman.ai/primers/ai/separable-convolutions): Tutorial on separable convolutions for CNN optimization in MobileNet
+- [Diffusion Models](https://aman.ai/primers/ai/diffusion-models): Primer on Diffusion Models and generative approaches vs GANs
+
+## Advanced Techniques & Applications
+
+- [Transformers](https://aman.ai/primers/ai/transformers): Comprehensive guide to Transformer architecture with positional encoding and components
+- [Prompt Engineering](https://aman.ai/primers/ai/prompt-engineering): Tutorial on prompt engineering techniques including Chain-of-Thought and Tree-of-Thoughts
+- [Token Sampling Methods](https://aman.ai/primers/ai/token-sampling): Guide to token sampling strategies including beam search and nucleus sampling

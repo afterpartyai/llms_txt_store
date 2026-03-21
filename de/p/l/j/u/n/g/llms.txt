@@ -1,0 +1,61 @@
+# pljung.de
+
+> > Philipp Jung's personal site covering data engineering expertise, technical documentation, and reflections on software development and personal growth.
+
+pljung.de is the portfolio and blog of Philipp Jung, a Senior Data Engineer based in Berlin. The site features technical guides on data warehousing and cloud infrastructure, alongside personal essays on teamwork, learning, and professional development.
+
+## Key Topics
+
+- Data Engineering
+- BigQuery
+- Google Cloud Platform (GCP)
+- Data Warehousing
+- Firestore
+- JavaScript & React
+- Python
+- Backup Strategies
+- Developer Productivity
+- Technical Writing
+- Berlin
+- Tabular Data Formats
+- Cloud Storage
+- Machine Learning
+- Best Practices
+
+## About & Professional Background
+
+- [Philipp Jung – Data Engineer, Berlin](https://pljung.de): Homepage of Philipp Jung, Senior Data Engineer in Berlin.
+- [About](https://pljung.de/about): About Philipp Jung: Senior Data Engineer at Contentful, Berlin.
+
+## Data Engineering & Warehousing
+
+- [Efficient Data Export from Firestore to BigQuery](https://pljung.de/posts/export-firestore-to-bigquery): Guide to transferring data from Firestore to BigQuery efficiently.
+- [Currency Conversion In A Data Warehouse](https://pljung.de/posts/currency-conversion-data-warehouse): Currency conversion patterns in BigQuery data warehouses.
+- [Tabular Data Transferring Patterns](https://pljung.de/posts/tabular-data-transferring-patterns): Patterns for transferring and loading tabular data in pipelines.
+- [Escaping the CSV Trap and Embracing Alternatives](https://pljung.de/posts/escaping-the-csv-trap): Data format alternatives to CSV: Parquet, Feather, and Avro.
+
+## Infrastructure, Backup & DevOps
+
+- [Synology Backup in Google Cloud Storage Archives](https://pljung.de/posts/synology-backup-gcs-archive): NAS backup strategy using Synology DS223j and Google Cloud.
+- [Automating Backups With Btrbk On Fedora 34](https://pljung.de/posts/btrbk-fedora-34): Guide to automating backups with Btrbk on Fedora 34.
+
+## Programming & Developer Tools
+
+- [Mutable Objects in JavaScript](https://pljung.de/posts/mutable-objects-react): JavaScript mutability and state management in React applications.
+- [Finding the Closest Element in a Sorted Array](https://pljung.de/posts/closest-integer-in-a-list): Algorithm optimization for finding closest array element.
+- [I Underestimated The Importance of Tooling](https://pljung.de/posts/importance-of-tooling): Developer tools comparison: VS Code, Neovim, and productivity.
+- [Zeal and Dash for Reading Developer Documentation](https://pljung.de/posts/zeal-and-dash-for-reading-developer-documentation): Using Zeal and Dash for offline developer documentation access.
+- [Learning Relaxations](https://pljung.de/posts/learning-relaxations): Master's thesis summary on relaxed functional dependencies.
+
+## Personal Essays & Reflections
+
+- [The smartest Person in a Jazz Band: Thoughts on Working in a Team](https://pljung.de/posts/jazz-band): Reflections on teamwork and collaboration inspired by Chad Fowler.
+- [Languages, Fast and Slow](https://pljung.de/posts/languages-fast-and-slow): Programming language performance philosophy and optimization.
+- [Going Wired](https://pljung.de/posts/going-wired): Improving video conferencing quality with wired Ethernet setup.
+- [Trust](https://pljung.de/posts/trust): Personal essay on trust and performance pressure in rock climbing.
+
+## Optional
+
+- [My Language Learning Setup 2025](https://pljung.de/posts/language-learning-setup-2025): Spanish learning setup using Rosetta Stone and Anki flashcards.
+- [Tips for Traveling in China as a European in 2025](https://pljung.de/posts/traveling-china-in-2025): Travel tips for Europeans visiting China in 2025.
+- [Predicting the Beginning of the End](https://pljung.de/posts/predicting-the-beginning-of-the-end): COVID-19 vaccination prediction using linear regression analysis.

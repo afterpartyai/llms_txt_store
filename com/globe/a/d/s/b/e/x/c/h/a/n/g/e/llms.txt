@@ -1,0 +1,27 @@
+# ADS-B Exchange
+
+> A global, real-time aircraft tracking platform powered by ADS-B transponder data and MLAT technology.
+
+ADS-B Exchange provides live flight tracking using Mode S transponder signals and multilateration (MLAT) to determine aircraft positions worldwide. The platform aggregates aviation data from distributed receivers to offer comprehensive global coverage without relying on traditional commercial flight tracking services.
+
+## Key Topics
+
+- ADS-B (Automatic Dependent Surveillance-Broadcast)
+- MLAT (Multilateration)
+- Mode S Transponder
+- ICAO 24-bit Address
+- Real-time Aircraft Tracking
+- Live Flight Map
+- ADS-B Receiver Network
+- TIS-B (Traffic Information Service-Broadcast)
+- WGS84 Coordinate System
+- Global Aviation Coverage
+- Transponder Data
+- Flight Monitoring
+- tar1090 Visualization
+- Aviation Data
+- ATC Integration
+
+## Live Tracking
+
+- [ADS-B Exchange - Track Aircraft Live](https://globe.adsbexchange.com): Live aircraft tracking platform using ADS-B transponder data and MLAT to provide real-time flight monitoring and global coverage

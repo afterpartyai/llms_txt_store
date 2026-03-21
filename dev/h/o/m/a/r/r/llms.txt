@@ -1,0 +1,52 @@
+# Homarr
+
+> A self-hosted dashboard and home server management platform with comprehensive Docker deployment and multi-architecture support.
+
+Homarr provides documentation for deploying and configuring a customizable home server dashboard. The site maintains versioned documentation across multiple releases, with detailed guides for system requirements, Docker deployment, and hardware compatibility across various architectures including ARM and x86.
+
+## Key Topics
+
+- Docker deployment
+- System requirements
+- Architecture support (ARM64, ARM v7, AMD64)
+- Getting started
+- Installation guide
+- Hardware specifications
+- Device compatibility
+- Prerequisites
+- Linux support
+- Home server management
+- Dashboard configuration
+- Multi-architecture builds
+- Container deployment
+
+## Getting Started
+
+- [Prerequisites | Homarr documentation](https://homarr.dev/docs/getting-started): Review Homarr system requirements and Docker architecture support
+- [Prerequisites | Homarr documentation (Next)](https://homarr.dev/docs/next/getting-started): Review Homarr system requirements and Docker architecture support for upcoming release
+
+## Versioned Documentation
+
+- [Prerequisites | Homarr v1.55.0](https://homarr.dev/docs/1.55.0/getting-started): Review Homarr v1.55.0 system requirements and Docker support
+- [Prerequisites | Homarr v1.54.0](https://homarr.dev/docs/1.54.0/getting-started): Review Homarr v1.54.0 system requirements and Docker support
+- [Prerequisites | Homarr v1.51.0](https://homarr.dev/docs/1.51.0/getting-started): Review Homarr v1.51.0 system requirements and Docker support
+- [Prerequisites | Homarr v1.50.0](https://homarr.dev/docs/1.50.0/getting-started): Review Homarr v1.50.0 system requirements and Docker deployment
+- [Prerequisites | Homarr v1.49.0](https://homarr.dev/docs/1.49.0/getting-started): Review Homarr v1.49.0 system requirements and architecture support
+- [Prerequisites | Homarr v1.47.0](https://homarr.dev/docs/1.47.0/getting-started): Review Homarr v1.47.0 system requirements and device compatibility
+- [Prerequisites | Homarr v1.45.3](https://homarr.dev/docs/1.45.3/getting-started): Review Homarr v1.45.3 system requirements and architecture support
+- [Prerequisites | Homarr v1.44.0](https://homarr.dev/docs/1.44.0/getting-started): Review Homarr v1.44.0 system requirements and architecture support
+
+## Blog & Release Notes
+
+- [Blog | Homarr documentation](https://homarr.dev/blog): Homarr blog with release notes, migration guides, and feature updates
+
+## Optional - Archived Versions
+
+- [Prerequisites | Homarr v1.43.3](https://homarr.dev/docs/1.43.3/getting-started): Review Homarr v1.43.3 system requirements and Docker deployment
+- [Prerequisites | Homarr v1.42.1](https://homarr.dev/docs/1.42.1/getting-started): Review Homarr v1.42.1 system requirements and Docker deployment
+- [Prerequisites | Homarr v1.41.0](https://homarr.dev/docs/1.41.0/getting-started): Review Homarr v1.41.0 system requirements and architecture support
+- [Prerequisites | Homarr v1.40.0](https://homarr.dev/docs/1.40.0/getting-started): Review Homarr v1.40.0 system requirements and architecture support
+- [Prerequisites | Homarr v1.39.0](https://homarr.dev/docs/1.39.0/getting-started): Review Homarr v1.39.0 system requirements and architecture support
+- [Prerequisites | Homarr v1.38.0](https://homarr.dev/docs/1.38.0/getting-started): Review Homarr v1.38.0 system requirements and Docker support
+- [Prerequisites | Homarr v1.37.0](https://homarr.dev/docs/1.37.0/getting-started): Review Homarr v1.37.0 system requirements and architecture support
+- [Prerequisites | Homarr v1.36.0](https://homarr.dev/docs/1.36.0/getting-started): Review Homarr v1.36.0 system requirements and architecture support

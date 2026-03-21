@@ -1,0 +1,51 @@
+# CS4U.ICU
+
+> A comprehensive self-learning platform for computer science students featuring curriculum guides, course evaluations, development environment setup, and learning methodology resources.
+
+CS4U.ICU is a community-driven CS education resource hub primarily serving Chinese university students. It aggregates curated learning paths from csdiy.wiki, evaluates top university CS courses, and provides practical guides for development environment configuration across Windows, Linux, and mobile platforms.
+
+## Key Topics
+
+- Self-learning Guide
+- CS Curriculum
+- Course Recommendations
+- Development Environment
+- Windows Development
+- C/C++ Programming
+- Learning Methodology
+- GitHub & Git
+- Visual Studio & VSCode
+- Linux & Ubuntu
+- WSL & Terminal
+- Computer Science
+- Undergraduate Education
+- Chinese Universities
+- Resource Sharing
+
+## Project Overview & Getting Started
+
+- [项目介绍 & 使用指南](https://stf.pages.dev/CSWiki): CS4U.ICU project introduction and usage guide for CS learning community
+- [前言 - CS4U.ICU](https://stf.pages.dev/wiki/csdiy.wiki): Self-learning guide and CS curriculum overview from csdiy.wiki
+
+## Learning Resources & Curriculum
+
+- [名校课程评价](https://stf.pages.dev/cs-course): Top university CS course evaluations and learning resource recommendations
+- [学会如何学习 (Learning How To Learn)](https://stf.pages.dev/CSWiki/%E5%85%A5%E9%97%A8%E9%80%9A%E8%AF%86%E6%8A%80%E8%83%BD/%E5%AD%A6%E4%BC%9A%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0%20(Learning%20How%20To%20Learn)): Learning techniques and study methods based on cognitive science principles
+- [在华师学 CS 的现状 & 心态准备](https://stf.pages.dev/CSWiki/%E5%85%A5%E9%97%A8%E9%80%9A%E8%AF%86%E6%8A%80%E8%83%BD/%E5%9C%A8%E5%8D%8E%E5%B8%88%E5%AD%A6%20CS%20%E7%9A%84%E7%8E%B0%E7%8A%B6%20%26%20%E5%BF%83%E6%80%81%E5%87%86%E5%A4%87): Mindset preparation and CS education landscape at Chinese universities
+
+## Development Environment Setup
+
+- [Windows 下使用 Windows Terminal + WSL](https://stf.pages.dev/CSWiki/%E5%85%A5%E9%97%A8%E9%80%9A%E8%AF%86%E6%8A%80%E8%83%BD/%E5%86%99%E4%BB%A3%E7%A0%81%E7%94%A8%E7%94%B5%E8%84%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/Windows%20%E4%B8%8B%E4%BD%BF%E7%94%A8%20Windows%20Terminal%20%2B%20WSL): Setup guide for Windows Terminal and WSL development environment
+- [Windows 下使用 VSCode 作为 C/C++ IDE](https://stf.pages.dev/CSWiki/%E5%85%A5%E9%97%A8%E9%80%9A%E8%AF%86%E6%8A%80%E8%83%BD/%E5%86%99%E4%BB%A3%E7%A0%81%E7%94%A8%E7%94%B5%E8%84%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/Windows%20%E4%B8%8B%E4%BD%BF%E7%94%A8%20VSCode%20%E4%BD%9C%E4%B8%BA%20CC%2B%2B%20IDE): VSCode configuration guide for C/C++ development on Windows
+- [Windows 下使用 Visual Studio](https://stf.pages.dev/CSWiki/%E5%85%A5%E9%97%A8%E9%80%9A%E8%AF%86%E6%8A%80%E8%83%BD/%E5%86%99%E4%BB%A3%E7%A0%81%E7%94%A8%E7%94%B5%E8%84%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/Windows%20%E4%B8%8B%E4%BD%BF%E7%94%A8%20Visual%20Studio): Visual Studio setup and configuration guide for Windows development
+- [在 Windows 下用 GCC 编译器练习 C/C++ 的教程](https://stf.pages.dev/CSWiki/%E5%85%A5%E9%97%A8%E9%80%9A%E8%AF%86%E6%8A%80%E8%83%BD/%E5%86%99%E4%BB%A3%E7%A0%81%E7%94%A8%E7%94%B5%E8%84%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/%E5%9C%A8%20Windows%20%E4%B8%8B%E7%94%A8%20GCC%20%E7%BC%96%E8%AF%91%E5%99%A8%E7%BB%83%E4%B9%A0%20CC%2B%2B%20%E7%9A%84%E6%95%99%E7%A8%8B): GCC compiler tutorial for C/C++ programming on Windows
+- [VirtualBox 虚拟机安装 Ubuntu](https://stf.pages.dev/CSWiki/%E5%85%A5%E9%97%A8%E9%80%9A%E8%AF%86%E6%8A%80%E8%83%BD/%E5%86%99%E4%BB%A3%E7%A0%81%E7%94%A8%E7%94%B5%E8%84%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/VirtualBox%20%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AE%89%E8%A3%85%20Ubuntu): VirtualBox and Ubuntu installation guide for Linux development setup
+
+## Professional Skills & Tools
+
+- [信息素养的训练](https://stf.pages.dev/CSWiki/%E5%85%A5%E9%97%A8%E9%80%9A%E8%AF%86%E6%8A%80%E8%83%BD/%E4%BF%A1%E6%81%AF%E8%8E%B7%E5%8F%96%E7%9A%84%E7%B4%A0%E5%85%BB/%E4%BF%A1%E6%81%AF%E7%B4%A0%E5%85%BB%E7%9A%84%E8%AE%AD%E7%BB%83): Information literacy and research skills training for academic success
+- [记录、发表体系的搭建](https://stf.pages.dev/CSWiki/%E5%85%A5%E9%97%A8%E9%80%9A%E8%AF%86%E6%8A%80%E8%83%BD/%E8%AE%B0%E5%BD%95%E3%80%81%E5%8F%91%E8%A1%A8%E4%BD%93%E7%B3%BB%E7%9A%84%E6%90%AD%E5%BB%BA/%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BA%E4%BD%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2): Blog setup guide using GitHub Pages and Hexo static site generator
+
+## Optional Resources
+
+- [Android 手机配合 Termux APP 写代码](https://stf.pages.dev/CSWiki/%E5%85%A5%E9%97%A8%E9%80%9A%E8%AF%86%E6%8A%80%E8%83%BD/%E5%86%99%E4%BB%A3%E7%A0%81%E7%94%A8%E7%94%B5%E8%84%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/Android%20%E6%89%8B%E6%9C%BA%E914%20Termux%20APP%20%E5%86%99%E4%BB%A3%E7%A0%81): Guide for mobile programming using Termux on Android devices

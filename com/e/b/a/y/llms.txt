@@ -1,63 +1,56 @@
 # eBay
 
-> > eBay is a global online marketplace for electronics, collectibles, fashion, and more, featuring auctions, daily deals, and secure buyer/seller transactions.
+> > eBay is a global marketplace for buying and selling electronics, collectibles, fashion, vehicles, and more with live shopping features and personalized account management.
 
-eBay operates as a peer-to-peer e-commerce platform with millions of listings across categories including Electronics, Motors, Collectibles, and Fashion. The site emphasizes account security, identity verification, and fraud prevention to protect users in its marketplace ecosystem.
+eBay serves as a comprehensive e-commerce platform offering millions of products across diverse categories including electronics, automobiles, fashion, collectibles, and specialty items. The platform emphasizes security, user verification, and personalized shopping experiences through features like My eBay, watchlists, saved searches, and daily deals.
 
 ## Key Topics
 
-- Account Security
-- Identity Verification
-- User Authentication
-- Marketplace Homepage
-- Product Categories
-- Free Shipping
-- Daily Deals
-- Auction Bidding
-- Seller Tools
-- My eBay Dashboard
-- Purchase History
-- Watchlist
-- eBay Live Shopping
-- Motors
-- Collectibles
+- marketplace
+- e-commerce
+- live shopping
+- account security
+- identity verification
+- fraud prevention
+- user authentication
+- My eBay
+- watchlist
+- daily deals
+- collectibles
+- electronics
+- fashion
+- vehicles
+- gift cards
 
 ## Core Marketplace
 
-- [Electronics, Cars, Fashion, Collectibles & More | eBay](https://www.ebay.com): eBay homepage with marketplace categories, auctions, and free shipping
-- [Daily Deals on eBay | Best deals and Free Shipping](https://www.ebay.com/deals): eBay daily deals with discounts on electronics and collectibles
-- [eBay Gift Cards | eBay.com](https://www.ebay.com/giftcards): eBay Gift Cards for purchase and digital delivery
+- [Electronics, Cars, Fashion, Collectibles & More | eBay](https://www.ebay.com): eBay homepage: marketplace for electronics, cars, fashion, collectibles with live shopping
+- [Daily Deals on eBay | Best deals and Free Shipping](https://www.ebay.com/deals): eBay daily deals page with discounted products and free shipping offers
+- [eBay Gift Cards | eBay.com](https://www.ebay.com/giftcards): eBay gift cards product page with redemption and FAQ information
 
-## Account & Authentication
+## Account & Personal Shopping
 
-- [Security Measure | eBay](https://signin.ebay.com/ws/eBayISAPI.dll): eBay account login and security verification page
-- [Security Measure | eBay](https://signup.ebay.com/pa/crte): eBay account creation and signup flow with security verification
+- [Security Measure | eBay](https://www.ebay.com/mys/home): eBay My eBay account home page with identity verification
+- [Security Measure | eBay](https://www.ebay.com/mye/myebay/summary): eBay My eBay account summary with security verification
+- [Security Measure | eBay](https://www.ebay.com/mye/myebay/watchlist): eBay My eBay watchlist page with security verification
+- [Security Measure | eBay](https://www.ebay.com/mye/myebay/bidsoffers): eBay My eBay bids and offers page with security verification
+- [Security Measure | eBay](https://www.ebay.com/mye/myebay/purchase): eBay My eBay purchase history page with fraud prevention security
+- [eBay Home](https://www.ebay.com/mye/buyagain): eBay Buy Again feature for replenishment shopping and product recommendations
 
-## My eBay Dashboard
+## Saved Items & Preferences
 
-- [Security Measure | eBay](https://www.ebay.com/mys/home): My eBay home dashboard with account security verification
-- [Security Measure | eBay](https://www.ebay.com/mye/myebay/summary): My eBay account summary with identity verification
-- [Security Measure | eBay](https://www.ebay.com/mye/myebay/purchase): My eBay purchase history with security verification
-- [Security Measure | eBay](https://www.ebay.com/mye/myebay/bidsoffers): My eBay bids and offers section with account protection
-- [Security Measure | eBay](https://www.ebay.com/mye/myebay/watchlist): My eBay watchlist with security verification for saved items
+- [Security Measure | eBay](https://www.ebay.com/mye/myebay/saved): eBay My eBay saved items page with security verification
+- [Security Measure | eBay](https://www.ebay.com/mye/myebay/savedsearches): eBay My eBay saved searches page with account access verification
+- [Security Measure | eBay](https://www.ebay.com/mye/myebay/savedsellers): eBay My eBay saved sellers page with security verification
+- [Security Measure | eBay](https://www.ebay.com/mye/myebay/rvi): eBay My eBay recent item views with account security verification
 
-## Saved Items & Searches
+## Specialized Shopping
 
-- [Security Measure | eBay](https://www.ebay.com/mye/myebay/saved): My eBay saved items with user authentication
-- [Security Measure | eBay](https://www.ebay.com/mye/myebay/savedsearches): My eBay saved searches with security verification
-- [Security Measure | eBay](https://www.ebay.com/mye/myebay/savedsellers): My eBay saved sellers list with account security
-- [eBay Home](https://www.ebay.com/mye/buyagain): My eBay Buy Again feature for replenishment shopping
+- [My Garage | eBay](https://www.ebay.com/g/mygarage): eBay My Garage: vehicle-specific parts, accessories, and DIY guides
+- [Security Measure | eBay](https://ppcapp.ebay.com/myppc/wallet/list): eBay wallet page for seller payments and account verification
 
-## Selling & Support
+## Authentication & Security
 
-- [Selling on eBay | Electronics, Fashion, Home & Garden | eBay](https://www.ebay.com/sl/sell): eBay seller guide covering listing, pricing, shipping, and fees
-- [Security Measure | eBay](https://www.ebay.com/help/home): eBay Help Center with security verification and support resources
-
-## Specialized Features
-
-- [My Garage | eBay](https://www.ebay.com/g/mygarage): My Garage vehicle parts finder for cars, trucks, motorcycles
-
-## Optional
-
-- [Security Measure | eBay](https://ppcapp.ebay.com/myppc/wallet/list): eBay wallet management with security verification
-- [Security Measure | eBay](https://www.ebay.com/mye/myebay/rvi): My eBay account access with user authentication
+- [Security Measure | eBay](https://signin.ebay.com/ws/eBayISAPI.dll): eBay login security verification and identity confirmation page
+- [Security Measure | eBay](https://signup.ebay.com/pa/crte): eBay account creation with security verification and fraud prevention
+- [Security Measure | eBay](https://www.ebay.com/help/home): eBay help center with security verification and user support resources

@@ -1,60 +1,61 @@
 # DeepWiki
 
-> > AI-powered conversational documentation platform that transforms GitHub repositories into interactive, queryable knowledge bases.
+> > Conversational AI documentation platform that makes code repository documentation interactive and queryable through natural language.
 
-DeepWiki provides intelligent documentation for popular open-source projects across machine learning, web development, and infrastructure. It enables developers to explore complex codebases through natural language conversations powered by AI.
+DeepWiki indexes and documents popular open-source repositories across AI, backend infrastructure, and developer tools, enabling developers to understand complex codebases through conversational AI interfaces. The platform covers critical technologies in machine learning frameworks, LLM infrastructure, web automation, and distributed systems.
 
 ## Key Topics
 
 - LLM Integration
-- API Documentation
-- Machine Learning
-- Python SDK
-- Web Automation
-- RAG (Retrieval-Augmented Generation)
 - System Architecture
+- API Documentation
+- AI Frameworks
+- Document Processing
+- Distributed Systems
+- Python SDK
 - Developer Tools
-- GitHub Repositories
 - TypeScript
-- Neural Networks
-- Task Queues
-- Schema Validation
-- PDF Parsing
-- Agent Frameworks
+- Machine Learning
+- Web Automation
+- Data Infrastructure
+- Code Documentation
+- Testing Frameworks
+- In-Memory Storage
 
 ## LLM & AI Frameworks
 
-- [langchain-ai/langchain](https://deepwiki.com/langchain-ai/langchain): Modular framework for composable LLM applications with integrations
-- [huggingface/transformers](https://deepwiki.com/huggingface/transformers): 400+ ML models for text, vision, audio, multimodal tasks
-- [eosphoros-ai/DB-GPT](https://deepwiki.com/eosphoros-ai/DB-GPT): AI-native data application framework with RAG and multi-agent support
-- [agent0ai/agent-zero](https://deepwiki.com/agent0ai/agent-zero): LLM-powered agent framework with memory and MCP tool integration
-- [karpathy/nanochat](https://deepwiki.com/karpathy/nanochat): Complete LLM training and deployment system with complexity dial
-- [infiniflow/ragflow](https://deepwiki.com/infiniflow/ragflow): Retrieval-Augmented Generation engine with document understanding
+- [langchain-ai/langchain](https://deepwiki.com/langchain-ai/langchain): Modular framework for building LLM applications with composable abstractions
+- [huggingface/transformers](https://deepwiki.com/huggingface/transformers): 400+ model implementations for NLP, vision, audio, and multimodal tasks
+- [karpathy/nanochat](https://deepwiki.com/karpathy/nanochat): Complete LLM training and deployment system with complexity dial design
+- [eosphoros-ai/DB-GPT](https://deepwiki.com/eosphoros-ai/DB-GPT): AI-native data application framework for LLM infrastructure and workflows
+- [agent0ai/agent-zero](https://deepwiki.com/agent0ai/agent-zero): AI agent framework with LLM integration and multi-agent capabilities
+- [infiniflow/ragflow](https://deepwiki.com/infiniflow/ragflow): Open-source RAG engine combining document understanding with conversational AI
 
-## API SDKs & Client Libraries
+## API Clients & SDKs
 
-- [openai/openai-python](https://deepwiki.com/openai/openai-python): Official client library for OpenAI API endpoints
-- [anthropics/anthropic-sdk-python](https://deepwiki.com/anthropics/anthropic-sdk-python): Official Claude API client with async support
+- [openai/openai-python](https://deepwiki.com/openai/openai-python): Official type-safe Python client for OpenAI REST API with async support
+- [anthropics/anthropic-sdk-python](https://deepwiki.com/anthropics/anthropic-sdk-python): Official Claude API client with sync/async and tool system
+- [colinhacks/zod](https://deepwiki.com/colinhacks/zod): TypeScript schema validation library with runtime type checking and inference
 
-## Development Tools & Infrastructure
+## Infrastructure & Data Systems
 
-- [microsoft/vscode](https://deepwiki.com/microsoft/vscode): VS Code architecture overview: editor systems, extensions, workbench, debugging
-- [microsoft/playwright](https://deepwiki.com/microsoft/playwright): Cross-browser web automation and testing framework overview
-- [celery/celery](https://deepwiki.com/celery/celery): Distributed task queue framework architecture and concurrency models
-- [redis/redis](https://deepwiki.com/redis/redis): In-memory data structure store architecture and internals overview
-- [colinhacks/zod](https://deepwiki.com/colinhacks/zod): TypeScript-first schema validation library with static type inference
+- [redis/redis](https://deepwiki.com/redis/redis): In-memory data store with architecture, persistence, replication, and clustering
+- [celery/celery](https://deepwiki.com/celery/celery): Distributed task queue framework with worker architecture and message brokers
+- [Tencent/ncnn](https://deepwiki.com/Tencent/ncnn): High-performance neural network inference framework for mobile and edge devices
 
-## Machine Learning & Neural Networks
+## Developer Tools & Utilities
 
-- [Tencent/ncnn](https://deepwiki.com/Tencent/ncnn): High-performance neural network inference for mobile and edge devices
-- [opendatalab/MinerU](https://deepwiki.com/opendatalab/MinerU): High-accuracy PDF/image parsing to Markdown and JSON formats
-
-## Visualization & Search
-
-- [mermaid-js/mermaid](https://deepwiki.com/mermaid-js/mermaid): JavaScript diagram visualization library with plugin system
+- [microsoft/vscode](https://deepwiki.com/microsoft/vscode): VS Code architecture overview: source layout, multi-process runtime, and subsystems
+- [microsoft/playwright](https://deepwiki.com/microsoft/playwright): Cross-browser web automation and testing framework for Chromium, Firefox, and WebKit
+- [mermaid-js/mermaid](https://deepwiki.com/mermaid-js/mermaid): Diagram visualization library with architecture and rendering pipeline
 - [nextapps-de/flexsearch](https://deepwiki.com/nextapps-de/flexsearch): High-performance full-text search library for browser and Node.js
+
+## Document Processing & Optimization
+
+- [opendatalab/MinerU](https://deepwiki.com/opendatalab/MinerU): Document parsing tool converting PDFs and images to Markdown and JSON
+- [linshenkx/prompt-optimizer](https://deepwiki.com/linshenkx/prompt-optimizer): Multi-platform AI prompt optimization tool with monorepo architecture
 
 ## Optional
 
-- [linshenkx/prompt-optimizer](https://deepwiki.com/linshenkx/prompt-optimizer): Multi-platform AI prompt optimization tool with monorepo structure
-- [hackjutsu/Lepton](https://deepwiki.com/hackjutsu/Lepton): Electron desktop app for GitHub Gist code snippet management
+- [hackjutsu/Lepton](https://deepwiki.com/hackjutsu/Lepton): Code snippet manager Electron app with GitHub integration and desktop features
+- [DeepWiki Homepage](https://deepwiki.com): Conversational AI documentation platform for code repositories

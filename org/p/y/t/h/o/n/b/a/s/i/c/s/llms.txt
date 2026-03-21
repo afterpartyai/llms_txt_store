@@ -1,0 +1,61 @@
+# Python Basics
+
+> A comprehensive Python programming tutorial covering fundamentals, data structures, control flow, and best practices for beginners learning Python 3.
+
+Python Basics provides structured lessons and exercises for learning Python programming from the ground up. The site emphasizes practical code examples and covers essential concepts needed for data science, machine learning, and general software development.
+
+## Key Topics
+
+- Python 3
+- Object-Oriented Programming
+- Control Flow
+- Data Structures
+- Functions
+- String Manipulation
+- Lists
+- Variables and Types
+- Loops
+- Conditionals
+- IDE Setup
+- PyCharm
+- Code Examples
+- Beginner Tutorial
+- Programming Basics
+
+## Getting Started
+
+- [Learn Python Programming - Python Tutorial](https://pythonbasics.org): Homepage for Complete Python Programming Course covering Python 3, OOP, and basics
+- [Getting started - Python Tutorial](https://pythonbasics.org/getting-started): Setup guide for Python with python.org, PyCharm IDE, and environment configuration
+- [Why Python is Awesome - Python Tutorial](https://pythonbasics.org/why-python-is-awesome): Introduction article explaining Python's beginner-friendly design and use cases
+- [7 reasons to learn python - Python Tutorial](https://pythonbasics.org/7-reasons-to-learn-python): Article on Python's advantages vs Java/C++ for data science and machine learning
+- [Execute Python scripts - Python Tutorial](https://pythonbasics.org/execute-python-scripts): Tutorial on running Python scripts via terminal and PyCharm on Windows, Mac, Linux
+
+## Core Language Fundamentals
+
+- [Variables and Types - Python Tutorial](https://pythonbasics.org/variables): Guide to Python variables, data types (integers, floats, strings), and naming conventions
+- [If Statements Explained - Python Tutorial](https://pythonbasics.org/if-statements): Tutorial on Python conditional statements, boolean conditions, and control flow
+- [Python "for" Loops (Iteration Introduction) - Python Tutorial](https://pythonbasics.org/for-loops): Guide to Python for loops and iteration with practical code examples
+- [Python "while" Loops (Indefinite Iteration) - Python Tutorial](https://pythonbasics.org/while-loop): Tutorial on Python while loops for indefinite iteration and loop control
+- [Functions in Python (With Examples) - Python Tutorial](https://pythonbasics.org/functions): Guide to Python functions with parameters, return values, and code reusability
+- [How to read keyboard-input? - Python Tutorial](https://pythonbasics.org/keyboard-input): Guide to user input in Python 2 and 3 using input() and raw_input() functions
+
+## Data Structures
+
+- [Python Lists (With Examples) - Python Tutorial](https://pythonbasics.org/list): Tutorial on Python lists as data structures with indexing and operations
+- [List operations - Python Tutorial](https://pythonbasics.org/list-operations): Reference for Python list methods including append(), pop(), and access operations
+- [Python Strings (With Examples) - Python Tutorial](https://pythonbasics.org/strings): Tutorial on Python strings with indexing, slicing, and text manipulation examples
+
+## String Methods & Operations
+
+- [Python String replace() Method - Python Tutorial](https://pythonbasics.org/replace): Reference for Python's string replace() method with code examples
+- [Python String split() Method - Python Tutorial](https://pythonbasics.org/split): Reference for Python's split() method for string manipulation and parsing
+- [join() function in Python - Python Tutorial](https://pythonbasics.org/join): Reference for Python's join() function for string concatenation
+- [String find() in Python - Python Tutorial](https://pythonbasics.org/string-find): Reference for Python's find() method for string searching and comparison
+
+## Practical Topics
+
+- [Generate Random Numbers in Python - Python Tutorial](https://pythonbasics.org/random-numbers): Tutorial on Python's random module with random(), randrange(), uniform() functions
+
+## Practice & Exercises
+
+- [Python Exercises - Python Tutorial](https://pythonbasics.org/exercises): Practice problems for Python fundamentals including variables, loops, conditionals

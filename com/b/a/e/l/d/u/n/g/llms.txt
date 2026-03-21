@@ -1,36 +1,36 @@
 # Baeldung
 
-> A comprehensive resource for Java, Spring, and web development tutorials with transparent site analytics and public iteration practices.
+> A comprehensive resource for Java, Spring, and web development tutorials with transparent business metrics and community-driven content.
 
-Baeldung is a widely-used educational platform focused on Java and Spring technologies, featuring hands-on tutorials, courses, and detailed technical guides. The site maintains transparency through Meta Baeldung, which shares quarterly reports, traffic analytics, and content strategy updates with the community.
+Baeldung provides in-depth technical tutorials, courses, and guides for developers learning Java, Spring Framework, REST APIs, and related technologies. The site maintains transparent quarterly reports on traffic, strategy, and business metrics, demonstrating a commitment to open communication with its audience.
 
 ## Key Topics
 
-- Java
 - Spring Framework
-- Spring Boot
-- REST APIs
+- Spring MVC
+- REST API
 - CRUD Operations
-- Spring Controllers
-- Course Development
+- Java
+- Controller Development
+- @PathVariable
+- HTTP
 - CI/CD
 - Jenkins
-- Public Iteration
-- Traffic Analytics
-- Content Strategy
-- Quarterly Reports
 - GitHub
 - Postman
+- Business Metrics
+- Traffic Analytics
+- Content Strategy
 
-## Site Overview & About
+## Learning & Courses
 
-- [About | Meta Baeldung](http://meta.baeldung.com/about): About page detailing Baeldung's Java/web focus and public iteration process
-- [Meta Baeldung](http://meta.baeldung.com/): Meta Baeldung hub sharing quarterly reports, traffic analytics, and site updates
+- [Lesson 2: Expanding Our First Controller](https://courses.baeldung.com/courses/487981/lectures/10132704): Spring MVC controller development tutorial covering REST APIs and CRUD operations
 
-## Spring & REST API Courses
+## About & Company
 
-- [Lesson 2: Expanding Our First Controller | Baeldung - Learn Spring](https://courses.baeldung.com/courses/487981/lectures/10132704): Spring 5/Boot 2 tutorial covering controller expansion, CRUD, and REST APIs
+- [About Baeldung](http://meta.baeldung.com/about): About Baeldung: Java and web tech site sharing traffic metrics and public iteration
+- [Meta Baeldung](http://meta.baeldung.com/): Baeldung's transparent quarterly reports and business metrics on traffic and strategy
 
 ## Optional
 
-- [Dashboard - Jenkins](https://jenkins.baeldung.com/): Jenkins CI/CD dashboard monitoring Baeldung build status and project health
+- [Dashboard - Jenkins](https://jenkins.baeldung.com/): Jenkins CI/CD build dashboard for Baeldung tutorials project monitoring

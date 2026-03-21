@@ -1,0 +1,48 @@
+# Train in Data Blog
+
+> A comprehensive resource for machine learning practitioners covering hyperparameter tuning, data preprocessing, feature engineering, and practical data science skills.
+
+Train in Data's blog provides in-depth tutorials and guides on machine learning techniques, data preprocessing methods, and competitive data science. The site features contributions from experts like Sole Galli and covers popular tools and libraries including scikit-learn, XGBoost, and specialized techniques for real-world ML challenges.
+
+## Key Topics
+
+- Machine Learning
+- Hyperparameter Tuning
+- Feature Engineering
+- Imbalanced Data
+- SMOTE
+- Data Preprocessing
+- Python
+- scikit-learn
+- XGBoost
+- Time Series Forecasting
+- Data Science Competitions
+- Kaggle
+- Class Imbalance
+- Outlier Handling
+- Probability Calibration
+
+## Hyperparameter Tuning & Model Optimization
+
+- [The Ultimate Guide to Deep Learning Hyperparameter Tuning](https://www.blog.trainindata.com/the-ultimate-guide-to-deep-learning-hyperparameter-tuning): Comprehensive guide to hyperparameter tuning methods for neural networks
+- [Grid Search vs Random Search: Which One Should You Use?](https://www.blog.trainindata.com/grid-search-vs-random-search-which-one-should-you-use): Comparison of Grid Search and Random Search hyperparameter tuning methods
+- [The Complete Guide to Platt Scaling](https://www.blog.trainindata.com/complete-guide-to-platt-scaling): Guide to Platt scaling for probability calibration in classification models
+
+## Handling Imbalanced Data
+
+- [Should You Use Imbalanced-Learn in 2025?](https://www.blog.trainindata.com/should-you-use-imbalanced-learn-in-2025): Analysis of Imbalanced-Learn library and SMOTE for handling class imbalance
+- [ADASYN: Adaptive Synthetic Sampling for Imbalanced Datasets](https://www.blog.trainindata.com/adasyn-adaptive-synthetic-sampling-for-imbalanced-datasets): Critical evaluation of ADASYN oversampling technique for imbalanced data
+
+## Data Preprocessing & Feature Engineering
+
+- [Winsorization: Handling Outliers in Machine Learning](https://www.blog.trainindata.com/winsorization-handling-outliers-in-machine-learning): Tutorial on Winsorization technique for outlier handling with Python examples
+- [Is Boruta dead?](https://www.blog.trainindata.com/is-boruta-dead): In-depth analysis of Boruta feature selection algorithm and its applications
+- [A Comprehensive Guide to Complete Case Analysis](https://www.blog.trainindata.com/a-comprehensive-guide-to-complete-case-analysis): Guide to Complete Case Analysis for handling missing data in machine learning
+
+## Time Series Forecasting
+
+- [Moving Average Forecasting: What You Need to Know](https://www.blog.trainindata.com/master-moving-average-forecasting): Tutorial on moving average forecasting techniques for time series prediction
+
+## Data Science Competitions & Skill Development
+
+- [Best Data Science Competition Websites in 2026](https://www.blog.trainindata.com/best-data-science-competition-websites-in-2026): Guide to top data science competition platforms like Kaggle and Codabench
