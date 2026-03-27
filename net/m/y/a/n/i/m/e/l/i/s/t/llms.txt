@@ -1,56 +1,91 @@
 # MyAnimeList
+> MyAnimeList is a large anime and manga database and community for tracking titles, reading reviews, following news, and joining discussions.
 
-> > MyAnimeList is the world's most comprehensive anime and manga database, tracking thousands of series, movies, OVAs, and specials with community ratings and reviews.
+MyAnimeList.net combines catalog pages for anime, manga, characters, people, studios, and seasonal lineups with social features such as personal lists, recommendations, clubs, forums, and reviews. It also provides rankings, news, featured articles, and industry reference data used by fans to discover and organize what they watch and read.
 
-MyAnimeList.net serves as the premier destination for anime fans to discover, track, and discuss Japanese animation across all formats (TV series, movies, OVAs, ONAs, specials). The platform aggregates data from studios like Shin-Ei Animation, A-1 Pictures, Kyoto Animation, Studio 4°C, and many others, covering genres from comedy and magical girl to sci-fi and supernatural.
+## Core Database
+- [Anime Search](https://myanimelist.net/anime.php): Browse and search the anime database with filters, rankings, and seasonal discovery tools.
+- [Manga Search](https://myanimelist.net/manga.php): Browse and search manga, novels, one-shots, and related publication entries.
+- [Top Anime](https://myanimelist.net/topanime.php): Ranked anime charts by score, popularity, favorites, and category-specific filters.
+- [Top Manga](https://myanimelist.net/topmanga.php): Ranked manga charts covering manga, novels, manhwa, manhua, and one-shots.
+- [Seasonal Anime](https://myanimelist.net/anime/season): Current and upcoming seasonal anime lineup with scores and member counts.
+- [Reviews](https://myanimelist.net/reviews.php): Community-written anime and manga reviews across the database.
+- [Recommendations](https://myanimelist.net/recommendations.php): User recommendations connecting similar anime and manga titles.
+- [Interest Stacks](https://myanimelist.net/stacks): Curated lists grouping anime and manga by themes, moods, or topics.
 
-## Key Topics
+## Community
+- [Forums](https://myanimelist.net/forum/): Community discussion boards for anime, manga, site topics, and clubs.
+- [Clubs](https://myanimelist.net/clubs.php): User-created clubs centered on fandoms, genres, creators, and shared interests.
+- [Users](https://myanimelist.net/users.php): User directory for finding profiles, lists, and community members.
+- [Blog](https://myanimelist.net/blog.php): User blog posts and community updates published on profile-linked blogs.
+- [Featured Articles](https://myanimelist.net/featured): Editorial and community feature articles about anime and manga topics.
+- [News](https://myanimelist.net/news): Anime and manga news, announcements, trailers, and industry updates.
+- [Polls](https://myanimelist.net/forum/?topicid=filter&subboard=9): Official and community poll discussions hosted in the forums.
+- [Support](https://myanimelist.net/forum/?board=4): Site support and feedback forum for technical issues and account questions.
 
-- Anime database and search
-- TV series (tv-anime, tv-series)
-- OVA (Original Video Animation)
-- Anime movies and films
-- Comedy anime
-- Magical girl genre
-- Supernatural anime
-- Sci-fi anime
-- Studio production (Shin-Ei Animation, A-1 Pictures, Kyoto Animation, HAL Film Maker)
-- Anime News Network cross-reference
-- AniDB integration
-- Short films and specials
-- Super-power anime
-- Anime community ratings
+## Personal Lists and Social Features
+- [Anime List](https://myanimelist.net/animelist): Personal anime list tracking watching status, scores, and progress.
+- [Manga List](https://myanimelist.net/mangalist): Personal manga list tracking reading status, scores, and volumes.
+- [History](https://myanimelist.net/history): Account viewing history for recently visited anime, manga, and profiles.
+- [Profile](https://myanimelist.net/profile): User profile hub for lists, favorites, stats, and social activity.
+- [Friends](https://myanimelist.net/profile/friends): Friend connections and social network management from the user profile.
+- [Notifications](https://myanimelist.net/notification): Account notifications for replies, comments, friend activity, and updates.
+- [Messages](https://myanimelist.net/messages.php): Private messaging area for direct communication between users.
 
-## Anime Database & Search
+## Anime Reference
+- [Anime Details](https://myanimelist.net/anime/1): Example anime entry showing synopsis, staff, characters, stats, and related titles.
+- [Anime Characters & Staff](https://myanimelist.net/anime/1/Cowboy_Bebop/characters): Character and staff listing for a specific anime title.
+- [Anime Reviews](https://myanimelist.net/anime/1/Cowboy_Bebop/reviews): Reviews attached to an anime entry with user scores and commentary.
+- [Anime Recommendations](https://myanimelist.net/anime/1/Cowboy_Bebop/userrecs): User recommendations linked from a specific anime page.
+- [Anime Stats](https://myanimelist.net/anime/1/Cowboy_Bebop/stats): Detailed member statistics for watching status and score distribution.
+- [Anime Forum](https://myanimelist.net/anime/1/Cowboy_Bebop/forum): Title-specific discussion threads for an anime entry.
+- [Anime News](https://myanimelist.net/anime/1/Cowboy_Bebop/news): News items associated with a specific anime title.
+- [Anime Pictures](https://myanimelist.net/anime/1/Cowboy_Bebop/pics): Image gallery for an anime entry.
 
-- [Anime - MyAnimeList.net](https://myanimelist.net/anime.php): Main anime database search and browse page with advanced filters
+## Manga Reference
+- [Manga Details](https://myanimelist.net/manga/1): Example manga entry showing synopsis, publication data, and statistics.
+- [Manga Characters](https://myanimelist.net/manga/1/Monster/characters): Character listing for a specific manga title.
+- [Manga Reviews](https://myanimelist.net/manga/1/Monster/reviews): Reviews attached to a manga entry with user impressions and scores.
+- [Manga Recommendations](https://myanimelist.net/manga/1/Monster/userrecs): User recommendations linked from a specific manga page.
+- [Manga Stats](https://myanimelist.net/manga/1/Monster/stats): Detailed member statistics for reading status and score distribution.
+- [Manga Forum](https://myanimelist.net/manga/1/Monster/forum): Title-specific discussion threads for a manga entry.
+- [Manga News](https://myanimelist.net/manga/1/Monster/news): News items associated with a specific manga title.
+- [Manga Pictures](https://myanimelist.net/manga/1/Monster/pics): Image gallery for a manga entry.
 
-## Popular TV Series
+## People, Characters, and Industry Data
+- [Characters](https://myanimelist.net/character.php): Search and browse character profiles across anime and manga entries.
+- [People](https://myanimelist.net/people.php): Search voice actors, staff, authors, and other industry people.
+- [Producers](https://myanimelist.net/anime/producer): Browse anime producers, licensors, and production companies.
+- [Studios](https://myanimelist.net/anime/producer): Reference pages for studios and companies tied to anime entries.
+- [Character Details](https://myanimelist.net/character/1/Lelouch_Lamperouge): Example character page with favorites, roles, and voice actor information.
+- [Person Details](https://myanimelist.net/people/1/Megumi_Hayashibara): Example person page with roles, biography, and related works.
+- [Producer Details](https://myanimelist.net/anime/producer/1/Studio_Pierrot): Example producer page listing associated anime titles.
 
-- [Nichijou (Nichijou - My Ordinary Life, TV 2011) - MyAnimeList.net](https://myanimelist.net/anime/10165): Nichijou slice-of-life comedy by Kyoto Animation (Spring 2011)
-- [Akazukin Chacha (Red Riding Hood Chacha) - MyAnimeList.net](https://myanimelist.net/anime/103/Akazukin_Chacha): Red Riding Hood Chacha magical girl comedy (Winter 1994 TV series)
-- [Shin Shirayuki-hime Densetsu Prétear (TV 2001) - MyAnimeList.net](https://myanimelist.net/anime/100/Shin_Shirayuki-hime_Densetsu_Pr%C3%A9tar): Prétear: The New Legend of Snow White anime series by HAL Film Maker
-- [DD Hokuto no Ken (DD Fist of the North Star) - MyAnimeList.net](https://myanimelist.net/anime/10177/DD_Hokuto_no_Ken): Super-deformed parody of Hokuto no Ken (Fist of the North Star)
-- [Nyanpire The Animation (TV 2011) - MyAnimeList.net](https://myanimelist.net/anime/10197): Nyanpire vampire cat comedy by Gonzo (Summer 2011 short series)
+## Discovery and Rankings
+- [Anime Search by Genre and Theme](https://myanimelist.net/anime.php): Anime discovery using filters for genre, theme, type, status, and demographics.
+- [Manga Search by Genre and Theme](https://myanimelist.net/manga.php): Manga discovery using filters for genre, theme, type, status, and demographics.
+- [Top Airing Anime](https://myanimelist.net/topanime.php?type=airing): Ranking of currently airing anime by user score.
+- [Top Upcoming Anime](https://myanimelist.net/topanime.php?type=upcoming): Ranking of announced upcoming anime by user interest.
+- [Most Popular Anime](https://myanimelist.net/topanime.php?type=bypopularity): Anime ranked by member count and popularity.
+- [Most Favorited Anime](https://myanimelist.net/topanime.php?type=favorite): Anime ranked by how many users marked them as favorites.
+- [Top Manga by Popularity](https://myanimelist.net/topmanga.php?type=bypopularity): Manga ranked by member count and readership popularity.
+- [Top Novels](https://myanimelist.net/topmanga.php?type=novels): Ranking focused on novel entries in the manga database.
 
-## Anime Movies
+## Seasonal and Editorial Content
+- [Seasonal Overview](https://myanimelist.net/anime/season): Seasonal anime hub for current, next, and past seasons.
+- [Spring 2026 Season](https://myanimelist.net/anime/season/2026/spring): Example seasonal page listing anime scheduled for Spring 2026.
+- [Watch Episode Videos](https://myanimelist.net/watch): Streaming and promotional video discovery area on MyAnimeList.
+- [Featured Anime Articles](https://myanimelist.net/featured/tag/anime): Editorial features tagged around anime topics and recommendations.
+- [Featured Manga Articles](https://myanimelist.net/featured/tag/manga): Editorial features tagged around manga topics and reading guides.
+- [News Archive](https://myanimelist.net/news/archive): Archived news posts organized by date.
+- [Preview and Announcement News](https://myanimelist.net/news/tag/preview): News tagged with previews, announcements, and early coverage.
 
-- [Berserk: Ougon Jidai-hen I - Haou no Tamago (Movie 2012) - MyAnimeList.net](https://myanimelist.net/anime/10218/Berserk:_Ougon_Jidaihen_I_-_Haou_no_Tamago): Berserk Golden Age Arc I movie by Studio 4°C (2012)
-- [Break Blade Movie 6: Doukoku no Toride (Broken Blade 6, Movie 2011) - MyAnimeList.net](https://myanimelist.net/anime/10092/Break_Blade_Movie_6__Doukoku_no_Toride): Sixth and final Break Blade movie by Production I.G and Xebec
-- [Black Jack: Obaa-chan (Black Jack: Grandma, Movie 2000) - MyAnimeList.net](https://myanimelist.net/anime/10055/Black_Jack__Obaa-chan): Black Jack short film shown at Tezuka Osamu World in Kyoto
-
-## OVA & Specials
-
-- [Ranma ½ OVA (OVA 1993) - MyAnimeList.net](https://myanimelist.net/anime/1007/Ranma_%C2%BD_OVA): Ranma ½ OVA series by Kitty Films (1993-1994 martial arts comedy)
-- [Ore no Imouto ga Konnani Kawaii Wake ga Nai Specials - MyAnimeList.net](https://myanimelist.net/anime/10020/Ore_no_Imouto_ga_Konnani_Kawaii_Wake_ga_Nai_Specials): OreImo alternative ending specials by AIC Build (ONA series)
-- [Esper Mami Special: My Angel Mami-chan (TV Special 1988) - MyAnimeList.net](https://myanimelist.net/anime/10000/Esper_Mami_Special__My_Angel_Mami-chan): Esper Mami TV special episode by Shin-Ei Animation (1988)
-- [Yakumotatsu (Eight Clouds Rising) - MyAnimeList.net](https://myanimelist.net/anime/1026/Yakumotatsu): Eight Clouds Rising supernatural OVA by Studio Pierrot
-- [Anemone - MyAnimeList.net](https://myanimelist.net/anime/10516/Anemone): Anemone short drama OVA about internal journey and self-discovery
-
-## Optional
-
-- [Generator Gawl - MyAnimeList.net](https://myanimelist.net/anime/1022/Generator_Gawl): Time travel sci-fi by Tatsunoko Production (Fall 1998 TV series)
-- [Bada-ui Jeonseol Jangbogo (The Legend of Blue) - MyAnimeList.net](https://myanimelist.net/anime/10194/Bada-ui_Jeonseol_Jangbogo): Futuristic submarine mercenary anime series (The Legend of Blue)
-- [Ultra B (TV 1987) - MyAnimeList.net](https://myanimelist.net/anime/10250/Ultra_B): Ultra B alien child comedy by Shin-Ei Animation (Spring 1987)
-- [Manga Doushite Monogatari - MyAnimeList.net](https://myanimelist.net/anime/10136/Manga_Doushite_Monogatari): 1984 educational kids anime by DAX Production (TV series)
-- [Otokonoko Ojousama (Crossdresser and Princess, OVA 2011) - MyAnimeList.net](https://myanimelist.net/anime/10429/Otokonoko_Ojousama): Adult crossdressing OVA by Mouse (2011)
+## Account and Platform
+- [Login](https://myanimelist.net/login.php): Sign in to access lists, social features, and account settings.
+- [Register](https://myanimelist.net/register.php): Create a MyAnimeList account for tracking and community participation.
+- [About MyAnimeList](https://myanimelist.net/about.php): Overview of the platform, mission, and core site features.
+- [Terms of Use](https://myanimelist.net/about/terms_of_use): Terms governing use of the MyAnimeList platform and services.
+- [Privacy Policy](https://myanimelist.net/about/privacy_policy): Privacy policy covering account data and platform usage.
+- [Advertising](https://myanimelist.net/advertising): Information for advertisers and brand partnerships on the platform.
+- [Press Room](https://myanimelist.net/pressroom): Press resources and company information for media inquiries.
+- [Contact](https://myanimelist.net/forum/?board=4): Primary support and contact path through official support forums.

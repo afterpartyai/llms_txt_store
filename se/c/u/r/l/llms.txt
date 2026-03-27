@@ -1,57 +1,78 @@
-# curl.se
+# curl
+> The official home of curl and libcurl, the command-line tool and C library for transferring data with URLs.
 
-> > The official home of curl and libcurl, the open-source command-line tool and C library for transferring data with URLs supporting HTTP, HTTPS, FTP, FTPS, MQTT, WebSocket, and 30+ other protocols.
+curl.se hosts downloads, documentation, API references, tutorials, release information, security guidance, and community resources for the curl project maintained by Daniel Stenberg and contributors.
 
-curl is maintained by Daniel Stenberg and the open-source community. The site provides downloads, comprehensive documentation, API references, commercial support options, and community resources for both the curl command-line tool and the libcurl C library used in countless applications worldwide.
+## Project Overview
+- [curl Home](https://curl.se/): Project homepage with overview, supported protocols, latest release, and source code links.
+- [About curl](https://curl.se/docs/): Documentation hub linking tutorials, manuals, FAQs, and protocol-specific guides.
+- [Project Dashboard](https://curl.se/dashboard.html): Development metrics, release statistics, test status, and project activity overview.
+- [Support curl](https://curl.se/support.html): Commercial support options and ways to fund or sponsor curl development.
+- [The curl logo](https://curl.se/logo/): Official curl logos, branding assets, and usage information.
 
-## Key Topics
+## Downloads and Releases
+- [Download curl](https://curl.se/download.html): Source archives, release tarballs, signatures, hashes, and release notes.
+- [curl for Windows](https://curl.se/windows/): Windows binaries, installers, build variants, and verification details.
+- [Release Table](https://curl.se/download.html#releasetable): Historical release list with versions, dates, and package links.
+- [Changes](https://curl.se/changes.html): Detailed changelog covering fixes, features, and protocol updates across releases.
+- [Vulnerabilities](https://curl.se/docs/vulnerabilities.html): Security issue history with affected versions, severity, and fixes.
 
-- curl command-line tool
-- libcurl C library
-- HTTP/HTTPS protocols
-- SSL/TLS certificates
-- data transfer
-- API reference
-- easy interface
-- multi interface
-- WebSocket support
-- open-source
-- FTP/FTPS
-- MQTT protocol
-- CA certificates
-- Windows builds
-- GitHub repository
+## curl Command Documentation
+- [curl.1 man page](https://curl.se/docs/manpage.html): Complete command-line reference for curl options, protocols, and behaviors.
+- [The curl Tutorial](https://curl.se/docs/tutorial.html): Introductory guide to common curl usage patterns and protocol examples.
+- [HTTP scripting with curl](https://curl.se/docs/httpscripting.html): Practical guide to automating HTTP requests and web interactions with curl.
+- [FAQ](https://curl.se/docs/faq.html): Frequently asked questions about usage, builds, protocols, and troubleshooting.
+- [SSLCERTS](https://curl.se/docs/sslcerts.html): How curl verifies TLS certificates and uses CA stores on platforms.
+- [CA Extract](https://curl.se/docs/caextract.html): Mozilla-derived CA certificate bundle in PEM format for curl and libcurl.
 
-## Getting Started
+## Everything curl Book
+- [Everything curl](https://curl.se/book.html): Free online book covering curl, libcurl, internals, protocols, and development.
+- [Everything curl online](https://everything.curl.dev/): Structured web edition of the book with searchable chapters and examples.
+- [Command line basics](https://everything.curl.dev/cmdline): Book section covering curl command-line concepts, syntax, and transfers.
+- [libcurl](https://everything.curl.dev/libcurl): Book section introducing libcurl APIs, handles, callbacks, and usage patterns.
+- [Internals](https://everything.curl.dev/internals): Book section on architecture, state machines, tests, and implementation details.
 
-- [curl](https://curl.se): Homepage for curl & libcurl data transfer tools supporting 35+ protocols
-- [curl - Download](https://curl.se/download.html): Download curl releases, source archives, PGP signatures & changelogs
-- [curl for Windows](https://curl.se/windows): Official curl & libcurl Windows builds with mingw, PGP/minisign verified
-- [curl - Source Code](https://curl.se/dev/source.html): Access curl source code via git repository on GitHub with build info
+## libcurl API Reference
+- [libcurl API Overview](https://curl.se/libcurl/c/): Entry point for the libcurl C API reference and interface documentation.
+- [libcurl tutorial](https://curl.se/libcurl/c/libcurl-tutorial.html): Programming tutorial introducing easy and multi interfaces with examples.
+- [libcurl easy interface](https://curl.se/libcurl/c/libcurl-easy.html): Overview of the easy interface for single transfers and common options.
+- [libcurl multi interface](https://curl.se/libcurl/c/libcurl-multi.html): Overview of concurrent, event-driven transfers using the multi interface.
+- [libcurl share interface](https://curl.se/libcurl/c/libcurl-share.html): Shared data interface for cookies, DNS cache, and connection reuse.
+- [libcurl URL interface](https://curl.se/libcurl/c/libcurl-url.html): URL parsing and manipulation API for structured URL handling.
+- [libcurl WebSocket interface](https://curl.se/libcurl/c/libcurl-ws.html): API overview for WebSocket support in libcurl.
+- [libcurl symbols index](https://curl.se/libcurl/c/symbols-in-versions.html): Symbol availability by version for compatibility and upgrade planning.
 
-## Documentation & Tutorials
+## libcurl Examples and Bindings
+- [libcurl examples](https://curl.se/libcurl/c/example.html): Collection of example C programs demonstrating common libcurl tasks.
+- [libcurl bindings](https://curl.se/libcurl/bindings.html): Community-maintained language bindings for libcurl across many ecosystems.
+- [libcurl internals](https://curl.se/libcurl/): libcurl documentation hub with API, examples, internals, and related resources.
+- [ABI and API](https://curl.se/libcurl/abi.html): Compatibility guarantees and versioning policy for libcurl interfaces.
 
-- [Everything curl](https://curl.se/book.html): Free comprehensive book on curl & libcurl by Daniel Stenberg
-- [curl - Tutorial](https://curl.se/docs/tutorial.html): Beginner tutorial for curl: HTTP, FTP, SSL examples & basic usage guide
-- [libcurl - programming tutorial](https://curl.se/libcurl/c/libcurl-tutorial.html): Programming tutorial for libcurl C API: easy & multi interfaces guide
-- [curl - The Art Of Scripting HTTP Requests Using curl](https://curl.se/docs/httpscripting.html): HTTP scripting guide: automating web requests with curl command-line
+## Development and Source
+- [Source code](https://curl.se/dev/source.html): Source repository access, git information, and development source details.
+- [GitHub repository](https://github.com/curl/curl): Main curl source code repository with issues, pull requests, and releases.
+- [Development docs](https://curl.se/dev/): Developer hub for contributing, testing, internals, and release engineering.
+- [Release procedure](https://curl.se/dev/release-procedure.html): Step-by-step process used to prepare and publish curl releases.
+- [Roadmap](https://curl.se/dev/roadmap.html): Planned work, priorities, and future development ideas for curl.
+- [Test suite](https://curl.se/dev/testsuite.html): Overview of curl's automated test infrastructure and testing approach.
 
-## API Reference
+## Security
+- [Security](https://curl.se/docs/security.html): Security policies, reporting guidance, and general security information for curl.
+- [Security process](https://curl.se/docs/security.html#process): How curl handles vulnerability reports, embargoes, and coordinated disclosure.
+- [Vulnerability disclosure policy](https://curl.se/docs/vuln-disclosure.html): Rules and expectations for reporting security issues responsibly.
+- [Known vulnerabilities](https://curl.se/docs/vulnerabilities.html): Archive of published curl and libcurl security advisories.
+- [CVE statistics](https://curl.se/docs/cve.html): Historical CVE data and security trends for the project.
 
-- [libcurl - API](https://curl.se/libcurl/c): libcurl C API overview: easy, multi, share, URL & WebSocket interfaces
+## Community and Communication
+- [Mailing lists](https://curl.se/mail/): Community mailing lists for users, developers, announcements, and archives.
+- [Mailing list archives](https://curl.se/mail/archive-2025-03/): Public monthly archives of curl mailing list discussions.
+- [IRC and chat](https://curl.se/community.html): Community channels and ways to interact with curl developers and users.
+- [Contributing](https://curl.se/dev/contribute.html): How to contribute code, docs, tests, and bug reports to curl.
+- [Bug bounty](https://curl.se/docs/bugbounty.html): Reward program details for qualifying security vulnerability reports.
 
-## SSL/TLS & Security
-
-- [curl - SSL CA Certificates](https://curl.se/docs/sslcerts.html): Guide to SSL/TLS CA certificate verification with Schannel, SecTrust & more
-- [curl - Extract CA Certs from Mozilla](https://curl.se/docs/caextract.html): Extract Mozilla CA certificates to PEM format (cacert.pem bundle)
-
-## Community & Support
-
-- [curl - Mailing lists](https://curl.se/mail): curl mailing lists: curl-library, curl-users for community support
-- [curl - Commercial Support](https://curl.se/support.html): Commercial support options for curl/libcurl from wolfSSL & Daniel Stenberg
-
-## Optional
-
-- [curl - Project status dashboard](https://curl.se/dashboard.html): curl project metrics: development stats, author activity & code analytics
-- [curl - About curl website](https://curl.se/about.html): About curl.se website: tech stack, Fastly CDN, zero tracking policy
-- [Curl: about TLS session resumption with openssl](https://curl.se/mail/lib-2016-11/0032.html): Mailing list archive: TLS session resumption with OpenSSL discussion
+## Protocols and Features
+- [Protocols](https://curl.se/docs/protdocs.html): Protocol-specific documentation and references for supported transfer protocols.
+- [HTTP](https://curl.se/docs/http-cookies.html): HTTP-related documentation including cookies and web transfer behavior.
+- [FTP](https://curl.se/docs/ftpget.html): FTP usage examples and guidance for transfers with curl.
+- [WebSocket](https://curl.se/docs/websocket.html): Documentation for curl and libcurl WebSocket support and usage.
+- [Feature matrix](https://curl.se/docs/features.html): Overview of major curl and libcurl capabilities and optional features.

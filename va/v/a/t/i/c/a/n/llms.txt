@@ -1,34 +1,74 @@
-# Vatican.va
+# Vatican
+> Official website of the Holy See, providing papal documents, Church teaching, Vatican institutions, news, and liturgical resources.
 
-> > Official digital infrastructure of the Holy See and Vatican City State, providing secure communication systems and administrative services for Vatican personnel and diplomatic operations.
+Vatican.va is the central web presence of the Holy See. It publishes the Magisterium of the Popes, texts of ecumenical councils, the Catechism of the Catholic Church, canon law, Roman Curia information, Vatican archives, museums, and major liturgical and jubilee resources.
 
-Vatican.va serves as the technical backbone for the Holy See's digital operations, hosting email systems powered by Zimbra, passport information portals for diplomatic credentials, and human resources management platforms. These internal services support the administrative and diplomatic functions of the Vatican City State.
+## Papal Documents
+- [The Holy Father](https://www.vatican.va/content/vatican/en/holy-father.html): Main portal to the Pope’s biography, messages, speeches, and official acts.
+- [Pope Francis](https://www.vatican.va/content/francesco/en.html): Official page collecting Pope Francis’s documents, homilies, audiences, and travels.
+- [Benedict XVI](https://www.vatican.va/content/benedict-xvi/en.html): Archive of Benedict XVI’s encyclicals, exhortations, audiences, and speeches.
+- [Saint John Paul II](https://www.vatican.va/content/john-paul-ii/en.html): Extensive archive of John Paul II’s magisterial and pastoral documents.
+- [Paul VI](https://www.vatican.va/content/paul-vi/en.html): Official collection of Paul VI’s teachings, speeches, and apostolic writings.
+- [Pius XII](https://www.vatican.va/content/pius-xii/en.html): Historical archive of Pius XII’s encyclicals, addresses, and messages.
 
-## Key Topics
+## Magisterium and Church Teaching
+- [Encyclicals](https://www.vatican.va/content/vatican/en.html): Vatican portal to major papal and doctrinal texts across pontificates.
+- [Catechism of the Catholic Church](https://www.vatican.va/archive/ENG0015/_INDEX.HTM): Full English text of the Catechism of the Catholic Church.
+- [Code of Canon Law](https://www.vatican.va/archive/cod-iuris-canonici/cic_index_en.html): Official English text of the 1983 Latin Code of Canon Law.
+- [Code of Canons of the Eastern Churches](https://www.vatican.va/archive/cod-iuris-canonici/cceo_index_en.html): Official English text of the Eastern Catholic canonical code.
+- [Compendium of the Social Doctrine of the Church](https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_en.html): Authoritative summary of Catholic social teaching principles and applications.
+- [Roman Missal and Liturgical Texts](https://www.vatican.va/roman_curia/congregations/ccdds/index.htm): Liturgical and sacramental resources from the dicastery responsible for divine worship.
 
-- Holy See
-- Vatican City State
-- Zimbra webmail
-- Diplomatic passports
-- Service passports
-- Vatican authentication
-- Zucchetti HR
-- Vatican telecommunications
-- ePass system
-- Vatican IT services
-- Holy See documents
-- Vatican employee portal
-- Secure messaging
+## Councils, Synods, and Major Texts
+- [Second Vatican Ecumenical Council](https://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm): Constitutions, decrees, declarations, and related Vatican II materials.
+- [Council of Trent](https://www.vatican.va/archive/hist_councils/trent/index.htm): Historical archive for the Council of Trent and its decrees.
+- [First Vatican Council](https://www.vatican.va/archive/hist_councils/i-vatican-council/index.htm): Documents and historical materials from Vatican I.
+- [Synod of Bishops](https://www.vatican.va/roman_curia/synod/index.htm): Official information and documents for the Synod of Bishops.
+- [Apostolic Constitutions](https://www.vatican.va/content/francesco/en/apost_constitutions.index.html): Papal constitutions issued during the pontificate of Pope Francis.
+- [Apostolic Exhortations](https://www.vatican.va/content/francesco/en/apost_exhortations.index.html): Apostolic exhortations of Pope Francis in official Vatican publication.
 
-## Email and Communication Systems
+## Roman Curia and Institutions
+- [Roman Curia](https://www.vatican.va/roman_curia/index.htm): Directory of dicasteries, tribunals, offices, and Vatican institutions.
+- [Secretariat of State](https://www.vatican.va/roman_curia/secretariat_state/index.htm): Information on the Holy See’s principal coordinating and diplomatic office.
+- [Dicastery for the Doctrine of the Faith](https://www.vatican.va/roman_curia/congregations/cfaith/index.htm): Doctrinal documents, norms, and institutional information.
+- [Dicastery for Divine Worship and the Discipline of the Sacraments](https://www.vatican.va/roman_curia/congregations/ccdds/index.htm): Liturgical norms, sacramental discipline, and official decrees.
+- [Dicastery for Bishops](https://www.vatican.va/roman_curia/congregations/cbishops/index.htm): Information and documents related to bishops and ecclesiastical governance.
+- [Apostolic Penitentiary](https://www.vatican.va/roman_curia/tribunals/apost_penit/index.htm): Tribunal information concerning indulgences and matters of conscience.
+- [Prefecture of the Papal Household](https://www.vatican.va/roman_curia/prefecture/index.htm): Information on papal audiences and ceremonial arrangements.
 
-- [Vaticano Webmail Sign In](https://autodiscover.vatican.va/): Vatican Zimbra webmail login for telecommunications and IT services
-- [Zimbra Web Client Sign In](https://posta2.vatican.va/): Vatican Zimbra web client email login and messaging platform
+## Liturgy, Prayer, and Jubilee
+- [Liturgical Year](https://www.vatican.va/news_services/liturgy/index.htm): Calendar and liturgical celebrations of the Holy Father.
+- [Roman Curia Spiritual Exercises](https://www.vatican.va/roman_curia/spiritual_exercises/index.htm): Materials and archives for annual spiritual exercises.
+- [The Holy Rosary](https://www.vatican.va/special/rosary/documents/misteri_en.html): Vatican presentation of the mysteries of the Rosary.
+- [Jubilee 2000 Archive](https://www.vatican.va/jubilee_2000/index.html): Historical resources and documents from the Great Jubilee.
+- [Holy Year and Jubilee Resources](https://www.vatican.va/content/vatican/en.html): Central Vatican portal linking current liturgical and jubilee materials.
 
-## Diplomatic and Administrative Services
+## Vatican News and Communications
+- [Vatican News Portal](https://www.vatican.va/content/vatican/en.html): Main Vatican entry point with links to current communications and resources.
+- [Press Office of the Holy See](https://www.vatican.va/roman_curia/secretariat_state/index.htm): Institutional information related to Holy See communications and governance.
+- [Papal Messages for World Communications Day](https://www.vatican.va/content/francesco/en/messages/communications.index.html): Annual papal messages on media, communication, and digital culture.
+- [General Audiences](https://www.vatican.va/content/francesco/en/audiences.index.html): Texts of weekly papal general audiences.
+- [Angelus](https://www.vatican.va/content/francesco/en/angelus.index.html): Angelus and Regina Caeli addresses of Pope Francis.
+- [Homilies](https://www.vatican.va/content/francesco/en/homilies.index.html): Official homilies delivered by Pope Francis for liturgical celebrations.
 
-- [ePass Vatican Portal](https://epass.vatican.va/): Holy See passport information portal for diplomatic and service passports
+## Archives and Libraries
+- [Vatican Apostolic Archive](https://www.vatican.va/archive/ENG1104/_INDEX.HTM): Information and historical resources related to the Vatican Apostolic Archive.
+- [Vatican Secret Archives Historical Pages](https://www.vatican.va/archive/index.htm): Entry point to Vatican archival collections and historical texts.
+- [Vatican Library](https://www.vatican.va/archive/bibliotheca/index.htm): Information on the Vatican Library and its heritage collections.
+- [Acta Apostolicae Sedis](https://www.vatican.va/archive/aas/index_sp.htm): Archive of the Holy See’s official gazette.
+- [Fundamental Agreement and Treaty Texts](https://www.vatican.va/archive/ENG1104/_INDEX.HTM): Archival legal and institutional texts preserved by the Holy See.
 
-## Human Resources and Employee Systems
+## Vatican City and Cultural Heritage
+- [Vatican Museums](https://www.museivaticani.va/): Official portal of the Vatican Museums and collections.
+- [Saint Peter’s Basilica](https://www.vatican.va/various/basiliche/san_pietro/index_it.htm): Information and historical material on Saint Peter’s Basilica.
+- [Vatican Gardens](https://www.vatican.va/various/index.html): Access point to various Vatican cultural and institutional resources.
+- [Necropolis of the Via Triumphalis](https://www.vatican.va/various/necropoli/index.html): Archaeological information on Vatican necropolis excavations.
+- [Vatican Philatelic and Numismatic Office](https://www.vaticanstate.va/): Vatican City State portal for stamps, coins, and state services.
 
-- [Vatican HR Portal Login](https://attualita.vatican.va/): Vatican HR Portal employee authentication and access system
+## Multilingual and Reference Resources
+- [English Vatican Portal](https://www.vatican.va/content/vatican/en.html): Main English-language homepage for Vatican resources and institutions.
+- [Italian Vatican Portal](https://www.vatican.va/content/vatican/it.html): Main Italian-language homepage for Vatican resources and institutions.
+- [Spanish Vatican Portal](https://www.vatican.va/content/vatican/es.html): Main Spanish-language homepage for Vatican resources and institutions.
+- [French Vatican Portal](https://www.vatican.va/content/vatican/fr.html): Main French-language homepage for Vatican resources and institutions.
+- [German Vatican Portal](https://www.vatican.va/content/vatican/de.html): Main German-language homepage for Vatican resources and institutions.
+- [Archive Index](https://www.vatican.va/archive/index.htm): Central index to Vatican archival texts, councils, and legal documents.

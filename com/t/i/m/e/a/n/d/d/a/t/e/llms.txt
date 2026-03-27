@@ -1,32 +1,64 @@
 # timeanddate.com
+> Global reference site for current time, time zones, calendars, holidays, weather, and astronomy tools.
 
-> A comprehensive global timekeeping resource providing real-time world clock data, timezone information, and time-related tools for worldwide cities.
+timeanddate.com provides reliable online tools and reference data for world clocks, time zone conversion, daylight saving time, calendars, holidays, sun and moon information, eclipses, and live event tracking.
 
-timeanddate.com specializes in accurate time information and timezone management across major cities globally. The site offers both interactive world clocks and embeddable widgets for websites, serving users who need to coordinate time across different regions or track current time in multiple locations.
+## World Clock
+- [World Clock](https://www.timeanddate.com/worldclock/): Current local time for cities worldwide with weather, time zone, and daylight information.
+- [Extended World Clock](https://www.timeanddate.com/worldclock/full.html): Expanded world clock table with many cities and detailed time data.
+- [Personal World Clock](https://www.timeanddate.com/worldclock/personal.html): Create a customized world clock for selected cities and locations.
+- [UTC Time](https://www.timeanddate.com/worldclock/timezone/utc): Current UTC time with offset details and related time zone information.
+- [Clock for Your Site](https://www.timeanddate.com/clocks/free.html): Free embeddable clocks and widgets for websites and blogs.
 
-## Key Topics
+## Time Zones & Conversion
+- [Time Zones](https://www.timeanddate.com/time/): Reference hub for time zone information, offsets, and daylight saving rules.
+- [Time Zone Converter](https://www.timeanddate.com/worldclock/converter.html): Convert times between cities, countries, and time zones worldwide.
+- [Meeting Planner](https://www.timeanddate.com/worldclock/meeting.html): Find suitable meeting times across multiple cities and time zones.
+- [Event Time Announcer](https://www.timeanddate.com/worldclock/fixedform.html): Share an event time that automatically converts for each viewer.
+- [Time Zone Map](https://www.timeanddate.com/time/map/): Interactive world map showing time zones and current offsets.
+- [DST Changes Worldwide](https://www.timeanddate.com/time/dst/): Daylight saving time schedules, changes, and upcoming transitions worldwide.
 
-- world clock
-- time zones
-- current time
-- global cities
-- timezone support
-- DST (Daylight Saving Time)
-- city comparison
-- local times
-- clock widgets
-- embedded clocks
-- timezone reference
-- worldwide time
-- New York
-- London
-- Tokyo
+## Calendars & Holidays
+- [Calendar](https://www.timeanddate.com/calendar/): Online calendars with printable formats and date-related tools.
+- [Holidays Worldwide](https://www.timeanddate.com/holidays/): Public holidays, observances, and country-specific holiday calendars.
+- [Date Calculator](https://www.timeanddate.com/date/): Calculate durations, add or subtract dates, and compare calendar dates.
+- [Week Number Calculator](https://www.timeanddate.com/date/weeknumber.html): Find week numbers for dates and calendar systems.
+- [Business Date Calculator](https://www.timeanddate.com/date/workdays.html): Calculate working days and business date ranges.
+- [Calendar & Holiday News](https://www.timeanddate.com/news/calendar/): News and updates about calendars, holidays, and observances.
 
-## World Clock & Time Tools
+## Sun, Moon & Astronomy
+- [Astronomy](https://www.timeanddate.com/astronomy/): Astronomy tools and reference information for sun, moon, and sky events.
+- [Sun & Moon](https://www.timeanddate.com/astronomy/): Sunrise, sunset, moon phases, and twilight data for locations worldwide.
+- [Moon Phases](https://www.timeanddate.com/moon/phases/): Moon phase calendars and phase timing for locations around the world.
+- [Sunrise and Sunset](https://www.timeanddate.com/sun/): Sunrise, sunset, dawn, dusk, and daylight length by location.
+- [Eclipses](https://www.timeanddate.com/eclipse/): Solar and lunar eclipse dates, maps, visibility, and viewing information.
+- [Astronomy News](https://www.timeanddate.com/news/astronomy/): News covering eclipses, solstices, equinoxes, and other sky events.
 
-- [The World Clock — Worldwide](https://www.timeanddate.com/worldclock): World clock displaying current time across major cities with timezone and DST support.
-- [The World Clock (extended version)](https://www.timeanddate.com/worldclock/full.html): Extended world clock with comprehensive city listings, weather, sunrise/sunset data.
+## Weather
+- [Weather](https://www.timeanddate.com/weather/): Current weather and forecasts for cities worldwide.
+- [Weather Forecast](https://www.timeanddate.com/weather/): Local weather conditions with hourly and extended forecasts.
+- [Weather Around the World](https://www.timeanddate.com/weather/?sort=1): Browse weather information for major cities globally.
+- [Past Weather](https://www.timeanddate.com/weather/): Historical and recent weather information for supported locations.
 
-## Developer Resources
+## Timers, Alarms & Productivity Tools
+- [Online Timer](https://www.timeanddate.com/timer/): Countdown timer for tasks, events, presentations, and everyday timing needs.
+- [Online Stopwatch](https://www.timeanddate.com/stopwatch/): Web stopwatch with lap timing and precision time measurement.
+- [Countdown to Any Date](https://www.timeanddate.com/countdown/create): Create a live countdown for a custom future date and time.
+- [Time Duration Calculator](https://www.timeanddate.com/date/duration.html): Calculate elapsed time between dates and times.
+- [Alarm Clock](https://www.timeanddate.com/clocks/free.html): Clock-related tools and embeddable time displays for practical use.
 
-- [Free Clocks for Your Website](https://www.timeanddate.com/clocks/free.html): Guide to creating and embedding customizable clock widgets on websites.
+## News & Live Coverage
+- [News Home](https://www.timeanddate.com/news): Latest updates on time, astronomy, calendars, and global events.
+- [News](https://www.timeanddate.com/news/): News archive and category hub for all editorial coverage.
+- [Time Zone News](https://www.timeanddate.com/news/time/): Updates on daylight saving changes, offsets, and time zone policy.
+- [Calendar & Holiday News](https://www.timeanddate.com/news/calendar/): Articles about holidays, calendars, and date-related topics.
+- [Astronomy News](https://www.timeanddate.com/news/astronomy/): Coverage of eclipses, moon phases, solstices, and celestial events.
+- [Live Events](https://www.timeanddate.com/live/): Live streams and real-time coverage of eclipses and notable sky events.
+- [Newsletter](https://www.timeanddate.com/newsletter/): Email newsletter for updates on time, astronomy, and calendar topics.
+
+## Reference & Planning Tools
+- [Moon Calculator](https://www.timeanddate.com/moon/): Moonrise, moonset, illumination, and lunar timing by location.
+- [Sun Calculator](https://www.timeanddate.com/sun/): Detailed solar timing data including twilight and day length.
+- [Seasons](https://www.timeanddate.com/calendar/seasons.html): Dates and times for equinoxes, solstices, and seasonal changes.
+- [Leap Year Calculator](https://www.timeanddate.com/date/leapyear.html): Check leap years and understand leap year rules.
+- [Date to Date Calculator](https://www.timeanddate.com/date/duration.html): Measure exact time spans between two dates and times.

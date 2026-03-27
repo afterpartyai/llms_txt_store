@@ -1,63 +1,90 @@
 # CoinMarketCap
 
-> > CoinMarketCap is the leading cryptocurrency data platform providing real-time prices, market capitalizations, charts, and analytics for thousands of digital assets across multiple blockchains.
+> CoinMarketCap provides real-time cryptocurrency prices, charts, rankings, market capitalization data, and research tools for digital assets.
 
-CoinMarketCap offers comprehensive market data and tracking tools for cryptocurrencies, tokens, NFTs, and blockchain protocols. The platform serves investors, traders, and researchers with live pricing, historical data, technical indicators, and specialized market insights including DeFi yields, token unlocks, and real-world asset tokenization.
+CoinMarketCap tracks thousands of cryptocurrencies, exchanges, sectors, and on-chain market segments. It offers live market data, historical charts, token and exchange profiles, portfolio tools, educational content, and developer access to crypto market data APIs.
 
-## Key Topics
+## Core Market Data
+- [Cryptocurrency Prices, Charts And Market Capitalizations](https://coinmarketcap.com/): Main market overview for cryptocurrencies ranked by market capitalization, price, volume, and circulating supply.
+- [Today’s Cryptocurrency Prices by Market Cap](https://coinmarketcap.com/all/views/all/): Full listing of tracked cryptocurrencies with market data across the entire catalog.
+- [Global Cryptocurrency Charts](https://coinmarketcap.com/charts/): Market-wide charts for total market cap, dominance, volumes, and other aggregate indicators.
+- [Historical Snapshots](https://coinmarketcap.com/historical/): Archived market snapshots showing rankings and prices on past dates.
+- [Top Crypto Gainers and Losers](https://coinmarketcap.com/gainers-losers/): Daily leaderboard of strongest and weakest price performers across tracked assets.
+- [Trending Cryptocurrencies](https://coinmarketcap.com/trending-cryptocurrencies/): Assets currently trending on CoinMarketCap based on platform activity and interest.
+- [Recently Added Cryptocurrencies](https://coinmarketcap.com/new/): Newly listed cryptocurrencies and tokens added to CoinMarketCap tracking.
+- [Categories](https://coinmarketcap.com/cryptocurrency-category/): Crypto sectors and categories grouped by theme, performance, and market capitalization.
 
-- Bitcoin
-- Ethereum
-- Market Capitalization
-- Cryptocurrency Prices
-- Technical Indicators
-- Fear and Greed Index
-- Altcoin Season Index
-- Total Value Locked (TVL)
-- DeFi Yields
-- NFT Statistics
-- Token Unlocks
-- Blockchain Rankings
-- Real-World Assets (RWA)
-- Crypto API
-- CMC Labs
+## Charts and Market Indicators
+- [Spot Market Charts](https://coinmarketcap.com/charts/spot-market/): Aggregate spot trading charts covering exchange activity, volume, and market structure.
+- [Bitcoin Dominance Chart](https://coinmarketcap.com/charts/bitcoin-dominance/): Tracks Bitcoin’s share of the total cryptocurrency market capitalization over time.
+- [Altcoin Season Index](https://coinmarketcap.com/charts/altcoin-season-index/): Indicator showing whether altcoins are outperforming Bitcoin across the market.
+- [Fear and Greed Index](https://coinmarketcap.com/charts/fear-and-greed-index/): Market sentiment indicator summarizing current crypto fear or greed conditions.
+- [Total Crypto Market Cap Chart](https://coinmarketcap.com/charts/total-crypto-market-cap/): Historical chart of aggregate cryptocurrency market capitalization.
+- [Total Value Locked by Chain](https://coinmarketcap.com/charts/tvl/): Visualizes total value locked trends across blockchain ecosystems.
+- [Bitcoin Treasuries](https://coinmarketcap.com/charts/bitcoin-treasuries/): Tracks public company and institutional Bitcoin treasury holdings.
 
-## Core Market Data & Rankings
+## Cryptocurrencies and Tokens
+- [Bitcoin](https://coinmarketcap.com/currencies/bitcoin/): Asset page with Bitcoin price, chart, market cap, supply, and related market data.
+- [Ethereum](https://coinmarketcap.com/currencies/ethereum/): Asset page with Ethereum pricing, chart history, market cap, and token metrics.
+- [Tether USDt](https://coinmarketcap.com/currencies/tether/): Stablecoin profile with market cap, supply, exchange listings, and historical chart data.
+- [BNB](https://coinmarketcap.com/currencies/bnb/): Token page with BNB price, market data, and exchange market listings.
+- [Solana](https://coinmarketcap.com/currencies/solana/): Asset profile with Solana price chart, market cap, and ecosystem links.
+- [XRP](https://coinmarketcap.com/currencies/xrp/): XRP market page with live price, historical chart, and circulating supply data.
+- [Dogecoin](https://coinmarketcap.com/currencies/dogecoin/): Dogecoin profile with market statistics, chart, and trading market listings.
+- [Memecoins Category](https://coinmarketcap.com/view/memes/): Category view for meme-themed cryptocurrencies ranked by market capitalization.
 
-- [Cryptocurrency Prices, Charts And Market Capitalizations](https://coinmarketcap.com): Main homepage with crypto prices, charts, and market cap data for Bitcoin, Ethereum, and thousands of altcoins.
-- [Live Cryptocurrency Charts & Market Data](https://coinmarketcap.com/charts): Live crypto charts with Bitcoin dominance, altcoin season data, and real-time market sentiment.
-- [Cryptocurrency Spot Market Data](https://coinmarketcap.com/charts/spot-market): Spot market data with trading volumes, CEX/DEX activity, and historical performance analytics.
-- [See The Top Crypto Gainers And Losers Today](https://coinmarketcap.com/gainers-losers): Top performing and worst performing cryptocurrencies in the last 24 hours with real-time rankings.
-- [Cryptocurrency Sectors by 24h Price Change](https://coinmarketcap.com/cryptocurrency-category): Browse cryptocurrency sectors and categories ranked by 24-hour price changes and market performance.
-- [What Are The Trending Cryptocurrencies On CoinMarketCap?](https://coinmarketcap.com/trending-cryptocurrencies): Discover trending cryptocurrencies based on price action and search data on CoinMarketCap platform.
+## Exchanges and Trading Data
+- [Cryptocurrency Exchanges](https://coinmarketcap.com/rankings/exchanges/): Rankings for centralized crypto exchanges by traffic, liquidity, and trading volumes.
+- [DEX Rankings](https://coinmarketcap.com/rankings/exchanges/dex/): Decentralized exchange rankings with volume and market share metrics.
+- [Derivatives Exchanges](https://coinmarketcap.com/rankings/exchanges/derivatives/): Rankings for derivatives exchanges based on futures and perpetual trading activity.
+- [Spot Exchanges Heatmap](https://coinmarketcap.com/rankings/exchanges/): Exchange comparison view for major spot trading venues.
+- [Binance Exchange Profile](https://coinmarketcap.com/exchanges/binance/): Exchange page with supported markets, volumes, reserves, and confidence metrics.
+- [Coinbase Exchange Profile](https://coinmarketcap.com/exchanges/coinbase-exchange/): Exchange profile with market listings, liquidity, and trading volume data.
+- [DEXScan](https://coinmarketcap.com/dexscan/): DEX market explorer for on-chain trading pairs, tokens, and decentralized exchange activity.
 
-## Historical Data & Analysis
+## On-Chain, DeFi, and Ecosystems
+- [Chain Ranking](https://coinmarketcap.com/chain-ranking/): Blockchains ranked by total value locked and ecosystem activity.
+- [Yield](https://coinmarketcap.com/yield/): CeFi, DeFi, and stablecoin yield rates across supported platforms and assets.
+- [Token Unlocks](https://coinmarketcap.com/token-unlock/): Upcoming and historical token unlock schedules with supply impact context.
+- [Airdrops](https://coinmarketcap.com/airdrop/): Token airdrop directory with campaign details and participation information.
+- [NFT Collections](https://coinmarketcap.com/nft/): NFT market section covering collections, floor prices, and trading activity.
+- [Real World Assets](https://coinmarketcap.com/view/real-world-assets/): Category view for tokenized real-world asset projects and market performance.
+- [Layer 1 Category](https://coinmarketcap.com/view/layer-1/): Category page for Layer 1 blockchain projects and comparative market data.
+- [DeFi Category](https://coinmarketcap.com/view/defi/): Category page for decentralized finance tokens ranked by market capitalization.
 
-- [Check Cryptocurrency Price History For The Top Coins](https://coinmarketcap.com/historical): Historical price and market cap data for Bitcoin, Ethereum, and other cryptocurrencies since 2013.
-- [Cryptocurrencies Tracked by CoinMarketCap](https://coinmarketcap.com/charts/number-of-cryptocurrencies-tracked): Total cryptocurrency count tracked by CoinMarketCap with historical growth and chain-specific data.
+## Research, News, and Community
+- [CMC News](https://coinmarketcap.com/academy/categories/news): News coverage focused on cryptocurrency markets, projects, regulation, and industry developments.
+- [CoinMarketCap Academy](https://coinmarketcap.com/academy/): Educational hub with explainers, guides, glossaries, and market commentary.
+- [Guides](https://coinmarketcap.com/academy/categories/guides): Step-by-step educational content for crypto concepts, investing, and platform usage.
+- [Glossary](https://coinmarketcap.com/academy/glossary): Definitions for cryptocurrency, blockchain, trading, and DeFi terminology.
+- [Research Articles](https://coinmarketcap.com/academy/categories/research): Longer-form analysis and research content on crypto markets and protocols.
+- [Alexandria Articles](https://coinmarketcap.com/alexandria/): Editorial and educational content covering crypto basics and market topics.
+- [Community](https://coinmarketcap.com/community/): Social and community area for discussions, updates, and user engagement.
 
-## Blockchain & Protocol Data
+## Products and Tools
+- [Portfolio](https://coinmarketcap.com/portfolio-tracker/): Portfolio tracking tool for monitoring holdings, performance, and allocation changes.
+- [Watchlist](https://coinmarketcap.com/watchlist/): Personalized watchlist for following selected cryptocurrencies and market movements.
+- [Converter](https://coinmarketcap.com/converter/): Crypto price converter for comparing digital assets and fiat currencies.
+- [Price Estimates](https://coinmarketcap.com/price-estimates/): Community-driven price prediction pages for tracked cryptocurrencies.
+- [ICO Calendar](https://coinmarketcap.com/ico-calendar/): Calendar of token sales and fundraising events for upcoming crypto projects.
+- [Events Calendar](https://coinmarketcap.com/events/): Schedule of crypto conferences, launches, and ecosystem events.
+- [Learn and Earn](https://coinmarketcap.com/earn/): Educational reward campaigns that combine lessons with token incentives.
+- [Diamond Rewards](https://coinmarketcap.com/diamonds/): Loyalty and rewards program for platform users completing activities.
 
-- [Largest Blockchains in Crypto Ranked by TVL](https://coinmarketcap.com/chain-ranking): Blockchains ranked by total value locked (TVL) with protocol counts and valuation movements.
-- [Public Companies Bitcoin Treasuries](https://coinmarketcap.com/charts/bitcoin-treasuries): Public companies' Bitcoin holdings with real-time data on corporate BTC reserves and adoption.
+## Developers and API
+- [API Documentation](https://coinmarketcap.com/api/documentation/v1/): Reference documentation for CoinMarketCap’s cryptocurrency market data API.
+- [API Overview](https://coinmarketcap.com/api/): Product overview for CoinMarketCap API plans, features, and access options.
+- [API Best Practices](https://coinmarketcap.com/api/documentation/v1/#section/Best-Practices): Guidance for efficient and reliable use of CoinMarketCap API endpoints.
+- [Cryptocurrency Listings Endpoint](https://coinmarketcap.com/api/documentation/v1/#operation/getV1CryptocurrencyListingsLatest): API endpoint for latest cryptocurrency listings and market data.
+- [Quotes Latest Endpoint](https://coinmarketcap.com/api/documentation/v1/#operation/getV1CryptocurrencyQuotesLatest): API endpoint for latest quotes on one or more cryptocurrencies.
+- [Exchange Listings Endpoint](https://coinmarketcap.com/api/documentation/v1/#operation/getV1ExchangeListingsLatest): API endpoint for latest exchange rankings and market statistics.
+- [Global Metrics Endpoint](https://coinmarketcap.com/api/documentation/v1/#operation/getV1GlobalMetricsQuotesLatest): API endpoint for current global cryptocurrency market metrics.
+- [DEX API Overview](https://coinmarketcap.com/api/documentation/dex/): Documentation for CoinMarketCap DEX and on-chain market data APIs.
 
-## DeFi, Yields & Tokenomics
-
-- [Crypto CeFi, DeFi and Stablecoin Yield Rates](https://coinmarketcap.com/yield): Compare DeFi, CeFi, and stablecoin yield rates for Bitcoin, Ethereum, BNB, and other crypto assets.
-- [Token Unlocks and Vesting Schedules](https://coinmarketcap.com/token-unlocks): Token unlock schedules and vesting information for major cryptocurrency projects and tokenomics.
-- [Top Tokenized Real World Assets (RWA) by Market Capitalization](https://coinmarketcap.com/real-world-assets): Track tokenized real-world assets like real estate, bonds, and commodities on blockchain networks.
-
-## New & Upcoming Projects
-
-- [New Cryptocurrencies Listed Today And This Week](https://coinmarketcap.com/new): Recently listed cryptocurrencies including mineable coins, ERC-20 tokens, and DeFi projects.
-- [Best Upcoming Cryptocurrencies](https://coinmarketcap.com/upcoming): Browse upcoming cryptocurrency projects launching on Ethereum, Solana, Cardano, and other blockchains.
-
-## NFTs & Digital Assets
-
-- [Highest Price NFT Stats - Collections and Individual Sales Listed](https://coinmarketcap.com/nft): NFT statistics including highest auction prices, collection data, and individual asset sales.
-- [Upcoming NFT Collections](https://coinmarketcap.com/nft/upcoming): Upcoming NFT collections with launch dates, times, and blockchain hosting information.
-
-## Optional & Specialized Tools
-
-- [What Are The Most Viewed Cryptocurrencies on CoinMarketCap?](https://coinmarketcap.com/most-viewed-pages): Most viewed cryptocurrencies based on real-time CoinMarketCap user activity and page views.
-- [Crypto Prediction Markets - Track Market Predictions](https://coinmarketcap.com/prediction-markets): Crypto prediction markets data aggregator tracking politics, crypto, economics, and sports markets.
+## Company and Platform Information
+- [About CoinMarketCap](https://coinmarketcap.com/about/): Overview of CoinMarketCap, its mission, history, and platform role in crypto markets.
+- [Methodology](https://coinmarketcap.com/methodology/): Explains ranking, liquidity, market pair, and data quality methodologies used on the site.
+- [Glossary of Metrics](https://coinmarketcap.com/alexandria/glossary): Reference glossary for common crypto and market data terminology.
+- [Careers](https://coinmarketcap.com/careers/): Employment opportunities and company information for prospective team members.
+- [Request Form](https://support.coinmarketcap.com/hc/en-us/requests/new): Support request entry point for listings, corrections, and account issues.
+- [Support Center](https://support.coinmarketcap.com/hc/en-us): Help center with articles about listings, products, and account support.

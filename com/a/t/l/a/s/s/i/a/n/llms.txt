@@ -1,67 +1,89 @@
 # Atlassian
 
-> Atlassian provides AI-powered collaboration and work management software for software teams, IT operations, and enterprises.
+> Atlassian provides collaboration, project management, software development, service management, and knowledge-sharing tools for teams.
 
-Atlassian's platform includes flagship products like Jira for project management, Confluence for knowledge collaboration, and Rovo for enterprise AI search. The company offers integrated collections and specialized tools for software development, IT service management, strategic planning, and team productivity.
-
-## Key Topics
-
-- Jira
-- Confluence
-- Rovo
-- Bitbucket
-- AI-powered
-- Project Management
-- Team Collaboration
-- Knowledge Management
-- CI/CD
-- Service Management
-- Enterprise Planning
-- Automation
-- Jira Service Management
-- Rovo Dev
-- Internal Developer Platform
+Atlassian’s platform spans products for software delivery, IT operations, documentation, planning, customer support, and enterprise collaboration. Its core ecosystem includes Jira, Confluence, Trello, Bitbucket, Loom, and Jira Service Management, along with platform services, developer resources, support, and product-specific documentation.
 
 ## Core Products
+- [Jira](https://www.atlassian.com/software/jira): Project and issue tracking software for planning, tracking, and delivering work.
+- [Confluence](https://www.atlassian.com/software/confluence): Team workspace for documentation, knowledge sharing, and collaborative content creation.
+- [Trello](https://www.atlassian.com/software/trello): Visual task and project management using boards, lists, and cards.
+- [Jira Service Management](https://www.atlassian.com/software/jira/service-management): Service management platform for IT, operations, and support teams.
+- [Bitbucket](https://www.atlassian.com/software/bitbucket): Git code collaboration platform with pull requests and CI/CD capabilities.
+- [Loom](https://www.atlassian.com/software/loom): Video messaging and screen recording tool for async communication.
+- [Atlas](https://www.atlassian.com/software/atlas): Teamwork directory and status updates for goals, projects, and teams.
+- [Guard](https://www.atlassian.com/software/guard): Security and identity capabilities for protecting Atlassian cloud organizations.
 
-- [Jira](https://www.atlassian.com/software/jira): Jira project management platform with AI agents for planning and tracking.
-- [Confluence](https://www.atlassian.com/software/confluence): Confluence AI workspace for knowledge management and team collaboration.
-- [Rovo](https://www.atlassian.com/software/rovo): Rovo GenAI product for enterprise search, chat, and specialized agents.
-- [Bitbucket](https://www.atlassian.com/software/bitbucket): Bitbucket code repository with CI/CD and Jira integration.
+## Platform and Enterprise Tools
+- [Rovo](https://www.atlassian.com/software/rovo): AI-powered search, chat, and agents across Atlassian and connected tools.
+- [Compass](https://www.atlassian.com/software/compass): Developer experience platform for software component catalogs and scorecards.
+- [Jira Product Discovery](https://www.atlassian.com/software/jira/product-discovery): Product prioritization and roadmap tool for capturing and evaluating ideas.
+- [Statuspage](https://www.atlassian.com/software/statuspage): Incident communication platform for publishing service status and updates.
+- [Opsgenie](https://www.atlassian.com/software/opsgenie): Alerting and on-call management for incident response teams.
+- [Atlassian Analytics](https://www.atlassian.com/software/analytics): Cross-product analytics and reporting for Atlassian cloud data.
+- [Atlassian Administration](https://www.atlassian.com/software/admin): Centralized administration for users, billing, and organization settings.
 
-## Product Collections
+## Product Documentation
+- [Atlassian Documentation](https://support.atlassian.com/): Central documentation hub for Atlassian cloud and data center products.
+- [Jira Documentation](https://support.atlassian.com/jira-software-cloud/): Product documentation for Jira Software Cloud features and administration.
+- [Confluence Documentation](https://support.atlassian.com/confluence-cloud/): Documentation for Confluence Cloud usage, spaces, pages, and administration.
+- [Jira Service Management Documentation](https://support.atlassian.com/jira-service-management-cloud/): Documentation for service projects, queues, portals, and operations.
+- [Trello Help](https://support.atlassian.com/trello/): Help and documentation for Trello boards, automation, and workspace management.
+- [Bitbucket Cloud Documentation](https://support.atlassian.com/bitbucket-cloud/): Documentation for repositories, pull requests, pipelines, and permissions.
+- [Compass Documentation](https://support.atlassian.com/compass/): Documentation for component catalogs, scorecards, and developer experience workflows.
+- [Statuspage Documentation](https://support.atlassian.com/statuspage/): Documentation for incident communication, pages, components, and subscribers.
 
-- [Teamwork Collection](https://www.atlassian.com/collections/teamwork): Teamwork Collection bundle: Jira, Confluence, Loom, and Rovo agents.
-- [Software Collection](https://www.atlassian.com/collections/software): Software Collection for developer productivity with Rovo Dev and Bitbucket.
-- [Service Collection](https://www.atlassian.com/collections/service): Service Collection for IT and customer service management solutions.
-- [Strategy Collection](https://www.atlassian.com/collections/strategy): Strategy Collection for enterprise planning with Focus, Talent, and Align.
+## Developer Documentation
+- [Atlassian Developer](https://developer.atlassian.com/): Developer portal for building apps, integrations, and extensions on Atlassian.
+- [Forge](https://developer.atlassian.com/platform/forge/): Atlassian’s cloud app platform for building hosted apps and automations.
+- [Connect](https://developer.atlassian.com/cloud/jira/platform/getting-started-with-connect/): Framework for integrating apps with Atlassian cloud products.
+- [Jira Cloud Platform REST API](https://developer.atlassian.com/cloud/jira/platform/rest/v3/intro/): REST API reference for Jira Cloud platform resources and operations.
+- [Confluence Cloud REST API](https://developer.atlassian.com/cloud/confluence/rest/v2/intro/): REST API reference for Confluence Cloud content and space operations.
+- [Jira Software Cloud REST API](https://developer.atlassian.com/cloud/jira/software/rest/): API reference for Jira Software agile boards, sprints, and development data.
+- [Bitbucket Cloud REST API](https://developer.atlassian.com/cloud/bitbucket/rest/): API reference for Bitbucket repositories, workspaces, and pipelines.
+- [OAuth 2.0 for Atlassian Cloud](https://developer.atlassian.com/cloud/jira/platform/oauth-2-3lo-apps/): Guide to authenticating cloud integrations with OAuth 2.0.
 
-## Service & Support Solutions
+## Guides and Learning
+- [Atlassian University](https://university.atlassian.com/): Training courses and learning paths for Atlassian products and administration.
+- [Agile Coach](https://www.atlassian.com/agile): Guides and resources for agile practices, scrum, kanban, and teamwork.
+- [Work Life](https://www.atlassian.com/work-management): Resources and guidance for work management and team collaboration practices.
+- [Team Playbook](https://www.atlassian.com/team-playbook): Plays and workshops for improving teamwork, planning, and execution.
+- [DevOps Guides](https://www.atlassian.com/devops): Resources on DevOps practices, CI/CD, and software delivery workflows.
+- [ITSM Guides](https://www.atlassian.com/itsm): Guidance and resources for modern IT service management practices.
+- [Customer Service Management](https://www.atlassian.com/software/customer-service-management): Solution guidance for support teams managing customer service operations.
 
-- [Jira Service Management](https://www.atlassian.com/software/jira/service-management): Jira Service Management for IT support and employee service delivery.
-- [Customer Service Management](https://www.atlassian.com/software/customer-service-management): Jira Customer Service Management with omnichannel support.
+## Solutions and Collections
+- [Teamwork Collection](https://www.atlassian.com/collections/teamwork): Combined tools for collaboration, planning, knowledge sharing, and AI-assisted teamwork.
+- [Strategy Collection](https://www.atlassian.com/collections/strategy): Products for strategic planning, goals, and enterprise execution alignment.
+- [Software Collection](https://www.atlassian.com/collections/software): Integrated tools for software planning, development, and delivery workflows.
+- [Service Collection](https://www.atlassian.com/collections/service): Products for IT, operations, and support service management.
+- [Software Development](https://www.atlassian.com/solutions/software): Solution overview for planning, building, and shipping software.
+- [IT Service Management](https://www.atlassian.com/solutions/it-service-management): Solution overview for IT support, operations, and service delivery.
+- [Work Management](https://www.atlassian.com/solutions/work-management): Solution overview for business teams managing projects and processes.
+- [Marketing](https://www.atlassian.com/solutions/marketing): Use cases and workflows for marketing planning and campaign collaboration.
 
-## Developer & Technical Tools
+## Support and Administration
+- [Support Home](https://support.atlassian.com/): Entry point for product help, troubleshooting, and account support.
+- [Atlassian Cloud Admin](https://support.atlassian.com/organization-administration/): Documentation for managing organizations, users, and security settings.
+- [Billing and Subscription Management](https://support.atlassian.com/subscriptions-and-billing/): Help for plans, billing, renewals, and subscription administration.
+- [Atlassian Access Support](https://support.atlassian.com/security-and-access-policies/): Documentation for authentication, SSO, and security policy management.
+- [Migration Program](https://www.atlassian.com/migration): Resources for migrating from server or data center to cloud.
+- [Trust Center](https://www.atlassian.com/trust): Security, privacy, compliance, and reliability information for Atlassian products.
+- [System Status](https://status.atlassian.com/): Service availability and incident status for Atlassian cloud products.
 
-- [Rovo Dev](https://www.atlassian.com/software/rovo-dev): Rovo Dev agentic AI for software delivery and developer productivity.
-- [Bitbucket Pipelines](https://www.atlassian.com/software/bitbucket/features/pipelines): Bitbucket Pipelines CI/CD automation with deployment visibility.
-- [Compass](https://www.atlassian.com/software/compass): Compass internal developer platform for service catalog and health metrics.
+## Resources and Community
+- [Atlassian Blog](https://www.atlassian.com/blog): Product news, company updates, and teamwork insights from Atlassian.
+- [Developer Blog](https://www.atlassian.com/blog/developer): Updates and technical articles for Atlassian developers and partners.
+- [The Loop](https://www.atlassian.com/blog/the-loop): News and announcements about Atlassian products and platform changes.
+- [Atlassian Community](https://community.atlassian.com/): Community forums for product questions, best practices, and peer support.
+- [Events](https://events.atlassian.com/): Atlassian conferences, webinars, and product event listings.
+- [Customer Stories](https://www.atlassian.com/customers): Case studies showing how organizations use Atlassian products.
+- [Resource Library](https://www.atlassian.com/resources): Library of ebooks, reports, templates, and product resources.
 
-## Enterprise & Strategic Planning
-
-- [Focus](https://www.atlassian.com/software/focus): Atlassian Focus for strategic planning and goal management.
-- [Talent](https://www.atlassian.com/software/talent): Atlassian Talent for strategic workforce planning and resource allocation.
-- [Jira Product Discovery](https://www.atlassian.com/software/jira/product-discovery): Jira Product Discovery for idea management and roadmapping.
-
-## Collaboration & Communication
-
-- [Loom](https://www.atlassian.com/software/loom): Loom AI-powered video messaging for async team communication.
-
-## Security & Governance
-
-- [Atlassian Guard](https://www.atlassian.com/software/guard): Atlassian Guard for cloud security and zero-trust access management.
-
-## Company & Overview
-
-- [Atlassian Homepage](https://www.atlassian.com): Atlassian homepage showcasing Jira, Confluence, and team collaboration products.
-- [Products](https://www.atlassian.com/software): Atlassian product catalog featuring Jira, Confluence, and enterprise solutions.
+## Pricing and Plans
+- [Jira Pricing](https://www.atlassian.com/software/jira/pricing): Pricing plans and feature tiers for Jira.
+- [Confluence Pricing](https://www.atlassian.com/software/confluence/pricing): Pricing plans and editions for Confluence.
+- [Trello Pricing](https://www.atlassian.com/software/trello/pricing): Pricing information for Trello plans and workspace features.
+- [Jira Service Management Pricing](https://www.atlassian.com/software/jira/service-management/pricing): Pricing plans for service management and support teams.
+- [Bitbucket Pricing](https://www.atlassian.com/software/bitbucket/pricing): Pricing details for Bitbucket cloud repositories and pipelines.
+- [Loom Pricing](https://www.atlassian.com/software/loom/pricing): Pricing plans for video messaging and recording features.

@@ -1,48 +1,80 @@
 # Uber Eats
 
-> Uber Eats is a food and alcohol delivery platform connecting customers with restaurants, grocery stores, and convenience stores for same-day delivery.
+> Uber Eats is an online marketplace for restaurant, grocery, convenience, retail, and alcohol delivery and pickup.
 
-The platform operates globally, offering restaurant meals, alcohol, and grocery delivery through its mobile app and website. Uber Eats partners with major chains like 7-Eleven, Walgreens, Domino's, and local restaurants to provide on-demand delivery services with real-time order tracking.
+Uber Eats helps customers discover nearby merchants, place orders for delivery or pickup, track orders in real time, and manage memberships, payments, and account settings across web and mobile experiences.
 
-## Key Topics
+## Main Experience
+- [Uber Eats Home](https://www.ubereats.com/): Main entry point for browsing restaurants, groceries, and local delivery options.
+- [Sign In](https://www.ubereats.com/login-redirect/): Account sign-in flow for customers accessing orders, addresses, and saved payment methods.
+- [Sign Up](https://www.ubereats.com/signup): Account creation page for new Uber Eats customers.
+- [Checkout](https://www.ubereats.com/checkout): Checkout flow for reviewing cart contents, delivery details, and payment.
+- [Orders](https://www.ubereats.com/orders): Order history and active order tracking for signed-in customers.
+- [Stores Near Me](https://www.ubereats.com/stores): Browse nearby restaurants, grocery stores, and convenience merchants by location.
+- [Pickup](https://www.ubereats.com/store/pickup): Explore pickup-eligible merchants and order ahead without delivery.
+- [Gift Cards](https://www.ubereats.com/us/en/gift-cards/): Purchase Uber and Uber Eats gift cards for personal or business use.
 
-- food delivery
-- alcohol delivery
-- same-day delivery
-- restaurant ordering
-- online ordering
-- order tracking
-- convenience stores
-- grocery delivery
-- liquor stores
-- menu prices
-- 7-Eleven
-- Walgreens
-- SNAP EBT
-- Uber Eats app
+## Help and Support
+- [Uber Eats Help](https://help.uber.com/ubereats): Central help hub for orders, accounts, payments, and delivery issues.
+- [Account and Payment Support](https://help.uber.com/ubereats/account-and-payment): Help articles for login, payment methods, charges, and account settings.
+- [Orders and Delivery Support](https://help.uber.com/ubereats/orders): Support resources for order status, cancellations, refunds, and delivery problems.
+- [Membership and Pass Support](https://help.uber.com/ubereats/article/uber-one-membership-benefits-for-uber-eats-and-uber?nodeId=): Help article covering Uber One membership benefits and usage.
+- [Merchant and Restaurant Support](https://help.uber.com/merchants-and-restaurants): Support hub for merchants using Uber Eats and related tools.
+- [Delivery People Support](https://help.uber.com/driving-and-delivering): Support hub for couriers delivering with Uber Eats and Uber.
 
-## Platform Overview
+## Customer Features
+- [Uber One](https://www.ubereats.com/us/en/uber-one/): Membership program with eligible savings, fees benefits, and member offers.
+- [Group Orders](https://www.ubereats.com/us/en/group-orders/): Shared ordering feature for collecting items from multiple participants in one order.
+- [Pickup Orders](https://www.ubereats.com/us/en/pickup/): Overview of pickup ordering for restaurants and other participating merchants.
+- [Alcohol Delivery](https://www.ubereats.com/us/en/alcohol/): Browse alcohol delivery availability, eligibility, and participating local merchants.
+- [Grocery Delivery](https://www.ubereats.com/us/en/grocery/): Grocery ordering experience for supermarkets and everyday essentials.
+- [Convenience Delivery](https://www.ubereats.com/us/en/convenience/): Convenience store delivery for snacks, drinks, household items, and quick essentials.
+- [Gift Cards](https://www.ubereats.com/us/en/gift-cards/): Customer gift card information and purchasing options.
 
-- [How Does Uber Eats Work? | About Uber Eats](https://about.ubereats.com/): Main about page explaining Uber Eats food delivery and app features
-- [¿Cómo funciona Uber Eats? | Acerca de Uber Eats](https://about.ubereats.com/us/es/): Spanish version of Uber Eats about page with app usage information
+## Merchant Solutions
+- [Uber Eats for Merchants](https://merchants.ubereats.com/): Overview of merchant tools for restaurants, grocery, and retail businesses.
+- [Restaurant Solutions](https://merchants.ubereats.com/us/en/services/restaurant-delivery/): Delivery marketplace tools and ordering solutions for restaurants.
+- [Grocery Solutions](https://merchants.ubereats.com/us/en/industries/grocery/): Merchant information for grocers offering delivery and pickup through Uber Eats.
+- [Retail Solutions](https://merchants.ubereats.com/us/en/industries/retail/): Retail commerce tools for local stores selling non-food items on Uber Eats.
+- [POS Integrations](https://merchants.ubereats.com/us/en/technology/pos/): Point-of-sale integration information for syncing menus, orders, and operations.
+- [Merchant Dashboard](https://merchants.ubereats.com/us/en/): Merchant portal entry for managing menus, stores, and performance.
+- [Get Started as a Merchant](https://merchants.ubereats.com/us/en/get-started/): Onboarding path for businesses joining the Uber Eats marketplace.
 
-## Alcohol Delivery by City
+## Delivery Partners
+- [Deliver with Uber](https://www.uber.com/us/en/deliver/): Overview for couriers earning by delivering food, groceries, and other orders.
+- [Sign Up to Deliver](https://www.uber.com/us/en/deliver/signup/): Courier signup flow for starting delivery work with Uber.
+- [Delivery Requirements](https://www.uber.com/us/en/deliver/requirements/): Eligibility and document requirements for delivery partners.
+- [Vehicle Requirements](https://www.uber.com/us/en/deliver/vehicle-requirements/): Vehicle, bike, scooter, and other transport requirements by market.
+- [Courier Earnings](https://www.uber.com/us/en/deliver/basics/earnings/): Information about how delivery earnings, tips, and payouts work.
+- [Delivery App Overview](https://www.uber.com/us/en/deliver/basics/): Introductory information about delivering with the Uber Driver app.
 
-- [Alcohol Same-Day Delivery in San Francisco | Order Online | Uber Eats](https://www.ubereats.com/alcohol/san-francisco-ca): San Francisco alcohol delivery from 7-Eleven and local stores
-- [Alcohol Same-Day Delivery in Seattle | Order Online | Uber Eats](https://www.ubereats.com/alcohol/seattle-wa): Seattle alcohol delivery from 7-Eleven, Chevron ExtraMile, Rainier AM/PM
-- [Alcohol Same-Day Delivery in New Orleans | Order Online | Uber Eats](https://www.ubereats.com/alcohol/new-orleans-la): New Orleans alcohol delivery from Walgreens, Rouses Markets, liquor stores
-- [Alcohol Same-Day Delivery in Naperville | Order Online | Uber Eats](https://www.ubereats.com/alcohol/naperville-il): Naperville, IL alcohol delivery from Jewel-Osco, Meijer, Walgreens
-- [Alcohol Same-Day Delivery in Saint Petersburg | Order Online | Uber Eats](https://www.ubereats.com/alcohol/saint-petersburg-fl): Saint Petersburg, FL alcohol delivery from convenience stores
-- [Alcohol Same-Day Delivery in Bethpage | Order Online | Uber Eats](https://www.ubereats.com/alcohol/bethpage-ny): Bethpage, NY alcohol delivery from Food Bazaar, 7-Eleven, King Kullen
-- [Alcohol Same-Day Delivery in Hicksville | Order Online | Uber Eats](https://www.ubereats.com/alcohol/hicksville-ny): Hicksville, NY alcohol delivery from 7-Eleven and grocery stores
-- [Alcohol Same-Day Delivery in Hattiesburg | Order Online | Uber Eats](https://www.ubereats.com/alcohol/hattiesburg-ms): Hattiesburg, MS alcohol delivery from local liquor stores
+## Business and Enterprise
+- [Uber for Business - Meals](https://www.uber.com/us/en/business/solutions/meal-programs/): Business meal programs for employee meals, stipends, and team ordering.
+- [Uber for Business](https://www.uber.com/us/en/business/): Enterprise platform for rides, meals, and delivery management.
+- [Business Gift Cards](https://www.uber.com/us/en/business/gift-cards/): Corporate gift card purchasing for employee rewards and customer incentives.
+- [Vouchers](https://www.uber.com/us/en/business/solutions/vouchers/): Sponsored meal and delivery vouchers for promotions, support, and events.
+- [Central](https://www.uber.com/us/en/business/solutions/central/): Dashboard for coordinating rides and meal delivery on behalf of others.
 
-## Restaurant Delivery - Australia
+## Company and News
+- [About Uber Eats](https://about.ubereats.com/): Company overview describing the Uber Eats platform and how it works.
+- [Uber Newsroom](https://www.uber.com/newsroom/): Official news and announcements from Uber, including Uber Eats updates.
+- [Uber Blog](https://www.uber.com/blog/): Company blog with product, policy, and marketplace stories.
+- [Careers at Uber](https://www.uber.com/us/en/careers/): Job listings and company information for roles across Uber and Uber Eats.
+- [Investor Relations](https://investor.uber.com/): Financial reports, filings, and investor information for Uber Technologies.
 
-- [Order Hungry Jacks Near Me - Adelaide Delivery - Menu & Prices  | Uber Eats](https://www.ubereats.com/au/brand-city/adelaide-sa/hungry-jacks): Hungry Jacks burger delivery in Adelaide with Whopper menu
-- [Order Domino's Near Me - Canberra Delivery - Menu & Prices  | Uber Eats](https://www.ubereats.com/au/brand-city/canberra-act/dominos): Domino's pizza delivery in Canberra City area
-- [Order Crust Pizza Near Me - Canberra Delivery - Menu & Prices  | Uber Eats](https://www.ubereats.com/au/brand-city/canberra-act/crust-pizza): Crust Pizza delivery in Canberra with signature pizzas menu
-- [Order Outback Steakhouse Near Me - Brisbane Delivery - Menu & Prices  | Uber Eats](https://www.ubereats.com/au/brand-city/brisbane-qld/outback-steakhouse): Outback Steakhouse delivery in Brisbane, Aspley area
-- [Order Bami Vietnamese Near Me - Adelaide Delivery - Menu & Prices  | Uber Eats](https://www.ubereats.com/au/brand-city/adelaide-sa/bamivietnamese): Bami Vietnamese restaurant delivery in Adelaide: pho, banh mi menu
-- [Order The Dessert Shop Near Me - Adelaide Delivery - Menu & Prices  | Uber Eats](https://www.ubereats.com/au/brand-city/adelaide-sa/the-dessert-shop): The Dessert Shop ice cream delivery in Adelaide, Norwood area
-- [Order The Ice Cream Shop Near Me - Adelaide Delivery - Menu & Prices  | Uber Eats](https://www.ubereats.com/au/brand-city/adelaide-sa/the-ice-cream-shop): The Ice Cream Shop delivery in Adelaide with milkshakes and desserts
+## Legal and Policies
+- [Terms of Use](https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=united-states&lang=en): General terms governing use of Uber and Uber Eats services.
+- [Privacy Notice](https://www.uber.com/legal/en/document/?name=privacy-notice&country=united-states&lang=en): Privacy policy describing data collection, use, and sharing practices.
+- [Cookie Notice](https://www.uber.com/legal/en/document/?name=cookie-notice&country=united-states&lang=en): Cookie policy covering tracking technologies and browser-related preferences.
+- [Consumer Health Data Privacy Notice](https://www.uber.com/legal/en/document/?name=consumer-health-data-privacy-notice&country=united-states&lang=en): Privacy notice for applicable consumer health data handling requirements.
+- [Accessibility Statement](https://www.uber.com/us/en/accessibility/): Accessibility information for Uber and Uber Eats digital services.
+- [Community Guidelines](https://www.uber.com/us/en/safety/uber-community-guidelines/): Rules and expectations for users, merchants, and delivery partners.
+
+## Regional and Category Discovery
+- [United States](https://www.ubereats.com/country/us): Country landing page for Uber Eats in the United States.
+- [Canada](https://www.ubereats.com/country/ca): Country landing page for Uber Eats in Canada.
+- [Australia](https://www.ubereats.com/au): Regional Uber Eats homepage for Australia.
+- [Restaurants Near Me](https://www.ubereats.com/near-me): Location-based discovery for nearby restaurants and food delivery.
+- [Grocery Near Me](https://www.ubereats.com/grocery): Location-based grocery discovery and ordering.
+- [Convenience Near Me](https://www.ubereats.com/convenience): Location-based convenience store discovery and ordering.
+- [Alcohol Near Me](https://www.ubereats.com/alcohol): Location-based alcohol delivery discovery where available.

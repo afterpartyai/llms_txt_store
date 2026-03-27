@@ -1,60 +1,105 @@
 # Calculator.net
 
-> > A comprehensive suite of free online calculators for financial planning, fitness tracking, and scientific computations.
+> Free online calculators spanning math, finance, fitness, health, science, and everyday conversions.
 
-Calculator.net offers specialized tools across multiple domains including mortgage and loan calculators, retirement planning, investment analysis, and health metrics. The platform serves users seeking quick financial calculations with detailed breakdowns, amortization schedules, and tax considerations.
+Calculator.net provides a large catalog of browser-based calculators with quick inputs, instant results, and explanatory content. The site is organized by topic areas and includes both broad category hubs and individual calculators for common personal, academic, and professional tasks.
 
-## Key Topics
+## Main Collections
+- [Free Online Calculators](https://www.calculator.net/): Homepage listing major calculator categories and popular tools.
+- [Financial Calculators](https://www.calculator.net/financial-calculator.html): Hub for loans, mortgages, investing, retirement, and other money calculators.
+- [Fitness and Health Calculators](https://www.calculator.net/fitness-and-health-calculator.html): Hub for BMI, calorie, pregnancy, body fat, and health-related tools.
+- [Math Calculators](https://www.calculator.net/math-calculator.html): Hub for algebra, fractions, percentages, random numbers, and geometry calculators.
+- [Other Calculators](https://www.calculator.net/other-calculator.html): Hub for date, time, age, GPA, and miscellaneous everyday calculators.
+- [Physics Calculators](https://www.calculator.net/physics-calculator.html): Hub for motion, force, energy, pressure, and electricity calculators.
+- [Chemistry Calculators](https://www.calculator.net/chemistry-calculator.html): Hub for molarity, molecular weight, dilution, and concentration calculators.
+- [Conversion Calculators](https://www.calculator.net/conversion-calculator.html): Hub for unit conversions including length, area, volume, temperature, and data.
 
-- Mortgage Calculator
-- Loan Calculator
-- Compound Interest
-- Retirement Planning
-- Amortization Schedule
-- APR/APY
-- 401K and Roth IRA
-- Social Security
-- Investment Returns
-- Inflation Calculator
-- BMI and Body Composition
-- Monthly Payment
-- Financial Planning
-- Tax Calculation
-- Auto Loan
+## Mortgage, Loans, and Debt
+- [Mortgage Calculator](https://www.calculator.net/mortgage-calculator.html): Estimate monthly mortgage payments with taxes, insurance, PMI, and amortization.
+- [Refinance Calculator](https://www.calculator.net/refinance-calculator.html): Compare refinancing scenarios, savings, and break-even timing.
+- [Loan Calculator](https://www.calculator.net/loan-calculator.html): Calculate payments, total interest, and schedules for common loan types.
+- [Auto Loan Calculator](https://www.calculator.net/auto-loan-calculator.html): Estimate car loan payments including taxes, fees, trade-ins, and rebates.
+- [Amortization Calculator](https://www.calculator.net/amortization-calculator.html): Generate amortization schedules with payment breakdowns and payoff timelines.
+- [Interest Rate Calculator](https://www.calculator.net/interest-rate-calculator.html): Solve for loan interest rate from payment, term, and principal.
+- [Debt Payoff Calculator](https://www.calculator.net/debt-payoff-calculator.html): Compare debt repayment strategies and estimate payoff dates.
+- [Personal Loan Calculator](https://www.calculator.net/personal-loan-calculator.html): Estimate monthly payments and borrowing costs for unsecured personal loans.
 
-## Financial Calculators
+## Investing, Savings, and Retirement
+- [Investment Calculator](https://www.calculator.net/investment-calculator.html): Project investment growth with contributions, returns, and compounding assumptions.
+- [Interest Calculator](https://www.calculator.net/interest-calculator.html): Calculate simple or compound interest over time.
+- [Compound Interest Calculator](https://www.calculator.net/compound-interest-calculator.html): Model compounded growth with recurring deposits and varying periods.
+- [Finance Calculator](https://www.calculator.net/finance-calculator.html): Solve time-value-of-money variables such as PV, FV, rate, and payment.
+- [Retirement Calculator](https://www.calculator.net/retirement-calculator.html): Estimate retirement savings needs, income, and portfolio longevity.
+- [401K Calculator](https://www.calculator.net/401k-calculator.html): Project 401(k) balances with employer match and annual contributions.
+- [Roth IRA Calculator](https://www.calculator.net/roth-ira-calculator.html): Estimate Roth IRA growth and compare long-term retirement outcomes.
+- [Annuity Calculator](https://www.calculator.net/annuity-calculator.html): Calculate present value, future value, and payout scenarios for annuities.
 
-- [Financial Calculators](https://www.calculator.net/financial-calculator.html): Comprehensive collection of financial calculators for mortgages, loans, investments, retirement.
-- [Mortgage Calculator](https://www.calculator.net/mortgage-calculator.html): Free mortgage calculator with payment, amortization schedule, taxes, PMI, HOA options.
-- [Loan Calculator](https://www.calculator.net/loan-calculator.html): Loan calculator for amortized loans, deferred payments, bonds with APR/APY calculation.
-- [Auto Loan Calculator](https://www.calculator.net/auto-loan-calculator.html): Auto loan calculator for monthly payments, sales tax, fees, trade-in value accounting.
-- [Amortization Calculator](https://www.calculator.net/amortization-calculator.html): Amortization calculator showing payment schedules, graphs, and loan breakdowns.
+## Taxes, Income, and Budgeting
+- [Income Tax Calculator](https://www.calculator.net/tax-calculator.html): Estimate federal income taxes for common filing and income situations.
+- [Salary Calculator](https://www.calculator.net/salary-calculator.html): Convert pay between hourly, daily, weekly, monthly, and annual amounts.
+- [Sales Tax Calculator](https://www.calculator.net/sales-tax-calculator.html): Add or remove sales tax from a purchase amount.
+- [VAT Calculator](https://www.calculator.net/vat-calculator.html): Calculate VAT-inclusive or VAT-exclusive prices and tax amounts.
+- [Margin Calculator](https://www.calculator.net/margin-calculator.html): Compute profit margin, markup, revenue, and cost relationships.
+- [Discount Calculator](https://www.calculator.net/discount-calculator.html): Find sale prices, savings, and percentage discounts.
+- [Tip Calculator](https://www.calculator.net/tip-calculator.html): Split restaurant bills and calculate tips by percentage.
+- [Budget Calculator](https://www.calculator.net/budget-calculator.html): Compare income and expenses to estimate savings or deficits.
 
-## Interest & Investment Calculators
+## Health, Fitness, and Nutrition
+- [BMI Calculator](https://www.calculator.net/bmi-calculator.html): Calculate body mass index with metric or imperial inputs.
+- [Calorie Calculator](https://www.calculator.net/calorie-calculator.html): Estimate daily calorie needs based on body data and activity.
+- [Body Fat Calculator](https://www.calculator.net/body-fat-calculator.html): Estimate body fat percentage using circumference-based methods.
+- [BMR Calculator](https://www.calculator.net/bmr-calculator.html): Estimate basal metabolic rate and resting energy expenditure.
+- [Ideal Weight Calculator](https://www.calculator.net/ideal-weight-calculator.html): Compare ideal body weight estimates from common formulas.
+- [Pregnancy Calculator](https://www.calculator.net/pregnancy-calculator.html): Estimate due date and pregnancy milestones from cycle or conception data.
+- [Pace Calculator](https://www.calculator.net/pace-calculator.html): Calculate running pace, finish time, or distance.
+- [Protein Calculator](https://www.calculator.net/protein-calculator.html): Estimate daily protein intake targets by body size and goals.
 
-- [Interest Calculator](https://www.calculator.net/interest-calculator.html): Compound interest calculator for fixed investments and periodic contributions.
-- [Compound Interest Calculator](https://www.calculator.net/compound-interest-calculator.html): Compound interest calculator comparing rates and compounding periods.
-- [Interest Rate Calculator](https://www.calculator.net/interest-rate-calculator.html): Interest rate calculator for amortized loans with fixed monthly payments.
-- [Investment Calculator](https://www.calculator.net/investment-calculator.html): Investment calculator evaluating returns, contributions, and growth scenarios.
-- [Finance Calculator](https://www.calculator.net/finance-calculator.html): Finance calculator for time-value-of-money: FV, PV, interest rate, PMT calculations.
+## Math and Statistics
+- [Percentage Calculator](https://www.calculator.net/percent-calculator.html): Solve percentage increase, decrease, difference, and part-whole problems.
+- [Fraction Calculator](https://www.calculator.net/fraction-calculator.html): Add, subtract, multiply, divide, and simplify fractions.
+- [Scientific Calculator](https://www.calculator.net/scientific-calculator.html): Perform advanced arithmetic and scientific function calculations.
+- [Random Number Generator](https://www.calculator.net/random-number-generator.html): Generate random integers within a specified range.
+- [Standard Deviation Calculator](https://www.calculator.net/standard-deviation-calculator.html): Compute standard deviation and related descriptive statistics.
+- [Mean, Median, Mode Calculator](https://www.calculator.net/mean-median-mode-calculator.html): Calculate central tendency measures for a dataset.
+- [Exponent Calculator](https://www.calculator.net/exponent-calculator.html): Evaluate powers and exponential expressions.
+- [Log Calculator](https://www.calculator.net/log-calculator.html): Solve logarithms with configurable bases and values.
 
-## Retirement & Tax Planning
+## Geometry and Measurement
+- [Area Calculator](https://www.calculator.net/area-calculator.html): Find areas of common geometric shapes.
+- [Volume Calculator](https://www.calculator.net/volume-calculator.html): Calculate volumes for solids such as spheres, cylinders, and cones.
+- [Surface Area Calculator](https://www.calculator.net/surface-area-calculator.html): Compute surface area for common three-dimensional shapes.
+- [Triangle Calculator](https://www.calculator.net/triangle-calculator.html): Solve triangle sides, angles, area, and perimeter.
+- [Circle Calculator](https://www.calculator.net/circle-calculator.html): Calculate radius, diameter, circumference, and area relationships.
+- [Distance Calculator](https://www.calculator.net/distance-calculator.html): Compute distance between points in coordinate geometry.
+- [Density Calculator](https://www.calculator.net/density-calculator.html): Calculate density, mass, or volume from the other two values.
+- [Slope Calculator](https://www.calculator.net/slope-calculator.html): Find slope and line characteristics from two points.
 
-- [Retirement Calculator](https://www.calculator.net/retirement-calculator.html): Retirement planning calculator with Social Security, 401K, Roth IRA, inflation factors.
-- [Income Tax Calculator](https://www.calculator.net/tax-calculator.html): Federal income tax calculator for salary earners and self-employed contractors.
-- [Inflation Calculator](https://www.calculator.net/inflation-calculator.html): Inflation calculator using U.S. CPI data with historical trends and purchasing power.
+## Date, Time, and Everyday Tools
+- [Age Calculator](https://www.calculator.net/age-calculator.html): Calculate age or elapsed time between two dates.
+- [Date Calculator](https://www.calculator.net/date-calculator.html): Add, subtract, or compare dates and day counts.
+- [Time Calculator](https://www.calculator.net/time-calculator.html): Add or subtract hours, minutes, and seconds.
+- [Hours Calculator](https://www.calculator.net/hours-calculator.html): Calculate total hours worked or elapsed between times.
+- [GPA Calculator](https://www.calculator.net/gpa-calculator.html): Estimate grade point average from course grades and credits.
+- [Grade Calculator](https://www.calculator.net/grade-calculator.html): Calculate current grade or required score on future assignments.
+- [Concrete Calculator](https://www.calculator.net/concrete-calculator.html): Estimate concrete volume for slabs, footings, and columns.
+- [Sleep Calculator](https://www.calculator.net/sleep-calculator.html): Estimate sleep and wake times by cycle length.
 
-## Payment & Salary Calculators
+## Physics and Chemistry
+- [Velocity Calculator](https://www.calculator.net/velocity-calculator.html): Calculate velocity from distance and time inputs.
+- [Acceleration Calculator](https://www.calculator.net/acceleration-calculator.html): Solve acceleration, velocity change, and elapsed time relationships.
+- [Force Calculator](https://www.calculator.net/force-calculator.html): Compute force, mass, or acceleration using Newton's second law.
+- [Kinetic Energy Calculator](https://www.calculator.net/kinetic-energy-calculator.html): Calculate kinetic energy from mass and velocity.
+- [Pressure Calculator](https://www.calculator.net/pressure-calculator.html): Solve pressure from force and area values.
+- [Molarity Calculator](https://www.calculator.net/molarity-calculator.html): Calculate solution molarity from solute amount and volume.
+- [Molecular Weight Calculator](https://www.calculator.net/molecular-weight-calculator.html): Determine molecular mass from a chemical formula.
+- [Dilution Calculator](https://www.calculator.net/dilution-calculator.html): Calculate concentrations and volumes for dilution problems.
 
-- [Payment Calculator](https://www.calculator.net/payment-calculator.html): Payment calculator for monthly amounts and payoff periods with fixed terms.
-- [Salary Calculator](https://www.calculator.net/salary-calculator.html): Salary converter between hourly, biweekly, monthly, and annual with adjustments.
-- [Sales Tax Calculator](https://www.calculator.net/sales-tax-calculator.html): Sales tax calculator with rates by U.S. state and VAT/GST support.
-
-## Fitness & Health Calculators
-
-- [Fitness and Health Calculators](https://www.calculator.net/fitness-and-health-calculator.html): Fitness and health calculator hub: BMI, body fat, calorie, pregnancy calculators.
-- [BMI Calculator](https://www.calculator.net/bmi-calculator.html): BMI calculator for adults and children using WHO and CDC standards.
-
-## Home
-
-- [Calculator.net: Free Online Calculators](https://www.calculator.net): Homepage hub for free online calculators across math, finance, fitness, and science.
+## Unit Conversion
+- [Length Converter](https://www.calculator.net/length-converter.html): Convert between metric, imperial, and other length units.
+- [Weight Converter](https://www.calculator.net/weight-converter.html): Convert mass and weight units such as kilograms and pounds.
+- [Temperature Converter](https://www.calculator.net/temperature-converter.html): Convert temperatures between Celsius, Fahrenheit, and Kelvin.
+- [Volume Converter](https://www.calculator.net/volume-converter.html): Convert liquid and solid volume units.
+- [Area Converter](https://www.calculator.net/area-converter.html): Convert between square measurement units.
+- [Time Converter](https://www.calculator.net/time-converter.html): Convert between seconds, minutes, hours, days, and more.
+- [Speed Converter](https://www.calculator.net/speed-converter.html): Convert speed units such as mph, km/h, and m/s.
+- [Data Storage Converter](https://www.calculator.net/data-storage-converter.html): Convert digital storage units from bits to terabytes.

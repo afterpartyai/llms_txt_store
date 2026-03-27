@@ -1,49 +1,91 @@
 # Git
+> Official home for the Git distributed version control system, with documentation, learning resources, tools, downloads, and community links.
 
-> The official Git distributed version control system documentation, tools, and community hub for developers worldwide.
+Git is a fast, open-source distributed version control system. Git-scm.com is the primary hub for learning Git, installing it, browsing command reference documentation, discovering ecosystem tools, and finding community resources.
 
-Git is an open-source distributed version control system created by Linus Torvalds and maintained by the community. Git-scm.com serves as the primary reference for Git documentation, learning resources, ecosystem tools, and community support.
+## Core Pages
+- [Home](https://git-scm.com/): Main entry point for Git documentation, downloads, learning resources, and ecosystem navigation.
+- [About](https://git-scm.com/about): Overview of Git’s design goals, performance characteristics, and surrounding ecosystem.
+- [Learn](https://git-scm.com/learn): Central learning hub with the Pro Git book, videos, tutorials, and cheat sheets.
+- [Reference](https://git-scm.com/docs): Git command and documentation reference for everyday and advanced usage.
+- [Tools](https://git-scm.com/tools): Directory of Git-related command-line tools, GUIs, IDE integrations, and hosting services.
+- [Install](https://git-scm.com/install): Installation options and binary releases for major operating systems.
 
-## Key Topics
+## Learning Resources
+- [Learn Git](https://git-scm.com/learn): Overview page linking to books, tutorials, videos, and quick-reference materials.
+- [Pro Git Book](https://git-scm.com/book): Full online Pro Git book covering concepts, workflows, internals, and administration.
+- [Videos](https://git-scm.com/videos): Video tutorials and talks for learning Git concepts and practical workflows.
+- [External Links](https://git-scm.com/doc/ext): Curated external tutorials, articles, and supplementary Git learning resources.
+- [Cheat Sheet](https://git-scm.com/doc): Downloadable and browsable quick-reference materials for common Git commands.
 
-- Git
-- Version Control
-- Distributed VCS
-- Repository Management
-- Git Ecosystem
-- Command-line Tools
-- GitHub
-- GitLab
-- Pro Git Book
-- Git Workflows
-- Branching & Merging
-- Open Source
-- Developer Tools
-- Repository Hosting
-- Git GUIs
+## Documentation & Reference
+- [Reference Home](https://git-scm.com/docs): Index of Git manual pages, guides, and release-specific documentation.
+- [git(1)](https://git-scm.com/docs/git): Top-level Git manual describing command structure, options, and common usage.
+- [Everyday Git](https://git-scm.com/docs/everyday): Practical set of common workflows and commands for daily Git use.
+- [gittutorial(7)](https://git-scm.com/docs/gittutorial): Introductory tutorial for basic repository creation, commits, and history inspection.
+- [gittutorial-2(7)](https://git-scm.com/docs/gittutorial-2): Intermediate tutorial covering branching, merging, and distributed collaboration.
+- [gitglossary(7)](https://git-scm.com/docs/gitglossary): Definitions of Git terminology used throughout the documentation.
+- [gitfaq(7)](https://git-scm.com/docs/gitfaq): Frequently asked questions about behavior, workflows, and common Git issues.
+- [Documentation Index](https://git-scm.com/docs/git#_git_commands): Structured list of porcelain, plumbing, and ancillary Git commands.
 
-## Getting Started
+## Essential Command Manuals
+- [git-clone](https://git-scm.com/docs/git-clone): Create a local copy of an existing repository from local or remote sources.
+- [git-init](https://git-scm.com/docs/git-init): Create an empty Git repository or reinitialize an existing one.
+- [git-add](https://git-scm.com/docs/git-add): Add file contents to the index in preparation for committing.
+- [git-commit](https://git-scm.com/docs/git-commit): Record staged changes to repository history with metadata and messages.
+- [git-status](https://git-scm.com/docs/git-status): Show working tree state, staged changes, and branch information.
+- [git-log](https://git-scm.com/docs/git-log): Inspect commit history with filtering, formatting, and revision traversal options.
+- [git-diff](https://git-scm.com/docs/git-diff): Compare working tree, index, commits, branches, and other revisions.
+- [git-restore](https://git-scm.com/docs/git-restore): Restore working tree files or staged content from commits or the index.
 
-- [Git Homepage](https://git-scm.com): Git homepage with installation, basics, and Pro Git book by Chacon & Straub
-- [About Git](https://git-scm.com/about): Overview of Git version control, performance, ecosystem (GitHub, GitLab)
-- [Learn Git](https://git-scm.com/learn): Learning resources: Pro Git Book, tutorials, cheat sheets, video lessons
+## Branching, Merging, and Collaboration
+- [git-branch](https://git-scm.com/docs/git-branch): List, create, rename, and delete branches.
+- [git-switch](https://git-scm.com/docs/git-switch): Switch branches or create and move to a new branch.
+- [git-merge](https://git-scm.com/docs/git-merge): Join development histories and resolve merge results.
+- [git-rebase](https://git-scm.com/docs/git-rebase): Reapply commits onto a new base for cleaner history.
+- [git-cherry-pick](https://git-scm.com/docs/git-cherry-pick): Apply selected commits from one branch onto another.
+- [git-fetch](https://git-scm.com/docs/git-fetch): Download objects and refs from another repository without merging.
+- [git-pull](https://git-scm.com/docs/git-pull): Fetch from a remote and integrate changes into the current branch.
+- [git-push](https://git-scm.com/docs/git-push): Update remote refs with local commits and branch changes.
 
-## Reference & Documentation
-
-- [Git Command Reference](https://git-scm.com/docs): Git command reference: CLI commands, workflows, branching, merging
+## Advanced Reference
+- [git-config](https://git-scm.com/docs/git-config): Read and write repository, global, and system configuration values.
+- [git-remote](https://git-scm.com/docs/git-remote): Manage tracked remote repositories and their URLs.
+- [git-submodule](https://git-scm.com/docs/git-submodule): Initialize, update, and manage repositories embedded within another repository.
+- [git-worktree](https://git-scm.com/docs/git-worktree): Manage multiple working trees attached to a single repository.
+- [git-stash](https://git-scm.com/docs/git-stash): Temporarily save and restore uncommitted working directory changes.
+- [git-reflog](https://git-scm.com/docs/git-reflog): Inspect updates to refs for recovery and history troubleshooting.
+- [git-reset](https://git-scm.com/docs/git-reset): Move branch tips and adjust index or working tree state.
+- [git-rev-parse](https://git-scm.com/docs/git-rev-parse): Parse revision identifiers and repository-related command-line parameters.
 
 ## Tools & Ecosystem
+- [Tools Home](https://git-scm.com/tools): Overview of Git ecosystem tools across interfaces and platforms.
+- [Command Line Tools](https://git-scm.com/tools/command-line): Third-party terminal-based tools that enhance Git workflows.
+- [GUIs](https://git-scm.com/tools/guis): Desktop graphical clients for working with Git repositories.
+- [Hosting](https://git-scm.com/tools/hosting): Repository hosting and collaboration platforms built around Git.
+- [Text Editors & IDEs](https://git-scm.com/tools/text): Editors and IDEs with Git integration and repository support.
+- [Issue Trackers](https://git-scm.com/tools/issue-tracking): Project and issue tracking tools commonly used alongside Git.
+- [Submodules & Extensions](https://git-scm.com/tools/submodules): Related tools and extensions for specialized repository workflows.
 
-- [Git Tools Directory](https://git-scm.com/tools): Git tools directory: CLI, GUI, hosting, and ecosystem integrations
-- [GUI Clients](https://git-scm.com/tools/guis): Directory of Git GUI clients including GitHub Desktop and SourceTree
-- [Command Line Tools](https://git-scm.com/tools/command-line): Command-line Git tools: lazygit, tig, forgit, gitui, gitu
-- [Repository Hosting Services](https://git-scm.com/tools/hosting): Git repository hosting services: GitLab, Codeberg, Forgejo, Radicle
+## Installation
+- [Install Git](https://git-scm.com/install): Installation overview with links to platform-specific packages and binaries.
+- [Downloads](https://git-scm.com/downloads): Download page for source code and platform-specific installers.
+- [Download for Windows](https://git-scm.com/download/win): Windows installer and related setup guidance.
+- [Download for macOS](https://git-scm.com/download/mac): macOS installation options including installers and package managers.
+- [Download for Linux/Unix](https://git-scm.com/download/linux): Linux and Unix installation instructions using distribution package managers.
+- [Download Source](https://git-scm.com/downloads/source): Source tarballs for building Git from source.
 
-## Community & Support
+## Community & Project Information
+- [Community](https://git-scm.com/community): Community resources including mailing lists, bug reporting, and support channels.
+- [Mailing List](https://git-scm.com/community): Primary collaboration and discussion venue for Git development and support.
+- [Submit a Bug Report](https://git-scm.com/community): Guidance for reporting issues and contributing fixes to Git.
+- [About this Site](https://git-scm.com/site): Information about git-scm.com, its maintenance, licensing, and contributors.
+- [Software Freedom Conservancy](https://git-scm.com/sfc): Donation and fiscal sponsorship information for the Git project.
 
-- [Community](https://git-scm.com/community): Git community: mailing list, bug reporting, IRC, Git for Windows support
-- [Donations & Support](https://git-scm.com/sfc): Git donations via Software Freedom Conservancy with PayPal support
-
-## Optional
-
-- [Site Information](https://git-scm.com/site): Site information: git-scm.com maintenance, MIT license, contributors
+## Book & Long-Form Guides
+- [Pro Git Book Home](https://git-scm.com/book): Landing page for the complete Pro Git book in multiple formats.
+- [Getting Started](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control): Introductory book chapter explaining version control and Git basics.
+- [Git Basics](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository): Core workflows for repositories, staging, committing, and remotes.
+- [Branching and Merging](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell): Conceptual and practical guide to Git branching workflows.
+- [Distributed Git](https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows): Collaboration models and distributed development practices with Git.
+- [Git Internals](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain): Detailed explanation of Git object model, references, and low-level mechanics.

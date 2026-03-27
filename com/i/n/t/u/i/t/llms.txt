@@ -1,59 +1,81 @@
 # Intuit
+> Financial technology platform powering consumers, small businesses, and professionals with tax, accounting, credit, and marketing tools.
 
-> Intuit is a financial software platform powering small businesses, consumers, and accountants with AI-driven tools for tax preparation, accounting, payroll, and financial management.
+Intuit’s ecosystem includes TurboTax, QuickBooks, Credit Karma, Mailchimp, and professional tax and accounting solutions. The site spans product information, developer platforms, support resources, blogs, and tools for accountants, small businesses, and consumers.
 
-Intuit operates a suite of flagship products including TurboTax for tax filing, QuickBooks for accounting and business management, Credit Karma for personal finance, and Mailchimp for marketing automation. The company serves consumers, small businesses, accountants, and enterprises globally with integrated financial solutions.
+## Main Platform
+- [Intuit Home](https://www.intuit.com/): Corporate homepage for Intuit’s consumer, business, and professional financial software products.
+- [Products Overview](https://www.intuit.com/products/): Overview of Intuit’s major products including TurboTax, QuickBooks, Credit Karma, and Mailchimp.
+- [Company](https://www.intuit.com/company/): Corporate information, leadership, mission, and company background.
+- [Careers](https://www.intuit.com/careers/): Jobs, culture, benefits, and opportunities across Intuit teams.
+- [Blog](https://www.intuit.com/blog/): Company news, insights, innovation updates, and financial topics from Intuit.
+- [Investors](https://investors.intuit.com/): Investor relations, earnings, SEC filings, events, and financial information.
 
-## Key Topics
+## TurboTax
+- [TurboTax Home](https://turbotax.intuit.com/): Online tax filing product for individuals with DIY and expert-assisted options.
+- [TurboTax Support](https://ttlc.intuit.com/): Help center and community support for TurboTax products and tax filing questions.
+- [TurboTax Blog](https://blog.turbotax.intuit.com/): Tax tips, filing guidance, deductions, credits, and refund-related articles.
+- [TurboTax Login](https://myturbotax.intuit.com/): Sign-in portal for accessing TurboTax accounts and tax returns.
+- [TurboTax Free Edition](https://turbotax.intuit.com/personal-taxes/online/free-edition.jsp): Free online filing option for simple tax returns.
+- [TurboTax Live](https://turbotax.intuit.com/personal-taxes/online/live/): Tax filing with access to live expert help and review services.
 
-- TurboTax
-- QuickBooks
-- Credit Karma
-- Mailchimp
-- Tax preparation
-- Accounting software
-- Small business tools
-- AI-powered solutions
-- Financial platform
-- Tax filing
-- Business automation
-- ProConnect
-- Lacerte Tax
-- Financial literacy
-- Enterprise ERP
+## QuickBooks
+- [QuickBooks Home](https://quickbooks.intuit.com/): Small business accounting platform for bookkeeping, invoicing, payroll, and payments.
+- [QuickBooks Blog](https://quickbooks.intuit.com/blog/): Articles on accounting, cash flow, payroll, taxes, and running a business.
+- [QuickBooks Support](https://quickbooks.intuit.com/learn-support/): Product help, troubleshooting, and learning resources for QuickBooks users.
+- [QuickBooks Online](https://quickbooks.intuit.com/online/): Cloud accounting software for small businesses and self-employed users.
+- [QuickBooks Payroll](https://quickbooks.intuit.com/payroll/): Payroll software for paying employees, filing taxes, and managing compliance.
+- [QuickBooks Payments](https://quickbooks.intuit.com/payments/): Payment processing tools for invoices, cards, and online transactions.
+- [QuickBooks Time](https://quickbooks.intuit.com/time-tracking/): Time tracking and scheduling tools for teams and field workers.
 
-## Core Products
+## Credit Karma
+- [Credit Karma Home](https://www.creditkarma.com/): Personal finance platform for credit scores, monitoring, and financial recommendations.
+- [Credit Karma Tax Information](https://www.creditkarma.com/tax): Tax-related information and product guidance within Credit Karma.
+- [Credit Karma Resources](https://www.creditkarma.com/advice): Educational articles on credit, debt, loans, and personal finance.
+- [Credit Karma Help Center](https://support.creditkarma.com/): Support resources for account, credit monitoring, and product issues.
 
-- [Intuit Official Site](https://www.intuit.com): Intuit platform homepage featuring TurboTax, QuickBooks, Credit Karma, Mailchimp
-- [TurboTax Official Site](https://turbotax.intuit.com): TurboTax online tax filing with AI Concierge, expert assistance, and DIY options
-- [QuickBooks Official Site](https://quickbooks.intuit.com): QuickBooks accounting software for small business management with AI-powered tools
-- [Products Overview](https://www.intuit.com/products): Intuit product overview page featuring TurboTax, QuickBooks, Credit Karma
+## Mailchimp
+- [Mailchimp Home](https://mailchimp.com/): Marketing automation and email platform for businesses and creators.
+- [Mailchimp Marketing Library](https://mailchimp.com/resources/): Guides, templates, and educational resources for marketing and customer engagement.
+- [Mailchimp Help Center](https://mailchimp.com/help/): Product documentation and support for campaigns, audiences, and automations.
+- [Mailchimp Developers](https://mailchimp.com/developer/): Developer documentation for APIs, integrations, and app extensions.
+- [Mailchimp Content Studio](https://mailchimp.com/features/content-studio/): Asset management tools for organizing and reusing marketing content.
+- [Mailchimp Integrations](https://mailchimp.com/integrations/): Directory of integrations connecting Mailchimp with ecommerce and business tools.
 
-## Professional & Enterprise Solutions
+## Professional Tax & Accounting
+- [Intuit Accountants](https://www.intuit.com/accountants/): Professional solutions for accountants, bookkeepers, and tax preparers.
+- [Tax Pro Center](https://accountants.intuit.com/taxprocenter/): News, insights, and resources for tax professionals using Intuit products.
+- [ProConnect Tax Online](https://accountants.intuit.com/tax-online/): Cloud-based professional tax preparation software for firms and preparers.
+- [Lacerte](https://accountants.intuit.com/tax/lacerte/): Professional tax software for complex returns and established tax practices.
+- [ProSeries](https://accountants.intuit.com/tax/proseries/): Tax preparation software for professional preparers and accounting firms.
+- [QuickBooks for Accountants](https://quickbooks.intuit.com/accountants/): Tools and resources for accountants supporting QuickBooks clients.
+- [Accountants Community](https://accountants.intuit.com/community/): Community discussions, product help, and peer support for accounting professionals.
 
-- [Accountants Professional Solutions](https://www.intuit.com/accountants): Intuit professional accounting solutions including ProConnect and Lacerte Tax
-- [Enterprise Resource Planning Suite](https://www.intuit.com/enterprise): Intuit Enterprise Suite ERP software for multi-entity business management
-- [Tax Pro Center](https://accountants.intuit.com/taxprocenter): Tax Pro Center with articles, tools, and insights for tax professionals
+## Developer Platform
+- [Intuit Developer](https://developer.intuit.com/): Developer hub for building apps and integrations with Intuit platforms.
+- [QuickBooks API Docs](https://developer.intuit.com/app/developer/qbo/docs/get-started): Getting started documentation for QuickBooks Online APIs.
+- [QuickBooks Online API Reference](https://developer.intuit.com/app/developer/qbo/docs/api/accounting/all-entities/account): API reference for QuickBooks accounting entities and operations.
+- [OAuth 2.0 Guide](https://developer.intuit.com/app/developer/qbo/docs/develop/authentication-and-authorization/oauth-2.0): Authentication and authorization guide for Intuit platform integrations.
+- [Webhooks Docs](https://developer.intuit.com/app/developer/qbo/docs/develop/webhooks): Webhooks documentation for receiving QuickBooks event notifications.
+- [App Marketplace](https://apps.com/): Marketplace for apps and integrations that connect with QuickBooks.
 
-## Support & Community
+## Support & Learning
+- [Intuit Support](https://www.intuit.com/support/): Central support entry point across Intuit consumer and business products.
+- [QuickBooks Learn and Support](https://quickbooks.intuit.com/learn-support/): Help articles, tutorials, and troubleshooting for QuickBooks products.
+- [TurboTax Community](https://ttlc.intuit.com/community): Community forum for tax questions, product help, and filing guidance.
+- [Mailchimp Help](https://mailchimp.com/help/): Searchable support documentation for Mailchimp features and workflows.
+- [Credit Karma Support](https://support.creditkarma.com/): Help center for account access, disputes, and monitoring issues.
 
-- [Intuit Support Hub](https://www.intuit.com/support): Intuit support hub for TurboTax, QuickBooks, Credit Karma, Mailchimp
-- [TurboTax Support Center](https://ttlc.intuit.com): TurboTax community support center with tax Q&A and troubleshooting
-- [Accountants Community](https://accountants.intuit.com/community): Intuit accountants community forum for Lacerte, ProConnect, ProSeries Tax
+## Small Business & Education Resources
+- [QuickBooks Resource Center](https://quickbooks.intuit.com/r/): Small business articles, calculators, and operational guidance.
+- [Intuit for Education](https://www.intuit.com/solutions/education/): Financial literacy and education initiatives supported by Intuit.
+- [QuickBooks Small Business Blog](https://quickbooks.intuit.com/blog/): Practical guidance for entrepreneurs on finance, operations, and growth.
+- [Mailchimp Resources](https://mailchimp.com/resources/): Marketing education for email, automation, ecommerce, and customer retention.
+- [TurboTax Tax Tips](https://blog.turbotax.intuit.com/): Consumer tax education covering filing rules, deductions, and credits.
 
-## Resources & Education
-
-- [Intuit Official Blog](https://www.intuit.com/blog): Intuit official blog covering financial tips, AI partnerships, fintech innovation
-- [TurboTax Blog](https://blog.turbotax.intuit.com): TurboTax blog with tax deductions, credits, and refund optimization tips
-- [QuickBooks Blog](https://quickbooks.intuit.com/blog): QuickBooks blog with small business tips, accounting, payroll, cash flow
-- [Financial Literacy Education](https://www.intuit.com/solutions/education): Intuit financial literacy education platform with FinFutures curriculum
-
-## Regional & Global
-
-- [Intuit Canada](https://www.intuit.com/ca): Intuit Canada homepage with TurboTax, QuickBooks, Credit Karma, Mailchimp
-- [Intuit French Canada](https://www.intuit.com/fr-ca): Intuit French Canada site with TurboImpôt and financial platform products
-- [Intuit India](https://www.intuit.com/in): Intuit India operations hub and regional center for development and support
-
-## Company Information
-
-- [About Intuit](https://www.intuit.com/company): Intuit company information, mission, values, corporate responsibility, investor relations
+## Canada
+- [Intuit Canada](https://www.intuit.com/ca/): Canadian homepage for Intuit products and regional offerings.
+- [QuickBooks Canada](https://quickbooks.intuit.com/ca/): Canadian QuickBooks site for accounting, invoicing, and payroll solutions.
+- [TurboTax Canada](https://turbotax.intuit.ca/): Canadian tax filing software and resources for personal tax returns.
+- [Mailchimp](https://mailchimp.com/): Marketing platform available to Canadian businesses and organizations.
+- [Credit Karma Canada](https://www.creditkarma.ca/): Canadian personal finance platform for credit scores and financial tools.

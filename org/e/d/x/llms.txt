@@ -1,54 +1,104 @@
-# edX
+# edX - Online Learning Platform
 
-> > edX is a leading online learning platform offering courses, certificates, and degrees from top universities and institutions in technology, business, and professional development.
+> edX offers online courses, certificates, and degrees from leading universities and institutions worldwide. Founded by Harvard and MIT, edX provides accessible education to learners globally.
 
-edX provides accessible online education across diverse subjects including AI, Python, software engineering, and business administration. The platform serves both individual learners and enterprises through edX For Business, with offerings ranging from beginner courses to advanced executive education programs.
+## About edX
+edX increases access to high-quality education for everyone. Partners include Harvard, MIT, Berkeley, Boston University, and more.
 
-## Key Topics
+**Key facts**
+- See the live About page for current figures: https://www.edx.org/about-us
 
-- Online Learning
-- Certificates & Degrees
-- Python Programming
-- Artificial Intelligence
-- ChatGPT & AI
-- Software Engineering
-- Career Development
-- Professional Development
-- Executive Education
-- edX For Business
-- Enterprise Learning
-- Corporate Training
-- Skill Training
-- Computer Programming
-- Blockchain
+## Course Categories
 
-## Getting Started
+### Computer Science and Programming
+- CS50 Introduction to Computer Science: https://www.edx.org/cs50
+- Python Programming: https://www.edx.org/learn/python
+- Data Science: https://www.edx.org/learn/data-science
+- Artificial Intelligence: https://www.edx.org/learn/artificial-intelligence
 
-- [edX Homepage](https://www.edx.org): Main entry point for edX offering online courses, certificates, and degrees from leading institutions
-- [Course Catalog & Topics](https://www.edx.org/learn): Browse edX's complete course catalog and topic library featuring Harvard, MIT, and IBM courses
+### Business and Management
+- Business Fundamentals: https://www.edx.org/learn/business
+- Leadership: https://www.edx.org/learn/leadership
+- Entrepreneurship: https://www.edx.org/learn/entrepreneurship
+- Marketing: https://www.edx.org/learn/marketing
 
-## Technology & Programming
+### Engineering and Technology
+- Mechanical Engineering: https://www.edx.org/learn/mechanical-engineering
+- Electrical Engineering: https://www.edx.org/learn/electrical-engineering
+- Civil Engineering: https://www.edx.org/learn/civil-engineering
 
-- [Python Programming Courses](https://www.edx.org/learn/python): Python programming courses for data science, AI, and software development
-- [Software Engineering](https://www.edx.org/learn/software-engineering): Software engineering courses including Harvard's CS50x and programming languages
-- [Computer Programming](https://www.edx.org/learn/computer-programming): Computer programming courses, certificates, and degree programs from top schools
-- [Blockchain & Cryptocurrency](https://www.edx.org/learn/blockchain): Blockchain and cryptocurrency courses for finance and digital innovation skills
+## Core Hubs
+- Courses: https://www.edx.org/courses
+- Learner Catalog: https://www.edx.org/learn
+- Certificates overview: https://www.edx.org/certificates
+- Resources and guides: https://www.edx.org/resources
 
-## AI & Emerging Technologies
+## Program Types
 
-- [ChatGPT & AI Courses](https://www.edx.org/learn/chatgpt): ChatGPT and AI courses with MicroBootCamps and executive education programs
+### Degree Programs
+- Bachelor's degrees: https://www.edx.org/bachelors
+- Master's degrees: https://www.edx.org/masters
+- Doctorate programs: https://www.edx.org/doctorate
 
-## Business & Professional Development
+### Professional Credentials
+- Professional Certificates: https://www.edx.org/professional-certificate
+- Certificates hub: https://www.edx.org/certificates
+- XSeries Programs: https://www.edx.org/xseries
 
-- [edX For Business](https://business.edx.org): Enterprise learning and corporate training solutions for organizations
-- [Business Administration](https://www.edx.org/learn/business-administration): Business administration courses covering management, marketing, and leadership skills
-- [Excel & Data Analysis](https://www.edx.org/learn/excel): Microsoft Excel spreadsheet and data analysis courses for career development
+## University Partners
 
-## Languages & Other Skills
+### Examples
+- Harvard University: https://www.edx.org/school/harvardx
+- MIT: https://www.edx.org/school/mitx
+- UC Berkeley: https://www.edx.org/school/berkeleyx
+- Stanford University: https://www.edx.org/school/stanfordonline
+- Columbia University: https://www.edx.org/school/columbiax
 
-- [Spanish Language Courses](https://www.edx.org/learn/spanish): Spanish language courses and professional certificates from top universities
-- [Architecture](https://www.edx.org/learn/architecture): Architecture courses, certificates, and degrees for diverse career pathways
+### All partners
+- Directory: https://www.edx.org/schools-partners
 
-## Career Guidance
+## Key Resources
 
-- [Becoming a Cybersecurity Analyst](https://www.edx.org/become/how-to-become-a-cybersecurity-analyst): Career guide for cybersecurity analysts covering pathways, certifications, and skills
+### Learner Support
+- Course catalog: https://www.edx.org/learn
+- Help Center: https://help.edx.org
+- Resources and guides: https://www.edx.org/resources
+
+### About and Policies
+- About edX: https://www.edx.org/about-us
+- Privacy Policy: https://www.edx.org/edx-privacy-policy
+- Terms of Service: https://www.edx.org/edx-terms-service
+- Honor Code: https://www.edx.org/edx-terms-service#honor-code
+
+### For Educators and Partners
+- Become an Instructor: https://www.edx.org/become
+- Course Creation: https://www.edx.org/contributor
+- Institutional Partnerships: https://www.edx.org/business
+
+## Content Structure
+
+### English content
+- Learner catalog: /learn/*
+- Programs: /bachelors/*, /masters/*, /doctorate/*, /certificates/*, /professional-certificate/*, /xseries/*
+- Universities: /school/*
+- Special collections: /cs50/, /resources/*
+
+### Spanish content
+- Catalog permitted for AI usage: /es/aprende/*
+- Note: other Spanish paths are restricted
+
+## Technical Information
+
+### Content management
+- University partners maintain and update course and program pages
+- New offerings added continuously
+- Content formats include video, text, and interactive elements
+
+### Accessibility
+- Targeting WCAG 2.1 AA
+- Multi-language support
+- Mobile-responsive design
+
+## Discovery
+- Robots: https://www.edx.org/robots.txt
+- XML sitemap: https://www.edx.org/sitemap.xml

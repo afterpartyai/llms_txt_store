@@ -1,62 +1,71 @@
 # Vimeo
+> Vimeo is an all-in-one video platform for creating, hosting, managing, sharing, and streaming professional video.
 
-> Vimeo is a comprehensive video platform offering hosting, creation, editing, live streaming, and analytics tools with AI-powered features and enterprise-grade collaboration capabilities.
+Vimeo serves creators, entrepreneurs, and businesses with ad-free hosting, customizable playback, live events, collaboration, analytics, AI-powered workflows, and developer tools for integrating video into products and websites.
 
-Vimeo provides creators and businesses with an all-in-one video solution including ad-free hosting, customizable players, AI productivity tools, live streaming, webinars, and white-label OTT streaming platforms. The platform emphasizes accessibility, security, and seamless integrations with popular creative and business tools.
+## Core Platform Features
+- [Features overview](https://vimeo.com/features): Overview of Vimeo’s video creation, hosting, collaboration, and streaming capabilities.
+- [Online video hosting](https://vimeo.com/features/online-video-hosting): Ad-free HD video hosting with privacy controls, fast delivery, and sharing tools.
+- [Video player](https://vimeo.com/features/video-player): Customizable embeddable player with branding controls, chapters, and accessibility support.
+- [Video library](https://vimeo.com/features/video-library): Centralized video storage with organization, permissions, and searchable content management.
+- [Video editor](https://vimeo.com/features/video-editor): Browser-based editing tools for trimming, branding, captions, and quick video production.
+- [Vimeo AI](https://vimeo.com/features/vimeo-ai): AI tools for generating, editing, translating, and improving video workflows.
 
-## Key Topics
+## Creation, Recording, and Editing
+- [Create](https://vimeo.com/create): Video creation workspace with templates and guided tools for making business videos.
+- [Screen recorder](https://vimeo.com/features/screen-recorder): Record screen, webcam, and audio for demos, updates, and training videos.
+- [Teleprompter](https://vimeo.com/features/teleprompter): Built-in teleprompter tools for recording polished talking-head videos more easily.
+- [Video editor](https://vimeo.com/features/video-editor): Edit clips, add text, resize formats, and prepare videos for publishing.
+- [Stock library](https://vimeo.com/stock): Browse and license stock footage for creative and commercial video projects.
 
-- Video Hosting
-- Live Streaming
-- Video Editing
-- AI Features
-- Video Analytics
-- Screen Recording
-- Video Player
-- Collaboration Tools
-- Webinars
-- OTT Streaming
-- Mobile Apps
-- API Integration
-- Accessibility (WCAG 2.1 AA)
-- HDR & 8K Support
-- White-Label Solutions
+## Hosting, Management, and Sharing
+- [Video hosting](https://vimeo.com/features/online-video-hosting): Secure hosting for publishing, embedding, and distributing videos without ads.
+- [Video library](https://vimeo.com/features/video-library): Organize large video collections with folders, metadata, and team access controls.
+- [Video privacy](https://vimeo.com/features/video-privacy): Control who can watch, embed, download, or access videos.
+- [Video collaboration](https://vimeo.com/features/video-collaboration): Review and approval workflows with time-stamped comments and version sharing.
+- [Video analytics](https://vimeo.com/features/video-analytics): Track plays, engagement, geography, and viewer behavior across hosted videos.
 
-## Core Video Platform
+## Live Streaming and Events
+- [Live streaming](https://vimeo.com/features/livestreaming): Broadcast live events with branded players, simulcasting, and audience engagement tools.
+- [Webinar](https://vimeo.com/features/webinar): Host interactive webinars with registration, live chat, Q&A, and on-demand replay.
+- [Virtual events](https://vimeo.com/features/virtual-events): Run online events with branded experiences, sessions, and attendee participation features.
+- [Recurring events](https://vimeo.com/features/recurring-events): Manage repeat live programming and scheduled broadcasts for ongoing audiences.
+- [Enterprise live streaming](https://vimeo.com/enterprise): Enterprise-grade live video workflows, security, and support for organizations.
 
-- [Free Online Video Hosting Platform: Upload & Share Videos on Vimeo](https://vimeo.com/features/online-video-hosting): Main video hosting platform with free storage, ad-free streaming, and analytics
-- [Video Platform Features](https://vimeo.com/features): Overview page of Vimeo's video creation, editing, hosting, and streaming features
-- [Ad-Free Online Video Player: Customize Your Media with Vimeo](https://vimeo.com/features/video-player): Customizable ad-free video player supporting 4K, 8K, HDR with accessibility features
-- [Secure Online Video Library & Repository: Store Digital Content with Vimeo](https://vimeo.com/features/video-library): Secure video library with permissions, transcript search, and compliance features
+## OTT and Monetization
+- [OTT overview](https://vimeo.com/ott): Launch branded streaming services for subscription, rental, or purchase-based video businesses.
+- [Vimeo OTT pricing](https://vimeo.com/ott/pricing): Pricing and plan information for launching and scaling OTT streaming services.
+- [Sell videos online](https://vimeo.com/ondemand): Monetize videos through rentals, purchases, and direct-to-audience distribution.
+- [Subscription video services](https://vimeo.com/ott): Build subscription streaming apps and channels across web, mobile, and TV.
+- [Branded apps](https://vimeo.com/ott): Publish white-label streaming experiences with custom branding and platform distribution.
 
-## Video Creation & Editing Tools
+## Developer and API Resources
+- [Developer site](https://developer.vimeo.com/): Central hub for Vimeo API documentation, SDKs, and developer guides.
+- [API reference](https://developer.vimeo.com/api/reference): Reference documentation for Vimeo’s REST API endpoints and resources.
+- [API overview](https://developer.vimeo.com/api/start): Introduction to authentication, requests, and core Vimeo API concepts.
+- [SDKs](https://developer.vimeo.com/api/sdk): Official and community SDK resources for integrating Vimeo in applications.
+- [Player SDK](https://developer.vimeo.com/player/sdk): Tools and documentation for controlling and embedding the Vimeo player.
+- [Player API](https://developer.vimeo.com/player/sdk/reference): Reference for player methods, events, and embed customization options.
 
-- [Best Online Video Editor & Maker | Free AI Software with Vimeo](https://vimeo.com/features/video-editor): AI-powered browser-based video editor with trimming, effects, and text tools
-- [Free Online Video Maker and Editor Tools](https://vimeo.com/create): Vimeo Create product offering customizable templates and drag-and-drop editing
-- [Free Online Screen & Webcam Recorder](https://vimeo.com/features/screen-recorder): Browser and mobile screen recording tool with AI-powered features
-- [AI Video Productivity Tools for Business](https://vimeo.com/features/vimeo-ai): AI suite with transcription, dubbing, translation, and automated optimization
+## Help Center and Support
+- [Help Center](https://help.vimeo.com/): Support articles for account management, uploading, playback, billing, and troubleshooting.
+- [Vimeo plans](https://help.vimeo.com/hc/en-us/categories/12489985230097-Plans-billing-and-membership): Help articles about plans, billing, and membership management.
+- [Uploading and managing videos](https://help.vimeo.com/hc/en-us/categories/12489985714641-Upload-create-and-manage-videos): Guidance for uploading, organizing, and editing videos on Vimeo.
+- [Live events help](https://help.vimeo.com/hc/en-us/categories/12489986036753-Live-streaming-and-events): Support documentation for live streaming, webinars, and event workflows.
+- [Embedding and player help](https://help.vimeo.com/hc/en-us/categories/12489985808017-Embed-and-share): Articles covering embeds, sharing settings, and player customization.
+- [Developer support](https://help.vimeo.com/hc/en-us/categories/12489986118801-Developers-and-APIs): Help resources for API usage, authentication, and developer troubleshooting.
 
-## Live Streaming & Events
+## Solutions and Use Cases
+- [Vimeo for business](https://vimeo.com/business): Video tools for marketing, communications, training, and team collaboration.
+- [Vimeo Enterprise](https://vimeo.com/enterprise): Enterprise video platform with advanced security, governance, and large-scale deployment support.
+- [Marketing](https://vimeo.com/solutions/marketing): Use video for campaigns, lead generation, and branded customer experiences.
+- [Corporate communications](https://vimeo.com/solutions/corporate-communications): Internal video workflows for announcements, updates, and executive messaging.
+- [Learning and development](https://vimeo.com/solutions/learning-development): Training and educational video solutions for onboarding and knowledge sharing.
+- [Events](https://vimeo.com/solutions/events): Video tools for live events, webinars, and virtual audience engagement.
 
-- [Online Live Streaming Platform: Broadcast Events with Vimeo](https://vimeo.com/features/livestreaming): Low-latency live streaming with multi-platform broadcasting and engagement tools
-- [Interactive Live Webinar Platform Online: Host Events with Vimeo](https://vimeo.com/features/webinar): Interactive webinar platform with live and on-demand event hosting capabilities
-
-## Collaboration & Analytics
-
-- [Video Collaboration Tools & Review Platform: Provide Feedback on Vimeo](https://vimeo.com/features/video-collaboration): Vimeo Review platform with commenting, version control, and team workflow tools
-- [Video Analytics Tools & Engagement Tracking Software: Access Advanced Statistics with Vimeo](https://vimeo.com/features/video-analytics): Real-time analytics dashboard tracking views, engagement, and performance metrics
-
-## Enterprise & Streaming Solutions
-
-- [Vimeo Streaming: Launch Your Own Video Streaming Platform](https://vimeo.com/solutions/vimeo-streaming): White-label OTT streaming solution with monetization and multi-device support
-- [Vimeo Mobile App for iPhone and Android](https://vimeo.com/features/mobile): iOS and Android app for recording, editing, reviewing, and sharing videos
-
-## Integrations & Marketplace
-
-- [Vimeo Integrations & 3rd-Party Apps](https://vimeo.com/integrations): Integration partners including HubSpot, Salesforce, Zoom, Dropbox, and more
-- [Vimeo - Adobe Premiere Pro Integration](https://vimeo.com/integrations/adobe-premiere-pro): Integration guide for publishing directly from Adobe Premiere Pro to Vimeo
-- [Stream and download films and series online | Vimeo On Demand](https://vimeo.com/ondemand): Vimeo On Demand marketplace for streaming indie films and documentaries
-
-## Solutions & Use Cases
-
-- [Video Making Tools for Creative Professionals](https://vimeo.com/solutions/creative-professionals): Solution page for professional creatives with hosting and collaboration tools
+## Blog and Learning Resources
+- [Vimeo blog](https://vimeo.com/blog): Articles, announcements, product updates, and video strategy insights from Vimeo.
+- [Video School](https://vimeo.com/blog/category/video-school): Educational content on video production, editing, and storytelling techniques.
+- [Product updates](https://vimeo.com/blog/category/product-updates): News about new Vimeo features, releases, and platform improvements.
+- [Customer stories](https://vimeo.com/customers): Case studies showing how organizations use Vimeo for video workflows.
+- [Watch](https://vimeo.com/watch): Curated viewing destination for videos, creators, and featured content on Vimeo.

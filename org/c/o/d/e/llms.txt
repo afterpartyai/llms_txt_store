@@ -1,56 +1,85 @@
 # Code.org
 
-> > Code.org is a 501(c)(3) nonprofit providing free K-12 computer science and artificial intelligence curriculum, teacher training, and advocacy to democratize CS education globally.
+> Free K–12 computer science and AI curriculum, student learning tools, and teacher professional learning.
 
-Code.org offers comprehensive CS and AI education resources aligned to CSTA standards, serving students, teachers, and advocates. The platform combines hands-on activities, professional development, and policy advocacy to expand equitable access to computer science education.
+Code.org is a nonprofit education platform that provides standards-aligned computer science and AI learning experiences for students, classroom-ready curriculum for teachers, professional development, and advocacy resources to expand access to CS education.
 
-## Key Topics
+## Core Platform
+- [Home](https://code.org/): Main entry point for Code.org curriculum, student activities, teacher resources, and initiatives.
+- [Students](https://code.org/students): Student hub for courses, self-paced learning, projects, and computer science career exploration.
+- [Teach](https://code.org/teach): Teacher hub for curriculum, lesson materials, classroom implementation guidance, and training.
+- [About](https://code.org/about): Organization mission, impact, leadership, partners, and background on Code.org’s work.
+- [Projects](https://studio.code.org/projects): Creative coding workspace for building and sharing apps, games, animations, and more.
+- [Hour of Code](https://hourofcode.com/): Global campaign with introductory coding activities for classrooms, families, and events.
 
-- Computer Science Education
-- Artificial Intelligence Literacy
-- K-12 Curriculum
-- Teacher Professional Development
-- Hour of Code
-- Hour of AI
-- Generative AI
-- AI Ethics
-- CSTA Standards
-- Machine Learning
-- Free Curriculum
-- Educational Advocacy
-- CS Education Policy
-- Inclusive Education
-- Python Programming
+## Curriculum
+- [Curriculum Catalog](https://code.org/curriculum): Overview of Code.org courses and instructional pathways by grade band and topic.
+- [Elementary School Curriculum](https://code.org/curriculum/elementary-school): CS fundamentals and elementary learning pathways with unplugged and online lessons.
+- [Middle School Curriculum](https://code.org/curriculum/middle-school): Middle grades courses focused on core CS concepts and problem solving.
+- [High School Curriculum](https://code.org/curriculum/high-school): High school offerings including foundational, web, game, data, and AI courses.
+- [Computer Science Fundamentals](https://code.org/curriculum/computer-science-fundamentals): Introductory elementary curriculum teaching sequencing, loops, events, and basic programming.
+- [Computer Science Discoveries](https://code.org/curriculum/computer-science-discoveries): Middle school course covering problem solving, web development, data, and physical computing.
+- [Computer Science Principles](https://code.org/curriculum/computer-science-principles): AP-aligned course introducing computing concepts, programming, data, and the internet.
+- [CSAIF: Foundations of AI](https://code.org/curriculum/artificial-intelligence-foundations): High school AI curriculum on machine learning, ethics, and real-world applications.
 
-## Core Platforms
+## AI Learning
+- [Artificial Intelligence](https://code.org/artificial-intelligence): Central landing page for AI education programs, lessons, and classroom resources.
+- [AI Education Hub](https://code.org/ai): Collection of AI activities, explainers, and teaching resources for students and educators.
+- [How AI Works](https://code.org/ai/how-ai-works): Introductory materials explaining core AI concepts and model behavior.
+- [AI for Oceans](https://code.org/oceans): Interactive activity teaching machine learning concepts through ocean cleanup scenarios.
+- [Dance Party: AI Edition](https://code.org/dance): Creative activity combining coding and AI-themed interactive experiences.
+- [AI Foundations Curriculum](https://code.org/curriculum/artificial-intelligence-foundations): Full course materials for teaching AI concepts in high school classrooms.
+- [AI Literacy Day](https://code.org/ai-literacy-day): Event resources and activities supporting broad AI literacy participation.
 
-- [Code.org Homepage](https://code.org): Main entry point offering free K-12 CS and AI curriculum with teacher professional development.
-- [Students](https://code.org/students): Student learning platform with age-appropriate CS paths, projects, and career exploration.
-- [Teach](https://code.org/teach): Teacher resource hub for free CS and AI curriculum aligned to CSTA, NGSS, and Common Core standards.
-- [About Code.org](https://code.org/about): Code.org mission, impact metrics, and approach to expanding CS and AI education access.
+## Teacher Resources
+- [Professional Learning](https://code.org/professional-learning): Workshops, facilitator-led programs, and self-paced training for teachers.
+- [Educate for the Future](https://code.org/teach/artificial-intelligence): Teacher-facing AI education overview with classroom implementation resources.
+- [District Program](https://code.org/districts): Support for districts adopting and scaling computer science education programs.
+- [Curriculum Values](https://code.org/values): Principles guiding inclusive, equitable, and accessible curriculum design.
+- [Teacher Community](https://forum.code.org/): Community forum for educators to ask questions and share classroom practices.
+- [Help Center](https://support.code.org/): Support articles for teachers, students, accounts, sections, and classroom tools.
 
-## AI Education
+## Student Learning and Tools
+- [Studio](https://studio.code.org/): Interactive learning environment for courses, puzzles, labs, and student projects.
+- [Course Catalog](https://studio.code.org/courses): Browse available student courses and grade-level learning pathways.
+- [App Lab](https://studio.code.org/projects/applab): Build apps with JavaScript in Code.org’s browser-based development environment.
+- [Game Lab](https://studio.code.org/projects/gamelab): Create games and animations using JavaScript and block-based programming.
+- [Sprite Lab](https://studio.code.org/projects/spritelab): Design interactive stories and games with sprites and blocks.
+- [Play Lab](https://studio.code.org/projects/playlab): Introductory environment for creating simple interactive stories and games.
+- [Artist](https://studio.code.org/projects/artist): Visual coding environment for drawing and geometry-based programming activities.
+- [Python Lab](https://studio.code.org/projects/pythonlab): Browser-based Python environment for text-based programming activities.
 
-- [Teach and Learn AI with Code.org](https://code.org/artificial-intelligence): Free AI lessons and activities covering How AI Works, machine learning, and generative AI.
-- [Artificial Intelligence Foundations](https://code.org/curriculum/artificial-intelligence-foundations): High school AI curriculum with real-world applications, ethics, and hands-on learning.
-- [AI Education Hub](https://code.org/ai): AI education resources including How AI Works, AI for Oceans, and Dance Party activities.
-- [National AI Literacy Day](https://code.org/ai-literacy-day): National event with virtual workshops, activities, and teacher training for AI literacy.
+## Labs and Development Environments
+- [App Lab Docs](https://studio.code.org/docs/ide/applab): Reference and guidance for building apps in App Lab.
+- [Game Lab Docs](https://studio.code.org/docs/ide/gamelab): Documentation for animation, sprites, and game programming in Game Lab.
+- [Sprite Lab Docs](https://studio.code.org/docs/ide/spritelab): Documentation for block-based interactive projects in Sprite Lab.
+- [Web Lab Docs](https://studio.code.org/docs/ide/weblab): Guidance for creating websites with HTML and CSS in Web Lab.
+- [Python Lab Docs](https://studio.code.org/docs/ide/pythonlab): Documentation for Python Lab features and classroom use.
+- [Java Lab Docs](https://studio.code.org/docs/ide/javalab): Documentation for Java Lab programming and course integration.
+- [Maker Toolkit Docs](https://studio.code.org/docs/maker/start/): Setup and usage documentation for physical computing with Maker Toolkit.
 
-## Teacher Professional Development
+## Documentation and Reference
+- [Documentation Home](https://studio.code.org/docs/): Central documentation index for labs, APIs, and classroom tools.
+- [App Lab Concepts](https://studio.code.org/docs/concepts/app-lab/): Concept guides for events, variables, functions, and UI design in App Lab.
+- [Game Lab Concepts](https://studio.code.org/docs/concepts/game-lab/): Concept guides for sprites, animation, conditionals, and game logic.
+- [Web Lab Concepts](https://studio.code.org/docs/concepts/web-lab/): Concept guides for HTML, CSS, and website creation in Web Lab.
+- [JavaScript Concepts](https://studio.code.org/docs/concepts/javascript/): Introductory JavaScript explanations used across Code.org programming environments.
+- [Patterns](https://studio.code.org/docs/concepts/patterns/): Reusable programming patterns for common classroom coding tasks.
+- [Java Lab API](https://studio.code.org/docs/ide/javalab/classes/Neighborhood/): Reference example for Java Lab classes and methods.
+- [App Lab API](https://studio.code.org/docs/ide/applab/expressions/getProperty): API-style reference for App Lab functions and expressions.
 
-- [Professional Learning](https://code.org/professional-learning): Teacher training programs, workshops, and self-paced courses for CS educator development.
-- [Incubator](https://code.org/incubator): Experimental features and pilot programs including AI Foundations and Python IDE.
+## Advocacy and Policy
+- [Promote Computer Science](https://code.org/promote): Advocacy resources for expanding CS education in schools and states.
+- [Advocacy Coalition](https://advocacy.code.org/): Coalition site with policy priorities, campaigns, and state-level advocacy resources.
+- [State of CS Report](https://advocacy.code.org/stateofcs): Data and reporting on access to computer science education across the U.S.
+- [Policy Maker Resources](https://code.org/yourschool): Tools and information for school and district leaders evaluating CS access.
+- [Why Computer Science](https://code.org/why-cs): Evidence and rationale for offering computer science to all students.
 
-## Advocacy & Impact
-
-- [Promote Computer Science & AI in Schools](https://code.org/promote): CS advocacy page promoting equitable access to computer science in schools.
-- [Code.org Advocacy Coalition](https://advocacy.code.org): Coalition of 100+ organizations advancing AI and CS education policy and resources.
-
-## Support & Donations
-
-- [Donate to Code.org](https://code.org/donate): Donation page supporting free curriculum, teacher training, and global CS education.
-- [Campaign Donation](https://donate.code.org/campaign/686056/donate): Campaign donation page for Code.org's 501(c)(3) nonprofit CS education mission.
-
-## Interactive Activities
-
-- [Mix and Move with AI](https://code.org/mix-move-ai): Hands-on classroom activity combining dance, music generation, and AI learning.
+## Organization and Support
+- [Donate](https://code.org/donate): Donation page supporting free curriculum, teacher training, and access initiatives.
+- [Careers](https://code.org/about/jobs): Open roles and employment information for joining Code.org.
+- [Leadership](https://code.org/about/leadership): Profiles of organizational leadership and board members.
+- [Partners](https://code.org/about/partners): Partner organizations supporting Code.org programs and initiatives.
+- [Contact](https://code.org/contact): Contact options for support, media, partnerships, and general inquiries.
+- [Privacy Policy](https://code.org/privacy): Privacy practices governing Code.org websites, tools, and services.
+- [Terms of Service](https://code.org/tos): Terms governing use of Code.org platforms, content, and services.

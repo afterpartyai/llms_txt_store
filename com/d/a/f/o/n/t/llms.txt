@@ -1,53 +1,83 @@
 # DaFont
+> Archive of freely downloadable fonts, browsable by style, author, alphabetical listing, and popularity.
 
-> DaFont is a comprehensive free font repository offering thousands of downloadable typefaces across multiple languages and styles.
+DaFont is a large public font directory focused on discovery and download of free typefaces. The site organizes fonts by visual category, recency, popularity, author pages, and alphabetical indexes, and also provides installation help, submission information, and community discussion.
 
-DaFont serves as a community-driven font library where designers and users can discover, download, and share typefaces for personal and creative projects. The platform supports multiple languages including English, French, Spanish, German, Italian, and Portuguese, making it accessible to a global audience.
+## Main Browsing
+- [Home](https://www.dafont.com/): Main font directory homepage with featured categories, search, and current font listings.
+- [New Fonts](https://www.dafont.com/new.php): Recently added fonts listed in reverse chronological order.
+- [Top Fonts](https://www.dafont.com/top.php): Most downloaded fonts ranked by popularity on the site.
+- [Authors](https://www.dafont.com/authors.php): Directory of font creators and foundries with profile links.
+- [Themes](https://www.dafont.com/themes.php): Browse fonts grouped into themed collections and visual moods.
+- [Forum](https://www.dafont.com/forum/): Community forum for font identification, help, and discussion.
 
-## Key Topics
+## Font Categories
+- [Fancy](https://www.dafont.com/theme.php?cat=101): Decorative and novelty fonts including comic, groovy, and retro styles.
+- [Foreign Look](https://www.dafont.com/theme.php?cat=102): Fonts inspired by cultural, historical, and regional visual styles.
+- [Techno](https://www.dafont.com/theme.php?cat=103): Futuristic, digital, sci-fi, and machine-inspired typefaces.
+- [Bitmap](https://www.dafont.com/theme.php?cat=104): Pixel and low-resolution fonts designed for screen-style rendering.
+- [Gothic](https://www.dafont.com/theme.php?cat=105): Blackletter and medieval-inspired fonts with traditional forms.
+- [Basic](https://www.dafont.com/theme.php?cat=106): Sans serif, serif, fixed-width, and other foundational text styles.
+- [Script](https://www.dafont.com/theme.php?cat=107): Handwritten, calligraphic, brush, and signature-style fonts.
+- [Dingbats](https://www.dafont.com/theme.php?cat=108): Symbol, icon, decorative, and pictogram font collections.
+- [Holiday](https://www.dafont.com/theme.php?cat=109): Seasonal and celebration-themed fonts for events and holidays.
 
-- free fonts
-- font download
-- font library
-- script fonts
-- fancy fonts
-- font installation
-- font categories
-- font authors
-- typography
-- font preview
-- recently added
-- font directory
-- freeware fonts
-- font management
-- Windows/Mac compatibility
+## Fancy Subcategories
+- [Cartoon](https://www.dafont.com/theme.php?cat=101&fpp=200): Playful display fonts suited to comics and informal designs.
+- [Comic](https://www.dafont.com/theme.php?cat=101&page=2): Comic-inspired fonts for speech bubbles, posters, and fun layouts.
+- [Groovy](https://www.dafont.com/theme.php?cat=101&page=3): Retro display fonts with psychedelic and vintage influences.
+- [Old School](https://www.dafont.com/theme.php?cat=101&page=4): Fonts inspired by varsity, tattoo, and classic signage aesthetics.
+- [Curly](https://www.dafont.com/theme.php?cat=101&page=5): Decorative fonts with swashes, curls, and ornamental forms.
+- [Western](https://www.dafont.com/theme.php?cat=101&page=6): Typefaces styled after saloon, rodeo, and frontier lettering.
+- [Eroded](https://www.dafont.com/theme.php?cat=101&page=7): Distressed fonts with worn, grunge, or weathered textures.
+- [Destroy](https://www.dafont.com/theme.php?cat=101&page=8): Experimental and broken-looking fonts with chaotic forms.
 
-## Core Browsing
+## Basic and Script Styles
+- [Sans Serif](https://www.dafont.com/theme.php?cat=501): Clean sans serif fonts for general-purpose display and text use.
+- [Serif](https://www.dafont.com/theme.php?cat=502): Serif fonts ranging from classic book styles to decorative variants.
+- [Fixed Width](https://www.dafont.com/theme.php?cat=503): Monospaced fonts for coding, terminals, and tabular alignment.
+- [Various](https://www.dafont.com/theme.php?cat=504): Miscellaneous basic fonts that do not fit narrower subgroups.
+- [Calligraphy](https://www.dafont.com/theme.php?cat=601): Formal script fonts with pen-based strokes and elegant flourishes.
+- [School](https://www.dafont.com/theme.php?cat=602): Handwriting fonts resembling classroom penmanship and practice sheets.
+- [Handwritten](https://www.dafont.com/theme.php?cat=603): Casual handwritten fonts for personal and informal design work.
+- [Brush](https://www.dafont.com/theme.php?cat=604): Brush-script fonts with textured strokes and painted character.
 
-- [DaFont - Download fonts](https://www.dafont.com): DaFont homepage: browse freely downloadable fonts by style, author, or popularity
-- [New fonts](https://www.dafont.com/new.php): Browse newly added fonts on DaFont by recent upload date
-- [Top fonts](https://www.dafont.com/top.php): Most downloaded and popular fonts on DaFont ranked by popularity
-- [Authors Directory](https://www.dafont.com/authors.php): DaFont font authors directory: browse designers by country and name
+## Discovery and Indexes
+- [A-Z Fonts Index](https://www.dafont.com/alpha.php): Alphabetical index for browsing fonts by initial letter.
+- [A Authors Index](https://www.dafont.com/authors.php?letter=a): Author directory filtered to names beginning with A.
+- [B Authors Index](https://www.dafont.com/authors.php?letter=b): Author directory filtered to names beginning with B.
+- [C Authors Index](https://www.dafont.com/authors.php?letter=c): Author directory filtered to names beginning with C.
+- [Latest Search Page](https://www.dafont.com/search.php): Search interface for finding fonts by name or keyword.
+- [Popular Today](https://www.dafont.com/top.php?period=today): Daily popularity ranking for currently trending fonts.
+- [Popular This Week](https://www.dafont.com/top.php?period=week): Weekly popularity ranking based on recent downloads.
+- [Popular This Month](https://www.dafont.com/top.php?period=month): Monthly popularity ranking for high-demand fonts.
+
+## Authors and Submission
+- [Authors Directory](https://www.dafont.com/authors.php): Browse all font authors and foundries on DaFont.
+- [Submit a Font](https://www.dafont.com/submit.php): Submission page for designers who want to publish fonts.
+- [Author Login](https://www.dafont.com/login.php): Sign-in page for account access and submission management.
+- [Author Registration](https://www.dafont.com/register.php): Account creation page for new submitters and contributors.
+- [Terms for Authors](https://www.dafont.com/submit.php#conditions): Submission conditions and publishing requirements for uploaded fonts.
+
+## Help and Resources
+- [FAQ](https://www.dafont.com/faq.php): Frequently asked questions covering downloads, usage, and installation.
+- [How to Install a Font on Windows](https://www.dafont.com/faq.php#win): Windows font installation instructions and troubleshooting guidance.
+- [How to Install a Font on Mac OS X](https://www.dafont.com/faq.php#mac): Mac installation instructions for downloaded font files.
+- [How to Install a Font on Linux](https://www.dafont.com/faq.php#linux): Linux installation guidance for personal font management.
+- [Commercial Use Information](https://www.dafont.com/faq.php#com): Guidance on licenses, donations, and commercial-use restrictions.
+- [Tools / Software](https://www.dafont.com/soft.php): Recommended font tools and software resources linked by DaFont.
+
+## Community
+- [Forum Home](https://www.dafont.com/forum/): Main discussion board for support and font-related questions.
+- [Font Identification](https://www.dafont.com/forum/list.php?f=1): Forum section for identifying unknown fonts from images or samples.
+- [General Discussion](https://www.dafont.com/forum/list.php?f=2): General community discussions about fonts and typography.
+- [Authors and Publishing](https://www.dafont.com/forum/list.php?f=3): Discussions related to creating, sharing, and publishing fonts.
+- [Technical Help](https://www.dafont.com/forum/list.php?f=4): Troubleshooting area for installation and usage issues.
 
 ## Language Versions
-
-- [DaFont Français](https://www.dafont.com/fr): DaFont French language homepage for font downloads and browsing
-- [DaFont Español](https://www.dafont.com/es): DaFont Spanish language homepage for font downloads and browsing
-- [DaFont Deutsch](https://www.dafont.com/de): DaFont German language homepage for font downloads and browsing
-- [DaFont Italiano](https://www.dafont.com/it): DaFont Italian language homepage for font downloads and browsing
-- [DaFont Português](https://www.dafont.com/pt): DaFont Portuguese language homepage for font downloads and browsing
-
-## User Accounts & Submissions
-
-- [Login](https://www.dafont.com/submit.php): DaFont user login and account access page for font submissions
-
-## Support & Resources
-
-- [FAQ](https://www.dafont.com/faq.php): DaFont FAQ: font installation guides for Windows, Mac, and Linux systems
-- [Community Forum](https://www.dafont.com/forum): DaFont community forum for font identification and user support discussions
-- [Tools](https://www.dafont.com/soft.php): DaFont tools directory: font management and design software recommendations
-
-## Featured Fonts & Authors
-
-- [Floraison des Amours Font](https://www.dafont.com/floraison-des-amours.font): Floraison des Amours: free script calligraphy font by Cat.B for personal use
-- [Cat.B Author Profile](https://www.dafont.com/cat-b.d6546): Cat.B font author profile: calligraphy and script fonts collection
+- [English](https://www.dafont.com/): Default English version of the DaFont website.
+- [Français](https://www.dafont.com/fr/): French-language version of the font directory.
+- [Español](https://www.dafont.com/es/): Spanish-language version of the font directory.
+- [Deutsch](https://www.dafont.com/de/): German-language version of the font directory.
+- [Italiano](https://www.dafont.com/it/): Italian-language version of the font directory.
+- [Português](https://www.dafont.com/pt/): Portuguese-language version of the font directory.

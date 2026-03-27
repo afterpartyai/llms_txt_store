@@ -1,36 +1,92 @@
 # Roblox
+> Roblox is a virtual universe where people create, share, and play immersive experiences across devices.
 
-> Roblox is a user-generated content platform hosting millions of multiplayer games across genres, from survival and horror to RPGs and puzzle games.
+Roblox combines user-generated experiences, social features, a creator platform, developer tools, virtual economy systems, and brand resources. Its ecosystem spans player-facing discovery and account management, creator documentation, API references, talent resources, safety policies, and corporate information.
 
-Roblox provides game discovery tools including trending charts, live player count tracking, and curated spotlights to help players find popular and emerging games. The platform emphasizes multiplayer experiences across diverse genres including action, casual, strategy, and narrative-driven titles.
+## Platform
+- [Home](https://www.roblox.com/): Main entry point for discovering experiences, friends, and platform features.
+- [Discover](https://www.roblox.com/discover): Browse featured, recommended, and trending Roblox experiences.
+- [Charts](https://www.roblox.com/charts): View popular and trending experiences across Roblox.
+- [Catalog](https://www.roblox.com/catalog): Browse avatar items, accessories, clothing, and marketplace content.
+- [Premium](https://www.roblox.com/premium/membership): Learn about Roblox Premium membership benefits and plans.
+- [Gift Cards](https://www.roblox.com/giftcards): Purchase and redeem Roblox gift cards and credits.
+- [Download](https://www.roblox.com/download): Install Roblox on supported desktop platforms.
+- [Mobile Apps](https://www.roblox.com/mobile): Access Roblox mobile app download information.
 
-## Key Topics
+## Accounts & Support
+- [Login](https://www.roblox.com/login): Sign in to a Roblox account.
+- [Sign Up](https://www.roblox.com/CreateAccount): Create a new Roblox account.
+- [My Settings](https://www.roblox.com/my/settings): Manage account, privacy, security, and billing settings.
+- [Transactions](https://www.roblox.com/transactions): Review Robux purchases, sales, and account transaction history.
+- [Redeem Roblox Codes](https://www.roblox.com/redeem): Redeem gift cards, promo codes, and credits.
+- [Support](https://www.roblox.com/support): Contact Roblox support for account and platform issues.
+- [Help Center](https://en.help.roblox.com/hc/en-us): Browse support articles for users, parents, and creators.
+- [Quick Login](https://www.roblox.com/login/quick-login): Sign in on another device using quick login.
 
-- Game Discovery
-- Trending Games
-- Multiplayer Gaming
-- Free-to-Play
-- RPG/MMORPG
-- Horror Games
-- Survival Games
-- Party & Casual Games
-- Puzzle Games
-- Strategy Games
-- Live Player Counts
-- Popular Games
-- Roblox Platform
-- Game Recommendations
-- Co-Op Gaming
+## Create & Develop
+- [Create](https://create.roblox.com/): Central hub for building, publishing, and managing Roblox experiences.
+- [Creator Hub](https://create.roblox.com/docs): Official Roblox creator documentation and technical guides.
+- [Dashboard](https://create.roblox.com/dashboard): Manage experiences, assets, analytics, and creator settings.
+- [Open Cloud](https://create.roblox.com/docs/cloud): Learn about Roblox Open Cloud APIs and services.
+- [Roblox Studio](https://create.roblox.com/docs/studio): Get started with Roblox Studio development tools.
+- [Publishing Experiences](https://create.roblox.com/docs/production/publishing/publishing-experiences-and-places): Publish places and experiences to Roblox.
+- [Assets](https://create.roblox.com/docs/art): Learn asset creation workflows for models, audio, images, and UI.
+- [Monetization](https://create.roblox.com/docs/production/monetization): Explore monetization systems for Roblox experiences.
 
-## Game Charts & Discovery
+## Scripting & Engine Docs
+- [Scripting](https://create.roblox.com/docs/scripting): Learn Luau scripting fundamentals for Roblox experiences.
+- [Luau](https://create.roblox.com/docs/luau): Reference Luau language usage in Roblox development.
+- [Engine API Reference](https://create.roblox.com/docs/reference/engine): Browse classes, enums, properties, and engine members.
+- [UI](https://create.roblox.com/docs/ui): Build interfaces for menus, HUDs, and interactive systems.
+- [Physics](https://create.roblox.com/docs/physics): Understand simulation, constraints, collisions, and movement systems.
+- [Animation](https://create.roblox.com/docs/animation): Create and control character and object animations.
+- [Networking](https://create.roblox.com/docs/projects/client-server): Learn Roblox client-server architecture and replication concepts.
+- [Performance Optimization](https://create.roblox.com/docs/performance-optimization): Improve experience performance across devices.
 
-- [Most Popular Games on Roblox](https://www.roblox.com/charts/top-playing-now): Track most popular Roblox games with live player counts
-- [Trending Survival Games on Roblox](https://www.roblox.com/charts/trending-in-survival): Browse trending survival games on Roblox platform
-- [Trending Party & Casual Games on Roblox](https://www.roblox.com/charts/trending-in-party-and-casual): Discover trending party and casual games on Roblox
-- [Trending Puzzle Games on Roblox](https://www.roblox.com/charts/trending-in-puzzle): Browse trending puzzle games on Roblox platform
-- [Trending Strategy Games on Roblox](https://www.roblox.com/charts/trending-in-strategy): Browse trending strategy games on Roblox platform
+## Open Cloud & APIs
+- [Open Cloud Overview](https://create.roblox.com/docs/cloud): Overview of Roblox Open Cloud capabilities and authentication.
+- [OpenAPI Reference](https://create.roblox.com/docs/cloud/reference): API reference for Roblox Open Cloud endpoints.
+- [Assets API](https://create.roblox.com/docs/cloud/assets): Manage asset workflows with Open Cloud APIs.
+- [Data Stores API](https://create.roblox.com/docs/cloud-services/data-stores): Access and manage persistent data programmatically.
+- [Messaging API](https://create.roblox.com/docs/cloud-services/cross-server-messaging): Send messages across servers and services.
+- [Memory Stores](https://create.roblox.com/docs/cloud-services/memory-stores): Use ephemeral storage for matchmaking and coordination.
+- [Webhooks](https://create.roblox.com/docs/cloud/webhooks): Configure webhooks for Roblox cloud integrations.
+- [OAuth 2.0](https://create.roblox.com/docs/cloud/auth/oauth2-overview): Implement OAuth for Roblox integrations.
 
-## Curated Game Spotlights
+## Guides & Learning
+- [Tutorials](https://create.roblox.com/docs/tutorials): Follow step-by-step tutorials for building Roblox experiences.
+- [Education](https://create.roblox.com/docs/education): Learning resources for students, teachers, and new creators.
+- [Onboarding](https://create.roblox.com/docs/get-started): Start creating with beginner-friendly setup guidance.
+- [Team Create](https://create.roblox.com/docs/projects/collaboration): Collaborate with others on Roblox projects.
+- [Testing](https://create.roblox.com/docs/production/testing): Test and validate experiences before release.
+- [Analytics](https://create.roblox.com/docs/production/analytics): Measure engagement, retention, and monetization performance.
+- [Localization](https://create.roblox.com/docs/production/localization): Localize experiences for global audiences.
+- [Avatar Characters](https://create.roblox.com/docs/art/characters): Create and customize avatar-compatible characters.
 
-- [Roblox Horror Games: Best Multiplayer & Co-Op Picks](https://www.roblox.com/spotlight/horror): Curated horror game recommendations: Doors, Piggy, Dandy's World
-- [Roblox RPG Games: Best Action & MMORPG Picks](https://www.roblox.com/spotlight/roleplaying-games): Top RPG picks: World // Zero, Dungeon Heroes, Deepwoken
+## Community & Talent
+- [DevForum](https://devforum.roblox.com/): Community forum for developers, announcements, and technical discussion.
+- [Talent Hub](https://create.roblox.com/talent): Connect creators, teams, and job opportunities on Roblox.
+- [Creator Events](https://create.roblox.com/events): Find Roblox creator events, programs, and announcements.
+- [Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410): Review expected behavior and platform rules.
+- [Brand Center](https://corp.roblox.com/brand-center/): Access Roblox brand assets and usage guidelines.
+- [Research](https://research.roblox.com/): Explore Roblox research publications and technical work.
+
+## Safety, Privacy & Policies
+- [Safety Center](https://corp.roblox.com/safety/): Learn about Roblox safety systems, parental tools, and moderation.
+- [Privacy Policy](https://www.roblox.com/info/privacy): Review Roblox privacy practices and data handling policies.
+- [Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846): Read Roblox terms governing platform use.
+- [Parents Guide](https://corp.roblox.com/parents/): Resources for parents about controls, safety, and digital wellbeing.
+- [Transparency](https://corp.roblox.com/transparency/): View Roblox transparency reporting and policy information.
+- [Accessibility](https://corp.roblox.com/accessibility/): Learn about Roblox accessibility commitments and features.
+- [Cookie Policy](https://www.roblox.com/info/cookies): Review Roblox cookie usage and controls.
+- [Community Rules](https://en.help.roblox.com/hc/en-us/articles/203313410): Understand moderation expectations and prohibited behavior.
+
+## Corporate
+- [Corporate Site](https://corp.roblox.com/): Company information, newsroom, and corporate resources.
+- [About](https://corp.roblox.com/about/): Learn about Roblox mission, vision, and company background.
+- [Newsroom](https://corp.roblox.com/newsroom/): Read official Roblox company news and announcements.
+- [Careers](https://careers.roblox.com/): Explore jobs and career opportunities at Roblox.
+- [Investors](https://ir.roblox.com/): Access investor relations information and financial reports.
+- [Contact](https://corp.roblox.com/contact/): Find corporate contact and inquiry information.
+- [Leadership](https://corp.roblox.com/leadership/): Meet Roblox leadership and executive team.
+- [Impact](https://corp.roblox.com/impact/): Learn about Roblox social impact and responsibility initiatives.

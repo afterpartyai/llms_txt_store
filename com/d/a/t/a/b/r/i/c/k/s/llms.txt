@@ -1,59 +1,84 @@
 # Databricks
+> Databricks offers a unified platform for data, analytics, and AI on the Data Intelligence Platform.
 
-> Databricks is the leading unified Data and AI platform enabling enterprises to build, deploy, and govern data intelligence and generative AI applications at scale.
+Databricks combines lakehouse storage, data engineering, SQL analytics, governance, machine learning, and generative AI workflows across AWS, Azure, and Google Cloud. Its documentation spans product guides, API references, tutorials, open-source projects, research, and customer implementation patterns.
 
-Databricks provides a comprehensive lakehouse architecture that combines data lakes and warehouses with AI capabilities, governance tools, and ecosystem partnerships. The platform serves Fortune 500 enterprises, startups, and partners across AWS, Azure, and Google Cloud.
+## Core Platform
+- [Databricks](https://www.databricks.com/): Main product site for the Data Intelligence Platform, lakehouse architecture, and platform capabilities.
+- [Data Intelligence Platform](https://www.databricks.com/product/data-intelligence-platform): Overview of Databricks platform for unified data, analytics, and AI workloads.
+- [Data Lakehouse](https://www.databricks.com/product/data-lakehouse): Explains lakehouse architecture combining data lake flexibility with warehouse performance.
+- [Databricks on AWS](https://www.databricks.com/product/aws): Platform overview and deployment options for Databricks on Amazon Web Services.
+- [Databricks on Azure](https://www.databricks.com/product/azure): Platform overview and integration details for Databricks on Microsoft Azure.
+- [Databricks on Google Cloud](https://www.databricks.com/product/google-cloud): Platform overview and deployment details for Databricks on Google Cloud.
 
-## Key Topics
+## Documentation
+- [Databricks Documentation](https://docs.databricks.com/): Central documentation hub for platform concepts, tutorials, administration, and product guides.
+- [Get Started with Databricks](https://docs.databricks.com/getting-started/index.html): Introductory guides for creating workspaces and running first workloads.
+- [Release Notes](https://docs.databricks.com/release-notes/index.html): Product release notes across platform services, runtimes, and features.
+- [Administration and Governance](https://docs.databricks.com/administration-guide/index.html): Admin guidance for workspaces, identity, networking, and security configuration.
+- [SQL Language Reference](https://docs.databricks.com/sql/language-manual/index.html): Reference for Databricks SQL syntax, functions, and statements.
+- [Developer Tools](https://docs.databricks.com/dev-tools/index.html): Tooling docs for CLI, SDKs, IDE integration, and automation workflows.
 
-- Lakehouse Architecture
-- Delta Lake
-- Unity Catalog
-- Data Intelligence Platform
-- Databricks SQL
-- Generative AI
-- GenAI Agents
-- Data Governance
-- ETL/Data Engineering
-- Delta Sharing
-- Mosaic AI
-- DBRX Model
-- Real-time Processing
-- AI Research
-- Cloud Partnerships
+## Data Engineering
+- [Data Engineering on Databricks](https://docs.databricks.com/en/data-engineering/index.html): Documentation for ETL, orchestration, ingestion, and pipeline development.
+- [Lakeflow Declarative Pipelines](https://docs.databricks.com/en/ldp/index.html): Guides for building declarative data pipelines on Databricks.
+- [Structured Streaming](https://docs.databricks.com/en/structured-streaming/index.html): Streaming data processing concepts, APIs, and operational guidance.
+- [Auto Loader](https://docs.databricks.com/en/ingestion/auto-loader/index.html): Incremental file ingestion for cloud object storage at scale.
+- [Workflows](https://docs.databricks.com/en/workflows/index.html): Job orchestration, scheduling, task dependencies, and production automation.
+- [Delta Live Tables](https://docs.databricks.com/en/delta-live-tables/index.html): Managed pipeline development for reliable batch and streaming transformations.
 
-## Core Platform & Architecture
+## Data Warehousing and SQL
+- [Databricks SQL](https://www.databricks.com/product/databricks-sql): Product overview for SQL analytics, dashboards, and serverless warehousing.
+- [Databricks SQL Documentation](https://docs.databricks.com/en/sql/index.html): Documentation for SQL warehouses, queries, dashboards, and BI connectivity.
+- [SQL Warehouses](https://docs.databricks.com/en/compute/sql-warehouse/index.html): Configure and manage SQL warehouses for analytics workloads.
+- [Dashboards](https://docs.databricks.com/en/dashboards/index.html): Build and share dashboards for business intelligence and reporting.
+- [Query Federation](https://docs.databricks.com/en/query-federation/index.html): Query external databases without moving all data into Databricks.
+- [BI and Visualization Tools](https://docs.databricks.com/en/partners/bi.html): Connect Databricks SQL to BI platforms and visualization tools.
 
-- [Databricks: Leading Data and AI Platform for Enterprises](https://www.databricks.com): Databricks unified data and AI platform with Lakebase, Agent Bricks, and lakehouse architecture
-- [Data Lakehouse Architecture | Databricks](https://www.databricks.com/product/data-lakehouse): Lakehouse architecture combining data lakes and warehouses with Delta Lake and Apache Spark
-- [Databricks IQ: AI-Driven Analytics for Faster Data Insights | Databricks](https://www.databricks.com/product/data-intelligence-platform): Databricks IQ AI-driven analytics with natural language interface and lakehouse architecture
+## AI and Machine Learning
+- [Artificial Intelligence](https://www.databricks.com/product/artificial-intelligence): Product overview for ML, generative AI, and model development on Databricks.
+- [Machine Learning Documentation](https://docs.databricks.com/en/machine-learning/index.html): End-to-end ML guides for training, tracking, deployment, and governance.
+- [Mosaic AI](https://www.databricks.com/product/mosaic-ai): Overview of Databricks capabilities for generative AI application development.
+- [MLflow on Databricks](https://docs.databricks.com/en/mlflow/index.html): Experiment tracking, model registry, and model lifecycle management.
+- [Feature Engineering](https://docs.databricks.com/en/machine-learning/feature-store/index.html): Manage and serve reusable features for machine learning workflows.
+- [Model Serving](https://docs.databricks.com/en/machine-learning/model-serving/index.html): Deploy models and AI endpoints for real-time inference.
 
-## Data Management & Governance
+## Governance and Sharing
+- [Unity Catalog](https://www.databricks.com/product/unity-catalog): Unified governance for data, AI assets, access control, and lineage.
+- [Unity Catalog Documentation](https://docs.databricks.com/en/data-governance/unity-catalog/index.html): Setup and usage guides for centralized governance across workspaces.
+- [Delta Sharing](https://www.databricks.com/product/delta-sharing): Open data sharing protocol for secure cross-platform data exchange.
+- [Delta Sharing Documentation](https://docs.databricks.com/en/delta-sharing/index.html): Documentation for providers, recipients, shares, and secure collaboration.
+- [Data Lineage](https://docs.databricks.com/en/data-governance/unity-catalog/data-lineage.html): Track upstream and downstream dependencies for governed assets.
+- [Access Control Lists](https://docs.databricks.com/en/security/auth/access-control/index.html): Configure permissions for workspaces, compute, jobs, and data assets.
 
-- [Lakehouse Storage | Databricks](https://www.databricks.com/product/delta-lake-on-databricks): Delta Lake lakehouse storage with open table formats, Iceberg, and Unity Catalog
-- [Unity Catalog | Databricks](https://www.databricks.com/product/unity-catalog): Unity Catalog unified governance for data and AI assets with access control
-- [Databricks Delta Sharing - Data Sharing | Databricks](https://www.databricks.com/product/delta-sharing): Delta Sharing cross-platform data sharing and collaboration without proprietary formats
+## Delta Lake and Open Source
+- [Delta Lake on Databricks](https://www.databricks.com/product/delta-lake-on-databricks): Product overview for reliable lakehouse storage with ACID transactions.
+- [Delta Lake Documentation](https://docs.databricks.com/en/delta/index.html): Guides for Delta tables, optimization, schema evolution, and operations.
+- [Apache Spark on Databricks](https://www.databricks.com/product/apache-spark): Overview of Databricks runtime and Spark-based data processing.
+- [Delta Lake](https://delta.io/): Open-source Delta Lake project for transactional storage on data lakes.
+- [MLflow](https://mlflow.org/): Open-source platform for managing machine learning experiments and models.
+- [Apache Spark](https://spark.apache.org/): Open-source distributed compute engine underlying many Databricks workloads.
 
-## Data Engineering & Analytics
+## APIs, SDKs, and Developer Tools
+- [REST API Reference](https://docs.databricks.com/api/workspace/introduction): Reference for Databricks workspace and account REST APIs.
+- [Databricks CLI](https://docs.databricks.com/en/dev-tools/cli/index.html): Command-line interface for workspace management and automation.
+- [Databricks SDK for Python](https://docs.databricks.com/en/dev-tools/sdk-python.html): Python SDK for interacting with Databricks APIs programmatically.
+- [Databricks SDK for Java](https://docs.databricks.com/en/dev-tools/sdk-java.html): Java SDK for building integrations and automating platform operations.
+- [Databricks SDK for Go](https://docs.databricks.com/en/dev-tools/sdk-go.html): Go SDK for account and workspace automation tasks.
+- [Terraform Provider](https://docs.databricks.com/en/dev-tools/terraform/index.html): Infrastructure as code guidance for provisioning Databricks resources.
 
-- [Lakeflow: Unified Data Engineering | Databricks](https://www.databricks.com/product/data-engineering): Lakeflow unified data engineering for ETL pipelines and real-time processing
-- [Data Warehousing with Databricks SQL | Databricks](https://www.databricks.com/product/databricks-sql): Databricks SQL serverless warehouse with Photon and Power BI integration
+## Tutorials and Learning
+- [Tutorials](https://docs.databricks.com/en/getting-started/tutorials/index.html): Hands-on tutorials for analytics, engineering, and machine learning workflows.
+- [Quickstarts](https://docs.databricks.com/en/getting-started/quickstarts.html): Short setup guides for common Databricks tasks and product features.
+- [Training](https://www.databricks.com/learn/training/home): Official training catalog for Databricks platform and role-based learning.
+- [Academy](https://www.databricks.com/learn): Learning hub for courses, certifications, and enablement resources.
+- [Certification](https://www.databricks.com/learn/certification): Certification program for data engineering, analytics, and machine learning roles.
+- [Resources](https://www.databricks.com/resources): Library of ebooks, webinars, solution guides, and technical assets.
 
-## AI & Machine Learning
-
-- [Production-quality ML and GenAI | Databricks](https://www.databricks.com/product/artificial-intelligence): Mosaic AI for building and deploying GenAI agents and ML applications
-- [Databricks AI Research | Databricks](https://www.databricks.com/research/databricks-ai-research): AI research breakthroughs including DBRX model and open-source LLM development
-
-## Customers & Use Cases
-
-- [Customer Stories | Databricks](https://www.databricks.com/customers): Fortune 500 customer case studies and AI adoption stories on Data Intelligence Platform
-- [Why Databricks for Executives | Databricks](https://www.databricks.com/why-databricks/executives): Executive-focused value proposition for Data Intelligence Platform and generative AI
-- [Transform Your Startup with Databricks: Data & AI at Scale | Databricks](https://www.databricks.com/product/startups): Databricks startup program with $50K credits and go-to-market support
-
-## Ecosystem & Partnerships
-
-- [Partners | Databricks](https://www.databricks.com/partners): Partner ecosystem including OpenAI, Anthropic, Palantir for data and AI solutions
-- [Cloud Partners | Databricks](https://www.databricks.com/partners/cloud-partners): AWS, Azure, Google Cloud integrations for seamless data intelligence
-- [Partner Program | Databricks](https://www.databricks.com/partners/partner-program): Partner program with training, technical support, and co-selling opportunities
-- [Partner Directory | Databricks](https://www.databricks.com/partners/partner-directory): Partner directory for data and AI solutions and deployment support
-- [Partner Spotlight | Databricks](https://www.databricks.com/partners/partner-spotlight): Featured partner collaborations driving data and AI innovation
+## Research, Blog, and Community
+- [Databricks Blog](https://www.databricks.com/blog): Product updates, engineering deep dives, and customer implementation stories.
+- [AI Research](https://www.databricks.com/research): Research publications and announcements from Databricks research teams.
+- [Databricks Mosaic Research](https://www.databricks.com/research/mosaic): Research related to foundation models and generative AI systems.
+- [Community](https://community.databricks.com/): Community forums for technical questions, product discussions, and peer support.
+- [Events](https://www.databricks.com/dataaisummit): Data + AI Summit event hub with sessions and conference information.
+- [Customer Stories](https://www.databricks.com/customers): Case studies showing how organizations use Databricks in production.

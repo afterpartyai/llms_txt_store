@@ -1,42 +1,61 @@
 # Goodreads
+> Discover, track, review, and discuss books with the world’s largest community of readers.
 
-> Goodreads is a social platform for discovering, sharing, and discussing books across diverse genres with personalized recommendations and reading challenges.
+Goodreads helps readers find books they’ll love, organize reading lists, rate and review titles, browse genres and lists, and follow authors, friends, and literary news.
 
-Goodreads connects millions of readers through book discovery, ratings, reviews, and community features. The platform supports browsing across numerous genres including fiction, nonfiction, classics, children's books, and specialized categories like business and biography.
+## Core Discovery
+- [Home](https://www.goodreads.com/): Main discovery page featuring recommendations, quotes, lists, and literary news.
+- [Search Books](https://www.goodreads.com/search): Search for books, authors, genres, and user-created lists.
+- [Browse Genres](https://www.goodreads.com/genres): Explore books by genre, topic, and reading interest.
+- [Book Lists](https://www.goodreads.com/list): Browse curated and user-voted lists of books.
+- [Choice Awards](https://www.goodreads.com/choiceawards): Annual reader-voted awards across major book categories.
+- [News & Interviews](https://www.goodreads.com/news): Editorial features, author interviews, and book-related news.
+- [Quotes](https://www.goodreads.com/quotes): Discover popular literary quotes by book, author, and topic.
 
-## Key Topics
+## Books & Reviews
+- [Book Browse](https://www.goodreads.com/book): Entry point for Goodreads book pages and book discovery.
+- [New Releases](https://www.goodreads.com/new_releases): Browse recently published and upcoming books by category.
+- [Recommendations](https://www.goodreads.com/recommendations): Personalized book recommendations based on reading activity.
+- [Giveaways](https://www.goodreads.com/giveaway): Enter book giveaways and browse current promotional listings.
+- [Popular Books](https://www.goodreads.com/book/popular_by_date): See popular books by publication date and reader interest.
+- [Review Guidelines Help](https://help.goodreads.com/): Help resources for ratings, reviews, shelves, and book pages.
 
-- Book recommendations
-- Book discovery
-- Genre browsing
-- Reading challenges
-- User authentication
-- Book giveaways
-- New releases
-- User accounts
-- Social reading
-- Literary classics
-- Goodreads LLC
-- Amazon integration
-- Single sign-on (SSO)
-- Book ratings and reviews
-- Reading community
+## Lists, Genres & Awards
+- [Best Books Ever](https://www.goodreads.com/list/show/1.Best_Books_Ever): Goodreads’ flagship community-voted list of top books.
+- [Fiction Genre](https://www.goodreads.com/genres/fiction): Browse popular fiction titles, new books, and recommendations.
+- [Fantasy Genre](https://www.goodreads.com/genres/fantasy): Explore fantasy books, series, and reader favorites.
+- [Romance Genre](https://www.goodreads.com/genres/romance): Discover romance novels, lists, and trending titles.
+- [Mystery Genre](https://www.goodreads.com/genres/mystery): Browse mystery and crime books with community ratings.
+- [Historical Fiction Genre](https://www.goodreads.com/genres/historical-fiction): Explore historical fiction books and popular recommendations.
+- [Science Fiction Genre](https://www.goodreads.com/genres/science-fiction): Find science fiction books, series, and reader favorites.
 
-## Authentication & Account
+## Community & Social Reading
+- [Groups](https://www.goodreads.com/group): Join reader groups organized around genres, themes, and interests.
+- [Discussions](https://www.goodreads.com/topic): Participate in community discussions about books and reading.
+- [User Profile](https://www.goodreads.com/user/show): View reader profiles, shelves, reviews, and activity.
+- [Friends](https://www.goodreads.com/friend): Connect with friends and follow their reading activity.
+- [Reading Challenge](https://www.goodreads.com/challenges): Set and track annual reading goals.
+- [Recommendations from Friends](https://www.goodreads.com/recommendations): Get socially informed recommendations and reading suggestions.
 
-- [Sign in](https://www.goodreads.com/user/sign_in): Goodreads authentication with Amazon, Google, and Apple SSO
-- [Goodreads Sign in](https://www.goodreads.com/challenges/11680): Goodreads login page with password reset and account access
+## Authors & Publishing
+- [Author Program](https://www.goodreads.com/author/program): Tools and information for authors on Goodreads.
+- [Author Dashboard](https://www.goodreads.com/author/dashboard): Manage author presence, books, and reader engagement.
+- [Author Blog News](https://www.goodreads.com/news?content_type=author_blogs): Posts and updates from authors and advertising partners.
+- [Advertisers](https://www.goodreads.com/advertisers): Advertising options for publishers, authors, and book marketers.
+- [Author Help](https://help.goodreads.com/): Support resources for author accounts and book management.
 
-## Genre Browsing & Discovery
+## Account & Access
+- [Sign In](https://www.goodreads.com/user/sign_in): Log in to Goodreads with supported account options.
+- [Join Goodreads](https://www.goodreads.com/user/sign_up): Create a Goodreads account to track and review books.
+- [Help Center](https://help.goodreads.com/s/): Official support center for account, shelves, reviews, and policies.
+- [Mobile Version](https://www.goodreads.com/toggle_mobile): Switch to Goodreads’ mobile web experience.
+- [Ad Preferences](https://www.goodreads.com/adprefs): Manage Goodreads advertising preference settings.
+- [Your Ads Privacy Choices](https://www.goodreads.com/ccbaprefs): Control privacy choices related to advertising and data use.
 
-- [Art Books](https://www.goodreads.com/genres/art): Browse Art genre books with new releases and recommendations
-- [Biography Books](https://www.goodreads.com/genres/biography): Browse Biography genre with new releases and popular titles
-- [Business Books](https://www.goodreads.com/genres/business): Browse Business genre with leadership and productivity books
-- [Childrens Books](https://www.goodreads.com/genres/children-s): Browse Children's books with illustrated stories and giveaways
-- [Christian Books](https://www.goodreads.com/genres/christian): Browse Christian fiction and living books with recommendations
-- [Classics Books](https://www.goodreads.com/genres/classics): Browse literary classics including Orwell, Fitzgerald, Morrison
-
-## Legal & Policies
-
-- [Terms of Use](https://www.goodreads.com/about/terms): Goodreads LLC terms of service and user responsibilities
-- [Privacy Policy](https://www.goodreads.com/about/privacy): Goodreads LLC data collection and privacy practices
+## Company & Support
+- [About Us](https://www.goodreads.com/about/us): Learn about Goodreads, its mission, and company background.
+- [Careers](https://www.goodreads.com/jobs): Explore job openings and employment information.
+- [Help](https://www.goodreads.com/help?action_type=help_web_footer): Access support and frequently asked questions.
+- [Terms of Use](https://www.goodreads.com/about/terms): Legal terms governing use of Goodreads services.
+- [Privacy Policy](https://www.goodreads.com/about/privacy): Goodreads privacy practices and data handling details.
+- [Interest-Based Ads Notice](https://help.goodreads.com/s/article/Goodreads-Interest-Based-Ads-Notice): Information about interest-based advertising on Goodreads.

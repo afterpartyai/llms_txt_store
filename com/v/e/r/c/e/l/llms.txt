@@ -1,55 +1,379 @@
-# Vercel
+# Documentation
 
-> > Vercel is a cloud platform for deploying and scaling web applications, featuring AI Gateway for unified access to AI models, frontend frameworks like Next.js, and developer tools including v0, Turborepo, and Vercel Agent.
+# Vercel Documentation
 
-Vercel provides infrastructure for modern web development with deep integrations for AI model deployment through AI Gateway, supporting models from providers like Meta, Google, Alibaba, xAI, and Black Forest Labs. The platform specializes in serverless deployment, edge computing, and AI-powered development workflows.
+[Vercel Documentation](https://vercel.com/docs): Vercel is the AI Cloud - a unified platform for building, deploying, and scaling AI-powered applications and agentic workloads.
 
-## Key Topics
+- [Getting Started](https://vercel.com/docs/getting-started-with-vercel): Install the Vercel CLI, add the Vercel Plugin or agent skills, and deploy your first project.
+- [Fundamental Concepts](https://vercel.com/docs/fundamentals): Learn about the core concepts of Vercel
+  - [Request Lifecycle](https://vercel.com/docs/fundamentals/infrastructure): Learn how Vercel routes, secures, and serves requests from your users to your application.
+  - [Build System](https://vercel.com/docs/fundamentals/builds): Learn how Vercel transforms your source code into optimized assets ready to serve globally.
+  - [What is Compute?](https://vercel.com/docs/fundamentals/what-is-compute): Learn about the different models for compute and how they can be used with Vercel.
+- [Supported Frameworks](https://vercel.com/docs/frameworks): Vercel supports a wide range of the most popular frameworks, optimizing how your application builds and runs no matter what tool you use.
+  - [Full-stack](https://vercel.com/docs/frameworks/full-stack): Vercel supports a wide range of the most popular backend frameworks, optimizing how your application builds and runs no matter what tooling you use.
+    - [Next.js](https://vercel.com/docs/frameworks/full-stack/nextjs): Vercel is the native Next.js platform, designed to enhance the Next.js experience.
+    - [SvelteKit](https://vercel.com/docs/frameworks/full-stack/sveltekit): Learn how to use Vercel
+    - [Nuxt](https://vercel.com/docs/frameworks/full-stack/nuxt): Learn how to use Vercel
+    - [Remix](https://vercel.com/docs/frameworks/full-stack/remix): Learn how to use Vercel
+    - [TanStack Start](https://vercel.com/docs/frameworks/full-stack/tanstack-start): Learn how to use Vercel
+    - [Vite + Nitro](https://vercel.com/docs/frameworks/full-stack/vite-with-nitro): Add a backend to any Vite app with Nitro and deploy to Vercel with zero configuration.
+  - [Frontends](https://vercel.com/docs/frameworks/frontend): Vercel supports a wide range of the most popular frontend frameworks, optimizing how your application builds and runs no matter what tooling you use.
+    - [Astro](https://vercel.com/docs/frameworks/frontend/astro): Learn how to use Vercel
+    - [Vite](https://vercel.com/docs/frameworks/frontend/vite): Learn how to use Vercel
+    - [React Router](https://vercel.com/docs/frameworks/frontend/react-router): Learn how to use Vercel
+    - [Create React App](https://vercel.com/docs/frameworks/frontend/create-react-app): Learn how to use Vercel
+  - [Backends](https://vercel.com/docs/frameworks/backend): Vercel supports a wide range of the most popular backend frameworks, optimizing how your application builds and runs no matter what tooling you use.
+    - [Nitro](https://vercel.com/docs/frameworks/backend/nitro): Deploy Nitro applications to Vercel with zero configuration. Learn about observability, ISR, and custom build configurations.
+    - [Express](https://vercel.com/docs/frameworks/backend/express): Deploy Express applications to Vercel with zero configuration. Learn about middleware and Vercel Functions.
+    - [Elysia](https://vercel.com/docs/frameworks/backend/elysia): Build fast TypeScript backends with Elysia and deploy to Vercel. Learn the project structure, plugins, middleware, and how to run locally and in production.
+    - [FastAPI](https://vercel.com/docs/frameworks/backend/fastapi): Deploy FastAPI applications to Vercel with zero configuration. Learn about the Python runtime, ASGI, static assets, and Vercel Functions.
+    - [Fastify](https://vercel.com/docs/frameworks/backend/fastify): Deploy Fastify applications to Vercel with zero configuration.
+    - [Flask](https://vercel.com/docs/frameworks/backend/flask): Deploy Flask applications to Vercel with zero configuration. Learn about the Python runtime, WSGI, static assets, and Vercel Functions.
+    - [Hono](https://vercel.com/docs/frameworks/backend/hono): Deploy Hono applications to Vercel with zero configuration. Learn about observability, ISR, and custom build configurations.
+    - [Koa](https://vercel.com/docs/frameworks/backend/koa): Deploy Koa applications to Vercel with zero configuration.
+    - [NestJS](https://vercel.com/docs/frameworks/backend/nestjs): Deploy NestJS applications to Vercel with zero configuration.
+    - [xmcp](https://vercel.com/docs/frameworks/backend/xmcp): Build MCP-compatible backends with xmcp and deploy to Vercel. Learn the project structure, tool format, middleware, and how to run locally and in production.
+  - [All Frameworks](https://vercel.com/docs/frameworks/more-frameworks): Learn about the frameworks that can be deployed to Vercel.
+- [Incremental Migration](https://vercel.com/docs/incremental-migration): Learn how to migrate your app or website to Vercel with minimal risk and high impact.
+- [Production Checklist](https://vercel.com/docs/production-checklist): Ensure your application is ready for launch with this comprehensive production checklist by the Vercel engineering team. Covering operational excellence, security, reliability, performance efficiency, and cost optimization.
+- APIs & SDKs
+  - [Marketplace Partner API](https://vercel.com/docs/integrations/create-integration/marketplace-api/reference/partner): Partner API overview page with list of all endpoints
+  - [Marketplace Vercel API](https://vercel.com/docs/integrations/create-integration/marketplace-api/reference/vercel): Vercel API overview page with list of all endpoints
 
-- AI Gateway
-- Next.js
-- AI SDK
-- TypeScript
-- Model Playground
-- API Integration
-- Image Generation
-- Video Generation
-- Text Embedding
-- Tool Calling
-- Vercel Agent
-- v0
-- Turborepo
-- Edge Functions
-- Serverless Deployment
+## Access
+- [Account Management](https://vercel.com/docs/accounts): Learn how to manage your Vercel account and team members.
+- [Sign in with Vercel](https://vercel.com/docs/sign-in-with-vercel): Learn how to Sign in with Vercel
+  - [Getting Started](https://vercel.com/docs/sign-in-with-vercel/getting-started): Learn how to get started with Sign in with Vercel
+  - [Scopes & Permissions](https://vercel.com/docs/sign-in-with-vercel/scopes-and-permissions): Learn how to manage scopes and permissions for Sign in with Vercel
+  - [Tokens](https://vercel.com/docs/sign-in-with-vercel/tokens): Learn how to Sign in with Vercel
+  - [Authorization Server API](https://vercel.com/docs/sign-in-with-vercel/authorization-server-api): Learn how to use the Authorization Server API
+  - [Manage from Dashboard](https://vercel.com/docs/sign-in-with-vercel/manage-from-dashboard): Learn how to manage Sign in with Vercel from the Dashboard
+  - [Consent Page](https://vercel.com/docs/sign-in-with-vercel/consent-page): Learn how the consent page works when users authorize your app
+  - [Troubleshooting](https://vercel.com/docs/sign-in-with-vercel/troubleshooting): Learn how to troubleshoot common errors with Sign in with Vercel
+- [Activity Log](https://vercel.com/docs/activity-log): Learn how to use the Activity Log, which provides a list of all events on a team, chronologically organized since its creation.
+- [Deployment Protection](https://vercel.com/docs/deployment-protection): Learn how to control access to your Vercel project
+  - [Bypass Deployment Protection](https://vercel.com/docs/deployment-protection/methods-to-bypass-deployment-protection): Learn how to bypass Deployment Protection for specific domains, or for all deployments in a project.
+    - [Exceptions](https://vercel.com/docs/deployment-protection/methods-to-bypass-deployment-protection/deployment-protection-exceptions): Disable Deployment Protection for a list of preview domains.
+    - [OPTIONS Allowlist](https://vercel.com/docs/deployment-protection/methods-to-bypass-deployment-protection/options-allowlist): Learn how to disable Deployment Protection for CORS preflight requests for a list of paths.
+    - [Protection Bypass for Automation](https://vercel.com/docs/deployment-protection/methods-to-bypass-deployment-protection/protection-bypass-automation): Learn how to bypass Vercel Deployment Protection for automated tooling (e.g. E2E testing).
+    - [Sharable Links](https://vercel.com/docs/deployment-protection/methods-to-bypass-deployment-protection/sharable-links): Learn how to share your deployments with external users.
+  - [Protect Deployments](https://vercel.com/docs/deployment-protection/methods-to-protect-deployments): Vercel offers three methods to protect your deployments: Vercel Authentication, Password Protection, and Trusted IPs.
+    - [Password Protection](https://vercel.com/docs/deployment-protection/methods-to-protect-deployments/password-protection): Require visitors to enter a password before they can view your deployments.
+    - [Restrict access to deployments with Vercel Authentication](https://vercel.com/docs/deployment-protection/methods-to-protect-deployments/vercel-authentication): Vercel Authentication restricts access to your deployments so only authorized users can view and comment on your site.
+    - [Trusted IPs](https://vercel.com/docs/deployment-protection/methods-to-protect-deployments/trusted-ips): Trusted IPs let you restrict access to your deployments to a list of allowed IP addresses.
+  - [Automated & Agent Access](https://vercel.com/docs/deployment-protection/automated-agent-access): Grant AI agents, CI/CD pipelines, MCP servers, and testing tools access to Vercel deployments that have Deployment Protection enabled.
+- [Directory Sync](https://vercel.com/docs/directory-sync): Learn how to configure Directory Sync for your Vercel Team.
+- [SAML SSO](https://vercel.com/docs/saml): Learn how to configure SAML SSO for your organization on Vercel.
+- [Two-factor (2FA)](https://vercel.com/docs/two-factor-authentication): Learn how to configure two-factor authentication for your Vercel account.
 
-## AI Gateway - Language & Reasoning Models
+## AI
+- [Vercel Agent](https://vercel.com/docs/agent): AI-powered development tools that speed up your workflow and help resolve issues faster
+  - [Code Review](https://vercel.com/docs/agent/pr-review): Get automatic AI-powered code reviews on your pull requests
+    - [Managing Reviews](https://vercel.com/docs/agent/pr-review/usage): Customize which repositories get reviewed and track your review metrics and spending.
+  - [Investigation](https://vercel.com/docs/agent/investigation): Let AI investigate your error alerts to help you debug faster
+  - [Installation](https://vercel.com/docs/agent/installation): Let AI automatically install Web Analytics and Speed Insights in your app
+  - [Pricing](https://vercel.com/docs/agent/pricing): Understand how Vercel Agent pricing works and how to manage your credits
+- [AI SDK](https://vercel.com/docs/ai-sdk): TypeScript toolkit for building AI-powered applications with React, Next.js, Vue, Svelte and Node.js
+- [AI Gateway](https://vercel.com/docs/ai-gateway): AI Gateway provides a unified API to access hundreds of AI models through a single endpoint, with built-in budgets, usage monitoring, and fallbacks.
+  - [Getting Started](https://vercel.com/docs/ai-gateway/getting-started): Get started with AI Gateway by generating text, images, or video.
+    - [Text](https://vercel.com/docs/ai-gateway/getting-started/text): Generate and stream text responses using AI Gateway.
+    - [Image](https://vercel.com/docs/ai-gateway/getting-started/image): Generate images from text prompts using AI Gateway.
+    - [Video](https://vercel.com/docs/ai-gateway/getting-started/video): Generate videos from text prompts, images, or video input using AI Gateway.
+  - [Models & Providers](https://vercel.com/docs/ai-gateway/models-and-providers): Learn about models and providers for the AI Gateway.
+    - [Provider Options](https://vercel.com/docs/ai-gateway/models-and-providers/provider-options): Configure provider routing, ordering, and fallback behavior in Vercel AI Gateway
+    - [Model Fallbacks](https://vercel.com/docs/ai-gateway/models-and-providers/model-fallbacks): Configure model-level failover to try backup models when the primary model is unavailable
+    - [Provider Timeouts](https://vercel.com/docs/ai-gateway/models-and-providers/provider-timeouts): Configure per-provider timeouts for fast failover when a provider is slow to respond.
+    - [Automatic Caching](https://vercel.com/docs/ai-gateway/models-and-providers/automatic-caching): Enable automatic prompt caching across providers with AI Gateway to reduce costs and latency.
+    - [Provider Filtering & Ordering](https://vercel.com/docs/ai-gateway/models-and-providers/provider-filtering-and-ordering): Control which providers handle your requests and in what order using the order and only options.
+    - [Model Variants](https://vercel.com/docs/ai-gateway/models-and-providers/model-variants): Enable provider-specific capabilities via headers when calling models through AI Gateway.
+  - [Capabilities](https://vercel.com/docs/ai-gateway/capabilities): Explore AI Gateway capabilities including reasoning, image generation, video generation, web search, observability, usage tracking, and data retention policies.
+    - [Custom Reporting](https://vercel.com/docs/ai-gateway/capabilities/custom-reporting): Query AI Gateway usage data grouped by model, user, tag, provider, or credential type using the Custom Reporting API.
+    - [Observability](https://vercel.com/docs/ai-gateway/capabilities/observability): Learn how to monitor and debug your AI Gateway requests.
+    - [Usage & Billing](https://vercel.com/docs/ai-gateway/capabilities/usage): Monitor your AI Gateway credit balance, usage, and generation details.
+    - [Image Generation](https://vercel.com/docs/ai-gateway/capabilities/image-generation): Generate and edit images using AI models through Vercel AI Gateway with support for multiple providers and modalities.
+      - [Using AI SDK](https://vercel.com/docs/ai-gateway/capabilities/image-generation/ai-sdk): Generate and edit images using AI models through Vercel AI Gateway with the AI SDK.
+      - [Using Chat Completions API](https://vercel.com/docs/ai-gateway/capabilities/image-generation/openai): Generate and edit images using AI models through Vercel AI Gateway with the Chat Completions API.
+    - [Video Generation](https://vercel.com/docs/ai-gateway/capabilities/video-generation): Generate videos from text prompts, images, or video input using AI models through Vercel AI Gateway.
+      - [Text-to-Video](https://vercel.com/docs/ai-gateway/capabilities/video-generation/text-to-video): Generate videos from text prompts using Google Veo, KlingAI, Wan, Grok Imagine Video, or ByteDance Seedance through AI Gateway.
+      - [Image-to-Video](https://vercel.com/docs/ai-gateway/capabilities/video-generation/image-to-video): Animate static images into videos using Google Veo, KlingAI, Wan, Grok Imagine Video, or ByteDance Seedance through AI Gateway.
+      - [Reference-to-Video](https://vercel.com/docs/ai-gateway/capabilities/video-generation/reference-to-video): Generate videos featuring characters from reference images or videos using Wan through AI Gateway.
+      - [Motion Control](https://vercel.com/docs/ai-gateway/capabilities/video-generation/motion-control): Transfer motion from a reference video to a character image using KlingAI through AI Gateway.
+      - [Video Editing](https://vercel.com/docs/ai-gateway/capabilities/video-generation/video-editing): Edit existing videos using text prompts with Grok Imagine Video through AI Gateway.
+    - [Web Search](https://vercel.com/docs/ai-gateway/capabilities/web-search): Enable AI models to search the web for current information using built-in tools through AI Gateway.
+    - [Reasoning](https://vercel.com/docs/ai-gateway/capabilities/reasoning): Enable reasoning and extended thinking across providers with the AI SDK and AI Gateway.
+      - [OpenAI](https://vercel.com/docs/ai-gateway/capabilities/reasoning/openai): Configure reasoning and thinking for OpenAI models with the AI SDK and AI Gateway.
+      - [Anthropic](https://vercel.com/docs/ai-gateway/capabilities/reasoning/anthropic): Configure extended thinking for Anthropic Claude models with the AI SDK and AI Gateway.
+      - [Google / Vertex](https://vercel.com/docs/ai-gateway/capabilities/reasoning/google): Configure thinking for Google Gemini models with the AI SDK and AI Gateway.
+      - [Amazon Bedrock](https://vercel.com/docs/ai-gateway/capabilities/reasoning/amazon-bedrock): Configure reasoning for models hosted on Amazon Bedrock with the AI SDK and AI Gateway.
+    - [Service Tiers](https://vercel.com/docs/ai-gateway/capabilities/service-tiers): Control processing priority and cost for OpenAI models using service tiers through AI Gateway.
+    - [Zero Data Retention](https://vercel.com/docs/ai-gateway/capabilities/zdr): Learn about zero data retention policies and how to enforce ZDR on a per-request basis with AI Gateway.
+  - [SDKs & APIs](https://vercel.com/docs/ai-gateway/sdks-and-apis): Use the AI Gateway with various SDKs and API specifications including OpenAI, Anthropic, and OpenResponses.
+    - [AI SDK](https://vercel.com/docs/ai-gateway/sdks-and-apis/ai-sdk): Build AI-powered TypeScript applications using the AI SDK with AI Gateway for unified access to 200+ models.
+    - [OpenAI Responses API](https://vercel.com/docs/ai-gateway/sdks-and-apis/responses): Use the OpenAI Responses API with AI Gateway to generate text, call tools, stream tokens, and more across any supported provider.
+    - [OpenAI Chat Completions API](https://vercel.com/docs/ai-gateway/sdks-and-apis/openai-chat-completions): Use the OpenAI Chat Completions API with AI Gateway for seamless integration with existing tools and libraries.
+      - [Chat Completions](https://vercel.com/docs/ai-gateway/sdks-and-apis/openai-chat-completions/chat-completions): Create chat completions using the Chat Completions API with support for streaming, image attachments, and PDF documents.
+      - [Tool Calls](https://vercel.com/docs/ai-gateway/sdks-and-apis/openai-chat-completions/tool-calls): Use function calling with the Chat Completions API to enable models to call tools and functions through AI Gateway.
+      - [Structured Outputs](https://vercel.com/docs/ai-gateway/sdks-and-apis/openai-chat-completions/structured-outputs): Generate structured JSON responses that conform to a specific schema using the Chat Completions API.
+      - [Advanced](https://vercel.com/docs/ai-gateway/sdks-and-apis/openai-chat-completions/advanced): Configure reasoning, provider options, model fallbacks, BYOK credentials, and prompt caching.
+      - [Embeddings](https://vercel.com/docs/ai-gateway/sdks-and-apis/openai-chat-completions/embeddings): Generate vector embeddings from input text for semantic search, similarity matching, and RAG applications.
+      - [Image Generation](https://vercel.com/docs/ai-gateway/sdks-and-apis/openai-chat-completions/image-generation): Generate images using AI models that support multimodal output through the Chat Completions API.
+      - [REST API](https://vercel.com/docs/ai-gateway/sdks-and-apis/openai-chat-completions/rest-api): Use the AI Gateway API directly without client libraries using curl and fetch.
+    - [Anthropic Messages API](https://vercel.com/docs/ai-gateway/sdks-and-apis/anthropic-messages-api): Use the Anthropic Messages API with AI Gateway for seamless integration with Anthropic SDK tools.
+      - [Messages](https://vercel.com/docs/ai-gateway/sdks-and-apis/anthropic-messages-api/messages): Create messages using the Anthropic Messages API format with support for streaming.
+      - [Tool Calls](https://vercel.com/docs/ai-gateway/sdks-and-apis/anthropic-messages-api/tool-calls): Use function calling with the Anthropic Messages API to allow models to call tools and functions.
+      - [Advanced](https://vercel.com/docs/ai-gateway/sdks-and-apis/anthropic-messages-api/advanced): Advanced Anthropic API features including extended thinking, web search, and automatic caching.
+      - [File Attachments](https://vercel.com/docs/ai-gateway/sdks-and-apis/anthropic-messages-api/file-attachments): Send images and PDF documents as part of your Anthropic API message requests.
+      - [Structured Outputs](https://vercel.com/docs/ai-gateway/sdks-and-apis/anthropic-messages-api/structured-outputs): Get JSON responses conforming to a JSON Schema from Anthropic models through AI Gateway.
+    - [OpenResponses API](https://vercel.com/docs/ai-gateway/sdks-and-apis/openresponses): Use the OpenResponses API specification with AI Gateway for a unified, provider-agnostic interface.
+      - [Text Generation](https://vercel.com/docs/ai-gateway/sdks-and-apis/openresponses/text-generation): Generate text responses using the OpenResponses API.
+      - [Streaming](https://vercel.com/docs/ai-gateway/sdks-and-apis/openresponses/streaming): Stream responses token by token using the OpenResponses API.
+      - [Image Input](https://vercel.com/docs/ai-gateway/sdks-and-apis/openresponses/image-input): Send images for analysis using the OpenResponses API.
+      - [Tool Calling](https://vercel.com/docs/ai-gateway/sdks-and-apis/openresponses/tool-calling): Define tools the model can call using the OpenResponses API.
+      - [Provider Options](https://vercel.com/docs/ai-gateway/sdks-and-apis/openresponses/provider-options): Configure provider routing, fallbacks, and restrictions using the OpenResponses API.
+    - [Python](https://vercel.com/docs/ai-gateway/sdks-and-apis/python): Use the AI Gateway with Python through OpenAI or Anthropic SDKs with full streaming, tool calling, and async support.
+  - [Authentication & BYOK](https://vercel.com/docs/ai-gateway/authentication-and-byok): Learn how to authenticate with the AI Gateway and configure your own provider keys.
+    - [Authentication](https://vercel.com/docs/ai-gateway/authentication-and-byok/authentication): Learn how to authenticate with the AI Gateway using API keys and OIDC tokens.
+    - [BYOK](https://vercel.com/docs/ai-gateway/authentication-and-byok/byok): Learn how to configure your own provider keys with the AI Gateway.
+  - [Ecosystem](https://vercel.com/docs/ai-gateway/ecosystem): Explore community framework integrations and ecosystem features for the AI Gateway.
+    - [Framework Integrations](https://vercel.com/docs/ai-gateway/ecosystem/framework-integrations): Explore available community framework integrations with Vercel AI Gateway
+      - [LangChain](https://vercel.com/docs/ai-gateway/ecosystem/framework-integrations/langchain): Learn how to integrate Vercel AI Gateway with LangChain to access multiple AI models through a unified interface
+      - [LangFuse](https://vercel.com/docs/ai-gateway/ecosystem/framework-integrations/langfuse): Learn how to integrate Vercel AI Gateway with LangFuse to access multiple AI models through a unified interface
+      - [LiteLLM](https://vercel.com/docs/ai-gateway/ecosystem/framework-integrations/litellm): Learn how to integrate Vercel AI Gateway with LiteLLM to access multiple AI models through a unified interface
+      - [LlamaIndex](https://vercel.com/docs/ai-gateway/ecosystem/framework-integrations/llamaindex): Learn how to integrate Vercel AI Gateway with LlamaIndex to access multiple AI models through a unified interface
+      - [Mastra](https://vercel.com/docs/ai-gateway/ecosystem/framework-integrations/mastra): Learn how to integrate Vercel AI Gateway with Mastra to access multiple AI models through a unified interface
+      - [Pydantic AI](https://vercel.com/docs/ai-gateway/ecosystem/framework-integrations/pydantic-ai): Learn how to integrate Vercel AI Gateway with Pydantic AI to access multiple AI models through a unified interface
+    - [App Attribution](https://vercel.com/docs/ai-gateway/ecosystem/app-attribution): Attribute your requests so Vercel can identify and feature your app on AI Gateway pages
+    - [Stripe Billing](https://vercel.com/docs/ai-gateway/ecosystem/stripe-billing): Add usage-based billing to your AI application with Stripe and AI Gateway.
+  - [Pricing](https://vercel.com/docs/ai-gateway/pricing): Learn about pricing for AI Gateway.
+  - [Chat Platforms](https://vercel.com/docs/ai-gateway/chat-platforms): Configure AI chat platforms to use the AI Gateway for unified model access and spend monitoring.
+    - [LibreChat](https://vercel.com/docs/ai-gateway/chat-platforms/librechat): Use LibreChat with the AI Gateway.
+    - [OpenClaw (Clawdbot)](https://vercel.com/docs/ai-gateway/chat-platforms/openclaw): Use OpenClaw (formerly Clawdbot) with AI Gateway.
+    - [Chatbox](https://vercel.com/docs/ai-gateway/chat-platforms/chatbox): Use Chatbox with the AI Gateway.
+    - [Open WebUI](https://vercel.com/docs/ai-gateway/chat-platforms/open-webui): Use Open WebUI with the AI Gateway.
+- [MCP](https://vercel.com/docs/mcp): Learn more about MCP and how you can use it on Vercel.
+  - [Deploy MCP servers](https://vercel.com/docs/mcp/deploy-mcp-servers-to-vercel): Learn how to deploy Model Context Protocol (MCP) servers on Vercel with OAuth authentication and efficient scaling.
+- [Agent Resources](https://vercel.com/docs/agent-resources): Resources for building with AI on Vercel, including documentation access, MCP servers, and agent skills.
+  - [Markdown Access](https://vercel.com/docs/agent-resources/markdown-access): Access Vercel documentation as markdown using .md endpoints or the copy button.
+  - [Vercel Plugin](https://vercel.com/docs/agent-resources/vercel-plugin): Install the Vercel plugin to give AI coding agents expert-level knowledge of the Vercel ecosystem, including skills, specialist agents, and automatic context injection.
+  - [Vercel MCP server](https://vercel.com/docs/agent-resources/vercel-mcp): Vercel MCP has tools available for searching docs along with managing teams, projects, and deployments.
+    - [Tools](https://vercel.com/docs/agent-resources/vercel-mcp/tools): Available tools in Vercel MCP for searching docs, managing teams, projects, deployments, and viewing runtime logs.
+  - [Coding Agents](https://vercel.com/docs/agent-resources/coding-agents): Configure popular AI coding agents to use the AI Gateway for unified model access and spend monitoring.
+    - [Claude Code](https://vercel.com/docs/agent-resources/coding-agents/claude-code): Use Claude Code and the Claude Agent SDK with AI Gateway.
+    - [Conductor](https://vercel.com/docs/agent-resources/coding-agents/conductor): Use Conductor with the AI Gateway.
+    - [OpenAI Codex](https://vercel.com/docs/agent-resources/coding-agents/openai-codex): Use OpenAI Codex CLI with the AI Gateway.
+    - [Roo Code](https://vercel.com/docs/agent-resources/coding-agents/roo-code): Use Roo Code with the AI Gateway.
+    - [Cline](https://vercel.com/docs/agent-resources/coding-agents/cline): Use Cline with the AI Gateway.
+    - [Blackbox AI](https://vercel.com/docs/agent-resources/coding-agents/blackbox): Use the Blackbox AI CLI with the AI Gateway.
+    - [Crush](https://vercel.com/docs/agent-resources/coding-agents/crush): Use Crush with the AI Gateway.
+    - [OpenCode](https://vercel.com/docs/agent-resources/coding-agents/opencode): Use OpenCode with the AI Gateway.
+    - [Superset](https://vercel.com/docs/agent-resources/coding-agents/superset): Use Superset with the AI Gateway.
+  - [Integrations for Agents](https://vercel.com/docs/agent-resources/integrations-for-agents): Install AI agents and services through the Vercel Marketplace to automate workflows and build custom AI systems.
+  - [Integrations for Models](https://vercel.com/docs/agent-resources/integrations-for-models): Integrate powerful AI services and models seamlessly into your Vercel projects.
+    - [Adding a Provider](https://vercel.com/docs/agent-resources/integrations-for-models/adding-a-provider): Learn how to add a new AI provider to your Vercel projects.
+    - [Adding a Model](https://vercel.com/docs/agent-resources/integrations-for-models/adding-a-model): Learn how to add a new AI model to your Vercel projects
+    - [xAI](https://vercel.com/docs/agent-resources/integrations-for-models/xai): Learn how to add the xAI native integration with Vercel.
+    - [Groq](https://vercel.com/docs/agent-resources/integrations-for-models/groq): Learn how to add the Groq native integration with Vercel.
+    - [fal](https://vercel.com/docs/agent-resources/integrations-for-models/fal): Learn how to add the fal native integration with Vercel.
+    - [Deep Infra](https://vercel.com/docs/agent-resources/integrations-for-models/deepinfra): Learn how to add the Deep Infra native integration with Vercel.
+    - [ElevenLabs](https://vercel.com/docs/agent-resources/integrations-for-models/elevenlabs): Learn how to add the ElevenLabs connectable account integration with Vercel.
+    - [LMNT](https://vercel.com/docs/agent-resources/integrations-for-models/lmnt): Learn how to add LMNT connectable account integration with Vercel.
+    - [OpenAI](https://vercel.com/docs/agent-resources/integrations-for-models/openai): Integrate your Vercel project with OpenAI
+    - [Perplexity](https://vercel.com/docs/agent-resources/integrations-for-models/perplexity): Learn how to add Perplexity connectable account integration with Vercel.
+    - [Pinecone](https://vercel.com/docs/agent-resources/integrations-for-models/pinecone): Learn how to add Pinecone connectable account integration with Vercel.
+    - [Replicate](https://vercel.com/docs/agent-resources/integrations-for-models/replicate): Learn how to add Replicate connectable account integration with Vercel.
+    - [Together AI](https://vercel.com/docs/agent-resources/integrations-for-models/togetherai): Learn how to add Together AI connectable account integration with Vercel.
+  - [CLI Workflows](https://vercel.com/docs/agent-resources/workflows): End-to-end workflows that show how to compose Vercel CLI commands into complete debugging, deployment, and recovery sessions.
+  - [Skills](https://vercel.com/docs/agent-resources/skills): Install skills to enhance AI coding agents with specialized capabilities for React, Next.js, deployment, and more.
 
-- [Llama 4 Scout 17B 16E Instruct Playground & API on Vercel AI Gateway](https://vercel.com/ai-gateway/models/llama-4-scout): Meta's Llama 4 Scout multimodal AI model with mixture-of-experts
-- [Grok 4.20 Beta Non-Reasoning Playground & API on Vercel AI Gateway](https://vercel.com/ai-gateway/models/grok-4.20-non-reasoning-beta): xAI's Grok 4.20 Beta non-reasoning model with tool calling support
-- [Gemini 2.5 Flash Image (Nano Banana) Playground & API on Vercel AI Gateway](https://vercel.com/ai-gateway/models/gemini-2.5-flash-image): Google's Gemini 2.5 Flash Image hybrid reasoning & generation model
-- [GLM-4.6V Playground & API on Vercel AI Gateway](https://vercel.com/ai-gateway/models/glm-4.6v): Z.ai's GLM-4.6V multimodal vision model with 128k context window
-- [Kimi K2 Thinking Playground & API on Vercel AI Gateway](https://vercel.com/ai-gateway/models/kimi-k2-thinking): Moonshot AI's Kimi K2 reasoning model with tool calling capabilities
+## Build & Deploy
+- [Builds](https://vercel.com/docs/builds): Understand how the build step works when creating a Vercel Deployment.
+  - [Build Features](https://vercel.com/docs/builds/build-features): Learn how to customize your deployments using Vercel
+  - [Build Image](https://vercel.com/docs/builds/build-image): Learn about the container image used for Vercel builds.
+  - [Build Queues](https://vercel.com/docs/builds/build-queues): Understand how concurrency and same branch build queues manage multiple simultaneous deployments.
+  - [Configuring a Build](https://vercel.com/docs/builds/configure-a-build): Vercel automatically configures the build settings for many front-end frameworks, but you can also customize the build according to your requirements.
+  - [Managing Builds](https://vercel.com/docs/builds/managing-builds): Vercel allows you to increase the speed of your builds when needed in specific situations and workflows.
+- [Deploy Hooks](https://vercel.com/docs/deploy-hooks): Learn how to create and trigger deploy hooks to integrate Vercel deployments with other systems.
+- [Deployment Checks](https://vercel.com/docs/deployment-checks): Set conditions that must be met before proceeding to the next phase of the deployment lifecycle.
+- [Deployment Retention](https://vercel.com/docs/deployment-retention): Learn how Deployment Retention policies affect a deployment
+- [Deployments](https://vercel.com/docs/deployments): Learn how to create and manage deployments on Vercel.
+  - [Environments](https://vercel.com/docs/deployments/environments): Environments are for developing locally, testing changes in a pre-production environment, and serving end-users in production.
+  - [Generated URLs](https://vercel.com/docs/deployments/generated-urls): When you create a new deployment, Vercel will automatically generate a unique URL which you can use to access that particular deployment.
+  - [Managing Deployments](https://vercel.com/docs/deployments/managing-deployments): Learn how to manage your current and previously deployed projects to Vercel through the dashboard. You can redeploy at any time and even delete a deployment.
+  - [Promoting Deployments](https://vercel.com/docs/deployments/promoting-a-deployment): Learn how to promote deployments to production on Vercel.
+  - [Troubleshoot Build Errors](https://vercel.com/docs/deployments/troubleshoot-a-build): Learn how to resolve common scenarios you may encounter during the Build step, including build errors that cancel a deployment and long build times.
+  - [Accessing Build Logs](https://vercel.com/docs/deployments/logs): Learn how to use Vercel
+  - [Claim Deployments](https://vercel.com/docs/deployments/claim-deployments): Learn how to take ownership of deployments on Vercel with the Claim Deployments feature.
+  - [Inspect OG Metadata](https://vercel.com/docs/deployments/og-preview): Learn how to inspect and validate your Open Graph metadata through the Open Graph deployment tab.
+  - [Preview Deployment Suffix](https://vercel.com/docs/deployments/preview-deployment-suffix): When you create a new deployment, Vercel will automatically generate a unique URL which you can use to access that particular deployment.
+  - [Promote Preview to Production](https://vercel.com/docs/deployments/promote-preview-to-production): Test a preview deployment and promote it to production using the CLI.
+  - [Rollback Production](https://vercel.com/docs/deployments/rollback-production-deployment): Recover from a bad production deployment by rolling back, investigating the root cause, and redeploying a fix.
+  - [Sharing a Preview Deployment](https://vercel.com/docs/deployments/sharing-deployments): Learn how to share a preview deployment with your team and external collaborators.
+  - [Troubleshoot project collaboration](https://vercel.com/docs/deployments/troubleshoot-project-collaboration): Learn about common reasons for deployment issues related to team member requirements and how to resolve them.
+- [Environment Variables](https://vercel.com/docs/environment-variables): Learn more about environment variables on Vercel.
+  - [Framework Environment Variables](https://vercel.com/docs/environment-variables/framework-environment-variables): Framework environment variables are automatically populated by the Vercel, based on your project
+  - [Manage Across Environments](https://vercel.com/docs/environment-variables/manage-across-environments): Add, sync, and verify environment variables across development, preview, production, and custom environments using the CLI.
+  - [Managing Environment Variables](https://vercel.com/docs/environment-variables/managing-environment-variables): Learn how to create and manage environment variables for Vercel.
+  - [Reserved Environment Variables](https://vercel.com/docs/environment-variables/reserved-environment-variables): Reserved environment variables are reserved by Vercel Vercel Function runtimes.
+  - [Rotating Environment Variables](https://vercel.com/docs/environment-variables/rotating-secrets): Safely rotate API keys, tokens, and other secrets in your Vercel environment variables.
+  - [Sensitive Environment Variables](https://vercel.com/docs/environment-variables/sensitive-environment-variables): Environment variables that cannot be decrypted once created.
+  - [Shared Environment Variables](https://vercel.com/docs/environment-variables/shared-environment-variables): Learn how to use Shared environment variables, which are environment variables that you define at the Team level and can link to multiple projects.
+  - [System Environment Variables](https://vercel.com/docs/environment-variables/system-environment-variables): System environment variables are automatically populated by Vercel, such as the URL of the deployment or the name of the Git branch deployed.
+- [Git Integrations](https://vercel.com/docs/git): Vercel allows for automatic deployments on every branch push and merges onto the production branch of your GitHub, GitLab, and Bitbucket projects.
+  - [GitHub](https://vercel.com/docs/git/vercel-for-github): Vercel for GitHub automatically deploys your GitHub projects with Vercel, providing Preview Deployment URLs, and automatic Custom Domain updates.
+  - [Azure DevOps](https://vercel.com/docs/git/vercel-for-azure-pipelines): ​Vercel for Azure DevOps allows you to deploy from Azure Pipelines to Vercel automatically.
+  - [Bitbucket](https://vercel.com/docs/git/vercel-for-bitbucket): ​Vercel for Bitbucket automatically deploys your Bitbucket projects with Vercel, providing Preview Deployment URLs, and automatic Custom Domain updates.
+  - [GitLab](https://vercel.com/docs/git/vercel-for-gitlab): ​Vercel for GitLab automatically deploys your GitLab projects with Vercel, providing Preview Deployment URLs, and automatic Custom Domain updates.
+- [Instant Rollback](https://vercel.com/docs/instant-rollback): Learn how to perform an Instant Rollback on your production deployments and quickly roll back to a previously deployed production deployment.
+- [Microfrontends](https://vercel.com/docs/microfrontends): Learn how to use microfrontends on Vercel to split apart large applications, improve developer experience and make incremental migrations easier.
+  - [Getting Started](https://vercel.com/docs/microfrontends/quickstart): Learn how to get started with microfrontends on Vercel.
+  - [Local Development](https://vercel.com/docs/microfrontends/local-development): Learn how to run and test your microfrontends locally.
+  - [Path Routing](https://vercel.com/docs/microfrontends/path-routing): Route paths on your domain to different microfrontends.
+  - [Configuration](https://vercel.com/docs/microfrontends/configuration): Configure your microfrontends.json.
+  - [Managing Microfrontends](https://vercel.com/docs/microfrontends/managing-microfrontends): Learn how to manage your microfrontends on Vercel.
+    - [Security](https://vercel.com/docs/microfrontends/managing-microfrontends/security): Learn how to manage your Deployment Protection and Firewall for your microfrontend on Vercel.
+    - [Using Vercel Toolbar](https://vercel.com/docs/microfrontends/managing-microfrontends/vercel-toolbar): Learn how to use the Vercel Toolbar to make it easier to manage microfrontends.
+  - [Testing & Troubleshooting](https://vercel.com/docs/microfrontends/troubleshooting): Learn about testing, common issues, and how to troubleshoot microfrontends on Vercel.
+- [Monorepos](https://vercel.com/docs/monorepos): Vercel provides support for monorepos. Learn how to deploy a monorepo here.
+  - [Turborepo](https://vercel.com/docs/monorepos/turborepo): Learn about Turborepo, a build system for monorepos that allows you to have faster incremental builds, content-aware hashing, and Remote Caching.
+  - [Remote Caching](https://vercel.com/docs/monorepos/remote-caching): Vercel Remote Cache allows you to share build outputs and artifacts across distributed teams.
+  - [Nx](https://vercel.com/docs/monorepos/nx): Nx is an extensible build system with support for monorepos, integrations, and Remote Caching on Vercel. Learn how to deploy Nx to Vercel with this guide.
+  - [Monorepos FAQ](https://vercel.com/docs/monorepos/monorepo-faq): Learn the answer to common questions about deploying monorepos on Vercel.
+- [Package Managers](https://vercel.com/docs/package-managers): Discover the package managers supported by Vercel for dependency management. Learn how Vercel detects and uses npm, Yarn, pnpm, and Bun for optimal build performance.
+- [Restricting Git Connections to a single Vercel team](https://vercel.com/docs/protected-git-scopes): Information to stop developers from deploying their repositories to a personal Vercel account by using Protected Git Scopes.
+- [Rolling Releases](https://vercel.com/docs/rolling-releases): Learn how to use Rolling Releases for more cautious deployments.
+  - [Rolling Release Deployment](https://vercel.com/docs/rolling-releases/rolling-release-deployment): Gradually roll out a production deployment using traffic stages, monitoring, and automated abort.
+- [Services](https://vercel.com/docs/services): Deploy multiple backends and frontends within a single Vercel project using services.
+  - [Routing](https://vercel.com/docs/services/routing): Learn how Vercel routes requests between services and how services communicate with each other.
+- [Skew Protection](https://vercel.com/docs/skew-protection): Learn how Vercel
+- [Webhooks](https://vercel.com/docs/webhooks): Learn how to set up webhooks and use them with Vercel Integrations.
+  - [Webhooks API Reference](https://vercel.com/docs/webhooks/webhooks-api): Vercel Integrations allow you to subscribe to certain trigger-based events through webhooks. Learn about the supported webhook events and how to use them.
 
-## AI Gateway - Code Generation Models
+## CDN
+- [Overview](https://vercel.com/docs/cdn): Vercel
+- [How Vercel CDN works](https://vercel.com/docs/how-vercel-cdn-works): Learn how Vercel
+  - [Compression](https://vercel.com/docs/how-vercel-cdn-works/compression): Vercel helps reduce data transfer and improve performance by supporting both Gzip and Brotli compression
+- [Global Network & Regions](https://vercel.com/docs/regions): View the list of regions supported by Vercel
+- [Routing](https://vercel.com/docs/routing): Learn how Vercel
+  - [Redirects](https://vercel.com/docs/routing/redirects): Learn how to use redirects on Vercel to instruct Vercel
+    - [Configuration Redirects](https://vercel.com/docs/routing/redirects/configuration-redirects): Learn how to define static redirects in your framework configuration or vercel.json with support for wildcards, pattern matching, and geolocation.
+    - [Bulk Redirects](https://vercel.com/docs/routing/redirects/bulk-redirects): Learn how to import thousands of simple redirects from CSV, JSON, or JSONL files.
+      - [Getting Started](https://vercel.com/docs/routing/redirects/bulk-redirects/getting-started): Learn how to import thousands of simple redirects from CSV, JSON, or JSONL files.
+  - [Rewrites](https://vercel.com/docs/routing/rewrites): Learn how to use rewrites to send users to different URLs without modifying the visible URL.
+  - [Project Routing Rules](https://vercel.com/docs/routing/project-routing-rules): Add redirects, rewrites, headers, and status codes to your project from the dashboard or API, without deploying new code.
+- [Security](https://vercel.com/docs/cdn-security): Learn how Vercel
+  - [Encryption & TLS](https://vercel.com/docs/cdn-security/encryption): Learn how Vercel encrypts data in transit and at rest.
+  - [Security Headers](https://vercel.com/docs/cdn-security/security-headers): Learn how the Content Security Policy (CSP) offers defense against web vulnerabilities, its key features, and best practices.
+- [Incremental Static Regeneration](https://vercel.com/docs/incremental-static-regeneration): ISR serves cached static pages while regenerating content in the background. Vercel\
+  - [Getting Started](https://vercel.com/docs/incremental-static-regeneration/quickstart): Learn how to set up Incremental Static Regeneration (ISR) with time-based and on-demand revalidation.
+  - [Usage & Pricing](https://vercel.com/docs/incremental-static-regeneration/limits-and-pricing): Learn about ISR costs, usage metrics, and strategies to optimize your ISR reads and writes.
+  - [Request Collapsing](https://vercel.com/docs/incremental-static-regeneration/request-collapsing): Learn how Vercel
+- [Caching](https://vercel.com/docs/caching): Learn how Vercel caches content across multiple layers to deliver fast responses and reduce load on your backend.
+  - [CDN Cache](https://vercel.com/docs/caching/cdn-cache): Learn how Vercel
+    - [Purge CDN Cache](https://vercel.com/docs/caching/cdn-cache/purge): Learn how to invalidate and delete cached content on Vercel
+  - [Runtime Cache](https://vercel.com/docs/caching/runtime-cache): Vercel Runtime Cache is a specialized cache that stores responses from data fetches in Vercel functions
+    - [Data Cache](https://vercel.com/docs/caching/runtime-cache/data-cache): Vercel Data Cache is a specialized cache that stores responses from data fetches in Next.js App Router
+  - [Cache-Control Headers](https://vercel.com/docs/caching/cache-control-headers): Learn about the cache-control headers sent to each Vercel deployment and how to use them to control the caching behavior of your application.
+- [System Headers](https://vercel.com/docs/headers): This reference covers the list of request, response, cache-control, and custom response headers included with deployments with Vercel.
+  - [Request Headers](https://vercel.com/docs/headers/request-headers): Learn about the request headers sent to each Vercel deployment and how to use them to process requests before sending a response.
+  - [Response Headers](https://vercel.com/docs/headers/response-headers): Learn about the response headers sent to each Vercel deployment and how to use them to process responses before sending a response.
+- [Image Optimization](https://vercel.com/docs/image-optimization): Transform and optimize images to improve page load performance.
+  - [Getting Started](https://vercel.com/docs/image-optimization/quickstart): Learn how you can leverage Vercel Image Optimization in your projects.
+  - [Limits and Pricing](https://vercel.com/docs/image-optimization/limits-and-pricing): This page outlines information on the limits that are applicable when using Image Optimization, and the costs they can incur.
+  - [Managing Usage & Costs](https://vercel.com/docs/image-optimization/managing-image-optimization-costs): Learn how to measure and manage Image Optimization usage with this guide to avoid any unexpected costs.
+  - [Legacy Pricing](https://vercel.com/docs/image-optimization/legacy-pricing): This page outlines information on the pricing and limits for the source images-based legacy option.
+- [Custom Error Pages](https://vercel.com/docs/custom-error-pages): Learn how to configure custom error pages for 5xx server errors on Vercel.
+- [Pricing & Usage](https://vercel.com/docs/manage-cdn-usage): Understand CDN pricing resources, monitor usage from your dashboard, and optimize Fast Data Transfer, Fast Origin Transfer, and CDN Requests.
 
-- [Mistral Codestral Playground & API on Vercel AI Gateway](https://vercel.com/ai-gateway/models/codestral): Mistral Codestral AI model for code generation and fill-in-middle
+## CLI
+- [Deploying from CLI](https://vercel.com/docs/cli/deploying-from-cli): Learn how to deploy your Vercel Projects from Vercel CLI using the vercel or vercel deploy commands.
+- [Project Linking](https://vercel.com/docs/cli/project-linking): Learn how to link existing Vercel Projects with Vercel CLI.
+- [Telemetry](https://vercel.com/docs/cli/about-telemetry): Vercel CLI collects telemetry data about general usage.
+- [Global Options](https://vercel.com/docs/cli/global-options): Global options are commonly available to use with multiple Vercel CLI commands. Learn about Vercel CLI
+- [vercel activity](https://vercel.com/docs/cli/activity): View activity events for your Vercel project or team, filtered by type, date range, and project.
+- [vercel alias](https://vercel.com/docs/cli/alias): Learn how to apply custom domain aliases to your Vercel deployments using the vercel alias CLI command.
+- [vercel api](https://vercel.com/docs/cli/api): Learn how to make authenticated HTTP requests to the Vercel API using the vercel api CLI command.
+- [vercel bisect](https://vercel.com/docs/cli/bisect): Learn how to perform a binary search on your deployments to help surface issues using the vercel bisect CLI command.
+- [vercel blob](https://vercel.com/docs/cli/blob): Learn how to interact with Vercel Blob storage using the vercel blob CLI command.
+- [vercel build](https://vercel.com/docs/cli/build): Learn how to build a Vercel Project locally or in your own CI environment using the vercel build CLI command.
+- [vercel buy](https://vercel.com/docs/cli/buy): Learn how to purchase Vercel products like credits, addons, subscriptions, and domains using the vercel buy CLI command.
+- [vercel cache](https://vercel.com/docs/cli/cache): Learn how to manage cache for your project using the vercel cache CLI command.
+- [vercel certs](https://vercel.com/docs/cli/certs): Learn how to manage certificates for your domains using the vercel certs CLI command.
+- [vercel contract](https://vercel.com/docs/cli/contract): Learn how to view contract commitment information for your Vercel account using the vercel contract CLI command.
+- [vercel curl](https://vercel.com/docs/cli/curl): Learn how to make HTTP requests to your Vercel deployments with automatic deployment protection bypass using the vercel curl CLI command.
+- [vercel deploy](https://vercel.com/docs/cli/deploy): Learn how to deploy your Vercel projects using the vercel deploy CLI command.
+- [vercel dev](https://vercel.com/docs/cli/dev): Learn how to replicate the Vercel deployment environment locally and test your Vercel Project before deploying using the vercel dev CLI command.
+- [vercel dns](https://vercel.com/docs/cli/dns): Learn how to manage your DNS records for your domains using the vercel dns CLI command.
+- [vercel domains](https://vercel.com/docs/cli/domains): Learn how to buy, sell, transfer, and manage your domains using the vercel domains CLI command.
+- [vercel env](https://vercel.com/docs/cli/env): Learn how to manage your environment variables in your Vercel Projects using the vercel env CLI command.
+- [vercel flags](https://vercel.com/docs/cli/flags): Learn how to manage feature flags for your Vercel project using the vercel flags CLI command.
+- [vercel git](https://vercel.com/docs/cli/git): Learn how to manage your Git provider connections using the vercel git CLI command.
+- [vercel guidance](https://vercel.com/docs/cli/guidance): Enable or disable guidance messages in the Vercel CLI using the vercel guidance command.
+- [vercel help](https://vercel.com/docs/cli/help): Learn how to use the vercel help CLI command to get information about all available Vercel CLI commands.
+- [vercel httpstat](https://vercel.com/docs/cli/httpstat): Learn how to visualize HTTP request timing statistics for your Vercel deployments using the vercel httpstat CLI command.
+- [vercel init](https://vercel.com/docs/cli/init): Learn how to initialize Vercel supported framework examples locally using the vercel init CLI command.
+- [vercel inspect](https://vercel.com/docs/cli/inspect): Learn how to retrieve information about your Vercel deployments using the vercel inspect CLI command.
+- [vercel install](https://vercel.com/docs/cli/install): Learn how to install marketplace native integrations and provision resources with the vercel install CLI command.
+- [vercel integration](https://vercel.com/docs/cli/integration): Learn how to manage marketplace native integrations, provision resources, and discover available products using the vercel integration CLI command.
+- [vercel integration-resource](https://vercel.com/docs/cli/integration-resource): Learn how to manage marketplace native integration resources using the vercel integration-resource CLI command.
+- [vercel link](https://vercel.com/docs/cli/link): Learn how to link a local directory to a Vercel Project using the vercel link CLI command.
+- [vercel list](https://vercel.com/docs/cli/list): Learn how to list out all recent deployments for the current Vercel Project using the vercel list CLI command.
+- [vercel login](https://vercel.com/docs/cli/login): Learn how to login into your Vercel account using the vercel login CLI command.
+- [vercel logout](https://vercel.com/docs/cli/logout): Learn how to logout from your Vercel account using the vercel logout CLI command.
+- [vercel logs](https://vercel.com/docs/cli/logs): View and filter request logs for your Vercel project, or stream live runtime logs from a deployment.
+- [vercel mcp](https://vercel.com/docs/cli/mcp): Set up Model Context Protocol (MCP) usage with a Vercel project using the vercel mcp CLI command.
+- [vercel microfrontends](https://vercel.com/docs/cli/microfrontends): Manage microfrontends groups from the CLI. Learn how to create groups, inspect group metadata, add and remove projects, and pull configuration for local development.
+- [vercel open](https://vercel.com/docs/cli/open): Learn how to open your current project in the Vercel Dashboard using the vercel open CLI command.
+- [vercel project](https://vercel.com/docs/cli/project): Learn how to list, add, remove, and manage your Vercel Projects using the vercel project CLI command.
+- [vercel promote](https://vercel.com/docs/cli/promote): Learn how to promote an existing deployment using the vercel promote CLI command.
+- [vercel pull](https://vercel.com/docs/cli/pull): Learn how to update your local project with remote environment variables using the vercel pull CLI command.
+- [vercel redeploy](https://vercel.com/docs/cli/redeploy): Learn how to redeploy your project using the vercel redeploy CLI command.
+- [vercel redirects](https://vercel.com/docs/cli/redirects): Learn how to manage project-level redirects using the vercel redirects CLI command.
+- [vercel remove](https://vercel.com/docs/cli/remove): Learn how to remove a deployment using the vercel remove CLI command.
+- [vercel rollback](https://vercel.com/docs/cli/rollback): Learn how to roll back your production deployments to previous deployments using the vercel rollback CLI command.
+- [vercel rolling-release](https://vercel.com/docs/cli/rolling-release): Learn how to manage your project
+- [vercel routes](https://vercel.com/docs/cli/routes): Learn how to manage project-level routing rules using the vercel routes CLI command.
+- [vercel switch](https://vercel.com/docs/cli/switch): Learn how to switch between different team scopes using the vercel switch CLI command.
+- [vercel target](https://vercel.com/docs/cli/target): Work with custom environments using the --target flag in Vercel CLI.
+- [vercel teams](https://vercel.com/docs/cli/teams): Learn how to list, add, remove, and manage your teams using the vercel teams CLI command.
+- [vercel telemetry](https://vercel.com/docs/cli/telemetry): Learn how to manage telemetry collection.
+- [vercel usage](https://vercel.com/docs/cli/usage): Learn how to view billing usage and costs, for your Vercel account using the vercel usage CLI command.
+- [vercel webhooks](https://vercel.com/docs/cli/webhooks): Learn how to manage webhooks for your Vercel account using the vercel webhooks CLI command.
+- [vercel whoami](https://vercel.com/docs/cli/whoami): Learn how to display the username of the currently logged in user with the vercel whoami CLI command.
 
-## AI Gateway - Image Generation Models
+## Collaboration
+- [Comments](https://vercel.com/docs/comments): Comments allow teams and invited participants to give direct feedback on preview deployments. Learn more about Comments in this overview.
+  - [Enabling Comments](https://vercel.com/docs/comments/how-comments-work): Learn when and where Comments are available, and how to enable and disable Comments at the account, project, and session or interface levels.
+  - [Using Comments](https://vercel.com/docs/comments/using-comments): This guide will help you get started with using Comments with your Vercel Preview Deployments.
+  - [Managing Comments](https://vercel.com/docs/comments/managing-comments): Learn how to manage Comments on your Preview Deployments from Team members and invited collaborators.
+  - [Integrations](https://vercel.com/docs/comments/integrations): Learn how Comments integrates with Git providers like GitHub, GitLab, and BitBucket, as well as Vercel
+- [Draft Mode](https://vercel.com/docs/draft-mode): Vercel
+- [Edit Mode](https://vercel.com/docs/edit-mode): Discover how Vercel
+- [Toolbar](https://vercel.com/docs/vercel-toolbar): Learn how to use the Vercel Toolbar to leave feedback, navigate through important dashboard pages, share deployments, use Draft Mode for previewing unpublished content, and Edit Mode for editing content in real-time.
+  - [Add to Environments](https://vercel.com/docs/vercel-toolbar/in-production-and-localhost): Learn how to use the Vercel Toolbar in production and local environments.
+    - [Add to Localhost](https://vercel.com/docs/vercel-toolbar/in-production-and-localhost/add-to-localhost): Learn how to use the Vercel Toolbar in your local environment.
+    - [Add to Production](https://vercel.com/docs/vercel-toolbar/in-production-and-localhost/add-to-production): Learn how to add the Vercel Toolbar to your production environment and how your team members can use tooling to access the toolbar.
+  - [Managing Toolbar](https://vercel.com/docs/vercel-toolbar/managing-toolbar): Learn how to enable or disable the Vercel Toolbar for your team, project, and session.
+  - [Browser Extensions](https://vercel.com/docs/vercel-toolbar/browser-extension): The browser extensions enable you to use the toolbar in production environments, take screenshots and attach them to comments, and set personal preferences for how the toolbar behaves.
+  - [Accessibility Audit Tool](https://vercel.com/docs/vercel-toolbar/accessibility-audit-tool): Learn how to use the Accessibility Audit Tool to automatically check the Web Content Accessibility Guidelines 2.0 level A and AA rules.
+  - [Interaction Timing Tool](https://vercel.com/docs/vercel-toolbar/interaction-timing-tool): The interaction timing tool allows you to inspect in detail each interaction
+  - [Layout Shift Tool](https://vercel.com/docs/vercel-toolbar/layout-shift-tool): The layout shift tool gives you insight into any elements that may cause layout shifts on the page.
 
-- [FLUX.1 Kontext Max Playground & API on Vercel AI Gateway](https://vercel.com/ai-gateway/models/flux-kontext-max): Black Forest Labs FLUX.1 for image generation with character consistency
-- [FLUX1.1 [pro] Ultra Playground & API on Vercel AI Gateway](https://vercel.com/ai-gateway/models/flux-pro-1.1-ultra): Black Forest Labs FLUX1.1 Ultra for high-resolution image generation
-
-## AI Gateway - Video & Audio Generation Models
-
-- [Kling v2.6 Motion Control Playground & API on Vercel AI Gateway](https://vercel.com/ai-gateway/models/kling-v2.6-motion-control): Kling v2.6 Motion Control model playground for video/audio generation
-- [Seedance v1.0 Pro Playground & API on Vercel AI Gateway](https://vercel.com/ai-gateway/models/seedance-v1.0-pro): ByteDance Seedance v1.0 Pro for 1080p video generation & storytelling
-
-## AI Gateway - Embedding Models
-
-- [Qwen3 Embedding 4B API on Vercel AI Gateway](https://vercel.com/ai-gateway/models/qwen3-embedding-4b): Alibaba's Qwen3 Embedding 4B text embedding model API
-- [Qwen3 Embedding 8B API on Vercel AI Gateway](https://vercel.com/ai-gateway/models/qwen3-embedding-8b): Alibaba's Qwen3 Embedding 8B text embedding model API
-- [voyage-3.5 API on Vercel AI Gateway](https://vercel.com/ai-gateway/models/voyage-3.5): Voyage AI's voyage-3.5 embedding model for multilingual retrieval
-
-## Platform Updates & Announcements
-
-- [AI agents and services on the Vercel Marketplace - Vercel](https://vercel.com/blog/ai-agents-and-services-on-the-vercel-marketplace): Announcing AI agents and tools in Vercel Marketplace with integrations
+## Compute
+- [Fluid Compute](https://vercel.com/docs/fluid-compute): Learn about fluid compute, an execution model for Vercel Functions that provides a more flexible and efficient way to run your functions.
+- [Functions](https://vercel.com/docs/functions): Run server-side code on Vercel without managing a server.
+  - [Getting Started](https://vercel.com/docs/functions/quickstart): Build your first Vercel Function in a few steps.
+  - [Streaming](https://vercel.com/docs/functions/streaming-functions): Learn how to stream responses from Vercel Functions.
+  - [Runtimes](https://vercel.com/docs/functions/runtimes): Runtimes transform your source code into Functions, which are served by our CDN. Learn about the official runtimes supported by Vercel.
+    - [Node.js](https://vercel.com/docs/functions/runtimes/node-js): Learn how to use the Node.js runtime with Vercel Functions to create functions.
+      - [Advanced Node.js Usage](https://vercel.com/docs/functions/runtimes/node-js/advanced-node-configuration): Learn about advanced configurations for Vercel functions on Vercel.
+      - [Supported Node.js versions](https://vercel.com/docs/functions/runtimes/node-js/node-js-versions): Learn about the supported Node.js versions on Vercel.
+    - [Bun](https://vercel.com/docs/functions/runtimes/bun): Learn how to use the Bun runtime with Vercel Functions to create fast, efficient functions.
+    - [Python](https://vercel.com/docs/functions/runtimes/python): Learn how to use the Python runtime to run Python applications on Vercel.
+    - [Rust](https://vercel.com/docs/functions/runtimes/rust): Build fast, memory-safe serverless functions with Rust on Vercel.
+    - [Go](https://vercel.com/docs/functions/runtimes/go): Learn how to use the Go runtime to run Go APIs on Vercel.
+    - [Ruby](https://vercel.com/docs/functions/runtimes/ruby): Learn how to use the Ruby runtime to compile Ruby Vercel Functions on Vercel.
+    - [Wasm](https://vercel.com/docs/functions/runtimes/wasm): Learn how to use WebAssembly (Wasm) to enable low-level languages to run on Vercel Functions and Routing Middleware.
+    - [Edge Runtime](https://vercel.com/docs/functions/runtimes/edge): Learn about the Edge runtime, an environment in which Vercel Functions can run.
+  - [Configuring Functions](https://vercel.com/docs/functions/configuring-functions): Learn how to configure the runtime, region, maximum duration, and memory for Vercel Functions.
+    - [Duration](https://vercel.com/docs/functions/configuring-functions/duration): Learn how to set the maximum duration of a Vercel Function.
+    

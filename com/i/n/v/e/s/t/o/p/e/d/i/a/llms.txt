@@ -1,59 +1,112 @@
 # Investopedia
 
-> > Investopedia is the world's leading source of financial content on the web, providing comprehensive education on investing, personal finance, economics, and market analysis.
+> Investopedia is a financial education and news site covering investing, personal finance, markets, economics, and financial product reviews.
 
-Investopedia offers expert-written articles, definitions, calculators, and guides covering topics from high-yield savings accounts and monetary policy to technical analysis and retirement planning. The site features reviews of financial products from major institutions including Capital One, Marcus, E*TRADE, and Wells Fargo, alongside real-time market commentary on events affecting the S&P 500 and global economies.
+Investopedia publishes explainers, tutorials, dictionary entries, calculators, current market news, and expert reviews of brokers, banks, credit cards, and other financial products. Its content spans beginner education through advanced investing, trading, retirement, tax, and economic topics.
 
-## Key Topics
+## Core Hubs
+- [Investing](https://www.investopedia.com/investing-4427685): Central hub for investing concepts, asset classes, portfolio strategy, and market participation.
+- [Personal Finance](https://www.investopedia.com/personal-finance-4427760): Hub for budgeting, banking, credit, loans, insurance, taxes, and everyday money decisions.
+- [Trading](https://www.investopedia.com/trading-4427766): Overview of trading strategies, technical analysis, instruments, and active market approaches.
+- [Retirement Planning](https://www.investopedia.com/retirement-planning-4689695): Guides to retirement accounts, income planning, Social Security, and withdrawal strategies.
+- [Economy](https://www.investopedia.com/economy-4689801): Coverage of macroeconomics, policy, inflation, employment, and economic indicators.
+- [News](https://www.investopedia.com/news-4427706): Financial news hub with market-moving developments, company updates, and economic coverage.
+- [Reviews](https://www.investopedia.com/reviews-4689740): Editorial reviews and rankings for brokers, banks, lenders, and financial tools.
+- [Financial Terms Dictionary](https://www.investopedia.com/financial-term-dictionary-4769738): Alphabetical glossary of investing, finance, accounting, and economics definitions.
 
-- Interest rates and APY
-- High-yield savings accounts
-- Monetary policy and inflation control
-- Technical analysis and market volatility
-- Personal finance and banking
-- S&P 500 and Wall Street markets
-- Economic policy
-- Retirement accounts and Social Security
-- IPOs and underwriting
-- Corporate bankruptcy and liquidation
-- Geopolitical risk and investments
-- Gold and Bitcoin as assets
-- Defense and military budgets
-- Estate planning and trusts
-- Financial institutions (Capital One, Marcus, E*TRADE, Wells Fargo, Discover)
+## Investing
+- [How to Start Investing](https://www.investopedia.com/articles/basics/11/3-s-simple-investing.asp): Beginner-friendly introduction to building an investment plan and getting started.
+- [Stocks](https://www.investopedia.com/stocks-4427785): Explanations of stock investing, valuation, dividends, and equity market basics.
+- [Bonds](https://www.investopedia.com/bonds-4689778): Guides to bond types, yields, risks, pricing, and fixed-income investing.
+- [ETFs](https://www.investopedia.com/terms/e/etf.asp): Definition and overview of exchange-traded funds, structure, benefits, and risks.
+- [Mutual Funds](https://www.investopedia.com/mutual-funds-4427787): Coverage of fund types, fees, performance, and portfolio use cases.
+- [Asset Allocation](https://www.investopedia.com/terms/a/assetallocation.asp): Explains portfolio diversification across asset classes and risk profiles.
+- [Value Investing](https://www.investopedia.com/terms/v/valueinvesting.asp): Overview of buying undervalued securities using fundamental analysis.
+- [Fundamental Analysis](https://www.investopedia.com/terms/f/fundamentalanalysis.asp): Introduction to evaluating companies using financial statements and business metrics.
 
-## Personal Finance & Banking
+## Trading
+- [Technical Analysis](https://www.investopedia.com/technical-analysis-4689657): Hub for chart patterns, indicators, momentum, and price-action methods.
+- [Day Trading](https://www.investopedia.com/articles/trading/05/011705.asp): Introductory guide to day trading mechanics, risks, and common strategies.
+- [Swing Trading](https://www.investopedia.com/terms/s/swingtrading.asp): Definition and framework for capturing short- to medium-term price moves.
+- [Options Trading](https://www.investopedia.com/options-basics-tutorial-4583012): Basics of calls, puts, pricing, and common options strategies.
+- [Futures](https://www.investopedia.com/terms/f/futures.asp): Definition of futures contracts and how they are used for speculation and hedging.
+- [Candlestick Charting](https://www.investopedia.com/trading/candlestick-charting-what-is-it/): Explains candlestick patterns and how traders interpret market sentiment.
+- [Relative Strength Index (RSI)](https://www.investopedia.com/terms/r/rsi.asp): Definition and use of RSI as a momentum oscillator.
+- [Moving Average Convergence Divergence (MACD)](https://www.investopedia.com/terms/m/macd.asp): Overview of the MACD indicator for trend and momentum analysis.
 
-- [High-Yield Savings Accounts: Boost Your Savings](https://www.investopedia.com/articles/pf/09/high-yield-savings-account.asp): Guide to high-yield savings accounts featuring Capital One, Marcus, Discover
-- [Calculate Loan Costs and Payments With Our Loan Calculator](https://www.investopedia.com/loan-calculator-5104934): Interactive tool for calculating monthly payments and total loan costs
-- [Could Your Social Security Payments Be Garnished Due to Unpaid Debts? What To Know First](https://www.investopedia.com/could-your-social-security-payments-be-garnished-due-to-unpaid-debts-what-to-know-first-11923351): Explains when Social Security benefits can be garnished for debts
-- [Naming a Trust as Beneficiary of a Retirement Account: Pros and Cons](https://www.investopedia.com/ask/answers/09/trust-beneficiaries.asp): Estate planning guide for naming trusts as retirement account beneficiaries
+## Personal Finance
+- [Budgeting Basics](https://www.investopedia.com/budgeting-and-savings-4689827): Guides to budgeting methods, saving habits, and cash-flow management.
+- [Banking](https://www.investopedia.com/banking-4427755): Coverage of checking, savings, CDs, online banks, and account features.
+- [Credit Cards](https://www.investopedia.com/credit-cards-4689734): Educational content and reviews for rewards, balance transfer, and secured cards.
+- [Loans](https://www.investopedia.com/loans-4689743): Explanations of personal loans, mortgages, auto loans, and borrowing costs.
+- [Insurance](https://www.investopedia.com/insurance-4427784): Guides to life, health, auto, home, and disability insurance.
+- [Taxes](https://www.investopedia.com/taxes-4427725): Tax planning, filing, deductions, credits, and IRS-related explainers.
+- [Student Loans](https://www.investopedia.com/student-loans-4689747): Coverage of federal and private student loans, repayment, and forgiveness.
+- [Debt Management](https://www.investopedia.com/debt-management-4689741): Strategies for paying down debt and improving financial stability.
 
-## Economics & Monetary Policy
+## Retirement
+- [IRA](https://www.investopedia.com/terms/i/ira.asp): Definition and rules for individual retirement accounts and contribution basics.
+- [Roth IRA](https://www.investopedia.com/terms/r/rothira.asp): Explains Roth IRA eligibility, tax treatment, and withdrawal rules.
+- [401(k) Plan](https://www.investopedia.com/terms/1/401kplan.asp): Overview of employer-sponsored retirement plans, matches, and contribution limits.
+- [Social Security](https://www.investopedia.com/social-security-4689818): Guides to benefits, claiming strategies, taxes, and eligibility.
+- [Required Minimum Distribution (RMD)](https://www.investopedia.com/terms/r/requiredminimumdistribution.asp): Definition and rules for mandatory retirement account withdrawals.
+- [Retirement Planning Guide](https://www.investopedia.com/retirement-planning-guide-5204247): Broader planning resource for saving, investing, and retirement income.
+- [Pension Plan](https://www.investopedia.com/terms/p/pensionplan.asp): Definition and explanation of traditional defined-benefit retirement plans.
 
-- [How Governments Fight Inflation With Monetary Policies](https://www.investopedia.com/ask/answers/111314/what-methods-can-government-use-control-inflation.asp): Explains government monetary policy tools for controlling inflation
-- [Accounting vs. Economics: Key Distinctions Explained](https://www.investopedia.com/ask/answers/032315/what-difference-between-accounting-and-economics.asp): Compares accounting (GAAP/IFRS) and economics disciplines and careers
-- [U.S. vs. China Military Spending: Which Is Bigger?](https://www.investopedia.com/articles/personal-finance/043015/us-vs-china-military-budget.asp): Analysis comparing U.S. ($997B) and China ($314B) military spending in 2024
+## Economics & Markets
+- [Inflation](https://www.investopedia.com/terms/i/inflation.asp): Definition, causes, measurement, and effects of inflation on consumers and investors.
+- [Consumer Price Index (CPI)](https://www.investopedia.com/terms/c/consumerpriceindex.asp): Explains CPI methodology and its role in tracking inflation.
+- [Federal Reserve System](https://www.investopedia.com/terms/f/federalreservesystem.asp): Overview of the U.S. central bank and monetary policy functions.
+- [Interest Rates](https://www.investopedia.com/terms/i/interestrate.asp): Definition of interest rates and their impact on borrowing and investing.
+- [Gross Domestic Product (GDP)](https://www.investopedia.com/terms/g/gdp.asp): Definition and interpretation of GDP as a core economic indicator.
+- [Unemployment Rate](https://www.investopedia.com/terms/u/unemploymentrate.asp): Explains unemployment measurement and labor market significance.
+- [Recession](https://www.investopedia.com/terms/r/recession.asp): Definition of recession and common economic signals associated with downturns.
+- [Bull Market](https://www.investopedia.com/terms/b/bullmarket.asp): Definition of sustained rising markets and investor sentiment.
+- [Bear Market](https://www.investopedia.com/terms/b/bearmarket.asp): Definition of prolonged market declines and associated risk conditions.
 
-## Investing & Markets
+## Reviews & Product Rankings
+- [Best Online Brokers](https://www.investopedia.com/best-online-brokers-4587872): Ranked reviews of brokerage platforms for investing and trading.
+- [Best Robo-Advisors](https://www.investopedia.com/best-robo-advisors-4693125): Comparison of automated investing platforms, fees, and portfolio features.
+- [Best High-Yield Savings Accounts](https://www.investopedia.com/best-high-yield-savings-accounts-4770633): Editorial picks for savings accounts with competitive APYs and features.
+- [Best CD Rates](https://www.investopedia.com/best-cd-rates-4770214): Comparison of certificates of deposit by term, yield, and account requirements.
+- [Best Personal Loans](https://www.investopedia.com/best-personal-loans-5070337): Ranked lenders for personal loans based on rates, terms, and borrower fit.
+- [Best Mortgage Lenders](https://www.investopedia.com/best-mortgage-lenders-5077012): Reviews of mortgage providers for home purchase and refinancing.
+- [Best Credit Cards](https://www.investopedia.com/best-credit-cards-5076124): Comparison of top cards by rewards, fees, and use case.
+- [Best Life Insurance Companies](https://www.investopedia.com/best-life-insurance-companies-4845858): Reviews of insurers based on policy options, pricing, and service.
 
-- [Best Online Stock Trading Classes for March 2026](https://www.investopedia.com/the-best-online-stock-trading-classes-8773769): Reviews top trading courses from Warrior Trading, Udemy, and others
-- [Why Do Gold Prices Plummet? Supply, Demand, and Economic Impact](https://www.investopedia.com/articles/investing/071414/when-and-why-do-gold-prices-plummet.asp): Analyzes factors causing gold price drops including supply-demand dynamics
-- [Understanding Underwriters: Their Role in IPOs](https://www.investopedia.com/ask/answers/041415/what-does-underwriter-do-new-stock-offering.asp): Explains underwriter functions in IPO pricing and SEC approval process
-- [Guess What Asset Has Performed Well During the War in Iran? Believe It or Not—It's Bitcoin](https://www.investopedia.com/guess-what-asset-has-performed-well-during-the-war-in-iran-believe-it-or-not-it-s-bitcoin-btc-gold-11925133): Bitcoin outperforms gold and S&P 500 during Iran conflict geopolitical risk
-- [Mortgage Rates Hit a 3-Year Low—Then Came the Iran Conflict](https://www.investopedia.com/mortgage-rates-hit-a-3-year-low-then-came-the-iran-conflict-11922239): Mortgage rates drop below 6% then reverse due to Iran geopolitical tensions
+## Calculators & Tools
+- [Mortgage Calculator](https://www.investopedia.com/mortgage-calculator-5084761): Calculates monthly mortgage payments using loan amount, rate, and term.
+- [Loan Calculator](https://www.investopedia.com/loan-calculator-5104934): Estimates monthly payments, total interest, and amortization for loans.
+- [Compound Interest Calculator](https://www.investopedia.com/compound-interest-calculator-5185351): Projects investment growth using compounding and recurring contributions.
+- [Retirement Calculator](https://www.investopedia.com/retirement-calculator-5089986): Estimates retirement savings needs and future income scenarios.
+- [Required Minimum Distribution Calculator](https://www.investopedia.com/required-minimum-distribution-calculator-5189636): Calculates estimated RMD amounts for retirement accounts.
+- [Social Security Calculator](https://www.investopedia.com/social-security-calculator-5213533): Estimates Social Security benefits under different claiming assumptions.
+- [Budget Calculator](https://www.investopedia.com/budget-calculator-5189720): Helps organize income and expenses into a working budget.
+- [Debt Payoff Calculator](https://www.investopedia.com/debt-payoff-calculator-5189717): Models debt repayment timelines and payoff strategies.
 
-## Corporate Finance & Business
+## Financial Terms Dictionary
+- [Alpha](https://www.investopedia.com/terms/a/alpha.asp): Definition of alpha as risk-adjusted excess investment return.
+- [Beta](https://www.investopedia.com/terms/b/beta.asp): Definition of beta as a measure of market-related volatility.
+- [Capital Gains](https://www.investopedia.com/terms/c/capitalgain.asp): Explains profits from asset sales and related tax treatment.
+- [Dividend](https://www.investopedia.com/terms/d/dividend.asp): Definition of dividend payments and common dividend-related concepts.
+- [Expense Ratio](https://www.investopedia.com/terms/e/expenseratio.asp): Definition of annual fund operating costs charged to investors.
+- [Net Present Value (NPV)](https://www.investopedia.com/terms/n/npv.asp): Definition of NPV for valuing future cash flows in today’s dollars.
+- [Price-to-Earnings Ratio (P/E)](https://www.investopedia.com/terms/p/price-earningsratio.asp): Explains a common valuation metric for comparing stocks.
+- [Sharpe Ratio](https://www.investopedia.com/terms/s/sharperatio.asp): Definition of risk-adjusted return using portfolio volatility.
 
-- [Liquidation Priority: Secured vs. Unsecured Creditors](https://www.investopedia.com/ask/answers/09/corporate-liquidation-unpaid-taxes-wages.asp): Explains creditor hierarchy and payment order during corporate bankruptcy
+## News & Analysis
+- [Latest News](https://www.investopedia.com/news-4427706): Main news page for current coverage of markets, companies, and the economy.
+- [Markets News](https://www.investopedia.com/markets-news-4427704): News focused on stocks, bonds, commodities, and market developments.
+- [Company News](https://www.investopedia.com/company-news-4427703): Coverage of earnings, corporate actions, and business developments.
+- [Economic News](https://www.investopedia.com/economic-news-4427702): Reporting on inflation, rates, jobs, and macroeconomic releases.
+- [Political News](https://www.investopedia.com/political-news-5116294): Coverage of government actions affecting markets, taxes, and the economy.
+- [Live Markets](https://www.investopedia.com/live-markets-5111956): Real-time market blog and rolling updates on major financial events.
 
-## Financial Terms & Definitions
-
-- [Exchange Membership Explained: Definition and Functions](https://www.investopedia.com/terms/m/member.asp): Defines exchange membership rights for trading on stock exchanges
-- [Demand Index Explained: How It Guides Trading Decisions](https://www.investopedia.com/terms/d/demand-index.asp): Technical indicator definition measuring buying/selling pressure via volume
-- [What Does "At a Premium" Mean? Definition and Impact](https://www.investopedia.com/terms/a/at-a-premium.asp): Financial term definition for assets priced above intrinsic value
-
-## Optional
-
-- [Top Cars with the Lowest Depreciation: Boost Your Resale Value](https://www.investopedia.com/financial-edge/1012/cars-that-depreciate-the-least.aspx): Guide to vehicles with minimal depreciation for maximizing resale value
-- [Best Food Truck Insurance in 2026: Compare Top Providers](https://www.investopedia.com/the-best-food-truck-insurance-companies-11739690): Reviews food truck insurance from Huckleberry, Geico, Thimble providers
+## Education & Tutorials
+- [Investing Basics](https://www.investopedia.com/investing-essentials-4689754): Foundational lessons for new investors on accounts, assets, and risk.
+- [Stock Basics Tutorial](https://www.investopedia.com/university/stocks/): Structured tutorial on stock market concepts and investing terminology.
+- [Options Basics Tutorial](https://www.investopedia.com/options-basics-tutorial-4583012): Step-by-step introduction to options contracts and core strategies.
+- [Economics Basics](https://www.investopedia.com/economics-basics-tutorial-4583011): Introductory tutorial on macroeconomic and microeconomic principles.
+- [Accounting Basics](https://www.investopedia.com/accounting-basics-4689736): Educational resource on financial statements and accounting concepts.
+- [Technical Analysis Basic Education](https://www.investopedia.com/university/technical/): Tutorial series on charting, indicators, and trading signals.
+- [Excel for Finance](https://www.investopedia.com/excel-for-finance-4689749): Guides for using Excel functions and models in financial analysis.

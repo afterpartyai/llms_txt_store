@@ -1,55 +1,272 @@
-# Cloudinary
+# Cloudinary Documentation and select corporate site pages
 
-> Cloudinary is an end-to-end AI-powered media management platform for image and video upload, optimization, storage, transformation, and CDN delivery at scale.
+> Cloudinary is a multi-product platform that provides API-first, AI-powered image and video APIs, digital asset management, and workflow automation, that helps developers, creatives, and builders from organizations of all sizes to automate their full media lifecycle at scale.
 
-Cloudinary provides a composable, API-first platform combining digital asset management (DAM), intelligent image and video processing, generative AI capabilities, and workflow automation. The platform integrates with major CMS, ecommerce, and cloud platforms including WordPress, Shopify, Contentful, AWS, and others.
+## Documentation Sections
 
-## Key Topics
-
-- Image Optimization
-- Video Management
-- Digital Asset Management (DAM)
-- AI Automation
-- Generative AI
-- Media Management
-- Content Delivery Network (CDN)
-- API-First Architecture
-- Workflow Automation
-- Performance Optimization
-- Video Transcoding
-- User-Generated Content (UGC)
-- Headless Architecture
-- Asset Transformation
-- Cloud Integration
-
-## Core Products
-
-- [Cloudinary Platform Overview](https://cloudinary.com/platform): Platform overview covering image, video, and AI-powered media workflows
-- [Cloudinary Image](https://cloudinary.com/products/image): AI optimization, transformation, and CDN delivery for images
-- [Cloudinary Video](https://cloudinary.com/products/video): Advanced video solutions including transcoding, smart cropping, and streaming
-- [Cloudinary Assets (DAM)](https://cloudinary.com/products/digital_asset_management): Intelligent digital asset management with GenAI for asset organization and discovery
-- [Cloudinary AI](https://cloudinary.com/products/cloudinary_ai): GenAI platform for automated image and video processing and generation
-- [MediaFlows](https://cloudinary.com/products/mediaflows): No-code/low-code workflow automation for visual media tasks
-- [DAM for Video](https://cloudinary.com/products/digital_asset_management/dam-video): AI-powered DAM solution for video asset lifecycle management
-
-## Solutions & Use Cases
-
-- [Composable Architecture](https://cloudinary.com/solutions/composable-architecture): Composable media platform with API-first microservices architecture
-- [Headless DAM](https://cloudinary.com/solutions/headless): Headless DAM solution with API-driven content delivery architecture
-- [Performance Optimization](https://cloudinary.com/solutions/performance_optimization): Performance optimization with AVIF, JPEG XL, and CDN solutions
-- [User-Generated Content Management](https://cloudinary.com/solutions/user-generated-content): UGC management with moderation, optimization, and delivery tools
-
-## Integrations & Partnerships
-
-- [Integrations Overview](https://cloudinary.com/integrations): Cloudinary integrations with CMS, ecommerce, and third-party tools
-- [WordPress Plugin](https://cloudinary.com/integrations/wordpress): WordPress plugin for image and video optimization with CDN delivery
-- [Shopify Integration](https://cloudinary.com/integrations/shopify): Cloudinary Shopify integration for ecommerce image and video management
-- [AWS Partnership](https://cloudinary.com/integrations/aws): Cloudinary AWS partnership for cloud storage and media management
-- [Contentful Integration](https://cloudinary.com/integrations/contentful): Contentful CMS integration with Cloudinary for media delivery
-- [Syndigo Partnership](https://cloudinary.com/integrations/syndigo): Syndigo PIM and DAM integration for product data management
-- [Figma Plugin](https://cloudinary.com/documentation/figma_integration): Figma plugin documentation for asset management and optimization
-
-## Getting Started & Resources
-
-- [Homepage](https://cloudinary.com): Cloudinary homepage: media management, optimization, and CDN platform
-- [Interactive Demos](https://cloudinary.com/demos): Interactive demonstrations of Cloudinary features and AI capabilities
+- [Image & Video APIs](https://cloudinary.com/documentation/programmable_media_overview.md)
+  - [Get Started](https://cloudinary.com/documentation/programmable_media_overview.md): Learn how to create transformative visual experiences with image and video APIs using Cloudinary Image and Cloudinary Video.
+    - [Developer kickstart](https://cloudinary.com/documentation/dev_kickstart.md): Jump into Cloudinary Image & Video APIs with easy-to-complete tasks that help you understand the value and get you up and running with Cloudinary.
+      - [Step 1: Register and find credentials](https://cloudinary.com/documentation/dev_kickstart_acct_setup.md): Step 1 of the Cloudinary Image & Video Kickstart: Simple, hands-on developer tasks that help you understand the value and get you up and running with Cloudinary.
+      - [Step 2: Load pages faster with optimization](https://cloudinary.com/documentation/dev_kickstart_optimize.md): Step 2 of the Cloudinary Image & Video Kickstart: Simple, hands-on developer tasks that help you understand the value and get you up and running with Cloudinary.
+      - [Step 3: Your first transformations](https://cloudinary.com/documentation/dev_kickstart_transform_intro.md): Step 3 of the Cloudinary Image & Video Kickstart: Simple, hands-on developer tasks that help you understand the value and get you up and running with Cloudinary.
+      - [Step 4: Resize transformations](https://cloudinary.com/documentation/dev_kickstart_transform_resize.md): Step 4 of the Cloudinary Image & Video Kickstart: Simple, hands-on developer tasks that help you understand the value and get you up and running with Cloudinary.
+      - [Step 5: Set up and run your first SDK project](https://cloudinary.com/documentation/dev_kickstart_sdks.md): Step 5 of the Cloudinary Image & Video Developer Kickstart: Simple, hands-on developer tasks that help you understand the value and get you up and running with Cloudinary.
+      - [Congrats! You're ready to code!](https://cloudinary.com/documentation/dev_kickstart_finish.md): After completing several hands-on developer tasks that helped you understand the value and how to get up and running with Cloudinary, you're ready to code!
+    - [SDK quick starts](https://cloudinary.com/documentation/sdk_quickstarts.md): Get a Cloudinary Image or Cloudinary Video project up and running in your favorite programming language in 5 minutes or less.
+    - [Try it!](https://cloudinary.com/documentation/code_explorers_demos_index.md): Try out some code explorers and interactive feature demos that help developers 'play & learn' with Cloudinary functionality.
+      - [Code explorers](https://cloudinary.com/documentation/code_explorers.md): Try out some code explorers that help developers 'play & learn' with Cloudinary functionality.
+      - [Feature demos](https://cloudinary.com/documentation/feature_demos_index.md): Quick index to inline interactive feature demos that help developers 'play & learn' with Cloudinary functionality.
+      - [Postman collections](https://cloudinary.com/documentation/using_cloudinary_postman_collections.md): Learn how to get started with using Cloudinary's Postman Collections to test and run Cloudinary's APIs without the need for your own backend environment.
+    - [MCP servers and LLM tools (Beta)](https://cloudinary.com/documentation/cloudinary_llm_mcp.md): Use Cloudinary MCP servers and LLM-friendly docs for LLM clients to perform operations and generate reliable code from markdown-based doc contexts.
+    - [VS Code Extension (Beta)](https://cloudinary.com/documentation/cloudinary_vscode_extension.md): Browse, search, upload, and reference Cloudinary media assets directly from Visual Studio Code without switching between your IDE and browser.
+    - [Additional onboarding resources](https://cloudinary.com/documentation/onboarding_resources.md): A collection of onboarding materials that can assist developers in a successful Cloudinary onboarding experience.
+      - [Service introduction](https://cloudinary.com/documentation/solution_overview.md): An overview of the architecture, Cloudinary Console, and other major elements of the Cloudinary service.
+      - [Onboarding FAQ](https://cloudinary.com/documentation/developer_onboarding_faq.md): Answers to the most common questions that developers ask when evaluating or getting started with Cloudinary Image & Video APIs.
+        - [What can I do with Cloudinary's Free plan?](https://cloudinary.com/documentation/developer_onboarding_faq_free_plan.md): The Free plan gives access to Cloudinary's robust features, 3 users, access to various support channels with no credit card needed. Visit this FAQ to learn more.
+        - [How do Cloudinary credits work?](https://cloudinary.com/documentation/developer_onboarding_faq_credits.md): Cloudinary's credits enable you to flexibly use transformations, storage and/or bandwidth based on your use case. Visit this FAQ to learn more.
+        - [What is the image impressions metric?](https://cloudinary.com/documentation/developer_onboarding_faq_image_impressions.md): Understand how Cloudinary calculates your image impressions and how that impacts your overall credit usage.
+        - [How do I upgrade or downgrade my Cloudinary account?](https://cloudinary.com/documentation/developer_onboarding_faq_upgrade_downgrade.md): Cloudinary's console makes it easy to see when you should upgrade and to select a new plan that meets your needs. You can also downgrade if needed. Visit this FAQ to learn more.
+        - [Who can help with specific questions?](https://cloudinary.com/documentation/developer_onboarding_faq_who_can_help.md): Report issues in our public SDK libraries or reach out to our Customer Support for direct answers to specific questions. Visit this FAQ to learn more.
+        - [Where are my uploaded assets stored? Can I keep uploading to my own storage bucket?](https://cloudinary.com/documentation/developer_onboarding_faq_storage.md): Your assets can be stored and/or backed up on our S3 or Google Cloud buckets or your own. Visit this FAQ to learn more.
+        - [Where do I find my product environment credentials?](https://cloudinary.com/documentation/developer_onboarding_faq_find_credentials.md): Get your cloud name, API key, API secret credentials from the API Keys settings page. Visit this FAQ to learn more about credential management options.
+        - [How do I migrate all my existing images and videos to Cloudinary?](https://cloudinary.com/documentation/developer_onboarding_faq_migrate_assets.md): There are a variety of options to migrate your existing assets to Cloudinary. Visit this FAQ to learn more.
+        - [How do I deliver the most optimized assets?](https://cloudinary.com/documentation/developer_onboarding_faq_optimize.md): Cloudinary offers many features to help you decrease file size and ensure fast delivery while maintaining the needed level of quality. Visit this FAQ to learn more.
+        - [Why is an old image/video still showing in my site after I replaced it with a new one?](https://cloudinary.com/documentation/developer_onboarding_faq_overwriting_assets.md): Cloudinary caches assets on the CDN for best performance. There are several ways to replace these cached assets when needed. Visit this FAQ to learn more.
+        - [How do I control which users access my Cloudinary account and what they can do?](https://cloudinary.com/documentation/developer_onboarding_faq_user_access.md): You can set up 2FA or SAML login, define users with different roles and permissions, and more. Visit this FAQ to learn more.
+        - [What security measures are available to prevent misuse of my account?](https://cloudinary.com/documentation/developer_onboarding_faq_account_security.md): There is a very large set of security settings and features that you can combine and customize for preventing misuse of your account. Visit this FAQ to learn more.
+        - [How can I track my credit usage?](https://cloudinary.com/documentation/developer_onboarding_faq_track_credits.md): The Cloudinary Console provides data, graphs, breakdown details, and reports for monitoring your credit usage. Visit this FAQ to learn more.
+        - [Aside from credits, what other usage allowances should I be aware of?](https://cloudinary.com/documentation/developer_onboarding_faq_usage_limits.md): There are a number of account and usage allowances in addition to credits that you should track. Visit this FAQ to learn more.
+        - [How can I monitor account and service availability?](https://cloudinary.com/documentation/developer_onboarding_faq_availability.md): Incidents impacting service availability or performance are rare, but you can monitor them programmatically or on the status page. Visit this FAQ to learn more.
+      - [Enterprise onboarding FAQ](https://cloudinary.com/documentation/enterprise_onboarding_faq.md): Answers to the most common questions that organizations ask when evaluating or getting started with Cloudinary Image & Video products
+      - [Migration guide](https://cloudinary.com/documentation/migration.md): A guide for migrating your assets to your Cloudinary product environment.
+      - [Glossary](https://cloudinary.com/documentation/cloudinary_glossary.md): What's a qualifier transformation? What's an upload preset? Find quick definitions of the terms you need to know to work with Cloudinary Programmable Media.
+  - [Guides](https://cloudinary.com/documentation/programmable_media_guides.md): Learn how to use Cloudinary features, apply cross-feature use cases, and view code samples for all supported programming languages.
+    - [Cloudinary Image](https://cloudinary.com/documentation/cloudinary_image.md): Cloudinary Image is an AI-based image platform for developers and other stakeholders to deliver endless image variations, optimized and at scale.
+      - [Image transformations](https://cloudinary.com/documentation/image_transformations.md): Learn how to dynamically transform images with one line of code: crop, resize, add borders and background, face detection, rich image effects, and more.
+        - [Resizing and cropping](https://cloudinary.com/documentation/resizing_and_cropping.md): Learn how to use different resize and crop modes together with various gravity options to transform images dynamically.
+        - [Placing layers on images](https://cloudinary.com/documentation/layers.md): Place image, text, or other layers on (or under) existing assets to generate new and customized creations on the fly.
+        - [Effects and enhancements](https://cloudinary.com/documentation/effects_and_artistic_enhancements.md): Generate and apply a huge variety of effects, filters, and other enhancements to any image on the fly.
+        - [Background removal](https://cloudinary.com/documentation/background_removal.md): Use AI to remove the background of your images on the fly or on upload.
+        - [Generative AI transformations](https://cloudinary.com/documentation/generative_ai_transformations.md): Use generative AI to seamlessly transform your images on the fly.
+        - [Face-detection based transformations](https://cloudinary.com/documentation/face_detection_based_transformations.md): Learn how to transform images using Cloudinary's face-detection algorithms, including cropping, overlaying, blurring and pixelating.
+        - [Custom focus areas](https://cloudinary.com/documentation/custom_focus_areas.md): Learn how to specify custom areas of an image to focus on for cropping, overlays and more.
+        - [Transformation refiners](https://cloudinary.com/documentation/transformation_refiners.md): Learn how to refine transformations to perfectly match your creative vision.
+        - [Animated images](https://cloudinary.com/documentation/animated_images.md): Learn how to create and manage animated images.
+        - [Transformations on 3D models](https://cloudinary.com/documentation/transformations_on_3d_models.md): Learn how to perform transformations on 3D models
+        - [Conditional transformations](https://cloudinary.com/documentation/conditional_transformations.md): Learn how to conditions to define transformations that are applied only when a specific condition is met.
+        - [User-defined variables and arithmetic transformations](https://cloudinary.com/documentation/user_defined_variables.md): Use user-defined variables to keep values separate from image transformation definitions. Use arithmetic expressions to set variable or parameter values.
+        - [Custom functions](https://cloudinary.com/documentation/custom_functions.md): Learn how to inject a custom function in the image transformation chain for a delivered image
+      - [Image optimization and delivery](https://cloudinary.com/documentation/image_delivery_options.md): Learn how to deliver images and videos in the most optimized and responsive ways, as well as other advanced delivery options.
+        - [Optimization overview](https://cloudinary.com/documentation/media_optimization.md): Learn how to deliver optimized images and videos and improve your Core Web Vitals metrics report by getting the best trade-off between file size and visual quality.
+        - [Image optimization](https://cloudinary.com/documentation/image_optimization.md): Learn how to deliver optimized images with the smallest possible file size while maintaining visual quality, for improved page load times and user experience.
+          - [PDF optimization](https://cloudinary.com/documentation/pdf_optimization.md): Learn how to deliver optimized PDFs with the smallest possible file size while maintaining visual quality, for faster download times.
+          - [Optimize by default](https://cloudinary.com/documentation/optimize_by_default_settings.md): Learn about the settings that allow you to deliver your images and videos optimized by default, without having to change your delivery URLs.
+        - [Responsive images](https://cloudinary.com/documentation/responsive_images.md): Learn how to dynamically create high quality responsive images for every platform with one line of code - including responsive breakpoints and client hints.
+          - [Using HTML and dynamic image transformations](https://cloudinary.com/documentation/responsive_html.md): Learn how to make images responsive using HTML and dynamic image transformations.
+          - [Using JavaScript frontend frameworks](https://cloudinary.com/documentation/responsive_client_side_fe_frameworks.md): Learn how to make images responsive using JavaScript frontend frameworks.
+          - [Using the cloudinary-core JS library](https://cloudinary.com/documentation/responsive_client_side_js.md): Learn how to make images responsive using the cloudinary-core JS library.
+          - [Using client hints](https://cloudinary.com/documentation/responsive_server_side_client_hints.md): Learn how to make images responsive using client hints.
+        - [Deliver remote media files](https://cloudinary.com/documentation/fetch_remote_images.md): Retrieve remote media files from any URL, apply transformations, and then deliver the automatically optimized images and videos via CDN.
+          - [Social media profile pictures](https://cloudinary.com/documentation/social_media_profile_pictures.md): Fetch and transform Facebook, Twitter and other social media profile pictures with fast delivery via CDN.
+        - [PDF and Photoshop files](https://cloudinary.com/documentation/paged_and_layered_media.md): Deliver paged or layered media assets such as PDFs or Photoshop files, including options for delivering or transforming only selected pages or layers.
+        - [Media access methods](https://cloudinary.com/documentation/control_access_to_media.md): Learn about the methods available for authentication and media access control of your media assets.
+        - [CDN delivery options](https://cloudinary.com/documentation/advanced_url_delivery_options.md): Learn about Cloudinary's CDN-based delivery features, such as custom domains (CNAMEs), Multi-CDN, Fast API, SEO-friendly URLs, and more.
+      - [Programmatic image creation](https://cloudinary.com/documentation/create_assets.md): Programmatically create new images for your account.
+        - [Animated images](https://cloudinary.com/documentation/creating_animated_images.md): Programmatically create animated images for your account.
+        - [Archives](https://cloudinary.com/documentation/generate_archives.md): Programmatically generate archives of assets in your account.
+        - [Sprites](https://cloudinary.com/documentation/sprite_generation.md): Create a single sprite from multiple images to reduce network overhead and bypass download limitations.
+        - [Image collages](https://cloudinary.com/documentation/image_collage_generation.md): Learn how to create collages from images in your Cloudinary account.
+        - [PDF files from images](https://cloudinary.com/documentation/create_pdf_files_from_images.md): Programmatically create PDF files from images for your account.
+        - [Images from text](https://cloudinary.com/documentation/create_images_from_text.md): Programmatically create images from text for your account.
+      - [Product Gallery widget](https://cloudinary.com/documentation/product_gallery.md): The Cloudinary Product Gallery enables you to display your products to your users via an interactive UI.
+        - [Product Gallery changelog](https://cloudinary.com/documentation/product_gallery_changelog.md): Follow the new features, enhancements, and fixes in each new release of the Cloudinary Product Gallery.
+      - [Media Editor widget](https://cloudinary.com/documentation/media_editor.md): The Cloudinary Media Editor enables you to edit your images via an interactive UI.
+      - [Image add-ons](https://cloudinary.com/documentation/transformations_addons.md): Learn about the add-ons available for extending Cloudinary's image transformation, optimization, and analysis capabilities.
+      - [Troubleshooting and tips](https://cloudinary.com/documentation/cloudinary_image_troubleshooting_tips.md): This section provides troubleshooting guidance and useful tips related to Cloudinary Image.
+        - [404 errors for transformed assets](https://cloudinary.com/documentation/ts_i_m_getting_a_404_or_other_40x_errors_for_my_transformed_image_while_other_versions_of_that_image_work.md): Explains why 40x errors are cached at the CDN and how to resolve issues when some transformed assets return errors while other versions work.
+        - [Add a solid color overlay](https://cloudinary.com/documentation/ts_how_to_add_a_solid_color_overlay.md): Learn how to apply solid color overlays to images using a 1x1 pixel image, with options to resize, recolor, position automatically, and adjust opacity.
+        - [Images delivered without gzip compression](https://cloudinary.com/documentation/ts_why_are_my_cloudinary_images_delivered_without_gzip_compression_content_encoding.md): Cloudinary gzips only compressible formats. For certain formats like JPG and PNG, applying gzip compression is redundant and may not yield any gain. Furthermore, sometimes it may even result in larger files.
+        - [Long time to first byte (TTFB) on WebPageTest.org](https://cloudinary.com/documentation/ts_why_am_i_seeing_a_long_time_to_first_byte_ttfb_on_webpagetest_org.md): WebPageTest is a common tool that is used to examine site performance. It can generate a beautifully detailed waterfall with information on each request.
+        - [Update a named transformation](https://cloudinary.com/documentation/ts_how_can_i_update_a_named_transformation.md): Learn different methods to update a named transformation in Cloudinary, including using the management console, Admin API, and CLI SDK to regenerate derived assets.
+        - [Cloudinary vs Imagga cropping](https://cloudinary.com/documentation/ts_what_is_the_difference_between_cloudinary_automated_cropping_and_imagga_smart_cropping.md): Understand the differences between Cloudinary's built-in content-aware cropping and the Imagga smart cropping add-on, including algorithm differences, configuration options, and quota considerations.
+        - [Placeholder images (LQIP)](https://cloudinary.com/documentation/ts_suggested_transformation_options_for_placeholder_images_lqip.md): Suggested transformation options for placeholder images/ LQIP â Cloudinary Support
+        - [Common error codes in x-cld-error header](https://cloudinary.com/documentation/ts_what_are_the_common_error_codes_returned_in_the_x_cld_error_header_when_delivering_assets.md): A reference guide to troubleshoot and resolve common x-cld-error codes returned by Cloudinary when delivering assets, with causes and solutions for each error.
+        - [How to detect corrupted images](https://cloudinary.com/documentation/ts_how_to_detect_corrupted_images.md): Learn how to identify and handle corrupted JPEG images during upload by using the IsCorrupt parameter.
+        - [Force specific image when sharing links on Facebook](https://cloudinary.com/documentation/ts_how_can_i_force_a_specific_image_to_feature_when_sharing_my_links_on_facebook.md): Facebook provides a dedicated API to personalize the preview of shared links. Specifically, the og:image property allows you to specify the image that's displayed as a thumbnail.
+    - [Cloudinary Video](https://cloudinary.com/documentation/cloudinary_video.md): Cloudinary Video is an AI-based video platform for developers and other stakeholders that offers a range of video solutions for leading-edge video delivery at scale.
+      - [Cloudinary Video Player](https://cloudinary.com/documentation/cloudinary_video_player.md): The Cloudinary Video Player is an HTML5 video player with built-in HLS and video transformations, fast video delivery, and analytics capabilities.
+        - [How to embed the Video Player](https://cloudinary.com/documentation/video_player_how_to_embed.md): Learn how easy it is to embed the Video Player in your website or mobile app and deliver videos with adaptive streaming, video transformations, and more.
+        - [Video Player Studio](https://cloudinary.com/documentation/video_player_studio.md): Use the Video Player Studio to visually configure video player settings, save configurations to assets, and generate embed code.
+        - [Video Player customization](https://cloudinary.com/documentation/video_player_customization.md): Customize the Cloudinary Video Player appearance and behavior to match the needs of your site design and branding.
+        - [Playlists and recommendations](https://cloudinary.com/documentation/video_player_playlists_recommendations.md): Keep users on your site and expose them to other videos in your collection by creating video playlists and using video recommendations in your Video Player.
+        - [HLS and MPEG-DASH](https://cloudinary.com/documentation/video_player_hls_dash.md): Embed the Cloudinary Video Player in your site to stream HLS or MPEG-DASH videos to your users according your their available bandwidth and CPU capacity.
+        - [Video Player accessibility](https://cloudinary.com/documentation/video_player_accessibility.md): Understand the features included in the Cloudinary Video Player for WCAG 2.1 AA compliance
+        - [Video Player advanced features](https://cloudinary.com/documentation/video_player_advanced_features.md)
+          - [Events and analytics](https://cloudinary.com/documentation/video_player_events_analytics.md): Use video player events to trigger other custom behaviors in your application or track the events in Google Analytics or other analytics trackers.
+          - [Video ads and monetization](https://cloudinary.com/documentation/video_player_ads_monetization.md): Learn how to include ad banners or pre/mid/post-roll ads to your video player using VAST, VPAID, or VMAP ads, including Google AdSense and DoubleClick.
+          - [Shoppable Video](https://cloudinary.com/documentation/video_player_shoppable_videos.md): Learn how to make your videos shoppable using the Cloudinary Video Player.
+          - [Interactive Video (Beta)](https://cloudinary.com/documentation/video_player_interactive_videos.md): Learn how to make your videos interactive using the Cloudinary Video Player.
+      - [Adaptive bitrate streaming](https://cloudinary.com/documentation/adaptive_bitrate_streaming.md): Deliver your videos using adaptive bitrate streaming, both HLS and MPEG-DASH, to provide the optimal video experience.
+      - [Video transformations](https://cloudinary.com/documentation/video_manipulation_and_delivery.md): Dynamic video transcoding, adaptive streaming, transformations, and optimized delivery - all with one line of code, using Cloudinary's cloud service.
+        - [Resizing and cropping](https://cloudinary.com/documentation/video_resizing_and_cropping.md): Learn how to use different resize and crop modes together with various gravity options to transform videos dynamically.
+        - [Trimming and concatenating](https://cloudinary.com/documentation/video_trimming_and_concatenating.md): Learn how to trim videos or concatenate them together using splicing.
+        - [Placing layers on videos](https://cloudinary.com/documentation/video_layers.md): Place image, text, or other layers on (or under) existing assets to generate new and customized creations on the fly.
+        - [Effects and enhancements](https://cloudinary.com/documentation/video_effects_and_enhancements.md): Generate and apply a huge variety of effects, enhancements to any video on the fly.
+        - [Audio transformations](https://cloudinary.com/documentation/audio_transformations.md): Learn how to perform audio transformations: stream audio from a file, adjust audio settings or generate audio waveform images from any audio or video file.
+        - [Advanced video transformations](https://cloudinary.com/documentation/advanced_video_transformations.md): Try these advanced options to generate videos with if/then conditions, variables, and calculations, or to deliver videos in live streams or as animated images.
+          - [Converting videos to animated images](https://cloudinary.com/documentation/videos_to_animated_images.md): Learn how to programmatically convert a video to an animated image format, such as animated AVIF, GIF or WebP.
+          - [Conditional transformations](https://cloudinary.com/documentation/video_conditional_expressions.md): Use conditions to define transformations that are applied only when a specific condition is met.
+          - [User-defined variables and arithmetic transformations](https://cloudinary.com/documentation/video_user_defined_variables.md): Use user-defined variables to keep values separate from video transformation definitions. Use arithmetic expressions to set variable or parameter values.
+      - [Video and audio optimization](https://cloudinary.com/documentation/video_and_audio_optimization.md): Learn how to deliver optimized videos and audio with the smallest possible file size while maintaining visual quality, for improved page load times and user experience.
+        - [Video optimization](https://cloudinary.com/documentation/video_optimization.md): Learn how to deliver optimized videos with the smallest possible file size while maintaining visual quality, for improved page load times and user experience.
+        - [Audio optimization](https://cloudinary.com/documentation/audio_optimization.md): Learn how to deliver optimized audio content with the smallest possible file size while maintaining audio quality, for improved page load times and user experience.
+      - [Video transcription](https://cloudinary.com/documentation/video_transcription.md): Automatically generate audio transcriptions for your videos and apply them as subtitles or captions.
+      - [Video analytics](https://cloudinary.com/documentation/video_analytics.md): Learn how to gather analytics for your Cloudinary hosted videos and gain an understanding of how your videos are performing.
+      - [Live streaming](https://cloudinary.com/documentation/video_live_streaming.md): Learn how to configure and initiate live streaming using RTMP.
+        - [Simulated live streaming](https://cloudinary.com/documentation/simulated_live_streaming.md): Learn how to simulate live streaming using videos already uploaded to your Cloudinary account or stored locally.
+      - [Video add-ons](https://cloudinary.com/documentation/video_addons.md): Learn about the add-ons available for extending Cloudinary's video transformation, optimization, and analysis capabilities.
+      - [Video best practices](https://cloudinary.com/documentation/video_best_practices.md): Best practices for uploading, delivering, and streaming optimized videos in your website or app using Cloudinary.
+      - [Social media videos](https://cloudinary.com/documentation/social_media_videos.md): A guide to using Cloudinary effectively for delivering dedicated social media video experiences.
+    - [Upload](https://cloudinary.com/documentation/upload_images.md): Learn how to upload images, videos, and other files with only a line or two of code - with cloud storage, CDN delivery, optimization and post-upload effects.
+      - [Customizing uploads](https://cloudinary.com/documentation/upload_parameters.md): Learn about the required and optional parameters available for customizing your uploads.
+      - [Client-side uploading](https://cloudinary.com/documentation/client_side_uploading.md): Learn about upload options on the client-side
+      - [Upload presets](https://cloudinary.com/documentation/upload_presets.md): Use Cloudinary upload presets to define a set of asset upload options that can be used as a template for multiple upload operations via API, upload widget or UI.
+      - [Upload widget](https://cloudinary.com/documentation/upload_widget.md): Cloudinary's free Upload Widget allows website users to upload files directly to the cloud. Upload from local files, URL, Dropbox, Facebook and more.
+        - [Upload widget changelog](https://cloudinary.com/documentation/upload_widget_changelog.md): Follow the new features, enhancements, and fixes in each new release of the Cloudinary Upload Widget.
+      - [Troubleshooting and tips](https://cloudinary.com/documentation/upload_images_troubleshooting_tips.md): This section provides troubleshooting guidance and useful tips related to uploading assets.
+        - [Unsigned upload from Google Apps Script](https://cloudinary.com/documentation/ts_how_to_perform_an_unsigned_image_upload_from_google_apps_script_to_cloudinary.md): Google Apps Script does not have native support for the FormData object used in JavaScript for handling file uploads. However, you can still upload images to Cloudinary by using a simple JSON object instead.
+        - [Rejected file formats](https://cloudinary.com/documentation/ts_why_does_cloudinary_reject_the_file_format_of_some_files_im_uploading.md): Learn which file extensions are blocked by Cloudinary for security reasons and how to request exceptions for paid accounts.
+        - [Troubleshooting failed upload requests](https://cloudinary.com/documentation/ts_troubleshooting_failed_upload_requests.md): Learn how to troubleshoot failed upload requests by checking X-Cld-Error messages from API uploads and error messages from the Upload Widget, and understand common error reasons like configuration issues and account limits.
+        - [Always upload a square image](https://cloudinary.com/documentation/ts_how_to_always_upload_a_square_image.md): When uploading images to Cloudinary you can specify the dimensions and crop to always upload a square image.
+        - [Unsupported parameters in unsigned uploads](https://cloudinary.com/documentation/ts_unsupported_parameters_in_unsigned_uploads.md): Learn why unsigned uploads restrict certain parameters and how to apply restricted parameters through upload presets.
+        - [Uploaded image truncated](https://cloudinary.com/documentation/ts_why_was_my_uploaded_image_truncated.md): Learn how to detect and handle truncated images when uploading from remote servers, including using the IsCorrupt attribute for JPEG files.
+        - [Upload failed - cloud_name is disabled error](https://cloudinary.com/documentation/ts_why_am_i_receiving_an_upload_failed_cloud_name_is_disabled_error_when_using_my_new_cloudinary_account.md): When you register for a Cloudinary account, a verification email is sent to complete the signup process. If email verification is not completed, your account cannot be used and API calls will return errors.
+    - [Asset management](https://cloudinary.com/documentation/asset_management.md): Use programmatic asset management APIs to auto-tag, generate AI-based captions, moderate user-generated content, automate workflows and more.
+      - [CRUD asset management APIs](https://cloudinary.com/documentation/managing_assets.md): Learn about the available APIs for basic CRUD management of your assets.
+        - [List assets](https://cloudinary.com/documentation/list_assets.md): List assets in your product environment.
+        - [Update assets](https://cloudinary.com/documentation/update_assets.md): Update an asset in your product environment.
+        - [Delete assets](https://cloudinary.com/documentation/delete_assets.md): Delete assets from your product environment.
+        - [Rename assets](https://cloudinary.com/documentation/rename_assets.md): Rename the public ID of an asset in your product environment.
+        - [Relate assets](https://cloudinary.com/documentation/relate_assets.md): Indicate that a specified asset is logically related to other assets in some way.
+      - [Media Library for developers](https://cloudinary.com/documentation/media_library_for_developers.md): Use the Media Library to upload, view, browse, and search the assets in your product environment.
+      - [Search for assets](https://cloudinary.com/documentation/searching_for_assets.md): Learn how to programmatically search for the media assets in your Cloudinary repository that meet specified criteria.
+        - [Search API method](https://cloudinary.com/documentation/search_method.md): Programmatically search for media assets by format, tags, dimensions, location, prominent colors, number of faces, and more, using Lucene-like queries.
+        - [Cacheable search URLs](https://cloudinary.com/documentation/cacheable_search_urls.md): Generate a search URL that can then be used to return and cache the results of a specified search.
+        - [Visual Search](https://cloudinary.com/documentation/visual_search.md): Visually search for images based on their visual content.
+        - [Search expressions](https://cloudinary.com/documentation/search_expressions.md): Learn how to formulate search expressions, using Lucene-like queries.
+      - [Eager and incoming transformations](https://cloudinary.com/documentation/eager_and_incoming_transformations.md): Use eager or incoming transformations to generate different versions of your original file as part of your upload call.
+      - [Custom metadata](https://cloudinary.com/documentation/custom_metadata.md): Programmatically create and manage custom metadata fields for your account.
+        - [Tags](https://cloudinary.com/documentation/tags.md): Programmatically create and manage tags for your account.
+        - [Contextual metadata](https://cloudinary.com/documentation/contextual_metadata.md): Programmatically create and manage contextual metadata fields for your account.
+        - [Structured metadata](https://cloudinary.com/documentation/structured_metadata.md): Programmatically create and manage structured metadata fields for your account.
+          - [Conditional metadata rules](https://cloudinary.com/documentation/conditional_metadata_rules_api.md): Programmatically create and manage conditional metadata rules for your structured metadata fields.
+      - [Analyze assets](https://cloudinary.com/documentation/analyze_assets.md): Cloudinary can analyze the assets and store the data for later use, including quality analysis, accessibility analysis, and more.
+        - [Image quality analysis](https://cloudinary.com/documentation/image_quality_analysis.md): Cloudinary can analyze the quality of your assets.
+        - [Accessibility analysis](https://cloudinary.com/documentation/accessibility_analysis.md): Cloudinary can analyze your assets for accessibility.
+        - [Semantic data extraction](https://cloudinary.com/documentation/semantic_data_extraction.md): Cloudinary can extract semantic data from your assets and store the data for later use.
+        - [Media Inspector](https://cloudinary.com/documentation/media_inspector_browser_extension.md): Learn how to use the Cloudinary Media Inspector browser extension to get detailed information about the media on your website.
+        - [Analyze API (Beta)](https://cloudinary.com/documentation/analyze_api_guide.md): Analyze any external image and return details based on the type of analysis requested. Currently in beta.
+      - [Moderate assets](https://cloudinary.com/documentation/moderate_assets.md): Cloudinary can help you automatically moderate your assets to ensure they meet your organization's suitable-for-work and branding standards.
+      - [Webhook notifications](https://cloudinary.com/documentation/notifications.md): The Cloudinary notification feature uses webhooks to inform your backend about events triggered by API methods or user actions in the Media Library.
+      - [Advanced asset management](https://cloudinary.com/documentation/advanced_management.md): Advanced options for programmatically managing image, video, and raw assets in Cloudinary.
+        - [Signatures](https://cloudinary.com/documentation/signatures.md): Quick reference summarizing the various types of signatures you may need to generate and the payload you need to include in the signature for each case.
+          - [Authentication signatures](https://cloudinary.com/documentation/authentication_signatures.md): Learn how to generate authentication signatures
+          - [Notification signatures](https://cloudinary.com/documentation/notification_signatures.md): Learn how to confirm notification signatures
+          - [Delivery URL signatures](https://cloudinary.com/documentation/delivery_url_signatures.md): Learn how to generate delivery URL signatures
+          - [Response signatures](https://cloudinary.com/documentation/response_signatures.md): Learn how to confirm response signatures
+        - [Provenance and authenticity](https://cloudinary.com/documentation/content_provenance_and_authenticity.md): Prove the provencance and authenticity of your assets.
+        - [Backups and version management](https://cloudinary.com/documentation/backups_and_version_management.md): Learn how to set up backups in your account to restore previous versions or deleted assets.
+        - [Invalidate cached assets](https://cloudinary.com/documentation/invalidate_cached_media_assets_on_the_cdn.md): Send an invalidation request instructing the CDN to remove cached copies of an old asset.
+      - [Add-ons](https://cloudinary.com/documentation/manage_and_analyze_addons.md): Learn about the add-ons available for extending Cloudinary's management and analysis capabilities.
+      - [Troubleshooting and tips](https://cloudinary.com/documentation/asset_management_troubleshooting_tips.md): Troubleshooting guidance and useful tips related to asset management.
+        - [Why has the public ID of my asset changed?](https://cloudinary.com/documentation/ts_why_has_the_public_id_of_my_asset_changed.md): Learn why an asset's public ID might change in Cloudinary and how to manage these changes effectively.
+        - [Check resource type and delivery type](https://cloudinary.com/documentation/ts_how_to_view_resource_type_and_delivery_type.md): Learn how to verify the resource type and delivery type of uploaded assets by examining the delivery URL or checking the Console.
+        - [Get image or video dimensions](https://cloudinary.com/documentation/ts_how_can_i_get_the_size_or_dimensions_of_an_image_by_its_public_id.md): Learn multiple methods to retrieve image and video dimensions, including via API responses, Admin API queries, and the Console UI.
+        - [Download account assets](https://cloudinary.com/documentation/ts_how_can_i_download_my_accounts_assets.md): Cloudinary supports several ways to download many or all of your assets from your account. Depending on your requirements, the size of your account, and whether you are using Cloudinary's UI or API, you can choose from several options.
+        - [Delete or modify original images](https://cloudinary.com/documentation/ts_dam_how_can_i_delete_or_modify_the_original_image_uploaded.md): Learn how to delete original assets and their derived versions, or modify original images using incoming transformations.
+        - [Does Cloudinary store any cookies?](https://cloudinary.com/documentation/ts_does_cloudinary_store_any_cookies.md): Learn about Cloudinary's cookie usage policy, including how cookies are handled in asset delivery requests and when using widgets with third-party services.
+        - [Underscores in public IDs or folder names](https://cloudinary.com/documentation/ts_why_shouldnt_i_use_underscore_within_folder_names.md): Using underscores in the first few letters of a public ID containing slashes or in a folder name (in fixed-folder mode) can create ambiguity and result in broken URLs. Learn best practices to prevent these errors.
+    - [Account management](https://cloudinary.com/documentation/account_management.md): Explore the options available for managing your account for developer use cases.
+      - [Usage data](https://cloudinary.com/documentation/programmable_media_asset_usage_data.md): Learn how to analyze account and product environment usage reports.
+      - [How are transformations counted?](https://cloudinary.com/documentation/transformation_counts.md): Detailed listing of various media processing operations and how Cloudinary counts them for the 'Transformation' element of your monthly billing.
+      - [Troubleshooting and tips](https://cloudinary.com/documentation/account_management_troubleshooting_tips.md): Find troubleshooting tips and answers to commonly asked questions about Cloudinary account management.
+        - [Cancel or delete Cloudinary account](https://cloudinary.com/documentation/ts_how_can_i_cancel_or_delete_my_cloudinary_account.md): Learn the difference between canceling and deleting your Cloudinary account, and how to request permanent account deletion.
+        - [Create account with pre-existing email](https://cloudinary.com/documentation/ts_how_to_create_a_new_account_using_an_email_address_with_pre_existing_account.md): Learn how to create a new Cloudinary account when you already have an account associated with your email address.
+        - [Credit card payments](https://cloudinary.com/documentation/ts_does_cloudinary_support_credit_card_payments.md): Learn about credit card payment options with Cloudinary, how to set up and update payment methods, and what to do if a payment fails.
+        - [Recover disabled account](https://cloudinary.com/documentation/ts_why_is_my_account_disabled_and_how_can_i_recover_my_disabled_account.md): Learn why your Cloudinary account may be disabled due to exceeding your plan's quota or payment failure, and how to re-enable it.
+        - [Migrate Media Optimizer account](https://cloudinary.com/documentation/ts_how_can_i_migrate_existing_account_media_optimizer_programmable_media.md): Media Optimizer is no longer available. Learn your options for creating a new Programmable Media account using the same email address.
+        - [Successfully go live with Cloudinary](https://cloudinary.com/documentation/ts_how_to_successfully_go_live_or_launch_a_new_activity_with_cloudinary.md): Best practices for launching Cloudinary implementations, covering planning stages, development review, deployment coordination with support teams, and post-deployment monitoring of reports and error consoles.
+    - [Retail and e-commerce](https://cloudinary.com/documentation/ecommerce_guide.md): A guide to managing images and videos for retail and e-commerce use cases.
+      - [Best practices](https://cloudinary.com/documentation/ecommerce_best_practices.md): Learn about best practices for handling images and videos for retail and e-commerce use cases.
+      - [Visual differentiators](https://cloudinary.com/documentation/ecommerce_visual_differentiators.md): Learn about ways that Cloudinary can help you visually differentiate your brand when handling images and videos for retail and e-commerce use cases.
+      - [Customize and optimize assets](https://cloudinary.com/documentation/ecommerce_optimize_customize.md): Keep a master copy and optimize and customize assets on-the-fly for delivery, with examples.
+      - [Workflows](https://cloudinary.com/documentation/ecommerce_workflows.md): Learn how to handle your product and non-product images and videos workflows and multi-channel deliveries for retail and e-commerce use cases.
+        - [Product asset workflows](https://cloudinary.com/documentation/ecommerce_workflows_product.md): Learn how to handle your product image and video workflows for retail and e-commerce use cases.
+        - [Non-product asset workflows](https://cloudinary.com/documentation/ecommerce_workflows_nonproduct.md): Learn how to handle your non-product image and video workflows for retail and e-commerce use cases.
+        - [Multi-channel content delivery](https://cloudinary.com/documentation/ecommerce_workflows_delivery_channels.md): Learn how to deliver your images and videos to multiple delivery channels for retail and e-commerce use cases.
+    - [User-generated content](https://cloudinary.com/documentation/user_generated_content.md): A guide to working with user-generated images and videos using Cloudinary.
+      - [Profile picture sample project](https://cloudinary.com/documentation/profile_picture_sample_project.md): Learn how to implement user-generated content features through a sample project, with a focus on profile pictures.
+      - [Video review sample project](https://cloudinary.com/documentation/video_review_sample_project.md): Learn how to implement user-generated content features through a sample project, with a focus on video reviews.
+      - [Marketplace products sample project](https://cloudinary.com/documentation/marketplace_products_sample_project.md): Learn how to use MediaFlows to moderate product images uploaded to a marketplace platform automatically.
+      - [Try before you buy sample project](https://cloudinary.com/documentation/try_before_you_buy_sample_project.md): Create an app that lets users preview paint colors on their own photos using Cloudinary's upload, transformation, and generative AI tools.
+        - [Delete temporary UGC assets](https://cloudinary.com/documentation/delete_temporary_ugc_assets.md): Learn how to use MediaFlows to manage automatic deletion of temporary user-uploaded assets.
+    - [Accessible media](https://cloudinary.com/documentation/accessible_media.md): Learn how to use Cloudinary features to make your images and videos accessible.
+      - [Image accessibility](https://cloudinary.com/documentation/accessible_media_images.md): Learn how to make images accessible using Cloudinary's text alternatives, AI captioning, and other features.
+      - [Video and audio accessibility](https://cloudinary.com/documentation/accessible_media_video_audio.md): Learn how to make video and audio content accessible with captions, transcriptions, audio descriptions, and sign language overlays.
+      - [Image and video adaptability](https://cloudinary.com/documentation/accessible_media_adaptability.md): Learn how to make images and videos adaptable to different devices and screen sizes.
+      - [Visual and audio clarity](https://cloudinary.com/documentation/accessible_media_visual_audio_clarity.md): Learn how to improve visual and audio clarity for accessibility with contrast adjustments, color assistance, and audio controls.
+      - [Interactive content and controls](https://cloudinary.com/documentation/accessible_media_interactive_controls.md): Learn how to make interactive media content and controls accessible with keyboard navigation, motion preferences, and accessible widgets.
+    - [AI in action](https://cloudinary.com/documentation/ai_in_action.md): An overview of Cloudinary's AI features, how you can use them and best practices.
+    - [Native mobile](https://cloudinary.com/documentation/native_mobile_development.md): Learn how to load and manage optimized images and videos in your native Android and iOS apps.
+    - [Add-ons](https://cloudinary.com/documentation/cloudinary_add_ons.md): Extend image and video API capabilities using 3rd-party or Cloudinary services that integrate seamlessly with Cloudinary Image and Cloudinary Video built-in features.
+      - [Advanced Facial Attributes Detection](https://cloudinary.com/documentation/advanced_facial_attributes_detection_addon.md): Automatically detect the exact location of all faces in an image as well as the exact position of facial attributes and even estimated age and gender.
+      - [Amazon Rekognition AI Moderation](https://cloudinary.com/documentation/aws_rekognition_ai_moderation_addon.md): Add-on for automatically moderating images by an advanced algorithm.
+      - [Amazon Rekognition Video Moderation](https://cloudinary.com/documentation/aws_rekognition_video_moderation_addon.md): Add-on for automatically moderating videos by an advanced algorithm.
+      - [Amazon Rekognition Auto Tagging](https://cloudinary.com/documentation/aws_rekognition_auto_tagging_addon.md): Add-on for image tagging based on categories that are automatically detected in the image.
+      - [Amazon Rekognition Celebrity Detection](https://cloudinary.com/documentation/aws_rekognition_celebrity_and_face_detection_addon.md): Add-on for image tagging based on celebrities that are automatically detected in the image.
+      - [Aspose Document Conversion](https://cloudinary.com/documentation/aspose_document_conversion_addon.md): Automatically convert your Microsoft Office documents, spreadsheets and presentations to PDF documents and image thumbnails.
+      - [Cloudinary AI Background Removal](https://cloudinary.com/documentation/cloudinary_ai_background_removal_addon.md): Highly accurate automatic background removal in seconds based on sophisticated deep learning algorithms.
+      - [Cloudinary AI Content Analysis](https://cloudinary.com/documentation/cloudinary_ai_content_analysis_addon.md): Apply advanced AI algorithms that automatically detect objects in your photos for cropping and tagging purposes.
+      - [Cloudinary AI Vision](https://cloudinary.com/documentation/cloudinary_ai_vision_addon.md): Apply advanced AI Vision to automatically analyze, tag, and moderate your visual content.
+      - [Cloudinary Duplicate Image Detection](https://cloudinary.com/documentation/cloudinary_duplicate_image_detection_addon.md): Automatically detect if an image is the same or very similar to images already stored in your account.
+      - [Google AI Video Moderation](https://cloudinary.com/documentation/google_ai_video_moderation_addon.md): Add-on for automatic video moderation.
+      - [Google AI Video Transcription](https://cloudinary.com/documentation/google_ai_video_transcription_addon.md): Add-on for automatic video transcription.
+      - [Google Auto Tagging](https://cloudinary.com/documentation/google_auto_tagging_addon.md): Add-on for image tagging based on categories that are automatically detected in the image.
+      - [Google Automatic Video Tagging](https://cloudinary.com/documentation/google_automatic_video_tagging_addon.md): Add-on for automatic video tagging based on categories that are automatically detected in the video.
+      - [Google Translation](https://cloudinary.com/documentation/translation_addons.md): Automatically generate image and video tags in multiple languages using the Google Translation add-on in conjunction with other auto-tagging add-ons.
+      - [Imagga Auto Tagging](https://cloudinary.com/documentation/imagga_auto_tagging_addon.md): Add-on for image tagging based on categories that are automatically detected in the image.
+      - [Imagga Crop and Scale](https://cloudinary.com/documentation/imagga_crop_and_scale_addon.md): Add-on for automatic image scaling and cropping based on automatically calculated areas of interest.
+      - [Perception Point Malware Detection](https://cloudinary.com/documentation/perception_point_malware_detection_addon.md): Activate Perception Point's malware detection service to check whether files uploaded to your site contain any viruses or malicious code.
+      - [Microsoft Azure Video Indexer](https://cloudinary.com/documentation/microsoft_azure_video_indexer_addon.md): Generate automatic video transcriptions or auto-tag your videos based on objects, brands, and celebrities with Microsoft Azure's video indexing service.
+      - [OCR Text Detection and Extraction](https://cloudinary.com/documentation/ocr_text_detection_and_extraction_addon.md): Extract detected text and text coordinates from images and use the returned data to blur or pixelate texts, ensure texts aren't cut off in crops, and more.
+      - [Pixelz - Remove the Background](https://cloudinary.com/documentation/remove_the_background_image_editing_addon.md): Submit images to a team of human experts who professionally remove the backgrounds and return PNGs with transparent backgrounds to your Cloudinary account.
+      - [URL2PNG Website Screenshots](https://cloudinary.com/documentation/url2png_website_screenshots_addon.md): Automatically generate a PNG screenshot image from any website URL and deliver the generated image on the fly.
+      - [VIESUSâ¢ Automatic Image Enhancement](https://cloudinary.com/documentation/viesus_automatic_image_enhancement_addon.md): Add-on for automatically enhancing photos to their best visual quality.
+      - [WebPurify Image Moderation](https://cloudinary.com/documentation/webpurify_image_moderation_addon.md): Activate WebPurify's automatic moderation service to check whether images contain suggestive adult content before displaying them to your viewers.
+  - [References](https://cloudinary.com/documentation/cloudinary_references.md): Comprehensive reference information for all Cloudinary Programmable Media APIs, methods, parameters, events, and more.
+    - [Transformation URL API](https://cloudinary.com/documentation/transformation_reference.md): URL API Reference covering every available Cloudinary image and video transformation, with comprehensive syntax details and tons of URL and SDK examples.
+    - [Transformation rules](https://cloudinary.com/documentation/cloudinary_transformation_rules.md): Learn how to build transformations using the Transformation URL API to transform images, videos, and audio.
+    - [Upload API](https://cloudinary.com/documentation/image_upload_api_reference.md): Cloud-based Upload API with extensive options for uploading, transforming and processing images, videos, and raw files.
+    - [Admin API](https://cloudinary.com/documentation/admin_api.md): Programmatically and securely control of all uploaded raw files, images, videos, fetched social profile pictures, generated transformations and more.
+    - [Provisioning API](https://cloudinary.com/documentation/provisioning_api.md): Programmatically manage users, product environments and groups for your account
+    - [Analyze API (Beta)](https://cloudinary.com/documentation/analyze_api_reference.md): Analyze API reference, currently in beta.
+    - [Live streaming API](https://cloudinary.com/documentation/video_live_streaming_reference.md): Interactive API reference for video live streaming using RTMP.
+    - [Player profiles API](https://cloudinary.com/documentation/video_player_profiles_reference.md): Interactive API reference for managing reusable video player profiles.
+    - [Video config API](https://cloudinary.com/documentation/video_config_reference.md): Interactive API reference for managing per-video player configurations.
+    - [Cloudinary CLI](https://cloudinary.com/documentation/cloudinary_cli.md): Learn how to use the Command Line Interface to interact with Cloudinary.
+    - [SDK references](https://cloudinary.com/documentation/sdk_generated_refs.md): A listing of all the available SDK references that are \automatically generated from the library code.
+    - [Upload Widget API](https://cloudinary.com/documentation/upload_widget_reference.md): The Cloudinary Upload Widget API Reference with extensive customization options.
+    - [Product Gallery API](https://cloudinary.com/documentation/product_gallery_reference.md): The Cloudinary Product Gallery API Reference with extensive customization options.
+    - [Media Editor API](https://cloudinary.com/documentation/media_editor_reference.md): The Cloudinary Media Editor API Reference with extensive customization options.
+    - [Video Player API](https://cloudinary.com/documentation/video_player_api_reference.md): Programmatically configure and implement the Cloudinary Video Player for powerful player and transformation capabilities embedded in your website or app.
+    - [Media Library Widget API](https://cloudinary.com/documentation/media_library_widget_api_reference.md): Complete API reference for the Media Library widget including initialization methods, configuration options, instance methods, and callback functions.
+  - [SDKs](https://cloudinary.com/documentation/cloudinary_sdks.md): Use Cloudinary SDK libraries to upload, transform and deliver optimized images and videos with code that integrates seamlessly with your existing app code.
+    - [Backend SDKs](https://cloudinary.com/documentation/backend_sdks.md): Cloudinary's backend SDKs provide methods that wrap Cloudinary's APIs and integrate seamlessly with your backend/server-side application code.
+      - [Node.js SDK](https://cloudinary.com/documentation/node_integration.md): Learn how to upload files with only a few lines of Node.js code, including cloud storage, CDN delivery, and dynamic effects for images and media.
+        - [Node.js quick start](https://cloudinary.com/documentation/node_quickstart.md): Get an end-to-end implementation up and running that uploads, transforms, optimizes & delivers images with the Cloudinary Node.js SDK in 5 minutes or less!
+        - [Node.js image and video upload](https://cloudinary.com/documentation/node_image_and_video_upload.md): Learn how to upload images with only a few lines of Node.js code - with cloud storage, CDN delivery, image optimization and post-upload image effects.
+        - [Node.js image transformations](https://cloudinary.com/documentation/node_image_manipulation.md): Resize, crop and transform images, convert formats, apply image effects, add overlays, CDN delivery with Node.js.
+        - [Node.js video transformations](https://cloudinary.com/documentation/node_video_manipulation.md): Transcode video formats, set quality, play video-in-video, trim or concatenate videos, play in HTML5 video player, CDN delivery with Node.js.
+        - [Node.js asset management](https://cloudinary.com/documentation/node_asset_administration.md): A RESTful HTTP API for programmatically managing all of your Cloudinary hosted assets.
+        - [Node.js sample projects](https://cloudinary.com/documentation/node_sample_projects.md): Explore the code in our sample projects to learn how to use Cloudi

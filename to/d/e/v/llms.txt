@@ -1,61 +1,51 @@
 # DEV Community
+> A community platform where software developers publish posts, discuss technology, learn new skills, and grow their careers.
 
-> > DEV Community is a collaborative platform for software developers to share knowledge, build projects, and advance their careers through discussions, challenges, and learning resources.
+DEV Community is a Forem-powered social publishing site for developers. It combines user-generated articles, tag-based topic hubs, videos, education tracks, challenges, organization profiles, and community policies in one place.
 
-DEV Community is built on the Forem platform and serves as a hub for web developers, AI enthusiasts, and programmers worldwide. The platform features user-generated content, educational tracks, hackathons, and community challenges alongside tools and partnerships from major tech companies like Google.
+## Core Platform
+- [DEV Community](https://dev.to/): Main community feed for developer posts, discussions, tags, and discovery.
+- [About](https://dev.to/about): Overview of DEV, its mission, community model, and platform background.
+- [Contact](https://dev.to/contact): Contact options for support, questions, partnerships, and general inquiries.
+- [DEV Help](https://dev.to/help): Help center covering account usage, posting, moderation, and platform features.
+- [DEV++](https://dev.to/++): Membership program with paid benefits and ways to support the platform.
 
-## Key Topics
+## Content Discovery
+- [Posts](https://dev.to/latest): Latest published posts from across the DEV Community.
+- [Videos](https://dev.to/videos): Video content for programming, tools, tutorials, and developer education.
+- [DEV Education Tracks](https://dev.to/deved): Structured learning tracks and educational content for developers.
+- [DEV Challenges](https://dev.to/challenges): Community challenges and hackathon-style events for writing and building.
+- [DEV Showcase](https://dev.to/showcase): Showcase of products, tools, and community projects featured on DEV.
 
-- Web Development
-- Artificial Intelligence
-- JavaScript
-- Programming
-- Open Source
-- Community Platform
-- AI Projects
-- Project Showcase
-- Dev Challenges
-- Forem
-- Google AI
-- Developer Marketing
-- Career Management
-- Learning Resources
-- Community Engagement
+## Popular Tags
+- [#webdev](https://dev.to/t/webdev): Web development articles, tutorials, tools, frameworks, and frontend or backend practices.
+- [#ai](https://dev.to/t/ai): Artificial intelligence discussions, experiments, tutorials, and developer workflows.
+- [#programming](https://dev.to/t/programming): General programming posts spanning languages, concepts, and software engineering.
+- [#javascript](https://dev.to/t/javascript): JavaScript tutorials, ecosystem updates, and practical coding techniques.
+- [#opensource](https://dev.to/t/opensource): Open source projects, contribution stories, and community collaboration.
+- [#rails](https://dev.to/t/rails): Ruby on Rails articles, patterns, tooling, and application development tips.
 
-## Getting Started
+## Community Programs
+- [Organization Accounts](https://dev.to/organizations): Organization profiles for teams publishing content and engaging developers.
+- [Advertise on DEV](https://dev.to/advertise): Advertising and sponsorship options for reaching the developer audience.
+- [Free Postgres Database](https://dev.to/free-postgres-database-tier): Promotional resource page for a free Postgres database offering.
+- [Forem](https://www.forem.com): Platform behind DEV for building independent community sites.
+- [Forem Shop](https://shop.forem.com/): Merchandise store for Forem and DEV-related products.
+- [MLH](https://mlh.io/): External partner site linked from DEV community navigation.
 
-- [DEV Community](https://dev.to): DEV Community homepage: software development discussion & career management
-- [Welcome! - DEV Community](https://dev.to/enter): DEV Community sign-up and authentication with OAuth providers
-- [About DEV - DEV Community](https://dev.to/about): About DEV: community overview, Forem platform, MLH partnership, mission
-- [DEV Help - DEV Community](https://dev.to/help): DEV Help documentation: getting started, account management, features guide
+## Participation & Support
+- [Sign In / Create Account](https://dev.to/enter): Entry point for authentication, account creation, and community participation.
+- [Home Feed](https://dev.to/): Personalized and global feed for reading and engaging with posts.
+- [DEV Help](https://dev.to/help): Guidance for using DEV features, troubleshooting, and finding support resources.
+- [Contact](https://dev.to/contact): Reach the DEV team for support, feedback, and business inquiries.
 
-## Learning & Development
+## Policies
+- [Code of Conduct](https://dev.to/code-of-conduct): Community behavior standards and moderation expectations for participation.
+- [Privacy Policy](https://dev.to/privacy): Details on data collection, usage, and privacy practices.
+- [Terms of Use](https://dev.to/terms): Legal terms governing use of the DEV platform and services.
 
-- [DEV Education Tracks - DEV Community](https://dev.to/deved): DEV Education Tracks: hands-on learning platform with Google AI Studio
-- [Videos - DEV Community](https://dev.to/videos): Video tutorials and programming content hub for web development and AI
-- [DEV Online Hackathons and Writing Challenges - DEV Community](https://dev.to/challenges): DEV hackathons and writing challenges for skill-building and portfolio projects
-
-## Community Topics
-
-- [Web Development - DEV Community](https://dev.to/t/webdev): Web development content: JavaScript, design, security, project showcase
-- [Artificial Intelligence - DEV Community](https://dev.to/t/ai): AI community content: Google Gemini, AI projects, writing challenges
-- [Programming - DEV Community](https://dev.to/t/programming): Programming content: web dev, AI agents, Linux, software architecture
-- [JavaScript - DEV Community](https://dev.to/t/javascript): JavaScript tutorials: Node.js, performance, backend development
-
-## Membership & Partnerships
-
-- [DEV++ - DEV Community](https://dev.to/++): DEV++ subscription membership with exclusive benefits and partner discounts
-- [Organizations on DEV - Your Developer Presence - DEV Community](https://dev.to/organizations): Organization profiles for developer presence and community engagement
-- [DEV Showcase - DEV Community](https://dev.to/showcase): DEV Showcase: directory of partners, products, and developer tools
-- [Advertise on DEV - DEV Community](https://dev.to/advertise): Advertising and partnership opportunities for developer marketing on DEV
-
-## Support & Contact
-
-- [Contact DEV Community](https://dev.to/contact): Contact page for support, bug reports, and feature requests
-
-## Optional - Policies & Legal
-
-- [Code of Conduct - DEV Community](https://dev.to/code-of-conduct): Community guidelines, harassment policy, AI disclosure, plagiarism prevention
-- [Privacy Policy - DEV Community](https://dev.to/privacy): Privacy policy: data collection, user rights, regional compliance
-- [Web Site Terms and Conditions of Use - DEV Community](https://dev.to/terms): Terms and conditions: user agreement, acceptable use, liability
-- [The Best Free Postgres Tier - DEV Community](https://dev.to/free-postgres-database-tier): Neon PostgreSQL free tier guide for DEV++ members and side projects
+## Ecosystem
+- [DEV Community](https://dev.to/): Primary developer community site on the Forem platform.
+- [Forem](https://www.forem.com): Open community platform used to power DEV and similar sites.
+- [Open Source Tag](https://dev.to/t/opensource): DEV’s open source topic hub and related community content.
+- [Ruby on Rails Tag](https://dev.to/t/rails): Rails-focused content frequently associated with the platform’s ecosystem.

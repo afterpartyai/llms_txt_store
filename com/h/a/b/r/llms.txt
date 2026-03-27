@@ -1,27 +1,61 @@
 # Habr
+> Russian-language technology community platform for articles, news, blogs, Q&A, and IT company content.
 
-> Habr is a Russian-language technology community platform for sharing knowledge, articles, and discussions on software development, IT trends, and engineering topics.
+Habr (Хабр) is a major Russian-speaking IT publishing and community platform covering software development, engineering, administration, data science, security, management, and technology business topics. It includes editorial news, user publications, thematic hubs, company blogs, career content, events, and service sections such as Q&A and freelance.
 
-Habr (Хабр) is one of the largest IT communities in the Russian-speaking world, featuring user-generated content, technical articles, and collaborative discussions. The platform emphasizes quality content moderation and community-driven knowledge sharing.
+## Publications & Feeds
+- [My Feed](https://habr.com/ru/feed/): Personalized publication feed with articles, news, and posts from followed authors and hubs.
+- [All Flows](https://habr.com/ru/flows/): Main entry point to Habr topic streams and editorial content categories.
+- [Articles](https://habr.com/ru/articles/): Long-form technical and analytical publications from authors and company blogs.
+- [News](https://habr.com/ru/news/): Short news posts about technology, products, companies, and industry events.
+- [Posts](https://habr.com/ru/posts/): General publication listing across article and post formats.
+- [Best of the Day](https://habr.com/ru/top/daily/): Top-rated publications for the current day.
+- [Best of the Week](https://habr.com/ru/top/weekly/): Weekly ranking of the most popular Habr publications.
+- [Best of All Time](https://habr.com/ru/top/alltime/): All-time top publications ranked by community engagement.
 
-## Key Topics
+## Topic Streams
+- [Development](https://habr.com/ru/flows/develop/): Publications on programming, architecture, frameworks, and software engineering practices.
+- [Administration](https://habr.com/ru/flows/admin/): Content on system administration, infrastructure, DevOps, and operations.
+- [Design](https://habr.com/ru/flows/design/): Articles about UX, UI, product design, and visual communication.
+- [Management](https://habr.com/ru/flows/management/): Materials on product management, team leadership, and business processes.
+- [Marketing](https://habr.com/ru/flows/marketing/): Publications on digital marketing, analytics, and growth strategies.
+- [PopSci](https://habr.com/ru/flows/popsci/): Popular science and technology explainers for a broad technical audience.
 
-- User Registration
-- Account Creation
-- Authentication
-- Habr Account
-- Habr Platform
-- Signup Form
-- User Agreement
-- Privacy Policy
-- Community
-- Technical Content
+## Hubs & Tags
+- [Hubs Catalog](https://habr.com/ru/hubs/): Directory of thematic hubs used to organize publications by subject.
+- [Authors](https://habr.com/ru/users/): Browse Habr authors, contributors, and company blog accounts.
+- [Companies](https://habr.com/ru/companies/): Directory of companies publishing branded technical and corporate content.
+- [Tags](https://habr.com/ru/tags/): Tag index for discovering publications by specific technologies and topics.
 
-## User Account & Authentication
+## Community Services
+- [Q&A](https://qna.habr.com/): Community question-and-answer service for technical problem solving.
+- [Career](https://career.habr.com/): IT jobs, employer profiles, salaries, and career-related services.
+- [Freelance](https://freelance.habr.com/): Marketplace for freelance IT projects and specialist hiring.
+- [Events](https://habr.com/ru/events/): Calendar and listings for conferences, meetups, webinars, and other events.
 
-- [Habr Account Registration](https://habr.com/kek/v1/auth//habrahabr-register): Habr user registration and account creation page for new members joining the platform
+## Company & Author Content
+- [Company Blogs](https://habr.com/ru/companies/): Official company pages with publications, news, and employer branding content.
+- [Author Profiles](https://habr.com/ru/users/): User profile pages with publications, comments, and activity history.
+- [Corporate Publications](https://habr.com/ru/companies/): Branded technical articles and announcements from participating companies.
+- [Editorial News](https://habr.com/ru/news/): Habr editorial and community news updates in short format.
 
-## Legal & Policies
+## Rankings & Discovery
+- [Top Authors](https://habr.com/ru/users/): Discover active authors and contributors across the platform.
+- [Top Publications](https://habr.com/ru/top/): Entry point for daily, weekly, monthly, and all-time rankings.
+- [Monthly Top](https://habr.com/ru/top/monthly/): Most popular publications for the current month.
+- [Yearly Top](https://habr.com/ru/top/yearly/): Highest-rated publications over the past year.
+- [New Publications](https://habr.com/ru/posts/): Latest posts and articles in reverse chronological order.
 
-- [User Agreement](#): Terms and conditions governing the use of Habr platform
-- [Privacy Policy](#): Information about data collection, processing, and user privacy protection on Habr
+## Platform Information
+- [About](https://habr.com/ru/about/): Overview of Habr, its products, audience, and platform positioning.
+- [Help](https://habr.com/ru/help/): Help center with platform usage guidance and common questions.
+- [Support](https://habr.com/ru/support/): Contact and support entry point for platform-related issues.
+- [Rules](https://habr.com/ru/docs/help/rules/): Community and publication rules governing participation on Habr.
+- [Authors Help](https://habr.com/ru/docs/help/authors/): Guidance for writing, formatting, and publishing content on Habr.
+- [Companies Help](https://habr.com/ru/docs/help/companies/): Information for companies running official blogs on the platform.
+
+## Legal
+- [User Agreement](https://habr.com/ru/docs/docs/user_agreement/): Terms governing use of Habr services and platform functionality.
+- [Privacy Policy](https://habr.com/ru/docs/docs/privacy_policy/): Policy describing personal data processing and privacy practices.
+- [Content Rules](https://habr.com/ru/docs/help/rules/): Rules for acceptable content, moderation, and community behavior.
+- [Cookie Policy](https://habr.com/ru/docs/docs/cookie_policy/): Information about cookies and related tracking technologies.

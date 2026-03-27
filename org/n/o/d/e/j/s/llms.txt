@@ -1,48 +1,93 @@
 # Node.js
+> Node.js® is a free, open-source, cross-platform JavaScript runtime for building servers, web apps, CLI tools, and scripts.
 
-> > The official Node.js website providing documentation, security advisories, and community updates for the JavaScript runtime built on Chrome's V8 engine.
+The official Node.js website is the primary source for runtime downloads, API documentation, learning materials, release information, and project updates. It also links to contribution workflows, governance resources, and training for the broader Node.js ecosystem.
 
-Node.js is an open-source, cross-platform JavaScript runtime environment that executes JavaScript code outside a web browser. The site serves as the central hub for documentation, learning resources, security releases, and community announcements maintained by the OpenJS Foundation.
+## Getting Started
+- [Learn Node.js](https://nodejs.org/en/learn): Entry point for official learning materials, tutorials, and conceptual guides.
+- [About Node.js](https://nodejs.org/en/about): Overview of the runtime, project goals, governance, and ecosystem context.
+- [Download Node.js](https://nodejs.org/en/download): Download current and LTS Node.js binaries, installers, and source releases.
+- [Latest API Docs](https://nodejs.org/docs/latest/api/): Current version API reference for core modules, globals, and runtime behavior.
+- [Linux Foundation Training](https://training.linuxfoundation.org/openjs/): Official training and certification resources for Node.js and OpenJS technologies.
 
-## Key Topics
+## Learn
+- [Introduction to Node.js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs): Introductory guide to what Node.js is and how it works.
+- [How Much JavaScript Do You Need To Know To Use Node.js?](https://nodejs.org/en/learn/getting-started/how-much-javascript-do-you-need-to-know-to-use-nodejs): Explains the JavaScript knowledge needed before learning Node.js.
+- [Differences between Node.js and the Browser](https://nodejs.org/en/learn/getting-started/differences-between-nodejs-and-the-browser): Compares runtime capabilities, APIs, and execution environments.
+- [The V8 JavaScript Engine](https://nodejs.org/en/learn/getting-started/the-v8-javascript-engine): Overview of the JavaScript engine powering Node.js execution.
+- [Node.js with WebAssembly](https://nodejs.org/en/learn/getting-started/nodejs-with-webassembly): Introductory guide to using WebAssembly modules in Node.js.
 
-- Node.js runtime and architecture
-- JavaScript and V8 engine
-- Security vulnerabilities and CVEs
-- OpenSSL security updates
-- Event loop and asynchronous programming
-- Streams and data processing
-- TypeScript integration
-- Native addons and ABI stability
-- Cross-platform filesystem handling
-- child_process and command execution
-- OpenJS Ecosystem Sustainability Program
-- Release schedules and version upgrades
-- Community governance and contributors
-- Windows compatibility
+## Asynchronous Work and Runtime Behavior
+- [Asynchronous flow control](https://nodejs.org/en/learn/asynchronous-work/asynchronous-flow-control): Covers patterns for coordinating asynchronous operations in Node.js.
+- [Discover Promises in Node.js](https://nodejs.org/en/learn/asynchronous-work/discover-promises-in-nodejs): Explains Promise-based async programming in the Node.js runtime.
+- [The Node.js Event Loop](https://nodejs.org/en/learn/asynchronous-work/event-loop-timers-and-nexttick): Detailed explanation of event loop phases, timers, and nextTick.
+- [Understanding process.nextTick()](https://nodejs.org/en/learn/asynchronous-work/understanding-processnexttick): Describes scheduling semantics and when to use process.nextTick().
+- [Understanding setImmediate()](https://nodejs.org/en/learn/asynchronous-work/understanding-setimmediate): Explains setImmediate behavior relative to timers and microtasks.
 
-## Core Concepts and Architecture
+## Modules, Packages, and Tooling
+- [Node.js Modules](https://nodejs.org/en/learn/modules): Overview of module systems and loading behavior in Node.js.
+- [CommonJS modules](https://nodejs.org/en/learn/modules/commonjs-modules): Guide to authoring and using CommonJS modules.
+- [ECMAScript modules](https://nodejs.org/en/learn/modules/ecmascript-modules): Reference and guidance for native ES module support.
+- [Package manager tips](https://nodejs.org/en/learn/modules/package-manager-tips): Practical guidance for working with npm and package metadata.
+- [Publishing a package](https://nodejs.org/en/learn/modules/publishing-a-package): Walkthrough for preparing and publishing packages to npm.
+- [How to use Streams](https://nodejs.org/en/learn/modules/how-to-use-streams): Introductory guide to stream-based data processing.
+- [ABI Stability](https://nodejs.org/en/learn/modules/abi-stability): Explains ABI stability for native addons and binary compatibility.
 
-- [The Node.js Event Loop](https://nodejs.org/en/learn/asynchronous-work/event-loop-timers-and-nexttick): Deep dive into event loop phases, timers, and process.nextTick()
-- [How to use Streams](https://nodejs.org/en/learn/modules/how-to-use-streams): Beginner guide to using streams for memory-efficient data processing
-- [ABI Stability](https://nodejs.org/en/learn/modules/abi-stability): Guide to ABI stability and binary compatibility for native addons
+## File System, Networking, and Processes
+- [Reading files with Node.js](https://nodejs.org/en/learn/manipulating-files/reading-files-with-nodejs): Shows how to read files using callback and Promise-based APIs.
+- [Writing files with Node.js](https://nodejs.org/en/learn/manipulating-files/writing-files-with-nodejs): Covers writing and updating files from Node.js applications.
+- [Working with folders in Node.js](https://nodejs.org/en/learn/manipulating-files/working-with-folders-in-nodejs): Basic directory creation, traversal, and management techniques.
+- [How to work with Different Filesystems](https://nodejs.org/en/learn/manipulating-files/working-with-different-filesystems): Discusses portability concerns across filesystem implementations.
+- [Anatomy of an HTTP Transaction](https://nodejs.org/en/learn/modules/anatomy-of-an-http-transaction): Explains request and response handling with the HTTP module.
+- [Get HTTP request body data using Node.js](https://nodejs.org/en/learn/modules/anatomy-of-an-http-transaction#request-body): Shows how to collect and process incoming request bodies.
 
-## Security Advisories and Releases
+## TypeScript and Advanced Topics
+- [Running TypeScript code using transpilation](https://nodejs.org/en/learn/typescript/transpile): Explains compiling TypeScript before executing it with Node.js.
+- [Running TypeScript code using ts-node](https://nodejs.org/en/learn/typescript/run): Covers executing TypeScript directly during development workflows.
+- [Using the Fetch API with Undici in Node.js](https://nodejs.org/en/learn/getting-started/fetch): Guide to HTTP requests using the built-in Fetch API.
+- [Backpressuring in Streams](https://nodejs.org/en/learn/modules/backpressuring-in-streams): Explains stream backpressure and flow control for efficient I/O.
+- [Diagnostics Channel](https://nodejs.org/docs/latest/api/diagnostics_channel.html): API reference for publishing and subscribing to diagnostic events.
+- [Worker Threads](https://nodejs.org/docs/latest/api/worker_threads.html): API reference for multithreaded JavaScript execution in Node.js.
 
-- [Wednesday, April 10, 2024 Security Releases](https://nodejs.org/en/blog/vulnerability/april-2024-security-releases-2): April 2024 security release addressing CVE-2024-27980 command injection
-- [July 2021 Security Releases](https://nodejs.org/en/blog/vulnerability/july-2021-security-releases-2): July 2021 security release for http2 use-after-free CVE-2021-22930
-- [OpenSSL security releases require Node.js security releases](https://nodejs.org/en/blog/vulnerability/mar-2022-security-releases): Security advisory for OpenSSL CVE-2022-0778 requiring Node.js patches
-- [OpenSSL 3.0.7 update assessment](https://nodejs.org/en/blog/vulnerability/openssl-fixes-in-regular-releases-dec2022): Security assessment of OpenSSL 3.0.7 vulnerability CVE-2022-3996
-- [OpenSSL and zlib update assessment, and Node.js Assessment workflow](https://nodejs.org/en/blog/vulnerability/openssl-and-zlib-vulnerability-assessment): Vulnerability assessment for OpenSSL and zlib CVE-2022-37434 updates
-- [HTTP Server Security Vulnerability: Please upgrade to 0.6.17](https://nodejs.org/en/blog/vulnerability/http-server-security-vulnerability-please-upgrade-to-0-6-17): HTTP server security patch for information disclosure in version 0.6.17
+## API Reference
+- [API Index](https://nodejs.org/docs/latest/api/): Index of all core Node.js API reference documentation.
+- [Globals](https://nodejs.org/docs/latest/api/globals.html): Reference for built-in global objects and web-compatible APIs.
+- [Buffer](https://nodejs.org/docs/latest/api/buffer.html): Binary data handling API for byte arrays and encodings.
+- [File System](https://nodejs.org/docs/latest/api/fs.html): Reference for filesystem operations, streams, and file handles.
+- [HTTP](https://nodejs.org/docs/latest/api/http.html): Core HTTP server and client APIs.
+- [Path](https://nodejs.org/docs/latest/api/path.html): Utilities for working with filesystem paths across platforms.
+- [Process](https://nodejs.org/docs/latest/api/process.html): Runtime process information, signals, environment, and lifecycle hooks.
+- [Stream](https://nodejs.org/docs/latest/api/stream.html): Core stream abstractions for readable, writable, duplex, and transform flows.
 
-## Development Guides
+## CLI and Runtime Reference
+- [Command-line options](https://nodejs.org/docs/latest/api/cli.html): Reference for Node.js CLI flags, environment variables, and runtime options.
+- [Environment Variables](https://nodejs.org/docs/latest/api/environment_variables.html): Documents environment variables recognized by Node.js and related tooling.
+- [Packages](https://nodejs.org/docs/latest/api/packages.html): Reference for package resolution, exports, imports, and module packaging.
+- [Modules](https://nodejs.org/docs/latest/api/modules.html): Core reference for the CommonJS module system.
+- [ESM](https://nodejs.org/docs/latest/api/esm.html): Detailed reference for ECMAScript module behavior in Node.js.
+- [N-API](https://nodejs.org/docs/latest/api/n-api.html): Stable C API for building native addons across Node.js versions.
 
-- [Running TypeScript code using transpilation](https://nodejs.org/en/learn/typescript/transpile): Tutorial on transpiling TypeScript to JavaScript using tsc compiler
-- [How to work with Different Filesystems](https://nodejs.org/en/learn/manipulating-files/working-with-different-filesystems): Cross-platform filesystem handling and compatibility best practices
+## Releases and Downloads
+- [Download Node.js](https://nodejs.org/en/download): Main download page for installers, binaries, and source archives.
+- [Previous Releases](https://nodejs.org/en/download/releases/): Archive of historical Node.js release downloads and metadata.
+- [Release Schedule](https://nodejs.org/en/about/releases/): Official release lifecycle and support schedule for Node.js versions.
+- [Nightly Builds](https://nodejs.org/download/nightly/): Automated nightly build artifacts for testing upcoming changes.
+- [Canary Builds](https://nodejs.org/download/v8-canary/): Experimental builds tracking newer V8 integrations and runtime changes.
+- [Source Code](https://nodejs.org/en/download/source-code): Source distribution downloads for building Node.js from source.
 
-## Optional
+## Blog and Security
+- [Node.js Blog](https://nodejs.org/en/blog): Official announcements, release posts, and project updates.
+- [Security Releases](https://nodejs.org/en/blog/vulnerability): Security advisories and coordinated vulnerability release posts.
+- [Release Announcements](https://nodejs.org/en/blog/release): Posts covering new Node.js version releases and notable changes.
+- [Community Updates](https://nodejs.org/en/blog/community): News about events, initiatives, and ecosystem activity.
+- [Project News](https://nodejs.org/en/blog/announcements): General announcements from the Node.js project.
+- [Security Policy](https://github.com/nodejs/node/security/policy): Vulnerability reporting process and security handling guidelines.
 
-- [Weekly Update - Aug 14th, 2015](https://nodejs.org/en/blog/weekly/weekly-update2015-08-14): Node.js and io.js convergence update with v4 release plans
-- [Weekly Update - May 30th, 2016](https://nodejs.org/en/blog/weekly/weekly-update2016-05-30): Weekly update covering Node v4.4.5 LTS release and community events
-- [Notes from the Road](https://nodejs.org/en/blog/uncategorized/notes-from-the-road): Community feedback and roadshow events across SF, Seattle, and Portland
+## Contributing and Project Governance
+- [Contributing to Node.js](https://github.com/nodejs/node/blob/main/CONTRIBUTING.md): Main contributor guide for code, issues, and pull requests.
+- [Node.js on GitHub](https://github.com/nodejs/node): Source repository for the Node.js runtime and project development.
+- [About the Node.js Project](https://nodejs.org/en/about): Overview of governance, mission, and project structure.
+- [Governance](https://github.com/nodejs/node/blob/main/GOVERNANCE.md): Governance model, roles, and decision-making processes.
+- [Code of Conduct](https://github.com/nodejs/admin/blob/main/CODE_OF_CONDUCT.md): Community behavior expectations and reporting guidance.
+- [Collaborator Guide](https://github.com/nodejs/node/blob/main/COLLABORATOR_GUIDE.md): Responsibilities and workflows for Node.js collaborators.
+- [Build Working Group](https://github.com/nodejs/build): Infrastructure and build system working group repository.

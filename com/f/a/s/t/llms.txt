@@ -1,47 +1,66 @@
 # Fast.com
+> Fast.com is Netflix’s free web-based internet speed test for measuring download speed, upload speed, latency, and related connection quality metrics.
 
-> Fast.com is Netflix's simple, free internet speed test tool that measures download speed, upload speed, latency, and bufferbloat across multiple languages and regions.
+Fast.com offers a minimal interface for quickly estimating internet performance from the browser. The site is primarily centered on the speed test itself, with localized versions for many languages and a small set of supporting informational pages.
 
-Fast.com provides a straightforward speed testing experience available in 20+ languages including English, Spanish, French, German, Portuguese, Italian, Dutch, Polish, and more. The tool measures key network metrics including download/upload speeds, ping latency, and bufferbloat detection to help users diagnose connection quality.
+## Core Experience
+- [Internet Speed Test](https://fast.com): Main speed test homepage that automatically measures internet download speed in the browser.
+- [English (US)](https://fast.com/en): English-language version of the Fast.com speed test interface.
+- [English (UK)](https://fast.com/en/gb): British English localized version of the speed test.
+- [Settings and advanced metrics](https://fast.com/#): Speed test interface with options for showing upload, latency, and additional details.
 
-## Key Topics
+## Help and Information
+- [About Fast.com](https://fast.com/about): Explains what Fast.com measures and how the service works.
+- [Privacy](https://fast.com/privacy): Describes privacy practices and handling of data collected by Fast.com.
+- [Terms of Use](https://fast.com/terms): Legal terms governing use of the Fast.com website and service.
+- [Netflix](https://www.netflix.com): Parent company website for Netflix, which operates Fast.com.
 
-- Internet Speed Test
-- Download Speed
-- Upload Speed
-- Latency & Ping
-- Bufferbloat Detection
-- Bandwidth Measurement
-- Network Diagnostics
-- Connection Quality
-- Netflix
-- Speed Measurement
-- Latency Testing
-- Ping Test
-- Connection Diagnostics
+## Spanish
+- [Español](https://fast.com/es): Spanish-language version of the internet speed test.
+- [Español (España)](https://fast.com/es/es): Spain Spanish localized version of Fast.com.
+- [Prueba de velocidad de internet](https://fast.com/es): Spanish homepage for measuring download speed and connection quality.
 
-## Core Speed Test
+## French
+- [Français](https://fast.com/fr): French-language version of the speed test.
+- [Français (Canada)](https://fast.com/fr/ca): Canadian French localized version of Fast.com.
+- [Test de vitesse Internet](https://fast.com/fr): French homepage for measuring internet speed.
 
-- [Internet Speed Test | Fast.com](https://fast.com): Fast.com homepage: simple internet speed test by Netflix
+## Germanic and Northern European Languages
+- [Deutsch](https://fast.com/de): German-language version of the internet speed test.
+- [Nederlands](https://fast.com/nl): Dutch-language version of Fast.com.
+- [Svenska](https://fast.com/sv): Swedish-language version of the speed test.
+- [Dansk](https://fast.com/da): Danish-language version of the speed test.
+- [Norsk Bokmål](https://fast.com/nb): Norwegian Bokmål version of Fast.com.
+- [Suomi](https://fast.com/fi): Finnish-language version of the speed test.
+- [Polski](https://fast.com/pl): Polish-language version of Fast.com.
 
-## International Versions
+## Southern and Eastern European Languages
+- [Italiano](https://fast.com/it): Italian-language version of the internet speed test.
+- [Português (Brasil)](https://fast.com/pt): Brazilian Portuguese version of Fast.com.
+- [Português (Portugal)](https://fast.com/pt/pt): Portugal Portuguese localized version of Fast.com.
+- [Română](https://fast.com/ro): Romanian-language version of the speed test.
+- [Türkçe](https://fast.com/tr): Turkish-language version of Fast.com.
+- [Ελληνικά](https://fast.com/el): Greek-language version of the internet speed test.
 
-- [Internet speed test | Fast.com](https://fast.com/en/gb): British English version of Fast.com speed test tool
-- [Prueba de velocidad de internet | Fast.com](https://fast.com/es/es): Spanish (Spain) version of Fast.com internet speed test
-- [Prueba de velocidad de Internet | Fast.com](https://fast.com/es): Spanish (Latin America) version of Fast.com speed test
-- [Test de vitesse Internet | Fast.com](https://fast.com/fr): French version of Fast.com internet speed test tool
-- [Test de vitesse de connexion Internet | Fast.com](https://fast.com/fr/ca): French Canadian version of Fast.com speed test tool
-- [Internet-Geschwindigkeitstest | Fast.com](https://fast.com/de): German version of Fast.com internet speed test tool
-- [Test di velocità Internet | Fast.com](https://fast.com/it): Italian version of Fast.com internet speed test tool
-- [Test voor internetsnelheid | Fast.com](https://fast.com/nl): Dutch version of Fast.com internet speed test tool
-- [Teste de velocidade da internet | Fast.com](https://fast.com/pt): Portuguese (Brazil) version of Fast.com speed test
-- [Teste de Velocidade da Internet | Fast.com](https://fast.com/pt/pt): Portuguese (Portugal) version of Fast.com speed test
-- [Test szybkości internetu | Fast.com](https://fast.com/pl): Polish version of Fast.com internet speed test tool
-- [Hastighetsmåler for internett | Fast.com](https://fast.com/nb): Norwegian version of Fast.com internet speed test tool
-- [Mät din internethastighet | Fast.com](https://fast.com/sv): Swedish version of Fast.com internet speed test tool
-- [Test din internethastighed | Fast.com](https://fast.com/da): Danish version of Fast.com internet speed test tool
-- [Nettiyhteyden nopeustesti | Fast.com](https://fast.com/fi): Finnish version of Fast.com internet speed test tool
-- [Test pentru viteză de internet | Fast.com](https://fast.com/ro): Romanian version of Fast.com internet speed test tool
-- [İnternet Hız Testi | Fast.com](https://fast.com/tr): Turkish version of Fast.com internet speed test tool
-- [Έλεγχος ταχύτητας Internet | Fast.com](https://fast.com/el): Greek version of Fast.com internet speed test tool
-- [Uji Kecepatan Internet | Fast.com](https://fast.com/id): Indonesian version of Fast.com internet speed test tool
+## Asian Languages
+- [日本語](https://fast.com/ja): Japanese-language version of the speed test.
+- [한국어](https://fast.com/ko): Korean-language version of Fast.com.
+- [中文（简体）](https://fast.com/zh/cn): Simplified Chinese localized version of the internet speed test.
+- [中文（繁體）](https://fast.com/zh/tw): Traditional Chinese localized version of Fast.com.
+- [Tiếng Việt](https://fast.com/vi): Vietnamese-language version of the speed test.
+- [Bahasa Indonesia](https://fast.com/id): Indonesian-language version of Fast.com.
+
+## Additional Localizations
+- [Русский](https://fast.com/ru): Russian-language version of the internet speed test.
+- [Українська](https://fast.com/uk): Ukrainian-language version of Fast.com.
+- [العربية](https://fast.com/ar): Arabic-language version of the speed test.
+- [עברית](https://fast.com/he): Hebrew-language version of Fast.com.
+- [हिन्दी](https://fast.com/hi): Hindi-language version of Fast.com.
+- [ไทย](https://fast.com/th): Thai-language version of the internet speed test.
+
+## What Fast.com Measures
+- [Download speed test](https://fast.com): Measures estimated download throughput from Fast.com servers to the browser.
+- [Upload speed test](https://fast.com): Optional advanced measurement for upload throughput.
+- [Latency and unloaded ping](https://fast.com): Reports responsiveness metrics relevant to browsing and real-time applications.
+- [Loaded latency](https://fast.com): Shows latency under load to help assess connection quality during active transfers.
+- [Connection details](https://fast.com): Displays client, server, and measurement details in the expanded results view.

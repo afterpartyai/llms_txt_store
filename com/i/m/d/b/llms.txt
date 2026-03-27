@@ -1,41 +1,86 @@
 # IMDb
+> IMDb is a comprehensive entertainment database for movies, TV shows, cast and crew, ratings, reviews, trailers, and industry information.
 
-> IMDb is the world's most popular and authoritative source for movies, TV shows, and entertainment, offering comprehensive databases, ratings, reviews, and curated interest guides across all genres and subgenres.
+IMDb helps users discover titles, people, and entertainment news while providing structured reference data, charts, watchlists, release details, awards coverage, and contribution tools.
 
-IMDb provides entertainment discovery through genre and subgenre interest pages, covering everything from mainstream films to niche categories like psychological horror and shōnen anime. The platform aggregates trending films, anime content, and entertainment events to help users explore content aligned with their interests.
+## Core Discovery
+- [IMDb Home](https://www.imdb.com/): Main entry point for discovering movies, TV shows, celebrities, and entertainment news.
+- [Top 250 Movies](https://www.imdb.com/chart/top/): Ranked list of the highest-rated feature films on IMDb.
+- [Top 250 TV Shows](https://www.imdb.com/chart/toptv/): Ranked list of the highest-rated television series on IMDb.
+- [Most Popular Movies](https://www.imdb.com/chart/moviemeter/): Trending movie chart based on current IMDb popularity signals.
+- [Most Popular TV Shows](https://www.imdb.com/chart/tvmeter/): Trending television chart highlighting currently popular series.
+- [Box Office](https://www.imdb.com/chart/boxoffice/): Weekend box office rankings for theatrical releases.
+- [What to Watch](https://www.imdb.com/what-to-watch/): Editorial recommendations and personalized viewing inspiration.
+- [Advanced Title Search](https://www.imdb.com/search/title/): Search interface for filtering titles by type, genre, release, and more.
 
-## Key Topics
+## Movies
+- [Feature Films Search](https://www.imdb.com/search/title/?title_type=feature): Browse and filter feature films across genres, years, and ratings.
+- [Coming Soon](https://www.imdb.com/movies-coming-soon/): Upcoming theatrical releases with dates, posters, and trailers.
+- [In Theaters](https://www.imdb.com/showtimes/): Current theatrical listings and local showtime discovery.
+- [Release Calendar](https://www.imdb.com/calendar/): Calendar view of movie and TV release dates.
+- [IMDb Picks for Movies](https://www.imdb.com/what-to-watch/imdb-picks/): Curated movie recommendations from IMDb editors.
+- [Top Rated English Movies](https://www.imdb.com/chart/top-english-movies/): Highest-rated English-language films on IMDb.
+- [Lowest Rated Movies](https://www.imdb.com/chart/bottom/): Bottom-ranked feature films based on IMDb user ratings.
 
-- Horror
-- Psychological Horror
-- Vampire Horror
-- Action Epic
-- Shōnen Anime
-- Anime Movies
-- Anime TV Shows
-- Demon Slayer: Kimetsu No Yaiba
-- Jujutsu Kaisen
-- Attack on Titan
-- Chainsaw Man
-- Trending Films
-- Movie Genres
-- Entertainment Events
-- IMDb Interest Categories
+## TV & Streaming
+- [TV Shows Search](https://www.imdb.com/search/title/?title_type=tv_series,tv_miniseries): Browse television series and miniseries with detailed filters.
+- [Episode Guide Search](https://www.imdb.com/search/title/?title_type=tv_episode): Search TV episodes across series, seasons, and air dates.
+- [Top Rated TV Episodes](https://www.imdb.com/chart/toptv/): Entry point for highly rated television programming on IMDb.
+- [Watch Options](https://www.imdb.com/watch/): Streaming discovery hub for where to watch movies and shows.
+- [What to Watch on TV](https://www.imdb.com/what-to-watch/): Recommendations spanning broadcast, cable, and streaming titles.
+- [Release Calendar for TV](https://www.imdb.com/calendar/): Track premiere and release dates for television content.
+- [IMDb Originals](https://www.imdb.com/imdboriginals/): IMDb-produced video interviews, features, and entertainment segments.
 
-## Entertainment Events
+## People & Credits
+- [Celebs](https://www.imdb.com/feature/genre/): Browse celebrity-related discovery areas and entertainment categories.
+- [Advanced Name Search](https://www.imdb.com/search/name/): Search actors, directors, writers, and other credited people.
+- [Born Today](https://www.imdb.com/search/name/?birth_monthday=): Discover notable film and TV figures with birthdays today.
+- [Most Popular Celebs](https://www.imdb.com/chart/starmeter/): Trending celebrity chart based on IMDb popularity metrics.
+- [Awards Central](https://www.imdb.com/awards-central/): Awards-season coverage, nominees, winners, and related features.
+- [Events](https://www.imdb.com/event/all/): Directory of award shows, festivals, and entertainment industry events.
 
-- [All Events](https://m.imdb.com/event/all/?ref_=int_nv_menu): Directory of film festivals, award ceremonies, and entertainment events on IMDb.
+## News, Video & Editorial
+- [IMDb News](https://www.imdb.com/news/): Entertainment news coverage tied to titles, people, and industry developments.
+- [IMDb Videos](https://www.imdb.com/video/): Trailers, interviews, clips, and original video content.
+- [Trailer Gallery](https://www.imdb.com/trailers/): Central hub for movie and TV trailers on IMDb.
+- [What to Watch Blog](https://www.imdb.com/what-to-watch/): Editorial picks, lists, and viewing guides from IMDb staff.
+- [Awards Central](https://www.imdb.com/awards-central/): Editorial and reference coverage for major film and TV awards.
+- [Oscars Event](https://www.imdb.com/event/ev0000003/): Dedicated page for Academy Awards nominees, winners, and related titles.
 
-## Horror & Thriller Genres
+## Lists, Ratings & User Activity
+- [Your Watchlist](https://www.imdb.com/watchlist/): Personal list for saving titles to watch later.
+- [Your Ratings](https://www.imdb.com/list/ratings): View and manage titles you have rated on IMDb.
+- [Top Picks](https://www.imdb.com/what-to-watch/): Personalized and editorial recommendation surfaces for users.
+- [User Lists Search](https://www.imdb.com/search/keyword/): Discovery tools that connect users to themed title collections.
+- [IMDb Charts](https://www.imdb.com/chart/): Central directory for IMDb ranking and popularity charts.
+- [Polls](https://www.imdb.com/poll/): Community polls about movies, shows, and entertainment topics.
 
-- [Horror](https://m.imdb.com/interest/in0000112/?ref_=ints_cat_12_in_i_5): Horror genre interest page featuring stories designed to elicit fear, suspense, and dread.
-- [Psychological Horror](https://m.imdb.com/interest/in0000114/?ref_=ints_cat_12_in_i_7): Psychological horror subgenre interest page exploring tension, fear, and psychological dread in films.
-- [Vampire Horror](https://m.imdb.com/interest/in0000119/?ref_=int_sim_in_i_11): Vampire horror subgenre interest guide exploring vampires as central figures of fear and fascination.
+## Reference & Metadata
+- [Full Credits Search](https://www.imdb.com/search/name/): Explore credited people associated with film and TV productions.
+- [Keywords Search](https://www.imdb.com/search/keyword/): Find titles associated with specific plot, theme, or production keywords.
+- [Company Search](https://www.imdb.com/search/company/): Search production companies, distributors, and other organizations.
+- [Release Info Search](https://www.imdb.com/calendar/): Access release-date information across titles and regions.
+- [Parental Guide Search](https://www.imdb.com/search/title/): Search titles and navigate to detailed content advisories.
+- [Technical Specs Search](https://www.imdb.com/search/title/): Find titles and inspect runtime, sound mix, aspect ratio, and format details.
 
-## Action & Adventure Genres
+## IMDbPro
+- [IMDbPro Home](https://pro.imdb.com/): Professional service for industry contacts, representation, and project tracking.
+- [IMDbPro Company Directory](https://pro.imdb.com/company/co0051941/): Example company profile structure within IMDbPro.
+- [IMDbPro Name Profiles](https://pro.imdb.com/name/nm0000138/): Example professional profile structure for industry people.
+- [IMDbPro Title Profiles](https://pro.imdb.com/title/tt0111161/): Example project profile structure with production and business details.
 
-- [Action Epic](https://m.imdb.com/interest/in0000002/?ref_=int_sim_in_i_2): Action epic subgenre interest guide featuring grand narratives and heroic journeys across vast landscapes.
+## Contribution & Account Help
+- [Contribute to IMDb](https://contribute.imdb.com/): Submission portal for adding or editing IMDb data.
+- [Contributor Zone](https://contribute.imdb.com/czone): Guidance and tools for IMDb contributors and editors.
+- [Help Center](https://help.imdb.com/): Official support documentation for accounts, data, and site features.
+- [General Information](https://help.imdb.com/article/imdb/general-information/): Help articles explaining IMDb features, policies, and terminology.
+- [Data Issues & Corrections](https://help.imdb.com/article/contribution/): Support resources for correcting and contributing title and name data.
+- [Account & Profile Help](https://help.imdb.com/article/imdb/track-movies-tv/): Help documentation for watchlists, ratings, and user activity.
 
-## Anime & Manga Adaptations
-
-- [Shōnen](https://m.imdb.com/interest/in0000206/?ref_=int_sim_in_in_i_7): Shōnen anime interest guide featuring action-packed stories with themes of friendship and perseverance.
+## Developer & Data Access
+- [IMDb Developer](https://developer.imdb.com/): Official developer portal for IMDb data products and APIs.
+- [IMDb Data Products](https://developer.imdb.com/documentation/api-documentation/): Documentation for IMDb APIs and data access offerings.
+- [IMDb Non-Commercial Datasets](https://developer.imdb.com/non-commercial-datasets/): Publicly available IMDb dataset downloads for non-commercial use.
+- [Dataset Interface](https://datasets.imdbws.com/): Direct access point for IMDb dataset files.
+- [API Documentation](https://developer.imdb.com/documentation/api-documentation/): Reference documentation for IMDb developer APIs.
+- [Getting Started](https://developer.imdb.com/documentation/): Overview documentation for integrating IMDb developer products.

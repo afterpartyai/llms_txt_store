@@ -1,32 +1,171 @@
 # Trip.com
 
-> > Trip.com is a global travel service platform offering train ticket booking across China, Europe, and worldwide, plus hotel property management solutions through the eBooking System.
+## Overview of Trip.com: Services and Features
 
-Trip.com Group operates comprehensive travel services including high-speed rail ticketing for China, Hong Kong, UK, Europe, and South Korea, alongside B2B hospitality solutions. The platform serves both travelers seeking train tickets and hotel properties managing reservations, rates, and revenue through data-driven tools.
+Trip.com is an all-in-one travel platform designed to meet the diverse needs of travelers worldwide. As a leading international travel service provider, we offer comprehensive one-stop travel solutions for customers around the globe. Our platform is backed by a strong global network and provides seamless travel experiences with access to flights, hotels, car rentals, trains, vacation packages, and more.
 
-## Key Topics
+With services available in **24 languages** and offering **local currencies** in **39 countries and regions**, Trip.com makes travel easy, accessible, and affordable for everyone — whether you're planning a quick getaway or an international adventure.
 
-- Train ticket booking
-- China high-speed rail
-- eBooking System
-- Hotel property management
-- Revenue management
-- Reservation systems
-- Shanghai-Guangzhou route
-- European rail travel
-- Asian train networks
-- Merchant portal solutions
-- Travel booking platform
-- Hospitality software
-- Dynamic pricing
-- Trip.com Group services
+Our platform is designed to cater to travelers worldwide, helping them find the best deals and navigate their travel plans with ease, no matter where they are.
 
-## Train Booking Services
+## Website Structure and Navigation
+ ### Trip.com Homepage
+ - [Trip.com Homepage](https://www.trip.com/)
 
-- [Global Train Tickets](https://bh.trip.com/trains/): Cheap train tickets across the world including UK, Europe, China, and South Korea
-- [China High Speed Rail](https://bh.trip.com/trains/china/): Book Chinese Mainland and Hong Kong high-speed train tickets with instant e-ticket delivery
-- [Shanghai to Guangzhou Train](https://bh.trip.com/trains/china/route/shanghai-to-guangzhou/): High-speed train tickets, schedules, and pricing for Shanghai-Guangzhou route
+ ### Flight Search and Booking
+- [Flights Homepage](https://www.trip.com/flights/): The homepage for Trip.com Flights, offering search options and showcasing popular flight products. This serves as a good starting point for users looking to book flights.
+- **Matching URL**: `^https://www\.trip\.com/flights(/[\w\-]+)*(/[\w\-]+)?/?$`
+    - **Function**: All pages related to flight products, including flight search, flight status, booking options, and flight tickets. These pages offer users a wide range of flight-related services and information.
+- **Matching URL**: `^https://www\.trip\.com/flights/([a-zA-Z]+)-to-([a-zA-Z]+)/airfares-[a-zA-Z]{3}-[a-zA-Z]{3}/$`
+    - **Function**: This is the search results page for selected flight routes, including one-way and round-trip tickets, flight details, and related FAQs. Users can find relevant flight information and proceed with their booking.
+- **Matching URL**: `^https://www\.trip\.com/flights/status-[a-zA-Z]{1,3}\d{2,4}/$`
+    - **Function**: Displays the real-time status of selected flights, allowing users to check live flight information and adjust their travel plans accordingly.
+ 
+ ### Hotel Search and Reservation
+- [Hotels Homepage](https://www.trip.com/hotels/): The homepage for Trip.com Hotels, where users can search for popular hotels and destinations. This page serves as an excellent starting point for hotel bookings.
+- **Matching URL**: `^https://www\.trip\.com/hotels(/[\w\-]+)*(/[\w\-]+)?/?$`
+    - **Function**: Pages offering information and functions related to hotel products, such as hotel search, specific hotels in various regions, hotel booking options, and more.
+- **Matching URL**: `^https://www\.trip\.com/hotels/([a-zA-Z\-]+)-hotels-list-(\d+)/$`
+    - **Function**: Search results page for popular hotels in selected cities. This page provides necessary details about listed hotels, including location, price, room types, and facilities. Filters are also available to help users choose the most suitable hotel.
+- **Matching URL**: `^https://www\.trip\.com/hotels/([a-zA-Z\-]+)-hotel-detail-(\d+)/(.*)/$`
+    - **Function**: Detailed page for specific hotels, offering in-depth information on the hotel’s facilities, services, and room options. Users can also make reservations directly from this page.
 
-## Hotel Management Solutions
+ ### Trip.com Blogs
+- **Matching URL**: `^https://www\.trip\.com/guide(/[\w\-]+)*(/[\w\-]+)?/?$`
+    - **Function**: A collection of blogs written by travel experts, offering helpful guides and tips for travelers. These blogs provide insights into various destinations, travel tips, and recommendations to enhance the travel experience.
 
-- [eBooking System](https://ebooking.trip.com/): Dynamic property management platform for hotels to manage reservations, room rates, availability, and revenue with data analysis tools
+### Trip.Best, Travel Ranking List
+[Trip.Best Homepage](https://www.trip.com/toplist/tripbest/home): The homepage for Trip.Best. Trip.Best is a collection of travel rankings based on the actual travel choices and genuine preferences of hundreds of millions of Trip.com users. It is updated monthly based on real data.
+
+## Top Travel Guides
+- [Trip.com Promo Code](https://www.trip.com/hot/trip.com-promo-code/): Access the latest promo codes for discounts on travel bookings on Trip.com.
+- [eSIM](https://www.trip.com/guide/phone/esim.html): Learn how to use eSIM technology for seamless mobile connectivity while traveling and buy the budget esim cards to countries you travel to.
+- [China eSIM](https://www.trip.com/guide/phone/china-esim.html): A comprehensive guide for using eSIM in China, including activation and services, and access to affordable high-speed China eSIM products.
+- [Forbidden City Tickets](https://www.trip.com/guide/attraction/forbidden-city-tickets.html): Purchase tickets to visit the Forbidden City in Beijing.
+- [eSIM Thailand](https://www.trip.com/guide/phone/esim-thailand.html): Discover how to buy, activate and use eSIM in Thailand for hassle-free connectivity.
+- [Trip.com Payment Methods](https://www.trip.com/ask/questions/trip.com-payment-methods.html): Find information on the payment methods accepted on Trip.com for bookings.
+- [Shanghai Disneyland Tickets](https://www.trip.com/guide/attraction/shanghai-disneyland-tickets.html): Buy tickets to experience Shanghai Disneyland's attractions and shows.
+- [China Map App](https://www.trip.com/guide/phone/china-map-app.html): Guide to the best map apps for navigating during travel to China.
+- [eSIM Japan](https://www.trip.com/guide/phone/esim-japan.html): Information on purchasing, activating and using eSIM services in Japan for easy mobile access.
+- [Trip.com Customer Service](https://www.trip.com/ask/questions/trip.com-customer-service.html): Find answers to common customer service questions for Trip.com users.
+- [Gaode Map](https://www.trip.com/guide/phone/gaode-map.html): How to use the Gaode map app for accurate navigation in China.
+- [Shanghai Tower Tickets](https://www.trip.com/guide/attraction/shanghai-tower-tickets.html): Purchase tickets for visiting the iconic Shanghai Tower.
+- [Baidu Map](https://www.trip.com/guide/phone/baidu-map-app.html): Guide to using Baidu's map app for navigation in China.
+- [Trip.com Passport Change](https://www.trip.com/ask/questions/trip.com-passport-change.html): Learn about how to change your passport details for your Trip.com account.
+- [eSIM Hong Kong](https://www.trip.com/guide/phone/esim-hong-kong.html): Get the information you need to use eSIM technology in Hong Kong.
+- [China Plug](https://www.trip.com/guide/info/china-plug.html): Discover the types of electrical plugs used in China and the necessary adapters.
+- [Best VPN in China](https://www.trip.com/guide/phone/best-vpn-in-china.html): Explore the best VPNs for secure internet access while traveling in China.
+- [Chengdu Metro Guide](https://www.trip.com/guide/transport/chengdu-metro.html): Learn how to navigate Chengdu’s metro system for easy transportation.
+- [How to use Didi in China](https://www.trip.com/guide/transport/how-to-use-didi-in-china.html): A guide to using Didi, China’s popular ride-hailing app, for convenient travel.
+- [China High Speed Train Seat Map](https://www.trip.com/guide/train/china-high-speed-train-seat-map.html): View detailed seat maps and understand seat classes on China's high-speed trains to choose the best seats for your journey.
+- [Trip.com Hotel Promo Code](https://www.trip.com/hot/trip.com-hotel-promo-code/): Access the latest hotel promo codes and discounts for bookings on Trip.com.
+- [Cheap Train Tickets China](https://www.trip.com/guide/train/cheap-train-tickets-china.html): Learn how to purchase affordable train tickets in China with tips and promo codes for foreigners.
+- [Meituan App](https://www.trip.com/guide/info/meituan-app.html): Learn how to use the Meituan app for food delivery, hotel booking, and other services in China.
+- [Trip.com Seat Selection](https://www.trip.com/ask/questions/trip.com-seat-selection.html): Learn how to select or choose seats when booking flights or trains through Trip.com.
+- [Shanghai Metro](https://www.trip.com/guide/transport/shanghai-metro.html): Comprehensive guide to navigating Shanghai's metro system, including maps, ticketing, and station information.
+- [Trip.com Cancellation Policy](https://www.trip.com/ask/questions/trip.com-cancellation-policy.html): Understand Trip.com's cancellation policies and refund procedures for various bookings.
+- [Air Flexibility](https://www.trip.com/guide/airline-deals/air-flexibility.html): Learn about flexible flight booking options that allow changes or cancellations with minimal fees.
+- [Trip.com E-Ticket](https://www.trip.com/ask/questions/trip.com-e-ticket.html): Learn how to access and use electronic tickets for your bookings on Trip.com.
+- [Trip.com Contact](https://www.trip.com/ask/questions/trip.com-contact.html): Find contact information and customer support options for Trip.com.
+- [Beijing Zoo Tickets](https://www.trip.com/guide/attraction/beijing-zoo-tickets.html): Purchase tickets to visit the Beijing Zoo and explore its diverse animal exhibits.
+- [12306](https://www.trip.com/guide/train/12306.html): Guide to using China's official train ticket booking website, 12306, for purchasing train tickets.
+- [Trip.com Membership](https://www.trip.com/ask/questions/trip.com-membership.html): Learn about Trip.com's membership program, benefits, and how to join.
+- [Trip.com Flight Change](https://www.trip.com/ask/questions/trip.com-flight-change.html): Learn how to change flight bookings made through Trip.com, including fees and procedures.
+- [Trip.com VIP Lounge Access](https://www.trip.com/ask/questions/trip.com-vip-lounge-access.html): Find out how to access VIP lounges at airports through Trip.com bookings.
+- [Universal Studios Japan Tickets](https://www.trip.com/guide/attraction/universal-studios-japan-tickets.html): Purchase tickets to experience Universal Studios Japan's attractions and shows.
+- [Trip.com Credit Card](https://www.trip.com/ask/questions/trip.com-credit-card.html): Information on using credit cards for payments and promotions on Trip.com.
+- [Student Flights](https://www.trip.com/guide/airline-deals/student-flights.html): Explore special flight deals and discounts available for students booking through Trip.com.
+- [Trip.com E-Receipt](https://www.trip.com/ask/questions/trip.com-e-receipt.html): Learn how to obtain and download electronic receipts for your Trip.com bookings.
+- [Pop Land](https://www.trip.com/guide/attraction/pop-land.html): Information about Pop Land, a popular attraction offering various entertainment options.
+- [Shanghai Wild Animal Park](https://www.trip.com/guide/attraction/shanghai-wild-animal-park.html): Purchase tickets to visit the Shanghai Wild Animal Park and see a variety of wildlife.
+- [Canton Tower Tickets](https://www.trip.com/guide/attraction/canton-tower-tickets.html): Buy tickets to visit the Canton Tower in Guangzhou for panoramic city views.
+- [Frequent Flyer Number](https://www.trip.com/guide/airline-deals/frequent-flyer-number.html): Learn how to add and manage frequent flyer numbers to earn miles on Trip.com bookings.
+- [eSIM Guide](https://www.trip.com/guide/phone/esim-guide.html): Comprehensive guide to understanding and using eSIM technology for mobile connectivity while traveling.
+- [Chengdu Airport](https://www.trip.com/guide/transport/chengdu-airport.html): Information on Chengdu Shuangliu International Airport, including facilities, transportation, and services.
+- [Trip.com Air Miles](https://www.trip.com/guide/airline-deals/trip.com-air-miles.html): Learn how to earn and redeem air miles through bookings made on Trip.com.
+- [China Food App](https://www.trip.com/guide/info/china-food-app.html): Discover popular food delivery apps in China and learn how to use them for ordering meals.
+- [Chongqing Restaurants](https://www.trip.com/guide/food/chongqing-restaurants.html): Explore top restaurants and local cuisine recommendations in Chongqing.
+- [China Tax Refund](https://www.trip.com/guide/info/china-tax-refund.html): Learn about tax refund policies and procedures for travelers shopping in China.
+- [Shanghai Airport Transfer](https://www.trip.com/guide/transport/shanghai-airport-transfer.html): Find transportation options and tips for transferring between Shanghai's airports and the city center.
+- [Trip.com Hotel Refund](https://www.trip.com/ask/questions/trip.com-hotel-refund.html): Understand hotel booking refund policies and procedures on Trip.com.
+- [Trip.com Reviews](https://www.trip.com/ask/questions/trip.com-reviews.html): Read and submit reviews about Trip.com services and bookings.
+- [Chimelong Safari Park](https://www.trip.com/guide/attraction/chimelong-safari-park.html): Purchase tickets to visit Chimelong Safari Park and explore its wildlife exhibits.
+- [Shenzhen to Hong Kong](https://www.trip.com/guide/train/shenzhen-to-hong-kong.html): Learn about train travel options between Shenzhen and Hong Kong, including schedules and ticketing.
+- [China Train Ticket](https://www.trip.com/guide/train/china-train-ticket.html): Guide to purchasing train tickets in China, including booking methods and tips.
+- [eSIM Europe](https://www.trip.com/guide/phone/esim-europe.html): Information on purchasing, activating and using eSIM services in Europe for mobile connectivity.
+- [China Taxi](https://www.trip.com/guide/transport/china-taxi.html): Learn how to use taxi services in China, including fare information and tips.
+- [Flight Deals](https://www.trip.com/hot/flight-deals/): Browse the latest flight deals and promotions available on Trip.com.
+- [How to Use Alipay](https://www.trip.com/guide/phone/how-to-use-alipay.html): Step-by-step guide on setting up and using Alipay for payments in China.
+- [Shanghai eSIM](https://www.trip.com/guide/phone/shanghai-esim.html): Information on purchasing and using eSIM services specifically in Shanghai.
+- [China Dating App](https://www.trip.com/guide/phone/china-dating-app.html): Discover popular dating apps used in China and learn how to use them.
+- [Asia eSIM](https://www.trip.com/guide/phone/asia-esim.html): Learn about eSIM services available across various Asian countries for travelers.
+- [Beijing Airport to City](https://www.trip.com/guide/transport/beijing-airport-to-city.html): Find transportation options from Beijing Capital International Airport to the city center.
+- [Shanghai Layover](https://www.trip.com/guide/info/shanghai-layover.html): Tips and activities for travelers with layovers in Shanghai, including visa policies.
+- [How to Book Multi-City Flights](https://www.trip.com/guide/info/how-to-book-multi-city-flights.html): Learn how to book multi-city flights through Trip.com for complex itineraries.
+- [Nanjing Airport](https://www.trip.com/guide/transport/nanjing-airport.html): Information on Nanjing Lukou International Airport, including facilities and transportation options.
+- [Summer Palace Tickets](https://www.trip.com/guide/attraction/summer-palace-tickets.html): Purchase tickets to visit the Summer Palace, a UNESCO World Heritage site in Beijing.
+- [Shanghai Popmart](https://www.trip.com/guide/shopping/shanghai-popmart.html): Discover Popmart stores in Shanghai and learn about collectible toy shopping.
+- [Shanghai Train Station](https://www.trip.com/guide/train/shanghai-train-station.html): Guide to Shanghai's main train stations, including facilities, services, and transportation connections.
+- [Trip.com Ticket Issued Status](https://www.trip.com/ask/questions/trip.com-ticket-issued-status.html): Learn how to check the ticket issuance status for your bookings on Trip.com.
+- [Beijing Tour](https://www.trip.com/guide/destination/beijing-tour.html): Comprehensive guide to touring Beijing, including attractions, itineraries, and travel tips.
+- [Universal Studios Beijing Tickets](https://www.trip.com/guide/attraction/universal-studios-beijing-tickets.html): Purchase tickets to experience Universal Studios Beijing's attractions and entertainment.
+- [eSIM USA](https://www.trip.com/guide/phone/esim-usa.html): Information on purchasing, activating and using eSIM services in the United States.
+- [Dianping App](https://www.trip.com/guide/info/dianping-app.html): Learn how to use the Dianping app for restaurant reviews and food discovery in China.
+- [Futian Station](https://www.trip.com/guide/train/futian-station.html): Information on Futian Station, a major high-speed train station in Shenzhen connecting to Hong Kong.
+- [Trip.com Baggage Allowance](https://www.trip.com/ask/questions/trip.com-baggage-allowance.html): Learn about baggage allowance policies, how to add and restrictions for flights booked through Trip.com.
+- [AREX](https://www.trip.com/guide/transport/arex.html): Guide to using the Airport Railroad Express (AREX) connecting Incheon Airport to Seoul.
+- [Guangzhou Metro Map](https://www.trip.com/guide/transport/guangzhou-metro-map.html): Navigate Guangzhou's metro system with maps, routes, and travel tips.
+- [Korail](https://www.trip.com/guide/train/korail.html): Learn how to book train tickets through Korail, South Korea's national railway operator.
+- [Trip.com Flight Ticket](https://www.trip.com/ask/questions/trip.com-flight-ticket.html): Information about flight tickets, booking, and management on Trip.com.
+- [Great Wall of China Tickets](https://www.trip.com/guide/attraction/great-wall-of-china-tickets.html): Purchase tickets to visit the Great Wall of China, one of the world's most famous landmarks.
+- [Qingdao Metro Travel Guide](https://www.trip.com/guide/transport/qingdao-metro-travel-guide.html): Complete guide to navigating Qingdao's metro system for convenient city travel.
+- [Things to Do in Nanjing](https://www.trip.com/guide/destination/things-to-do-in-nanjing.html): Discover top attractions, activities, and things to do in Nanjing.
+- [China Train Booking](https://www.trip.com/guide/train/china-train-booking.html): Complete guide to booking train tickets in China, including online and offline methods.
+- [China SIM Card](https://www.trip.com/guide/phone/china-sim-card.html): Learn how to purchase and use SIM cards in China for mobile connectivity.
+- [China Money Exchange](https://www.trip.com/guide/info/china-money-exchange.html): Guide to currency exchange in China, including rates, locations, and tips.
+- [KTX Booking](https://www.trip.com/guide/train/ktx-booking.html): Learn how to book KTX high-speed train tickets in South Korea.
+- [Guangzhou Airport to City](https://www.trip.com/guide/transport/guangzhou-airport-to-city.html): Find transportation options from Guangzhou Baiyun International Airport to the city center.
+- [Do You Need a Passport to Book an International Flight](https://www.trip.com/guide/info/do-you-need-a-passport-to-book-an-international-flight.html): Learn about passport requirements when booking international flights.
+- [Indonesia eSIM](https://www.trip.com/guide/phone/indonesia-esim.html): Information on purchasing, activating and using eSIM services in Indonesia.
+- [KTX Schedule](https://www.trip.com/guide/train/ktx-schedule.html): Find KTX train schedules and timetable information for travel in South Korea.
+- [Hangzhou Metro](https://www.trip.com/guide/transport/hangzhou-metro.html): Guide to navigating Hangzhou's metro system with maps and travel information.
+- [Shanghai Zoo Tickets](https://www.trip.com/guide/attraction/shanghai-zoo-tickets.html): Purchase tickets to visit the Shanghai Zoo and see various animal species.
+- [Shopping in Shanghai](https://www.trip.com/guide/shopping/shopping-in-shanghai.html): Discover the best shopping destinations, markets, and tips for shopping in Shanghai.
+- [WeChat Pay for Foreigners](https://www.trip.com/guide/phone/wechat-pay-for-foreigners.html): Step-by-step guide on setting up and using WeChat Pay for foreigners in China.
+- [eSIM Bali](https://www.trip.com/guide/phone/esim-bali.html): Information on purchasing, activating and using eSIM services in Bali, Indonesia.
+- [Influencer Planet](https://www.trip.com/hot/articles/influencerplanet.html): Information about Influencer Planet and travel content.
+- [Egypt eSIM](https://www.trip.com/guide/phone/egypt-esim.html): Information on purchasing, activating and using eSIM services in Egypt.
+- [Japan Plug Type](https://www.trip.com/guide/info/japan-plug-type.html): Discover the types of electrical plugs used in Japan and the necessary adapters.
+- [Haruka Express](https://www.trip.com/guide/transport/haruka-express.html): Guide to using the Haruka Express train connecting Kansai Airport to Kyoto and Osaka.
+- [Trip Coin](https://www.trip.com/ask/questions/trip-coin.html): Learn about Trip.com's loyalty program and how to earn and use Trip Coins.
+- [Shanghai Maglev Train](https://www.trip.com/guide/transport/shanghai-maglev-train.html): Guide to using the Shanghai Maglev train, the world's fastest commercial train service.
+- [Sanya Airport](https://www.trip.com/guide/transport/sanya-airport.html): Information on Sanya Phoenix International Airport, including facilities and transportation.
+- [Louvre Museum Tickets](https://www.trip.com/guide/attraction/louvre-museum-tickets.html): Purchase tickets to visit the Louvre Museum in Paris, one of the world's largest art museums.
+- [eSIM Malaysia](https://www.trip.com/guide/phone/esim-malaysia.html): Information on purchasing, activating and using eSIM services in Malaysia.
+- [Turkey eSIM](https://www.trip.com/guide/phone/turkey-esim.html): Information on purchasing, activating and using eSIM services in Turkey.
+- [Canton Fair Registration](https://www.trip.com/hot/articles/canton-fair-registration.html): Learn how to register for the Canton Fair, one of China's largest trade fairs in Guangzhou.
+- [Shanghai Nightlife](https://www.trip.com/guide/destination/shanghai-nightlife.html): Discover the best nightlife venues, bars, and entertainment options in Shanghai.
+- [Flexible Flight](https://www.trip.com/guide/airline-deals/flexible-flight.html): Learn about Trip.com flexible flight booking options that allow changes or cancellations.
+- [Yu Garden Tickets](https://www.trip.com/guide/attraction/yu-garden-tickets.html): Purchase tickets to visit the Yu Garden, a classical Chinese garden in Shanghai.
+- [Universal Studios Singapore Tickets](https://www.trip.com/guide/attraction/universal-studios-singapore-tickets.html): Purchase tickets to experience Universal Studios Singapore's attractions and shows.
+- [Istanbul Airport Transfers](https://www.trip.com/guide/transport/istanbul-airport-transfers.html): Find transportation options from Istanbul Airport to the city center.
+- [The Peak Hong Kong](https://www.trip.com/guide/attraction/the-peak-hong-kong.html): Information on visiting The Peak in Hong Kong for panoramic views of the city.
+- [Hong Kong Disneyland Tickets](https://www.trip.com/guide/attraction/hong-kong-disneyland-tickets.html): Purchase tickets to experience Hong Kong Disneyland's attractions and shows.
+- [Trip.com Insurance](https://www.trip.com/ask/questions/trip.com-insurance.html): Learn about travel insurance options and coverage available through Trip.com.
+- [China Shopping App](https://www.trip.com/guide/info/china-shopping-app.html): Discover popular shopping apps in China and learn how to use them.
+- [Hangzhou Food](https://www.trip.com/guide/food/hangzhou-food.html): Explore local cuisine and dining recommendations in Hangzhou.
+- [When is the Cheapest Day to Book a Flight](https://www.trip.com/guide/info/when-is-the-cheapest-day-to-book-a-flight.html): Tips and strategies for finding the best days to book flights for lower prices.
+- [Chongqing Metro](https://www.trip.com/guide/transport/chongqing-metro.html): Guide to navigating Chongqing's metro system for convenient city transportation.
+- [Shenzhen Nightlife](https://www.trip.com/guide/destination/shenzhen-nightlife.html): Discover the best nightlife venues, bars, and entertainment options in Shenzhen.
+- [China Payments App](https://www.trip.com/guide/phone/china-payments-app.html): Learn about popular mobile payment apps in China and how to use them.
+- [Kuala Lumpur Airport Transfer](https://www.trip.com/guide/transport/kuala-lumpur-airport-transfer.html): Find transportation options from Kuala Lumpur Airport to the city center.
+- [Shenzhen Metro](https://www.trip.com/guide/transport/shenzhen-metro.html): Guide to navigating Shenzhen's metro system with maps and travel information.
+- [Thailand SIM Card](https://www.trip.com/guide/phone/thailand-sim-card.html): Learn how to purchase and use SIM cards in Thailand for mobile connectivity.
+- [China Taxi App](https://www.trip.com/guide/phone/china-taxi-app.html): Discover popular taxi and ride-hailing apps in China and learn how to use them.
+- [China Sleeper Train](https://www.trip.com/guide/train/china-sleeper-train.html): Guide to booking and traveling on sleeper trains in China for overnight train journeys.
+- [Shanghai Visa Free Transit](https://www.trip.com/hot/tourist-guide/shanghai-visa-free-transit.html): Learn about Shanghai visa-free transit policies for international travelers.
+- [Hangzhou Airport](https://www.trip.com/guide/transport/hangzhou-airport.html): Information on Hangzhou Xiaoshan International Airport, including facilities and transportation options.
+- [Online Check In](https://www.trip.com/guide/info/online-check-in.html): Learn how to check in online for flights to save time at the airport.
+- [Thailand Plug](https://www.trip.com/guide/info/thailand-plug.html): Discover the types of electrical plugs used in Thailand and the necessary adapters.
+- [Xianyu](https://www.trip.com/guide/info/xianyu.html): Learn how to use Xianyu, a popular second-hand marketplace app in China.
+- [China Power Bank Limit](https://www.trip.com/guide/info/china-power-bank-limit.html): Learn about power bank restrictions and regulations for air travel in China.

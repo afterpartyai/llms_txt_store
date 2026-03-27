@@ -1,55 +1,83 @@
-# Linode
+# Linode | Akamai Connected Cloud
 
-> > Cloud infrastructure provider offering Linux-based virtual servers with comprehensive documentation for server configuration, security, and application deployment.
+> Distributed cloud computing platform for building, deploying, and scaling applications with compute, Kubernetes, storage, networking, and developer tools.
 
-Linode (now part of Akamai) provides developer-focused cloud hosting services. The documentation covers essential server administration tasks including SSH authentication, firewall configuration, VPN setup, and web server management for Linux-based cloud instances.
+Linode, now part of Akamai, provides cloud infrastructure and platform services through Akamai Connected Cloud. Its resources span product documentation, API references, developer guides, support content, pricing and product pages, and technical blog articles for deploying workloads globally with low latency.
 
-## Key Topics
+## Core Platform
+- [Products Overview](https://www.linode.com/products/): Overview of compute, Kubernetes, storage, networking, databases, and platform services.
+- [Global Infrastructure](https://www.linode.com/global-infrastructure/): Infrastructure footprint, regions, and platform capabilities for global application deployment.
+- [Essential Compute](https://www.linode.com/products/essential-compute/): Virtual machine instances for general-purpose cloud workloads and application hosting.
+- [GPU](https://www.linode.com/products/gpu/): GPU instances for AI, machine learning, rendering, and accelerated workloads.
+- [Accelerated Compute](https://www.linode.com/products/accelerated-compute/): High-performance compute offerings for demanding applications and specialized workloads.
+- [Kubernetes Engine](https://www.linode.com/products/kubernetes/): Managed Kubernetes service for container orchestration and cluster operations.
+- [App Platform](https://www.linode.com/products/app-platform/): Platform-as-a-service for deploying web apps, APIs, and static sites.
 
-- Linode cloud hosting
-- Linux server administration
-- SSH public key authentication
-- Ubuntu configuration
-- NGINX web server
-- WireGuard VPN
-- UFW firewall
-- Node.js runtime
-- Go programming language
-- Server security
-- Cloud infrastructure
-- Akamai TechDocs
-- Virtual private servers
+## Documentation
+- [Cloud Computing Docs Welcome](https://techdocs.akamai.com/cloud-computing/docs/welcome): Entry point for Akamai cloud computing documentation and product guides.
+- [Get Started](https://techdocs.akamai.com/cloud-computing/docs/get-started): Onboarding documentation for creating and managing cloud resources.
+- [Linode API](https://techdocs.akamai.com/cloud-computing/reference/api): Reference documentation for the Linode API and resource operations.
+- [CLI](https://techdocs.akamai.com/cloud-computing/docs/cli): Documentation for managing cloud resources with the command-line interface.
+- [Cloud Manager](https://techdocs.akamai.com/cloud-computing/docs/cloud-manager): Guides for using the web control panel to administer services.
+- [Identity and Access Management](https://techdocs.akamai.com/cloud-computing/docs/identity-and-access-management): Documentation for users, roles, permissions, and account access controls.
+- [Billing and Account](https://techdocs.akamai.com/cloud-computing/docs/billing-and-account): Account, billing, payment, and subscription management documentation.
 
-## Security & Authentication
+## Compute, Storage, and Networking Docs
+- [Linodes](https://techdocs.akamai.com/cloud-computing/docs/linodes): Documentation for virtual machines, provisioning, resizing, and lifecycle management.
+- [Block Storage](https://techdocs.akamai.com/cloud-computing/docs/block-storage): Guides for attaching and managing persistent block storage volumes.
+- [Object Storage](https://techdocs.akamai.com/cloud-computing/docs/object-storage): Documentation for S3-compatible object storage buckets and access management.
+- [NodeBalancers](https://techdocs.akamai.com/cloud-computing/docs/nodebalancers): Load balancer documentation for distributing traffic across backend services.
+- [VPC](https://techdocs.akamai.com/cloud-computing/docs/vpc): Virtual private cloud networking for isolated application environments.
+- [VLANs](https://techdocs.akamai.com/cloud-computing/docs/vlans): Layer 2 private networking documentation for instance communication.
+- [DNS Manager](https://techdocs.akamai.com/cloud-computing/docs/dns-manager): DNS zone, record, and domain management documentation.
 
-- [How to Use SSH Public Key Authentication | Linode Docs](https://linode.com/docs/guides/use-public-key-authentication-with-ssh): Guide on SSH key generation and public key authentication for Linux servers
-- [How to Configure a Firewall with UFW | Linode Docs](https://linode.com/docs/guides/configure-firewall-with-ufw): Tutorial on setting up UFW (Uncomplicated Firewall) on Linux systems
-- [Set Up WireGuard VPN on Ubuntu | Linode Docs](https://linode.com/docs/guides/set-up-wireguard-vpn-on-ubuntu): Tutorial for configuring WireGuard VPN peer connection on Ubuntu 18.04
+## Kubernetes and Containers
+- [Kubernetes Engine Docs](https://techdocs.akamai.com/cloud-computing/docs/kubernetes): Managed Kubernetes concepts, cluster creation, and operations guidance.
+- [Deploy on Kubernetes Engine](https://techdocs.akamai.com/cloud-computing/docs/deploy-on-lke): Guides for deploying workloads to Linode Kubernetes Engine clusters.
+- [App Platform Docs](https://techdocs.akamai.com/cloud-computing/docs/app-platform): Documentation for building and deploying applications on App Platform.
+- [Container Registry](https://techdocs.akamai.com/cloud-computing/docs/container-registry): Manage private container images for Kubernetes and application deployments.
+- [Marketplace Apps](https://techdocs.akamai.com/cloud-computing/docs/marketplace-apps): Preconfigured application stacks for faster deployment on cloud instances.
 
-## Web Server Configuration
+## API, CLI, and Developer Tools
+- [API Reference](https://techdocs.akamai.com/cloud-computing/reference/api): Endpoint-by-endpoint API reference for automating cloud resource management.
+- [API Getting Started](https://techdocs.akamai.com/cloud-computing/docs/getting-started-with-the-api): Introductory guide to authenticating and using the Linode API.
+- [API Tokens](https://techdocs.akamai.com/cloud-computing/docs/manage-personal-access-tokens): Create and manage personal access tokens for API authentication.
+- [Linode CLI Guide](https://techdocs.akamai.com/cloud-computing/docs/linode-cli): Install, configure, and use the Linode CLI.
+- [Terraform Provider](https://techdocs.akamai.com/cloud-computing/docs/terraform): Infrastructure as code workflows using the Linode Terraform provider.
+- [Python SDK](https://techdocs.akamai.com/cloud-computing/docs/python-library): Python library documentation for interacting with Linode services.
 
-- [How to Configure NGINX | Linode Docs](https://linode.com/docs/guides/how-to-configure-nginx): Complete guide to NGINX configuration parameters and conventions
+## Guides and Tutorials
+- [Guides and Tutorials](https://www.linode.com/docs/guides/): Library of practical tutorials for Linux, cloud infrastructure, and application deployment.
+- [Deploying a Website](https://www.linode.com/docs/guides/deploying-a-website-on-a-linode/): Step-by-step guide to hosting a website on a Linode instance.
+- [Use SSH Public Key Authentication](https://www.linode.com/docs/guides/use-public-key-authentication-with-ssh/): Secure server access using SSH key-based authentication.
+- [Configure a Firewall with UFW](https://www.linode.com/docs/guides/configure-firewall-with-ufw/): Basic host firewall setup for Linux servers using UFW.
+- [How to Install Docker](https://www.linode.com/docs/guides/install-docker-on-ubuntu-and-debian/): Install and configure Docker on Ubuntu and Debian systems.
+- [How to Configure NGINX](https://www.linode.com/docs/guides/how-to-configure-nginx/): NGINX configuration concepts and common web server setup patterns.
+- [Set Up WireGuard VPN on Ubuntu](https://www.linode.com/docs/guides/set-up-wireguard-vpn-on-ubuntu/): Configure a WireGuard VPN server and peers on Ubuntu.
 
-## Development & Programming
+## Support and Account Help
+- [Support](https://www.linode.com/support/): Support portal with help resources and contact options.
+- [Support Experience](https://www.linode.com/support-experience/): Overview of support offerings and customer assistance model.
+- [Contact Sales](https://www.linode.com/company/contact/): Reach sales for product questions, pricing, and solution guidance.
+- [Search](https://www.linode.com/search/): Search across Linode site content, documentation, and resources.
+- [Log in](https://login.linode.com/login): Access the Linode account and cloud management login page.
+- [Sign up](https://login.linode.com/signup): Create a new account to start using Linode services.
 
-- [How to Install Node.js | Linode Docs](https://linode.com/docs/guides/how-to-install-nodejs): Installation guide for Node.js runtime environment on Linux
-- [A Beginner's Guide to Go | Linode Docs](https://linode.com/docs/guides/beginners-guide-to-go): Getting started with Go programming by Mihalis Tsoukalos
+## Solutions and Use Cases
+- [Reduce Cloud Costs](https://www.linode.com/reduce-cloud-costs/): Cost optimization positioning and migration value for cloud workloads.
+- [Low-Latency Applications](https://www.linode.com/low-latency-applications/): Guidance and positioning for latency-sensitive distributed applications.
+- [Cloud Portability](https://www.linode.com/cloud-portability/): Multi-cloud and portable architecture messaging for application deployment.
+- [Cloud Global Scale](https://www.linode.com/cloud-global-scale/): Global deployment benefits and distributed cloud platform positioning.
 
-## Optional
+## Blog and Updates
+- [Blog](https://www.linode.com/blog/): Product news, tutorials, engineering articles, and cloud best practices.
+- [Kubernetes](https://www.linode.com/blog/kubernetes/): Blog posts focused on Kubernetes, containers, and orchestration topics.
+- [Security](https://www.linode.com/blog/security/): Articles covering cloud security, hardening, and operational practices.
+- [Company News](https://www.linode.com/blog/company-news/): Announcements about platform updates, launches, and company developments.
+- [Tutorials](https://www.linode.com/blog/tutorials/): Educational posts for developers, sysadmins, and cloud practitioners.
 
-- [Lewy body dementia - Wikipedia](https://en.wikipedia.org/wiki/Lewy_body_dementia): Wikipedia article on Lewy body dementia subtypes (DLB and PDD)
-- [Lewy body dementia - Symptoms and causes - Mayo Clinic](https://mayoclinic.org/diseases-conditions/lewy-body-dementia/symptoms-causes/syc-20352025): Mayo Clinic overview of LBD symptoms, causes, and protein deposits
-- [10 Things You Should Know About LBD | Lewy Body Dementia Association (LBDA)](https://lbda.org/10-things-you-should-know-about-lbd): LBDA guide covering 10 essential facts about Lewy body dementia
-- [Lewy Body Dementia: Symptoms, Causes, Treatment](https://verywellhealth.com/lewy-body-dementia-stages-progression-98735): VeryWell Health article on LBD stages, symptoms, and progression
-- [Lewy Body Dementia (LBD): What It Is, Symptoms & Stages](https://my.clevelandclinic.org/health/diseases/17815-lewy-body-dementia): Cleveland Clinic guide to LBD brain disorder and Lewy body proteins
-- [Who Is The 'Bananas And Rice' Girl? The Viral Memes About Somali-American ICE Vi... | Know Your Meme](https://trending.knowyourmeme.com/editorials/guides/who-is-the-bananas-and-rice-girl-the-viral-memes-about-somali-american-ice-victim-nasra-ahmed-explained): Know Your Meme explainer on Nasra Ahmed viral ICE incident memes
-- [What's The 'Bacon Avocado' Trend On TikTok? The Meme About Saying 'Bacon Avocado... | Know Your Meme](https://trending.knowyourmeme.com/editorials/guides/whats-the-bacon-avocado-trend-on-tiktok-the-meme-about-saying-bacon-avocado-as-fast-as-possible-explained): Know Your Meme guide to TikTok's 'Bacon Avocado' viral challenge trend
-- [Jesse, What the Fuck Are You Talking About | Know Your Meme](https://knowyourmeme.com/memes/jesse-what-the-fuck-are-you-talking-about): Breaking Bad meme featuring Walter White and Jesse Pinkman dialogue
-- [What Does 'No Problem! Here's The Information About The Mercedes CLR GTR' Mean? ... | Know Your Meme](https://trending.knowyourmeme.com/editorials/guides/what-does-no-problem-heres-the-information-about-the-mercedes-clr-gtr-mean-the-instagram-caption-copypasta-explained): Instagram copypasta meme about Mercedes CLR GTR spam captions explained
-- [What's With All The Jokes About Nancy Reagan In The MGM Backlot? Memes Calling N... | Know Your Meme](https://knowyourmeme.com/editorials/guides/whats-with-all-the-jokes-about-nancy-reagan-in-the-mgm-backlot-memes-calling-nancy-reagan-a-throat-goat-explained): Know Your Meme explainer on Nancy Reagan MGM backlot viral memes
-- [We Still Talk About You | Know Your Meme](https://knowyourmeme.com/memes/we-still-talk-about-you): Exploitable image meme featuring cat/kitten art from DeviantArt
-- [What's The 'Nothing Beats a Jet2 Holiday' Meme About? The Viral Jet2 Holiday Tik... | Know Your Meme](https://trending.knowyourmeme.com/editorials/guides/whats-the-nothing-beats-a-jet2-holiday-meme-about-the-viral-jet2-holiday-tiktok-sound-explained): Jet2 Holiday TikTok sound meme paired with travel mishaps explained
-- [TV Guide, TV Listings, Online Videos, Entertainment News and Celebrity News - TV Guide](https://tvguide.com/Listings): TV listings and channel information for shows, movies, and programs
-- [TV Guide, TV Listings, Streaming Services, Entertainment News and Celebrity News - TV Guide](https://tvguide.com): TV Guide homepage with streaming recommendations and entertainment news
-- [The 61 Best Movies on Netflix Right Now (March 2026) - TV Guide](https://tvguide.com/news/best-movies-on-netflix): Curated list of 61 best Netflix movies including Jurassic World Rebirth
-- [The 43 Best TV Shows on Hulu Right Now (March 2026) - TV Guide](https://tvguide.com/news/best-shows-on-hulu): Top 43 Hulu shows featuring Paradise Season 2 and Scrubs revival
+## Ecosystem
+- [Partners](https://www.linode.com/partners/): Partner ecosystem information for technology and channel collaborations.
+- [Marketplace](https://www.linode.com/marketplace/): Catalog of one-click applications and deployment templates.
+- [Developers Hub](https://www.linode.com/developers/): Developer-focused resources, tools, and learning materials.
+- [Pricing](https://www.linode.com/pricing/): Pricing information for compute, storage, networking, and managed services.

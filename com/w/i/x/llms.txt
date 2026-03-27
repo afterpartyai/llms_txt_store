@@ -1,61 +1,76 @@
 # Wix
+> Wix is a website creation and business platform for building, managing, and growing sites, stores, and online services.
 
-> > Wix is an AI-powered website builder platform offering drag-and-drop design tools, 2000+ templates, eCommerce capabilities, and integrated business solutions for creating professional websites without coding.
+Wix combines no-code site building, eCommerce, bookings, payments, marketing, and developer tooling. Its ecosystem spans the classic Wix editor, Wix Studio for agencies and professionals, and Velo for custom web applications and APIs.
 
-Wix provides an all-in-one platform for building websites, managing online stores, accepting payments, and running business operations. The platform combines AI-assisted design with traditional drag-and-drop editing, serving entrepreneurs, creative professionals, restaurants, and enterprises.
+## Platform Overview
+- [Wix Homepage](https://www.wix.com/): Main entry point for Wix website creation, business tools, and product navigation.
+- [Website Builder](https://www.wix.com/website-builder): Overview of Wix’s website builder, design tools, hosting, and publishing workflow.
+- [AI Website Builder](https://www.wix.com/ai-website-builder): AI-assisted website creation flow for generating sites and content quickly.
+- [Wix Studio](https://www.wix.com/studio): Platform for agencies, freelancers, and teams building advanced client websites.
+- [Features Overview](https://www.wix.com/features/main): Summary of core Wix capabilities across design, business, and growth tools.
+- [Enterprise](https://www.wix.com/enterprise): Enterprise-grade website platform, governance, scalability, and support information.
 
-## Key Topics
-
-- AI Website Builder
-- Drag-and-Drop Editor
-- Website Templates
-- eCommerce Platform
-- Payment Processing
-- Domain Registration
-- Web Hosting
-- CRM Tools
-- Email Marketing
-- Analytics
-- SEO Tools
-- Appointment Scheduling
-- Website Security
-- Mobile App
-- Wix Studio
-
-## Core Website Building
-
-- [Website Builder - Create a Free Website In Minutes](https://www.wix.com): Wix homepage: Free website builder with 2000+ templates and AI tools
-- [AI Website Builder - Create A Website In Minutes](https://www.wix.com/ai-website-builder): Wix AI website builder for fast, intuitive site creation and design
-- [Website Design - Design Websites That Set You Apart](https://www.wix.com/website/design): Wix website design solution with AI tools and drag-and-drop editor
-- [Website Templates - 2000+ Free HTML5 Website Templates](https://www.wix.com/website/templates): Browse 2000+ free HTML5 templates for various industries and use cases
-- [Explore Wix Features](https://www.wix.com/features/main): Wix features overview: design tools, mobile editor, VideoBox, Photo Studio
+## Website Creation and Design
+- [Website Templates](https://www.wix.com/website/templates): Browse templates for businesses, portfolios, blogs, stores, and service websites.
+- [Web Design](https://www.wix.com/website/design): Design-focused overview of Wix site creation, customization, and visual editing.
+- [Landing Page Builder](https://www.wix.com/landing-page): Tools for creating landing pages for campaigns, lead capture, and promotions.
+- [Blog Maker](https://www.wix.com/start/blog): Blogging platform for publishing articles, managing posts, and growing audiences.
+- [Portfolio Website](https://www.wix.com/portfolio-website): Portfolio creation tools for designers, photographers, and other creatives.
+- [Domain Names](https://www.wix.com/domains): Domain search, registration, connection, and management for Wix websites.
 
 ## Business Solutions
+- [eCommerce Website Builder](https://www.wix.com/ecommerce/website): Build online stores with product catalogs, checkout, and store management tools.
+- [Scheduling Software](https://www.wix.com/scheduling-software): Online booking system for appointments, classes, and service-based businesses.
+- [Restaurant Website Builder](https://www.wix.com/restaurant/website): Restaurant sites with menus, ordering, reservations, and hospitality-focused features.
+- [CRM](https://www.wix.com/features/crm): Customer relationship tools for contacts, pipelines, inbox, and automations.
+- [Email Marketing](https://www.wix.com/features/email-marketing): Create, send, and track email campaigns from within Wix.
+- [Logo Maker](https://www.wix.com/logo/maker): AI-assisted logo creation and brand asset generation for businesses.
 
-- [eCommerce Website Builder: Build An eCommerce Site](https://www.wix.com/ecommerce/website): Wix eCommerce platform for creating customizable online stores
-- [Appointment Scheduling Software - Take Bookings Online](https://www.wix.com/scheduling-software): Wix scheduling software for appointment booking and payment management
-- [Free Restaurant Website Builder](https://www.wix.com/restaurant/website): Wix restaurant builder with online ordering and POS integration
-- [Free CRM Software For Your Business](https://www.wix.com/features/crm): Wix CRM with lead capture, automation, live chat and contact management
-- [Free Email Marketing Tool](https://www.wix.com/features/email-marketing): Wix email marketing tool with campaigns, templates and automation
+## Commerce, Payments, and Operations
+- [Wix Payments](https://www.wix.com/payments): Payment processing for online and in-person transactions on Wix.
+- [Point of Sale](https://www.wix.com/pos): POS system for syncing in-person sales with online business operations.
+- [Online Store Features](https://www.wix.com/ecommerce/features): Detailed eCommerce capabilities including inventory, shipping, and checkout.
+- [Business Email](https://www.wix.com/business-email): Professional mailbox setup for custom domains and business communication.
+- [Invoice Generator](https://www.wix.com/tools/invoice-generator): Tool for creating invoices for clients and business transactions.
+- [QR Code Generator](https://www.wix.com/tools/qr-code-generator): Generate QR codes for websites, campaigns, and business materials.
 
-## Specialized Builders
+## Marketing and SEO
+- [SEO Tools](https://www.wix.com/seo): Search optimization tools, setup guidance, and visibility features for Wix sites.
+- [Email Marketing Features](https://www.wix.com/features/email-marketing): Marketing campaign tools with templates, segmentation, and analytics.
+- [Automations](https://www.wix.com/automations): Workflow automation for leads, bookings, store events, and customer communication.
+- [Analytics](https://www.wix.com/analytics): Site and business analytics for traffic, sales, and customer behavior.
+- [Forms](https://www.wix.com/features/forms): Form builder for lead capture, registrations, inquiries, and submissions.
+- [Multilingual](https://www.wix.com/multilingual): Tools for translating and managing websites in multiple languages.
 
-- [Create a Blog That Inspires - Free Blog Maker](https://www.wix.com/start/blog): Wix blog maker with SEO tools and marketing features for content creators
-- [Portfolio Website Maker - Create a Free Online Portfolio](https://www.wix.com/portfolio-website): Wix portfolio builder for creative professionals to showcase work
+## Developer Platform
+- [Velo by Wix](https://www.wix.com/velo): Full-stack development platform for extending Wix sites with code and APIs.
+- [Velo Documentation](https://dev.wix.com/docs/velo): Developer docs for APIs, backend code, data, events, and site extensions.
+- [Wix Developers](https://dev.wix.com/): Central developer portal for APIs, SDKs, CLI tools, and app development.
+- [Wix Headless](https://dev.wix.com/docs/go-headless): Headless capabilities for using Wix commerce and business solutions via APIs.
+- [Wix CLI](https://dev.wix.com/docs/build-apps/develop-your-app/frameworks/wix-cli/about-the-wix-cli): Command-line tooling for developing and managing Wix apps.
+- [Wix REST API Reference](https://dev.wix.com/docs/rest): REST API reference for Wix business, site, and commerce services.
 
-## Infrastructure & Management
+## APIs and SDKs
+- [JavaScript SDK Overview](https://dev.wix.com/docs/sdk): Overview of Wix SDKs for integrating Wix services into applications.
+- [Frontend Modules](https://dev.wix.com/docs/velo/apis/wix-window-frontend/introduction): Example Velo frontend API area for client-side site functionality.
+- [Backend Modules](https://dev.wix.com/docs/velo/apis/wix-data/introduction): Example Velo backend and data API area for collections and queries.
+- [Events and Service Plugins](https://dev.wix.com/docs/develop-websites/articles/code-tutorials/wix-editor-elements/service-plugins/about-service-plugins): Developer extension model for integrating external services into Wix sites.
+- [App Development Docs](https://dev.wix.com/docs/build-apps): Documentation for building apps for the Wix App Market and platform.
+- [OAuth and Authentication](https://dev.wix.com/docs/build-apps/develop-your-app/access/authentication/about-authentication): Authentication concepts for Wix app and API integrations.
 
-- [Accept Payments Online, In Person and On The Go - Wix Payments](https://www.wix.com/payments): Wix Payments gateway supporting credit cards, Apple Pay, Google Pay
-- [Buy a Domain Name - Easy Domain Registration & Setup](https://www.wix.com/domains): Wix domain registration with SSL, DNSSEC and business email support
-- [Free Web Hosting - Reliable Website Hosting](https://www.wix.com/free/web-hosting): Wix free web hosting with CDN, Google Cloud and AWS infrastructure
-- [Website Security - Built-in Protection for Your Site](https://www.wix.com/website-security): Wix enterprise-grade security with PCI DSS, SOC 2, GDPR compliance
+## Help Center and Learning
+- [Help Center](https://support.wix.com/en/): Official support portal for product help, troubleshooting, and account guidance.
+- [Wix Learn](https://www.wix.com/learn): Educational content for building websites, marketing, and growing online businesses.
+- [SEO Learning Hub](https://www.wix.com/seo/learn): SEO guides, tutorials, and strategy content for improving search performance.
+- [Blog](https://www.wix.com/blog): Articles on website creation, business growth, design, and digital marketing.
+- [Accessibility](https://www.wix.com/accessibility): Accessibility guidance, product support, and inclusive website creation resources.
+- [Status Page](https://status.wix.com/): Service status and incident reporting for Wix platform availability.
 
-## Analytics & Growth Tools
-
-- [Website Analytics - Track Your Site's Performance](https://www.wix.com/manage/analytics): Wix Analytics for tracking traffic, visitor behavior and revenue metrics
-- [Discover a Suite of Advanced SEO and Marketing Tools](https://www.wix.com/seo): Wix SEO tools with local SEO, keyword research and Semrush integration
-
-## Enterprise & Mobile
-
-- [Wix Studio - The Web Platform Built for Agencies and Enterprises](https://www.wix.com/studio): Wix Studio platform for agencies and enterprises with CSS and animations
-- [Wix App - Manage Your Site From Mobile](https://www.wix.com/mobile/wix-app): Wix mobile app for managing sites, bookings, payments on the go
+## Solutions by Use Case
+- [Online Store](https://www.wix.com/ecommerce/website): Store-building solution for selling physical and digital products online.
+- [Booking Website](https://www.wix.com/scheduling-software): Booking-focused solution for appointments, classes, and sessions.
+- [Restaurant Solutions](https://www.wix.com/restaurant): Restaurant tools for websites, menus, orders, and reservations.
+- [Fitness Website](https://www.wix.com/fitness): Solutions for gyms, trainers, classes, memberships, and wellness businesses.
+- [Photography Website](https://www.wix.com/website/templates/html/photography): Photography-oriented templates and site examples for showcasing visual work.
+- [Small Business Solutions](https://www.wix.com/website/templates/html/business): Business-oriented templates and starting points for company websites.

@@ -1,64 +1,93 @@
 # WebMD
+> Trusted consumer health information covering symptoms, conditions, drugs, wellness, news, and medical reference.
 
-> > WebMD is a trusted digital health platform providing comprehensive medical information, disease guides, symptom checkers, and wellness resources for patients seeking evidence-based health education.
+WebMD publishes medically reviewed health content for patients and caregivers, including disease overviews, symptom guidance, drug and supplement reference, healthy living advice, and current health news. Content is organized into condition centers, topic hubs, tools, and reference libraries.
 
-WebMD offers authoritative health information across hundreds of medical conditions, treatments, and wellness topics. The platform serves as a primary resource for patients researching diseases, understanding symptoms, and learning about treatment options, with content organized through dedicated health centers for major conditions.
+## Core Reference
+- [WebMD Home](https://www.webmd.com/): Main entry to WebMD health information, tools, condition centers, and news.
+- [Health A-Z](https://www.webmd.com/a-to-z-guides/health-topics): Alphabetical directory of diseases, conditions, and health topics.
+- [Medical Reference](https://www.webmd.com/a-to-z-guides/common-topics/default.htm): Broad medical reference hub for symptoms, tests, treatments, and conditions.
+- [First Aid & Emergencies](https://www.webmd.com/first-aid/default.htm): Emergency care, first aid steps, and urgent symptom guidance.
+- [WebMD News](https://www.webmd.com/news/default.htm): Timely health, medicine, public health, and research news coverage.
+- [Blogs](https://blogs.webmd.com/): Expert and contributor blogs on health, care, and living well.
 
-## Key Topics
+## Symptoms, Diagnosis, and Tools
+- [Symptom Checker](https://symptoms.webmd.com/): Interactive symptom assessment tool for possible causes and next steps.
+- [Medical Tests](https://www.webmd.com/a-to-z-guides/medical-tests-default.htm): Explanations of common diagnostic tests, screenings, and procedures.
+- [Common Symptoms](https://www.webmd.com/a-to-z-guides/common-topics/default.htm): Reference pages for symptoms, causes, and when to seek care.
+- [First Aid Guide](https://www.webmd.com/first-aid/default.htm): Practical first aid instructions for injuries, bites, burns, and emergencies.
+- [Drugs & Medications](https://www.webmd.com/drugs/2/index): Searchable prescription and over-the-counter medication reference.
+- [Vitamins & Supplements](https://www.webmd.com/vitamins/index): Ingredient reference for supplements, uses, safety, and interactions.
 
-- Cardiovascular Disease
-- Type 2 Diabetes
-- Type 1 Diabetes
-- Breast Cancer
-- Depression
-- Rheumatoid Arthritis
-- Atrial Fibrillation
-- Lupus
-- Eczema
-- Asthma
-- Sleep Apnea
-- Migraine
-- Symptoms and Diagnosis
-- Treatment Options
-- Health Education
+## Drugs, Supplements, and Pharmacy
+- [Drugs & Medications](https://www.webmd.com/drugs/2/index): Drug monographs with uses, dosage, side effects, and precautions.
+- [Pill Identifier](https://www.webmd.com/pill-identification/default.htm): Identify pills by imprint, shape, color, and form.
+- [Interaction Checker](https://www.webmd.com/interaction-checker/default.htm): Check potential interactions among drugs, supplements, and foods.
+- [Vitamins & Supplements Center](https://www.webmd.com/vitamins/index): Supplement database with evidence, dosing, and safety information.
+- [Medication Overview](https://www.webmd.com/drugs/2/index): Browse medications by name, condition, or therapeutic category.
 
-## Core Navigation
+## Conditions and Diseases
+- [Heart Disease](https://www.webmd.com/heart-disease/default.htm): Heart conditions, symptoms, prevention, tests, and treatment information.
+- [Diabetes](https://www.webmd.com/diabetes/default.htm): Type 1, type 2, complications, monitoring, and diabetes management guidance.
+- [Cancer](https://www.webmd.com/cancer/default.htm): Cancer types, screening, diagnosis, treatment, and supportive care topics.
+- [Arthritis](https://www.webmd.com/arthritis/default.htm): Osteoarthritis, rheumatoid arthritis, joint pain, and treatment options.
+- [Lung Disease & Respiratory Health](https://www.webmd.com/lung/default.htm): Asthma, COPD, infections, breathing symptoms, and lung care.
+- [Digestive Disorders](https://www.webmd.com/digestive-disorders/default.htm): GI conditions, symptoms, tests, and digestive health information.
+- [Skin Problems & Treatments](https://www.webmd.com/skin-problems-and-treatments/default.htm): Skin conditions, rashes, treatments, and skincare guidance.
+- [Eye Health](https://www.webmd.com/eye-health/default.htm): Vision conditions, eye symptoms, exams, and treatment information.
 
-- [WebMD Homepage](https://www.webmd.com): WebMD homepage: trusted health information, medical news, and wellness resources.
-- [All Health Topics](https://www.webmd.com/a-to-z-guides/health-topics): A-to-Z directory of health topics, conditions, and medical reference guides.
+## Mental Health and Brain
+- [Mental Health](https://www.webmd.com/mental-health/default.htm): Mental health conditions, therapy, medications, and coping resources.
+- [Depression](https://www.webmd.com/depression/default.htm): Depression symptoms, diagnosis, treatment, and self-care information.
+- [Anxiety & Panic Disorders](https://www.webmd.com/anxiety-panic/default.htm): Anxiety symptoms, panic attacks, causes, and treatment options.
+- [ADD/ADHD](https://www.webmd.com/add-adhd/default.htm): ADHD symptoms, diagnosis, medications, and support for children and adults.
+- [Schizophrenia](https://www.webmd.com/schizophrenia/default.htm): Schizophrenia symptoms, treatment approaches, and caregiving information.
+- [Sleep Disorders](https://www.webmd.com/sleep-disorders/default.htm): Insomnia, sleep apnea, sleep hygiene, and sleep-related conditions.
+- [Brain & Nervous System](https://www.webmd.com/brain/default.htm): Neurologic conditions, headaches, seizures, and brain health topics.
 
-## Chronic Diseases & Conditions
+## Women’s Health
+- [Women's Health](https://www.webmd.com/women/default.htm): Women’s wellness, reproductive health, screenings, and life-stage guidance.
+- [Pregnancy & Baby](https://www.webmd.com/baby/default.htm): Pregnancy, childbirth, newborn care, and parenting health information.
+- [Breast Cancer](https://www.webmd.com/breast-cancer/default.htm): Breast cancer symptoms, screening, diagnosis, and treatment basics.
+- [Osteoporosis](https://www.webmd.com/osteoporosis/default.htm): Bone health, fracture prevention, testing, and treatment options.
+- [Sexual Health](https://www.webmd.com/sex/default.htm): Sexual wellness, STIs, contraception, and relationship health topics.
+- [Menopause](https://www.webmd.com/menopause/default.htm): Menopause symptoms, hormone therapy, and symptom management.
 
-- [Diabetes Center](https://www.webmd.com/diabetes/default.htm): Diabetes guide covering Type 1, Type 2, gestational diabetes, and management.
-- [Heart Disease Health Center](https://www.webmd.com/heart-disease/default.htm): Heart disease guide covering symptoms, risk factors, conditions, and prevention.
-- [Hypertension (High Blood Pressure) Health Center](https://www.webmd.com/hypertension-high-blood-pressure/default.htm): Hypertension guide covering causes, symptoms, diagnosis, and treatment options.
-- [Arthritis and Joint Pain Center](https://www.webmd.com/arthritis/default.htm): Arthritis guide covering osteoarthritis, rheumatoid arthritis, and joint pain management.
-- [Lung Disease Respiratory Health Center](https://www.webmd.com/lung/default.htm): Lung disease guide covering respiratory conditions, symptoms, tests, and treatments.
+## Men’s Health
+- [Men's Health](https://www.webmd.com/men/default.htm): Men’s wellness, screenings, sexual health, and common conditions.
+- [Erectile Dysfunction](https://www.webmd.com/erectile-dysfunction/default.htm): Causes, evaluation, treatments, and lifestyle considerations.
+- [Prostate Cancer](https://www.webmd.com/prostate-cancer/default.htm): Screening, diagnosis, staging, and treatment information.
+- [Sexual Health](https://www.webmd.com/sex/default.htm): Sexual function, STIs, contraception, and relationship health guidance.
+- [Fitness & Exercise](https://www.webmd.com/fitness-exercise/default.htm): Exercise advice, activity plans, and physical health benefits.
 
-## Cancer & Oncology
+## Children and Family
+- [Children's Health](https://www.webmd.com/children/default.htm): Pediatric conditions, symptoms, safety, and family health guidance.
+- [Parenting](https://www.webmd.com/parenting/default.htm): Parenting advice, child development, and everyday family health topics.
+- [ADHD in Children](https://www.webmd.com/add-adhd/default.htm): ADHD symptoms, diagnosis, school support, and treatment options.
+- [Allergies in Children](https://www.webmd.com/allergies/default.htm): Allergy symptoms, triggers, testing, and treatment basics.
+- [Vaccines](https://www.webmd.com/vaccines/default.htm): Vaccine information, schedules, safety, and immunization guidance.
 
-- [Oncology Center](https://www.webmd.com/cancer/default.htm): Cancer guide covering major types, symptoms, causes, diagnosis, and treatment.
-- [Breast Oncology Health Center](https://www.webmd.com/breast-cancer/default.htm): Breast cancer information covering symptoms, diagnosis, stages, and treatment options.
+## Healthy Living
+- [Diet & Weight Management](https://www.webmd.com/diet/default.htm): Nutrition, weight loss, diets, and healthy eating advice.
+- [Fitness & Exercise](https://www.webmd.com/fitness-exercise/default.htm): Workouts, movement guidance, and exercise benefits for health.
+- [Food & Recipes](https://www.webmd.com/food-recipes/default.htm): Healthy eating ideas, recipes, and nutrition-focused food content.
+- [Sleep](https://www.webmd.com/sleep-disorders/default.htm): Sleep habits, disorders, and strategies for better rest.
+- [Oral Care](https://www.webmd.com/oral-health/default.htm): Dental conditions, hygiene, procedures, and oral health maintenance.
+- [Healthy Beauty](https://www.webmd.com/beauty/default.htm): Beauty and skincare topics with health-focused guidance.
 
-## Mental Health & Neurological Conditions
+## Specialized Topic Centers
+- [Allergies](https://www.webmd.com/allergies/default.htm): Seasonal, food, and environmental allergy information and treatment guidance.
+- [Asthma](https://www.webmd.com/asthma/default.htm): Asthma symptoms, triggers, medications, and action plan support.
+- [Migraine & Headaches](https://www.webmd.com/migraines-headaches/default.htm): Headache types, migraine treatments, and symptom management.
+- [Pain Management](https://www.webmd.com/pain-management/default.htm): Chronic pain conditions, treatments, and coping strategies.
+- [Sexual Conditions](https://www.webmd.com/sex-relationships/default.htm): Relationship, intimacy, and sexual health education.
+- [Cold, Flu & Cough](https://www.webmd.com/cold-and-flu/default.htm): Respiratory infection symptoms, self-care, and treatment information.
+- [Heartburn/GERD](https://www.webmd.com/heartburn-gerd/default.htm): Reflux symptoms, causes, diagnosis, and treatment options.
+- [Rheumatoid Arthritis](https://www.webmd.com/rheumatoid-arthritis/default.htm): RA symptoms, medications, flares, and long-term management.
 
-- [Mental Health Disorders Center](https://www.webmd.com/mental-health/default.htm): Mental health guide covering disorders, symptoms, treatments, and resources.
-- [Depression Center](https://www.webmd.com/depression/default.htm): Depression guide covering symptoms, medications, therapy options, and causes.
-- [ADD and ADHD Health Center](https://www.webmd.com/add-adhd/default.htm): ADHD guide covering causes, diagnosis, symptoms, and treatments for children and adults.
-
-## Autoimmune & Inflammatory Diseases
-
-- [Lupus Center](https://www.webmd.com/lupus/default.htm): Lupus guide with symptoms, diagnosis testing, treatment, and disease education.
-- [Crohn's Disease Center](https://www.webmd.com/ibd-crohns-disease/crohns-disease/default.htm): Crohn's Disease guide with symptoms, diagnosis, treatment, and complications.
-- [Eczema - Atopic Dermatitis Center](https://www.webmd.com/skin-problems-and-treatments/eczema/default.htm): Eczema guide covering atopic dermatitis, symptoms, treatments, and skin care.
-
-## Infectious & Circulatory Diseases
-
-- [Atrial Fibrillation (AFib) Center](https://www.webmd.com/heart-disease/atrial-fibrillation/default.htm): AFib guide with symptoms, causes, diagnosis, and treatment options.
-- [Deep Vein Thrombosis (DVT) Center](https://www.webmd.com/dvt/default.htm): DVT guide with symptoms, causes, diagnosis tests, and treatment options.
-- [AIDS and HIV Health Center](https://www.webmd.com/hiv-aids/default.htm): HIV/AIDS guide with transmission, prevention, safe sex, and treatment information.
-
-## Allergies & Sensory Health
-
-- [Allergies Health Center](https://www.webmd.com/allergies/default.htm): Comprehensive allergy information including symptoms, treatments, and testing.
-- [Eye Care Center](https://www.webmd.com/eye-health/default.htm): Eye health guide covering vision conditions, LASIK surgery, and eye exams.
+## News and Editorial
+- [Health News](https://www.webmd.com/news/default.htm): Daily reporting on medical research, policy, and public health developments.
+- [Feature Stories](https://www.webmd.com/news/features/default.htm): In-depth health features, explainers, and patient-focused reporting.
+- [Blogs](https://blogs.webmd.com/): Ongoing commentary and personal perspectives from WebMD contributors.
+- [Slideshows](https://www.webmd.com/slideshow/default.htm): Visual explainers on conditions, treatments, and healthy living topics.
+- [Quizzes](https://www.webmd.com/quizzes/default.htm): Educational quizzes covering symptoms, conditions, and wellness topics.

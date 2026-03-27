@@ -1,50 +1,83 @@
 # Rotten Tomatoes
+> Rotten Tomatoes is a review aggregation and discovery platform for movies and TV, featuring Tomatometer scores, audience ratings, trailers, showtimes, and tickets.
 
-> > The world's most trusted recommendation resource for quality entertainment, aggregating movie and TV show reviews with the Tomatometer scoring system.
+Rotten Tomatoes helps audiences evaluate films and television through critic reviews, audience scores, editorial recommendations, trailers, and entertainment news. The site centers on title pages for movies and series, while also offering curated lists, celebrity pages, awards coverage, and ticketing/showtime tools.
 
-Rotten Tomatoes is the leading aggregator of film and television criticism, featuring reviews from thousands of Tomatometer-approved critics across traditional publications, digital outlets, podcasts, and independent platforms. The site provides comprehensive critic profiles, movie trailers, and audience ratings to help viewers make informed entertainment choices.
+## Core Pages
+- [Home](https://www.rottentomatoes.com/): Main entry point for movies, TV shows, trailers, reviews, and featured editorial content.
+- [Movies](https://www.rottentomatoes.com/browse/movies_at_home/): Browse movies available to watch at home across streaming and digital platforms.
+- [TV Shows](https://www.rottentomatoes.com/browse/tv_series_browse/): Browse TV series with Rotten Tomatoes scores, reviews, and streaming availability.
+- [Trailers](https://www.rottentomatoes.com/trailers): Watch movie and TV trailers curated by Rotten Tomatoes.
+- [News](https://editorial.rottentomatoes.com/): Read Rotten Tomatoes editorial features, interviews, lists, and entertainment news.
+- [Showtimes](https://www.rottentomatoes.com/showtimes/): Find local movie showtimes and theater listings.
+- [Tickets](https://www.rottentomatoes.com/showtimes/tickets/): Access movie ticketing options connected to local showtimes and theaters.
 
-## Key Topics
+## Movie Discovery
+- [Movies in Theaters](https://www.rottentomatoes.com/browse/movies_in_theaters/): Browse films currently playing in theaters with critic and audience scores.
+- [Opening This Week](https://www.rottentomatoes.com/browse/opening/): See newly opening theatrical releases and their Rotten Tomatoes pages.
+- [Top Box Office](https://www.rottentomatoes.com/browse/box_office/): Explore top box office performers with ratings and release details.
+- [Coming Soon](https://www.rottentomatoes.com/browse/upcoming/): Preview upcoming movie releases before they arrive in theaters.
+- [Certified Fresh Movies](https://www.rottentomatoes.com/browse/cf-in-theaters/): Browse theatrically released movies that have earned Certified Fresh status.
+- [Best Movies at Home](https://www.rottentomatoes.com/browse/movies_at_home/sort:popular): Discover popular movies available for home viewing and streaming.
 
-- Tomatometer
-- Tomatometer-approved critics
-- Film criticism
-- Movie reviews
-- TV show reviews
-- Critic publications
-- Publication profiles
-- Tomatometer scoring
-- Film critics
-- Movie trailers
-- Audience ratings
-- Entertainment reviews
-- Critic approval status
-- Review aggregation
+## TV Discovery
+- [Popular TV on Streaming](https://www.rottentomatoes.com/browse/tv_series_browse/sort:popular): Browse popular streaming TV series with critic and audience reception.
+- [Certified Fresh TV](https://www.rottentomatoes.com/browse/cf-tv-list-1): Explore TV series and seasons that earned Certified Fresh recognition.
+- [Top TV This Week](https://www.rottentomatoes.com/browse/tv_series_browse/sort:popular?page=1): Find trending TV series and current audience favorites.
+- [New TV Tonight](https://www.rottentomatoes.com/browse/tv_list_2024): Track current TV releases and recently available series.
+- [Best TV on Streaming](https://www.rottentomatoes.com/browse/tv_series_browse/affiliates:netflix): Browse streaming TV catalogs by service and popularity.
+- [Renewed and Canceled TV](https://editorial.rottentomatoes.com/guide/renewed-and-cancelled-tv-shows-2024/): Follow annual status updates for renewed and canceled television series.
 
-## Film & TV Critic Profiles
+## Editorial and Guides
+- [Editorial Home](https://editorial.rottentomatoes.com/): Hub for Rotten Tomatoes features, interviews, rankings, and entertainment coverage.
+- [RT Podcast](https://editorial.rottentomatoes.com/rt-podcast/): Listen to Rotten Tomatoes podcast episodes and related editorial coverage.
+- [Total Recall](https://editorial.rottentomatoes.com/guide/total-recall/): Browse retrospective franchise and filmography ranking features.
+- [Best Movies of All Time](https://editorial.rottentomatoes.com/guide/best-movies-of-all-time/): Editorial ranking of top-reviewed films across Rotten Tomatoes history.
+- [100 Best TV Shows of All Time](https://editorial.rottentomatoes.com/guide/best-tv-shows-of-all-time/): Editorial list highlighting acclaimed television series across eras.
+- [Awards Tour](https://editorial.rottentomatoes.com/rt-hub/awards-tour/): Awards-season coverage including predictions, winners, and nominee-focused features.
 
-- [KLRT-TV critic Michael Cook](https://www.rottentomatoes.com/source-100009821): KLRT-TV critic Michael Cook publication profile with Tomatometer reviews
-- [Sunday Arts Magazine Podcast critic Stephen A. Russell](https://www.rottentomatoes.com/source-100009567): Sunday Arts Magazine Podcast critic Stephen A. Russell profile on JOY 94.9
-- [THEDHK Movies critic Dana Han-Klein](https://www.rottentomatoes.com/source-100009583): THEDHK Movies critic Dana Han-Klein publication profile page
-- [Awards Focus critic Matthew Koss](https://www.rottentomatoes.com/source-100011454): Awards Focus critic Matthew Koss publication profile with reviews
-- [The Marvel Report critic Breeze Riley](https://www.rottentomatoes.com/source-100009658): The Marvel Report critic Breeze Riley Tomatometer-approved profile
-- [Blerdy Massacre Podcast critics Sharai Bohannon & Xero Gravity](https://www.rottentomatoes.com/source-100009843): Blerdy Massacre Podcast critics Sharai Bohannon & Xero Gravity profile
-- [KENS 5 TV San Antonio critic David Lynch](https://www.rottentomatoes.com/source-100009596): KENS 5 TV San Antonio critic David Lynch publication profile
-- [Draftkings Nation critic Murjani Rawls](https://www.rottentomatoes.com/source-100009732): Draftkings Nation critic Murjani Rawls Tomatometer profile page
-- [Matinee With Matt critic Matthew Creith](https://www.rottentomatoes.com/source-100009840): Matinee With Matt critic Matthew Creith publication profile
-- [The British Blacklist critic Whelan Barzey](https://www.rottentomatoes.com/source-100009816): The British Blacklist critic Whelan Barzey Tomatometer profile
-- [The Treatment Substack critic Charlotte Simmons](https://www.rottentomatoes.com/source-100011460): The Treatment Substack critic Charlotte Simmons publication profile
-- [Montevideo Portal/Latido Beat critic Nicolás Medina](https://www.rottentomatoes.com/source-100009986): Montevideo Portal/Latido Beat critic Nicolás Medina Latin American profile
-- [Muses of Media critics Britany Murphy & Ferdosa](https://www.rottentomatoes.com/source-100009610): Muses of Media critics Britany Murphy & Ferdosa publication profile
-- [Decoding Everything Substack critic David Chen](https://www.rottentomatoes.com/source-100010132): Decoding Everything Substack critic David Chen publication profile
-- [ScaredSheepless.com horror critic Caitlyn Downs](https://www.rottentomatoes.com/source-100009670): ScaredSheepless.com horror critic Caitlyn Downs profile page
+## Reviews and Scores
+- [Tomatometer](https://www.rottentomatoes.com/about): Learn how Rotten Tomatoes calculates critic scores and site ratings.
+- [What Is Certified Fresh?](https://www.rottentomatoes.com/about#whatisthetomatometer): Explanation of Certified Fresh criteria and Tomatometer thresholds.
+- [Audience Score](https://www.rottentomatoes.com/about#whatistheaudiencescore): Overview of audience ratings and verified audience scoring.
+- [Critics Consensus](https://www.rottentomatoes.com/about#critics-consensus): Description of how consensus summaries are written for titles.
+- [Verified Hot](https://www.rottentomatoes.com/about#verified-hot): Details on Verified Hot designation for audience-rated titles.
+- [Top Critics](https://www.rottentomatoes.com/top/bestofrt/): Explore highly rated films through Rotten Tomatoes ranking pages.
 
-## Historic Film Critics
+## Movie and TV Title Pages
+- [Movie Pages](https://www.rottentomatoes.com/browse/movies_in_theaters/): Entry point to individual movie pages with reviews, cast, trailers, and scores.
+- [TV Series Pages](https://www.rottentomatoes.com/browse/tv_series_browse/): Entry point to individual TV series and season pages with reviews and ratings.
+- [Best of RT Rankings](https://www.rottentomatoes.com/top/): Browse Rotten Tomatoes ranking pages for movies and TV.
+- [Top 100 Movies](https://www.rottentomatoes.com/top/bestofrt/): Ranked list of top-reviewed movies on Rotten Tomatoes.
+- [Top 100 TV](https://www.rottentomatoes.com/top-tv/): Ranked list pages for top-reviewed television series and seasons.
+- [Box Office Charts](https://www.rottentomatoes.com/browse/box_office/): Chart-style discovery pages for theatrical performance and current releases.
 
-- [New York Herald Tribune critic Judith Crist](https://www.rottentomatoes.com/source-100009686): New York Herald Tribune critic Judith Crist historic profile (1960s)
-- [Judge magazine critic Pare Lorentz](https://www.rottentomatoes.com/source-100009956): Judge magazine historic critic Pare Lorentz profile page
+## Celebrities and People
+- [Celebrity Pages](https://www.rottentomatoes.com/celebrity): Browse actor, director, and creator profile pages on Rotten Tomatoes.
+- [Cast and Crew Profiles](https://www.rottentomatoes.com/celebrity/tom_hanks): Example celebrity page with filmography, scores, and biography details.
+- [Most Popular Celebrities](https://www.rottentomatoes.com/celebrity): Discover trending people in film and television.
+- [Director Filmographies](https://www.rottentomatoes.com/celebrity/steven_spielberg): Example director page with credited works and ratings.
+- [Actor Filmographies](https://www.rottentomatoes.com/celebrity/meryl_streep): Example actor page with movies, TV appearances, and scores.
 
-## Optional
+## Critics and Publications
+- [Approved Critics](https://www.rottentomatoes.com/critics): Browse Rotten Tomatoes-approved critics and publication affiliations.
+- [Critic Publications](https://www.rottentomatoes.com/source): Explore publication and outlet profile pages for approved critics.
+- [Critic Code of Conduct](https://www.rottentomatoes.com/critics/criteria): Review critic eligibility and approval criteria information.
+- [Become a Critic](https://www.rottentomatoes.com/critics/criteria): Learn the standards used for Tomatometer-approved critics.
+- [Publication Profiles](https://www.rottentomatoes.com/source-100009821): Example publication profile page with associated critic reviews.
+- [Critic Directory](https://www.rottentomatoes.com/critics/authors): Directory of critic profile pages and contributor listings.
 
-- [The Sheila Variations critic Sheila O'Malley](https://www.rottentomatoes.com/source-100009699): The Sheila Variations critic Sheila O'Malley unapproved profile
-- [The Cinematic Reel critic David Gonzalez](https://www.rottentomatoes.com/source-100009585): The Cinematic Reel critic David Gonzalez Tomatometer profile
+## Showtimes and Tickets
+- [Showtimes Search](https://www.rottentomatoes.com/showtimes/): Search theaters and local listings for current movie screenings.
+- [Movie Tickets](https://www.rottentomatoes.com/showtimes/tickets/): Find ticket purchase links associated with showtime listings.
+- [Theaters](https://www.rottentomatoes.com/showtimes/theaters/): Browse theater pages and local cinema information.
+- [Weekend Releases](https://www.rottentomatoes.com/browse/opening/): Connect new theatrical releases with nearby showtimes and ticket options.
+- [In-Theater Movies](https://www.rottentomatoes.com/browse/movies_in_theaters/): Browse current theatrical titles before checking local listings.
+
+## Help and Company
+- [About Rotten Tomatoes](https://www.rottentomatoes.com/about): Overview of Rotten Tomatoes, scoring systems, and editorial standards.
+- [Help Center](https://www.rottentomatoes.com/help_desk): Find support resources for accounts, ratings, and site features.
+- [Terms and Policies](https://www.rottentomatoes.com/terms-and-policies): Review legal terms, privacy, and policy information.
+- [Privacy Policy](https://www.fandango.com/policies/privacy-policy): Read privacy practices applicable to Rotten Tomatoes services.
+- [Accessibility](https://www.rottentomatoes.com/accessibility): Accessibility information and support commitments for the site.
+- [Contact](https://www.rottentomatoes.com/contact): Contact Rotten Tomatoes for support, feedback, and business inquiries.

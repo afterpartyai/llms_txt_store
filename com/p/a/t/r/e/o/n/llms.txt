@@ -1,47 +1,73 @@
 # Patreon
+> Build a community, share exclusive work, and turn creative passion into a thriving membership business.
 
-> Patreon is a creator economy platform enabling artists, musicians, podcasters, and content creators to build sustainable businesses through direct fan support and recurring membership revenue.
+Patreon is a creator platform for memberships, exclusive content, community engagement, digital products, and creator business management. It serves podcasters, video creators, musicians, artists, writers, and other independent creators with tools for monetization, publishing, and fan relationships.
 
-Patreon provides comprehensive tools for creator monetization, community building, and content distribution across multiple formats including video, audio, music, visual art, and gaming. The platform integrates with popular services like Spotify, PayPal, and Venmo to streamline payments and audience engagement.
+## Core Platform
+- [Homepage](https://www.patreon.com/): Main entry point for Patreon’s creator membership and community platform.
+- [Create on Patreon](https://www.patreon.com/create): Creator signup flow for starting a Patreon page and business.
+- [Pricing](https://www.patreon.com/pricing): Overview of Patreon plans, platform fees, and included features.
+- [Creator Hub](https://www.patreon.com/creator-hub): Central resource area for learning how to build on Patreon.
+- [Patreon for Creators](https://www.patreon.com/creators): Overview page for creator use cases, tools, and workflows.
+- [Brand](https://www.patreon.com/brand): Official Patreon brand assets, logos, and usage guidelines.
 
-## Key Topics
+## Product Features
+- [Create on Your Terms](https://www.patreon.com/product/create): Product overview for publishing exclusive work directly to members.
+- [Paid Membership](https://www.patreon.com/product/paid-membership): Membership tools for recurring revenue, tiers, and patron benefits.
+- [Online Community](https://www.patreon.com/product/online-community): Community features for engaging fans in a dedicated member space.
+- [Newsletter](https://www.patreon.com/product/newsletter): Email publishing tools for sending updates and exclusive posts to patrons.
+- [Digital Products](https://www.patreon.com/product/digital-products): Tools for selling one-time digital products alongside memberships.
+- [Grow](https://www.patreon.com/product/grow): Features focused on audience growth, conversion, and patron retention.
+- [Manage Business](https://www.patreon.com/product/manage-business): Operational tools for payouts, insights, and creator business administration.
 
-- Creator monetization
-- Paid memberships
-- Recurring income
-- Community building
-- Fan engagement
-- Digital products
-- Creator economy
-- Exclusive content
-- Podcast hosting
-- Newsletter platform
-- Creator tools
-- Content distribution
-- Membership tiers
-- Creator platform
-- Business management
+## Creator Types
+- [Podcasters](https://www.patreon.com/creators/podcasts): Patreon workflows and benefits tailored to podcast creators and memberships.
+- [Video Creators](https://www.patreon.com/creators/video): Monetization and community tools for video-based creators and channels.
+- [Musicians](https://www.patreon.com/creators/music): Membership and fan support tools designed for musicians and bands.
+- [Visual Artists](https://www.patreon.com/creators/visual-art): Patreon use cases for illustrators, designers, and visual artists.
+- [Writers](https://www.patreon.com/creators/writing): Publishing and membership tools for authors, essayists, and newsletter writers.
+- [Gaming Creators](https://www.patreon.com/creators/gaming): Support for streamers, game creators, and gaming communities.
+- [Educators](https://www.patreon.com/creators/education): Patreon membership models for teachers and educational creators.
 
-## Getting Started
+## Creator Resources
+- [Creator Hub Home](https://www.patreon.com/creator-hub): Starting point for Patreon education, strategy, and product guidance.
+- [Get Started](https://www.patreon.com/creator-hub/get-started): Introductory guidance for launching a Patreon creator page.
+- [Membership](https://www.patreon.com/creator-hub/membership): Best practices for structuring tiers, benefits, and patron value.
+- [Community](https://www.patreon.com/creator-hub/community): Guidance on building engagement and sustaining creator communities.
+- [Growth](https://www.patreon.com/creator-hub/growth): Resources for attracting fans and converting them into paying members.
+- [Finance & Analytics](https://www.patreon.com/creator-hub/finance-and-analytics): Guidance on earnings, metrics, and business performance tracking.
+- [Content Strategy](https://www.patreon.com/creator-hub/content-strategy): Advice for planning, packaging, and publishing creator content.
 
-- [Where Creator Communities Thrive — Patreon](https://www.patreon.com): Patreon homepage showcasing creator platform for community building and monetization
-- [Sign up | Patreon](https://www.patreon.com/create): Creator signup and account registration page for Patreon platform
-- [Patreon Pricing Plans — Patreon](https://www.patreon.com/pricing): Patreon pricing plans and subscription tiers with payment processing options
+## Help Center
+- [Help Center Home](https://support.patreon.com/hc/en-us): Main support portal for Patreon creators and patrons.
+- [Creator Guides](https://support.patreon.com/hc/en-us/categories/204487466-Creator-Guides): Help articles for setting up and running a creator page.
+- [Patron Help](https://support.patreon.com/hc/en-us/categories/204487436-Patron-Help): Support resources for joining, paying for, and managing memberships.
+- [Payments & Payouts](https://support.patreon.com/hc/en-us/categories/360000126286-Payments-Payouts): Documentation on billing, payouts, taxes, and payment processing.
+- [Apps & Integrations](https://support.patreon.com/hc/en-us/categories/360000126326-Apps-Integrations): Help for connected apps, integrations, and external services.
+- [Troubleshooting](https://support.patreon.com/hc/en-us/categories/360000126306-Troubleshooting): Common issue resolution for account, billing, and access problems.
+- [Developer Portal](https://www.patreon.com/portal): Entry point for Patreon developer tools and integration resources.
 
-## Creator Tools & Features
+## API & Developers
+- [Developer Portal](https://www.patreon.com/portal): Central access point for Patreon API and developer resources.
+- [Patreon API Overview](https://docs.patreon.com/): Documentation home for Patreon’s public API and developer guides.
+- [API Reference](https://docs.patreon.com/#apiv2): Reference documentation for Patreon API endpoints and objects.
+- [Authentication](https://docs.patreon.com/#authentication): OAuth and authorization guidance for Patreon integrations.
+- [Webhooks](https://docs.patreon.com/#webhooks): Event delivery documentation for membership and campaign updates.
+- [Libraries](https://docs.patreon.com/#libraries-and-tools): Official and community tooling for working with the Patreon API.
 
-- [Create on Your Terms — Patreon](https://www.patreon.com/product/create): Patreon creator platform for content publishing and direct distribution
-- [Grow Your Creator Community — Patreon](https://www.patreon.com/product/online-community): Patreon community features for exclusive memberships and fan engagement
-- [Start a paid membership on Patreon — Patreon](https://www.patreon.com/product/paid-membership): Patreon paid membership setup with recurring revenue and payment options
-- [Send newsletters on Patreon — Patreon](https://www.patreon.com/product/newsletter): Patreon newsletter platform for creator email marketing and monetization
-- [Sell and Monetize Your Digital Products — Patreon](https://www.patreon.com/product/digital-products): Patreon digital product sales platform for direct creator monetization
-- [Grow Your Business and Your Audience — Patreon](https://www.patreon.com/product/grow): Patreon growth tools for audience expansion and membership conversion
-- [Manage Your Creator Business — Patreon](https://www.patreon.com/product/manage-business): Patreon business management tools for payments and creator operations
+## Apps & Integrations
+- [Patreon App](https://www.patreon.com/app): Mobile app entry point for creators and patrons on Patreon.
+- [Discord Integration](https://support.patreon.com/hc/en-us/articles/212052266-Get-my-Discord-role): Setup guidance for connecting Patreon memberships to Discord roles.
+- [Spotify Integration](https://support.patreon.com/hc/en-us/articles/4417211018253-Spotify-integration-overview): Overview of Patreon’s Spotify integration for private podcast delivery.
+- [Podcasting on Patreon](https://support.patreon.com/hc/en-us/categories/360004064171-Podcasting-on-Patreon): Help resources for audio publishing, feeds, and podcast workflows.
+- [Apps & Integrations Help](https://support.patreon.com/hc/en-us/categories/360000126326-Apps-Integrations): Support documentation for third-party and platform integrations.
 
-## Creator Categories
-
-- [Patreon for Podcasters — Patreon](https://www.patreon.com/creators/podcasts): Patreon podcast monetization platform with Spotify integration
-- [Patreon for Video Creators — Patreon](https://www.patreon.com/creators/video): Patreon video creator monetization and fan community engagement tools
-- [Patreon for Musicians — Patreon](https://www.patreon.com/creators/music): Patreon musician monetization with fan engagement and recurring income
-- [Patreon for Visual Artists — Patreon](https://www.patreon.com/creators/visualartists): Patreon visual artist platform for showcasing work and fan monetization
-- [Patreon for Game Developers — Patreon](https://www.patreon.com/creators/gaming): Patreon game developer monetization and community engagement tools
+## Company & Policy
+- [About](https://www.patreon.com/about): Company overview, mission, and background on Patreon.
+- [Blog](https://news.patreon.com/): Official Patreon newsroom and company announcements.
+- [Careers](https://www.patreon.com/careers): Open roles and information about working at Patreon.
+- [Press](https://www.patreon.com/press): Press resources and media information about Patreon.
+- [Terms of Use](https://www.patreon.com/policy/legal): Legal terms governing use of Patreon’s platform.
+- [Privacy Policy](https://privacy.patreon.com/policies): Privacy practices and data handling information.
+- [Community Guidelines](https://www.patreon.com/policy/guidelines): Rules and standards for behavior and content on Patreon.
+- [Accessibility](https://www.patreon.com/accessibility): Accessibility commitments and support information for Patreon users.

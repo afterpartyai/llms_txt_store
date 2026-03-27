@@ -1,34 +1,85 @@
 # VK
+> VK is a social platform and ecosystem for communication, communities, media, developer tools, and business services.
 
-> VK (ВКонтакте) is a Russian social network and digital platform offering event ticketing, account management, and entertainment services across web and mobile applications.
+VK combines social networking, messaging, video, music, communities, advertising, mini apps, and APIs for users, creators, developers, and businesses. Its public help, developer, and platform resources span the main social product, VK ID, VK Mini Apps, advertising tools, and related services.
 
-VK provides integrated services including account registration with SMS verification, a ticketing platform (VK Билеты) for concerts, theater, and comedy shows across Russian cities, and support resources for users. The platform operates across iOS, Android, and desktop environments.
+## Main Platform
+- [VK Home](https://vk.com/): Main entry point to the VK social network and platform.
+- [VK Video](https://vkvideo.ru/): Video platform for watching, publishing, and discovering shows, clips, and streams.
+- [VK Clips](https://vk.com/clips): Short vertical video feed for creators and viewers.
+- [VK Music](https://vk.com/music): Music listening section integrated into the VK platform.
+- [VK Communities](https://vk.com/groups): Directory and discovery area for groups, public pages, and communities.
+- [VK Games](https://vk.com/games): Browser and social games catalog available inside VK.
+- [VK Calls](https://vk.com/calls): Calling and communication features for meetings and conversations.
 
-## Key Topics
+## Help Center
+- [VK Help](https://vk.com/support?act=home): Central support hub for account, privacy, payments, and product questions.
+- [Registration FAQ](https://vk.com/faq18549?lang=en): Guide to creating a VK account and completing signup.
+- [Help Articles](https://vk.com/@faq): Public collection of VK help and support articles.
+- [Privacy Settings](https://vk.com/settings?act=privacy): Privacy controls for profile visibility, contacts, and content access.
+- [Security Settings](https://vk.com/settings?act=security): Security options for sessions, passwords, and account protection.
+- [VK ID Help](https://id.vk.com/about/business/go/docs/ru/vkid/latest/vk-id/faq): FAQ and support information for VK ID integration and usage.
 
-- VK Билеты (VK Tickets)
-- Account Registration
-- SMS Verification
-- Event Tickets
-- Concert & Theater
-- Mobile Apps (iOS/Android)
-- Phone Verification
-- Desktop Platform
-- Comedy Shows
-- Theater Performances
-- Ticket Purchase
-- Getting Started
-- Account Setup
-- Russian Cities
-- Entertainment Events
+## Developer Platform
+- [VK Developers](https://dev.vk.com/): Main developer portal for VK APIs, apps, and platform tools.
+- [API Reference](https://dev.vk.com/reference): Reference documentation for VK API methods and objects.
+- [Getting Started](https://dev.vk.com/ru/api/getting-started): Introductory guide to working with the VK API.
+- [Access Token Guide](https://dev.vk.com/ru/api/access-token/getting-started): Overview of obtaining and using VK API access tokens.
+- [API Errors](https://dev.vk.com/ru/reference/errors): Reference for VK API error codes and meanings.
+- [OpenAPI](https://dev.vk.com/ru/api/open-api/getting-started): Documentation for embedding VK widgets and social features on websites.
 
-## Event Ticketing
+## VK ID
+- [VK ID Overview](https://id.vk.com/): Identity and login platform for authentication across VK services.
+- [VK ID Documentation](https://id.vk.com/about/business/go/docs/ru/vkid/latest/vk-id/about-vk-id): Overview of VK ID capabilities and integration concepts.
+- [Web SDK](https://id.vk.com/about/business/go/docs/ru/vkid/latest/sdk/web): Documentation for integrating VK ID on web applications.
+- [Mobile SDK](https://id.vk.com/about/business/go/docs/ru/vkid/latest/sdk/mobile): Documentation for VK ID mobile SDK integration.
+- [OneTap Auth](https://id.vk.com/about/business/go/docs/ru/vkid/latest/auth/onetap): Guide to implementing OneTap authentication with VK ID.
+- [OAuth 2.1](https://id.vk.com/about/business/go/docs/ru/vkid/latest/auth/oauth2): OAuth-based authorization flow documentation for VK ID.
 
-- [VK Билеты | Гурам Амарян — Рязань](https://tickets.vk.com/riazan/event/guram-amarian-1155375): Buy tickets for Guram Amarian comedy show in Ryazan, Dec 2026
-- [VK Билеты | Мой цветок — Саратов](https://tickets.vk.com/saratov/event/moi-tsvetok-1155537): Theater tickets for drama performance in Saratov, May 2026
-- [VK Билеты | Султан Лагучев — Тюмень](https://tickets.vk.com/tiumen/event/sultan-laguchev-tiumen-873914): Concert tickets for Sultan Laguchev live music in Tyumen, Apr 2026
-- [VK Билеты | С любовью, Эрнест — Нижний Новгород](https://tickets.vk.com/nizhnii-novgorod/event/s-liuboviu-ernest-1115527): Audio spectacle tickets for romantic Hemingway experience, Mar 2026
+## Mini Apps
+- [VK Mini Apps](https://dev.vk.com/mini-apps): Overview of the VK Mini Apps platform.
+- [Mini Apps Getting Started](https://dev.vk.com/ru/mini-apps/getting-started): Introductory guide to creating a VK Mini App.
+- [VK Bridge](https://dev.vk.com/ru/bridge/bridge): Reference for VK Bridge methods used in Mini Apps.
+- [Mini Apps Design Guidelines](https://dev.vk.com/ru/mini-apps/design-guidelines): Interface and UX recommendations for VK Mini Apps.
+- [Mini Apps Publishing](https://dev.vk.com/ru/mini-apps/development/publish): Guide to preparing and publishing a Mini App.
+- [Mini Apps Payments](https://dev.vk.com/ru/mini-apps/vk-pay): Documentation for payments inside VK Mini Apps.
 
-## Account & Getting Started
+## Widgets and Social Integrations
+- [Widgets Overview](https://dev.vk.com/ru/widgets): Overview of embeddable VK widgets for websites.
+- [Comments Widget](https://dev.vk.com/ru/widgets/comments): Widget for embedding VK-powered comments on external sites.
+- [Like Widget](https://dev.vk.com/ru/widgets/like): Widget for adding VK like and share interactions.
+- [Post Widget](https://dev.vk.com/ru/widgets/post): Widget for embedding VK posts on websites.
+- [Community Messages Widget](https://dev.vk.com/ru/widgets/community-messages): Widget for messaging businesses and communities from websites.
+- [Auth Widget](https://dev.vk.com/ru/widgets/auth): Widget for VK-based authorization on external sites.
 
-- [Как зарегистрировать аккаунт? | VK](https://vk.com/faq18549?lang=en): Account registration guide with SMS verification and setup instructions
+## Advertising and Business
+- [VK Ads](https://ads.vk.com/): Advertising platform for campaign management and audience targeting.
+- [VK Ads Help](https://ads.vk.com/help): Help center for advertisers using VK Ads.
+- [VK Business](https://business.vk.com/): Business portal for promotion, communities, and customer communication.
+- [Business Help](https://business.vk.com/help): Support materials for businesses using VK tools and services.
+- [Community Management](https://business.vk.com/management): Resources for running and growing VK communities.
+- [Promotion Tools](https://business.vk.com/promo): Overview of business promotion and advertising options.
+
+## Content and Media for Creators
+- [VK Video for Authors](https://vkvideo.ru/@authors): Creator-focused resources for publishing and growing on VK Video.
+- [VK Clips](https://vk.com/clips): Short-form creator and viewer platform inside VK.
+- [Live Streams](https://vkvideo.ru/live): Live streaming section for broadcasts and events.
+- [Music](https://vk.com/music): Music catalog and listening experience within VK.
+- [Podcasts](https://vk.com/podcasts): Podcast listening and discovery section on VK.
+- [Articles](https://vk.com/@authors): Publishing area and author content hub on VK.
+
+## Tickets and Events
+- [VK Tickets](https://tickets.vk.com/): Event ticketing platform for concerts, theater, and live entertainment.
+- [Tickets Home](https://tickets.vk.com/): Main catalog for browsing cities, venues, and events.
+- [Moscow Events](https://tickets.vk.com/moscow): Ticket listings for events in Moscow.
+- [Saint Petersburg Events](https://tickets.vk.com/saint-petersburg): Ticket listings for events in Saint Petersburg.
+- [Concerts](https://tickets.vk.com/concert): Category page for concert ticket discovery.
+- [Theater](https://tickets.vk.com/theater): Category page for theater performances and productions.
+
+## Legal and Policies
+- [Terms of Service](https://vk.com/terms): Core terms governing use of VK services.
+- [Privacy Policy](https://vk.com/privacy): Privacy policy describing data processing and user rights.
+- [Cookie Policy](https://vk.com/data_protection?section=cookies): Information about cookies and related technologies on VK services.
+- [Copyright Policy](https://vk.com/legal/copyright): Policy and procedures for copyright-related complaints and claims.
+- [Community Guidelines](https://vk.com/terms?section=community_guidelines): Rules and standards for participation on the platform.
+- [Data Protection](https://vk.com/data_protection): Information about personal data protection and privacy practices.

@@ -1,62 +1,86 @@
 # Elsevier
+> Elsevier provides advanced information, analytics, and decision-support solutions for researchers, clinicians, educators, and institutions worldwide.
 
-> Elsevier is a global leader in advanced information and decision support for science, research, and healthcare, offering AI-powered publishing, research analytics, and clinical tools.
+Elsevier combines scientific publishing, research intelligence, clinical decision support, and education technologies across science and healthcare. Its website spans journals, books, databases, author services, APIs, product documentation, and corporate resources.
 
-Elsevier provides comprehensive digital solutions for academic institutions, healthcare professionals, researchers, and industry partners. The platform integrates peer-reviewed content, research analytics, clinical decision support, and AI-powered tools to advance scientific discovery and healthcare outcomes.
+## Research Platforms and Databases
+- [ScienceDirect](https://www.elsevier.com/products/sciencedirect): Full-text platform for peer-reviewed journals, books, and reference works.
+- [Scopus](https://www.elsevier.com/products/scopus): Abstract and citation database for research discovery, analysis, and tracking.
+- [SciVal](https://www.elsevier.com/products/scival): Research performance analytics for benchmarking, collaboration, and strategic planning.
+- [Embase](https://www.elsevier.com/products/embase): Biomedical database for literature searching, pharmacovigilance, and evidence generation.
+- [Reaxys](https://www.elsevier.com/products/reaxys): Chemistry database for substances, reactions, properties, and synthesis planning.
+- [Mendeley](https://www.elsevier.com/products/mendeley): Reference management and academic collaboration tools for researchers.
+- [Digital Commons](https://www.elsevier.com/products/digital-commons): Institutional repository and publishing platform for universities and libraries.
 
-## Key Topics
+## Clinical and Healthcare Solutions
+- [ClinicalKey](https://www.elsevier.com/products/clinicalkey): Clinical decision support with books, journals, guidelines, and multimedia content.
+- [ClinicalKey AI](https://www.elsevier.com/products/clinicalkey/clinicalkey-ai): Generative AI assistant for evidence-based clinical information retrieval.
+- [Clinical Pharmacology](https://www.elsevier.com/products/clinical-pharmacology): Drug reference and medication decision support for clinicians and pharmacists.
+- [Complete Anatomy](https://www.elsevier.com/products/complete-anatomy): Interactive 3D anatomy platform for teaching, learning, and patient education.
+- [Osmosis](https://www.elsevier.com/products/osmosis): Medical education platform with videos, questions, and learning tools.
+- [STATdx](https://www.elsevier.com/products/statdx): Diagnostic decision support for radiology and imaging specialists.
+- [Pathway Studio](https://www.elsevier.com/products/pathway-studio): Biological pathway analysis and literature-based discovery for life sciences.
 
-- ScienceDirect
-- Scopus
-- ClinicalKey AI
-- LeapSpace
-- Osmosis AI
-- Research publishing
-- Clinical decision support
-- AI-powered research tools
-- Peer-reviewed journals
-- Academic publishing
-- Medical education
-- Research analytics
-- Manuscript submission
-- Clinical guidelines
-- Scientific databases
+## Journals, Books, and Content Collections
+- [Journals](https://www.elsevier.com/products/journals): Browse Elsevier’s journal portfolio across scientific and medical disciplines.
+- [Books and eBooks](https://www.elsevier.com/products/books-and-ebooks): Discover textbooks, professional books, and digital reference content.
+- [Article Collections](https://www.elsevier.com/about/open-science/article-collections): Curated collections supporting topical research and open science initiatives.
+- [Clinical eBooks](https://www.elsevier.com/products/clinicalkey): Clinical book content available through Elsevier healthcare platforms.
+- [Reference Works](https://www.elsevier.com/products/sciencedirect): Major reference content accessible through ScienceDirect.
 
-## Core Research & Publishing Platforms
+## Authors and Publishing Support
+- [For Authors](https://www.elsevier.com/authors): Author guidance for preparing, submitting, and publishing manuscripts.
+- [Find a Journal](https://www.elsevier.com/authors/tools-and-resources/find-a-journal): Journal selection tool for matching manuscripts to suitable titles.
+- [Author Services](https://www.elsevier.com/authors/author-services): Editing, illustration, translation, and publication support services.
+- [Researcher Academy](https://www.elsevier.com/researcheracademy): Free learning platform covering publishing, peer review, and research skills.
+- [Open Access](https://www.elsevier.com/open-access): Open access publishing options, policies, and funding information.
+- [Publishing Ethics](https://www.elsevier.com/about/policies-and-standards/publishing-ethics): Policies and guidance on ethics, integrity, and responsible publishing.
+- [Copyright](https://www.elsevier.com/about/policies-and-standards/copyright): Copyright policies, permissions, and reuse guidance for Elsevier content.
 
-- [ScienceDirect](https://www.elsevier.com/products/sciencedirect): ScienceDirect peer-reviewed literature database with AI search capabilities.
-- [Scopus](https://www.elsevier.com/products/scopus): Scopus abstract and citation database with AI-powered research discovery.
-- [Elsevier Journal Catalog](https://www.elsevier.com/products/journals): Comprehensive journal catalog with search tools and manuscript submission options.
-- [Products Catalog](https://www.elsevier.com/products): Product catalog with access to digital solutions and research tools.
+## Editors and Reviewers
+- [For Editors](https://www.elsevier.com/editors): Resources and guidance for journal editors working with Elsevier.
+- [For Reviewers](https://www.elsevier.com/reviewers): Peer review guidance, training, and recognition information for reviewers.
+- [Editorial Manager](https://www.editorialmanager.com): Manuscript submission and peer review system used by many Elsevier journals.
+- [Reviewer Hub](https://www.elsevier.com/reviewers/how-to-review): Practical guidance on conducting high-quality peer review.
+- [Ethics in Research and Publication](https://www.elsevier.com/about/policies-and-standards/publishing-ethics): Standards for editors, reviewers, and authors across the publishing workflow.
 
-## Clinical & Healthcare Solutions
+## APIs, Integrations, and Developer Resources
+- [Elsevier Developer Portal](https://dev.elsevier.com): API documentation and access for search, metadata, and content services.
+- [Scopus APIs](https://dev.elsevier.com/sc_apis.html): APIs for Scopus search, abstracts, citations, and author data.
+- [ScienceDirect APIs](https://dev.elsevier.com/sd_apis.html): APIs for article metadata, abstracts, and content retrieval.
+- [Serial Title API](https://dev.elsevier.com/tecdoc_sd_ir_02.html): API documentation for serial title and journal metadata access.
+- [API Key Registration](https://dev.elsevier.com/apikey/manage): Manage API keys and developer account access.
+- [API Documentation Home](https://dev.elsevier.com/documentation): Central documentation for Elsevier APIs and technical integration.
 
-- [ClinicalKey](https://www.elsevier.com/products/clinicalkey): ClinicalKey evidence-based clinical decision support for healthcare professionals.
-- [ClinicalKey AI Updates](https://www.elsevier.com/products/clinicalkey/clinicalkey-ai/redefined): ClinicalKey AI updates, features, and transparency enhancements for clinical use.
-- [Health Resources](https://www.elsevier.com/health): Healthcare resources and clinical products including ClinicalKey AI and STATdx.
+## Open Science, Policies, and Standards
+- [Open Science](https://www.elsevier.com/about/open-science): Elsevier’s open science programs, principles, and supporting resources.
+- [Policies and Standards](https://www.elsevier.com/about/policies-and-standards): Corporate and publishing policies covering ethics, privacy, and compliance.
+- [Inclusive Language and Reporting](https://www.elsevier.com/authors/policies-and-guidelines/inclusive-language): Guidance for inclusive, respectful, and accurate scholarly writing.
+- [Research Data](https://www.elsevier.com/authors/tools-and-resources/research-data): Data sharing guidance, repositories, and data statement support.
+- [Responsible AI Principles](https://www.elsevier.com/about/policies-and-standards/responsible-ai-principles): Principles guiding Elsevier’s development and use of AI technologies.
+- [Privacy Policy](https://www.elsevier.com/legal/privacy-policy): Privacy practices for Elsevier websites, products, and services.
+- [Terms and Conditions](https://www.elsevier.com/legal/elsevier-website-terms-and-conditions): Terms governing use of Elsevier websites and online services.
 
-## AI-Powered Learning & Research Tools
+## Solutions by Audience and Sector
+- [Academic and Government](https://www.elsevier.com/academic-and-government): Solutions for universities, libraries, funders, and public-sector research organizations.
+- [Health](https://www.elsevier.com/health): Clinical and educational solutions for healthcare professionals and institutions.
+- [Industry](https://www.elsevier.com/industry): Information and analytics solutions for R&D-intensive industries and enterprises.
+- [Life Sciences](https://www.elsevier.com/industry/life-sciences): Solutions supporting drug discovery, medical affairs, and regulatory workflows.
+- [Research Leaders](https://www.elsevier.com/academic-and-government/research-leaders): Tools and insights for institutional strategy and research management.
+- [Librarians](https://www.elsevier.com/librarians): Resources for collection development, access, and library partnerships.
 
-- [Osmosis AI](https://www.elsevier.com/products/osmosis/osmosis-ai): Osmosis AI conversational AI partner for medical education and learning.
-- [LeapSpace](https://www.elsevier.com/products/leapspace/introducing-research-grade-ai): LeapSpace AI workspace for academic and corporate research collaboration.
+## Support, Training, and Learning
+- [Support Center](https://service.elsevier.com): Help center for product support, account issues, and common questions.
+- [Mendeley Support](https://service.elsevier.com/app/home/supporthub/mendeley): Support resources for Mendeley users and administrators.
+- [ScienceDirect Support](https://service.elsevier.com/app/home/supporthub/sciencedirect): Help and troubleshooting for ScienceDirect access and usage.
+- [Scopus Support](https://service.elsevier.com/app/home/supporthub/scopus): Support articles and contact options for Scopus users.
+- [ClinicalKey Support](https://service.elsevier.com/app/home/supporthub/clinicalkey): Product help and account support for ClinicalKey customers.
+- [Researcher Academy](https://www.elsevier.com/researcheracademy): Training modules for publishing, communication, and career development.
 
-## Solutions by Sector
-
-- [Academic & Government Solutions](https://www.elsevier.com/academic-and-government): Academic and research solutions featuring ScienceDirect, Scopus, SciVal, and LeapSpace.
-- [Industry R&D Solutions](https://www.elsevier.com/industry): R&D and enterprise solutions for industry innovation, data analytics, and drug discovery.
-
-## Editorial & Peer Review Resources
-
-- [Resources for Editors](https://www.elsevier.com/editor): Editorial tools, guidance, and resources for journal editors using Elsevier.
-- [Resources for Reviewers](https://www.elsevier.com/reviewer): Peer review guidance, resources, and support for manuscript reviewers.
-
-## Company & Support
-
-- [About Elsevier](https://www.elsevier.com/about): Company mission, leadership, and commitment to research integrity and healthcare.
-- [Support & Help](https://www.elsevier.com/support): FAQ and support contact options for Elsevier products including ClinicalKey and Evolve.
-- [Elsevier Connect](https://www.elsevier.com/connect): News and features for research, health, and technology communities.
-
-## Optional
-
-- [Elsevier Books](https://shop.elsevier.com/books): Elsevier books catalog featuring textbooks, research publications, and eBooks.
-- [Award-Winning Books](https://shop.elsevier.com/award-books): Award-winning Elsevier publications recognized for excellence and impact.
+## Company, News, and Careers
+- [About Elsevier](https://www.elsevier.com/about): Company overview, mission, leadership, and strategic priorities.
+- [News](https://www.elsevier.com/about/press-releases): Press releases and company announcements from Elsevier.
+- [Insights](https://www.elsevier.com/connect): Articles and commentary on research, publishing, and healthcare trends.
+- [Careers](https://www.elsevier.com/careers): Career opportunities and information about working at Elsevier.
+- [Sustainability](https://www.elsevier.com/about/sustainability): Sustainability commitments, reporting, and environmental initiatives.
+- [Contact Us](https://www.elsevier.com/contact): Contact options for sales, support, and corporate inquiries.

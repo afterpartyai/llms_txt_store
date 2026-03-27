@@ -1,30 +1,86 @@
 # Cisco
+> Cisco is a global technology company providing networking, security, collaboration, observability, and infrastructure solutions for enterprises and service providers.
 
-> Cisco provides enterprise AI infrastructure, secure networking solutions, and intelligent software platforms for global organizations.
+Cisco offers product documentation, software downloads, APIs, training, support resources, and solution guidance across networking, security, cloud, data center, and AI infrastructure.
 
-Cisco is a Fortune 500 technology company specializing in AI-powered networking, zero-trust security, and edge computing solutions. The company offers comprehensive infrastructure and software products designed for enterprise digital transformation.
+## Products and Services
+- [Products and Services](https://www.cisco.com/site/us/en/products/index.html): Main catalog of Cisco hardware, software, and cloud offerings.
+- [Networking](https://www.cisco.com/site/us/en/products/networking/index.html): Portfolio of enterprise, campus, branch, and service provider networking products.
+- [Security](https://www.cisco.com/site/us/en/products/security/index.html): Security products for zero trust, firewall, XDR, identity, and cloud protection.
+- [Collaboration](https://www.cisco.com/site/us/en/products/collaboration/index.html): Collaboration tools including calling, meetings, messaging, and contact center solutions.
+- [Compute and Hyperconverged](https://www.cisco.com/site/us/en/products/compute-hyperconverged/index.html): UCS servers and hyperconverged infrastructure for data center workloads.
+- [Data Center Networking](https://www.cisco.com/site/us/en/products/data-center-networking/index.html): Switching, fabrics, and automation for modern data center networks.
+- [Observability](https://www.cisco.com/site/us/en/products/observability/index.html): Full-stack observability and application performance monitoring offerings.
+- [Software](https://www.cisco.com/site/us/en/products/software/index.html): Cisco software subscriptions, platforms, and lifecycle management resources.
 
-## Key Topics
+## Solutions
+- [Solutions](https://www.cisco.com/site/us/en/solutions/index.html): Cisco solution guidance by business outcome, industry, and architecture.
+- [AI Solutions](https://www.cisco.com/site/us/en/solutions/artificial-intelligence/index.html): Infrastructure and networking solutions designed for AI-ready environments.
+- [Hybrid Work](https://www.cisco.com/site/us/en/solutions/hybrid-work/index.html): Solutions for secure collaboration and distributed workforce connectivity.
+- [Cloud](https://www.cisco.com/site/us/en/solutions/cloud/index.html): Architectures and services for multicloud networking, security, and operations.
+- [Data Center and Networking](https://www.cisco.com/site/us/en/solutions/data-center-virtualization/index.html): Solutions for data center modernization, automation, and workload connectivity.
+- [Small Business](https://www.cisco.com/site/us/en/solutions/small-business/index.html): Networking, security, and collaboration solutions for small organizations.
+- [Service Providers](https://www.cisco.com/site/us/en/solutions/service-provider/index.html): Infrastructure and automation solutions for telecom and service provider networks.
+- [Industries](https://www.cisco.com/site/us/en/solutions/industries/index.html): Industry-specific solution pages for public sector, healthcare, finance, retail, and more.
 
-- AI Infrastructure
-- Secure Networking
-- Zero-Trust Security
-- AI Canvas
-- Cisco Secure AI Factory
-- Silicon One
-- Hybrid Mesh Firewall
-- Edge Computing
-- AgenticOps
-- Smart Switches
-- Unified Edge
-- AI Innovation
-- Enterprise Security
-- Agentic Operations
+## Support and Downloads
+- [Support](https://www.cisco.com/site/us/en/support/index.html): Central support hub for product assistance, tools, and technical resources.
+- [Downloads Home](https://software.cisco.com/download/home): Software download portal for Cisco operating systems, firmware, and tools.
+- [All Products Support](https://www.cisco.com/site/us/en/support/all-products.html): Browse support resources by Cisco product family.
+- [Technical Assistance Center](https://www.cisco.com/site/us/en/support/web/tsd-cisco-worldwide-contacts.html): Cisco TAC contact information and regional support access.
+- [Support Case Manager](https://mycase.cloudapps.cisco.com/case): Open and manage Cisco support cases online.
+- [End-of-Life and End-of-Sale Notices](https://www.cisco.com/c/en/us/products/eos-eol-listing.html): Official lifecycle notices for discontinued Cisco products.
+- [Cisco Bug Search Tool](https://bst.cloudapps.cisco.com/bugsearch/): Search known software defects and bug details.
+- [Serial Number Validation](https://snvui.cisco.com/snv/FNui/validate): Validate Cisco product serial numbers and coverage status.
 
-## Core Products & Solutions
+## Documentation
+- [Technical Documentation](https://www.cisco.com/c/en/us/support/index.html): Entry point for Cisco product documentation and technical support content.
+- [Cisco Feature Navigator](https://cfnng.cisco.com/): Compare software features and platform support across Cisco releases.
+- [Command Lookup Tool](https://www.cisco.com/c/en/us/support/web/tools-catalog/command-lookup-tool.html): Search Cisco CLI commands and related documentation.
+- [Configuration Guides](https://www.cisco.com/c/en/us/support/docs/configuration-guides/index.html): Product configuration guides and deployment documentation.
+- [Command References](https://www.cisco.com/c/en/us/support/docs/command-reference/index.html): Command reference manuals for Cisco platforms and software.
+- [Release Notes](https://www.cisco.com/c/en/us/support/docs/release-notes/index.html): Release notes covering features, caveats, and resolved issues.
+- [Compatibility Matrix](https://www.cisco.com/c/en/us/support/web/tools-catalog/compatibility-matrix.html): Check interoperability and supported software or hardware combinations.
 
-- [AI Infrastructure, Secure Networking, and Software Solutions - Cisco](https://www.cisco.com): Cisco homepage showcasing AI infrastructure, secure networking, and software solutions for enterprise transformation
+## APIs and Developer Resources
+- [Cisco DevNet](https://developer.cisco.com/): Developer portal for APIs, SDKs, sandboxes, and automation learning.
+- [DevNet Learning Labs](https://developer.cisco.com/learning/): Hands-on labs and guided learning for Cisco platforms and APIs.
+- [DevNet Sandboxes](https://developer.cisco.com/site/sandbox/): Reservable and always-on environments for testing Cisco technologies.
+- [APIs](https://developer.cisco.com/docs/): Documentation for Cisco platform APIs and developer tools.
+- [Code Exchange](https://developer.cisco.com/codeexchange/): Community code samples, integrations, and automation examples.
+- [Meraki Developer Hub](https://developer.cisco.com/meraki/): APIs, webhooks, and developer resources for Cisco Meraki.
+- [Webex for Developers](https://developer.webex.com/): APIs and SDKs for Webex messaging, meetings, calling, and integrations.
+- [Cisco Intersight API Docs](https://intersight.com/apidocs): API reference for Cisco Intersight infrastructure management.
 
-## Optional
+## Learning and Training
+- [Learn](https://www.cisco.com/site/us/en/learn/index.html): Cisco learning hub for training, certifications, and educational resources.
+- [Cisco U.](https://u.cisco.com/): Digital learning platform for Cisco technologies and certification preparation.
+- [Cisco Certifications](https://www.cisco.com/site/us/en/learn/training-certifications/certifications.html): Overview of Cisco certification tracks and credentials.
+- [Learning Network](https://learningnetwork.cisco.com/): Community and study resources for Cisco exams and technical learning.
+- [Training and Events](https://www.cisco.com/site/us/en/learn/training-events/index.html): Cisco training offerings, webinars, and event listings.
+- [Networking Academy](https://www.netacad.com/): Cisco education program for networking, cybersecurity, and IT skills.
+- [Digital Learning](https://www.cisco.com/site/us/en/learn/digital-learning/index.html): On-demand courses and subscription-based Cisco training resources.
 
-- [Careers at Cisco](https://careers.cisco.com/global/en/home): Cisco careers portal for job opportunities and company culture information
+## Partners
+- [Partners](https://www.cisco.com/site/us/en/partners/index.html): Partner programs, tools, and resources for Cisco ecosystem members.
+- [Partner Program](https://www.cisco.com/site/us/en/partners/program.html): Information on Cisco partner program structure and benefits.
+- [Partner Locator](https://locatr.cloudapps.cisco.com/WWChannels/LOCATR/openBasicSearch.do): Find Cisco partners by location, specialization, and services.
+- [Partner Self-Service](https://www.cisco.com/c/en/us/partners/tools/self-service.html): Operational tools and self-service resources for partners.
+- [Channel Partner Portal](https://www.cisco.com/c/en/us/partners/tools/partner-portal.html): Access point for partner sales, marketing, and support tools.
+- [Marketplace](https://marketplace.cisco.com/): Cisco marketplace for partner and ecosystem solutions.
+
+## Insights and Resources
+- [Cisco Blogs](https://blogs.cisco.com/): Corporate blogs covering product updates, engineering, security, and industry trends.
+- [Newsroom](https://newsroom.cisco.com/): Press releases, announcements, and corporate news from Cisco.
+- [Customer Stories](https://www.cisco.com/site/us/en/solutions/customer-stories.html): Case studies showing how organizations use Cisco technologies.
+- [Events](https://www.cisco.com/site/us/en/events/index.html): Cisco conferences, webinars, and virtual or in-person events.
+- [Research](https://www.cisco.com/c/en/us/solutions/executive-perspectives/annual-internet-report/index.html): Cisco reports and research on networking and technology trends.
+- [Executive Perspectives](https://www.cisco.com/c/en/us/solutions/executive-perspectives.html): Strategic insights and thought leadership for business and technology leaders.
+
+## Company
+- [Why Cisco](https://www.cisco.com/site/us/en/about/why-cisco/index.html): Overview of Cisco’s value proposition, innovation, and business focus.
+- [About Cisco](https://www.cisco.com/site/us/en/about/index.html): Corporate information, leadership, purpose, and company overview.
+- [Investor Relations](https://investor.cisco.com/): Financial reports, SEC filings, and investor information.
+- [Careers](https://jobs.cisco.com/): Cisco careers site with job listings and company culture information.
+- [Sustainability](https://www.cisco.com/site/us/en/about/csr/esg-hub.html): ESG, sustainability, and social impact initiatives.
+- [Trust Center](https://trustportal.cisco.com/): Security, privacy, compliance, and trust-related Cisco information.

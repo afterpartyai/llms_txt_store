@@ -1,60 +1,79 @@
 # TechTarget
+> TechTarget is a global network of enterprise technology and healthcare media sites publishing news, definitions, expert guidance and product-focused analysis.
 
-> TechTarget is a global network of IT and healthcare technology websites providing enterprise news, expert analysis, and practical guidance on AI, cybersecurity, data management, and digital health innovations.
+TechTarget organizes coverage across specialized brands and topic hubs for IT professionals, security teams, developers, data leaders, healthcare organizations and business decision-makers. Its sites combine news reporting, tutorials, trend analysis, buying advice and extensive technical definitions.
 
-TechTarget serves IT professionals, healthcare organizations, and business leaders with curated content spanning enterprise software, emerging technologies, and industry-specific solutions. The platform combines breaking news, technical definitions, and expert contributor insights across multiple specialized verticals.
+## Core Network
+- [TechTarget Home](https://www.techtarget.com/): Main portal to TechTarget’s enterprise technology and healthcare content network.
+- [Enterprise Technology News](https://www.techtarget.com/news): Cross-topic news hub covering AI, security, cloud, data and infrastructure.
+- [WhatIs](https://www.techtarget.com/whatis/): Technical definitions, explainers and reference articles for IT and business concepts.
+- [Tech Accelerator](https://www.techtarget.com/techtargetaccelerator): Product-led guides and practical advice for evaluating enterprise technologies.
+- [Informa TechTarget](https://www.techtarget.com/informa-techtarget): Corporate information about the combined Informa TechTarget business.
 
-## Key Topics
+## AI and Data
+- [Enterprise AI](https://www.techtarget.com/searchenterpriseai): News and guidance on enterprise AI, generative AI, ML and data science.
+- [Data Management](https://www.techtarget.com/searchdatamanagement): Coverage of databases, governance, integration, analytics and data architecture.
+- [Business Analytics](https://www.techtarget.com/searchbusinessanalytics): Reporting and advice on BI, analytics platforms and data-driven decision-making.
+- [Data Center](https://www.techtarget.com/searchdatacenter): Infrastructure and operations coverage including storage, servers and facilities.
+- [IoT Agenda](https://www.techtarget.com/iotagenda): News and explainers on IoT platforms, edge computing and connected devices.
 
-- Artificial Intelligence (AI)
-- Cybersecurity
-- Data Management & Orchestration
-- Enterprise Software
-- Healthcare Technology
-- Digital Health & Telehealth
-- IoT (Internet of Things)
-- Business Intelligence & Analytics
-- Cloud Computing
-- Data Security & Compliance
-- AI Drug Discovery
-- Revenue Cycle Management
-- Sustainability & ESG
-- Mobile Device Management
-- Patient Engagement
+## Security
+- [Information Security](https://www.techtarget.com/searchsecurity): Cybersecurity news, strategy, threat analysis and security technology guidance.
+- [Security Videos](https://www.techtarget.com/searchsecurity/videos): Video explainers and interviews on security trends and best practices.
+- [Security Definitions](https://www.techtarget.com/searchsecurity/definitions): Security glossary entries covering threats, controls and compliance terminology.
+- [Security Resources](https://www.techtarget.com/searchsecurity/resources): Curated security guides, tutorials and topic collections.
+- [HealthTech Security](https://www.techtarget.com/healthtechsecurity): Healthcare cybersecurity coverage focused on HIPAA, ransomware and risk management.
 
-## News & Updates
+## Cloud, Infrastructure and Networking
+- [Cloud Computing](https://www.techtarget.com/searchcloudcomputing): News and guidance on public cloud, hybrid cloud and cloud-native operations.
+- [AWS](https://www.techtarget.com/searchaws): AWS-focused news, tutorials and architecture guidance for enterprise teams.
+- [Azure](https://www.techtarget.com/searchwindowsserver): Microsoft infrastructure coverage including Windows Server, Azure-adjacent administration and management.
+- [Networking](https://www.techtarget.com/searchnetworking): Enterprise networking coverage spanning LAN, WAN, wireless and network operations.
+- [IT Operations](https://www.techtarget.com/searchitoperations): Guidance on IT service delivery, observability, automation and operations management.
+- [Storage](https://www.techtarget.com/searchstorage): Storage systems, backup, disaster recovery and data protection coverage.
 
-- [TechTarget Enterprise Technology News](https://www.techtarget.com/news): Enterprise tech news covering AI, cybersecurity, data orchestration, and industry trends.
-- [TechTarget - Global Network of Information Technology Websites and Contributors](https://www.techtarget.com): TechTarget homepage: global IT news, enterprise software, AI, cybersecurity.
+## Software Development and Applications
+- [Software Quality](https://www.techtarget.com/searchsoftwarequality): Software development, testing, DevOps and application lifecycle management guidance.
+- [App Architecture](https://www.techtarget.com/searchapparchitecture): Application design, microservices, APIs and modern architecture patterns.
+- [ERP](https://www.techtarget.com/searcherp): ERP strategy, implementation guidance and enterprise application market coverage.
+- [CRM](https://www.techtarget.com/searchcustomerexperience): Customer experience and CRM-related coverage for digital engagement teams.
+- [Content Management](https://www.techtarget.com/searchcontentmanagement): Enterprise content, collaboration and information management guidance.
+
+## IT Strategy and Leadership
+- [CIO](https://www.techtarget.com/searchcio): IT leadership coverage on strategy, governance, budgets and digital transformation.
+- [IT Knowledge Exchange](https://itknowledgeexchange.techtarget.com/): Community blogs and practitioner perspectives across enterprise IT topics.
+- [Sustainability](https://www.techtarget.com/sustainability): Coverage of ESG, green IT and sustainability strategy in technology organizations.
+- [Computer Weekly](https://www.computerweekly.com/): UK-focused enterprise IT news, analysis and buyer-oriented coverage.
+- [TechTarget Editorial Topics](https://www.techtarget.com/topics): Directory of topic hubs across the TechTarget network.
 
 ## Healthcare Technology
+- [Health IT](https://www.techtarget.com/searchhealthit): Healthcare IT news and analysis on EHRs, interoperability and provider technology.
+- [HealthTech Analytics](https://www.techtarget.com/healthtechanalytics): Healthcare analytics, AI, data governance and population health coverage.
+- [Virtual Healthcare](https://www.techtarget.com/virtualhealthcare): Telehealth, remote care and digital health delivery guidance.
+- [Patient Engagement](https://www.techtarget.com/patientengagement): Strategies and technologies for patient communication and experience.
+- [Healthcare Payers](https://www.techtarget.com/healthcarepayers): Payer operations, policy, claims and insurance technology coverage.
+- [Revenue Cycle Management](https://www.techtarget.com/revcyclemanagement): Billing, reimbursement, coding and revenue cycle technology guidance.
+- [Pharma Life Sciences](https://www.techtarget.com/pharmalifesciences): Drug development, clinical data and life sciences technology reporting.
 
-- [Healthcare Analytics Information, News and Tips](https://www.techtarget.com/healthtechanalytics): Healthcare analytics: AI adoption, data governance, predictive analytics.
-- [Healthtech Security Information, News and Tips](https://www.techtarget.com/healthtechsecurity): Healthcare security: HIPAA compliance, cybersecurity, data protection.
-- [Healthcare Payers Information, News and Tips](https://www.techtarget.com/healthcarepayers): Healthcare payers news: Medicare, Medicaid, claims management.
-- [Virtual healthcare information, news and tips](https://www.techtarget.com/virtualhealthcare): Virtual healthcare: telehealth, remote monitoring, digital health.
-- [Patient Engagement Information, News and Tips](https://www.techtarget.com/patientengagement): Patient engagement: AI chatbots, digital health, healthcare innovation.
-- [Revenue Cycle Management Information, News and Tips](https://www.techtarget.com/revcyclemanagement): Revenue cycle management: claims, reimbursement, AI healthcare.
-- [Pharma and Life Sciences Information, News and Tips](https://www.techtarget.com/pharmalifesciences): Pharma news: drug development, clinical trials, AI drug discovery.
+## Definitions and Reference
+- [WhatIs Definitions](https://www.techtarget.com/whatis/definitions): Alphabetized IT definitions and concept explainers across enterprise technology.
+- [Enterprise AI Definitions](https://www.techtarget.com/searchenterpriseai/definitions): AI and machine learning terminology for enterprise practitioners.
+- [Data Management Definitions](https://www.techtarget.com/searchdatamanagement/definitions): Definitions for databases, governance, integration and analytics concepts.
+- [Cloud Computing Definitions](https://www.techtarget.com/searchcloudcomputing/definitions): Cloud architecture, services and operations terminology.
+- [Networking Definitions](https://www.techtarget.com/searchnetworking/definitions): Networking concepts, protocols and infrastructure terminology.
+- [Security Definitions](https://www.techtarget.com/searchsecurity/definitions): Cybersecurity terms covering attacks, defenses and compliance topics.
 
-## Emerging Technologies
+## Multimedia and Special Formats
+- [Videos](https://www.techtarget.com/video): Video hub for interviews, explainers and enterprise technology analysis.
+- [Podcasts](https://www.techtarget.com/podcasts): Podcast directory featuring discussions on major technology topics.
+- [Photo Stories](https://www.techtarget.com/photostory): Visual explainers and slide-based summaries of technology topics.
+- [Quizzes](https://www.techtarget.com/quiz): Interactive quizzes testing knowledge of enterprise technology concepts.
+- [Features](https://www.techtarget.com/feature): Long-form feature reporting and in-depth analysis across TechTarget brands.
 
-- [Search IoT Information, News and Tips from TechTarget](https://www.techtarget.com/iotagenda): IoT news: enterprise implementation, security, platforms, use cases.
-- [Sustainability and ESG Information, News and Tips from TechTarget](https://www.techtarget.com/sustainability): Sustainability and ESG: green IT, corporate responsibility strategies.
-
-## Reference & Definitions
-
-- [WhatIs - IT Definitions & Tech Explainers for Business Leaders | TechTarget](https://www.techtarget.com/whatis): Tech definitions and explainers: IT glossary, cybersecurity, AI.
-
-## Contributors & Experts
-
-- [TechTarget - Global Network of Information Technology Websites and Contributors](https://www.techtarget.com/contributors): TechTarget contributors directory: expert network profiles.
-- [Kathleen Walch - Project Management Institute, Director of AI Engagement and Learning](https://www.techtarget.com/contributor/Kathleen-Walch): Kathleen Walch contributor profile: PMI AI engagement director.
-- [Andy Patrizio - Freelancer](https://www.techtarget.com/contributor/Andy-Patrizio): Andy Patrizio contributor profile: veteran tech journalist.
-- [Michael Goad - CDW](https://www.techtarget.com/contributor/Michael-Goad): Michael Goad contributor profile: mobile computing and MDM expert.
-- [Scott Sachs - SJS Solutions, President](https://www.techtarget.com/contributor/Scott-Sachs): Scott Sachs contributor profile: contact center strategy expert.
-
-## Optional
-
-- [Editorial Contacts | TechTarget](https://www.techtarget.com/editorial-contacts): TechTarget editorial team contacts and staff directory.
-- [TechTarget Editorial Ethics Policy](https://www.techtarget.com/techtarget-editorial-ethics-policy): TechTarget editorial ethics and advertising standards policy.
+## Topic Discovery
+- [Artificial Intelligence Topic](https://www.techtarget.com/topics/Artificial-Intelligence): Aggregated AI coverage from across TechTarget sites and brands.
+- [Cybersecurity Topic](https://www.techtarget.com/topics/Security): Aggregated security news, definitions and expert guidance.
+- [Cloud Computing Topic](https://www.techtarget.com/topics/Cloud-Computing): Cross-site cloud coverage including strategy, platforms and operations.
+- [Data Management Topic](https://www.techtarget.com/topics/Data-Management): Aggregated content on data platforms, governance and analytics.
+- [Networking Topic](https://www.techtarget.com/topics/Networking): Cross-network coverage of enterprise networking technologies and practices.
+- [Healthcare Topic](https://www.techtarget.com/topics/Healthcare): Aggregated healthcare IT and digital health coverage.

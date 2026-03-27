@@ -1,37 +1,70 @@
 # Stack Overflow
 
-> > The world's largest Q&A platform where developers learn, share knowledge, and build careers across programming languages and technologies.
+> Developer Q&A community for asking, answering, and discovering programming questions across languages, frameworks, and tools.
 
-Stack Overflow is the premier community-driven question and answer site for programmers, covering languages like Python, C++, JavaScript, PHP, and tools including OpenCV, Google Apps Script, and VBA. Developers can browse questions by recency, popularity, bounties, or personalized recommendations based on their interests and expertise.
+Stack Overflow is the flagship Stack Exchange community for software developers. It provides question feeds, tag directories, user profiles, help resources, community discussion on Meta, real-time chat, and adjacent products like AI Assist, Challenges, and company information.
 
-## Key Topics
+## Core Q&A
+- [Questions](https://stackoverflow.com/questions): Main question listing for browsing programming questions across all topics.
+- [Newest Questions](https://stackoverflow.com/questions?tab=Newest): Most recently asked questions on Stack Overflow.
+- [Active Questions](https://stackoverflow.com/questions?tab=Active): Questions with the latest activity, including new answers and edits.
+- [Bountied Questions](https://stackoverflow.com/questions?tab=Bounties): Questions with active reputation bounties seeking more attention.
+- [Unanswered Questions](https://stackoverflow.com/unanswered): Questions that do not yet have accepted or upvoted answers.
+- [Ask a Question](https://stackoverflow.com/questions/ask): Form for posting a new programming question to the community.
 
-- Python
-- C++
-- JavaScript
-- PHP
-- Google Apps Script
-- VBA
-- OpenCV
-- Nuxt
-- Developer Community
-- Q&A Platform
-- Programming Help
-- Bounties
-- High-Reputation Users
-- Question Feed
-- Code Solutions
+## Discovery and Topics
+- [Tags](https://stackoverflow.com/tags): Directory of programming tags used to categorize questions.
+- [Tag Synonyms](https://stackoverflow.com/tags/synonyms): Canonical mappings between related or duplicate tags.
+- [Tag Search](https://stackoverflow.com/tags?tab=popular): Popular tags across languages, frameworks, and developer tools.
+- [Questions by Tag](https://stackoverflow.com/questions/tagged/python): Example tag feed for questions labeled with a specific topic.
+- [Tag Info](https://stackoverflow.com/tags/python/info): Tag wiki and usage guidance for a specific technology.
+- [Tag Trends](https://stackoverflow.com/tags?tab=name): Alphabetical tag browsing for topic discovery.
 
-## Core Question Feeds
+## Users and Reputation
+- [Users](https://stackoverflow.com/users): Directory of Stack Overflow community members.
+- [Current User Profile](https://stackoverflow.com/users/current): Shortcut to the signed-in user's profile.
+- [Top Users](https://stackoverflow.com/users?tab=Reputation): Users ranked by reputation score.
+- [New Users](https://stackoverflow.com/users?tab=NewUsers): Recently joined community members.
+- [Moderators](https://stackoverflow.com/users?tab=Moderators): Elected moderators for the Stack Overflow community.
+- [Badges](https://stackoverflow.com/help/badges): Reference for badges awarded for participation and contributions.
 
-- [Newest Questions](https://stackoverflow.com/?uuid=wp_7_4213050&subId1=wp_7_4213050&sid=wp_7_4213050): Latest programming questions posted to Stack Overflow community
-- [Hottest Questions This Week](https://stackoverflow.com/?tab=week): Most popular and trending programming questions from the past week
-- [Interesting Questions](https://stackoverflow.com/?tab=interesting): Personalized feed of interesting questions based on user preferences
+## Help and Community Policies
+- [Help Center](https://stackoverflow.com/help): Central help documentation for using Stack Overflow effectively.
+- [How to Ask](https://stackoverflow.com/help/how-to-ask): Guidance for writing clear, answerable programming questions.
+- [What Topics Can I Ask About Here?](https://stackoverflow.com/help/on-topic): Scope and on-topic policy for Stack Overflow questions.
+- [How to Answer](https://stackoverflow.com/help/how-to-answer): Best practices for posting useful, complete answers.
+- [Privileges](https://stackoverflow.com/help/privileges): Reputation-based permissions available to community members.
+- [Badges](https://stackoverflow.com/help/badges): Badge system and criteria for earning recognition.
+- [Tour](https://stackoverflow.com/tour): Introductory overview of how Stack Overflow works.
 
-## Bounties & Rewards
+## Account and Participation
+- [Sign Up](https://stackoverflow.com/users/signup): Account registration for participating on Stack Overflow.
+- [Log In](https://stackoverflow.com/users/login): Sign in to an existing Stack Overflow account.
+- [Edit Profile](https://stackoverflow.com/users/edit/current): Update profile details, preferences, and public information.
+- [Inbox](https://stackoverflow.com/inbox): Notifications for replies, comments, and community events.
+- [Reputation](https://stackoverflow.com/users/current?tab=reputation): View reputation changes for the current user.
+- [Preferences](https://stackoverflow.com/users/preferences/current): Manage account and site preferences.
 
-- [Bountied Questions](https://stackoverflow.com/?tab=bounties): Questions with active bounties offering reputation rewards for answers
+## Community Discussion and Chat
+- [Meta Stack Overflow](https://meta.stackoverflow.com): Community discussion about site policy, features, and moderation.
+- [Meta Questions](https://meta.stackoverflow.com/questions): Posts about Stack Overflow governance and product changes.
+- [Chat](https://chat.stackoverflow.com/?tab=explore): Real-time chat rooms for developer discussions and collaboration.
+- [Chat Rooms](https://chat.stackoverflow.com/rooms): Directory of available Stack Overflow chat rooms.
+- [Chat FAQ](https://chat.stackoverflow.com/faq): Help documentation for using Stack Overflow chat.
+- [Stack Exchange Communities](https://stackexchange.com/sites): Directory of other communities in the Stack Exchange network.
 
-## Optional
+## Products and Features
+- [AI Assist](https://stackoverflow.com/ai-assist): Stack Overflow AI-assisted experience for finding and generating technical help.
+- [Challenges](https://stackoverflow.com/beta/challenges): Coding and community challenge hub on Stack Overflow.
+- [Companies](https://stackoverflow.com/jobs/companies): Employer and company presence on Stack Overflow.
+- [Developer Jobs](https://stackoverflow.com/jobs): Job-related area for developer career opportunities and employers.
+- [Teams](https://stackoverflow.co/teams/): Stack Overflow for Teams product for private knowledge sharing.
+- [Advertising](https://stackoverflow.co/advertising/): Information about reaching developers through Stack Overflow advertising products.
 
-- [C++ Questions (High-Reputation Filter)](https://stackoverflow.com/?tab=recommended&subtab=recent&tags=c++&hideReview=on&minRep=10000): Filtered C++ questions from high-reputation users (10k+) in recommended feed
+## Content and Publishing
+- [Stack Overflow Blog](https://stackoverflow.blog): Official blog covering engineering, community, and developer industry topics.
+- [Articles](https://stackoverflow.blog/contributed): Community and editorial article hub linked from Stack Overflow navigation.
+- [Engineering Blog Posts](https://stackoverflow.blog/category/engineering/): Technical posts about systems, tooling, and platform engineering.
+- [Community Blog Posts](https://stackoverflow.blog/category/community/): Updates about moderation, community programs, and site culture.
+- [Podcast Posts](https://stackoverflow.blog/category/podcast/): Podcast episodes and related editorial content.
+- [Company Blog Posts](https://stackoverflow.blog/category/company/): Announcements about Stack Overflow products and business updates.

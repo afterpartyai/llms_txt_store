@@ -1,27 +1,66 @@
 # Dzen
+> Dzen is a Russian content platform for articles, videos, posts, channels, and personalized media discovery.
 
-> Dzen is a content platform that uses Yandex SmartCaptcha security verification to protect against automated access and bot attacks.
+Dzen combines a recommendation feed with publishing tools for creators, channel pages, media collections, and account management. The platform also includes help materials, legal information, and app distribution pages.
 
-Dzen integrates Yandex's advanced security infrastructure, including SmartCaptcha bot detection and access control systems, to maintain platform security and verify legitimate user access.
+## Main Platform
+- [Home](https://dzen.ru/): Main personalized feed for discovering articles, videos, and creator content.
+- [Video](https://dzen.ru/video): Video discovery section with clips, shows, and creator channels.
+- [Shorts](https://dzen.ru/shorts): Short-form vertical video feed for quick mobile-friendly viewing.
+- [Live](https://dzen.ru/live): Live streaming section for real-time broadcasts and events.
+- [Topics](https://dzen.ru/topic): Topic-based discovery hub for browsing content categories.
+- [Search](https://dzen.ru/search): Search interface for finding channels, authors, and publications.
 
-## Key Topics
+## For Readers
+- [Feed](https://dzen.ru/): Personalized recommendation stream based on interests and engagement.
+- [Subscriptions](https://dzen.ru/subscriptions): Aggregated feed of channels and authors a user follows.
+- [Bookmarks](https://dzen.ru/bookmarks): Saved publications and videos for later reading or viewing.
+- [History](https://dzen.ru/history): Recently viewed content and interaction history for the account.
+- [Profile](https://dzen.ru/profile): User profile area with activity, settings, and personal content.
+- [Notifications](https://dzen.ru/notifications): Alerts about subscriptions, comments, and platform activity.
 
-- Yandex SmartCaptcha
-- Bot detection
-- Security verification
-- Captcha verification
-- Access control
-- Robot detection
-- Automated request blocking
-- Yandex Cloud
-- Security challenge
-- Verification systems
+## For Creators
+- [Studio](https://studio.dzen.ru/): Creator dashboard for publishing, analytics, and channel management.
+- [Channel Setup](https://studio.dzen.ru/channel): Channel configuration, branding, and public presentation settings.
+- [Publications](https://studio.dzen.ru/publications): Content management area for articles, posts, and videos.
+- [Analytics](https://studio.dzen.ru/analytics): Performance metrics for views, audience, and engagement.
+- [Monetization](https://studio.dzen.ru/monetization): Earnings and monetization tools for eligible creators.
+- [Comments](https://studio.dzen.ru/comments): Moderation interface for audience comments and discussions.
 
-## Security & Verification
+## Publishing Tools
+- [Create Article](https://studio.dzen.ru/editor): Editor for long-form articles with media and formatting tools.
+- [Create Post](https://studio.dzen.ru/posts): Publishing workflow for short posts and updates.
+- [Upload Video](https://studio.dzen.ru/videos): Video upload and management interface for creators.
+- [Drafts](https://studio.dzen.ru/drafts): Unpublished and in-progress content saved in the studio.
+- [Scheduled Publications](https://studio.dzen.ru/scheduled): Queue for planned future content releases.
+- [Media Library](https://studio.dzen.ru/media): Asset storage for images, video, and reusable media files.
 
-- [SmartCaptcha Security Verification](https://dzen.ru/a/W-F_1vfx1ACqWWLR): Yandex SmartCaptcha security verification challenge page
-- [SmartCaptcha Bot Detection](https://dzen.ru/a/WquqB4E5usTOCaLq): Yandex SmartCaptcha security verification challenge page
-- [SmartCaptcha Access Control](https://dzen.ru/a/W81VYQHh3ACqff_s): Yandex SmartCaptcha bot detection and access control page
-- [Yandex Cloud SmartCaptcha Verification](https://dzen.ru/a/WfqTsRaKkdSNVtA7): Yandex Cloud SmartCaptcha bot detection verification
-- [SmartCaptcha Security Check](https://dzen.ru/a/WrDMNV9JZ3pBAzSX): SmartCaptcha security check and access control verification
-- [SmartCaptcha Bot Detection & Verification](https://dzen.ru/a/W-2RYsvH_QCqEDMq): Yandex SmartCaptcha bot detection and access verification
+## Help & Support
+- [Help Center](https://help.dzen.ru/): Official support portal with platform guidance and troubleshooting.
+- [For Authors Help](https://help.dzen.ru/authors/): Help materials focused on publishing and channel management.
+- [For Readers Help](https://help.dzen.ru/readers/): Support articles for consuming content and using the feed.
+- [Monetization Help](https://help.dzen.ru/monetization/): Guidance on eligibility, payouts, and creator earnings.
+- [Mobile App Help](https://help.dzen.ru/app/): Support information for using Dzen on mobile devices.
+- [Contact Support](https://help.dzen.ru/feedback): Support request and feedback submission entry point.
+
+## Mobile Apps
+- [Android on Google Play](https://play.google.com/store/apps/details?id=ru.zen.android): Android app listing for reading, watching, and publishing on Dzen.
+- [App Store](https://apps.apple.com/ru/app/%D0%B4%D0%B7%D0%B5%D0%BD/id553266486): iOS app listing for the Dzen mobile application.
+- [AppGallery](https://appgallery.huawei.com/#/app/C100848977): Huawei AppGallery listing for the Dzen mobile app.
+- [Mobile Web](https://dzen.ru/mobile): Mobile-oriented web experience for phones and tablets.
+
+## Legal & Policies
+- [Terms of Use](https://dzen.ru/legal): Core legal terms governing use of the Dzen platform.
+- [Privacy Policy](https://dzen.ru/legal/confidential): Privacy and personal data processing policy.
+- [User Agreement](https://dzen.ru/legal/rules): Rules and obligations for platform participants and users.
+- [Recommendation Technologies](https://dzen.ru/legal/recommendation): Information about recommendation and ranking technologies.
+- [Copyright Policy](https://dzen.ru/legal/copyright): Rights holder and copyright complaint procedures.
+- [Advertising Documents](https://dzen.ru/legal/ads): Legal materials related to advertising on the platform.
+
+## Company & Product Information
+- [About Dzen](https://dzen.ru/about): Overview of the platform, product positioning, and audience.
+- [For Business](https://dzen.ru/business): Information for brands, advertisers, and business partners.
+- [Advertising](https://dzen.ru/adv): Advertising solutions and campaign opportunities on Dzen.
+- [Press](https://dzen.ru/press): Press materials, announcements, and media information.
+- [Vacancies](https://dzen.ru/jobs): Careers and open roles related to the Dzen organization.
+- [Contacts](https://dzen.ru/contacts): Official contact information and communication channels.

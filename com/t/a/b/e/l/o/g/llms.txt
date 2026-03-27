@@ -1,24 +1,76 @@
-# Tabelog
+# 食べログ / Tabelog
 
-> > Japan's comprehensive restaurant discovery and reservation platform with 895,000+ dining listings across major cities including Tokyo, Osaka, Kyoto, and Fukuoka.
+> 日本全国のレストラン検索、口コミ閲覧、ランキング確認、ネット予約ができるグルメ・レストラン情報サイト。
 
-Tabelog serves as the authoritative restaurant guide for travelers and locals exploring Japanese cuisine and dining experiences. The multilingual platform provides detailed restaurant information, user reviews, ratings, and reservation capabilities for discovering authentic dining across Japan's diverse culinary landscape.
+食べログは、都道府県・エリア・駅・ジャンル・予算・シーン別に飲食店を探せる国内最大級の飲食店データベースです。店舗ページでは営業時間、メニュー、写真、口コミ、地図、空席情報などを確認でき、日本語版に加えて訪日客向け英語版も提供しています。
 
-## Key Topics
+## Main Entry Points
+- [食べログ ホーム](https://tabelog.com/): 全国のレストラン検索、ランキング、口コミ、予約導線をまとめたトップページ。
+- [English Top](https://tabelog.com/en/): 訪日外国人向けの英語版レストラン検索トップページ。
+- [全国のレストラン](https://tabelog.com/rstLst/): 全国の飲食店一覧を検索できるレストラン一覧ページ。
+- [ネット予約可能店](https://tabelog.com/rstLst/?svd=20240101&svt=1900&svps=2&default_yoyaku_condition=1): ネット予約対応店舗を条件付きで探せる検索結果ページ。
+- [ランキング](https://tabelog.com/rank/): エリアやジャンル別の人気店ランキング一覧。
+- [口コミ](https://tabelog.com/rvw/): ユーザー投稿の口コミを閲覧できるレビュー入口ページ。
 
-- Japanese restaurants
-- Tokyo dining
-- Osaka restaurants
-- Kyoto cuisine
-- Fukuoka food scene
-- Restaurant reservations
-- Japan travel dining
-- Restaurant reviews and ratings
-- Multilingual restaurant guide
-- Japanese food culture
-- Regional Japanese cuisine
-- Dining recommendations
+## Search and Discovery
+- [エリアから探す](https://tabelog.com/rstLst/): 都道府県や主要エリアから飲食店を絞り込める検索一覧。
+- [ジャンルから探す](https://tabelog.com/cat_lst/): 和食、焼肉、ラーメン、カフェなど料理ジャンル別の案内。
+- [駅から探す](https://tabelog.com/rstLst/station/): 駅周辺の飲食店を起点に探せる駅別検索入口。
+- [地図から探す](https://tabelog.com/rstLst/map/): 地図上で周辺店舗を確認しながら探せる検索ページ。
+- [ランチ](https://tabelog.com/rstLst/lunch/): ランチ営業店を条件付きで探せる専用一覧。
+- [個室あり](https://tabelog.com/rstLst/cond07-00-00/): 個室利用可能な店舗を条件で絞り込める検索ページ。
+- [飲み放題あり](https://tabelog.com/rstLst/cond05-00-00/): 飲み放題対応店を探せる条件別一覧。
+- [テイクアウト](https://tabelog.com/rstLst/cond10-04-00/): テイクアウト対応店を条件指定で探せる一覧。
 
-## Main Platform
+## Rankings and Awards
+- [全国ランキング](https://tabelog.com/rank/): 全国・都道府県・ジャンル別の総合ランキング一覧。
+- [東京ランキング](https://tabelog.com/tokyo/rank/): 東京都内の人気店ランキングを確認できる地域別ページ。
+- [大阪ランキング](https://tabelog.com/osaka/rank/): 大阪府内の人気店ランキングを確認できる地域別ページ。
+- [京都ランキング](https://tabelog.com/kyoto/rank/): 京都府内の人気店ランキングを確認できる地域別ページ。
+- [百名店](https://award.tabelog.com/hyakumeiten): 食べログ百名店の受賞店をまとめた特設ページ。
+- [The Tabelog Award](https://award.tabelog.com/): 年間アワード受賞店を紹介する公式アワードサイト。
 
-- [Tabelog - Japan Food & Restaurant Guide for Travelers](https://tabelog.com/en/): Homepage for Japan's restaurant guide with 895K+ listings across Tokyo, Osaka, and other major cities
+## Major Areas
+- [東京のレストラン](https://tabelog.com/tokyo/): 東京都の飲食店情報、ランキング、エリア別検索をまとめた地域トップ。
+- [大阪のレストラン](https://tabelog.com/osaka/): 大阪府の飲食店情報、ランキング、エリア別検索をまとめた地域トップ。
+- [京都のレストラン](https://tabelog.com/kyoto/): 京都府の飲食店情報、ランキング、エリア別検索をまとめた地域トップ。
+- [愛知のレストラン](https://tabelog.com/aichi/): 愛知県の飲食店情報、ランキング、エリア別検索をまとめた地域トップ。
+- [福岡のレストラン](https://tabelog.com/fukuoka/): 福岡県の飲食店情報、ランキング、エリア別検索をまとめた地域トップ。
+- [北海道のレストラン](https://tabelog.com/hokkaido/): 北海道の飲食店情報、ランキング、エリア別検索をまとめた地域トップ。
+- [沖縄のレストラン](https://tabelog.com/okinawa/): 沖縄県の飲食店情報、ランキング、エリア別検索をまとめた地域トップ。
+
+## Cuisine and Category Pages
+- [寿司](https://tabelog.com/sushi/): 全国の寿司店を探せるジャンル別入口ページ。
+- [焼肉](https://tabelog.com/yakiniku/): 全国の焼肉店を探せるジャンル別入口ページ。
+- [ラーメン](https://tabelog.com/ramen/): 全国のラーメン店を探せるジャンル別入口ページ。
+- [居酒屋](https://tabelog.com/izakaya/): 全国の居酒屋を探せるジャンル別入口ページ。
+- [カフェ](https://tabelog.com/cafe/): 全国のカフェを探せるジャンル別入口ページ。
+- [イタリアン](https://tabelog.com/italian/): 全国のイタリアン店舗を探せるジャンル別入口ページ。
+- [フレンチ](https://tabelog.com/french/): 全国のフレンチ店舗を探せるジャンル別入口ページ。
+- [焼鳥](https://tabelog.com/yakitori/): 全国の焼鳥店を探せるジャンル別入口ページ。
+
+## Reservations and Use Cases
+- [ネット予約](https://tabelog.com/yoyaku/): ネット予約対応店をまとめて探せる予約特集ページ。
+- [宴会・飲み会](https://tabelog.com/party/): 宴会や飲み会向けの店舗を探せる利用シーン別ページ。
+- [デートにおすすめ](https://tabelog.com/date/): デート利用に適した店舗を探せるシーン別ページ。
+- [接待・会食](https://tabelog.com/settai/): 接待や会食向けの店舗を探せる用途別ページ。
+- [家族・子供と](https://tabelog.com/family/): 家族利用しやすい店舗を探せるシーン別ページ。
+- [女子会におすすめ](https://tabelog.com/jyoshikai/): 女子会向けの店舗を探せる用途別ページ。
+- [記念日・誕生日](https://tabelog.com/anniversary/): 記念日利用に適した店舗を探せる特集ページ。
+
+## Reviews, Photos, and Restaurant Content
+- [口コミ一覧](https://tabelog.com/rvw/): 投稿された口コミを新着順などで閲覧できる一覧ページ。
+- [写真一覧](https://tabelog.com/photo/): 店舗や料理の投稿写真を閲覧できる写真入口ページ。
+- [レストラン新規登録](https://tabelog.com/restaurant/add/): 新しい飲食店情報を登録申請できるページ。
+- [食べログ店舗会員向け案内](https://owner.tabelog.com/owner_info/): 店舗運営者向けの会員・集客支援案内ページ。
+- [プレミアムサービス](https://tabelog.com/account/premium_service_guide/): 有料会員向け機能や特典を案内するページ。
+
+## English Guides for Travelers
+- [Tokyo Restaurants](https://tabelog.com/en/tokyo/): English-language restaurant guide and rankings for Tokyo.
+- [Osaka Restaurants](https://tabelog.com/en/osaka/): English-language restaurant guide and rankings for Osaka.
+- [Kyoto Restaurants](https://tabelog.com/en/kyoto/): English-language restaurant guide and rankings for Kyoto.
+- [Fukuoka Restaurants](https://tabelog.com/en/fukuoka/): English-language restaurant guide and rankings for Fukuoka.
+- [Sushi in Japan](https://tabelog.com/en/sushi/): English-language category page for sushi restaurants.
+- [Yakiniku in Japan](https://tabelog.com/en/yakiniku/): English-language category page for yakiniku restaurants.
+- [Ramen in Japan](https://tabelog.com/en/ramen/): English-language category page for ramen restaurants.
+- [The Tabelog Award](https://award.tabelog.com/en/): English-language overview of Tabelog award-winning restaurants.

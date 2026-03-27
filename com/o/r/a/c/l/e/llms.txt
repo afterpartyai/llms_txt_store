@@ -1,63 +1,82 @@
 # Oracle
+> Oracle provides enterprise cloud infrastructure, databases, applications, developer tools, and industry solutions for organizations worldwide.
 
-> Oracle provides enterprise cloud applications and software solutions for ERP, HCM, CRM, supply chain, healthcare, and data management with AI-powered automation capabilities.
+Oracle.com spans Oracle Cloud Infrastructure, database platforms, Java, enterprise applications, analytics, AI, and industry-specific products. The site includes product documentation, API references, developer resources, training, support, and technical blogs across Oracle’s cloud and software portfolio.
 
-Oracle's portfolio spans customer experience (CX), human capital management (HCM), enterprise resource planning (ERP), supply chain management (SCM), and healthcare solutions. The site emphasizes cloud migration, digital transformation, and AI-driven business intelligence across enterprise operations.
+## Cloud Infrastructure
+- [Oracle Cloud Infrastructure](https://www.oracle.com/cloud/): Overview of Oracle Cloud Infrastructure services, platform capabilities, and cloud deployment options.
+- [Compute](https://www.oracle.com/cloud/compute/): Virtual machines, bare metal, GPU, and container-ready compute services on OCI.
+- [Storage](https://www.oracle.com/cloud/storage/): Object, block, archive, file, and data transfer storage services.
+- [Networking](https://www.oracle.com/cloud/networking/): Virtual cloud networks, load balancing, DNS, FastConnect, and traffic management services.
+- [Containers and Kubernetes](https://www.oracle.com/cloud/cloud-native/container-engine-kubernetes/): Managed Kubernetes and cloud-native container deployment on OCI.
+- [Observability and Management](https://www.oracle.com/cloud/management/): Monitoring, logging, operations insights, and management services for OCI resources.
+- [Security](https://www.oracle.com/cloud/security/): Cloud security services including identity, key management, vault, and posture management.
 
-## Key Topics
+## AI, Data, and Analytics
+- [Artificial Intelligence](https://www.oracle.com/artificial-intelligence/): Oracle AI platform, generative AI services, and embedded AI across products.
+- [Data Science](https://www.oracle.com/artificial-intelligence/data-science/): Managed data science platform for model development, training, and deployment.
+- [Analytics](https://www.oracle.com/analytics/): Analytics platform for dashboards, reporting, data visualization, and decision support.
+- [Oracle Database](https://www.oracle.com/database/): Oracle’s flagship database platform for transactional, analytical, and mixed workloads.
+- [Autonomous Database](https://www.oracle.com/autonomous-database/): Self-managing cloud database service for data warehousing and transaction processing.
+- [MySQL](https://www.oracle.com/mysql/): MySQL database products, cloud services, downloads, and technical resources.
+- [HeatWave](https://www.oracle.com/mysql/heatwave/): Integrated MySQL analytics, machine learning, and lakehouse capabilities.
 
-- Oracle Fusion Cloud Applications
-- Cloud ERP
-- AI and Machine Learning
-- Digital Transformation
-- Customer Experience (CX)
-- Human Capital Management (HCM)
-- Supply Chain Management (SCM)
-- Healthcare Solutions
-- Data Governance
-- Sales Performance Management
-- Marketing Automation
-- Transportation Management
-- Employee Experience
-- Cloud Migration
-- Enterprise Automation
+## Enterprise Applications
+- [Oracle Fusion Cloud Applications](https://www.oracle.com/applications/): Suite of cloud applications for finance, HR, supply chain, sales, and service.
+- [ERP](https://www.oracle.com/erp/): Enterprise resource planning applications for finance, projects, procurement, and risk.
+- [Human Capital Management](https://www.oracle.com/human-capital-management/): Cloud HCM for HR, talent, workforce management, and employee experience.
+- [Supply Chain Management](https://www.oracle.com/scm/): Supply chain, manufacturing, logistics, and product lifecycle management applications.
+- [Customer Experience](https://www.oracle.com/cx/): Sales, marketing, service, and commerce applications for customer engagement.
+- [NetSuite](https://www.oracle.com/netsuite/): Cloud ERP and business management suite for growing and midsize organizations.
+- [EPM](https://www.oracle.com/performance-management/): Enterprise performance management for planning, consolidation, and profitability analysis.
 
-## Cloud Applications & AI Automation
+## Industry Solutions
+- [Industry Solutions](https://www.oracle.com/industries/): Oracle products and cloud services tailored for regulated and specialized industries.
+- [Healthcare](https://www.oracle.com/industries/healthcare/): Healthcare technology, clinical systems, and operational solutions for providers and payers.
+- [Financial Services](https://www.oracle.com/industries/financial-services/): Banking, insurance, and financial crime solutions for financial institutions.
+- [Communications](https://www.oracle.com/industries/communications/): Telecom solutions for billing, network operations, and customer experience.
+- [Retail](https://www.oracle.com/industries/retail/): Retail merchandising, stores, supply chain, and customer engagement solutions.
+- [Utilities](https://www.oracle.com/industries/utilities/): Utility customer, grid, meter, and asset management solutions.
+- [Public Sector](https://www.oracle.com/industries/government/): Government cloud and mission-focused solutions for public sector organizations.
 
-- [Agents That Know Your Business: The Oracle Fusion Advantage](https://www.oracle.com/applications/agents-that-know-your-business): Oracle Fusion AI Agents for enterprise automation and business context
-- [On-premise limitations, cloud possibilities: AI Strategies for Leaders](https://www.oracle.com/applications/effective-ai-strategies): AI strategies for cloud migration from legacy systems like JD Edwards
-- [10 Differences between Oracle and SAP](https://www.oracle.com/erp/oracle-vs-sap/differentiators): Oracle Fusion vs SAP S/4HANA: ERP platform comparison and differences
-- [15 Top Cloud ERP Benefits & Reasons to Move](https://www.oracle.com/erp/cloud-erp-benefits): Cloud ERP benefits guide for digital transformation and SaaS migration
+## Developer Resources
+- [Oracle Developers](https://developer.oracle.com/): Central hub for Oracle developer tools, tutorials, code samples, and events.
+- [Developers Resource Center](https://www.oracle.com/developer/): Oracle developer portal with product resources, downloads, and learning content.
+- [Java](https://www.oracle.com/java/): Java platform downloads, documentation, licensing information, and developer resources.
+- [Oracle APEX](https://apex.oracle.com/): Low-code application development platform for building data-driven web applications.
+- [Oracle SQL Developer](https://www.oracle.com/database/sqldeveloper/): Database development IDE for SQL, PL/SQL, and Oracle database administration.
+- [GraalVM](https://www.oracle.com/java/graalvm/): High-performance runtime for Java and polyglot applications.
+- [Developer Tutorials](https://developer.oracle.com/learn/): Hands-on learning paths and tutorials for Oracle technologies.
 
-## Customer Experience & Sales
+## Documentation and APIs
+- [Oracle Help Center](https://docs.oracle.com/): Product documentation library for Oracle cloud services, databases, middleware, and applications.
+- [OCI Documentation](https://docs.oracle.com/en-us/iaas/Content/home.htm): Official documentation for Oracle Cloud Infrastructure services and concepts.
+- [OCI API Reference](https://docs.oracle.com/en-us/iaas/api/): REST API reference for Oracle Cloud Infrastructure services.
+- [Java Documentation](https://docs.oracle.com/en/java/): Java SE and related platform documentation.
+- [Database Documentation](https://docs.oracle.com/en/database/): Oracle Database manuals, administration guides, and reference documentation.
+- [MySQL Documentation](https://docs.oracle.com/cd/E17952_01/): MySQL reference manuals and technical documentation.
+- [Oracle REST APIs for SaaS](https://docs.oracle.com/en/cloud/saas/index.html): REST API documentation for Oracle Fusion Cloud and SaaS applications.
 
-- [Oracle is a Leader in CRM Customer Engagement Center (CEC)](https://www.oracle.com/applications/crm-customer-engagement-center-gartner-mq): Oracle CRM Customer Engagement Center recognized as Gartner leader
-- [Sales Performance Management](https://www.oracle.com/cx/sales/sales-performance-management): Oracle Sales Performance Management and incentive compensation platform
-- [Marketing automation scalability and reliability](https://www.oracle.com/cx/marketing/automation/eloqua-scalability-reliability): Oracle Eloqua marketing automation platform scalability and reliability
+## Training and Certification
+- [Oracle University](https://education.oracle.com/): Official Oracle training, learning subscriptions, and certification programs.
+- [Certifications](https://education.oracle.com/oracle-certification-path): Oracle certification paths across cloud, database, Java, and applications.
+- [Training by Product](https://education.oracle.com/products): Browse Oracle training offerings by technology and product area.
+- [OCI Training](https://education.oracle.com/oracle-cloud-infrastructure/pFamily_1): Training and certification resources for Oracle Cloud Infrastructure.
+- [Database Training](https://education.oracle.com/oracle-database/pFamily_2): Courses and certifications for Oracle Database administrators and developers.
+- [Java Training](https://education.oracle.com/java/pFamily_48): Java learning and certification resources from Oracle University.
 
-## Human Capital Management
+## Support and Downloads
+- [Oracle Support](https://www.oracle.com/support/): Support portal entry point, lifecycle policies, and technical support resources.
+- [My Oracle Support](https://support.oracle.com/): Customer support portal for service requests, patches, and knowledge articles.
+- [Software Downloads](https://www.oracle.com/downloads/): Central page for Oracle software, tools, and product downloads.
+- [Java Downloads](https://www.oracle.com/java/technologies/downloads/): Downloads for current Java releases and related runtimes.
+- [Database Software Downloads](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html): Oracle Database installation media and related software downloads.
+- [VirtualBox](https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html): Downloads for Oracle VM VirtualBox desktop virtualization software.
 
-- [Strategies for the CHRO](https://www.oracle.com/human-capital-management/best-hr): CHRO strategies for HR transformation using Oracle Fusion Cloud HCM
-- [What Is the Employee Experience?](https://www.oracle.com/human-capital-management/employee-experience/what-is-employee-experience): Definition and guide to employee experience strategy and HR practices
-- [What Is Recruiting Software?](https://www.oracle.com/human-capital-management/recruiting/what-is-recruiting-software): Recruiting software and ATS guide for hiring and candidate management
-- [The Real Cost of Turnover in Healthcare](https://www.oracle.com/human-capital-management/cost-employee-turnover-healthcare): Healthcare employee turnover costs and workforce management insights
-
-## Supply Chain & Logistics
-
-- [Product Tour—Machine learning for transit time prediction](https://www.oracle.com/scm/logistics/transportation-management/transportation-management-tour): Oracle Transportation Management with machine learning ETA prediction
-- [Oracle Transportation Management: Fleet Management Product Tour](https://www.oracle.com/scm/logistics/transportation-management/fleet-management-product-tour): Oracle Fleet Management product tour for route planning and tracking
-
-## Healthcare Solutions
-
-- [i.s.h.med](https://www.oracle.com/health/ishmed): i.s.h.med EHR and hospital management system with clinical workflows
-- [Reporting and Analytics](https://www.oracle.com/health/reporting-analytics): Oracle Health reporting and analytics for EHR and population health
-
-## Finance & Data Management
-
-- [14 CFO Best Practices for 2024](https://www.oracle.com/erp/cfo/cfo-best-practices): CFO best practices for financial strategy and digital transformation
-- [Test-drive Enterprise Data Management (EDM)](https://www.oracle.com/performance-management/enterprise-data-management/rapid-start): Oracle EDM Rapid Start free trial for data governance and master data
-
-## Optional
-
-- [What Is the Metaverse](https://www.oracle.com/erp/ai-financials/what-is-the-metaverse): Metaverse explained: extended reality, virtual worlds, and blockchain
-- [AutoVue Enterprise Visualization Solutions](https://www.oracle.com/applications/autovue): AutoVue enterprise visualization for CAD and document collaboration
+## News, Blogs, and Events
+- [Oracle Blogs](https://blogs.oracle.com/): Official Oracle blogs covering products, engineering, cloud, and customer topics.
+- [Oracle Newsroom](https://www.oracle.com/news/): Press releases, announcements, executive news, and corporate updates.
+- [Customer Successes](https://www.oracle.com/customers/): Customer stories and case studies across industries and product areas.
+- [Events](https://www.oracle.com/events/): Oracle conferences, webinars, virtual events, and regional programs.
+- [Cloud Customer Connect](https://community.oracle.com/customerconnect/): Community for Oracle Cloud customers to share ideas and product feedback.
+- [Oracle TV](https://www.oracle.com/oracle-tv/): Video library of product demos, interviews, and event sessions.

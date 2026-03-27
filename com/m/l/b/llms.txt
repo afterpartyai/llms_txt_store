@@ -1,56 +1,82 @@
 # MLB.com
+> The official site of Major League Baseball with live scores, schedules, stats, video, news, and streaming.
 
-> The official home of Major League Baseball featuring live scores, game coverage, news, player transactions, and exclusive streaming content.
+MLB.com provides league-wide coverage of Major League Baseball, including game results, standings, player and team statistics, transactions, injuries, prospect coverage, postseason events, and subscription streaming through MLB.TV.
 
-MLB.com provides comprehensive baseball coverage across all 30 MLB teams, minor league prospects, international competitions, and related sports. The site combines real-time game data, breaking news, player injury reports, and premium streaming access through MLB.TV.
+## Core Coverage
+- [MLB Home](https://www.mlb.com/): Main entry point for scores, schedules, standings, highlights, and featured stories.
+- [News](https://www.mlb.com/news): League-wide baseball news, analysis, features, and breaking updates.
+- [Scores](https://www.mlb.com/scores): Live and completed game scores with inning-by-inning results and game details.
+- [Schedule](https://www.mlb.com/schedule): Full MLB game schedule with dates, matchups, and broadcast information.
+- [Standings](https://www.mlb.com/standings): Division, league, and Wild Card standings across the season.
+- [Stats](https://www.mlb.com/stats): League, team, and player statistical leaderboards and filters.
 
-## Key Topics
+## Teams
+- [Teams Directory](https://www.mlb.com/team): Directory of MLB clubs with links to each team site and roster coverage.
+- [Arizona Diamondbacks](https://www.mlb.com/dbacks): Official team site with roster, schedule, news, and scores.
+- [Atlanta Braves](https://www.mlb.com/braves): Official team site with roster, schedule, news, and scores.
+- [Boston Red Sox](https://www.mlb.com/redsox): Official team site with roster, schedule, news, and scores.
+- [Chicago Cubs](https://www.mlb.com/cubs): Official team site with roster, schedule, news, and scores.
+- [Los Angeles Dodgers](https://www.mlb.com/dodgers): Official team site with roster, schedule, news, and scores.
+- [New York Yankees](https://www.mlb.com/yankees): Official team site with roster, schedule, news, and scores.
+- [St. Louis Cardinals](https://www.mlb.com/cardinals): Official team site with roster, schedule, news, and scores.
 
-- Live Scores & Game Results
-- MLB Teams
-- Player Transactions & Roster Moves
-- Injury Reports
-- Minor League Baseball & Prospects
-- Statcast Analytics
-- Spring Training
-- Postseason & Playoffs
-- World Baseball Classic
-- MLB.TV Streaming
-- Starting Lineups
-- Player Rankings
-- Breaking News & Rumors
-- Podcasts
-- Opening Day
+## Scores, Game Data, and Lineups
+- [Starting Lineups](https://www.mlb.com/starting-lineups): Daily starting lineups for scheduled MLB games.
+- [Gameday](https://www.mlb.com/gameday): Live game tracking with play-by-play, pitch data, and box scores.
+- [Probable Pitchers](https://www.mlb.com/probable-pitchers): Scheduled starting pitchers for upcoming MLB games.
+- [Postseason Schedule](https://www.mlb.com/postseason): Postseason bracket, schedule, scores, and series coverage.
+- [All-Star Game](https://www.mlb.com/all-star): Official All-Star coverage, events, rosters, and news.
+- [Spring Training](https://www.mlb.com/spring-training): Spring Training schedules, standings, and preseason coverage.
 
-## Live Game Coverage & Scores
+## Stats and Analytics
+- [Player Stats](https://www.mlb.com/stats/player): Player batting, pitching, and fielding leaderboards.
+- [Team Stats](https://www.mlb.com/stats/team): Team-level offensive, pitching, and defensive statistics.
+- [Statcast](https://www.mlb.com/statcast): Advanced tracking data, metrics, leaderboards, and explanatory content.
+- [Statcast Search](https://baseballsavant.mlb.com/statcast_search): Searchable Statcast event data across players, pitches, and batted balls.
+- [Leaderboard Index](https://baseballsavant.mlb.com/leaderboard): Baseball Savant leaderboards for advanced performance metrics.
+- [Awards](https://www.mlb.com/awards): Official MLB awards coverage, winners, finalists, and historical results.
 
-- [MLB.com | The Official Site of Major League Baseball](https://www.mlb.com): MLB homepage with live scores, schedules, and exclusive baseball coverage
-- [MLB Starting Lineups Today | MLB.com](https://www.mlb.com/starting-lineups): Daily MLB starting lineups with game schedules and live scores
-- [MLB News: Scores, Standings, Stats, Trades, Rumors](https://www.mlb.com/news): Official MLB news source covering scores, standings, trades, and player updates
+## Players, Rosters, and Transactions
+- [Player Search](https://www.mlb.com/player): Player directory and profile lookup across MLB.
+- [Transactions](https://www.mlb.com/transactions): Official transaction log for roster moves, signings, and assignments.
+- [Injury Report](https://www.mlb.com/injury-report): Current player injury statuses, updates, and expected returns.
+- [Roster Resource](https://www.mlb.com/roster-resource): Team roster construction and depth chart information.
+- [Draft](https://www.mlb.com/draft): MLB Draft coverage, picks, rankings, and prospect news.
+- [Free Agent Tracker](https://www.mlb.com/free-agent-tracker): Free agent signings, rumors context, and offseason movement tracking.
 
-## Player Information & Roster Management
+## Prospects and Minor Leagues
+- [MLB Pipeline](https://www.mlb.com/pipeline): Prospect rankings, scouting reports, mock drafts, and farm system coverage.
+- [Top 100 Prospects](https://www.mlb.com/prospects/top100/): MLB Pipeline’s Top 100 prospect rankings and player reports.
+- [Prospect Watch](https://www.mlb.com/prospects/stats/): Minor league prospect statistics and performance tracking.
+- [MiLB Home](https://www.mlb.com/milb): Minor League Baseball news, scores, schedules, and affiliate coverage.
+- [Arizona Fall League](https://www.mlb.com/arizona-fall-league): Official Arizona Fall League schedule, rosters, and prospect coverage.
 
-- [Transactions | MLB.com](https://www.mlb.com/transactions): MLB player transactions, roster moves, and team assignment logs
-- [MLB Injury Report 2025: Fractures, Strains, Tommy John, and more](https://www.mlb.com/injury-report): Current MLB player injury status and recovery updates by team
+## Video, Audio, and Streaming
+- [Video](https://www.mlb.com/video): Highlights, interviews, recaps, and featured baseball video clips.
+- [Film Room](https://www.mlb.com/video/search): Searchable video archive for plays, players, and game moments.
+- [MLB.TV](https://www.mlb.com/live-stream-games): Streaming hub for live and on-demand MLB game viewing.
+- [MLB.TV Subscription](https://www.mlb.com/live-stream-games/subscribe): Subscription plans and package details for MLB streaming.
+- [Audio](https://www.mlb.com/audio): Audio content including game broadcasts and featured clips.
+- [Podcasts](https://www.mlb.com/fans/podcasts): Official MLB podcast directory and show pages.
 
-## Analytics & Advanced Statistics
+## Events and International
+- [Postseason](https://www.mlb.com/postseason): Official postseason hub with bracket, schedule, and series coverage.
+- [World Baseball Classic](https://www.mlb.com/world-baseball-classic): International tournament coverage, rosters, schedule, and results.
+- [Field of Dreams](https://www.mlb.com/field-of-dreams): Coverage of the MLB Field of Dreams event and related stories.
+- [Little League Classic](https://www.mlb.com/little-league-classic): Event coverage, schedules, and game information.
+- [London Series](https://www.mlb.com/london-series): Official MLB London Series event coverage and updates.
 
-- [Statcast Videos | MLB.com](https://www.mlb.com/video/topic/statcast): Statcast analytics videos with highlights and pitch velocity data
+## Fans and Tickets
+- [Tickets](https://www.mlb.com/tickets): League ticket hub with links to team ticketing and event sales.
+- [Ballpark](https://www.mlb.com/ballpark): Ballpark guides, venue information, and fan experience resources.
+- [Fan Forums](https://www.mlb.com/fans): Fan-focused content, activities, and engagement resources.
+- [MLB Shop](https://www.mlbshop.com/): Official merchandise store for jerseys, apparel, and collectibles.
+- [Apps](https://www.mlb.com/apps): Official MLB apps for scores, streaming, and mobile access.
 
-## Minor Leagues & Player Development
-
-- [MLB Pipeline | Minor League Baseball](https://www.mlb.com/pipeline): MLB Pipeline prospect rankings, news, and minor league coverage
-
-## International & Special Events
-
-- [World Baseball Classic | MLB.com](https://www.mlb.com/world-baseball-classic): Official World Baseball Classic tournament coverage and results
-- [Athletes Unlimited Softball League | MLB.com](https://www.mlb.com/ausl): Athletes Unlimited Softball League rosters, schedule, and news
-
-## Streaming & Multimedia Content
-
-- [MLB.TV Out-of-Market Packages | Buy MLB.TV | MLB.com](https://www.mlb.com/live-stream-games/subscribe): MLB.TV streaming subscription packages and out-of-market game access
-- [MLB Podcasts: Morning Lineup, Pipeline, and more | MLB.com](https://www.mlb.com/fans/podcasts): MLB podcast directory including Morning Lineup and Pipeline shows
-
-## Historical & Reference
-
-- [Postseason History | MLB.com](https://www.mlb.com/postseason/history): MLB playoff history, year-by-year recaps, and historical records
+## History and Reference
+- [Official Information](https://www.mlb.com/official-information): Rules, executives, umpires, and league reference information.
+- [Postseason History](https://www.mlb.com/postseason/history): Historical postseason results, champions, and year-by-year recaps.
+- [Hall of Fame](https://www.mlb.com/hall-of-fame): Hall of Fame coverage, inductees, and related baseball history.
+- [Record Book](https://www.mlb.com/stats): Statistical records and leaderboards across MLB history.
+- [Glossary](https://www.mlb.com/glossary): Definitions for baseball terms, stats, and advanced metrics.

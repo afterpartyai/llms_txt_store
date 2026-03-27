@@ -1,63 +1,92 @@
 # Congress.gov
+> Official U.S. federal legislative information portal for bills, laws, committee activity, the Congressional Record, and member data.
 
-> > Official repository of U.S. federal legislative information including bills, public laws, committee hearings, and Congressional records from the U.S. Government Publishing Office.
+Congress.gov, maintained by the Library of Congress, provides authoritative access to legislative information from the U.S. Congress, including bill text and status, public laws, committee materials, nominations, treaties, and member profiles. It also offers help, data services, and search tools for tracking congressional activity across multiple Congresses.
 
-Congress.gov provides comprehensive access to legislative documents from the House of Representatives and Senate across multiple Congressional sessions (106th-119th Congresses). The site serves as the authoritative source for tracking legislation, public laws, committee hearings, and Congressional resolutions, maintained by the Government Publishing Office and the Library of Congress.
+## Core Legislative Resources
+- [Congress.gov Home](https://www.congress.gov/): Main entry point for searching and browsing U.S. legislative information.
+- [Legislation](https://www.congress.gov/legislation): Browse bills, resolutions, and related legislative activity across Congresses.
+- [Public Laws](https://www.congress.gov/public-laws): Access slip laws and enacted public legislation by Congress.
+- [Committee Reports](https://www.congress.gov/committee-reports): Browse House and Senate committee reports linked to legislation.
+- [Congressional Record](https://www.congress.gov/congressional-record): Search daily proceedings, debates, and extensions of remarks.
+- [Nominations](https://www.congress.gov/nominations): Track presidential nominations considered by the Senate.
+- [Treaties](https://www.congress.gov/treaties): Access treaty documents and Senate treaty actions.
+- [House Communication](https://www.congress.gov/house-communication): Browse official communications received by the House.
+- [Senate Communication](https://www.congress.gov/senate-communication): Browse official communications received by the Senate.
 
-## Key Topics
+## Browse by Congress and Chamber
+- [Current Congress](https://www.congress.gov/current-congress): Overview page for the current Congress and recent activity.
+- [House of Representatives](https://www.congress.gov/house-committee-meeting): Entry point for House committee meeting materials and activity.
+- [Senate](https://www.congress.gov/senate-committee-meeting): Entry point for Senate committee meeting materials and activity.
+- [All Congresses](https://www.congress.gov/browse): Browse legislative collections by Congress, type, and topic.
+- [Bills and Resolutions Search](https://www.congress.gov/search?q=%7B%22source%22%3A%22legislation%22%7D): Search interface for legislation across all available Congresses.
+- [Public Laws Search](https://www.congress.gov/search?q=%7B%22source%22%3A%22public-laws%22%7D): Search enacted public laws and related metadata.
+- [Committee Reports Search](https://www.congress.gov/search?q=%7B%22source%22%3A%22committee-reports%22%7D): Search committee reports by number, title, and Congress.
+- [Congressional Record Search](https://www.congress.gov/search?q=%7B%22source%22%3A%22congressional-record%22%7D): Search debates, statements, and proceedings in the Record.
 
-- Public Laws
-- 117th Congress
-- 119th Congress
-- House of Representatives
-- Senate
-- Congressional Hearings
-- Bills and Resolutions
-- United States Code
-- Department of Veterans Affairs
-- Committee on Transportation and Infrastructure
-- U.S. Government Publishing Office
-- Federal Legislation
-- Banking Regulation
-- Armed Forces
-- Homeland Security
+## Committees and Hearings
+- [Committee Meetings](https://www.congress.gov/committee-meeting): Browse scheduled and past congressional committee meetings.
+- [House Committee Meetings](https://www.congress.gov/house-committee-meeting): Browse House committee hearings and meeting records.
+- [Senate Committee Meetings](https://www.congress.gov/senate-committee-meeting): Browse Senate committee hearings and meeting records.
+- [House Committee Reports](https://www.congress.gov/search?q=%7B%22source%22%3A%22committee-reports%22%2C%22chamber%22%3A%22House%22%7D): Search committee reports issued by House committees.
+- [Senate Committee Reports](https://www.congress.gov/search?q=%7B%22source%22%3A%22committee-reports%22%2C%22chamber%22%3A%22Senate%22%7D): Search committee reports issued by Senate committees.
+- [Committee Activity in Legislation](https://www.congress.gov/search?q=%7B%22source%22%3A%22legislation%22%2C%22search%22%3A%22committee%22%7D): Search legislation with committee-related actions and references.
 
-## Major Public Laws
+## Members and Leadership
+- [Members](https://www.congress.gov/members): Browse current and historical members of Congress.
+- [Current Members of the House](https://www.congress.gov/members?q=%7B%22chamber%22%3A%22House%22%2C%22currentMember%22%3A%22true%22%7D): Browse current House members and their profiles.
+- [Current Members of the Senate](https://www.congress.gov/members?q=%7B%22chamber%22%3A%22Senate%22%2C%22currentMember%22%3A%22true%22%7D): Browse current Senators and their profiles.
+- [Member Profiles Search](https://www.congress.gov/search?q=%7B%22source%22%3A%22members%22%7D): Search members by name, state, party, or chamber.
+- [House Leadership](https://www.congress.gov/members?q=%7B%22chamber%22%3A%22House%22%7D): Browse House member listings and leadership-related profiles.
+- [Senate Leadership](https://www.congress.gov/members?q=%7B%22chamber%22%3A%22Senate%22%7D): Browse Senate member listings and leadership-related profiles.
 
-- [SFC Heath Robinson PACT Act - Public Law 117-168](https://www.congress.gov/117/plaws/publ168/PLAW-117publ168.htm): Veterans toxic exposure healthcare and benefits expansion (117th)
-- [Gramm-Leach-Bliley Act - Public Law 106-102](https://www.congress.gov/106/plaws/publ102/PLAW-106publ102.htm): Financial Services Modernization Act repealing Glass-Steagall (106th)
-- [VOCA Fix to Sustain Crime Victims Fund Act - Public Law 117-27](https://www.congress.gov/117/plaws/publ27/PLAW-117publ27.htm): Expands Crime Victims Fund with deferred prosecution agreements (117th)
-- [SPEED Recovery Act - Public Law 117-189](https://www.congress.gov/117/plaws/publ189/PLAW-117publ189.htm): Increases disaster relief simplified procedure threshold (117th)
-- [Firefighter PFAS Protection Act - Public Law 117-248](https://www.congress.gov/117/plaws/publ248/PLAW-117publ248.htm): FEMA guidance on PFAS exposure in firefighting foam and equipment (117th)
-- [Sami's Law - Public Law 117-330](https://www.congress.gov/117/plaws/publ330/PLAW-117publ330.htm): GAO study on rideshare safety and assault prevention measures (117th)
-- [K-12 Cybersecurity Act of 2021 - Public Law 117-47](https://www.congress.gov/117/plaws/publ47/PLAW-117publ47.htm): CISA cybersecurity support and guidance for K-12 schools (117th)
+## Bill Text, Actions, and Status
+- [All Actions Search](https://www.congress.gov/search?q=%7B%22source%22%3A%22legislation%22%7D): Search legislation with status, actions, sponsors, and subjects.
+- [Amendments](https://www.congress.gov/amendments): Browse congressional amendments and amendment activity.
+- [Cosponsors](https://www.congress.gov/search?q=%7B%22source%22%3A%22legislation%22%2C%22search%22%3A%22cosponsors%22%7D): Search legislation with cosponsorship information.
+- [Subjects](https://www.congress.gov/browse): Browse legislation by policy area and legislative subject terms.
+- [Summaries](https://www.congress.gov/search?q=%7B%22source%22%3A%22legislation%22%2C%22search%22%3A%22summary%22%7D): Search bills and resolutions with official summaries.
+- [Text Versions](https://www.congress.gov/search?q=%7B%22source%22%3A%22legislation%22%2C%22search%22%3A%22text%22%7D): Search bill text versions and related documents.
+- [Roll Call Votes](https://www.congress.gov/search?q=%7B%22source%22%3A%22legislation%22%2C%22search%22%3A%22roll%20call%22%7D): Search legislation and records referencing roll call votes.
 
-## Veterans Affairs and Defense
+## Nominations and Treaties
+- [Nominations Overview](https://www.congress.gov/nominations): Browse presidential nominations submitted to the Senate.
+- [Nominations Search](https://www.congress.gov/search?q=%7B%22source%22%3A%22nominations%22%7D): Search nominations by nominee, position, committee, or status.
+- [Treaties Overview](https://www.congress.gov/treaties): Browse treaty documents and Senate consideration history.
+- [Treaties Search](https://www.congress.gov/search?q=%7B%22source%22%3A%22treaties%22%7D): Search treaties by title, number, Congress, or action.
+- [Senate Executive Business](https://www.congress.gov/search?q=%7B%22source%22%3A%22nominations%22%7D): Search Senate executive business related to nominations.
+- [Treaty Actions](https://www.congress.gov/search?q=%7B%22source%22%3A%22treaties%22%2C%22search%22%3A%22action%22%7D): Search treaty records with action and status information.
 
-- [SFC Heath Robinson PACT Act - Public Law 117-168](https://www.congress.gov/117/plaws/publ168/PLAW-117publ168.htm): Veterans toxic exposure healthcare and benefits expansion (117th)
-- [Patient Advocate Tracker Act - Public Law 117-175](https://www.congress.gov/117/plaws/publ175/PLAW-117publ175.htm): VA electronic complaint tracking system for patient advocacy (117th)
-- [Veteran Healthcare Worker Recruitment Act - Public Law 117-67](https://www.congress.gov/117/plaws/publ67/PLAW-117publ67.htm): VA recruitment of separating military healthcare workers (117th)
-- [H.R. 6823 - TBI Diagnostic Technology Pilot Program](https://www.congress.gov/119/bills/hr6823/BILLS-119hr6823ih.htm): DoD pilot for traumatic brain injury diagnostic technology (119th)
+## Search, Alerts, and Tracking
+- [Search Congress.gov](https://www.congress.gov/search): Main search interface for all Congress.gov collections.
+- [Saved Searches](https://www.congress.gov/saved-searches): Manage saved searches for recurring legislative queries.
+- [Email Alerts](https://www.congress.gov/email-alerts): Create alerts for bills, members, committees, and search results.
+- [Get Alerts for Legislation](https://www.congress.gov/help/alerts-on-legislation): Help page for tracking bills and legislative activity by email.
+- [RSS and Feeds Help](https://www.congress.gov/help/rss-and-atom-feeds): Learn about available RSS and Atom feeds for site content.
+- [Search Tips](https://www.congress.gov/help/search-tips): Guidance for constructing effective searches and using filters.
+- [Understanding Search Results](https://www.congress.gov/help/understanding-search-results): Help for interpreting result types, facets, and sorting.
 
-## Current Bills and Resolutions (119th Congress)
+## Data, APIs, and Bulk Access
+- [Congress.gov API](https://api.congress.gov/): Official API endpoint for programmatic access to legislative data.
+- [API Documentation](https://api.congress.gov/): API landing page with authentication and usage information.
+- [Data at Congress.gov](https://www.congress.gov/help/data-at-congressgov): Overview of data sources, formats, and site coverage.
+- [XML Bulk Data](https://www.congress.gov/help/using-data-offsite): Guidance for using Congress.gov data outside the website.
+- [Coverage Dates](https://www.congress.gov/help/coverage-dates): Reference for collection coverage by date and Congress.
+- [About the Legislative Information System](https://www.congress.gov/help/legislative-information-system): Background on legislative data systems and migration to Congress.gov.
 
-- [H.R. 6823 - TBI Diagnostic Technology Pilot Program](https://www.congress.gov/119/bills/hr6823/BILLS-119hr6823ih.htm): DoD pilot for traumatic brain injury diagnostic technology (119th)
-- [S. 2503 - ROTOR Act (Aviation Safety)](https://www.congress.gov/119/bills/s2503/BILLS-119s2503rs.htm): FAA rulemaking on ADS-B requirements for rotorcraft airspace (119th)
-- [H.R. 1294 - CBP Image Technician Pilot Program](https://www.congress.gov/119/bills/hr1294/BILLS-119hr1294ih.htm): CBP Office of Field Operations image technician pilot program (119th)
-- [H. Res. 953 - Rules for H.R. 6703 Consideration](https://www.congress.gov/119/bills/hres953/BILLS-119hres953rh.htm): House resolution establishing debate rules for H.R. 6703 (119th)
+## Help and Reference
+- [Help](https://www.congress.gov/help): Central help hub for using Congress.gov features and collections.
+- [About Congress.gov](https://www.congress.gov/about): Overview of the site, its purpose, and participating institutions.
+- [Understanding the Legislative Process](https://www.congress.gov/help/learn-about-the-legislative-process): Introductory guide to how federal legislation moves through Congress.
+- [Glossary](https://www.congress.gov/help/glossary): Definitions of legislative terms used throughout the site.
+- [FAQs](https://www.congress.gov/help/faq): Frequently asked questions about content, search, and site functionality.
+- [How to Find Bill Numbers](https://www.congress.gov/help/how-to-find-bill-numbers): Practical guidance for locating legislation by citation or title.
+- [Video Tutorials](https://www.congress.gov/help/video-tutorials): Instructional videos for searching and tracking congressional information.
+- [Contact Us](https://www.congress.gov/contact-us): Contact information for questions, feedback, and support.
 
-## Congressional Hearings and Reports
-
-- [The State of Climate Science and Why It Matters](https://www.congress.gov/116/chrg/CHRG-116hhrg35231/CHRG-116hhrg35231.htm): House Science Committee hearing on climate change (Feb 2019, 116th)
-
-## Regulatory and Administrative Laws
-
-- [Government Publishing Office Director Term Limits - Public Law 117-213](https://www.congress.gov/117/plaws/publ213/PLAW-117publ213.htm): Establishes 10-year term for GPO Director with Senate confirmation (117th)
-- [Low Power Protection Act - Public Law 117-344](https://www.congress.gov/117/plaws/publ344/PLAW-117publ344.htm): FCC rulemaking on Class A television licensing requirements (117th)
-- [Asian Pacific American Museum Commission Act - Public Law 117-140](https://www.congress.gov/117/plaws/publ140/PLAW-117publ140.htm): Establishes commission to study national AAPI museum creation (117th)
-
-## Optional
-
-- [Charles P. Nord Post Office Designation - Public Law 117-292](https://www.congress.gov/117/plaws/publ292/PLAW-117publ292.htm): Names Perham, Minnesota post office for Charles P. Nord (117th)
-- [Matthew R. Turcotte Post Office Designation - Public Law 117-87](https://www.congress.gov/117/plaws/publ87/PLAW-117publ87.htm): Names Slatersville, RI post office for Matthew R. Turcotte (117th)
-- [Don Young Recognition Act - Public Law 117-358](https://www.congress.gov/117/plaws/publ358/PLAW-117publ358.htm): Designates Alaska mountain as Mount Young for Rep. Don Young (117th)
+## News and Site Updates
+- [Congress.gov Blog](https://blog.congress.gov/): Official blog with feature announcements, tips, and legislative data updates.
+- [Site Alerts](https://www.congress.gov/help/site-alerts): Notices about outages, maintenance, and important service changes.
+- [New on Congress.gov](https://www.congress.gov/help/whats-new): Recent feature releases, enhancements, and content updates.
+- [Release Notes](https://www.congress.gov/help/whats-new): Summary of changes and improvements to the platform.
+- [Webinars and Training](https://www.congress.gov/help/video-tutorials): Training materials and recorded tutorials for users.

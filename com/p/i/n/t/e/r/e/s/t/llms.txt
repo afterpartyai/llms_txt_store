@@ -1,26 +1,81 @@
-# Pinterest Developers
+# Pinterest
 
-> Pinterest's developer platform providing APIs, integration tools, and resources for building with Pinterest's ecosystem.
+> Discover recipes, home ideas, style inspiration, shopping inspiration, and visual ideas to try across every interest.
 
-Pinterest Developers offers comprehensive documentation and tools for developers to integrate Pinterest's APIs, manage product catalogs, track conversions, and build applications on the Pinterest platform. The platform serves as the central hub for accessing Pinterest's API services, including the Conversions API, Shopping API, and developer tools.
+Pinterest helps people find and save ideas through Pins, boards, search, shopping, and creator content. Its ecosystem also includes business advertising tools, analytics, shopping features, and a developer platform for integrations, catalogs, and conversion tracking.
 
-## Key Topics
+## Main Platform
+- [Pinterest Home](https://www.pinterest.com/): Main entry point for discovering ideas, Pins, boards, and personalized inspiration.
+- [Explore](https://www.pinterest.com/ideas/): Browse curated ideas, trends, and inspiration across popular categories.
+- [Today](https://www.pinterest.com/today/): Editorial destination featuring timely trends, seasonal ideas, and curated inspiration.
+- [Watch](https://www.pinterest.com/watch/): Video-focused feed for discovering creator content and idea-based videos.
+- [Search](https://www.pinterest.com/search/): Search Pins, products, creators, and boards across Pinterest topics.
+- [Create Pin](https://www.pinterest.com/pin-builder/): Interface for creating and publishing new Pins to Pinterest.
+- [Business Hub](https://www.pinterest.com/business/hub/): Central workspace for business accounts, tools, and account management.
 
-- Pinterest API
-- Conversions API
-- Pinterest Tag
-- API for Shopping
-- Product Catalogs
-- Conversions Tracking
-- Developer Platform
-- Content Management
-- Ads Management
-- Analytics
-- Developer Portal
-- Getting Started
-- Pinterest Integration
+## Help Center
+- [Pinterest Help Center](https://help.pinterest.com/): Official support hub for account, privacy, safety, and product help.
+- [Getting Started on Pinterest](https://help.pinterest.com/en/guide/all-about-pinterest): Overview of Pinterest basics, Pins, boards, and account use.
+- [Create and Manage Boards](https://help.pinterest.com/en/guide/boards): Help for creating, organizing, and managing Pinterest boards.
+- [Pins and Idea Content](https://help.pinterest.com/en/guide/pins): Guidance on creating, saving, and managing Pins.
+- [Account and Profile Settings](https://help.pinterest.com/en/guide/account-and-profile): Help with profile setup, settings, and account management.
+- [Privacy and Data Settings](https://help.pinterest.com/en/guide/privacy-and-data): Information about privacy controls and personal data settings.
+- [Safety and Reporting](https://help.pinterest.com/en/guide/report-something-on-pinterest): Guidance for reporting content, users, and safety issues.
 
-## Developer Platform
+## Business and Advertising
+- [Pinterest Business](https://business.pinterest.com/): Business platform for advertising, shopping, analytics, and brand growth on Pinterest.
+- [Advertise on Pinterest](https://business.pinterest.com/advertise/): Overview of Pinterest advertising products, formats, and campaign benefits.
+- [Business Account Creation](https://business.pinterest.com/create/): Sign-up flow for creating a Pinterest business account.
+- [Pinterest Trends](https://trends.pinterest.com/): Searchable trend insights based on Pinterest search behavior and seasonal interest.
+- [Business Success Stories](https://business.pinterest.com/success-stories/): Case studies showing how brands use Pinterest to drive results.
+- [Pinterest Academy](https://business.pinterest.com/pinterest-academy/): Training resources for advertisers, agencies, and business users.
+- [Business Help Center](https://help.pinterest.com/en/business): Support resources for advertisers, merchants, and business accounts.
 
-- [Pinterest Developers](https://developers.pinterest.com/): Main developer platform for Pinterest APIs and integration tools
-- [Pinterest Developers Portal](https://dev.pinterest.com/): Developer portal for Pinterest APIs, conversions tracking, and catalogs
+## Shopping and Merchants
+- [Pinterest Shopping](https://business.pinterest.com/shopping/): Overview of shopping features for merchants and product discovery on Pinterest.
+- [Catalogs](https://help.pinterest.com/en/business/article/catalogs): Help for uploading and managing product catalogs for shopping.
+- [Verified Merchant Program](https://help.pinterest.com/en/business/article/verified-merchant-program): Information about merchant verification and shopping eligibility.
+- [Product Tagging](https://help.pinterest.com/en/business/article/tag-products): Guidance on tagging products in Pins for shopping experiences.
+- [Shop from Pins](https://help.pinterest.com/en/guide/shop-on-pinterest): User help for browsing and buying products discovered on Pinterest.
+- [Merchant Guidelines](https://policy.pinterest.com/en/merchant-guidelines): Rules and requirements for merchants selling through Pinterest.
+
+## Creators and Publishing
+- [Creator Hub](https://www.pinterest.com/creator-hub/): Resources and tools for creators publishing content on Pinterest.
+- [Creator Inclusion Fund](https://www.pinterest.com/creator-hub/inclusion-fund/): Program information supporting underrepresented creators on Pinterest.
+- [Pinterest Newsroom](https://newsroom.pinterest.com/): Official announcements, product news, and company updates.
+- [Best Practices for Pins](https://business.pinterest.com/creative-best-practices/): Creative guidance for making effective visual content and ads.
+- [Community Guidelines](https://policy.pinterest.com/en/community-guidelines): Rules governing acceptable content and behavior on Pinterest.
+
+## Developers
+- [Pinterest Developers](https://developers.pinterest.com/): Main developer portal for APIs, apps, catalogs, and conversion integrations.
+- [Developer Documentation](https://developers.pinterest.com/docs/): Documentation hub for Pinterest platform capabilities and integration guides.
+- [API Reference](https://developers.pinterest.com/docs/api/v5/): Reference documentation for Pinterest API v5 endpoints and objects.
+- [Get Started](https://developers.pinterest.com/docs/getting-started/introduction/): Introductory guide to authenticating and building with the Pinterest API.
+- [App Review Process](https://developers.pinterest.com/docs/app-review/overview/): Requirements and workflow for submitting apps for Pinterest review.
+- [Access Tokens](https://developers.pinterest.com/docs/getting-started/authentication/): Authentication guidance for OAuth, scopes, and token handling.
+- [Developer Community](https://developers.pinterest.com/community/): Community space for developer questions, updates, and support.
+
+## Developer Guides
+- [Conversions API](https://developers.pinterest.com/docs/conversions/conversions-api/): Guide to sending conversion events directly to Pinterest servers.
+- [Pinterest Tag](https://developers.pinterest.com/docs/conversions/pinterest-tag/): Documentation for browser-based conversion tracking with the Pinterest Tag.
+- [Catalogs API](https://developers.pinterest.com/docs/shopping/catalogs/): Guides for managing product catalogs and shopping data programmatically.
+- [Shopping API](https://developers.pinterest.com/docs/shopping/shopping-api/): Documentation for shopping-related endpoints and merchant integrations.
+- [Organic Content API](https://developers.pinterest.com/docs/api/v5/#tag/pins): API support for Pins, boards, and organic account content.
+- [Audience and Ad Accounts](https://developers.pinterest.com/docs/api/v5/#tag/audience_insights): Reference for audience insights and advertising-related resources.
+- [Webhooks](https://developers.pinterest.com/docs/api/v5/#tag/webhooks): API documentation for subscribing to Pinterest webhook events.
+
+## Policies and Legal
+- [Pinterest Policy Center](https://policy.pinterest.com/): Central hub for Pinterest policies, legal terms, and platform rules.
+- [Terms of Service](https://policy.pinterest.com/en/terms-of-service): Legal terms governing use of Pinterest products and services.
+- [Privacy Policy](https://policy.pinterest.com/en/privacy-policy): Details on data collection, use, and privacy practices.
+- [Advertising Guidelines](https://policy.pinterest.com/en/advertising-guidelines): Rules and restrictions for ads running on Pinterest.
+- [Community Guidelines](https://policy.pinterest.com/en/community-guidelines): Standards for content, safety, and user conduct.
+- [Copyright Policy](https://policy.pinterest.com/en/copyright): Information on copyright reporting and intellectual property procedures.
+- [Creator Guidelines](https://policy.pinterest.com/en/creator-guidelines): Policy guidance relevant to creators publishing on Pinterest.
+
+## Company and Updates
+- [Pinterest Newsroom](https://newsroom.pinterest.com/): Official source for company announcements, launches, and press materials.
+- [Engineering Blog](https://medium.com/pinterest-engineering): Technical articles from Pinterest engineering teams and platform builders.
+- [Pinterest Careers](https://www.pinterestcareers.com/): Careers site with roles, culture information, and hiring resources.
+- [Investor Relations](https://investor.pinterestinc.com/): Financial reports, governance information, and investor updates.
+- [Pinterest Labs](https://labs.pinterest.com/): Research and experimentation projects from Pinterest teams.

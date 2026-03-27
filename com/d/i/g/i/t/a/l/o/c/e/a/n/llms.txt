@@ -1,63 +1,101 @@
 # DigitalOcean
 
-> > DigitalOcean is an AI-powered unified cloud infrastructure platform offering scalable compute, managed databases, Kubernetes, serverless functions, and Gradient AI for optimized AI/ML workload deployment.
+> DigitalOcean is a cloud platform for building, deploying, and scaling applications with compute, Kubernetes, databases, storage, networking, and AI infrastructure.
 
-DigitalOcean provides developers and enterprises with accessible cloud infrastructure services ranging from virtual machines (Droplets) to managed Kubernetes clusters, databases, and its flagship Gradient AI platform for agentic inference. The platform emphasizes simplicity, affordability, and integrated AI capabilities across its product ecosystem.
+DigitalOcean provides developer-focused cloud infrastructure and platform services, including virtual machines, managed Kubernetes, serverless functions, managed databases, object storage, networking, observability, and AI products. Its documentation, API reference, tutorials, and product guides cover both foundational cloud workflows and production-scale application deployment.
 
-## Key Topics
+## Documentation
 
-- Gradient AI
-- Droplets
-- Managed Kubernetes
-- App Platform
-- GPU Droplets
-- Managed Databases
-- Serverless Functions
-- Cloud Infrastructure
-- AI Inference
-- High-Performance Computing
-- Auto-scaling
-- Bare Metal GPUs
-- Cloudways
-- API
-- Disaster Recovery
+- [Documentation Home](https://docs.digitalocean.com/): Central documentation hub for products, platform features, and operational guides.
+- [Products Overview](https://docs.digitalocean.com/products/): Entry point for product-specific documentation across compute, storage, networking, and databases.
+- [API Documentation](https://docs.digitalocean.com/reference/api/): Reference docs for the DigitalOcean public API and resource operations.
+- [CLI Documentation](https://docs.digitalocean.com/reference/doctl/): Reference for doctl commands, authentication, and automation workflows.
+- [Paperspace Documentation](https://docs.digitalocean.com/products/paperspace/): Documentation for Paperspace GPU cloud and machine learning workflows.
+- [Release Notes](https://docs.digitalocean.com/release-notes/): Product and platform release notes across DigitalOcean services.
+- [Support Home](https://docs.digitalocean.com/support/): Support policies, contact options, and account assistance resources.
 
-## Core Cloud Infrastructure
+## Compute and Application Platform
 
-- [DigitalOcean: AI-Powered Unified Inference Cloud Infrastructure](https://www.digitalocean.com): DigitalOcean homepage: AI cloud infrastructure with Gradient AI platform.
-- [DigitalOcean Droplets | Scalable Cloud Compute Starting at $4/mo](https://www.digitalocean.com/products/droplets): DigitalOcean Droplets: scalable virtual machines with flexible configurations.
-- [Droplets | DigitalOcean's Scalable Virtual Machines](https://www.digitalocean.com/products/droplets/cpu-optimized): CPU-Optimized Droplets for high-performance analytics and media streaming.
-- [DigitalOcean Managed Kubernetes | Starting at $12/mo.](https://www.digitalocean.com/products/kubernetes): DigitalOcean Managed Kubernetes with free control plane and auto-scaling.
-- [DigitalOcean App Platform | Build, Deploy, and Scale Apps with Ease](https://www.digitalocean.com/products/app-platform): App Platform: deploy and scale apps from code to production in clicks.
-- [DigitalOcean Functions | Serverless Computing Starting at $0/mo](https://www.digitalocean.com/products/functions): DigitalOcean Functions: serverless computing with auto-scaling.
+- [Droplets](https://docs.digitalocean.com/products/droplets/): Documentation for virtual machines, images, resizing, backups, and lifecycle management.
+- [Kubernetes](https://docs.digitalocean.com/products/kubernetes/): Managed Kubernetes documentation for clusters, node pools, upgrades, and networking.
+- [App Platform](https://docs.digitalocean.com/products/app-platform/): Guides for deploying apps, workers, static sites, and managed services.
+- [Functions](https://docs.digitalocean.com/products/functions/): Serverless functions documentation for triggers, namespaces, and deployment workflows.
+- [Container Registry](https://docs.digitalocean.com/products/container-registry/): Documentation for storing, managing, and integrating container images.
+- [GenAI Platform](https://docs.digitalocean.com/products/genai-platform/): Documentation for DigitalOcean's managed generative AI platform capabilities.
 
-## Gradient AI & GPU Infrastructure
+## Storage and Databases
 
-- [Gradient AI Agentic Inference Cloud | DigitalOcean](https://www.digitalocean.com/products/gradient): Gradient AI: agentic inference cloud for optimized AI workload deployment.
-- [Gradient™ AI Platform | Build AI Agents with DigitalOcean](https://www.digitalocean.com/products/gradient/platform): Gradient Platform: serverless AI agents with LLM access and RAG.
-- [Gradient™ AI GPU Droplets | DigitalOcean](https://www.digitalocean.com/products/gradient/gpu-droplets): Gradient GPU Droplets with NVIDIA and AMD for AI/ML acceleration.
-- [Gradient™ AI Bare Metal GPUs for AI/ML Workloads | DigitalOcean](https://www.digitalocean.com/products/gradient/bare-metal-gpus): Bare Metal GPUs with NVIDIA H100/H200 and AMD MI300X for AI.
-- [1-Click Models - Gradient™ AI | DigitalOcean](https://www.digitalocean.com/products/gradient/1-click-models): Deploy AI models with one-click on Gradient GPU infrastructure.
+- [Managed Databases](https://docs.digitalocean.com/products/databases/): Documentation for provisioning, securing, scaling, and operating managed database clusters.
+- [Spaces](https://docs.digitalocean.com/products/spaces/): Object storage documentation for buckets, access keys, CDN, and S3-compatible usage.
+- [Volumes](https://docs.digitalocean.com/products/volumes/): Block storage documentation for attaching, resizing, and snapshotting persistent disks.
+- [Backups](https://docs.digitalocean.com/products/backups/): Backup documentation for Droplets and supported recovery workflows.
+- [Snapshots](https://docs.digitalocean.com/products/snapshots/): Documentation for creating and restoring infrastructure snapshots.
+- [Managed Caching](https://docs.digitalocean.com/products/databases/managed-caching/): Documentation for managed Redis-compatible caching deployments.
 
-## Data & Database Services
+## Networking and Security
 
-- [Worry-Free Managed Database Hosting | DigitalOcean](https://www.digitalocean.com/products/managed-databases): DigitalOcean Managed Databases with auto-scaling, backup, and failover.
-- [DigitalOcean Backups](https://www.digitalocean.com/products/backups): DigitalOcean Backups: automated disaster recovery and data protection.
+- [Networking](https://docs.digitalocean.com/products/networking/): Overview of VPC, load balancers, firewalls, DNS, and related networking features.
+- [VPC](https://docs.digitalocean.com/products/networking/vpc/): Documentation for private networking and network isolation between resources.
+- [Load Balancers](https://docs.digitalocean.com/products/networking/load-balancers/): Guides for distributing traffic across Droplets and Kubernetes workloads.
+- [Cloud Firewalls](https://docs.digitalocean.com/products/networking/firewalls/): Documentation for network-level traffic filtering and access control.
+- [DNS](https://docs.digitalocean.com/products/networking/dns/): Documentation for domain management, records, and DNS configuration.
+- [Reserved IPs](https://docs.digitalocean.com/products/networking/reserved-ips/): Documentation for static IP assignment and failover scenarios.
+- [DDoS Protection](https://docs.digitalocean.com/products/networking/ddos/): Documentation for platform DDoS mitigation capabilities and coverage.
 
-## Managed Hosting & Platforms
+## AI and GPU Infrastructure
 
-- [Fully Managed VPS Hosting - Start for Free | Cloudways](https://www.digitalocean.com/products/cloudways): Cloudways: fully managed VPS hosting for WordPress, PHP, and Laravel.
+- [GenAI Platform Overview](https://www.digitalocean.com/products/genai-platform): Product overview for managed AI application and inference workflows.
+- [GPU Droplets](https://www.digitalocean.com/products/gpu-droplets): Product page for GPU-backed virtual machines for AI and accelerated computing.
+- [Paperspace](https://www.digitalocean.com/products/paperspace): Product overview for GPU cloud, notebooks, and machine learning infrastructure.
+- [Paperspace Notebooks](https://docs.digitalocean.com/products/paperspace/notebooks/): Documentation for managed notebooks and interactive ML development environments.
+- [Paperspace Machines](https://docs.digitalocean.com/products/paperspace/machines/): Documentation for GPU and CPU virtual machines in Paperspace.
+- [Paperspace Deployments](https://docs.digitalocean.com/products/paperspace/deployments/): Documentation for serving machine learning models and inference endpoints.
 
-## Documentation & Resources
+## API, CLI, and Developer Tools
 
-- [Product Home | DigitalOcean Documentation](https://docs.digitalocean.com/products): DigitalOcean product features, pricing, and usage guides for all services.
-- [DigitalOcean Blog](https://www.digitalocean.com/blog): DigitalOcean product updates, news, and educational content for developers.
+- [API Reference](https://docs.digitalocean.com/reference/api/): REST API reference for managing DigitalOcean resources programmatically.
+- [API Getting Started](https://docs.digitalocean.com/reference/api/api-reference/): Overview of authentication, endpoints, and API resource structure.
+- [doctl CLI](https://docs.digitalocean.com/reference/doctl/): Command-line interface reference for provisioning and automation.
+- [doctl GitHub Repository](https://github.com/digitalocean/doctl): Source code and releases for the official DigitalOcean CLI.
+- [PyDo](https://docs.digitalocean.com/reference/pydo/): Python client library documentation for the DigitalOcean API.
+- [Terraform Provider](https://docs.digitalocean.com/reference/terraform/reference/): Terraform provider reference for infrastructure as code workflows.
+- [DigitalOcean API GitHub Repository](https://github.com/digitalocean/openapi): OpenAPI specification and related API definition resources.
 
-## Support & Sales
+## Tutorials and How-To Guides
 
-- [Support Home | DigitalOcean Documentation](https://www.digitalocean.com/support): DigitalOcean technical support and account help resources.
-- [Contact Sales at DigitalOcean](https://www.digitalocean.com/company/contact/sales): Contact DigitalOcean sales for migration and enterprise solutions.
+- [Tutorials Home](https://www.digitalocean.com/community/tutorials): Library of tutorials for Linux, cloud infrastructure, and application deployment.
+- [Community Home](https://www.digitalocean.com/community): Community hub for tutorials, questions, and educational resources.
+- [Questions](https://www.digitalocean.com/community/questions): Community Q&A for troubleshooting and implementation guidance.
+- [Latest Tutorials](https://www.digitalocean.com/community/tutorials?sort=latest): Recently published tutorials across development and operations topics.
+- [Linux Basics Tag](https://www.digitalocean.com/community/tags/linux-basics): Introductory Linux tutorials and command-line learning resources.
+- [Kubernetes Tag](https://www.digitalocean.com/community/tags/kubernetes): Tutorials covering Kubernetes concepts, deployment, and operations.
+- [AI/ML Tag](https://www.digitalocean.com/community/tags/ai-ml): Tutorials related to artificial intelligence and machine learning workflows.
 
-## Optional
+## Product Pages
 
-- [Careers | DigitalOcean](https://www.digitalocean.com/careers): DigitalOcean careers, job listings, and company culture information.
+- [Droplets](https://www.digitalocean.com/products/droplets): Product overview for scalable virtual machines and cloud compute.
+- [Kubernetes](https://www.digitalocean.com/products/kubernetes): Product overview for managed Kubernetes clusters and container orchestration.
+- [App Platform](https://www.digitalocean.com/products/app-platform): Product overview for app deployment from source repositories.
+- [Functions](https://www.digitalocean.com/products/functions): Product overview for event-driven serverless compute.
+- [Managed Databases](https://www.digitalocean.com/products/managed-databases): Product overview for hosted relational and NoSQL databases.
+- [Spaces Object Storage](https://www.digitalocean.com/products/spaces): Product overview for S3-compatible object storage and CDN.
+- [Load Balancers](https://www.digitalocean.com/products/load-balancers): Product overview for managed traffic distribution.
+- [Virtual Private Cloud](https://www.digitalocean.com/products/vpc): Product overview for private cloud networking.
+
+## Reference and Status
+
+- [Documentation Reference Home](https://docs.digitalocean.com/reference/): Index of API, CLI, SDK, and infrastructure reference materials.
+- [Status Page](https://status.digitalocean.com/): Real-time service status, incidents, and maintenance updates.
+- [Service Level Agreement](https://www.digitalocean.com/legal/sla): SLA terms for covered DigitalOcean services.
+- [Pricing](https://www.digitalocean.com/pricing): Pricing overview across compute, storage, networking, and platform products.
+- [Legal](https://www.digitalocean.com/legal): Legal policies, terms, and compliance-related documents.
+- [Trust Platform](https://www.digitalocean.com/trust): Security, compliance, and trust information for the platform.
+
+## Company and Updates
+
+- [Blog](https://www.digitalocean.com/blog): Product announcements, engineering updates, and platform news.
+- [Changelog](https://docs.digitalocean.com/release-notes/): Documentation-based release notes for product changes and launches.
+- [Customer Stories](https://www.digitalocean.com/customers): Case studies showing how organizations use DigitalOcean products.
+- [Research and Reports](https://www.digitalocean.com/resources/articles): Articles and educational resources from DigitalOcean.
+- [Careers](https://www.digitalocean.com/careers): Company careers page with open roles and hiring information.
+- [Contact Sales](https://www.digitalocean.com/contact/sales): Sales contact page for enterprise and platform inquiries.

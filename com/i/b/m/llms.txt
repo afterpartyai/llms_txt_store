@@ -1,63 +1,93 @@
 # IBM
 
-> IBM delivers enterprise AI, hybrid cloud, and data management solutions that transform business operations through intelligent automation and responsible technology.
+> IBM is a global technology company providing enterprise AI, hybrid cloud, automation, infrastructure, security, consulting, and research solutions.
 
-IBM is a global technology leader offering comprehensive software, infrastructure, and consulting services designed for enterprise transformation. The site showcases IBM's core platforms including watsonx for AI, Red Hat OpenShift for hybrid cloud, and specialized solutions for data management, security, and automation across hybrid environments.
+IBM serves businesses, governments, and institutions with software, hardware, services, and technical resources spanning watsonx, Red Hat, cloud, data, security, quantum, and developer technologies.
 
-## Key Topics
+## Core Platforms
+- [IBM watsonx](https://www.ibm.com/watsonx): IBM’s enterprise AI portfolio for building, deploying, and governing AI applications and agents.
+- [IBM Cloud](https://www.ibm.com/cloud): Cloud platform and services for building, running, and managing enterprise workloads.
+- [IBM Software](https://www.ibm.com/software): IBM software portfolio across AI, automation, data, integration, and IT operations.
+- [IBM Infrastructure](https://www.ibm.com/infrastructure): Enterprise infrastructure offerings including servers, storage, and systems software.
+- [IBM Consulting](https://www.ibm.com/consulting): Consulting services for business transformation, technology modernization, and AI adoption.
+- [IBM Research](https://research.ibm.com/): IBM’s research organization covering AI, quantum, semiconductors, and advanced computing.
 
-- IBM watsonx
-- Hybrid cloud
-- Enterprise AI
-- AI agents
-- Data management
-- Digital transformation
-- IBM Consulting
-- OpenShift
-- Generative AI
-- AI governance
-- Automation
-- Analytics
-- Quantum-safe
-- Cloud migration
-- AI infrastructure
+## Documentation
+- [IBM Documentation](https://www.ibm.com/docs): Central documentation hub for IBM products, services, APIs, and technical references.
+- [IBM Cloud Docs](https://cloud.ibm.com/docs): Product documentation for IBM Cloud services, deployment, operations, and administration.
+- [watsonx Documentation](https://www.ibm.com/docs/en/watsonx): Technical documentation for watsonx products, setup, usage, and governance.
+- [IBM API Hub](https://www.ibm.com/docs/en/api-hub): API discovery and reference resources across IBM products and platforms.
+- [IBM Support](https://www.ibm.com/support): Product support portal for troubleshooting, downloads, fixes, and lifecycle information.
+- [IBM Training](https://www.ibm.com/training): Learning resources, courses, and certifications for IBM technologies and platforms.
 
-## Software & Platforms
+## AI and Data
+- [watsonx.ai](https://www.ibm.com/products/watsonx-ai): Studio for building, tuning, and deploying foundation models and machine learning workflows.
+- [watsonx.data](https://www.ibm.com/products/watsonx-data): Open, hybrid data lakehouse for analytics and AI workloads.
+- [watsonx.governance](https://www.ibm.com/products/watsonx-governance): AI governance tools for risk management, compliance, and model lifecycle oversight.
+- [IBM Granite](https://www.ibm.com/granite): IBM foundation models for enterprise AI use cases and developer workflows.
+- [Data and Analytics](https://www.ibm.com/data): IBM data platform, analytics, and data fabric offerings for enterprise decision-making.
+- [Business Analytics](https://www.ibm.com/analytics): Analytics software and solutions for planning, reporting, and performance management.
 
-- [Software | IBM](https://www.ibm.com/software): IBM software integrates AI and automation across hybrid cloud for productivity.
-- [AI Productivity Software | IBM](https://www.ibm.com/software/ai-productivity): IBM AI productivity software with intelligent agents for enterprise automation.
-- [Data Management Software | IBM](https://www.ibm.com/software/data-management): IBM data management software unifies data across hybrid environments for AI-ready analytics.
-- [Security and Governance Software | IBM](https://www.ibm.com/software/security-governance): IBM security and governance software for AI governance and data protection.
-- [Hybrid Infrastructure Management Software | IBM](https://www.ibm.com/software/hybrid-infrastructure-management): IBM hybrid infrastructure management automates and optimizes cloud environments.
+## Automation and Integration
+- [IBM Automation](https://www.ibm.com/automation): Automation portfolio for workflows, decisions, content, and IT operations.
+- [IBM Instana](https://www.ibm.com/products/instana): Observability platform for application performance monitoring across hybrid environments.
+- [IBM Turbonomic](https://www.ibm.com/products/turbonomic): Application resource management for performance, efficiency, and cost optimization.
+- [IBM Apptio](https://www.ibm.com/products/apptio): Technology business management and FinOps software for IT financial visibility.
+- [IBM webMethods](https://www.ibm.com/products/webmethods): Integration, API management, and B2B connectivity platform for enterprise systems.
+- [IBM MQ](https://www.ibm.com/products/mq): Messaging middleware for secure, reliable application and system integration.
 
-## Hybrid Cloud & Infrastructure
+## Security
+- [IBM Security](https://www.ibm.com/security): Security portfolio spanning threat detection, identity, data, and cloud protection.
+- [QRadar](https://www.ibm.com/products/qradar): SIEM and threat detection platform for security operations and incident response.
+- [Verify](https://www.ibm.com/products/verify): Identity and access management for workforce and customer authentication.
+- [Guardium](https://www.ibm.com/products/guardium): Data security platform for discovery, protection, and compliance monitoring.
+- [MaaS360](https://www.ibm.com/products/maas360): Unified endpoint management for devices, apps, and security policies.
+- [X-Force](https://www.ibm.com/x-force): Threat intelligence, incident response, and offensive security research from IBM Security.
 
-- [Hybrid Cloud Solutions and Software | IBM](https://www.ibm.com/solutions/hybrid-cloud): Hybrid cloud solutions for cloud migration, app modernization, and cloud-native development.
+## Hybrid Cloud and Infrastructure
+- [Hybrid Cloud](https://www.ibm.com/hybrid-cloud): Solutions for application modernization, containers, and multicloud operations.
+- [Red Hat on IBM](https://www.ibm.com/solutions/red-hat): IBM and Red Hat offerings for OpenShift, automation, and hybrid cloud platforms.
+- [IBM Power](https://www.ibm.com/products/power): Enterprise servers for mission-critical workloads, AI, and SAP environments.
+- [IBM Z](https://www.ibm.com/products/z): Mainframe platform for secure, resilient transaction processing and hybrid cloud integration.
+- [IBM Storage](https://www.ibm.com/storage): Storage hardware and software for data resilience, performance, and cyber recovery.
+- [LinuxONE](https://www.ibm.com/products/linuxone): Linux platform for secure, scalable workloads with high availability and efficiency.
 
-## AI & Analytics Solutions
+## Consulting and Services
+- [IBM Consulting](https://www.ibm.com/consulting): Advisory, implementation, and managed services for strategy, cloud, and AI transformation.
+- [Business Strategy](https://www.ibm.com/consulting/business-strategy): Consulting services for operating model, innovation, and business transformation strategy.
+- [Cloud Consulting](https://www.ibm.com/consulting/cloud): Services for cloud migration, modernization, and platform engineering.
+- [Cybersecurity Services](https://www.ibm.com/consulting/cybersecurity-services): Consulting and managed services for security strategy, operations, and resilience.
+- [Data and AI Services](https://www.ibm.com/consulting/data-ai): Consulting services for data modernization, analytics, and AI adoption.
+- [IBM Technology Lifecycle Services](https://www.ibm.com/services/technology-lifecycle-services): Support and infrastructure services for deployment, maintenance, and optimization.
 
-- [The 2026 Guide to AI Agents | IBM](https://www.ibm.com/think/ai-agents): Comprehensive guide to AI agents with tutorials, explainers, and expert insights.
-- [IBM AI Models](https://www.ibm.com/solutions/ai-models): IBM Granite and open-source foundation models for scalable enterprise AI.
-- [Analytics Tools and Solutions | IBM](https://www.ibm.com/solutions/analytics): IBM analytics tools and data fabric solutions for data-driven business operations.
+## Developers and APIs
+- [IBM Developer](https://developer.ibm.com/): Developer hub for tutorials, code patterns, events, and technical learning resources.
+- [IBM Cloud Catalog](https://cloud.ibm.com/catalog): Catalog of IBM Cloud services, software, and deployable infrastructure offerings.
+- [IBM Cloud API Docs](https://cloud.ibm.com/apidocs): API references and SDK documentation for IBM Cloud services.
+- [IBM Cloud Schematics](https://cloud.ibm.com/schematics/overview): Infrastructure as code service for provisioning cloud resources with Terraform.
+- [IBM Cloud Code Engine](https://cloud.ibm.com/codeengine/overview): Serverless platform for running containers, jobs, and batch workloads.
+- [IBM Cloud Kubernetes Service](https://cloud.ibm.com/kubernetes/catalog/cluster): Managed Kubernetes service for deploying and operating containerized applications.
 
-## Consulting & Transformation
+## Research and Emerging Technology
+- [IBM Quantum](https://www.ibm.com/quantum): Quantum computing platform, research, education, and developer access.
+- [IBM Research](https://research.ibm.com/): Research initiatives and publications across computing, AI, materials, and semiconductors.
+- [Think Topics: AI](https://www.ibm.com/think/topics/artificial-intelligence): IBM articles and explainers on artificial intelligence concepts and enterprise use cases.
+- [Think Topics: Hybrid Cloud](https://www.ibm.com/think/topics/hybrid-cloud): Editorial content on hybrid cloud strategy, architecture, and modernization.
+- [Think Topics: Cybersecurity](https://www.ibm.com/think/topics/cybersecurity): Articles and insights on security trends, threats, and best practices.
+- [IBM Newsroom](https://newsroom.ibm.com/): Official IBM announcements, press releases, and corporate news updates.
 
-- [Business Consulting Services | IBM](https://www.ibm.com/consulting): IBM Consulting delivers AI-driven business solutions and enterprise transformation.
-- [IBM Consulting powers enterprise transformation with Dell AI Factory with NVIDIA as the engine](https://www.ibm.com/new/product-blog/the-ai-factory-an-enterprise-transformation-engine): Dell AI Factory with NVIDIA transforms enterprise AI into scalable production capability.
+## Industries and Solutions
+- [IBM Industries](https://www.ibm.com/industries): Industry-specific solutions for sectors including finance, healthcare, telecom, and government.
+- [Financial Services](https://www.ibm.com/industries/financial-services): Solutions for banking, insurance, and financial markets modernization and compliance.
+- [Healthcare and Life Sciences](https://www.ibm.com/industries/healthcare): Technology solutions for healthcare operations, data, and patient experience.
+- [Telecommunications](https://www.ibm.com/industries/telecommunications): Solutions for network transformation, customer service, and operations automation.
+- [Government](https://www.ibm.com/industries/government): Technology and consulting solutions for public sector modernization and service delivery.
+- [Supply Chain](https://www.ibm.com/solutions/supply-chain): Solutions for supply chain visibility, planning, and operational resilience.
 
-## Customer Success Stories
-
-- [Scuderia Ferrari | IBM](https://www.ibm.com/case-studies/scuderia-ferrari): Scuderia Ferrari uses IBM AI and data technologies for global fan engagement.
-- [US Open | IBM](https://www.ibm.com/case-studies/us-open): US Open leverages hybrid cloud and AI for efficiency and fan digital experiences.
-- [Pfizer + IBM](https://www.ibm.com/case-studies/pfizer): Pfizer drives biopharmaceutical research with IBM Power Systems and SAP S/4HANA.
-- [Avid Solutions | IBM](https://www.ibm.com/case-studies/avid-solutions-international): Avid Solutions reduces project errors by 10% with IBM watsonx Orchestrate automation.
-
-## Company & Insights
-
-- [About | IBM](https://www.ibm.com/about): IBM company overview, mission, and commitment to responsible technology.
-- [A look back at the International Year of Quantum | IBM Quantum Computing Blog](https://www.ibm.com/quantum/blog/international-year-of-quantum): Celebrating the International Year of Quantum and global quantum community progress.
-
-## Optional
-
-- [Offers and Discounts | IBM](https://www.ibm.com/products/offers-and-discounts): IBM product discounts and promotional offers on select software solutions.
-- [IBM Heritage](https://www.ibm.com/history): IBM history, heritage, and century of innovation in information technology.
+## Learning and Insights
+- [IBM Think](https://www.ibm.com/think): IBM’s editorial hub for technology insights, explainers, and industry perspectives.
+- [IBM Blogs](https://www.ibm.com/blog): Product, engineering, research, and corporate blog content from IBM teams.
+- [IBM Case Studies](https://www.ibm.com/case-studies): Customer stories showing how organizations use IBM technology and services.
+- [IBM Events](https://www.ibm.com/events): Conferences, webinars, and virtual events across IBM products and topics.
+- [IBM SkillsBuild](https://skillsbuild.org/): Learning platform for students and professionals building technology and workplace skills.
+- [IBM Careers](https://www.ibm.com/careers): Careers portal for roles, culture, and opportunities across IBM worldwide.

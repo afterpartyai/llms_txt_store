@@ -1,59 +1,88 @@
 # WordPress.org
+> Open source software you can use to create a website, blog, or application.
 
-> WordPress.org is the official home of WordPress, the world's most popular open-source CMS powering millions of websites, blogs, and applications.
+WordPress.org is the official home of the WordPress open-source publishing platform and CMS. It provides core software downloads, documentation, developer references, themes, plugins, community resources, and contributor tools for building and extending WordPress.
 
-WordPress.org provides free access to the WordPress software, thousands of themes and plugins, comprehensive documentation, and community resources. It serves as the central hub for WordPress downloads, extensions, education, and the global open-source community driving the platform's development.
+## Core WordPress
+- [Download WordPress](https://wordpress.org/download/): Download the latest WordPress release with requirements, checksums, and installation guidance.
+- [Release Archive](https://wordpress.org/download/releases/): Browse current and historical WordPress core releases and package downloads.
+- [About WordPress](https://wordpress.org/about/): Learn about WordPress, its history, freedoms, and open-source project mission.
+- [Features](https://wordpress.org/about/features/): Overview of core publishing, customization, media, and site management capabilities.
+- [Requirements](https://wordpress.org/about/requirements/): Server software and version requirements for running WordPress.
+- [Roadmap](https://wordpress.org/about/roadmap/): Summary of major WordPress version milestones and project direction.
+- [Stats](https://wordpress.org/about/stats/): Usage statistics showing WordPress adoption across the web.
 
-## Key Topics
+## Documentation
+- [Documentation Home](https://wordpress.org/documentation/): Central hub for end-user documentation, setup guides, and site management help.
+- [Getting Started](https://wordpress.org/documentation/article/get-started-with-wordpress/): Introductory guide for learning WordPress basics and first steps.
+- [Installing WordPress](https://wordpress.org/documentation/article/how-to-install-wordpress/): Step-by-step instructions for installing WordPress on a server.
+- [Update WordPress](https://wordpress.org/documentation/article/updating-wordpress/): Guidance for safely updating WordPress core to newer versions.
+- [Security](https://wordpress.org/documentation/article/hardening-wordpress/): Recommended practices for securing and hardening WordPress installations.
+- [Basic Troubleshooting](https://wordpress.org/documentation/article/faq-troubleshooting/): Common troubleshooting steps for diagnosing WordPress issues.
+- [Advanced Administration Handbook](https://wordpress.org/documentation/advanced-administration/): In-depth administration topics for configuration, performance, and maintenance.
 
-- WordPress
-- Open-source CMS
-- Gutenberg Block Editor
-- WordPress Playground
-- Themes and Plugins
-- Installation and Setup
-- WordPress Hosting
-- Security
-- PHP
-- MySQL
-- Block Patterns
-- Enterprise Solutions
-- Community Contributions
-- Five for the Future
-- Website Builder
+## Developer Resources
+- [Developer Resources Home](https://developer.wordpress.org/): Portal for WordPress code reference, handbooks, APIs, and developer guides.
+- [Code Reference](https://developer.wordpress.org/reference/): Reference documentation for WordPress functions, classes, hooks, and methods.
+- [Block Editor Handbook](https://developer.wordpress.org/block-editor/): Guides and APIs for building blocks and extending the editor.
+- [Theme Handbook](https://developer.wordpress.org/themes/): Best practices and technical guidance for developing WordPress themes.
+- [Plugin Handbook](https://developer.wordpress.org/plugins/): Documentation for building, structuring, and maintaining WordPress plugins.
+- [REST API Handbook](https://developer.wordpress.org/rest-api/): Reference and guides for using and extending the WordPress REST API.
+- [CLI Handbook](https://developer.wordpress.org/cli/commands/): Command reference and usage guides for WP-CLI.
+- [Coding Standards](https://developer.wordpress.org/coding-standards/): Official coding standards for PHP, JavaScript, CSS, and accessibility.
 
-## Getting Started
+## Themes, Plugins, and Patterns
+- [Plugin Directory](https://wordpress.org/plugins/): Official repository of free WordPress plugins for extending site functionality.
+- [Theme Directory](https://wordpress.org/themes/): Official repository of free WordPress themes for site design and layout.
+- [Pattern Directory](https://wordpress.org/patterns/): Reusable block patterns for page sections, layouts, and content compositions.
+- [Browse Plugins by Category](https://wordpress.org/plugins/browse/): Explore plugins by featured, popular, beta, and recommended categories.
+- [Browse Themes by Feature](https://wordpress.org/themes/browse/): Explore themes by layout, subject, and feature filters.
+- [Create a Block Theme](https://developer.wordpress.org/themes/core-concepts/): Learn the core concepts behind modern block theme development.
 
-- [Download WordPress](https://wordpress.org/download): WordPress download page with installation instructions and system requirements.
-- [WordPress Playground](https://wordpress.org/playground): Browser-based WordPress testing environment requiring no hosting setup.
-- [WordPress Hosting Guide](https://wordpress.org/hosting): Guide to choosing WordPress hosting with recommendations and provider comparisons.
-- [About WordPress](https://wordpress.org/about): WordPress mission, history, and founding story by Mike Little and Matt Mullenweg.
+## APIs and Extensibility
+- [REST API Reference](https://developer.wordpress.org/rest-api/reference/): Endpoint reference for posts, users, media, taxonomies, and more.
+- [Block API](https://developer.wordpress.org/block-editor/reference-guides/block-api/): Technical reference for registering and configuring editor blocks.
+- [Interactivity API](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/): Build interactive front-end experiences using WordPress block tooling.
+- [Settings API](https://developer.wordpress.org/plugins/settings/settings-api/): Register, display, and manage plugin settings in WordPress admin.
+- [Options API](https://developer.wordpress.org/plugins/settings/options-api/): Store and retrieve persistent plugin and theme configuration values.
+- [Shortcode API](https://developer.wordpress.org/plugins/shortcodes/): Add user-facing shortcode tags and handlers to WordPress content.
+- [Rewrite API](https://developer.wordpress.org/plugins/hooks/custom-queries-and-routing/): Customize URL routing and request handling in WordPress.
 
-## Extensions & Customization
+## Hosting and Playground
+- [Hosting](https://wordpress.org/hosting/): Information about WordPress hosting and recommended hosting providers.
+- [Hosting Handbook](https://make.wordpress.org/hosting/handbook/): Contributor handbook for the WordPress hosting team and ecosystem standards.
+- [WordPress Playground](https://wordpress.org/playground/): Run WordPress instantly in the browser without local setup or hosting.
+- [Playground Documentation](https://developer.wordpress.org/playground/): Developer documentation for using and embedding WordPress Playground.
+- [Try WordPress](https://wordpress.org/playground/): Launch a temporary browser-based WordPress instance for testing and learning.
 
-- [WordPress Plugins Directory](https://wordpress.org/plugins): Official repository of free plugins extending WordPress functionality across categories.
-- [WordPress Themes Directory](https://wordpress.org/themes): Official directory of thousands of free WordPress themes for site customization.
-- [Block Pattern Directory](https://wordpress.org/patterns): Directory of ready-to-use block patterns for WordPress site design and layouts.
+## Community and Contribution
+- [Make WordPress](https://make.wordpress.org/): Contributor hub for WordPress teams, blogs, handbooks, and project collaboration.
+- [Core Team](https://make.wordpress.org/core/): Development updates, proposals, and contributor resources for WordPress core.
+- [Themes Team](https://make.wordpress.org/themes/): Guidelines and processes for reviewing and maintaining themes.
+- [Plugins Team](https://make.wordpress.org/plugins/): Policies and updates for plugin authors and directory contributors.
+- [Polyglots Team](https://make.wordpress.org/polyglots/): Translation team resources for localizing WordPress and extensions.
+- [Community Team](https://make.wordpress.org/community/): Resources for WordPress events, meetups, and community organizers.
+- [Five for the Future](https://wordpress.org/five-for-the-future/): Initiative encouraging organizations to contribute time to WordPress.
+- [Contribute to WordPress](https://wordpress.org/contribute/): Overview of ways to participate in the WordPress project.
 
-## Editor & Publishing
+## Support and Forums
+- [Support Home](https://wordpress.org/support/): Entry point for WordPress support forums and help resources.
+- [Documentation in Support](https://wordpress.org/support/docs/): Support-oriented documentation for common WordPress tasks and issues.
+- [Fixing WordPress](https://wordpress.org/support/article/faq-troubleshooting/): Troubleshooting article covering common errors and recovery steps.
+- [Plugin Support Forums](https://wordpress.org/support/plugin/): Support forum index for plugins in the official directory.
+- [Theme Support Forums](https://wordpress.org/support/theme/): Support forum index for themes in the official directory.
+- [Requests and Feedback](https://wordpress.org/support/forum/requests-and-feedback/): Community forum for WordPress.org site feedback and suggestions.
 
-- [Gutenberg Block Editor](https://wordpress.org/gutenberg): Gutenberg block editor overview showcasing new WordPress content creation experience.
+## News and Releases
+- [WordPress News](https://wordpress.org/news/): Official news, release announcements, and project updates from WordPress.
+- [Latest Releases](https://wordpress.org/download/releases/): Release archive for stable and historical WordPress versions.
+- [Security Releases](https://wordpress.org/news/category/security/): Posts announcing WordPress security releases and related updates.
+- [Development Blog](https://make.wordpress.org/core/): Ongoing development notes, proposals, and release planning discussions.
+- [Release Candidate Announcements](https://wordpress.org/news/category/releases/): Official posts for beta, release candidate, and major version launches.
 
-## Documentation & Learning
-
-- [WordPress Documentation](https://wordpress.org/documentation): Comprehensive WordPress documentation covering installation, security, and customization.
-- [Education & Programs](https://wordpress.org/education): Educational programs and initiatives empowering open-source creators and contributors.
-
-## Enterprise & Community
-
-- [Enterprise Solutions](https://wordpress.org/enterprise): Enterprise solutions, use cases, and case studies for large-scale WordPress deployments.
-- [Five for the Future](https://wordpress.org/five-for-the-future): Program encouraging organizations to contribute five percent resources to WordPress.
-
-## Releases & News
-
-- [WordPress 6.9 Release](https://wordpress.org/download/releases/6.9): WordPress 6.9 release notes featuring collaboration tools and editor enhancements.
-- [WordPress 7.0 Beta 5](https://wordpress.org/news/2026/03/wordpress-7-0-beta-5): WordPress 7.0 Beta 5 release announcement with testing and download information.
-
-## Optional
-
-- [WordPress.org Homepage](https://wordpress.org): WordPress homepage showcasing open-source CMS platform for building websites, blogs, and apps.
+## Showcase and Ecosystem
+- [Showcase](https://wordpress.org/showcase/): Examples of notable websites built with WordPress across industries.
+- [Openverse](https://wordpress.org/openverse/): Search engine for openly licensed images and audio from the WordPress project.
+- [Photo Directory](https://wordpress.org/photos/): Community-curated directory of openly licensed photographs.
+- [Learn WordPress](https://learn.wordpress.org/): Educational workshops, tutorials, and lesson plans for WordPress users.
+- [WordCamp Central](https://central.wordcamp.org/): Information about official WordPress conferences and community events.

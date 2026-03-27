@@ -1,57 +1,82 @@
-# U.S. Census Bureau (Census.gov)
+# U.S. Census Bureau
 
-> The U.S. Census Bureau provides comprehensive demographic, economic, and population data through surveys, programs, and interactive tools to inform policy, business, and research decisions.
+> The U.S. Census Bureau is the federal government’s primary source for population, housing, and economic statistics.
 
-Census.gov serves as the official portal for accessing decennial census data, ongoing surveys like the American Community Survey (ACS), economic indicators, and historical census records. The site offers data access tools, educational resources, and support for survey participants and data users.
+Census.gov provides official data products, survey and program documentation, APIs, maps, tables, methodological resources, newsroom updates, and respondent support for the decennial census, the American Community Survey, economic surveys, and many other statistical programs.
 
-## Key Topics
+## Data Access & Tools
+- [Data](https://www.census.gov/data.html): Central hub for accessing tables, maps, microdata, and data tools.
+- [Explore Data](https://www.census.gov/data.html): Entry point to Census Bureau datasets by topic, geography, and program.
+- [QuickFacts](https://www.census.gov/quickfacts/): Fast access to frequently requested state, county, and city statistics.
+- [data.census.gov](https://data.census.gov/): Main platform for searching and downloading Census Bureau tables and profiles.
+- [Geographies](https://www.census.gov/programs-surveys/geography.html): Geographic concepts, boundary files, and reference materials for Census data.
+- [Maps](https://www.census.gov/geographies/mapping-files.html): Mapping files, cartographic boundaries, and geographic support resources.
+- [Developers](https://www.census.gov/data/developers.html): Census Bureau APIs, technical documentation, and developer resources.
 
-- American Community Survey (ACS)
-- 2020 Census
-- 2030 Census
-- Demographic Data
-- Economic Indicators
-- Population Data
-- QuickFacts
-- Data Tools
-- Census Programs
-- Survey Participation
-- Business Statistics
-- Decennial Census
-- Population Clock
-- Census Records
-- Data Access
+## APIs & Technical Documentation
+- [Census Data API](https://www.census.gov/data/developers/data-sets.html): Dataset directory for Census Bureau API endpoints and variables.
+- [API Discovery Tool](https://api.census.gov/data.html): Browse available API datasets and endpoint structures.
+- [API User Guide](https://www.census.gov/data/developers/guidance/api-user-guide.html): Guidance for querying Census APIs, parameters, and response formats.
+- [API FAQ](https://www.census.gov/data/developers/guidance/api-faq.html): Answers to common questions about authentication, limits, and usage.
+- [Geocoding Services API](https://geocoding.geo.census.gov/): Address geocoding and geographic lookup services from the Census Bureau.
+- [Microdata Access](https://www.census.gov/data/developers/data-sets/microdata-api.html): API access information for selected Census microdata products.
 
-## Core Data & Programs
+## Surveys & Programs
+- [Our Surveys & Programs](https://www.census.gov/programs-surveys.html): Directory of Census Bureau surveys, censuses, and statistical programs.
+- [American Community Survey](https://www.census.gov/programs-surveys/acs.html): Ongoing survey producing annual demographic, social, housing, and economic estimates.
+- [2020 Census](https://www.census.gov/programs-surveys/decennial-census/decade/2020.html): Official information, results, and operations for the 2020 decennial census.
+- [2030 Census](https://www.census.gov/programs-surveys/decennial-census/decade/2030.html): Planning and development information for the next decennial census.
+- [Current Population Survey](https://www.census.gov/programs-surveys/cps.html): Monthly labor force and demographic survey conducted with BLS.
+- [Survey of Income and Program Participation](https://www.census.gov/programs-surveys/sipp.html): Longitudinal survey on income, program participation, and household dynamics.
+- [Economic Census](https://www.census.gov/programs-surveys/economic-census.html): Comprehensive measure of U.S. business activity conducted every five years.
+- [Population Estimates Program](https://www.census.gov/programs-surveys/popest.html): Annual estimates of population and housing units for U.S. geographies.
 
-- [Census Bureau Data and Maps](https://www.census.gov/data.html): Access demographic and economic data with visualizations and tutorials
-- [American Community Survey (ACS)](https://www.census.gov/programs-surveys/acs.html): Premier source for population, housing, and workforce demographic information
-- [Our Surveys & Programs](https://www.census.gov/programs-surveys.html): Overview of Census Bureau surveys and programs for national statistics
-- [Topics](https://www.census.gov/topics.html): Topic-based navigation to census data, news, and publications
+## Topics
+- [Topics](https://www.census.gov/topics.html): Browse Census content by subject area and statistical theme.
+- [Population](https://www.census.gov/topics/population.html): Population size, growth, characteristics, and distribution statistics.
+- [Housing](https://www.census.gov/topics/housing.html): Housing stock, occupancy, costs, and characteristics data.
+- [Income and Poverty](https://www.census.gov/topics/income-poverty.html): Statistics on earnings, poverty, and income distribution.
+- [Business and Economy](https://www.census.gov/topics/business-economy.html): Economic indicators, business activity, and industry statistics.
+- [Education](https://www.census.gov/topics/education.html): Educational attainment, enrollment, and school-related statistics.
+- [Health](https://www.census.gov/topics/health.html): Health insurance coverage and disability-related statistics.
+- [Families and Living Arrangements](https://www.census.gov/topics/families.html): Household composition, marriage, fertility, and living arrangement data.
 
-## About & Information
+## Geography, Maps & Boundaries
+- [Geography Program](https://www.census.gov/programs-surveys/geography.html): Census geographic framework, standards, and operational resources.
+- [Mapping Files](https://www.census.gov/geographies/mapping-files.html): TIGER/Line, cartographic boundary, and related mapping files.
+- [TIGER/Line Shapefiles](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html): Official shapefiles for legal and statistical geographic areas.
+- [Geographic Areas Reference Manual](https://www.census.gov/programs-surveys/geography/guidance/geo-areas.html): Reference guidance on Census geographic entities and relationships.
+- [Geocoding Services](https://geocoding.geo.census.gov/): Convert addresses to Census geographies and coordinates.
+- [Boundary and Annexation Survey](https://www.census.gov/programs-surveys/bas.html): Annual updates to legal boundaries and governmental units.
 
-- [About the U.S. Census Bureau](https://www.census.gov/about.html): Census Bureau mission, data quality standards, and government transparency policies
-- [Census.gov | U.S. Census Bureau Homepage](https://www.census.gov): U.S. Census Bureau homepage providing access to population, economic data and census tools
-- [Index A-Z](https://www.census.gov/about/index.html): Alphabetical index of Census Bureau statistics, products, and data resources
-- [Census Partners](https://www.census.gov/partners.html): Census Bureau partnership opportunities and data sharing initiatives
+## Guidance, Methodology & Training
+- [Guidance for Data Users](https://www.census.gov/data/academy.html): Training, webinars, and learning resources for using Census data.
+- [Census Academy](https://www.census.gov/data/academy.html): Tutorials and courses on data access tools and statistical products.
+- [Methodology and Research](https://www.census.gov/programs-surveys/acs/methodology.html): Technical documentation and methods for major Census programs.
+- [Working Papers and Technical Documentation](https://www.census.gov/library/working-papers.html): Research papers and technical reports from Census Bureau staff.
+- [Quality Standards](https://www.census.gov/about/policies/quality.html): Statistical quality guidelines, standards, and information quality policies.
+- [Research Matters](https://www.census.gov/library/working-papers/research-matters.html): Explanations of Census research methods and statistical innovations.
 
-## Support & Participation
+## News, Publications & Library
+- [Newsroom](https://www.census.gov/newsroom.html): Press releases, statements, facts for journalists, and media contacts.
+- [Library](https://www.census.gov/library.html): Publications, visualizations, working papers, and multimedia resources.
+- [America Counts](https://www.census.gov/library/stories.html): Feature stories explaining Census data findings and trends.
+- [Infographics and Visualizations](https://www.census.gov/library/visualizations.html): Charts, infographics, and visual data explainers.
+- [Publications](https://www.census.gov/library/publications.html): Reports, briefs, and official Census Bureau publications.
+- [Stats for Stories](https://www.census.gov/newsroom/stories.html): Topical statistics packaged for reporters and public communication.
 
-- [Are You in a Survey? Help for Survey Participants](https://www.census.gov/programs-surveys/surveyhelp.html): Survey participation guidance, verification info, and fraud prevention for respondents
-- [Contact Us | U.S. Census Bureau](https://www.census.gov/about/contact-us.html): Census Bureau contact information, phone numbers, and customer service options
+## Respondent Help & Verification
+- [Help for Survey Participants](https://www.census.gov/programs-surveys/surveyhelp.html): Verify surveys, find support, and learn how responses are protected.
+- [Respond to a Survey](https://www.census.gov/programs-surveys/surveyhelp/respond.html): Instructions for completing Census Bureau surveys and questionnaires.
+- [Verify a Census Bureau Interviewer](https://www.census.gov/programs-surveys/surveyhelp/verify-a-survey.html): Check whether a survey request or interviewer is legitimate.
+- [Avoiding Fraud and Scams](https://www.census.gov/programs-surveys/surveyhelp/fraudulent-activity-and-scams.html): Guidance on identifying fraudulent contacts and protecting personal information.
+- [Contact Us](https://www.census.gov/about/contact-us.html): Customer service, subject matter contacts, and support channels.
+- [Regional Offices](https://www.census.gov/about/regions.html): Local office information supporting field operations and survey collection.
 
-## Research & Resources
-
-- [Research](https://www.census.gov/topics/research.html): Census Bureau research on survey methodology, AI, and machine learning applications
-- [Library](https://www.census.gov/library.html): Multimedia library with audio, video, images, and census publications
-- [Census Records and Family History](https://www.census.gov/about/history/census-records-family-history.html): Historical census records, genealogy resources, and age search services
-
-## News & Education
-
-- [Newsroom](https://www.census.gov/newsroom.html): Census Bureau press releases, news updates, and media resources
-- [Statistics in Schools](https://www.census.gov/programs-surveys/sis.html): K-12 educational program with classroom activities and statistics learning resources
-
-## Optional
-
-- [Census Careers](https://www.census.gov/about/census-careers.html): Job opportunities and hiring information at U.S. Census Bureau locations
+## About the Bureau
+- [About Us](https://www.census.gov/about.html): Mission, organization, leadership, and agency overview.
+- [History](https://www.census.gov/about/history.html): Historical background of the Census Bureau and the decennial census.
+- [Index A to Z](https://www.census.gov/about/index.html): Alphabetical index of Census Bureau topics, products, and services.
+- [Organization](https://www.census.gov/about/organization.html): Bureau structure, directorates, and organizational information.
+- [Policies and Notices](https://www.census.gov/about/policies.html): Privacy, accessibility, quality, and legal policy information.
+- [Careers](https://www.census.gov/about/census-careers.html): Employment opportunities and career information at the Census Bureau.

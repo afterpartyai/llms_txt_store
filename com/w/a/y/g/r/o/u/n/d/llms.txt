@@ -1,58 +1,64 @@
 # Wayground
+> Wayground (formerly Quizizz) is an AI-powered teaching platform with standards-aligned resources, assessment tools, and classroom content generators for K–12 educators.
 
-> Wayground (formerly Quizizz) is an AI-powered teacher platform providing assessment tools, curriculum resources, and content generators for K-12 education.
+Wayground helps teachers and school systems create lessons, quizzes, worksheets, rubrics, and presentations, while tracking student progress and supporting differentiated instruction. The platform also includes standards-based resource discovery and a grade-banded math video library.
 
-Wayground serves teachers and school districts with standards-aligned educational content, interactive video libraries, and AI-powered tools for lesson planning, assessment, and differentiation. The platform integrates with popular classroom tools like Google Classroom and supports accessibility features for diverse learners.
+## Core Platform
+- [Wayground Homepage](https://wayground.com): Main entry point for Wayground’s teacher AI tools, classroom resources, and instructional platform.
+- [From Quizizz to Wayground](https://wayground.com/home/from-quizizz-to-wayground): Rebrand announcement explaining the transition from Quizizz to Wayground.
+- [Plans](https://wayground.com/home/plans): Pricing and plan comparison for teachers, schools, and districts.
+- [School & District](https://wayground.com/home/schools-and-districts): Overview of district-focused curriculum, assessment, and reporting capabilities.
 
-## Key Topics
+## AI Generators
+- [AI Presentation Maker](https://wayground.com/generators/ai-presentation-maker): Generates classroom presentations from prompts for grade-level and subject-specific instruction.
+- [AI Question Generator](https://wayground.com/generators/multiple-choice-question-generator): Creates multiple-choice questions for quizzes, checks for understanding, and assessments.
+- [AI Rubric Generator](https://wayground.com/generators/rubric-generator): Builds grading rubrics aligned to assignments, standards, and learning goals.
+- [AI Lesson Plan Generator](https://wayground.com/generators/lesson-plan-generator): Produces structured lesson plans tailored by subject, grade, and objective.
+- [AI Math Problem Generator](http://wayground.com/generators/math-problem-generator): Generates math practice problems by topic, grade, and difficulty level.
+- [Unit Plan Generator](https://wayground.com/generators/unit-plan-generator): Creates multi-lesson unit plans organized around standards and outcomes.
+- [Weekly Lesson Plan Generator](https://wayground.com/generators/weekly-plan-generator): Builds week-long instructional plans with pacing and activity structure.
+- [AI Worksheets Generator](https://wayground.com/generators/worksheet-generator): Produces printable or assignable worksheets for classroom practice and review.
 
-- AI-powered teaching tools
-- Standards-aligned curriculum
-- K-12 education
-- Assessment and grading
-- Lesson planning
-- Video library
-- Math curriculum
-- Teacher resources
-- Classroom management
-- Student accommodations
-- Common Core
-- Virginia SOL
-- Google Classroom integration
-- Free educational tools
-- Differentiated learning
-
-## Platform Overview
-
-- [Wayground Homepage](https://wayground.com): AI-powered teacher platform for assessment and differentiation
-- [Quizizz Becomes Wayground | Rebrand Announcement](https://wayground.com/home/from-quizizz-to-wayground): Rebrand announcement from Quizizz to Wayground with CEO message
-- [Choose Your Plan](https://wayground.com/home/plans): Flexible pricing plans for teachers and districts with feature comparison
-
-## Solutions for Schools and Districts
-
-- [School and District Curriculum Support](https://wayground.com/home/schools-and-districts): District solutions with standards-aligned resources and real-time data
-
-## AI Content Generators
-
-- [AI Lesson Plan Generator](https://wayground.com/generators/lesson-plan-generator): Free AI lesson plan generator for K-12 teachers by grade and subject
-- [AI Unit Plan Generator](https://wayground.com/generators/unit-plan-generator): Free AI generator for personalized unit plans by subject and grade
-- [Weekly Lesson Plan Generator](https://wayground.com/generators/weekly-plan-generator): AI tool to create customized weekly lesson plans for any subject
-- [Free AI Multiple Choice Questions Generator](https://wayground.com/generators/multiple-choice-question-generator): AI generator for customized multiple choice quizzes across subjects
-- [AI Rubric Generator](https://wayground.com/generators/rubric-generator): AI tool to create customized rubrics aligned to standards
-- [Free AI Presentation Maker](https://wayground.com/generators/ai-presentation-maker): AI tool to create personalized presentations for any subject or grade
-- [Free Worksheet Generator](https://wayground.com/generators/worksheet-generator): AI worksheet generator for math and vocabulary across grade levels
-- [AI Math Problem Generator](http://wayground.com/generators/math-problem-generator): AI tool to generate customized math problems by grade and difficulty
+## Standards and Resource Discovery
+- [Browse by Standard](https://wayground.com/admin/resource-library/standard/mathematics): Entry point for discovering standards-aligned instructional resources in mathematics.
+- [Mathematics Standards Resources](https://wayground.com/admin/resource-library/standard/mathematics): Standards-based math resource library for lesson and activity discovery.
 
 ## Video Library
+- [Math Video Library](https://wayground.com/video-library/math): Central library of math videos organized by grade and topic.
+- [Kindergarten Math](https://wayground.com/video-library/math/kindergarten-math): Math video collection for kindergarten concepts and foundational skills.
+- [1st Grade Math](https://wayground.com/video-library/math/1st-grade-math): Math videos covering first-grade topics and practice areas.
+- [2nd Grade Math](https://wayground.com/video-library/math/2nd-grade-math): Grade 2 math video library for core skills and standards.
+- [3rd Grade Math](https://wayground.com/video-library/math/3rd-grade-math): Grade 3 math videos for instruction, review, and reinforcement.
+- [4th Grade Math](https://wayground.com/video-library/math/4th-grade-math): Grade 4 math video resources organized for classroom use.
+- [5th Grade Math](https://wayground.com/video-library/math/5th-grade-math): Grade 5 math videos supporting standards-aligned learning and review.
+- [6th Grade Math](https://wayground.com/video-library/math/6th-grade-math): Grade 6 math video library for middle school concepts.
+- [7th Grade Math](https://wayground.com/video-library/math/7th-grade-math): Grade 7 math videos for practice, instruction, and intervention.
 
-- [Math Videos Library](https://wayground.com/video-library/math): Interactive math video library organized by topic and grade level
-- [Kindergarten Math Videos](https://wayground.com/video-library/math/kindergarten-math): Kindergarten math videos covering counting, place value, and geometry
-- [1st Grade Math Videos](https://wayground.com/video-library/math/1st-grade-math): 1st grade math videos on addition, subtraction, and place value
-- [2nd Grade Math Videos](https://wayground.com/video-library/math/2nd-grade-math): 2nd grade math videos covering arithmetic and foundational concepts
-- [3rd Grade Math Videos](https://wayground.com/video-library/math/3rd-grade-math): 3rd grade math videos on multiplication, division, and fractions
-- [4th Grade Math Videos](https://wayground.com/video-library/math/4th-grade-math): 4th grade math videos on fractions, decimals, and multiplication
-- [5th Grade Math Videos](https://wayground.com/video-library/math/5th-grade-math): 5th grade math videos on decimals, fractions, and advanced concepts
+## Teacher Planning Tools
+- [AI Lesson Plan Generator](https://wayground.com/generators/lesson-plan-generator): Planning tool for creating daily lessons with objectives and activities.
+- [Unit Plan Generator](https://wayground.com/generators/unit-plan-generator): Long-range planning tool for sequencing lessons across a unit.
+- [Weekly Lesson Plan Generator](https://wayground.com/generators/weekly-plan-generator): Weekly planning workflow for organizing instruction across multiple days.
+- [AI Presentation Maker](https://wayground.com/generators/ai-presentation-maker): Presentation creation tool for direct instruction and classroom delivery.
+- [AI Worksheets Generator](https://wayground.com/generators/worksheet-generator): Worksheet creation tool for independent practice, homework, and review.
 
-## Standards-Based Practice Tests
+## Assessment and Evaluation
+- [AI Question Generator](https://wayground.com/generators/multiple-choice-question-generator): Assessment authoring tool for generating quiz and test questions.
+- [AI Rubric Generator](https://wayground.com/generators/rubric-generator): Evaluation tool for defining performance criteria and scoring levels.
+- [AI Math Problem Generator](http://wayground.com/generators/math-problem-generator): Practice and assessment generator for math fluency and problem solving.
+- [Browse by Standard](https://wayground.com/admin/resource-library/standard/mathematics): Standards-based discovery for assessment-aligned instructional materials.
 
-- [Virginia SOL Practice Test](https://wayground.com/home/state-test-prep/virginia-sol-practice-test): Virginia SOL practice test with AI grading and accessibility features
+## District and School Solutions
+- [School & District](https://wayground.com/home/schools-and-districts): District solution page for curriculum support, implementation, and progress visibility.
+- [Plans](https://wayground.com/home/plans): Plan options relevant to individual teachers and institutional adoption.
+- [Wayground Homepage](https://wayground.com): Overview of platform capabilities for classroom and system-wide use.
+
+## Math Learning Resources
+- [Math Video Library](https://wayground.com/video-library/math): Broad collection of math instructional videos across elementary and middle grades.
+- [Kindergarten Math](https://wayground.com/video-library/math/kindergarten-math): Early math video resources for counting, shapes, and number sense.
+- [1st Grade Math](https://wayground.com/video-library/math/1st-grade-math): Grade 1 videos for foundational arithmetic and problem solving.
+- [2nd Grade Math](https://wayground.com/video-library/math/2nd-grade-math): Grade 2 resources for operations, place value, and measurement.
+- [3rd Grade Math](https://wayground.com/video-library/math/3rd-grade-math): Grade 3 videos for multiplication, division, and fractions.
+- [4th Grade Math](https://wayground.com/video-library/math/4th-grade-math): Grade 4 resources for multi-digit operations and geometry.
+- [5th Grade Math](https://wayground.com/video-library/math/5th-grade-math): Grade 5 videos for fractions, decimals, and volume.
+- [6th Grade Math](https://wayground.com/video-library/math/6th-grade-math): Grade 6 resources for ratios, expressions, and introductory statistics.
+- [7th Grade Math](https://wayground.com/video-library/math/7th-grade-math): Grade 7 videos for proportional reasoning, equations, and geometry.

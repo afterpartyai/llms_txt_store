@@ -1,61 +1,111 @@
 # GeeksforGeeks
 
-> GeeksforGeeks is a comprehensive learning portal for computer science education, offering tutorials, courses, and practice problems across DSA, programming languages, web development, and AI/ML.
+> GeeksforGeeks is an all-in-one learning portal for computer science, programming, interview preparation, and technical practice.
 
-The platform serves as a one-stop resource for students and professionals preparing for technical interviews at top companies like Google, Amazon, and Microsoft. It provides self-paced courses, interactive coding challenges, and in-depth tutorials across multiple technology domains.
-
-## Key Topics
-
-- Data Structures and Algorithms (DSA)
-- Python
-- Java
-- C++
-- JavaScript
-- Machine Learning
-- Data Science
-- Web Development
-- System Design
-- DevOps
-- Linux
-- Deep Learning
-- Artificial Intelligence
-- Interview Preparation
-- Object-Oriented Programming
+It offers tutorials, courses, coding problems, interview resources, and topic-wise learning paths across data structures, algorithms, programming languages, web development, AI/ML, and core computer science subjects.
 
 ## Core Platform
+- [Home](https://www.geeksforgeeks.org/): Main portal for tutorials, practice, courses, and technical learning resources.
+- [Explore](https://www.geeksforgeeks.org/explore): Discovery hub for trending tutorials, topic collections, and learning resources.
+- [Courses](https://www.geeksforgeeks.org/courses): Catalog of self-paced and guided courses across programming and computer science.
+- [Practice](https://practice.geeksforgeeks.org/): Coding practice platform with problems, contests, and interview-focused exercises.
+- [Jobs](https://www.geeksforgeeks.org/jobs): Technical hiring and job-related resources for students and professionals.
+- [Campus](https://www.geeksforgeeks.org/campus): Campus-focused learning and placement preparation resources.
+- [Puzzles](https://www.geeksforgeeks.org/puzzles/): Collection of logical, mathematical, and interview puzzle articles.
 
-- [GeeksforGeeks Homepage](https://www.geeksforgeeks.org): GeeksforGeeks homepage: comprehensive learning portal for DSA, programming languages, and tech education
-- [Practice Platform](https://www.geeksforgeeks.org/explore): GeeksforGeeks practice platform for coding challenges and interview question preparation
-- [Courses Catalog](https://www.geeksforgeeks.org/courses): GeeksforGeeks course catalog: DSA, system design, data science, and web development
+## Data Structures and Algorithms
+- [DSA Tutorial](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/): Structured introduction to core data structures, algorithms, and problem-solving techniques.
+- [Learn DSA](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/): Beginner-friendly DSA roadmap for interview preparation and fundamentals.
+- [Arrays](https://www.geeksforgeeks.org/array-data-structure-guide/): Articles and examples covering array concepts, operations, and common problems.
+- [Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/): Tutorials on singly, doubly, and circular linked lists with implementations.
+- [Stack Data Structure](https://www.geeksforgeeks.org/stack-data-structure/): Stack concepts, operations, applications, and implementation approaches.
+- [Queue Data Structure](https://www.geeksforgeeks.org/queue-data-structure/): Queue basics, variants, and practical algorithmic applications.
+- [Tree Data Structure](https://www.geeksforgeeks.org/binary-tree-data-structure/): Binary tree concepts, traversals, and related problem-solving resources.
+- [Graph Data Structure and Algorithms](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/): Graph representations, traversals, shortest paths, and graph problems.
 
-## Data Structures & Algorithms
-
-- [DSA Tutorial](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms): DSA tutorial covering data structures, algorithms, complexity analysis, and interview prep
-- [Learn DSA Tutorial](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial): DSA tutorial for interview prep with Google, Microsoft, Amazon, and Apple focus
-- [DSA Self-Paced Course](https://www.geeksforgeeks.org/courses/dsa-self-paced): DSA self-paced course: arrays, trees, graphs, sorting, and dynamic programming
+## Algorithms and Problem Solving
+- [Searching Algorithms](https://www.geeksforgeeks.org/searching-algorithms/): Linear, binary, and advanced searching methods with examples.
+- [Sorting Algorithms](https://www.geeksforgeeks.org/sorting-algorithms/): Comparison and non-comparison sorting techniques with implementations.
+- [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/): DP concepts, patterns, and classic optimization problems.
+- [Greedy Algorithms](https://www.geeksforgeeks.org/greedy-algorithms/): Greedy strategy tutorials with standard interview examples.
+- [Backtracking](https://www.geeksforgeeks.org/backtracking-algorithms/): Recursive search techniques for combinatorial and constraint problems.
+- [Recursion](https://www.geeksforgeeks.org/recursion/): Recursive thinking, examples, and common recursion-based problems.
+- [Divide and Conquer](https://www.geeksforgeeks.org/divide-and-conquer-algorithm-introduction/): Core divide-and-conquer ideas and representative algorithms.
+- [Pattern Searching](https://www.geeksforgeeks.org/pattern-searching/): String matching algorithms and related text-processing techniques.
 
 ## Programming Languages
+- [Python Tutorial](https://www.geeksforgeeks.org/python/python-programming-language-tutorial/): Python basics, syntax, OOP, libraries, and practical examples.
+- [Java Tutorial](https://www.geeksforgeeks.org/java/java/): Java language fundamentals, OOP, collections, and platform concepts.
+- [C Programming Language](https://www.geeksforgeeks.org/c/c-programming-language/): C syntax, memory, pointers, and procedural programming basics.
+- [C++ Tutorial](https://www.geeksforgeeks.org/cpp/c-plus-plus/): C++ fundamentals, STL, OOP, and competitive programming topics.
+- [JavaScript Tutorial](https://www.geeksforgeeks.org/javascript/javascript-tutorial/): JavaScript language concepts for frontend and general programming.
+- [PHP Tutorial](https://www.geeksforgeeks.org/php/php-tutorial/): PHP syntax, server-side scripting, and web programming basics.
+- [Go Tutorial](https://www.geeksforgeeks.org/go-language/introduction-to-go-programming-language/): Introduction to Go syntax, concurrency, and language features.
+- [Rust Tutorial](https://www.geeksforgeeks.org/rust/rust-tutorial/): Rust ownership, safety, syntax, and systems programming concepts.
 
-- [Python Tutorial](https://www.geeksforgeeks.org/python/python-programming-language-tutorial): Python tutorial with Django, Flask, and NumPy for data science and web development
-- [Java Tutorial](https://www.geeksforgeeks.org/java/java): Java tutorial covering OOP, syntax, data types, and JVM fundamentals for beginners
-- [C++ Programming Language](https://www.geeksforgeeks.org/cpp/c-plus-plus): C++ tutorial with OOP, data structures, and competitive programming fundamentals
-- [C Programming Tutorial](https://www.geeksforgeeks.org/c/c-programming-language): C programming tutorial covering syntax, data types, control flow, and I/O fundamentals
-- [JavaScript Tutorial](https://www.geeksforgeeks.org/javascript/javascript-tutorial): JavaScript tutorial for web development with HTML, CSS, and React frameworks
+## Web Development
+- [HTML Tutorial](https://www.geeksforgeeks.org/html/html-tutorial/): HTML elements, structure, forms, and semantic markup basics.
+- [CSS Tutorial](https://www.geeksforgeeks.org/css/css-tutorial/): CSS styling, layout, selectors, and responsive design fundamentals.
+- [JavaScript for Web](https://www.geeksforgeeks.org/javascript/javascript-tutorial/): JavaScript essentials commonly used in interactive web development.
+- [React Tutorial](https://www.geeksforgeeks.org/reactjs/reactjs-tutorials/): React components, hooks, state, and frontend application development.
+- [Node.js Tutorial](https://www.geeksforgeeks.org/node-js/nodejs/): Node.js runtime basics, modules, and backend JavaScript development.
+- [Express.js Tutorial](https://www.geeksforgeeks.org/web-tech/express-js/): Express concepts for routing, middleware, and API development.
+- [Bootstrap Tutorial](https://www.geeksforgeeks.org/bootstrap/bootstrap-tutorial/): Bootstrap components and responsive UI development basics.
+- [Web Development](https://www.geeksforgeeks.org/web-development/): Broader web development articles, roadmaps, and technology guides.
 
-## AI, Machine Learning & Data Science
+## Computer Science Fundamentals
+- [DBMS](https://www.geeksforgeeks.org/dbms/): Database concepts, normalization, SQL, transactions, and DBMS theory.
+- [Operating Systems](https://www.geeksforgeeks.org/operating-systems/): OS concepts including processes, scheduling, memory, and synchronization.
+- [Computer Networks](https://www.geeksforgeeks.org/computer-network-tutorials/): Networking fundamentals, protocols, models, and communication concepts.
+- [OOPs Concepts](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/): Core object-oriented principles such as inheritance and polymorphism.
+- [System Design](https://www.geeksforgeeks.org/system-design/system-design-tutorial/): Scalable system design concepts, components, and interview-oriented topics.
+- [Software Engineering](https://www.geeksforgeeks.org/software-engineering/): SDLC, design principles, testing, and engineering process topics.
+- [Compiler Design](https://www.geeksforgeeks.org/compiler-design-tutorials/): Lexical analysis, parsing, optimization, and compiler phases.
+- [Theory of Computation](https://www.geeksforgeeks.org/theory-of-computation-automata-tutorials/): Automata, formal languages, and computability fundamentals.
 
-- [Machine Learning Tutorial](https://www.geeksforgeeks.org/machine-learning/machine-learning): Machine learning tutorial covering supervised, unsupervised, and reinforcement learning
-- [Data Science Tutorial](https://www.geeksforgeeks.org/data-science/data-science-for-beginners): Data science tutorial with Python, NumPy, Pandas, and machine learning introduction
-- [AI, ML and Data Science Tutorial](https://www.geeksforgeeks.org/ai-ml-ds): AI/ML/DS tutorial: Python, deep learning, NLP, and computer vision fundamentals
-- [Machine Learning Tutorial (Advanced)](https://www.geeksforgeeks.org/machine-learning): Machine learning tutorial with Python and R for supervised and unsupervised learning
-- [Data Science Project-Based Course](https://www.geeksforgeeks.org/courses/data-science-live): Data science course with Python, SQL, and machine learning project-based learning
+## AI, Machine Learning, and Data Science
+- [Machine Learning](https://www.geeksforgeeks.org/machine-learning/): ML concepts, algorithms, workflows, and practical learning articles.
+- [Data Science for Beginners](https://www.geeksforgeeks.org/data-science/data-science-for-beginners/): Introductory data science concepts, tools, and learning path guidance.
+- [Artificial Intelligence Tutorial](https://www.geeksforgeeks.org/artificial-intelligence/): AI fundamentals, search, reasoning, and intelligent systems topics.
+- [Deep Learning Tutorial](https://www.geeksforgeeks.org/deep-learning-tutorial/): Neural networks, deep learning models, and training concepts.
+- [Pandas Tutorial](https://www.geeksforgeeks.org/python/python-pandas-tutorial/): Data manipulation and analysis using the Pandas library.
+- [NumPy Tutorial](https://www.geeksforgeeks.org/python/numpy-tutorial/): Numerical computing basics with arrays and vectorized operations.
+- [Data Analysis Tutorial](https://www.geeksforgeeks.org/data-analysis-tutorial/): Data cleaning, exploration, and analysis workflows for beginners.
+- [Natural Language Processing](https://www.geeksforgeeks.org/natural-language-processing-nlp-tutorial/): NLP concepts, preprocessing, and language modeling basics.
 
-## Web Development & System Design
+## Interview Preparation and Practice
+- [Interview Preparation](https://www.geeksforgeeks.org/interview-preparation-for-software-developer/): Curated resources for coding interviews and software developer roles.
+- [Company Preparation](https://www.geeksforgeeks.org/company-preparation/): Company-specific interview questions and preparation material.
+- [Top 50 Array Problems](https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/): Frequently asked array interview problems with explanations.
+- [Top 50 String Problems](https://www.geeksforgeeks.org/top-50-string-coding-problems-for-interviews/): Common string interview questions and solution approaches.
+- [Must Do Coding Questions](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/): High-priority coding questions for major tech company preparation.
+- [Practice Problems](https://practice.geeksforgeeks.org/explore?page=1&sortBy=submissions): Problem archive for coding practice across difficulty levels.
+- [Contests](https://practice.geeksforgeeks.org/contest): Competitive programming contests and timed coding events.
+- [Interview Experiences](https://www.geeksforgeeks.org/company-interview-corner/): Real interview experiences from candidates across companies.
 
-- [Web Development Technologies](https://www.geeksforgeeks.org/web-development): Web development tutorial: HTML, CSS, JavaScript, and frontend technologies
-- [System Design Course](https://www.geeksforgeeks.org/courses/mastering-system-design-low-level-to-high-level-solutions): System design course: OOP, design patterns, distributed systems, and architecture
+## Courses and Learning Paths
+- [All Courses](https://www.geeksforgeeks.org/courses): Complete course catalog across domains and skill levels.
+- [DSA Self Paced](https://www.geeksforgeeks.org/courses/dsa-self-paced): Self-paced DSA course focused on interviews and problem solving.
+- [Complete Interview Preparation](https://www.geeksforgeeks.org/courses/complete-interview-preparation): Structured course for coding, CS fundamentals, and interviews.
+- [Java Programming Foundation](https://www.geeksforgeeks.org/courses/java-programming-foundation-self-paced): Java fundamentals course for beginners and learners.
+- [Python Foundation](https://www.geeksforgeeks.org/courses/python-foundation): Python basics course with practical programming coverage.
+- [System Design Live](https://www.geeksforgeeks.org/courses/system-design-live): Course focused on scalable architecture and design interviews.
+- [Data Science Live](https://www.geeksforgeeks.org/courses/data-science-live): Guided learning path for data science concepts and tools.
+- [Full Stack Development](https://www.geeksforgeeks.org/courses/full-stack-node): Full-stack web development course using modern technologies.
 
-## Infrastructure & DevOps
+## Competitive Programming and Quizzes
+- [Competitive Programming](https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/): Overview and guidance for contest programming preparation.
+- [Practice Problems](https://practice.geeksforgeeks.org/): Coding problem platform for algorithmic and interview practice.
+- [Quiz Corner](https://www.geeksforgeeks.org/quizzes/): Topic-wise quizzes for programming and computer science concepts.
+- [Aptitude Quizzes](https://www.geeksforgeeks.org/aptitude-questions-and-answers/): Quantitative and logical aptitude preparation resources.
+- [MCQ Questions](https://www.geeksforgeeks.org/multiple-choice-questions-mcqs/): Multiple-choice question collections across technical subjects.
+- [Programming Output Questions](https://www.geeksforgeeks.org/output-of-c-programs-set-1/): Output-based programming questions for concept reinforcement.
 
-- [Linux Tutorial](https://www.geeksforgeeks.org/linux-unix/linux-tutorial): Linux tutorial with commands, file systems, Docker, Kubernetes, and DevOps basics
-- [DevOps Tutorial](https://www.geeksforgeeks.org/devops/devops-tutorial): DevOps tutorial covering CI/CD, Git, Jenkins, Docker, and Kubernetes fundamentals
+## Articles and Community
+- [Articles](https://www.geeksforgeeks.org/articles/): Broad collection of technical articles across domains and difficulty levels.
+- [Tutorials](https://www.geeksforgeeks.org/tutorials/): Organized tutorial index for programming and computer science topics.
+- [Write an Article](https://write.geeksforgeeks.org/): Contributor portal for submitting technical articles to GeeksforGeeks.
+- [GBlog](https://www.geeksforgeeks.org/blogs/): Blog-style updates, announcements, and community-oriented posts.
+- [School Learning](https://www.geeksforgeeks.org/school-learning/): Foundational learning resources for school-level computer science topics.
+- [Mathematics](https://www.geeksforgeeks.org/maths/): Mathematics tutorials relevant to programming and problem solving.
+- [Engineering Mathematics](https://www.geeksforgeeks.org/engineering-mathematics-tutorials/): Math topics commonly used in engineering and technical studies.

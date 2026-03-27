@@ -1,41 +1,72 @@
 # DeepSeek
+> DeepSeek is an AI research company building open and API-accessible large language models for chat, reasoning, and coding.
 
-> DeepSeek is an AI research company offering advanced language models (V3, R1, Coder V2) and API services for developers and researchers.
+DeepSeek develops frontier foundation models and provides consumer chat products, developer APIs, model documentation, pricing, status, and research resources. Its ecosystem spans web chat, API integration, open-source model releases, and technical documentation.
 
-DeepSeek provides a comprehensive ecosystem of AI models including reasoning-capable models, code generation tools, and multimodal capabilities. The platform offers both web-based chat applications and API access for integration into applications.
+## Main Site
+- [DeepSeek Homepage](https://deepseek.com): Main product homepage introducing DeepSeek models, chat, and API access.
+- [English Homepage](https://deepseek.com/en): English-language homepage for DeepSeek products, models, and platform overview.
+- [DeepSeek Chat](https://chat.deepseek.com): Web chat application for interacting with DeepSeek models directly.
+- [Platform](https://platform.deepseek.com): Developer platform for API keys, usage, billing, and model access.
 
-## Key Topics
+## API Documentation
+- [API Docs Home](https://api-docs.deepseek.com): Main documentation portal for DeepSeek API integration and developer resources.
+- [Quick Start](https://api-docs.deepseek.com/quick_start/introduction): Introduction to the DeepSeek API, authentication, and first requests.
+- [Authentication](https://api-docs.deepseek.com/quick_start/authentication): How to create API keys and authenticate requests to DeepSeek services.
+- [Rate Limits](https://api-docs.deepseek.com/quick_start/rate_limit): Request rate limits and throughput constraints for API usage.
+- [Error Codes](https://api-docs.deepseek.com/quick_start/error_codes): Reference for API error responses and troubleshooting common failures.
+- [Models & Pricing](https://api-docs.deepseek.com/quick_start/pricing): Supported models, token pricing, and cost comparison information.
+- [News](https://api-docs.deepseek.com/news/news250120): Product and API update announcements published in the docs portal.
 
-- DeepSeek V3
-- DeepSeek R1
-- DeepSeek Coder V2
-- AI Models
-- LLM Products
-- API Platform
-- Reasoning Models
-- Chat Application
-- Pricing
-- Service Status
-- DeepSeek Ecosystem
-- Research Models
-- Agent AI
-- Multimodal AI
-- Developer Tools
+## API Reference
+- [Chat Completion](https://api-docs.deepseek.com/api/create-chat-completion): Reference for creating chat completions with DeepSeek models.
+- [List Models](https://api-docs.deepseek.com/api/list-models): Endpoint reference for listing available models on the platform.
+- [Function Calling](https://api-docs.deepseek.com/guides/function_calling): Guide to tool and function calling with chat models.
+- [JSON Output](https://api-docs.deepseek.com/guides/json_mode): Structured JSON generation and response formatting guidance.
+- [Context Caching](https://api-docs.deepseek.com/guides/context_caching): How to reuse cached context to reduce latency and cost.
+- [Prefix Completion](https://api-docs.deepseek.com/guides/prefix_completion): Guide for prefix-based completion workflows and supported behavior.
+- [FIM Completion](https://api-docs.deepseek.com/guides/fim_completion): Fill-in-the-middle completion guide for code and editing scenarios.
 
-## Getting Started
+## Integration Guides
+- [Streaming](https://api-docs.deepseek.com/guides/streaming): How to receive streaming responses from DeepSeek API endpoints.
+- [Reasoning Model](https://api-docs.deepseek.com/guides/reasoning_model): Usage guidance for reasoning-capable DeepSeek models and response behavior.
+- [Chat Prefix Completion Beta](https://api-docs.deepseek.com/guides/chat_prefix_completion): Beta guide for chat prefix completion workflows.
+- [Multi-round Conversation](https://api-docs.deepseek.com/guides/multi_round_chat): Best practices for maintaining context across multi-turn conversations.
+- [Token Usage](https://api-docs.deepseek.com/quick_start/token_usage): How token counting and usage accounting work in DeepSeek API.
+- [OpenAI SDK Compatibility](https://api-docs.deepseek.com/): Documentation for using DeepSeek through OpenAI-compatible client patterns.
 
-- [DeepSeek Homepage](https://deepseek.com): DeepSeek homepage showcasing AI models including V3, R1, Coder V2, and API platform
-- [DeepSeek English](https://deepseek.com/en): DeepSeek English homepage with AI models, reasoning capabilities, and API access
+## Models
+- [DeepSeek-V3](https://api-docs.deepseek.com/news/news1226): Announcement and usage notes for the DeepSeek-V3 model release.
+- [DeepSeek-R1](https://api-docs.deepseek.com/news/news250120): Announcement and documentation updates for DeepSeek-R1.
+- [DeepSeek-V2.5](https://api-docs.deepseek.com/news/news0925): Release update for DeepSeek-V2.5 capabilities and availability.
+- [DeepSeek-Coder-V2](https://api-docs.deepseek.com/news/news0716): Release announcement for DeepSeek-Coder-V2 and related API support.
+- [DeepSeek-V2](https://api-docs.deepseek.com/news/news0628): Release update for DeepSeek-V2 model availability and platform changes.
+- [DeepSeek Reasoner](https://platform.deepseek.com): Reasoning-oriented model access through the DeepSeek developer platform.
+- [DeepSeek Chat Model](https://platform.deepseek.com): General-purpose chat model access through the DeepSeek platform console.
 
-## API Reference & Pricing
+## Developer Platform
+- [Platform Console](https://platform.deepseek.com): Central console for managing API access, usage, and account settings.
+- [API Keys](https://platform.deepseek.com/api_keys): Create and manage API keys for DeepSeek integrations.
+- [Usage](https://platform.deepseek.com/usage): Monitor token consumption and API usage metrics.
+- [Billing](https://platform.deepseek.com/top_up): Add credits and manage payment for API consumption.
+- [Docs](https://platform.deepseek.com/docs): Entry point from the platform to DeepSeek developer documentation.
+- [Download App](https://platform.deepseek.com/downloads/app): Download DeepSeek applications from the developer platform.
 
-- [Models & Pricing](https://api-docs.deepseek.com/quick_start/pricing): DeepSeek API pricing and model comparison for deepseek-chat and deepseek-reasoner
+## Status and Operations
+- [Service Status](https://status.deepseek.com): Real-time operational status for DeepSeek services and incidents.
+- [API Status](https://status.deepseek.com): Availability monitoring for API endpoints and platform services.
+- [Web Chat Status](https://status.deepseek.com): Operational visibility for DeepSeek chat and related web services.
 
-## Service & Support
+## Company and Research
+- [About DeepSeek](https://deepseek.com/en): Company overview, mission, and product positioning in English.
+- [GitHub Organization](https://github.com/deepseek-ai): Open-source repositories, model assets, and community-facing code releases.
+- [Hugging Face Organization](https://huggingface.co/deepseek-ai): Hosted model cards, weights, and artifacts published by DeepSeek.
+- [DeepSeek on X](https://x.com/deepseek_ai): Official social updates, announcements, and release communications.
+- [DeepSeek on Discord](https://discord.gg/Tc7c45Zzu5): Community server for discussion, support, and ecosystem updates.
 
-- [Service Status](https://status.deepseek.com): Real-time service status monitoring for DeepSeek API and Web Chat services
-
-## Legal & Privacy
-
-- [Privacy Policy](https://cdn.deepseek.com/policies/en-US/deepseek-privacy-policy.html): DeepSeek privacy policy covering personal data collection and user privacy protection
-- [Terms of Use](https://cdn.deepseek.com/policies/en-US/deepseek-terms-of-use.html): DeepSeek terms of use and legal agreement for platform and API services
+## Policies and Legal
+- [Privacy Policy](https://cdn.deepseek.com/policies/en-US/deepseek-privacy-policy.html): Privacy policy governing data collection, processing, and user rights.
+- [Terms of Use](https://cdn.deepseek.com/policies/en-US/deepseek-terms-of-use.html): Terms governing use of DeepSeek products, services, and platform.
+- [Open Platform Terms](https://cdn.deepseek.com/policies/en-US/deepseek-open-platform-terms-of-service.html): Terms of service specific to DeepSeek API and platform usage.
+- [Cookie Policy](https://cdn.deepseek.com/policies/en-US/deepseek-cookie-policy.html): Cookie usage and tracking disclosures for DeepSeek websites.
+- [Personal Information Collection List](https://cdn.deepseek.com/policies/en-US/deepseek-personal-information-collection-list.html): Summary of personal information categories collected by DeepSeek.

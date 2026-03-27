@@ -1,61 +1,85 @@
 # Figma
+> Figma is a collaborative design platform for designing, prototyping, whiteboarding, presenting, and building digital products together.
 
-> Figma is a collaborative, cloud-based design platform that unifies design, prototyping, development, and team collaboration with AI-powered features and integrations for modern product teams.
+Figma combines interface design, developer handoff, design systems, brainstorming, presentations, and publishing tools in a shared browser-based workspace. Its platform includes products for product design, whiteboarding, slides, websites, AI-assisted creation, and developer workflows.
 
-Figma offers a comprehensive suite of tools including Design, Dev Mode, FigJam, Slides, Draw, Buzz, Sites, and Make, enabling teams to design, prototype, and build products collaboratively. The platform integrates with developer tools like VS Code and Cursor through MCP (Model Context Protocol) servers, bridging the gap between design and development workflows.
+## Core Platform
+- [Figma](https://www.figma.com/): Main platform homepage for collaborative product design, prototyping, feedback, and team workflows.
+- [Design](https://www.figma.com/design/): Core interface design tool for UI, UX, components, and real-time collaboration.
+- [FigJam](https://www.figma.com/figjam/): Online collaborative whiteboard for brainstorming, workshops, diagrams, and team planning.
+- [Slides](https://www.figma.com/slides/): Collaborative presentation tool for creating and sharing decks with design-quality visuals.
+- [Dev Mode](https://www.figma.com/dev-mode/): Developer handoff workspace for inspecting designs, specs, code, and implementation details.
+- [Sites](https://www.figma.com/sites/): Website design and publishing tool for creating responsive sites from Figma workflows.
+- [Make](https://www.figma.com/make/): AI-assisted product creation tool for generating prototypes and interactive experiences.
+- [Buzz](https://www.figma.com/buzz/): Brand asset creation tool for producing on-brand content at scale.
 
-## Key Topics
+## Product Capabilities
+- [Prototyping](https://www.figma.com/prototyping/): Interactive prototyping tools for flows, transitions, animations, and user testing preparation.
+- [Design systems](https://www.figma.com/design-systems/): Tools and workflows for shared components, variables, libraries, and scalable system management.
+- [AI](https://www.figma.com/ai/): Overview of Figma AI features for generation, editing, automation, and creative assistance.
+- [Draw](https://www.figma.com/draw/): Vector illustration and visual editing tools for expressive graphics and interface assets.
+- [Wireframing](https://www.figma.com/wireframing/): Lightweight design workflows for early concepts, layouts, and product structure exploration.
+- [Online whiteboard](https://www.figma.com/online-whiteboard/): Whiteboarding use cases for ideation, mapping, and collaborative planning sessions.
+- [Presentation maker](https://www.figma.com/presentation-maker/): Presentation creation workflows for polished decks built collaboratively in Figma.
+- [Website builder](https://www.figma.com/website-builder/): Website creation workflows connecting design, prototyping, and publishing in one platform.
 
-- Design collaboration
-- Dev Mode
-- Design systems
-- Prototyping
-- AI-powered design
-- FigJam whiteboarding
-- Design-to-code workflow
-- Component management
-- Interactive design
-- Website builder
-- Team collaboration
-- Responsive design
-- Design tokens
-- Developer tools
-- MCP integration
+## Solutions
+- [Enterprise](https://www.figma.com/enterprise/): Platform capabilities for large organizations, governance, security, and scalable collaboration.
+- [Professional teams](https://www.figma.com/professional/): Plan and workflow overview for teams building products collaboratively.
+- [Startups](https://www.figma.com/startups/): Resources and platform benefits tailored to early-stage product teams.
+- [Agencies](https://www.figma.com/agencies/): Collaboration and delivery workflows for agencies working with clients and stakeholders.
+- [Design teams](https://www.figma.com/solutions/design-teams/): Solution overview for designers managing systems, reviews, and product delivery.
+- [Product managers](https://www.figma.com/solutions/product-managers/): Workflows for planning, alignment, and collaboration across product development.
+- [Developers](https://www.figma.com/solutions/developers/): Design-to-code workflows for engineers using specs, tokens, and implementation details.
+- [Marketing teams](https://www.figma.com/solutions/marketing/): Brand and campaign workflows for creative production and asset collaboration.
 
-## Core Products
+## Resources
+- [Resource library](https://www.figma.com/resource-library/): Central hub for guides, templates, examples, webinars, and educational content.
+- [Templates](https://www.figma.com/templates/): Ready-made files and starting points for design, whiteboarding, and presentations.
+- [Best practices](https://www.figma.com/best-practices/): Practical guidance for improving collaboration, systems, and design workflows.
+- [Events](https://www.figma.com/events/): Upcoming and on-demand events, webinars, and community programming.
+- [Customers](https://www.figma.com/customers/): Customer stories showing how teams use Figma across design and development.
+- [Downloads](https://www.figma.com/downloads/): Desktop and mobile app downloads for accessing Figma across devices.
+- [Status](https://status.figma.com/): Service status page for uptime, incidents, and platform availability updates.
 
-- [Figma: The Collaborative Interface Design Tool](https://www.figma.com): Figma homepage showcasing collaborative design platform with Make, Dev Mode, Buzz, and Sites
-- [Figma Design: Free Design Tool for Websites, Product Design & More](https://www.figma.com/design): Core design product featuring vector graphics, real-time collaboration, and comprehensive design tools
-- [Dev Mode: Design-to-Development](https://www.figma.com/dev-mode): Design-to-code workflow enabling seamless handoff with VS Code and Cursor integration
-- [Figma Sites: Design, Prototype & Publish Your Next Website](https://www.figma.com/sites): All-in-one website design, prototyping, and publishing platform with built-in CMS
-- [Figma Make: Create with AI-Powered Design Tools](https://www.figma.com/make): AI-powered design generation and web app building for rapid prototyping
-- [Figma AI: Your Creativity, unblocked with Figma AI](https://www.figma.com/ai): AI features across Make, Sites, and design automation for accelerated workflows
-- [FigJam: The Online Collaborative Whiteboard for Teams](https://www.figma.com/figjam): Collaborative whiteboarding platform for brainstorming, diagramming, and team ideation
-- [Figma Slides: Create Presentations & Slides for Every Occasion](https://www.figma.com/slides): AI-powered presentation creation tool for collaborative slide design and storytelling
-- [Figma Draw: Creative Tools for Illustration & Visual Design](https://www.figma.com/draw): Illustration and vector editing tools for creative visual storytelling and design
-- [Figma Buzz: Create & Share On-Brand Assets Instantly](https://www.figma.com/buzz): On-brand asset creation and distribution platform for team consistency
+## Community
+- [Community](https://www.figma.com/community): Community hub for files, plugins, widgets, and shared resources.
+- [Plugins](https://www.figma.com/community/plugins): Community-created plugins that extend workflows and automate design tasks.
+- [Widgets](https://www.figma.com/community/widgets): Interactive widgets for collaboration and custom functionality inside files.
+- [Templates in Community](https://www.figma.com/community/templates): Community-published templates for common design and workshop use cases.
+- [Creators](https://www.figma.com/community/creators): Profiles and work from creators publishing resources to the Figma community.
+- [Events and meetups](https://www.figma.com/community/events): Community-led events, meetups, and learning sessions for Figma users.
 
-## Design & Prototyping Tools
+## Developers
+- [Developers](https://www.figma.com/developers/): Developer portal for APIs, plugins, widgets, and platform integration resources.
+- [API overview](https://www.figma.com/developers/api): Overview of Figma APIs for accessing files, comments, components, and teams.
+- [Plugin API](https://www.figma.com/plugin-docs/): Reference and guides for building plugins that extend the Figma editor.
+- [Widget API](https://www.figma.com/widget-docs/): Documentation for building collaborative widgets for Figma and FigJam.
+- [REST API reference](https://www.figma.com/developers/api#rest-api): Reference for HTTP endpoints used to read and manage Figma data.
+- [OAuth](https://www.figma.com/developers/api#oauth2): Authentication documentation for apps integrating with Figma on behalf of users.
+- [MCP server](https://www.figma.com/mcp): Information about Figma's Model Context Protocol tooling for design-to-code workflows.
+- [Dev Mode MCP Server](https://www.figma.com/blog/introducing-figmas-dev-mode-mcp-server/): Announcement and context for using MCP with Dev Mode workflows.
 
-- [Design Systems: Online Design System Software For Teams](https://www.figma.com/design-systems): Manage components, tokens, variables, and design systems for enterprise team collaboration
-- [Prototyping: Free Prototyping Tool for Interactive Designs](https://www.figma.com/prototyping): Interactive design, animations, and responsive mockups for product validation
-- [UX Design Tool: Free Online UX Design Tool & Software](https://www.figma.com/ux-design-tool): User experience prototyping with real-time collaboration and design testing
-- [Web Design: Free Online Web Design Tool for Teams](https://www.figma.com/web-design): Responsive website design with Dev Mode integration and design system support
-- [Wireframe Tool: Free Online Wireframe Tool For Teams](https://www.figma.com/wireframe-tool): Collaborative wireframing with templates for rapid visual communication
+## Help and Learning
+- [Help Center](https://help.figma.com/hc/en-us): Official support center for product documentation, troubleshooting, and account help.
+- [Figma Learn](https://help.figma.com/hc/en-us/categories/360002051613): Learning hub for getting started and improving product skills.
+- [Design help](https://help.figma.com/hc/en-us/categories/360002042553): Help articles for design files, components, prototyping, and editor workflows.
+- [FigJam help](https://help.figma.com/hc/en-us/categories/4406787442711): Help articles for whiteboarding, facilitation, and collaboration in FigJam.
+- [Dev Mode help](https://help.figma.com/hc/en-us/categories/14106737376023): Help content for developer handoff, inspection, and implementation workflows.
+- [Organization and admin help](https://help.figma.com/hc/en-us/categories/360002048234): Support articles for billing, permissions, security, and workspace administration.
+- [Contact support](https://help.figma.com/hc/en-us/requests/new): Support request form for account, billing, and product issues.
 
-## FigJam Collaboration
+## Blog and Updates
+- [Blog](https://www.figma.com/blog/): Official blog covering product announcements, design insights, and company news.
+- [What’s new](https://www.figma.com/blog/category/whats-new/): Product update posts announcing new features and platform improvements.
+- [Design](https://www.figma.com/blog/category/design/): Articles about design craft, workflows, systems, and product thinking.
+- [Development](https://www.figma.com/blog/category/development/): Engineering and developer-focused posts about implementation and tooling.
+- [Collaboration](https://www.figma.com/blog/category/collaboration/): Posts about teamwork, feedback, and cross-functional product collaboration.
+- [Inside Figma](https://www.figma.com/blog/category/inside-figma/): Company news, culture, and behind-the-scenes stories from Figma.
+- [Config](https://www.figma.com/config/): Figma’s conference hub with sessions, announcements, and event information.
 
-- [FigJam Online Whiteboard: Free Online Whiteboard for Teams](https://www.figma.com/figjam/online-whiteboard): Free team brainstorming and interactive diagramming on collaborative whiteboard
-- [FigJam Agile Workflows: Agile Workflow Tool & Online Scrum Board](https://www.figma.com/figjam/agile-workflows): Sprint planning, stand-ups, and Jira/Asana integrations for agile teams
-
-## Developer Integration & Reference
-
-- [Figma MCP Catalog](https://www.figma.com/mcp-catalog): MCP server catalog for integrating Figma with VS Code, Cursor, and Claude Code
-
-## Getting Started & Downloads
-
-- [Figma Downloads: Web Design App for Desktops & Mobile](https://www.figma.com/downloads): Desktop, mobile, and cross-platform app installations for all devices
-
-## Optional
-
-- [Figma Release Notes: Product News & Updates](https://www.figma.com/release-notes): Product updates, AI features, and MCP integration announcements
+## Pricing and Plans
+- [Pricing](https://www.figma.com/pricing/): Plan comparison for individuals, teams, organizations, and enterprise customers.
+- [Students and educators](https://www.figma.com/education/): Education offering for students, teachers, and academic institutions.
+- [Nonprofits](https://www.figma.com/nonprofits/): Program information for eligible nonprofit organizations using Figma.
+- [Contact sales](https://www.figma.com/contact/): Sales contact page for enterprise evaluation, procurement, and plan discussions.

@@ -1,58 +1,97 @@
 # TradingView
+> TradingView is a charting, market data, screening, and social analysis platform for tracking and trading global financial markets.
 
-> TradingView is a comprehensive charting platform and social network for traders offering real-time market data, technical analysis tools, and live quotes across stocks, indices, cryptocurrencies, and forex markets.
-
-TradingView provides professional-grade charting tools, market quotes, and trading data for millions of traders worldwide. The platform serves as both a technical analysis hub and a community for sharing trading ideas and strategies.
-
-## Key Topics
-
-- Technical Analysis
-- Real-Time Market Data
-- Charting Tools
-- Stock Indices
-- Bitcoin & Cryptocurrency
-- Market Quotes
-- Trading Platform
-- S&P 500
-- Nasdaq 100
-- DAX 40
-- FTSE 100
-- Broker Reviews
-- Trading Alerts
-- Market Screeners
-- Ethereum
+TradingView combines advanced web-based charts, real-time and delayed market data, technical indicators, alerts, screeners, economic calendars, broker integrations, and a large community publishing ideas, scripts, and market analysis across stocks, futures, forex, crypto, indices, and bonds.
 
 ## Core Platform
-
-- [TradingView — Track All Markets](https://www.tradingview.com): TradingView homepage: charting platform and social network for traders
-- [TradingView Features — Power Up Your Analysis & Trading](https://www.tradingview.com/features): Overview of TradingView charting tools, alerts, screeners, and analysis
-- [TradingView Subscriptions: Pricing and Features](https://www.tradingview.com/pricing): TradingView subscription plans with feature comparison and pricing
+- [TradingView Home](https://www.tradingview.com/): Main entry point for charts, markets, screeners, ideas, and trading tools.
+- [Features](https://www.tradingview.com/features/): Overview of charting, alerts, screeners, calendars, and collaboration capabilities.
+- [Pricing](https://www.tradingview.com/pricing/): Subscription plans, feature limits, and paid tier comparisons.
+- [Chart](https://www.tradingview.com/chart/): Interactive advanced charting workspace for analyzing any supported symbol.
+- [Markets](https://www.tradingview.com/markets/): Market overview pages for stocks, crypto, forex, futures, and indices.
+- [Screeners](https://www.tradingview.com/screener/): Access stock, ETF, forex, and crypto screening tools.
+- [Economic Calendar](https://www.tradingview.com/economic-calendar/): Upcoming macroeconomic releases, central bank events, and market-impacting data.
+- [Desktop App](https://www.tradingview.com/desktop/): Native desktop application for multi-monitor charting and trading workflows.
 
 ## Market Data & Quotes
+- [Symbols](https://www.tradingview.com/symbols/): Directory of tradable instruments, indices, and market benchmarks.
+- [Stocks Market](https://www.tradingview.com/markets/stocks-usa/): U.S. stock market overview with movers, sectors, and watchlists.
+- [Crypto Market](https://www.tradingview.com/markets/cryptocurrencies/): Cryptocurrency market overview with prices, dominance, and performance.
+- [Forex Market](https://www.tradingview.com/markets/currencies/): Currency market overview with major, minor, and exotic pairs.
+- [Futures Market](https://www.tradingview.com/markets/futures/): Futures quotes and market pages for commodities, rates, and indices.
+- [Indices Market](https://www.tradingview.com/markets/indices/): Global index quotes, heatmaps, and benchmark tracking pages.
+- [Bonds Market](https://www.tradingview.com/markets/bonds/): Government bond yields, prices, and fixed-income market overviews.
+- [ETFs Market](https://www.tradingview.com/markets/etfs/): ETF market pages with fund quotes and category performance.
 
-- [Markets Today — Quotes, Charts, and Events — TradingView](https://www.tradingview.com/markets): Live market quotes, charts, and data across stocks, forex, crypto
-- [Major Indices — Quotes and Overview — TradingView](https://www.tradingview.com/markets/indices/quotes-major): Global major indices overview with live quotes and market data
+## Screeners & Calendars
+- [Stock Screener](https://www.tradingview.com/stock-screener/): Filter equities by fundamentals, technicals, valuation, and performance metrics.
+- [ETF Screener](https://www.tradingview.com/etf-screener/): Screen exchange-traded funds by issuer, asset class, and returns.
+- [Crypto Coins Screener](https://www.tradingview.com/crypto-coins-screener/): Filter cryptocurrencies by market cap, volume, and technical conditions.
+- [Forex Screener](https://www.tradingview.com/forex-screener/): Screen currency pairs using price action and technical indicators.
+- [Economic Calendar](https://www.tradingview.com/economic-calendar/): Track scheduled economic releases and expected market impact.
+- [Earnings Calendar](https://www.tradingview.com/earnings-calendar/): Upcoming company earnings dates, estimates, and announcements.
+- [Dividends Calendar](https://www.tradingview.com/dividends-calendar/): Dividend schedules, ex-dates, and payout tracking for listed companies.
+- [Splits Calendar](https://www.tradingview.com/splits-calendar/): Corporate action calendar for stock splits and reverse splits.
 
-## Stock Indices
+## Community & Social Analysis
+- [Ideas](https://www.tradingview.com/ideas/): Community-published trade setups, chart analysis, and market commentary.
+- [Editors' Picks](https://www.tradingview.com/ideas/editors-picks/): Curated selection of notable community ideas and analysis.
+- [Streams](https://www.tradingview.com/streams/): Live streaming content from traders and market commentators.
+- [Scripts](https://www.tradingview.com/scripts/): Public library of indicators, strategies, and Pine-based tools.
+- [People](https://www.tradingview.com/people/): User profiles for analysts, script authors, and community contributors.
+- [House Rules](https://www.tradingview.com/house-rules/): Community publishing and moderation rules for ideas, scripts, and interactions.
+- [Moderators](https://www.tradingview.com/moderators/): Information about community moderation and platform governance.
 
-- [S&P 500 Index Chart — SPX Quote — TradingView](https://www.tradingview.com/symbols/SPX): Live S&P 500 Index chart with technical analysis and market data
-- [Nasdaq 100 Index Chart — NDX Quote — TradingView](https://www.tradingview.com/symbols/NASDAQ-NDX): Live Nasdaq 100 Index chart with quotes and technical analysis
-- [DAX Index Chart - DAX 40 Quote — TradingView](https://www.tradingview.com/symbols/XETR-DAX): DAX 40 Index chart for Frankfurt Stock Exchange tracking
-- [UKX Index Charts and Quotes — TradingView](https://www.tradingview.com/symbols/FTSE-UKX): FTSE 100 Index chart with UK stock market quotes and analysis
-- [PX1 Index Charts and Quotes — TradingView](https://www.tradingview.com/symbols/EURONEXT-PX1): CAC 40 Index chart for EURONEXT market data and analysis
-- [Japan 225 Chart – NI225 Quote — TradingView](https://www.tradingview.com/symbols/TVC-NI225): Live Nikkei 225 Index chart with price tracking and market data
-- [000001 Index Charts and Quotes — TradingView](https://www.tradingview.com/symbols/SSE-000001): SSE Composite Index chart for Shanghai Stock Exchange tracking
+## Pine Script & Developer Docs
+- [Pine Script Overview](https://www.tradingview.com/pine-script-docs/en/v5/Introduction.html): Introduction to TradingView’s scripting language for indicators and strategies.
+- [Pine Script Language Reference](https://www.tradingview.com/pine-script-reference/v5/): Complete reference for Pine Script functions, variables, and syntax.
+- [Pine Script User Manual](https://www.tradingview.com/pine-script-docs/): Documentation hub for Pine Script concepts and examples.
+- [Pine Editor](https://www.tradingview.com/pine-script-docs/en/v5/Language_Reference.html): Documentation entry point for writing and editing Pine code.
+- [Lightweight Charts](https://www.tradingview.com/lightweight-charts/): Open-source charting library for embedding financial charts in web apps.
+- [Trading Platform](https://www.tradingview.com/trading/): Broker integration and order execution features within TradingView.
+- [Broker API](https://www.tradingview.com/broker-api/): Integration information for brokers connecting trading functionality to TradingView.
+- [Widget Documentation](https://www.tradingview.com/widget/): Embeddable market widgets and chart components for websites.
 
-## Cryptocurrency Markets
+## Widgets & Embeds
+- [Widgets Home](https://www.tradingview.com/widget/): Overview of embeddable widgets for quotes, charts, and market data.
+- [Advanced Chart Widget](https://www.tradingview.com/widget/advanced-chart/): Full-featured embeddable chart widget for websites and applications.
+- [Symbol Overview Widget](https://www.tradingview.com/widget/symbol-overview/): Compact widget showing chart, price, and summary for a symbol.
+- [Market Overview Widget](https://www.tradingview.com/widget/market-overview/): Multi-symbol market snapshot widget for grouped watchlists.
+- [Ticker Tape Widget](https://www.tradingview.com/widget/ticker-tape/): Scrolling market ticker for displaying selected instruments.
+- [Mini Chart Widget](https://www.tradingview.com/widget/mini-chart/): Lightweight embeddable chart for a single instrument.
+- [Economic Calendar Widget](https://www.tradingview.com/widget/economic-calendar/): Embeddable calendar of macroeconomic events and releases.
+- [Technical Analysis Widget](https://www.tradingview.com/widget/technical-analysis/): Widget summarizing technical signals for selected symbols.
 
-- [BTC USD — Bitcoin Price and Chart — TradingView](https://www.tradingview.com/symbols/BTCUSD): Live Bitcoin price chart with technical analysis and forecasts
-- [Total Crypto Market Cap — Index Chart — TradingView](https://www.tradingview.com/symbols/TOTAL): Global cryptocurrency market cap index chart and analysis
-- [Crypto Dominance Chart — BTC Dominance — TradingView](https://www.tradingview.com/markets/cryptocurrencies/dominance): Bitcoin and Ethereum dominance charts for crypto market analysis
+## Trading & Broker Integration
+- [Trading Panel](https://www.tradingview.com/trading/): Overview of supported brokers and in-platform trading workflow.
+- [Paper Trading](https://www.tradingview.com/support/solutions/43000516466-paper-trading-main-functionality/): Simulated trading environment for testing strategies without real capital.
+- [Broker Awards](https://www.tradingview.com/broker-awards/): Recognition program and rankings for integrated brokers on the platform.
+- [Broker API](https://www.tradingview.com/broker-api/): Technical and business information for broker connectivity.
+- [Supported Brokers](https://www.tradingview.com/brokers/): Directory of brokers available for chart trading integration.
+- [TradingView Alerts](https://www.tradingview.com/support/folders/43000548797-alerts/): Help resources for creating and managing price and indicator alerts.
 
-## Broker Services
+## Help Center & Support
+- [Help Center](https://www.tradingview.com/support/): Support portal for platform usage, billing, and troubleshooting.
+- [Knowledge Base](https://www.tradingview.com/support/solutions/): Searchable support articles covering product features and workflows.
+- [Charting Library & Data FAQ](https://www.tradingview.com/support/categories/43000548781-chart/): Help articles for chart behavior, tools, and settings.
+- [Pine Script Help](https://www.tradingview.com/support/folders/43000547449-pine-script/): Support articles for Pine Script usage and troubleshooting.
+- [Billing & Subscriptions](https://www.tradingview.com/support/folders/43000548780-billing/): Subscription management, invoices, renewals, and payment issues.
+- [Market Data](https://www.tradingview.com/support/folders/43000548779-market-data/): Support content about exchanges, data coverage, and real-time feeds.
+- [Alerts](https://www.tradingview.com/support/folders/43000548797-alerts/): Documentation for alert types, notifications, and alert management.
+- [Trading](https://www.tradingview.com/support/folders/43000548796-trading/): Help articles for broker connections, orders, and trading panel features.
 
-- [Top Brokers — Verified Reviews by Actual Clients — TradingView](https://www.tradingview.com/brokers): Verified broker reviews, ratings, and comparison for trading platforms
+## Education & Learning
+- [Learn](https://www.tradingview.com/education/): Educational hub for trading concepts, platform usage, and market basics.
+- [Trading Basics](https://www.tradingview.com/education/trading-basics/): Introductory material on markets, instruments, and trading terminology.
+- [Technical Analysis](https://www.tradingview.com/education/technical-analysis/): Educational content on chart patterns, indicators, and analysis methods.
+- [Risk Management](https://www.tradingview.com/education/risk-management/): Guides on position sizing, drawdowns, and trade risk control.
+- [Crypto Education](https://www.tradingview.com/education/cryptocurrency/): Learning resources focused on cryptocurrency markets and concepts.
+- [Forex Education](https://www.tradingview.com/education/forex/): Educational material for currency trading and forex market structure.
 
-## Company & Brand
-
-- [TradingView Space Mission — To Global Markets and Beyond](https://www.tradingview.com/space-mission): Brand mission story: Scott Poteet and Polaris Dawn space exploration
+## News & Company
+- [News](https://www.tradingview.com/news/): Market news and analysis from TradingView and publishing partners.
+- [Blog](https://www.tradingview.com/blog/en/): Product updates, feature announcements, and company news.
+- [About](https://www.tradingview.com/about/): Company overview, mission, and background information.
+- [Careers](https://www.tradingview.com/careers/): Open roles and information about working at TradingView.
+- [Press](https://www.tradingview.com/press/): Press resources, announcements, and media information.
+- [Status](https://status.tradingview.com/): Service availability and incident reporting for TradingView systems.

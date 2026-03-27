@@ -1,59 +1,66 @@
 # eBay UK
+> UK online marketplace for buying and selling electronics, cars, fashion, collectibles, home goods, and more.
 
-> eBay UK is a global online marketplace offering electronics, cars, fashion, collectibles, and auctions with secure account management and local shopping options.
+eBay UK connects buyers and sellers across fixed-price listings, auctions, refurbished products, vehicle parts, and local collection. The site also provides account management, seller tools, help resources, and personalised shopping features through My eBay.
 
-eBay UK serves millions of buyers and sellers across the United Kingdom, providing a diverse range of product categories from consumer electronics and vehicles to collectibles like Pokémon cards and Warhammer merchandise. The platform emphasizes user security through identity verification, account authentication, and fraud prevention measures.
+## Marketplace
+- [eBay UK Home](https://www.ebay.co.uk): Main UK marketplace homepage for browsing products, categories, auctions, and featured offers.
+- [Deals](https://www.ebay.co.uk/deals): Curated discounts across electronics, home, beauty, fashion, toys, and seasonal promotions.
+- [Fashion](https://www.ebay.co.uk/b/bn_7000259675): Fashion category hub for clothing, shoes, accessories, and branded styles.
+- [Local Collection](https://www.ebay.co.uk/localcollection): Information about collecting eligible items locally from sellers.
+- [Local Shopping](https://www.ebay.co.uk/vlp/local): Location-based marketplace view for nearby listings and collection options.
 
-## Key Topics
+## Buying
+- [Watchlist](https://www.ebay.co.uk/mye/myebay/watchlist): Track saved items, auctions, and listings you want to monitor.
+- [Bids & Offers](https://www.ebay.co.uk/mye/myebay/bidsoffers): Review active bids, offers sent, and offer responses.
+- [Purchase History](https://www.ebay.co.uk/mye/myebay/purchase): View completed orders, order details, and past purchases.
+- [Recently Viewed](https://www.ebay.co.uk/mye/myebay/rvi): Return to listings and products you recently browsed.
+- [Saved Feed](https://www.ebay.co.uk/mye/myebay/saved): Personalised feed of saved items, interests, and recommendations.
+- [Saved Searches](https://www.ebay.co.uk/mye/myebay/savedsearches): Manage saved searches and listing alerts for specific queries.
+- [Saved Sellers](https://www.ebay.co.uk/mye/myebay/savedsellers): Follow favourite sellers and access their latest listings.
 
-- account-security
-- identity-verification
-- user-authentication
-- marketplace-homepage
-- electronics
-- collectibles
-- auctions
-- fraud-prevention
-- product-categories
-- seller-dashboard
-- watchlist
-- local-shopping
-- deals
-- account-management
-- messaging
+## My eBay
+- [My eBay](https://www.ebay.co.uk/mys/home?source=GBH): Main account area for buying, selling, and activity management.
+- [Summary](https://www.ebay.co.uk/mye/myebay/summary): Overview of account activity, orders, selling, and recent marketplace updates.
+- [Preferences](https://www.ebay.co.uk/d/myebay/preferences): Manage account settings, notifications, addresses, and communication preferences.
+- [Watch List](https://www.ebay.co.uk/mye/myebay/watchlist): Access your tracked items and auction watch activity.
+- [Saved Items](https://www.ebay.co.uk/mye/myebay/saved): Central place for saved listings and personalised shopping content.
 
-## Core Marketplace
+## Selling
+- [Sell](https://www.ebay.co.uk/sl/sell): Start creating a listing to sell an item on eBay UK.
+- [Selling Overview](https://www.ebay.co.uk/mys/home?CurrentPage=MyeBayAllSelling&ssPageName=STRK:ME:LNLK:MESX&source=GBH): Seller dashboard for active listings, orders, and selling performance.
+- [My eBay Selling Home](https://www.ebay.co.uk/mys/home?source=GBH): Seller account home for managing inventory and sales activity.
+- [Register](https://signup.ebay.co.uk/pa/crte): Create an eBay account to buy, sell, and manage listings.
 
-- [eBay UK | Electronics, Cars, Fashion, Collectibles & More](https://www.ebay.co.uk): eBay UK marketplace homepage with electronics, cars, fashion, collectibles & auctions
-- [Best Deals on eBay - Shop Electronics, Home, Beauty, Fashion & Toys](https://www.ebay.co.uk/deals): eBay deals page featuring discounted electronics, home, beauty & fashion items
-- [local | eBay](https://www.ebay.co.uk/vlp/local): eBay local shopping with location-based pickup and postcode search
+## Vehicles & Parts
+- [My Garage](https://www.ebay.co.uk/g/mygarage): Save vehicle details to find compatible parts and accessories.
+- [Cars, Motorcycles & Vehicles](https://www.ebay.co.uk/b/Cars-Motorcycles-Vehicles/9800/bn_1865334): Vehicle marketplace for cars, bikes, parts, and accessories.
+- [Vehicle Parts & Accessories](https://www.ebay.co.uk/b/Vehicle-Parts-Accessories/6030/bn_1865336): Browse replacement parts, tools, and accessories for many vehicle types.
+- [Local Collection for Vehicles](https://www.ebay.co.uk/localcollection): Collection options relevant to eligible larger or local-pickup items.
 
-## Account & Authentication
+## Categories
+- [Electronics](https://www.ebay.co.uk/b/Electronics/bn_7000259124): Consumer electronics category including phones, computing, audio, and accessories.
+- [Fashion](https://www.ebay.co.uk/b/bn_7000259675): Clothing, footwear, jewellery, watches, and fashion accessories.
+- [Collectables](https://www.ebay.co.uk/b/Collectables/bn_7000259856): Collectibles category for memorabilia, trading cards, coins, and hobby items.
+- [Home, Furniture & DIY](https://www.ebay.co.uk/b/Home-Furniture-DIY/11700/bn_1853126): Home improvement, furniture, kitchenware, and household essentials.
+- [Sporting Goods](https://www.ebay.co.uk/b/Sporting-Goods/888/bn_1865031): Equipment, apparel, and accessories for fitness and outdoor activities.
+- [Toys & Games](https://www.ebay.co.uk/b/Toys-Games/220/bn_1865299): Toys, games, puzzles, and hobby products for different age groups.
 
-- [Security measure | eBay](https://signin.ebay.co.uk/ws/eBayISAPI.dll): eBay account login and security verification page
-- [Security measure | eBay](https://signup.ebay.co.uk/pa/crte): eBay account creation and identity verification page
+## Account Access
+- [Sign In](https://signin.ebay.co.uk/ws/eBayISAPI.dll?SignIn&sgfl=gh): Sign in to access buying, selling, and account management features.
+- [Register](https://signup.ebay.co.uk/pa/crte): Create a new eBay UK account.
+- [My eBay Summary](https://www.ebay.co.uk/mye/myebay/summary): Entry point for signed-in account activity and personalised tools.
+- [Preferences](https://www.ebay.co.uk/d/myebay/preferences): Update account settings and personal preferences.
 
-## User Dashboard & Management
+## Help & Support
+- [Help & Contact](https://www.ebay.co.uk/help/home): Help centre for buying, selling, returns, payments, and account issues.
+- [Buying Help](https://www.ebay.co.uk/help/buying): Support articles for purchasing, bidding, offers, and checkout.
+- [Selling Help](https://www.ebay.co.uk/help/selling): Guidance for listing items, managing sales, and seller policies.
+- [Returns & Refunds Help](https://www.ebay.co.uk/help/buying/returns-refunds): Help with returns, refunds, and resolving order problems.
+- [Account Help](https://www.ebay.co.uk/help/account): Support for sign-in, profile settings, and account security.
 
-- [Security measure | eBay](https://www.ebay.co.uk/mys/home): eBay seller dashboard and account management home
-- [Security measure | eBay](https://www.ebay.co.uk/mye/myebay/summary): eBay user account summary with activity and purchases overview
-- [Security measure | eBay](https://www.ebay.co.uk/d/myebay/preferences): eBay user account preferences and settings management
-
-## Buying & Bidding
-
-- [Security measure | eBay](https://www.ebay.co.uk/mye/myebay/watchlist): eBay user watchlist for tracked items and auctions
-- [Security measure | eBay](https://www.ebay.co.uk/mye/myebay/bidsoffers): eBay user bids and offers management page
-- [Security measure | eBay](https://www.ebay.co.uk/mye/myebay/purchase): eBay user purchase history and order management
-
-## Collections & Preferences
-
-- [Security measure | eBay](https://www.ebay.co.uk/mye/myebay/saved): eBay user saved items and favorites collection
-- [Security measure | eBay](https://www.ebay.co.uk/mye/myebay/savedsearches): eBay user saved searches and custom search alerts
-- [Security measure | eBay](https://www.ebay.co.uk/mye/myebay/savedsellers): eBay user saved sellers and favorite merchants list
-- [My Garage | eBay](https://www.ebay.co.uk/g/mygarage): eBay My Garage tool for vehicle-specific parts and accessories
-
-## Community & Support
-
-- [Security measure | eBay](https://www.ebay.co.uk/mye/myebay/rvi): eBay user feedback and reviews section
-- [Security measure | eBay](https://mesg.ebay.co.uk/mesgweb/ViewMessages/0): eBay user messaging and communication inbox
-- [Security measure | eBay](https://www.ebay.co.uk/help/home): eBay help center and customer support homepage
+## Personalisation
+- [Recently Viewed](https://www.ebay.co.uk/mye/myebay/rvi): Revisit products and listings you have recently opened.
+- [Saved Searches](https://www.ebay.co.uk/mye/myebay/savedsearches): Maintain search alerts for products, brands, and categories.
+- [Saved Sellers](https://www.ebay.co.uk/mye/myebay/savedsellers): Keep track of preferred sellers and their inventory.
+- [My Garage](https://www.ebay.co.uk/g/mygarage): Personalise vehicle shopping with saved car compatibility details.

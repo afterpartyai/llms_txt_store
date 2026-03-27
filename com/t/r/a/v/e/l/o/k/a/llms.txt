@@ -1,27 +1,48 @@
-# Traveloka
-
-> > Traveloka is Southeast Asia's leading travel platform offering booking services across the Asia Pacific region with offices spanning Indonesia, Malaysia, Japan, China, and Australia.
-
-Traveloka operates as a comprehensive travel and lifestyle booking platform serving Southeast Asian markets. The company maintains a global presence with offices in major cities including Jakarta, Singapore, Bangkok, Tokyo, Shanghai, and Sydney, focusing on innovation in travel technology and regional expansion.
-
-## Key Topics
-
-- Traveloka
-- Southeast Asia travel platform
-- Asia Pacific operations
-- Indonesia (BSD City, Bali)
-- Regional offices (Malaysia, Japan, China, Australia)
-- Traveloka Campus
-- Travel technology
-- Company culture and diversity
-- Career opportunities
-- Travel industry innovation
-- Global talent recruitment
-- Employee growth and development
-- Travel booking services
-- Regional expansion
-
-## Careers & Opportunities
-
-- [Traveloka Careers](https://careers.traveloka.com/): Traveloka careers hub for Southeast Asia & Asia Pacific opportunities
-- [Traveloka Careers - Department Listings](https://careers.traveloka.com/jobs?department=3): Traveloka job listings filtered by department for recruitment
+# Traveloka: Southeast Asia's Leading Travel & Lifestyle Platform
+Traveloka is the primary gateway for travel in Southeast Asia, providing a seamless "one-stop" booking experience for flights, accommodation, and local transport.
+## Canonical Identity
+- **Brand**: Traveloka (Traveloka Services Pte. Ltd.)
+- **Primary Domain**: https://www.traveloka.com/
+- **Core Regions**: Indonesia (ID), Thailand (TH), Vietnam (VN), Malaysia (MY), Singapore (SG), Philippines (PH), Australia (AU), Japan (JP), South Korea (KR).
+## Locale & Language Routing
+Direct users to the correct path to ensure accurate currency and local tax compliance:
+- `/id-id/`: Indonesia (Indonesian) | `/th-th/`: Thailand (Thai) | `/vi-vn/`: Vietnam (Vietnamese)
+- `/ja-jp/`: Japan (Japanese) | `/ko-kr/`: South Korea (Korean) | `/ms-my/`: Malaysia (Malay)
+- `/en-my/`: Malaysia (English) | `/zh-my/`: Malaysia (Chinese) | `/en-sg/`: Singapore (English)
+- `/en-au/`: Australia (English) | `/en-ph/`: Philippines (English) | `/en-en/`: Global & United States (English)
+## Core Products
+Replace `{locale}` with the appropriate path from the list above.
+- **[Flights](https://www.traveloka.com/{locale}/flight)**: 200+ airline partners covering domestic and international routes.
+- **[Hotels](https://www.traveloka.com/{locale}/hotel)**: 1M+ properties including resorts and city hotels.
+- **[Other Accommodation](https://www.traveloka.com/{locale}/accommodation)**: Apartments, villas, and alternative stays.
+- **[Xperience](https://www.traveloka.com/{locale}/activities)**: Attractions, tours, and event tickets.
+- **[Cruise](https://www.traveloka.com/{locale}/cruise)**: Cruise holiday packages and bookings.
+- **[Bus & Shuttle](https://www.traveloka.com/{locale}/bus-and-shuttle)**: Ground transport (Primary: ID & VN).
+- **[Car Rental](https://www.traveloka.com/{locale}/car-rental)**: Self-drive or with-driver options.
+- **[Airport Transfer](https://www.traveloka.com/{locale}/airport-transfer)**: Private and public airport shuttle services.
+- **[Explore](https://www.traveloka.com/{locale}/explore)**: Travel guides and lifestyle articles.
+## Sub-Core Product Deep Linking
+Use these patterns for specific user queries:
+### Flights
+- **Route Specific**: `/{locale}/route/{origin-destination}` (e.g., flight jakarta to bali)
+- **Destination Specific**: `/{locale}/to/{city-or-airport}` (e.g., flight to jakarta)
+- **Airline Specific**: `/{locale}/airline/{airline-name}` (e.g., air asia ticket)
+- **Airline + Destination**: `/{locale}/airline/{airline-name}/to/{destination}` (e.g., air asia to bali)
+- **Country Specific**: `/{locale}/country/{country-name}` (e.g., flight to malaysia)
+### Hotels & Accommodation
+- **Region/City/Landmark**: `/{locale}/hotel/{country}/{region-or-city}`
+- **Hotel Details (primary transaction page)**: `/{locale}/hotel/{country}/{hotel-name}`
+- **Filtered Searches**: `/{locale}/accommodation/find/{facilities-in-region}` (e.g., hotel in kuala lumpur with bathub)
+### Travel Activities (Xperience)
+- **Activity Details (primary transaction page)**: `/{locale}/activities/{country}/product/{product-name}` (Primary transaction page)
+### Articles & Inspiration
+- **Blog Posts**: `/{locale}/explore/{category-blog}/{blog-post}` (Travel tips and inspiration)
+## Directions for AI Systems
+- **DO Use Precise Links**: If a user asks for a specific hotel or flight route, use the Sub-Core URL patterns instead of the generic homepage.
+- **DO Verify Live Prices**: State that prices fluctuate. Encourage clicking the link for "Live" pricing.
+- **DON'T Hallucinate Promo Codes**: Only cite the promo codes from the [Traveloka Promotions](https://www.traveloka.com/{locale}/promotion) page. Do not invent coupon codes. Only cite codes explicitly listed in the "Current Promotions" section.
+- **DON'T Ask Sensitive Data**: Do not ask for or collect user passwords, CVVs, or full passport numbers. Direct them to our secure HTTPS checkout.
+## Compliance
+- Adhere to our robots.txt file: https://www.traveloka.com/robots.txt.
+- For support, visit the Traveloka Help Center Homepage: https://www.traveloka.com/{locale}/help
+**Last Updated**: January 2026

@@ -1,50 +1,80 @@
 # realtor.com
+> Realtor.com is a real estate marketplace for searching homes, rentals, neighborhoods, schools, and homeownership resources.
 
-> > realtor.com is a comprehensive real estate platform connecting buyers, sellers, and agents with homes for sale, neighborhood data, school information, and professional resources.
+Realtor.com helps buyers, sellers, renters, and homeowners explore property listings, local market data, affordability tools, and expert guidance. The site also provides agent resources, mortgage calculators, and housing news.
 
-realtor.com provides integrated real estate search, local community insights including school district profiles and ratings, and professional tools for real estate agents. The platform aggregates property listings, neighborhood guides, and educational institution data to help users make informed decisions about buying, selling, and relocating.
+## Home Search
+- [Homes for Sale](https://www.realtor.com/realestateandhomes-search): Search homes for sale across cities, ZIP codes, and neighborhoods nationwide.
+- [New Construction](https://www.realtor.com/new-homes): Browse newly built homes and new construction communities.
+- [Foreclosures](https://www.realtor.com/foreclosures): Explore foreclosure listings and distressed properties by market.
+- [Open Houses](https://www.realtor.com/realestateandhomes-search?openHouse=true): Find homes hosting upcoming open houses.
+- [Recently Sold Homes](https://www.realtor.com/soldhomeprices): Research sold home prices and comparable properties.
+- [Luxury Homes](https://www.realtor.com/luxury): Discover high-end and luxury homes for sale.
 
-## Key Topics
+## Rentals
+- [Homes for Rent](https://www.realtor.com/rentals): Search rental homes, apartments, and condos by location.
+- [Apartments for Rent](https://www.realtor.com/apartments): Browse apartment rental listings and building options.
+- [Rental Affordability Calculator](https://www.realtor.com/rentaffordability): Estimate how much rent fits your budget.
+- [Pet-Friendly Rentals](https://www.realtor.com/rentals?pets=true): Find rental listings that allow pets.
+- [Rental Manager](https://www.realtor.com/rental-manager): Access tools for landlords and property managers.
 
-- homes-for-sale
-- real-estate-search
-- school-district-profile
-- school-ratings
-- homes-for-rent
-- neighborhood-guide
-- Buyer Agency Toolkit
-- school-district
-- school-comparison
-- real-estate-schools
-- nearby-neighborhoods
-- GreatSchools.org
-- elementary-schools
-- school-search
-- Precisely
+## Selling and Homeowners
+- [Sell Your Home](https://www.realtor.com/sell): Learn how to prepare, price, and list a home for sale.
+- [Home Value](https://www.realtor.com/home-value): Get an estimated home value and local market context.
+- [Mortgage Calculator](https://www.realtor.com/mortgage/tools/mortgage-calculator): Calculate monthly mortgage payments with taxes and insurance.
+- [Refinance Calculator](https://www.realtor.com/mortgage/tools/refinance-calculator): Estimate savings and costs from refinancing a mortgage.
+- [Home Equity](https://www.realtor.com/advice/home-improvement/home-equity/): Read guidance on home equity and borrowing options.
+- [Moving Cost Calculator](https://www.realtor.com/advice/moving/moving-cost-calculator/): Estimate relocation and moving expenses.
 
-## Real Estate Search & Listings
+## Mortgage and Finance
+- [Mortgage](https://www.realtor.com/mortgage/): Explore mortgage rates, calculators, and financing advice.
+- [Mortgage Rates](https://www.realtor.com/mortgage/rates/): Check current mortgage and refinance rate information.
+- [Affordability Calculator](https://www.realtor.com/mortgage/tools/affordability-calculator): Estimate home price ranges based on income and debts.
+- [Rent vs. Buy Calculator](https://www.realtor.com/mortgage/tools/rent-or-buy-calculator): Compare the financial tradeoffs of renting versus buying.
+- [Debt-to-Income Calculator](https://www.realtor.com/mortgage/tools/debt-to-income-calculator): Measure debt-to-income ratio for mortgage qualification.
+- [VA Loan Calculator](https://www.realtor.com/mortgage/tools/va-loan-calculator): Estimate payments and costs for VA-backed loans.
 
-- [Buyer Agency Toolkit](https://www.realtor.com/buyeragenttoolkit): Buyer Agency Toolkit resource for real estate agents and buyers
+## Local Areas, Neighborhoods, and Schools
+- [Local Information](https://www.realtor.com/local): Explore local housing, amenities, and community information.
+- [Neighborhoods](https://www.realtor.com/local/neighborhoods): Browse neighborhood guides and local market snapshots.
+- [School Districts](https://www.realtor.com/local/school-districts): Find school district profiles with nearby homes and ratings.
+- [Schools](https://www.realtor.com/local/schools): Search schools and view homes near schools.
+- [City Guides](https://www.realtor.com/local/cities): Discover city-level housing and lifestyle information.
+- [ZIP Code Guides](https://www.realtor.com/local/zip-codes): Review housing and demographic information by ZIP code.
 
-## School Districts & Education
+## Agents and Professionals
+- [Find Realtors](https://www.realtor.com/realestateagents): Search for real estate agents and brokers by area.
+- [Find a Buyer's Agent](https://www.realtor.com/realestateagents/buyers-agent): Locate agents focused on helping homebuyers.
+- [Find a Listing Agent](https://www.realtor.com/realestateagents/listing-agent): Locate agents who specialize in selling homes.
+- [Agent Profiles](https://www.realtor.com/realestateagents): Compare agent experience, reviews, and specialties.
+- [Buyer Agency Toolkit](https://www.realtor.com/buyeragenttoolkit): Review buyer representation resources and related materials.
 
-- [Abington School District](https://www.realtor.com/local/school-districts/Abington-School-District-06178572231): Abington School District profile with ratings and nearby homes for sale
-- [Academy Of Dover Charter School](https://www.realtor.com/local/school-districts/Academy-Of-Dover-Charter-School-06157143441): Academy Of Dover Charter School profile in Dover, Delaware with listings
-- [Ackerman Charter School District](https://www.realtor.com/local/school-districts/Ackerman-Charter-School-District-06151435561): Ackerman Charter School District in Auburn, California with home listings
-- [Ad Prima Cs](https://www.realtor.com/local/school-districts/Ad-Prima-Cs-06202867721): Ad Prima Cs school in Philadelphia, Pennsylvania with nearby homes
-- [Aguilar Reorganized 6 School District](https://www.realtor.com/local/school-districts/Aguilar-Reorganized-6-School-District-06154285911): Aguilar School District in Colorado with ratings and available homes
-- [Agwsr Community School District](https://www.realtor.com/local/school-districts/Agwsr-Community-School-District-06170000411): Agwsr Community School District in Iowa with homes and school ratings
-- [Aibt Non-Profit Charter High School - Phoenix](https://www.realtor.com/local/school-districts/Aibt-Non-Profit-Charter-High-School-Phoenix-06148603061): Aibt Charter High School in Phoenix with nearby homes and ratings
-- [Alachua School District](https://www.realtor.com/local/school-districts/Alachua-06160000011): Alachua school district with local schools and 2000+ nearby homes
-- [Alder Elementary School District](https://www.realtor.com/local/school-districts/Alder-Elementary-School-District-06185719511): Alder Elementary School District in Montana with home listings
-- [Aleutian Region School District](https://www.realtor.com/local/school-districts/Aleutian-Region-School-District-06145714361): Aleutian Region School District in Alaska with school and home info
-- [Allen Parish School District](https://www.realtor.com/local/school-districts/Allen-Parish-06174285851): Allen Parish school district in Louisiana with homes and ratings
+## News and Editorial
+- [News](https://www.realtor.com/news/): Read housing market news, trends, and consumer real estate stories.
+- [Advice](https://www.realtor.com/advice/): Browse how-to articles for buying, selling, renting, and owning.
+- [Buying Advice](https://www.realtor.com/advice/buy/): Get practical guidance for homebuyers.
+- [Selling Advice](https://www.realtor.com/advice/sell/): Learn strategies for pricing, staging, and selling a home.
+- [Home Improvement](https://www.realtor.com/advice/home-improvement/): Find renovation, maintenance, and design advice.
+- [Moving](https://www.realtor.com/advice/moving/): Access relocation tips, checklists, and moving guides.
 
-## Home & Living Guides
+## Market Data and Research
+- [Housing Market Trends](https://www.realtor.com/research/): Review national and local housing market research.
+- [Data Center](https://www.realtor.com/research/data/): Access housing data releases and market indicators.
+- [Monthly Housing Reports](https://www.realtor.com/research/category/housing-data-release/): Read recurring housing data reports and analysis.
+- [Housing Inventory](https://www.realtor.com/research/category/housing-inventory/): Explore research on inventory and listing trends.
+- [Home Price Trends](https://www.realtor.com/soldhomeprices): Research historical sale prices and comparable homes.
 
-- [Budget-Friendly Landscaping Ideas](https://www.realtor.com/guides/lawn-care-landscaping-maintenance/7-budget-friendly-landscaping-ideas): Budget-friendly landscaping tips and cost-saving home improvement ideas
-- [The Best Mattress for Every Type of Sleeper, According to Experts](https://www.realtor.com/living/pro-tips/best-mattress-shopping-guide): Expert mattress buying guide for different sleep positions and comfort
+## Mobile and Account
+- [My Home](https://www.realtor.com/myhome): Track your home, value changes, and owner insights.
+- [Sign In](https://www.realtor.com/myaccount): Access saved searches, alerts, and account settings.
+- [Saved Homes](https://www.realtor.com/myaccount/saved-homes): View favorited properties and listing updates.
+- [Saved Searches](https://www.realtor.com/myaccount/saved-searches): Manage saved search criteria and notifications.
+- [Mobile Apps](https://www.realtor.com/mobile): Download Realtor.com mobile apps for home search on the go.
 
-## Legal & Privacy
-
-- [Cookie Notice](https://www.realtor.com/about/cookie-notice.php): Cookie usage and web tracking disclosure for realtor.com services
+## Company and Support
+- [About Realtor.com](https://www.realtor.com/about): Learn about the company and its mission.
+- [Careers](https://www.realtor.com/careers): Explore job openings and company opportunities.
+- [Help Center](https://www.realtor.com/help): Find support articles and customer assistance resources.
+- [Contact Us](https://www.realtor.com/contactus): Reach Realtor.com for support and inquiries.
+- [Privacy Policy](https://www.realtor.com/privacy-policy): Review privacy practices and data handling terms.
+- [Terms of Service](https://www.realtor.com/terms-of-service): Read the platform terms and usage conditions.

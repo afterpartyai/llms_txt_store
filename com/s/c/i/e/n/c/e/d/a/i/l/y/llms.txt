@@ -1,58 +1,79 @@
 # ScienceDaily
+> ScienceDaily is a science news website publishing research-based news and feature articles across health, medicine, technology, environment, and the physical sciences.
 
-> ScienceDaily is a leading online science news source aggregating breaking research discoveries across medicine, health, physics, biology, and environmental science with expert analysis and peer-reviewed study coverage.
+ScienceDaily aggregates and organizes coverage of newly published studies and discoveries from universities, journals, and research institutions worldwide. Its content is structured around topical news channels, headline pages, archives, and RSS feeds for following specific subject areas.
 
-ScienceDaily provides daily updates on scientific breakthroughs from universities and research institutions worldwide. The site organizes content by topic areas including health, neuroscience, and technology, with RSS feeds available for personalized content delivery.
+## Top News
+- [Top Science News](https://www.sciencedaily.com/news/top/science/): Main page for the latest top science headlines across all subject areas.
+- [Latest Top Headlines](https://www.sciencedaily.com/news/top/): Continuously updated list of the site's leading science news stories.
+- [Top Health News](https://www.sciencedaily.com/news/top/health/): Featured health and medicine headlines selected from recent coverage.
+- [Top Physical/Tech News](https://www.sciencedaily.com/news/top/technology/): Leading stories in technology, engineering, computing, and physical sciences.
+- [Top Environment News](https://www.sciencedaily.com/news/top/environment/): Featured environment, climate, and earth science headlines.
 
-## Key Topics
+## Health & Medicine
+- [Health News](https://www.sciencedaily.com/news/health_medicine/): Main health and medicine news hub with recent stories and topic navigation.
+- [Latest Health Headlines](https://www.sciencedaily.com/news/health_medicine/health/): Recent general health headlines and broad medical research coverage.
+- [Health & Medicine Topics](https://www.sciencedaily.com/news/health_medicine/): Index of medical, clinical, and public health news categories.
+- [Mind & Brain](https://www.sciencedaily.com/news/mind_brain/): News on neuroscience, cognition, psychology, and mental health research.
+- [Living Well](https://www.sciencedaily.com/news/health_medicine/living_well/): Coverage of wellness, aging, fitness, sleep, and lifestyle-related health studies.
+- [Diseases & Conditions](https://www.sciencedaily.com/news/health_medicine/diseases/): Research news on specific diseases, disorders, and treatment developments.
+- [Medical Topics News](https://www.sciencedaily.com/news/health_medicine/medical_topics/): Broad collection of medical specialty and condition-focused news pages.
 
-- Medical Breakthroughs
-- Cancer Research
-- Cardiovascular Health
-- Neuroscience
-- Brain Health
-- Clinical Trials
-- AI and Health
-- Mental Health
-- Environmental Health
-- PFAS
-- Cognitive Science
-- Heart Disease Prevention
-- Health Research
-- Drug Development
-- Quantum Physics
+## Mind & Brain
+- [Mind & Brain News](https://www.sciencedaily.com/news/mind_brain/): Main hub for brain science, behavior, cognition, and psychology reporting.
+- [Neuroscience News](https://www.sciencedaily.com/news/mind_brain/neuroscience/): Research coverage on the nervous system, brain function, and neural mechanisms.
+- [Psychology News](https://www.sciencedaily.com/news/mind_brain/psychology/): Articles on behavior, emotion, learning, and social psychology findings.
+- [Mental Health News](https://www.sciencedaily.com/news/mind_brain/mental_health/): Reporting on psychiatric disorders, therapy, and mental health outcomes.
+- [Intelligence News](https://www.sciencedaily.com/news/mind_brain/intelligence/): Studies related to cognition, IQ, reasoning, and intellectual performance.
+- [Child Development News](https://www.sciencedaily.com/news/mind_brain/child_development/): Research on development, learning, and behavior in children and adolescents.
 
-## Latest Medical Breakthroughs
+## Physical Science & Technology
+- [Physical/Tech News](https://www.sciencedaily.com/news/matter_energy/): Main hub for physics, chemistry, materials, and technology stories.
+- [Technology News](https://www.sciencedaily.com/news/computers_math/technology/): Coverage of emerging technologies, devices, and applied technical research.
+- [Computers & Math News](https://www.sciencedaily.com/news/computers_math/): News on computing, mathematics, algorithms, and information science.
+- [Engineering News](https://www.sciencedaily.com/news/matter_energy/engineering/): Research on mechanical, electrical, civil, and applied engineering advances.
+- [Physics News](https://www.sciencedaily.com/news/matter_energy/physics/): Reporting on fundamental and applied physics discoveries.
+- [Chemistry News](https://www.sciencedaily.com/news/matter_energy/chemistry/): Articles covering chemical science, reactions, compounds, and analysis.
+- [Nanotechnology News](https://www.sciencedaily.com/news/matter_energy/nanotechnology/): Research updates on nanoscale materials, devices, and fabrication.
 
-- [New pill cuts "bad" cholesterol by 60% in major trial](https://sciencedaily.com/releases/2026/03/260321012659.htm): Enlicitide pill reduces LDL cholesterol by 60% in clinical trial, offering new cardiovascular disease prevention option
-- [New AI tool predicts cancer spread with surprising accuracy](https://sciencedaily.com/releases/2026/03/260321012709.htm): MangroveGS AI predicts cancer metastasis with 80% accuracy, advancing personalized cancer treatment planning
-- [Scientists turn probiotic bacteria into tumor-hunting cancer killers](https://sciencedaily.com/releases/2026/03/260321004445.htm): Engineered probiotic bacteria target tumors as drug factories, opening new immunotherapy approaches
-- [This virus therapy supercharges the immune system against brain cancer](https://sciencedaily.com/releases/2026/03/260319044708.htm): Modified virus therapy activates immunity against glioblastoma, showing promise for previously untreatable cancers
-- [This common vaccine cuts heart risk nearly in half in new study](https://sciencedaily.com/releases/2026/03/260319044659.htm): Shingles vaccine reduces cardiac events by 46% in high-risk patients, revealing unexpected cardiovascular benefits
-- [What happens after Ozempic shocked researchers](https://sciencedaily.com/releases/2026/03/260319044648.htm): Real-world study shows weight loss maintained after Ozempic discontinuation, providing insights into long-term metabolic effects
+## Space & Earth
+- [Space & Time News](https://www.sciencedaily.com/news/space_time/): Main hub for astronomy, cosmology, and space exploration news.
+- [Astronomy News](https://www.sciencedaily.com/news/space_time/astronomy/): Coverage of stars, planets, galaxies, and observational discoveries.
+- [Space Exploration News](https://www.sciencedaily.com/news/space_time/space_exploration/): News on missions, spacecraft, planetary exploration, and related research.
+- [Earth & Climate News](https://www.sciencedaily.com/news/earth_climate/): Main page for earth science, climate, geology, and environmental systems.
+- [Climate News](https://www.sciencedaily.com/news/earth_climate/climate/): Research on climate change, atmospheric processes, and long-term trends.
+- [Earthquakes News](https://www.sciencedaily.com/news/earth_climate/earthquakes/): Studies and reports on seismic activity, faults, and geophysical hazards.
+- [Fossils & Ruins News](https://www.sciencedaily.com/news/fossils_ruins/): Coverage of paleontology, archaeology, and ancient life discoveries.
 
-## Health, Neuroscience & Mental Health
+## Plants & Animals
+- [Plants & Animals News](https://www.sciencedaily.com/news/plants_animals/): Main hub for zoology, botany, ecology, and organism-focused research.
+- [Animals News](https://www.sciencedaily.com/news/plants_animals/animals/): Stories on animal behavior, evolution, physiology, and conservation.
+- [Plants News](https://www.sciencedaily.com/news/plants_animals/plants/): Research on plant biology, agriculture, ecology, and adaptation.
+- [Birds News](https://www.sciencedaily.com/news/plants_animals/birds/): Articles on avian biology, migration, behavior, and ecology.
+- [Insects News](https://www.sciencedaily.com/news/plants_animals/insects/): Coverage of insect behavior, evolution, biodiversity, and pest science.
+- [Marine Life News](https://www.sciencedaily.com/news/plants_animals/marine_life/): Research on ocean organisms, ecosystems, and aquatic biodiversity.
+- [Endangered Species News](https://www.sciencedaily.com/news/plants_animals/endangered_species/): Reporting on threatened wildlife, conservation science, and habitat risks.
 
-- [Men are losing a key chromosome with age and it may be deadly](https://sciencedaily.com/releases/2026/03/260319044711.htm): Y chromosome loss in aging men linked to disease and mortality, revealing new aging mechanism
-- [Huge study finds no evidence cannabis helps anxiety, depression, or PTSD](https://sciencedaily.com/releases/2026/03/260319044656.htm): Large review finds medicinal cannabis ineffective for anxiety and PTSD, challenging popular health assumptions
-- [These "forever chemicals" could be weakening kids' bones for life](https://sciencedaily.com/releases/2026/03/260321004440.htm): PFAS exposure linked to lower bone density in adolescents, raising environmental health concerns
-- [Closing your eyes to hear better might be a big mistake](https://sciencedaily.com/releases/2026/03/260320073819.htm): Study shows keeping eyes open improves hearing in noisy environments, demonstrating multisensory perception integration
-- [Perception News](https://sciencedaily.com/news/mind_brain/perception): Topic page featuring perception research and sensory science news
-- [Intelligence News](https://sciencedaily.com/news/mind_brain/intelligence): Topic page covering intelligence research and cognitive science
-- [Social Psychology News](https://sciencedaily.com/news/mind_brain/social_psychology): Topic page featuring social psychology and behavioral research
+## Biology & Life Sciences
+- [Biology News](https://www.sciencedaily.com/news/plants_animals/biology/): General biology coverage spanning cells, organisms, and life processes.
+- [Biotechnology News](https://www.sciencedaily.com/news/plants_animals/biotechnology/): Research on applied biology, bioengineering, and laboratory innovation.
+- [Genetics News](https://www.sciencedaily.com/news/plants_animals/genetics/): Articles on genes, heredity, genomics, and molecular biology findings.
+- [Evolution News](https://www.sciencedaily.com/news/plants_animals/evolution/): Coverage of evolutionary biology, adaptation, and species history.
+- [Microbiology News](https://www.sciencedaily.com/news/plants_animals/microbiology/): Reporting on microbes, pathogens, microbial ecology, and lab discoveries.
+- [Cell Biology News](https://www.sciencedaily.com/news/plants_animals/cell_biology/): Research on cells, signaling, structure, and biological mechanisms.
 
-## Physics, Technology & Quantum Science
+## Environment & Sustainability
+- [Environment News](https://www.sciencedaily.com/news/earth_climate/environment/): Coverage of ecosystems, pollution, conservation, and environmental change.
+- [Global Warming News](https://www.sciencedaily.com/news/earth_climate/global_warming/): Research and reporting on warming trends and climate impacts.
+- [Pollution News](https://www.sciencedaily.com/news/earth_climate/pollution/): Studies on contaminants, emissions, exposure, and environmental health.
+- [Conservation News](https://www.sciencedaily.com/news/earth_climate/conservation/): Articles on biodiversity protection, habitat management, and restoration.
+- [Water News](https://www.sciencedaily.com/news/earth_climate/water/): Research on freshwater systems, hydrology, water quality, and resources.
+- [Energy & Green Tech News](https://www.sciencedaily.com/news/matter_energy/energy_technology/): Reporting on energy systems, renewables, storage, and clean technology.
 
-- [Harvard engineers build chip that can twist and control light in real time](https://sciencedaily.com/releases/2026/03/260321012702.htm): Harvard photonic crystal chip manipulates light polarization in real time, advancing optical computing
-- [Scientists just found a hidden 48-dimensional world in quantum light](https://sciencedaily.com/releases/2026/03/260321012705.htm): Quantum optics reveals 48-dimensional topological structures in light, expanding understanding of quantum phenomena
-
-## Earth Science & Paleontology
-
-- [Tectonic shift: Earth was already moving 3.5 billion years ago](https://sciencedaily.com/releases/2026/03/260321012636.htm): Magnetic analysis reveals plate tectonics active 3.5 billion years ago, rewriting early Earth history
-- [This crocodile ran like a greyhound across prehistoric Britain 200 million years ago](https://sciencedaily.com/releases/2026/03/260321012715.htm): Triassic reptile Galahadosuchus jonesi fossil reveals fast predator, shedding light on ancient ecosystems
-
-## Topic Centers & Content Organization
-
-- [ScienceDaily Homepage](https://sciencedaily.com): Homepage featuring breaking science news across multiple disciplines with daily updates
-- [Diet and Weight Loss News](https://sciencedaily.com/news/health_medicine/diet_and_weight_loss): Topic page aggregating diet, nutrition, and weight loss research
-- [RSS Newsfeeds](https://sciencedaily.com/newsfeeds.htm): RSS feed directory organized by topic for content syndication and personalized news delivery
+## Archives & Feeds
+- [Science News Archive](https://www.sciencedaily.com/news/): Directory of ScienceDaily news channels and topical sections.
+- [Strange & Offbeat News](https://www.sciencedaily.com/news/strange_offbeat/): Collection of unusual science-related stories and surprising findings.
+- [Quirky Science News](https://www.sciencedaily.com/news/strange_offbeat/quirky_science/): Offbeat but research-based stories from across scientific disciplines.
+- [Science Videos](https://www.sciencedaily.com/videos/): Video content featuring science news summaries and research explainers.
+- [ScienceDaily RSS Feeds](https://www.sciencedaily.com/rss/): RSS feed directory for following sitewide and topic-specific updates.
+- [Breaking News Alerts](https://www.sciencedaily.com/newsletters.htm): Email newsletter and alert signup options for new science headlines.

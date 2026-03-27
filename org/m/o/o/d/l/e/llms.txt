@@ -1,27 +1,78 @@
 # Moodle.org
+> Moodle.org is the community hub for Moodle, providing downloads, documentation, plugins, forums, language packs, demos, and developer resources for the open-source LMS.
 
-> Moodle is an open-source learning platform providing plugins, extensions, and community resources for educators and developers to customize and enhance online learning experiences.
+Moodle.org supports educators, administrators, developers, and partners using Moodle at every scale, from small teaching sites to large institutional deployments. It connects the global Moodle community with official documentation, software releases, plugin extensions, translation tools, issue tracking, and collaborative discussion spaces.
 
-Moodle.org serves as the central hub for the Moodle community, offering access to thousands of plugins and extensions that extend the platform's core functionality. The site connects educators, developers, and institutions using Moodle's flexible learning management system.
+## Core Community
+- [Home](https://moodle.org/): Main community portal for Moodle with access to downloads, support, plugins, and project updates.
+- [Forums](https://moodle.org/course): Community discussion area for support, announcements, and collaboration across Moodle topics.
+- [Search](https://moodle.org/public/search): Search Moodle.org community content, discussions, and site resources.
+- [Demo](https://moodle.org/demo): Try Moodle through official demonstration sites for exploring features and interfaces.
+- [Moodle Academy](https://moodle.academy): Free learning hub with courses and pathways for educators and Moodle practitioners.
+- [MoodleNet](https://moodle.net): Open social platform for sharing collections, resources, and teaching materials.
 
-## Key Topics
+## Documentation
+- [Moodle Documentation](https://docs.moodle.org): Official documentation hub for installing, administering, teaching with, and developing Moodle.
+- [Moodle 4.5 Docs](https://docs.moodle.org/405/en/Main_page): Documentation for Moodle 4.5, including user, admin, and developer guidance.
+- [Moodle 4.4 Docs](https://docs.moodle.org/404/en/Main_page): Documentation for Moodle 4.4 features, configuration, and site management.
+- [Moodle 4.3 Docs](https://docs.moodle.org/403/en/Main_page): Documentation for Moodle 4.3 covering teaching tools and administration tasks.
+- [Moodle 4.2 Docs](https://docs.moodle.org/402/en/Main_page): Documentation for Moodle 4.2 with guidance for core platform capabilities.
+- [Moodle Docs Main Page](https://docs.moodle.org/en/Main_page): Entry point to Moodle documentation across versions and audiences.
 
-- Moodle plugins
-- Learning Management System (LMS)
-- Plugin extensions
-- Course activities
-- Quiz
-- Assignment
-- Workshop
-- SCORM
-- LTI
-- BigBlueButton
-- Custom certificate
-- Atto editor
-- TinyMCE
-- Version compatibility
-- Moodle community
+## Downloads & Releases
+- [Downloads](https://download.moodle.org/): Official Moodle download site for stable releases, packages, and deployment options.
+- [Latest Standard Package](https://download.moodle.org/download.php/direct/stable405/moodle-latest-405.tgz): Latest Moodle 4.5 standard package for manual installation.
+- [Latest Windows Package](https://download.moodle.org/windows/): Windows installer packages for local Moodle installations and testing.
+- [Latest macOS Package](https://download.moodle.org/macosx/): macOS packages for running Moodle locally in development or evaluation environments.
+- [Release Notes](https://docs.moodle.org/en/Release_notes): Documentation index for Moodle release notes across supported versions.
+- [Security Notifications](https://moodle.org/security/): Security advisories and information about Moodle vulnerabilities and fixes.
 
-## Plugin Directory & Extensions
+## Plugins Directory
+- [Plugins Directory](https://moodle.org/plugins): Official catalog of Moodle plugins with downloads, reviews, and version compatibility.
+- [Activity Modules](https://moodle.org/plugins/browse.php?list=category&id=6): Plugins that add new learning activities and interactive course components.
+- [Blocks](https://moodle.org/plugins/browse.php?list=category&id=5): Sidebar and dashboard block plugins for extending Moodle interfaces.
+- [Course Formats](https://moodle.org/plugins/browse.php?list=category&id=19): Plugins that change course layout, navigation, and presentation.
+- [Question Types](https://moodle.org/plugins/browse.php?list=category&id=29): Additional quiz question type plugins for assessment workflows.
+- [Themes](https://moodle.org/plugins/browse.php?list=category&id=3): Theme plugins for customizing Moodle appearance and branding.
+- [Authentication](https://moodle.org/plugins/browse.php?list=category&id=2): Authentication plugins for integrating external identity providers and login methods.
+- [Repositories](https://moodle.org/plugins/browse.php?list=category&id=17): Repository plugins for connecting external content and file sources.
 
-- [Moodle Plugins Directory](https://moodle.org/plugins/): Comprehensive directory of Moodle plugins and extensions for customizing learning platform functionality, including version compatibility and plugin categories.
+## Developer Resources
+- [Moodle Development](https://moodledev.io/): Official developer portal for Moodle architecture, APIs, coding standards, and contribution workflows.
+- [Developer Documentation](https://moodledev.io/docs): Central index of Moodle developer documentation and technical guides.
+- [API Documentation](https://moodledev.io/docs/apis): Overview of Moodle APIs for plugins, integrations, and core development.
+- [Plugin Development](https://moodledev.io/docs/4.5/apis/plugintypes): Guidance on Moodle plugin types and extension points.
+- [Coding Style](https://moodledev.io/general/development/policies/codingstyle): Moodle coding style rules and conventions for contributors.
+- [Testing](https://moodledev.io/general/development/tools/testing): Developer guidance for automated and manual testing in Moodle.
+- [Git and Branching](https://moodledev.io/general/development/process/git): Moodle development workflow for Git, branches, and contributions.
+
+## Translation & Localisation
+- [Translation Portal](https://lang.moodle.org): Community translation site for Moodle language packs and localisation work.
+- [AMOS](https://lang.moodle.org/): Moodle AMOS interface for translating strings used in core and plugins.
+- [Language Packs](https://download.moodle.org/langpack/): Downloadable Moodle language packs for supported locales.
+- [Indonesian Moodle.org](https://moodle.org/?lang=id): Example localized Moodle.org interface in Bahasa Indonesia.
+- [Language Customisation Docs](https://docs.moodle.org/en/Language_customisation): Documentation for customizing language strings within Moodle sites.
+
+## Support & Help
+- [Community Support Forums](https://moodle.org/course): Primary place to ask questions and get help from the Moodle community.
+- [General Help Documentation](https://docs.moodle.org/en/Main_page): Official help articles for teachers, admins, and developers.
+- [Installation Guide](https://docs.moodle.org/en/Installation_quick_guide): Quick guide for installing Moodle on a server.
+- [Administrator Documentation](https://docs.moodle.org/en/Category:Administrator_documentation): Documentation for configuring, maintaining, and securing Moodle sites.
+- [Teacher Documentation](https://docs.moodle.org/en/Category:Teacher_documentation): Guidance for course creation, activities, grading, and learner support.
+- [User Documentation](https://docs.moodle.org/en/Category:User_documentation): End-user documentation covering common Moodle tasks and features.
+
+## Project Governance & Contribution
+- [Product Vision](https://moodle.org/mod/page/view.php?id=9588): Overview of Moodle’s product vision and how ideas become learning solutions.
+- [Get Involved](https://moodle.org/mod/page/view.php?id=9589): Community participation opportunities for contributors, testers, and advocates.
+- [Tracker](https://moodle.atlassian.net): Official issue tracker for bugs, improvements, and development tasks.
+- [Development Process](https://moodledev.io/general/development/process): Documentation on Moodle’s development and contribution processes.
+- [Roadmap](https://moodledev.io/general/releases/roadmap): Planned Moodle releases and development direction.
+- [Contributing](https://moodledev.io/general/community/contributing): How to contribute code, documentation, testing, and community support.
+
+## Ecosystem & Related Services
+- [Moodle.com](https://moodle.com): Commercial site for Moodle products, hosting, services, and enterprise offerings.
+- [Moodle Workplace](https://moodle.com/solutions/workplace/): Information about Moodle’s workplace learning platform for organisations.
+- [Moodle LMS](https://moodle.com/moodle-lms/): Product overview for the core Moodle learning management system.
+- [Moodle App](https://moodle.com/app/): Information about the official Moodle mobile app for learners and educators.
+- [Moodle Certified Partners](https://moodle.com/solutions/certified-service-providers/): Directory of certified providers offering Moodle services and support.
+- [Moodle Academy](https://moodle.academy): Training and professional learning resources for Moodle users worldwide.

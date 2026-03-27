@@ -1,30 +1,75 @@
 # FAZ.NET
 
-> > FAZ.NET is the digital platform of Frankfurter Allgemeine Zeitung (F.A.Z.), offering news content, interactive games, and comprehensive archive services.
+> Digitale Nachrichtenplattform der Frankfurter Allgemeinen Zeitung mit aktueller Berichterstattung, Analysen, Meinungen und Spezialangeboten.
 
-The site serves as the online presence of one of Germany's leading newspapers, providing access to editorial content, puzzles and brain teasers, and professional research tools including the F.A.Z.-Archiv with licensing and media monitoring capabilities.
+FAZ.NET bündelt Nachrichten aus Politik, Wirtschaft, Finanzen, Gesellschaft, Kultur, Wissen, Sport und Technik sowie Kommentare, Dossiers, Podcasts, Videos, Spiele und Archivangebote der F.A.Z.
 
-## Key Topics
+## Nachrichten & Startseiten
+- [FAZ.NET Startseite](https://www.faz.net/): Überblick über aktuelle Nachrichten, Analysen, Kommentare und Schwerpunktthemen.
+- [Aktuell](https://www.faz.net/aktuell/): Zentrale Nachrichtenübersicht mit den neuesten Meldungen aus allen Ressorts.
+- [Liveblog-Übersicht](https://www.faz.net/aktuell/liveblog-zum-ukraine-krieg-und-anderen-themen-18175002.html): Sammelseite für Liveblogs zu laufenden Nachrichtenlagen und Großereignissen.
+- [Videos](https://www.faz.net/aktuell/video/): Nachrichtenvideos, Interviews, Reportagen und Bewegtbildformate der Redaktion.
+- [Podcasts](https://www.faz.net/podcasts/): Podcast-Übersicht mit Nachrichten-, Politik-, Wirtschafts- und Hintergrundformaten.
 
-- Frankfurter Allgemeine Zeitung
-- F.A.Z.
-- FAZ.NET
-- newspaper-archive
-- F.A.Z.-Archiv
-- online-games
-- crossword-puzzles
-- Kreuzwort
-- word-games
-- brain-teasers
-- research-services
-- text-licensing
-- media-monitoring
-- news-quiz
+## Politik
+- [Politik](https://www.faz.net/aktuell/politik/): Berichterstattung zu deutscher, europäischer und internationaler Politik.
+- [Inland](https://www.faz.net/aktuell/politik/inland/): Nachrichten, Analysen und Kommentare zur deutschen Innenpolitik.
+- [Ausland](https://www.faz.net/aktuell/politik/ausland/): Internationale Politik, Diplomatie, Konflikte und globale Entwicklungen.
+- [Bundestagswahl](https://www.faz.net/aktuell/politik/bundestagswahl/): Dossiers, Analysen und Nachrichten rund um Bundestagswahlen.
+- [Ukraine-Krieg](https://www.faz.net/aktuell/politik/ukraine/): Laufende Berichterstattung, Analysen und Hintergründe zum Krieg in der Ukraine.
 
-## Archive & Research Services
+## Wirtschaft & Finanzen
+- [Wirtschaft](https://www.faz.net/aktuell/wirtschaft/): Nachrichten und Analysen zu Unternehmen, Konjunktur und Märkten.
+- [Finanzen](https://www.faz.net/aktuell/finanzen/): Börsen, Geldanlage, Märkte und Finanzthemen im Überblick.
+- [Unternehmen](https://www.faz.net/aktuell/wirtschaft/unternehmen/): Berichte über Firmen, Manager, Strategien und Branchenentwicklungen.
+- [Konjunktur](https://www.faz.net/aktuell/wirtschaft/konjunktur/): Daten, Prognosen und Analysen zur wirtschaftlichen Lage.
+- [Rhein-Main-Wirtschaft](https://www.faz.net/aktuell/rhein-main/wirtschaft/): Regionale Wirtschaftsberichterstattung aus dem Rhein-Main-Gebiet.
 
-- [F.A.Z.-Archiv](https://fazarchiv.faz.net/): Frankfurter Allgemeine Zeitung archive with search and licensing services
+## Gesellschaft & Leben
+- [Gesellschaft](https://www.faz.net/aktuell/gesellschaft/): Themen aus Gesellschaft, Debatten, Menschen und Alltagsfragen.
+- [Stil](https://www.faz.net/aktuell/stil/): Mode, Design, Genuss, Reise und gehobener Lebensstil.
+- [Reise](https://www.faz.net/aktuell/stil/reise/): Reiseberichte, Empfehlungen und Entwicklungen aus der Touristik.
+- [Gesundheit](https://www.faz.net/aktuell/gesellschaft/gesundheit/): Medizin, Gesundheitspolitik und Forschung mit Praxisbezug.
+- [Bildungswelten](https://www.faz.net/aktuell/karriere-hochschule/): Inhalte zu Bildung, Hochschule, Karriere und Beruf.
 
-## Optional
+## Kultur & Feuilleton
+- [Feuilleton](https://www.faz.net/aktuell/feuilleton/): Kulturberichterstattung, Kritik, Essays und Debatten.
+- [Bücher](https://www.faz.net/aktuell/feuilleton/buecher/): Rezensionen, Literaturdebatten und Neuerscheinungen.
+- [Kino](https://www.faz.net/aktuell/feuilleton/kino/): Filmkritiken, Festivalberichte und Nachrichten aus der Filmwelt.
+- [Medien](https://www.faz.net/aktuell/feuilleton/medien/): Analysen zu Medien, Journalismus, Fernsehen und Plattformen.
+- [Debatten](https://www.faz.net/aktuell/feuilleton/debatten/): Essays und Kontroversen zu Kultur, Politik und Gesellschaft.
 
-- [Spiele auf FAZ.NET: Kostenlose Online-Games | FAZ](https://sp.faz.net/): Free online games including News-Quiz, Mahjong, Solitaire on FAZ.NET
+## Wissen & Technik
+- [Wissen](https://www.faz.net/aktuell/wissen/): Wissenschaft, Forschung, Umwelt und Erkenntnisse aus vielen Disziplinen.
+- [Technik und Motor](https://www.faz.net/aktuell/technik-motor/): Technik-, Mobilitäts- und Automobilthemen mit Tests und Analysen.
+- [Digitalwirtschaft](https://www.faz.net/aktuell/wirtschaft/digitec/): Berichte zu Tech-Unternehmen, Plattformen und digitaler Ökonomie.
+- [Natur](https://www.faz.net/aktuell/wissen/natur/): Umwelt, Klima, Tiere und naturwissenschaftliche Entwicklungen.
+- [Medizin](https://www.faz.net/aktuell/wissen/medizin-gesundheit/): Forschung, Therapien und medizinische Hintergründe.
+
+## Sport
+- [Sport](https://www.faz.net/aktuell/sport/): Nachrichten, Analysen und Kommentare aus der Welt des Sports.
+- [Fußball](https://www.faz.net/aktuell/sport/fussball/): Berichterstattung zu nationalem und internationalem Fußball.
+- [Formel 1](https://www.faz.net/aktuell/sport/formel-1/): Rennen, Teams, Fahrer und Analysen zur Formel 1.
+- [Mehr Sport](https://www.faz.net/aktuell/sport/mehr-sport/): Tennis, Handball, Wintersport und weitere Disziplinen.
+- [Sporttabellen](https://www.faz.net/aktuell/sport/tabellen/): Tabellen, Ergebnisse und Spielstände ausgewählter Wettbewerbe.
+
+## Meinung & Formate
+- [Kommentare](https://www.faz.net/aktuell/politik/kommentare/): Meinungsbeiträge und Einordnungen zu politischen und gesellschaftlichen Themen.
+- [Gastbeiträge](https://www.faz.net/aktuell/feuilleton/debatten/gastbeitraege/): Externe Stimmen und Essays zu aktuellen Debatten.
+- [F.A.Z. Einspruch](https://www.faz.net/einspruch/): Juristische Analysen und Kommentare zu Rechtspolitik und Urteilen.
+- [Newsletter](https://www.faz.net/newsletter/): Übersicht der redaktionellen Newsletter zu verschiedenen Themengebieten.
+- [Themenübersicht](https://www.faz.net/aktuell/thema/): Index wichtiger Themen, Personen und Schlagworte auf FAZ.NET.
+
+## Region & Spezialressorts
+- [Rhein-Main](https://www.faz.net/aktuell/rhein-main/): Regionale Nachrichten, Politik, Kultur und Wirtschaft aus Rhein-Main.
+- [Karriere & Hochschule](https://www.faz.net/aktuell/karriere-hochschule/): Inhalte zu Beruf, Studium, Arbeitsmarkt und Weiterbildung.
+- [Immobilien](https://www.faz.net/aktuell/finanzen/meine-finanzen/immobilien/): Berichte und Ratgeber zu Immobilienmarkt und Wohnen.
+- [Auto & Verkehr](https://www.faz.net/aktuell/technik-motor/motor/): Tests, Mobilität, Verkehrspolitik und Fahrzeugthemen.
+- [Rezepte](https://www.faz.net/aktuell/stil/essen-trinken/): Kulinarik, Genuss und Rezepte aus dem Stil-Ressort.
+
+## Service, Spiele & Archiv
+- [Spiele](https://spiele.faz.net/): Online-Spiele, Rätsel und Denkspiele im F.A.Z.-Umfeld.
+- [F.A.Z.-Archiv](https://fazarchiv.faz.net/): Rechercheportal für Archivsuche, Lizenzierung und historische Inhalte.
+- [E-Paper](https://epaper.faz.net/): Digitale Zeitungsausgaben und Lesemodus für Abonnenten.
+- [Abo-Angebote](https://abo.faz.net/): Abonnements für Digitalzugang, Zeitung, E-Paper und Kombiangebote.
+- [Traueranzeigen](https://trauer.faz.net/): Trauerportal mit Anzeigen, Gedenken und Suchfunktionen.

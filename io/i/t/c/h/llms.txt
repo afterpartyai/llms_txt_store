@@ -1,58 +1,101 @@
 # itch.io
+> itch.io is an open marketplace and community for discovering, downloading, selling, and sharing indie games, tools, and game assets.
 
-> > itch.io is an open indie game marketplace and distribution platform enabling developers to host, sell, and monetize games while players discover and play independent titles across multiple platforms.
+itch.io serves both players and creators with game discovery, direct downloads, browser games, developer publishing tools, game jams, community spaces, and marketplaces for assets and development tools.
 
-itch.io serves as a central hub for indie game developers and players, offering game hosting, digital distribution, asset marketplaces, and community features. The platform supports multiple platforms including Windows, macOS, Linux, Web, iOS, and Android, with extensive filtering by genre, input methods (controller support for Xbox, PlayStation, Joy-Con, Kinect, etc.), and game characteristics.
+## Game Discovery
+- [Home](https://itch.io/): Main discovery page for featured indie games, tags, pricing, and recent releases.
+- [Browse Games](https://itch.io/games): Explore games across genres, platforms, tags, and popularity rankings.
+- [Free Games](https://itch.io/games/free): Browse free downloadable and browser-based indie games.
+- [Paid Games](https://itch.io/games/store): Discover paid games available for purchase on itch.io.
+- [Web Games](https://itch.io/games/platform-web): Play browser-based games directly on the web platform.
+- [Top Sellers](https://itch.io/games/top-sellers): View bestselling games across the marketplace.
+- [New & Popular](https://itch.io/games/new-and-popular): Find recently released games gaining traction with players.
+- [On Sale](https://itch.io/games/on-sale): Browse discounted games currently available at reduced prices.
 
-## Key Topics
+## Tags, Genres, and Filters
+- [Popular Tags](https://itch.io/tags): Directory of tags used to classify games, tools, and assets.
+- [Horror Games](https://itch.io/games/tag-horror): Browse games tagged horror across supported platforms.
+- [RPG Games](https://itch.io/games/genre-rpg): Explore role-playing games from indie developers.
+- [Platformer Games](https://itch.io/games/genre-platformer): Find platformers across downloadable and web formats.
+- [Puzzle Games](https://itch.io/games/genre-puzzle): Discover puzzle games with tag and platform filters.
+- [Multiplayer Games](https://itch.io/games/tag-multiplayer): Browse games tagged for multiplayer play.
+- [Pixel Art Games](https://itch.io/games/tag-pixel-art): Explore games tagged with pixel art aesthetics.
+- [Visual Novel Games](https://itch.io/games/genre-visual-novel): Find visual novels and narrative-focused interactive works.
 
-- indie games
-- game discovery
-- game development
-- game jams
-- game marketplace
-- free games
-- game bundles
-- game assets
-- game development tools
-- game engines
-- multi-platform support
-- game genres
-- multiplayer games
-- input methods
-- community
+## Platforms and Formats
+- [Windows Games](https://itch.io/games/platform-windows): Browse games available for Windows downloads.
+- [macOS Games](https://itch.io/games/platform-osx): Discover games built for macOS.
+- [Linux Games](https://itch.io/games/platform-linux): Explore downloadable games for Linux systems.
+- [Android Games](https://itch.io/games/platform-android): Find games available for Android devices.
+- [iOS Games](https://itch.io/games/platform-ios): Browse games and interactive projects for iOS.
+- [Web Games](https://itch.io/games/platform-web): Play games in the browser without installing downloads.
+- [HTML5 Games](https://itch.io/games/made-with-html5): Discover games created with HTML5 technologies.
 
-## Game Discovery & Browsing
+## Creator Publishing
+- [For Developers](https://itch.io/developers): Overview of publishing, selling, and distributing games on itch.io.
+- [Upload New Project](https://itch.io/game/new): Create and publish a new game, tool, or asset page.
+- [Dashboard](https://itch.io/dashboard): Manage projects, sales, analytics, and creator account activity.
+- [Devlogs](https://itch.io/devlogs): Read and publish development updates tied to itch.io projects.
+- [Creator FAQ](https://itch.io/docs/creators/faq): Answers to common questions about publishing and selling on itch.io.
+- [Quality Guidelines](https://itch.io/docs/creators/quality-guidelines): Standards and recommendations for project pages and uploads.
+- [Getting Started for Creators](https://itch.io/docs/creators/getting-started): Introductory documentation for setting up and publishing projects.
 
-- [Download the latest indie games - itch.io](https://itch.io): itch.io homepage: indie game marketplace for discovering and distributing games
-- [Top games - itch.io](https://itch.io/games): Main game discovery and browsing hub with filtering across platforms
-- [Top free games - itch.io](https://itch.io/games/free): Free games discovery page with platform and genre filtering options
-- [Top paid games - itch.io](https://itch.io/games/store): Paid games marketplace with filtering by platform and input methods
-- [Top games for Web - itch.io](https://itch.io/games/platform-web): Web-based games discovery and browsing on itch.io
-- [Top games tagged Horror - itch.io](https://itch.io/games/tag-horror): Horror games browsing with tag filtering and genre discovery
-- [Top games tagged Multiplayer - itch.io](https://itch.io/games/tag-multiplayer): Multiplayer games discovery with local and online filtering
-- [Fun games - Top games - itch.io](https://itch.io/games/fun): Curated fun games collection for indie game discovery
-- [Top tags - itch.io](https://itch.io/tags): Directory of content tags and categories for game discovery
+## App and Distribution Tools
+- [itch App](https://itch.io/app): Desktop app for installing, updating, and managing itch.io games.
+- [App Download](https://itch.io/app/download): Download the itch desktop application for supported systems.
+- [Butler](https://itch.io/docs/butler/): Command-line tool for uploading builds and patching releases efficiently.
+- [Butler Pushing Builds](https://itch.io/docs/butler/pushing.html): Guide to uploading project files with butler.
+- [Butler Login](https://itch.io/docs/butler/login.html): Authenticate butler with an itch.io account.
+- [App Developer Docs](https://itch.io/docs/itch/integrating/quickstart.html): Quickstart for integrating games with the itch app.
+- [Sandboxing](https://itch.io/docs/itch/integrating/platforms/windows.html): Platform integration details for app-distributed games.
 
-## Developer Platform & Distribution
+## Documentation and API
+- [Documentation Home](https://itch.io/docs/): Central documentation for creators, app integration, and tools.
+- [API Reference](https://itch.io/docs/api/overview): Overview of the itch.io API and authentication model.
+- [API Downloads](https://itch.io/docs/api/downloads): Access download and upload-related API capabilities.
+- [API Games](https://itch.io/docs/api/games): Reference for game and project-related API endpoints.
+- [API Credentials](https://itch.io/docs/api/serverside): Server-side authentication and API key usage.
+- [JavaScript API](https://itch.io/docs/api/javascript): Browser-side JavaScript API for embedded and web games.
+- [OAuth Applications](https://itch.io/user/settings/api-keys): Manage API keys and application access settings.
 
-- [Sell your indie games online - itch.io](https://itch.io/developers): Developer platform for hosting, selling, and distributing indie games
-- [Devlogs - itch.io](https://itch.io/devlogs): Community developer logs showcasing game development updates and releases
-- [Game jams - itch.io](https://itch.io/jams): Game jam directory and calendar for community game development events
-- [Game development jobs - itch.io](https://itch.io/jobs): Game industry job listings and hiring opportunities
-- [itch.io Community - itch.io](https://itch.io/community): Community forum and discussion boards for developers and players
+## Game Jams
+- [Game Jams](https://itch.io/jams): Browse active, upcoming, and past game jams.
+- [Create a Jam](https://itch.io/jam/new): Set up and host a new game jam.
+- [Jam Calendar](https://itch.io/jams/upcoming): View upcoming jams and submission schedules.
+- [Featured Jams](https://itch.io/jams/featured): Discover highlighted game jams on the platform.
+- [Jam Hosting Guide](https://itch.io/docs/creators/game-jams): Documentation for organizing and managing jams.
+- [Jam Results Guide](https://itch.io/docs/creators/game-jams#ranking): Learn how ranking and results work for jams.
 
-## Game Development Resources
+## Assets and Tools Marketplace
+- [Game Assets](https://itch.io/game-assets): Browse asset packs for game development projects.
+- [Tools](https://itch.io/tools): Discover development tools, editors, and utilities.
+- [Sprites](https://itch.io/game-assets/tag-sprites): Find sprite packs and 2D art assets.
+- [Music](https://itch.io/game-assets/tag-music): Browse music packs and sound assets.
+- [Sound Effects](https://itch.io/game-assets/tag-sound-effects): Explore sound effect libraries for games.
+- [3D Models](https://itch.io/game-assets/tag-3d): Discover 3D assets for prototyping and production.
+- [Game Engines](https://itch.io/tools/tag-game-engine): Browse engines and frameworks listed on itch.io.
 
-- [Top tools - itch.io](https://itch.io/tools): Game development tools marketplace including editors and utilities
-- [Top game assets - itch.io](https://itch.io/game-assets): Game assets marketplace for sprites, music, and 3D models
-- [Top Game Engines - itch.io](https://itch.io/game-development/engines): Game engine directory including Unity, Godot, and GameMaker
+## Community and Social
+- [Community](https://itch.io/community): Discussion boards for players, creators, and jam participants.
+- [Devlogs](https://itch.io/devlogs): Follow project updates and creator posts.
+- [Jobs](https://itch.io/jobs): Browse game-related job postings and opportunities.
+- [Boards](https://itch.io/boards): Index of community discussion categories.
+- [Developer Logs Board](https://itch.io/board/10020/devlogs): Community board focused on development updates.
+- [Questions & Support](https://itch.io/board/10023/questions-support): Ask for help with platform and project issues.
 
-## Sales, Bundles & Promotions
+## Blog and Editorial
+- [Blog](https://itch.io/blog): Official itch.io blog with platform news and announcements.
+- [Latest Posts](https://itch.io/blog/latest): Recent blog posts from the itch.io team.
+- [Updates](https://itch.io/updates): Product and platform update stream.
+- [Press Kit](https://itch.io/press): Press resources and company information for media use.
+- [About itch.io](https://itch.io/docs/general/about): Background information about the platform and its mission.
 
-- [Sales - itch.io](https://itch.io/sales): Discounted games, bundles, and assets during sales events
-- [Bundles - itch.io](https://itch.io/bundles): Game and asset bundles with discounted bulk pricing
-
-## Additional Content
-
-- [Top comics - itch.io](https://itch.io/comics): Comics and webcomics directory on itch.io platform
+## Account, Sales, and Support
+- [Register](https://itch.io/register): Create an itch.io account for playing or publishing.
+- [Log In](https://itch.io/login): Sign in to access purchases, projects, and account settings.
+- [My Library](https://itch.io/my-purchases): Access purchased and claimed games from your account.
+- [Sales Dashboard](https://itch.io/dashboard/sales): Review transactions, revenue, and payout activity.
+- [Payouts Documentation](https://itch.io/docs/creators/payments): Learn how payments, revenue share, and payouts work.
+- [Refund Policy](https://itch.io/docs/legal/terms): Review marketplace terms and related purchase policies.
+- [Support](https://itch.io/support): Contact itch.io support for account and platform issues.

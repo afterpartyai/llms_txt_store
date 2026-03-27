@@ -1,49 +1,68 @@
 # MapQuest
 
-> > MapQuest is a comprehensive mapping and navigation platform offering interactive maps, real-time directions, travel inspiration, and developer APIs for location-based services.
+> Official MapQuest maps, driving directions, live traffic, road conditions, local search, and developer location APIs.
 
-MapQuest provides both consumer-facing mapping and navigation tools through its mobile app and web platform, as well as a robust developer API suite for geocoding, directions, search, and static mapping. The platform serves travelers, adventurers, and developers seeking location intelligence and routing solutions.
+MapQuest provides consumer mapping and navigation tools on the web and mobile, along with developer services for routing, geocoding, search, traffic, and static maps. The platform supports trip planning, nearby business discovery, and location-enabled application development.
 
-## Key Topics
+## Maps, Directions & Traffic
+- [MapQuest Home](https://www.mapquest.com/): Main entry point for maps, driving directions, live traffic, and local place discovery.
+- [Driving Directions](https://www.mapquest.com/directions): Route planning for point-to-point trips with turn-by-turn directions and travel options.
+- [Route Planner](https://www.mapquest.com/routeplanner): Multi-stop trip planning for optimizing routes and organizing several destinations.
+- [Traffic](https://www.mapquest.com/traffic): Live traffic map with incidents, congestion, and road condition visibility.
+- [Satellite Map](https://www.mapquest.com/satellite): Satellite imagery view for exploring places and geographic context.
+- [Hotels](https://www.mapquest.com/us/hotels): Hotel discovery and lodging search integrated with maps and directions.
+- [Food](https://www.mapquest.com/us/food): Nearby restaurant and dining search with map-based local results.
 
-- Geocoding API
-- Directions API
-- Search API
-- Icons API
-- Static Map API
-- Real-time traffic
-- GPS navigation
-- Multi-stop routing
-- City guides
-- Travel inspiration
-- Landmarks
-- Nearby cities
-- Developer platform
-- Mapping services
-- Adventure travel
+## Travel Content
+- [Travel](https://www.mapquest.com/travel): Travel inspiration, destination ideas, and road trip editorial content.
+- [Route 66 Road Trip Guide](https://www.mapquest.com/travel/route-66-road-trip-guide/): Guide to planning and exploring the classic Route 66 journey.
+- [Pan-American Highway Guide](https://www.mapquest.com/travel/pan-american-highway/): Travel feature covering the route, highlights, and planning considerations.
+- [Congo River Adventure](https://www.mapquest.com/travel/congo-river/): Destination-focused travel article with exploration and trip context.
+- [National Parks](https://www.mapquest.com/travel/national-parks/): Travel content centered on visiting parks and scenic destinations.
 
-## Developer APIs
+## Developer Platform
+- [Developer Portal](https://developer.mapquest.com/): Central hub for MapQuest APIs, documentation, keys, and developer resources.
+- [Documentation](https://developer.mapquest.com/documentation/): Overview of available APIs, products, and implementation guidance.
+- [API Explorer](https://developer.mapquest.com/documentation/tools/route-matrix-api/): Interactive documentation and example requests for selected API endpoints.
+- [Plans and Pricing](https://developer.mapquest.com/plans): API usage plans, quotas, and commercial access information.
+- [Support](https://developer.mapquest.com/support): Developer help resources, contact options, and troubleshooting information.
+- [Terms of Use](https://developer.mapquest.com/terms-of-use): Legal terms governing use of MapQuest developer services.
 
-- [Geocoding API | MapQuest Developer](https://developer.mapquest.com): MapQuest developer platform offering Geocoding, Directions, Search, and Icons APIs for location-based applications.
-- [Geocoding API | MapQuest Developer](http://business.mapquest.com): MapQuest developer platform offering Geocoding, Directions, Search, and Icons APIs.
+## Routing & Navigation APIs
+- [Directions API](https://developer.mapquest.com/documentation/directions-api/): REST API for turn-by-turn routing, maneuvers, and travel time calculations.
+- [Route Matrix API](https://developer.mapquest.com/documentation/route-matrix-api/): API for many-to-many travel time and distance matrix calculations.
+- [Traffic API](https://developer.mapquest.com/documentation/traffic-api/): Traffic data services for incidents, flow, and map overlays.
+- [Open Directions API](https://developer.mapquest.com/documentation/open/directions-api/): Open routing service based on OpenStreetMap data and MapQuest infrastructure.
+- [Open Route Matrix API](https://developer.mapquest.com/documentation/open/route-matrix-api/): Open matrix routing service for travel time and distance computations.
 
-## Mobile & Navigation
+## Geocoding & Search APIs
+- [Geocoding API](https://developer.mapquest.com/documentation/geocoding-api/): Convert addresses to coordinates and reverse geocode locations to places.
+- [Search API](https://developer.mapquest.com/documentation/search-api/): Search for points of interest, businesses, and places near a location.
+- [Open Geocoding API](https://developer.mapquest.com/documentation/open/geocoding-api/): Open geocoding service using OpenStreetMap-based data sources.
+- [Place Search Guide](https://developer.mapquest.com/documentation/search-api/v4/): Reference for place search endpoints and query parameters.
 
-- [Discover the new MapQuest.](https://hello.mapquest.com/mobile): MapQuest mobile app with navigation, real-time traffic, GPS, and multi-stop routing features for on-the-go travelers.
+## Maps, Imagery & Visualization APIs
+- [Static Map API](https://developer.mapquest.com/documentation/static-map-api/): Generate static map images with markers, routes, and custom overlays.
+- [Map API](https://developer.mapquest.com/documentation/map-api/): JavaScript mapping library for embedding interactive maps in web applications.
+- [Leaflet Plugins](https://developer.mapquest.com/documentation/mapquest-js/): MapQuest JavaScript tools and plugins for Leaflet-based map experiences.
+- [Icons API](https://developer.mapquest.com/documentation/icons-api/): Create and customize marker icons for maps and location displays.
+- [Elevation API](https://developer.mapquest.com/documentation/elevation-api/): Retrieve elevation profiles and altitude data for routes and coordinates.
 
-## City Maps & Guides
+## SDKs, Tools & Sample Code
+- [Developer Tools](https://developer.mapquest.com/documentation/tools/): Interactive tools for testing requests and exploring API behavior.
+- [Geocoding API Explorer](https://developer.mapquest.com/documentation/tools/geocoding-api/): Test geocoding requests and inspect example responses in the browser.
+- [Directions API Explorer](https://developer.mapquest.com/documentation/tools/directions-api/): Try routing requests with sample parameters and live output.
+- [Static Map API Explorer](https://developer.mapquest.com/documentation/tools/static-map-api/): Build static map image requests and preview generated results.
+- [Search API Explorer](https://developer.mapquest.com/documentation/tools/search-api/): Experiment with place search queries and response formats.
 
-- [United States Map of Cities - MapQuest](https://www.mapquest.com/us/united-states-282934758): United States map with cities, national parks, and tourist attractions guide.
-- [New York, NY Map & Directions - MapQuest](https://www.mapquest.com/us/new-york/new-york-ny-282040974): New York City map with directions, landmarks, and local business information.
-- [Chicago, IL Map & Directions - MapQuest](https://www.mapquest.com/us/illinois/chicago-il-282039507): Chicago map with directions, city guide, and nearby cities travel information.
-- [Los Angeles, CA Map & Directions - MapQuest](https://www.mapquest.com/us/california/los-angeles-ca-282039899): Los Angeles map with directions, attractions, and travel information guide.
+## Mobile & Consumer Product Information
+- [Mobile App](https://hello.mapquest.com/mobile): Overview of MapQuest mobile navigation features and app availability.
+- [About MapQuest](https://hello.mapquest.com/about): Company and product background for the MapQuest platform.
+- [Careers](https://hello.mapquest.com/careers): Employment information and open roles related to MapQuest and parent company operations.
 
-## Travel & Adventure
-
-- [MapQuest Travel - Inspiration For Your Adventure](https://www.mapquest.com/travel): Travel inspiration and adventure guides featuring destinations like Congo River and Pan American Highway.
-
-## Optional
-
-- [MapQuest Careers](https://hello.mapquest.com/careers): System1 and MapQuest careers page with job openings and company culture information.
-- [Discover the new MapQuest.](https://hello.mapquest.com/terms-of-use): MapQuest terms of use and legal agreements for services and user rights.
-- [Discover the new MapQuest.](https://hello.mapquest.com/attributions): Third-party attributions and open-source licenses for MapQuest and Open Street Map.
+## Legal & Policy
+- [Privacy Policy](https://hello.mapquest.com/privacy-policy): Privacy practices governing MapQuest websites, apps, and related services.
+- [Terms of Use](https://hello.mapquest.com/terms-of-use): Consumer-facing legal terms for using MapQuest products and content.
+- [Attributions](https://hello.mapquest.com/attributions): Third-party data, software, and mapping attributions used by MapQuest.
+- [Do Not Sell My Personal Information](https://hello.mapquest.com/do-not-sell-my-personal-information): Consumer privacy choices related to data sharing and advertising.
+- [California Privacy Notice](https://hello.mapquest.com/california-privacy-notice): State-specific privacy disclosures for California residents.

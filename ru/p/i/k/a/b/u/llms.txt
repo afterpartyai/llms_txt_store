@@ -1,48 +1,59 @@
 # Pikabu
+> Russian social content platform for user-generated posts, comments, communities, and topic-based discovery.
 
-> > Pikabu is a Russian social platform for sharing trending memes, humor, and user-generated content organized by communities and topics.
+Pikabu combines a large social feed with themed communities, ranking pages, and several adjacent services such as jobs, education, games, and advertising resources. The platform is primarily Russian-language and centers on browsing, voting, discussing, and discovering popular posts.
 
-Pikabu is one of Russia's largest social networks, featuring a homepage-driven feed of trending posts, community directories, and thematic content discovery. The platform also offers integrated services including job listings, online courses, gaming, and financial education.
+## Main Feeds
+- [Горячее](https://pikabu.ru/): Main feed of trending and actively discussed posts across the platform.
+- [Лучшее](https://pikabu.ru/best): Top-rated posts selected by community voting and engagement.
+- [Свежее](https://pikabu.ru/new): Chronological feed of newly published user posts and media.
+- [Подписки](https://pikabu.ru/subs): Personalized feed from authors, tags, and communities a user follows.
 
-## Key Topics
+## Discovery
+- [Темы](https://pikabu.ru/themes): Directory of topics and tags for browsing posts by subject.
+- [Сообщества](https://pikabu.ru/communities): Catalog of user communities organized around interests and formats.
+- [Эксперты](https://pikabu.ru/experts): Expert-oriented area highlighting recognized authors and specialized content.
+- [Лучшее за неделю](https://pikabu.ru/best/week): Weekly ranking of the most popular posts on Pikabu.
+- [Лучшее за месяц](https://pikabu.ru/best/month): Monthly ranking page for high-performing posts and stories.
 
-- trending posts
-- user-generated content
-- memes and humor
-- communities
-- content categories
-- social discussion
-- daily feed
-- best posts
-- Russian social platform
-- content discovery
-- Москва (Moscow)
-- Россия (Russia)
-- advertising
-- privacy policy
-- Telegram
+## Community and Participation
+- [Лига Авторов](https://pikabu.ru/community/author): Community space for authors, posting culture, and creator discussions.
+- [Рейтинг пользователей](https://pikabu.ru/rating): User ranking page based on platform activity and reputation.
+- [Комментарии](https://pikabu.ru/comments): Stream or entry point for comment-focused discussion activity.
+- [Пикабу Помощь](https://pikabu.ru/community/support): Community area for support questions and platform-related help.
 
-## Core Content & Discovery
+## Platform Information
+- [Правила](https://pikabu.ru/information/rules): Official platform rules governing content, behavior, and moderation.
+- [Помощь](https://pikabu.ru/information/help): Help center with answers about accounts, posting, and site features.
+- [О проекте](https://pikabu.ru/information/about): Overview of Pikabu, its purpose, and general platform information.
+- [Конфиденциальность](https://pikabu.ru/information/privacy): Privacy policy describing personal data handling and protection.
+- [Согласие на обработку ПД](https://pikabu.ru/information/consent): Personal data processing consent used during registration and service use.
+- [Пользовательское соглашение](https://pikabu.ru/information/agreement): Terms governing use of the platform and user responsibilities.
 
-- [Горячее – самые интересные и обсуждаемые посты](https://pikabu.ru): Pikabu homepage featuring trending posts, memes, humor and user-generated content
-- [Лучшие посты за сегодня](https://pikabu.ru/best): Best daily posts on Pikabu curated by user votes and engagement
-- [Свежие посты](https://pikabu.ru/new): Fresh user-generated content feed with newest posts and videos
-- [Темы](https://pikabu.ru/themes): Content category directory for browsing posts by topic
+## Advertising and Business
+- [Медиакит](https://special.pikabu.ru/mediakit): Advertising presentation with audience metrics, formats, and partnership options.
+- [Реклама на Пикабу](https://special.pikabu.ru/): Business-facing landing pages for brand placements and campaigns.
+- [Партнерские спецпроекты](https://special.pikabu.ru/projects): Showcase of branded and special advertising projects on Pikabu.
 
-## Communities
+## Jobs
+- [Вакансии](https://vacancies.pikabu.ru/): Job board with listings across regions, roles, and employers.
+- [Поиск вакансий](https://vacancies.pikabu.ru/vacancies): Searchable catalog of current job openings.
+- [Компании](https://vacancies.pikabu.ru/companies): Employer directory for browsing organizations posting jobs.
+- [Категории вакансий](https://vacancies.pikabu.ru/categories): Job categories for filtering openings by profession or field.
 
-- [Сообщества](https://pikabu.ru/communities): Community directory with themed groups for gaming, science, books, IT and crafts
+## Education
+- [Онлайн-курсы](https://education.pikabu.ru/): Course aggregator covering programming, analytics, design, and other skills.
+- [Курсы программирования](https://education.pikabu.ru/programming): Programming course listings from partner education providers.
+- [Курсы аналитики](https://education.pikabu.ru/analytics): Analytics and data-related course selection pages.
+- [Курсы дизайна](https://education.pikabu.ru/design): Design education catalog for UI, graphic, and related disciplines.
 
-## Integrated Services
+## Games and Entertainment
+- [Игры](https://games.pikabu.ru/): Browser games portal with casual, puzzle, and arcade titles.
+- [Каталог игр](https://games.pikabu.ru/games): Browseable game directory across genres and formats.
+- [Пополнить Steam](https://games.pikabu.ru/payment/steam): Steam wallet top-up page for supported payment flows.
+- [Платежи](https://games.pikabu.ru/payment): Payment-related pages for gaming services and balances.
 
-- [Медиакит Пикабу](https://special.pikabu.ru/mediakit): Advertising mediakit with audience demographics and brand integration rates
-- [Твои финансы](https://pikabu.ru/tvoi-finansy): Financial education and investment guide with T-Bank partnership
-- [Агрегатор онлайн-курсов](https://education.pikabu.ru): Online course aggregator for programming, analytics, design and education
-- [Работа и Вакансии](https://vacancies.pikabu.ru): Job listings and vacancy board for Moscow and regional positions
-- [Бесплатные игры онлайн](https://games.pikabu.ru): Free browser-based games catalog with puzzles, shooters and casual games
-
-## Optional
-
-- [Согласие на обработку ПД при регистрации](https://pikabu.ru/information/consent): Personal data processing consent and privacy agreement
-- [Согласие на получение рекламных и информационных сообщений](http://pikabu.ru/go/sub_email): Email subscription and advertising consent form
-- [Пополнить Стим](https://games.pikabu.ru/payment/steam): Steam wallet topup guide with payment methods for Russian users
+## Finance and Special Projects
+- [Твои финансы](https://pikabu.ru/tvoi-finansy): Financial literacy project with articles and educational materials.
+- [Финансовые материалы](https://pikabu.ru/tvoi-finansy/posts): Posts and guides focused on personal finance topics.
+- [Спецпроекты](https://special.pikabu.ru/): Hub for Pikabu special projects, campaigns, and branded experiences.

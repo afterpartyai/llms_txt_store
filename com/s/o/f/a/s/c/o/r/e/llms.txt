@@ -1,48 +1,70 @@
 # Sofascore
+> Sofascore is a live sports scores and statistics platform covering football, tennis, basketball, and many other sports worldwide.
 
-> Sofascore is a comprehensive live sports scoring platform covering 600+ leagues across football, tennis, ice hockey, baseball, handball, volleyball, MMA and more with real-time results, fixtures, statistics, and player ratings.
+Sofascore provides real-time results, fixtures, standings, player ratings, match statistics, and tournament coverage across major international leagues and competitions. The site also includes editorial content, TV and streaming guides, and product information for its mobile apps and widgets.
 
-Sofascore provides global sports fans with instant access to live scores, match statistics, player ratings, and tournament coverage across multiple sports disciplines. The platform features personalized tracking, AI-powered trending event discovery, and detailed performance analytics for professional leagues worldwide.
+## Core Platform
+- [Live scores homepage](https://www.sofascore.com/): Main entry point for live scores, schedules, standings, and trending matches across sports.
+- [Favorites](https://www.sofascore.com/favorites): Personalized page for following selected teams, players, and competitions.
+- [Trending](https://www.sofascore.com/trending): Discovery page highlighting popular live and upcoming events.
+- [TV guide](https://www.sofascore.com/tv-guide): Broadcast listings for live sports events and viewing availability.
+- [News](https://www.sofascore.com/news): Editorial coverage, previews, analysis, and sports news articles.
 
-## Key Topics
+## Football
+- [Football](https://www.sofascore.com/football): Football live scores, fixtures, standings, and match statistics from global competitions.
+- [Premier League](https://www.sofascore.com/tournament/football/england/premier-league/17): Competition hub for Premier League matches, table, top players, and form.
+- [UEFA Champions League](https://www.sofascore.com/tournament/football/europe/uefa-champions-league/7): Tournament page with fixtures, knockout rounds, standings, and statistics.
+- [LaLiga](https://www.sofascore.com/tournament/football/spain/laliga/8): Spanish top-flight competition page with results, table, and team details.
+- [Serie A](https://www.sofascore.com/tournament/football/italy/serie-a/23): Italian league overview with fixtures, standings, and player performance data.
+- [Bundesliga](https://www.sofascore.com/tournament/football/germany/bundesliga/35): German league page with match results, rankings, and season statistics.
+- [FIFA World Cup](https://www.sofascore.com/tournament/football/world/world-championship/16): International tournament page for fixtures, groups, and knockout stage results.
 
-- Live Scores
-- Real-time Results
-- Football/Soccer
-- Tennis
-- Ice Hockey
-- Premier League
-- UEFA Champions League
-- LaLiga
-- Bundesliga
-- Serie A
-- ATP/WTA
-- Match Statistics
-- Player Ratings
-- Sports Tracking
-- Tournament Coverage
-
-## Football & Soccer
-
-- [Football Live Scores, Fixtures & Odds](https://www.sofascore.com): Homepage with live football scores from 600+ leagues including Premier League, LaLiga, Serie A, Bundesliga, and international competitions
-- [Favorites](https://www.sofascore.com/favorites): Personalized favorites page for tracking selected teams and competitions with live updates
-- [Trending](https://www.sofascore.com/trending): AI-powered trending events discovery with location-based tournament visibility and match recommendations
+## Basketball
+- [Basketball](https://www.sofascore.com/basketball): Basketball live scores, schedules, standings, and player statistics.
+- [NBA](https://www.sofascore.com/tournament/basketball/usa/nba/132): NBA competition page with scores, standings, and team form.
+- [EuroLeague](https://www.sofascore.com/tournament/basketball/europe/euroleague/233): European club basketball tournament page with fixtures and standings.
+- [NCAA Men](https://www.sofascore.com/tournament/basketball/usa/ncaa-men/341): College basketball results, rankings, and match details.
+- [ACB](https://www.sofascore.com/tournament/basketball/spain/acb/219): Spanish basketball league page with standings and game statistics.
 
 ## Tennis
+- [Tennis](https://www.sofascore.com/tennis): Tennis live scores, draws, schedules, rankings context, and match statistics.
+- [ATP](https://www.sofascore.com/tournament/tennis/atp): ATP tournament coverage and live match tracking.
+- [WTA](https://www.sofascore.com/tournament/tennis/wta): WTA tournament coverage with schedules and results.
+- [Australian Open](https://www.sofascore.com/tournament/tennis/atp/australian-open/2368): Grand Slam tournament page with draw and match results.
+- [Wimbledon](https://www.sofascore.com/tournament/tennis/atp/wimbledon/2367): Wimbledon coverage with live scores and tournament progression.
+- [US Open](https://www.sofascore.com/tournament/tennis/atp/us-open/2366): US Open page with fixtures, results, and player matchups.
 
-- [Tennis Live Scores and Schedule](https://www.sofascore.com/tennis): Tennis live scores from 500+ ATP and WTA tournaments with rankings, statistics, and player tracking
+## Other Sports
+- [American football](https://www.sofascore.com/american-football): Live scores, schedules, and standings for American football competitions.
+- [Baseball](https://www.sofascore.com/baseball): Baseball live scores, fixtures, standings, and game statistics.
+- [Ice hockey](https://www.sofascore.com/ice-hockey): Ice hockey results, schedules, standings, and match details.
+- [Handball](https://www.sofascore.com/handball): Handball live scores and tournament coverage with standings and fixtures.
+- [Volleyball](https://www.sofascore.com/volleyball): Volleyball scores, schedules, standings, and competition pages.
+- [Rugby](https://www.sofascore.com/rugby): Rugby union and league results with fixtures and standings.
+- [MMA](https://www.sofascore.com/mma): MMA event schedules, results, and fighter-related coverage.
+- [Motorsport](https://www.sofascore.com/motorsport): Motorsport event results and schedules across racing series.
+- [Cricket](https://www.sofascore.com/cricket): Cricket live scores, fixtures, standings, and match summaries.
+- [Darts](https://www.sofascore.com/darts): Darts results and schedules for major tournaments.
+- [Snooker](https://www.sofascore.com/snooker): Snooker live scores, tournament brackets, and match results.
+- [Table tennis](https://www.sofascore.com/table-tennis): Table tennis scores, schedules, and tournament tracking.
 
-## Ice Hockey & Winter Sports
+## Editorial and Guides
+- [News hub](https://www.sofascore.com/news): Central news index for articles across sports and competitions.
+- [Football news](https://www.sofascore.com/news/category/football): Football-specific news, previews, and analysis.
+- [Basketball news](https://www.sofascore.com/news/category/basketball): Basketball news and editorial coverage.
+- [Tennis news](https://www.sofascore.com/news/category/tennis): Tennis articles, previews, and tournament coverage.
+- [Sofascore Academy](https://www.sofascore.com/news/academy): Educational content explaining metrics, ratings, and sports analysis concepts.
 
-- [Ice Hockey Live Scores and Schedule](https://www.sofascore.com/ice-hockey): Ice hockey live scores for NHL, KHL, SHL and international leagues with match statistics
+## Product and Apps
+- [Apps](https://www.sofascore.com/app): Overview of Sofascore mobile applications and download options.
+- [Android app on Google Play](https://play.google.com/store/apps/details?id=com.sofascore.results): Official Android app listing for live scores and notifications.
+- [iPhone app on the App Store](https://apps.apple.com/app/sofascore-live-scores/id1176147574): Official iOS app listing for Sofascore live scores.
+- [Widgets](https://www.sofascore.com/widgets): Embeddable widgets for live scores, standings, and match data.
+- [Betting partners](https://www.sofascore.com/bookmakers): Bookmaker and odds-related partner information.
 
-## Combat & Racquet Sports
-
-- [MMA Schedule, Results & Rankings](https://www.sofascore.com/mma): MMA scores and rankings from UFC, Bellator, KSW and PFL with fighter tracking and performance stats
-- [Table Tennis Live Scores and Schedule](https://www.sofascore.com/table-tennis): Table tennis live scores and results from international tournaments with player statistics
-
-## Team Sports
-
-- [Baseball Live Scores & Schedule](https://www.sofascore.com/baseball): Baseball live scores including MLB, LMB, and Pro Yakyu with detailed statistics and standings
-- [Handball Live Scores & Matches](https://www.sofascore.com/handball): Handball live scores from Bundesliga, EHF Champions League and major international leagues
-- [Volleyball Live Scores & Schedule](https://www.sofascore.com/volleyball): Volleyball live scores from CEV Champions League and major international leagues with match details
+## Company and Legal
+- [About](https://www.sofascore.com/about): Company overview and background information about Sofascore.
+- [Careers](https://www.sofascore.com/careers): Open roles and hiring information for the Sofascore team.
+- [Contact](https://www.sofascore.com/contact): Contact details and support-related information.
+- [Privacy policy](https://www.sofascore.com/privacy-policy): Privacy practices, data handling, and user rights information.
+- [Terms and conditions](https://www.sofascore.com/terms-and-conditions): Terms governing use of the Sofascore website and services.

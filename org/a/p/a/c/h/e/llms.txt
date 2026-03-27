@@ -1,64 +1,88 @@
-# Apache Software Foundation
+# The Apache Software Foundation
 
-> The Apache Software Foundation is a decentralized community of developers stewarding 200+ open-source projects under the Apache License, guided by the Apache Way principles of meritocracy and community governance.
+> The Apache Software Foundation stewards hundreds of open source projects and provides governance, community, legal, security, and infrastructure resources for the Apache ecosystem.
 
-Apache.org serves as the central hub for the ASF, providing project directories, community resources, governance documentation, and event information. The site emphasizes open-source collaboration, contributor development, and transparent organizational processes.
-
-## Key Topics
-
-- Apache Software Foundation (ASF)
-- Apache Way
-- Apache License 2.0
-- Open-source projects
-- Apache Incubator
-- Meritocracy
-- Community governance
-- Code of Conduct
-- Contributor License Agreements
-- Project Management Committee (PMC)
-- Community Over Code
-- ASF Security Team
-- Google Summer of Code
-- Apache projects directory
-- Software distribution
-
-## Core Projects & Directory
-
-- [ASF Open Source Projects](https://apache.org/projects): Directory of Apache open-source projects with incubator and top-level project listings
-- [Apache Projects and Committees Directory](https://projects.apache.org): Comprehensive directory of all Apache projects, committees, and organizational structure
-- [The Apache Incubator](https://incubator.apache.org): Apache Incubator program for new projects with governance, guides, and graduation path
-- [Apache Software Foundation Downloads](https://downloads.apache.org): Apache Software Foundation project downloads and release repository directory
-- [Apache Projects Releases](https://projects.apache.org/releases.html): Apache project releases listing and software distribution artifacts catalog
-
-## Community & Contribution
-
-- [Apache Community Development Hub](https://community.apache.org): ASF community development hub for newcomers, contributors, and open-source participation
-- [Contributing to the Apache Software Foundation](https://community.apache.org/contributors): Guide to contributing to Apache projects with contributor ladder and getting started
-- [Community Connect & Mentor](https://apache.org/community-resources): Community resources for mentoring, local chapters, and contributor development programs
-- [Apache Software Foundation Mailing Lists](https://apache.org/foundation/mailinglists): ASF mailing list subscription management and community communication guidelines
-
-## Governance & Values
-
-- [How the ASF Works](https://apache.org/foundation/how-it-works): Guide to ASF governance, meritocracy, roles, and organizational structure
-- [The Apache Way](https://apache.org/theapacheway): Apache Way briefing on community governance, meritocracy, and organizational values
-- [Code of Conduct](https://apache.org/foundation/policies/conduct): ASF Code of Conduct establishing community guidelines and anti-harassment policies
-
-## Events & News
-
-- [Apache Software Foundation Events](https://events.apache.org): ASF events directory including ApacheCon, Roadshows, and Community over Code calendar
-- [The ASF Blog](https://news.apache.org): ASF blog covering board elections, project announcements, and foundation updates
-- [Introducing The ASF's New Logo](https://news.apache.org/foundation/entry/introducing-the-asfs-new-logo): ASF announces new logo rebrand reflecting Apache Way values and community identity
-
-## Legal, Licensing & Security
-
-- [Apache Licenses](https://apache.org/licenses): Apache License versions and Contributor License Agreements documentation
-- [ASF Security Team](https://apache.org/security): Apache Security Team for vulnerability reporting, CVE numbering, and advisories
-- [ASF Legal & Trademark](https://apache.org/legal): ASF legal information, trademark policy, licensing, and compliance guidelines
+Apache.org is the central hub for ASF projects, contributor guidance, foundation policies, licensing, security reporting, events, and organizational documentation. It connects top-level project sites with ASF-wide resources for developers, committers, PMC members, and the broader open source community.
 
 ## Foundation Overview
+- [Apache Software Foundation Home](https://apache.org/): Main entry point for ASF projects, community initiatives, events, and foundation resources.
+- [Projects](https://apache.org/projects): Overview of Apache top-level and incubating projects across the foundation.
+- [Projects Directory](https://projects.apache.org/): Searchable directory of projects, podlings, committees, and metadata.
+- [How the ASF Works](https://apache.org/foundation/how-it-works): Explains ASF governance, roles, decision-making, and organizational structure.
+- [The Apache Way](https://apache.org/theapacheway/): Describes Apache’s community-driven development model and meritocratic culture.
+- [Glossary](https://apache.org/foundation/glossary): Definitions for common ASF governance, community, and project terminology.
+- [FAQ](https://apache.org/foundation/faq): Answers to frequently asked questions about ASF operations and participation.
 
-- [Welcome to The Apache Software Foundation](https://apache.org): Apache Software Foundation homepage with projects, events, and community overview
+## Projects, Releases, and Downloads
+- [Projects](https://apache.org/projects): Browse Apache software projects and links to their homepages.
+- [Projects Directory](https://projects.apache.org/): Detailed project records, committees, releases, and repository metadata.
+- [Releases Directory](https://projects.apache.org/releases.html): Aggregated listing of Apache project releases and release information.
+- [Downloads](https://downloads.apache.org/): Official distribution mirror for Apache software release artifacts.
+- [Apache Security](https://apache.org/security): Central page for vulnerability reporting and security contacts.
+- [Apache Licenses](https://apache.org/licenses): ASF software licensing policies, approved licenses, and guidance.
 
-## Optional
+## Incubator and New Projects
+- [Apache Incubator](https://incubator.apache.org/): Entry point for podlings, incubation process, and mentor resources.
+- [Incubating Projects](https://incubator.apache.org/projects/): Current podlings and their incubation status.
+- [Incubation Process](https://incubator.apache.org/process/index.html): Describes how projects enter, operate within, and graduate from incubation.
+- [Incubation Policy](https://incubator.apache.org/policy/incubation.html): Formal policy governing incubation, oversight, and podling responsibilities.
+- [Incubator Guides](https://incubator.apache.org/guides/index.html): Practical guidance for podlings, mentors, and incubator participants.
+- [Incubate a Project](https://incubator.apache.org/guides/proposal.html): Proposal guidance for bringing a project into the Apache Incubator.
 
-- [The Apache Attic](https://attic.apache.org): Apache Attic manages end-of-life projects and retirement processes for graduated projects
+## Community and Contribution
+- [Contributor Getting Started](https://community.apache.org/): Starting point for new contributors joining Apache communities and projects.
+- [Becoming a Committer](https://community.apache.org/contributors/): Explains the contributor ladder and path toward committership.
+- [Community Resources](https://apache.org/community-resources/): ASF-wide resources for participation, mentoring, and community support.
+- [Mailing Lists](https://apache.org/foundation/mailinglists): Information about ASF mailing lists and community communication channels.
+- [Developer Information](https://apache.org/dev/): Technical and procedural resources for Apache project developers.
+- [Code of Conduct](https://apache.org/foundation/policies/conduct): Community behavior expectations and reporting guidance for misconduct.
+- [Donate](https://donate.apache.org/48ff): Support the ASF’s infrastructure, programs, and open source mission.
+
+## Governance, Policy, and Legal
+- [How the ASF Works](https://apache.org/foundation/how-it-works): Overview of boards, PMCs, members, officers, and project governance.
+- [Foundation Policies](https://apache.org/foundation/policies/): Index of ASF policies covering community and operational matters.
+- [Code of Conduct](https://apache.org/foundation/policies/conduct): Official conduct policy for ASF spaces and interactions.
+- [Legal Affairs](https://apache.org/legal/): Legal guidance on trademarks, copyright, licensing, and third-party use.
+- [Licenses](https://apache.org/licenses): Apache License information and related licensing documentation.
+- [Apache License, Version 2.0](https://apache.org/licenses/LICENSE-2.0): Full text of the Apache License 2.0.
+- [Trademark Policy](https://apache.org/foundation/marks/): Rules for using Apache names, logos, and project trademarks.
+
+## Security and Compliance
+- [Security](https://apache.org/security): Instructions for reporting vulnerabilities affecting Apache projects or infrastructure.
+- [Security Team](https://apache.org/security/team.html): Information about the ASF Security Team and its role.
+- [Vulnerability Reporting](https://apache.org/security/committers.html): Guidance for project teams handling vulnerabilities and disclosures.
+- [Security Announcements](https://apache.org/security/): Central source for ASF security reporting information.
+- [Export Control and Cryptography](https://apache.org/licenses/exports/): Guidance related to export regulations and cryptographic software.
+- [Resolved Security Reports](https://apache.org/security/#reports): Published security reports and issue tracking references.
+
+## Infrastructure and Developer Operations
+- [Developer Information](https://apache.org/dev/): Central hub for release, repository, and project operations guidance.
+- [Infrastructure](https://infra.apache.org/): ASF infrastructure services, status, and operational documentation.
+- [Infrastructure Services](https://infra.apache.org/services.html): Overview of services available to Apache projects and contributors.
+- [Git at Apache](https://gitbox.apache.org/): ASF Git hosting and repository management service.
+- [Self-Service Portal](https://selfserve.apache.org/): Administrative self-service tools for Apache project communities.
+- [Whimsy](https://whimsy.apache.org/): ASF governance and project administration tools used by members and PMCs.
+
+## Events and Programs
+- [Events](https://events.apache.org/): ASF event calendar for conferences, meetups, and community activities.
+- [Community Over Code](https://communityovercode.org/): ASF’s flagship community conference and event series.
+- [ApacheCon Archive](https://apachecon.com/): Historical ApacheCon conference information and related event materials.
+- [ASF Plus One](https://news.apache.org/foundation/entry/category/plus-one-newsletter): Newsletter updates about ASF community and foundation news.
+- [Google Summer of Code](https://community.apache.org/gsoc.html): ASF participation information for Google Summer of Code.
+- [Travel Assistance](https://community.apache.org/travel-assistance.html): Community support information for attending ASF events and programs.
+
+## News, Blog, and Media
+- [ASF Blog](https://news.apache.org/): Official Apache Software Foundation news and blog posts.
+- [Foundation News](https://news.apache.org/foundation/entry): Foundation announcements, initiatives, and organizational updates.
+- [Project News](https://news.apache.org/foundation/entry/category/projects): News related to Apache projects and releases.
+- [Press Kit](https://apache.org/press/): Media resources, logos, and background information about the ASF.
+- [Press Releases](https://apache.org/press/pressreleases): Official ASF press release archive.
+- [Brand Guidelines](https://apache.org/foundation/press/kit/): Foundation branding and media usage resources.
+
+## Foundation Support and Public Information
+- [Sponsors](https://apache.org/foundation/sponsorship.html): Information about sponsoring the ASF and supporting its mission.
+- [Thanks to Sponsors](https://apache.org/foundation/thanks.html): Recognition of organizations supporting the Apache Software Foundation.
+- [Contact the ASF](https://apache.org/foundation/contact): Contact information for foundation-related inquiries.
+- [Who We Are](https://apache.org/foundation/): Overview of the foundation’s mission, structure, and public information.
+- [Board of Directors](https://apache.org/foundation/board/): Information about the ASF Board and board meeting materials.
+- [Members](https://apache.org/foundation/members): Information about ASF membership and the member community.

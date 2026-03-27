@@ -1,29 +1,53 @@
-# Speedtest
+# Speedtest by Ookla
 
-> Speedtest is a comprehensive internet speed testing platform offering apps, diagnostics, and network monitoring tools across multiple devices and platforms.
+> Speedtest by Ookla is a global broadband and mobile network testing platform for measuring internet performance across web, mobile, desktop, TV, and command-line apps.
 
-Speedtest, owned by Ookla, provides free speed testing applications and services for measuring download/upload speeds, diagnosing network issues, and monitoring internet performance. The platform includes dedicated apps for mobile, desktop, and smart TV devices, alongside network monitoring and outage detection capabilities.
+Speedtest provides free tools to test download speed, upload speed, latency, jitter, packet loss, video streaming quality, and mobile network coverage. The platform also offers apps for major operating systems, a command-line interface for automation, internet performance maps, and outage visibility through related Ookla services.
 
-## Key Topics
+## Core Speed Test Experience
+- [Speedtest Web](https://www.speedtest.net/): Run a browser-based internet speed test for download, upload, ping, jitter, and packet loss.
+- [Results](https://www.speedtest.net/result/): View and share individual Speedtest result pages with detailed connection metrics and history.
+- [Global Index](https://www.speedtest.net/global-index): Compare internet and mobile performance rankings by country and city worldwide.
+- [Speedtest Custom](https://www.speedtest.net/custom): Create branded speed tests for organizations, ISPs, and businesses.
+- [Speedtest Server Network](https://www.speedtest.net/servers): Explore the global network of Speedtest servers used for performance measurements.
 
-- Internet speed testing
-- Download/upload metrics
-- Mobile apps (Android, iOS)
-- Desktop applications (Windows, macOS)
-- Network diagnostics
-- Speed test results
-- Cross-platform apps
-- Apple TV
-- CLI tools
-- Speedtest VPN
-- Video streaming quality
-- Speedtest Maps
-- Outage monitoring
-- Ookla
-- Downdetector
+## Apps and Downloads
+- [Apps Overview](https://www.speedtest.net/apps): Browse Speedtest apps for mobile, desktop, TV, and command-line platforms.
+- [Android App](https://www.speedtest.net/apps/android): Download the Speedtest app for Android devices and mobile network testing.
+- [iOS App](https://www.speedtest.net/apps/ios): Download the Speedtest app for iPhone and iPad to test connection performance.
+- [macOS App](https://www.speedtest.net/apps/mac): Get the native Speedtest app for macOS desktops and laptops.
+- [Windows App](https://www.speedtest.net/apps/windows): Install the Speedtest desktop app for Windows systems.
+- [Apple TV App](https://www.speedtest.net/apps/appletv): Test internet performance directly from an Apple TV device.
+- [CLI](https://www.speedtest.net/apps/cli): Use Speedtest from the command line for scripting, automation, and diagnostics.
 
-## Speedtest Apps & Downloads
+## Mobile and Device Platforms
+- [Chrome Extension](https://www.speedtest.net/apps/chrome): Run Speedtest from a Chrome browser extension.
+- [Android Availability](https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest): Official Google Play listing for the Speedtest Android app.
+- [iOS Availability](https://apps.apple.com/us/app/speedtest-by-ookla/id300704847): Official App Store listing for the Speedtest iOS app.
+- [macOS Availability](https://apps.apple.com/us/app/speedtest-by-ookla/id1153157709): Official App Store listing for the Speedtest macOS app.
+- [Windows Availability](https://www.microsoft.com/store/apps/9nblggh4z1jc): Official Microsoft Store listing for the Speedtest Windows app.
 
-- [Speedtest Apps: Our internet speed test available across a variety of platforms](https://www.speedtest.net/apps): Download Speedtest apps for Android, iOS, desktop and other platforms
-- [Speedtest for Android: Mobile internet speed test app for Android](https://www.speedtest.net/apps/android): Free Speedtest app for Android with speed testing and network diagnostics
-- [Speedtest for Apple TV: Internet speed test for Apple TV](https://www.speedtest.net/apps/appletv): Free Speedtest app for Apple TV to diagnose internet connection speed
+## Network Intelligence and Maps
+- [Speedtest Maps](https://www.speedtest.net/maps): View mobile coverage and fixed broadband performance maps by region.
+- [Global Index Methodology](https://www.speedtest.net/global-index): Review comparative rankings for broadband and mobile network performance.
+- [Downdetector](https://downdetector.com/): Check real-time outage reports for internet services, apps, and platforms.
+- [Ookla](https://www.ookla.com/): Learn about Ookla’s broader network intelligence and connectivity measurement products.
+
+## Support and Help
+- [Support Center](https://support.speedtest.net/): Find help articles for apps, accounts, results, and troubleshooting.
+- [Speedtest Help](https://support.speedtest.net/hc/en-us): Browse support categories and frequently asked questions.
+- [Submit a Request](https://support.speedtest.net/hc/en-us/requests/new): Contact support for account, billing, or technical issues.
+- [Community Articles](https://support.speedtest.net/hc/en-us/categories/203845568): Read support documentation for common Speedtest topics.
+
+## Account and Legal
+- [Login](https://www.speedtest.net/login): Sign in to access saved results, history, and account features.
+- [Register](https://www.speedtest.net/register): Create a Speedtest account to save and manage test history.
+- [Privacy Policy](https://www.speedtest.net/about/privacy): Review how Speedtest and Ookla handle personal and test data.
+- [Terms of Use](https://www.speedtest.net/about/terms): Read the terms governing use of Speedtest services and apps.
+- [Contact](https://www.speedtest.net/about/contact): Find contact information for Speedtest and Ookla inquiries.
+
+## Company and Product Information
+- [About Speedtest](https://www.speedtest.net/about): Learn about Speedtest, its mission, and internet performance measurement tools.
+- [Ookla Home](https://www.ookla.com/): Explore Ookla products, company information, and connectivity insights.
+- [Press](https://www.ookla.com/articles): Read articles and announcements related to Ookla and network performance.
+- [Careers](https://www.ookla.com/careers): View career opportunities at Ookla.

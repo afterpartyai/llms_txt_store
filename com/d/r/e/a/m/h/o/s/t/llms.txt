@@ -1,56 +1,201 @@
 # DreamHost
 
-> > DreamHost is a comprehensive web hosting platform offering managed WordPress hosting, AI-powered website building, domain registration, and professional email services with 100% uptime guarantee and NVMe SSD infrastructure.
+> DreamHost is an independent, employee-owned web hosting provider since 1997. We provide web hosting, WordPress hosting, Managed VPS Hosting, dedicated servers, cloud computing, and domain services with a 100% uptime guarantee. We're the only hosting company offering free custom websites to all new customers who sign up for at least one year of hosting.
 
-DreamHost provides an integrated stack of web services including shared and VPS hosting, the Remixer AI website builder, domain registration across multiple TLDs, and professional email hosting. The platform emphasizes managed solutions, fast performance with NVMe SSD storage, and comprehensive support for small businesses and developers.
+## Company Overview
 
-## Key Topics
+DreamHost has been providing web hosting services since 1997, serving over 400,000 customers and 1.5 million websites globally. Our unique employee-owned structure ensures decisions prioritize customer success over investor returns. We're committed to 100% renewable energy hosting, strong privacy protection, and open source contributions. New customers receive a free custom website with annual hosting plans.
 
-- WordPress Hosting
-- Remixer AI Website Builder
-- NVMe SSD Storage
-- Domain Registration
-- SSL/TLS Certificates
-- Email Hosting
-- DreamPress (Managed WordPress)
-- Web Hosting Plans
-- DNS Management
-- Domain Privacy
-- Free WordPress Migration
-- Professional Services
-- 100% Uptime Guarantee
-- CDN Integration
-- AI Website Builder
+## WordPress Hosting
 
-## Core Hosting Solutions
+- [WordPress Hosting Overview](https://www.dreamhost.com/wordpress/) - Optimized hosting starting at $2.59/month
+- [Managed WordPress (DreamPress)](https://www.dreamhost.com/wordpress/managed/) - High-performance managed WordPress with staging, caching, and more
+- [WordPress Migration Services](https://www.dreamhost.com/features/free-wordpress-migrations/) - Free automated and professional migration
+- [WordPress Install Assistant](https://www.dreamhost.com/features/wordpress-install-assistant/) - Guided WordPress setup
+- [WordPress Staging](https://www.dreamhost.com/features/wordpress-staging/) - Test changes before going live with one-click deployment
+- [WordPress Backups](https://www.dreamhost.com/features/wordpress-backups/) - Automated backup solutions (backups not guaranteed)
+- [WordPress Caching](https://www.dreamhost.com/features/wordpress-caching/) - Built-in performance optimization
+- [Liftoff AI Website Builder](https://www.dreamhost.com/features/ai-website-builder/) - AI-powered WordPress site creation in under 60 seconds
 
-- [Web Hosting Platform — Everything Web, One Stack](https://www.dreamhost.com): DreamHost homepage: web hosting, WordPress, Remixer, domains, email
-- [Choose Your Hosting Plan - Buy Web Hosting](https://www.dreamhost.com/hosting): DreamHost hosting plans: Shared, VPS, DreamPress with 100% uptime
-- [WordPress Hosting - Fast & Secure](https://www.dreamhost.com/wordpress): DreamHost WordPress hosting with managed options and NVMe SSD
-- [WordPress Migration | Free Automated Migration](https://www.dreamhost.com/features/free-wordpress-migrations): Free automated WordPress migration to DreamHost with NGINX/CDN
+## Hosting Services
 
-## Website Building & Design
+- [Hosting Overview](https://www.dreamhost.com/hosting/) - All hosting solutions
+- [Managed VPS Hosting](https://www.dreamhost.com/hosting/vps/) - Virtual private servers from $10/month (Nginx web server)
+- [Dedicated Servers](https://www.dreamhost.com/hosting/dedicated/) - High-performance dedicated hosting with 100% uptime guarantee (Nginx web server)
+- [Hosting Reviews](https://www.dreamhost.com/hosting/reviews/) - Customer testimonials and ratings
 
-- [Remixer AI Website Builder — Talk to It, Watch It Build](https://www.dreamhost.com/remixer-website-builder): Remixer AI website builder with NVMe SSD hosting from $1.99/mo
-- [Professional Website & Marketing Services](https://www.dreamhost.com/pro-services): DreamHost Pro Services: design, development, SEO, and site management
+## Cloud Services
 
-## Domains & Email Services
+- [Cloud Overview](https://www.dreamhost.com/cloud/) - Cloud computing solutions
+- [DreamCompute](https://www.dreamhost.com/cloud/computing/) - OpenStack-powered cloud computing with KVM hypervisor, instances from 1GB-64GB RAM
+- [DreamObjects](https://www.dreamhost.com/cloud/storage/) - S3-compatible object storage with 99.99999% durability at $0.025/GB monthly storage
 
-- [Domain Names - Find Your Perfect Domain Name](https://www.dreamhost.com/domains): DreamHost domain registration with privacy protection and management
-- [Register Your New .COM Domain Name](https://www.dreamhost.com/domains/com): DreamHost .COM domain registration with SSL and DNS
-- [Register Your New .PRO Domain Name](https://www.dreamhost.com/domains/pro): DreamHost .PRO domain registration with SSL and DNS management
-- [Register Your New .IO Domain Name](https://www.dreamhost.com/domains/io): DreamHost .IO domain registration for startups with SSL/TLS
-- [Register Your New .AI Domain Name](https://www.dreamhost.com/domains/ai): DreamHost .AI domain registration for AI/ML projects
-- [Register Your New .ONLINE Domain Name](https://www.dreamhost.com/domains/online): DreamHost .ONLINE domain registration with SSL and privacy
-- [Register Your New .SHOP Domain Name](https://www.dreamhost.com/domains/shop): DreamHost .SHOP domain for ecommerce with SSL certificates
-- [Email Hosting for Small Businesses](https://www.dreamhost.com/products/email): DreamHost professional email hosting with 25GB storage and IMAP
+## Domain Services
 
-## Pricing & Plans
+- [Domain Registration](https://www.dreamhost.com/domains/) - 400+ TLDs with free WHOIS privacy
+- [Domain Pricing](https://www.dreamhost.com/domains/pricing/) - Transparent domain pricing
+- [Domain Transfer](https://www.dreamhost.com/domains/transfer-domains-to-dreamhost/) - Free transfers with extended registration
+- [Special Domain Deals](https://www.dreamhost.com/domains/special-deals/) - Current domain promotions
+- [Popular TLDs](https://www.dreamhost.com/domains/com/) - .com domains
+- [.NET Domains](https://www.dreamhost.com/domains/net/) - .net registration
+- [.ORG Domains](https://www.dreamhost.com/domains/org/) - .org registration
+- [.IO Domains](https://www.dreamhost.com/domains/io/) - Tech startup domains
+- [.AI Domains](https://www.dreamhost.com/domains/ai/) - AI and tech domains
 
-- [Web Hosting, Email & Domain Pricing](https://www.dreamhost.com/pricing): DreamHost pricing for hosting, email, domains, and website builder
-- [Limited-Time Special Offers](https://www.dreamhost.com/special-offers): DreamHost limited-time deals on WordPress, Remixer, and domains
+## Email Services
 
-## Support & News
+- [Email Hosting](https://www.dreamhost.com/email/) - Professional email with 1GB storage (expandable to 25GB)
+- [Google Workspace](https://www.dreamhost.com/google-workspace/) - Gmail for business with Google's productivity suite
+- Email protocols: IMAP (port 993), POP3 (port 995), SMTP (port 587) with STARTTLS encryption
+- Sending limits: 100 recipients per hour, 25 emails per 15 minutes
+- 40MB maximum message size
+- Advanced spam filtering with MailChannels
+- DKIM signing and SPF records included
 
-- [Contact Support - We're Here to Help](https://www.dreamhost.com/support): DreamHost support contact, Knowledge Base, and technical assistance
-- [DreamHost News - Product Announcements, Events, and More](https://www.dreamhost.com/news): DreamHost product announcements, events, and company news hub
+## Features & Tools
+
+- [Features Overview](https://www.dreamhost.com/features/) - Complete feature list
+- [AI Website Builder](https://www.dreamhost.com/features/ai-website-builder/) - AI-powered site creation
+- [Free Website Offer](https://www.dreamhost.com/offers/free-website/) - Free custom website with annual hosting
+- [Business Name Generator](https://www.dreamhost.com/tools/business-name-generator/) - AI-powered business naming tool
+- [Control Panel](https://www.dreamhost.com/features/panel/) - Custom control panel (not cPanel)
+- [Business Advisor](https://www.dreamhost.com/features/business-advisor/) - Business growth guidance
+- [Business Planner](https://www.dreamhost.com/features/business-planner/) - Strategic planning tools
+- [Content Builder](https://www.dreamhost.com/features/content-builder/) - Visual content creation
+- [Traffic Dashboard](https://www.dreamhost.com/features/traffic-dashboard/) - Analytics and insights
+
+## Security & Performance
+
+- [Security Features](https://www.dreamhost.com/features/security/) - Comprehensive security suite including Web Application Firewall
+- [SSL/TLS Certificates](https://www.dreamhost.com/features/ssl-tls-certificates/) - Free Let's Encrypt SSL
+- [CDN Services](https://www.dreamhost.com/features/cdn/) - Bunny CDN integration with 35-42% performance improvements
+- [Domain Privacy](https://www.dreamhost.com/features/private-registration/) - Free WHOIS protection
+- [Two-Factor Authentication](https://www.dreamhost.com/features/security/) - Google Authenticator and YubiKey support
+- **Note: Not HIPAA compliant, no Business Associate Agreements available**
+
+## Supported Technologies
+
+### Container & Orchestration
+- **Docker**: Not supported on Shared/Managed VPS Hosting. Manual installation possible on Dedicated Servers with admin user or DreamCompute
+- **Kubernetes**: Available only on DreamCompute cloud platform
+- **Note**: Container technologies require root/sudo access, limiting them to Dedicated Servers with admin user or DreamCompute
+
+### Databases
+- **MySQL 8**: Fully supported on all hosting plans
+- **PostgreSQL**: Not supported on Shared/VPS. Manual installation on Dedicated Servers or DreamCompute only
+- **MongoDB/NoSQL**: Not supported on managed hosting. Manual installation on Dedicated Servers or DreamCompute only
+- **SQLite3**: Supported on all servers
+- **Redis**: Available on DreamPress Pro plans, manual installation possible on Dedicated/DreamCompute
+- **Backup retention**: 5-day retention for databases (vs 2-week for files)
+
+### Runtime Environments
+- **PHP**: 8.x current standard, PHP 7.x Extended Support available
+- **Python**: 3.x versions including 3.10.1, 3.9.2, 3.6.2 (virtual environment required)
+- **Ruby**: Full support with Ruby on Rails (VPS/Dedicated servers required)
+- **Node.js**: Supported on VPS and Dedicated Servers (not Shared hosting)
+- **Java JRE**: Supported on all servers
+- **Go**: Manual installation under username (Dedicated/DreamCompute if sudo required)
+- **Erlang/Elixir/Phoenix**: Manual installation on VPS/Dedicated (sudo required for full setup)
+
+### Development Tools
+- **Git**: Installed on all servers
+- **cURL**: Installed on all servers  
+- **Composer/npm/yarn**: Supported for local installation
+- **WebSockets**: Supported on VPS/Dedicated using non-privileged ports (no public proxy server support)
+- **Apache mods**: mod_rewrite (YES), mod_security (YES), mod_perl (NO), mod_proxy (VPS/Dedicated only)
+
+### Platform Limitations by Hosting Type
+- **Shared Hosting**: No root/sudo, no Docker, no Node.js, no PostgreSQL, memory-intensive apps restricted (including WooCommerce)
+- **VPS**: No root/sudo, persistent processes allowed, Node.js supported, custom Apache/Nginx config
+- **Dedicated with Admin**: Full root/sudo access, Docker/Kubernetes installable, all databases supported
+- **DreamCompute**: Full control, Docker/Kubernetes supported, any Linux software installable
+- **WordPress Multisite**: Subdomain setup requires VPS/Dedicated (wildcard DNS needed), subdirectory setup works on Shared
+
+### Not Supported
+- **.NET/ASP**: No Microsoft technologies on Linux servers
+- **Tomcat**: Requires Dedicated/DreamCompute for installation
+- **ColdFusion**: Requires Dedicated/DreamCompute
+- **Plesk/cPanel**: DreamHost uses custom control panel (Plesk only on DreamCompute)
+- **FTPS**: Not supported (use SFTP instead)
+- **Passenger**: Not supported on DreamHost servers
+
+## Technical Specifications
+
+### Infrastructure
+- **Operating System**: Ubuntu 22.04 LTS servers
+- **Data Centers**: US-based (Ashburn, VA for cloud services)
+- **Web Servers**: Apache (shared hosting/DreamPress), Nginx (VPS/Dedicated)
+- **Email**: 1GB default storage expandable to 25GB, sending limits apply (100 recipients/hour)
+
+## Company Information
+
+- [About DreamHost](https://www.dreamhost.com/company/) - Our story and mission
+- [Blog](https://www.dreamhost.com/blog/) - Web hosting tutorials and industry insights
+- [News & Press](https://www.dreamhost.com/news/) - Press releases and company news
+- [Green Hosting Initiative](https://www.dreamhost.com/company/we-are-green/) - Carbon-neutral renewable energy
+- [Awards & Recognition](https://www.dreamhost.com/awards/) - Industry accolades
+- [Careers](https://www.dreamhost.com/careers/) - Remote-first employee-owned company
+- [Affiliate Program](https://www.dreamhost.com/affiliates/) - Earn up to $200 per referral
+
+## Legal & Policies
+
+- [Legal Overview](https://www.dreamhost.com/legal/) - All legal documents
+- [Terms of Service](https://www.dreamhost.com/legal/terms-of-service/) - Service agreements
+- [Privacy Policy](https://www.dreamhost.com/legal/privacy-policy/) - Data protection policies
+- [Acceptable Use Policy](https://www.dreamhost.com/legal/acceptable-use-policy/) - Usage guidelines
+- [DMCA Policy](https://www.dreamhost.com/legal/dmca/) - Copyright compliance
+- [Anti-Spam Policy](https://www.dreamhost.com/legal/anti-spam-policy/) - Email policies
+- [Abuse Reporting](https://www.dreamhost.com/legal/abuse/) - Report violations
+- [Domain Registration Terms](https://www.dreamhost.com/legal/domain-registration-terms/) - Domain policies
+- [Accessibility Statement](https://www.dreamhost.com/legal/accessibility/) - Accessibility commitment
+
+## Support & Documentation
+
+- [Knowledge Base](https://help.dreamhost.com/hc/en-us) - 3000+ technical articles and guides
+- [24/7 Support](https://www.dreamhost.com/support/) - In-house expert support team
+- [Community Forum](https://discussion.dreamhost.com/) - Active user community
+- [System Status](https://www.dreamhoststatus.com/) - Real-time service monitoring
+- [WordPress Help Center](https://help.dreamhost.com/hc/en-us/sections/203242577-WordPress) - WordPress-specific guides
+- [Migration Guides](https://help.dreamhost.com/hc/en-us/sections/115000054687-Moving-to-DreamHost) - Step-by-step migration help
+
+## Developer Resources
+
+- [API Documentation](https://help.dreamhost.com/hc/en-us/sections/203903178-API) - RESTful API for automation
+- [SSH Access Guide](https://help.dreamhost.com/hc/en-us/articles/216041267-SSH-overview) - Full shell access on all plans
+- [Git Integration](https://help.dreamhost.com/hc/en-us/articles/115000732471-Git-overview) - Deploy from GitHub, GitLab, Bitbucket
+- [WP-CLI Guide](https://help.dreamhost.com/hc/en-us/articles/214693248-WordPress-wp-cli-overview) - WordPress command line tools
+- [Staging Environments](https://help.dreamhost.com/hc/en-us/articles/360001154012) - One-click staging sites
+- [PHP Configuration](https://help.dreamhost.com/hc/en-us/articles/214200688) - PHP 8.x current, 7.x Extended Support
+
+## Optional
+
+### Specialized Domain Extensions
+
+- [.CO Domains](https://www.dreamhost.com/domains/co/) - Colombia/Company domains
+- [.ME Domains](https://www.dreamhost.com/domains/me/) - Personal branding
+- [.TV Domains](https://www.dreamhost.com/domains/tv/) - Media and entertainment
+- [.TECH Domains](https://www.dreamhost.com/domains/tech/) - Technology sector
+- [.DEV Domains](https://www.dreamhost.com/domains/dev/) - Developer domains
+- [.APP Domains](https://www.dreamhost.com/domains/app/) - Application domains
+- [.SHOP Domains](https://www.dreamhost.com/domains/shop/) - E-commerce domains
+- [.STORE Domains](https://www.dreamhost.com/domains/store/) - Retail domains
+- [.ONLINE Domains](https://www.dreamhost.com/domains/online/) - Digital presence
+- [.SITE Domains](https://www.dreamhost.com/domains/site/) - Website domains
+
+### Regional Domains
+
+- [.US Domains](https://www.dreamhost.com/domains/us/) - United States
+- [.CA Domains](https://www.dreamhost.com/domains/ca/) - Canada
+- [.UK Domains](https://www.dreamhost.com/domains/co-uk/) - United Kingdom
+- [.EU Domains](https://www.dreamhost.com/domains/eu/) - European Union
+- [.ASIA Domains](https://www.dreamhost.com/domains/asia/) - Asia Pacific
+- [.LA Domains](https://www.dreamhost.com/domains/la/) - Los Angeles/Louisiana
+- [.LONDON Domains](https://www.dreamhost.com/domains/london/) - London
+
+### Additional Legal Documents
+
+- [AI Tools Terms](https://www.dreamhost.com/legal/ai-tools-terms/) - AI service terms
+- [Professional Services Terms](https://www.dreamhost.com/legal/professional-services/) - Service agreements
+- [Government Requests](https://www.dreamhost.com/legal/government-requests/) - Transparency report
+- [Open Source License Disclosure](https://www.dreamhost.com/legal/open-source-license-disclosure/) - OSS licenses
+- [Refer & Earn Terms](https://www.dreamhost.com/legal/refer-and-earn-terms-and-conditions/) - Referral program terms

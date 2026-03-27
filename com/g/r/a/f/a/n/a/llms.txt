@@ -1,47 +1,95 @@
 # Grafana Labs
 
-> > Grafana is the open and composable observability platform for metrics, logs, and traces, offering Grafana Cloud, Loki, Prometheus integration, and incident management tools.
+> Grafana is an open and composable observability platform for visualizing, monitoring, and correlating metrics, logs, traces, profiles, and incidents.
 
-Grafana Labs provides open-source and commercial observability solutions including Grafana dashboards, Loki log aggregation, OnCall incident management, and cloud-native monitoring for Kubernetes and Prometheus. The platform serves developers and operations teams building monitoring and alerting systems.
+Grafana Labs provides open source and managed observability products, including Grafana, Grafana Cloud, Loki, Mimir, Tempo, Pyroscope, k6, and incident response tooling. Its website includes product documentation, API references, learning journeys, installation guides, and engineering content for operators, developers, and platform teams.
 
-## Key Topics
+## Core Documentation
+- [Grafana documentation](https://grafana.com/docs/grafana/latest/): Main docs for Grafana dashboards, data sources, alerting, administration, and configuration.
+- [Grafana Cloud documentation](https://grafana.com/docs/grafana-cloud/): Docs for the managed observability platform, stacks, integrations, and hosted services.
+- [Grafana Enterprise documentation](https://grafana.com/docs/grafana/latest/enterprise/): Enterprise features, licensing, authentication, reporting, and administration guidance.
+- [Grafana Alerting documentation](https://grafana.com/docs/grafana/latest/alerting/): Unified alerting concepts, rule creation, contact points, and notification policies.
+- [Grafana plugins documentation](https://grafana.com/docs/grafana/latest/administration/plugin-management/): Manage, install, configure, and secure Grafana plugins.
+- [Grafana HTTP API](https://grafana.com/docs/grafana/latest/developers/http_api/): API reference for dashboards, folders, users, alerting, and administration.
 
-- Grafana Cloud
-- Observability
-- Prometheus
-- Grafana Loki
-- Kubernetes
-- Metrics and monitoring
-- Logs and traces
-- Incident Response Management
-- OnCall
-- Synthetic testing
-- Free tier cloud platform
-- Community forums (community.grafana.com)
-- Grafana Labs
-- Cloud-native monitoring
-- Open-source visualization
+## Grafana Cloud
+- [Grafana Cloud overview](https://grafana.com/products/cloud/): Product overview for hosted observability, application monitoring, and security capabilities.
+- [Grafana Cloud getting started](https://grafana.com/docs/grafana-cloud/get-started/): Start a cloud stack, connect data, and explore built-in observability workflows.
+- [Frontend Observability docs](https://grafana.com/docs/grafana-cloud/monitor-applications/frontend-observability/): Monitor browser performance, web vitals, errors, and user experience.
+- [Application Observability docs](https://grafana.com/docs/grafana-cloud/monitor-applications/application-observability/): Instrument services and analyze traces, profiles, logs, and metrics together.
+- [Kubernetes Monitoring docs](https://grafana.com/docs/grafana-cloud/monitor-infrastructure/kubernetes-monitoring/): Monitor Kubernetes clusters with integrations, dashboards, and alerts.
+- [Synthetic Monitoring docs](https://grafana.com/docs/grafana-cloud/testing/synthetic-monitoring/): Run uptime, API, and scripted checks from global probe locations.
+- [Cloud API documentation](https://grafana.com/docs/grafana-cloud/developer-resources/api-reference/): API reference for managing Grafana Cloud resources and services.
 
-## Getting Started
+## Open Source Projects
+- [Grafana OSS docs](https://grafana.com/docs/grafana/latest/): Open source visualization and observability platform documentation.
+- [Loki docs](https://grafana.com/docs/loki/latest/): Log aggregation system documentation for ingestion, querying, and operations.
+- [Mimir docs](https://grafana.com/docs/mimir/latest/): Scalable Prometheus-compatible metrics backend documentation.
+- [Tempo docs](https://grafana.com/docs/tempo/latest/): Distributed tracing backend docs for ingestion, querying, and trace correlation.
+- [Pyroscope docs](https://grafana.com/docs/pyroscope/latest/): Continuous profiling documentation for applications and infrastructure.
+- [k6 docs](https://grafana.com/docs/k6/latest/): Load testing docs for scripting, execution, results, and cloud runs.
+- [All OSS projects](https://grafana.com/oss/): Directory of Grafana Labs open source projects and related resources.
 
-- [Grafana: The open and composable observability platform | Grafana Labs](https://grafana.com): Homepage for Grafana observability platform with Cloud free tier details
+## Data Collection and Telemetry
+- [Grafana Alloy docs](https://grafana.com/docs/alloy/latest/): OpenTelemetry Collector distribution for pipelines, scraping, and telemetry forwarding.
+- [Alloy configuration reference](https://grafana.com/docs/alloy/latest/reference/): Reference for Alloy components, syntax, and pipeline configuration.
+- [Grafana Agent docs](https://grafana.com/docs/agent/latest/): Legacy agent documentation for metrics, logs, traces, and integrations.
+- [OpenTelemetry in Grafana Cloud](https://grafana.com/docs/grafana-cloud/send-data/otlp/): Send telemetry to Grafana Cloud using OTLP and OpenTelemetry SDKs.
+- [Prometheus remote write docs](https://grafana.com/docs/grafana-cloud/send-data/metrics/metrics-prometheus/): Send Prometheus metrics to Grafana Cloud with remote_write.
+- [Logs collection docs](https://grafana.com/docs/grafana-cloud/send-data/logs/): Configure log shipping to Grafana Cloud from common collectors and agents.
+
+## Observability Backends
+- [Loki query docs](https://grafana.com/docs/loki/latest/query/): LogQL query language, filtering, parsing, and metric generation from logs.
+- [Loki operations docs](https://grafana.com/docs/loki/latest/operations/): Operate, scale, secure, and troubleshoot Loki clusters.
+- [Mimir query docs](https://grafana.com/docs/mimir/latest/query/): Query metrics with PromQL and understand compatibility details.
+- [Mimir configuration docs](https://grafana.com/docs/mimir/latest/configure/): Configure components, storage, limits, and runtime behavior.
+- [Tempo trace docs](https://grafana.com/docs/tempo/latest/getting-started/): Get started with tracing pipelines, storage, and search.
+- [Pyroscope instrumentation docs](https://grafana.com/docs/pyroscope/latest/configure-client/): Instrument applications to collect and analyze profiling data.
+
+## Integrations and Data Sources
+- [Integrations catalog](https://grafana.com/docs/grafana-cloud/monitor-infrastructure/integrations/): Browse integrations for infrastructure, databases, applications, and exporters.
+- [Grafana data sources docs](https://grafana.com/docs/grafana/latest/datasources/): Configure built-in and plugin data sources for querying external systems.
+- [Prometheus data source docs](https://grafana.com/docs/grafana/latest/datasources/prometheus/): Connect Grafana to Prometheus-compatible metrics backends.
+- [Loki data source docs](https://grafana.com/docs/grafana/latest/datasources/loki/): Query logs from Loki inside Grafana dashboards and Explore.
+- [Tempo data source docs](https://grafana.com/docs/grafana/latest/datasources/tempo/): Configure Tempo as a tracing data source in Grafana.
+- [Plugin catalog](https://grafana.com/grafana/plugins/): Discover Grafana data source, panel, and app plugins.
+
+## Installation and Administration
+- [Install Grafana](https://grafana.com/docs/grafana/latest/setup-grafana/installation/): Installation guides for Linux, Windows, macOS, Docker, and Kubernetes.
+- [Configure Grafana](https://grafana.com/docs/grafana/latest/setup-grafana/configure-grafana/): Server configuration, feature flags, auth, storage, and security settings.
+- [Provision Grafana](https://grafana.com/docs/grafana/latest/administration/provisioning/): Provision data sources, dashboards, alerting resources, and plugins as code.
+- [User management docs](https://grafana.com/docs/grafana/latest/administration/user-management/): Manage users, teams, organizations, roles, and permissions.
+- [Authentication docs](https://grafana.com/docs/grafana/latest/setup-grafana/configure-security/configure-authentication/): Configure SSO, OAuth, LDAP, SAML, and other auth methods.
+- [Backup and restore docs](https://grafana.com/docs/grafana/latest/administration/back-up-grafana/): Back up configuration, database state, and restore Grafana instances.
+
+## Developers and APIs
+- [Grafana developer portal](https://grafana.com/developers/): Resources for building plugins, apps, integrations, and automation.
+- [Plugin development docs](https://grafana.com/developers/plugin-tools/): Build, test, sign, and publish Grafana plugins with official tooling.
+- [Create a panel plugin](https://grafana.com/developers/plugin-tools/tutorials/build-a-panel-plugin): Tutorial for building a custom visualization panel plugin.
+- [Create a data source plugin](https://grafana.com/developers/plugin-tools/tutorials/build-a-data-source-plugin): Tutorial for building a custom Grafana data source plugin.
+- [Grafana HTTP API docs](https://grafana.com/docs/grafana/latest/developers/http_api/): Automate Grafana resources and administrative workflows through REST APIs.
+- [k6 JavaScript API](https://grafana.com/docs/k6/latest/javascript-api/): Reference for k6 scripting APIs used in load testing scenarios.
+
+## Learning and Tutorials
+- [Grafana learning journeys](https://grafana.com/docs/learning-journeys/): Guided learning paths across Grafana, Cloud, and observability topics.
+- [Tutorials](https://grafana.com/tutorials/): Step-by-step tutorials for monitoring, visualization, and observability use cases.
+- [Getting started with Grafana](https://grafana.com/docs/grafana/latest/getting-started/): Introductory setup and first dashboard workflows for new users.
+- [Observability architectures](https://grafana.com/docs/grafana-cloud/monitor-applications/application-observability/manual/): Manual instrumentation and architecture guidance for application observability.
+- [k6 examples](https://grafana.com/docs/k6/latest/examples/): Example scripts and patterns for common load testing scenarios.
+- [Webinars](https://grafana.com/events/webinars/): Educational sessions covering product features, demos, and best practices.
 
 ## Community and Support
+- [Community forums](https://community.grafana.com/): User discussions, troubleshooting, and product-specific community support.
+- [Community guidelines](https://community.grafana.com/guidelines): Rules and expectations for participating in Grafana community forums.
+- [Grafana Slack community](https://grafana.com/events/community/): Community hub with links to events and collaboration channels.
+- [Support options](https://grafana.com/contact/): Contact and support entry points for Grafana Labs products and services.
+- [GitHub organization](https://github.com/grafana): Source repositories for Grafana Labs open source projects.
+- [Release notes](https://grafana.com/docs/grafana/latest/release-notes/): Product release notes for Grafana features, fixes, and changes.
 
-- [FAQ - Grafana Labs Community Forums](https://community.grafana.com/faq): FAQ and community guidelines for Grafana Labs forums
-- [Community Guidelines - Grafana Labs Community Forums](https://community.grafana.com/guidelines): Community forum guidelines and code of conduct for Grafana Labs
-- [Latest Grafana Loki topics - Grafana Labs Community Forums](https://community.grafana.com/c/grafana-loki/41): Community forum discussions on Grafana Loki log aggregation topics
-
-## Optional
-
-- [TV Guide, TV Listings, Online Videos, Entertainment News and Celebrity News - TV Guide](https://tvguide.com/Listings): TV schedule listings and entertainment news from TV Guide
-- [We Still Talk About You | Know Your Meme](https://knowyourmeme.com/memes/we-still-talk-about-you): Exploitable meme entry about heartbreaking cat/kitten viral image trend
-- [I'm Talking About Innit | Know Your Meme](https://knowyourmeme.com/memes/im-talking-about-innit): TikTok dance trend based on BunnaB & YKNiece rap song catchphrase
-- [What Do The Memes About Hearing Saxophones In The Hood Mean? The Viral '90s Hood... | Know Your Meme](https://trending.knowyourmeme.com/editorials/guides/what-do-the-memes-about-hearing-saxophones-in-the-hood-mean-the-viral-90s-hood-movie-trend-explained): Explainer on Boyz n the Hood saxophone meme trend on TikTok/Instagram
-- [Who Is The 'Bananas And Rice' Girl? The Viral Memes About Somali-American ICE Vi... | Know Your Meme](https://trending.knowyourmeme.com/editorials/guides/who-is-the-bananas-and-rice-girl-the-viral-memes-about-somali-american-ice-victim-nasra-ahmed-explained): Explainer on Nasra Ahmed ICE incident viral catchphrase meme
-- [Jesse, What the Fuck Are You Talking About | Know Your Meme](https://knowyourmeme.com/memes/jesse-what-the-fuck-are-you-talking-about): Breaking Bad dialogue meme featuring Walter White & Jesse Pinkman
-- [22 Memes About Mental Health That Are A Little Too Relatable | Know Your Meme](https://trending.knowyourmeme.com/editorials/collections/22-memes-about-mental-health-that-are-a-little-too-relatable): Collection of relatable mental health and depression humor memes
-- [How About A Nice Big Cup of Shut the Fuck Up | Know Your Meme](https://knowyourmeme.com/memes/how-about-a-nice-big-cup-of-shut-the-fuck-up): WWII poster-based catchphrase meme trending on TikTok
-- [What Does 'Clavicular Brutally Frame Mogged By ASU Frat Leader' Mean? The Memes ... | Know Your Meme](https://trending.knowyourmeme.com/editorials/guides/what-does-clavicular-brutally-frame-mogged-by-asu-frat-leader-mean-the-memes-about-the-viral-looksmaxxer-explained): Explainer on looksmaxxing influencer Clavicular frame mogging meme
-- [Millennial Burger Place | Know Your Meme](https://knowyourmeme.com/memes/millennial-burger-place): Meme about millennial burger restaurant cliches and starter packs
-- [Are 'Labubus' Demonic? The Viral Conspiracy Theory Linking 'Labubu Dolls' To The... | Know Your Meme](https://trending.knowyourmeme.com/editorials/guides/are-labubus-demonic-the-viral-conspiracy-theory-linking-labubu-dolls-to-the-demon-pazuzu-explained): Explainer on Labubu doll Pazuzu demon conspiracy theory on TikTok
+## Blog and Engineering
+- [Grafana blog](https://grafana.com/blog/): Product announcements, tutorials, engineering posts, and observability insights.
+- [Observability blog posts](https://grafana.com/blog/categories/observability/): Articles focused on observability practices, tooling, and architecture.
+- [Engineering blog posts](https://grafana.com/blog/categories/engineering/): Engineering deep dives on systems, performance, and implementation details.
+- [Prometheus blog posts](https://grafana.com/blog/categories/prometheus/): Content about Prometheus monitoring, scaling, and ecosystem integrations.
+- [Loki blog posts](https://grafana.com/blog/categories/loki/): Articles about log aggregation, LogQL, and Loki operations.
+- [k6 blog posts](https://grafana.com/blog/categories/k6/): Load testing articles, examples, and performance engineering guidance.

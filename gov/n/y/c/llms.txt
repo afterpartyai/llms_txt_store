@@ -1,50 +1,98 @@
-# NYC.gov - New York City Government
+# NYC.gov
+> Official website of New York City government, providing city services, agency information, payments, benefits, reporting, and public updates.
 
-> NYC.gov is the official portal for New York City government services, enabling residents to access public assistance, file complaints, pay bills, and navigate city agencies through integrated digital platforms.
+NYC.gov is the central online portal for New York City residents, businesses, visitors, and city employees. It brings together agency websites, 311 service information, online transactions, benefits screening, permits, records, public notices, and policy updates across city government.
 
-NYC.gov serves as the primary digital hub for NYC residents and businesses to interact with city government, featuring the NYC311 service request system, ACCESS NYC benefits screening, and comprehensive guides from departments like DSNY, HPD, and the Department of Health. The site aggregates services across multiple city agencies to provide centralized access to essential municipal services.
+## Main Portal and Citywide Navigation
+- [NYC.gov Home](https://www.nyc.gov/): City homepage with service status, popular tasks, news, and links to agencies.
+- [NYC Resources](https://www.nyc.gov/nyc-resources): Directory of citywide resources, services, and commonly used government information.
+- [NYC Agencies](https://www.nyc.gov/agencies): Index of New York City agencies, offices, and departments.
+- [Programs and Initiatives](https://www.nyc.gov/programs-initiatives): Directory of city programs, initiatives, and public-facing efforts.
+- [Office of the Mayor](https://www.nyc.gov/office-of-the-mayor/index.page): Mayor's Office homepage with announcements, priorities, and executive information.
+- [CityStore](https://a856-citystore.nyc.gov/): Official city store for maps, records, and municipal publications.
 
-## Key Topics
+## 311 and Resident Services
+- [NYC311](https://portal.311.nyc.gov/): Central portal for city service information, requests, complaints, and status lookup.
+- [Report Problems](https://portal.311.nyc.gov/report-problems/): Submit complaints and service requests for many city issues and conditions.
+- [Find a Service](https://portal.311.nyc.gov/kacategory/): Browse 311 topics and service categories by issue or need.
+- [Service Request Status](https://portal.311.nyc.gov/check-status/): Check the status of submitted 311 service requests and complaints.
+- [NYC311 App](https://portal.311.nyc.gov/article/?kanumber=KA-01093): Information about the NYC311 mobile app for reporting and tracking issues.
+- [Contact 311](https://portal.311.nyc.gov/article/?kanumber=KA-01017): Ways to contact 311 online, by phone, and through accessibility options.
 
-- NYC311 - Service request and complaint reporting portal
-- ACCESS NYC - Public assistance eligibility screening
-- DSNY - Sanitation and waste management
-- HPD - Housing and building compliance
-- Department of Health - Vital records and public health
-- NYC Mayor's Office - Executive announcements
-- Service requests and complaint filing
-- Public assistance programs
-- Civic services and government information
-- Tenant rights and housing regulations
-- Tax preparation assistance
-- School enrollment and education services
-- 311 reporting system
-- City alerts and news updates
+## Benefits, Assistance, and Human Services
+- [ACCESS NYC](https://access.nyc.gov/): Benefits screening and application guidance for New York City public assistance programs.
+- [ACCESS NYC Eligibility Screener](https://access.nyc.gov/eligibility/): Check possible eligibility for benefits, tax credits, and support programs.
+- [Human Resources Administration](https://www.nyc.gov/site/hra/index.page): HRA services for cash assistance, SNAP, Medicaid, and support programs.
+- [Department of Social Services](https://www.nyc.gov/site/dss/index.page): DSS overview for benefits, shelter, employment, and social service programs.
+- [NYC Housing Connect](https://housingconnect.nyc.gov/PublicWeb/): Apply for affordable housing lotteries and manage housing applications.
+- [Department for the Aging](https://www.nyc.gov/site/dfta/index.page): Services and resources for older adults, caregivers, and aging programs.
 
-## Core Government Portals
+## Housing, Buildings, and Property
+- [Department of Housing Preservation and Development](https://www.nyc.gov/site/hpd/index.page): HPD programs, housing resources, enforcement, and tenant information.
+- [Heat and Hot Water](https://www.nyc.gov/site/hpd/services-and-information/heat-and-hot-water-information.page): Tenant rights and landlord obligations for heat and hot water.
+- [Housing Maintenance Code](https://www.nyc.gov/site/hpd/services-and-information/housing-maintenance-code.page): Rules and standards governing residential building maintenance.
+- [Department of Buildings](https://www.nyc.gov/site/buildings/index.page): Building permits, inspections, codes, and construction-related services.
+- [DOB NOW](https://www.nyc.gov/site/buildings/industry/dob-now.page): Online system for filings, permits, inspections, and compliance transactions.
+- [ACRIS](https://a836-acris.nyc.gov/CP/): Property document search for deeds, mortgages, and recorded real estate records.
+- [Department of Finance Property Information](https://www.nyc.gov/site/finance/property/property.page): Property tax, assessment, and ownership-related information and services.
 
-- [Official Website of New York City Government - nyc.gov](https://www.nyc.gov/main): NYC government homepage with parking, schools, trash collection status and popular services
-- [NYC311 Portal Home](https://portal.311.nyc.gov): NYC311 portal homepage for service requests, complaints, and public assistance
-- [ACCESS NYC Eligibility Screener](https://access.nyc.gov/eligibility): Interactive tool to screen eligibility for NYC public assistance programs
-- [NYC Mayor's Office](https://www.nyc.gov/mayors-office): Mayor's Office official site with announcements, news, and city government information
+## Sanitation, Streets, and Transportation
+- [Department of Sanitation](https://www.nyc.gov/site/dsny/index.page): Trash, recycling, composting, collection schedules, and cleanliness programs.
+- [Get Rid of...](https://www.nyc.gov/site/dsny/collection/get-rid-of.page): Disposal guidance for household items, hazardous waste, and special materials.
+- [Collection Schedule](https://www.nyc.gov/site/dsny/collection/collection-schedule.page): Lookup for trash, recycling, and compost collection days.
+- [Department of Transportation](https://www.nyc.gov/site/dot/index.page): Streets, bridges, traffic, parking, and transportation programs.
+- [Parking Regulations](https://www.nyc.gov/html/dot/html/motorist/parking-regulations.shtml): Rules and guidance for parking, signs, and street regulations.
+- [Alternate Side Parking](https://www.nyc.gov/html/dot/html/motorist/alternate-side-parking.shtml): Alternate side parking rules, suspensions, and related guidance.
+- [NYC Street Closures](https://www.nyc.gov/html/dot/html/motorist/weektraf.shtml): Weekly street closure information affecting travel and access.
 
-## Service Requests and Complaints
+## Health, Records, and Public Safety
+- [NYC Health](https://www.nyc.gov/site/doh/index.page): Department of Health services, programs, alerts, and public health information.
+- [Birth and Death Records](https://www.nyc.gov/site/doh/services/birth-death-records.page): Vital records ordering and information for births and deaths.
+- [Mental Health and Wellness](https://www.nyc.gov/site/doh/health/health-topics/mental-health.page): City mental health resources, support, and program information.
+- [NYC Emergency Management](https://www.nyc.gov/site/em/index.page): Emergency preparedness, alerts, hazards, and disaster response information.
+- [Notify NYC](https://a858-nycnotify.nyc.gov/): Official emergency notification system for alerts and public safety updates.
+- [FDNY](https://www.nyc.gov/site/fdny/index.page): Fire safety, emergency response, inspections, and prevention resources.
+- [NYPD](https://www.nyc.gov/site/nypd/index.page): Police department information, precinct resources, reports, and public safety services.
 
-- [Report Problems via NYC311](https://portal.311.nyc.gov/report-problems): NYC311 portal for filing complaints and service requests across city agencies
-- [Look Up Service Requests](https://portal.311.nyc.gov/check-status): NYC311 tool to track and check status of submitted service requests
-- [NYC311 Service Information](https://portal.311.nyc.gov/article): NYC311 service request article page with mobile app information
+## Education, Families, and Youth
+- [NYC Public Schools](https://www.schools.nyc.gov/): Official public schools portal for enrollment, calendars, and family resources.
+- [School Search](https://schoolsearch.schools.nyc/): Search tool for New York City public schools and programs.
+- [Student Enrollment](https://www.schools.nyc.gov/enrollment/enroll-grade-by-grade): Enrollment guidance by grade level for NYC public schools.
+- [Pre-K](https://www.schools.nyc.gov/enrollment/enroll-grade-by-grade/pre-k): Information on applying to free Pre-K programs citywide.
+- [3-K](https://www.schools.nyc.gov/enrollment/enroll-grade-by-grade/3k): Information on applying to 3-K programs for young children.
+- [Administration for Children's Services](https://www.nyc.gov/site/acs/index.page): Child welfare, foster care, prevention, and family support services.
+- [Department of Youth and Community Development](https://www.nyc.gov/site/dycd/index.page): Youth programs, community services, and after-school opportunities.
 
-## Government Services Directory
+## Business, Permits, and Workforce
+- [NYC Business](https://www.nyc.gov/nycbusiness): Starting, operating, and growing a business in New York City.
+- [Business Express Service Team](https://www.nyc.gov/nycbusiness/article/business-express-service-team-best): Assistance navigating permits, licenses, and city requirements for businesses.
+- [Department of Consumer and Worker Protection](https://www.nyc.gov/site/dca/index.page): Worker protections, consumer rights, and business licensing information.
+- [Business Licensing Center](https://www.nyc.gov/nycbusiness/description/business-licenses): Directory of city business licenses and permit requirements.
+- [Department of Small Business Services](https://www.nyc.gov/site/sbs/index.page): Business support, training, hiring, and neighborhood development programs.
+- [Workforce1](https://www.nyc.gov/site/sbs/careers/virtual-wf1cc.page): Job seeker services, training, and employment support through Workforce1.
+- [NYC Jobs](https://cityjobs.nyc.gov/): City government job listings and application portal.
 
-- [NYC Government Services](https://www.nyc.gov/main/services): Directory of NYC government services including benefits, complaints, housing, and business services
+## Payments, Taxes, and Finance
+- [Department of Finance](https://www.nyc.gov/site/finance/index.page): Taxes, payments, property records, parking violations, and finance services.
+- [Pay Property Taxes](https://www.nyc.gov/site/finance/pay-now/pay.page): Online payment options for property taxes and related charges.
+- [Parking Ticket Services](https://www.nyc.gov/site/finance/vehicles/services-vehicles.page): Pay, dispute, and manage parking and camera violations.
+- [Property Tax Information](https://www.nyc.gov/site/finance/property/property.page): Assessments, exemptions, bills, and property tax resources.
+- [NYC ePay](https://a836-epay.nyc.gov/): Online payment portal for selected city fees and charges.
+- [CityPay](https://a836-citypay.nyc.gov/): Payment portal for violations, bills, and other city transactions.
 
-## Housing, Utilities, and Sanitation
+## Data, Laws, and Public Information
+- [NYC Open Data](https://opendata.cityofnewyork.us/): Public datasets, APIs, and data tools from New York City agencies.
+- [NYC Open Data Portal](https://data.cityofnewyork.us/): Search and access downloadable city datasets and API endpoints.
+- [NYC Rules](https://rules.cityofnewyork.us/): Proposed and adopted agency rules with notices and public comment information.
+- [The Rules of the City of New York](https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCrules): Codified city agency rules and regulatory text.
+- [NYC Charter](https://www.nyc.gov/site/charter/index.page): New York City Charter information and related governance resources.
+- [City Record Online](https://a856-cityrecord.nyc.gov/): Official journal for notices, procurements, hearings, and public meetings.
+- [Freedom of Information Law Requests](https://www.nyc.gov/site/records/access-rulings/freedom-of-information-law-foil-requests.page): Guidance for requesting city records under FOIL.
 
-- [Heat and Hot Water Information - HPD](https://www.nyc.gov/site/hpd/services-and-information/heat-and-hot-water-information.page): HPD guide to tenant rights, building compliance, and heat/hot water regulations
-- [Get Rid of... Waste Disposal Guide - DSNY](https://www.nyc.gov/site/dsny/collection/get-rid-of.page): DSNY guide for waste disposal, recycling, and hazardous materials management
-
-## Vital Records, Education, and Financial Services
-
-- [Birth Certificates - NYC Health](https://www.nyc.gov/site/doh/services/birth-death-records-birth.page): NYC Health guide to ordering birth certificates via VitalChek
-- [Summer Rising Program Enrollment](https://www.schools.nyc.gov/enrollment/summer-rising): NYC Department of Education guide to Summer Rising program enrollment for K-8 students
-- [Free Tax Prep - DCWP](https://www.nyc.gov/site/dca/talk-money/file-your-taxes.page): DCWP guide to NYC Free Tax Prep program for IRS-certified tax filing assistance
+## News, Updates, and Communications
+- [Newsroom](https://www.nyc.gov/news): City government news, press releases, and official announcements.
+- [Events](https://www.nyc.gov/events): Public events, hearings, meetings, and city-sponsored activities.
+- [Get Email Updates](https://www.nyc.gov/connect): Sign up for newsletters and updates from city government.
+- [Media and Press Contacts](https://www.nyc.gov/office-of-the-mayor/news.page): Mayor's Office news and press materials.
+- [Mayor's Speeches and Remarks](https://www.nyc.gov/office-of-the-mayor/news/speeches.page): Public speeches, remarks, and statements from the Mayor.
+- [Mayor's Executive Orders](https://www.nyc.gov/office-of-the-mayor/executive-orders.page): Executive orders issued by the Mayor of New York City.

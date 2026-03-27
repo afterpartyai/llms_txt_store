@@ -1,64 +1,115 @@
 # GitLab
 
-> GitLab is an AI-powered DevSecOps platform providing intelligent orchestration across the entire software lifecycle.
+> GitLab is an AI-powered DevSecOps platform for planning, building, securing, and deploying software in a single application.
 
-GitLab offers a comprehensive suite of tools for source code management, CI/CD automation, application security testing, and compliance management. The platform is designed for enterprises, small businesses, and public sector organizations seeking unified DevSecOps solutions with built-in AI capabilities through GitLab Duo.
+GitLab combines source code management, CI/CD, security, package and container registries, project planning, observability, and AI-assisted workflows. Its public documentation spans product docs, API references, administration guides, development handbooks, and engineering blog content across gitlab.com and about.gitlab.com.
 
-## Key Topics
+## Product Documentation
 
-- DevSecOps Platform
-- CI/CD Pipeline
-- GitLab Duo (AI)
-- Source Code Management
-- Application Security Testing (SAST/DAST/SCA)
-- Software Supply Chain Security
-- Compliance Automation
-- Value Stream Management
-- DORA Metrics
-- GitOps
-- FedRAMP Compliance
-- Enterprise Features
-- AI Agents
-- Software Delivery Automation
-- Developer Productivity
+- [GitLab Documentation](https://docs.gitlab.com/): Main documentation hub for using, administering, and developing with GitLab.
+- [Get started](https://docs.gitlab.com/ee/get_started/): Introductory guides for onboarding to GitLab features and workflows.
+- [User documentation](https://docs.gitlab.com/ee/user/): End-user docs for projects, groups, issues, merge requests, and collaboration.
+- [CI/CD documentation](https://docs.gitlab.com/ee/ci/): Reference and guides for pipelines, runners, variables, and pipeline configuration.
+- [Security documentation](https://docs.gitlab.com/ee/user/application_security/): Docs for application security testing, policies, and vulnerability management.
+- [GitLab Duo documentation](https://docs.gitlab.com/ee/user/gitlab_duo/): Documentation for GitLab’s AI features across the software lifecycle.
+- [Administration documentation](https://docs.gitlab.com/ee/administration/): Self-managed installation, configuration, scaling, backup, and maintenance guidance.
+- [Topics documentation](https://docs.gitlab.com/ee/topics/): Cross-cutting docs for integrations, workflows, and specialized product areas.
 
-## Platform Overview
+## API Reference
 
-- [Finally, AI for the entire software lifecycle.](https://about.gitlab.com): GitLab's AI-powered DevSecOps platform for intelligent software orchestration
-- [Platform](https://about.gitlab.com/platform): Overview of GitLab platform features and deployment options
-- [Why GitLab?](https://about.gitlab.com/why-gitlab): Key reasons enterprises choose GitLab's comprehensive DevSecOps platform
-- [GitLab Solutions - The Intelligent Orchestration Platform](https://about.gitlab.com/solutions): Overview of GitLab's complete DevSecOps solutions and capabilities
+- [REST API](https://docs.gitlab.com/ee/api/): Complete REST API reference for projects, groups, pipelines, users, and more.
+- [GraphQL API](https://docs.gitlab.com/ee/api/graphql/): GraphQL API overview, schema access, and query examples.
+- [CI/CD pipeline triggers API](https://docs.gitlab.com/ee/api/pipeline_triggers/): Trigger pipelines programmatically using tokens and API requests.
+- [Jobs API](https://docs.gitlab.com/ee/api/jobs/): Manage CI/CD jobs, traces, artifacts, and job lifecycle operations.
+- [Merge requests API](https://docs.gitlab.com/ee/api/merge_requests/): Create, review, update, and automate merge request workflows.
+- [Projects API](https://docs.gitlab.com/ee/api/projects/): Manage project settings, metadata, visibility, and repository-related operations.
+- [Groups API](https://docs.gitlab.com/ee/api/groups/): Work with groups, memberships, subgroups, and group-level configuration.
+- [Personal access tokens API](https://docs.gitlab.com/ee/api/personal_access_tokens/): Inspect and manage personal access tokens through the API.
 
-## AI & Automation
+## CI/CD and DevOps Guides
 
-- [GitLab Duo Agent Platform](https://about.gitlab.com/gitlab-duo-agent-platform): Custom AI workflow automation with specialized agents across software lifecycle
-- [Automated Software Delivery with GitLab](https://about.gitlab.com/solutions/delivery-automation): Accelerate software delivery with GitLab's automated solutions and AI agents
+- [GitLab CI/CD YAML syntax reference](https://docs.gitlab.com/ee/ci/yaml/): Full reference for `.gitlab-ci.yml` keywords and pipeline configuration.
+- [Auto DevOps](https://docs.gitlab.com/ee/topics/autodevops/): Automatically build, test, secure, and deploy applications with minimal configuration.
+- [GitLab Runner](https://docs.gitlab.com/runner/): Install, configure, and operate GitLab Runner for CI/CD execution.
+- [Review apps](https://docs.gitlab.com/ee/ci/review_apps/): Create dynamic environments for previewing changes before deployment.
+- [Environments and deployments](https://docs.gitlab.com/ee/ci/environments/): Manage deployment targets, environments, and release workflows.
+- [Pipeline efficiency](https://docs.gitlab.com/ee/ci/pipelines/pipeline_efficiency/): Optimize pipeline speed, resource usage, and execution reliability.
+- [Caching](https://docs.gitlab.com/ee/ci/caching/): Reuse dependencies and build outputs to accelerate pipelines.
+- [Job artifacts](https://docs.gitlab.com/ee/ci/jobs/job_artifacts/): Store, browse, and pass build outputs between pipeline jobs.
 
-## Core Development Solutions
+## Source Code Management and Collaboration
 
-- [Source code management](https://about.gitlab.com/solutions/source-code-management): GitLab's intelligent source code management for team collaboration
-- [Continuous Integration and Delivery (CI/CD)](https://about.gitlab.com/solutions/continuous-integration): GitLab's CI/CD automation solution for faster secure software delivery
+- [Projects](https://docs.gitlab.com/ee/user/project/): Manage repositories, settings, access, integrations, and project-level workflows.
+- [Groups](https://docs.gitlab.com/ee/user/group/): Organize teams and projects with shared permissions and governance.
+- [Issues](https://docs.gitlab.com/ee/user/project/issues/): Track work, bugs, and requirements with issue management features.
+- [Merge requests](https://docs.gitlab.com/ee/user/project/merge_requests/): Collaborate on code review, approvals, and branch integration.
+- [Code review](https://docs.gitlab.com/ee/user/project/merge_requests/reviews/): Review changes with comments, suggestions, and approval workflows.
+- [Wiki](https://docs.gitlab.com/ee/user/project/wiki/): Maintain project documentation directly within GitLab repositories.
+- [Snippets](https://docs.gitlab.com/ee/user/snippets/): Share reusable code and text snippets across users and projects.
+- [Web IDE](https://docs.gitlab.com/ee/user/project/web_ide/): Edit code in-browser with integrated source control and review workflows.
 
-## Security & Compliance
+## Security, Compliance, and Governance
 
-- [Application security testing](https://about.gitlab.com/solutions/application-security-testing): GitLab's built-in SAST, DAST, SCA security testing for secure software
-- [Software Supply Chain Security](https://about.gitlab.com/solutions/supply-chain): Secure software supply chain with GitLab's Zero Trust orchestration
-- [Software compliance automation](https://about.gitlab.com/solutions/software-compliance): Automated compliance for FedRAMP, ISO 27001, and regulated industries
+- [Application security](https://docs.gitlab.com/ee/user/application_security/): Overview of GitLab security scanners and vulnerability management capabilities.
+- [SAST](https://docs.gitlab.com/ee/user/application_security/sast/): Static application security testing for source code vulnerabilities.
+- [DAST](https://docs.gitlab.com/ee/user/application_security/dast/): Dynamic application security testing for running web applications.
+- [Dependency scanning](https://docs.gitlab.com/ee/user/application_security/dependency_scanning/): Detect vulnerable dependencies in application manifests and lockfiles.
+- [Container scanning](https://docs.gitlab.com/ee/user/application_security/container_scanning/): Scan container images for known vulnerabilities before deployment.
+- [Security policies](https://docs.gitlab.com/ee/user/application_security/policies/): Define and enforce scan execution and approval policies.
+- [Compliance management](https://docs.gitlab.com/ee/user/compliance/): Manage frameworks, controls, reporting, and audit-related workflows.
+- [Protected branches](https://docs.gitlab.com/ee/user/project/repository/branches/protected/): Restrict branch changes to enforce governance and release controls.
 
-## Insights & Measurement
+## Packages, Registries, and Artifacts
 
-- [Value Stream Management](https://about.gitlab.com/solutions/value-stream-management): Value stream management with DORA metrics to optimize business outcomes
-- [Visibility & measurement](https://about.gitlab.com/solutions/visibility-measurement): DORA metrics and analytics for data-driven software delivery decisions
-- [End-to-end analytics and insights](https://about.gitlab.com/solutions/analytics-and-insights): DevSecOps analytics dashboards for workflow optimization and insights
+- [Package Registry](https://docs.gitlab.com/ee/user/packages/package_registry/): Publish and consume packages from GitLab-hosted package registries.
+- [Container Registry](https://docs.gitlab.com/ee/user/packages/container_registry/): Store, manage, and secure container images alongside source code.
+- [Maven packages](https://docs.gitlab.com/ee/user/packages/maven_repository/): Use GitLab as a Maven package repository.
+- [npm packages](https://docs.gitlab.com/ee/user/packages/npm_registry/): Publish and install JavaScript packages with the npm registry.
+- [PyPI packages](https://docs.gitlab.com/ee/user/packages/pypi_repository/): Host and distribute Python packages through GitLab.
+- [Terraform module registry](https://docs.gitlab.com/ee/user/packages/terraform_module_registry/): Publish and consume Terraform modules in GitLab.
+- [Generic packages](https://docs.gitlab.com/ee/user/packages/generic_packages/): Upload arbitrary versioned files as generic packages.
+- [Release artifacts](https://docs.gitlab.com/ee/user/project/releases/): Create releases with evidence, assets, and version metadata.
 
-## Industry & Segment Solutions
+## Administration and Self-Managed
 
-- [GitLab for Enterprise - Collaboration made easy](https://about.gitlab.com/enterprise): GitLab DevSecOps platform tailored for enterprise software delivery
-- [GitLab for the Public Sector](https://about.gitlab.com/solutions/public-sector): FedRAMP-compliant GitLab for government teams and secure software delivery
-- [DevSecOps for Small Business - Collaboration made easy](https://about.gitlab.com/small-business): GitLab's DevSecOps platform designed for small business collaboration
+- [Install GitLab](https://docs.gitlab.com/ee/install/): Installation options for self-managed GitLab deployments.
+- [Omnibus GitLab](https://docs.gitlab.com/omnibus/): Linux package installation, configuration, and operations documentation.
+- [Helm chart](https://docs.gitlab.com/charts/): Deploy GitLab to Kubernetes using the official Helm chart.
+- [Reference architectures](https://docs.gitlab.com/ee/administration/reference_architectures/): Recommended deployment topologies for scale, performance, and availability.
+- [Backup and restore](https://docs.gitlab.com/ee/administration/backup_restore/): Protect and recover GitLab data in self-managed environments.
+- [Authentication and authorization](https://docs.gitlab.com/ee/administration/auth/): Configure LDAP, SAML, OAuth, and other identity integrations.
+- [Monitoring GitLab](https://docs.gitlab.com/ee/administration/monitoring/): Observe GitLab health, metrics, logs, and performance.
+- [Upgrade GitLab](https://docs.gitlab.com/ee/update/): Plan and execute version upgrades safely.
 
-## Getting Started & Pricing
+## Development and Contributing
 
-- [Pricing](https://about.gitlab.com/pricing): GitLab subscription tiers and pricing for DevSecOps platform features
-- [Get started with GitLab](https://about.gitlab.com/get-started): Getting started guide for GitLab Community, Enterprise, and migration
-- [Download and install GitLab](https://about.gitlab.com/install): Installation guide for GitLab on Docker, Kubernetes, Linux, and cloud
+- [GitLab Development Kit](https://docs.gitlab.com/ee/development/contributing/development_kit/): Local development environment for contributing to GitLab.
+- [Contribute to GitLab](https://docs.gitlab.com/ee/development/contributing/): Contributor guidance for code, documentation, and merge request workflows.
+- [Developer documentation](https://docs.gitlab.com/ee/development/): Internal architecture, backend, frontend, and engineering development docs.
+- [API style guide](https://docs.gitlab.com/ee/development/api_styleguide/): Standards for designing and maintaining GitLab APIs.
+- [Database guides](https://docs.gitlab.com/ee/development/database/): Documentation for migrations, schema design, and database practices.
+- [Frontend development](https://docs.gitlab.com/ee/development/fe_guide/): Frontend architecture, Vue patterns, and UI development guidance.
+- [Testing standards and style guidelines](https://docs.gitlab.com/ee/development/testing_guide/): Testing approaches and conventions for GitLab contributors.
+- [Documentation guidelines](https://docs.gitlab.com/ee/development/documentation/): Standards for writing and maintaining GitLab documentation.
+
+## Company Handbook and Engineering
+
+- [GitLab Handbook](https://handbook.gitlab.com/): Public company handbook covering processes, teams, and operating principles.
+- [Engineering handbook](https://handbook.gitlab.com/handbook/engineering/): Engineering organization structure, practices, and responsibilities.
+- [Product handbook](https://handbook.gitlab.com/handbook/product/): Product management principles, planning, and team processes.
+- [Marketing handbook](https://handbook.gitlab.com/handbook/marketing/): Public documentation of GitLab marketing programs and operations.
+- [Values](https://handbook.gitlab.com/handbook/values/): GitLab’s company values and expected behaviors.
+- [All-remote](https://handbook.gitlab.com/handbook/company/culture/all-remote/): Guidance and principles for operating as an all-remote company.
+- [Communication](https://handbook.gitlab.com/handbook/communication/): Communication norms, channels, and collaboration practices.
+- [Security handbook](https://handbook.gitlab.com/handbook/security/): Security team responsibilities, practices, and operational guidance.
+
+## Blog, Releases, and Learn
+
+- [GitLab Blog](https://about.gitlab.com/blog/): Articles on product updates, engineering, security, and DevSecOps practices.
+- [Releases](https://about.gitlab.com/releases/): Monthly GitLab release posts summarizing new features and improvements.
+- [Direction](https://about.gitlab.com/direction/): Product direction pages outlining strategy and planned investments.
+- [Learn](https://about.gitlab.com/learn/): Educational resources on DevSecOps, CI/CD, security, and software delivery.
+- [Customer stories](https://about.gitlab.com/customers/): Case studies showing how organizations use GitLab in practice.
+- [Events](https://about.gitlab.com/events/): Upcoming webinars, conferences, and GitLab-hosted events.
+- [Topics](https://about.gitlab.com/topics/): Topical content hubs for DevOps, security, AI, and related subjects.
+- [The Source](https://about.gitlab.com/the-source/): Editorial content and perspectives on software development and DevSecOps.

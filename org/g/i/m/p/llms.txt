@@ -1,54 +1,67 @@
 # GIMP
+> GIMP is a free and open source image editor for photo retouching, digital art, graphic design, and image processing.
 
-> GIMP is a free, cross-platform GNU image editor for photo manipulation, graphic design, and digital art creation.
+The GNU Image Manipulation Program provides downloads, documentation, tutorials, release information, and contributor resources for users, artists, developers, and community members across Linux, macOS, and Windows.
 
-GIMP (GNU Image Manipulation Program) is an open-source image editor available for Linux, macOS, and Windows. The site provides downloads, documentation, community tutorials, and development resources for both users and contributors.
+## Core Site
+- [GIMP Home](https://www.gimp.org/): Main entry point for the GNU Image Manipulation Program and its core capabilities.
+- [About GIMP](https://www.gimp.org/about/): Overview of GIMP, its purpose, history, licensing, and project background.
+- [Downloads](https://www.gimp.org/downloads/): Download current GIMP releases for supported platforms and packaging formats.
+- [News](https://www.gimp.org/news/): Official announcements, release posts, development updates, and project news.
+- [Documentation](https://www.gimp.org/docs/): Central hub for manuals, help resources, and user documentation.
+- [Tutorials](https://www.gimp.org/tutorials/): Curated tutorial links for learning image editing and creative workflows.
 
-## Key Topics
+## Downloads & Releases
+- [Download GIMP](https://www.gimp.org/downloads/): Current stable downloads with platform-specific installation options.
+- [Release Notes Index](https://www.gimp.org/release-notes/): Archive of release notes for major and minor GIMP versions.
+- [GIMP 3.2 Release Notes](https://www.gimp.org/release-notes/gimp-3.2.html): Detailed changes, features, fixes, and improvements in GIMP 3.2.
+- [News](https://www.gimp.org/news/): Release announcements often include highlights, packaging notes, and upgrade guidance.
+- [GIMP News Feed](https://www.gimp.org/feeds/atom.xml): Atom feed for tracking official GIMP news and release updates.
 
-- GNU Image Manipulation Program
-- open-source
-- free-software
-- image-editing
-- photo-manipulation
-- graphic-design
-- cross-platform
-- Linux/macOS/Windows
-- GNOME
-- GNU General Public License
-- extensibility
-- GEGL
-- bug-reporting
-- community-driven
-- gimp-3.2
-
-## Getting Started
-
-- [GIMP - GNU Image Manipulation Program](https://www.gimp.org): GIMP homepage introducing the free cross-platform image editor
-- [GIMP - Downloads](https://www.gimp.org/downloads): Download GIMP 3.2.0 for Linux, macOS, Windows, and Flatpak
-- [GIMP - About GIMP](https://www.gimp.org/about): About GIMP: free GNU software for image manipulation and design
-- [GIMP - Frequently Asked Questions](https://www.gimp.org/docs/userfaq.html): GIMP FAQ covering features, licensing, and troubleshooting
-
-## Documentation & Learning
-
-- [GIMP - Documentation](https://www.gimp.org/docs): GIMP user manual, help system, and getting-started tutorials
-- [GIMP - Community Tutorials](https://www.gimp.org/tutorials): Community-created tutorials for image editing and painting
-- [GIMP - Recent Books About GIMP](https://www.gimp.org/books): Published books about GIMP in multiple languages
+## Documentation & Help
+- [Documentation Home](https://www.gimp.org/docs/): Starting point for manuals, help pages, and documentation resources.
+- [User FAQ](https://www.gimp.org/docs/userfaq.html): Frequently asked questions about usage, features, licensing, and troubleshooting.
+- [Books](https://www.gimp.org/books/): Published books and longer-form learning resources about GIMP.
+- [Tutorials](https://www.gimp.org/tutorials/): Community tutorial collection for practical editing and design techniques.
+- [About GIMP](https://www.gimp.org/about/): Background context useful for understanding project goals and capabilities.
 
 ## Community & Support
+- [Discuss](https://www.gimp.org/discuss.html): Community discussion channels, forums, chat, and social participation options.
+- [Bug Reports](https://www.gimp.org/bugs/): Information on reporting bugs and accessing issue tracking resources.
+- [Contacting Us](https://www.gimp.org/webmasters.html): Contact information for website-related questions and administrative issues.
+- [GIMP's Team](https://www.gimp.org/team.html): Team page listing contributors and project members.
+- [News](https://www.gimp.org/news/): Official updates relevant to users, contributors, and community members.
 
-- [GIMP - Discuss](https://www.gimp.org/discuss.html): GIMP community discussion forums, IRC, Discord, and social
-- [GIMP - Bugs](https://www.gimp.org/bugs): Bug reporting and tracking via GNOME GitLab
-- [GIMP - Get Involved](https://www.gimp.org/develop): Contribute to GIMP: development, bug reporting, translation
-- [GIMP - Donate](https://www.gimp.org/donating): Support GIMP development via Patreon, Liberapay, GNOME
-- [GIMP - Contacting the Webmasters](https://www.gimp.org/webmasters.html): Contact webmasters for website issues and bug reporting
+## Contributing & Development
+- [Participate](https://www.gimp.org/develop/): Main contributor page for getting involved in development and project work.
+- [Bug Reports](https://www.gimp.org/bugs/): Entry point for filing issues and contributing through bug triage.
+- [Roadmap](https://developer.gimp.org/core/roadmap/): Development roadmap outlining planned work and future project direction.
+- [Discuss](https://www.gimp.org/discuss.html): Community channels useful for contributor coordination and support.
+- [GIMP's Team](https://www.gimp.org/team.html): Project team information relevant to governance and contributor context.
 
-## News & Development
+## Learning Resources
+- [Tutorials](https://www.gimp.org/tutorials/): Community-maintained tutorials covering tools, workflows, and creative techniques.
+- [Documentation](https://www.gimp.org/docs/): Official documentation for learning features and interface behavior.
+- [User FAQ](https://www.gimp.org/docs/userfaq.html): Answers to common beginner and advanced user questions.
+- [Books](https://www.gimp.org/books/): Recommended books for structured learning and reference.
+- [News](https://www.gimp.org/news/): Posts that often explain new features and workflow changes in releases.
 
-- [GIMP - News](https://www.gimp.org/news): GIMP news, releases, and announcements from the GIMP Team
-- [Roadmaps – GIMP Developer](https://developer.gimp.org/core/roadmap): GIMP development roadmap with feature priorities for v3.4
+## Project Information
+- [About GIMP](https://www.gimp.org/about/): Project overview, mission, and free software foundations.
+- [GIMP's Team](https://www.gimp.org/team.html): Information about the people behind the project.
+- [Roadmap](https://developer.gimp.org/core/roadmap/): Public planning page for upcoming development priorities.
+- [Release Notes](https://www.gimp.org/release-notes/): Historical record of version changes and feature evolution.
+- [GIMP News Feed](https://www.gimp.org/feeds/atom.xml): Machine-readable feed of project announcements.
 
-## Optional
+## Funding & Sponsorship
+- [Donate](https://www.gimp.org/donating/): Donation options for financially supporting GIMP development.
+- [Sponsors](https://www.gimp.org/donating/sponsors.html): Sponsor information and recognition for project supporters.
+- [Participate](https://www.gimp.org/develop/): Non-financial ways to support the project through contributions and involvement.
+- [About GIMP](https://www.gimp.org/about/): Context on the project and why community support matters.
 
-- [GIMP - GIMP 3.2 Release Notes](https://www.gimp.org/release-notes/gimp-3.2.html): GIMP 3.2 release notes with new features and improvements
-- [GIMP - GIMP Release Notes](https://www.gimp.org/release-notes): GIMP version history and release notes archive
+## Reference Links
+- [FAQ](https://www.gimp.org/docs/userfaq.html): Quick reference for common questions about GIMP.
+- [Release Notes](https://www.gimp.org/release-notes/): Version-by-version change history and release documentation.
+- [Bug Reports](https://www.gimp.org/bugs/): Reporting and tracking issues affecting GIMP.
+- [Discuss](https://www.gimp.org/discuss.html): Community support and discussion entry point.
+- [Contacting Us](https://www.gimp.org/webmasters.html): Website contact page for administrative communication.

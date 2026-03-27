@@ -1,54 +1,62 @@
 # Semantic Scholar
 
-> AI-powered academic research discovery platform providing intelligent paper search, citations, and developer APIs for scholarly data.
+> AI-powered scholarly search and discovery platform with paper, author, citation, and developer API access.
 
-Semantic Scholar, developed by the Allen Institute for AI (AI2), is a comprehensive research tool that combines advanced natural language processing with access to millions of academic papers. The platform offers both a user-friendly interface for researchers and a powerful REST API for developers to build applications on top of scholarly data.
+Semantic Scholar, from the Allen Institute for AI, helps researchers discover and understand scientific literature using machine learning, citation data, and structured scholarly metadata. The site combines a research interface for finding papers and authors with developer tools for accessing the Academic Graph API.
 
-## Key Topics
+## Core Platform
+- [Home](https://www.semanticscholar.org/): Main entry point for AI-powered search and discovery of scientific literature.
+- [Product](https://www.semanticscholar.org/product): Overview of Semantic Scholar features for finding, reading, and tracking research.
+- [Semantic Reader](https://www.semanticscholar.org/product/semantic-reader): Augmented reading experience for scientific papers with inline references and media.
+- [Scholar's Hub](https://www.semanticscholar.org/product/scholars-hub): Curated research discovery space for trending and notable scholarly papers.
+- [Tutorials](https://www.semanticscholar.org/product/tutorials): Product walkthroughs and videos for using Semantic Scholar effectively.
+- [Beta Program](https://www.semanticscholar.org/product/beta-program): Information about testing experimental Semantic Scholar features and updates.
 
-- Semantic Scholar
-- Semantic Reader
-- Academic Graph API
-- Paper Search
-- Research Discovery
-- Citations
-- REST API
-- Scholarly Data
-- AI-Powered Discovery
-- Academic Research
-- SPECTER2
-- Allen Institute for AI
-- Developer Tools
-- Citation Management
-- Connected Papers
+## Search and Discovery
+- [Search](https://www.semanticscholar.org/search): Search interface for papers, authors, topics, and research results.
+- [Research Feeds](https://www.semanticscholar.org/feed): Personalized feed of papers and recommendations based on interests.
+- [Author Profiles](https://www.semanticscholar.org/author): Entry point for browsing researcher profiles and publication records.
+- [Paper Pages](https://www.semanticscholar.org/paper): Canonical paper pages with abstracts, citations, references, and metadata.
+- [Topics](https://www.semanticscholar.org/topic): Topic pages for exploring research areas and related literature.
 
-## Core Products
+## API and Developer Docs
+- [API Overview](https://www.semanticscholar.org/product/api): Overview of the Semantic Scholar Academic Graph API and developer access.
+- [API Tutorial](https://www.semanticscholar.org/product/api/tutorial): Getting started guide for making requests to the Academic Graph API.
+- [API Gallery](https://www.semanticscholar.org/product/api/gallery): Examples and showcase of projects built with Semantic Scholar API data.
+- [API Documentation](https://api.semanticscholar.org/api-docs/graph): Reference documentation for Academic Graph API endpoints and schemas.
+- [API Docs Home](https://api.semanticscholar.org/api-docs/): Landing page for Semantic Scholar API documentation.
+- [API Status](https://status.api.semanticscholar.org/): Operational status and incident reporting for Semantic Scholar API services.
 
-- [Semantic Scholar | AI-Powered Research Tool](https://www.semanticscholar.org): Homepage for Semantic Scholar, AI-powered research discovery platform
-- [Semantic Scholar | Product](https://www.semanticscholar.org/product): Main product page featuring search, citations, and AI recommendations
-- [Semantic Scholar | Semantic Reader](https://www.semanticscholar.org/product/semantic-reader): AI-powered augmented scientific reading application from Semantic Scholar
-- [Scholar's Hub | Semantic Scholar](https://www.semanticscholar.org/product/scholars-hub): Scholar's Hub for trending papers and research discovery curation
+## API Reference
+- [Graph API](https://api.semanticscholar.org/api-docs/graph): Main reference for papers, authors, citations, and search endpoints.
+- [Datasets API](https://api.semanticscholar.org/api-docs/datasets): Reference for dataset release metadata and download-related endpoints.
+- [Recommendations API](https://api.semanticscholar.org/api-docs/recommendations): Reference for paper recommendation endpoints based on seed papers.
+- [API Introduction](https://api.semanticscholar.org/api-docs/graph#tag/Introduction): Introductory information, authentication, and usage basics.
+- [Paper Endpoints](https://api.semanticscholar.org/api-docs/graph#tag/Paper-Data): Reference for retrieving paper metadata and related entities.
+- [Author Endpoints](https://api.semanticscholar.org/api-docs/graph#tag/Author-Data): Reference for author profiles, publications, and author search.
+- [Dataset Releases](https://api.semanticscholar.org/api-docs/datasets#tag/Datasets): Reference for listing and accessing Semantic Scholar dataset releases.
 
-## API Reference & Developer Tools
+## Datasets and Research Data
+- [Datasets API](https://api.semanticscholar.org/api-docs/datasets): Programmatic access to Semantic Scholar dataset release information.
+- [S2AG](https://www.semanticscholar.org/product/api): Product page describing access to the Semantic Scholar Academic Graph.
+- [API Legal](https://api.semanticscholar.org/corpus/legal): Legal terms and usage information for corpus and API access.
+- [Open Data Access](https://api.semanticscholar.org/): Entry point for Semantic Scholar developer-facing API services.
 
-- [Semantic Scholar Academic Graph API | Semantic Scholar](https://www.semanticscholar.org/product/api): Overview of Semantic Scholar Academic Graph API for developers
-- [Tutorial | Semantic Scholar Academic Graph API](https://www.semanticscholar.org/product/api%2Ftutorial): Getting started guide for Semantic Scholar Academic Graph API
-- [Gallery | Semantic Scholar Academic Graph API](https://www.semanticscholar.org/product/api%2Fgallery): Gallery of API use cases and developer projects using Semantic Scholar
-- [Semantic Scholar Academic Graph API | Semantic Scholar](http://api.semanticscholar.org/corpus/legal): API legal and corpus documentation for Academic Graph
+## Help and Support
+- [FAQ](https://www.semanticscholar.org/faq): Frequently asked questions about accounts, search, papers, and platform behavior.
+- [API FAQ](https://www.semanticscholar.org/product/api): Common developer questions are addressed from the API overview page.
+- [Tutorials](https://www.semanticscholar.org/product/tutorials): Learning resources for using search, alerts, and reading features.
+- [Librarian Resources](https://www.semanticscholar.org/about/librarians): Information for librarians supporting researchers using Semantic Scholar.
 
-## Learning & Support
+## About Semantic Scholar
+- [About](https://www.semanticscholar.org/about): Mission, background, and organizational context for Semantic Scholar and AI2.
+- [Careers](https://www.semanticscholar.org/about/careers): Employment opportunities related to Semantic Scholar and its parent organization.
+- [Publishers](https://www.semanticscholar.org/about/publishers): Information for publishing partners and content relationships.
+- [Librarians](https://www.semanticscholar.org/about/librarians): Resources for libraries and institutions using Semantic Scholar.
+- [AI2](https://allenai.org/): Parent research institute behind Semantic Scholar and related AI projects.
 
-- [Semantic Scholar | Tutorials](https://www.semanticscholar.org/product/tutorials): Tutorial videos for using Semantic Scholar search and discovery
-- [Semantic Scholar | Frequently Asked Questions](https://www.semanticscholar.org/faq): FAQ addressing common questions about Semantic Scholar and API
-- [Semantic Scholar | Beta Program](https://www.semanticscholar.org/product/beta-program): Beta program for testing new Semantic Scholar features and UX
-- [Semantic Scholar | Librarian Resources](https://www.semanticscholar.org/about/librarians): Resources for librarians on institutional access and research tools
-
-## About & Partnerships
-
-- [Semantic Scholar | About Us](https://www.semanticscholar.org/about): About page describing Semantic Scholar mission and AI2 organization
-- [Semantic Scholar | Publishers](https://www.semanticscholar.org/about/publishers): Publisher partnership program information for content integration
-
-## Optional
-
-- [Release Notes | Semantic Scholar](https://www.semanticscholar.org/product/release-notes): Changelog documenting feature releases and product improvements
-- [License Agreement | Semantic Scholar Academic Graph API](https://www.semanticscholar.org/product/api/license): Legal license agreement and terms for API usage
+## Policies and Legal
+- [Terms of Service](https://www.semanticscholar.org/terms): Terms governing use of the Semantic Scholar website and services.
+- [Privacy Policy](https://www.semanticscholar.org/privacy): Privacy practices for accounts, usage data, and platform interactions.
+- [API Legal](https://api.semanticscholar.org/corpus/legal): Legal terms specific to API and corpus access.
+- [Cookie Policy](https://www.semanticscholar.org/privacy): Privacy page covering data and cookie-related practices.

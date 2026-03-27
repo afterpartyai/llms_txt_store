@@ -1,58 +1,97 @@
 # Trading Economics
+> Global economic indicators, market data, calendars, news, charts, and forecasts for 196 countries.
 
-> > Trading Economics provides comprehensive economic data, market indicators, and forecasts covering stock indices, government bonds, commodities, currencies, and energy markets worldwide.
+Trading Economics provides access to more than 20 million economic indicators, historical series, market prices, country data, and forecasts across macroeconomics, financial markets, and commodities. The platform combines country pages, indicator databases, market quotes, economic calendars, and API access for research, analysis, and application development.
 
-The platform offers real-time quotes, historical charts, and analytical data for global financial markets, including specialized coverage of natural gas infrastructure, agricultural commodities, and emerging market securities. Data spans major economies and currencies (USD, EUR, GBP, JPY, CNY, AUD) with particular focus on geopolitical impacts from regions like the Strait of Hormuz, Iran, Russia, and Ukraine.
+## Core Data & Navigation
+- [Calendar](https://tradingeconomics.com/calendar): Economic calendar with upcoming releases, events, consensus, previous values, and importance levels.
+- [News Stream](https://tradingeconomics.com/stream): Real-time economic and market news covering countries, indicators, and asset classes.
+- [Indicators](https://tradingeconomics.com/indicators): Directory of macroeconomic indicators by topic, country, and category.
+- [Countries](https://tradingeconomics.com/countries): Browse country pages with indicators, forecasts, news, and market data.
+- [Markets](https://tradingeconomics.com/markets): Overview of global financial markets, prices, performance, and asset classes.
+- [Forecasts](https://tradingeconomics.com/forecasts): Country-level economic forecasts across key macroeconomic indicators.
 
-## Key Topics
+## Markets
+- [Commodities](https://tradingeconomics.com/commodities): Commodity prices, performance, charts, and market summaries across energy, metals, and agriculture.
+- [Indexes](https://tradingeconomics.com/stocks): Global stock market indexes with quotes, historical data, and performance tables.
+- [Shares](https://tradingeconomics.com/shares): Equity market coverage with company shares, prices, and market performance.
+- [Currencies](https://tradingeconomics.com/currencies): Foreign exchange rates, currency performance, and historical market charts.
+- [Crypto](https://tradingeconomics.com/crypto): Cryptocurrency prices, market capitalization, and historical performance data.
+- [Bonds](https://tradingeconomics.com/bonds): Government bond yields and sovereign debt market data across countries.
+- [Earnings](https://tradingeconomics.com/earnings): Corporate earnings calendar with reporting dates and market expectations.
 
-- Stock market indices and equity data
-- Government bond yields (10-year benchmarks)
-- Commodity prices (energy, agriculture, freight)
-- Currency exchange rates and forex
-- Natural gas storage and inventory (TWh, GWh/d)
-- Historical market data and forecasts
-- European Central Bank (ECB) policy
-- Geopolitical risk factors (Iran, Russia, Ukraine, Strait of Hormuz)
-- Energy market infrastructure
-- Emerging market securities
-- Credit ratings (Fitch, Moody's)
-- Agricultural commodity trading
-- Shipping and freight indices
-- Gas Infrastructure Europe data
-- Market volatility and crisis impacts
+## Forecasts
+- [Country Forecasts](https://tradingeconomics.com/forecasts): Forecast tables for GDP, inflation, interest rates, unemployment, and other macro indicators.
+- [Commodity Forecasts](https://tradingeconomics.com/forecast/commodity): Forecasts for commodity prices across energy, metals, and agricultural products.
+- [Stock Market Forecasts](https://tradingeconomics.com/forecast/stock-market): Forecasts for major stock market indexes by country and region.
+- [Currency Forecasts](https://tradingeconomics.com/forecast/currency): Exchange rate forecasts for major and emerging market currencies.
+- [Crypto Forecasts](https://tradingeconomics.com/forecast/crypto): Cryptocurrency price forecasts for major digital assets.
+- [Government Bond Forecasts](https://tradingeconomics.com/forecast/government-bond-10y): Forecasts for 10-year government bond yields across countries.
 
-## Stock Market Indices
+## Indicator Categories
+- [GDP](https://tradingeconomics.com/country-list/gdp): GDP levels and growth data across countries and regions.
+- [Inflation Rate](https://tradingeconomics.com/country-list/inflation-rate): Consumer inflation rates with country comparisons and historical values.
+- [Interest Rate](https://tradingeconomics.com/country-list/interest-rate): Central bank policy rates and benchmark interest rates by country.
+- [Unemployment Rate](https://tradingeconomics.com/country-list/unemployment-rate): Labor market unemployment rates across countries and regions.
+- [Balance of Trade](https://tradingeconomics.com/country-list/balance-of-trade): Trade balance data with country rankings and historical series.
+- [Current Account](https://tradingeconomics.com/country-list/current-account): Current account balances and external sector comparisons by country.
+- [Government Debt to GDP](https://tradingeconomics.com/country-list/government-debt-to-gdp): Public debt ratios for sovereign fiscal analysis.
+- [Population](https://tradingeconomics.com/country-list/population): Population statistics and demographic comparisons across countries.
 
-- [China Shanghai Composite Stock Market Index](https://tradingeconomics.com/china/stock-market): China Shanghai Composite index quotes, historical data & market analysis
-- [Taiwan Stock Market Index (TWSE)](https://tradingeconomics.com/taiwan/stock-market): Taiwan TWSE/TAIEX stock index quotes with historical market data
-- [Lithuania Stock Market Index (Vilnius)](https://tradingeconomics.com/lithuania/stock-market): Lithuania Vilnius stock index data, quotes, charts & forecasts
-- [Ukraine Stock Market (PFTS)](https://tradingeconomics.com/ukraine/stock-market): Ukraine PFTS stock market index quotes, charts & historical performance
-- [Laos Securities Exchange Composite Index](https://tradingeconomics.com/laos/stock-market): Laos LSX Composite stock index with Southeast Asia market data
+## Country Pages
+- [United States](https://tradingeconomics.com/united-states/indicators): US indicators, forecasts, news, and market data.
+- [Euro Area](https://tradingeconomics.com/euro-area/indicators): Euro Area macro indicators, releases, and regional forecasts.
+- [China](https://tradingeconomics.com/china/indicators): China economic indicators, market data, and forecasts.
+- [Japan](https://tradingeconomics.com/japan/indicators): Japan macroeconomic data, releases, and market indicators.
+- [United Kingdom](https://tradingeconomics.com/united-kingdom/indicators): UK indicators, forecasts, and economic calendar coverage.
+- [India](https://tradingeconomics.com/india/indicators): India economic data, forecasts, and market-related indicators.
+- [Brazil](https://tradingeconomics.com/brazil/indicators): Brazil macroeconomic indicators, forecasts, and country news.
+- [Germany](https://tradingeconomics.com/germany/indicators): Germany indicators, releases, and market-linked economic data.
 
-## Government Bond Markets
+## Country Market Examples
+- [United States Stock Market](https://tradingeconomics.com/united-states/stock-market): US stock index quotes, charts, historical data, and forecasts.
+- [United States Government Bond Yield](https://tradingeconomics.com/united-states/government-bond-yield): US sovereign bond yield data with historical series and outlook.
+- [Euro Area Interest Rate](https://tradingeconomics.com/euro-area/interest-rate): ECB benchmark rate data, history, and forecasts.
+- [China GDP Growth Rate](https://tradingeconomics.com/china/gdp-growth): China quarterly GDP growth data and historical trends.
+- [Japan Inflation Rate](https://tradingeconomics.com/japan/inflation-cpi): Japan CPI inflation data, charts, and forecasts.
+- [United Kingdom Unemployment Rate](https://tradingeconomics.com/united-kingdom/unemployment-rate): UK unemployment data with historical values and outlook.
+- [India Industrial Production](https://tradingeconomics.com/india/industrial-production): India industrial output data, charts, and forecast information.
+- [Brazil Interest Rate](https://tradingeconomics.com/brazil/interest-rate): Brazil policy rate data with historical series and forecasts.
 
-- [France 10-Year Government Bond Yield](https://tradingeconomics.com/france/government-bond-yield): France 10-year government bond yield data with ECB policy context
-- [Spain 10-Year Government Bond Yield](https://tradingeconomics.com/spain/government-bond-yield): Spain 10-year bond yield quotes with historical market data
-- [Russia 10-Year Government Bond Yield](https://tradingeconomics.com/russia/government-bond-yield): Russia 10-year bond yield quotes with historical market trends
-- [Malaysia 10-Year Government Bond Yield](https://tradingeconomics.com/malaysia/government-bond-yield): Malaysia 10-year government bond yield data & forecasts
-- [Peru 10-Year Government Bond Yield](https://tradingeconomics.com/peru/government-bond-yield): Peru 10-year government bond yield with Fitch rating context
+## Commodities
+- [Crude Oil](https://tradingeconomics.com/commodity/crude-oil): Crude oil price quotes, charts, historical data, and forecasts.
+- [Brent Crude Oil](https://tradingeconomics.com/commodity/brent-crude-oil): Brent benchmark oil prices with market performance and outlook.
+- [Natural Gas](https://tradingeconomics.com/commodity/natural-gas): Natural gas prices, charts, historical series, and forecasts.
+- [Gold](https://tradingeconomics.com/commodity/gold): Gold spot price data, charts, and market forecasts.
+- [Silver](https://tradingeconomics.com/commodity/silver): Silver prices with historical performance and forecast data.
+- [Copper](https://tradingeconomics.com/commodity/copper): Copper market prices, charts, and industrial commodity outlook.
+- [Wheat](https://tradingeconomics.com/commodity/wheat): Wheat prices with agricultural market history and forecasts.
+- [Coffee](https://tradingeconomics.com/commodity/coffee): Coffee commodity prices, charts, and historical performance.
 
-## Energy and Natural Gas Markets
+## Currencies, Crypto, and Bonds
+- [EURUSD](https://tradingeconomics.com/eurusd:cur): Euro to US dollar exchange rate quote and chart.
+- [GBPUSD](https://tradingeconomics.com/gbpusd:cur): British pound to US dollar exchange rate data.
+- [USDJPY](https://tradingeconomics.com/usdjpy:cur): US dollar to Japanese yen forex quote and history.
+- [Bitcoin](https://tradingeconomics.com/btcusd:cur): Bitcoin price in US dollars with chart and market data.
+- [Ethereum](https://tradingeconomics.com/ethusd:cur): Ethereum price data, historical performance, and charting.
+- [US 10Y Bond](https://tradingeconomics.com/united-states/government-bond-yield): US 10-year government bond yield series and forecasts.
+- [Germany 10Y Bond](https://tradingeconomics.com/germany/government-bond-yield): Germany sovereign bond yield data and historical trends.
+- [Japan 10Y Bond](https://tradingeconomics.com/japan/government-bond-yield): Japan government bond yield data with charts and outlook.
 
-- [Gasoline Prices](https://tradingeconomics.com/commodity/gasoline): Gasoline commodity prices in USD/Gal with Middle East crisis impact
-- [Germany Natural Gas THE](https://tradingeconomics.com/commodity/germany-natural-gas-the): German natural gas THE prices in EUR/MWh with market forecasts
-- [Germany Natural Gas Stocks Withdrawal](https://tradingeconomics.com/germany/natural-gas-stocks-withdrawal): Germany natural gas withdrawal rates in GWh/d from storage facilities
-- [Slovakia Natural Gas Stocks Inventory](https://tradingeconomics.com/slovakia/natural-gas-stocks-inventory): Slovakia natural gas storage inventory data in TWh from Gas Infrastructure
-- [Denmark Natural Gas Stocks Inventory](https://tradingeconomics.com/denmark/natural-gas-stocks-inventory): Denmark natural gas inventory levels in TWh from Gas Infrastructure
+## News & Calendar Coverage
+- [Latest News](https://tradingeconomics.com/stream): Continuously updated economic and market headlines from around the world.
+- [United States Calendar](https://tradingeconomics.com/united-states/calendar): US economic releases, events, and scheduled announcements.
+- [Euro Area Calendar](https://tradingeconomics.com/euro-area/calendar): Euro Area economic calendar with releases and consensus estimates.
+- [China Calendar](https://tradingeconomics.com/china/calendar): China economic events and data release schedule.
+- [Japan Calendar](https://tradingeconomics.com/japan/calendar): Japan calendar of macroeconomic releases and events.
+- [United Kingdom Calendar](https://tradingeconomics.com/united-kingdom/calendar): UK economic calendar with upcoming data and announcements.
 
-## Commodity Markets
-
-- [Rapeseed Oil](https://tradingeconomics.com/commodity/rapeseed-oil): Rapeseed oil commodity prices in EUR/T with historical charts & forecasts
-- [Containerized Freight Index](https://tradingeconomics.com/commodity/containerized-freight-index): Containerized freight shipping index prices & historical trading data
-- [Wool Prices](https://tradingeconomics.com/commodity/wool): Wool commodity prices in AUD/100Kg with trading charts & forecasts
-
-## Currency Exchange Rates
-
-- [Vietnamese Dong](https://tradingeconomics.com/vietnam/currency): Vietnamese Dong USD/VND forex rates with exchange rate charts
-- [Nepalese Rupee](https://tradingeconomics.com/nepal/currency): Nepalese Rupee USD/NPR exchange rates with forex historical data
+## API & Developer Resources
+- [API](https://api.tradingeconomics.com): Trading Economics API endpoint for programmatic access to data and forecasts.
+- [API Documentation](https://docs.tradingeconomics.com): Documentation for authentication, endpoints, parameters, and response formats.
+- [Indicators API](https://docs.tradingeconomics.com/indicators/): API reference for retrieving economic indicators and historical series.
+- [Calendar API](https://docs.tradingeconomics.com/calendar/): API reference for economic calendar events and release schedules.
+- [Markets API](https://docs.tradingeconomics.com/markets/): API reference for market quotes, commodities, currencies, and bonds.
+- [Forecast API](https://docs.tradingeconomics.com/forecast/): API reference for country and market forecast data.
+- [News API](https://docs.tradingeconomics.com/news/): API reference for accessing economic and market news feeds.
+- [Client Libraries](https://docs.tradingeconomics.com/libraries/): Official and community libraries for integrating Trading Economics data.

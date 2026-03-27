@@ -1,33 +1,71 @@
 # Letterboxd
+> Social film discovery and diary platform for logging, rating, reviewing, and sharing movies.
 
-> > A social platform for movie tracking, film reviews, and discovering cinema through community-driven lists and diaries.
+Letterboxd helps people track what they watch, keep watchlists, write reviews, build lists, and follow other film fans. The site combines a large film database with social features, editorial content, and account tools for managing your viewing history.
 
-Letterboxd is a social network for film enthusiasts to log, rate, and review movies while connecting with other cinephiles. The platform offers mobile apps for iPhone, iPad, Android, and Apple TV, enabling users to maintain film diaries, create watchlists, and explore curated content across all genres from psychological thrillers to supernatural horror.
+## Core Platform
+- [Letterboxd Home](https://letterboxd.com/): Main entry point for film discovery, activity feeds, and account access.
+- [Sign In](https://letterboxd.com/sign-in/): Log in to access your diary, watchlist, lists, and social activity.
+- [Create Account](https://letterboxd.com/join/): Register a new account to log films and follow other members.
+- [Apps](https://letterboxd.com/apps/): Download official Letterboxd apps for mobile and TV platforms.
+- [About Letterboxd](https://letterboxd.com/about/): Overview of the platform, community, and core film-tracking features.
+- [Year in Review](https://letterboxd.com/year-in-review/): Personalized annual summary of viewing, ratings, and activity.
 
-## Key Topics
+## Films and Discovery
+- [Popular Films](https://letterboxd.com/films/popular/): Browse films currently popular across the Letterboxd community.
+- [Newly Released](https://letterboxd.com/films/new/): Discover recently released films being logged and discussed.
+- [Coming Soon](https://letterboxd.com/films/coming-soon/): Explore upcoming releases with pages and community interest.
+- [Top 250 Narrative Features](https://letterboxd.com/dave/list/official-top-250-narrative-feature-films/): Canonical community-ranked list of top-rated narrative feature films.
+- [Top 250 Documentaries](https://letterboxd.com/dave/list/official-top-250-documentary-films/): Community-ranked list of the highest-rated documentary films.
+- [Top 250 Horror](https://letterboxd.com/darrencb/list/letterboxds-top-250-horror-films/): Popular community list highlighting top-rated horror films on Letterboxd.
 
-- Film reviews and ratings
-- Movie tracking and film diary
-- Social platform for cinephiles
-- Mobile apps (iOS and Android)
-- Watchlists and collections
-- Film discovery and recommendations
-- User-generated content
-- Genre exploration (thriller, horror, drama)
-- Director and cast information
-- Community-driven lists
-- App Store and Play Store availability
-- Apple TV integration
-- Film database
-- Movie social networking
+## Member Activity
+- [Members](https://letterboxd.com/members/): Browse Letterboxd users and discover active film diarists and reviewers.
+- [Popular Reviews](https://letterboxd.com/reviews/popular/): Read reviews currently receiving strong community engagement.
+- [Recent Reviews](https://letterboxd.com/reviews/): Follow the latest reviews posted by Letterboxd members.
+- [Popular Lists](https://letterboxd.com/lists/popular/): Explore widely followed and liked user-created film lists.
+- [Recent Stories](https://letterboxd.com/stories/): Read editorial and community stories published by Letterboxd.
+- [Journal](https://letterboxd.com/journal/): Official editorial hub for interviews, features, and platform news.
 
-## Mobile Apps & Platforms
+## Lists, Watchlists, and Diary
+- [Create a List](https://letterboxd.com/lists/): Entry point for browsing and creating film lists.
+- [Watchlist](https://letterboxd.com/films/watchlist/): View films saved by members for future watching.
+- [Diary](https://letterboxd.com/films/diary/): Access diary-based logging and chronological viewing activity.
+- [Tags](https://letterboxd.com/tags/): Browse tags applied to reviews, lists, and logged films.
+- [Collections](https://letterboxd.com/collections/): Explore grouped film collections and franchise-style sets.
 
-- [Letterboxd Apps](https://letterboxd.com/apps/): Download Letterboxd apps for iPhone, iPad, Android, and Apple TV platforms
+## Search and Browse
+- [Search](https://letterboxd.com/search/): Search for films, members, lists, reviews, and other site content.
+- [Films by Decade](https://letterboxd.com/films/decade/): Browse films organized by decade for historical discovery.
+- [Films by Year](https://letterboxd.com/films/year/): Explore film pages grouped by release year.
+- [Films by Genre](https://letterboxd.com/films/genre/): Discover films across genres such as drama, horror, and comedy.
+- [Films by Service](https://letterboxd.com/films/on/): Find films available on supported streaming services.
+- [Showdowns](https://letterboxd.com/showdown/): Participate in community voting matchups between films and related topics.
 
-## Film Database & Reviews
+## News and Editorial
+- [Journal Home](https://letterboxd.com/journal/): Official publication featuring essays, interviews, and announcements.
+- [Stories](https://letterboxd.com/stories/): Curated editorial stories and themed community features.
+- [News](https://letterboxd.com/journal/news/): Product updates, announcements, and company news from Letterboxd.
+- [Interviews](https://letterboxd.com/journal/interviews/): Conversations with filmmakers, actors, and notable film voices.
+- [Lists and Rankings](https://letterboxd.com/journal/lists/): Editorial list features and ranking-based film coverage.
 
-- [The Vanishing (2018)](https://letterboxd.com/film/the-vanishing-2018/): Film page for The Vanishing (2018) thriller about lighthouse keepers
-- [Insidious: The Bleeding World (2026)](https://letterboxd.com/film/insidious-the-bleeding-world/): Film page for Insidious: The Bleeding World (2026) horror franchise entry
-- [Horror Express (2025)](https://letterboxd.com/film/horror-express-2025/): Film page for Horror Express (2025) Korean found-footage horror film
-- [Secret Magic Control Agency 2 (2025)](https://letterboxd.com/film/secret-magic-control-agency-2/): Film page for Secret Magic Control Agency 2 (2025) animated sequel
+## Account and Membership
+- [Pro](https://letterboxd.com/pro/): Paid membership with enhanced stats, filters, and personalization features.
+- [Patron](https://letterboxd.com/patron/): Higher-tier membership with additional perks and support benefits.
+- [Gift Letterboxd](https://letterboxd.com/gift/): Purchase gift memberships for Pro or Patron subscriptions.
+- [Settings](https://letterboxd.com/settings/): Manage profile, privacy, notifications, and account preferences.
+- [Import and Export](https://letterboxd.com/settings/data/): Access account data tools for importing or exporting viewing history.
+
+## Help and Policies
+- [Help](https://letterboxd.com/help/): Support center for using Letterboxd features and resolving issues.
+- [Contact](https://letterboxd.com/contact/): Reach Letterboxd for support, feedback, or business inquiries.
+- [Terms of Use](https://letterboxd.com/legal/terms-of-use/): Legal terms governing use of the Letterboxd platform.
+- [Privacy Policy](https://letterboxd.com/legal/privacy-policy/): Details on data collection, privacy practices, and user rights.
+- [Content Policy](https://letterboxd.com/legal/content-policy/): Rules and moderation standards for reviews, lists, and member content.
+- [Cookies Policy](https://letterboxd.com/legal/cookies-policy/): Information about cookies and tracking technologies used on the site.
+
+## Developers and Integrations
+- [API](https://letterboxd.com/api-beta/): Information about Letterboxd’s API access and developer program.
+- [Apps](https://letterboxd.com/apps/): Official applications and supported platforms for using Letterboxd.
+- [Import from Services](https://letterboxd.com/settings/data/): Data tools for bringing watch history into your account.
+- [RSS Feeds](https://letterboxd.com/feeds/): Feed endpoints for following reviews, lists, and member activity.

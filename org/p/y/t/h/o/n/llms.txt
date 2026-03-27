@@ -1,46 +1,76 @@
 # Python.org
+> The official home of the Python Programming Language, with downloads, documentation, community resources, news, events, jobs, and PSF information.
 
-> The official home of the Python programming language, providing downloads, documentation, community resources, and governance through the Python Software Foundation.
+Python.org is the central hub for CPython releases, official documentation, getting-started materials, community programs, and governance through the Python Software Foundation.
 
-Python.org serves as the central hub for the Python programming community, offering official releases, comprehensive documentation, and information about the Python Software Foundation. The site connects millions of developers worldwide with resources for learning, contributing, and staying informed about Python's evolution.
+## Getting Started
+- [Getting Started](https://www.python.org/about/gettingstarted/): Introductory resources for learning Python, installing it, and writing first programs.
+- [About Python](https://www.python.org/about/): Overview of Python’s design, features, history, and ecosystem.
+- [Applications](https://www.python.org/about/apps/): Examples of real-world uses for Python across domains and industries.
+- [Help](https://www.python.org/about/help/): Official pointers to support channels, FAQs, and community help resources.
+- [Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide): Community-maintained guide for new Python users and programmers.
+- [Python Brochure](http://brochure.getpython.info/): Introductory brochure explaining Python’s benefits and common use cases.
 
-## Key Topics
+## Downloads & Releases
+- [Downloads](https://www.python.org/downloads/): Main download page for current Python releases and installers.
+- [All releases](https://www.python.org/downloads/): Official release listings for supported Python versions.
+- [Source code](https://www.python.org/downloads/source/): Source tarballs and release artifacts for CPython.
+- [Windows](https://www.python.org/downloads/windows/): Python installers, embeddable packages, and release files for Windows.
+- [macOS](https://www.python.org/downloads/macos/): Python installers and release files for macOS systems.
+- [Android](https://www.python.org/downloads/android/): Python release resources and packages for Android platforms.
+- [Other Platforms](https://www.python.org/download/other/): Download information for additional operating systems and environments.
+- [Alternative Implementations](https://www.python.org/download/alternatives): Links to non-CPython Python implementations and related runtimes.
 
-- Python
-- CPython
-- Python Software Foundation
-- Python 3.14.3
-- PyPI
-- Documentation
-- Open-source
-- Community
-- Release versions
-- Getting started
-- Web frameworks
-- GUI development
-- Events
-- Job board
-- Version management
+## Documentation
+- [Documentation](https://www.python.org/doc/): Portal to official Python documentation, guides, and reference materials.
+- [Docs](https://docs.python.org/): Official Python documentation site with tutorials, library reference, and language reference.
+- [Python 3 Documentation](https://docs.python.org/3/): Current Python 3 docs covering tutorial, library, and language reference.
+- [Tutorial](https://docs.python.org/3/tutorial/): Official tutorial for learning core Python concepts and syntax.
+- [Library Reference](https://docs.python.org/3/library/): Reference documentation for the Python standard library.
+- [Language Reference](https://docs.python.org/3/reference/): Formal reference for Python syntax, semantics, and language rules.
+- [Installing Python Modules](https://docs.python.org/3/installing/): Guide to installing and managing third-party Python packages.
+- [Audio/Visual Talks](https://www.python.org/doc/av): Collection of Python talks and audio/video learning resources.
 
-## Getting Started & Downloads
+## Developers & API Reference
+- [Python/C API Reference Manual](https://docs.python.org/3/c-api/): Reference for extending and embedding Python in C and C++.
+- [Extending and Embedding](https://docs.python.org/3/extending/): Guide to writing C extensions and embedding the interpreter.
+- [Python Setup and Usage](https://docs.python.org/3/using/): Platform-specific guidance for installing and running Python.
+- [Distributing Python Modules](https://docs.python.org/3/distributing/): Guidance on packaging and distributing Python libraries.
+- [What's New in Python 3](https://docs.python.org/3/whatsnew/): Release-by-release summaries of new language and library features.
+- [Python HOWTOs](https://docs.python.org/3/howto/): Task-focused guides for common Python programming topics.
+- [FAQs](https://docs.python.org/3/faq/): Frequently asked questions about Python usage and development.
 
-- [Download Python](https://www.python.org/downloads): Python release versions and download options for all platforms.
-- [Python Releases for Windows](https://www.python.org/downloads/windows): Python installers and releases for Windows platforms.
-- [Python Releases for macOS](https://www.python.org/downloads/macos): Python installers and releases for macOS platforms.
-- [Python Source Releases](https://www.python.org/downloads/source): Python source code releases for versions 3.12, 3.13, and 3.14.
-- [Python Releases for Android](https://www.python.org/downloads/android): Python releases and embeddable packages for Android platform.
-- [About Python](https://www.python.org/about): Introduction to Python language, applications, and open-source ecosystem.
+## Community
+- [Community](https://www.python.org/community/): Overview of the global Python community and participation resources.
+- [Python Software Foundation](https://www.python.org/psf/): Information about the PSF, its mission, and Python governance.
+- [Quotes](https://www.python.org/about/quotes/): Testimonials and endorsements from Python users and organizations.
+- [PyPI](https://pypi.org/): The Python Package Index for publishing and installing Python packages.
+- [Help](https://www.python.org/about/help/): Community support entry points for users seeking assistance.
+- [Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide): Community learning resources for people new to Python.
 
-## Documentation & Reference
+## Jobs & Opportunities
+- [Jobs](https://www.python.org/jobs/): Python job board with roles across software, data, infrastructure, and research.
+- [Submit a Job](https://www.python.org/community/jobs/howto/): Instructions for posting Python-related job openings.
+- [Success Stories](https://www.python.org/success-stories/): Case studies showing how organizations use Python in production.
 
-- [Official Python Documentation](https://docs.python.org): Official Python 3.14.3 documentation with language reference and API docs.
-- [History and License](https://docs.python.org/3/license.html): Python history from Guido van Rossum and licensing information.
+## News & Events
+- [Python Insider](https://blog.python.org/): Official Python blog with release announcements and project news.
+- [Latest News](https://www.python.org/blogs/): Aggregated news and updates from the Python ecosystem.
+- [Upcoming Events](https://www.python.org/events/): Calendar of Python conferences, meetups, and community events.
+- [Python Events Archive](https://www.python.org/events/python-events/): Listings of Python-specific events and conferences.
+- [User Group Events](https://www.python.org/events/python-user-group/): Community user group meetings and local Python gatherings.
 
-## Community & Events
+## Language, Governance & Legal
+- [License](https://docs.python.org/3/license.html): Python license terms, history, and legal information.
+- [History and License](https://docs.python.org/3/license.html): Background on Python’s licensing and development history.
+- [PEP Index](https://peps.python.org/): Python Enhancement Proposals defining language changes and standards.
+- [Python Developer’s Guide](https://devguide.python.org/): Contributor guide for CPython development workflow and processes.
+- [Developer Guide](https://www.python.org/dev/): Entry point to Python core development resources.
+- [PSF](https://www.python.org/psf/): Foundation information covering governance, membership, and stewardship.
 
-- [Our Community](https://www.python.org/community): Python community overview with channels, events, and diversity information.
-
-## Organization & Governance
-
-- [Welcome to Python.org](https://www.python.org): Official Python.org homepage with news, downloads, and community resources.
-- [Python Software Foundation](https://www.python.org/psf): Python Software Foundation overview, grants, membership, and sponsorship info.
+## Ecosystem & Package Publishing
+- [PyPI](https://pypi.org/): Official package index for discovering, publishing, and installing Python packages.
+- [Installing Python Modules](https://docs.python.org/3/installing/): Official packaging and installation guidance for end users.
+- [Distributing Python Modules](https://docs.python.org/3/distributing/): Official guidance for authors publishing Python packages.
+- [Package Index User Guide](https://packaging.python.org/): Python packaging documentation for building and publishing distributions.
+- [Python Packaging User Guide](https://packaging.python.org/): Best practices for packaging, distribution, and dependency management.

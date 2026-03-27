@@ -1,58 +1,73 @@
-# Target
+# Target.com
 
-> Target is a general merchandise retailer offering seasonal shopping, membership programs, product categories, and deals across apparel, home, toys, and more.
+> Target is a leading U.S. retailer offering affordable everyday essentials, seasonal merchandise, and curated brands. Guests can shop in-store, online, via Drive Up, Order Pickup, Same Day Delivery, and fast shipping.
 
-Target.com serves as the primary e-commerce platform for Target's 1800+ US locations, featuring integrated loyalty programs (Target Circle, Target Circle 360), seasonal shopping hubs, and a comprehensive product catalog. The site emphasizes membership benefits, same-day delivery options through partnerships, and curated seasonal collections.
+> Note: Target product pages follow the format /p/{product slug}/-/A-{TCIN}.
 
-## Key Topics
+> Note: Target category pages follow the format /c/{category name}/-/N-{category node ID}.
 
-- Target Circle
-- Target Circle 360
-- Target Circle Card
-- Membership rewards
-- Same-day delivery
-- Seasonal shopping
-- Easter shopping
-- Gift registry
-- Top deals
-- Product categories
-- Store locator
-- Discount offers
-- Family shopping
-- Holiday promotions
-- Target Circle Week
+> Note: Target browse pages follow the format /b/{browse name}/-/N-{browse node ID}.
 
-## Core Shopping & Homepage
+## Core Shopping Categories
+- [Toys](https://www.target.com/c/toys/-/N-5xtb0): Toys, games, puzzles, and outdoor play.
+- [Electronics](https://www.target.com/c/electronics/-/N-5xtg6): TVs, phones, laptops, and accessories.
+- [Baby](https://www.target.com/c/baby/-/N-5xtly): Baby gear, diapers, and clothing.
+- [Grocery](https://www.target.com/c/grocery/-/N-5xt1a): Food, beverages, and household staples.
+- [Clothing, Shoes & Accessories](https://www.target.com/c/clothing-shoes-accessories/-/N-rdihz): Apparel and footwear for the family.
+- [Home](https://www.target.com/c/home/-/N-5xtvd): Find everything you need for your home at Target. Shop decor, bedding, bath, and more to create a space you'll love.
+- [Furniture](https://www.target.com/c/furniture/-/N-5xtnr): Living room, bedroom, and office.
+- [Beauty](https://www.target.com/c/beauty/-/N-55r1x): Skincare, cosmetics, and haircare.
+- [Personal Care](https://www.target.com/c/personal-care/-/N-5xtzq): Everyday hygiene and self-care.
+- [Health](https://www.target.com/c/health/-/N-5xu1n): Pharmacy, wellness, and medical supplies.
+- [Household Essentials](https://www.target.com/c/household-essentials/-/N-5xsz1): Cleaning supplies, paper products, and storage.
+- [Kitchen & Dining](https://www.target.com/c/kitchen-dining/-/N-hz89j): Cookware, dinnerware, and appliances.
+- [Party Supplies](https://www.target.com/c/party-supplies/-/N-5xt3c): Party dÃÂ©cor and tableware.
+- [Sports & Outdoors](https://www.target.com/c/sports-outdoors/-/N-5xt85): Fitness, sporting goods, and outdoor gear.
+- [Movies, Music & Books](https://www.target.com/c/movies-music-books/-/N-5xsxe): Entertainment media.
+- [Arts, Crafts & Sewing](https://www.target.com/c/arts-crafts-sewing-home/-/N-5xt4g): Creative and hobby supplies.
+- [Luggage](https://www.target.com/c/luggage/-/N-5xtz1): Suitcases, carry-ons, and travel bags.
+- [School & Office Supplies](https://www.target.com/c/school-office-supplies/-/N-5xsxr): Stationery, backpacks, and planners.
+- [Top Deals](https://www.target.com/c/top-deals/-/N-4xw74): Current promotions and savings.
+- [Clearance](https://www.target.com/c/clearance/-/N-5q0ga): Discounted items across categories.
+- [Shop All Categories](https://www.target.com/c/shop-all-categories/-/N-5xsxf): Explore all product categories.
 
-- [Target : Expect More. Pay Less.](https://www.target.com): Target homepage with seasonal shopping, membership programs, and product categories.
-- [Shop All Categories : Target](https://www.target.com/c/shop-all-categories/-/N-5xsxf): Target product catalog and category navigation for all merchandise.
-- [Top Deals at Target](https://www.target.com/c/top-deals/-/N-4xw74): Target top deals and promotions across toys, electronics, and home decor.
+## Services & Fulfillment
+- [Drive Up](https://www.target.com/c/drive-up/-/N-9d42z): Curbside pickup service.
+- [Order Pickup](https://www.target.com/c/order-pickup/-/N-ng0a0): Buy online, pick up in store.
+- [Same Day Delivery](https://www.target.com/c/same-day-delivery/-/N-bswkz): Delivered to your door with Shipt.
+- [Free 2-Day Shipping](https://www.target.com/c/free-2-day-shipping/-/N-49cz6): Fast, free shipping on eligible items.
+- [Shipping & Order Services](https://www.target.com/c/shipping-order-services/-/N-551st): Overview of shipping, delivery, and pickup.
+- [Services](https://www.target.com/c/services/-/N-oq1wk): Pharmacy, optical, photo, and more.
+- [Target Circle](https://www.target.com/l/target-circle/-/N-pzno9): Free loyalty program.
+- [Target Circle 360](https://www.target.com/l/target-circle-360/-/N-2rguk): Paid membership with enhanced benefits.
+- [Target Circle Card](https://www.target.com/circlecard): RedCard program.
+- [Gift Registry](https://www.target.com/gift-registry): Create or shop registries.
+- [Returns](https://www.target.com/returns): Return options and policies.
+- [Find Stores](https://www.target.com/store-locator/find-stores): Search Target store locations by city, state, or ZIP.
 
-## Membership & Loyalty Programs
-
-- [Target Circle™](https://www.target.com/circle): Target Circle membership program with rewards, loyalty benefits, and enrollment.
-- [Target Circle™️ Card: Save 5% at Target](https://www.target.com/circlecard): Target Circle Card product page with 5% savings and credit card benefits.
-- [Target Circle 360™ : Target](https://www.target.com/l/target-circle-360/-/N-2rguk): Target Circle 360 premium membership with same-day delivery and Shipt benefits.
-
-## Seasonal & Holiday Shopping
-
-- [Easter 2026 : Target](https://www.target.com/c/easter/-/N-5xt1n): Easter seasonal shopping hub with decorations, treats, and gift ideas.
-- [Easter Candy | Chocolate, Jelly Beans & Basket Treats](https://www.target.com/c/easter-candy/-/N-55910): Easter candy selection including chocolate, jelly beans, and basket treats.
-- [Easter Decorations : Target](https://www.target.com/c/easter-decorations/-/N-4uswe): Easter decorations including wreaths, table decor, and spring yard items.
-- [Easter Outfits : Shop Stylish Looks | Target](https://www.target.com/c/easter-outfits/-/N-4xwcj): Easter clothing and spring fashion for families including dresses and suits.
-- [Easter Basket Ideas 2026 : Target](https://www.target.com/c/easter-basket-ideas/-/N-ovmzr): Easter basket gift guide with candy, toys, books, and small gifts.
-
-## Easter Specialty Items
-
-- [Easter Egg Fillers : Target](https://www.target.com/c/easter-egg-fillers/-/N-41076): Easter egg fillers including toys, stickers, and candy options.
-- [Easter Stuffed Animals : Target](https://www.target.com/c/easter-stuffed-animals/-/N-a7rre): Easter stuffed animals including Squishmallows and plush toy options.
-- [$5 & Under Easter Finds : Target](https://www.target.com/c/-5-under-easter-finds/-/N-ttl9r): Budget-friendly Easter finds under $5 with seasonal deals and gift ideas.
-
-## Customer Services & Tools
-
-- [Gift Registry & Wish lists : Target](https://www.target.com/gift-registry): Gift registry and wish list creation for weddings, baby, and special occasions.
-- [Stores Near Me : Target](https://www.target.com/store-locator/find-stores): Target store locator with hours, directions, and 1800+ locations across US.
+## Owned Brands (Phase 1)
+- [Cat & Jack](https://www.target.com/b/cat-jack/-/N-qqqgm): KidsÃ¢â¬â¢ clothing and school essentials.
+- [A New Day](https://www.target.com/b/a-new-day/-/N-xrye7): WomenÃ¢â¬â¢s apparel and accessories.
+- [Art Class](https://www.target.com/b/art-class/-/N-holui): KidsÃ¢â¬â¢ and teensÃ¢â¬â¢ apparel.
+- [Universal Thread](https://www.target.com/b/universal-thread/-/N-1vs54): WomenÃ¢â¬â¢s denim and casual apparel.
+- [Threshold](https://www.target.com/b/threshold/-/N-56dig): Furniture and home dÃÂ©cor.
+- [up&up](https://www.target.com/b/up/-/N-q643lepiiob): Household and everyday essentials.
+- [Market Pantry](https://www.target.com/b/market-pantry/-/N-85ceg): Grocery staples.
+- [Good & Gather](https://www.target.com/b/good-gather/-/N-yfqzk): Food and beverage brand.
+- [Room Essentials](https://www.target.com/b/room-essentials/-/N-5y3a8): Affordable furniture and basics.
+- [Everspring](https://www.target.com/b/everspring/-/N-gl7n0): Eco-friendly cleaning and household items.
+- [Hyde & EEK! Boutique](https://www.target.com/b/hyde-and-eek-boutique/-/N-q643leo4u2a): Halloween dÃÂ©cor, costumes, and seasonal items.
+- [All in Motion](https://www.target.com/b/all-in-motion/-/N-q643lerbxbq): Activewear and fitness gear.
 
 ## Optional
+- [Corporate Home](https://corporate.target.com/): Corporate site.
+- [About Target](https://corporate.target.com/about): Company overview.
+- [News & Features](https://corporate.target.com/news-features): Latest press releases and stories.
+- [Target Brands](https://corporate.target.com/about/products-services/target-brands): Full owned brands portfolio.
+- [Products & Services](https://corporate.target.com/about/products-services): Retail categories and guest services.
+- [Investors](https://corporate.target.com/investors): Financial reports and stock information.
 
-- [Easter Crafts](https://www.target.com/c/easter-crafts/-/N-yz6n8): DIY Easter craft ideas and supplies for kids' activities and decorations.
+## Optional (Seasonal & Inspiration)
+- [Holiday Shop](https://www.target.com/c/holiday-shop/-/N-4ydi5): Seasonal dÃÂ©cor and gifts.
+- [Halloween](https://www.target.com/c/halloween/-/N-5xt2o): Costumes, candy, and party supplies.
+- [Gift Ideas](https://www.target.com/c/gift-ideas/-/N-96d2i): Curated gift collections for every occasion.

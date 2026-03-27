@@ -1,44 +1,77 @@
 # PyPI · The Python Package Index
 
-> PyPI is the official Python package repository, hosting millions of open-source packages and enabling secure distribution and installation of Python software.
+> The Python Package Index (PyPI) is the official repository for Python packages, supporting package discovery, installation, and publishing.
 
-PyPI (Python Package Index) serves as the central hub for Python package discovery, distribution, and management. Maintained by the Python Software Foundation and supported by the Python Packaging Authority (pypa), PyPI provides essential infrastructure for the Python ecosystem including package publishing, installation via pip, security features like Trusted Publishers and two-factor authentication, and comprehensive documentation for developers.
+PyPI is the central package index for the Python ecosystem. It provides package hosting and distribution, account and project management, security features for maintainers, and documentation for users, publishers, and contributors. Core PyPI operations are implemented in the Warehouse codebase and supported by the Python Software Foundation and the Python Packaging Authority.
 
-## Key Topics
+## Core PyPI
+- [PyPI Home](https://pypi.org/): Main entry point for finding, installing, and publishing Python packages.
+- [Help](https://pypi.org/help/): Frequently asked questions and support information for common PyPI tasks.
+- [Statistics](https://pypi.org/stats/): Repository-wide package and release statistics for PyPI.
+- [Sponsors](https://pypi.org/sponsors/): Information about organizations supporting PyPI infrastructure and operations.
+- [Security](https://pypi.org/security/): Security reporting guidance and vulnerability disclosure information.
+- [Trademarks](https://pypi.org/trademarks/): PyPI logos, trademark usage guidance, and branding information.
 
-- Python packages
-- package repository
-- package publishing
-- pip
-- software distribution
-- API tokens
-- Trusted Publishers
-- two-factor authentication
-- account management
-- package installation
-- Python ecosystem
-- Warehouse
-- project administration
-- security
-- Python Software Foundation
+## User Accounts
+- [Register](https://pypi.org/account/register/): Create a new PyPI account for publishing and project management.
+- [Log in](https://pypi.org/account/login/?next=https%3A%2F%2Fpypi.org%2F): Sign in to an existing PyPI account.
+- [Help: Account recovery](https://pypi.org/help/#account-recovery): Guidance for recovering access to a PyPI account.
+- [Help: Two-factor authentication](https://pypi.org/help/#twofa): Overview of two-factor authentication options and setup.
+- [Help: API tokens](https://pypi.org/help/#apitoken): Information about creating and using PyPI API tokens.
+- [Help: Verified details](https://pypi.org/help/#verified-details): Explanation of verified project and organization details on PyPI.
 
-## Getting Started & Core Resources
+## Package Installation & Usage
+- [Installing packages](https://packaging.python.org/tutorials/installing-packages/): Tutorial for installing Python packages with pip and related tools.
+- [Python Packaging User Guide](https://packaging.python.org/): Central guide to Python packaging standards, tools, and workflows.
+- [Package index interfaces](https://packaging.python.org/specifications/simple-repository-api/): Specification for the simple repository API used by installers.
+- [Package formats](https://packaging.python.org/en/latest/specifications/binary-distribution-format/): Reference for Python package distribution formats such as wheels.
+- [Version specifiers](https://packaging.python.org/en/latest/specifications/version-specifiers/): Specification for dependency version constraints in Python packaging.
+- [Dependency specifiers](https://packaging.python.org/en/latest/specifications/dependency-specifiers/): Reference for declaring package dependencies and environment markers.
 
-- [PyPI Homepage](https://pypi.org): PyPI homepage - the official Python package repository and distribution platform
-- [PyPI Documentation](https://docs.pypi.org): Official PyPI documentation including guides, getting started, and contributing
-- [Help Center](https://pypi.org/help): PyPI help center covering account management, authentication, and publishing
+## Publishing Packages
+- [Packaging Python Projects](https://packaging.python.org/tutorials/packaging-projects/): Step-by-step tutorial for building and uploading a Python package.
+- [PyPI Docs](https://docs.pypi.org/): Official documentation for publishing, managing, and securing projects on PyPI.
+- [Uploading via Twine](https://packaging.python.org/en/latest/tutorials/packaging-projects/): Tutorial covering package build and upload workflow.
+- [Project name retention](https://www.python.org/dev/peps/pep-0541/): Policy for invalid, abandoned, and disputed package names on PyPI.
+- [Help: File formats](https://pypi.org/help/#file-formats): Supported distribution file formats accepted by PyPI.
+- [Help: Yanking](https://pypi.org/help/#yanked): Explanation of yanked releases and installer behavior.
 
-## Security & Account Management
+## PyPI Documentation
+- [PyPI Docs Home](https://docs.pypi.org/): Documentation hub for PyPI users, publishers, and integrators.
+- [Overview](https://docs.pypi.org/overview/): High-level introduction to PyPI concepts, roles, and platform scope.
+- [Using PyPI](https://docs.pypi.org/using-pypi/): Documentation for navigating and interacting with PyPI as a user.
+- [Managing projects](https://docs.pypi.org/project-management/): Guides for maintainers managing project settings, roles, and releases.
+- [APIs and datasets](https://docs.pypi.org/api/): Reference for PyPI APIs, feeds, and public data interfaces.
+- [Digital attestations](https://docs.pypi.org/attestations/): Documentation for PyPI support for package attestations and provenance.
 
-- [Security Policy](https://pypi.org/security): PyPI security policy and vulnerability disclosure procedures
+## Security for Maintainers
+- [PyPI Security Model and Considerations](https://docs.pypi.org/security/): Security guidance for maintainers and PyPI platform protections.
+- [API tokens](https://docs.pypi.org/api/tokens/): How to create, scope, and use API tokens securely.
+- [Trusted Publishers](https://docs.pypi.org/trusted-publishers/): Configure trusted publishing from supported CI and repository providers.
+- [Two-factor authentication](https://docs.pypi.org/security/two-factor-authentication/): Setup and usage guidance for 2FA on PyPI accounts.
+- [Audit trail](https://docs.pypi.org/project-management/audit-trail/): Review account and project security-relevant events.
+- [Reporting a security issue](https://pypi.org/security/): Instructions for privately disclosing PyPI security vulnerabilities.
 
-## News & Community
+## APIs, Feeds, and Integrations
+- [PyPI API docs](https://docs.pypi.org/api/): Entry point for JSON API, index API, and related interfaces.
+- [JSON API](https://docs.pypi.org/api/json/): Reference for retrieving project and release metadata in JSON format.
+- [Index API](https://docs.pypi.org/api/index-api/): API for querying project index information from PyPI.
+- [Integrity API](https://docs.pypi.org/api/integrity/): Interface for verifying package file integrity information.
+- [BigQuery datasets](https://docs.pypi.org/api/bigquery/): Public dataset access for PyPI analytics and ecosystem research.
+- [RSS feeds](https://docs.pypi.org/api/feeds/): Feeds for monitoring package and release activity on PyPI.
 
-- [PyPI Blog](https://blog.pypi.org): Official PyPI blog covering security, updates, and package management news
-- [Sponsors](https://pypi.org/sponsors): PyPI sponsors and funding information from PSF and open source organizations
+## Policies and Governance
+- [Terms of Service](https://policies.python.org/pypi.org/Terms-of-Service/): Terms governing use of the PyPI service.
+- [Privacy Notice](https://policies.python.org/pypi.org/Privacy-Notice/): Privacy practices for PyPI accounts, data, and service usage.
+- [Acceptable Use Policy](https://policies.python.org/pypi.org/Acceptable-Use-Policy/): Rules for permitted and prohibited use of PyPI.
+- [Code of Conduct](https://policies.python.org/python.org/code-of-conduct/): Community behavior expectations for PyPI and PSF spaces.
+- [PEP 541](https://www.python.org/dev/peps/pep-0541/): Name retention policy for package ownership disputes and abandoned projects.
+- [Bugs and feedback](https://pypi.org/help/#feedback): How to report issues, request help, or provide feedback.
 
-## Optional
-
-- [Statistics](https://pypi.org/stats): PyPI repository statistics, download metrics, and third-party analytics
-- [Trademarks](https://pypi.org/trademarks): PyPI trademark and intellectual property information and usage guidelines
-- [Donations](https://donate.pypi.org): Donation page for PSF Packaging Workgroup supporting PyPI and pip
+## Contributing and Infrastructure
+- [Warehouse on GitHub](https://github.com/pypi/warehouse): Source code for the PyPI application and issue tracker.
+- [Contributing to PyPI Docs](https://docs.pypi.org/contributing/): Guidance for contributing documentation and improvements to PyPI.
+- [Development credits](https://github.com/pypi/warehouse/graphs/contributors): Contributor graph for the Warehouse project.
+- [Translate PyPI](https://hosted.weblate.org/projects/pypa/warehouse/): Localization platform for translating the PyPI interface.
+- [Infrastructure dashboard](https://dtdg.co/pypi): Operational status and infrastructure monitoring dashboard for PyPI.
+- [PyPI Blog](https://blog.pypi.org/): Official announcements about PyPI features, security, and operations.

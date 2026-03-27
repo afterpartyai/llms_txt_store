@@ -1,26 +1,55 @@
 # OpenStreetMap
+> OpenStreetMap is a free, editable map of the world, created collaboratively by people and available under an open license.
 
-> > OpenStreetMap is a collaborative project to create a free, editable map of the world, providing open geographic data and database exports under open licenses.
+OpenStreetMap (OSM) combines a global map, community editing tools, open geographic data, and project governance resources. The main site provides access to editing, map history, exports, GPS traces, diaries, community information, help, and licensing details.
 
-OpenStreetMap (OSM) offers the complete planet database as downloadable exports in XML and PBF formats, updated weekly. The data is licensed under the Open Database License (ODbL) and can be processed using tools like Osmosis, Osm2pgsql, and PostGIS for various mapping applications.
+## Core Site
+- [Home](https://www.openstreetmap.org/): Main map interface for browsing places, data, and community-created map content.
+- [About](https://www.openstreetmap.org/about): Overview of the OpenStreetMap project, mission, community, and how the map is built.
+- [Help](https://www.openstreetmap.org/help): Help hub for using the site, editing, accounts, and common support topics.
+- [Communities](https://www.openstreetmap.org/communities): Directory of local and regional OpenStreetMap communities around the world.
+- [Copyright](https://www.openstreetmap.org/copyright): Licensing, attribution, and legal terms for OpenStreetMap data and tiles.
 
-## Key Topics
+## Editing and Contributing
+- [Edit](https://www.openstreetmap.org/edit): Start editing the map using the default editor selection flow.
+- [Edit with iD](https://www.openstreetmap.org/edit?editor=id): Launch the in-browser iD editor for quick and accessible map editing.
+- [Edit with Remote Control](https://www.openstreetmap.org/edit?editor=remote): Open editing remotely in JOSM, Potlatch, or Merkaartor.
+- [History](https://www.openstreetmap.org/history): Browse recent changesets and editing activity across the OpenStreetMap database.
+- [Sign Up](https://www.openstreetmap.org/user/new): Create a new OpenStreetMap account to edit, trace, and participate.
+- [Log In](https://www.openstreetmap.org/login?referer=%2F): Sign in to access editing, messaging, diaries, and account features.
 
-- OpenStreetMap
-- Planet OSM
-- PBF format
-- XML format
-- Open Database License (ODbL)
-- Creative Commons Attribution-ShareAlike
-- Database exports
-- Changesets
-- Osmosis
-- Osm2pgsql
-- PostGIS
-- GeoFabrik
-- Weekly data updates
-- Data extracts
+## Data and Export
+- [Export](https://www.openstreetmap.org/export): Export map data for a selected area in OpenStreetMap XML format.
+- [Planet OpenStreetMap](https://planet.openstreetmap.org/): Download full planet files, replication diffs, and other bulk data exports.
+- [Copyright and License](https://www.openstreetmap.org/copyright): Review ODbL licensing, attribution requirements, and produced work guidance.
+- [History](https://www.openstreetmap.org/history): Inspect changesets and historical edits contributing to the live map database.
 
-## Database Exports
+## GPS and Field Data
+- [GPS Traces](https://www.openstreetmap.org/traces): Upload, browse, and manage GPS traces contributed by OpenStreetMap users.
+- [Public GPS Traces](https://www.openstreetmap.org/traces/public): Explore publicly visible GPS traces shared with the community.
+- [Mine GPS Traces](https://www.openstreetmap.org/traces/mine): Access your own uploaded GPS traces after signing in.
+- [New GPS Trace](https://www.openstreetmap.org/traces/new): Upload a new GPS trace for mapping and reference use.
 
-- [Planet OSM](https://planet.openstreetmap.org/): Full OpenStreetMap database exports in XML/PBF format with weekly updates
+## Community and Social Features
+- [User Diaries](https://www.openstreetmap.org/diary): Read community diary entries from OpenStreetMap contributors worldwide.
+- [Communities](https://www.openstreetmap.org/communities): Find official and local community groups, chapters, and regional contacts.
+- [About](https://www.openstreetmap.org/about): Learn about the people, organizations, and principles behind the project.
+- [Donate](https://supporting.openstreetmap.org/donate/): Support OpenStreetMap financially through the official donation platform.
+
+## Accounts and User Pages
+- [Sign Up](https://www.openstreetmap.org/user/new): Register for an account to contribute edits and join the community.
+- [Log In](https://www.openstreetmap.org/login?referer=%2F): Authenticate to access personalized editing and social features.
+- [User Diaries](https://www.openstreetmap.org/diary): Publish and follow diary posts from individual OpenStreetMap users.
+- [GPS Traces](https://www.openstreetmap.org/traces): Manage uploaded traces associated with your OpenStreetMap account.
+
+## Help and Project Information
+- [Help](https://www.openstreetmap.org/help): Find answers about editing, mapping etiquette, accounts, and site usage.
+- [About](https://www.openstreetmap.org/about): Read introductory information about OpenStreetMap and its collaborative model.
+- [Copyright](https://www.openstreetmap.org/copyright): Understand legal usage, attribution, and database licensing obligations.
+- [Communities](https://www.openstreetmap.org/communities): Connect with local groups for support, events, and collaboration.
+
+## Related Official Resources
+- [OpenStreetMap Wiki](https://wiki.openstreetmap.org/): Community-maintained documentation for tagging, editing, tools, and project processes.
+- [OpenStreetMap Foundation](https://osmfoundation.org/): Governance, membership, board, and organizational information for the OSM Foundation.
+- [Planet OpenStreetMap](https://planet.openstreetmap.org/): Official bulk data distribution site for full database downloads and updates.
+- [Donate](https://supporting.openstreetmap.org/donate/): Official donation page supporting OpenStreetMap infrastructure and operations.

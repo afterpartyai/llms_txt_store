@@ -1,37 +1,76 @@
 # Priceline
+> Priceline is an online travel booking platform for discounted hotels, flights, rental cars, vacation packages, and trip management.
 
-> Priceline is a leading online travel booking platform offering deep discounts on hotels, flights, rental cars, and vacation packages with price comparison and flexible booking options.
+Priceline helps travelers compare prices, book travel products, and access special savings such as hotel deals, flight discounts, rental car offers, and bundled vacation packages.
 
-Priceline provides travelers with comprehensive search and booking tools across multiple travel categories, featuring express deals, discount offers, and round-trip flight options. The platform serves major destinations across the United States including Las Vegas, New York, Florida, and Oregon.
+## Core Booking
+- [Priceline Home](https://www.priceline.com/): Main entry point for searching hotels, flights, rental cars, and vacation packages.
+- [Hotels](https://www.priceline.com/hotels): Search hotel rooms, compare rates, and book discounted stays.
+- [Flights](https://www.priceline.com/flights): Search airfare, compare flight options, and book airline tickets.
+- [Rental Cars](https://www.priceline.com/rental-cars): Compare rental car prices and reserve vehicles from major providers.
+- [Vacation Packages](https://www.priceline.com/vacation-packages): Bundle flights and hotels into package deals for additional savings.
+- [Cruises](https://www.priceline.com/cruise): Browse cruise options and compare itineraries and pricing.
 
-## Key Topics
+## Hotel Deals
+- [Hotel Deals](https://www.priceline.com/hotel-deals): Explore discounted hotel offers across destinations and travel dates.
+- [Express Deals Hotels](https://www.priceline.com/hotel-deals/express-deals): Find opaque hotel discounts with lower published prices.
+- [Hotels in United States](https://www.priceline.com/hotel-deals/en-us/US/hotels-in-united-states.ssp): Browse hotel deals across cities and regions in the United States.
+- [Hotels in Las Vegas](https://www.priceline.com/hotel-deals/en-us/P3000035826/hotels-in-las-vegas-nevada.ssp): Find hotel deals for Las Vegas stays.
+- [Hotels in New York City](https://www.priceline.com/hotel-deals/en-us/P3000035825/hotels-in-new-york-city-new-york.ssp): Compare hotel options and prices in New York City.
+- [Hotels in Orlando](https://www.priceline.com/hotel-deals/en-us/P3000035824/hotels-in-orlando-florida.ssp): Search discounted hotels for Orlando travel.
 
-- Hotel Deals
-- Flight Search
-- Rental Cars
-- Price Comparison
-- Discount Offers
-- Travel Booking
-- Cheap Flights
-- Airfare Deals
-- Vacation Packages
-- Travel Savings
-- Flight Comparison
-- Express Deals
-- Booking Management
-- Round-Trip Flights
+## Flights
+- [Cheap Flights](https://www.priceline.com/flights): Search one-way, round-trip, and multi-city airfare options.
+- [Round Trip Flights](https://www.priceline.com/flights/round-trip): Compare round-trip flight prices across airlines and dates.
+- [One Way Flights](https://www.priceline.com/flights/one-way): Search one-way airfare for flexible travel planning.
+- [Multi City Flights](https://www.priceline.com/flights/multi-city): Book itineraries with multiple flight segments in one search.
+- [Last Minute Flights](https://www.priceline.com/flights/last-minute): Explore flight options for near-term departures.
+- [International Flights](https://www.priceline.com/flights/international): Search airfare for international routes and destinations.
 
-## Core Travel Booking
+## Cars and Ground Travel
+- [Rental Cars](https://www.priceline.com/rental-cars): Compare car rental inventory, pricing, and pickup locations.
+- [Airport Car Rentals](https://www.priceline.com/rental-cars/airport): Find rental cars near major airport locations.
+- [One Way Car Rentals](https://www.priceline.com/rental-cars/one-way): Search rentals with different pickup and drop-off locations.
+- [Luxury Car Rentals](https://www.priceline.com/rental-cars/luxury): Browse premium and luxury rental vehicle options.
+- [SUV Rentals](https://www.priceline.com/rental-cars/suv): Compare SUV rental availability and pricing.
+- [Van Rentals](https://www.priceline.com/rental-cars/van): Find passenger van rentals for larger groups.
 
-- [Priceline.com - The Best Deals on Hotels, Flights and Rental Cars](https://www.priceline.com/): Priceline homepage with deep discounts on hotels, flights, and rental cars.
-- [Hotels: Find Cheap Hotel Rooms & Discount Hotels | Priceline](https://www.priceline.com/hotels): Priceline hotel search with cheap rates, express deals, and flexible cancellation.
-- [Flights: Find Cheap Flights & Airfares | Priceline](https://www.priceline.com/flights): Priceline flight search and booking with cheap airfare deals and comparisons.
-- [Find cheap rental car deals | Priceline](https://www.priceline.com/rental-cars): Priceline rental car search with discount deals and price comparisons.
+## Packages and Vacation Planning
+- [Vacation Packages](https://www.priceline.com/vacation-packages): Search bundled hotel and flight deals for trips.
+- [All Inclusive Vacations](https://www.priceline.com/vacation-packages/all-inclusive): Explore package options with all-inclusive resort stays.
+- [Family Vacations](https://www.priceline.com/vacation-packages/family): Browse vacation packages suited for family travel.
+- [Beach Vacations](https://www.priceline.com/vacation-packages/beach): Find package deals for beach destinations.
+- [Last Minute Vacations](https://www.priceline.com/vacation-packages/last-minute): Search package deals for upcoming travel dates.
+- [Weekend Getaways](https://www.priceline.com/vacation-packages/weekend-getaways): Discover short-trip package options for quick escapes.
 
-## Destination Deals
+## Deals and Savings
+- [Express Deals](https://www.priceline.com/express-deals): Access discounted opaque offers across travel categories.
+- [Tonight Only Deals](https://www.priceline.com/tonight-only): Find same-day hotel discounts and limited-time offers.
+- [Featured Deals](https://www.priceline.com/deals): Browse current promotions and travel savings opportunities.
+- [Hotel Coupons and Promo Codes](https://www.priceline.com/deals/hotels): View hotel-related deals and promotional offers.
+- [Flight Deals](https://www.priceline.com/deals/flights): Explore airfare promotions and discounted routes.
+- [Car Rental Deals](https://www.priceline.com/deals/rental-cars): Find current savings on rental car bookings.
 
-- [Hotel Deals in United States - Book Now from $16/night](https://www.priceline.com/hotel-deals/en-us/US/hotels-in-united-states.ssp): Priceline hotel deals in United States with budget accommodation options.
+## Trips and Account
+- [Trip Lookup](https://www.priceline.com/next-profile/trip-lookup): Retrieve and manage existing bookings using trip details.
+- [My Trips](https://www.priceline.com/mytrips): Access upcoming and past reservations in one place.
+- [Sign In](https://www.priceline.com/login): Log in to manage bookings, profile details, and preferences.
+- [Create Account](https://www.priceline.com/register): Register for a Priceline account to save traveler information.
+- [Profile](https://www.priceline.com/next-profile): Manage account settings and personal travel details.
+- [Priceline VIP](https://www.priceline.com/vip): Learn about member savings and loyalty-style benefits.
 
-## Account & Bookings
+## Customer Support
+- [Customer Service](https://www.priceline.com/help): Access support resources for bookings, changes, and cancellations.
+- [Help Center](https://www.priceline.com/help-center): Browse answers to common travel and account questions.
+- [Contact Us](https://www.priceline.com/help/contact-us): Find ways to contact Priceline support.
+- [Cancellation Policy Help](https://www.priceline.com/help/cancellations): Review cancellation and refund guidance for bookings.
+- [Change Reservation Help](https://www.priceline.com/help/changes): Learn how to modify eligible reservations.
+- [Travel Alerts](https://www.priceline.com/help/travel-alerts): Check important notices affecting travel plans and bookings.
 
-- [Priceline - My Profile](https://www.priceline.com/next-profile/trip-lookup): Priceline user profile and trip lookup for booking management.
+## Company and Policies
+- [About Priceline](https://www.priceline.com/about): Learn about Priceline and its travel booking services.
+- [Terms and Conditions](https://www.priceline.com/static-pages/terms-and-conditions): Review booking terms and site usage policies.
+- [Privacy Policy](https://www.priceline.com/static-pages/privacy-policy): Read how Priceline collects, uses, and protects personal data.
+- [Cookie Policy](https://www.priceline.com/static-pages/cookie-policy): Understand cookie usage and related choices on the site.
+- [Careers](https://www.priceline.com/careers): Explore employment opportunities and company information.
+- [Press](https://www.priceline.com/press): Access company news and media resources.

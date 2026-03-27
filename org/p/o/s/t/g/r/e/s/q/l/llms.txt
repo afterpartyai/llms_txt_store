@@ -1,58 +1,86 @@
 # PostgreSQL
+> The official site for PostgreSQL, the world's most advanced open source database.
 
-> > The world's most advanced open source relational database system, maintained by the PostgreSQL Global Development Group with a vibrant global community.
+PostgreSQL.org is the primary source for PostgreSQL downloads, official documentation, release notes, community resources, developer information, support options, and project governance.
 
-PostgreSQL is a powerful, enterprise-class open source database that supports both SQL and JSON querying. The site provides official documentation, downloads, community events, and resources for developers and database administrators worldwide.
+## Core Site
+- [Home](https://www.postgresql.org/): Main portal for PostgreSQL releases, news, events, and project resources.
+- [About PostgreSQL](https://www.postgresql.org/about/): Overview of the PostgreSQL project, history, governance, and capabilities.
+- [Download](https://www.postgresql.org/download/): Download PostgreSQL packages, installers, and source code for supported platforms.
+- [Documentation](https://www.postgresql.org/docs/): Official manuals for current and previous PostgreSQL releases.
+- [Community](https://www.postgresql.org/community/): Community hubs including mailing lists, events, IRC, and local groups.
+- [Developers](https://www.postgresql.org/developer/): Resources for PostgreSQL contributors, source code, and development workflow.
+- [Support](https://www.postgresql.org/support/): Commercial support, community help channels, and professional services listings.
+- [Your Account](https://www.postgresql.org/account/): Account area for community services and site-related access.
 
-## Key Topics
+## Documentation
+- [Documentation Home](https://www.postgresql.org/docs/): Entry point to all PostgreSQL manuals and versioned documentation.
+- [Current Documentation](https://www.postgresql.org/docs/current/): Official manual for the latest PostgreSQL release.
+- [Documentation Archive](https://www.postgresql.org/docs/): Access manuals for supported and older PostgreSQL versions.
+- [Release Notes](https://www.postgresql.org/docs/current/release.html): Detailed release notes for the current PostgreSQL major version.
+- [Tutorial](https://www.postgresql.org/docs/current/tutorial.html): Introductory tutorial covering basic PostgreSQL concepts and SQL usage.
+- [SQL Command Reference](https://www.postgresql.org/docs/current/sql-commands.html): Reference for PostgreSQL SQL statements and command syntax.
+- [Server Administration](https://www.postgresql.org/docs/current/admin.html): Administration topics including configuration, backup, replication, and monitoring.
+- [Client Interfaces](https://www.postgresql.org/docs/current/client-interfaces.html): Documentation for libpq, embedded SQL, and language interfaces.
 
-- PostgreSQL database
-- Open source RDBMS
-- SQL and JSON support
-- PostgreSQL Global Development Group
-- Community events and conferences
-- PGConf and PGDay events
-- PostgreSQL releases and versions
-- Database features and extensions
-- PostGIS spatial database
-- Corporate sponsors (Crunchy Data, EDB, Microsoft)
-- PostgreSQL Europe
-- Community Code of Conduct
-- Database administration
-- PostgreSQL development
-- Feature matrix and version comparison
+## Downloads and Releases
+- [Download PostgreSQL](https://www.postgresql.org/download/): Platform-specific download options and package repositories.
+- [Source Code](https://www.postgresql.org/download/source/): Official source tarballs and source download information.
+- [Linux Downloads](https://www.postgresql.org/download/linux/): Distribution-specific PostgreSQL packages and repository instructions for Linux.
+- [macOS Downloads](https://www.postgresql.org/download/macosx/): macOS installation options and package sources.
+- [Windows Downloads](https://www.postgresql.org/download/windows/): Windows installers and package options for PostgreSQL.
+- [Versioning Policy](https://www.postgresql.org/support/versioning/): PostgreSQL version support policy, release cadence, and lifecycle details.
+- [Latest News](https://www.postgresql.org/about/news/): Official release announcements, project news, and security updates.
 
-## Getting Started
+## Learn and Get Started
+- [About PostgreSQL](https://www.postgresql.org/about/): High-level introduction to PostgreSQL features, values, and project background.
+- [What is PostgreSQL?](https://www.postgresql.org/about/): Overview of PostgreSQL as an open source relational database.
+- [Feature Matrix](https://www.postgresql.org/about/featurematrix/): Searchable matrix of PostgreSQL features across versions.
+- [Feature Matrix Detail](https://www.postgresql.org/about/featurematrix/detail/): Detailed pages for individual PostgreSQL features and support status.
+- [Documentation Tutorial](https://www.postgresql.org/docs/current/tutorial.html): Beginner-friendly walkthrough for creating tables and running queries.
+- [Learning Opportunities](https://www.postgresql.org/community/): Community entry point for events, groups, and educational resources.
 
-- [PostgreSQL Homepage](https://www.postgresql.org): PostgreSQL homepage with releases, events, and community resources
+## Community
+- [Community Home](https://www.postgresql.org/community/): Overview of PostgreSQL community programs, communication channels, and participation.
+- [Mailing Lists](https://www.postgresql.org/list/): Official mailing lists for users, developers, announcements, and support.
+- [Events](https://www.postgresql.org/about/event/): Calendar of PostgreSQL conferences, meetups, and community events.
+- [Local User Groups](https://www.postgresql.org/community/user-groups/): Directory of PostgreSQL user groups around the world.
+- [IRC](https://www.postgresql.org/community/irc/): IRC channels for PostgreSQL discussion and real-time community help.
+- [Planet PostgreSQL](https://www.postgresql.org/community/planetpostgresql/): Aggregated blog posts from PostgreSQL community members.
+- [Community Recognition](https://www.postgresql.org/community/contributors/): Recognition of contributors and community participants.
 
-## Documentation and Reference
+## News and Events
+- [News Archive](https://www.postgresql.org/about/news/): Official PostgreSQL news posts, release announcements, and project updates.
+- [Events Calendar](https://www.postgresql.org/about/event/): Browse upcoming PostgreSQL conferences, talks, and training events.
+- [PostgreSQL 18.3, 17.9, 16.13, 15.17, and 14.22 Released!](https://www.postgresql.org/about/news/): Release announcement for multiple supported PostgreSQL branches.
+- [PGConf.dev 2026 Schedule Announced!](https://www.postgresql.org/about/news/): Official announcement for the PostgreSQL development conference schedule.
+- [Hyderabad Postgres Days 2026: Announcement and CFP/CFS](https://www.postgresql.org/about/news/): Community event announcement and call for participation.
+- [Join Us at PGDay Armenia 2026 in Yerevan on April 30, 2026](https://www.postgresql.org/about/news/): Event promotion for a regional PostgreSQL conference.
+- [Greenmask 0.2.9 - 0.2.17 Releases](https://www.postgresql.org/about/news/): Community news item covering Greenmask releases.
 
-- [Feature Matrix](https://www.postgresql.org/about/featurematrix): Feature comparison matrix across PostgreSQL versions
-- [64-bit Large Objects Feature](https://www.postgresql.org/about/featurematrix/detail/64-bit-large-objects): 64-bit large objects feature description and storage limits
+## Developer Resources
+- [Developer Home](https://www.postgresql.org/developer/): Starting point for PostgreSQL source development and contributor information.
+- [Source Code](https://www.postgresql.org/download/source/): Obtain PostgreSQL source code for building and development.
+- [Git Web Interface](https://git.postgresql.org/): Browse PostgreSQL source repositories and project commits.
+- [CommitFest](https://commitfest.postgresql.org/): Track patches, reviews, and PostgreSQL development discussions.
+- [Bug Reporting](https://www.postgresql.org/account/submitbug/): Submit PostgreSQL bug reports through the official reporting system.
+- [Mailing Lists](https://www.postgresql.org/list/): Development and hackers mailing lists for design and patch discussion.
+- [Developer FAQ](https://wiki.postgresql.org/wiki/Developer_FAQ): Community-maintained answers for PostgreSQL contributors and developers.
 
-## Community and Events
+## Support
+- [Support Home](https://www.postgresql.org/support/): Overview of support channels for PostgreSQL users and organizations.
+- [Professional Support](https://www.postgresql.org/support/professional_support/): Directory of companies offering PostgreSQL consulting and support.
+- [Mailing Lists](https://www.postgresql.org/list/): Community support via user and administrator mailing lists.
+- [IRC](https://www.postgresql.org/community/irc/): Real-time community support channels on IRC.
+- [Documentation](https://www.postgresql.org/docs/): Official manuals for troubleshooting, administration, and SQL reference.
+- [Versioning Policy](https://www.postgresql.org/support/versioning/): Determine support status and maintenance windows for PostgreSQL versions.
+- [Security Information](https://www.postgresql.org/support/security/): Security policy, reporting guidance, and vulnerability information.
 
-- [PGConf.EU 2024](https://www.postgresql.org/about/event/pgconfeu-2024-2507): PostgreSQL Conference Europe 2024 in Athens, Greece with training
-- [PostgreSQL Development Conference 2026 (pgconf.dev)](https://www.postgresql.org/about/event/postgresql-development-conference-2026-pgconfdev-2543): PostgreSQL Development Conference 2026 in Vancouver for contributors
-- [Postgres Extensions Day 2025](https://www.postgresql.org/about/event/postgres-extensions-day-2025-2536): Postgres Extensions Day 2025 in Montreal with CFP for extension devs
-- [PostGIS Day 2025](https://www.postgresql.org/about/event/postgis-day-2025-2557): PostGIS Day 2025 online geospatial event on Zoom and YouTube
-- [FOSSASIA PGDay 2026](https://www.postgresql.org/about/event/fossasia-pgday-2026-2563): FOSSASIA PGDay 2026 conference in Bangkok with CFP and sponsors
-- [PG Down Under 2025](https://www.postgresql.org/about/event/pg-down-under-2025-2547): PG Down Under 2025 conference in Sydney with CFP and sponsorships
-- [PGDay Chicago 2024](https://www.postgresql.org/about/event/pgday-chicago-2024-2493): PGDay Chicago 2024 community event for PostgreSQL users
-
-## Contributing and Sponsors
-
-- [Contributing Sponsors](https://www.postgresql.org/about/contributing): List of corporate sponsors including Crunchy Data, EDB, and Microsoft
-
-## Optional
-
-- [HOW2026: PostgreSQL & IvorySQL Ecosystem Conference](https://www.postgresql.org/about/event/how2026-postgresql-ivorysql-ecosystem-conference-2575): HOW2026 PostgreSQL & IvorySQL ecosystem conference in Jinan, China
-- [PG BootCamp Russia 2026](https://www.postgresql.org/about/event/pg-bootcamp-russia-2026-2579): PG BootCamp Russia 2026 community event in Moscow
-- [PG BootCamp Russia 2024](https://www.postgresql.org/about/event/pg-bootcamp-russia-2024-2510): PG BootCamp Russia 2024 conference in Kazan, Tatarstan
-- [PG BootCamp Russia 2023](https://www.postgresql.org/about/event/pg-bootcamp-russia-2023-2483): PG BootCamp Russia 2023 community event in Moscow
-- [Nordic PGDay 2022](https://www.postgresql.org/about/event/nordic-pgday-2022-2417): Nordic PGDay 2022 community conference in Helsinki, Finland
-- [PGDay Israel 2022](https://www.postgresql.org/about/event/pgday-israel-2022-2435): PGDay Israel 2022 community conference in Tel Aviv
-- [Postgres@CERN - PostgreSQL Meetup at CERN](https://www.postgresql.org/about/event/postgrescern-postgresql-meetup-at-cern-2447): PostgreSQL meetup at CERN in Geneva, Switzerland
-- [PGConf Silicon Valley 2015](https://www.postgresql.org/about/event/pgconf-silicon-valley-2015-1805): PGConf Silicon Valley 2015 at South San Francisco Convention Center
-- [PgTraining on line session 2021-03](https://www.postgresql.org/about/event/pgtraining-on-line-session-2021-03-2404): PgTraining online session covering sharding, PgBackRest, and JIT compiler
+## Project Governance and Policies
+- [About PostgreSQL](https://www.postgresql.org/about/): Project structure, organizations, and PostgreSQL background information.
+- [Donate](https://www.postgresql.org/about/donate/): Donation information for supporting the PostgreSQL project.
+- [Policies](https://www.postgresql.org/about/policies/): Site and project policies, trademarks, and legal information.
+- [Code of Conduct](https://www.postgresql.org/about/policies/coc/): Community code of conduct for PostgreSQL spaces and events.
+- [Contact](https://www.postgresql.org/about/contact/): Official contact information for PostgreSQL organizations and inquiries.
+- [Contributing](https://www.postgresql.org/about/contributing/): Information about organizations and individuals contributing to PostgreSQL.
+- [Core Team](https://www.postgresql.org/developer/core/): Information about the PostgreSQL Core Team and project leadership.

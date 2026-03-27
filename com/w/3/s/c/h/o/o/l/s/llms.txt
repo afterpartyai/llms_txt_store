@@ -1,36 +1,99 @@
 # W3Schools
+> W3Schools is an online learning platform for web development, programming, data, and IT skills with tutorials, references, exercises, and certifications.
 
-> W3Schools is the world's leading online learning platform for web development, programming languages, and coding education with interactive tutorials, certifications, and video resources.
+W3Schools provides beginner-friendly tutorials, searchable references, interactive examples, coding exercises, quizzes, and career-oriented learning paths across frontend, backend, databases, data science, AI, and cloud topics.
 
-W3Schools provides comprehensive tutorials and hands-on learning resources for web technologies including HTML, CSS, JavaScript, and SQL, as well as programming languages like Python, Java, PHP, and C++. The platform offers both free tutorials and professional certification courses through partnerships like Coursera.
+## Core Tutorials
+- [HTML Tutorial](https://www.w3schools.com/html/default.asp): Learn HTML fundamentals, elements, forms, media, semantics, and page structure.
+- [CSS Tutorial](https://www.w3schools.com/css/default.asp): Learn CSS styling, layout, selectors, responsive design, and modern visual techniques.
+- [JavaScript Tutorial](https://www.w3schools.com/js/default.asp): Learn JavaScript syntax, DOM manipulation, events, objects, functions, and browser scripting.
+- [SQL Tutorial](https://www.w3schools.com/sql/default.asp): Learn SQL queries, joins, filtering, aggregation, and database basics.
+- [Python Tutorial](https://www.w3schools.com/python/default.asp): Learn Python syntax, data types, functions, loops, classes, and file handling.
+- [Java Tutorial](https://www.w3schools.com/java/default.asp): Learn Java basics, OOP, methods, classes, and core language features.
+- [PHP Tutorial](https://www.w3schools.com/php/default.asp): Learn PHP syntax, forms, sessions, MySQL integration, and server-side scripting.
+- [C++ Tutorial](https://www.w3schools.com/cpp/default.asp): Learn C++ syntax, variables, functions, classes, and object-oriented programming.
 
-## Key Topics
+## Web Development Tutorials
+- [How To](https://www.w3schools.com/howto/default.asp): Step-by-step recipes for UI patterns, components, effects, and common website features.
+- [XML Tutorial](https://www.w3schools.com/xml/default.asp): Learn XML structure, validation, parsers, namespaces, and data exchange basics.
+- [JSON Tutorial](https://www.w3schools.com/js/js_json.asp): Learn JSON syntax, parsing, stringifying, and JavaScript data interchange.
+- [Sass Tutorial](https://www.w3schools.com/sass/default.php): Learn Sass variables, nesting, mixins, inheritance, and stylesheet organization.
+- [Bootstrap 5 Tutorial](https://www.w3schools.com/bootstrap5/index.php): Learn Bootstrap components, grid, utilities, forms, and responsive layouts.
+- [W3.CSS Tutorial](https://www.w3schools.com/w3css/default.asp): Learn the W3.CSS framework for responsive layouts and UI components.
+- [Graphics Tutorial](https://www.w3schools.com/graphics/default.asp): Learn Canvas, SVG, and graphical techniques for web interfaces.
+- [Colors Tutorial](https://www.w3schools.com/colors/default.asp): Learn color systems, palettes, schemes, and practical web color usage.
 
-- HTML
-- CSS
-- JavaScript
-- SQL
-- Python
-- Java
-- PHP
-- Web Development
-- Responsive Design
-- W3.CSS Framework
-- Bootstrap
-- React
-- Full-Stack Development
-- Online Tutorials
-- Certification Courses
+## Programming and Computer Science
+- [C Tutorial](https://www.w3schools.com/c/index.php): Learn C syntax, pointers, memory concepts, functions, and structured programming.
+- [C# Tutorial](https://www.w3schools.com/cs/index.php): Learn C# syntax, classes, methods, OOP, and .NET-oriented programming basics.
+- [R Tutorial](https://www.w3schools.com/r/default.asp): Learn R syntax, vectors, data frames, plotting, and statistical programming.
+- [Kotlin Tutorial](https://www.w3schools.com/kotlin/index.php): Learn Kotlin basics, functions, classes, null safety, and Android-friendly syntax.
+- [Node.js Tutorial](https://www.w3schools.com/nodejs/default.asp): Learn Node.js modules, HTTP, files, npm, and backend JavaScript basics.
+- [DSA Tutorial](https://www.w3schools.com/dsa/index.php): Learn data structures, algorithms, complexity, and problem-solving fundamentals.
+- [Cyber Security Tutorial](https://www.w3schools.com/cybersecurity/index.php): Learn security concepts, threats, defenses, and safe computing practices.
+- [Git Tutorial](https://www.w3schools.com/git/default.asp): Learn Git version control, branching, commits, merging, and repository workflows.
 
-## Core Learning Platform
+## Data Science, AI, and Analytics
+- [NumPy Tutorial](https://www.w3schools.com/python/numpy/default.asp): Learn NumPy arrays, indexing, math operations, and numerical computing basics.
+- [Pandas Tutorial](https://www.w3schools.com/python/pandas/default.asp): Learn Pandas series, data frames, cleaning, analysis, and transformation.
+- [SciPy Tutorial](https://www.w3schools.com/python/scipy/index.php): Learn scientific computing tools for optimization, statistics, and signal processing.
+- [Matplotlib Tutorial](https://www.w3schools.com/python/matplotlib_intro.asp): Learn plotting, chart customization, and data visualization with Matplotlib.
+- [Machine Learning Tutorial](https://www.w3schools.com/python/python_ml_getting_started.asp): Learn machine learning concepts, models, and Python-based examples.
+- [Data Science Tutorial](https://www.w3schools.com/datascience/default.asp): Learn data workflows, analysis concepts, visualization, and practical data skills.
+- [Statistics Tutorial](https://www.w3schools.com/statistics/index.php): Learn descriptive statistics, probability, distributions, and hypothesis testing basics.
+- [Excel Tutorial](https://www.w3schools.com/excel/index.php): Learn spreadsheets, formulas, charts, and data analysis techniques in Excel.
 
-- [W3Schools Homepage](https://www.w3schools.com): Main entry point offering tutorials in HTML, CSS, JavaScript, SQL and comprehensive web development learning paths
-- [W3Schools Coursera Certification](https://coursera.w3schools.com/): Professional certification platform for HTML, CSS, JavaScript and web development with credential programs
+## References
+- [HTML Reference](https://www.w3schools.com/tags/default.asp): Searchable reference for HTML elements, attributes, events, and browser support.
+- [CSS Reference](https://www.w3schools.com/cssref/index.php): Searchable reference for CSS properties, selectors, values, and syntax.
+- [JavaScript Reference](https://www.w3schools.com/jsref/default.asp): Searchable reference for JavaScript objects, methods, statements, and browser APIs.
+- [SQL Reference](https://www.w3schools.com/sql/sql_ref_keywords.asp): Reference for SQL keywords, functions, operators, and statements.
+- [Python Reference](https://www.w3schools.com/python/python_reference.asp): Reference for Python keywords, methods, built-in functions, and syntax.
+- [PHP Reference](https://www.w3schools.com/php/php_ref_overview.asp): Reference for PHP functions, filters, arrays, strings, and language features.
+- [Bootstrap 5 Reference](https://www.w3schools.com/bootstrap5/bootstrap_ref_all_classes.php): Reference for Bootstrap classes, components, and utility patterns.
+- [W3.CSS Reference](https://www.w3schools.com/w3css/w3css_references.asp): Reference for W3.CSS classes, colors, layouts, and UI utilities.
 
-## Learning Resources & Tutorials
+## Exercises, Quizzes, and Practice
+- [Exercises](https://www.w3schools.com/exercises/index.php): Practice coding concepts with interactive exercises across major tutorial topics.
+- [Quizzes](https://www.w3schools.com/quiztest/default.asp): Test knowledge with topic-based quizzes for web and programming subjects.
+- [HTML Quiz](https://www.w3schools.com/html/html_quiz.asp): Check HTML knowledge with multiple-choice questions and instant scoring.
+- [CSS Quiz](https://www.w3schools.com/css/css_quiz.asp): Check CSS knowledge with questions on selectors, layout, and styling.
+- [JavaScript Quiz](https://www.w3schools.com/js/js_quiz.asp): Check JavaScript knowledge with questions on syntax, DOM, and logic.
+- [SQL Quiz](https://www.w3schools.com/sql/sql_quiz.asp): Check SQL knowledge with questions on queries, joins, and functions.
+- [Python Quiz](https://www.w3schools.com/python/python_quiz.asp): Check Python knowledge with questions on syntax, functions, and data types.
+- [Code Game](https://www.w3schools.com/codegame/index.html): Practice coding concepts through game-based interactive challenges.
 
-- [Video Tutorials Index](https://www.w3schools.com/videos/index.php): Comprehensive video tutorial collection covering HTML, CSS, JavaScript, SQL and core web development topics
+## Online Tools and Generators
+- [Tryit Editor](https://www.w3schools.com/tryit/default.asp): Run and edit code examples directly in the browser.
+- [Code Editor](https://www.w3schools.com/codeeditor/index.php): Browser-based editor for writing, testing, and sharing code snippets.
+- [Color Picker](https://www.w3schools.com/colors/colors_picker.asp): Choose, inspect, and convert colors for web design work.
+- [HTML Validator](https://www.w3schools.com/html/html_validator.asp): Validate HTML markup and identify structural or syntax issues.
+- [JSON Validator](https://www.w3schools.com/js/js_json_json.asp): Validate and inspect JSON syntax and formatting examples.
+- [SQL Formatter](https://www.w3schools.com/sql/sql_format.asp): Format SQL statements for readability and cleaner query structure.
+- [Spaces](https://www.w3schools.com/spaces/index.php): Build, host, and share websites and code projects online.
 
-## Frontend Frameworks & Libraries
+## Certifications and Career Learning
+- [Certificates](https://www.w3schools.com/cert/default.asp): Browse certification options for web, programming, and data skills.
+- [HTML Certificate](https://www.w3schools.com/cert/cert_html.asp): Certification track covering HTML knowledge and practical web markup skills.
+- [CSS Certificate](https://www.w3schools.com/cert/cert_css.asp): Certification track covering CSS styling, layout, and responsive design.
+- [JavaScript Certificate](https://www.w3schools.com/cert/cert_javascript.asp): Certification track covering JavaScript fundamentals and browser programming.
+- [Python Certificate](https://www.w3schools.com/cert/cert_python.asp): Certification track covering Python syntax, logic, and core programming skills.
+- [SQL Certificate](https://www.w3schools.com/cert/cert_sql.asp): Certification track covering SQL querying, joins, and relational database concepts.
+- [Bootcamps](https://www.w3schools.com/bootcamp/index.php): Intensive guided programs for job-focused technical skill development.
+- [Academy](https://www.w3schools.com/academy/index.php): Structured learning experiences with courses, paths, and progress tracking.
 
-- [W3.CSS Framework](https://www.w3schools.com/w3css/default.asp): Lightweight responsive design framework documentation and tutorial for modern front-end development
+## Videos and Learning Formats
+- [Video Tutorials](https://www.w3schools.com/videos/index.php): Video-based lessons covering core web development and programming topics.
+- [HTML Video Tutorial](https://www.w3schools.com/videos/index.php?video=html): Video lessons introducing HTML structure and markup concepts.
+- [CSS Video Tutorial](https://www.w3schools.com/videos/index.php?video=css): Video lessons introducing CSS styling and layout concepts.
+- [JavaScript Video Tutorial](https://www.w3schools.com/videos/index.php?video=javascript): Video lessons introducing JavaScript programming and browser scripting.
+- [SQL Video Tutorial](https://www.w3schools.com/videos/index.php?video=sql): Video lessons introducing SQL querying and relational database concepts.
+- [Python Video Tutorial](https://www.w3schools.com/videos/index.php?video=python): Video lessons introducing Python syntax and programming basics.
+
+## Platform and Account Services
+- [My W3Schools](https://pathfinder.w3schools.com): User dashboard for saved progress, learning paths, and personalized recommendations.
+- [Plus](https://order.w3schools.com/plans): Subscription plans for premium learning features and platform benefits.
+- [Get Certified](https://campus.w3schools.com/collections/course-catalog): Course catalog for certification preparation and paid learning products.
+- [Spaces Login](https://spaces.w3schools.com): Access hosted projects, coding environments, and published web spaces.
+- [Profile](https://profile.w3schools.com): Manage account settings, authentication, and user profile details.
+- [W3Schools Home](https://www.w3schools.com/): Main portal for tutorials, references, tools, and learning resources.

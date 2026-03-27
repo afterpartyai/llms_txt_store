@@ -1,61 +1,88 @@
 # Ahrefs
+> Ahrefs is an AI marketing platform for SEO, content, competitive research, web analytics, and AI search visibility.
 
-> Ahrefs is an all-in-one AI marketing platform providing SEO tools, competitor analysis, keyword research, content optimization, and performance tracking for organic search and AI visibility.
+Ahrefs provides a large suite of search marketing tools built on extensive web, keyword, and backlink data. Its platform supports keyword research, site auditing, rank tracking, content optimization, competitor analysis, analytics, reporting, and monitoring visibility across both traditional search engines and AI assistants.
 
-Ahrefs offers a comprehensive suite of tools for SEO professionals, content marketers, and agencies to analyze competitors, research keywords, track rankings, audit websites, and optimize content for both search engines and AI systems. The platform integrates Google Search Console data and provides privacy-friendly analytics alternatives.
-
-## Key Topics
-
-- SEO Tools
-- Competitor Analysis
-- Keyword Research
-- Rank Tracking
-- Content Marketing
-- Technical SEO
-- AI Content Optimization
-- Brand Monitoring
-- Web Analytics
-- Organic Search
-- Google Search Console
-- Site Auditing
-- SEO Reporting
-- Local SEO
-- AI Visibility
+## Platform & Product Overview
+- [Ahrefs](https://ahrefs.com/): Main product overview for Ahrefs’ AI marketing and SEO platform.
+- [Pricing](https://ahrefs.com/pricing): Plans, feature limits, and pricing for Ahrefs products and seats.
+- [Enterprise](https://ahrefs.com/enterprise): Enterprise-focused SEO and intelligence capabilities for larger organizations.
+- [API](https://ahrefs.com/api): API product overview for accessing Ahrefs data programmatically.
+- [Webmaster Tools](https://ahrefs.com/webmaster-tools): Free tools for site owners to audit sites and monitor SEO performance.
+- [Free SEO Tools](https://ahrefs.com/free-seo-tools): Collection of free keyword, backlink, SERP, and website analysis tools.
 
 ## Core SEO Tools
+- [Site Explorer](https://ahrefs.com/site-explorer): Analyze organic traffic, backlinks, paid search, and competitor performance.
+- [Keywords Explorer](https://ahrefs.com/keywords-explorer): Research keywords, traffic potential, clustering, and ranking difficulty.
+- [Rank Tracker](https://ahrefs.com/rank-tracker): Track keyword rankings across locations, devices, and search engines.
+- [Site Audit](https://ahrefs.com/site-audit): Crawl websites and identify technical SEO issues and optimization opportunities.
+- [Content Explorer](https://ahrefs.com/content-explorer): Discover top-performing content, link prospects, and content trends.
+- [Dashboard](https://ahrefs.com/dashboard): Central workspace for projects, monitored sites, and performance summaries.
 
-- [Site Explorer](https://ahrefs.com/site-explorer): Analyze competitor websites' organic traffic, backlinks, and paid ads
-- [Keywords Explorer](https://ahrefs.com/keywords-explorer): Keyword research tool with 28.7B topics and clustering at scale
-- [Rank Tracker](https://ahrefs.com/rank-tracker): Track keyword rankings globally across 190+ locations
-- [Site Audit](https://ahrefs.com/site-audit): Free SEO audit tool identifying 170+ issues for websites
-- [Website Performance](https://ahrefs.com/website-performance): Audit and monitor website SEO health, speed, and performance
+## AI, Content & Visibility
+- [AI Content Helper](https://ahrefs.com/ai-content-helper): Optimize articles with AI-assisted recommendations based on search intent and competitors.
+- [Brand Radar](https://ahrefs.com/brand-radar): Monitor brand visibility across AI assistants and web mentions.
+- [Content Marketing](https://ahrefs.com/content-marketing): Product area for planning, creating, and optimizing content workflows.
+- [AI Search Visibility](https://ahrefs.com/brand-radar/ai-search-visibility): Track how brands appear in AI-generated answers and assistants.
+- [Content Gap](https://ahrefs.com/site-explorer/content-gap): Find keywords competitors rank for that your site misses.
+- [Top Pages](https://ahrefs.com/site-explorer/top-pages): Identify pages driving the most organic traffic to a site.
 
-## Content & AI Tools
+## Analytics, Reporting & Monitoring
+- [Web Analytics](https://ahrefs.com/web-analytics): Privacy-friendly website analytics without cookies or personal data collection.
+- [Portfolios](https://ahrefs.com/portfolios): Group websites or pages to monitor aggregate SEO performance.
+- [Report Builder](https://ahrefs.com/report-builder): Build custom SEO reports for teams, stakeholders, or clients.
+- [Alerts](https://ahrefs.com/alerts): Get notifications for backlinks, keyword rankings, and brand mentions.
+- [Batch Analysis](https://ahrefs.com/batch-analysis): Compare SEO metrics for multiple URLs, domains, or subdomains at once.
+- [SERP Checker](https://ahrefs.com/serp-checker): Inspect search results and ranking metrics for target keywords.
 
-- [Content Explorer](https://ahrefs.com/content-explorer): Find top-performing content and link prospects in your niche
-- [AI Content Helper](https://ahrefs.com/ai-content-helper): AI writing assistant optimizing content for Google and ChatGPT
-- [Content Marketing](https://ahrefs.com/content-marketing): Create and optimize high-performing content with Ahrefs tools
-- [Social Media Manager](https://ahrefs.com/social-media-manager): Schedule and manage social media content across platforms
+## Free Tools
+- [Free Keyword Generator](https://ahrefs.com/keyword-generator): Generate keyword ideas from search queries across major platforms.
+- [Free Backlink Checker](https://ahrefs.com/backlink-checker): Check backlinks and referring domains for any website or page.
+- [Free Website Traffic Checker](https://ahrefs.com/website-traffic-checker): Estimate organic traffic and top pages for a website.
+- [Free Keyword Rank Checker](https://ahrefs.com/keyword-rank-checker): Check ranking positions for keywords in search results.
+- [Free SEO Checker](https://ahrefs.com/seo-checker): Run a quick SEO review for a page or website.
+- [Free AI Writing Tools](https://ahrefs.com/writing-tools): Access free AI-assisted writing and content improvement tools.
 
-## Monitoring & Intelligence
+## Documentation & Help
+- [Help Center](https://help.ahrefs.com/): Official support documentation for Ahrefs tools and account management.
+- [Getting Started](https://help.ahrefs.com/en/collections/181972-getting-started): Introductory guides for setting up and using Ahrefs.
+- [Site Explorer Help](https://help.ahrefs.com/en/collections/201692-site-explorer): Documentation for traffic, backlink, and competitor analysis features.
+- [Keywords Explorer Help](https://help.ahrefs.com/en/collections/201693-keywords-explorer): Documentation for keyword research metrics, reports, and workflows.
+- [Site Audit Help](https://help.ahrefs.com/en/collections/201694-site-audit): Guides for crawling sites and fixing technical SEO issues.
+- [Rank Tracker Help](https://help.ahrefs.com/en/collections/201695-rank-tracker): Documentation for tracking rankings, tags, competitors, and reports.
+- [Web Analytics Help](https://help.ahrefs.com/en/collections/5449090-web-analytics): Setup and usage documentation for Ahrefs Web Analytics.
+- [API Documentation](https://docs.ahrefs.com/): Reference documentation for Ahrefs API endpoints and usage.
 
-- [Brand Radar](https://ahrefs.com/brand-radar): Monitor AI visibility across ChatGPT, Perplexity, and 6 AI tools
-- [Search Console Insights](https://ahrefs.com/gsc-insights): Connect Google Search Console to unlock hidden opportunities
-- [Web Analytics](https://ahrefs.com/web-analytics): Privacy-friendly Google Analytics alternative without cookies
-- [Competitive Intelligence](https://ahrefs.com/use-cases/competitive-intelligence): Guide on using Ahrefs for competitive intelligence and trends
+## Learn & Academy
+- [Ahrefs Academy](https://ahrefs.com/academy): Structured courses and training on SEO, content, and Ahrefs workflows.
+- [Blog](https://ahrefs.com/blog/): Articles, research, tutorials, and product education from Ahrefs.
+- [SEO Guide](https://ahrefs.com/seo): Introductory resource hub for learning search engine optimization.
+- [Keyword Research Guide](https://ahrefs.com/blog/keyword-research/): Practical guide to finding and evaluating target keywords.
+- [Link Building Guide](https://ahrefs.com/blog/link-building/): Tactics and frameworks for earning backlinks effectively.
+- [Technical SEO Guide](https://ahrefs.com/blog/technical-seo/): Overview of technical SEO concepts, audits, and fixes.
+- [Content Marketing Guide](https://ahrefs.com/blog/content-marketing/): Guidance on planning, producing, and promoting content.
 
-## Reporting & Dashboards
+## Use Cases & Solutions
+- [Use Cases](https://ahrefs.com/use-cases): Overview of common workflows supported by Ahrefs tools.
+- [Competitor Analysis](https://ahrefs.com/use-cases/competitor-analysis): Use Ahrefs to benchmark competitors and uncover growth opportunities.
+- [Keyword Research](https://ahrefs.com/use-cases/keyword-research): Research search demand, difficulty, and ranking opportunities.
+- [Link Building](https://ahrefs.com/use-cases/link-building): Find prospects, analyze backlinks, and support outreach campaigns.
+- [Content Marketing](https://ahrefs.com/use-cases/content-marketing): Build content strategies using search demand and competitor insights.
+- [Technical SEO](https://ahrefs.com/use-cases/technical-seo): Audit websites and prioritize fixes affecting crawlability and performance.
+- [Local SEO](https://ahrefs.com/use-cases/local-seo): Improve local search visibility and monitor location-based rankings.
+- [Competitive Intelligence](https://ahrefs.com/use-cases/competitive-intelligence): Track market trends, rivals, and strategic search movements.
 
-- [Dashboard](https://ahrefs.com/dashboard): Monitor SEO projects, track performance, and measure progress
-- [Reporting](https://ahrefs.com/reporting): Create custom SEO reports and monitor key performance metrics
-- [Report Builder](https://ahrefs.com/report-builder): Create and share automated SEO reports with teams and clients
-- [Portfolios](https://ahrefs.com/portfolios): Group and monitor multiple URLs with competitor tracking
+## Developers & Integrations
+- [API](https://ahrefs.com/api): Product page for Ahrefs API access and data capabilities.
+- [API Docs](https://docs.ahrefs.com/): Technical reference for authentication, endpoints, and request formats.
+- [Looker Studio Connector](https://help.ahrefs.com/en/articles/6951154-ahrefs-looker-studio-connector): Connect Ahrefs data to Looker Studio dashboards.
+- [Google Search Console Integration](https://help.ahrefs.com/en/articles/6951173-google-search-console-integration): Connect GSC data to enrich Ahrefs reporting and insights.
+- [WordPress Plugin](https://ahrefs.com/wordpress-seo-plugin): WordPress plugin for content optimization and SEO recommendations.
 
-## Local SEO
-
-- [Local SEO](https://ahrefs.com/local-seo): Dominate local rankings with tools for local optimization
-- [Google Business Profile Monitor](https://ahrefs.com/gbp-monitor): Monitor Google Business Profile performance and local rankings
-
-## Getting Started
-
-- [Use Cases](https://ahrefs.com/use-cases): Overview of Ahrefs use cases for SEO, PPC, and marketers
+## Company & Research
+- [About](https://ahrefs.com/about): Company background, mission, and team information.
+- [Data & Metrics](https://ahrefs.com/seo-data): Overview of Ahrefs’ search, backlink, and keyword data scale.
+- [Our Crawler](https://ahrefs.com/robot): Information about AhrefsBot and crawling behavior.
+- [Careers](https://ahrefs.com/jobs): Open roles and company hiring information.
+- [Customer Stories](https://ahrefs.com/customers): Case studies and examples of teams using Ahrefs.
+- [SEO Statistics](https://ahrefs.com/blog/seo-statistics/): Research-backed statistics relevant to SEO and search marketing.

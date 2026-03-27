@@ -1,31 +1,65 @@
 # tagesschau.de
 
-> > Germany's leading public broadcast news service providing fact-checked journalism, breaking news, and in-depth analysis on national and international affairs.
+> Deutschlands führendes öffentlich-rechtliches Nachrichtenportal mit laufend aktualisierten Meldungen, Analysen, Hintergründen und Faktenchecks.
 
-tagesschau.de is the online presence of ARD's flagship news program, offering comprehensive coverage of German and world news with a strong emphasis on fact-checking through its ARD-faktenfinder initiative. The site also maintains technical infrastructure including deployment management tools for content delivery.
+tagesschau.de ist das Nachrichtenangebot von ARD-aktuell und bündelt aktuelle Berichterstattung aus Deutschland und der Welt, Liveblogs, Videos, Audios, regionale Nachrichten, Wirtschaft, Investigativrecherchen und den ARD-faktenfinder.
 
-## Key Topics
+## Nachrichten
+- [Startseite](https://www.tagesschau.de/): Überblick über die wichtigsten Nachrichten des Tages mit laufenden Aktualisierungen.
+- [Inland](https://www.tagesschau.de/inland/): Nachrichten, Analysen und Hintergründe zu Politik und Gesellschaft in Deutschland.
+- [Ausland](https://www.tagesschau.de/ausland/): Internationale Nachrichten, Konflikte, Diplomatie und Entwicklungen weltweit.
+- [Wirtschaft](https://www.tagesschau.de/wirtschaft/): Berichte zu Konjunktur, Unternehmen, Märkten, Energie und Verbraucherfragen.
+- [Investigativ](https://www.tagesschau.de/investigativ/): Recherchen und exklusive Berichte zu Missständen, Macht und Kontrolle.
+- [Wissen](https://www.tagesschau.de/wissen/): Beiträge zu Wissenschaft, Klima, Umwelt, Gesundheit und Forschung.
 
-- ARD-faktenfinder
-- Fact-checking and verification
-- Disinformation detection
-- Iran conflict coverage
-- Israel news
-- Trump fact-checks
-- German politics (Schleswig-Holstein)
-- O-Neko Catnip deployment tools
-- Sophora CMS integration
-- DevOps infrastructure
-- Breaking news coverage
-- International affairs
-- Public broadcasting journalism
+## Themen und Dossiers
+- [Themenübersicht](https://www.tagesschau.de/thema/): Zentrale Themenseiten zu aktuellen Ereignissen und langfristigen Debatten.
+- [Ukraine](https://www.tagesschau.de/thema/ukraine/): Nachrichten, Analysen und Liveberichterstattung zum Krieg gegen die Ukraine.
+- [Nahost](https://www.tagesschau.de/thema/nahost/): Berichte und Hintergründe zu Konflikten und Entwicklungen im Nahen Osten.
+- [Klima](https://www.tagesschau.de/thema/klima/): Meldungen und Analysen zu Klimapolitik, Extremwetter und Energiewende.
+- [Bundestagswahl](https://www.tagesschau.de/thema/bundestagswahl/): Themenseite mit Berichten, Analysen und Daten zu Bundestagswahlen.
+- [Migration](https://www.tagesschau.de/thema/migration/): Berichterstattung zu Flucht, Asyl, Integration und politischer Debatte.
 
-## Fact-Checking & Verification
+## Live und Formate
+- [Liveblog](https://www.tagesschau.de/liveblog/): Fortlaufende Liveblogs zu Krisen, Wahlen, Gipfeln und Großereignissen.
+- [tagesschau24](https://www.tagesschau.de/multimedia/sendung/tagesschau24/): Inhalte und Videos des ARD-Nachrichtenkanals tagesschau24.
+- [tagesschau in 100 Sekunden](https://www.tagesschau.de/multimedia/sendung/tagesschau-in-100-sekunden/): Sehr kurze Videozusammenfassungen der wichtigsten Nachrichten des Tages.
+- [tagesthemen](https://www.tagesschau.de/multimedia/sendung/tagesthemen/): Beiträge, Videos und Hintergründe aus dem ARD-Nachrichtenmagazin.
+- [Nachtmagazin](https://www.tagesschau.de/multimedia/sendung/nachtmagazin/): Späte Nachrichtensendung mit Zusammenfassungen und Einordnungen des Tages.
+- [Bericht aus Berlin](https://www.tagesschau.de/multimedia/sendung/bericht-aus-berlin/): Politische Analysen, Interviews und Berichte aus dem Berliner Regierungsbetrieb.
 
-- [faktenfinder - Fakten-Checks und Hintergründe](https://faktenfinder.tagesschau.de/): ARD-faktenfinder fact-checking section covering Iran, Israel & disinformation
+## Video und Audio
+- [Videos](https://www.tagesschau.de/multimedia/video/): Nachrichtenvideos, Interviews, Reportagen und Sendungsmitschnitte im Überblick.
+- [Audios](https://www.tagesschau.de/multimedia/audio/): Audiobeiträge, Korrespondentenstücke und Nachrichten zum Anhören.
+- [Podcasts](https://www.tagesschau.de/multimedia/podcast/): Podcast-Angebote mit Analysen, Hintergründen und vertiefender Berichterstattung.
+- [Sendungen](https://www.tagesschau.de/multimedia/sendung/): Übersicht der tagesschau-Sendungen und zugehörigen Mediathek-Inhalte.
+- [Bilder](https://www.tagesschau.de/multimedia/bilder/): Fotostrecken und visuelle Zusammenfassungen aktueller Ereignisse.
 
-## Optional
+## Faktenchecks und Analyse
+- [ARD-faktenfinder](https://www.tagesschau.de/faktenfinder/): Faktenchecks, Verifikationen und Einordnungen zu Desinformation und viralen Behauptungen.
+- [Faktenfinder-Themen](https://www.tagesschau.de/faktenfinder/thema/): Thematische Übersicht der Faktenchecks und Verifikationsbeiträge.
+- [DeutschlandTrend](https://www.tagesschau.de/inland/deutschlandtrend/): Umfragen und Analysen zur politischen Stimmung in Deutschland.
+- [Analyse und Meinung](https://www.tagesschau.de/inland/analyse/): Einordnende Analysen und Kommentare zu innenpolitischen Entwicklungen.
+- [Auslandsanalyse](https://www.tagesschau.de/ausland/analyse/): Analysen und Kommentare zu internationalen Ereignissen und Konflikten.
 
-- [O-Neko Catnip - Sophora Integration](https://featureus1029frontendschriftartinmul.komponenten.b.tagesschau.de/): O-Neko Catnip deployment management tool for Sophora integration
-- [O-Neko Catnip - DevOps Proxy](https://featureus1353frontendtextlinkbeibild.komponenten.b.tagesschau.de/): O-Neko Catnip DevOps deployment proxy with auto-start features
-- [O-Neko Catnip - Deployment Trigger](https://featureus1317frontendverbessertearia.komponenten.b.tagesschau.de/): O-Neko Catnip URL-based deployment trigger management system
+## Regionales
+- [Regionalnachrichten](https://www.tagesschau.de/inland/regional/): Einstieg in Nachrichtenangebote der ARD-Landesrundfunkanstalten.
+- [Baden-Württemberg](https://www.tagesschau.de/inland/regional/badenwuerttemberg/): Regionale Nachrichten und Verweise auf ARD-Angebote aus Baden-Württemberg.
+- [Bayern](https://www.tagesschau.de/inland/regional/bayern/): Regionale Nachrichten und Verweise auf ARD-Angebote aus Bayern.
+- [Berlin](https://www.tagesschau.de/inland/regional/berlin/): Regionale Nachrichten und Verweise auf ARD-Angebote aus Berlin.
+- [Hamburg](https://www.tagesschau.de/inland/regional/hamburg/): Regionale Nachrichten und Verweise auf ARD-Angebote aus Hamburg.
+- [Nordrhein-Westfalen](https://www.tagesschau.de/inland/regional/nordrheinwestfalen/): Regionale Nachrichten und Verweise auf ARD-Angebote aus Nordrhein-Westfalen.
+
+## Service und Spezialseiten
+- [Wetter](https://www.tagesschau.de/wetter/): Wetterlage, Vorhersagen und meteorologische Entwicklungen in Deutschland und weltweit.
+- [Börse](https://www.tagesschau.de/wirtschaft/boerse/): Marktberichte, Kurse, Analysen und Hintergründe zu Finanzthemen.
+- [Wahlarchiv](https://www.tagesschau.de/wahl/): Ergebnisse, Grafiken und Hintergrundseiten zu Wahlen und Abstimmungen.
+- [Chronik](https://www.tagesschau.de/archiv/): Archivzugänge zu älteren Nachrichten, Sendungen und Themenseiten.
+- [Barrierefreiheit](https://www.tagesschau.de/barrierefreiheit/): Informationen zu barrierefreien Angeboten und Nutzungshilfen auf der Website.
+
+## Unternehmen und Redaktion
+- [Über uns](https://www.tagesschau.de/informationen/): Informationen über Auftrag, Redaktion und Arbeitsweise von tagesschau.de.
+- [Kontakt](https://www.tagesschau.de/kontakt/): Kontaktmöglichkeiten für Redaktion, Hinweise und allgemeine Anfragen.
+- [Impressum](https://www.tagesschau.de/impressum/): Rechtliche Angaben zum Betreiber und zur redaktionellen Verantwortung.
+- [Datenschutz](https://www.tagesschau.de/datenschutz/): Hinweise zur Verarbeitung personenbezogener Daten auf tagesschau.de.
+- [Hilfe](https://www.tagesschau.de/hilfe/): Unterstützung zur Nutzung der Website und Antworten auf häufige Fragen.

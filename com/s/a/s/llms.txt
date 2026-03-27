@@ -1,39 +1,79 @@
 # SAS
+> SAS provides analytics, AI, and data management software, documentation, and learning resources centered on SAS Viya and related platforms.
 
-> SAS is a global leader in analytics and data management, delivering advanced solutions for fraud detection, risk management, and enterprise intelligence across industries.
+SAS publishes product documentation, API and programming references, tutorials, training, support resources, industry solutions, and customer stories across its global site. The most useful LLM-oriented entry points are the documentation portal, developer resources, support knowledge base, software downloads, and product pages for SAS Viya, analytics, and AI.
 
-SAS provides comprehensive analytics platforms including SAS Viya, serving customers across banking, retail, utilities, and public sector organizations. The company maintains a strong presence in the DACH region (Germany, Austria, Switzerland) with offices in major cities including Munich, Cologne, Frankfurt, Vienna, and Zurich.
+## Documentation
+- [SAS Documentation](https://documentation.sas.com/): Central portal for SAS product documentation, administration guides, and programming references.
+- [SAS Viya Documentation](https://documentation.sas.com/?cdcId=viya-platfrom): Documentation hub for SAS Viya platform concepts, deployment, administration, and usage.
+- [SAS 9.4 Documentation](https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4): Reference and user documentation for Base SAS and SAS 9.4 products.
+- [Documentation by Product](https://documentation.sas.com/doc/en/): Browse SAS documentation collections by product family and release.
+- [SAS Viya Administration](https://documentation.sas.com/doc/en/itopscdc/default/itopssr/titlepage.htm): Administering SAS Viya environments, services, security, and operations.
+- [SAS Programming Documentation](https://documentation.sas.com/?cdcId=pgmsascdc): Programming guides and references for SAS language, procedures, and data access.
 
-## Key Topics
+## Developer Resources
+- [SAS Developer](https://developer.sas.com/): Developer portal for APIs, SDKs, open source integrations, and SAS Viya development resources.
+- [SAS Viya APIs](https://developer.sas.com/apis): API catalog and developer information for SAS Viya services.
+- [SAS Viya SDKs](https://developer.sas.com/sdks): SDK resources for building applications with SAS platforms and services.
+- [SAS Open Source](https://developer.sas.com/open-source): Guidance for integrating SAS with Python, R, and other open source tools.
+- [SAS Viya CLI](https://developer.sas.com/tools/viya-cli): Command-line tooling for managing and automating SAS Viya environments.
+- [SAS for Python Developers](https://developer.sas.com/guides/python): Python integration guidance for accessing SAS analytics and services.
 
-- SAS Viya
-- Analytics
-- Fraud Detection
-- Risk Management
-- Machine Learning
-- Customer Success Stories
-- Case Studies
-- Banking & Financial Services
-- IoT & Data Management
-- DACH Region
-- Enterprise Solutions
-- Careers & Hiring
-- Leadership
-- Industry Solutions
+## APIs and Integration
+- [SAS REST APIs](https://developer.sas.com/rest-apis): REST API resources for SAS Viya services and platform integration.
+- [SAS Logon and Authentication](https://developer.sas.com/apis/rest/Authentication): Authentication concepts and endpoints for SAS API access.
+- [SAS Job Execution APIs](https://developer.sas.com/apis/rest/JobExecution): APIs for running and managing SAS jobs programmatically.
+- [SAS Micro Analytic Service APIs](https://developer.sas.com/apis/rest/MicroAnalyticService): Endpoints for publishing and executing analytic models and decisions.
+- [SAS Visual Analytics APIs](https://developer.sas.com/apis/rest/VisualAnalytics): API resources for reports, content, and analytics interactions.
+- [SAS Model Manager APIs](https://developer.sas.com/apis/rest/ModelManager): Programmatic access to model lifecycle and governance capabilities.
 
-## Customer Success Stories
+## Products
+- [SAS Viya](https://www.sas.com/en_us/software/viya.html): Cloud-native analytics and AI platform for data, modeling, and decisioning.
+- [SAS Visual Analytics](https://www.sas.com/en_us/software/visual-analytics.html): Self-service analytics, dashboards, and reporting for business users and analysts.
+- [SAS Data Management](https://www.sas.com/en_us/software/data-management.html): Data integration, quality, governance, and preparation capabilities.
+- [SAS Customer Intelligence](https://www.sas.com/en_us/software/customer-intelligence.html): Marketing, personalization, and customer journey analytics solutions.
+- [SAS Risk Management](https://www.sas.com/en_us/software/risk-management.html): Risk analytics and decisioning for financial services and regulated industries.
+- [SAS Fraud Management](https://www.sas.com/en_us/software/fraud-management.html): Fraud detection and investigation solutions using analytics and AI.
+- [SAS Intelligent Decisioning](https://www.sas.com/en_us/software/intelligent-decisioning.html): Decision automation combining business rules, analytics, and model deployment.
+- [SAS Model Manager](https://www.sas.com/en_us/software/model-manager.html): Model governance, monitoring, and lifecycle management for analytics teams.
 
-- [HSBC: Fraud Detection with SAS Viya](http://www.sas.com/de_ch/customers/hsbc.html): HSBC case study showcasing SAS Viya analytics for banking fraud detection.
-- [Town of Cary: IoT Water Meter Analytics](http://www.sas.com/de_ch/customers/townofcary-aquastar.html): Town of Cary uses SAS Analytics for IoT water meter data and leak detection.
-- [Charming Shoppes: Risk Management Analytics](http://www.sas.com/de_ch/customers/charming-shoppes.html): Customer success story demonstrating SAS Viya analytics and risk management.
-- [St. Cloud: Fraud Detection Solutions](http://www.sas.com/de_ch/customers/stcloud.html): Customer case study highlighting SAS Viya fraud detection and analytics.
-- [Project Odyssey: Machine Learning Implementation](http://www.sas.com/de_ch/customers/project-odyssey.html): Customer success story featuring SAS Viya machine learning and analytics.
-- [Danish Prison & Probation: Risk Analytics](http://www.sas.com/de_ch/customers/danish-prison-probation.html): Customer case study demonstrating SAS Viya analytics and risk management.
+## Learning and Tutorials
+- [SAS Learn](https://www.sas.com/en_us/learn.html): Learning hub for training, tutorials, certifications, and educational resources.
+- [SAS Training](https://www.sas.com/en_us/training.html): Instructor-led and self-paced training for SAS software and analytics topics.
+- [SAS Tutorials](https://www.sas.com/en_us/learn/tutorials.html): Introductory tutorials for SAS programming, analytics, and platform usage.
+- [SAS Certifications](https://www.sas.com/en_us/certification.html): Certification paths and exam information for SAS users and administrators.
+- [SAS Academic Programs](https://www.sas.com/en_us/learn/academic-programs.html): Resources for students, educators, and academic institutions using SAS.
+- [SAS Skill Builder for Students](https://www.sas.com/en_us/learn/academic-programs/students.html): Student-focused learning resources and free access options.
 
-## Company & Leadership
+## Support
+- [SAS Support](https://support.sas.com/): Main support portal for downloads, hot fixes, knowledge base, and technical resources.
+- [SAS Knowledge Base](https://support.sas.com/kb/): Searchable technical notes, problem reports, and usage guidance.
+- [SAS Downloads](https://support.sas.com/downloads/): Software downloads, deployment tools, and related installation resources.
+- [SAS Hot Fixes](https://support.sas.com/en/downloads/hot-fixes.html): Product hot fixes and maintenance updates for supported SAS software.
+- [SAS Samples and SAS Notes](https://support.sas.com/resources/papers/proceedings.html): Technical papers, examples, and conference proceedings for SAS users.
+- [SAS Communities](https://communities.sas.com/): User community forums for questions, best practices, and peer support.
 
-- [Jenn Mann: Executive Vice President & Chief Human Resources Officer](http://www.sas.com/de_ch/company-information/leadership/jenn-mann.html): Profile of SAS CHRO Jenn Mann leading global HR and talent management.
+## Solutions and Industries
+- [Industry Solutions](https://www.sas.com/en_us/industry.html): Overview of SAS solutions tailored to major industries and business domains.
+- [Banking](https://www.sas.com/en_us/industry/banking.html): Analytics, risk, fraud, and compliance solutions for banks and lenders.
+- [Government](https://www.sas.com/en_us/industry/government.html): Public sector analytics for program integrity, security, and service delivery.
+- [Health Care and Life Sciences](https://www.sas.com/en_us/industry/health-care.html): Analytics for clinical, operational, and population health use cases.
+- [Insurance](https://www.sas.com/en_us/industry/insurance.html): Pricing, claims, fraud, and risk solutions for insurers.
+- [Manufacturing](https://www.sas.com/en_us/industry/manufacturing.html): Industrial analytics for quality, forecasting, and operational optimization.
+- [Retail](https://www.sas.com/en_us/industry/retail.html): Customer, merchandising, and supply chain analytics for retailers.
 
-## Careers & Recruitment
+## Resources and Insights
+- [Resource Center](https://www.sas.com/en_us/resources.html): Collection of white papers, e-books, webinars, and analyst reports.
+- [SAS Blogs](https://blogs.sas.com/): Official SAS blogs covering analytics, AI, programming, and industry topics.
+- [Customer Stories](https://www.sas.com/en_us/customers.html): Case studies and success stories from organizations using SAS solutions.
+- [Events](https://www.sas.com/en_us/events.html): Conferences, webinars, and virtual events hosted by SAS.
+- [Newsroom](https://www.sas.com/en_us/news.html): Company announcements, press releases, and media resources.
+- [Analyst Reports and Research](https://www.sas.com/en_us/resources/analyst-report.html): Research and analyst content related to analytics and AI markets.
 
-- [Career FAQs](http://www.sas.com/de_ch/careers/faq.html): FAQs about SAS job applications, hiring process, and onboarding in DACH region.
+## Company
+- [About SAS](https://www.sas.com/en_us/company-information.html): Corporate overview, mission, history, and company information.
+- [Leadership](https://www.sas.com/en_us/company-information/leadership.html): Executive leadership profiles and organizational leadership information.
+- [Careers](https://www.sas.com/en_us/careers.html): Job opportunities, culture, benefits, and recruiting information.
+- [Contact SAS](https://www.sas.com/en_us/contact.html): Contact options for sales, support, offices, and general inquiries.
+- [Responsible Innovation](https://www.sas.com/en_us/company-information/responsibility.html): Corporate responsibility, ethics, and sustainability initiatives.
+- [Partner with SAS](https://www.sas.com/en_us/partners.html): Partner ecosystem information for technology, consulting, and reseller relationships.

@@ -1,63 +1,86 @@
 # How-To Geek
 
-> How-To Geek provides practical technology guides, reviews, news, and expert advice covering hardware, software, operating systems, and consumer tech.
+> How-To Geek explains technology with practical how-to articles, reviews, news, and answers for everyday users and enthusiasts.
 
-How-To Geek is a comprehensive technology resource offering in-depth guides, product reviews, buying recommendations, and breaking tech news. The site covers everything from PC hardware and networking to streaming services, smart home devices, and DIY projects, serving both casual users and tech enthusiasts.
+How-To Geek publishes tutorials, explainers, product reviews, buying advice, and technology news across operating systems, apps, hardware, smart home, streaming, and consumer electronics. Its content is organized into topic hubs and article archives that help readers solve problems, learn features, and make informed purchasing decisions.
 
-## Key Topics
+## Main
+- [Homepage](https://www.howtogeek.com/): Main entry point for technology guides, reviews, news, and featured articles.
+- [Latest](https://www.howtogeek.com/latest/): Reverse-chronological feed of newly published articles across all categories.
+- [News](https://www.howtogeek.com/category/news/): Technology news coverage on software, hardware, platforms, and industry developments.
+- [Reviews](https://www.howtogeek.com/category/reviews/): Product reviews covering gadgets, accessories, PCs, software, and services.
+- [Explainers](https://www.howtogeek.com/category/explainers/): Concept-focused articles that clarify technical topics, features, and terminology.
+- [Buying Guides](https://www.howtogeek.com/category/buying-guides/): Recommendations and comparisons for choosing tech products and services.
 
-- Windows
-- Linux
-- Hardware Reviews
-- Product Reviews
-- Streaming Services
-- Smart Home
-- Networking
-- Open Source
-- Web Development
-- Home Server
-- Cord-Cutting
-- Android
-- DIY Projects
-- NAS/Storage
-- How-To Guides
+## Operating Systems
+- [Windows](https://www.howtogeek.com/category/windows/): Tutorials, troubleshooting, tips, and feature guides for Microsoft Windows.
+- [Windows 10](https://www.howtogeek.com/tag/windows-10/): Articles focused on Windows 10 setup, settings, and problem solving.
+- [Windows 11](https://www.howtogeek.com/tag/windows-11/): Coverage of Windows 11 features, customization, and troubleshooting.
+- [Mac](https://www.howtogeek.com/category/mac/): How-to guides and tips for macOS, Mac apps, and Apple desktops.
+- [Linux](https://www.howtogeek.com/category/linux/): Linux tutorials, command-line help, distro coverage, and system administration basics.
+- [Chrome OS](https://www.howtogeek.com/category/chrome-os/): Chromebook and ChromeOS guides for settings, apps, and workflows.
 
-## Core & News
+## Mobile
+- [Android](https://www.howtogeek.com/category/android/): Android phone and tablet tutorials, app tips, and device advice.
+- [iPhone & iPad](https://www.howtogeek.com/category/iphone-ipad/): iOS and iPadOS guides covering settings, apps, and troubleshooting.
+- [Samsung Galaxy](https://www.howtogeek.com/tag/samsung-galaxy/): Tips and how-tos for Samsung Galaxy phones, tablets, and features.
+- [Google Pixel](https://www.howtogeek.com/tag/google-pixel/): Pixel-focused guides, feature explanations, and device recommendations.
+- [Mobile Apps](https://www.howtogeek.com/category/apps/): App tutorials and recommendations across mobile and desktop platforms.
 
-- [How-To Geek Homepage](https://www.howtogeek.com): How-To Geek homepage: technology guides, reviews, tips, and answers
-- [Technology News](https://www.howtogeek.com/news): Latest technology news and analysis covering Windows, Linux, software
-- [New Tech Coverage](https://www.howtogeek.com/new-tech): New tech coverage: smart home, 3D printing, DIY gadgets, reviews
+## Apps & Productivity
+- [Microsoft Office](https://www.howtogeek.com/tag/microsoft-office/): Guides for Word, Excel, PowerPoint, Outlook, and Office features.
+- [Microsoft Excel](https://www.howtogeek.com/tag/microsoft-excel/): Spreadsheet tutorials, formulas, formatting, and productivity techniques.
+- [Google Docs](https://www.howtogeek.com/tag/google-docs/): Help articles for document editing, collaboration, and formatting in Google Docs.
+- [Google Sheets](https://www.howtogeek.com/tag/google-sheets/): Spreadsheet tips, formulas, and workflow guides for Google Sheets.
+- [Web Browsers](https://www.howtogeek.com/category/web-browsers/): Browser tips, privacy settings, extensions, and troubleshooting guides.
+- [Google Chrome](https://www.howtogeek.com/tag/google-chrome/): Chrome tutorials for settings, tabs, extensions, and performance.
+- [Mozilla Firefox](https://www.howtogeek.com/tag/mozilla-firefox/): Firefox guides covering privacy, customization, and browser features.
 
-## Operating Systems & Software
+## Hardware & PCs
+- [PC Hardware](https://www.howtogeek.com/category/pc-hardware/): Coverage of components, upgrades, compatibility, and desktop hardware advice.
+- [Laptops](https://www.howtogeek.com/tag/laptops/): Laptop reviews, buying advice, and setup or troubleshooting articles.
+- [Desktop PCs](https://www.howtogeek.com/tag/desktop-pcs/): Articles on desktop systems, upgrades, maintenance, and recommendations.
+- [Monitors](https://www.howtogeek.com/tag/monitors/): Monitor reviews, buying tips, and display setup guidance.
+- [Keyboards](https://www.howtogeek.com/tag/keyboards/): Keyboard reviews, comparisons, and usage tips.
+- [Mice](https://www.howtogeek.com/tag/mice/): Mouse reviews, recommendations, and productivity or gaming advice.
+- [Storage](https://www.howtogeek.com/tag/storage/): SSD, HDD, external drive, and storage management articles.
 
-- [Operating Systems](https://www.howtogeek.com/operating-systems): Windows, Linux guides: installation, customization, distros, how-tos
-- [Software](https://www.howtogeek.com/software): Software guides: development tools, Docker, PowerToys, productivity apps
-- [Applications](https://www.howtogeek.com/applications): Application guides: Excel, Docker, self-hosted tools, software reviews
-
-## Hardware & Components
-
-- [PC Hardware](https://www.howtogeek.com/pc-hardware): PC hardware news, reviews, and guides for NVMe, SSD, DIY building
-- [Components](https://www.howtogeek.com/components): PC components guides: GPU, CPU, SSD recommendations and comparisons
-- [Peripherals](https://www.howtogeek.com/peripherals): Peripherals guide: monitors, gaming gear, USB accessories, printers
-- [Storage and NAS](https://www.howtogeek.com/storage-and-nas): NAS, SSD, NVMe storage guides and RAID configuration tutorials
-- [Single-Board Computers](https://www.howtogeek.com/sbc): Raspberry Pi, ESP32 guides: DIY projects, tutorials, hardware setup
-- [Audio/Video](https://www.howtogeek.com/audio-video): Audio/video guides: headphones, speakers, TVs, home theater setup
-
-## Networking & Home Infrastructure
-
-- [Networking](https://www.howtogeek.com/networking): Networking guides covering Wi-Fi 7, routers, homelab setup, security
+## Smart Home & Networking
+- [Smart Home](https://www.howtogeek.com/category/smart-home/): Guides for connected home devices, automation, and setup.
+- [Wi-Fi & Routers](https://www.howtogeek.com/tag/wi-fi/): Wireless networking tips, router advice, and connectivity troubleshooting.
+- [Networking](https://www.howtogeek.com/category/networking/): Home networking explainers, setup guides, and security basics.
+- [Mesh Wi-Fi](https://www.howtogeek.com/tag/mesh-wi-fi/): Articles on mesh systems, coverage, and home network planning.
+- [Security Cameras](https://www.howtogeek.com/tag/security-cameras/): Reviews and setup guides for smart cameras and monitoring devices.
+- [Smart Speakers](https://www.howtogeek.com/tag/smart-speakers/): Buying advice and how-tos for voice assistants and speaker platforms.
 
 ## Streaming & Entertainment
+- [Streaming](https://www.howtogeek.com/category/streaming/): Guides to streaming devices, services, apps, and media playback.
+- [Netflix](https://www.howtogeek.com/tag/netflix/): Netflix tips, feature guides, and service-related news.
+- [YouTube](https://www.howtogeek.com/tag/youtube/): Tutorials and explainers for YouTube features, settings, and usage.
+- [Spotify](https://www.howtogeek.com/tag/spotify/): Spotify tips, playlists, settings, and subscription guidance.
+- [Plex](https://www.howtogeek.com/tag/plex/): Plex server setup, streaming workflows, and media library management.
+- [Cord Cutting](https://www.howtogeek.com/tag/cord-cutting/): Advice for replacing cable with streaming services and devices.
 
-- [Streaming](https://www.howtogeek.com/streaming): Streaming guides: devices, apps, TV shows, recommendations, Plex
-- [Streaming Platforms](https://www.howtogeek.com/streaming-platforms): Streaming platform guides: Plex, Netflix, Roku, cord-cutting tips
-- [Streaming Content](https://www.howtogeek.com/streaming-content): Streaming content: movie recommendations, Netflix guides, TV picks
+## Gaming
+- [Gaming](https://www.howtogeek.com/category/gaming/): News, reviews, and guides for PC, console, and cloud gaming.
+- [PC Gaming](https://www.howtogeek.com/tag/pc-gaming/): PC gaming hardware, settings, storefronts, and performance tips.
+- [Steam](https://www.howtogeek.com/tag/steam/): Steam tutorials, account tips, and platform feature guides.
+- [Nintendo Switch](https://www.howtogeek.com/tag/nintendo-switch/): Switch-related news, accessories, and gameplay or setup advice.
+- [PlayStation](https://www.howtogeek.com/tag/playstation/): PlayStation guides, console settings, and accessory coverage.
+- [Xbox](https://www.howtogeek.com/tag/xbox/): Xbox tutorials, subscription explainers, and console tips.
 
-## Buying Guides & Deals
+## Security & Privacy
+- [Security](https://www.howtogeek.com/category/security/): Articles on cybersecurity, account safety, scams, and protective practices.
+- [Privacy](https://www.howtogeek.com/tag/privacy/): Privacy-focused explainers for apps, devices, browsers, and online services.
+- [Passwords](https://www.howtogeek.com/tag/passwords/): Password management advice, best practices, and account security tips.
+- [VPN](https://www.howtogeek.com/tag/vpn/): VPN explainers, recommendations, and setup guidance.
+- [Two-Factor Authentication](https://www.howtogeek.com/tag/two-factor-authentication/): Guides to enabling and using 2FA across services.
+- [Scams](https://www.howtogeek.com/tag/scams/): Warnings and explainers about phishing, fraud, and online threats.
 
-- [Buying Guides](https://www.howtogeek.com/buying-guides): Expert buying guides: VPNs, tech recommendations, comparison reviews
-- [Tech Deals](https://www.howtogeek.com/deals): Expert-curated tech deals on smartphones, gadgets, smart home products
-
-## Optional
-
-- [Newsletter Subscription](https://www.howtogeek.com/page/newsletter): Newsletter subscription for tech tips, deals, reviews, Linux, Android
+## DIY, Linux & Advanced Topics
+- [Raspberry Pi](https://www.howtogeek.com/tag/raspberry-pi/): Raspberry Pi projects, setup tutorials, and hardware experiments.
+- [Docker](https://www.howtogeek.com/tag/docker/): Container basics, commands, and self-hosting tutorials using Docker.
+- [Self-Hosting](https://www.howtogeek.com/tag/self-hosting/): Guides for running services at home on servers and NAS devices.
+- [NAS](https://www.howtogeek.com/tag/nas/): Network-attached storage setup, backups, and media server articles.
+- [Command Line](https://www.howtogeek.com/tag/command-line/): Shell and terminal tutorials for Windows, macOS, and Linux users.
+- [Open Source](https://www.howtogeek.com/tag/open-source/): Coverage of open-source software, tools, and ecosystem developments.

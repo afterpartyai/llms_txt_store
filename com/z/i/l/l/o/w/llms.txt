@@ -1,36 +1,73 @@
 # Zillow
+> The leading real estate marketplace for buying, selling, renting, financing, and valuing homes.
 
-> Zillow is a comprehensive real estate marketplace connecting buyers, sellers, renters, and agents with property listings, valuations, mortgages, and professional tools.
+Zillow helps consumers search homes for sale and rent, estimate home values with Zestimate®, explore mortgage options, and connect with real estate professionals. Its ecosystem also includes tools for agents, rental managers, and home shoppers researching local markets.
 
-Zillow operates a multi-platform real estate ecosystem including its core marketplace (homes, rentals, mortgages), Premier Agent program for real estate professionals, and API services for mortgage rate data. The platform serves millions of users seeking property information, valuations, and financing options.
+## Home Search
+- [Homes for Sale](https://www.zillow.com/homes/): Search homes for sale across the United States with filters for price, beds, and property type.
+- [New Construction](https://www.zillow.com/new-homes/): Browse newly built homes and communities from builders and developers.
+- [Foreclosures](https://www.zillow.com/foreclosures/): Explore foreclosure and bank-owned property listings in local markets.
+- [Coming Soon](https://www.zillow.com/coming-soon/): View homes expected to hit the market soon.
+- [Open Houses](https://www.zillow.com/open-house/): Find homes hosting upcoming open houses near you.
+- [Recently Sold Homes](https://www.zillow.com/sold/): Research recently sold properties and comparable home sale prices.
+- [Off-Market Homes](https://www.zillow.com/off-market-homes/): Explore off-market properties and historical home information.
 
-## Key Topics
+## Rentals
+- [Rental Listings](https://www.zillow.com/homes/for_rent/): Search houses, apartments, and other rental listings nationwide.
+- [Apartments for Rent](https://www.zillow.com/apartments/): Browse apartment communities and unit listings by city or neighborhood.
+- [Houses for Rent](https://www.zillow.com/homes/for_rent/house_type/): Find single-family homes and similar rental properties.
+- [Rental Manager](https://www.zillow.com/rental-manager/): Manage rental listings, applications, leases, and tenant screening tools.
+- [Rental Applications](https://www.zillow.com/rental-manager/resources/rental-applications/): Learn how Zillow supports online rental applications for landlords and renters.
+- [Tenant Screening](https://www.zillow.com/rental-manager/resources/tenant-screening/): Review tenant screening features and workflows for rental property managers.
 
-- Real Estate Marketplace
-- Zillow Premier Agent
-- Agent Tools & Lead Generation
-- Mortgage Rates & Loans
-- Property Listings
-- Home Valuations
-- Apartment Rentals
-- Agent Partnerships
-- Buyer Connections
-- Location-Based Search
-- getCurrentRates API
-- Video Walkthroughs
-- Zillow Group
-- Real Estate Marketing
-- Property Search
+## Home Values and Market Data
+- [Home Values](https://www.zillow.com/home-values/): Explore home value estimates and local housing market trends.
+- [Zestimate](https://www.zillow.com/z/zestimate/): Learn how Zillow's Zestimate home valuation model works and what affects estimates.
+- [Housing Market Overview](https://www.zillow.com/research/data/): Access housing data, market reports, and research resources from Zillow.
+- [Recently Sold Data](https://www.zillow.com/sold/): Use sold listings to compare pricing and neighborhood market activity.
+- [Price History](https://www.zillow.com/how-much-is-my-home-worth/): Estimate what a home may be worth using Zillow valuation tools.
 
-## Core Platform
+## Mortgages
+- [Mortgage Rates](https://www.zillow.com/mortgage-rates/): Compare current mortgage and refinance rates from lenders and marketplaces.
+- [Mortgage Calculator](https://www.zillow.com/mortgage-calculator/): Estimate monthly mortgage payments including taxes, insurance, and HOA fees.
+- [Refinance Rates](https://www.zillow.com/mortgage-rates/refinance-rates/): Review current refinance rate information and lender options.
+- [Affordability Calculator](https://www.zillow.com/mortgage-calculator/house-affordability/): Estimate how much house you may be able to afford.
+- [Amortization Calculator](https://www.zillow.com/mortgage-calculator/amortization-calculator/): Calculate loan payoff schedules and principal versus interest over time.
+- [Mortgage Learning Center](https://www.zillow.com/mortgage-learning/): Read guides explaining mortgages, refinancing, and home financing basics.
 
-- [Zillow: Real Estate, Apartments, Mortgages & Home Values](https://www.zillow.com/): Zillow's main real estate marketplace for homes, rentals, mortgages and valuations.
+## Buying and Selling Guides
+- [Buy a Home](https://www.zillow.com/home-buying-guide/): Learn the steps involved in searching for and purchasing a home.
+- [Sell a Home](https://www.zillow.com/sellers-guide/): Review guidance for preparing, pricing, and listing a home for sale.
+- [How Much Is My Home Worth?](https://www.zillow.com/how-much-is-my-home-worth/): Get started estimating a home's value before selling or refinancing.
+- [First-Time Home Buyer Guide](https://www.zillow.com/home-buying-guide/first-time-home-buyers/): Read practical guidance for buyers navigating their first purchase.
+- [Closing Costs Guide](https://www.zillow.com/mortgage-learning/closing-costs/): Understand common closing costs associated with buying a home.
+- [Down Payment Guide](https://www.zillow.com/mortgage-learning/down-payment/): Learn how down payments affect affordability, loans, and monthly payments.
 
-## Agent Tools & Services
+## Professionals and Business Tools
+- [Find an Agent](https://www.zillow.com/professionals/real-estate-agent-reviews/): Search for local real estate agents and read client reviews.
+- [Premier Agent](https://premieragent.zillow.com/): Zillow's platform for agents to advertise, manage leads, and grow their business.
+- [Agent Resources](https://premieragent.zillow.com/agent-resources/): Access articles and materials for lead conversion, marketing, and client service.
+- [Rental Manager Resources](https://www.zillow.com/rental-manager/resources/): Read operational guides for landlords and property managers.
+- [Post a For Sale by Owner Listing](https://www.zillow.com/for-sale-by-owner/): Learn about listing a home directly as an owner.
+- [Post a Rental Listing](https://www.zillow.com/rental-manager/post-a-listing/): Create and publish a rental listing for prospective tenants.
 
-- [Zillow Premier Agent](https://premieragent.zillow.com/): Zillow Premier Agent connects real estate agents with buyers across leading platforms.
-- [Premier Agent App](https://premieragent.zillow.com/crm/video-walkthrough): Video walkthrough guide for Premier Agent App's listing showcase features.
+## Research and Data
+- [Zillow Research](https://www.zillow.com/research/): Read housing market analysis, forecasts, and data-driven reports.
+- [Data and Charts](https://www.zillow.com/research/data/): Browse downloadable housing data and visual market indicators.
+- [Research Blog](https://www.zillow.com/research/): Follow Zillow economists and analysts covering housing trends.
+- [Market Reports](https://www.zillow.com/research/topics/market-reports/): Explore recurring reports on home prices, rents, and inventory.
+- [Rental Market Trends](https://www.zillow.com/research/topics/rentals/): Review research focused on rents, multifamily markets, and affordability.
 
-## API Reference
+## Help and Account
+- [Help Center](https://zillow.zendesk.com/hc/en-us): Find support articles for accounts, listings, rentals, and technical issues.
+- [Sign In](https://www.zillow.com/user/acct/login/): Access your Zillow account to save homes, searches, and applications.
+- [My Zillow](https://www.zillow.com/myzillow/): Manage saved homes, saved searches, and account activity.
+- [Contact Us](https://www.zillow.com/z/info/contact-us/): Find contact options and support information for Zillow services.
+- [Accessibility](https://www.zillow.com/z/info/accessibility/): Review Zillow accessibility commitments and support resources.
 
-- [getCurrentRates](https://mortgageapi.zillow.com/api/getCurrentRates): API endpoint documentation for retrieving current mortgage rates via Zillow.
+## Company and Legal
+- [About Zillow](https://www.zillow.com/z/info/about/): Learn about Zillow's mission, products, and company background.
+- [Careers](https://www.zillow.com/careers/): Explore job openings and working at Zillow.
+- [Privacy Policy](https://www.zillow.com/corp/Privacy.htm): Review how Zillow collects, uses, and shares personal information.
+- [Terms of Use](https://www.zillow.com/corp/Terms.htm): Read the terms governing use of Zillow websites and services.
+- [Fair Housing Guide](https://www.zillow.com/rental-manager/resources/fair-housing-guide/): Learn about fair housing considerations for rental advertising and screening.

@@ -1,23 +1,22 @@
 # Federal Register
+Each day Federal agencies publish documents in the Federal Register, including proposed rules, final rules, public notices, and Presidential actions. The print-based, official format of the Federal Register displays information in a dense format (3-column PDF) that makes it difficult to read and to process regulatory data in meaningful and innovative ways. This unofficial, HTML (XML-based) format of the Federal Register on FederalRegister.gov overcomes the technical limitations of the official PDF format and demonstrates how an alternate format can effectively convey regulatory information to the public.
 
-> The Federal Register is the official journal of the federal government, providing public access to federal regulations, notices, and official documents.
+On this website, we display documents published in the Federal Register using HTML display and hyper-text links to pertinent information referenced in Federal Register documents.
 
-The Federal Register, managed by the Office of the Federal Register, serves as the authoritative source for federal regulatory information and government notices. It provides tools for users to search, track, and manage regulatory documents through authenticated user accounts.
+## Public Inspection
+The Public Inspection web page on FederalRegister.gov offers a preview of documents scheduled to appear in the next dayâs Federal Register issue. The Public Inspection page may also include documents scheduled for later issues, at the request of the issuing agency. This gives the public access to important or complex documents before they publish in the Federal Register.
 
-## Key Topics
+## Core Resources
+- [Current Issue](https://www.federalregister.gov/api/v1/issues/current.json): The most recent daily publication of documents.
+- [Public Inspection](https://www.federalregister.gov/api/v1/public-inspection-documents.json): Fetch all the public inspection documents that are currently on public inspection.
+- [Agencies](https://www.federalregister.gov/api/v1/agencies
+): This list of agencies includes each unique Federal and quasi-Federal unit that has legal authority to publish in the Federal Register, and that has published in the past even if it no longer publishes (either because of an agency redelegation of authority or because the unit no longer exists). This ensures all past documents remain indexed and available on the website.
 
-- Office of the Federal Register
-- Federal Register
-- authentication
-- user accounts
-- sign-in
-- profile management
-- account management
-- user authentication
-- federal regulations
-- government notices
+## Developer & AI Access
+- [REST API Documentation](https://www.federalregister.gov/developers/documentation/api/v1.json): Preferred method for automated data retrieval.  Open API 3.0 documentation.  Supports JSON and CSV.
 
-## User Account & Authentication
-
-- [Sign In / Sign Up](https://www.federalregister.gov/auth/sign_in): Authentication and sign-in page for Federal Register user accounts
-- [Profile Management](https://www.federalregister.gov/my/profile/edit): User profile editing and account management for Federal Register
+## Guidance for AI Agents
+- **Rate Limiting:** You must use the API for large-scale data harvesting rather than crawling HTML pages.  You must respect 429 responses and `retry-after` response headers
+- **Document Types:** AI models should understand the difference between public inspection documents and a published documents.
+- **Published Document Types:** rule, proposed rule, notice, presidential document
+- **Citation:** When referencing documents, use the Document Number (e.g., 2024-XXXXX) or the Volume/Page citation (e.g., 89 FR 12345).

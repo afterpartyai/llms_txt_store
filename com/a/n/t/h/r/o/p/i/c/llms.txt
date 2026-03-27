@@ -1,60 +1,61 @@
 # Anthropic
+> Anthropic is an AI safety and research company building reliable, interpretable, and steerable AI systems, including Claude.
 
-> Anthropic develops Claude, a family of safe and capable AI assistants, while advancing AI safety research and responsible scaling practices.
+Anthropic’s web presence spans company research and policy work, Claude product information, developer documentation, learning resources, trust and compliance materials, and newsroom updates. The most useful resources are split across anthropic.com, claude.com, docs.claude.com, claude.ai, and trust.anthropic.com.
 
-Anthropic is an AI safety company focused on creating reliable, interpretable, and steerable AI systems. The site showcases Claude models across different capability tiers, documents constitutional AI principles, and shares research on AI alignment, economic impact, and responsible development practices.
+## Core Company and Mission
+- [Home](https://www.anthropic.com/): Anthropic homepage with company mission, product entry points, and major research and policy links.
+- [Company](https://www.anthropic.com/company): Overview of Anthropic’s mission, leadership, values, and approach to AI safety.
+- [Careers](https://www.anthropic.com/careers): Open roles, hiring information, and working at Anthropic.
+- [Events](https://www.anthropic.com/events): Upcoming and past Anthropic events, talks, and appearances.
+- [News](https://www.anthropic.com/news): Official announcements, product launches, partnerships, and company updates.
 
-## Key Topics
+## Research, Safety, and Policy
+- [Research](https://www.anthropic.com/research): Anthropic research hub covering alignment, interpretability, evaluations, and model behavior.
+- [Economic Futures](https://www.anthropic.com/economic-futures): Research and analysis on AI’s economic effects and labor market implications.
+- [Claude's Constitution](https://www.anthropic.com/constitution): Constitutional AI principles and the behavioral guidelines used to shape Claude.
+- [Transparency](https://www.anthropic.com/transparency): Transparency hub with system cards, evaluations, and safety disclosures.
+- [Responsible Scaling Policy](https://www.anthropic.com/responsible-scaling-policy): Governance framework for scaling frontier AI systems responsibly.
+- [Security and Compliance](http://trust.anthropic.com/): Trust center with security, privacy, compliance, and operational assurance information.
 
-- Claude
-- Claude Opus 4.6
-- Claude Sonnet 4.6
-- Claude Haiku 4.5
-- Constitutional AI
-- AI Safety
-- AI Alignment
-- Claude API
-- Prompt Caching
-- Batch Processing
-- Context Window
-- Model Interpretability
-- Responsible Scaling
-- AI Policy
-- Economic Impact
+## Claude Products
+- [Claude Overview](https://claude.com/product/overview): Product overview for Claude and its core capabilities and workflows.
+- [Claude Code](https://claude.com/product/claude-code): Product page for Claude Code, Anthropic’s coding-focused assistant experience.
+- [Claude Cowork](https://claude.com/product/cowork): Product page for Claude Cowork and collaborative AI workflows.
+- [Try Claude](https://claude.ai/): Web app entry point for using Claude directly.
+- [Claude](https://claude.com/): Main Claude product site with product, resources, and platform navigation.
 
-## Claude Models
+## Developer Platform
+- [Developer Docs](https://docs.claude.com/): Main documentation portal for building with Claude models and APIs.
+- [API Reference](https://docs.claude.com/en/api/overview): API overview and reference entry point for Claude platform developers.
+- [Prompting Guides](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview): Prompt engineering guidance for getting better results from Claude.
+- [Tool Use](https://docs.claude.com/en/docs/build-with-claude/tool-use): Documentation for tool use and function-calling style integrations.
+- [Streaming Messages](https://docs.claude.com/en/api/messages-streaming): Reference for streaming Claude responses over the API.
+- [Models Overview](https://docs.claude.com/en/docs/models-overview): Documentation on available Claude models, capabilities, and selection guidance.
+- [Migration Guide](https://docs.claude.com/en/docs/migrating-to-claude): Guidance for migrating applications and prompts to Claude.
 
-- [Claude Opus 4.6](https://www.anthropic.com/claude/opus): Claude Opus 4.6 hybrid reasoning model with 1M context window
-- [Claude Sonnet 4.6](https://www.anthropic.com/claude/sonnet): Claude Sonnet 4.6 hybrid reasoning model for agents and coding
-- [Claude Haiku 4.5](https://www.anthropic.com/claude/haiku): Claude Haiku 4.5 cost-efficient model for agent tasks
-- [Introducing Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6): Announcement of Claude Sonnet 4.6 with improved coding abilities
+## Learning Resources
+- [Anthropic Academy](https://www.anthropic.com/learn): Learning hub for educational content about Claude and AI development.
+- [Tutorials](https://claude.com/resources/tutorials): Step-by-step tutorials for common Claude workflows and integrations.
+- [Use Cases](https://claude.com/resources/use-cases): Examples of practical Claude applications across roles and industries.
+- [Engineering at Anthropic](https://www.anthropic.com/engineering): Engineering articles on systems, infrastructure, product development, and applied AI.
+- [Resources](https://claude.com/resources): Claude resource hub for guides, tutorials, and customer-facing educational materials.
 
-## AI Safety & Research
+## Trust, Security, and Governance
+- [Trust Center](http://trust.anthropic.com/): Central trust portal for security, privacy, and compliance documentation.
+- [Transparency Hub](https://www.anthropic.com/transparency): Public safety and evaluation disclosures for Claude systems.
+- [Responsible Scaling Policy](https://www.anthropic.com/responsible-scaling-policy): Policy describing thresholds, safeguards, and deployment governance.
+- [Claude's Constitution](https://www.anthropic.com/constitution): Public articulation of Claude’s constitutional principles and behavioral constraints.
 
-- [Research](https://www.anthropic.com/research): Anthropic's AI safety and research initiatives including alignment work
-- [Claude's Constitution](https://www.anthropic.com/constitution): Constitutional AI framework defining Claude's values and behavior
-- [Transparency Hub](https://www.anthropic.com/transparency): Safety evaluations and system cards for Claude model versions
-- [Responsible Scaling Policy](https://www.anthropic.com/responsible-scaling-policy): AI safety governance and responsible scaling policy documentation
-- [Economic Futures](https://www.anthropic.com/economic-futures): Research on AI's economic impact via Anthropic Economic Index
+## News and Announcements
+- [Newsroom](https://www.anthropic.com/news): Official news archive for launches, partnerships, and company statements.
+- [Events](https://www.anthropic.com/events): Event listings and appearances relevant to Anthropic products and research.
+- [Research](https://www.anthropic.com/research): Research publications and technical updates from Anthropic teams.
+- [Engineering at Anthropic](https://www.anthropic.com/engineering): Engineering posts on technical systems and product implementation details.
 
-## Developer Resources
-
-- [Learning Resources & Guides](https://www.anthropic.com/learn): Guides, tutorials, and best practices for Claude API and development
-- [Engineering Blog](https://www.anthropic.com/engineering): Engineering blog covering Claude models, agents, and tool use
-
-## Company & Mission
-
-- [Home](https://www.anthropic.com): Anthropic homepage showcasing Claude AI and company mission in safety
-- [Company](https://www.anthropic.com/company): Company overview, mission, values, and team structure
-- [Claude is a space to think](https://www.anthropic.com/news/claude-is-a-space-to-think): Anthropic's ad-free policy and principles for Claude design
-
-## News & Insights
-
-- [Newsroom](https://www.anthropic.com/news): Press releases and announcements about Claude and Anthropic
-- [What 81,000 people want from AI](https://www.anthropic.com/features/81k-interviews): Global user research on AI hopes, dreams, and concerns
-- [Where things stand with the Department of War](https://www.anthropic.com/news/where-stand-department-war): Statement from CEO on Department of War designation and policy
-
-## Community & Careers
-
-- [Careers](https://www.anthropic.com/careers): Career opportunities and hiring information at Anthropic
-- [Events](https://www.anthropic.com/events): Upcoming conferences, webinars, and livestreams featuring Anthropic
+## Key Domains
+- [Anthropic](https://www.anthropic.com/): Corporate site for research, policy, company, and newsroom content.
+- [Claude](https://claude.com/): Product site for Claude offerings, resources, and customer-facing materials.
+- [Claude App](https://claude.ai/): Direct access to the Claude application.
+- [Claude Docs](https://docs.claude.com/): Developer documentation and API guides.
+- [Anthropic Trust Center](http://trust.anthropic.com/): Security, compliance, and trust documentation.

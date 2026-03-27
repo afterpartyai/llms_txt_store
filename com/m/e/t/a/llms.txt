@@ -1,22 +1,72 @@
-# Meta Developers
+# Meta
 
-> Meta's developer documentation platform providing resources for building VR/XR applications across Oculus, Unreal Engine, and OpenXR platforms.
+> Shop AI glasses, smart wearables, and VR headsets from Meta, with product support, setup guides, and developer resources.
 
-Meta Developers hosts comprehensive technical documentation and tools for developers creating virtual reality and extended reality experiences. The platform covers development frameworks, SDKs, and best practices for building immersive applications.
+Meta offers consumer hardware including Ray-Ban Meta smart glasses, Oakley Meta glasses, Meta Quest VR headsets, and related accessories. Its web properties also include support resources, safety information, and developer documentation for building XR experiences on Meta platforms.
 
-## Key Topics
+## Shop
+- [Meta Store](https://www.meta.com/): Main storefront for Meta glasses, VR headsets, accessories, and featured products.
+- [Ray-Ban Meta Glasses](https://www.meta.com/smart-glasses/): Product hub for Ray-Ban Meta smart glasses and AI-enabled wearable features.
+- [Oakley Meta Glasses](https://www.meta.com/oakley-meta-glasses/): Product page for Oakley Meta performance smart glasses and wearable technology.
+- [Meta Quest](https://www.meta.com/quest/): Landing page for Meta Quest VR headsets, experiences, and accessories.
+- [Accessories](https://www.meta.com/quest/accessories/): Browse accessories for Meta Quest headsets, controllers, charging, and comfort.
+- [Gift Cards](https://www.meta.com/quest/gift-cards/): Purchase Meta Quest gift cards for apps, games, and digital content.
+- [Refurbished Products](https://www.meta.com/refurbished/): Shop certified refurbished Meta hardware and supported device bundles.
 
-- Oculus Audio Loudness Meter
-- Unreal Engine
-- VR Development
-- Meta XR Plugin
-- OpenXR
-- Audio Tools
-- Android Studio
-- Developer Documentation
-- XR Development
-- Audio Engineering
+## Smart Glasses
+- [Ray-Ban Meta Support](https://www.meta.com/help/smart-glasses/): Help center for setup, troubleshooting, features, and account management.
+- [Meta AI on Glasses](https://www.meta.com/ai-glasses/): Overview of Meta AI features available on supported smart glasses.
+- [Privacy Information for Glasses](https://www.meta.com/help/smart-glasses/articles/privacy-information-for-ray-ban-meta-smart-glasses/): Explains privacy indicators, data handling, and camera use on smart glasses.
+- [Import and Capture Media](https://www.meta.com/help/smart-glasses/articles/ray-ban-meta/import-and-capture-media/): Guidance for taking photos, recording video, and importing media from glasses.
+- [Calls and Messaging](https://www.meta.com/help/smart-glasses/articles/ray-ban-meta/calls-and-messaging/): Instructions for calling, messaging, and communication features on smart glasses.
+- [Voice Controls](https://www.meta.com/help/smart-glasses/articles/ray-ban-meta/voice-controls/): Help for using voice commands and hands-free interactions on supported glasses.
 
-## Audio Development Tools
+## Meta Quest Support
+- [Meta Quest Help Center](https://www.meta.com/help/quest/): Central support hub for Meta Quest setup, troubleshooting, and account issues.
+- [Set Up Your Meta Quest](https://www.meta.com/help/quest/articles/getting-started/getting-started-with-quest-2/): Getting started instructions for setting up and using a Meta Quest headset.
+- [Meta Quest Safety Center](https://www.meta.com/help/quest/articles/accounts/privacy-information-and-settings/): Support articles covering privacy settings, account controls, and device management.
+- [Controllers and Tracking](https://www.meta.com/help/quest/articles/headsets-and-accessories/controllers-and-hand-tracking/): Help for controllers, hand tracking, pairing, and input troubleshooting.
+- [Casting and Sharing](https://www.meta.com/help/quest/articles/in-vr-experiences/oculus-features/cast-with-quest/): Instructions for casting Meta Quest content to other screens and devices.
+- [Boundary and Space Setup](https://www.meta.com/help/quest/articles/in-vr-experiences/oculus-features/boundary/): Guidance for guardian boundaries, play space setup, and room-scale safety.
+- [Factory Reset and Recovery](https://www.meta.com/help/quest/articles/fix-a-problem/troubleshoot-headsets-and-accessories/factory-reset-meta-quest/): Steps for resetting and recovering a Meta Quest headset.
 
-- [Oculus Audio Loudness Meter Overview](https://developers.meta.com/horizon/documentation/unreal/audio-loudness-meter-overview/?locale=ru_RU): Guide to Oculus Audio Loudness Meter tool for Unreal Engine VR development
+## Safety and Warranty
+- [Product Safety Center](https://www.meta.com/legal/safety-center/): Safety information, warnings, and responsible use guidance for Meta hardware.
+- [Meta Warranty Information](https://www.meta.com/legal/limited-warranty/): Limited warranty terms for eligible Meta consumer hardware products.
+- [Return Policy](https://www.meta.com/legal/quest/returns/): Policy details for returns, refunds, and eligibility for Meta Store purchases.
+- [Terms of Sale](https://www.meta.com/legal/quest/terms-of-sale/): Legal terms governing purchases made through the Meta Store.
+- [Privacy Policy](https://www.meta.com/legal/privacy-policy/): Meta privacy policy covering data collection, use, and user rights.
+- [Terms of Service](https://www.meta.com/legal/terms/): General terms governing use of Meta products, services, and websites.
+
+## Developers
+- [Meta for Developers](https://developers.meta.com/): Developer portal for building apps and experiences across Meta platforms.
+- [Horizon OS Documentation](https://developers.meta.com/horizon/documentation/): Technical documentation for Meta Horizon OS and XR development.
+- [Unity Development](https://developers.meta.com/horizon/documentation/unity/): Guides and references for building Meta XR applications with Unity.
+- [Unreal Development](https://developers.meta.com/horizon/documentation/unreal/): Guides and references for building Meta XR applications with Unreal Engine.
+- [OpenXR Development](https://developers.meta.com/horizon/documentation/native/openxr/): Documentation for building native XR apps using OpenXR on Meta platforms.
+- [Meta XR Core SDK](https://developers.meta.com/horizon/documentation/unity/unity-overview/): Overview of core SDK tooling for Unity-based Meta XR development.
+- [Platform SDK](https://developers.meta.com/horizon/documentation/native/ps-overview/): Reference for platform services including identity, entitlements, and social features.
+- [Developer Forums](https://communityforums.atmeta.com/): Community discussions for Meta developers, creators, and device builders.
+
+## Horizon and XR Guides
+- [Getting Started with Horizon OS](https://developers.meta.com/horizon/documentation/native/android/mobile-getting-started/): Introductory setup guide for building apps on Meta Horizon OS.
+- [Build for App Lab and Store](https://developers.meta.com/horizon/discover/publish/): Publishing guidance for distributing apps on Meta platforms.
+- [Performance Best Practices](https://developers.meta.com/horizon/documentation/unity/ts-odh-logs-metrics/): Guidance for profiling, optimization, and performance analysis in XR apps.
+- [Interaction SDK](https://developers.meta.com/horizon/documentation/unity/unity-isdk-overview/): Documentation for hand, controller, and interaction patterns in Unity apps.
+- [Passthrough](https://developers.meta.com/horizon/documentation/unity/unity-passthrough-overview/): Guides for mixed reality passthrough features in Meta XR applications.
+- [Spatial Anchors](https://developers.meta.com/horizon/documentation/unity/unity-spatial-anchors-overview/): Documentation for persistent spatial anchors and shared spatial experiences.
+- [Audio SDK](https://developers.meta.com/horizon/documentation/native/audio-overview/): Overview of spatial audio tools and audio integration for XR development.
+
+## Downloads and Apps
+- [Meta Horizon App](https://www.meta.com/quest/meta-horizon-app/): Companion mobile app for device setup, management, and social VR features.
+- [Meta Quest Link](https://www.meta.com/help/quest/articles/headsets-and-accessories/oculus-link/set-up-link/): Instructions for connecting Meta Quest to a PC with Link.
+- [Quest PC App Support](https://www.meta.com/help/quest/articles/headsets-and-accessories/oculus-rift-s/install-app-for-link/): Help for installing and using the Meta Quest PC software.
+- [Software Updates](https://www.meta.com/help/quest/articles/whats-new/release-notes/): Release notes and update information for Meta Quest software.
+- [Download Manuals](https://www.meta.com/help/quest/articles/getting-started/getting-started-with-quest-2/manuals/): User manuals and official documentation for supported Quest devices.
+
+## News and Company
+- [Meta Newsroom](https://about.fb.com/news/): Official news, announcements, and product updates from Meta.
+- [About Meta](https://about.meta.com/): Corporate information about Meta, its products, and company initiatives.
+- [Reality Labs](https://about.meta.com/realitylabs/): Information about Meta Reality Labs and immersive technology research.
+- [AI at Meta](https://ai.meta.com/): Research, models, and initiatives related to artificial intelligence at Meta.
+- [Engineering at Meta](https://engineering.fb.com/): Technical articles and engineering updates from Meta teams.

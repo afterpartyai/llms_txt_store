@@ -1,64 +1,161 @@
 # OneSignal
 
-> > Multi-channel customer engagement platform providing push notifications, email, SMS, and in-app messaging solutions with comprehensive SDK integration for web, mobile (iOS/Android), and enterprise applications.
+OneSignal is an omnichannel customer engagement platform used by over 1 million businesses to send push notifications, email, SMS, in-app messages, and Live Activities. It provides client SDKs for every major platform, a full REST API, a visual Journeys automation builder, and real-time analytics — delivering 12 billion+ messages daily.
 
-OneSignal is a developer-focused messaging platform that enables businesses to send push notifications, emails, SMS, and in-app messages across multiple channels. The platform offers SDKs for major platforms, integrates with Firebase Cloud Messaging (FCM) and Apple Push Notification service (APNs), and provides enterprise-grade security with GDPR compliance and SOC 2 certification.
+Important context for understanding OneSignal:
 
-## Key Topics
+- OneSignal uses a User Model where each end-user (identified by a OneSignal ID or External ID) can have multiple Subscriptions (push device tokens, email addresses, phone numbers). Users can be grouped into Segments and tagged with custom key-value **Tags** for targeting and personalization.
+- The platform supports six messaging channels: mobile push, web push, email, SMS/RCS, in-app messages, and iOS Live Activities.
+- Journeys is OneSignal's no-code visual workflow builder for multi-step, cross-channel automation (onboarding flows, abandoned carts, re-engagement campaigns).
+- The REST API authenticates via REST API Keys (per-app) or Organization API Keys (for app management). All requests use HTTPS to `https://api.onesignal.com`.
+- Client SDKs are organized into Mobile SDKs (iOS, Android, React Native, Flutter, Unity, etc.), Web SDKs (JavaScript, React, Vue, Angular, WordPress), and Server SDKs (Node.js, Python, PHP, Ruby, Go, Java, .NET, Rust).
 
-- Push notifications (web, mobile, iOS, Android)
-- Email marketing and transactional messaging
-- SMS and MMS messaging
-- SDK integration (mobile and web)
-- Firebase Cloud Messaging (FCM)
-- Apple Push Notification service (APNs)
-- Service workers and HTTPS requirements
-- Marketing automation and segmentation
-- GDPR compliance and data security
-- Multi-channel messaging campaigns
-- In-app messaging and Live Activities
-- Twilio integration for SMS
-- Opensense email signature management
-- User targeting and personalization
+## Getting started
 
-## Getting Started
+- [Documentation home](https://documentation.onesignal.com/docs/en/home): Landing page with links to all major documentation sections including SDK setup, API reference, and messaging channels
+- [Quickstart guide](https://documentation.onesignal.com/docs/en/quickstart-guide): End-to-end onboarding — create organization, create app, configure channels, integrate SDK, send first message
+- [Developer guides](https://documentation.onesignal.com/docs/en/developers): Hub for SDK setup guides, SDK references, analytics integration, and User Model migration
+- [Tutorials](https://documentation.onesignal.com/docs/en/tutorials): Industry-specific tutorials and use-case walkthroughs for transactional messages, abandoned carts, surveys, and more
+- [Keys and IDs](https://documentation.onesignal.com/docs/en/keys-and-ids): How to find and manage your App ID, REST API Key, Organization API Key, and other credentials
+- [Apps and organizations](https://documentation.onesignal.com/docs/en/apps-organizations): Managing multiple apps, organizations, and team member access
 
-- [OneSignal Customer Engagement Platform](https://staging.onesignal.com): OneSignal homepage: multi-channel messaging platform for push, email, SMS
-- [OneSignal Documentation](https://documentation.onesignal.com): OneSignal docs homepage: guides, SDK setup, API reference for messaging
-- [Quickstart Guide](https://documentation.onesignal.com/docs/en/quickstart-guide): OneSignal quickstart: account setup, channels, users, first message tutorial
+## Core concepts
 
-## Platform Setup Guides
+- [Users](https://documentation.onesignal.com/docs/en/users): The User Model — OneSignal ID, External ID, anonymous vs. identified users, aliases, MAU billing, and user properties
+- [Subscriptions](https://documentation.onesignal.com/docs/en/subscriptions): Channel-specific subscriptions (push tokens, email addresses, phone numbers), subscription status, and lifecycle management
+- [Segmentation](https://documentation.onesignal.com/docs/en/segmentation): Creating dynamic user segments based on behavior, tags, location, device properties, and subscription status
+- [Tags](https://documentation.onesignal.com/docs/en/add-user-data-tags): Custom key-value metadata attached to users for targeting, personalization, and filtering
+- [Message personalization](https://documentation.onesignal.com/docs/en/message-personalization): Dynamic content insertion using user data, tags, and liquid-style template syntax
+- [Deep linking](https://documentation.onesignal.com/docs/en/deep-linking): Routing users to specific screens in your app or pages on your website from notifications
+- [Multi-language messaging](https://documentation.onesignal.com/docs/en/multi-language-messaging): Sending localized notifications based on user language preferences
+- [A/B testing](https://documentation.onesignal.com/docs/en/ab-testing): Testing up to 10 message variants to optimize content, timing, and delivery
 
-- [Mobile Push Setup](https://documentation.onesignal.com/docs/en/mobile-push-setup): Mobile push guide: FCM/APNs credentials, SDK setup, iOS/Android permissions
-- [Web Push Setup](https://documentation.onesignal.com/docs/en/web-push-setup): Web push setup guide: HTTPS, service worker, SDK integration for browsers
-- [Email Setup](https://documentation.onesignal.com/docs/en/email-setup): Complete email configuration guide with DNS, domain verification, providers
-- [Android Firebase Credentials](https://documentation.onesignal.com/docs/en/android-firebase-credentials): Guide to generating Firebase FCM credentials for Android push notifications
+## Messaging channels
 
-## Troubleshooting & Support
+- [Push notifications](https://documentation.onesignal.com/docs/push): Complete guide to mobile and web push — setup, permissions, targeting, scheduling, delivery options, grouping, TTL, badges, and sounds
+- [Email messaging](https://documentation.onesignal.com/docs/en/email-messaging): Email channel setup, drag-and-drop editor, transactional and marketing email, personalization, and deliverability management
+- [SMS messaging](https://documentation.onesignal.com/docs/en/sms-messaging): SMS and RCS messaging setup, Twilio integration, targeting, delivery analytics, and compliance
+- [SMS opt-in and collection](https://documentation.onesignal.com/docs/en/sms-opt-in-and-collection): Compliant phone number collection via web prompts, double opt-in flows, and promotional opt-in
+- [In-app messages](https://documentation.onesignal.com/docs/en/in-app-messages-setup): In-app message creation with banners, modals, full-screen interstitials, carousels — triggered by user behavior or custom events
+- [Live Activities](https://documentation.onesignal.com/docs/en/live-activities): iOS Live Activities for real-time Lock Screen and Dynamic Island updates — delivery tracking, sports scores, transit status
+- [Live Activities developer setup](https://documentation.onesignal.com/docs/en/live-activities-developer-setup): SDK integration guide for implementing Live Activities in iOS apps
+- [Android live notifications](https://documentation.onesignal.com/docs/en/android-live-notifications): Android equivalent of Live Activities for persistent, updating notifications
+- [Webhooks](https://documentation.onesignal.com/docs/en/webhooks): Real-time HTTP POST callbacks for notification displayed, clicked, and dismissed events
+- [SMS FAQ](https://documentation.onesignal.com/docs/en/sms-faq): Character limits, encoding, MMS support, international SMS, and phone number type requirements
 
-- [Mobile SDK Troubleshooting](https://documentation.onesignal.com/docs/en/mobile-troubleshooting): Mobile SDK troubleshooting: Firebase conflicts, notification delivery issues
-- [Web Push FAQ](https://documentation.onesignal.com/docs/en/web-push-setup-faq): Web push FAQ: browser compatibility, HTTPS requirements, iOS support
-- [Data Collection & Security FAQs](https://documentation.onesignal.com/docs/en/data-questions): OneSignal data security, GDPR/HIPAA compliance, SOC 2/ISO certifications FAQ
-- [SMS FAQ](https://documentation.onesignal.com/docs/en/sms-faq): SMS/MMS troubleshooting: E.164 format, Twilio integration, encoding issues
+## Journeys and automation
 
-## Additional Products
+- [Journeys overview](https://documentation.onesignal.com/docs/en/journeys-overview): No-code visual workflow builder for multi-step, cross-channel messaging automation — triggers, conditions, waits, branching, and channel steps
+- [Confirmed delivery](https://documentation.onesignal.com/docs/en/confirmed-delivery): Verification that a push notification was actually displayed on the user's device
 
-- [Opensense Email Signature Management](https://smart.onesignal.com): Opensense email signature management integrated with Microsoft 365/Google
+## Mobile SDKs
+
+- [Mobile SDK setup overview](https://documentation.onesignal.com/docs/en/mobile-sdk-setup): Hub page listing all mobile platform setup guides
+- [iOS SDK setup](https://documentation.onesignal.com/docs/en/ios-sdk-setup): Native iOS integration — Swift Package Manager or CocoaPods, Notification Service Extension, App Groups, capabilities, and testing
+- [Android SDK setup](https://documentation.onesignal.com/docs/en/android-sdk-setup): Native Android integration — Gradle, Firebase/FCM configuration, initialization, and testing
+- [React Native SDK setup](https://documentation.onesignal.com/docs/en/react-native-sdk-setup): React Native integration for bare apps with platform-specific iOS and Android steps
+- [Expo SDK setup](https://documentation.onesignal.com/docs/en/react-native-expo-sdk-setup): OneSignal Expo plugin for managed Expo and EAS Build workflows
+- [Flutter SDK setup](https://documentation.onesignal.com/docs/en/flutter-sdk-setup): Flutter integration via pub.dev onesignal_flutter package with platform-specific configuration
+- [Unity SDK setup](https://documentation.onesignal.com/docs/en/unity-sdk-setup): Unity integration via Asset Store package — editor configuration, Xcode and Android build steps
+- [Cordova and Ionic SDK setup](https://documentation.onesignal.com/docs/en/cordova-sdk-setup): Cordova, Ionic, and Capacitor integration via npm plugin
+- [.NET MAUI SDK setup](https://documentation.onesignal.com/docs/en/net-sdk-setup): .NET MAUI cross-platform integration via NuGet package
+- [Xamarin SDK setup](https://documentation.onesignal.com/docs/en/xamarin-sdk-setup): Xamarin cross-platform integration via NuGet package
+- [Mobile SDK reference](https://documentation.onesignal.com/docs/en/mobile-sdk-reference): Complete API reference for all mobile SDKs — initialization, login/logout, user management, tags, notifications, permissions, in-app messages, Live Activities, location, and debugging
+
+## Web SDKs
+
+- [Web SDK setup](https://documentation.onesignal.com/docs/en/web-sdk-setup): Web push SDK integration — service worker setup, configuration options, and browser support
+- [Web push quickstart](https://documentation.onesignal.com/docs/en/web-push-quickstart): Fastest path to getting web push working in your website
+- [React and Next.js setup](https://documentation.onesignal.com/docs/react-js-setup): react-onesignal npm module for React and Next.js apps with TypeScript support
+- [Vue.js setup](https://documentation.onesignal.com/docs/en/vue-js-setup): Vue 2 and Vue 3 OneSignal plugins via npm
+- [Angular setup](https://documentation.onesignal.com/docs/en/angular-setup): Angular OneSignal module via onesignal-ngx npm package
+- [WordPress plugin](https://documentation.onesignal.com/docs/en/wordpress): WordPress plugin for automatic post notifications — VIP Gold Partner
+- [OneSignal service worker](https://documentation.onesignal.com/docs/en/onesignal-service-worker): Service worker download, configuration, MIME type setup, and migration guidance
+- [Web push for iOS](https://documentation.onesignal.com/docs/en/web-push-for-ios): PWA-based web push for iOS 16.4+ devices via add-to-home-screen
+- [Web SDK reference](https://documentation.onesignal.com/docs/en/web-sdk-reference): Full JavaScript API reference for the web SDK — initialization, subscriptions, tags, triggers, and events
+- [Troubleshooting web push](https://documentation.onesignal.com/docs/en/troubleshooting-web-push): Debugging web push issues across Chrome, Firefox, Safari, and Edge — service worker errors, MIME types, and permission states
+
+## Server SDKs
+
+- [Server SDK reference](https://documentation.onesignal.com/docs/en/server-sdk-reference): Overview of all server-side API client libraries with installation and usage instructions
+- [Node.js SDK](https://github.com/OneSignal/node-onesignal): npm @onesignal/node-onesignal — official Node.js API client
+- [Python SDK](https://github.com/OneSignal/onesignal-python-api): PyPI onesignal-python-api — official Python API client
+- [PHP SDK](https://github.com/OneSignal/onesignal-php-api): Packagist onesignal/onesignal-php-api — official PHP API client
+- [Ruby SDK](https://github.com/OneSignal/onesignal-ruby-api): RubyGems onesignal — official Ruby API client
+- [Go SDK](https://github.com/OneSignal/onesignal-go-api): Go module github.com/OneSignal/onesignal-go-api — official Go API client
+- [Java SDK](https://github.com/OneSignal/onesignal-java-api): Official Java API client library
+- [.NET SDK](https://github.com/OneSignal/onesignal-dotnet-api): NuGet OneSignalApi — official .NET API client
+- [Rust SDK](https://github.com/OneSignal/onesignal-rust-api): crates.io onesignal-rust-api — official Rust API client
+- [OpenAPI specification](https://github.com/OneSignal/api): api.json OpenAPI spec that generates all server SDK client libraries
+
+## REST API reference
+
+- [REST API overview](https://documentation.onesignal.com/reference/rest-api-overview): Authentication, HTTPS requirements, rate limits, idempotency keys, error handling, and Cloudflare edge network details
+- [Rate limits](https://documentation.onesignal.com/reference/rate-limits): Per-endpoint rate limit thresholds, 429 handling, Retry-After headers, and application-level messaging limits
+- [Idempotent requests](https://documentation.onesignal.com/reference/idempotent-notification-requests): Using the idempotency_key header to prevent duplicate message sends
+- [Create message](https://documentation.onesignal.com/reference/create-message): Send push notifications, emails, or SMS via API — supports segment targeting, filters, aliases, scheduling, throttling, and frequency capping
+- [Push notification options](https://documentation.onesignal.com/reference/push-notification): Push-specific parameters — rich media, action buttons, sounds, badges, collapse IDs, and platform-specific options
+- [Email options](https://documentation.onesignal.com/reference/email): Email-specific parameters — subject, body, reply-to, and template references
+- [SMS options](https://documentation.onesignal.com/reference/sms): SMS-specific parameters — body content, media URLs, and phone number targeting
+- [View messages](https://documentation.onesignal.com/reference/view-messages): List and retrieve details and analytics for sent messages
+- [View message](https://documentation.onesignal.com/reference/view-message): Get delivery stats, CTR, and outcome data for a single message
+- [Start Live Activity](https://documentation.onesignal.com/reference/start-live-activity): API endpoint to start an iOS Live Activity for a user
+- [Create user](https://documentation.onesignal.com/reference/create-user): Create a new user with optional aliases, tags, and subscriptions
+- [View user](https://documentation.onesignal.com/reference/view-user): Retrieve user details including all aliases, tags, and subscriptions
+- [Update user](https://documentation.onesignal.com/reference/update-user): Update user properties, tags, and aliases
+- [Delete user](https://documentation.onesignal.com/reference/delete-user): Delete a user and all associated data
+- [Create segments](https://documentation.onesignal.com/reference/create-segments): Programmatically create dynamic user segments with filter rules
+- [Create template](https://documentation.onesignal.com/reference/create-template): Create a reusable push, email, or SMS message template
+- [View templates](https://documentation.onesignal.com/reference/view-templates): List all message templates in an app
+- [Create an app](https://documentation.onesignal.com/reference/create-an-app): Programmatically create a new OneSignal app with platform credentials — requires Organization API Key
+- [View apps](https://documentation.onesignal.com/reference/view-apps): List all apps in your organization
+- [CSV export of subscriptions](https://documentation.onesignal.com/reference/csv-export): Export all user and subscription data as CSV
+- [View outcomes](https://documentation.onesignal.com/reference/view-outcomes): Export push outcome metrics — clicks, sessions, and custom conversion events
+
+## Analytics and integrations
+
+- [Analytics overview](https://documentation.onesignal.com/docs/en/analytics-overview): Campaign performance dashboards, outcome tracking, and reporting configuration
+- [Custom outcomes](https://documentation.onesignal.com/docs/en/custom-outcomes): Define and track custom conversion events tied to messaging campaigns
+- [Event Streams](https://documentation.onesignal.com/docs/en/event-streams): Stream real-time messaging events (sent, delivered, clicked, dismissed) to external systems via webhooks
+- [Event Stream data](https://documentation.onesignal.com/docs/en/event-streams-data): Schema reference for event properties, message properties, and user properties in Event Streams
+- [Push notification message reports](https://documentation.onesignal.com/docs/en/push-notification-message-reports): Delivery stats, click-through rates, confirmed delivery, and failure diagnostics for push campaigns
+- [Integrations](https://documentation.onesignal.com/docs/en/integrations): Third-party integrations including Segment, Mixpanel, Amplitude, HubSpot, Shopify, RevenueCat, Zapier, and more
 
 ## Optional
 
-- [Oxford - Wikipedia](https://en.wikipedia.org/wiki/Oxford): Wikipedia article about Oxford city, University of Oxford, and region
-- [Visit Oxford – Oxford City Council](https://oxford.gov.uk/visit-oxford): Oxford City Council visitor guide with attractions and travel info
-- [Oxford Attractions & Places to Visit | VisitBritain](https://visitbritain.com/en/destinations/england/oxford): VisitBritain tourism guide to Oxford attractions and historic sites
-- [Best Things To Do In Oxford](https://timeout.com/england/things-to-do/best-things-to-do-in-oxford): Time Out's curated Oxford day trip itinerary with activities and dining
-- [Oxford News, Sport, Events | Oxford Mail](https://oxfordmail.co.uk): Oxford Mail local news covering Oxfordshire events and community stories
-- [Oxford Events Guide - Daily Info](https://dailyinfo.co.uk/whats-on/listings): Daily Info Oxford events listings: cinema, theatre, concerts, markets
-- [TV Guide Listings](https://tvguide.com/Listings): TV Guide homepage with TV listings, schedules, and entertainment news
-- [Best Shows on Netflix](https://tvguide.com/news/the-best-shows-on-netflix): Curated list of 55 best Netflix shows including Vladimir and Bridgerton
-- [Best Movies on Netflix](https://tvguide.com/news/best-movies-on-netflix): Netflix movie recommendations featuring Jurassic World Rebirth and more
-- [Winter TV Guide 2025-2026](https://tvguide.com/news/features/winter-tv-guide-2025): Winter 2025-2026 TV preview: Stranger Things, Bridgerton, new shows guide
-- [We Still Talk About You | Know Your Meme](https://knowyourmeme.com/memes/we-still-talk-about-you): Know Your Meme entry on viral 'We Still Talk About You' exploitable image
-- [I'm Talking About Innit | Know Your Meme](https://knowyourmeme.com/memes/im-talking-about-innit): TikTok trend from BunnaB & YKNiece rap song 'Innit' catchphrase meme
-- [Bananas And Rice Girl Meme Explained](https://trending.knowyourmeme.com/editorials/guides/who-is-the-bananas-and-rice-girl-the-viral-memes-about-somali-american-ice-victim-nasra-ahmed-explained): Viral meme explanation: Nasra Ahmed ICE incident and 'bananas and rice' speech
-- [Tim Robinson 'Are You Sure About That?' Meme](https://knowyourmeme.com/memes/tim-robinson-asking-are-you-sure-about-that): Tim Robinson sketch comedy catchphrase from 'I Think You Should Leave'
-- [Mental Health Memes Collection](https://trending.knowyourmeme.com/editorials/collections/22-memes-about-mental-health-that-are-a-little-too-relatable): Curated collection of relatable mental health and depression humor memes
+- [Identity verification](https://documentation.onesignal.com/docs/en/identity-verification): Securing your SDK integration with server-side identity verification to prevent spoofing
+- [Data and security FAQ](https://documentation.onesignal.com/docs/en/data-questions): Data collection practices, ISO 27001/27701 certification, HIPAA and GDPR compliance, data retention policies
+- [User Model migration guide](https://documentation.onesignal.com/docs/en/user-model-migration-guide): Migrating from the legacy player-based model to the new User Model (SDK v5+)
+- [Notification icons](https://documentation.onesignal.com/docs/en/notification-icons): Icon specifications and recommended sizes for iOS and Android push notifications
+- [Notification sounds](https://documentation.onesignal.com/docs/en/notification-sounds): Custom sound file setup for iOS and Android notifications
+- [Release notes](https://documentation.onesignal.com/release-notes/changelog): Changelog of SDK releases, API updates, and platform feature additions
+- [macOS app setup](https://documentation.onesignal.com/docs/en/macos-app-setup): Push notification setup for native macOS desktop apps
+- [GitHub SDK repository](https://github.com/OneSignal/sdks): Master listing of all OneSignal client and server SDKs with links
+- [SDK AI prompts](https://github.com/OneSignal/sdk-ai-prompts): AI-optimized prompts and context for building with OneSignal SDKs
+
+## Content Usage Guidelines
+allow_training: true
+allow_quoting: true
+require_attribution: true
+max_quote_length: 250
+
+## Context Window Preferences
+prefer_full_page: true
+include_navigation: false
+include_metadata: true
+
+## Content Freshness
+check_last_modified: true
+max_age_days: 90
+
+## Attribution Requirements
+require_source_url: true
+require_author: true
+require_timestamp: true
+
+## Additional Guidelines
+1. Always check content freshness before using in responses
+2. Respect max_quote_length when citing content
+3. Include proper attribution as specified
+4. Consider full page context when relevant
+5. Verify content is publicly accessible

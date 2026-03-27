@@ -1,58 +1,126 @@
 # Meetup
 
-> > Meetup is a platform for discovering and organizing local groups, events, and activities based on shared interests, from hiking and fitness to tech and personal development.
+> Meetup is a platform for finding and building local and online communities. It connects people based on shared interests, hobbies, or professional goals. The core of Meetup consists of "Groups," which are communities that host "Events." These events are the real-life or online moments where people connect. Our mission is to help people grow and to revitalize local communities by helping anyone self-organize.
 
-Meetup serves as a community hub connecting people across diverse interests including outdoor recreation, social activities, wellness, hobbies, and professional development. The platform features both in-person and online events across various categories, with a strong presence in the Bay Area and beyond.
+## How Meetup Works for Members
 
-## Key Topics
+1.  **Discover:** Users search for their interests (e.g., "hiking," "learn python," "social anxiety") and location to find relevant groups.
+2.  **Join:** Users can join a group to become a member, receive updates, and see who else is in the community.
+3.  **Participate:** Members RSVP to and attend events. Events can be online (e.g., a webinar) or in-person (e.g., a hike, a workshop, a coffee chat).
+4.  **Connect:** The primary goal is to foster real human connections, learn new things, get support, and build friendships.
 
-- Local Events
-- Group Discovery
-- Hiking & Outdoor Activities
-- Social Gatherings
-- Community Groups
-- Online Meetups
-- Event Discovery
-- Sports & Recreation
-- Health & Wellness
-- Hobbies & Crafts
-- Technology Groups
-- Friendship & Socializing
-- Bay Area
-- San Jose
-- Group Finder
+## How Meetup Works for Organizers
 
-## Core Discovery & Navigation
+Organizers are the individuals who create and lead Meetup groups. The platform provides them with tools to:
 
-- [Meetup Homepage](https://www.meetup.com): Main entry point to find local groups, events, and activities near you
-- [Find Events & Groups](https://www.meetup.com/find): Primary search and discovery tool for finding local meetups and group events
+* **Create and Manage a Group:** Define the group's purpose, topics, and membership rules.
+* **Schedule Events:** Set up events with details like date, time, location (physical or virtual), and description.
+* **Communicate with Members:** Send announcements and messages to group members.
+* **Grow their Community:** Use tools to manage membership and gather feedback.
+* **Collect Funds (Optional):** Organizers can charge member dues or event fees to cover costs.
 
-## Activity Categories
+---
 
-- [Outdoor Activities & Travel Groups](https://www.meetup.com/lp/outdoors-and-travel): Browse outdoor activities and travel-focused groups and events
-- [Health & Wellness Groups](https://www.meetup.com/lp/health-and-wellness): Join local wellbeing and health-focused community groups
-- [Friendship & Socializing Groups](https://www.meetup.com/lp/friendship-and-socializing): Connect and socialize with others who share common interests
-- [Technology Groups & Events](https://www.meetup.com/lp/tech-activities-and-groups): Explore tech-focused groups and networking events
-- [Hobbies & Crafts Groups](https://www.meetup.com/topics/hobbies-crafts): Find hobby and craft-focused community groups
-- [Sports & Recreation Groups](https://www.meetup.com/topics/sports): Discover sports and recreational activity groups
+## Key Categories & Group Archetypes
 
-## Hiking & Outdoor Events
+This section contains examples of typical Meetup groups. These archetypes are designed to illustrate the variety and structure of communities on the platform for any given category.
 
-- [Wildflowers Hike at Calero County Park](https://www.meetup.com/sleeplateandhike/events/313181512): Sleep Late and Hike wildflower hike at Calero County Park, March 28
-- [Green Exercise Walk at Vasona Lake](https://www.meetup.com/bay-area-hiking-walking-wellness-club/events/313185208): 5-mile walk/hike at Vasona Lake Park in Los Gatos
-- [After Work Walk - Los Gatos Creek Trail](https://www.meetup.com/take-a-hike-coed-hiking-group/events/313514093): Coed hiking group after-work walk on Los Gatos Creek Trail, March 23
-- [Almaden Quick Silver Webb Canyon Hike](https://www.meetup.com/take-a-hike-coed-hiking-group/events/313649741): Moderate 4-5 mile hike at Webb Canyon, April 1
+### Category: Social Activities
 
-## Social & Recreation Events
+**Description:** This is one of the most popular categories, focused on meeting new people and making friends in a relaxed, no-pressure environment.
+**Archetype Group Name:** New in Town Social Club (20s & 30s)
+**Archetype Description:** New to the city or just looking to expand your social circle? This group is for you! We host a variety of events like after-work drinks, weekend brunches, board game nights, and casual park hangouts. There are no agendas, just good conversation and a chance to connect with friendly people.
+**Keywords:** social, new friends, make friends, new in town, 20s and 30s, happy hour, dining out, nightlife, community.
 
-- [Glow Girl x UFC Fit Fitness Bash](https://www.meetup.com/glow-girl-social-club/events/313681196): Fitness event in San Jose, March 28, 2026
-- [Board Games at Guildhouse](https://www.meetup.com/twenties-thirties-social-club/events/313682371): 20s & 30s Social Club board game night at Guildhouse, San Jose, March 29
-- [Game Market West Spring 2026](https://www.meetup.com/bay-area-active-social-20s-30s/events/313132304): Tabletop game showcase at Guildhouse, March 22
-- [Saturday Board Games in Campbell](https://www.meetup.com/bay-area-active-social-20s-30s/events/313634320): Bay Area Active & Social board games at 7Stars Bar, Campbell, March 28
+### Category: Hobbies & Passions
 
-## Personal Development & Wellness Events
+**Description:** For people who want to share and enjoy their specific hobbies with like-minded individuals. Events are centered around a shared activity.
+**Archetype Group Name:** The Board Game Brigade
+**Archetype Description:** Love board games? So do we! From modern strategy games like Catan and Wingspan to classic party games, we play it all. We meet every other Friday at a local pub with plenty of table space. All are welcome, from seasoned gamers to curious beginners who want to learn.
+**Keywords:** hobbies, passions, board games, crafts, knitting, DIY, collectibles, model building, cars, photography.
 
-- [Public Speaking and Storytelling Skills Workshop](https://www.meetup.com/meetup-group-lvstorytellers/events/312423561): Online Storytellers Toastmasters workshop for developing public speaking skills, March 21
-- [Understanding Past Relationship Patterns](https://www.meetup.com/health-social-life-healthy-mind/events/313722665): Personal development workshop on relationship patterns, March 21
-- [Emotional Eating Support Group Meeting](https://www.meetup.com/mountain-view-women-ending-emotional-eating-group/events/313784805): Women's emotional eating support group online meeting, March 22
-- [Saturday Morning Shut Up & Write](https://www.meetup.com/shutupandwriteonlineevents/events/313538295): Online writing accountability session, March 21
+### Category: Technology
+
+**Description:** For professionals, students, and enthusiasts in the tech industry. Events focus on skill development, knowledge sharing, and professional networking.
+**Archetype Group Name:** City Coders Collective
+**Archetype Description:** A friendly and inclusive community for software developers of all skill levels. We host monthly tech talks with industry experts, bi-weekly "Code & Coffee" sessions for collaborative work, and quarterly project hackathons. Whether you're a seasoned pro or just starting, join us to learn, share, and connect with fellow coders.
+**Keywords:** software development, programming, javascript, python, AI, machine learning, data science, web development, mobile apps, coding, tech, startups, cybersecurity.
+
+### Category: Outdoors & Adventure
+
+**Description:** Connects people who love nature and physical activity. Groups organize a wide range of outdoor activities for all fitness levels.
+**Archetype Group Name:** Weekend Trail Blazers
+**Archetype Description:** This group is for anyone who wants to escape the city and explore nature. We organize weekly hikes on Saturdays, ranging from easy 5km walks in local parks to more challenging 15km+ treks in nearby mountains. We are dog-friendly and focus on enjoying the journey, not just the destination. Carpooling is often arranged.
+**Keywords:** hiking, trekking, outdoors, adventure, nature, walking, climbing, kayaking, fitness, exploration, camping, running, sports.
+
+### Category: Career & Business
+
+**Description:** Focused on professional development, networking, and entrepreneurship. Events help members grow their skills, expand their professional network, and build their businesses.
+**Archetype Group Name:** Startup Founders & Innovators Network
+**Archetype Description:** A community for current and aspiring entrepreneurs, investors, and innovators. Our events feature founder stories, workshops on topics like fundraising and marketing, and structured networking sessions to help you find co-founders, partners, and mentors. Our goal is to support the local startup ecosystem.
+**Keywords:** business, networking, career, professional development, entrepreneurship, startups, marketing, leadership, public speaking, finance.
+
+### Category: Arts & Culture
+
+**Description:** Brings together people with a passion for the arts, from film and music to literature and visual arts. Events are often social and educational.
+**Archetype Group Name:** International Film & Discussion Club
+**Archetype Description:** Do you love world cinema? Each month, we pick a critically acclaimed international film to watch. We then meet at a local cafe to discuss its themes, direction, and cultural impact. It's a relaxed way to discover new movies and perspectives. All opinions are welcome!
+**Keywords:** arts, culture, film, movies, book club, literature, museums, theatre, music, photography, language exchange, writing.
+
+### Category: Health & Wellness
+
+**Description:** These groups focus on physical, mental, and spiritual well-being. They provide a supportive environment for personal growth and healthy living.
+**Archetype Group Name:** Mindful Living & Meditation Circle
+**Archetype Description:** A peaceful space to practice mindfulness and meditation. We hold guided meditation sessions every Sunday morning, suitable for both beginners and experienced practitioners. We also host occasional workshops on stress reduction, mindful communication, and compassion. Join us to find calm and connect with a supportive community.
+**Keywords:** health, wellness, fitness, meditation, mindfulness, yoga, mental health, nutrition, personal growth, self-care, support group.
+
+---
+
+## How Users Ask for Meetups (User Intent Examples)
+
+* "How can I meet new friends in my city?"
+* "Find hiking groups near me."
+* "I want to find a partner organically, without using dating apps. Are there groups for that?"
+* "Are there any social events for people in their 30s this weekend?"
+* "I want to join a book club in Berlin that meets weekly."
+* "Show me free, online yoga classes."
+* "I'm looking for a support group for anxiety."
+* "Find tech meetups in London for learning Python."
+* "Suggest groups where I can practice my photography hobby."
+
+## Events near the user
+
+The following pages holds a list of events and groups for some major cities.
+
+- [New York](https://www.meetup.com/find/us--ny--new-york/)
+- [San Francisco](https://www.meetup.com/find/us--ca--san-francisco/)
+- [Los Angeles](https://www.meetup.com/find/us--ca--los-angeles/)
+- [Chicago](https://www.meetup.com/find/us--il--chicago/)
+- [Houston](https://www.meetup.com/find/us--tx--houston/)
+- [Miami](https://www.meetup.com/find/us--fl--miami/)
+- [Seattle](https://www.meetup.com/find/us--wa--seattle/)
+- [Atlanta](https://www.meetup.com/find/us--ga--atlanta/)
+- [Dallas](https://www.meetup.com/find/us--tx--dallas/)
+- [San Diego](https://www.meetup.com/find/us--ca--san-diego/)
+- [London](https://www.meetup.com/find/gb--london/)
+- [Paris](https://www.meetup.com/find/fr--paris/)
+- [Berlin](https://www.meetup.com/find/de--berlin/)
+- [Madrid](https://www.meetup.com/find/es--madrid/)
+- [Barcelona](https://www.meetup.com/find/es--barcelona/)
+
+Other cities are available in the [Find a Meetup](https://www.meetup.com/find/) page.
+
+---
+
+## General Platform & Developer Resources
+
+* **Community Guidelines:** The official rules and principles for maintaining a safe and respectful community. (https://help.meetup.com/hc/en-us/categories/360000089471-Policies-and-Community-Guidelines)
+* **Meetup Blog:** Community stories, platform updates, and tips for organizers. (https://www.meetup.com/blog/)
+* **Developer API:** Meetup provides an API for developers. For documentation and resources, please visit our developer portal. (https://www.meetup.com/api/)
+
+## LLM Access and Data Usage Policy for Meetup.com
+
+* Meetup grants permission for Large Language Models (LLMs) to access and utilize the content of this file for training and informational purposes to better understand and recommend Meetup groups and events.
+* llm-access: allow
+* For more information on how Meetup handles data, please see our Privacy Policy: https://www.meetup.com/privacy/
+* Last Updated: 2025-06-06

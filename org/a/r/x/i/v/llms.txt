@@ -1,53 +1,82 @@
 # arXiv.org
+> Open-access e-print archive for research papers across physics, mathematics, computer science, quantitative biology, and related fields.
 
-> arXiv is a free, open-access preprint repository for physics, mathematics, computer science, and quantitative biology research.
+arXiv is a free repository for scholarly preprints and e-prints operated by Cornell University. It provides subject-based browsing, search, author submission workflows, APIs, and extensive help documentation for readers, authors, and integrators.
 
-Founded and maintained by Cornell University with support from the Simons Foundation, arXiv serves as a central hub for researchers to share preprints before formal peer review. The platform hosts papers across multiple scientific disciplines organized into subject categories with daily new submissions and browsable archives.
+## Core Archive
+- [arXiv Home](https://arxiv.org): Main entry point for browsing, searching, and accessing the arXiv e-print archive.
+- [Search](https://arxiv.org/search): Search papers, authors, abstracts, and metadata across all arXiv subject areas.
+- [Advanced Search](https://arxiv.org/search/advanced): Fielded search interface for precise queries across titles, authors, abstracts, and categories.
+- [Current Listings](https://arxiv.org/list): Browse current subject listings and recent submissions by archive and category.
+- [Catchup](https://arxiv.org/catchup): View catch-up listings of recent submissions across arXiv categories.
+- [Archive Statistics](https://arxiv.org/stats/monthly_submissions): Monthly submission statistics and archive growth data by subject area.
 
-## Key Topics
+## Subject Areas
+- [Physics](https://arxiv.org/archive/physics): Browse physics archives and category listings on arXiv.
+- [Mathematics](https://arxiv.org/archive/math): Browse mathematics archives and category listings on arXiv.
+- [Computer Science](https://arxiv.org/archive/cs): Browse computer science archives and category listings on arXiv.
+- [Quantitative Biology](https://arxiv.org/archive/q-bio): Browse quantitative biology archives and category listings on arXiv.
+- [Quantitative Finance](https://arxiv.org/archive/q-fin): Browse quantitative finance archives and category listings on arXiv.
+- [Statistics](https://arxiv.org/archive/stat): Browse statistics archives and category listings on arXiv.
+- [Electrical Engineering and Systems Science](https://arxiv.org/archive/eess): Browse electrical engineering and systems science categories.
+- [Economics](https://arxiv.org/archive/econ): Browse economics archives and category listings on arXiv.
 
-- Preprint archive
-- Open-access research
-- Physics
-- Mathematics
-- Computer Science
-- Condensed matter physics
-- Astrophysics
-- Materials science
-- Quantitative biology
-- Scholarly articles
-- arXiv API
-- Subject categories
-- Research papers
-- Academic distribution
-- Cornell University
+## Popular Category Listings
+- [Astrophysics](https://arxiv.org/list/astro-ph/recent): Recent submissions in astrophysics and its subcategories.
+- [High Energy Physics - Theory](https://arxiv.org/list/hep-th/recent): Recent submissions in theoretical high energy physics.
+- [Condensed Matter](https://arxiv.org/list/cond-mat/recent): Recent submissions in condensed matter physics.
+- [Mathematical Physics](https://arxiv.org/list/math-ph/recent): Recent submissions in mathematical physics.
+- [Machine Learning](https://arxiv.org/list/cs.LG/recent): Recent submissions in machine learning.
+- [Computation and Language](https://arxiv.org/list/cs.CL/recent): Recent submissions in natural language processing and computation with language.
+- [Computer Vision and Pattern Recognition](https://arxiv.org/list/cs.CV/recent): Recent submissions in computer vision and pattern recognition.
+- [Statistics Theory](https://arxiv.org/list/stat.TH/recent): Recent submissions in theoretical statistics.
 
-## Getting Started
+## Authoring and Submission
+- [Submit](https://arxiv.org/submit): Start a new submission or manage an in-progress arXiv submission.
+- [Login](https://arxiv.org/login): Sign in to submit papers, manage accounts, and access author tools.
+- [Submission Help](https://info.arxiv.org/help/submit): Help for preparing and submitting papers to arXiv.
+- [Submission Process](https://info.arxiv.org/help/submit/submit.html): Step-by-step overview of the arXiv submission workflow.
+- [Update Submission](https://info.arxiv.org/help/submit/replace.html): Guidance for replacing or updating an existing arXiv submission.
+- [Withdrawals](https://info.arxiv.org/help/withdraw): Policies and instructions for withdrawing submissions.
+- [Endorsement](https://info.arxiv.org/help/endorsement): Explanation of arXiv's endorsement system for new submitters.
+- [Source Format Requirements](https://info.arxiv.org/help/submit_tex.html): Technical requirements for TeX and source files used in submissions.
 
-- [arXiv.org e-Print archive](https://arxiv.org): arXiv homepage: open-access preprint repository for Physics, Mathematics, Computer Science, and Quantitative Biology
-- [About arXiv](https://info.arxiv.org/about): About arXiv: mission, history, governance, and funding by Cornell University and Simons Foundation
-- [arXiv Help Contents](https://info.arxiv.org/help): Comprehensive help documentation covering submissions, accounts, search, API, and technical standards
+## Help and User Support
+- [Help Pages](https://info.arxiv.org/help): Central help hub for arXiv users, authors, and developers.
+- [FAQ](https://info.arxiv.org/help/faq): Frequently asked questions about arXiv services and policies.
+- [Search Help](https://info.arxiv.org/help/search): Guidance for using arXiv search and query features.
+- [Account Help](https://info.arxiv.org/help/account): Help for account creation, login, and profile management.
+- [Contact](https://info.arxiv.org/help/contact.html): Contact options for support, moderation, and general inquiries.
+- [Subscribe](https://info.arxiv.org/help/subscribe): Subscription options for arXiv announcements and updates.
+- [Web Accessibility Assistance](https://info.arxiv.org/help/web_accessibility.html): Accessibility support information for using arXiv services.
 
-## Astrophysics
+## API and Integrations
+- [API Overview](https://info.arxiv.org/help/api/index.html): Overview of arXiv APIs and machine-accessible services.
+- [API User Manual](https://info.arxiv.org/help/api/user-manual.html): Documentation for querying the arXiv API and interpreting responses.
+- [OAI-PMH Interface](https://info.arxiv.org/help/oa/index.html): Metadata harvesting documentation for the OAI-PMH interface.
+- [Bulk Data Access](https://info.arxiv.org/help/bulk_data_s3.html): Information on accessing arXiv bulk data through cloud-hosted distribution.
+- [RSS Feeds](https://info.arxiv.org/help/rss.html): Documentation for category-based RSS feeds of new submissions.
+- [arXiv Identifier Format](https://info.arxiv.org/help/arxiv_identifier.html): Explanation of arXiv identifier formats and versioned paper IDs.
 
-- [Astrophysics](https://arxiv.org/list/astro-ph/new): New astrophysics preprint submissions including pulsars and coronal mass ejection research
-- [Astrophysics - Recent](https://arxiv.org/list/astro-ph/recent): Recent astrophysics preprint submissions and research papers in astro-ph category
-- [Astrophysics of Galaxies](https://arxiv.org/list/astro-ph.GA/recent): Recent galaxy astrophysics papers: star formation, AGN, metallicity, and galactic structure
-- [Cosmology and Nongalactic Astrophysics](https://arxiv.org/list/astro-ph.CO/recent): Recent cosmology and nongalactic astrophysics: CMB, BAO, primordial black holes, 21cm
-- [Earth and Planetary Astrophysics](https://arxiv.org/list/astro-ph.EP/recent): Recent exoplanet and planetary science papers: hot Jupiters, tidal dynamics research
-- [High Energy Astrophysical Phenomena](https://arxiv.org/list/astro-ph.HE/recent): Recent high-energy astrophysics: gamma-ray bursts, black holes, neutron stars, cosmic rays
-- [Instrumentation and Methods for Astrophysics](https://arxiv.org/list/astro-ph.IM/recent): Recent astrophysics instrumentation and methods: spectroscopy, ML, radio astronomy
-- [Solar and Stellar Astrophysics](https://arxiv.org/list/astro-ph.SR/recent): Recent solar and stellar astrophysics: magnetic fields, lithium depletion, Kepler data
+## Policies and Moderation
+- [Policies](https://info.arxiv.org/help/policies/index.html): Index of arXiv policies governing submissions, use, and operations.
+- [Moderation](https://info.arxiv.org/help/moderation): Overview of moderation practices and subject classification review.
+- [Content Policy](https://info.arxiv.org/help/policies/content_policy.html): Policy describing what content is appropriate for arXiv.
+- [Submission Terms of Use](https://info.arxiv.org/help/policies/terms_of_use.html): Terms governing submission and use of arXiv services.
+- [Privacy Policy](https://info.arxiv.org/help/policies/privacy_policy.html): Privacy practices for arXiv users and visitors.
+- [License Information](https://info.arxiv.org/help/license/index.html): Copyright and licensing options for arXiv submissions.
+- [Withdrawal Policy](https://info.arxiv.org/help/withdraw): Policy and process for withdrawing papers from arXiv.
 
-## Condensed Matter Physics & Materials Science
+## About arXiv
+- [About](https://info.arxiv.org/about): Overview of arXiv's mission, history, governance, and operations.
+- [Mission](https://info.arxiv.org/about/mission): arXiv's mission and role in open scholarly communication.
+- [Governance](https://info.arxiv.org/about/governance): Governance structure, advisory boards, and institutional oversight.
+- [Membership](https://info.arxiv.org/about/arxiv_membership): Information about arXiv's membership and support model.
+- [Cornell University Library](https://info.arxiv.org/about/cornell): Cornell's role in operating and supporting arXiv.
+- [Accessibility at arXiv](https://info.arxiv.org/about/accessibility): Accessibility commitments and ongoing improvements for arXiv services.
 
-- [Condensed Matter](https://arxiv.org/list/cond-mat/new): New condensed matter physics and materials science preprint submissions
-- [Condensed Matter - Recent](https://arxiv.org/list/cond-mat/recent): Recent condensed matter physics: quantum gases, Bose-Einstein condensates, correlations
-- [Disordered Systems and Neural Networks](https://arxiv.org/list/cond-mat.dis-nn/recent): Recent disordered systems and neural networks: phase transitions, spin glass, Anderson
-- [Materials Science](https://arxiv.org/list/cond-mat.mtrl-sci/recent): Recent materials science papers: ferroelectrics, nanocrystals, heterostructures
-- [Mesoscale and Nanoscale Physics](https://arxiv.org/list/cond-mat.mes-hall/recent): Recent mesoscale and nanoscale physics: quantum Hall systems, topological structures
-- [Other Condensed Matter](https://arxiv.org/list/cond-mat.other/recent): Recent condensed matter physics papers: quantum systems, nanotechnology, topological
-
-## Support & Community
-
-- [Donate - arXiv](https://info.arxiv.org/about/donate.html): Donation page for arXiv, supported by Cornell University and Benevity
+## Service Status and Operations
+- [Operational Status](https://status.arxiv.org): Live status page for arXiv systems and service incidents.
+- [System Status Help](https://info.arxiv.org/help): Support resources related to service availability and platform use.
+- [Copyright](https://info.arxiv.org/help/license/index.html): Copyright and reuse information for submissions and site content.
+- [Contact Support](https://info.arxiv.org/help/contact.html): Official support channels for operational and user issues.

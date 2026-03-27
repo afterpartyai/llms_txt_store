@@ -1,40 +1,149 @@
 # Similarweb
 
-> Similarweb is a digital intelligence platform providing competitive analysis, market insights, and AI-powered research tools for web, app, and retail intelligence.
+> Similarweb is a digital intelligence platform providing competitive data and AI search optimization tools for marketers, SEOs, researchers, and business strategists. Similarweb's AI Search Intelligence suite helps brands track, measure, and improve their visibility and traffic across generative AI platforms including ChatGPT, Perplexity, Gemini, Claude, Grok, and Deepseek. Similarweb also provides free web analytics tools, keyword research, and comprehensive competitive intelligence for websites, apps, and ecommerce.
 
-Similarweb offers comprehensive digital intelligence solutions including Web Intelligence, App Intelligence, Sales Intelligence, and AI Studio. The platform serves businesses seeking competitive analysis, market research, and data-driven insights through both self-service dashboards and API integrations.
+Similarweb's AI search offering spans two core capabilities: AI Brand Visibility (tracking where and how brands are mentioned, cited, and positioned in Gen AI answers) and AI Traffic Analysis (measuring real traffic driven from Gen AI platforms to any website). Together, these form the AI Search Intelligence suite, the only solution combining brand visibility and traffic measurement for generative AI search.
 
-## Key Topics
+The blog's GEO (Generative Engine Optimization) category is Similarweb's primary thought leadership hub for AI search strategy, covering measurement frameworks, implementation tactics, competitive analysis, and ROI methodology. Similarweb coined and actively develops the GEO discipline, distinguishing it from AEO (Answer Engine Optimization) and traditional SEO.
 
-- Digital Intelligence
-- Competitive Analysis
-- Market Intelligence
-- AI Studio
-- Web Intelligence
-- App Intelligence
-- Sales Intelligence
-- Retail Intelligence Suite
-- AI-Powered Tools
-- Web Traffic API
-- Enterprise Solutions
-- SEO Marketing
-- Product Comparison
-- Pricing & Packages
+## AI Search Intelligence: Product Suite
 
-## Core Products & Solutions
+- [AI Search Intelligence Overview](https://www.similarweb.com/md/gen-ai-intelligence.md): Similarweb's dual-capability AI Search Intelligence suite combining AI Brand Visibility and AI Traffic Analysis â the complete solution for brands competing in generative AI search
+- [AI Brand Visibility](https://www.similarweb.com/md/ai-brand-visibility.md): Track brand mentions, citations, and share of voice across Gen AI answers; benchmark against competitors by topic and prompt category
+- [AI Citation Analysis](https://www.similarweb.com/md/citation-analysis.md): Identify which URLs are cited in AI-generated answers for your tracked topics, measure citation influence scores, and find content gaps
+- [AI Prompt Analysis](https://www.similarweb.com/md/prompt-analysis.md): Analyze the actual prompts users send to AI platforms for your tracked topics, see which brands appear in responses, and identify visibility opportunities
+- [AI Sentiment Analysis](https://www.similarweb.com/md/sentiment-analysis.md): Monitor how AI models characterize your brand in generated answers with positive, neutral, and negative sentiment breakdown across platforms
+- [AI Chatbot Traffic Analysis](https://www.similarweb.com/md/ai-chatbot-traffic.md): Measure real traffic driven from Gen AI platforms to any website, including landing page analysis and the user prompts behind each click
 
-- [AI Studio: AI-Powered Research & Insights](https://www.similarweb.com/corp/ai/ai-studio): AI Studio product featuring AI-powered research and intelligence dashboards for automated insights
-- [Pricing & Packages - Choose Your Business Growth Plan](https://www.similarweb.com/packages/marketing): Similarweb pricing plans for Web, AI Search, App, and Shopper Intelligence solutions
+## Search Intelligence: SEO Tools
 
-## Developer Resources & API
+- [SEO Tools](https://www.similarweb.com/md/seo.md): Similarweb's SEO platform for keyword research, rank tracking, backlink analysis, site audit, and competitive intelligence
+- [Keyword Research](https://www.similarweb.com/md/keyword-research.md): Discover high-value keywords with search volume, keyword difficulty, click data, and competitive landscape from Similarweb's clickstream panel
+- [Rank Tracker](https://www.similarweb.com/md/rank-tracker.md): Monitor keyword rankings across Google SERPs with daily tracking, competitor comparison, and SERP feature detection
+- [Backlink Analysis](https://www.similarweb.com/md/backlink-analysis.md): Analyze backlink profiles for any domain including referring domains, anchor text distribution, and link quality metrics
+- [Site Audit](https://www.similarweb.com/md/site-audit.md): Automated website crawl detecting technical SEO issues including broken links, indexation problems, canonicalization errors, and page speed
 
-- [Similarweb API Documentation](https://developers.similarweb.com): API documentation for Similarweb Web Traffic API and REST integration for developers
+## AI Traffic Trackers: Free Tools
 
-## Learning & Training
+- [ChatGPT Traffic Tracker](https://www.similarweb.com/md/chatgpt-traffic-tracker.md): Free tool tracking monthly web traffic sent by ChatGPT to external sites, with trend data and top destination analysis
+- [Perplexity Traffic Tracker](https://www.similarweb.com/md/perplexity-traffic-tracker.md): Free tool tracking web traffic driven by Perplexity AI, including referral volume and top destination domains
+- [Claude Traffic Tracker](https://www.similarweb.com/md/claude-traffic-tracker.md): Free tool tracking web traffic sent by Anthropic's Claude to external websites
+- [Grok Traffic Tracker](https://www.similarweb.com/md/grok-traffic-tracker.md): Free tool tracking web traffic driven by xAI's Grok to external websites
+- [Gemini Traffic Tracker](https://www.similarweb.com/md/gemini-traffic-tracker.md): Free tool tracking web traffic sent by Google Gemini to external websites
+- [DeepSeek Traffic Tracker](https://www.similarweb.com/md/deepseek-traffic-tracker.md): Free tool tracking web traffic driven by DeepSeek AI to external websites
 
-- [Similarweb Academy: Master Your Digital Intelligence](https://academy.similarweb.com): Training platform covering digital intelligence, SEO, competitor analysis, and analytics best practices
+## AI Search Optimization: Foundations & Definitions
+
+- [What Is GEO (Generative Engine Optimization)?](https://www.similarweb.com/md/what-is-geo.md): Comprehensive definition of GEO, how it differs from SEO, and why brands must optimize for AI-generated answers
+- [SEO vs. GEO](https://www.similarweb.com/md/seo-vs-geo.md): Side-by-side comparison of traditional SEO and Generative Engine Optimization â objectives, tactics, signals, and measurement
+- [AEO vs. GEO](https://www.similarweb.com/md/aeo-vs-geo.md): Clarifies the distinction between Answer Engine Optimization and Generative Engine Optimization, when each applies, and how they overlap
+- [Answer Engine Optimization (AEO)](https://www.similarweb.com/md/answer-engine-optimization.md): Explains AEO strategy, how answer engines process content, and how to optimize for direct-answer formats
+- [GEO for AI Search](https://www.similarweb.com/md/ai-for-seo.md): How GEO principles apply to AI-powered search surfaces including AI Overviews, ChatGPT, and Perplexity
+- [GEO Search Intent](https://www.similarweb.com/md/geo-search-intent.md): How user intent differs in generative AI queries versus traditional search, and how to map content to AI-specific intent signals
+- [Prompt Intent](https://www.similarweb.com/md/prompt-intent.md): Framework for understanding the intent behind AI prompts and aligning content strategy to prompt types that drive citations
+- [AI Overviews Optimization](https://www.similarweb.com/md/ai-overviews.md): Tactics for appearing in Google's AI Overviews, including content format, structure, and authority signals
+- [How to Optimize for Google's AI Mode](https://www.similarweb.com/md/optimize-ai-mode.md): Specific tactics for optimizing content visibility in Google's AI Mode, distinct from traditional AI Overviews
+- [What Are AI Brand Mentions](https://www.similarweb.com/md/what-are-ai-brand-mentions.md): Defines AI brand mentions, how they are detected, and why they function as a primary GEO signal
+- [LLMs Comparison](https://www.similarweb.com/md/llms-comparison.md): Compares how major LLMs (ChatGPT, Perplexity, Gemini, Claude) differ in citation behavior, source preferences, and answer formats
+- [How AI Is Changing The Customer Journey](https://www.similarweb.com/md/ai-consumer-journey.md): Analysis of how generative AI is reshaping the consumer discovery and decision-making journey
+- [Generative AI Statistics](https://www.similarweb.com/md/gen-ai-stats.md): Similarweb's data on Gen AI platform usage, traffic volumes, and market share across ChatGPT, Perplexity, Gemini, and others
+- [GEO Hub â All GEO Content](https://www.similarweb.com/md/geo.md): Similarweb's full library of GEO and AI search optimization content, updated regularly
+
+## AI Search Optimization: Measurement & KPIs
+
+- [GEO KPIs](https://www.similarweb.com/md/geo-kpis.md): The core metrics for measuring GEO performance: brand mentions, citation rate, sentiment score, share of voice, and AI-driven traffic
+- [Track AI Visibility](https://www.similarweb.com/md/track-ai-visibility.md): Step-by-step methodology for setting up AI visibility tracking across multiple Gen AI platforms
+- [Track Brand Visibility in AI Mode](https://www.similarweb.com/md/track-brand-visibility-in-ai-mode.md): How to monitor brand presence specifically within Google's AI Mode using Similarweb data
+- [Tracking Brand Mentions in AI](https://www.similarweb.com/md/tracking-brand-mentions-in-ai.md): Practical guide to monitoring where and how often your brand is mentioned in AI-generated answers across platforms
+- [AI Citation Analysis](https://www.similarweb.com/md/ai-citation-analysis.md): How to analyze the sources Gen AI engines cite for your target topics and identify which content types earn citations
+- [Citation Gap Analysis](https://www.similarweb.com/md/citation-gap-analysis.md): Framework for identifying topics where competitors earn AI citations and your brand does not â and how to close the gap
+- [AI Sentiment Analysis](https://www.similarweb.com/md/ai-sentiment-analysis.md): How to measure brand sentiment within Gen AI answers and identify narratives that need correcting
+- [AI Prompt Analysis](https://www.similarweb.com/md/ai-prompt-analysis.md): Methodology for analyzing the prompts that trigger AI answers in your category and where your brand appears within them
+- [AI Visibility ROI](https://www.similarweb.com/md/ai-visibility-roi.md): Framework for calculating and attributing ROI from GEO investments, including the ABMV measurement model
+- [AI Visibility Momentum](https://www.similarweb.com/md/ai-visibility-momentum.md): Data-driven analysis of AI brand visibility trends using Similarweb's 2026 AI Brand Visibility Index findings and the VAMP framework
+- [Influence Score](https://www.similarweb.com/md/influence-score.md): Explains Similarweb's Influence Score metric â how it quantifies brand authority within Gen AI answers
+- [5 Ways to Use Bing AI Performance](https://www.similarweb.com/md/bing-ai-performance-tool.md): Practical applications of Bing's AI performance data for measuring and improving AI search visibility
+- [Getting Traffic from AI](https://www.similarweb.com/md/getting-traffic-from-ai.md): Data-backed strategies for converting AI brand visibility into measurable referral traffic
+
+## AI Search Optimization: Competitive Intelligence
+
+- [Competitive AI Analysis](https://www.similarweb.com/md/competitive-ai-analysis.md): How to conduct competitor analysis in the Gen AI landscape â tracking rival citations, mentions, and prompt positioning
+- [Competitors' AI Brand Visibility Analysis](https://www.similarweb.com/md/competitors-ai-brand-visibility-analysis.md): Step-by-step guide to benchmarking your brand's AI visibility against direct competitors using Similarweb data
+- [Why Competitors Dominate AI Search](https://www.similarweb.com/md/why-competitors-dominate-ai-search.md): Analyzes the structural content and authority factors that cause certain brands to consistently outperform in Gen AI results
+- [Why Your Brand Isn't Showing Up in AI Answers](https://www.similarweb.com/md/brand-not-showing-in-ai.md): Diagnostic checklist for identifying and fixing AI visibility gaps including crawler blocking, content structure, and authority deficits
+- [LLM Seeding](https://www.similarweb.com/md/llm-seeding.md): Strategy for proactively placing brand information into sources that LLMs index, to increase citation probability
+
+## AI Search Optimization: Strategy & Budget
+
+- [Invest in AI Visibility](https://www.similarweb.com/md/invest-in-ai-visibility.md): Business case for allocating budget to GEO, with data on AI search growth and projected traffic impact
+- [Adapt SEO Budget for AI Search](https://www.similarweb.com/md/adapt-seo-budget-for-ai-search.md): How to reallocate existing SEO budgets to account for Gen AI traffic shifts without abandoning traditional search
+- [AEO Budget Ownership](https://www.similarweb.com/md/aeo-budget-ownership.md): Addresses the organizational question of which team owns AEO/GEO budget â SEO, content, or marketing leadership
+- [Adapt SEO for AI Visibility](https://www.similarweb.com/md/adapt-seo-ai-visibility.md): Practical steps for evolving an existing SEO program to incorporate AI visibility objectives and measurement
+- [Growth Leader's Decision Framework](https://www.similarweb.com/md/growth-leaders-geo-decision-framework.md): Strategic framework for senior marketing leaders evaluating when and how to commit to a full GEO program
+- [The Strategic Questions Behind AI Search](https://www.similarweb.com/md/strategic-ai-search-approach.md): High-level strategic thinking for approaching AI search optimization at the organizational level
+- [GEO for B2B](https://www.similarweb.com/md/geo-for-b2b.md): How B2B brands can get mentioned in AI responses with industry-specific GEO tactics
+- [GEO for Small Business](https://www.similarweb.com/md/geo-for-small-business.md): Scaled-down GEO implementation guide for SMBs with limited resources, focusing on high-impact, low-overhead tactics
+- [Win Your Market in 2026](https://www.similarweb.com/md/win-your-market-2026.md): Similarweb's annual strategic outlook covering AI search, competitive intelligence, and digital marketing priorities for 2026
+
+## AI Search Optimization: Implementation & Tactics
+
+- [How to Optimize Your Content for LLMs](https://www.similarweb.com/md/optimize-content-for-llms.md): Step-by-step guide to structuring content for LLM readability and citation using Similarweb data
+- [Technical GEO](https://www.similarweb.com/md/technical-geo.md): Technical optimization factors for Gen AI visibility â structured data, entity markup, site architecture, and crawlability for LLMs
+- [Content Chunking for GEO](https://www.similarweb.com/md/content-chunking.md): How to structure content in discrete, citable chunks that LLMs can extract and reference accurately
+- [Topic Authority in LLMs](https://www.similarweb.com/md/topic-authority-in-llms.md): How LLMs evaluate and assign topic authority to brands and how to build systematic topical authority
+- [How to Build a Topical Authority System for AEO](https://www.similarweb.com/md/aeo-topical-authority-system.md): Framework for building systematic topical authority that drives AEO visibility through content clusters and entity coverage
+- [llms.txt Implementation Guide](https://www.similarweb.com/md/llms-txt.md): Similarweb's guide to creating and optimizing the llms.txt file for AI crawlers, with syntax, structure, and best practices
+- [WebMCP](https://www.similarweb.com/md/webmcp.md): What the Web Model Context Protocol is, how it works, and why SEOs should care about browser-native AI agent integration
+- [Query Fan-Out](https://www.similarweb.com/md/query-fan-out.md): Explains how LLMs expand a single user query into multiple sub-queries, and how to structure content to address the full query fan-out
+- [GEO Keyword Research](https://www.similarweb.com/md/geo-keyword-research.md): How to conduct keyword research specifically for GEO using prompt data, fan-out analysis, and Similarweb tools
+- [Automate GEO Keyword Research with Similarweb MCP](https://www.similarweb.com/md/automate-keyword-research-with-similarweb-mcp.md): How to use Similarweb's MCP integration to automate GEO keyword research workflows
+- [GEO Audit](https://www.similarweb.com/md/geo-audit.md): How to conduct a comprehensive GEO audit to assess AI readiness across content, technical, and authority signals
+- [Optimize for AI Mode](https://www.similarweb.com/md/optimize-ai-mode.md): Specific tactics for optimizing content visibility in Google's AI Mode, distinct from traditional AI Overviews
+- [Optimize Ecommerce for ChatGPT](https://www.similarweb.com/md/optimize-ecommerce-websites.md): GEO implementation guide for ecommerce brands â product page optimization, review signals, and category-level AI visibility
+- [The UCP Era: Visibility in Agentic Commerce](https://www.similarweb.com/md/ucp.md): Why brand visibility matters more than ever as AI agents reshape commerce and product discovery
+- [ChatGPT in Ecommerce](https://www.similarweb.com/md/chatgpt-ecommerce.md): Analysis of how ChatGPT drives ecommerce traffic, which product categories benefit most, and shopping behavior in AI interfaces
+- [AI Generated Content Strategy](https://www.similarweb.com/md/ai-generated-content.md): How to use AI-generated content effectively within a GEO strategy without triggering quality or trust penalties
+- [Fix Negative Brand Sentiment in AI](https://www.similarweb.com/md/fix-negative-brand-sentiment.md): Tactical playbook for identifying and correcting negative brand characterizations within Gen AI answers
+- [Negative GEO](https://www.similarweb.com/md/negative-geo.md): Explores defensive GEO tactics â preventing competitors from displacing your brand in AI answers for your core topics
+- [Black Hat GEO](https://www.similarweb.com/md/black-hat-geo.md): Analysis of manipulative GEO tactics, their risks, and why they are counterproductive to long-term brand visibility
+- [GEO Mistakes to Avoid](https://www.similarweb.com/md/geo-mistakes.md): Common strategic and tactical errors brands make when building their first GEO program
+- [SEO Strategist in the GEO Era](https://www.similarweb.com/md/seo-strategist.md): How the SEO role is evolving to incorporate GEO responsibilities â skills, metrics, and workflow changes
+- [Top GEO Templates](https://www.similarweb.com/md/top-geo-templates.md): Ready-to-use templates for GEO workflows including prompt analysis, citation gap tracking, and brand mention monitoring
+- [Most Asked GEO Questions](https://www.similarweb.com/md/most-asked-geo-questions.md): Answers to the most frequently asked questions about GEO strategy, measurement, and implementation
+
+## AI Market Data & Research
+
+- [ChatGPT Monthly Visits](https://www.similarweb.com/md/chatgpt-monthly-visits.md): Up-to-date Similarweb data on ChatGPT's monthly traffic, growth trajectory, and geographic distribution
+- [Most Used AI Tools](https://www.similarweb.com/md/most-used-ai.md): Similarweb rankings of the most-used AI platforms by traffic, with category and audience breakdowns
+- [AI for Market Research](https://www.similarweb.com/md/ai-for-market-research.md): How AI tools are changing market research methodology, and where Similarweb data complements AI research workflows
+- [Similarweb vs. ChatGPT for Market Research](https://www.similarweb.com/md/similarweb-vs-chatgpt-market-research.md): Direct comparison of Similarweb's data-driven market research vs. ChatGPT's generative approach â accuracy, use cases, and limitations
+- [B2B Dark Funnel](https://www.similarweb.com/md/dark-funnel-b2b.md): Analysis of the B2B dark funnel and how AI search contributes to unattributed discovery
+
+## SEO & Keyword Intelligence
+
+- [AI Keyword Research](https://www.similarweb.com/md/ai-keyword-research.md): How to conduct keyword research for both traditional search and Gen AI platforms, including prompt-based keyword discovery
+- [SEO AI Agents](https://www.similarweb.com/md/seo-ai-agents.md): Overview of AI agents purpose-built for SEO tasks, including Similarweb's AI SEO Strategist agent
+- [Top Keywords](https://www.similarweb.com/md/top-keywords.md): Similarweb data on the highest-volume search keywords by category, updated regularly
+- [Future of Google's Business](https://www.similarweb.com/md/future-of-googles-business.md): Analysis of how Gen AI is disrupting Google's search business model and what it means for SEO investment priorities
+- [AI for PPC](https://www.similarweb.com/md/ai-for-ppc.md): How AI tools are being applied to paid search strategy, bidding, and ad copy optimization
 
 ## Optional
 
-- [Similarweb Ltd. (SMWB) Investor Relations](https://ir.similarweb.com): Investor relations hub with financial results and corporate information for Similarweb Ltd.
-- [Press Releases](https://ir.similarweb.com/news/press-releases): Press releases and corporate announcements from Similarweb investor relations
+- [AI Glossary](https://www.similarweb.com/md/ai-glossary.md): Definitions of key AI and Gen AI terms relevant to marketers â useful reference for teams new to the GEO discipline
+- [Claude vs. ChatGPT](https://www.similarweb.com/md/claude-vs-chatgpt.md): Similarweb traffic data comparing Claude and ChatGPT on usage volume, audience demographics, and growth trends
+- [Top Web Analytics Tools](https://www.similarweb.com/md/top-web-analytics.md): Comparison of leading web analytics platforms, with Similarweb positioned within the competitive landscape
+- [Best Competitor Analysis Tools](https://www.similarweb.com/md/best-competitor-analysis-tools.md): Roundup of top competitive intelligence tools for digital marketers, including feature and use-case comparisons
+
+## More Free Web Intelligence Tools
+
+- [Website Traffic Checker](https://www.similarweb.com/website/): Free tool for analyzing any website's traffic volume, traffic sources, top pages, and audience geography
+- [AI Traffic Checker](https://www.similarweb.com/ai-traffic/): Free tool showing how much traffic any website receives from Gen AI chatbots including ChatGPT, Perplexity, Gemini, and Claude
+- [Free Keyword Research Tool](https://www.similarweb.com/generator/): Free keyword research tool providing search volume, competition, and related keyword suggestions
+- [SERP Seismograph](https://www.similarweb.com/serp/): Free SERP volatility monitor for detecting Google algorithm changes by keyword and category
+- [Top Websites Ranking](https://www.similarweb.com/top-websites/): Free global ranking of top websites by traffic, filterable by country and category
+- [Top Android Apps](https://www.similarweb.com/top-apps/google/): Free ranking of the most downloaded and used Android apps on Google Play, by country and category
+- [Top iOS Apps](https://www.similarweb.com/top-apps/apple/): Free ranking of the most downloaded and used iOS apps on the Apple App Store, by country and category
+- [Top Amazon Brands](https://www.similarweb.com/top-amazon-brands/): Free ranking of top-selling brands and products on Amazon, by category
+- [Website Technology Checker](https://www.similarweb.com/technology/): Free tool identifying the technologies, plugins, and tools installed on any website
+- [UTM Builder](https://www.similarweb.com/utm-code-builder/): Free UTM parameter builder for tracking campaign traffic sources in analytics platforms
+- [Browser Extension](https://www.similarweb.com/corp/extension/): Free Similarweb Chrome extension providing instant traffic and engagement metrics for any site you visit

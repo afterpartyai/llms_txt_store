@@ -1,61 +1,95 @@
 # HubSpot
 
-> HubSpot is an AI-powered customer platform offering integrated CRM, marketing, sales, service, content, data, and commerce software for businesses of all sizes.
+> HubSpot is a customer platform that combines CRM, marketing, sales, service, content, operations, commerce, and AI tools.
 
-HubSpot provides a unified customer platform with AI-driven tools like Breeze agents for automation and intelligence. The platform serves startups through enterprises with modular hubs designed to streamline business operations and customer relationships.
+HubSpot serves businesses of all sizes with a unified platform for managing customer data, automating go-to-market work, and supporting the full customer lifecycle. Its ecosystem includes product documentation, developer APIs, academy courses, a knowledge base, and extensive educational content.
 
-## Key Topics
+## Core Platform & Products
+- [HubSpot Homepage](https://www.hubspot.com/): Main overview of HubSpot’s customer platform, products, pricing, and business solutions.
+- [CRM](https://www.hubspot.com/products/crm): Free and paid CRM software for contacts, companies, deals, and customer activity.
+- [Marketing Hub](https://www.hubspot.com/products/marketing): Marketing automation, email, forms, campaigns, and lead generation software.
+- [Sales Hub](https://www.hubspot.com/products/sales): Sales software for pipeline management, prospecting, meetings, and sales automation.
+- [Service Hub](https://www.hubspot.com/products/service): Customer service software for ticketing, help desk, knowledge base, and support automation.
+- [Content Hub](https://www.hubspot.com/products/content): Content marketing and CMS tools for websites, landing pages, and content operations.
+- [Operations Hub](https://www.hubspot.com/products/operations): Data sync, automation, and process orchestration tools for operations teams.
+- [Commerce Hub](https://www.hubspot.com/products/commerce): Payments, invoices, subscriptions, quotes, and commerce automation tools.
 
-- Smart CRM
-- Breeze AI
-- Customer Platform
-- AI Agents
-- Sales Hub
-- Marketing Hub
-- Service Hub
-- Content Hub
-- Data Hub
-- Commerce Hub
-- Prospecting Agent
-- Customer Agent
-- Data Agent
-- CRM Software
-- Customer Engagement
+## AI & Platform Features
+- [Artificial Intelligence](https://www.hubspot.com/products/artificial-intelligence): Overview of HubSpot AI features, assistants, and automation across the platform.
+- [Breeze](https://www.hubspot.com/products/artificial-intelligence/breeze): HubSpot’s AI layer for content generation, insights, and workflow assistance.
+- [Smart CRM](https://www.hubspot.com/products/crm/ai-crm): AI-powered CRM experience with unified customer data and contextual insights.
+- [Customer Platform](https://www.hubspot.com/products/customer-platform): Overview of HubSpot’s connected platform spanning marketing, sales, and service.
+- [App Marketplace](https://ecosystem.hubspot.com/marketplace/apps): Integrations and apps that extend HubSpot with third-party tools and services.
 
-## Core Products & Hubs
+## Pricing & Plans
+- [Pricing](https://www.hubspot.com/pricing): Central pricing page for HubSpot products, bundles, and plan comparisons.
+- [CRM Pricing](https://www.hubspot.com/pricing/crm): Pricing details for CRM-related plans and customer platform bundles.
+- [Marketing Hub Pricing](https://www.hubspot.com/pricing/marketing): Plan tiers and feature comparisons for Marketing Hub.
+- [Sales Hub Pricing](https://www.hubspot.com/pricing/sales): Plan tiers and feature comparisons for Sales Hub.
+- [Service Hub Pricing](https://www.hubspot.com/pricing/service): Plan tiers and feature comparisons for Service Hub.
+- [Content Hub Pricing](https://www.hubspot.com/pricing/content): Plan tiers and feature comparisons for Content Hub.
+- [Operations Hub Pricing](https://www.hubspot.com/pricing/operations): Plan tiers and feature comparisons for Operations Hub.
+- [Commerce Hub Pricing](https://www.hubspot.com/pricing/commerce): Pricing information for commerce tools, payments, and billing features.
 
-- [HubSpot CRM](https://www.hubspot.com/products/crm): Free CRM with contact management, deal tracking, and live chat capabilities
-- [AI CRM (Smart CRM)](https://www.hubspot.com/products/crm/ai-crm): AI-powered Smart CRM with data unification and intelligent insights
-- [Sales Hub](https://www.hubspot.com/products/sales): AI-powered sales software with prospecting agent and deal management tools
-- [Marketing Hub](https://www.hubspot.com/products/marketing): AI-powered marketing platform with email, forms, and automation workflows
-- [Service Hub](https://www.hubspot.com/products/service): AI-powered customer service platform with help desk and omnichannel support
-- [Content Hub](https://www.hubspot.com/products/content): Content management and multi-channel publishing software for marketing teams
-- [Data Hub](https://www.hubspot.com/products/data): Data integration and quality management for scaling businesses
-- [Commerce Hub](https://www.hubspot.com/products/commerce): AI CPQ, billing, and payment processing software for revenue growth
+## Product Documentation & Knowledge Base
+- [HubSpot Knowledge Base](https://knowledge.hubspot.com/): Official product documentation and how-to articles for HubSpot users.
+- [Get Started](https://knowledge.hubspot.com/get-started): Introductory setup guidance for new HubSpot accounts and users.
+- [CRM Setup](https://knowledge.hubspot.com/account): Account, settings, and CRM configuration documentation.
+- [Marketing Software Docs](https://knowledge.hubspot.com/marketing-email): Documentation for email, forms, automation, and marketing tools.
+- [Sales Software Docs](https://knowledge.hubspot.com/records): Documentation for contacts, companies, deals, and sales workflows.
+- [Service Software Docs](https://knowledge.hubspot.com/help-desk): Documentation for help desk, tickets, inbox, and support tools.
+- [CMS & Website Docs](https://knowledge.hubspot.com/website-pages): Documentation for website pages, landing pages, and content publishing.
+- [Reports & Analytics Docs](https://knowledge.hubspot.com/reports): Documentation for dashboards, reports, attribution, and analytics.
 
-## AI & Automation
+## Developer Platform
+- [HubSpot Developers](https://developers.hubspot.com/): Developer portal for APIs, apps, CMS development, and platform guides.
+- [API Reference](https://developers.hubspot.com/docs/api/overview): Overview of HubSpot APIs, authentication, and platform capabilities.
+- [CRM API](https://developers.hubspot.com/docs/api/crm/overview): APIs for contacts, companies, deals, tickets, and custom objects.
+- [Marketing API](https://developers.hubspot.com/docs/api/marketing/marketing-events): Marketing-related APIs for events and campaign-connected workflows.
+- [CMS Development Docs](https://developers.hubspot.com/docs/cms): Documentation for building themes, modules, and websites on HubSpot CMS.
+- [Webhook API](https://developers.hubspot.com/docs/api/webhooks): Webhook subscriptions for receiving HubSpot event notifications.
+- [OAuth Apps](https://developers.hubspot.com/docs/apps/legacy-apps/authentication/oauth-quickstart-guide): OAuth guide for building public integrations with HubSpot.
+- [Developer Changelog](https://developers.hubspot.com/changelog): Updates and release notes for HubSpot developer products and APIs.
 
-- [Breeze AI](https://www.hubspot.com/products/artificial-intelligence): HubSpot's Breeze AI tools including assistant and agents for business automation
+## Academy & Learning
+- [HubSpot Academy](https://academy.hubspot.com/): Free courses, certifications, and training for HubSpot and business skills.
+- [Academy Certifications](https://academy.hubspot.com/certification-overview): Overview of available HubSpot certifications and learning paths.
+- [Inbound Certification](https://academy.hubspot.com/courses/inbound): Training on inbound methodology, lead generation, and customer engagement.
+- [Marketing Software Certification](https://academy.hubspot.com/courses/marketing-hub-software): Product training for using HubSpot marketing tools effectively.
+- [Sales Software Certification](https://academy.hubspot.com/courses/sales-hub-software): Product training for managing pipelines and sales processes in HubSpot.
+- [Service Software Certification](https://academy.hubspot.com/courses/service-hub-software): Product training for support, ticketing, and customer service workflows.
+- [CMS for Developers](https://academy.hubspot.com/courses/cms-for-developers): Training for developers building websites and modules on HubSpot CMS.
 
-## Getting Started & Plans
+## Support & Community
+- [Help Center](https://help.hubspot.com/): Support entry point for documentation, troubleshooting, and customer assistance.
+- [HubSpot Community](https://community.hubspot.com/): Community forums for product questions, peer support, and best practices.
+- [Contact HubSpot Support](https://help.hubspot.com/contact-us): Support contact options for HubSpot customers and users.
+- [System Status](https://status.hubspot.com/): Real-time status information for HubSpot products and services.
+- [Ideas Forum](https://community.hubspot.com/t5/HubSpot-Ideas/idb-p/HubSpot_Ideas): Product feedback board for feature requests and improvement suggestions.
 
-- [Get Started with HubSpot](https://www.hubspot.com/products/get-started): Onboarding and getting started guide for new HubSpot users
-- [HubSpot Starter Plan](https://www.hubspot.com/products/crm/starter): Starter customer platform plan for small businesses and startups at $20/month
+## Blog & Educational Content
+- [HubSpot Blog](https://blog.hubspot.com/): Main blog covering marketing, sales, service, websites, and business growth.
+- [Marketing Blog](https://blog.hubspot.com/marketing): Articles on SEO, content, email marketing, and demand generation.
+- [Sales Blog](https://blog.hubspot.com/sales): Articles on prospecting, pipeline management, and sales strategy.
+- [Service Blog](https://blog.hubspot.com/service): Articles on customer support, retention, and service operations.
+- [Website Blog](https://blog.hubspot.com/website): Articles on websites, CMS, UX, and conversion optimization.
+- [The Hustle](https://thehustle.co/): HubSpot-owned business and tech publication focused on trends and analysis.
+- [Research & Reports](https://www.hubspot.com/resources): Resource library with guides, templates, and business research.
 
-## Company Information
+## Solutions & Use Cases
+- [Small Business](https://www.hubspot.com/solutions/small-business): HubSpot solutions tailored for small businesses and growing teams.
+- [Enterprise](https://www.hubspot.com/solutions/enterprise): Enterprise-focused platform capabilities for scale, governance, and advanced operations.
+- [Startups](https://www.hubspot.com/startups): Startup program, discounts, and growth resources for early-stage companies.
+- [Marketing Software](https://www.hubspot.com/products/marketing/marketing-software): Product overview for campaign execution and marketing automation use cases.
+- [Sales Software](https://www.hubspot.com/products/sales/sales-software): Product overview for sales engagement, forecasting, and pipeline workflows.
+- [Customer Service Software](https://www.hubspot.com/products/service/customer-service): Product overview for support teams and service operations.
+- [CMS Software](https://www.hubspot.com/products/content/cms): Website and CMS software for marketers and developers.
+- [B2B Commerce](https://www.hubspot.com/products/commerce): Commerce workflows for quotes, invoices, payments, and subscriptions.
 
-- [HubSpot Homepage](https://www.hubspot.com): HubSpot's main homepage showcasing the customer platform and core products
-- [About HubSpot](https://www.hubspot.com/our-story): Company story and history of HubSpot's founding by Brian Halligan and Dharmesh Shah
-- [Executive Leadership](https://www.hubspot.com/company/management): HubSpot executive team and board of directors information
-- [Careers](https://www.hubspot.com/careers): HubSpot career opportunities and company culture information
-
-## Support & Contact
-
-- [Help Center](https://help.hubspot.com): HubSpot knowledge base, community forums, and support resources
-- [Contact Sales](https://offers.hubspot.com/contact-sales): Sales contact page for product demos and business inquiries
-- [Contact Us](https://www.hubspot.com/company/contact): HubSpot contact information and global office locations
-
-## International & Optional
-
-- [HubSpot Brasil](https://br.hubspot.com): HubSpot customer platform homepage in Portuguese (Brazil)
-- [Investor Relations](https://ir.hubspot.com): HubSpot investor relations with earnings reports and SEC filings
+## Company
+- [About HubSpot](https://www.hubspot.com/our-story): Company background, mission, and history of HubSpot.
+- [Leadership](https://www.hubspot.com/company/management): Executive leadership and company management information.
+- [Careers](https://www.hubspot.com/careers): Job openings, culture information, and career opportunities at HubSpot.
+- [Newsroom](https://www.hubspot.com/company-news): Company announcements, press releases, and media resources.
+- [Investors](https://ir.hubspot.com/): Investor relations information, filings, earnings, and governance resources.
+- [Contact Sales](https://www.hubspot.com/contact-sales): Sales contact page for demos and product inquiries.

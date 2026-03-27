@@ -1,63 +1,88 @@
 # Jotform
+> Jotform is a no-code platform for building online forms, collecting data, automating workflows, generating documents, and accepting payments.
 
-> Jotform is a comprehensive no-code platform for building forms, apps, tables, workflows, and AI agents with 20,000+ templates and 100+ integrations.
-
-Jotform provides an all-in-one solution for data collection, automation, and collaboration. The platform combines drag-and-drop builders with extensive template libraries, payment processing, e-signature capabilities, and deep integrations with popular business tools like Slack, Microsoft Teams, Salesforce, and Google Workspace.
-
-## Key Topics
-
-- form-builder
-- drag-and-drop-builder
-- no-code
-- template-library
-- workflow-automation
-- integrations
-- payment-collection
-- team-collaboration
-- form-submissions
-- automation
-- Slack
-- Microsoft Teams
-- PayPal
-- Salesforce
-- Google Sheets
+Jotform combines a drag-and-drop form builder with products for approvals, e-signatures, reports, tables, apps, workflows, and AI agents. Its platform also includes large template libraries, payment integrations, and resources for developers and teams.
 
 ## Core Platform
+- [Free Online Form Builder & Form Creator for 2026 | Jotform](https://www.jotform.com/): Drag-and-drop form builder for surveys, registrations, applications, orders, and payments.
+- [Jotform Enterprise](https://www.jotform.com/enterprise/): Enterprise-grade forms and workflow platform with security, governance, and admin controls.
+- [Jotform Mobile Forms](https://www.jotform.com/mobile-forms/): Build and collect forms on mobile devices with offline submission support.
+- [Jotform Teams](https://www.jotform.com/teams/): Collaboration features for shared workspaces, permissions, and team form management.
+- [Jotform HIPAA Forms](https://www.jotform.com/hipaa/): HIPAA-ready forms and data collection tools for healthcare organizations.
+- [Jotform for Salesforce](https://www.jotform.com/salesforce/): Connect forms with Salesforce to sync submissions and streamline CRM workflows.
 
-- [Free Online Form Builder & Form Creator for 2026 | Jotform](https://www.jotform.com): Jotform homepage: drag-and-drop form builder for registrations, applications, orders, payments
+## Products
+- [Jotform Apps](https://www.jotform.com/products/apps/): No-code app builder for turning forms and data into branded mobile-style apps.
+- [Jotform Tables](https://www.jotform.com/products/tables/): Spreadsheet-database hybrid for organizing submissions, workflows, and team data.
+- [Jotform Sign](https://www.jotform.com/products/sign/): E-signature workflows for contracts, approvals, and document signing.
+- [Jotform Approvals](https://www.jotform.com/products/approvals/): Approval flows for requests, reviews, and multi-step decision processes.
+- [Jotform Report Builder](https://www.jotform.com/products/report-builder/): Create visual reports from form submissions with charts and summaries.
+- [Jotform Inbox](https://www.jotform.com/products/inbox/): Shared communication workspace for managing conversations around submissions.
+- [Jotform Workflows](https://www.jotform.com/products/workflows/): Automate business processes with no-code workflow builders and routing logic.
+- [Jotform AI Agents](https://www.jotform.com/products/ai-agents/): Build AI-powered agents for support, lead capture, and automated interactions.
 
-## Template Libraries
+## Templates
+- [Form Templates](https://www.jotform.com/form-templates/): Large library of ready-made templates for forms, surveys, and business workflows.
+- [App Templates](https://www.jotform.com/app-templates/): Prebuilt app templates for directories, portals, scheduling, and internal tools.
+- [Table Templates](https://www.jotform.com/table-templates/): Templates for CRM, project tracking, budgets, inventory, and operations.
+- [Workflow Templates](https://www.jotform.com/workflow-templates/): Reusable workflow templates for approvals, onboarding, and recurring processes.
+- [PDF Templates](https://www.jotform.com/pdf-templates/): Fillable PDF templates for documents, applications, invoices, and records.
+- [Agent Templates](https://www.jotform.com/agent-templates/): AI agent examples for customer service, intake, and information retrieval.
+- [Board Templates](https://www.jotform.com/board-templates/): Kanban-style board templates for planning, tracking, and collaboration.
+- [Sign Templates](https://www.jotform.com/pdf-templates/e-sign): E-sign document templates for agreements, waivers, and approvals.
 
-- [20,000+ Free Online Form Templates & Form Examples | Jotform](https://www.jotform.com/form-templates): 20,000+ customizable form templates for applications, orders, feedback, surveys
-- [800+ Free No-Code App Templates | Jotform](https://www.jotform.com/app-templates): 800+ no-code app templates: scheduling, booking, automation with drag-and-drop
-- [300+ Free Table Templates | Jotform Tables](https://www.jotform.com/table-templates): Jotform Tables: 300+ templates for CRM, budgets, social media, task management
-- [200+ Free Workflow Templates | Jotform](https://www.jotform.com/workflow-templates): 200+ workflow templates for order processing, recruiting, expenses, training
-- [7,000+ Free AI Agent Examples | Jotform](https://www.jotform.com/agent-templates): 7,000+ AI agent templates for customer support, sales, education automation
-- [1,000+ Free Board Examples | Jotform](https://www.jotform.com/board-templates): 1,000+ board templates for project management, planning, collaboration
+## Features
+- [Online Forms](https://www.jotform.com/online-forms/): Overview of online form creation, sharing, and submission collection.
+- [Survey Maker](https://www.jotform.com/survey-maker/): Build surveys with customizable question types, logic, and reporting.
+- [Quiz Maker](https://www.jotform.com/quiz-maker/): Create quizzes and assessments with scoring and conditional logic.
+- [Fillable PDF Form Creator](https://www.jotform.com/fillable-pdf-form-creator/): Convert documents into fillable PDF forms for digital completion.
+- [Card Form](https://www.jotform.com/card-forms/): Conversational card-style forms designed for improved completion rates.
+- [Conditional Logic Forms](https://www.jotform.com/conditional-logic-forms/): Add dynamic behavior and branching based on user responses.
+- [Form Analytics](https://www.jotform.com/form-analytics/): Track form performance, abandonment, and submission behavior.
+- [Form Calculations](https://www.jotform.com/form-calculations/): Use calculations for pricing, scoring, totals, and custom formulas.
 
-## Document & Signature Solutions
+## Payments
+- [Payment Forms](https://www.jotform.com/payment-forms/): Create forms for collecting payments, donations, fees, and orders.
+- [Jotform Store Builder](https://www.jotform.com/store-builder/): Build simple online stores with product listings and payment collection.
+- [PayPal Integration](https://www.jotform.com/integrations/paypal): Accept payments through PayPal in Jotform forms.
+- [Stripe Integration](https://www.jotform.com/integrations/stripe): Connect Stripe to process card payments and online transactions.
+- [Square Integration](https://www.jotform.com/integrations/square): Use Square for payments and commerce workflows in forms.
+- [Authorize.net Integration](https://www.jotform.com/integrations/authorize-net): Process secure online payments with Authorize.net.
+- [Payment Integrations](https://www.jotform.com/payment-integrations/): Directory of payment gateways and processors supported by Jotform.
 
-- [2,000+ Jotform PDF Templates | Jotform](https://www.jotform.com/pdf-templates): 2,000+ customizable PDF templates for document generation and forms
-- [900+ Jotform Sign Templates | Jotform](https://www.jotform.com/pdf-templates/e-sign): 900+ e-signature templates for contracts and business agreements
+## Integrations
+- [Integrations](https://www.jotform.com/integrations/): Browse integrations for payments, CRM, storage, communication, and automation.
+- [Google Sheets Integration](https://www.jotform.com/integrations/google-sheets): Send form submissions directly to Google Sheets.
+- [Slack Integration](https://www.jotform.com/integrations/slack): Post notifications and automate team communication from submissions.
+- [Microsoft Teams Integration](https://www.jotform.com/integrations/microsoft-teams): Connect forms with Teams for alerts and collaboration workflows.
+- [Salesforce Integration](https://www.jotform.com/integrations/salesforce): Sync form data with Salesforce records and processes.
+- [HubSpot Integration](https://www.jotform.com/integrations/hubspot): Send leads and submission data into HubSpot.
+- [Zapier Integration](https://www.jotform.com/integrations/zapier): Connect Jotform to thousands of apps through Zapier automation.
+- [Dropbox Integration](https://www.jotform.com/integrations/dropbox): Store uploaded files and submission assets in Dropbox.
 
-## Payment & Financial Integrations
+## Guides and Resources
+- [Jotform Blog](https://www.jotform.com/blog/): Articles on forms, productivity, workflows, customer experience, and digital transformation.
+- [Resource Center](https://www.jotform.com/resources/): Guides, ebooks, reports, and educational content for teams and organizations.
+- [Jotform Academy](https://www.jotform.com/academy/): Training courses and tutorials for learning Jotform products and workflows.
+- [Examples](https://www.jotform.com/examples/): Real-world examples of forms and use cases across industries.
+- [Form Builder Guide](https://www.jotform.com/form-builder-guide/): Introductory guide to building and publishing online forms.
+- [Help Center](https://www.jotform.com/help/): Product help articles, troubleshooting, and setup documentation.
+- [Contact Support](https://www.jotform.com/contact/): Contact options for sales, support, and general inquiries.
 
-- [Jotform + PayPal Integration | Form Builder for PayPal](https://www.jotform.com/integrations/paypal): Jotform PayPal integration: accept 100+ currencies, no extra transaction fees
+## Developers
+- [API](https://api.jotform.com/docs/): REST API documentation for forms, submissions, users, and account data.
+- [API Libraries](https://api.jotform.com/docs/#libraries): Official API libraries and client SDK references.
+- [API Reference](https://api.jotform.com/docs/#api): Endpoint reference for interacting with Jotform programmatically.
+- [Webhooks](https://api.jotform.com/docs/#webhooks): Configure webhooks to receive submission events and updates.
+- [OAuth 2.0](https://api.jotform.com/docs/#oauth2): Authenticate integrations and apps using OAuth 2.0.
+- [API Limits](https://api.jotform.com/docs/#limits): Usage limits and request considerations for API consumers.
 
-## Team Collaboration Integrations
-
-- [Jotform + Microsoft Teams Integration | Form Builder for Microsoft Teams](https://www.jotform.com/integrations/microsoft-teams): Jotform Microsoft Teams integration: send submissions, create events, automate
-- [Jotform + Slack Integration | Form Builder for Slack](https://www.jotform.com/integrations/slack): Jotform Slack integration: sync tasks, feedback, bookings for team collaboration
-- [Jotform + Zoom Integration | Form Builder for Zoom](https://www.jotform.com/integrations/zoom): Jotform Zoom integration: schedule meetings and register participants
-
-## Data & Productivity Integrations
-
-- [Jotform + Google Sheets Integration | Form Builder for Google Sheets](https://www.jotform.com/integrations/google-sheets): Jotform Google Sheets integration: auto-sync form data to spreadsheets
-- [Jotform + Salesforce Integration | Form Builder for Salesforce](https://www.jotform.com/integrations/salesforce): Jotform Salesforce integration: auto-add leads and contacts to sales pipeline
-- [Jotform + Google Calendar Integration | Form Builder for Google Calendar](https://www.jotform.com/integrations/google-calendar): Jotform Google Calendar integration: sync bookings and events automatically
-- [Jotform + Mailchimp Integration | Form Builder for Mailchimp](https://www.jotform.com/integrations/mailchimp): Jotform Mailchimp integration: auto-add contacts to email lists
-- [Jotform + Dropbox Integration | Form Builder for Dropbox](https://www.jotform.com/integrations/dropbox): Jotform Dropbox integration: auto-send uploaded files to cloud storage
-
-## Optional
-
-- [Jotform + Canva Integration | Form Builder for Canva](https://www.jotform.com/integrations/canva): Jotform Canva integration: embed custom forms in Canva designs
+## Solutions by Use Case
+- [Registration Forms](https://www.jotform.com/online-registration-form/): Create registration workflows for events, classes, and programs.
+- [Application Forms](https://www.jotform.com/application-forms/): Build application forms for jobs, schools, grants, and programs.
+- [Order Forms](https://www.jotform.com/order-forms/): Collect product orders, service requests, and payments online.
+- [Contact Forms](https://www.jotform.com/contact-forms/): Publish contact forms for inquiries, support, and lead capture.
+- [Feedback Forms](https://www.jotform.com/feedback-forms/): Gather customer, employee, and event feedback with customizable forms.
+- [Donation Forms](https://www.jotform.com/donation-forms/): Accept donations and recurring contributions through online forms.
+- [Appointment Forms](https://www.jotform.com/appointment-forms/): Manage bookings, scheduling, and service requests with form-based intake.
+- [HIPAA Compliance](https://www.jotform.com/hipaa/): Secure healthcare data collection and compliant form workflows.

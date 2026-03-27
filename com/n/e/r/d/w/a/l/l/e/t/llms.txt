@@ -1,50 +1,103 @@
 # NerdWallet
+> NerdWallet is a personal finance platform that helps consumers compare financial products, learn money topics, and make smarter financial decisions.
 
-> NerdWallet is a comprehensive personal finance platform providing expert research, comparisons, and tools for credit cards, mortgages, insurance, loans, banking, and investing.
+NerdWallet publishes expert reviews, rankings, calculators, and educational guides across credit cards, banking, loans, mortgages, insurance, investing, taxes, travel, and small business finance.
 
-NerdWallet offers independent financial product research with expert reviews, side-by-side comparison tools, and personalized recommendations to help consumers make informed financial decisions. The platform specializes in credit card guidance across multiple reward categories and provides free credit scoring and monitoring services.
+## Core Platform
+- [NerdWallet Home](https://www.nerdwallet.com): Main entry point for NerdWallet’s personal finance products, comparisons, tools, and educational content.
+- [Best-Of Awards](https://www.nerdwallet.com/best): Editorial picks highlighting top financial products across major consumer finance categories.
+- [Finance Calculators](https://www.nerdwallet.com/calculator): Collection of calculators for loans, mortgages, debt payoff, investing, and budgeting.
+- [Personal Finance](https://www.nerdwallet.com/hub/category/personal-finance): Broad money guidance covering budgeting, saving, debt, taxes, and financial planning.
+- [Small Business](https://www.nerdwallet.com/hub/category/small-business): Resources for business banking, credit cards, loans, accounting, and startup finance.
+- [Investing](https://www.nerdwallet.com/hub/category/investing): Educational content and comparisons for brokers, retirement accounts, and investing strategies.
 
-## Key Topics
+## Credit Cards
+- [Credit Cards](https://www.nerdwallet.com/credit-cards): Main credit card hub with card recommendations, reviews, and category-based comparisons.
+- [Best Credit Cards](https://www.nerdwallet.com/credit-cards/best): Editorial roundup of top credit cards across rewards, travel, balance transfer, and more.
+- [Credit Card Reviews](https://www.nerdwallet.com/credit-cards/reviews): Expert reviews of individual credit cards with fees, rewards, and benefit details.
+- [Compare Credit Cards](https://www.nerdwallet.com/credit-cards/compare): Side-by-side comparison tool for evaluating card features, rewards, and costs.
+- [Cash Back Credit Cards](https://www.nerdwallet.com/credit-cards/best/cash-back): Best cash back card recommendations for everyday spending and category bonuses.
+- [Travel Credit Cards](https://www.nerdwallet.com/credit-cards/best/travel): Best travel card picks for points, miles, perks, and trip protections.
+- [Balance Transfer Credit Cards](https://www.nerdwallet.com/credit-cards/best/balance-transfer): Best balance transfer cards for reducing interest and paying down debt.
+- [0% APR Credit Cards](https://www.nerdwallet.com/credit-cards/best/0-apr): Best introductory APR cards for purchases and balance transfers.
 
-- credit cards
-- rewards cards
-- cash back
-- travel rewards
-- balance transfer
-- 0% APR
-- credit card comparison
-- credit score
-- sign-up bonuses
-- airline cards
-- student credit cards
-- grocery rewards
-- card recommendations
-- personal finance
-- financial calculators
+## Banking
+- [Banking](https://www.nerdwallet.com/hub/category/banking): Banking hub covering checking, savings, CDs, money market accounts, and banking basics.
+- [Best High-Yield Savings Accounts](https://www.nerdwallet.com/best/banking/high-yield-online-savings-accounts): Top savings account picks with rates, fees, and account features.
+- [Best Checking Accounts](https://www.nerdwallet.com/best/banking/checking-accounts): Best checking account recommendations for low fees, ATM access, and digital tools.
+- [Best CD Rates](https://www.nerdwallet.com/best/banking/cd-rates): Current certificate of deposit recommendations and rate comparisons by term.
+- [Best Money Market Accounts](https://www.nerdwallet.com/best/banking/money-market-accounts): Best money market account options for savings flexibility and competitive yields.
+- [Best Banks and Credit Unions](https://www.nerdwallet.com/best/banking/best-banks-and-credit-unions): Rankings of banks and credit unions for fees, access, and customer experience.
 
-## Core Credit Card Resources
+## Loans and Debt
+- [Personal Loans](https://www.nerdwallet.com/personal-loans): Personal loan marketplace and educational hub for borrowing and repayment strategies.
+- [Best Personal Loans](https://www.nerdwallet.com/best/loans/personal-loans): Top personal loan lenders for debt consolidation, home improvement, and major expenses.
+- [Student Loans](https://www.nerdwallet.com/hub/category/student-loans): Guides on federal loans, private loans, refinancing, and repayment options.
+- [Student Loan Refinance](https://www.nerdwallet.com/best/loans/student-loans/student-loan-refinance-lenders): Best lenders for refinancing student debt with lower rates or new terms.
+- [Auto Loans](https://www.nerdwallet.com/hub/category/auto-loans): Auto financing guidance for car loans, refinancing, leasing, and affordability.
+- [Debt Consolidation Loans](https://www.nerdwallet.com/best/loans/personal-loans/debt-consolidation-loans): Lender recommendations for combining debts into a single monthly payment.
+- [Payday Loans](https://www.nerdwallet.com/article/loans/personal-loans/payday-loans): Explainer on payday loans, costs, risks, and safer borrowing alternatives.
 
-- [NerdWallet: Finance smarter](https://www.nerdwallet.com): NerdWallet homepage offering financial product research across credit cards, mortgages, insurance, loans, banking, investing.
-- [Credit Cards: Browse, Learn and Apply - NerdWallet](https://www.nerdwallet.com/credit-cards): Main credit card hub with card finder, reviews, and comparison tools for rewards, cash back, and balance transfers.
-- [Side by Side Credit Card Comparison - NerdWallet](https://www.nerdwallet.com/credit-cards/compare): Interactive credit card comparison tool with side-by-side feature analysis.
-- [Take our credit card quiz to get matched today.](https://www.nerdwallet.com/m/credit-cards/analyze/get-started): Credit card matching quiz with approval odds and personalized recommendations.
-- [Credit Card Reviews by NerdWallet's Experts - NerdWallet](https://www.nerdwallet.com/credit-cards/reviews): Expert reviews of popular credit cards across all reward categories.
-- [Get a Free Credit Score: No Credit Card Needed - NerdWallet](https://www.nerdwallet.com/p/free-credit-score): Free credit score and monitoring service with FICO and VantageScore access.
+## Mortgages and Home
+- [Mortgages](https://www.nerdwallet.com/mortgages): Mortgage hub with lender reviews, rate information, and home-buying guidance.
+- [Best Mortgage Lenders](https://www.nerdwallet.com/best/mortgages/mortgage-lenders): Top mortgage lender picks for first-time buyers, refinancing, and low down payments.
+- [Current Mortgage Rates](https://www.nerdwallet.com/mortgages/mortgage-rates): Daily mortgage rate coverage and explanations of rate trends.
+- [Refinance Mortgage Rates](https://www.nerdwallet.com/mortgages/refinance-rates): Refinance rate tracking and guidance on when refinancing may make sense.
+- [FHA Loans](https://www.nerdwallet.com/article/mortgages/fha-loan-requirements): Guide to FHA loan requirements, limits, and qualification basics.
+- [VA Loans](https://www.nerdwallet.com/article/mortgages/va-loan): Overview of VA loans, eligibility rules, and common borrower benefits.
+- [Home Affordability Calculator](https://www.nerdwallet.com/mortgages/how-much-house-can-i-afford): Calculator and guide for estimating a realistic home-buying budget.
 
-## Best Credit Cards by Category
+## Insurance
+- [Insurance](https://www.nerdwallet.com/hub/category/insurance): Insurance hub covering auto, home, life, pet, and renters insurance topics.
+- [Auto Insurance](https://www.nerdwallet.com/hub/category/insurance/auto-insurance): Guides and insurer comparisons for car insurance coverage and pricing.
+- [Homeowners Insurance](https://www.nerdwallet.com/hub/category/insurance/homeowners-insurance): Home insurance guides, company reviews, and coverage explanations.
+- [Renters Insurance](https://www.nerdwallet.com/hub/category/insurance/renters-insurance): Renters insurance basics, company comparisons, and cost-saving tips.
+- [Life Insurance](https://www.nerdwallet.com/hub/category/insurance/life-insurance): Life insurance education covering term, whole life, and policy shopping.
+- [Pet Insurance](https://www.nerdwallet.com/hub/category/insurance/pet-insurance): Pet insurance comparisons and guidance on coverage, exclusions, and costs.
+- [Best Car Insurance Companies](https://www.nerdwallet.com/best/insurance/car-insurance): Rankings of auto insurers based on coverage options, complaints, and pricing factors.
 
-- [Best Credit Cards - March 2026 - NerdWallet](https://www.nerdwallet.com/credit-cards/best): Comprehensive guide to best credit cards of 2026 with expert reviews and comparisons across categories.
-- [Best Rewards Credit Cards of March 2026 - NerdWallet](https://www.nerdwallet.com/credit-cards/best/rewards): Comprehensive guide to rewards credit cards across cash back, points, and miles.
-- [Best Cash Back Credit Cards of March 2026 - NerdWallet](https://www.nerdwallet.com/credit-cards/best/cash-back): Expert guide to cash back credit cards maximizing flexible rewards.
-- [Best Travel Credit Cards of March 2026 - NerdWallet](https://www.nerdwallet.com/credit-cards/best/travel): Guide to travel credit cards with rewards optimization and luxury perks.
-- [Best Balance Transfer Credit Cards of March 2026 - NerdWallet](https://www.nerdwallet.com/credit-cards/best/balance-transfer): Expert guide to balance transfer cards for debt management and lower APR options.
-- [Best 0% APR Credit Cards of March 2026 - NerdWallet](https://www.nerdwallet.com/credit-cards/best/zero-percent): Guide to introductory 0% APR cards with long interest-free periods.
-- [Best Credit Card Bonuses for New Cardholders - NerdWallet](https://www.nerdwallet.com/credit-cards/best/bonus-offers): Guide to maximizing credit card sign-up bonuses and new cardholder offers.
-- [Best Airline Credit Cards of March 2026 - NerdWallet](https://www.nerdwallet.com/credit-cards/best/airline): Guide to airline credit cards with travel benefits and frequent flyer rewards.
-- [Best College Student Credit Cards of March 2026 - NerdWallet](https://www.nerdwallet.com/credit-cards/best/college-student): Guide to student credit cards for building credit history.
-- [Best Credit Cards for Groceries of March 2026 - NerdWallet](https://www.nerdwallet.com/credit-cards/best/groceries): Guide to grocery rewards credit cards optimized for food purchases.
+## Investing and Retirement
+- [Investing](https://www.nerdwallet.com/hub/category/investing): Investing hub with broker reviews, retirement guidance, and market education.
+- [Best Online Brokers](https://www.nerdwallet.com/best/investing/online-brokers-for-stock-trading): Top brokerage picks for stock trading, beginners, and low-cost investing.
+- [Roth IRA](https://www.nerdwallet.com/article/investing/roth-ira): Guide to Roth IRA rules, contribution limits, and tax advantages.
+- [Traditional IRA](https://www.nerdwallet.com/article/investing/what-is-an-ira): Overview of IRA basics, account types, and retirement saving benefits.
+- [401(k) Calculator](https://www.nerdwallet.com/calculator/401k-calculator): Retirement calculator for estimating future 401(k) balances and contributions.
+- [Retirement Calculator](https://www.nerdwallet.com/calculator/retirement-calculator): Planning tool for estimating retirement savings needs and income targets.
+- [Best Robo-Advisors](https://www.nerdwallet.com/best/investing/robo-advisors): Best automated investing platforms for hands-off portfolio management.
 
-## Financial Calculators & Tools
+## Taxes and Income
+- [Taxes](https://www.nerdwallet.com/hub/category/taxes): Tax hub with filing guidance, credits, deductions, and tax software comparisons.
+- [Best Tax Software](https://www.nerdwallet.com/best/taxes/tax-software): Reviews and rankings of tax filing software for different tax situations.
+- [Federal Income Tax Brackets](https://www.nerdwallet.com/article/taxes/federal-income-tax-brackets): Current federal tax bracket guide with rates and filing status details.
+- [Standard Deduction](https://www.nerdwallet.com/article/taxes/standard-deduction): Explanation of standard deduction amounts and how they affect taxable income.
+- [Tax Calculator](https://www.nerdwallet.com/calculator/tax-calculator): Calculator for estimating federal income taxes and take-home pay.
+- [Paycheck Calculator](https://www.nerdwallet.com/calculator/paycheck-calculator): Tool for estimating paycheck withholding and net pay.
+- [Capital Gains Tax Calculator](https://www.nerdwallet.com/calculator/capital-gains-tax-calculator): Calculator for estimating taxes owed on investment gains.
 
-- [Credit Card Balance Transfer Calculator - NerdWallet](https://www.nerdwallet.com/credit-cards/learn/balance-transfer-calculator): Financial calculator for estimating balance transfer savings with 0% APR.
-- [Credit Card Interest Calculator - NerdWallet](https://www.nerdwallet.com/credit-cards/learn/credit-card-interest-calculator): Calculator for computing credit card interest charges and APR calculations.
+## Travel
+- [Travel](https://www.nerdwallet.com/travel): Travel hub covering loyalty programs, airline miles, hotels, and travel rewards strategy.
+- [Best Travel Credit Cards](https://www.nerdwallet.com/credit-cards/best/travel): Best travel card recommendations for earning points and travel perks.
+- [Airline Credit Cards](https://www.nerdwallet.com/credit-cards/best/airline): Best airline card picks for miles, free bags, and elite benefits.
+- [Hotel Credit Cards](https://www.nerdwallet.com/credit-cards/best/hotel): Best hotel card recommendations for free nights, status, and travel rewards.
+- [Travel Rewards Program Reviews](https://www.nerdwallet.com/travel/reviews): Reviews of airline, hotel, and travel loyalty programs.
+- [Points and Miles Valuations](https://www.nerdwallet.com/travel/valuations): NerdWallet valuations for airline miles, hotel points, and reward currencies.
+- [Travel Insurance](https://www.nerdwallet.com/article/travel/travel-insurance): Guide to travel insurance coverage, exclusions, and when to buy it.
+
+## Small Business
+- [Small Business](https://www.nerdwallet.com/hub/category/small-business): Main hub for business credit cards, loans, banking, and startup guidance.
+- [Business Credit Cards](https://www.nerdwallet.com/best/credit-cards/small-business): Best business credit card recommendations for rewards, travel, and cash flow.
+- [Business Loans](https://www.nerdwallet.com/best/small-business/business-loans): Best business loan options for startups, expansion, and working capital.
+- [Business Checking Accounts](https://www.nerdwallet.com/best/small-business/business-checking): Best business checking accounts for low fees and banking features.
+- [Startup Business Loans](https://www.nerdwallet.com/article/small-business/startup-business-loans): Guide to funding options for new businesses with limited operating history.
+- [SBA Loans](https://www.nerdwallet.com/article/small-business/sba-loans): Overview of SBA loan programs, eligibility, and application basics.
+- [Business Plan Template](https://www.nerdwallet.com/article/small-business/business-plan-template): Template and guide for writing a business plan.
+
+## Tools and Calculators
+- [Mortgage Calculator](https://www.nerdwallet.com/mortgages/mortgage-calculator): Calculator for estimating monthly mortgage payments, taxes, and insurance.
+- [Debt Consolidation Calculator](https://www.nerdwallet.com/calculator/debt-consolidation-calculator): Tool for comparing debt consolidation costs and repayment outcomes.
+- [Debt Snowball Calculator](https://www.nerdwallet.com/calculator/debt-snowball-calculator): Calculator for planning debt payoff using the snowball repayment method.
+- [Compound Interest Calculator](https://www.nerdwallet.com/calculator/compound-interest-calculator): Tool for projecting savings and investment growth over time.
+- [Investment Calculator](https://www.nerdwallet.com/calculator/investment-calculator): Calculator for estimating portfolio growth based on contributions and returns.
+- [Student Loan Calculator](https://www.nerdwallet.com/calculator/student-loan-calculator): Tool for estimating student loan payments and total borrowing costs.
+- [Personal Loan Calculator](https://www.nerdwallet.com/calculator/personal-loan-calculator): Calculator for monthly payments, interest costs, and loan affordability.
+- [Net Worth Calculator](https://www.nerdwallet.com/calculator/net-worth-calculator): Tool for estimating assets, liabilities, and overall financial position.

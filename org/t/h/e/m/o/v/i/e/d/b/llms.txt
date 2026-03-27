@@ -1,33 +1,96 @@
 # The Movie Database (TMDB)
 
-> > A comprehensive, community-driven database for movies and TV shows with streaming service integration and extensive collection metadata.
+> A popular, user-editable database for movies, TV shows, people, images, and entertainment metadata.
 
-TMDB is a user-editable entertainment platform that catalogs movies, TV shows, and streaming availability across services like Netflix, Amazon Prime Video, Apple TV, Disney Plus, and Hulu. The database features curated collections, watchlists, and detailed metadata for media discovery.
+TMDB helps users discover films and series, browse cast and crew credits, track trending titles, and access structured metadata through developer APIs. The platform also includes community features such as ratings, lists, watchlists, and contribution tools.
 
-## Key Topics
+## Main Site
 
-- movie-database
-- tv-shows
-- streaming-services
-- movie-collection
-- watchlist
-- media-discovery
-- Netflix
-- Amazon Prime Video
-- Apple TV
-- Disney Plus
-- Hulu
-- community-database
-- entertainment-platform
-- korean-drama
-- thriller
+- [Home](https://www.themoviedb.org/): Main discovery page for movies, TV shows, people, and trending entertainment.
+- [Search](https://www.themoviedb.org/search): Search across movies, TV shows, people, collections, companies, and keywords.
+- [Trending](https://www.themoviedb.org/trending): Browse titles and people trending across TMDB.
+- [Movies](https://www.themoviedb.org/movie): Explore popular, now playing, upcoming, and top rated movies.
+- [TV Shows](https://www.themoviedb.org/tv): Explore popular, airing today, on the air, and top rated series.
+- [People](https://www.themoviedb.org/person): Browse actors, directors, writers, and other entertainment professionals.
+- [Collections](https://www.themoviedb.org/collection): Explore grouped film series and franchise collections.
+- [Companies](https://www.themoviedb.org/company): Browse production companies, networks, and distributors.
 
-## Platform Overview
+## Discover
 
-- [The Movie Database (TMDB)](https://www.themoviedb.org/?language=ta-INlk/5889bf50c3a36819ce0033fc/ta): Homepage for TMDB, user-editable database for movies and TV shows
+- [Discover Movies](https://www.themoviedb.org/discover/movie): Filter movies by genre, release date, rating, language, and more.
+- [Discover TV Shows](https://www.themoviedb.org/discover/tv): Filter TV series by genre, air date, network, and popularity.
+- [Movie Genres](https://www.themoviedb.org/genre/movie/list): Browse movie genres available across the TMDB catalog.
+- [TV Genres](https://www.themoviedb.org/genre/tv/list): Browse television genres available across the TMDB catalog.
+- [Keywords](https://www.themoviedb.org/keyword): Explore titles associated with specific themes and keywords.
+- [Networks](https://www.themoviedb.org/network): Browse television networks and streaming platforms in TMDB.
 
-## Movie & TV Collections
+## Community
 
-- [Temptation of Eve](https://www.themoviedb.org/collection/712604): Collection page for OCN's Korean erotic thriller series Temptation of Eve
-- [Unit 731](https://www.themoviedb.org/collection/633245): Collection of Hong Kong exploitation films about Second Sino-Japanese War
-- [Akio Jissoji's Mystery File Collection](https://www.themoviedb.org/collection/1103969): Collection of mystery films by director Akio Jissoji
+- [Lists](https://www.themoviedb.org/lists): Browse user-created lists of movies and TV shows.
+- [Leaderboard](https://www.themoviedb.org/leaderboard): View top contributors and community activity rankings.
+- [Discussions](https://www.themoviedb.org/discuss): Participate in TMDB community discussions and support topics.
+- [Contribute](https://www.themoviedb.org/contribute): Learn how to add and edit data on TMDB.
+- [Bibles](https://www.themoviedb.org/bible): Read contribution rules and data standards for TMDB entries.
+- [Content Issues](https://www.themoviedb.org/report): Report incorrect, duplicate, or problematic content.
+
+## Account Features
+
+- [Login](https://www.themoviedb.org/login): Sign in to access ratings, lists, watchlists, and account settings.
+- [Signup](https://www.themoviedb.org/signup): Create a TMDB account for personalized features and contributions.
+- [Watchlist](https://www.themoviedb.org/u/watchlist): Track movies and TV shows you want to watch.
+- [Favorites](https://www.themoviedb.org/u/favorites): Save favorite movies and TV shows to your profile.
+- [Ratings](https://www.themoviedb.org/u/ratings): View titles you have rated on TMDB.
+- [Lists Management](https://www.themoviedb.org/u/lists): Manage personal and collaborative title lists.
+
+## Developer Documentation
+
+- [TMDB API Documentation](https://developer.themoviedb.org/docs): Official documentation for TMDB developer APIs and integration guides.
+- [API Reference](https://developer.themoviedb.org/reference/intro/getting-started): Entry point for API reference and getting started information.
+- [Authentication](https://developer.themoviedb.org/reference/authentication-how-do-i-generate-a-session-id): Learn TMDB authentication flows and session handling.
+- [Errors](https://developer.themoviedb.org/docs/errors): Reference for API error codes and troubleshooting.
+- [Rate Limiting](https://developer.themoviedb.org/docs/rate-limiting): Understand TMDB API usage limits and request expectations.
+- [Image Basics](https://developer.themoviedb.org/docs/image-basics): Learn how TMDB image URLs, sizes, and configuration work.
+- [Append To Response](https://developer.themoviedb.org/docs/append-to-response): Reduce requests by appending subresources to API responses.
+- [Change Logs](https://developer.themoviedb.org/docs/tracking-changes): Track incremental data updates through the API.
+
+## API Reference
+
+- [Search API](https://developer.themoviedb.org/reference/search-movie): Search for movies, TV shows, people, collections, companies, and keywords.
+- [Movie Details](https://developer.themoviedb.org/reference/movie-details): Retrieve metadata, credits, images, videos, and release information for movies.
+- [TV Series Details](https://developer.themoviedb.org/reference/tv-series-details): Retrieve metadata, seasons, credits, images, and videos for TV series.
+- [Person Details](https://developer.themoviedb.org/reference/person-details): Retrieve biography, credits, images, and external links for people.
+- [Collection Details](https://developer.themoviedb.org/reference/collection-details): Retrieve franchise and collection metadata with included parts.
+- [Company Details](https://developer.themoviedb.org/reference/company-details): Retrieve production company information and associated titles.
+- [Discover Movies API](https://developer.themoviedb.org/reference/discover-movie): Programmatically filter movies using discover parameters.
+- [Discover TV API](https://developer.themoviedb.org/reference/discover-tv): Programmatically filter TV series using discover parameters.
+
+## Account API
+
+- [Account Details](https://developer.themoviedb.org/reference/account-details): Retrieve account profile information for an authenticated user.
+- [Favorite Movies](https://developer.themoviedb.org/reference/account-get-favorites): Get movies marked as favorites by an account.
+- [Favorite TV Shows](https://developer.themoviedb.org/reference/account-get-favorite-tv): Get TV series marked as favorites by an account.
+- [Movie Watchlist](https://developer.themoviedb.org/reference/account-get-movie-watchlist): Retrieve movies saved to an account watchlist.
+- [TV Watchlist](https://developer.themoviedb.org/reference/account-get-tv-watchlist): Retrieve TV series saved to an account watchlist.
+- [Rated Movies](https://developer.themoviedb.org/reference/account-get-rated-movies): Retrieve movies rated by an authenticated account.
+- [Rated TV Shows](https://developer.themoviedb.org/reference/account-get-rated-tv): Retrieve TV series rated by an authenticated account.
+- [Lists API](https://developer.themoviedb.org/reference/list-details): Create, manage, and retrieve user list data.
+
+## Guides
+
+- [Getting Started](https://developer.themoviedb.org/reference/intro/getting-started): Introduction to TMDB APIs, authentication, and core concepts.
+- [Application Authentication](https://developer.themoviedb.org/docs/authentication-application): Authenticate server-side applications using API keys and access tokens.
+- [User Authentication](https://developer.themoviedb.org/docs/authentication-user): Authenticate users to access account-specific TMDB features.
+- [Sessions](https://developer.themoviedb.org/docs/sessions): Understand guest sessions, user sessions, and session lifecycle.
+- [Internationalization](https://developer.themoviedb.org/docs/languages): Work with translated data, regions, and language parameters.
+- [Timezones](https://developer.themoviedb.org/docs/timezones): Use timezone-aware API features and account settings correctly.
+- [Tracking Changes](https://developer.themoviedb.org/docs/tracking-changes): Monitor updates to movies, TV shows, and people over time.
+- [Support](https://developer.themoviedb.org/docs/support): Find help channels and support resources for developers.
+
+## Legal and Platform Information
+
+- [Terms of Use](https://www.themoviedb.org/terms-of-use): Terms governing use of the TMDB website and services.
+- [API Terms of Use](https://www.themoviedb.org/documentation/api/terms-of-use): Terms governing access to and use of the TMDB API.
+- [Privacy Policy](https://www.themoviedb.org/privacy-policy): Privacy practices for TMDB accounts, data, and site usage.
+- [DMCA Policy](https://www.themoviedb.org/dmca-policy): Copyright and takedown policy for reported content.
+- [Contact](https://www.themoviedb.org/talk): Contact and communication entry points for TMDB.
+- [Status](https://status.themoviedb.org/): Service status page for TMDB platform and API availability.

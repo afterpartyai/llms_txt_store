@@ -1,60 +1,95 @@
 # Express.co.uk
 
-> > Express.co.uk is a UK news and entertainment platform offering breaking news, royal family coverage, celebrity updates, and a comprehensive collection of free online puzzle games.
+> UK news, politics, royal coverage, sport, lifestyle, finance, travel, motoring, and online puzzle games from the Daily Express.
 
-The Daily Express digital platform combines traditional journalism covering UK politics, royal family news, and celebrity stories with an extensive gaming portal featuring daily puzzles like Crusader Crossword, Sudoku, Solitaire, and Word Wheel. The site serves as both a news destination and casual gaming platform for UK audiences.
+Express.co.uk is the digital home of the Daily Express, covering breaking UK and world news alongside specialist sections for politics, royals, showbiz, sport, finance, travel, health, and consumer topics. The site also operates a substantial browser-based games and puzzles portal.
 
-## Key Topics
+## Core Pages
+- [Home](https://www.express.co.uk/): Main homepage featuring latest headlines, analysis, and links to major sections.
+- [About Us](https://www.express.co.uk/about-us): Editorial information, standards, ownership, and contact details.
+- [Newsletters](https://newsletters.e.express.co.uk/): Newsletter signup hub for Express editorial products and updates.
+- [Latest](https://www.express.co.uk/latest): Reverse-chronological feed of newly published Express stories.
+- [Site Map](https://www.express.co.uk/site-map): Directory of site sections, topics, and article listings.
+- [Privacy Notice](https://www.express.co.uk/privacy-notice): Privacy and data handling information for Express users.
+- [Terms & Conditions](https://www.express.co.uk/terms-conditions): Terms governing use of the website and services.
 
-- Daily Express
-- UK News & Politics
-- Royal Family Coverage
-- Celebrity News
-- Free Online Games
-- Daily Puzzles
-- Crusader Crossword
-- Sudoku
-- Solitaire
-- Word Wheel
-- BBC Entertainment
-- Netflix Coverage
-- Labour Politics
-- Browser-Based Games
-- Casual Gaming
+## News
+- [News](https://www.express.co.uk/news): Main news landing page for UK, world, and breaking stories.
+- [UK](https://www.express.co.uk/news/uk): UK-focused reporting on domestic events, crime, weather, and public affairs.
+- [World](https://www.express.co.uk/news/world): International news coverage and global breaking developments.
+- [Politics](https://www.express.co.uk/news/politics): UK political reporting, party news, policy, and Westminster coverage.
+- [Royal](https://www.express.co.uk/news/royal): Royal Family news, commentary, and palace-related reporting.
+- [Weather](https://www.express.co.uk/news/weather): Forecasts, warnings, and weather-related UK news coverage.
 
-## Core Site Pages
+## Showbiz & TV
+- [Showbiz & TV](https://www.express.co.uk/showbiz): Entertainment landing page for celebrity, TV, film, and streaming news.
+- [Celebrity News](https://www.express.co.uk/celebrity-news): Celebrity reporting, interviews, and entertainment headlines.
+- [TV & Radio](https://www.express.co.uk/showbiz/tv-radio): Television and radio news, schedules, and presenter coverage.
+- [Films](https://www.express.co.uk/entertainment/films): Film news, reviews, releases, and cast-related stories.
+- [Books](https://www.express.co.uk/entertainment/books): Book news, author features, and publishing coverage.
+- [Music](https://www.express.co.uk/entertainment/music): Music news, artist updates, and release coverage.
 
-- [Latest UK and World News, Sport and Comment | Express.co.uk](https://express.co.uk): Express.co.uk homepage with UK politics, royal family, and breaking news
-- [About us | Express.co.uk](https://express.co.uk/about-us): Daily Express editorial standards, corrections policy, and team info
-- [Latest UK and World News, Sport and Comment | Express.co.uk](https://newsletters.e.express.co.uk): Newsletter portal featuring UK politics, royal family, and celebrity news
+## Sport
+- [Sport](https://www.express.co.uk/sport): Main sport hub covering football, tennis, F1, boxing, and more.
+- [Football](https://www.express.co.uk/sport/football): Football news, transfer stories, match reaction, and club coverage.
+- [Tennis](https://www.express.co.uk/sport/tennis): Tennis reporting on tours, Grand Slams, and player updates.
+- [F1](https://www.express.co.uk/sport/f1-autosport): Formula 1 and motorsport news, analysis, and race coverage.
+- [Boxing](https://www.express.co.uk/sport/boxing): Boxing news, fight previews, and fighter updates.
+- [Golf](https://www.express.co.uk/sport/golf): Golf tournament coverage, player news, and results.
+- [Cricket](https://www.express.co.uk/sport/cricket): Cricket reporting on international and domestic competitions.
+- [Rugby Union](https://www.express.co.uk/sport/rugby-union): Rugby union news, fixtures, and team developments.
 
-## Free Online Games
+## Finance
+- [Finance](https://www.express.co.uk/finance): Personal finance, pensions, savings, tax, and consumer money news.
+- [Personal Finance](https://www.express.co.uk/finance/personalfinance): Household money, savings, bills, and budgeting coverage.
+- [City](https://www.express.co.uk/finance/city): Markets, business, companies, and economic reporting.
+- [Pensions](https://www.express.co.uk/finance/personalfinance/pensions): Pension policy, retirement income, and state pension updates.
+- [Savings](https://www.express.co.uk/finance/personalfinance/savings): Savings rates, ISAs, and account-related consumer coverage.
+- [Tax](https://www.express.co.uk/finance/personalfinance/tax): Tax changes, HMRC developments, and filing-related news.
+- [Energy Bills](https://www.express.co.uk/finance/personalfinance/energy-bills): Energy cost updates, tariffs, and household bill guidance.
 
-- [Free Online Games on Express | Play Now!](https://games.express.co.uk): Express games homepage featuring Crusader Crossword and puzzle collection
-- [games.express.co.uk/allgames](https://games.express.co.uk/allgames): Complete directory of Express online games including Solitaire and Sudoku
-- [Sudoku | Free Online Game | Express](https://games.express.co.uk/sudoku): Daily Express Sudoku puzzle with multiple difficulty levels online
-- [Sudoku Easy | Free Online Game | Express](https://games.express.co.uk/sudoku/easy): Beginner-friendly Easy Sudoku puzzles for new players online
-- [Solitaire | Free Online Game | Express](https://games.express.co.uk/solitaire): Classic Solitaire card game with undo and help features online
-- [Word Wheel | Free Online Game | Express](https://games.express.co.uk/express-word-wheel): Daily Express Word Wheel puzzle - nine-letter vocabulary challenge game
-- [Daily Express Quick Crossword | Free Online Game](https://games.express.co.uk/express-quick-crossword): Daily Express Quick Crossword with timer and joker hints feature
-- [eXchange | Free Online Game | Express](https://games.express.co.uk/exchange): eXchange match-3 jewel puzzle game by Express online
+## Life & Style
+- [Life & Style](https://www.express.co.uk/life-style): Lifestyle hub covering food, homes, garden, fashion, and wellbeing.
+- [Food](https://www.express.co.uk/life-style/food): Recipes, cooking tips, product news, and kitchen advice.
+- [Life](https://www.express.co.uk/life-style/life): General lifestyle features, relationships, and everyday advice.
+- [Style](https://www.express.co.uk/life-style/style): Fashion, beauty, and personal style coverage.
+- [Cars](https://www.express.co.uk/life-style/cars): Motoring news, reviews, road rules, and driving advice.
+- [Garden](https://www.express.co.uk/life-style/garden): Gardening tips, seasonal advice, and plant care features.
+- [Property](https://www.express.co.uk/life-style/property): Housing market, home ownership, and property-related news.
+- [Health](https://www.express.co.uk/life-style/health): Health news, symptoms, NHS topics, and wellbeing reporting.
 
-## News & Entertainment Articles
+## Travel
+- [Travel](https://www.express.co.uk/travel): Travel news, destination guides, airline updates, and holiday advice.
+- [Cruise](https://www.express.co.uk/travel/cruise): Cruise news, itinerary features, and passenger advice.
+- [Beach Holidays](https://www.express.co.uk/travel/beach): Beach destination ideas and holiday planning features.
+- [City Breaks](https://www.express.co.uk/travel/city-breaks): Short-break destination guides and urban travel coverage.
+- [UK Holidays](https://www.express.co.uk/travel/uk): Domestic travel ideas, staycations, and UK destination news.
+- [Europe](https://www.express.co.uk/travel/europe): European destination coverage and travel updates.
+- [Travel News](https://www.express.co.uk/travel/articles): General travel developments, disruption, and tourism reporting.
 
-- [Tom Jones' heartbreaking confession about late wife revealed | Celebrity News | Showbiz & TV | Express.co.uk](https://express.co.uk/celebrity-news/1292843/tom-jones-news-melinda-trenchard-wife-affairs-the-voice-bbc-tv-spt): Tom Jones tribute to late wife Melinda Trenchard and marriage struggles
-- ['I worked on BBC Breakfast – people are wrong about how much we get paid' | TV & Radio | Showbiz & TV | Express.co.uk](https://express.co.uk/showbiz/tv-radio/2178855/bbc-breakfast-helen-wall-pay): Dr Helen Wall clarifies BBC Breakfast guest appearance compensation
-- [INVASION OF EUROPE: Migrants handed guide on how to evade borders and make way through EU | World | News | Express.co.uk](https://express.co.uk/news/world/665465/Migrant-guide-EU-No-Borders-Welcome-to-Europe): News article on 'Welcome to Italy and Europe' migration guide controversy
+## Comment & Features
+- [Comment](https://www.express.co.uk/comment): Opinion pieces, editorials, and columnist commentary.
+- [Express Comment](https://www.express.co.uk/comment/expresscomment): Editorial comment and institutional opinion from the Express.
+- [Columnists](https://www.express.co.uk/comment/columnists): Opinion articles from regular Express columnists and contributors.
+- [Letters](https://www.express.co.uk/comment/letters): Reader letters and responses to current issues.
+- [Features](https://www.express.co.uk/news/features): Longer-form features, explainers, and special reports.
 
-## Lifestyle & Features
+## Puzzles & Games
+- [Games Home](https://games.express.co.uk/): Main games portal for puzzles, card games, and daily challenges.
+- [All Games](https://games.express.co.uk/allgames): Full directory of browser-based games available on Express.
+- [Sudoku](https://games.express.co.uk/sudoku): Daily Sudoku puzzle with multiple difficulty options.
+- [Sudoku Easy](https://games.express.co.uk/sudoku/easy): Easier Sudoku mode for beginners and casual players.
+- [Quick Crossword](https://games.express.co.uk/express-quick-crossword): Daily quick crossword with hints and timed play.
+- [Crusader Crossword](https://games.express.co.uk/daily-crusader-crossword): Daily cryptic-style Crusader crossword puzzle.
+- [Word Wheel](https://games.express.co.uk/express-word-wheel): Daily word-building puzzle based on a central letter grid.
+- [Solitaire](https://games.express.co.uk/solitaire): Classic solitaire card game playable in the browser.
 
-- [How to crochet cosy winter blanket with simple tutorial | Express.co.uk](https://express.co.uk/life-style/life/1960510/how-to-crochet-winter-blanket): Beginner crochet tutorial for winter blanket by jototheworldcreations
-- [Top 10 facts about heat | Express.co.uk](https://express.co.uk/life-style/top10facts/415323/Top-10-facts-about-heat): Trivia article on heat records, temperature facts, and climate science
-
-## Site Information
-
-- [Social Media - Daily Express | Express.co.uk](https://express.co.uk/about-us/social): Daily Express social media handles and contact info for Pandora Forsyth
-- [Tuesday, March 10, 2026 | Our paper | Express.co.uk](https://express.co.uk/ourpaper): Daily Express digital newspaper archive and E-Edition back issues
-
-## Optional
-
-- [Daily Express](https://admin.express.co.uk): CMS login portal for Daily Express content management system
+## Puzzles & Brain Games
+- [Codeword](https://games.express.co.uk/codeword): Number-to-letter codeword puzzle for vocabulary and deduction play.
+- [Arrow Word](https://games.express.co.uk/arrow-word): Crossword-style word puzzle with directional clues.
+- [Wordsearch](https://games.express.co.uk/wordsearch): Letter-grid wordsearch puzzle with themed hidden words.
+- [Mahjong](https://games.express.co.uk/mahjong): Tile-matching Mahjong solitaire game for casual play.
+- [Mini Crossword](https://games.express.co.uk/mini-crossword): Short-form crossword puzzle for quick daily sessions.
+- [Crossword Challenge](https://games.express.co.uk/crossword-challenge): Competitive crossword-style puzzle game with score-based play.
+- [eXchange](https://games.express.co.uk/exchange): Match-style word and tile puzzle game from Express.
+- [Picture Cross](https://games.express.co.uk/picture-cross): Nonogram-style logic puzzle revealing hidden pixel images.

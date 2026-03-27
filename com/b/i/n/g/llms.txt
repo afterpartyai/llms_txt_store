@@ -1,22 +1,65 @@
-# Bing
+# Microsoft Bing
 
-> > Bing is Microsoft's search engine offering web search, shopping price comparison, image search, and integrated AI-powered experiences.
+> Search with Microsoft Bing and use AI to find information, explore webpages, images, videos, maps, news, shopping, and more.
 
-Bing provides comprehensive search capabilities with specialized features for shopping, including the Microsoft Shopping platform that aggregates product listings, compares prices across retailers, and surfaces deals from merchants like Williams Sonoma, David's Bridal, and Cartier.
+Bing is Microsoft's web search platform, combining general search with specialized verticals, AI-assisted answers, visual search, maps, translation, webmaster tools, and advertising resources.
 
-## Key Topics
+## Core Search
+- [Bing Search](https://www.bing.com/): Main Bing search experience for web results, AI answers, and search features.
+- [Search Results](https://www.bing.com/search): Query-based web search results endpoint for Bing searches.
+- [Images](https://www.bing.com/images): Image search for photos, illustrations, and visual discovery.
+- [Videos](https://www.bing.com/videos): Video search across web sources and publishers.
+- [News](https://www.bing.com/news): News aggregation and topical headlines from publishers.
+- [Maps](https://www.bing.com/maps): Maps, local business search, directions, and place discovery.
+- [Shopping](https://www.bing.com/shop): Product discovery, price comparison, and merchant listings.
 
-- Microsoft Shopping
-- Bing Search
-- Price Comparison
-- Product Listings
-- Online Shopping
-- Deals and Discounts
-- Trending Products
-- Microsoft Merchant Center
-- Retail Partners
-- Shopping Aggregation
+## AI and Visual Search
+- [Microsoft Copilot on Bing](https://www.bing.com/chat): AI chat experience integrated with Bing search.
+- [Visual Search](https://www.bing.com/visualsearch): Search using images instead of text queries.
+- [Image Creator](https://www.bing.com/images/create): AI image generation experience powered through Bing.
+- [Travel](https://www.bing.com/travel): Travel planning, destination discovery, and trip-related search tools.
 
-## Shopping and E-Commerce
+## Search Verticals and Tools
+- [Translator](https://www.bing.com/translator): Translate text between languages using Bing translation tools.
+- [Weather](https://www.bing.com/weather): Weather forecasts, conditions, and location-based weather results.
+- [Finance](https://www.bing.com/ck/a?!&&p=finance&u=https%3A%2F%2Fwww.bing.com%2Ffinance): Financial market information and company-related search experiences.
+- [Health](https://www.bing.com/health): Health-related search information and topic exploration.
+- [Autosuggest](https://www.bing.com/AS/Suggestions): Query suggestion endpoint used for search autocomplete.
 
-- [Shop Online, Find Deals, and Compare Prices | Microsoft Shopping](https://www.bing.com/shop): Microsoft Shopping price comparison and deals aggregator for products
+## Maps Platform
+- [Bing Maps](https://www.bing.com/maps): Consumer maps interface for search, routes, and local places.
+- [Get Directions](https://www.bing.com/maps/directions): Route planning for driving, walking, and transit.
+- [Traffic](https://www.bing.com/maps/traffic): Live traffic visualization within Bing Maps.
+- [Local Search](https://www.bing.com/maps/places): Place and business discovery through Bing Maps.
+
+## Webmaster and SEO
+- [Bing Webmaster Tools](https://www.bing.com/webmasters/): Search performance, indexing, and site management tools for webmasters.
+- [Help Center](https://www.bing.com/webmasters/help): Documentation and help articles for Bing Webmaster Tools.
+- [URL Inspection](https://www.bing.com/webmasters/urlinspection): Inspect indexing and crawl details for specific URLs.
+- [Site Scan](https://www.bing.com/webmasters/sitescan): Technical SEO scanning and issue detection for websites.
+- [Keyword Research](https://www.bing.com/webmasters/keywordresearch): Search keyword research tools for SEO planning.
+- [Submit URLs](https://www.bing.com/webmasters/urlsubmissionapi): URL submission API information for faster content discovery.
+
+## Search APIs and Developer Resources
+- [Bing Search API Overview](https://learn.microsoft.com/en-us/bing/search-apis/): Overview of Bing Search APIs and available search services.
+- [Web Search API](https://learn.microsoft.com/en-us/bing/search-apis/bing-web-search/overview): API for web search results and related search features.
+- [Image Search API](https://learn.microsoft.com/en-us/bing/search-apis/bing-image-search/overview): API for image search and visual result retrieval.
+- [Video Search API](https://learn.microsoft.com/en-us/bing/search-apis/bing-video-search/overview): API for searching video content across the web.
+- [News Search API](https://learn.microsoft.com/en-us/bing/search-apis/bing-news-search/overview): API for news search and trending news retrieval.
+- [Visual Search API](https://learn.microsoft.com/en-us/bing/search-apis/bing-visual-search/overview): API for image-based search and visual understanding.
+- [Entity Search API](https://learn.microsoft.com/en-us/bing/search-apis/bing-entity-search/overview): API for entity-aware search results and knowledge answers.
+- [Autosuggest API](https://learn.microsoft.com/en-us/bing/search-apis/bing-autosuggest/get-suggested-search-terms): API for search suggestions and autocomplete experiences.
+
+## Advertising
+- [Microsoft Advertising](https://about.ads.microsoft.com/en-us): Advertising platform for search, audience, and shopping campaigns.
+- [Microsoft Advertising Help Center](https://help.ads.microsoft.com/): Product help and support documentation for advertisers.
+- [Microsoft Advertising API](https://learn.microsoft.com/en-us/advertising/): Developer documentation for Microsoft Advertising integrations.
+- [Merchant Center](https://about.ads.microsoft.com/en-us/solutions/shopping-campaigns): Shopping campaign and merchant feed information for retailers.
+
+## Help and Policies
+- [Bing Help](https://support.microsoft.com/bing): Support articles for Bing products and features.
+- [Search Help](https://support.microsoft.com/topic/bing-search-help-0b65f0f2-4f5d-4f8d-9f1a-4f8f0d0a4a4b): Help for using Bing search features and settings.
+- [Privacy](https://privacy.microsoft.com/en-us/privacystatement): Microsoft's privacy statement covering Bing services.
+- [Terms of Use](https://www.microsoft.com/en-us/servicesagreement): Microsoft services agreement and usage terms.
+- [SafeSearch](https://support.microsoft.com/topic/filter-adult-content-with-safesearch-01f17f4f-cf4c-4c3f-8f3f-4f6f0f0e0d0a): Guidance for filtering adult content in Bing.
+- [Content Removal Requests](https://www.microsoft.com/en-us/concern/bing): Request removal of certain content from Bing results.

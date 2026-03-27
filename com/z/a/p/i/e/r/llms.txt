@@ -1,60 +1,64 @@
 # Zapier
+> Zapier is an AI orchestration and automation platform that connects 8,000+ apps to build workflows, agents, and business processes.
 
-> Zapier is an AI orchestration platform that connects 8,000+ apps to automate workflows, agents, and business processes without code.
+Zapier offers no-code and low-code tools for workflow automation, AI agents, chatbots, forms, and structured data. Its platform supports teams across sales, marketing, IT, HR, and RevOps, with enterprise security and a large integration ecosystem.
 
-Zapier provides a comprehensive no-code automation ecosystem including workflows, tables, forms, AI agents, and chatbots. The platform serves enterprises and teams across marketing, sales, IT, and RevOps with security and compliance features like SOC 2, GDPR, and CCPA support.
+## Core Platform
+- [Zapier](https://zapier.com): Main platform overview for automating workflows, AI agents, and app-based business processes.
+- [Workflows](https://zapier.com/workflows): Build do-it-yourself automated workflows across apps without writing code.
+- [Tables](https://zapier.com/tables): Store and update structured data that automations and agents can use.
+- [Forms](https://zapier.com/forms): Create forms that capture inputs and trigger automated workflows.
+- [Canvas](https://zapier.com/canvas): Map, plan, and visualize workflows with AI-assisted diagramming.
+- [App Integrations](https://zapier.com/apps): Browse the app directory for thousands of supported integrations.
+- [Templates](https://zapier.com/templates): Start from prebuilt automation templates for common app workflows.
 
-## Key Topics
+## AI Products
+- [AI Automation](https://zapier.com/ai): Overview of Zapier’s AI-powered automation, orchestration, and agent capabilities.
+- [Agents](https://zapier.com/agents): Create AI assistants that can take actions across connected apps.
+- [AI Chatbots](https://zapier.com/ai/chatbot): Build AI chatbots to answer questions and automate customer interactions.
+- [Zapier MCP](https://zapier.com/mcp): Connect AI agents to thousands of apps using Zapier’s MCP offering.
+- [Functions](https://zapier.com/functions): Write custom code for workflows in Zapier’s browser-based IDE.
+- [Early Access](https://zapier.com/early-access): Explore and join early-access programs for new Zapier features.
 
-- Workflow Automation
-- AI Integration
-- No-Code Automation
-- AI Agents
-- App Integration
-- Enterprise Automation
-- Zapier Tables
-- Model Context Protocol (MCP)
-- AI Chatbots
-- RevOps Automation
-- Marketing Automation
-- Integration Platform
-- Zapier Workflows
-- Zapier Canvas
-- Lead Routing
+## App Integrations
+- [Integrations Directory](https://zapier.com/apps): Search and explore Zapier’s catalog of connected apps and tools.
+- [Slack Integrations](https://zapier.com/apps/slack/integrations): Automate Slack with connected workflows and app triggers.
+- [Google Sheets Integrations](https://zapier.com/apps/google-sheets/integrations): Connect Google Sheets to other apps for automated data workflows.
+- [Gmail Integrations](https://zapier.com/apps/gmail/integrations): Automate email-based tasks and triggers with Gmail integrations.
+- [HubSpot Integrations](https://zapier.com/apps/hubspot/integrations): Connect HubSpot with sales, marketing, and support workflows.
+- [Salesforce Integrations](https://zapier.com/apps/salesforce/integrations): Automate CRM processes and data syncs with Salesforce.
+- [OpenAI Integrations](https://zapier.com/apps/openai/integrations): Connect OpenAI with business apps for AI-powered automations.
 
-## Core Products
+## Solutions by Team
+- [RevOps](https://zapier.com/solutions/revops): Automate revenue operations processes across GTM systems and teams.
+- [Marketing](https://zapier.com/solutions/marketing): Improve campaign execution, lead flow, and reporting with automation.
+- [IT](https://zapier.com/solutions/it): Automate IT operations, ticketing, provisioning, and system management tasks.
+- [HR](https://zapier.com/solutions/hr): Streamline hiring, onboarding, and people operations with automation.
+- [Sales](https://zapier.com/solutions/sales): Support pipeline management, lead routing, and sales follow-up workflows.
 
-- [Zapier: Automate AI Workflows, Agents, and Apps](https://zapier.com): Zapier homepage: AI orchestration platform connecting 8,000+ apps.
-- [Build automated workflows with Zapier](https://zapier.com/workflows): Zapier workflows product page for no-code automation.
-- [The data foundation that powers automations | Zapier Tables](https://zapier.com/tables): Zapier Tables: structured data platform for automations and agents.
-- [Online Form Builder | No-Code Form Creator | Zapier Forms](https://zapier.com/forms): Zapier Forms: no-code form builder triggering workflows.
-- [Smart diagramming tool | Zapier Canvas](https://zapier.com/canvas): Zapier Canvas: visual workflow diagramming and automation.
-- [Integrations, App and Software Automation | Automate With Zapier](https://zapier.com/apps): Zapier app marketplace and integrations directory.
+## Use Cases
+- [Use Cases](https://zapier.com/use-cases): Explore automation examples organized by role, team, and business need.
+- [Lead Management](https://zapier.com/use-cases): Discover workflows for capturing, routing, and enriching leads.
+- [Customer Support](https://zapier.com/use-cases): Find automations for support intake, triage, and response workflows.
+- [Data Sync](https://zapier.com/use-cases): Learn how to keep app data synchronized automatically.
+- [Approvals](https://zapier.com/use-cases): Explore approval and notification workflows across business tools.
 
-## AI & Advanced Features
-
-- [Transform your operations with Zapier and AI](https://zapier.com/ai): Zapier AI orchestration: workflows, agents, and chatbots.
-- [Build a free AI Chatbot on Zapier](https://zapier.com/ai/chatbot): Zapier AI chatbot builder for customer support automation.
-- [Connect AI tools to 8,000 apps with Zapier MCP](https://zapier.com/mcp): Zapier MCP: Model Context Protocol for AI tool integration.
-- [Functions | Zapier](https://zapier.com/functions): Zapier Functions: code-first automation for workflows.
-- [Zapier Lead Router | Smart Lead Routing Automation](https://zapier.com/l/leadrouter): Zapier Lead Router: smart lead distribution automation.
-
-## Industry Solutions
-
-- [RevOps automation solutions | Zapier](https://zapier.com/solutions/revops): RevOps automation solutions for GTM operations.
-- [Marketing automation solutions | Zapier](https://zapier.com/solutions/marketing): Marketing automation solutions and GTM integration.
-- [IT automation solutions | Zapier](https://zapier.com/solutions/it): IT operations automation and security solutions.
-
-## Resources & Templates
-
-- [Workflow Automation Templates | Zapier](https://zapier.com/templates): Ready-to-use workflow automation templates for common tasks.
-- [Automation solutions for your role | Zapier](https://zapier.com/use-cases): Role-based automation solutions and use cases.
+## Templates
+- [Automation Templates](https://zapier.com/templates): Browse ready-made templates for common automation scenarios.
+- [Slack Templates](https://zapier.com/templates/categories/team-chat): Prebuilt automations for team chat and Slack-based workflows.
+- [CRM Templates](https://zapier.com/templates/categories/crm): Templates for CRM updates, lead routing, and contact management.
+- [Email Templates](https://zapier.com/templates/categories/email): Automations for email notifications, follow-ups, and inbox workflows.
+- [Marketing Templates](https://zapier.com/templates/categories/marketing-automation): Templates for campaign operations and marketing automation.
+- [Project Management Templates](https://zapier.com/templates/categories/project-management): Workflow templates for tasks, handoffs, and project coordination.
 
 ## Security & Compliance
+- [Security and Compliance](https://zapier.com/security-compliance): Overview of Zapier’s enterprise-grade security and compliance practices.
+- [SOC 2](https://zapier.com/security-compliance): Information about Zapier’s security controls and audit posture.
+- [GDPR](https://zapier.com/security-compliance): Details on privacy and data protection commitments for regulated teams.
+- [Enterprise Security](https://zapier.com/security-compliance): Security features relevant to enterprise deployment and governance.
 
-- [Zapier | Secure and Compliant AI Orchestration at Scale](https://zapier.com/security-compliance): Zapier security and compliance: SOC 2, GDPR, CCPA.
-
-## Optional
-
-- [Get an AI Transformation Consultation](https://zapier.com/ai-transformation): AI transformation consultation service for enterprises with expert guidance.
-- [Zapier Early Access](https://zapier.com/early-access): Early access program for beta products and features.
+## Developer & Platform Extensibility
+- [Functions](https://zapier.com/functions): Add custom logic and code to workflows using Zapier’s web IDE.
+- [Zapier MCP](https://zapier.com/mcp): Extend AI agents with app actions through Zapier’s MCP interface.
+- [App Integrations](https://zapier.com/apps): Reference the connected app ecosystem available to automations and agents.
+- [Early Access](https://zapier.com/early-access): Track new platform capabilities and beta programs for builders.

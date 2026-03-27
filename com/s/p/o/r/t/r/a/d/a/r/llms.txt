@@ -1,62 +1,75 @@
 # Sportradar
+> Sportradar is a global sports technology company providing sports data, betting technology, media products, streaming, and integrity services.
 
-> > Sportradar is the leading global sports technology company providing real-time data, AI-powered analytics, integrity services, and streaming solutions to sports leagues, betting operators, and media companies.
+Sportradar serves sports leagues, media companies, bookmakers, and digital platforms with real-time data, analytics, audiovisual products, and integrity solutions. Its site includes product information, company resources, investor materials, newsroom content, and developer-focused API documentation.
 
-Headquartered in St. Gallen, Switzerland (NASDAQ: SRAD), Sportradar partners with major sports organizations including the NFL, MLB, NHL, ATP, and FIFA to deliver advanced analytics APIs, live betting data, broadcast enhancements, and comprehensive match-fixing detection through Sportradar Integrity Services.
+## Company
+- [Homepage](https://sportradar.com/): Main overview of Sportradar’s sports technology, betting, media, and integrity offerings.
+- [About Sportradar](https://sportradar.com/about/): Company background, mission, scale, and role across the sports ecosystem.
+- [Leadership](https://sportradar.com/about/leadership/): Executive leadership team and company management information.
+- [Careers](https://sportradar.com/careers/): Open roles, hiring information, and working at Sportradar.
+- [Contact](https://sportradar.com/contact/): Contact options for business, media, and general inquiries.
 
-## Key Topics
+## Solutions
+- [Products & Solutions](https://sportradar.com/products-and-solutions/): Overview of Sportradar’s product portfolio across betting, media, and sports organizations.
+- [Betting & Gaming](https://sportradar.com/products-and-solutions/betting-and-gaming/): Betting technology, managed trading, data, and sportsbook services for operators.
+- [Media](https://sportradar.com/products-and-solutions/media/): Fan engagement, content, widgets, and media-focused sports data products.
+- [Sports Organizations](https://sportradar.com/products-and-solutions/sports-organizations/): Solutions for leagues, federations, and teams including integrity and audience products.
+- [Integrity Services](https://sportradar.com/products-and-solutions/integrity-services/): Match-fixing detection, monitoring, investigations, and integrity education services.
+- [Audiovisual](https://sportradar.com/products-and-solutions/audiovisual/): Streaming and audiovisual sports content solutions for betting and media clients.
 
-- Sports Data & Analytics APIs
-- Sports Integrity & Match-Fixing Detection
-- Live Betting & Sportsbook Solutions
-- AI-Powered Sports Predictions
-- Live Streaming Technology
-- MLB, NFL, NHL, ATP Partnerships
-- Soccer Advanced Analytics API
-- Sportradar Integrity Services
-- Fan Engagement Solutions
-- Sports Broadcasting Data
-- Betting Data Rights
-- Real-Time Sports Statistics
-- Anti-Doping Collaboration
-- Sports Technology Innovation
+## Developer & APIs
+- [Developer Portal](https://developer.sportradar.com/): Central hub for Sportradar APIs, documentation, onboarding, and developer resources.
+- [Getting Started](https://developer.sportradar.com/getting-started/docs/intro): Introductory documentation for accessing and using Sportradar APIs.
+- [API Reference](https://developer.sportradar.com/docs/read/home): Documentation index for available sports data and platform APIs.
+- [Coverage Matrix](https://developer.sportradar.com/docs/read/coverage_information/coverage_matrix): Sport-by-sport coverage details for leagues, competitions, and data availability.
+- [Change Log](https://developer.sportradar.com/docs/read/change_log): Product and API documentation updates across Sportradar developer offerings.
+- [Support](https://developer.sportradar.com/support/home): Developer support resources and help channels.
 
-## Company Overview
+## Sports APIs
+- [Soccer APIs](https://developer.sportradar.com/soccer/reference/overview): Soccer data APIs covering fixtures, results, statistics, and competition information.
+- [Basketball APIs](https://developer.sportradar.com/basketball/reference/overview): Basketball API documentation for leagues, schedules, play-by-play, and stats.
+- [American Football APIs](https://developer.sportradar.com/football/reference/overview): American football APIs for game data, rosters, drives, and player statistics.
+- [Baseball APIs](https://developer.sportradar.com/baseball/reference/overview): Baseball data APIs including schedules, boxscores, and player performance data.
+- [Ice Hockey APIs](https://developer.sportradar.com/ice-hockey/reference/overview): Ice hockey APIs for game events, standings, and team statistics.
+- [Tennis APIs](https://developer.sportradar.com/tennis/reference/overview): Tennis APIs for tournaments, matches, rankings, and player data.
+- [Cricket APIs](https://developer.sportradar.com/cricket/reference/overview): Cricket APIs for fixtures, scorecards, standings, and competition coverage.
 
-- [Sportradar - The Sports Technology Company](https://sportradar.com): Homepage: Leading sports technology company for data, betting & media
+## Betting Technology
+- [Managed Trading Services](https://sportradar.com/products-and-solutions/betting-and-gaming/managed-trading-services/): Outsourced trading services combining odds management, risk, and operational expertise.
+- [Odds Services](https://sportradar.com/products-and-solutions/betting-and-gaming/odds-services/): Pre-match and live odds products for sportsbook operators.
+- [Managed Sportsbook Services](https://sportradar.com/products-and-solutions/betting-and-gaming/managed-sportsbook-services/): End-to-end sportsbook operations and technology support for betting brands.
+- [Bet Builder](https://sportradar.com/products-and-solutions/betting-and-gaming/bet-builder/): Same-game and custom bet construction tools for sportsbook engagement.
+- [Live Channel Trading](https://sportradar.com/products-and-solutions/betting-and-gaming/live-channel-trading/): Live betting trading support and operational services for in-play markets.
+- [iGaming](https://sportradar.com/products-and-solutions/betting-and-gaming/igaming/): Casino and iGaming solutions complementing sportsbook operator offerings.
 
-## Major Partnership Announcements
+## Media & Fan Engagement
+- [Fan Engagement](https://sportradar.com/products-and-solutions/media/fan-engagement/): Interactive products and content tools designed to deepen audience engagement.
+- [Marketing Services](https://sportradar.com/products-and-solutions/media/marketing-services/): Audience activation and marketing solutions built on sports data and insights.
+- [OTT](https://sportradar.com/products-and-solutions/media/ott/): Streaming and over-the-top platform solutions for sports content distribution.
+- [Ad:s](https://sportradar.com/products-and-solutions/media/ads/): Sports advertising products and monetization tools for media and betting brands.
+- [Widgets](https://sportradar.com/products-and-solutions/media/widgets/): Embeddable sports widgets for scores, stats, schedules, and fan experiences.
+- [Content Solutions](https://sportradar.com/products-and-solutions/media/content-solutions/): Data-driven editorial and visual content products for publishers and broadcasters.
 
-- [Sportradar wins major bid for ATP rights](https://sportradar.com/content-hub/news/sportradar-wins-major-bid-for-atp-rights): Sportradar wins ATP data and streaming rights through Tennis Data Innovations
-- [The NHL selects Sportradar to power new NHL.TV](https://sportradar.com/content-hub/news/the-nhl-selects-sportradar-to-power-new-nhl-tv): NHL partners with Sportradar to power NHL.TV streaming platform
-- [ATP and Sportradar collaborate on game-changing AV roadmap from 2024](https://sportradar.com/content-hub/news/atp-and-sportradar-collaborate-on-game-changing-av-roadmap-from-2024): ATP and Sportradar announce AV streaming partnership from 2024
-- [Sportradar appoints Craig Felenstein as Chief Financial Officer](https://sportradar.com/content-hub/news/sportradar-appoints-craig-felenstein-as-chief-financial-officer): Craig Felenstein appointed as CFO of Sportradar Group AG
+## Newsroom & Insights
+- [Content Hub](https://sportradar.com/content-hub/): Central newsroom for company news, blogs, reports, and thought leadership.
+- [News](https://sportradar.com/content-hub/news/): Press releases, partnership announcements, and corporate news updates.
+- [Blog](https://sportradar.com/content-hub/blog/): Articles on sports data, betting innovation, media, and fan engagement.
+- [Reports](https://sportradar.com/content-hub/reports/): Research, market reports, and industry insight publications.
+- [Case Studies](https://sportradar.com/content-hub/case-studies/): Customer stories showing practical use of Sportradar products and services.
+- [Webinars](https://sportradar.com/content-hub/webinars/): On-demand and upcoming webinar content on industry topics and products.
 
-## Sports Data & Analytics APIs
+## Investors
+- [Investor Relations](https://investors.sportradar.com/): Investor overview, filings, governance, and financial information for Sportradar.
+- [Financial Results](https://investors.sportradar.com/financials/quarterly-results/default.aspx): Quarterly earnings releases, presentations, and related financial materials.
+- [SEC Filings](https://investors.sportradar.com/financials/sec-filings/default.aspx): Official SEC filings and regulatory disclosure documents.
+- [Annual Reports](https://investors.sportradar.com/financials/annual-reports/default.aspx): Annual reports and historical financial reporting documents.
+- [Corporate Governance](https://investors.sportradar.com/governance/governance-documents/default.aspx): Governance documents, policies, and board-related materials.
+- [Stock Information](https://investors.sportradar.com/stock-information/default.aspx): Share price, market data, and stock performance information.
 
-- [Five ways Sportradar's new Soccer Advanced Analytics API can be used to engage fans](https://sportradar.com/content-hub/blog/five-ways-sportradars-new-soccer-advanced-analytics-api-can-be-used-to-engage-fans): Five use cases for Soccer Advanced Analytics API in fan engagement
-- [Knock It Out of the Park: Why Sportradar's MLB Data API Is the Ultimate Game-Changer](https://sportradar.com/content-hub/blog/knock-it-out-of-the-park-why-sportradars-mlb-data-api-is-the-ultimate-game-changer): MLB Data API features including Statcast integration for baseball analytics
-- [From the Corner Flag to the World: Dive into our Soccer API Coverage](https://sportradar.com/conteudo-e-noticias/news/do-escanteio-para-o-mundo-descubra-a-cobertura-da-nossa-api-de-futebol): Soccer API global coverage including Champions League and Serie A
-- [Inside the Modern Broadcast: How Data Shapes Every Story You Tell](https://sportradar.com/content-hub/blog/inside-the-modern-broadcast-how-data-shapes-every-story-you-tell): How real-time data and analytics enhance MLB broadcast storytelling
-
-## Sports Betting & Sportsbook Solutions
-
-- [Enhancing Live Betting Engagement for the MLB Playoffs: A Data-Driven Strategy for Sportsbook Operators](https://sportradar.com/content-hub/blog/enhancing-live-betting-engagement-for-the-mlb-playoffs-a-data-driven-strategy-for-sportsbook-operators): Data-driven strategies for sportsbook operators during MLB playoffs
-- [How strong partnerships can future-proof your betting business](https://sportradar.com/content-hub/whitepaper/how-strong-partnerships-can-future-proof-your-betting-business): Whitepaper on betting partnerships and sportsbook scaling strategies
-
-## Sports Integrity & Match-Fixing Prevention
-
-- [Integrity in Action: 2024 Global Analysis & Trends](https://sportradar.com/content-hub/report/integrity-in-action-2024-global-analysis-and-trends): 2024 global analysis of match-fixing and sports integrity trends
-- [UFDS Annual Report: Betting Corruption and Match-Fixing in 2023](https://sportradar.com/content-hub/report/ufds-annual-report-betting-corruption-and-match-fixing-in-2023): UFDS 2023 annual report on betting corruption and match-fixing trends
-- [Austrian Federal Criminal Police to work with Sportradar on Anti-Doping](https://sportradar.com/content-hub/news/austrian-federal-criminal-police-to-work-with-sportradar-on-anti-doping): Partnership with Austrian Federal Police on anti-doping and integrity
-
-## AI & Predictive Analytics
-
-- [Sportradar's AI-Powered Simulation of the 2025 NFL Season Projects the Baltimore Ravens Most Likely Super Bowl Champion](https://sportradar.com/content-hub/blog/sportradars-ai-powered-simulation-of-the-2025-nfl-season-projects-the-baltimore-ravens-most-likely-super-bowl-champion): AI simulation predicts Baltimore Ravens as 2025 Super Bowl LX champions
-
-## Optional
-
-- [Sportradar in the News – Friday 14th October](https://sportradar.com/content-hub/news/sportradar-in-the-news-friday-14th-october): Weekly news roundup covering G2E 2022, awards, and industry partnerships
-- [Sportradar in the News – Friday 27th January](https://sportradar.com/content-hub/news/sportradar-in-the-news-friday-27th-january): Weekly roundup: Betway partnership, integrity monitoring, and streaming
-- [Sportradar in the News – Friday 7th October](https://sportradar.com/content-hub/news/sportradar-in-the-news-friday-7th-october): Weekly news: MLB streaming, NHL betting, and fraud detection updates
-- [Status of Sportradar litigation with Genius Sports and FDC](https://sportradar.com/content-hub/news/sportradar-settles-litigation-with-genius-sports-and-fdc): Litigation settlement with Genius Sports and FDC over data rights
+## Legal & Compliance
+- [Privacy Notice](https://sportradar.com/privacy-notice/): Privacy practices, data handling terms, and user rights information.
+- [Cookie Notice](https://sportradar.com/cookie-notice/): Cookie usage details and tracking technology disclosures.
+- [Terms of Use](https://sportradar.com/terms-of-use/): Terms governing use of Sportradar websites and services.
+- [Modern Slavery Statement](https://sportradar.com/modern-slavery-statement/): Statement on anti-slavery commitments and supply chain responsibilities.
+- [Whistleblowing](https://sportradar.com/whistleblowing/): Reporting channel information for ethics and compliance concerns.

@@ -1,30 +1,62 @@
-# VK Video
+# VK Видео
 
-> VK Video is the video platform and support hub for VK services including calls, messaging, communities, and payments.
+> VK Видео — видеоплатформа VK для просмотра, публикации, трансляций и управления видеоконтентом.
 
-VK Video provides comprehensive support resources and documentation for users of the VK (ВКонтакте) platform. The site serves as a central hub for help documentation, FAQs, and legal information related to VK services and user obligations.
+Сайт VK Видео объединяет каталог видео, прямые эфиры, тематические разделы, поиск и пользовательские страницы авторов и сообществ. Для LLM-навигации наиболее полезны разделы просмотра, прямых трансляций, поиска, каналов, а также служебные страницы поддержки и правил платформы.
 
-## Key Topics
+## Основные разделы
 
-- VK (ВКонтакте)
-- VK Calls (VK Звонки)
-- Support & Help
-- FAQ
-- Messaging
-- Communities
-- Payments
-- Profile Management
-- Moderation
-- Terms of Service
-- User Obligations
-- Legal Agreements
-- Site Policies
-- VK Platform
+- [Главная](https://vkvideo.ru/): Главная страница VK Видео с рекомендациями, подборками и навигацией по сервису.
+- [Прямые эфиры](https://vkvideo.ru/live): Каталог текущих трансляций и прямых эфиров на платформе.
+- [Поиск](https://vkvideo.ru/search): Поиск видео, авторов и другого контента по каталогу VK Видео.
+- [Поддержка](https://vkvideo.ru/support): Справка и ответы на частые вопросы по использованию сервиса.
+- [Правила](https://vkvideo.ru/terms): Условия использования и основные юридические положения платформы.
 
-## Support & Help
+## Просмотр и каталог
 
-- [Support | VK](https://vkvideo.ru/support): FAQ and support center for VK services including calls, messaging, communities
+- [Главная](https://vkvideo.ru/): Персональные рекомендации, популярные ролики и редакционные подборки.
+- [Прямые эфиры](https://vkvideo.ru/live): Раздел для просмотра активных трансляций в реальном времени.
+- [Поиск](https://vkvideo.ru/search): Интерфейс поиска по видео, каналам и связанным сущностям.
+- [Тренды](https://vkvideo.ru/): На главной доступны популярные и рекомендуемые видео платформы.
 
-## Legal & Terms
+## Авторы и сообщества
 
-- [Terms of Service | VK](https://vkvideo.ru/terms): Legal terms of service and user obligations for VK platform
+- [Каналы авторов](https://vkvideo.ru/@): Пространство авторских страниц и видеоканалов внутри VK Видео.
+- [Профили VK](https://vkvideo.ru/@vk): Пример публичной страницы автора или бренда на платформе.
+- [Сообщества VK](https://vkvideo.ru/@vkvideo): Пример официального канала сервиса VK Видео.
+- [Пользовательские страницы](https://vkvideo.ru/@music): Формат страниц с подборками, роликами и публикациями автора.
+
+## Прямые трансляции
+
+- [Прямые эфиры](https://vkvideo.ru/live): Центральный раздел для поиска и просмотра live-контента.
+- [Популярные трансляции](https://vkvideo.ru/live): Актуальные эфиры, отсортированные по интересу аудитории.
+- [Игровые эфиры](https://vkvideo.ru/live): В live-разделе представлены игровые и тематические трансляции.
+- [Событийные эфиры](https://vkvideo.ru/live): Трансляции мероприятий, шоу, спорта и других событий.
+
+## Поиск и навигация
+
+- [Поиск](https://vkvideo.ru/search): Основная точка входа для поиска контента по запросу.
+- [Главная](https://vkvideo.ru/): Навигация по категориям, подборкам и рекомендательным блокам.
+- [Каналы](https://vkvideo.ru/@): Переход к страницам авторов и брендов через формат handle-URL.
+- [Live](https://vkvideo.ru/live): Быстрый доступ к отдельному типу контента — прямым эфирам.
+
+## Поддержка
+
+- [Поддержка](https://vkvideo.ru/support): Справочный центр по работе с VK Видео и связанным функциям.
+- [Частые вопросы](https://vkvideo.ru/support): Ответы на типовые вопросы пользователей сервиса.
+- [Помощь по использованию](https://vkvideo.ru/support): Материалы по просмотру, публикации и общим сценариям использования.
+- [Обратная связь](https://vkvideo.ru/support): Точка входа в поддержку и решение пользовательских проблем.
+
+## Правила и юридическая информация
+
+- [Условия использования](https://vkvideo.ru/terms): Основные правила использования платформы и пользовательские обязательства.
+- [Правовая информация](https://vkvideo.ru/terms): Юридические условия, применимые к сервису VK Видео.
+- [Правила сервиса](https://vkvideo.ru/terms): Ограничения, ответственность и общие положения для пользователей.
+- [Пользовательские условия](https://vkvideo.ru/terms): Документ с условиями доступа и использования платформы.
+
+## Официальные страницы
+
+- [VK](https://vkvideo.ru/@vk): Официальное присутствие бренда VK на платформе.
+- [VK Видео](https://vkvideo.ru/@vkvideo): Официальный канал сервиса VK Видео.
+- [VK Музыка](https://vkvideo.ru/@music): Пример брендовой страницы внутри экосистемы VK.
+- [VK Клипы и медиа-бренды](https://vkvideo.ru/@clips): Пример тематического канала в формате handle-страницы.

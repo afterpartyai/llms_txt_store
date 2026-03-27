@@ -1,61 +1,78 @@
 # Healthline
+> Trusted consumer health publisher offering medically reviewed information, condition guides, wellness advice, and health news.
 
-> Healthline is a trusted medical information and health advice platform offering comprehensive guides, resource centers, and wellness content across chronic diseases, mental health, and lifestyle management.
+Healthline publishes evidence-based articles, topic hubs, symptom and treatment explainers, nutrition guidance, mental health resources, and medically reviewed reference content for people managing everyday wellness and specific health conditions.
 
-Healthline provides evidence-based health information organized by condition and topic, featuring disease-specific resource centers, symptom management guides, and wellness resources. The platform serves as a comprehensive health directory covering everything from chronic conditions like diabetes and heart disease to mental well-being and sleep health.
+## Core Site
+- [Home](https://www.healthline.com/): Main entry point for trusted medical information, wellness advice, and featured health content.
+- [Health Topics Directory](https://www.healthline.com/directory/topics): Browse Healthline’s topic index covering conditions, symptoms, treatments, and wellness subjects.
+- [FindCare](https://www.healthline.com/find-care): Provider discovery tool for finding doctors, specialists, and care options.
+- [News](https://www.healthline.com/health-news): Health news coverage on research, public health, and medical developments.
+- [Nutrition](https://www.healthline.com/nutrition): Nutrition hub with evidence-based articles on diets, foods, supplements, and healthy eating.
+- [Medical Network](https://www.healthline.com/medical-network): Information about Healthline’s medical review process and expert contributors.
 
-## Key Topics
+## Health Reference
+- [Health Conditions](https://www.healthline.com/health): Broad health reference hub for diseases, symptoms, diagnostics, and treatments.
+- [Symptoms](https://www.healthline.com/symptom): Symptom reference pages explaining possible causes and when to seek care.
+- [Drugs & Supplements](https://www.healthline.com/drugs): Medication and supplement reference content, including uses and safety information.
+- [Human Body Maps](https://www.healthline.com/human-body-maps): Interactive anatomy reference for body systems, organs, and structures.
+- [Medical Tests](https://www.healthline.com/health/medical-tests): Guides to common medical tests, screenings, and diagnostic procedures.
+- [Wellness](https://www.healthline.com/health/wellness): General wellness content focused on prevention, habits, and healthy living.
 
-- Chronic Disease Management
-- Mental Health & Wellness
-- Cancer Care
-- Heart Health
-- Type 2 Diabetes
-- Neurological Conditions
-- Rheumatoid Arthritis
-- Sleep Health
-- Weight Management
-- Digestive Health
-- Eye Health
-- Disease-Specific Resources
-- Medical Information
-- Health Conditions
-- Wellness Guides
+## Mental Health
+- [Mental Health Hub](https://www.healthline.com/mental-health): Central resource for mental health conditions, therapy, coping, and self-care.
+- [Anxiety](https://www.healthline.com/health/anxiety): Articles on anxiety symptoms, causes, diagnosis, and treatment options.
+- [Depression](https://www.healthline.com/health/depression): Reference and support content about depression, symptoms, and treatment approaches.
+- [Stress](https://www.healthline.com/health/stress): Guidance on recognizing stress and using practical coping strategies.
+- [Therapy](https://www.healthline.com/health/therapy): Explanations of therapy types, benefits, and how treatment works.
+- [Sleep](https://www.healthline.com/health/sleep): Sleep health information covering insomnia, sleep hygiene, and related disorders.
 
-## Core Health Hubs
+## Nutrition & Fitness
+- [Nutrition Home](https://www.healthline.com/nutrition): Main nutrition section with diet reviews, food guides, and science-based explainers.
+- [Weight Management](https://www.healthline.com/nutrition/weight-loss): Articles on weight loss, metabolism, and sustainable eating strategies.
+- [Healthy Eating](https://www.healthline.com/nutrition/healthy-eating): Practical guidance on balanced diets, meal planning, and food choices.
+- [Vitamins & Supplements](https://www.healthline.com/nutrition/supplements): Evidence-based supplement guides covering benefits, risks, and dosage considerations.
+- [Fitness](https://www.healthline.com/health/fitness-exercise): Exercise and movement content for strength, cardio, flexibility, and overall health.
+- [Hydration](https://www.healthline.com/nutrition/how-much-water-should-you-drink-per-day): Popular evidence-based guide to daily water intake and hydration needs.
 
-- [Healthline Homepage](https://www.healthline.com): Main hub offering medical information, health advice, and wellness resources.
-- [Health Topics Directory](https://www.healthline.com/directory/topics): Comprehensive directory of health topics including diseases, conditions, and wellness resources.
-- [Mental Health & Well-Being](https://www.healthline.com/mental-health): Mental well-being hub covering mindfulness, self-care, therapy, and mental health support.
-- [Cancer Care](https://www.healthline.com/cancer-care): Cancer care hub providing patient resources, disease management, and medical information.
+## Chronic Conditions
+- [Type 2 Diabetes](https://www.healthline.com/type-2-diabetes): Resource center for blood sugar management, treatment, and daily living.
+- [Heart Health](https://www.healthline.com/heart-health): Cardiovascular health hub covering prevention, symptoms, and heart disease management.
+- [Rheumatoid Arthritis](https://www.healthline.com/rheumatoid-arthritis): Information on symptoms, medications, flare management, and lifestyle adjustments.
+- [Chronic Kidney Disease](https://www.healthline.com/ckd): CKD resource center with staging, treatment, and kidney health guidance.
+- [COPD](https://www.healthline.com/copd): Chronic obstructive pulmonary disease information on symptoms, treatment, and breathing support.
+- [Multiple Sclerosis](https://www.healthline.com/multiple-sclerosis): MS hub covering symptoms, therapies, and living with the condition.
+- [Migraine](https://www.healthline.com/migraine): Migraine resource center with triggers, treatments, and symptom management.
+- [Psoriasis](https://www.healthline.com/health/psoriasis): Reference content on psoriasis symptoms, treatment options, and skin care.
 
-## Chronic Disease Resource Centers
+## Cancer & Serious Illness
+- [Cancer Care](https://www.healthline.com/cancer-care): Cancer-focused hub with treatment, support, survivorship, and patient education content.
+- [Breast Cancer](https://www.healthline.com/health/breast-cancer): Guides to symptoms, diagnosis, treatment, and living with breast cancer.
+- [Lung Cancer](https://www.healthline.com/health/lung-cancer): Information on lung cancer types, symptoms, staging, and treatment.
+- [Prostate Cancer](https://www.healthline.com/health/prostate-cancer): Reference content on screening, diagnosis, and treatment decisions.
+- [Colorectal Cancer](https://www.healthline.com/health/colorectal-cancer): Educational articles on colorectal cancer symptoms, testing, and care.
+- [Alzheimer's Disease](https://www.healthline.com/health/alzheimers-disease): Information for patients and caregivers on symptoms, progression, and support.
 
-- [Type 2 Diabetes](https://www.healthline.com/type-2-diabetes): Type 2 diabetes hub offering management insights, overview, and health solutions.
-- [Heart Health](https://www.healthline.com/heart-health): Heart health hub offering management insights, disease information, and solutions.
-- [Chronic Kidney Disease (CKD)](https://www.healthline.com/ckd): Chronic kidney disease hub with management tips, overview, and health guidance.
-- [Chronic Obstructive Pulmonary Disease (COPD)](https://www.healthline.com/copd): COPD resource center with disease overview, respiratory health tips, and support.
-- [Rheumatoid Arthritis](https://www.healthline.com/rheumatoid-arthritis): Rheumatoid arthritis guide covering symptoms, treatments, tips, and management.
+## Women’s & Men’s Health
+- [Women's Health](https://www.healthline.com/womens-health): Women’s health hub covering reproductive health, hormones, and life stages.
+- [Pregnancy](https://www.healthline.com/health/pregnancy): Pregnancy reference content on symptoms, fetal development, and prenatal care.
+- [Menopause](https://www.healthline.com/health/menopause): Guides to menopause symptoms, hormone changes, and treatment options.
+- [Sexual Health](https://www.healthline.com/health/sexual-health): Educational content on sexual wellness, STIs, and reproductive health.
+- [Men's Health](https://www.healthline.com/mens-health): Men’s health hub covering fitness, sexual health, and preventive care.
+- [Testosterone](https://www.healthline.com/health/low-testosterone): Information on low testosterone symptoms, causes, and treatment.
 
-## Neurological & Cognitive Health
+## Digestive, Skin & Everyday Health
+- [Digestive Health](https://www.healthline.com/health/digestive-health): Content on gut health, GI conditions, symptoms, and digestive wellness.
+- [IBS](https://www.healthline.com/health/irritable-bowel-syndrome): Irritable bowel syndrome guides covering symptoms, triggers, and treatment.
+- [GERD](https://www.healthline.com/health/gerd): Reference content on acid reflux symptoms, causes, and management.
+- [Skin Health](https://www.healthline.com/health/skin): Skin care and dermatology content on common conditions and treatments.
+- [Eczema](https://www.healthline.com/health/eczema): Articles on eczema symptoms, triggers, and treatment strategies.
+- [Allergies](https://www.healthline.com/health/allergies): Information on seasonal, food, and environmental allergies.
 
-- [Alzheimer's Disease Caregiving](https://www.healthline.com/alzheimers-disease): Alzheimer's disease guide focusing on caregiving, disease management, and support.
-- [Parkinson's Disease](https://www.healthline.com/parkinsons-disease): Parkinson's disease resource with overview, support tools, and disease information.
-- [Multiple Sclerosis](https://www.healthline.com/multiple-sclerosis): Multiple sclerosis guide covering treatments, symptom management, and lifestyle tips.
-- [Migraine Resource Center](https://www.healthline.com/migraine): Migraine resource center with diagnosis, treatments, therapies, and symptom management.
-
-## Cancer & Condition-Specific Guides
-
-- [Breast Cancer Resource Center](https://www.healthline.com/breast-cancer): Comprehensive breast cancer guide covering types, stages, treatments, and support.
-- [Psoriasis](https://www.healthline.com/psoriasis): Psoriasis management hub with condition overview, treatment, and health guidance.
-
-## Lifestyle & Wellness
-
-- [Sleep Health](https://www.healthline.com/sleep): Sleep health guide with science-backed content, products, and sleep science information.
-- [Weight Management](https://www.healthline.com/weight-management): Weight management guide covering nutrition, fitness, wellness, and lifestyle tips.
-- [Menopause](https://www.healthline.com/menopause): Menopause guide supporting women's health through this life stage with resources.
-
-## Health System Directories
-
-- [Digestive Health](https://www.healthline.com/digestive-health): Digestive health directory covering conditions, wellness topics, and medical information.
-- [Eye Health](https://www.healthline.com/eye-health): Eye health guide covering conditions, medical information, and wellness resources.
+## News, Perspectives & Community
+- [Health News](https://www.healthline.com/health-news): Timely reporting on studies, policy, outbreaks, and public health trends.
+- [Original Series](https://www.healthline.com/health-news/tag/original-series): Editorial series and feature packages on major health topics.
+- [You’re Not Alone](https://www.healthline.com/health/youre-not-alone): First-person stories and community-centered mental health perspectives.
+- [Bezzy](https://www.healthline.com/health/bezzy): Community platform connecting people around chronic and mental health conditions.
+- [Editorial Process](https://www.healthline.com/health/editorial-process): Overview of Healthline’s standards for sourcing, review, and content quality.
+- [Fact-Checking Process](https://www.healthline.com/health/fact-checking-process): Explanation of how Healthline verifies claims and maintains accuracy.

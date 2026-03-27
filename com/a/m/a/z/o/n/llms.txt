@@ -1,27 +1,85 @@
-# Whole Foods Market
+# Amazon
 
-> Whole Foods Market is Amazon's premium grocery destination offering organic produce, specialty foods, Prime delivery, and curated weekly sales.
+> Amazon is a global ecommerce and digital services platform for shopping, devices, entertainment, business selling, and developer cloud services.
 
-Whole Foods Market provides a comprehensive online grocery shopping experience featuring organic and natural products, prepared foods, and exclusive brands. The platform integrates with Amazon Prime for convenient delivery and offers seasonal promotions alongside everyday grocery essentials.
+Amazon spans consumer retail, Prime membership, digital media, smart devices, advertising, seller services, and AWS. This file highlights major public documentation, help centers, developer resources, and key product areas across amazon.com and closely related official Amazon properties.
 
-## Key Topics
+## Shopping & Customer Help
+- [Amazon.com](https://www.amazon.com/): Main storefront for shopping across electronics, books, fashion, home, and everyday essentials.
+- [Customer Service](https://www.amazon.com/gp/help/customer/display.html): Central help hub for orders, returns, payments, devices, and account support.
+- [Your Orders Help](https://www.amazon.com/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7): Help for tracking, managing, canceling, and returning Amazon orders.
+- [Returns, Refunds and Exchanges](https://www.amazon.com/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7): Policies and guidance for returns, refunds, replacements, and exchange eligibility.
+- [Shipping Rates and Times](https://www.amazon.com/gp/help/customer/display.html?nodeId=201910060): Information on shipping options, delivery speeds, and related charges.
+- [Manage Your Account](https://www.amazon.com/gp/help/customer/display.html?nodeId=201248840): Help for account settings, login, security, addresses, and preferences.
 
-- Whole Foods Market
-- Amazon Prime
-- Organic Produce
-- Prime Delivery
-- Grocery Shopping
-- Weekly Sales
-- Prepared Foods
-- Seasonal Promotions
-- Specialty Brands
-- Catering Services
-- New Products
-- Natural Foods
-- Siete
-- MaryRuth's
-- Fishwife Tinned Seafood Co.
+## Prime
+- [Amazon Prime](https://www.amazon.com/amazonprime): Overview of Prime membership benefits including shipping, streaming, and exclusive offers.
+- [Prime Help](https://www.amazon.com/gp/help/customer/display.html?nodeId=G6LDPN7YJHYKH2J6): Support for membership billing, benefits, trials, and account management.
+- [Prime Video](https://www.amazon.com/gp/video/storefront): Streaming hub for movies, TV shows, channels, and rentals.
+- [Prime Video Help](https://www.amazon.com/gp/help/customer/display.html?nodeId=GUX9FYHU5D8LC9EJ): Support for streaming, subscriptions, playback, and device compatibility.
+- [Amazon Music](https://music.amazon.com/): Music streaming service with playlists, stations, podcasts, and subscription plans.
+- [Amazon Photos](https://www.amazon.com/b?node=13234696011): Cloud photo storage benefit and service information for Amazon customers.
 
-## Shopping & Delivery
+## Devices & Alexa
+- [Amazon Devices](https://www.amazon.com/b?node=172282): Hub for Echo, Fire TV, Kindle, Ring, eero, and other Amazon devices.
+- [Alexa Help](https://www.amazon.com/gp/help/customer/display.html?nodeId=G9PUP7AV4BGKUSN6): Support for Alexa setup, voice features, privacy, and troubleshooting.
+- [Kindle E-readers](https://www.amazon.com/kindle-dbs/hz/signup): Kindle device and reading ecosystem entry point.
+- [Kindle Store](https://www.amazon.com/kindle-dbs/storefront): Storefront for ebooks, subscriptions, and Kindle reading content.
+- [Fire TV](https://www.amazon.com/firetv): Streaming devices, smart TV integrations, and entertainment features.
+- [Ring](https://ring.com/): Smart home security products, subscriptions, and support resources.
 
-- [Whole Foods Market: Shop Groceries & Weekly Sales](https://wfm.amazon.com/): Browse and purchase groceries with Prime delivery, weekly sales, and organic products from Whole Foods Market
+## Reading & Publishing
+- [Amazon Books](https://www.amazon.com/books-used-books-textbooks/b/?node=283155): Book discovery across print, Kindle, audiobooks, and textbook categories.
+- [Kindle Direct Publishing](https://kdp.amazon.com/): Self-publishing platform for ebooks, paperbacks, and hardcovers on Amazon.
+- [KDP Help](https://kdp.amazon.com/en_US/help): Documentation for publishing workflows, royalties, formatting, and account management.
+- [Audible](https://www.audible.com/): Audiobook and spoken-word subscription service owned by Amazon.
+- [Comixology](https://www.amazon.com/kindle-dbs/comics-store/home): Digital comics and graphic novels storefront within Kindle.
+- [Amazon Publishing](https://amazonpublishing.amazon.com/): Information about Amazon’s publishing imprints and author-facing programs.
+
+## Selling, Brands & Advertising
+- [Sell on Amazon](https://sell.amazon.com/): Entry point for businesses selling products through Amazon marketplaces.
+- [Seller Central Learn](https://sell.amazon.com/learn): Educational resources for listing, fulfillment, pricing, and growth strategies.
+- [Fulfillment by Amazon](https://sell.amazon.com/fulfillment-by-amazon): Overview of FBA logistics, storage, shipping, and customer service support.
+- [Amazon Brand Registry](https://brandservices.amazon.com/): Brand protection and content management tools for registered trademark owners.
+- [Amazon Ads](https://advertising.amazon.com/): Advertising platform for sponsored ads, DSP, measurement, and brand campaigns.
+- [Amazon Ads Help Center](https://advertising.amazon.com/resources): Resources, guides, and learning materials for advertisers and agencies.
+
+## Business, Grocery & Pharmacy
+- [Amazon Business](https://www.amazon.com/business): Business purchasing platform with multi-user accounts, approvals, and tax-exempt buying.
+- [Amazon Business Help](https://www.amazon.com/b?node=20218619011): Support and information for business account features and purchasing workflows.
+- [Whole Foods Market](https://www.wholefoodsmarket.com/): Grocery brand owned by Amazon with stores, recipes, and delivery information.
+- [Amazon Fresh](https://www.amazon.com/alm/storefront): Online grocery shopping for fresh food, household items, and delivery.
+- [Amazon Pharmacy](https://pharmacy.amazon.com/): Prescription management, medication delivery, and pharmacy pricing tools.
+- [PillPack](https://www.pillpack.com/): Pharmacy service for sorted-dose packaging and home delivery of medications.
+
+## Developers & APIs
+- [Amazon Developer](https://developer.amazon.com/): Developer portal for Alexa, Appstore, Fire TV, and Amazon device integrations.
+- [Alexa Skills Kit](https://developer.amazon.com/en-US/alexa/alexa-skills-kit): Documentation for building voice experiences and Alexa skills.
+- [Login with Amazon](https://developer.amazon.com/docs/login-with-amazon/documentation-overview.html): Identity documentation for Amazon-based authentication and authorization.
+- [Selling Partner API](https://developer-docs.amazon.com/sp-api/): API documentation for sellers, vendors, orders, catalog, and fulfillment integrations.
+- [Amazon Appstore Developer](https://developer.amazon.com/apps-and-games): Resources for publishing Android apps and games to Amazon devices.
+- [Amazon Pay for Developers](https://developer.amazon.com/docs/amazon-pay/intro.html): Integration guides and API documentation for Amazon Pay.
+
+## AWS
+- [Amazon Web Services](https://aws.amazon.com/): Cloud computing platform offering infrastructure, AI, databases, analytics, and developer tools.
+- [AWS Documentation](https://docs.aws.amazon.com/): Central documentation portal for AWS services, SDKs, and operational guidance.
+- [AWS API Reference](https://docs.aws.amazon.com/index.html): Service documentation index linking to API references and developer guides.
+- [AWS SDKs and Tools](https://aws.amazon.com/developer/tools/): Official SDKs, CLIs, IDE toolkits, and developer utilities for AWS.
+- [AWS Architecture Center](https://aws.amazon.com/architecture/): Reference architectures, diagrams, patterns, and best practices for cloud workloads.
+- [AWS Training and Certification](https://aws.amazon.com/training/): Learning paths, courses, labs, and certification information for AWS users.
+
+## Entertainment & Games
+- [Prime Video Store](https://www.amazon.com/gp/video/storefront): Digital video storefront for streaming subscriptions, rentals, and purchases.
+- [Amazon Games](https://www.amazongames.com/): Amazon’s game publishing and gaming-related product information.
+- [Twitch](https://www.twitch.tv/): Live streaming platform owned by Amazon for gaming, creators, and communities.
+- [Amazon Luna](https://luna.amazon.com/): Cloud gaming service with channel subscriptions and supported device access.
+- [IMDb](https://www.imdb.com/): Film, television, and entertainment database owned by Amazon.
+- [Freevee](https://www.amazon.com/gp/video/storefront/ref=atv_nb_lcl_en_US?merchId=freevee): Ad-supported streaming content available through Amazon video services.
+
+## Corporate & Policies
+- [About Amazon](https://www.aboutamazon.com/): Corporate information, leadership updates, newsroom content, and company initiatives.
+- [Amazon News](https://www.aboutamazon.com/news): Official newsroom covering announcements, products, and company developments.
+- [Careers at Amazon](https://www.amazon.jobs/): Job listings, hiring information, and workplace content across Amazon organizations.
+- [Amazon Sustainability](https://www.aboutamazon.com/planet): Information on climate, packaging, renewable energy, and sustainability commitments.
+- [Privacy Notice](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ): Amazon privacy policy describing data collection, use, and customer choices.
+- [Conditions of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM): Terms governing use of Amazon websites, services, and related content.

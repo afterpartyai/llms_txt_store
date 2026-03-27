@@ -1,62 +1,78 @@
 # Yahoo
+> Yahoo is a consumer web platform for news, finance, sports, mail, search, entertainment, weather, and lifestyle content.
 
-> > Yahoo is a comprehensive digital media and information platform offering news, finance, sports, entertainment, weather, shopping, and search services with real-time market data and breaking news coverage.
+Yahoo aggregates editorial coverage and service experiences across major consumer categories, including real-time market data, sports scores, email, search, and original reporting. Its ecosystem spans dedicated verticals such as Yahoo News, Finance, Sports, Entertainment, Life, and Mail, along with account and search services.
 
-Yahoo serves as a major hub for news aggregation, financial information, and entertainment content. The platform integrates multiple specialized verticals including Yahoo Finance for stock market data, Yahoo Sports for game scores and fantasy games, and Yahoo News for breaking news and trending stories. Yahoo also provides lifestyle, health, technology, and shopping content alongside its core search and email services.
+## Core Services
+- [Yahoo Homepage](https://www.yahoo.com/): Main portal for news, finance, sports, entertainment, weather, and featured stories.
+- [Yahoo Mail](https://mail.yahoo.com/): Webmail service for personal email, inbox management, and account access.
+- [Yahoo Search](https://search.yahoo.com/): Search engine for web results, images, videos, and general discovery.
+- [My Yahoo](https://my.yahoo.com/): Personalized start page for feeds, widgets, weather, and saved interests.
+- [Yahoo Account](https://login.yahoo.com/): Sign-in and account access for Yahoo consumer services.
 
-## Key Topics
+## News
+- [Yahoo News](https://www.yahoo.com/news/): Breaking news hub covering U.S., world, politics, science, and major events.
+- [U.S. News](https://www.yahoo.com/news/us/): National reporting and headlines focused on U.S. developments and public affairs.
+- [World News](https://www.yahoo.com/news/world/): International coverage of global politics, conflicts, and major world events.
+- [Politics](https://www.yahoo.com/news/politics/): Political news, elections coverage, policy reporting, and analysis.
+- [Science](https://www.yahoo.com/news/science/): Science reporting on research, space, climate, and discoveries.
+- [Originals](https://www.yahoo.com/news/originals/): Yahoo-produced reporting, interviews, and original editorial features.
 
-- breaking-news
-- news-aggregation
-- finance
-- stock-market-quotes
-- live-market-data
-- sports
-- entertainment-news
-- celebrity-news
-- weather
-- product-reviews
-- politics
-- viral-content
-- wellness
-- financial-news
-- technology-news
+## Finance
+- [Yahoo Finance](https://finance.yahoo.com/): Market data platform for quotes, charts, portfolios, and business news.
+- [Trending Tickers](https://finance.yahoo.com/trending-tickers/): Frequently viewed stocks and market movers attracting investor attention.
+- [Stock Market News](https://finance.yahoo.com/news/): Financial news covering markets, companies, earnings, and economic developments.
+- [Personal Finance](https://finance.yahoo.com/personal-finance/): Consumer finance coverage on saving, taxes, retirement, and credit.
+- [Crypto](https://finance.yahoo.com/topic/crypto/): Cryptocurrency prices, market news, and digital asset coverage.
+- [Screeners](https://finance.yahoo.com/screener/): Tools for filtering stocks and securities by financial criteria.
+- [Calendar](https://finance.yahoo.com/calendar/): Earnings, economic, and IPO calendars for upcoming market events.
 
-## Core Platforms
+## Sports
+- [Yahoo Sports](https://sports.yahoo.com/): Sports news, live scores, schedules, fantasy games, and analysis.
+- [NFL](https://sports.yahoo.com/nfl/): Football news, scores, standings, schedules, and league coverage.
+- [NBA](https://sports.yahoo.com/nba/): Basketball coverage with scores, standings, rumors, and game analysis.
+- [MLB](https://sports.yahoo.com/mlb/): Baseball news, scores, standings, and season coverage.
+- [NHL](https://sports.yahoo.com/nhl/): Hockey scores, standings, news, and team updates.
+- [NCAAF](https://sports.yahoo.com/ncaaf/): College football scores, rankings, schedules, and commentary.
+- [NCAAB](https://sports.yahoo.com/ncaab/): College basketball coverage including rankings, scores, and tournament news.
 
-- [Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos](https://www.yahoo.com): Yahoo homepage aggregating mail, news, finance, sports, weather and entertainment
-- [Yahoo News: Latest and Breaking News, Headlines, Live Updates, and More](https://www.yahoo.com/news): Yahoo News homepage with breaking news, headlines and live updates
-- [Yahoo Search - Web Search](https://search.yahoo.com): Yahoo Search engine for web, images, videos and answers
+## Fantasy Sports
+- [Yahoo Fantasy](https://sports.yahoo.com/fantasy/): Fantasy sports hub for leagues, drafts, rankings, and player tools.
+- [Fantasy Football](https://sports.yahoo.com/fantasy/football/): Fantasy football game center with leagues, projections, and draft tools.
+- [Fantasy Baseball](https://sports.yahoo.com/fantasy/baseball/): Fantasy baseball platform for roster management, rankings, and scoring.
+- [Fantasy Basketball](https://sports.yahoo.com/fantasy/basketball/): Fantasy basketball leagues, player news, and matchup tools.
+- [Fantasy Hockey](https://sports.yahoo.com/fantasy/hockey/): Fantasy hockey league management, stats, and player updates.
+- [Daily Fantasy](https://sports.yahoo.com/dailyfantasy/): Daily fantasy contests, entries, and player selection tools.
 
-## Finance & Markets
+## Entertainment
+- [Yahoo Entertainment](https://www.yahoo.com/entertainment/): Entertainment news covering celebrities, TV, movies, and music.
+- [Celebrity](https://www.yahoo.com/entertainment/celebrity/): Celebrity news, interviews, and trending pop culture stories.
+- [TV](https://www.yahoo.com/entertainment/tv/): Television news, recaps, streaming updates, and show coverage.
+- [Movies](https://www.yahoo.com/entertainment/movies/): Film news, trailers, releases, and industry reporting.
+- [Music](https://www.yahoo.com/entertainment/music/): Music news, artist coverage, releases, and performances.
 
-- [Yahoo Finance - Stock Market Live, Quotes, Business & Finance News](https://finance.yahoo.com): Yahoo Finance platform for stock quotes, market data and financial news
+## Life, Shopping, and Lifestyle
+- [Yahoo Life](https://www.yahoo.com/lifestyle/): Lifestyle coverage spanning wellness, style, parenting, and relationships.
+- [Style](https://www.yahoo.com/lifestyle/style/): Fashion, beauty, and style trend coverage.
+- [Health](https://www.yahoo.com/lifestyle/health/): Health and wellness reporting, advice, and expert-backed explainers.
+- [Parenting](https://www.yahoo.com/lifestyle/parenting/): Parenting stories, family advice, and child-focused features.
+- [Shopping](https://www.yahoo.com/lifestyle/shopping/): Product recommendations, deals, and consumer shopping guides.
+- [In the Know](https://www.intheknow.com/): Yahoo lifestyle and shopping brand focused on trends and recommendations.
 
-## Sports & Entertainment
+## Weather and Local Information
+- [Yahoo Weather](https://www.yahoo.com/news/weather/): Weather coverage and forecast-related news from Yahoo.
+- [Weather on Search](https://search.yahoo.com/search?p=weather): Search results experience for weather forecasts and conditions.
+- [Local News](https://www.yahoo.com/news/local/): Local and regional news aggregation where available.
 
-- [Yahoo Sports: News, Scores, Video, Fantasy Games, Schedules & More - Yahoo Sports](https://sports.yahoo.com): Yahoo Sports hub featuring scores, fantasy games and sports news
-- [Yahoo Entertainment](https://www.yahoo.com/entertainment): Yahoo Entertainment hub for TV, movies, music and celebrity news
-- [Where to watch Fanatics Flag Football Classic: Channel, live stream, time, TV schedule for game with Tom Brady, more - Yahoo Sports](https://www.yahoo.com/sports/articles/where-watch-fanatics-flag-football-052001925.html): Sports guide for watching Fanatics Flag Football Classic with Tom Brady
+## Tech and Digital Culture
+- [Yahoo Tech](https://www.yahoo.com/tech/): Technology news, product coverage, and digital culture reporting.
+- [Tech News on Yahoo News](https://www.yahoo.com/news/tech/): Technology reporting within Yahoo News coverage.
+- [Creators](https://creators.yahoo.com/): Publishing and creator-focused platform for Yahoo contributors and content.
 
-## Lifestyle & Wellness
-
-- [Yahoo Life: Latest News on Health, Wellness, Style, Fashion Trends and More](https://www.yahoo.com/lifestyle): Yahoo Life platform for style, wellness, fashion trends and lifestyle news
-- [Yahoo Health: Advice and Reviews on Nutrition, Fitness, Sleep, Aging, Well Being and More](https://health.yahoo.com): Yahoo Health hub for wellness, nutrition, fitness and expert health advice
-- [Yahoo Creators: A community of creative voices](https://creators.yahoo.com): Yahoo Creators community platform for lifestyle content and user-generated ideas
-
-## Shopping, Weather & Technology
-
-- [Yahoo Shopping: The Best Deals and Reviews on Clothing, Beauty, Home essentials, Tech and More](https://shopping.yahoo.com): Yahoo Shopping platform for deals, reviews and product recommendations
-- [San Jose, CA Weather Forecast, Conditions, and Maps – Yahoo Weather](https://www.yahoo.com/news/weather): Yahoo Weather providing forecasts, conditions and maps for locations
-- [Yahoo Tech | Technology News, Updates, Reviews & Stories](https://tech.yahoo.com): Yahoo Tech covering technology news, product reviews and AI updates
-
-## News & Trending
-
-- [Yahoo Trends 100](https://www.yahoo.com/trending): Real-time trending stories across news, entertainment and sports
-- [Trump says no, but Americans expect boots on the ground in Iran: Poll](https://www.yahoo.com/news/articles/65-americans-believe-trump-send-041008333.html): News article on Iran military deployment poll and Trump foreign policy
-
-## Optional
-
-- [Yahoo Newsletters from Yahoo News](https://www.yahoo.com/newsletters): Yahoo Newsletters subscription page for news alerts and email digests
-- [Chuck Norris's legacy lives on through one of the internet's earliest memes](https://www.yahoo.com/entertainment/celebrity/article/chuck-norriss-legacy-lives-on-through-one-of-the-internets-earliest-memes-181954221.html): Article on Chuck Norris and his cultural impact through internet memes
-- [Kendra Duggar Charged Alongside Husband Joseph Duggar as Police Announce New Counts in Ongoing Investigation](https://www.yahoo.com/entertainment/celebrity/articles/kendra-duggar-charged-alongside-husband-230853322.html): News article on Kendra and Joseph Duggar's criminal charges in Arkansas
+## Help, Policies, and Company
+- [Yahoo Help](https://help.yahoo.com/): Support center for Mail, account, security, and product troubleshooting.
+- [Account Security](https://help.yahoo.com/kb/account): Help articles for account access, recovery, and protection.
+- [Terms of Service](https://legal.yahoo.com/us/en/yahoo/terms/otos/index.html): Legal terms governing use of Yahoo products and services.
+- [Privacy Policy](https://legal.yahoo.com/us/en/yahoo/privacy/index.html): Privacy practices describing data collection, use, and controls.
+- [Advertising](https://www.yahooinc.com/advertising): Yahoo advertising information for brands, publishers, and marketers.
+- [Yahoo Inc.](https://www.yahooinc.com/): Corporate site with company information, brands, leadership, and business details.

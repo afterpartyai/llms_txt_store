@@ -1,61 +1,94 @@
 # Tenable
+> Tenable provides exposure management, cloud security, and vulnerability management solutions to help organizations identify and reduce cyber risk.
 
-> Tenable provides cybersecurity exposure management solutions including Nessus vulnerability scanner, Security Center, and compliance tools for critical infrastructure protection.
+Tenable offers a broad cybersecurity platform spanning exposure management, vulnerability assessment, cloud security, identity exposure, attack path analysis, OT/IoT security, and compliance. Its ecosystem includes product documentation, downloads, training, community support, research, and extensive product-specific resources centered on Tenable One, Nessus, Tenable.io, Tenable.sc, and related offerings.
 
-Tenable is a leading cybersecurity company specializing in vulnerability management, network security, and regulatory compliance. Their flagship products include Nessus (vulnerability scanner), Security Center, and Passive Vulnerability Scanner (PVS), serving organizations across government, healthcare, and critical infrastructure sectors.
+## Platform and Product Overview
+- [Tenable One](https://www.tenable.com/products/tenable-one): Exposure management platform for unifying visibility, prioritization, and remediation across cyber risk domains.
+- [Products](https://www.tenable.com/products): Directory of Tenable products for vulnerability management, cloud security, identity, and operational technology.
+- [Solutions](https://www.tenable.com/solutions): Solution pages organized by use case, industry, and security outcome.
+- [Why Tenable](https://www.tenable.com/why-tenable): Overview of Tenable’s approach to exposure management and cyber risk reduction.
+- [Nessus](https://www.tenable.com/products/nessus): Vulnerability assessment solution for discovering and assessing security issues across environments.
+- [Tenable Vulnerability Management](https://www.tenable.com/products/tenable-vulnerability-management): Cloud-based vulnerability management for continuous asset discovery and risk-based prioritization.
+- [Tenable Security Center](https://www.tenable.com/products/tenable-sc): On-premises vulnerability management platform for enterprise visibility, analysis, and reporting.
+- [Tenable Cloud Security](https://www.tenable.com/products/tenable-cloud-security): CNAPP offering for securing cloud infrastructure, identities, workloads, and configurations.
 
-## Key Topics
+## Product Documentation
+- [Tenable Documentation Portal](https://docs.tenable.com): Central documentation hub for Tenable products, deployment, administration, and user guidance.
+- [Tenable One Documentation](https://docs.tenable.com/tenable-one): Product documentation for Tenable One workflows, configuration, and exposure management capabilities.
+- [Tenable Vulnerability Management Documentation](https://docs.tenable.com/tenable-vulnerability-management): Documentation for cloud-based vulnerability management setup, scanning, and reporting.
+- [Tenable Security Center Documentation](https://docs.tenable.com/security-center): Documentation for Tenable Security Center administration, scanning, and analytics.
+- [Nessus Documentation](https://docs.tenable.com/nessus): Documentation for Nessus installation, configuration, scans, policies, and results interpretation.
+- [Tenable Web App Scanning Documentation](https://docs.tenable.com/web-app-scanning): Documentation for configuring and managing web application security scans.
+- [Tenable OT Security Documentation](https://docs.tenable.com/ot-security): Documentation for OT Security deployment, asset visibility, and industrial security monitoring.
+- [Tenable Identity Exposure Documentation](https://docs.tenable.com/identity-exposure): Documentation for identity exposure analysis and Active Directory security workflows.
 
-- Nessus vulnerability scanner
-- Security Center platform
-- Passive Vulnerability Scanner (PVS)
-- Vulnerability management
-- Network security monitoring
-- PCI DSS compliance
-- Critical infrastructure cybersecurity
-- Web application security
-- Nessus plugins
-- CVSS risk scoring
-- Patch management
-- Configuration auditing
-- CISA regulations
-- Authenticated scanning
-- Threat detection
+## API and Developer Resources
+- [Developer Portal](https://developer.tenable.com): Developer hub for APIs, SDKs, authentication, and integration resources.
+- [Tenable.io API Reference](https://developer.tenable.com/reference): API reference for Tenable cloud platform endpoints and operations.
+- [API Explorer](https://developer.tenable.com/reference#tag/Exports): Interactive API reference for exploring Tenable.io endpoints and request formats.
+- [Developer Guides](https://developer.tenable.com/docs): Guides for authentication, common workflows, and API usage patterns.
+- [Python SDK](https://developer.tenable.com/docs/python-sdk): Resources for automating Tenable workflows with the Python SDK.
+- [Go SDK](https://developer.tenable.com/docs/go-sdk): Resources for integrating Tenable APIs using the Go SDK.
+- [Postman Collection](https://developer.tenable.com/docs/postman-collection): Postman resources for testing and learning Tenable API requests.
+- [Container Security API](https://developer.tenable.com/reference/container-security): API reference for Tenable container and cloud security capabilities.
 
-## Cybersecurity Compliance & Regulations
+## Downloads and Installers
+- [Downloads](https://www.tenable.com/downloads): Central download page for Tenable products, agents, scanners, and utilities.
+- [Nessus Downloads](https://www.tenable.com/downloads/nessus): Installers and packages for Nessus across supported operating systems.
+- [Tenable Agent Downloads](https://www.tenable.com/downloads/tenable-agent): Download packages for Tenable Agent deployments and updates.
+- [Security Center Downloads](https://www.tenable.com/downloads/tenable-sc): Installers and updates for Tenable Security Center.
+- [Nessus Network Monitor Downloads](https://www.tenable.com/downloads/nessus-network-monitor): Download packages for passive network monitoring deployments.
+- [Log Correlation Engine Downloads](https://www.tenable.com/downloads/log-correlation-engine): Installers and updates for Tenable Log Correlation Engine.
+- [Audit Files](https://www.tenable.com/downloads/audits): Downloadable audit and compliance content for configuration assessment.
+- [Offline Plugins](https://www.tenable.com/downloads/offline-plugins): Offline plugin update packages for disconnected Nessus environments.
 
-- [US Critical Infrastructure Cybersecurity Regulations](https://www.tenable.com/cybersecurity-regulations): Overview of US critical infrastructure cybersecurity regulations
-- [Oil and Gas Pipeline Cybersecurity](https://www.tenable.com/cybersecurity-regulations/oil-and-pipeline): TSA oil & gas pipeline cybersecurity compliance solutions
+## Training and Education
+- [Tenable University](https://www.tenable.com/tenable-university): Training and certification hub for Tenable products and cybersecurity skills development.
+- [On-Demand Training](https://www.tenable.com/tenable-university/on-demand-training): Self-paced training courses for Tenable users and administrators.
+- [Instructor-Led Training](https://www.tenable.com/tenable-university/instructor-led-training): Live training options for product implementation and advanced usage.
+- [Certification](https://www.tenable.com/tenable-university/certification): Certification information for validating Tenable product knowledge and expertise.
+- [Training FAQ](https://www.tenable.com/tenable-university/faq): Frequently asked questions about Tenable University access, courses, and certifications.
 
-## Vulnerability Scanning & Assessment
+## Support and Community
+- [Community and Support](https://connect.tenable.com): Support portal for cases, knowledge sharing, and community discussions.
+- [Tenable Support Portal](https://connect.tenable.com/s/support): Access support resources, case management, and product assistance.
+- [Knowledge Base](https://connect.tenable.com/s/article): Searchable support articles and troubleshooting guidance for Tenable products.
+- [Discussion Forums](https://connect.tenable.com/s/topiccatalog): Community discussions for product questions, best practices, and peer support.
+- [System Status](https://status.tenable.com): Service status and incident history for Tenable cloud services.
+- [Product Login](https://cloud.tenable.com): Login portal for Tenable cloud products and services.
 
-- [Monitoring Internet-facing Servers with SecurityCenter & Nessus](https://www.tenable.com/blog/monitoring-internet-facing-servers-with-securitycenter-nessus): SecurityCenter & Nessus guide for monitoring internet-facing servers
-- [CVSS Scores in Nessus Plugins](https://www.tenable.com/blog/cvss-scores-in-nessus-plugins): CVSS base scores integration in Nessus plugins for risk assessment
-- [Nessus 4 Performance Benchmarks](https://www.tenable.com/blog/nessus-4-performance-benchmarks): Official Nessus 4 vs 3 vs 2 performance comparison benchmarks
-- [Using Nessus To Discover Rogue Access Points](https://www.tenable.com/blog/using-nessus-to-discover-rogue-access-points): Detecting rogue wireless access points with Nessus for PCI DSS compliance
-- [Solaris Software Enumeration with Nessus](https://www.tenable.com/blog/solaris-software-enumeration-with-nessus): Nessus plugin #29217 for Solaris software package enumeration via SSH
+## Research, Threats, and Vulnerabilities
+- [Tenable Research](https://www.tenable.com/research): Research hub for vulnerability intelligence, threat analysis, and security findings.
+- [Blog](https://www.tenable.com/blog): Articles on vulnerabilities, cloud security, exposure management, and security operations.
+- [CVE](https://www.tenable.com/cve): Search and reference pages for CVEs with Tenable context and coverage.
+- [Plugins](https://www.tenable.com/plugins): Searchable Nessus plugin database for vulnerability checks and detection logic.
+- [Attack Path Techniques](https://www.tenable.com/attack-path-techniques): Resource pages on attack path methods and exposure analysis concepts.
+- [Cyber Exposure Studies](https://www.tenable.com/cyber-exposure-studies): Research reports and studies on cyber exposure trends and risk.
+- [Webinars](https://www.tenable.com/webinars): Educational webinars covering product usage, research, and security topics.
 
-## Web Application Security
+## Compliance and Risk Management
+- [Cybersecurity Regulations](https://www.tenable.com/cybersecurity-regulations): Regulatory resource center covering cybersecurity mandates and compliance requirements.
+- [Compliance and Audit Files](https://www.tenable.com/downloads/audits): Audit content for assessing systems against benchmarks and standards.
+- [PCI DSS Solutions](https://www.tenable.com/solutions/pci-dss): Resources for vulnerability management and compliance support for PCI DSS programs.
+- [NIST Solutions](https://www.tenable.com/solutions/nist): Resources aligned to NIST cybersecurity and risk management frameworks.
+- [CIS Controls Solutions](https://www.tenable.com/solutions/cis-controls): Guidance for using Tenable to support CIS Controls implementation and measurement.
+- [Federal Solutions](https://www.tenable.com/solutions/federal): Security and compliance resources tailored to U.S. federal environments.
 
-- [Presentation "Using Nessus In Web Application Assessments"](https://www.tenable.com/blog/presentation-using-nessus-in-web-application-assessments): OWASP presentation on Nessus web application testing techniques
-- [Video: Web App Scanning With Credentials Using Nessus](https://www.tenable.com/blog/video-web-app-scanning-with-credentials-using-nessus): Video tutorial on authenticated web application scanning with Nessus
+## Product-Specific Solution Areas
+- [Cloud Security](https://www.tenable.com/solutions/cloud-security): Solutions for securing cloud assets, workloads, identities, and configurations.
+- [Vulnerability Management](https://www.tenable.com/solutions/vulnerability-management): Solution overview for identifying, prioritizing, and remediating vulnerabilities.
+- [Identity Exposure](https://www.tenable.com/solutions/identity-exposure): Resources for reducing identity-based attack paths and Active Directory risk.
+- [Operational Technology Security](https://www.tenable.com/solutions/operational-technology): Solutions for OT, ICS, and industrial environment visibility and protection.
+- [Attack Surface Management](https://www.tenable.com/solutions/attack-surface-management): Resources for discovering and monitoring internet-facing assets and exposures.
+- [Ransomware Exposure](https://www.tenable.com/solutions/ransomware): Guidance for identifying and reducing exposures associated with ransomware risk.
+- [Container Security](https://www.tenable.com/solutions/container-security): Resources for securing containerized applications and cloud-native environments.
 
-## Threat Detection & Analysis
-
-- [Boss, I think Half of our FTP Servers are fake!](https://www.tenable.com/blog/boss-i-think-half-of-our-ftp-servers-are-fake): Detecting fake FTP servers and backdoors with Nessus plugins
-- [Event Analysis Training - Advanced Blacklist Analysis](https://www.tenable.com/blog/event-analysis-training-advanced-blacklist-analysis): DNS blacklist analysis training for threat detection & monitoring
-- [Microsoft Windows Domain Name Server Service Vulnerability Plugin](https://www.tenable.com/blog/microsoft-windows-domain-name-server-service-vulnerability-plugin): Nessus plugin #25035 for Microsoft DNS server vulnerability detection
-
-## Security Tools & Integrations
-
-- [Dragon Intrusion Defense System support for Nessus and the PVS](https://www.tenable.com/blog/dragon-intrusion-defense-system-support-for-nessus-and-the-pvs): Enterasys Dragon IDS integration with Nessus and PVS sensors
-- [Graphical Data Visualizations with Tenable Products](https://www.tenable.com/blog/graphical-data-visualizations-with-tenable-products): Network topology & security data visualization using Tenable 3D & AfterGlow
-
-## Optional
-
-- [Careers](https://www.tenable.com/careers): Cybersecurity career opportunities at Tenable's global offices
-- [Tenable Network Security Podcast - Episode 20](https://www.tenable.com/blog/tenable-network-security-podcast-episode-20): Podcast episode 20 featuring Mike Murray interview on security topics
-- [Tenable Network Security Podcast - Episode 6](https://www.tenable.com/blog/tenable-network-security-podcast-episode-6): Podcast episode 6 on passive vulnerability scanning and Security Center 3.4.5
-- [Tenable Network Security Podcast - Episode 1](https://www.tenable.com/blog/tenable-network-security-podcast-episode-1): Inaugural podcast on PCI compliance, botnets, and Nessus scanning
-- [Cyberdawn - A Diverse Cyber Exercise - Part I](https://www.tenable.com/blog/cyberdawn-a-diverse-cyber-exercise-part-i): Red team vs blue team cyber exercise at Battlefield High School
-- [AfterBites: My Hospital Robo-Surgeon Has a What?](https://www.tenable.com/blog/afterbites-my-hospital-robo-surgeon-has-a-what): Marcus Ranum commentary on London hospital worm infection incident
+## Company and Additional Resources
+- [Resource Center](https://www.tenable.com/resources): Library of reports, ebooks, datasheets, and other educational materials.
+- [Customer Stories](https://www.tenable.com/customers): Case studies showing how organizations use Tenable products and services.
+- [Events](https://www.tenable.com/events): Upcoming events, conferences, and virtual sessions hosted by Tenable.
+- [Press Releases](https://www.tenable.com/press-releases): Official company announcements, product news, and corporate updates.
+- [Careers](https://www.tenable.com/careers): Employment opportunities and information about working at Tenable.
+- [Partners](https://www.tenable.com/partners): Partner ecosystem information for resellers, alliances, and technology integrations.
+- [Contact](https://www.tenable.com/contact): Contact information for sales, support, and general inquiries.

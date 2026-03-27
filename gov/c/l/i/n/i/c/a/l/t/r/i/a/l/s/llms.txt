@@ -1,24 +1,60 @@
 # ClinicalTrials.gov
+> ClinicalTrials.gov is the U.S. National Library of Medicine’s public registry and results database for clinical studies.
 
-> > ClinicalTrials.gov is the U.S. government's registry of clinical studies, providing public access to trial information and a registration system for researchers to submit protocols and results.
+ClinicalTrials.gov helps patients, researchers, clinicians, and sponsors find study records, understand trial information, and access registration and results reporting resources. The site also provides the Protocol Registration and Results System (PRS), policy guidance, data downloads, and API access for working with clinical study records.
 
-Operated by the U.S. National Library of Medicine at the National Institutes of Health, ClinicalTrials.gov serves as the authoritative database for clinical trial registration and results reporting. The Protocol Registration and Results System (PRS) enables researchers and study sponsors to register trials and submit study results in compliance with federal regulations.
+## Search and Study Records
+- [Find Studies](https://clinicaltrials.gov/search): Search the ClinicalTrials.gov database for recruiting, active, completed, and other study records.
+- [Advanced Search](https://clinicaltrials.gov/advanced-search): Build detailed searches using conditions, interventions, locations, sponsors, and study characteristics.
+- [Browse Conditions and Diseases](https://clinicaltrials.gov/search?viewType=Table): Explore study records by condition, intervention, and other indexed fields.
+- [About Studies](https://clinicaltrials.gov/about-studies): Learn how study records are structured and what information they contain.
+- [Glossary](https://clinicaltrials.gov/glossary): Definitions for common clinical research and ClinicalTrials.gov terms used throughout the site.
 
-## Key Topics
+## Patients and Public
+- [About Clinical Studies](https://clinicaltrials.gov/about-studies/about-clinical-studies): Overview of clinical studies, phases, designs, and participant involvement.
+- [How to Find a Study](https://clinicaltrials.gov/about-studies/how-to-find-a-study): Practical guidance for locating studies relevant to a condition or treatment.
+- [How to Read a Study Record](https://clinicaltrials.gov/about-studies/how-to-read-a-study-record): Explains key fields in a ClinicalTrials.gov study record.
+- [Questions to Ask](https://clinicaltrials.gov/about-studies/questions-to-ask): Suggested questions for discussing study participation with healthcare providers and researchers.
+- [For Patients and Families](https://clinicaltrials.gov/about-site/for-patients-and-families): Entry point for public-facing help and educational resources.
 
-- Protocol Registration and Results System (PRS)
-- Clinical trial registration
-- Results submission
-- Modernized PRS
-- Classic PRS
-- U.S. National Library of Medicine
-- U.S. National Institutes of Health
-- Account access and authentication
-- Study protocol submission
-- Federal trial reporting requirements
-- Clinical research transparency
-- Trial registry database
+## Researchers and Data Submitters
+- [Protocol Registration and Results System](https://register.clinicaltrials.gov/): Access the PRS for registering studies and submitting results information.
+- [For Researchers](https://clinicaltrials.gov/about-site/for-researchers): Overview of registration, results submission, and researcher-focused site resources.
+- [Submit Studies](https://clinicaltrials.gov/data-api/about-api): Technical resources for working with ClinicalTrials.gov data and systems.
+- [PRS Information](https://prsinfo.clinicaltrials.gov/): Guidance, training, and support materials for PRS users and administrators.
+- [Modernized PRS](https://prsinfo.clinicaltrials.gov/prs-users.html): Information for PRS users on current registration and results workflows.
 
-## Protocol Registration & Results System
+## PRS Training and Support
+- [PRS Guided Tutorials](https://prsinfo.clinicaltrials.gov/tutorial/index.html): Step-by-step tutorials for registering studies and submitting results in PRS.
+- [PRS User’s Guide](https://prsinfo.clinicaltrials.gov/prs-users-guide.html): Detailed instructions for creating, updating, and releasing study records.
+- [PRS Test System](https://register.clinicaltrials.gov/prs/app/template/Login.vm): PRS login entry for account holders and administrators.
+- [Responsible Party Information](https://prsinfo.clinicaltrials.gov/responsible-party.html): Explains who may register studies and submit results information.
+- [PRS Support](https://prsinfo.clinicaltrials.gov/support.html): Contact and support resources for PRS account and submission questions.
 
-- [ClinicalTrials.gov PRS: Login](https://register.clinicaltrials.gov/): Login portal for Protocol Registration and Results System (PRS)
+## Data API and Downloads
+- [About the API](https://clinicaltrials.gov/data-api/about-api): Overview of the ClinicalTrials.gov API, formats, and usage guidance.
+- [API Study Fields](https://clinicaltrials.gov/data-api/api): Access API endpoints and technical details for retrieving study data.
+- [Download Content for Analysis](https://clinicaltrials.gov/data-api/about-api#download-content): Information on downloading ClinicalTrials.gov data for analysis and reuse.
+- [Study Data Structure](https://clinicaltrials.gov/data-api/about-api#data-structure): Describes the data model and organization of study record content.
+- [Migration Guide](https://clinicaltrials.gov/data-api/about-api#migrating-from-classic-api): Guidance for moving from legacy API usage to the current API.
+
+## Policies and Requirements
+- [ClinicalTrials.gov Modernization](https://clinicaltrials.gov/about-site/modernization): Information about the modernized website and system changes.
+- [FDAAA 801 and Final Rule Information](https://prsinfo.clinicaltrials.gov/fdaaa.html): Regulatory guidance related to registration and results reporting requirements.
+- [Applicable Clinical Trials](https://prsinfo.clinicaltrials.gov/ACT_Checklist.pdf): Checklist for evaluating whether a study is an applicable clinical trial.
+- [Results Information](https://prsinfo.clinicaltrials.gov/results_definitions.html): Definitions and requirements for submitted results data elements.
+- [Protocol Registration Information](https://prsinfo.clinicaltrials.gov/definitions.html): Definitions for registration data elements and record requirements.
+
+## Help and Site Information
+- [About the Site](https://clinicaltrials.gov/about-site/about-clinicaltrials-gov): Overview of ClinicalTrials.gov purpose, scope, and stewardship.
+- [What’s New](https://clinicaltrials.gov/about-site/whats-new): Updates on site features, releases, and content changes.
+- [FAQ](https://clinicaltrials.gov/about-site/faq): Answers to common questions about searching, records, and site use.
+- [Contact Us](https://clinicaltrials.gov/about-site/contact): Contact information for ClinicalTrials.gov support and inquiries.
+- [Site Map](https://clinicaltrials.gov/about-site/sitemap): Navigational overview of major ClinicalTrials.gov pages and resources.
+
+## Developers and Technical Resources
+- [Study Data API](https://clinicaltrials.gov/data-api/api): Programmatic access to ClinicalTrials.gov study records and metadata.
+- [API Use Cases](https://clinicaltrials.gov/data-api/about-api#use-cases): Examples of how developers and analysts can use the ClinicalTrials.gov API.
+- [Data Element Definitions](https://prsinfo.clinicaltrials.gov/definitions.html): Reference definitions for registration fields used in study records.
+- [Results Data Element Definitions](https://prsinfo.clinicaltrials.gov/results_definitions.html): Reference definitions for results reporting fields and terminology.
+- [ClinicalTrials.gov Background](https://clinicaltrials.gov/about-site/about-clinicaltrials-gov): Context for integrating and interpreting ClinicalTrials.gov data.

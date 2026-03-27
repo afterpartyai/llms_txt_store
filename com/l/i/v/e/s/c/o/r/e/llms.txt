@@ -1,57 +1,84 @@
 # LiveScore
+> Real-time football scores, fixtures, results, tables, and match statistics for leagues and competitions worldwide.
 
-> > Real-time football scores, fixtures, standings, and player statistics covering major leagues including Premier League, LaLiga, Serie A, Bundesliga, and Ligue 1, plus international tournaments worldwide.
+LiveScore provides live football coverage across domestic leagues, cups, and international tournaments, with match timelines, standings, team pages, and competition hubs organized by country and region.
 
-LiveScore provides comprehensive live match coverage for football competitions across England, Spain, Italy, Germany, France, and dozens of other countries. The platform tracks top clubs like Manchester United, Liverpool, Arsenal, Manchester City, and Real Madrid, delivering instant updates on goals, cards, and match events alongside detailed league tables and player performance data.
+## Core Football Pages
+- [Football Home](https://www.livescore.com/en/football/): Main football hub with live scores, fixtures, results, and featured competitions.
+- [LiveScore Homepage](https://www.livescore.com/): Entry point for live sports scores, match tracking, and navigation to football coverage.
+- [Football Fixtures](https://www.livescore.com/en/football/fixtures/): Upcoming football matches across leagues and competitions.
+- [Football Results](https://www.livescore.com/en/football/results/): Recent football results with completed match listings.
+- [Football Tables](https://www.livescore.com/en/football/tables/): League standings and rankings for football competitions.
+- [Football News](https://www.livescore.com/en/news/): Editorial coverage, previews, reports, and football-related news updates.
 
-## Key Topics
+## England
+- [Premier League](https://www.livescore.com/en/football/england/premier-league/): Live scores, fixtures, results, table, and match details for England's top division.
+- [Championship](https://www.livescore.com/en/football/england/championship/): Second-tier English league coverage with scores, fixtures, and standings.
+- [League One](https://www.livescore.com/en/football/england/league-1/): Live League One scores, results, fixtures, and table updates.
+- [League Two](https://www.livescore.com/en/football/england/league-2/): Match coverage and standings for England's fourth professional tier.
+- [FA Cup](https://www.livescore.com/en/football/england/fa-cup/): Scores, fixtures, and knockout progress for England's main cup competition.
+- [EFL Cup](https://www.livescore.com/en/football/england/efl-cup/): Live coverage of the English League Cup competition.
 
-- Premier League
-- LaLiga
-- Serie A
-- Bundesliga
-- Ligue 1
-- Live scores
-- Match fixtures
-- League standings
-- Player statistics
-- Manchester United
-- Liverpool
-- Arsenal
-- Real Madrid
-- International tournaments
-- European qualification
+## Spain
+- [LaLiga](https://www.livescore.com/en/football/spain/laliga/): Live Spanish top-flight scores, fixtures, results, and standings.
+- [LaLiga 2](https://www.livescore.com/en/football/spain/laliga-2/): Second-division Spanish football scores and table updates.
+- [Copa del Rey](https://www.livescore.com/en/football/spain/copa-del-rey/): Spanish domestic cup results, fixtures, and knockout rounds.
+- [Super Cup](https://www.livescore.com/en/football/spain/super-cup/): Coverage of Spain's Super Cup matches and results.
 
-## Elite European Leagues
+## Italy
+- [Serie A](https://www.livescore.com/en/football/italy/serie-a/): Live Serie A scores, fixtures, standings, and match statistics.
+- [Serie B](https://www.livescore.com/en/football/italy/serie-b/): Italian second-tier football results, fixtures, and table.
+- [Coppa Italia](https://www.livescore.com/en/football/italy/coppa-italia/): Domestic cup coverage with live scores and round progression.
+- [Super Cup](https://www.livescore.com/en/football/italy/super-cup/): Italian Super Cup match information and results.
 
-- [Latest English Premier League Live Scores | Football | LiveScore](https://www.livescore.com/en/football/england/premier-league): English Premier League live scores with team and player stats
-- [Turkiye Süper Lig Live Scores | Football](https://www.livescore.com/en/football/turkiye/super-lig): Turkish Süper Lig live scores, fixtures and league table
-- [England FA Cup 22/23 Live Scores | Football](https://www.livescore.com/en/football/england/fa-cup-22-23): FA Cup 2022-23 season live scores and match results
-- [England League 2 Live Scores | Football](https://www.livescore.com/en/football/england/league-2): England League 2 live scores, fixtures and player stats
-- [England League 1 20/21 Live Scores | Football](https://www.livescore.com/en/football/england/league-1-20-21): England League 1 2020-21 season scores and standings
+## Germany
+- [Bundesliga](https://www.livescore.com/en/football/germany/bundesliga/): Germany's top-flight live scores, fixtures, and standings.
+- [2. Bundesliga](https://www.livescore.com/en/football/germany/2-bundesliga/): Second-division German football scores and league table.
+- [DFB Pokal](https://www.livescore.com/en/football/germany/dfb-pokal/): German cup competition scores, fixtures, and knockout updates.
+- [Super Cup](https://www.livescore.com/en/football/germany/super-cup/): German Super Cup results and match details.
 
-## International Competitions
+## France
+- [Ligue 1](https://www.livescore.com/en/football/france/ligue-1/): Live Ligue 1 scores, fixtures, results, and standings.
+- [Ligue 2](https://www.livescore.com/en/football/france/ligue-2/): French second-tier football coverage with tables and fixtures.
+- [Coupe de France](https://www.livescore.com/en/football/france/coupe-de-france/): National cup competition scores and round-by-round results.
+- [Trophee des Champions](https://www.livescore.com/en/football/france/trophee-des-champions/): French super cup match coverage and results.
 
-- [Asia AFC Champions League 22/23 Live Scores | Football](https://www.livescore.com/en/football/asia/afc-champions-league-22-23): AFC Champions League 2022-23 Asian football live scores
-- [International Premier League Summer Series Live Scores | Football](https://www.livescore.com/en/football/international/premier-league-summer-series): Premier League Summer Series international friendly matches
-- [International Gulf Cup Live Scores | Football](https://www.livescore.com/en/football/international/gulf-cup): Gulf Cup international tournament scores featuring UAE, Oman, Bahrain
+## European Competitions
+- [UEFA Champions League](https://www.livescore.com/en/football/europe/champions-league/): Live scores, fixtures, standings, and knockout coverage for Europe's top club tournament.
+- [UEFA Europa League](https://www.livescore.com/en/football/europe/europa-league/): Match results and fixtures for the Europa League.
+- [UEFA Europa Conference League](https://www.livescore.com/en/football/europe/europa-conference-league/): Live coverage of UEFA's third-tier club competition.
+- [UEFA Super Cup](https://www.livescore.com/en/football/europe/uefa-super-cup/): European Super Cup match details and results.
+- [UEFA Nations League](https://www.livescore.com/en/football/europe/uefa-nations-league/): International European competition scores and standings.
+- [European Championship](https://www.livescore.com/en/football/europe/european-championship/): Euro tournament fixtures, results, and group standings.
 
-## North American Football
+## International Football
+- [World Cup](https://www.livescore.com/en/football/international/world-cup/): FIFA World Cup scores, fixtures, and tournament progression.
+- [World Cup Qualification UEFA](https://www.livescore.com/en/football/international/world-cup-qualification-uefa/): European World Cup qualifying scores and standings.
+- [Copa America](https://www.livescore.com/en/football/international/copa-america/): South American international tournament coverage and results.
+- [Africa Cup of Nations](https://www.livescore.com/en/football/international/africa-cup-of-nations/): AFCON live scores, fixtures, and standings.
+- [CONCACAF Gold Cup](https://www.livescore.com/en/football/international/concacaf-gold-cup/): North and Central American championship scores and results.
+- [Friendlies](https://www.livescore.com/en/football/international/friendlies/): International friendly match listings and results.
 
-- [USA MLS 2022 Live Scores | Football](https://www.livescore.com/en/football/usa/major-league-soccer-2022): MLS 2022 season live scores, results and fixtures
+## Other Major Domestic Leagues
+- [Netherlands Eredivisie](https://www.livescore.com/en/football/netherlands/eredivisie/): Dutch top-flight football scores, fixtures, and standings.
+- [Portugal Primeira Liga](https://www.livescore.com/en/football/portugal/primeira-liga/): Portuguese league live scores and table updates.
+- [Turkiye Super Lig](https://www.livescore.com/en/football/turkiye/super-lig/): Turkish top-division football coverage with fixtures and standings.
+- [Belgium Pro League](https://www.livescore.com/en/football/belgium/pro-league/): Belgian first-division scores, results, and league table.
+- [Scotland Premiership](https://www.livescore.com/en/football/scotland/premiership/): Scottish Premiership live scores, fixtures, and standings.
+- [Greece Super League](https://www.livescore.com/en/football/greece/super-league/): Greek top-flight football scores and competition table.
 
-## Scandinavian Leagues
+## Americas, Asia, and Oceania
+- [USA Major League Soccer](https://www.livescore.com/en/football/usa/major-league-soccer/): MLS live scores, fixtures, results, and standings.
+- [Brazil Serie A](https://www.livescore.com/en/football/brazil/serie-a/): Brazilian top-flight football coverage with live results and table.
+- [Argentina Liga Profesional](https://www.livescore.com/en/football/argentina/liga-profesional/): Argentine league scores, fixtures, and standings.
+- [Mexico Liga MX](https://www.livescore.com/en/football/mexico/liga-mx/): Mexican top-division football results and live match coverage.
+- [Japan J1 League](https://www.livescore.com/en/football/japan/j1-league/): Japanese first-division scores, fixtures, and standings.
+- [Australia A-League Men](https://www.livescore.com/en/football/australia/a-league-men/): Australian top-flight football scores and results.
 
-- [Sweden Allsvenskan 2023 Live Scores | Football](https://www.livescore.com/en/football/sweden/allsvenskan-2023): Sweden Allsvenskan 2023 season live scores and standings
-- [Norway Eliteserien 2022 Live Scores | Football](https://www.livescore.com/en/football/norway/eliteserien-2022): Norway Eliteserien 2022 season live scores and match results
-- [Norway 3. Divisjon Live Scores | Football](https://www.livescore.com/en/football/norway/3-divisjon): Norway 3. Divisjon live scores and league table
-
-## Central & Eastern European Football
-
-- [Slovenia Prva Liga 23/24 Live Scores | Football](https://www.livescore.com/en/football/slovenia/prva-liga-23-24): Live scores and standings for Slovenia Prva Liga 2023-24 season
-- [Poland I Liga Live Scores | Football](https://www.livescore.com/en/football/poland/i-liga): Poland I Liga second division live scores and standings
-- [Estonia Meistriliiga 2022 Live Scores | Football](https://www.livescore.com/en/football/estonia/meistriliiga-2022): Estonia Meistriliiga 2022 live scores and European qualification
-
-## Lower Division Coverage
-
-- [Italy Serie D: Group C Live Scores | Football](https://www.livescore.com/en/football/italy/serie-d-group-c): Italy Serie D Group C live scores and fourth-tier football results
+## Teams and Match Coverage
+- [Manchester City Team Page](https://www.livescore.com/en/football/team/manchester-city/6760/): Team fixtures, results, squad-related match coverage, and standings context.
+- [Arsenal Team Page](https://www.livescore.com/en/football/team/arsenal/9827/): Arsenal live matches, recent results, and competition participation.
+- [Liverpool Team Page](https://www.livescore.com/en/football/team/liverpool/6635/): Liverpool fixtures, scores, and match-by-match updates.
+- [Manchester United Team Page](https://www.livescore.com/en/football/team/manchester-united/6628/): Manchester United results, upcoming matches, and live coverage.
+- [Real Madrid Team Page](https://www.livescore.com/en/football/team/real-madrid/8633/): Real Madrid fixtures, results, and competition tracking.
+- [Barcelona Team Page](https://www.livescore.com/en/football/team/barcelona/8634/): Barcelona live scores, fixtures, and recent match information.

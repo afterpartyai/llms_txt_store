@@ -1,62 +1,84 @@
 # DeepL
+> AI language platform for translation, writing, voice, and workflow automation for individuals, teams, and enterprises.
 
-> DeepL is an AI-powered language platform offering enterprise-grade translation, voice, writing assistance, and agentic workflow automation with industry-leading security and compliance.
-
-DeepL provides a comprehensive suite of AI language tools designed for global enterprises, including secure translation, real-time voice translation, intelligent writing assistance, and autonomous agents for workflow automation. The platform emphasizes data privacy, compliance (GDPR, SOC 2 Type II, HIPAA), and seamless integration with popular enterprise tools like Microsoft 365 and Google Workspace.
-
-## Key Topics
-
-- AI Translation
-- Enterprise Security
-- Document Translation
-- Voice Translation
-- DeepL Translator
-- DeepL API
-- DeepL Write
-- DeepL Voice
-- Localization
-- Workflow Automation
-- GDPR Compliance
-- Multilingual Support
-- Language AI
-- Team Collaboration
-- API Integration
+DeepL provides AI-powered tools for translating text, documents, and speech; improving writing; integrating language capabilities via API; and automating multilingual work. The platform emphasizes translation quality, enterprise security, and practical integrations for business workflows.
 
 ## Core Products
+- [DeepL AI Platform](https://www.deepl.com/en): Overview of DeepL’s language AI platform, products, and enterprise capabilities.
+- [DeepL Translator](https://www.deepl.com/en/translator): Translate text and documents across supported languages in the web app.
+- [DeepL Write](https://www.deepl.com/en/write): Improve grammar, clarity, tone, and style with AI writing assistance.
+- [DeepL Translator for Business](https://www.deepl.com/en/products/translator): Product page for secure, scalable translation for teams and enterprises.
+- [DeepL Write Pro](https://www.deepl.com/en/products/write): Business writing assistant with enterprise controls and deployment options.
+- [DeepL Voice](https://www.deepl.com/en/products/voice): Voice translation product for multilingual meetings and spoken communication.
+- [DeepL API](https://www.deepl.com/en/products/api): API product overview for translation and writing integrations at scale.
+- [DeepL Agent](https://www.deepl.com/en/products/ai-agent): Agentic workflow automation product for completing tasks across tools.
 
-- [DeepL AI Platform: Translation, Voice & Agentic Workflows](https://www.deepl.com/en): DeepL homepage showcasing complete AI platform and product suite
-- [Secure and scalable AI translation for enterprises | DeepL](https://www.deepl.com/en/products/translator): DeepL Translator product page with enterprise translation features
-- [AI-powered writing excellence for your business | DeepL](https://www.deepl.com/en/products/write): DeepL Write Pro product page for business writing assistance
-- [DeepL Voice: instant, secure voice translation for global teams](https://www.deepl.com/en/products/voice): DeepL Voice product page for meeting and conversation translation
-- [DeepL AI Agent: the agent that uses your computer like a human](https://www.deepl.com/en/products/ai-agent): DeepL Agent product page for automated workflow and task execution
-- [DeepL Write: AI-powered writing companion](https://www.deepl.com/en/write): DeepL Write product page showcasing AI writing assistant features
+## API & Developer
+- [DeepL API](https://www.deepl.com/en/products/api): Overview of API capabilities for translation, writing, and enterprise integration.
+- [API Documentation](https://developers.deepl.com/): Developer portal for authentication, endpoints, usage, and implementation guidance.
+- [API Reference](https://developers.deepl.com/api-reference): Reference documentation for DeepL API endpoints and request parameters.
+- [Translate Text](https://developers.deepl.com/api-reference/translate): API endpoint documentation for translating text programmatically.
+- [Translate Documents](https://developers.deepl.com/api-reference/document): API endpoint documentation for document translation workflows.
+- [Write API](https://developers.deepl.com/api-reference/improve-text): API endpoint documentation for text improvement and rewriting.
+- [OpenAPI Specification](https://developers.deepl.com/openapi/deepl-api): Machine-readable API schema for client generation and tooling.
+- [Developer Guides](https://developers.deepl.com/docs): Guides for setup, authentication, best practices, and integration patterns.
 
-## API & Enterprise Integration
+## Documentation & Guides
+- [DeepL Help Center](https://support.deepl.com/): Support articles for products, billing, account management, and troubleshooting.
+- [DeepL Translator Help](https://support.deepl.com/hc/en-us/categories/360003114600-DeepL-Translator): Help articles for text and document translation features.
+- [DeepL Write Help](https://support.deepl.com/hc/en-us/categories/4414880346002-DeepL-Write): Help articles for writing assistance, settings, and usage.
+- [DeepL API Help](https://support.deepl.com/hc/en-us/categories/360003114540-DeepL-API): Support content for API plans, authentication, and technical issues.
+- [DeepL Voice Help](https://support.deepl.com/hc/en-us/categories/14308086003484-DeepL-Voice): Help articles for voice translation setup and usage.
+- [Account and Subscription Help](https://support.deepl.com/hc/en-us/categories/360003114580-Account-and-subscription): Billing, plans, invoicing, and subscription management documentation.
+- [DeepL Desktop Apps](https://www.deepl.com/en/app/): Download and use DeepL desktop applications for supported platforms.
+- [DeepL Browser Extensions](https://www.deepl.com/en/browser-extension): Browser tools for translating and improving text while you work online.
 
-- [The DeepL API for translation and writing improvement at scale](https://www.deepl.com/en/products/api): DeepL API product page for enterprise translation and writing integration
-- [Empower your enterprise workflows with Language AI | DeepL](https://www.deepl.com/en/products/integrations): DeepL integrations page for Microsoft 365, Google Workspace, and tools
+## Integrations & Apps
+- [Integrations Overview](https://www.deepl.com/en/products/integrations): Overview of DeepL integrations for workplace and content tools.
+- [Microsoft 365 Integration](https://www.deepl.com/en/products/integrations/microsoft-365): Use DeepL within Microsoft apps and enterprise workflows.
+- [Google Workspace Integration](https://www.deepl.com/en/products/integrations/google-workspace): Apply translation and writing assistance in Google productivity tools.
+- [DeepL for Windows](https://www.deepl.com/en/app/windows): Desktop app download and usage information for Windows.
+- [DeepL for Mac](https://www.deepl.com/en/app/mac): Desktop app download and usage information for macOS.
+- [DeepL for iOS](https://www.deepl.com/en/app/ios): Mobile app information for iPhone and iPad users.
+- [DeepL for Android](https://www.deepl.com/en/app/android): Mobile app information for Android devices.
+- [DeepL Browser Extension](https://www.deepl.com/en/browser-extension): Translate and improve text directly in the browser.
 
-## Industry Solutions
+## Solutions
+- [Why DeepL](https://www.deepl.com/en/whydeepl): Platform strengths, translation quality, security, and enterprise value proposition.
+- [Localization Teams](https://www.deepl.com/en/teams/localization): Solution page for multilingual content and localization workflows.
+- [Legal Teams](https://www.deepl.com/en/teams/legal): Secure translation workflows for legal documents and communications.
+- [Customer Support Teams](https://www.deepl.com/en/teams/customer-support): Language AI for multilingual support operations and response quality.
+- [Marketing Teams](https://www.deepl.com/en/teams/marketing): Translation and writing support for campaigns and global content.
+- [Internal Communications](https://www.deepl.com/en/teams/internal-communications): Improve multilingual communication across distributed organizations.
+- [Manufacturing](https://www.deepl.com/en/industry/manufacturing): Industry solution for multilingual operations and technical communication.
+- [Retail](https://www.deepl.com/en/industry/retail): Industry solution for customer-facing and operational translation needs.
 
-- [Localize with AI: 90% time savings, 345% ROI | DeepL](https://www.deepl.com/en/teams/localization): DeepL localization solution page for multilingual enterprise workflows
-- [AI legal translation: fast, secure, and compliant | DeepL](https://www.deepl.com/en/teams/legal): DeepL legal translation solution with GDPR compliance and document handling
+## Security, Privacy & Compliance
+- [Security at DeepL](https://www.deepl.com/en/security): Overview of DeepL security practices, controls, and infrastructure protections.
+- [Privacy Policy](https://www.deepl.com/en/privacy): Data handling, privacy commitments, and user rights information.
+- [Terms and Conditions](https://www.deepl.com/en/pro-license): Terms for DeepL plans, subscriptions, and service usage.
+- [Trust Center](https://www.deepl.com/en/trust): Central resource for security, privacy, and compliance information.
+- [GDPR Commitment](https://www.deepl.com/en/whydeepl): Product and platform information highlighting privacy and compliance posture.
+- [Enterprise Security Features](https://www.deepl.com/en/products/translator): Business translation page covering secure deployment and administrative controls.
 
-## Platform Overview & Benefits
+## Pricing & Plans
+- [Pricing](https://www.deepl.com/en/pro): Overview of DeepL plans for individuals, teams, and enterprises.
+- [DeepL API Plans](https://www.deepl.com/en/pro-api): Pricing and plan information for API usage.
+- [DeepL Pro for Translator](https://www.deepl.com/en/pro#translator): Plan details for premium translation features and document handling.
+- [DeepL Write Pro Plans](https://www.deepl.com/en/pro#write): Plan details for advanced writing assistance features.
+- [Enterprise Contact](https://www.deepl.com/en/contact-sales): Contact sales for enterprise pricing, procurement, and deployment discussions.
 
-- [Why DeepL is the go-to AI language platform](https://www.deepl.com/en/whydeepl): DeepL platform overview highlighting security, quality, and product suite
+## Research, AI Labs & Innovation
+- [AI Labs](https://www.deepl.com/en/ai-labs): Research and engineering articles on DeepL’s AI systems and product innovation.
+- [VLM: Major advances in document translation](https://www.deepl.com/en/ai-labs/vlm): Research article on vision-language model advances for document translation.
+- [NVIDIA: Powering AI innovation](https://www.deepl.com/en/ai-labs/the-power-of-nvidia): Article on infrastructure and collaboration supporting DeepL AI development.
+- [Purpose-driven innovation and DeepL’s hackathon culture](https://www.deepl.com/en/ai-labs/hackathon-recap-q1-25): Inside look at experimentation and internal product innovation culture.
 
-## AI Innovation & Research
-
-- [VLM: Major advances in document translation](https://www.deepl.com/en/ai-labs/vlm): DeepL AI Labs breakthrough on VLM technology for formatted document translation
-- [NVIDIA: Powering AI innovation](https://www.deepl.com/en/ai-labs/the-power-of-nvidia): DeepL AI Labs article on NVIDIA DGX SuperPOD infrastructure investment
-- [Purpose-driven innovation and DeepL's hackathon culture](https://www.deepl.com/en/ai-labs/hackathon-recap-q1-25): DeepL AI Labs hackathon culture and innovation strategy overview
-
-## Insights & Resources
-
-- [DeepL flagship report - Borderless business: transforming translation in the age of AI](https://www.deepl.com/en/borderlessbusiness): Flagship report on AI translation and enterprise workflows across DeepL products
-- [The 6 translation transformations global businesses can't afford to miss](https://www.deepl.com/en/blog/six-translation-transformations): Article on six AI translation transformations for global enterprises in 2026
-- [Elevate your language expertise with AI in 5 easy steps](https://www.deepl.com/en/blog/elevate-language-expertise-5-steps): Guide on using DeepL Customization Hub for brand voice and glossary management
-
-## Optional
-
-- [Meet DeepL: How mentorship empowers women to grow and lead](https://www.deepl.com/en/blog/meet-deepl-atrayee-de): Employee spotlight on mentorship and women in tech at DeepL
+## Blog, News & Events
+- [DeepL Blog](https://www.deepl.com/en/blog): Company blog covering product updates, language AI, and customer stories.
+- [Events and Webinars](https://www.deepl.com/en/events-webinars): Upcoming and on-demand events, webinars, and product sessions.
+- [Voice API is now generally available](https://www.deepl.com/en/events-webinars/w/voice-api): Webinar or event page covering DeepL Voice API general availability.
+- [Elevate your language expertise with AI in 5 easy steps](https://www.deepl.com/en/blog/elevate-language-expertise-5-steps): Blog post on improving language work with AI-assisted practices.
+- [Meet DeepL: How mentorship empowers women to grow and lead](https://www.deepl.com/en/blog/meet-deepl-atrayee-de): Company culture and leadership story from the DeepL blog.
+- [Press](https://www.deepl.com/en/press): Press releases, announcements, and media resources.
+- [Careers](https://www.deepl.com/en/jobs): Open roles and information about working at DeepL.

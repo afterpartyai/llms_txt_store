@@ -1,54 +1,108 @@
 # Our World in Data
 
-> A comprehensive global data platform providing open-source research and interactive visualizations on world development, health, poverty, climate, and conflict trends.
+> Research and data to make progress against the world’s largest problems.
 
-Our World in Data is a research organization based at the University of Oxford that publishes peer-reviewed datasets and articles on global development indicators. The platform combines historical data with interactive explorers to help understand long-term trends in health, economics, environment, and society.
+Our World in Data is a research and data publication based at the University of Oxford. It publishes topic pages, interactive charts, data explorers, and methodological articles covering global health, poverty, food, energy, climate, education, population, technology, and many other long-run development trends.
 
-## Key Topics
+## Core Platform
 
-- global health statistics
-- child mortality
-- poverty measurement
-- CO2 emissions
-- life expectancy
-- population demographics
-- armed conflict
-- education access
-- migration data
-- employment trends
-- artificial intelligence
-- disease prevention
-- historical data
-- interactive data visualization
-- open-source research
+- [Home](https://ourworldindata.org): Main entry point to research articles, charts, and data on global development.
+- [Latest](https://ourworldindata.org/latest): Recently published articles, chart updates, and new research across topics.
+- [Charts](https://ourworldindata.org/charts): Searchable library of interactive charts and visualizations from across the site.
+- [Data Explorers](https://ourworldindata.org/explorers): Collection of interactive explorers for comparing indicators across countries and time.
+- [Data Insights](https://ourworldindata.org/data-insights): Short analytical posts highlighting notable patterns in global data.
+- [About](https://ourworldindata.org/about): Overview of the organization, mission, team, and editorial approach.
+- [Research and Writing](https://ourworldindata.org/research-and-writing): Explanation of how research, charts, and articles are produced.
+- [Contact](https://ourworldindata.org/contact): Contact information for editorial, partnerships, and general inquiries.
 
-## Core Data Topics
+## Health
 
-- [Poverty](https://ourworldindata.org/poverty): Comprehensive global poverty data, statistics, and measurement analysis
-- [Child and Infant Mortality](https://ourworldindata.org/child-mortality): Global child mortality data, trends, and disease prevention statistics
-- [Life Expectancy](https://ourworldindata.org/life-expectancy): Global life expectancy trends and health statistics by region
-- [CO₂ and Greenhouse Gas Emissions](https://ourworldindata.org/co2-and-greenhouse-gas-emissions): Global greenhouse gas emissions data and climate change analysis
-- [Population Growth](https://ourworldindata.org/population-growth): Global population data, demographics, and demographic projections
-- [Global Education](https://ourworldindata.org/global-education): Education access, literacy rates, and learning outcomes worldwide
-- [War and Peace](https://ourworldindata.org/war-and-peace): Armed conflict, peace statistics, and historical warfare data
-- [Migration](https://ourworldindata.org/migration): International migration, refugees, and remittances data platform
-- [Work and Employment](https://ourworldindata.org/work-employment): Labor force, employment trends, and workforce participation data
-- [Artificial Intelligence](https://ourworldindata.org/artificial-intelligence): AI trends, impact, investment, and development metrics globally
+- [Life Expectancy](https://ourworldindata.org/life-expectancy): Long-run trends in life expectancy across countries and regions.
+- [Child and Infant Mortality](https://ourworldindata.org/child-mortality): Data on child deaths, causes, and historical declines in mortality.
+- [Maternal Mortality](https://ourworldindata.org/maternal-mortality): Global trends and inequalities in deaths related to pregnancy and childbirth.
+- [Vaccination](https://ourworldindata.org/vaccination): Coverage, uptake, and impact of vaccines across countries.
+- [Malaria](https://ourworldindata.org/malaria): Burden, prevention, treatment, and progress against malaria worldwide.
+- [HIV/AIDS](https://ourworldindata.org/hiv-aids): Data on infections, deaths, treatment, and prevention of HIV/AIDS.
+- [Cancer](https://ourworldindata.org/cancer): Incidence, mortality, risk factors, and trends in cancer outcomes.
+- [Coronavirus Pandemic (COVID-19)](https://ourworldindata.org/coronavirus): Comprehensive COVID-19 data, charts, and pandemic analysis.
 
-## Interactive Data Tools
+## Population & Society
 
-- [Data Explorers](https://ourworldindata.org/explorers): Index of interactive data explorers covering climate, health, conflict
-- [Home](https://ourworldindata.org): Global data platform on world development, health, poverty, and climate
+- [Population Growth](https://ourworldindata.org/population-growth): Historical and projected population change around the world.
+- [Demography](https://ourworldindata.org/demography): Broad coverage of fertility, mortality, age structure, and population dynamics.
+- [Urbanization](https://ourworldindata.org/urbanization): Trends in city growth and the share of people living in urban areas.
+- [Migration](https://ourworldindata.org/migration): International migration, refugees, remittances, and migration stocks.
+- [Gender Ratio](https://ourworldindata.org/gender-ratio): Sex ratios at birth and across populations over time.
+- [Human Height](https://ourworldindata.org/human-height): Historical evidence on height as an indicator of health and living standards.
+- [Age Structure](https://ourworldindata.org/age-structure): Population composition by age and implications for societies and economies.
 
-## Articles & Insights
+## Poverty, Economy & Inequality
 
-- [Data Insights](https://ourworldindata.org/data-insights): Regular bite-sized insights on global economic and development trends
-- [Latest](https://ourworldindata.org/latest): Recent updates on GDP, economic growth, and global development trends
-- [Malaria: One of the leading causes of child deaths](https://ourworldindata.org/malaria-introduction): Malaria epidemiology, child mortality, and vaccine development progress
-- [What are the world's deadliest animals, and can we protect ourselves?](https://ourworldindata.org/deadliest-animals): Mortality data on animal-caused deaths and disease transmission
-- [Why cheap waste management is key to stopping plastic pollution](https://ourworldindata.org/why-cheap-waste-management-is-key-to-stopping-plastic-pollution): Analysis of waste management's role in reducing plastic pollution
+- [Poverty](https://ourworldindata.org/poverty): Global poverty trends, measurement methods, and historical change.
+- [Economic Growth](https://ourworldindata.org/economic-growth): Long-run growth in GDP, incomes, and living standards.
+- [Income Inequality](https://ourworldindata.org/income-inequality): Distribution of income within and between countries over time.
+- [Hunger and Undernourishment](https://ourworldindata.org/hunger-and-undernourishment): Data on food deprivation and progress against hunger.
+- [Food Prices](https://ourworldindata.org/food-prices): Trends in food affordability and price changes across markets.
+- [Employment in Agriculture](https://ourworldindata.org/employment-in-agriculture): Structural transformation and labor shifts out of agriculture.
+- [Working Hours](https://ourworldindata.org/working-hours): Historical changes in hours worked and labor patterns.
+- [Taxation](https://ourworldindata.org/taxation): Comparative data on tax revenues and fiscal systems.
 
-## About & Support
+## Environment, Climate & Energy
 
-- [About Us](https://ourworldindata.org/about): Organization mission, history, and team at University of Oxford
-- [Donate](https://ourworldindata.org/donate): Donation and fundraising page for Our World in Data nonprofit
+- [CO₂ and Greenhouse Gas Emissions](https://ourworldindata.org/co2-and-greenhouse-gas-emissions): Emissions trends, sources, and international comparisons.
+- [Energy](https://ourworldindata.org/energy): Global energy production, consumption, and transitions across sources.
+- [Renewable Energy](https://ourworldindata.org/renewable-energy): Deployment and growth of wind, solar, hydro, and other renewables.
+- [Fossil Fuels](https://ourworldindata.org/fossil-fuels): Use of coal, oil, and gas in historical and current energy systems.
+- [Nuclear Energy](https://ourworldindata.org/nuclear-energy): Electricity generation, safety, and role of nuclear power.
+- [Deforestation and Forest Loss](https://ourworldindata.org/deforestation): Forest change, land-use pressures, and regional patterns.
+- [Biodiversity](https://ourworldindata.org/biodiversity): Species loss, conservation pressures, and ecological indicators.
+- [Plastic Pollution](https://ourworldindata.org/plastic-pollution): Production, waste, and environmental impacts of plastics.
+
+## Food, Agriculture & Land Use
+
+- [Food Supply](https://ourworldindata.org/food-supply): Calories, nutrients, and food availability by country and time.
+- [Agricultural Production](https://ourworldindata.org/agricultural-production): Crop and livestock output trends across regions.
+- [Land Use](https://ourworldindata.org/land-use): How land is used for farming, forests, settlements, and other purposes.
+- [Meat Production](https://ourworldindata.org/meat-production): Global meat output, consumption, and production systems.
+- [Seafood Production](https://ourworldindata.org/seafood-production): Aquaculture and wild catch trends in global seafood supply.
+- [Pesticides](https://ourworldindata.org/pesticides): Use of pesticides in agriculture and associated trends.
+- [Fertilizers](https://ourworldindata.org/fertilizers): Fertilizer use, nutrient inputs, and agricultural intensification.
+
+## Education, Technology & Innovation
+
+- [Global Education](https://ourworldindata.org/global-education): Access, attainment, literacy, and learning outcomes worldwide.
+- [Literacy](https://ourworldindata.org/literacy): Historical and global progress in reading and writing skills.
+- [Internet](https://ourworldindata.org/internet): Access to and use of the internet across countries.
+- [Technological Change](https://ourworldindata.org/technological-change): Long-run patterns in innovation and diffusion of technologies.
+- [Artificial Intelligence](https://ourworldindata.org/artificial-intelligence): Data and analysis on AI capabilities, adoption, and impacts.
+- [Research and Development](https://ourworldindata.org/research-and-development): Spending, intensity, and trends in R&D activity.
+- [Patents](https://ourworldindata.org/patents): Patent filings and innovation indicators across countries.
+
+## Politics, Conflict & Human Rights
+
+- [War and Peace](https://ourworldindata.org/war-and-peace): Historical trends in armed conflict, deaths, and peace.
+- [Terrorism](https://ourworldindata.org/terrorism): Incidents, fatalities, and patterns in terrorist violence.
+- [Democracy](https://ourworldindata.org/democracy): Measures and long-run trends in democratic institutions.
+- [Human Rights](https://ourworldindata.org/human-rights): Cross-country indicators on rights protections and abuses.
+- [Political Regimes](https://ourworldindata.org/political-regimes): Classification and change in regime types over time.
+- [Homicides](https://ourworldindata.org/homicides): Intentional homicide rates and international comparisons.
+- [Police Killings](https://ourworldindata.org/police-killings): Data and discussion on deaths caused by law enforcement.
+
+## Data Tools & Methods
+
+- [Our World in Data Grapher](https://ourworldindata.org/grapher): Charting system and data backend used for interactive visualizations.
+- [Explorers](https://ourworldindata.org/explorers): Interactive tools for exploring datasets by country, year, and indicator.
+- [Charts](https://ourworldindata.org/charts): Direct access to individual charts and downloadable visualizations.
+- [Data Catalog](https://ourworldindata.org/data): Entry point for datasets and data-related resources on the site.
+- [How We Build Our Charts](https://ourworldindata.org/research-and-writing): Methodological overview of chart production and editorial workflow.
+- [Licenses](https://ourworldindata.org/licensing): Terms for reusing charts, articles, and data from the site.
+- [Privacy Policy](https://ourworldindata.org/privacy-policy): Information on data collection, cookies, and privacy practices.
+
+## Organization & Support
+
+- [About](https://ourworldindata.org/about): Mission, history, institutional home, and organizational overview.
+- [Team](https://ourworldindata.org/team): Staff, researchers, editors, and contributors behind the project.
+- [Jobs](https://ourworldindata.org/jobs): Open roles and hiring information for joining the organization.
+- [Donate](https://ourworldindata.org/donate): Support the project’s research, data work, and public goods mission.
+- [FAQs](https://ourworldindata.org/faqs): Answers to common questions about data, methods, and the organization.
+- [Contact](https://ourworldindata.org/contact): Ways to reach the team for media, research, and general questions.

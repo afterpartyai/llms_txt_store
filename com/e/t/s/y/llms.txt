@@ -1,30 +1,80 @@
 # Etsy
+> Etsy is a global marketplace for handmade, vintage, and craft supply goods, with seller tools, buyer help, and developer APIs.
 
-> Etsy is a global marketplace platform providing API access for developers and comprehensive buyer protection policies.
+Etsy serves buyers, independent sellers, and developers. Its public resources span marketplace help, shop management guidance, payments and shipping policies, trust and safety information, and an Open API for building integrations with Etsy shops and listings.
 
-Etsy offers both a developer portal with Open API v3 documentation for building integrations, and detailed information on purchase protection, refund policies, and dispute resolution for buyers. The platform emphasizes marketplace tools and shopping safety across its ecosystem.
+## Developer Platform
+- [Developers](https://www.etsy.com/developers): Entry point for Etsy's developer platform, apps, and Open API resources.
+- [Open API v3](https://developers.etsy.com/documentation/): Main documentation for Etsy's current public API.
+- [Getting Started](https://developers.etsy.com/documentation/getting-started): Overview of authentication, app setup, and first API calls.
+- [API Reference](https://developers.etsy.com/documentation/reference): Endpoint reference for shops, listings, receipts, and more.
+- [Authentication](https://developers.etsy.com/documentation/essentials/authentication): OAuth authentication requirements for Etsy API integrations.
+- [Rate Limits](https://developers.etsy.com/documentation/essentials/rate-limits): Usage limits and request throttling guidance for API clients.
+- [API Policies](https://developers.etsy.com/documentation/essentials/policies): Rules and requirements for using Etsy developer APIs.
 
-## Key Topics
+## Seller Handbook
+- [Seller Handbook](https://www.etsy.com/seller-handbook): Central hub for articles on running and growing an Etsy shop.
+- [Getting Started on Etsy](https://www.etsy.com/seller-handbook/article/getting-started-on-etsy/228961413635): Introductory guidance for opening and setting up a shop.
+- [How to Open an Etsy Shop](https://www.etsy.com/seller-handbook/article/how-to-open-an-etsy-shop/244277995176): Step-by-step instructions for creating a new Etsy shop.
+- [Fees and Payments](https://www.etsy.com/seller-handbook/article/understanding-fees-on-etsy/22721885775): Overview of common Etsy seller fees and charges.
+- [Search Visibility](https://www.etsy.com/seller-handbook/article/the-ultimate-guide-to-etsy-search/366469415790): Guidance on Etsy search ranking and listing optimization.
+- [Shipping Tips](https://www.etsy.com/seller-handbook/article/etsy-shipping-tips/22418327379): Practical advice for shipping orders efficiently.
+- [Marketing Your Shop](https://www.etsy.com/seller-handbook/article/how-to-market-your-etsy-shop/22418327371): Tips for promoting products and attracting buyers.
 
-- Etsy API
-- Open API v3
-- Developer Portal
-- API Documentation
-- Getting Started
-- Marketplace Tools
-- Purchase Protection
-- Buyer Protection
-- Buyer Guarantee
-- Refund Policy
-- Dispute Resolution
-- Shopping Safety
-- Case Process
-- Community
+## Seller Help
+- [Seller Help Center](https://help.etsy.com/hc/en-us/categories/360000067247-Selling-on-Etsy): Help articles for managing an Etsy shop.
+- [Shop Manager](https://help.etsy.com/hc/en-us/articles/115015663107): Overview of Etsy's seller dashboard and management tools.
+- [Listings](https://help.etsy.com/hc/en-us/sections/360000067688-Listings): Help for creating, editing, and renewing listings.
+- [Orders and Shipping](https://help.etsy.com/hc/en-us/sections/360000067708-Orders-Shipping): Seller guidance for fulfilling orders and shipping.
+- [Etsy Ads](https://help.etsy.com/hc/en-us/sections/360000067928-Marketing-and-Promotions): Resources for ads, sales, and promotions tools.
+- [Star Seller](https://help.etsy.com/hc/en-us/articles/4403058372503): Explanation of Etsy's Star Seller program and criteria.
 
-## API & Developer Resources
+## Buying on Etsy
+- [Buying on Etsy](https://help.etsy.com/hc/en-us/categories/360000066228-Buying-on-Etsy): Buyer help articles for shopping, orders, and accounts.
+- [How to Buy on Etsy](https://help.etsy.com/hc/en-us/articles/115015565027): Basics of purchasing items on Etsy.
+- [Your Orders](https://help.etsy.com/hc/en-us/articles/115015440587): How buyers can view and manage purchases.
+- [Guest Checkout](https://help.etsy.com/hc/en-us/articles/115015565027#h_01H8QXJ7QY4Q4M1Q5Q5Q5Q5Q5Q): Information related to purchasing without an Etsy account.
+- [Reviews](https://help.etsy.com/hc/en-us/articles/115015628847): How Etsy reviews work for buyers.
+- [Gift Cards](https://help.etsy.com/hc/en-us/articles/115015663367): Information on Etsy gift cards and gift balances.
 
-- [Developer Portal home](https://www.etsy.com/developers): Etsy API developer portal with Open API v3 documentation and tools
+## Payments, Fees, and Billing
+- [Etsy Payments](https://help.etsy.com/hc/en-us/articles/360000343268): Overview of Etsy Payments for sellers.
+- [Payment Account](https://help.etsy.com/hc/en-us/articles/115015628367): How seller payment accounts and balances work.
+- [Deposits and Schedules](https://help.etsy.com/hc/en-us/articles/360000337247): Information on deposit timing and payment schedules.
+- [Seller Fees](https://help.etsy.com/hc/en-us/articles/360035902374): Reference for Etsy seller fees.
+- [Taxes on Etsy](https://help.etsy.com/hc/en-us/sections/360000067888-Taxes): Help articles covering taxes and VAT topics.
+- [Billing and Finances](https://help.etsy.com/hc/en-us/sections/360000067868-Finances-and-billing): Seller billing and finance support resources.
 
-## Buyer Protection & Policies
+## Shipping and Fulfillment
+- [Shipping on Etsy](https://help.etsy.com/hc/en-us/categories/360000067708-Orders-Shipping): Seller shipping and fulfillment help.
+- [Shipping Labels](https://help.etsy.com/hc/en-us/articles/115015774228): How to purchase and print Etsy shipping labels.
+- [Shipping Profiles](https://help.etsy.com/hc/en-us/articles/115014115187): Managing shipping profiles for listings.
+- [Calculated Shipping](https://help.etsy.com/hc/en-us/articles/360000336307): Using calculated shipping for order pricing.
+- [Order Completion](https://help.etsy.com/hc/en-us/articles/115015521728): Marking orders complete and notifying buyers.
+- [Global Postal Shipping](https://help.etsy.com/hc/en-us/articles/360000336267): Information on international shipping options.
 
-- [Etsy Purchase Protection | Etsy](https://www.etsy.com/etsy-purchase-protection): Etsy Purchase Protection policy and buyer guarantee information
+## Trust, Safety, and Protection
+- [Etsy Purchase Protection](https://www.etsy.com/etsy-purchase-protection): Etsy's purchase protection program for eligible orders.
+- [Case System](https://help.etsy.com/hc/en-us/articles/360000344188): How cases work for buyers and sellers.
+- [House Rules](https://www.etsy.com/legal/etsy-house-rules): Core marketplace rules and conduct expectations.
+- [Terms of Use](https://www.etsy.com/legal/terms-of-use): Etsy's terms governing use of the marketplace.
+- [Privacy Policy](https://www.etsy.com/legal/privacy): Etsy's privacy policy and data practices.
+- [Prohibited Items Policy](https://www.etsy.com/legal/prohibited): Rules on items that cannot be sold on Etsy.
+- [Intellectual Property Policy](https://www.etsy.com/legal/ip): Etsy's policy for copyright and trademark issues.
+
+## Legal and Policy Center
+- [Legal](https://www.etsy.com/legal): Central index of Etsy legal terms and policies.
+- [Seller Policy](https://www.etsy.com/legal/sellers): Rules and expectations for Etsy sellers.
+- [Payments Policy](https://www.etsy.com/legal/etsy-payments): Terms governing Etsy Payments services.
+- [Fees Policy](https://www.etsy.com/legal/fees): Official policy describing Etsy marketplace fees.
+- [Advertising and Marketing Policy](https://www.etsy.com/legal/advertising): Rules for Etsy advertising and marketing services.
+- [Offsite Ads Policy](https://www.etsy.com/legal/fees#offsite-ads): Policy details for Etsy Offsite Ads charges.
+- [Community Policy](https://www.etsy.com/legal/community): Standards for participation in Etsy community spaces.
+
+## Help Center and Support
+- [Help Center](https://help.etsy.com/hc/en-us): Main support portal for Etsy buyers and sellers.
+- [Contact Support](https://help.etsy.com/hc/en-us/requests/new): Support request form for Etsy help inquiries.
+- [Account and Settings](https://help.etsy.com/hc/en-us/categories/360000066248-Your-Etsy-Account): Help for account access, settings, and security.
+- [Technical Issues](https://help.etsy.com/hc/en-us/categories/360000066268-Technical-Issues): Troubleshooting for site and app problems.
+- [Report an Issue](https://help.etsy.com/hc/en-us/articles/360000344568): Guidance for reporting problems with orders or accounts.
+- [Community](https://community.etsy.com/): Etsy community forums and discussion spaces.

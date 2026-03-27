@@ -1,52 +1,112 @@
-# Internal Revenue Service (IRS)
+# Internal Revenue Service
+> The official U.S. federal tax administration website for filing, paying, getting refunds, accessing forms, and meeting tax obligations.
 
-> The IRS provides comprehensive federal tax filing, payment, refund tracking, and compliance resources for individuals, businesses, nonprofits, and international taxpayers.
+IRS.gov provides authoritative tax guidance, tools, forms, account access, and compliance resources for individuals, businesses, tax professionals, exempt organizations, government entities, and international taxpayers.
 
-The IRS website serves as the official U.S. government portal for tax administration, offering tools like Where's My Refund, IRS Free File, Your Account dashboard, and the Document Upload Tool. The site maintains multilingual support in Spanish, Simplified Chinese, Traditional Chinese, Korean, Russian, Vietnamese, and Haitian Creole to serve diverse taxpayer populations.
+## Core Services
+- [IRS home](https://www.irs.gov/): Main portal for tax filing, payments, refunds, forms, and taxpayer assistance.
+- [Your account](https://www.irs.gov/your-account): Access IRS online accounts for individuals, businesses, and tax professionals.
+- [Let us help you](https://www.irs.gov/help/let-us-help-you): Help hub for common tax questions, tools, and support options.
+- [Forms, instructions and publications](https://www.irs.gov/forms-instructions): Browse and search official IRS tax forms, instructions, and publications.
+- [Get transcript](https://www.irs.gov/individuals/get-transcript): Request or view tax return and account transcripts online.
+- [Where's my refund?](https://www.irs.gov/refunds): Check refund status and learn about refund timing and issues.
+- [Make a payment](https://www.irs.gov/payments): Pay taxes online and compare available payment methods.
 
-## Key Topics
+## Filing
+- [Filing overview](https://www.irs.gov/filing): Entry point for filing options, deadlines, and filing requirements.
+- [Individual tax filing](https://www.irs.gov/individual-tax-filing): Filing guidance for individual taxpayers, including returns, extensions, and credits.
+- [How to file](https://www.irs.gov/filing/individuals/how-to-file): Compare filing methods including e-file, Free File, and professional preparation.
+- [When to file](https://www.irs.gov/filing/individuals/when-to-file): Filing deadlines, extensions, and due date guidance for individuals.
+- [Where to file](https://www.irs.gov/filing/where-to-file-tax-returns-addresses-listed-by-return-type): Mailing addresses for paper returns by form and taxpayer type.
+- [Update your information](https://www.irs.gov/filing/individuals/update-my-information): Change address, name, withholding, and other taxpayer information.
+- [Free File](https://www.irs.gov/filing/irs-free-file-do-your-taxes-for-free): Free online tax preparation and filing options for eligible taxpayers.
+- [Amended returns](https://www.irs.gov/filing/file-an-amended-return): Guidance for correcting a previously filed tax return.
 
-- IRS Free File
-- Where's My Refund
-- Your Account
-- Form 1040
-- EIN (Employer Identification Number)
-- Tax Refunds
-- Identity Protection
-- FATCA (Foreign Account Tax Compliance Act)
-- ITIN
-- Tax Withholding
-- Amended Returns
-- Tax Forms
-- Taxpayer Assistance Center Locator
-- Document Upload Tool
-- Business Taxes
+## Payments, Refunds, and Credits
+- [Payments](https://www.irs.gov/payments): Overview of online, direct pay, card, installment, and other payment options.
+- [Direct Pay](https://www.irs.gov/payments/direct-pay): Pay directly from a bank account without fees.
+- [Online account for individuals](https://www.irs.gov/payments/your-online-account): View balances, payment history, and payment plan details.
+- [Payment plans](https://www.irs.gov/payments/payment-plans-installment-agreements): Apply for and manage IRS installment agreements.
+- [Refunds](https://www.irs.gov/refunds): Refund status tools, timing information, and common refund questions.
+- [Where's My Refund?](https://www.irs.gov/refunds/wheres-my-refund): Track the status of an individual income tax refund.
+- [Earned Income Tax Credit](https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit): Eligibility and claiming guidance for the EITC.
+- [Child Tax Credit](https://www.irs.gov/credits-deductions/individuals/child-tax-credit): Rules and guidance for claiming the child tax credit.
 
-## Individual Tax Filing
+## Individuals and Families
+- [Individuals](https://www.irs.gov/individuals): Tax information, tools, and topics for individual taxpayers.
+- [Get an identity protection PIN](https://www.irs.gov/identity-theft-fraud-scams/get-an-identity-protection-pin): Obtain an IP PIN to help protect against tax-related identity theft.
+- [Tax withholding estimator](https://www.irs.gov/individuals/tax-withholding-estimator): Estimate federal income tax withholding from paychecks.
+- [Retirement plans](https://www.irs.gov/retirement-plans): Tax information for IRAs, pensions, and retirement plan compliance.
+- [Interactive Tax Assistant](https://www.irs.gov/help/ita): Answer tax law questions through the IRS decision-support tool.
+- [Taxpayer Advocate Service](https://www.irs.gov/taxpayer-advocate): Independent help for unresolved IRS problems and systemic issues.
+- [Identity theft central](https://www.irs.gov/identity-theft-fraud-scams/identity-theft-central): Resources for reporting and resolving tax-related identity theft.
 
-- [Individual tax filing](https://www.irs.gov/individual-tax-filing): Form 1040 filing guide with deadlines, free options, and IP PIN info.
-- [Your account](https://www.irs.gov/your-account): IRS account portal for managing personal, business, and tax pro accounts.
-- [Let us help you](https://www.irs.gov/help/let-us-help-you): IRS help hub offering free tax assistance, tools, and local office finder.
+## Businesses and Self-Employed
+- [Businesses](https://www.irs.gov/businesses): Main hub for business taxes, employer responsibilities, and entity-specific guidance.
+- [Small businesses and self-employed](https://www.irs.gov/businesses/small-businesses-self-employed): Tax center for sole proprietors, contractors, and small employers.
+- [Employer ID numbers](https://www.irs.gov/businesses/small-businesses-self-employed/employer-id-numbers): Apply for and manage EINs for business entities.
+- [Employment taxes](https://www.irs.gov/businesses/small-businesses-self-employed/employment-taxes): Employer tax responsibilities for wages, withholding, and deposits.
+- [Business tax account](https://www.irs.gov/businesses/business-tax-account): Online account access for business tax information and filings.
+- [Corporations](https://www.irs.gov/businesses/corporations): Federal tax guidance for C corporations and related topics.
+- [Partnerships](https://www.irs.gov/businesses/partnerships): Filing and compliance information for partnership entities.
+- [Self-employed individuals tax center](https://www.irs.gov/businesses/small-businesses-self-employed/self-employed-individuals-tax-center): Tax obligations and deductions for self-employed taxpayers.
 
-## Business & Tax-Exempt Organizations
+## Charities, Nonprofits, and Government Entities
+- [Charities and nonprofits](https://www.irs.gov/charities-and-nonprofits): Guidance for tax-exempt organizations, filings, and compliance.
+- [Tax exempt organization search](https://www.irs.gov/charities-non-profits/search-for-tax-exempt-organizations): Search exempt organizations and review filing and status information.
+- [Annual exempt organization return: Form 990](https://www.irs.gov/forms-pubs/about-form-990): Information about Form 990 annual reporting requirements.
+- [Government entities](https://www.irs.gov/government-entities): Tax resources for federal, state, local, and tribal governments.
+- [Indian Tribal Governments](https://www.irs.gov/government-entities/indian-tribal-governments): Tax administration resources specific to tribal governments.
+- [Tax-exempt bonds](https://www.irs.gov/tax-exempt-bonds): Compliance and filing information for tax-exempt bond issuers.
 
-- [Businesses](https://www.irs.gov/businesses): Business tax resources including EIN, employment tax, and FATCA info.
-- [Charities and nonprofits](https://www.irs.gov/charities-and-nonprofits): Tax-exempt organization guidance on Form 990 filing and status.
+## International Taxpayers
+- [International taxpayers](https://www.irs.gov/individuals/international-taxpayers): Main hub for U.S. international individual tax issues.
+- [Foreign Account Tax Compliance Act](https://www.irs.gov/businesses/corporations/foreign-account-tax-compliance-act-fatca): FATCA compliance information and related resources.
+- [Individual taxpayer identification number](https://www.irs.gov/individuals/individual-taxpayer-identification-number): Apply for and renew an ITIN.
+- [Taxpayers living abroad](https://www.irs.gov/individuals/international-taxpayers/taxpayers-living-abroad): Filing and payment guidance for U.S. citizens and residents abroad.
+- [Withholding of tax on nonresident aliens](https://www.irs.gov/individuals/international-taxpayers/withholding-of-tax-on-nonresident-aliens-and-foreign-entities): Rules for withholding on nonresident aliens and foreign entities.
+- [Foreign earned income exclusion](https://www.irs.gov/individuals/international-taxpayers/foreign-earned-income-exclusion): Eligibility and rules for excluding foreign earned income.
 
-## International & Special Taxpayers
+## Tax Professionals
+- [Tax professionals](https://www.irs.gov/tax-professionals): Resources, tools, and guidance for preparers and practitioners.
+- [e-Services](https://www.irs.gov/e-services): Online tools for tax professionals and authorized users.
+- [PTIN requirements for tax return preparers](https://www.irs.gov/tax-professionals/ptin-requirements-for-tax-return-preparers): PTIN application, renewal, and compliance information.
+- [Electronic filing options for tax professionals](https://www.irs.gov/e-file-providers): IRS e-file resources for providers and preparers.
+- [Practitioner priority service](https://www.irs.gov/tax-professionals/practitioner-priority-service-r): Contact information and service details for practitioners.
+- [Tax pro account](https://www.irs.gov/tax-professionals/tax-pro-account): Online account access for authorized tax professionals.
 
-- [International taxpayers](https://www.irs.gov/individuals/international-taxpayers): International tax guidance for U.S. citizens abroad, FATCA, and ITIN.
+## Forms and Reference
+- [Forms, instructions and publications](https://www.irs.gov/forms-instructions): Central index of IRS forms, instructions, and publications.
+- [About Form 1040](https://www.irs.gov/forms-pubs/about-form-1040): Reference page for the individual income tax return.
+- [About Schedule C (Form 1040)](https://www.irs.gov/forms-pubs/about-schedule-c-form-1040): Profit or loss reporting for sole proprietorships.
+- [About Form W-4](https://www.irs.gov/forms-pubs/about-form-w-4): Employee withholding certificate instructions and updates.
+- [About Form W-9](https://www.irs.gov/forms-pubs/about-form-w-9): Request for taxpayer identification number and certification.
+- [About Form 941](https://www.irs.gov/forms-pubs/about-form-941): Employer's quarterly federal tax return reference page.
+- [About Form 1099-NEC](https://www.irs.gov/forms-pubs/about-form-1099-nec): Nonemployee compensation reporting requirements and instructions.
+- [About Publication 17](https://www.irs.gov/forms-pubs/about-publication-17): Federal income tax guide for individuals.
 
-## Multilingual Resources
+## News and Guidance
+- [Newsroom](https://www.irs.gov/newsroom): Official IRS news releases, tax tips, and announcements.
+- [IRS guidance in plain English](https://www.irs.gov/newsroom/irs-guidance-in-plain-english): Plain-language summaries of selected IRS guidance.
+- [Tax tips](https://www.irs.gov/newsroom/tax-tips): Short practical articles on common tax topics.
+- [News releases](https://www.irs.gov/newsroom/news-releases-for-current-month): Current official IRS announcements and updates.
+- [IRS videos](https://www.irs.gov/newsroom/irs-videos): Educational videos covering filing, payments, and taxpayer rights.
+- [Dirty Dozen tax scams](https://www.irs.gov/newsroom/dirty-dozen): Annual list of common tax scams and fraud warnings.
 
-- [Spanish language portal](https://www.irs.gov/es): IRS Spanish-language portal for tax filing and refund information.
-- [Simplified Chinese portal](https://www.irs.gov/zh-hans): IRS Simplified Chinese portal for tax help and EIN applications.
-- [Traditional Chinese portal](https://www.irs.gov/zh-hant): IRS Traditional Chinese portal for tax filing and identity protection.
-- [Korean language portal](https://www.irs.gov/ko): IRS Korean-language portal for tax filing and refund status.
-- [Russian language portal](https://www.irs.gov/ru): IRS Russian-language portal for tax payments and refund information.
-- [Vietnamese language portal](https://www.irs.gov/vi): IRS Vietnamese-language portal for tax filing and withholding.
-- [Haitian Creole portal](https://www.irs.gov/ht): IRS Haitian Creole portal for tax services and refund status.
+## Help, Tools, and Local Assistance
+- [Help](https://www.irs.gov/help): IRS help topics, tools, and support resources.
+- [Interactive Tax Assistant](https://www.irs.gov/help/ita): Self-service tool for answering common tax law questions.
+- [Taxpayer Assistance Center office locator](https://www.irs.gov/help/contact-your-local-irs-office): Find local IRS offices and appointment information.
+- [Document upload tool](https://www.irs.gov/help/irs-document-upload-tool): Securely upload requested documents to the IRS.
+- [Where to file paper tax returns](https://www.irs.gov/filing/where-to-file-paper-tax-returns-with-or-without-a-payment): Mailing addresses for paper returns with or without payment.
+- [Notices and letters](https://www.irs.gov/individuals/understanding-your-irs-notice-or-letter): Understand IRS notices and letters and how to respond.
+- [Taxpayer Bill of Rights](https://www.irs.gov/taxpayer-bill-of-rights): Overview of fundamental rights for all taxpayers.
 
-## Home
-
-- [IRS homepage](https://www.irs.gov): IRS homepage: Pay taxes, check refunds, find forms and tax help tools.
+## Languages
+- [Español](https://www.irs.gov/es): Spanish-language IRS portal for filing, payments, and tax help.
+- [中文 (简体)](https://www.irs.gov/zh-hans): Simplified Chinese IRS resources and taxpayer information.
+- [中文 (繁體)](https://www.irs.gov/zh-hant): Traditional Chinese IRS resources and taxpayer information.
+- [한국어](https://www.irs.gov/ko): Korean-language IRS tax information and services.
+- [Pусский](https://www.irs.gov/ru): Russian-language IRS tax information and services.
+- [Tiếng Việt](https://www.irs.gov/vi): Vietnamese-language IRS tax information and services.
+- [Kreyòl ayisyen](https://www.irs.gov/ht): Haitian Creole IRS tax information and services.

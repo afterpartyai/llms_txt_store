@@ -1,61 +1,36 @@
 # Elementor
+> Elementor is a visual WordPress website builder and managed hosting platform. It enables web creators to design responsive websites, landing pages, and online stores without writing code, while offering advanced CSS and styling controls for developers.
 
-> Elementor is an all-in-one WordPress website builder platform combining drag-and-drop design, AI-powered tools, hosting, and business solutions for creators, agencies, and enterprises.
+## Core Products & Themes
+- [Elementor Manage](https://elementor.com/products/manage/): The central dashboard for managing Elementor websites and subscriptions.
+- [Elementor Themes](https://elementor.com/themes/): The official repository of Elementor-compatible WordPress themes.
+- [Hello Theme](https://elementor.com/themes/hello-theme/): Elementor's lightweight, blank-canvas WordPress theme designed for optimal performance.
+- [Hello Biz](https://elementor.com/themes/hello-biz/): A business-focused variation of the Hello Theme.
 
-Elementor provides a comprehensive ecosystem for building and managing WordPress websites, from visual page editing and AI content generation to managed hosting, domain registration, and multi-site management. The platform serves individual creators, agencies, and enterprises with scalability and collaboration features.
+## Features & Developer Roadmap
+- [Variables Manager](https://elementor.com/roadmap/variables-manager/): Manage global design tokens and CSS variables across your website.
+- [Custom CSS](https://elementor.com/roadmap/custom-css-2/): Advanced controls for adding custom CSS directly to widgets and pages.
+- [Nested Tabs](https://elementor.com/roadmap/nested-tabs-2/): Create complex layouts by placing widgets inside of tabbed content areas.
+- [Blend Mode](https://elementor.com/roadmap/blend-mode/): Apply Photoshop-like blend modes to backgrounds and elements.
+- [Interactions](https://elementor.com/roadmap/interactions/): Build complex scroll and mouse-tracking animations.
 
-## Key Topics
+## Add-ons & Integrations
+- [Element Pack Pro](https://elementor.com/addons/element-pack-pro/): A premium library of advanced widgets and templates for Elementor.
+- [Essential Addons](https://elementor.com/addons/essential-addons/): A popular suite of creative elements and extensions.
+- [Image Optimizer by Elementor](https://elementor.com/addons/image-optimizer-by-elementor/): Native tool to compress and serve web-optimized images.
+- [WP Umbrella](https://elementor.com/addons/wp-umbrella/): Integration for bulk WordPress site management and monitoring.
+- [Site Mailer](https://elementor.com/addons/site-mailer/): Email delivery and SMTP management tool.
 
-- WordPress
-- Drag-and-drop editor
-- AI Site Planner
-- Elementor One
-- WooCommerce
-- AI Copilot
-- Core Web Vitals
-- Managed hosting
-- Website builder
-- Performance optimization
-- Web accessibility
-- Multi-site management
-- Agency solutions
-- Enterprise scalability
-- Theme Builder
+## Competitor Comparisons
+- [Elementor vs. Hostinger vs. BlueHost](https://elementor.com/comparison/elementor-hosting-vs-hostinger-vs-bluehost/): A detailed breakdown comparing Elementor's managed hosting against traditional hosting providers.
+- [Elementor vs. BlueHost](https://elementor.com/comparison/bluehost/): Comparison of features, speed, and pricing.
+- [Elementor vs. Hostinger](https://elementor.com/comparison/hostinger/): Evaluation of Elementor's built-in hosting versus Hostinger.
 
-## Core Products & Platform
+## Professional Services (German / DACH Region)
+- [Responsive Design Setup](https://elementor.com/service/responsive-design-setup/): Professional setup for mobile-responsive web design (Einrichtung des responsiven Designs).
+- [Landing Page Creation](https://elementor.com/service/landing-page-creation/): Custom landing page design services (Landing Page Erstellung).
+- [Priority Site Migration](https://elementor.com/service/priority-site-migration/): VIP service for migrating existing websites to Elementor Hosting.
+- [Expert Consultation](https://elementor.com/service/consultation-with-an-expert/): One-on-one consulting with an Elementor expert.
 
-- [Website builder: Create a Website Now | Elementor](https://elementor.com): Elementor homepage: free website builder with AI Site Planner and drag-and-drop editor
-- [Editor: Website Builder for WordPress: 21M+ sites | Elementor](https://elementor.com/products/website-builder): Elementor Editor WordPress plugin: drag-and-drop builder with design tools and optimization
-- [One | Elementor](https://elementor.com/one): Elementor One subscription plan with all-in-one platform, AI integration, and credits system
-- [AI website builder for WordPress | Elementor](https://elementor.com/products/ai): Elementor AI: AI-powered WordPress website builder with AI Copilot and content generation
-- [AI Site Planner: generate sitemaps & wireframes in minutes](https://elementor.com/ai-site-planner): AI Site Planner: AI-generated sitemaps, wireframes, and briefs for web design workflow
-
-## Specialized Builders & Commerce
-
-- [Builder for WooCommerce: Design a store that sells](https://elementor.com/ecommerce-builder): Elementor WooCommerce builder: visual store design with product pages and checkout customization
-- [The best themes for WordPress websites | Elementor](https://elementor.com/themes): Elementor WordPress themes including Hello and Hello Biz lightweight theme options
-- [Angie: AI for WordPress creation & management | Elementor](https://elementor.com/products/angie-ai-for-wordpress): Angie: free AI tool for WordPress with custom widgets and natural language automation
-
-## Performance & Optimization
-
-- [Speed Performance | Elementor](https://elementor.com/speed-performance): Elementor speed performance: Core Web Vitals optimization with caching and lazy loading
-- [Image Optimizer: PNG, JPG & GIFs, convert to WebP & AVIF](https://elementor.com/products/image-optimizer): Image Optimizer: compress and convert images to WebP/AVIF for WordPress site speed
-- [Ally: Web accessibility plugin for WordPress | Elementor](https://elementor.com/products/ally-web-accessibility): Ally: AI-powered WordPress accessibility plugin for WCAG 2.1 AA compliance
-
-## Hosting & Domain Management
-
-- [Hosting for WordPress: ultra fast, cloud, managed & secure](https://elementor.com/hosting): Elementor hosting: managed WordPress hosting powered by Google Cloud and Cloudflare CDN
-- [Buy a Domain Name | Register domain names with Elementor](https://elementor.com/domains): Domain registration and management with Elementor hosting integration
-- [Connect your domain to a website | Elementor](https://elementor.com/help/connect-your-domain-to-a-website): Guide: connect domain to Elementor website with DNS configuration and setup
-
-## Business Tools & Management
-
-- [Manage multiple WordPress sites from one dashboard](https://elementor.com/products/manage): Elementor Manage: centralized dashboard for multi-site management and bulk updates
-- [Site Mailer: SMTP replacement, email deliverability & logs](https://elementor.com/products/site-mailer): Site Mailer: SMTP replacement with email tracking, logs, and high deliverability
-
-## Solutions & Pricing
-
-- [Website builder for agencies | Elementor](https://elementor.com/solutions/agency): Elementor for agencies: design systems, collaboration tools, and site management
-- [Website builder for enterprises | Elementor](https://elementor.com/solutions/enterprise): Elementor for enterprises: security, governance, scalability for global teams
-- [Website builder for enterprises | Elementor](https://elementor.com/solutions/enterprises): Elementor for enterprises: team collaboration, governance, security, and scalability
-- [Elementor Website Builder Pricing Plans | Choose Your Plan](https://elementor.com/pricing): Elementor pricing plans from $49/year with feature comparison and subscription tiers
+## Interface Elements (Floating Buttons)
+- [Floating Button Templates](https://elementor.com/e-floating-buttons/): A collection of pre-designed floating action buttons (FABs) for contact forms, chat, and navigation.

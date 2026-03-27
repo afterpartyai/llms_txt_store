@@ -1,43 +1,80 @@
 # Miro
 
-> Miro is an intelligent collaborative workspace platform that combines AI-powered workflows, team collaboration tools, and business solutions to transform how teams work together.
+> Miro is an AI-powered visual collaboration workspace for planning, designing, building, and aligning teams from idea to launch.
 
-Miro provides a suite of products designed for modern teams including AI Workflows for process automation, customer journey mapping, design workshops, and leadership solutions. The platform emphasizes collaborative AI integration and process optimization across organizations.
+Miro combines online whiteboarding, diagramming, workshops, product planning, and enterprise collaboration in a shared workspace. Its site includes product overviews, templates, solutions, developer resources, help documentation, and customer stories.
 
-## Key Topics
+## Product Platform
+- [Miro homepage](https://miro.com/): Overview of Miro’s AI-powered workspace for collaboration, planning, and product development.
+- [Miro AI](https://miro.com/ai/): Product hub for AI-powered features that assist ideation, synthesis, and content generation.
+- [Intelligent Canvas](https://miro.com/intelligent-canvas/): Overview of Miro’s canvas capabilities for visual collaboration and structured teamwork.
+- [Online whiteboard](https://miro.com/online-whiteboard/): Core whiteboarding product for brainstorming, workshops, and team collaboration.
+- [Talktrack](https://miro.com/talktrack/): Async video walkthroughs embedded in boards for communication and stakeholder updates.
+- [Templates](https://miro.com/templates/): Library of ready-made templates for workshops, planning, mapping, and retrospectives.
 
-- AI Workflows
-- Collaborative AI
-- Process Automation
-- Customer Journey Mapping
-- Design Workshops
-- Team Collaboration
-- AI Integration
-- Business Operations
-- Leadership Strategy
-- Canvas 2026
-- Intelligent Workspace
-- Workflow Automation
-- Team Productivity
-- Innovation
-- Multi-city Conference
+## Use Cases
+- [Brainstorming](https://miro.com/use-cases/brainstorming/): Visual ideation workflows for generating, organizing, and refining team ideas.
+- [Diagramming](https://miro.com/use-cases/diagramming/): Create flowcharts, system diagrams, and process visuals collaboratively.
+- [Mind mapping](https://miro.com/use-cases/mind-map/): Organize concepts and relationships visually for planning and discovery.
+- [Agile workflows](https://miro.com/use-cases/agile-workflows/): Support sprint planning, retrospectives, and agile team ceremonies.
+- [Customer journey mapping](https://miro.com/use-cases/customer-journey-mapping/): Map customer experiences, touchpoints, and pain points collaboratively.
+- [Strategic planning](https://miro.com/use-cases/strategic-planning/): Align teams around goals, initiatives, and planning frameworks.
 
-## AI Products & Platform
+## Solutions
+- [Product development](https://miro.com/solutions/product-development/): Coordinate product strategy, discovery, planning, and delivery in one workspace.
+- [UX and design](https://miro.com/solutions/ux-design/): Support research, wireframing, journey maps, and design collaboration.
+- [Engineering](https://miro.com/solutions/engineering/): Visualize architecture, workflows, and technical planning across engineering teams.
+- [IT teams](https://miro.com/solutions/it/): Improve process mapping, systems planning, and cross-functional IT collaboration.
+- [Marketing](https://miro.com/solutions/marketing/): Plan campaigns, messaging, and team workflows visually.
+- [Consulting](https://miro.com/solutions/consulting/): Facilitate client workshops, alignment sessions, and transformation initiatives.
 
-- [Miro AI Workflows](https://miro.com/products/ai-workflows): Automate processes from brainstorms to scalable standards using AI-powered workflow automation
-- [Miro Collaborative AI Workspace](https://miro.com/ai/your-ai): Connect AI models and boost team productivity through collaborative AI integration
-- [AI Playbooks](https://miro.com/ai-playbooks): Comprehensive guide for AI workflows, planning, and process transformation strategies
+## Enterprise
+- [Miro Enterprise](https://miro.com/enterprise/): Enterprise-grade security, governance, scalability, and administration for large organizations.
+- [Security](https://miro.com/security/): Security practices, controls, and trust information for the Miro platform.
+- [Trust Center](https://miro.com/trust/): Central resource for compliance, privacy, security, and reliability information.
+- [Admin and governance](https://miro.com/enterprise/admin-and-governance/): Administrative controls and governance capabilities for enterprise deployments.
+- [Single sign-on](https://miro.com/enterprise/sso/): Authentication and identity management support for secure enterprise access.
+- [Pricing](https://miro.com/pricing/): Plan comparison for Free, Starter, Business, and Enterprise offerings.
 
-## Core Products
+## Developers
+- [Miro Developer Platform](https://developers.miro.com/): Entry point for APIs, SDKs, app development, and platform capabilities.
+- [Developer documentation](https://developers.miro.com/docs/): Main documentation hub for building on the Miro platform.
+- [REST API reference](https://developers.miro.com/reference/overview): Reference for Miro REST API endpoints, objects, and operations.
+- [Web SDK](https://developers.miro.com/docs/web-sdk-reference): Client-side SDK reference for interacting with boards and apps.
+- [OAuth guide](https://developers.miro.com/docs/getting-started-with-oauth): Guide to authenticating apps with OAuth on Miro.
+- [App manifest](https://developers.miro.com/docs/app-manifest): Configuration reference for defining Miro app metadata and permissions.
+- [Developer changelog](https://developers.miro.com/changelog): Updates and release notes for platform and API changes.
 
-- [Customer Journey Mapping Tools](https://miro.com/products/customer-journeys): AI-powered customer journey mapping and pain point analysis for teams
-- [Design Workshop Tools](https://miro.com/products/design-workshops): Collaborative problem-solving tool that accelerates team decisions through AI-powered workshops
+## Help Center
+- [Help Center](https://help.miro.com/hc/en-us): Support hub for product documentation, troubleshooting, and account management.
+- [Getting started](https://help.miro.com/hc/en-us/categories/360001892754-Getting-started): Introductory articles for new users setting up and using Miro.
+- [Boards and objects](https://help.miro.com/hc/en-us/categories/360001892774-Boards-and-objects): Documentation for board content, editing tools, and object behavior.
+- [Templates and workshops](https://help.miro.com/hc/en-us/categories/360001892794-Templates-and-workshops): Guidance for using templates and facilitating collaborative sessions.
+- [Plans and billing](https://help.miro.com/hc/en-us/categories/360001892814-Plans-and-billing): Articles about subscriptions, billing, and plan administration.
+- [Admins and security](https://help.miro.com/hc/en-us/categories/360001892834-Admins-and-security): Help content for permissions, governance, and security settings.
+- [Miro AI help](https://help.miro.com/hc/en-us/sections/14155392200082-Miro-AI): Support articles covering AI features and usage in Miro.
 
-## Business Solutions
+## Templates and Frameworks
+- [Kanban Framework Template](https://miro.com/templates/kanban-framework/): Template for visualizing work, tracking progress, and managing flow.
+- [User Story Map Template](https://miro.com/templates/user-story-map/): Organize product requirements and user journeys into prioritized stories.
+- [Customer Journey Map Template](https://miro.com/templates/customer-journey-map/): Map customer interactions, emotions, and opportunities across touchpoints.
+- [Mind Map Template](https://miro.com/templates/mind-map/): Structure ideas visually for brainstorming, planning, and synthesis.
+- [Retrospective Template](https://miro.com/templates/retrospective/): Run team retrospectives with structured prompts and collaborative reflection.
+- [Flowchart Template](https://miro.com/templates/flowchart/): Build process diagrams and decision flows with standard flowchart elements.
+- [SWOT Analysis Template](https://miro.com/templates/swot-analysis/): Evaluate strengths, weaknesses, opportunities, and threats collaboratively.
 
-- [Leadership Solution](https://miro.com/solutions/leadership): AI strategy workspace for executive teams including portfolio management and goal tracking
-- [Business Operations Solution](https://miro.com/solutions/business-operations): Process optimization and bottleneck analysis for smart operations management
+## Learning and Resources
+- [Miro Blog](https://miro.com/blog/): Articles on collaboration, product development, facilitation, and visual work.
+- [Webinars](https://miro.com/webinars/): Live and on-demand sessions about product usage and team practices.
+- [Events](https://miro.com/events/): Company and community events for learning and product updates.
+- [Customer stories](https://miro.com/customers/): Case studies showing how organizations use Miro across teams.
+- [Miroverse](https://miro.com/miroverse/): Community gallery of templates, examples, and inspiration from Miro users.
+- [Academy](https://academy.miro.com/): Training courses and learning paths for using Miro effectively.
 
-## Events & Community
-
-- [Canvas 2026 Conference](https://canvas.miro.com): Multi-city innovation summit with registration in San Francisco, London, Sydney, and Tokyo
+## Company
+- [About Miro](https://miro.com/about/): Company overview, mission, and background information.
+- [Careers](https://miro.com/careers/): Open roles, hiring information, and workplace details.
+- [Newsroom](https://miro.com/newsroom/): Press releases, announcements, and media resources.
+- [Contact sales](https://miro.com/contact-sales/): Sales inquiry page for teams evaluating Miro.
+- [Partners](https://miro.com/partners/): Information for technology, services, and channel partners.
+- [Legal](https://miro.com/legal/): Legal policies, terms, privacy, and compliance documents.

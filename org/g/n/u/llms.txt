@@ -1,63 +1,99 @@
 # GNU.org
+> Official home of the GNU Project and the Free Software Movement, promoting software freedom and developing the GNU operating system.
 
-> GNU.org is the official home of the Free Software Foundation and GNU Project, dedicated to promoting software freedom, the four essential freedoms, and building free operating systems and software.
+GNU.org is the primary source for GNU software, free software philosophy, licensing guidance, project history, manuals, package directories, and ways to participate in the GNU community.
 
-GNU.org serves as the central hub for the GNU Project and Free Software Movement, offering comprehensive resources on free software philosophy, licensing, software packages, and GNU/Linux distributions. The site emphasizes user freedom, copyleft principles, and community contribution to free and open-source software development.
+## Start Here
+- [The GNU Operating System and the Free Software Movement](https://www.gnu.org/): GNU homepage introducing the project, free software, and key site sections.
+- [About GNU](https://www.gnu.org/gnu/gnu.html): Overview of the GNU operating system, its goals, and its history.
+- [What is GNU?](https://www.gnu.org/gnu/thegnuproject.html): Introductory explanation of the GNU Project and its mission.
+- [What is Free Software?](https://www.gnu.org/philosophy/free-sw.html): Defines free software through the four essential freedoms.
+- [What is the Free Software Movement?](https://www.gnu.org/philosophy/free-software-even-more-important.html): Explains the social and ethical goals behind software freedom.
+- [GNU Manifesto](https://www.gnu.org/gnu/manifesto.html): Richard Stallman’s original statement of purpose for the GNU Project.
 
-## Key Topics
+## GNU Project and History
+- [The GNU Project](https://www.gnu.org/gnu/thegnuproject.html): Background on GNU’s development, organization, and long-term objectives.
+- [Initial Announcement](https://www.gnu.org/gnu/initial-announcement.html): The 1983 announcement describing the plan to build GNU.
+- [GNU Manifesto](https://www.gnu.org/gnu/manifesto.html): Foundational essay describing why GNU was created.
+- [GNU and Linux](https://www.gnu.org/gnu/linux-and-gnu.html): Explains the relationship between GNU and the Linux kernel.
+- [GNU Name and Logo](https://www.gnu.org/graphics/agnuhead.html): Information about GNU’s name, symbolism, and visual identity.
+- [GNU Timeline](https://www.gnu.org/gnu/gnu-history.html): Historical milestones in the GNU Project and free software movement.
 
-- Free Software
-- GNU Project
-- GNU/Linux
-- Free Software Foundation (FSF)
-- Software Freedom
-- Four Essential Freedoms
-- Copyleft
-- GPL Licenses
-- Richard Stallman
-- Free Software Movement
-- User Freedom
-- Open Source
-- GNU Philosophy
-- Linux Distributions
-- Software Philosophy
+## Philosophy and Free Software
+- [Philosophy of the GNU Project](https://www.gnu.org/philosophy/philosophy.html): Central index of essays on freedom, ethics, and software policy.
+- [What is Free Software?](https://www.gnu.org/philosophy/free-sw.html): Canonical definition of free software and user freedoms.
+- [Why Open Source Misses the Point](https://www.gnu.org/philosophy/open-source-misses-the-point.html): Distinguishes free software values from open source framing.
+- [Free Software Is Even More Important Now](https://www.gnu.org/philosophy/free-software-even-more-important.html): Modern argument for software freedom in everyday computing.
+- [Copyleft](https://www.gnu.org/copyleft/copyleft.html): Overview of copyleft and how it preserves software freedom.
+- [Words to Avoid](https://www.gnu.org/philosophy/words-to-avoid.html): Preferred terminology for discussing free software accurately.
+- [Can You Trust Your Computer?](https://www.gnu.org/philosophy/can-you-trust.html): Essay on digital restrictions, control, and user autonomy.
+- [The Free Software Definition](https://www.gnu.org/philosophy/free-sw.en.html): English version of the formal free software definition.
 
-## Core GNU Project
+## Licenses and Compliance
+- [Licenses](https://www.gnu.org/licenses/licenses.html): Main guide to GNU licenses, compatibility, and licensing resources.
+- [GNU General Public License](https://www.gnu.org/licenses/gpl.html): Overview and links for the GNU GPL.
+- [GNU Affero General Public License](https://www.gnu.org/licenses/agpl.html): Overview of the GNU AGPL for network server software.
+- [GNU Lesser General Public License](https://www.gnu.org/licenses/lgpl.html): Overview of the GNU LGPL for libraries.
+- [Frequently Asked Questions about the GNU Licenses](https://www.gnu.org/licenses/gpl-faq.html): Detailed answers on GPL, LGPL, and AGPL usage.
+- [License Compatibility and Relicensing](https://www.gnu.org/licenses/license-compatibility.html): Guidance on combining code under different free licenses.
+- [How to Use GNU Licenses for Your Own Software](https://www.gnu.org/licenses/license-recommendations.html): Recommendations for choosing and applying GNU licenses.
+- [Violation Reports](https://www.gnu.org/licenses/gpl-violation.html): Information on reporting possible GPL and LGPL violations.
 
-- [The GNU Operating System and the Free Software Movement](https://www.gnu.org): GNU project homepage defining free software movement and operating system.
-- [About the GNU Operating System](https://www.gnu.org/gnu/gnu.html): Overview of GNU operating system history and project structure.
-- [Software](https://www.gnu.org/software/software.html): Directory of GNU software packages and getting started guide.
+## GNU Software Directory
+- [GNU Software](https://www.gnu.org/software/software.html): Main directory of GNU packages and software categories.
+- [GNU Packages by Name](https://www.gnu.org/software/software.html#allgnupkgs): Alphabetical list of GNU software packages.
+- [GNU Package List](https://www.gnu.org/software/package-list.html): Structured package index with maintainership and status details.
+- [GNU Alpha Releases](https://www.gnu.org/software/alpha/): GNU packages currently in alpha development.
+- [GNU Download Area](https://ftp.gnu.org/gnu/): Official FTP archive for GNU source releases and distributions.
+- [Savannah](https://savannah.gnu.org/): GNU’s primary forge for source hosting, issue tracking, and collaboration.
+- [GNU Packages on Savannah](https://savannah.gnu.org/search/?type_of_search=soft&words=GNU&exact=0): Search interface for hosted GNU-related software projects.
 
-## Philosophy and Freedoms
+## Manuals and Documentation
+- [Documentation of the GNU Project](https://www.gnu.org/doc/doc.html): Central hub for GNU manuals, books, and documentation resources.
+- [GNU Manuals Online](https://www.gnu.org/manual/manual.html): Index of official GNU manuals available on the web.
+- [GNU Documentation License](https://www.gnu.org/licenses/fdl-1.3.html): Full text of the GNU Free Documentation License.
+- [GNU Documentation Resources](https://www.gnu.org/doc/other-free-books.html): Collection of free books and documentation related to GNU.
+- [GNU Texinfo](https://www.gnu.org/software/texinfo/): Documentation system used by many GNU manuals.
+- [GNU Standards](https://www.gnu.org/prep/standards/): Coding, packaging, and documentation standards for GNU packages.
 
-- [Philosophy of the GNU Project](https://www.gnu.org/philosophy/philosophy.html): GNU project philosophy covering four essential freedoms and copyleft.
-- [What is Free Software?](https://www.gnu.org/philosophy/free-sw.html): Definition of free software and the four essential freedoms.
-- [Proprietary Software](https://www.gnu.org/proprietary/proprietary.html): Analysis of proprietary software issues and free software advocacy.
+## Distributions and System Freedom
+- [GNU/Linux and GNU](https://www.gnu.org/gnu/linux-and-gnu.html): Why GNU-based systems are often called GNU/Linux.
+- [GNU/Linux Distros](https://www.gnu.org/distros/distros.html): Introduction to GNU/Linux distributions and GNU’s position on them.
+- [Free GNU/Linux Distributions](https://www.gnu.org/distros/free-distros.html): List of endorsed distributions that respect user freedom.
+- [Why Not Recommend Other Systems?](https://www.gnu.org/distros/common-distros.html): Explains why commonly used distributions are not endorsed.
+- [Free System Distribution Guidelines](https://www.gnu.org/distros/free-system-distribution-guidelines.html): Criteria for systems seeking GNU endorsement.
+- [GNU Packages in Debian](https://www.gnu.org/distros/common-distros.html): Context on distribution freedom issues and package inclusion.
 
-## Licensing and Legal
+## Education, Advocacy, and Campaigns
+- [Education](https://www.gnu.org/education/education.html): Resources on using and teaching free software in education.
+- [Take Action](https://www.gnu.org/help/help.html): Practical ways to support GNU and the free software movement.
+- [Help GNU](https://www.gnu.org/help/help.html): Volunteer, donate, translate, test, and advocate for GNU.
+- [Audio and Video](https://www.gnu.org/audio-video/audio-video.html): Talks, interviews, and recordings about GNU and free software.
+- [GNU Kind Communications Guidelines](https://www.gnu.org/philosophy/kind-communication.html): Guidance for respectful communication in free software communities.
+- [Malware in Proprietary Software](https://www.gnu.org/proprietary/proprietary.html): Catalog of harmful features found in proprietary software.
+- [Defective by Design](https://www.defectivebydesign.org/): Campaign against DRM and digital restrictions, closely aligned with GNU values.
 
-- [Licenses](https://www.gnu.org/licenses/licenses.html): GNU licensing guide covering GPL, LGPL, and license compatibility.
+## Development and Contribution
+- [How to Help GNU](https://www.gnu.org/help/help.html): Entry point for contributors, volunteers, and supporters.
+- [GNU’s Who?](https://www.gnu.org/people/): Directory of GNU maintainers, volunteers, and contributors.
+- [GNU Maintainers Resources](https://www.gnu.org/help/evaluation.html): Information related to package evaluation and GNU inclusion.
+- [GNU Coding Standards](https://www.gnu.org/prep/standards/): Standards for GNU package development and maintenance.
+- [GNU Webmastering](https://www.gnu.org/server/standards/): Standards and guidance for GNU web pages and site maintenance.
+- [Translations](https://www.gnu.org/server/standards/translations/): Policies and practices for translating GNU web pages.
+- [Savannah Help](https://savannah.gnu.org/maintenance/UsingGIT): Guidance for using Savannah infrastructure and Git hosting.
 
-## GNU/Linux Distributions
+## News and Community
+- [Planet GNU](https://planet.gnu.org/): Aggregated blog posts and updates from GNU contributors and projects.
+- [GNU News](https://www.gnu.org/software/recent-releases.html): Recent GNU package releases and announcements.
+- [GNU Press Shop](https://shop.fsf.org/): Books and merchandise supporting free software advocacy.
+- [GNU Audio/Video Philosophy Recordings](https://www.gnu.org/audio-video/philosophy-recordings.html): Recordings focused on GNU philosophy and history.
+- [GNU Events](https://www.gnu.org/server/events.html): Information about GNU-related events and participation.
+- [GNU Mailing Lists](https://lists.gnu.org/): Mailing list service used by GNU projects and communities.
 
-- [GNU/Linux Distros](https://www.gnu.org/distros/distros.html): GNU/Linux distribution guidelines and recommendations.
-- [List of Free GNU/Linux Distributions](https://www.gnu.org/distros/free-distros.html): Endorsed GNU/Linux distributions meeting freedom guidelines.
-
-## Documentation and Resources
-
-- [Documentation of the GNU Project](https://www.gnu.org/doc/doc.html): Central documentation hub with manuals, guides, and contribution info.
-- [Free Software and Education](https://www.gnu.org/education/education.html): Resources on free software adoption in educational institutions.
-- [Audio/Video](https://www.gnu.org/audio-video/audio-video.html): GNU philosophy recordings, speeches, and hackers' meeting videos.
-- [Recordings about GNU Philosophy and History](https://www.gnu.org/audio-video/philosophy-recordings.html): Video and audio recordings on GNU philosophy and free software.
-
-## Community and Contribution
-
-- [Helping the GNU Project and the Free Software Movement](https://www.gnu.org/help/help.html): Volunteer opportunities and ways to contribute to GNU project.
-- [GNU's Who](https://www.gnu.org/people/people.html): Directory of GNU project contributors and package maintainers.
-
-## Optional
-
-- [The GNU Art Gallery](https://www.gnu.org/graphics/graphics.html): GNU logos, artwork gallery, and design guidelines.
-- [Laugh along with GNU](https://www.gnu.org/fun/humor.html): Collection of GNU-related jokes and computing humor.
-- [Site map of www.gnu.org](https://www.gnu.org/server/sitemap.html): Navigation index and directory structure of gnu.org website.
-- [Hyper Estraier @ www.gnu.org](https://www.gnu.org/cgi-bin/estseek.cgi): Full-text search engine interface for gnu.org website.
+## Site Indexes and Reference
+- [Site Map](https://www.gnu.org/server/sitemap.html): Structured index of major GNU.org sections and pages.
+- [What's New](https://www.gnu.org/server/whatsnew.html): Chronological list of notable updates across GNU.org.
+- [GNU A-Z](https://www.gnu.org/directory/): Directory of free software packages and related projects.
+- [Search GNU.org](https://www.gnu.org/search/): Search interface for finding pages across GNU.org.
+- [Accessibility Statement](https://www.gnu.org/accessibility/): GNU.org accessibility information and related resources.
+- [Web Server Standards](https://www.gnu.org/server/standards/): Policies governing GNU.org page structure and maintenance.

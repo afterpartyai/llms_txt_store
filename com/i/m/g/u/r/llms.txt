@@ -1,25 +1,70 @@
 # Imgur
+> Imgur is a community-driven platform for discovering, uploading, sharing, and discussing images, GIFs, memes, and viral visual content.
 
-> > Imgur is a community-driven image hosting and sharing platform featuring viral content, user-submitted posts, and real-time content feeds.
+Imgur combines image hosting with social discovery features, including voting, commenting, tagging, user profiles, galleries, and topic-based browsing. The platform supports both casual sharing and community participation around trending and user-generated media.
 
-Imgur serves as one of the web's largest image hosting platforms, enabling users to upload, share, and discover visual content. The platform emphasizes community engagement through voting, commenting, and content curation that surfaces trending and viral images.
+## Core Browsing
+- [Home](https://imgur.com/): Main entry point for browsing trending and featured visual content.
+- [Most Viral](https://imgur.com/gallery): Popular gallery feed highlighting viral posts and community favorites.
+- [Newest](https://imgur.com/new): Chronological feed of newly submitted public posts.
+- [Top](https://imgur.com/top): Ranked content feed featuring top-performing posts on the platform.
+- [Random](https://imgur.com/random): Randomized stream of public Imgur posts for discovery.
+- [Tags](https://imgur.com/tags): Browse content organized by community tags and topics.
 
-## Key Topics
+## Uploading and Creation
+- [Upload](https://imgur.com/upload): Upload images, GIFs, and videos for sharing on Imgur.
+- [Create Meme](https://imgur.com/memegen): Meme generator for creating captioned image memes from templates.
+- [Video to GIF](https://imgur.com/vidgif): Convert uploaded video clips into GIFs for sharing.
+- [New Post](https://imgur.com/upload): Starting point for creating and publishing a new public or private post.
 
-- image-sharing
-- viral-content
-- user-submitted
-- community-content
-- image-gallery
-- trending
-- popular-posts
-- real-time-feed
-- new-posts
-- image-hosting
-- content-curation
-- community-voting
+## Community and Accounts
+- [Sign Up](https://imgur.com/signin?redirect=%2F): Account access flow for registration and login.
+- [Sign In](https://imgur.com/signin): Login page for accessing user accounts and saved activity.
+- [User Profiles](https://imgur.com/user): Profile area for user posts, comments, favorites, and activity.
+- [Notifications](https://imgur.com/account/messages): Account message and notification center for user interactions.
+- [Favorites](https://imgur.com/user/favorites): Saved posts and liked content for signed-in users.
+- [Settings](https://imgur.com/account/settings): Account preferences, privacy, and profile configuration options.
 
-## Core Content Feeds
+## Topics and Discovery
+- [Memes Tag](https://imgur.com/t/memes): Topic page for meme-related posts and trending submissions.
+- [Funny Tag](https://imgur.com/t/funny): Topic page for humorous images, GIFs, and jokes.
+- [Gaming Tag](https://imgur.com/t/gaming): Topic page for gaming-related screenshots, memes, and clips.
+- [Aww Tag](https://imgur.com/t/aww): Topic page for cute animals and wholesome visual posts.
+- [Art Tag](https://imgur.com/t/art): Topic page for artwork, illustrations, and creative visual media.
+- [Movies and TV Tag](https://imgur.com/t/moviesandtv): Topic page for film and television-related content.
 
-- [Most Viral](https://imgur.com/index.php/index/index): Most viral content gallery featuring trending images and community posts
-- [Newest Posts](https://imgur.com/new): User-submitted content feed showing newest posts from Imgur community
+## Post Interaction
+- [Comments](https://imgur.com/gallery): Discussion threads attached to gallery posts and shared media.
+- [Voting](https://imgur.com/gallery): Upvote and downvote mechanisms used to rank community content.
+- [Sharing](https://imgur.com/gallery): Public post pages provide direct links and embed-ready media sharing.
+- [Reporting](https://imgur.com/removalrequest): Request removal or report content through Imgur support workflows.
+
+## Help and Support
+- [Help Center](https://help.imgur.com/hc/en-us): Official support portal for account, posting, and platform questions.
+- [Imgur Help Home](https://help.imgur.com/hc/en-us/categories/201270803): Support categories covering common Imgur product areas.
+- [Community Guidelines](https://help.imgur.com/hc/en-us/articles/201746817): Rules and expectations for participating on Imgur.
+- [Account Support](https://help.imgur.com/hc/en-us/categories/201270813): Help articles for login, profile, and account management issues.
+- [Posting and Sharing Support](https://help.imgur.com/hc/en-us/categories/201270823): Help resources for uploads, posts, albums, and sharing.
+- [Abuse and Safety Support](https://help.imgur.com/hc/en-us/categories/201270833): Guidance for reporting abuse, harassment, and policy violations.
+
+## Developers and API
+- [API Documentation](https://apidocs.imgur.com/): Official Imgur API documentation for integrating uploads, albums, and account features.
+- [API Reference](https://apidocs.imgur.com/#intro): Introduction and reference for authentication, endpoints, and responses.
+- [OAuth 2 Authorization](https://apidocs.imgur.com/#authorization-and-oauth): Authentication guide for user-authorized API access.
+- [Image Endpoints](https://apidocs.imgur.com/#3e4e6e1e-0b43-4f4f-9c5b-0d5f8e0f299f): API operations for uploading, retrieving, and managing images.
+- [Album Endpoints](https://apidocs.imgur.com/#8f5e6d2d-9c7d-4d0d-b6d8-4f9d9d7d4d8d): API operations for creating and managing albums.
+- [Gallery Endpoints](https://apidocs.imgur.com/#gallery): API methods for browsing and interacting with gallery content.
+
+## Policies and Legal
+- [Terms of Service](https://imgur.com/tos): Terms governing use of Imgur services and user content.
+- [Privacy Policy](https://imgur.com/privacy): Privacy practices for data collection, use, and account information.
+- [Community Rules](https://imgur.com/rules): Platform rules for acceptable content and behavior.
+- [Mature Content Policy](https://imgur.com/rules): Guidance on sensitive, explicit, and age-restricted material.
+- [Copyright Policy](https://imgur.com/removalrequest): Copyright and content removal request process.
+- [Accessibility Statement](https://imgur.com/accessibility): Accessibility information for using the Imgur platform.
+
+## Company and Platform Information
+- [About Imgur](https://imgur.com/about): Overview of Imgur’s mission, history, and platform purpose.
+- [Press](https://imgur.com/press): Media resources and company information for press inquiries.
+- [Store](https://store.imgur.com/): Official merchandise storefront for Imgur-branded products.
+- [Blog](https://blog.imgur.com/): Company and community blog with announcements and stories.

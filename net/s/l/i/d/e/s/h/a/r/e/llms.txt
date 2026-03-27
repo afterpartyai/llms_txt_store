@@ -1,28 +1,65 @@
-# Slideshare
+# SlideShare
 
-> Slideshare is a presentation sharing and discovery platform that enables users to upload, share, and discover presentations while leveraging AI tools for enhanced content creation and collaboration.
+> SlideShare is a presentation and document sharing platform for discovering, uploading, and embedding professional content online.
 
-Slideshare serves as a community-driven knowledge-sharing platform where professionals and educators can share presentations in multiple formats including PowerPoint, PDF, and Word documents. The platform integrates AI capabilities to assist with presentation creation, discovery, and collaboration.
+SlideShare hosts slide decks, PDFs, infographics, and documents across business, education, technology, and creative topics. The site centers on browsing popular presentations, viewing author profiles, searching by topic, and sharing presentation content publicly on the web.
 
-## Key Topics
+## Core Pages
+- [Home](https://www.slideshare.net/): Main entry point for browsing featured presentations and discovering popular content.
+- [Explore](https://www.slideshare.net/explore): Browse presentations and documents across topics, industries, and formats.
+- [Search](https://www.slideshare.net/search/slideshow): Search SlideShare for presentations, slide decks, and related documents.
+- [Upload](https://www.slideshare.net/upload): Upload presentations and documents to publish them on SlideShare.
+- [Login](https://www.slideshare.net/login): Sign in to access account features, uploads, and saved content.
+- [Signup](https://www.slideshare.net/signup): Create a SlideShare account to upload, save, and engage with content.
 
-- Presentation Sharing
-- Slide Discovery
-- PowerPoint
-- PDF
-- AI Tools
-- Upload Presentations
-- Presentation Templates
-- Collaboration
-- Content Library
-- Knowledge Sharing
-- File Formats
-- Community Platform
-- Pricing Plans
-- Free Trial
-- Scribd Integration
+## Discovery
+- [Featured](https://www.slideshare.net/featured): View featured presentations highlighted by SlideShare.
+- [Popular](https://www.slideshare.net/popular): Discover presentations that are currently popular on the platform.
+- [Editor's Picks](https://www.slideshare.net/editors-picks): Browse curated presentations selected by the SlideShare editorial team.
+- [Top Slideshare](https://www.slideshare.net/topslideshow): Explore top-performing and widely viewed slide presentations.
+- [Infographics](https://www.slideshare.net/search/infographics): Find infographic-style visual content published on SlideShare.
+- [Documents](https://www.slideshare.net/search/document): Search for uploaded documents and text-based resources.
 
-## Getting Started
+## Topics
+- [Business](https://www.slideshare.net/search/slideshow?cat=business): Presentations related to business strategy, management, and operations.
+- [Technology](https://www.slideshare.net/search/slideshow?cat=technology): Slide decks covering software, IT, engineering, and digital trends.
+- [Education](https://www.slideshare.net/search/slideshow?cat=education): Educational presentations, teaching materials, and academic resources.
+- [Design](https://www.slideshare.net/search/slideshow?cat=design): Presentations focused on design, creativity, and visual communication.
+- [Marketing](https://www.slideshare.net/search/slideshow?cat=marketing): Content about branding, advertising, growth, and digital marketing.
+- [Career](https://www.slideshare.net/search/slideshow?cat=career): Presentations on jobs, leadership, professional development, and workplace skills.
 
-- [Slideshare Homepage](https://www.slideshare.net): Main entry point for discovering and sharing presentations with AI-powered tools and features
-- [Slideshare Home](http://slideshare.net/): Alternative access point to the Slideshare presentation sharing platform
+## Accounts and Profiles
+- [My Uploads](https://www.slideshare.net/myuploads): Manage presentations and documents uploaded to your account.
+- [My Clipboards](https://www.slideshare.net/clipboards): Access saved collections of presentations and documents.
+- [Profile](https://www.slideshare.net/profile): View and manage your SlideShare public profile.
+- [Settings](https://www.slideshare.net/settings): Update account preferences, profile details, and notification settings.
+- [Analytics](https://www.slideshare.net/analytics): Review performance metrics for uploaded presentations.
+- [Favorites](https://www.slideshare.net/favorites): Access presentations and documents you have saved.
+
+## Publishing and Sharing
+- [Upload Presentation](https://www.slideshare.net/upload): Publish a new presentation, PDF, or document to SlideShare.
+- [Embed Options](https://www.slideshare.net/developers/oembed): Retrieve embeddable metadata for SlideShare presentations using oEmbed.
+- [Share on Social Platforms](https://www.slideshare.net/share): Share SlideShare content externally where supported.
+- [Privacy Settings](https://www.slideshare.net/settings/privacy): Control visibility and privacy options for your account and uploads.
+- [Content Management](https://www.slideshare.net/myuploads): Organize, edit, and manage your published content library.
+
+## Developers
+- [Developers](https://www.slideshare.net/developers): Developer resources for integrating SlideShare content and services.
+- [oEmbed Endpoint](https://www.slideshare.net/developers/oembed): Programmatic access to embeddable SlideShare presentation metadata.
+- [API Documentation](https://www.slideshare.net/developers/documentation): Reference material for SlideShare developer integrations.
+- [API Examples](https://www.slideshare.net/developers/examples): Example usage patterns for SlideShare developer tools and endpoints.
+- [Terms for Developers](https://www.slideshare.net/developers/terms): Terms and conditions governing developer use of SlideShare services.
+
+## Help and Policies
+- [Help Center](https://www.slideshare.net/help): Support resources for using SlideShare features and resolving issues.
+- [Copyright Policy](https://www.slideshare.net/copyright): Information about copyright, takedowns, and intellectual property handling.
+- [Privacy Policy](https://www.slideshare.net/privacy): Details on data collection, usage, and privacy practices.
+- [Terms of Use](https://www.slideshare.net/terms): Legal terms governing access to and use of SlideShare.
+- [Contact](https://www.slideshare.net/contact): Contact options for support, business, and general inquiries.
+
+## Company
+- [About](https://www.slideshare.net/about): Overview of SlideShare and its purpose as a content-sharing platform.
+- [Blog](https://blog.slideshare.net/): Articles, announcements, and stories related to SlideShare and presentations.
+- [Careers](https://www.slideshare.net/jobs): Employment opportunities and company hiring information.
+- [Press](https://www.slideshare.net/press): Media resources, press information, and company news.
+- [Advertise](https://www.slideshare.net/advertise): Information for brands and advertisers interested in SlideShare audiences.

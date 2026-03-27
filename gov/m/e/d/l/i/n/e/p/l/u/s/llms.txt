@@ -1,63 +1,80 @@
 # MedlinePlus
+> Trusted consumer health information from the U.S. National Library of Medicine and the NIH.
 
-> MedlinePlus is a free, authoritative health information resource from the National Library of Medicine providing trusted medical information on diseases, drugs, tests, and wellness.
+MedlinePlus provides easy-to-read, regularly updated information on diseases, conditions, wellness, drugs, medical tests, genetics, and patient education. It also offers multilingual resources, encyclopedia content, videos, and developer tools including MedlinePlus Connect for EHR integration.
 
-MedlinePlus serves as a comprehensive consumer health portal operated by the National Library of Medicine (part of the NIH), offering evidence-based health information in multiple languages and formats. The site integrates with electronic health records through MedlinePlus Connect and provides specialized resources for genetic conditions, clinical trials, and health literacy.
+## Core Site
+- [MedlinePlus Home](https://medlineplus.gov/): Main entry point for trusted health information from the National Library of Medicine.
+- [About MedlinePlus](https://medlineplus.gov/about/): Overview of MedlinePlus, its mission, policies, and editorial approach.
+- [What's New](https://medlineplus.gov/whatsnew/): Recent additions, updates, and announcements across the MedlinePlus site.
+- [Site Map](https://medlineplus.gov/sitemap.html): Structured index of major MedlinePlus sections and pages.
+- [RSS Feeds](https://medlineplus.gov/rss.html): RSS subscription options for MedlinePlus updates and new content.
 
-## Key Topics
+## Health Topics
+- [Health Topics](https://medlineplus.gov/healthtopics.html): A-Z directory of diseases, conditions, and wellness subjects.
+- [Body Location/Systems](https://medlineplus.gov/bodylocationandsystems.html): Browse health topics by body area and organ system.
+- [Disorders and Conditions](https://medlineplus.gov/disordersandconditions.html): Browse diseases and conditions by category.
+- [Diagnosis and Therapy](https://medlineplus.gov/diagnosisandtherapy.html): Information on diagnostic methods, treatments, and medical procedures.
+- [Demographic Groups](https://medlineplus.gov/demographicgroups.html): Health information organized for specific populations and life stages.
+- [Health and Wellness](https://medlineplus.gov/healthandwellness.html): Preventive care, nutrition, exercise, and healthy living topics.
 
-- Health Information
-- Medical Tests & Diagnostics
-- Drug & Supplement Information
-- Genetic Conditions
-- Health Topics Directory
-- Medical Encyclopedia
-- Patient Education
-- Wellness Resources
-- Clinical Trials
-- MedlinePlus Connect (EHR Integration)
-- Multilingual Health Information
-- Easy-to-Read Materials
-- National Library of Medicine
-- NIH Resources
-- Healthy Sleep
+## Drugs, Herbs, and Supplements
+- [Drugs, Herbs and Supplements](https://medlineplus.gov/druginformation.html): Gateway to consumer drug, herb, and supplement information.
+- [Prescription Drugs](https://medlineplus.gov/prescriptiondrugs.html): Drug information for commonly prescribed medicines.
+- [Over-the-Counter Medicines](https://medlineplus.gov/overthecountermedicines.html): Consumer information on nonprescription medicines and their safe use.
+- [Herbs and Supplements](https://medlineplus.gov/herbsandsupplements.html): Evidence-based information on supplements, herbs, and natural products.
+- [Drug Information, AHFS Consumer Medication Information](https://medlineplus.gov/druginfo/meds/a601210.html): Example medication monograph format used throughout the drug information collection.
 
-## Core Health Information
+## Medical Tests and Procedures
+- [Medical Tests](https://medlineplus.gov/lab-tests/): Directory of lab tests and diagnostic procedures for patients and families.
+- [Medical Encyclopedia](https://medlineplus.gov/encyclopedia.html): Consumer encyclopedia articles on diseases, injuries, tests, and procedures.
+- [Surgery Videos](https://medlineplus.gov/surgeryvideos.html): Animated videos explaining selected surgical procedures and treatments.
+- [Interactive Tutorials](https://medlineplus.gov/tutorial.html): Guided multimedia tutorials on conditions, tests, and treatments.
 
-- [MedlinePlus - Health Information from the National Library of Medicine](https://medlineplus.gov): MedlinePlus homepage: trusted health information from NIH and NLM
-- [Health Topics: MedlinePlus](https://medlineplus.gov/healthtopics.html): Directory of 1000+ diseases, conditions, and wellness topics
-- [Medical Encyclopedia: MedlinePlus](https://medlineplus.gov/encyclopedia.html): A.D.A.M. Medical Encyclopedia with articles on diseases and procedures
-- [MedlinePlus: About MedlinePlus](https://medlineplus.gov/about): About MedlinePlus: mission, service description, and NLM overview
+## Genetics
+- [Genetics](https://medlineplus.gov/genetics/): Consumer genetics information on conditions, genes, and genomic concepts.
+- [Genetic Conditions](https://medlineplus.gov/genetics/condition/): Browse inherited and genetic conditions with patient-friendly summaries.
+- [Genes](https://medlineplus.gov/genetics/gene/): Reference pages describing genes and their health relevance.
+- [Chromosomes](https://medlineplus.gov/genetics/chromosome/): Information about chromosomes and chromosome-related disorders.
+- [Help Me Understand Genetics](https://medlineplus.gov/genetics/understanding/): Educational guide to basic genetics and genomic medicine concepts.
 
-## Medical Reference & Testing
+## Collections and Directories
+- [Medical Encyclopedia A-Z](https://medlineplus.gov/ency/article/001921.htm): Example encyclopedia article format used across the A.D.A.M. collection.
+- [Health Topic Categories](https://medlineplus.gov/healthtopics.html): Alphabetical topic directory for broad browsing and discovery.
+- [Videos and Cool Tools](https://medlineplus.gov/videosandcooltools.html): Central directory for videos, tutorials, games, and interactive content.
+- [Find an Easy-to-Read Article](https://medlineplus.gov/all_easytoread.html): Collection of health materials written for easier comprehension.
+- [Health Check Tools](https://medlineplus.gov/healthchecktools.html): Self-assessment and screening tools linked from MedlinePlus resources.
 
-- [Drugs, Herbs and Supplements: MedlinePlus](https://medlineplus.gov/druginformation.html): Drug, herb, and supplement information with interactions and dosages
-- [MedlinePlus: Medical Tests](https://medlineplus.gov/lab-tests): Directory of medical tests, lab procedures, and diagnostic information
-- [MedlinePlus: Genetics](https://medlineplus.gov/genetics): Genetic conditions, genes, chromosomes, and DNA information
+## Multilingual and Spanish Resources
+- [Health Information in Multiple Languages](https://medlineplus.gov/languages/languages.html): Browse health materials available in many world languages.
+- [Spanish Home](https://medlineplus.gov/spanish/): MedlinePlus en español homepage for Spanish-speaking users.
+- [Temas de salud en español](https://medlineplus.gov/spanish/healthtopics.html): Spanish-language A-Z directory of health topics.
+- [Medicinas, hierbas y suplementos](https://medlineplus.gov/spanish/druginformation.html): Spanish-language drug, herb, and supplement information.
+- [Pruebas médicas](https://medlineplus.gov/spanish/lab-tests/): Spanish-language medical test and lab procedure information.
 
-## Specialized Services & Integration
+## Special Audiences and Education
+- [Easy-to-Read Materials](https://medlineplus.gov/all_easytoread.html): Health information designed for readers with limited health literacy.
+- [Children and Teenagers](https://medlineplus.gov/childrenandteenagers.html): Health topics and resources relevant to children and adolescents.
+- [Men](https://medlineplus.gov/men.html): Health information organized around men’s health concerns.
+- [Women](https://medlineplus.gov/women.html): Health information organized around women’s health concerns.
+- [Seniors](https://medlineplus.gov/seniors.html): Health topics and wellness information for older adults.
 
-- [MedlinePlus: MedlinePlus Connect](https://medlineplus.gov/medlineplus-connect): MedlinePlus Connect: EHR integration service linking to health info
-- [Health Information for All of Us Research Program Participants](https://medlineplus.gov/allofus.html): Health information for NIH All of Us research program participants
-- [NIH MedlinePlus Magazine](https://magazine.medlineplus.gov): NIH MedlinePlus Magazine with health news and wellness articles
+## News and Magazine
+- [Health News](https://medlineplus.gov/news/fullstory_announcement.html): Current health news and research summaries for the public.
+- [NIH MedlinePlus Magazine](https://magazine.medlineplus.gov/): Magazine-style health articles, interviews, and wellness features from NIH.
+- [What's New](https://medlineplus.gov/whatsnew/): Site-wide updates highlighting newly added or revised content.
 
-## Accessibility & Multilingual Resources
+## Developers and Integration
+- [MedlinePlus Connect](https://medlineplus.gov/medlineplus-connect/): Service for linking EHRs and patient portals to MedlinePlus content.
+- [For Developers](https://medlineplus.gov/about/developers/): Technical resources, web services, and developer guidance for MedlinePlus.
+- [MedlinePlus Connect Web Application](https://medlineplus.gov/medlineplus-connect/web-service/): Documentation for using the MedlinePlus Connect web service.
+- [MedlinePlus Connect XML Web Service](https://medlineplus.gov/medlineplus-connect/service/): XML service details for integrating coded clinical data with MedlinePlus.
+- [MedlinePlus Connect for EHRs](https://medlineplus.gov/medlineplus-connect/): Overview of EHR integration use cases and implementation options.
 
-- [Easy-to-Read Health Information: MedlinePlus](https://medlineplus.gov/all_easytoread.html): Easy-to-read health materials for limited health literacy
-- [Health Information in Multiple Languages: MedlinePlus](https://medlineplus.gov/languages/languages.html): Health information directory in multiple languages
-- [MedlinePlus - Información de Salud de la Biblioteca Nacional de Medicina](https://medlineplus.gov/spanish): Spanish-language health information from National Library of Medicine
-- [MedlinePlus: Accessibility](https://medlineplus.gov/accessibility.html): Web accessibility features and adaptive equipment information
-
-## Wellness & Lifestyle
-
-- [Healthy Sleep | MedlinePlus](https://medlineplus.gov/healthysleep.html): Sleep basics, hygiene, stages, and health information guide
-- [MedlinePlus: Healthy Recipes](https://medlineplus.gov/recipes): Healthy recipes and meal planning with nutritional guidelines
-
-## Updates & Feeds
-
-- [What's New on MedlinePlus](https://medlineplus.gov/whatsnew): Updates, announcements, and new content on MedlinePlus
-- [RSS Feeds: MedlinePlus](https://medlineplus.gov/rss.html): RSS feed subscriptions for MedlinePlus health topics
-
-## Optional
-
-- [MedlinePlus: Linking to and Using Content from MedlinePlus](https://medlineplus.gov/about/using/usingcontent): Content licensing, copyright policy, and linking guidelines
+## Policies, Accessibility, and Support
+- [Accessibility](https://medlineplus.gov/accessibility.html): Accessibility information and support for using MedlinePlus content.
+- [Using MedlinePlus Content](https://medlineplus.gov/about/using/usingcontent/): Copyright, reuse, and attribution guidance for MedlinePlus materials.
+- [Guidelines for Links](https://medlineplus.gov/about/using/criteria/): Criteria and policies for external links included on MedlinePlus.
+- [Viewers and Players](https://medlineplus.gov/plugins.html): Required software and media tools for some MedlinePlus content.
+- [Customer Support](https://support.nlm.nih.gov/knowledgebase/category/?id=CAT-01231&category=medlineplus&from=https%3A//medlineplus.gov/): Help center for MedlinePlus questions and support topics.
+- [NLM Web Policies](https://www.nlm.nih.gov/web_policies.html): National Library of Medicine web policies governing site use and privacy.

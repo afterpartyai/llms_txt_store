@@ -1,60 +1,71 @@
 # National Weather Service
 
-> > The National Weather Service provides real-time weather forecasts, alerts, marine/tropical services, climate data, and community preparedness programs powered by NOAA.
+> The National Weather Service provides official U.S. forecasts, warnings, observations, and hazard information from NOAA.
 
-Weather.gov is the official U.S. government source for weather forecasts, warnings, and hazard information operated by NOAA's National Weather Service. The site integrates multiple specialized services including marine forecasting, climate records, GIS data, and community preparedness initiatives like StormReady and SKYWARN.
+Weather.gov is the public web portal for NOAA's National Weather Service, covering local forecasts, severe weather alerts, radar, marine and aviation products, climate information, hydrology, and preparedness programs. It also links to specialized forecast offices, national centers, data services, and outreach resources used by the public, emergency managers, media, and researchers.
 
-## Key Topics
+## Core Forecasts and Conditions
+- [National Weather Service Home](https://www.weather.gov/): Main portal for forecasts, warnings, current conditions, and local office information.
+- [Forecast Maps](https://www.weather.gov/forecastmaps): National forecast map interface for temperature, precipitation, and hazard outlooks.
+- [Current Conditions](https://www.weather.gov/current): Nationwide current weather observations and station-based conditions.
+- [Radar](https://www.weather.gov/radar): Access point for NWS radar products and radar-related information.
+- [Local Forecast Offices](https://www.weather.gov/srh/nwsoffices): Directory of NWS weather forecast offices and service areas.
+- [National Digital Forecast Database](https://www.weather.gov/ndfd): Gridded forecast database used for digital weather forecast products.
 
-- National Weather Service (NWS)
-- NOAA
-- Weather-Ready Nation
-- Severe Weather Alerts
-- Emergency Preparedness
-- NOAA Weather Radio
-- Wireless Emergency Alerts
-- SKYWARN Storm Spotters
-- StormReady Certification
-- TsunamiReady Program
-- Marine/Tropical Services
-- Forecast Maps
-- Climate Data
-- GIS Data Portal
-- Weather Safety
+## Alerts, Warnings, and Safety
+- [Active Alerts](https://www.weather.gov/alerts): Current watches, warnings, advisories, and statements by location.
+- [Wireless Emergency Alerts](https://www.weather.gov/wrn/wea): Overview of mobile emergency alert delivery for urgent weather hazards.
+- [NOAA Weather Radio](https://www.weather.gov/nwr): Nationwide weather radio network for warnings, forecasts, and emergency information.
+- [Weather Safety](https://www.weather.gov/safety): Hazard-specific safety guidance for severe weather and environmental threats.
+- [Storm Prediction Center](https://www.spc.noaa.gov/): National center for severe thunderstorm and tornado outlooks and watches.
+- [Weather Prediction Center](https://www.wpc.ncep.noaa.gov/): National forecasts, precipitation outlooks, and surface analysis products.
 
-## Core Weather Services
+## Marine, Tropical, and Coastal Services
+- [Marine Services](https://www.weather.gov/marine): Marine forecasts, coastal warnings, offshore products, and navigation weather resources.
+- [National Hurricane Center](https://www.nhc.noaa.gov/): Official tropical cyclone forecasts, advisories, and storm track information.
+- [Ocean Prediction Center](https://ocean.weather.gov/): High seas forecasts, oceanic analyses, and marine warning products.
+- [Tsunami Warning Centers](https://www.weather.gov/tsunami): Tsunami warning information and links to official warning centers.
+- [National Data Buoy Center](https://www.ndbc.noaa.gov/): Marine observations from buoys, coastal stations, and ocean platforms.
 
-- [National Weather Service](https://www.weather.gov): National Weather Service homepage with forecasts, alerts, and NOAA weather data
-- [National Forecast Maps](https://www.weather.gov/forecastmaps): National Weather Service forecast maps and weather data visualization tools
-- [Daily Briefing](https://www.weather.gov/briefing): Daily weather briefing with forecasts, outlooks, and disaster information
-- [Information Center](https://www.weather.gov/informationcenter): Weather.gov information hub with forecasts, resources, and preparedness
-- [Marine, Tropical and Tsunami Services](https://www.weather.gov/marine): Marine, tropical weather, and tsunami services from National Weather Service
+## Aviation Weather
+- [Aviation Weather Center](https://aviationweather.gov/): Official aviation weather observations, forecasts, advisories, and decision support tools.
+- [Center Weather Service Units](https://www.weather.gov/zhu/cwsu): NWS aviation support units serving FAA air traffic facilities.
+- [Aviation Forecasts and Products](https://www.weather.gov/aviation/): Gateway to NWS aviation weather services and forecast resources.
 
-## Emergency Alerts & Warnings
+## Water, Flooding, and Hydrology
+- [Water Prediction Service](https://water.noaa.gov/): River forecasts, flood information, and hydrologic observations nationwide.
+- [Advanced Hydrologic Prediction Service](https://water.weather.gov/ahps/): Legacy AHPS river stage, flood forecast, and hydrograph interface.
+- [National Water Center](https://www.weather.gov/nwc): Water intelligence, hydrologic modeling, and national water resources support.
+- [River Forecast Centers](https://www.weather.gov/owp/rfc): Directory and information for regional river forecast centers.
+- [National Hydrologic Warning Council](https://www.weather.gov/owp/oh_hrl_nhwc): Hydrologic warning coordination and water-related service information.
 
-- [NOAA Weather Radio](https://www.weather.gov/nwr): NOAA Weather Radio for emergency alerts and severe weather information
-- [Weather Alerts on the Go](https://www.weather.gov/wrn/wea): Mobile weather alerts and Wireless Emergency Alerts from Weather-Ready Nation
-- [Weather Safety](https://www.weather.gov/safety): Weather safety information, hazard awareness, and emergency preparedness
+## Climate and Past Weather
+- [Climate Services](https://www.weather.gov/wrh/climate): Climate summaries, normals, records, and local climate resources.
+- [Past Weather](https://www.weather.gov/wrh/climate?wfo=lox): Entry point to historical weather and climate information by office.
+- [Climate Prediction Center](https://www.cpc.ncep.noaa.gov/): Seasonal outlooks, climate monitoring, and long-range prediction products.
+- [National Centers for Environmental Information](https://www.ncei.noaa.gov/): NOAA archive for historical weather, climate, and environmental data.
+- [Cooperative Observer Program](https://www.weather.gov/coop): Volunteer observing network supporting long-term climate and weather records.
 
-## Community Preparedness Programs
+## Data, GIS, and Developers
+- [GIS Data Portal](https://www.weather.gov/gis): Geospatial weather datasets, map services, and GIS support resources.
+- [NWS API](https://www.weather.gov/documentation/services-web-api): Documentation for the public weather.gov web services API.
+- [API OpenAPI Specification](https://api.weather.gov/openapi.json): Machine-readable OpenAPI definition for the weather.gov API.
+- [API Endpoint](https://api.weather.gov/): Root endpoint for official NWS forecast and alert web services.
+- [National Digital Forecast Database](https://digital.weather.gov/): Digital forecast data access and visualization tools.
+- [Text Products](https://forecast.weather.gov/product_types.php): Directory of operational NWS text product types and codes.
 
-- [Weather-Ready Nation](https://www.weather.gov/wrn): Weather-Ready Nation program for hazard preparedness and community outreach
-- [SKYWARN](https://www.weather.gov/skywarn): SKYWARN storm spotter program for severe weather reporting and community
-- [StormReady](https://www.weather.gov/stormready): StormReady certification program for community storm preparedness
-- [TsunamiReady®](https://www.weather.gov/tsunamiready): TsunamiReady program for tsunami preparedness and community safety
+## Outreach and Preparedness Programs
+- [Weather-Ready Nation](https://www.weather.gov/wrn/): Preparedness initiative focused on building community resilience to weather hazards.
+- [SKYWARN](https://www.weather.gov/skywarn/): Storm spotter training and volunteer severe weather reporting program.
+- [StormReady](https://www.weather.gov/stormready/): Community preparedness recognition program for hazardous weather readiness.
+- [TsunamiReady](https://www.weather.gov/tsunamiready/): Tsunami preparedness recognition program for coastal communities.
+- [Ambassadors](https://www.weather.gov/wrn/ambassadors): Weather-Ready Nation Ambassador program for partner organizations.
+- [Owlie Skywarn](https://www.weather.gov/owlie/): Youth-focused weather safety and education materials from the NWS.
 
-## Climate & Historical Data
-
-- [Climate](https://www.weather.gov/wrh/climate): Climate data, past weather records, and NOAA climate resources
-- [GIS Data Portal](https://www.weather.gov/gis): GIS data portal and geospatial weather information from NWS and NOAA
-- [COOP Network](https://www.weather.gov/coop): Cooperative Observers network for weather data collection and citizen science
-- [Weather-Related Fatality and Injury Statistics](https://www.weather.gov/hazstat): Weather-related fatality and injury statistics and hazard data archives
-
-## Publications & Resources
-
-- [NWS Publications](https://www.weather.gov/publications): NWS publications, newsletters, reports, and service assessments
-- [Publications and Brochures](https://www.weather.gov/owlie/publication_brochures): NWS downloadable publications, brochures, and weather education materials
-
-## Optional
-
-- [NWS Service Change Notices](https://www.weather.gov/notification): NWS service change notices and operational announcements
+## Education, News, and About
+- [News Around NOAA](https://www.weather.gov/news): News releases, feature stories, and updates related to NWS services.
+- [JetStream](https://www.weather.gov/jetstream/): Online school for weather science, meteorology, and atmospheric education.
+- [About the National Weather Service](https://www.weather.gov/about): Overview of the agency mission, organization, and public services.
+- [Organization](https://www.weather.gov/organization): NWS organizational structure and office relationships.
+- [Careers](https://www.weather.gov/careers): Career information for meteorology, hydrology, electronics, and support roles.
+- [Contact Us](https://www.weather.gov/contact): Public contact information and office communication resources.

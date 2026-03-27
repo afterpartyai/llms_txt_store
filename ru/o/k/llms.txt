@@ -1,54 +1,85 @@
-# OK (Odnoklassniki)
+# Одноклассники (OK.ru)
 
-> > OK (Odnoklassniki) is a Russian social networking platform connecting classmates and friends, featuring original video content, game streaming, and community groups.
+> Российская социальная сеть для общения с друзьями, одноклассниками и близкими, публикации контента, просмотра видео, музыки, игр и сервисов общения.
 
-OK offers social networking services with integrated entertainment including the original comedy sitcom 'Пять с плюсом' (5+), live game streaming for popular titles like Dota 2, CS:GO, League of Legends, and Hearthstone, plus thousands of community groups covering topics from health to local government.
+Одноклассники объединяют личные профили, ленту новостей, сообщения, группы, видео, музыку, трансляции, подарки, игры и инструменты для авторов и бизнеса. Платформа также включает рекламные и developer-ресурсы для интеграций и продвижения.
 
-## Key Topics
+## Основные разделы платформы
+- [Главная](https://ok.ru/): Главная страница социальной сети с входом, регистрацией и обзором возможностей.
+- [Лента](https://ok.ru/feed): Персональная лента публикаций, рекомендаций, видео и обновлений друзей.
+- [Сообщения](https://ok.ru/messages): Личные сообщения и чаты с друзьями и контактами.
+- [Уведомления](https://ok.ru/notifications): Центр уведомлений о событиях, реакциях и активности.
+- [Друзья](https://ok.ru/friends): Раздел управления друзьями, подписками и рекомендациями контактов.
+- [Группы](https://ok.ru/groups): Каталог сообществ, брендов, медиа и тематических групп.
+- [Фото](https://ok.ru/photos): Просмотр, загрузка и управление фотоальбомами и изображениями.
+- [Видео](https://ok.ru/video): Каталог видеоконтента, каналов, трансляций и рекомендаций.
 
-- Odnoklassniki social network
-- Game streaming (Dota 2, CS:GO, League of Legends, Hearthstone)
-- Esports and live broadcasts
-- Original content: Пять с плюсом (5+) sitcom
-- Community groups
-- Russian social media platform
-- Classmate connections
-- Gaming platform
-- Video content
-- Moscow-based
-- User profiles
-- Group chat features
-- Entertainment hub
+## Контент и развлечения
+- [Видео](https://ok.ru/video): Видеосервис с роликами, шоу, клипами и прямыми эфирами.
+- [Трансляции](https://ok.ru/live): Раздел прямых эфиров, стримов и live-контента.
+- [Музыка](https://ok.ru/music): Музыкальный раздел для прослушивания треков и подборок.
+- [Игры](https://ok.ru/games): Каталог социальных и браузерных игр внутри платформы.
+- [Подарки](https://ok.ru/gifts): Виртуальные подарки и открытки для друзей и близких.
+- [Моменты](https://ok.ru/moments): Короткие исчезающие публикации и визуальные обновления.
+- [Рекомендации](https://ok.ru/discover): Подборки интересного контента, авторов и сообществ.
 
-## Core Platform
+## Социальные функции
+- [Профиль](https://ok.ru/profile): Личная страница пользователя с публикациями, фото и информацией.
+- [Гости](https://ok.ru/guests): Список пользователей, посещавших профиль.
+- [Оценки](https://ok.ru/marks): Реакции и оценки публикаций, фото и другого контента.
+- [Обсуждения](https://ok.ru/discussions): Комментарии, обсуждения и активность по публикациям.
+- [События](https://ok.ru/events): Напоминания и социальные события, связанные с контактами и активностью.
+- [Закладки](https://ok.ru/bookmarks): Сохраненные публикации, видео и другие материалы.
+- [Поиск](https://ok.ru/search): Поиск людей, групп, видео и другого контента по платформе.
 
-- [OK social network. Communication with friends on OK. Your meeting place with classmates](https://ok.ru): Homepage for OK/Odnoklassniki social network - connect with classmates
+## Для авторов и сообществ
+- [Группы](https://ok.ru/groups): Создание и ведение сообществ для брендов, медиа и авторов.
+- [Видео](https://ok.ru/video): Публикация видеоконтента и развитие видеоканалов.
+- [Трансляции](https://ok.ru/live): Инструменты для live-эфиров и взаимодействия с аудиторией.
+- [Моменты](https://ok.ru/moments): Быстрый формат публикаций для вовлечения подписчиков.
+- [Реклама в ОК](https://insideok.ru/): Официальные материалы о продвижении, форматах и возможностях платформы.
+- [Бизнес-профиль](https://business.ok.ru/): Решения для бизнеса, брендов и коммерческого присутствия в ОК.
 
-## Entertainment & Original Content
+## Для разработчиков
+- [OK Developers](https://apiok.ru/): Портал разработчика с документацией по API, OAuth и интеграциям.
+- [Документация API](https://apiok.ru/dev): Основной раздел документации для работы с API Одноклассников.
+- [Методы API](https://apiok.ru/dev/methods/): Справочник методов API для пользователей, контента и социальных функций.
+- [OAuth 2.0](https://apiok.ru/dev/oauth): Документация по авторизации и получению токенов доступа.
+- [JavaScript SDK](https://apiok.ru/dev/sdk/js): Информация по клиентскому SDK для веб-интеграций.
+- [REST API](https://apiok.ru/dev/graph_api): Описание API-интерфейсов для доступа к данным и действиям в ОК.
+- [Виджеты](https://apiok.ru/dev/widgets): Социальные виджеты для сайтов и внешних сервисов.
+- [Игры и приложения](https://apiok.ru/dev/app): Материалы для создания приложений и игровых интеграций.
 
-- [Online game broadcasts. Game progress streams. | OK](https://games.ok.ru/): Game streaming platform for Dota 2, CS:GO, LoL & Hearthstone broadcasts
-- [Сериал Пять с плюсом (5+) 2021 год от Одноклассников. Итоги 1 сезона комедийного ситкома ОК.](https://fiveplus.ok.ru/): Original OK comedy sitcom '5+' - Season 1 recap & info page
+## Реклама и бизнес
+- [Inside OK](https://insideok.ru/): Платформа для рекламодателей, авторов и партнеров Одноклассников.
+- [Рекламные возможности](https://insideok.ru/advertising): Обзор рекламных форматов и инструментов продвижения.
+- [Для бизнеса](https://business.ok.ru/): Решения для компаний, брендов и коммерческих страниц.
+- [Продвижение сообществ](https://insideok.ru/communities): Материалы по развитию групп и работе с аудиторией.
+- [Видеореклама](https://insideok.ru/video): Информация о видеорекламе и форматах размещения.
+- [Кейсы](https://insideok.ru/cases): Примеры использования рекламных инструментов и кампаний.
+- [Исследования](https://insideok.ru/research): Аналитика, инсайты и данные об аудитории платформы.
 
-## Community Groups & Organizations
+## Помощь и поддержка
+- [Помощь](https://ok.ru/help): Центр помощи по использованию Одноклассников и настройкам аккаунта.
+- [Вопросы по входу](https://ok.ru/help/2): Помощь по авторизации, восстановлению доступа и безопасности.
+- [Профиль и настройки](https://ok.ru/help/3): Справка по управлению профилем, приватностью и персональными данными.
+- [Сообщения и общение](https://ok.ru/help/8): Ответы по чатам, сообщениям и взаимодействию с пользователями.
+- [Фото и видео](https://ok.ru/help/10): Помощь по загрузке, публикации и просмотру медиаконтента.
+- [Группы и страницы](https://ok.ru/help/12): Справка по созданию и ведению сообществ.
+- [Игры и приложения](https://ok.ru/help/14): Поддержка по игровым и встроенным приложениям.
+- [Обратная связь](https://ok.ru/help/content): Каналы обращения в поддержку и сообщения о проблемах.
 
-- [A1 Беларусь | Group on OK](https://ok.ru/a1belarus): A1 Belarus telecom provider group - mobile devices, smartphones & services
-- [ABC.RU — Шоппинг-лоукостер | Group on OK](https://ok.ru/abcru): ABC.RU shopping platform group - discounts up to 85% on 2,743 brands
-- [Академия здоровой жизни | Group on OK](https://ok.ru/academy.health): Healthy living academy group - wellness, fitness, recipes & health tips
-- [Пропавшие животные: пропала найдена собака кошка | Group on OK](https://ok.ru/agatanews): Lost & found pets community - missing dogs, cats & animal rescue support
-- [Федеральный Журнал Агробизнес | Group on OK](https://ok.ru/agbzmagazine): Agribusiness federal magazine - Russian agriculture news, forums & events
-- [Ahmad Tea. Новости на блюдечке | Group on OK](https://ok.ru/ahmadtea): Ahmad Tea official group - tea recipes, desserts & beverage community
+## Правила и правовая информация
+- [Лицензионное соглашение](https://ok.ru/regulations): Условия использования сервиса и пользовательское соглашение.
+- [Политика конфиденциальности](https://ok.ru/privacy): Правила обработки персональных данных и конфиденциальности.
+- [Правила сервиса](https://ok.ru/help/424): Общие правила поведения и использования платформы.
+- [Безопасность](https://ok.ru/help/433): Рекомендации по защите аккаунта и безопасному использованию.
+- [Настройки приватности](https://ok.ru/settings/privacy): Управление видимостью профиля и персональных данных.
+- [Настройки уведомлений](https://ok.ru/settings/notifications): Управление уведомлениями и коммуникациями от сервиса.
 
-## Public Figures & Celebrities
-
-- [Леонид Агутин | OK](https://ok.ru/agutinleonid): Leonid Agutin official profile - Russian musician & celebrity from Moscow
-- [Андрей Чернышев | OK](https://ok.ru/achernyshev): Andrey Chernyshev profile - Federation Council politician from Bratsk
-
-## Optional
-
-- [Автошкола Ралли Шоп | OK](https://ok.ru/a.rallishop): Rally Shop driving school profile in Krasnogorsk with testimonials
-- [Центр творчества и развития "Планета талантов" | Group on OK](https://ok.ru/achdo): Planet of Talents creativity center in Krasnoyarsk - arts & education
-- [Администрация Косихинского района | Group on OK](https://ok.ru/adm.kosih.raion): Kosikha District Administration group - Altai region local government news
-- [Agenția de Dezvoltare Regională Nord | Group on OK](https://ok.ru/adrnordmd): North Regional Development Agency Moldova - EU-funded infrastructure projects
-- [ADVT Media (Израиль) - Продвижение и Реклама | Group on OK](https://ok.ru/advtmedia): ADVT Media Israel - digital marketing agency for SEO, ads & web development
-- [Дмитров афиша | Group on OK](https://ok.ru/afisha.dmitrov): Dmitrov city events & cinema showtimes with MyDmitrov mobile app
-- [Агропромбанк | Group on OK](https://ok.ru/agroprombank): Agroprombank official group - first bank for the republic
+## Экосистема Mail.ru / VK и дополнительные ресурсы
+- [VK](https://vk.com/): Связанная социальная платформа экосистемы с коммуникациями и контентом.
+- [VK ID](https://id.vk.com/): Единая учетная запись для входа в сервисы экосистемы.
+- [VK Реклама](https://ads.vk.com/): Рекламная платформа для продвижения в сервисах экосистемы.
+- [VK Видео](https://vkvideo.ru/): Видеоплатформа экосистемы для просмотра и публикации контента.
+- [VK Музыка](https://music.vk.com/): Музыкальный сервис экосистемы для прослушивания треков и подборок.

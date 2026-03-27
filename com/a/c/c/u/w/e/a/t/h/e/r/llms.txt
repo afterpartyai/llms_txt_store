@@ -1,35 +1,76 @@
 # AccuWeather
+> AccuWeather provides local, national, and global weather forecasts, radar, maps, severe weather alerts, and weather intelligence services.
 
-> AccuWeather is a global weather forecasting platform delivering hyperlocal forecasts, air quality data, and weather-driven advertising solutions powered by proprietary technologies like RealFeel® and MinuteCast®.
+AccuWeather serves consumers with location-based forecasts and weather news, and also offers business weather data, APIs, and advertising solutions through dedicated product areas.
 
-AccuWeather provides comprehensive weather intelligence for consumers and businesses worldwide, combining advanced forecasting capabilities with targeted advertising solutions across multiple industry verticals including automotive, retail, healthcare, and finance.
+## Main Forecast Experience
+- [Weather Forecast and Conditions](https://www.accuweather.com/): Main entry point for local weather forecasts, radar, alerts, and current conditions.
+- [Hourly Weather Forecast](https://www.accuweather.com/en/us/new-york/10007/hourly-weather-forecast/349727): Hour-by-hour forecast view with temperature, precipitation, wind, and cloud cover.
+- [Daily Weather Forecast](https://www.accuweather.com/en/us/new-york/10007/daily-weather-forecast/349727): Multi-day forecast with highs, lows, precipitation chances, and summary conditions.
+- [Current Weather](https://www.accuweather.com/en/us/new-york/10007/current-weather/349727): Current conditions page with temperature, RealFeel®, wind, and visibility details.
+- [Weather Warnings](https://www.accuweather.com/en/us/new-york/10007/weather-warnings/349727): Active local alerts and warning details for severe and hazardous weather.
+- [Monthly Weather](https://www.accuweather.com/en/us/new-york/10007/january-weather/349727): Historical and expected monthly weather patterns for trip and seasonal planning.
 
-## Key Topics
+## Maps, Radar, and Severe Weather
+- [Weather Radar](https://www.accuweather.com/en/us/new-york/10007/weather-radar/349727): Interactive radar for precipitation tracking and storm movement.
+- [Satellite and Radar Maps](https://www.accuweather.com/en/us/national/weather-radar): National radar and satellite map views for broader weather systems.
+- [MinuteCast®](https://www.accuweather.com/en/us/new-york/10007/minute-weather-forecast/349727): Minute-by-minute precipitation forecast for the next several hours.
+- [Hurricane Tracker](https://www.accuweather.com/en/hurricane): Hurricane news, maps, forecasts, and tropical storm tracking resources.
+- [Severe Weather Map](https://www.accuweather.com/en/severe-weather-map): Map-based view of severe weather threats and impacted regions.
+- [Lightning Map](https://www.accuweather.com/en/us/national/lightning): National lightning activity map for storm monitoring.
 
-- RealFeel®
-- MinuteCast®
-- Superior Accuracy™
-- Weather Forecast
-- Local Weather
-- Hourly Forecast
-- Daily Forecast
-- Air Quality
-- Global Forecast
-- Weather Radar
-- Advertising Solutions
-- Industry Verticals
-- Weather Targeting
-- Automotive
-- Retail
+## Health and Environmental Conditions
+- [Air Quality Forecast](https://www.accuweather.com/en/us/new-york/10007/air-quality-index/349727): Local air quality index, pollutant levels, and health guidance.
+- [Allergy Forecast](https://www.accuweather.com/en/us/new-york/10007/allergies-weather/349727): Pollen and allergy outlook with category-specific risk levels.
+- [Flu Forecast](https://www.accuweather.com/en/us/new-york/10007/flu-weather/349727): Weather-related flu activity outlook and local risk information.
+- [Migraine Forecast](https://www.accuweather.com/en/us/new-york/10007/migraine-weather/349727): Migraine risk forecast based on local weather conditions.
+- [Arthritis Forecast](https://www.accuweather.com/en/us/new-york/10007/arthritis-weather/349727): Joint pain risk guidance tied to changing local weather factors.
+- [Sinus Pressure Forecast](https://www.accuweather.com/en/us/new-york/10007/sinus-weather/349727): Sinus pressure outlook based on humidity, pressure, and weather changes.
 
-## Weather Forecasting
+## Lifestyle and Planning Forecasts
+- [Running Weather](https://www.accuweather.com/en/us/new-york/10007/running-weather/349727): Running conditions forecast with comfort and safety indicators.
+- [Golf Weather](https://www.accuweather.com/en/us/new-york/10007/golf-weather/349727): Golf activity forecast with course-day weather suitability guidance.
+- [Fishing Weather](https://www.accuweather.com/en/us/new-york/10007/fishing-weather/349727): Fishing conditions forecast using weather and environmental factors.
+- [Outdoor Pests Forecast](https://www.accuweather.com/en/us/new-york/10007/outdoor-pests-weather/349727): Mosquito and pest activity outlook for outdoor planning.
+- [Astronomy and Sun & Moon](https://www.accuweather.com/en/us/new-york/10007/daily-weather-forecast/349727?day=1): Forecast page including sunrise, sunset, and moon phase details.
+- [Weekend Weather](https://www.accuweather.com/en/us/new-york/10007/weekend-weather/349727): Focused weekend forecast for short-term travel and event planning.
 
-- [Local, National, & Global Daily Weather Forecast | AccuWeather](http://sirocco.accuweather.com/): AccuWeather's main weather forecasting platform with local, hourly, daily forecasts and air quality data
+## Weather News and Editorial
+- [Weather News](https://www.accuweather.com/en/weather-news): Editorial hub for breaking weather news, analysis, and feature stories.
+- [Forecast News](https://www.accuweather.com/en/weather-news/weather-forecast-news): Coverage of forecast trends, storms, and upcoming weather patterns.
+- [Severe Weather News](https://www.accuweather.com/en/severe-weather): News and updates on severe storms, flooding, tornadoes, and hazards.
+- [Hurricane News](https://www.accuweather.com/en/hurricane): Tropical weather coverage, preparedness content, and storm updates.
+- [Winter Weather News](https://www.accuweather.com/en/winter-weather): Snow, ice, and cold-weather forecast coverage and impacts.
+- [Climate News](https://www.accuweather.com/en/climate): Climate-related reporting, trends, and long-range weather context.
 
-## Advertising Solutions
+## Video and Media
+- [Weather Videos](https://www.accuweather.com/en/videos): Video hub for forecasts, storm coverage, and weather explainers.
+- [AccuWeather NOW](https://www.accuweather.com/en/accuweather-now): Streaming weather video programming and live coverage.
+- [Trending Weather Videos](https://www.accuweather.com/en/videos/trending-weather-news): Popular weather video clips and current event coverage.
+- [Expert Forecast Videos](https://www.accuweather.com/en/videos/weather-forecast): Video forecasts and meteorologist-led outlooks.
+- [Severe Weather Videos](https://www.accuweather.com/en/videos/severe-weather): Video coverage focused on storms, flooding, and dangerous weather.
 
-- [Advertising Solutions by Industry | AccuWeather Advertising](https://advertising.accuweather.com/solutions-by-vertical/): AccuWeather's advertising solutions tailored for automotive, retail, healthcare, finance, and other verticals
+## Business, APIs, and Data Services
+- [AccuWeather for Business](https://business.accuweather.com/): Business weather products, enterprise solutions, and industry-focused forecasting services.
+- [Weather APIs](https://developer.accuweather.com/): Developer portal for forecast, current conditions, alerts, and location APIs.
+- [API Documentation](https://developer.accuweather.com/apis): Overview of available AccuWeather API products and capabilities.
+- [Locations API](https://developer.accuweather.com/accuweather-locations-api/apis): API for location search, geoposition lookup, and regional metadata.
+- [Forecast API](https://developer.accuweather.com/accuweather-forecast-api/apis): API for daily and hourly forecast data access.
+- [Current Conditions API](https://developer.accuweather.com/current-conditions-api/apis): API for real-time observed weather conditions.
+- [Alerts API](https://developer.accuweather.com/accuweather-alerts-api/apis): API for weather alerts and government-issued warning data.
+- [Indices API](https://developer.accuweather.com/indices-api/apis): API for lifestyle, health, and activity-based weather indices.
 
-## Developer Resources
+## Advertising and Brand Solutions
+- [AccuWeather Advertising](https://advertising.accuweather.com/): Advertising platform for weather-triggered campaigns and audience targeting.
+- [Solutions by Vertical](https://advertising.accuweather.com/solutions-by-vertical/): Industry-specific advertising offerings for sectors like retail and automotive.
+- [Capabilities](https://advertising.accuweather.com/capabilities/): Overview of targeting, creative, and campaign execution capabilities.
+- [Research and Insights](https://advertising.accuweather.com/research-and-insights/): Marketing research and weather-driven audience insight resources.
+- [Contact Advertising](https://advertising.accuweather.com/contact-us/): Contact page for advertising inquiries and partnership discussions.
 
-- [Storybook.Web](https://storybook.accuweather.com/): AccuWeather's design system and component library documentation for UI development
+## Company and Support
+- [About AccuWeather](https://www.accuweather.com/en/about): Company overview, mission, and brand background.
+- [Press Room](https://www.accuweather.com/en/press): Corporate announcements, media releases, and company news.
+- [Careers](https://www.accuweather.com/en/careers): Employment opportunities and company culture information.
+- [Contact Us](https://www.accuweather.com/en/contact): General contact and support information.
+- [Terms of Use](https://www.accuweather.com/en/legal): Legal terms and usage policies for AccuWeather services.
+- [Privacy Policy](https://www.accuweather.com/en/privacy): Privacy practices and data handling disclosures.

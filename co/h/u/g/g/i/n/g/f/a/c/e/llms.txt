@@ -1,52 +1,88 @@
 # Hugging Face
 
-> > The AI community building the future: a comprehensive platform for discovering, sharing, and collaborating on open-source machine learning models, datasets, and applications.
+> The AI community building the future through open-source models, datasets, apps, and machine learning infrastructure.
 
-Hugging Face is the leading hub for the machine learning community, providing access to hundreds of thousands of pre-trained models, datasets, and interactive spaces. The platform supports multiple frameworks including PyTorch and TensorFlow, and offers enterprise solutions with compute resources, storage, and deployment infrastructure for organizations of all sizes.
-
-## Key Topics
-
-- Transformers
-- Models
-- Datasets
-- Spaces
-- Inference Endpoints
-- PyTorch
-- Diffusers
-- Open Source
-- GPU Compute
-- Model Hub
-- Text-to-Speech
-- LLMs
-- Enterprise Solutions
-- AI Community
-- Model Sharing
+Hugging Face is a platform for discovering, sharing, training, evaluating, and deploying AI systems. It combines the Hub for models, datasets, and Spaces with extensive documentation, open-source libraries, inference services, and enterprise tooling.
 
 ## Core Platform
-
-- [Hugging Face Homepage](https://huggingface.co): AI community platform for open source and democratized ML
-- [Models Hub](https://huggingface.co/models): Explore and discover machine learning models across frameworks
-- [Datasets Repository](https://huggingface.co/datasets): Discover and browse datasets for machine learning
-- [Spaces](https://huggingface.co/spaces): Interactive ML app directory with community-built demos and showcases
-
-## Infrastructure & Services
-
-- [Storage Buckets](https://huggingface.co/storage): Object storage solution for ML data management and deployment
-- [Pricing Plans](https://huggingface.co/pricing): Pricing for Hub, Spaces, storage, ZeroGPU, and inference services
-- [Enterprise Solutions](https://huggingface.co/enterprise): Team and enterprise plans with SSO, security, access controls, and compute resources
+- [Home](https://huggingface.co/): Main entry point for the Hugging Face community and platform.
+- [Models](https://huggingface.co/models): Browse and filter machine learning models published on the Hub.
+- [Datasets](https://huggingface.co/datasets): Explore datasets for training, evaluation, and benchmarking tasks.
+- [Spaces](https://huggingface.co/spaces): Discover interactive AI demos and applications built by the community.
+- [Storage](https://huggingface.co/storage): Learn about storage products for datasets, artifacts, and ML workflows.
+- [Pricing](https://huggingface.co/pricing): Compare plans for Hub, compute, inference, and enterprise features.
+- [Enterprise](https://huggingface.co/enterprise): Overview of organizational, security, and deployment offerings for teams.
 
 ## Documentation
+- [Documentation Hub](https://huggingface.co/docs): Central index for product docs, libraries, and platform guides.
+- [Hub Documentation](https://huggingface.co/docs/hub/index): Guides for repositories, collaboration, authentication, and Hub features.
+- [Inference Providers](https://huggingface.co/docs/inference-providers/index): Documentation for routed inference across supported model providers.
+- [Inference Endpoints](https://huggingface.co/docs/inference-endpoints/index): Managed dedicated model deployment on autoscaling infrastructure.
+- [LeRobot](https://huggingface.co/docs/lerobot/index): Robotics datasets, policies, and tooling for embodied AI workflows.
+- [Safetensors](https://huggingface.co/docs/safetensors/index): Format documentation for safe and efficient tensor serialization.
+- [Evaluate](https://huggingface.co/docs/evaluate/index): Evaluation library for metrics, comparisons, and benchmarking pipelines.
 
-- [Documentation Hub](https://huggingface.co/docs): Comprehensive guides for Hub, libraries, deployment, and ML tools integration
+## Core Libraries
+- [Transformers](https://huggingface.co/docs/transformers/index): APIs and guides for pretrained transformer models across tasks.
+- [Diffusers](https://huggingface.co/docs/diffusers/index): Library for diffusion models in image, video, and audio generation.
+- [Datasets Library](https://huggingface.co/docs/datasets/index): Tools for loading, processing, and sharing datasets efficiently.
+- [Tokenizers](https://huggingface.co/docs/tokenizers/index): Fast tokenizer training and inference library documentation.
+- [Accelerate](https://huggingface.co/docs/accelerate/index): Distributed and mixed-precision training utilities for PyTorch workflows.
+- [PEFT](https://huggingface.co/docs/peft/index): Parameter-efficient fine-tuning methods such as LoRA and adapters.
+- [TRL](https://huggingface.co/docs/trl/index): Training library for reinforcement learning and preference optimization.
+- [Text Generation Inference](https://huggingface.co/docs/text-generation-inference/index): High-performance serving stack for large language models.
 
-## Featured Models
+## Hub Guides
+- [Getting Started with the Hub](https://huggingface.co/docs/hub/quick-start): Introductory guide to accounts, repositories, and core workflows.
+- [Repositories](https://huggingface.co/docs/hub/repositories): Structure and management of model, dataset, and Space repositories.
+- [Downloading Files](https://huggingface.co/docs/hub/repositories-downloading): Methods for downloading repository files and snapshots.
+- [Uploading Files](https://huggingface.co/docs/hub/repositories-uploading): Ways to push files, folders, and large artifacts to the Hub.
+- [Git vs HTTP Paradigm](https://huggingface.co/docs/hub/repositories-getting-started): Explanation of repository access patterns and tooling choices.
+- [Search](https://huggingface.co/docs/hub/search): Search syntax and filtering across models, datasets, and Spaces.
+- [Organizations](https://huggingface.co/docs/hub/organizations): Team collaboration, permissions, and shared resource management.
+- [Security](https://huggingface.co/docs/hub/security): Security features, scanning, access controls, and best practices.
 
-- [Mistral Small 4 119B](https://huggingface.co/mistralai/Mistral-Small-4-119B-2603): Hybrid MoE LLM with reasoning and multimodal capabilities
-- [Qwen3.5 27B Claude Reasoning Distilled](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled): Fine-tuned reasoning LLM distilled with Claude-4.6-Opus capabilities
-- [Qwen3.5 35B Uncensored](https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive): Qwen3.5 35B uncensored LLM variant with quantization options
-- [Fish Audio S2 Pro](https://huggingface.co/fishaudio/s2-pro): Multilingual text-to-speech model with prosody control
-- [Baidu Qianfan-OCR](https://huggingface.co/baidu/Qianfan-OCR): Vision-language model for document intelligence and extraction
+## Inference and Deployment
+- [Inference API](https://huggingface.co/docs/api-inference/index): Serverless inference API for running models from the Hub.
+- [Inference Providers API](https://huggingface.co/docs/inference-providers/tasks/index): Task-oriented API docs for text, vision, audio, and multimodal inference.
+- [Inference Endpoints Overview](https://huggingface.co/docs/inference-endpoints/index): Dedicated endpoints for private, production-grade model serving.
+- [Endpoint Quickstart](https://huggingface.co/docs/inference-endpoints/quick_start): Create and invoke a managed endpoint step by step.
+- [Text Generation Inference](https://huggingface.co/docs/text-generation-inference/index): Deploy optimized LLM serving with batching and streaming support.
+- [Transformers.js](https://huggingface.co/docs/transformers.js/index): Run transformer models in browsers and JavaScript runtimes.
+- [Optimum](https://huggingface.co/docs/optimum/index): Hardware-aware optimization and export tools for inference acceleration.
 
-## Featured Datasets
+## API and Integrations
+- [Hub API Reference](https://huggingface.co/docs/hub/api): Programmatic access to repositories, metadata, and Hub operations.
+- [huggingface_hub](https://huggingface.co/docs/huggingface_hub/index): Python client for authentication, downloads, uploads, and inference.
+- [Authentication](https://huggingface.co/docs/hub/security-tokens): User access tokens and authentication workflows for the Hub.
+- [Webhooks](https://huggingface.co/docs/hub/webhooks): Trigger external automation from repository and Hub events.
+- [GitHub Actions](https://huggingface.co/docs/hub/en/spaces-github-actions): Automate Space deployments from GitHub repositories.
+- [Hub Python Library Search](https://huggingface.co/docs/huggingface_hub/guides/search): Search models, datasets, and Spaces from Python code.
 
-- [Step-3.5-Flash SFT Dataset](https://huggingface.co/datasets/stepfun-ai/Step-3.5-Flash-SFT): Supervised fine-tuning data for chat model training
+## Tasks and Learning
+- [Tasks Overview](https://huggingface.co/tasks): Browse supported machine learning tasks and common use cases.
+- [Natural Language Processing](https://huggingface.co/tasks/text-generation): Entry point for text generation models and examples.
+- [Computer Vision](https://huggingface.co/tasks/image-classification): Explore image classification models, datasets, and demos.
+- [Audio](https://huggingface.co/tasks/automatic-speech-recognition): Discover speech recognition models and related resources.
+- [Multimodal](https://huggingface.co/tasks/image-text-to-text): Find multimodal models for image-text understanding and generation.
+- [Course](https://huggingface.co/learn): Learn Hugging Face tools and modern ML workflows through guided lessons.
+- [Deep RL Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction): Structured introduction to deep reinforcement learning concepts and practice.
+
+## Open Source and Community
+- [Open Source](https://huggingface.co/open-source): Overview of Hugging Face open-source libraries and ecosystem projects.
+- [Blog](https://huggingface.co/blog): Product updates, research highlights, tutorials, and community announcements.
+- [Forum](https://discuss.huggingface.co/): Community discussion board for support, ideas, and technical questions.
+- [Discord](https://huggingface.co/join/discord): Community chat for developers, researchers, and contributors.
+- [Daily Papers](https://huggingface.co/papers): Browse recent machine learning papers and community discussion.
+- [Models Trending](https://huggingface.co/models?sort=trending): See currently popular models on the Hub.
+- [Datasets Trending](https://huggingface.co/datasets?sort=trending): See currently popular datasets on the Hub.
+- [Spaces Trending](https://huggingface.co/spaces?sort=trending): See currently popular interactive apps and demos.
+
+## Enterprise and Platform Operations
+- [Enterprise Overview](https://huggingface.co/enterprise): Central overview of enterprise products and deployment options.
+- [Team and Enterprise Plans](https://huggingface.co/pricing): Plan details for organizations, governance, and infrastructure usage.
+- [Single Sign-On](https://huggingface.co/docs/hub/single-sign-on): Configure SSO for secure organization-wide authentication.
+- [Audit Logs](https://huggingface.co/docs/hub/audit-logs): Track organization activity and administrative events on the Hub.
+- [Resource Groups](https://huggingface.co/docs/hub/resource-groups): Organize access control for repositories and enterprise resources.
+- [Private Hub](https://huggingface.co/docs/hub/enterprise-hub): Self-hosted and enterprise Hub deployment documentation.
+- [Advanced Security](https://huggingface.co/docs/hub/advanced-security): Security scanning and policy controls for enterprise environments.
