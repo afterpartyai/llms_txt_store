@@ -1,0 +1,85 @@
+# NGINX | F5
+> NGINX provides application delivery, load balancing, ingress, API gateway, and web server technologies from F5.
+
+NGINX.com is the primary product and documentation hub for NGINX Open Source, NGINX Plus, NGINX Ingress Controller, NGINX Gateway Fabric, NGINX Unit, and related learning, support, and community resources.
+
+## Product Documentation
+- [NGINX Documentation](https://docs.nginx.com/): Central documentation portal for NGINX products, deployment guides, and administration references.
+- [NGINX Plus Admin Guide](https://docs.nginx.com/nginx/admin-guide/): Configuration and operations guidance for NGINX Plus load balancing and application delivery.
+- [NGINX Ingress Controller Docs](https://docs.nginx.com/nginx-ingress-controller/): Installation, configuration, and Kubernetes ingress management documentation.
+- [NGINX Gateway Fabric Docs](https://docs.nginx.com/nginx-gateway-fabric/): Documentation for deploying and operating NGINX Gateway Fabric with Kubernetes Gateway API.
+- [NGINX Instance Manager Docs](https://docs.nginx.com/nginx-instance-manager/): Guidance for fleet management, monitoring, and configuration of NGINX instances.
+- [NGINX Unit Documentation](https://docs.nginx.com/nginx-unit/): Docs for the polyglot application server and runtime configuration platform.
+- [NGINX One Documentation](https://docs.nginx.com/nginx-one/): Documentation for SaaS-based NGINX fleet visibility, management, and optimization.
+
+## API Reference
+- [NGINX Plus API](https://docs.nginx.com/nginx/admin-guide/monitoring/live-activity-monitoring/): Reference and usage guidance for monitoring and managing NGINX Plus runtime metrics.
+- [NGINX Ingress Controller API Reference](https://docs.nginx.com/nginx-ingress-controller/configuration/): Configuration reference for annotations, policies, and custom resources.
+- [NGINX Gateway Fabric API Reference](https://docs.nginx.com/nginx-gateway-fabric/): Gateway API-oriented resource and configuration documentation.
+- [NGINX Instance Manager API Docs](https://docs.nginx.com/nginx-instance-manager/): API and integration guidance for managing NGINX fleets programmatically.
+- [NGINX Unit Control API](https://docs.nginx.com/nginx-unit/configuration/): REST-based runtime configuration API for applications, listeners, and routes.
+
+## Open Source Documentation
+- [NGINX Open Source Docs](https://nginx.org/en/docs/): Official documentation for the open source NGINX web server and reverse proxy.
+- [Beginner’s Guide](https://nginx.org/en/docs/beginners_guide.html): Introductory guide to configuration structure, control signals, and basic operation.
+- [Admin Guide](https://docs.nginx.com/nginx/admin-guide/): Practical administration guidance applicable across common NGINX deployments.
+- [Module Reference](https://nginx.org/en/docs/): Reference documentation for HTTP, stream, mail, and core modules.
+- [Command-Line Parameters](https://nginx.org/en/docs/switches.html): Reference for startup options, configuration testing, and signal handling.
+- [Development Guide](https://nginx.org/en/docs/dev/development_guide.html): Internal architecture and module development guidance for extending NGINX.
+
+## Kubernetes and Cloud-Native
+- [NGINX Ingress Controller](https://www.nginx.com/products/nginx-ingress-controller/): Product overview for Kubernetes ingress, traffic management, and security capabilities.
+- [NGINX Ingress Controller Docs](https://docs.nginx.com/nginx-ingress-controller/): Technical documentation for installation, configuration, and production operations.
+- [NGINX Gateway Fabric](https://www.nginx.com/products/nginx-gateway-fabric/): Product information for Kubernetes Gateway API implementation by NGINX.
+- [NGINX Gateway Fabric Docs](https://docs.nginx.com/nginx-gateway-fabric/): Deployment and configuration guidance for Gateway API resources and policies.
+- [Networking for Kubernetes](https://www.f5.com/solutions/networking-for-kubernetes): F5 solution page covering Kubernetes networking, ingress, and traffic management.
+- [NGINX Kubernetes Labs](https://www.nginx.com/learn/): Learning resources covering Kubernetes ingress and cloud-native application delivery.
+
+## Learning and Guides
+- [NGINX Learn](https://www.nginx.com/learn/): Educational hub for articles, guides, and conceptual content about NGINX technologies.
+- [NGINX Blog](https://www.nginx.com/blog/): Product updates, technical tutorials, release news, and best practices.
+- [Webinars](https://www.nginx.com/resources/webinars/): On-demand and upcoming webinars on NGINX deployment and operations topics.
+- [Ebooks](https://www.nginx.com/resources/library/): Downloadable technical resources, reports, and solution-oriented guides.
+- [Customer Stories](https://www.nginx.com/customers/): Case studies showing how organizations use NGINX in production.
+- [Events](https://www.nginx.com/events/): Conferences, community events, and training-related event listings.
+
+## Downloads and Trials
+- [Download NGINX Open Source](https://nginx.org/en/download.html): Source and package download information for open source NGINX releases.
+- [Free Trial of NGINX Plus](https://www.nginx.com/free-trial-request/): Trial request page for evaluating NGINX Plus in production-like environments.
+- [NGINX Open Source Packages](https://nginx.org/packages/): Official package repositories and installation instructions for supported platforms.
+- [NGINX Unit Install](https://unit.nginx.org/installation/): Installation instructions for NGINX Unit across operating systems and distributions.
+- [NGINX Agent and Management Docs](https://docs.nginx.com/nginx-instance-manager/): Setup guidance for managed visibility and control of NGINX instances.
+
+## Support and Community
+- [Support](https://www.nginx.com/support/): Commercial support options, subscriptions, and assistance channels for NGINX products.
+- [Documentation Portal](https://docs.nginx.com/): Official starting point for product documentation and operational guidance.
+- [Community Forum](https://community.nginx.org/): Community discussions for troubleshooting, configuration, and best practices.
+- [GitHub Organization](https://github.com/nginx): Source repositories, examples, and issue tracking for NGINX projects.
+- [Security Advisories](https://nginx.org/en/security_advisories.html): Published security notices and remediation information for NGINX software.
+- [Contact Us](https://www.nginx.com/contact-sales/): Sales and product inquiry contact page for NGINX offerings.
+
+## Company and Product Pages
+- [NGINX Products](https://www.nginx.com/products/): Overview of NGINX commercial and open source product offerings.
+- [NGINX Plus](https://www.nginx.com/products/nginx/): Product page for NGINX Plus application delivery and load balancing.
+- [NGINX Open Source](https://www.nginx.com/resources/wiki/): Historical and community-oriented resources related to open source NGINX.
+- [NGINX Unit](https://www.nginx.com/products/nginx-unit/): Product page for the dynamic application server and runtime.
+- [About NGINX](https://www.nginx.com/company/): Company information, background, and organizational context within F5.
+- [F5 Solutions](https://www.f5.com/solutions): Broader F5 solution portfolio relevant to NGINX deployments.
+
+## Related F5 Solutions
+- [AI Infrastructure](https://www.f5.com/solutions/ai-infrastructure): F5 solution overview for scalable AI application and infrastructure delivery.
+- [AI Security](https://www.f5.com/solutions/ai-security): F5 security solutions for protecting AI applications, models, and APIs.
+- [Application Delivery and Traffic Management](https://www.f5.com/solutions/application-delivery-and-traffic-management): Solution page for app delivery, load balancing, and traffic optimization.
+- [Edge Distribution](https://www.f5.com/solutions/edge-distribution): F5 edge delivery solution for distributed applications and content performance.
+- [Web Application and API Protection](https://www.f5.com/solutions/web-app-and-api-protection): Security solution for defending web apps and APIs from attacks.
+- [Zero Trust Architecture](https://www.f5.com/solutions/zero-trust-architecture): F5 approach to identity-aware, least-privilege access architectures.
+
+## Industry and Partner Resources
+- [Banking and Financial Services](https://www.f5.com/solutions/banking-and-financial-services): Industry solution page for secure, resilient financial application delivery.
+- [E-commerce](https://www.f5.com/solutions/ecommerce): Solution guidance for digital commerce performance, availability, and security.
+- [Healthcare](https://www.f5.com/solutions/healthcare): Healthcare-focused application security and delivery solution overview.
+- [Public Sector](https://www.f5.com/solutions/public-sector): Government and public sector application modernization and security solutions.
+- [Technology](https://www.f5.com/solutions/f5-solutions-for-technology): Solutions for technology companies building and delivering digital services.
+- [Manufacturing](https://www.f5.com/solutions/smart-manufacturing): Smart manufacturing solution page for connected operations and application security.
+- [CrowdStrike Alliance](https://www.f5.com/partners/technology-alliances/crowdstrike): Technology alliance page describing integration and partnership details.
+- [Dell Alliance](https://www.f5.com/partners/technology-alliances/dell): Technology alliance page for joint solution and interoperability information.

@@ -1,0 +1,75 @@
+# Adnxs / Xandr
+> Enterprise advertising technology platform for programmatic buying, selling, curation, identity, and monetization.
+
+Adnxs.com and its documentation properties provide technical resources for Xandr's advertising platform, including bidder and seller APIs, curation, reporting, identity, and integration guides for buyers, sellers, and developers.
+
+## Platform Documentation
+- [Xandr Documentation Home](https://learn.microsoft.com/en-us/xandr/): Central entry point for Xandr platform product and developer documentation.
+- [Release Notes](https://learn.microsoft.com/en-us/xandr/release-notes/): Product and API release updates across Xandr platform capabilities.
+- [Glossary](https://learn.microsoft.com/en-us/xandr/glossary/): Definitions for platform, advertising, and marketplace terminology used in documentation.
+- [Getting Started](https://learn.microsoft.com/en-us/xandr/getting-started/): Introductory guidance for onboarding to Xandr products and workflows.
+
+## Buyer Platform
+- [Buyer Platform Overview](https://learn.microsoft.com/en-us/xandr/digital-platform-api/): Overview of buyer-side platform APIs and related resources.
+- [Campaign Service](https://learn.microsoft.com/en-us/xandr/digital-platform-api/campaign-service): Manage campaign objects and settings for buyer workflows.
+- [Line Item Service](https://learn.microsoft.com/en-us/xandr/digital-platform-api/line-item-service): Create and manage line items, targeting, pacing, and delivery controls.
+- [Creative Service](https://learn.microsoft.com/en-us/xandr/digital-platform-api/creative-service): Upload, manage, and audit creatives used in campaigns.
+- [Profile Service](https://learn.microsoft.com/en-us/xandr/digital-platform-api/profile-service): Configure targeting profiles and audience-related settings.
+- [Reporting Guide](https://learn.microsoft.com/en-us/xandr/digital-platform-api/reporting-guide): Learn reporting concepts, report types, and execution patterns.
+- [Report Service](https://learn.microsoft.com/en-us/xandr/digital-platform-api/report-service): Run and retrieve reports programmatically from the platform.
+
+## Seller Platform
+- [Seller Platform Overview](https://learn.microsoft.com/en-us/xandr/seller-tag/): Documentation for seller-side monetization and inventory management capabilities.
+- [Placement Service](https://learn.microsoft.com/en-us/xandr/digital-platform-api/placement-service): Manage placements and inventory objects for monetized supply.
+- [Publisher Service](https://learn.microsoft.com/en-us/xandr/digital-platform-api/publisher-service): Create and manage publisher entities and associated settings.
+- [Ad Quality Service](https://learn.microsoft.com/en-us/xandr/digital-platform-api/ad-quality-service): Review and control ad quality settings and enforcement options.
+- [Inventory Attribute Service](https://learn.microsoft.com/en-us/xandr/digital-platform-api/inventory-attribute-service): Work with inventory attributes used in classification and targeting.
+- [Yield Management](https://learn.microsoft.com/en-us/xandr/monetize/): Seller-focused monetization documentation and operational guidance.
+
+## Curate and Supply Path
+- [Curate Documentation](https://learn.microsoft.com/en-us/xandr/curate/): Documentation for curation workflows, deal packaging, and supply path optimization.
+- [Curated Deals](https://learn.microsoft.com/en-us/xandr/curate/curated-deals): Manage curated deal creation and distribution workflows.
+- [Deal Service](https://learn.microsoft.com/en-us/xandr/digital-platform-api/deal-service): Create and manage private marketplace and deal objects.
+- [Supply Path Optimization](https://learn.microsoft.com/en-us/xandr/curate/supply-path-optimization): Guidance for optimizing curated supply paths and access.
+- [Marketplace Concepts](https://learn.microsoft.com/en-us/xandr/marketplace/): Concepts and workflows for marketplace transactions and deal execution.
+
+## Real-Time and Bidding APIs
+- [Bidders Overview](https://learn.microsoft.com/en-us/xandr/bidders/): Technical documentation for bidder integrations and bid request handling.
+- [OpenRTB Specification Support](https://learn.microsoft.com/en-us/xandr/bidders/openrtb-specification): Xandr-specific implementation details for OpenRTB bidding.
+- [Bid Request Format](https://learn.microsoft.com/en-us/xandr/bidders/bid-request-format): Field-level guidance for interpreting incoming bid requests.
+- [Bid Response Format](https://learn.microsoft.com/en-us/xandr/bidders/bid-response-format): Requirements and structure for valid bid responses.
+- [Mobile Bid Requests](https://learn.microsoft.com/en-us/xandr/bidders/mobile-bid-requests): Mobile-specific bid request handling and field behavior.
+- [Server-Side Cookie Sync](https://learn.microsoft.com/en-us/xandr/bidders/cookie-sync): Identity synchronization guidance for bidder integrations.
+
+## Identity, Audiences, and Data
+- [Identity Solutions](https://learn.microsoft.com/en-us/xandr/identity/): Documentation for identity products, addressability, and user matching.
+- [Segment Service](https://learn.microsoft.com/en-us/xandr/digital-platform-api/segment-service): Create and manage audience segments and related metadata.
+- [Pixel Service](https://learn.microsoft.com/en-us/xandr/digital-platform-api/pixel-service): Manage conversion and audience pixels for tracking and attribution.
+- [Batch Segment Service](https://learn.microsoft.com/en-us/xandr/digital-platform-api/batch-segment-service): Bulk operations for audience segment membership management.
+- [User Sync](https://learn.microsoft.com/en-us/xandr/identity/user-sync): Guidance for syncing user identifiers with Xandr systems.
+- [Data Management](https://learn.microsoft.com/en-us/xandr/data-management/): Concepts and workflows for audience and data onboarding.
+
+## Reporting and Analytics
+- [Reporting Overview](https://learn.microsoft.com/en-us/xandr/reporting/): Overview of reporting capabilities, dimensions, metrics, and workflows.
+- [Standard Reports](https://learn.microsoft.com/en-us/xandr/reporting/standard-reports): Available standard report types and common use cases.
+- [Dimensions and Metrics](https://learn.microsoft.com/en-us/xandr/reporting/dimensions-and-metrics): Reference for report fields, dimensions, and measurement definitions.
+- [Log-Level Data](https://learn.microsoft.com/en-us/xandr/log-level-data/): Documentation for log-level exports and event data access.
+- [Report Service](https://learn.microsoft.com/en-us/xandr/digital-platform-api/report-service): API endpoint for submitting and retrieving reports.
+- [Analytics Best Practices](https://learn.microsoft.com/en-us/xandr/reporting/best-practices): Practical guidance for efficient report generation and interpretation.
+
+## API Reference
+- [Digital Platform API Overview](https://learn.microsoft.com/en-us/xandr/digital-platform-api/): Main API reference for object services and operational endpoints.
+- [Authentication Service](https://learn.microsoft.com/en-us/xandr/digital-platform-api/authentication-service): Authenticate API clients and manage session tokens.
+- [Member Service](https://learn.microsoft.com/en-us/xandr/digital-platform-api/member-service): Access and manage member-level account configuration.
+- [Advertiser Service](https://learn.microsoft.com/en-us/xandr/digital-platform-api/advertiser-service): Create and manage advertiser entities and settings.
+- [Insertion Order Service](https://learn.microsoft.com/en-us/xandr/digital-platform-api/insertion-order-service): Manage insertion orders and budget structures for campaigns.
+- [Payment Rule Service](https://learn.microsoft.com/en-us/xandr/digital-platform-api/payment-rule-service): Configure payment and revenue rules for transactions.
+- [Object Model](https://learn.microsoft.com/en-us/xandr/digital-platform-api/object-model): Understand relationships among core platform entities.
+
+## Integration Guides
+- [API Best Practices](https://learn.microsoft.com/en-us/xandr/digital-platform-api/api-best-practices): Recommendations for reliable, efficient, and scalable API integrations.
+- [Pagination](https://learn.microsoft.com/en-us/xandr/digital-platform-api/pagination): Learn how to page through large API result sets.
+- [Filtering and Sorting](https://learn.microsoft.com/en-us/xandr/digital-platform-api/filtering-and-sorting): Query API resources using filters and sort parameters.
+- [Error Codes](https://learn.microsoft.com/en-us/xandr/digital-platform-api/error-codes): Reference for common API errors and troubleshooting guidance.
+- [Rate Limits](https://learn.microsoft.com/en-us/xandr/digital-platform-api/rate-limits): Understand API throttling behavior and integration considerations.
+- [Webhook and Notification Concepts](https://learn.microsoft.com/en-us/xandr/digital-platform-api/notifications): Guidance for event-driven integration patterns where supported.

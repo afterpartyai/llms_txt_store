@@ -1,0 +1,90 @@
+# Shopify
+> Shopify is a commerce platform for building, customizing, and operating online stores, retail systems, and commerce apps.
+
+This llms.txt focuses on Shopify’s developer and technical resources across APIs, app development, themes, storefronts, admin tooling, and platform guides. It prioritizes stable documentation and reference pages useful for LLM-assisted development.
+
+## Developer Home
+- [Shopify Dev](https://shopify.dev/): Main developer portal for Shopify platform documentation, APIs, tools, and guides.
+- [Documentation](https://shopify.dev/docs): Central index for Shopify developer docs across apps, themes, APIs, and storefronts.
+- [API Reference](https://shopify.dev/docs/api): Entry point for Admin, Storefront, Customer Account, and partner-facing APIs.
+- [Developer Changelog](https://shopify.dev/changelog): Product and platform updates affecting Shopify development workflows and integrations.
+- [Shopify Partners](https://www.shopify.com/partners): Partner program information for app developers, agencies, and solution providers.
+
+## Admin API
+- [Admin API Overview](https://shopify.dev/docs/api/admin): Overview of Shopify’s primary API for store administration and commerce operations.
+- [GraphQL Admin API Reference](https://shopify.dev/docs/api/admin-graphql): GraphQL schema reference for products, orders, customers, and store configuration.
+- [REST Admin API Reference](https://shopify.dev/docs/api/admin-rest): Legacy REST reference for administrative resources and store management endpoints.
+- [Admin API Authentication](https://shopify.dev/docs/apps/auth): Authentication patterns for embedded apps and Admin API access.
+- [API Versioning](https://shopify.dev/docs/api/usage/versioning): Shopify API versioning policy, release cadence, and upgrade expectations.
+- [Rate Limits](https://shopify.dev/docs/api/usage/rate-limits): Request throttling behavior and limits for Shopify APIs.
+
+## App Development
+- [Build an App](https://shopify.dev/docs/apps/build): Guides for creating public and custom apps on Shopify.
+- [App Architecture](https://shopify.dev/docs/apps/build/architecture): Core concepts for embedded apps, extensions, and backend integration design.
+- [Authentication](https://shopify.dev/docs/apps/build/authentication-authorization): OAuth and session token flows for Shopify app authorization.
+- [App Distribution](https://shopify.dev/docs/apps/distribution): Options for distributing public, custom, and private Shopify apps.
+- [Webhooks](https://shopify.dev/docs/apps/build/webhooks): Subscribe to Shopify events and process asynchronous store changes.
+- [Billing for Apps](https://shopify.dev/docs/apps/launch/billing): Implement recurring, usage-based, and one-time app charges.
+
+## App Extensions
+- [App Extensions Overview](https://shopify.dev/docs/apps/build/app-extensions): Introduction to extension points for Shopify app functionality.
+- [Admin UI Extensions](https://shopify.dev/docs/apps/build/admin/actions-blocks): Extend Shopify Admin with actions and blocks in merchant workflows.
+- [Checkout UI Extensions](https://shopify.dev/docs/apps/build/checkout): Customize checkout experiences using Shopify’s extension framework.
+- [Customer Account UI Extensions](https://shopify.dev/docs/apps/build/customer-accounts): Add app functionality to Shopify customer account surfaces.
+- [Flow Actions and Triggers](https://shopify.dev/docs/apps/build/flow): Integrate apps with Shopify Flow automation actions and triggers.
+- [Functions](https://shopify.dev/docs/apps/build/functions): Run custom backend logic inside Shopify commerce workflows.
+
+## Storefronts and Headless
+- [Storefronts Overview](https://shopify.dev/docs/storefronts): Documentation for Liquid themes, Hydrogen, and headless storefront development.
+- [Storefront API](https://shopify.dev/docs/api/storefront): GraphQL API for building custom storefronts and buyer experiences.
+- [Hydrogen](https://shopify.dev/docs/storefronts/headless/hydrogen): React framework for custom Shopify storefronts.
+- [Oxygen](https://shopify.dev/docs/storefronts/headless/oxygen): Shopify-hosted deployment platform for Hydrogen storefronts.
+- [Headless](https://shopify.dev/docs/storefronts/headless): Concepts and guides for decoupled commerce architectures on Shopify.
+- [Customer Account API](https://shopify.dev/docs/api/customer): API for authenticated customer account experiences and self-service flows.
+
+## Themes and Liquid
+- [Themes Overview](https://shopify.dev/docs/storefronts/themes): Documentation for building, customizing, and maintaining Shopify themes.
+- [Liquid Reference](https://shopify.dev/docs/api/liquid): Reference for Shopify’s Liquid templating language, objects, tags, and filters.
+- [Theme Architecture](https://shopify.dev/docs/storefronts/themes/architecture): Core theme structure, templates, sections, blocks, and assets.
+- [Theme Best Practices](https://shopify.dev/docs/storefronts/themes/best-practices): Recommendations for performance, maintainability, and merchant-friendly theme design.
+- [Theme App Extensions](https://shopify.dev/docs/apps/build/online-store/theme-app-extensions): Add app blocks and embeds to themes without direct code edits.
+- [Online Store 2.0](https://shopify.dev/docs/storefronts/themes/architecture/sections): Section-based theme capabilities introduced with Online Store 2.0.
+
+## Shopify CLI and Tooling
+- [Shopify CLI](https://shopify.dev/docs/api/shopify-cli): Command-line tooling for apps, themes, and local development workflows.
+- [App Development with CLI](https://shopify.dev/docs/apps/build/cli-for-apps): Use Shopify CLI to scaffold, run, and deploy apps.
+- [Theme Development with CLI](https://shopify.dev/docs/storefronts/themes/tools/cli): Local theme development, preview, and deployment using Shopify CLI.
+- [GraphiQL App](https://shopify.dev/docs/api/usage/api-exploration/admin-graphiql-explorer): Explore and test Shopify GraphQL APIs interactively.
+- [Dev Dashboard](https://shopify.dev/docs/apps/tools/development-stores): Development stores and testing environments for Shopify app and theme work.
+
+## B2B, Markets, and Commerce Features
+- [B2B on Shopify](https://shopify.dev/docs/apps/build/b2b): Build solutions for wholesale and business-to-business commerce workflows.
+- [Markets](https://shopify.dev/docs/apps/build/markets): International commerce concepts for localization, pricing, and regional selling.
+- [Subscriptions](https://shopify.dev/docs/apps/build/purchase-options/subscriptions): Build subscription purchase options and recurring commerce experiences.
+- [Bundles](https://shopify.dev/docs/apps/build/product-merchandising/bundles): Support bundled products and merchandising use cases in Shopify apps.
+- [Discounts with Functions](https://shopify.dev/docs/apps/build/discounts): Create custom discount logic using Shopify Functions.
+- [Cart and Checkout Customization](https://shopify.dev/docs/apps/build/checkout): Extend cart and checkout behavior with supported Shopify surfaces.
+
+## Webhooks, Events, and Data
+- [Webhooks Overview](https://shopify.dev/docs/apps/build/webhooks): Event delivery model for store changes and app integrations.
+- [Webhook HTTPS Delivery](https://shopify.dev/docs/apps/build/webhooks/subscribe/https): Configure HTTPS endpoints for receiving Shopify webhook events.
+- [Webhook Event Topics](https://shopify.dev/docs/api/admin-graphql/latest/enums/WebhookSubscriptionTopic): Available webhook subscription topics in the Admin GraphQL API.
+- [Bulk Operations](https://shopify.dev/docs/api/usage/bulk-operations/queries): Query large datasets asynchronously through Shopify GraphQL bulk operations.
+- [Metafields](https://shopify.dev/docs/apps/build/custom-data/metafields): Store and manage custom structured data on Shopify resources.
+- [Metaobjects](https://shopify.dev/docs/apps/build/custom-data/metaobjects): Define reusable custom content models for Shopify stores and apps.
+
+## Guides and Tutorials
+- [Tutorials](https://shopify.dev/docs/apps/build/tutorials): Step-by-step tutorials for common Shopify app development tasks.
+- [Getting Started](https://shopify.dev/docs/apps/getting-started): Introductory path for new Shopify app developers.
+- [Migration Guides](https://shopify.dev/docs/apps/build/graphql/migrate): Guidance for moving app implementations toward GraphQL-based APIs.
+- [Launch Checklist](https://shopify.dev/docs/apps/launch): Requirements and recommendations for shipping production-ready Shopify apps.
+- [Best Practices](https://shopify.dev/docs/apps/build/best-practices): Recommended patterns for security, UX, performance, and platform compatibility.
+- [Examples](https://shopify.dev/docs/apps/build/examples): Example implementations and patterns for Shopify development.
+
+## SDKs and Frameworks
+- [Shopify App Remix](https://shopify.dev/docs/api/shopify-app-remix): Remix package and patterns for building embedded Shopify apps.
+- [Shopify App React Router](https://shopify.dev/docs/api/shopify-app-react-router): React Router tooling for Shopify app authentication and embedded UX.
+- [Admin API Libraries](https://shopify.dev/docs/api/admin-graphql#client-libraries): Official client library entry points for Admin GraphQL integrations.
+- [Storefront API Libraries](https://shopify.dev/docs/api/storefront#client-libraries): Client library options for Storefront API implementations.
+- [Polaris](https://polaris.shopify.com/): Shopify’s design system for building consistent merchant-facing interfaces.
+- [Shopify GitHub](https://github.com/Shopify): Open-source repositories, SDKs, examples, and platform tooling maintained by Shopify.

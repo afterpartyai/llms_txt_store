@@ -1,0 +1,76 @@
+# Mailchimp API Documentation
+> Technical documentation for Mailchimp's Marketing API, Transactional API, and developer tools hosted on list-manage.com.
+
+This site provides developer-focused resources for integrating with Mailchimp, including API references, release notes, SDKs, and implementation guidance for marketing automation, audience management, campaigns, and transactional email.
+
+## Getting Started
+- [Developer Home](https://mailchimp.com/developer/): Main developer portal for Mailchimp APIs, tools, guides, and integration resources.
+- [Marketing API](https://mailchimp.com/developer/marketing/): Overview of the Mailchimp Marketing API for audiences, campaigns, automations, and reporting.
+- [Transactional API](https://mailchimp.com/developer/transactional/): Overview of Mailchimp Transactional API for sending and managing transactional email.
+- [Quick Start](https://mailchimp.com/developer/marketing/guides/quick-start/): Introductory guide to authenticate and make your first Marketing API request.
+- [API Root Resource](https://us1.api.mailchimp.com/3.0/): Entry point for discovering available Marketing API resources and links.
+
+## Marketing API Reference
+- [Marketing API Reference](https://mailchimp.com/developer/marketing/api/): Complete endpoint reference for the Mailchimp Marketing API.
+- [Audiences](https://mailchimp.com/developer/marketing/api/lists/): Manage audiences, contacts, segments, and signup forms.
+- [Campaigns](https://mailchimp.com/developer/marketing/api/campaigns/): Create, update, send, and report on email campaigns.
+- [Automations](https://mailchimp.com/developer/marketing/api/automations/): Work with classic automations, workflow emails, and subscriber queues.
+- [Reports](https://mailchimp.com/developer/marketing/api/reports/): Access campaign reporting, engagement metrics, and performance data.
+- [Templates](https://mailchimp.com/developer/marketing/api/templates/): Manage email templates and reusable campaign content.
+- [File Manager](https://mailchimp.com/developer/marketing/api/file-manager/): Upload and organize files used in Mailchimp campaigns and content.
+- [Landing Pages](https://mailchimp.com/developer/marketing/api/landing-pages/): Create and manage landing pages and related publishing resources.
+
+## Transactional API Reference
+- [Transactional API Reference](https://mailchimp.com/developer/transactional/api/): Complete endpoint reference for Mailchimp Transactional.
+- [Messages](https://mailchimp.com/developer/transactional/api/messages/): Send transactional messages and inspect delivery-related message operations.
+- [Templates](https://mailchimp.com/developer/transactional/api/templates/): Manage reusable transactional email templates.
+- [Senders](https://mailchimp.com/developer/transactional/api/senders/): View sender domains, addresses, and reputation-related information.
+- [Rejects](https://mailchimp.com/developer/transactional/api/rejects/): Inspect and manage rejected recipients and suppression data.
+- [Inbound](https://mailchimp.com/developer/transactional/api/inbound/): Process inbound email routes and parse incoming messages.
+- [Subaccounts](https://mailchimp.com/developer/transactional/api/subaccounts/): Manage subaccounts for account separation and reporting.
+- [Webhooks](https://mailchimp.com/developer/transactional/api/webhooks/): Configure and inspect webhook behavior for transactional events.
+
+## Guides
+- [Marketing API Guides](https://mailchimp.com/developer/marketing/guides/): Collection of implementation guides for common Marketing API workflows.
+- [Create Your First Audience](https://mailchimp.com/developer/marketing/guides/create-your-first-audience/): Learn how to create and configure an audience with the API.
+- [Organize Contacts with Tags](https://mailchimp.com/developer/marketing/guides/organize-contacts-with-tags/): Use tags to classify and manage audience members programmatically.
+- [Run an A/B Test Campaign](https://mailchimp.com/developer/marketing/guides/run-an-a-b-test-campaign/): Build and send A/B test campaigns through the API.
+- [Track Outside Activity](https://mailchimp.com/developer/marketing/guides/track-outside-activity-with-the-events-endpoint/): Record external customer actions using the events endpoint.
+- [Create a Custom Website](https://mailchimp.com/developer/marketing/guides/create-a-custom-website/): Use Mailchimp APIs to power custom site and marketing experiences.
+- [Transactional Guides](https://mailchimp.com/developer/transactional/guides/): Practical guides for setup, sending, templates, and deliverability workflows.
+- [Send Your First Transactional Email](https://mailchimp.com/developer/transactional/guides/send-your-first-transactional-email/): Quick guide to authenticate and send a first transactional message.
+
+## SDKs and Tools
+- [Official Client Libraries](https://mailchimp.com/developer/marketing/docs/fundamentals/?shell#client-libraries): Overview of official and community Mailchimp client libraries.
+- [OpenAPI Specification](https://github.com/mailchimp/mailchimp-client-lib-codegen): Source repository for generated Mailchimp client libraries and API definitions.
+- [Postman Collection](https://www.postman.com/mailchimp/mailchimp-marketing-api/overview): Postman workspace for exploring and testing Marketing API endpoints.
+- [Transactional API Clients](https://mailchimp.com/developer/transactional/docs/fundamentals/): Language-specific setup details and fundamentals for Transactional integrations.
+- [API Playground](https://mailchimp.com/developer/marketing/api/): Interactive documentation interface for trying Marketing API operations.
+
+## Fundamentals
+- [Marketing API Fundamentals](https://mailchimp.com/developer/marketing/docs/fundamentals/): Core concepts for authentication, datacenters, errors, and request conventions.
+- [Authentication](https://mailchimp.com/developer/marketing/docs/fundamentals/?shell#authentication): How to authenticate requests to the Marketing API.
+- [Pagination, Filtering, and Sorting](https://mailchimp.com/developer/marketing/docs/methods-parameters/): Common query parameters and response-shaping techniques.
+- [Errors](https://mailchimp.com/developer/marketing/docs/errors/): Error format, troubleshooting guidance, and handling strategies.
+- [Batch Operations](https://mailchimp.com/developer/marketing/guides/run-async-requests-batch-endpoint/): Use the batch endpoint for asynchronous bulk API requests.
+- [Webhooks](https://mailchimp.com/developer/marketing/guides/sync-audience-data-webhooks/): Sync audience changes using Mailchimp webhook notifications.
+
+## Release Notes and Changelog
+- [Developer Release Notes](https://mailchimp.com/developer/release-notes/): Product and API release notes for Mailchimp developers.
+- [Marketing API Release Notes](https://mailchimp.com/developer/release-notes/): Updates affecting Marketing API behavior and developer tooling.
+- [Transactional Release Notes](https://mailchimp.com/developer/release-notes/): Updates affecting Transactional API features and platform changes.
+
+## Account and Integration Topics
+- [OAuth 2](https://mailchimp.com/developer/marketing/guides/access-user-data-oauth-2/): Implement OAuth 2 to access Mailchimp accounts on behalf of users.
+- [E-commerce](https://mailchimp.com/developer/marketing/api/ecommerce/): Manage stores, products, carts, orders, and connected customer data.
+- [Conversations](https://mailchimp.com/developer/marketing/api/conversations/): Access customer conversation data and related messaging resources.
+- [Customer Journeys](https://mailchimp.com/developer/marketing/api/customer-journeys/): Work with customer journey maps, steps, and automation flows.
+- [Authorized Apps](https://mailchimp.com/developer/marketing/api/authorized-apps/): Inspect applications authorized to access a Mailchimp account.
+- [Account Exports](https://mailchimp.com/developer/marketing/api/account-exports/): Create and manage account export jobs and downloadable data.
+
+## Additional Resources
+- [Developer Blog](https://mailchimp.com/developer/): Entry point for broader developer announcements and resources.
+- [Mailchimp Main Site](https://mailchimp.com/): Main product site for Mailchimp platform features and account access.
+- [Support](https://mailchimp.com/help/): Product help center for Mailchimp features and troubleshooting.
+- [API Status](https://status.mailchimp.com/): Service status and incident history for Mailchimp systems.
+- [Login](https://login.mailchimp.com/): Sign in to Mailchimp accounts for managing API keys and integrations.

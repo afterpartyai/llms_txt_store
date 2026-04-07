@@ -1,0 +1,78 @@
+# Amazon Developer
+> Official developer portal for Amazon APIs, SDKs, tools, and technical resources across Amazon services and devices.
+
+Amazon Developer provides documentation, APIs, SDK references, tutorials, and program information for building integrations with Amazon marketplaces, Alexa, Fire TV, Appstore, Login with Amazon, and related Amazon platforms.
+
+## Core Documentation
+- [Documentation Home](https://developer.amazon.com/docs): Entry point for Amazon developer documentation across products and platforms.
+- [Developer Home](https://developer.amazon.com/): Main portal for Amazon developer tools, programs, and technical resources.
+- [Developer Blog](https://developer.amazon.com/blogs): Product updates, announcements, tutorials, and engineering guidance from Amazon Developer.
+- [Support](https://developer.amazon.com/support): Support resources, contact options, and help for Amazon developer programs.
+- [Developer Console](https://developer.amazon.com/apps-and-games/console): Console for managing apps, skills, and Amazon developer assets.
+
+## Alexa
+- [Alexa Documentation](https://developer.amazon.com/en-US/alexa): Overview of Alexa developer tools, docs, and platform capabilities.
+- [Alexa Skills Kit Documentation](https://developer.amazon.com/en-US/docs/alexa/ask-overviews/build-skills-with-the-alexa-skills-kit.html): Introduction to building voice experiences with the Alexa Skills Kit.
+- [Alexa Voice Service Documentation](https://developer.amazon.com/en-US/docs/alexa/alexa-voice-service/overview.html): Build Alexa directly into products using Alexa Voice Service.
+- [Alexa Smart Home Documentation](https://developer.amazon.com/en-US/docs/alexa/smarthome/understand-the-smart-home-skill-api.html): Reference and guides for smart home skill integrations.
+- [Alexa Presentation Language](https://developer.amazon.com/en-US/docs/alexa/alexa-presentation-language/apl-overview.html): Build multimodal Alexa experiences with visual interfaces.
+- [Alexa Developer Console](https://developer.amazon.com/alexa/console/ask): Console for creating, testing, and publishing Alexa skills.
+
+## Appstore and Apps
+- [Appstore Documentation](https://developer.amazon.com/docs/app-submission/overview.html): Guides for building, testing, and submitting apps to Amazon Appstore.
+- [App Submission API](https://developer.amazon.com/docs/app-submission-api/overview.html): API documentation for automating app submission and release workflows.
+- [In-App Purchasing](https://developer.amazon.com/docs/in-app-purchasing/iap-overview.html): Implement digital purchases and subscriptions in Amazon apps.
+- [App Testing Service](https://developer.amazon.com/docs/app-testing-service/ats-overview.html): Test Android apps for compatibility with Amazon devices and Appstore requirements.
+- [Reporting API](https://developer.amazon.com/docs/reports-promo/reporting-api.html): Access app sales, earnings, and performance reporting programmatically.
+- [Small Business Accelerator Program](https://developer.amazon.com/apps-and-games/small-business-program): Program details for Appstore revenue share incentives.
+
+## Fire TV
+- [Fire TV Documentation](https://developer.amazon.com/docs/fire-tv/getting-started-developing-apps-and-games-for-fire-tv.html): Getting started guides for building apps and games for Fire TV.
+- [Fire TV Design and UX](https://developer.amazon.com/docs/fire-tv/design-and-user-experience-guidelines.html): Design guidance and UX best practices for Fire TV apps.
+- [Fire TV Remote Input](https://developer.amazon.com/docs/fire-tv/remote-input.html): Handle remote control navigation and input events correctly.
+- [Media Playback on Fire TV](https://developer.amazon.com/docs/fire-tv/media-players.html): Implement media playback and player integration on Fire TV.
+- [Testing on Fire TV](https://developer.amazon.com/docs/fire-tv/testing-your-app-on-amazon-fire-tv.html): Test and validate Fire TV apps before release.
+
+## Login with Amazon
+- [Login with Amazon Documentation](https://developer.amazon.com/docs/login-with-amazon/documentation-overview.html): Overview of authentication and authorization with Login with Amazon.
+- [Web Authorization](https://developer.amazon.com/docs/login-with-amazon/web-docs.html): Integrate Login with Amazon into browser-based applications.
+- [iOS SDK Documentation](https://developer.amazon.com/docs/login-with-amazon/ios-sdk-reference.html): Reference for integrating Login with Amazon on iOS.
+- [Android SDK Documentation](https://developer.amazon.com/docs/login-with-amazon/android-sdk-reference.html): Reference for integrating Login with Amazon on Android.
+- [Customer Profile API](https://developer.amazon.com/docs/login-with-amazon/customer-profile.html): Retrieve customer profile information after successful authorization.
+- [Token Exchange and Security](https://developer.amazon.com/docs/login-with-amazon/access-token.html): Understand access tokens and secure API access patterns.
+
+## Selling Partner API
+- [Selling Partner API Home](https://developer.amazon.com/docs/sp-api/): Documentation hub for Amazon Selling Partner API resources.
+- [SP-API Developer Guide](https://developer.amazon.com/docs/sp-api/guide-to-selling-partner-api.html): Core concepts, onboarding, and usage guidance for SP-API.
+- [SP-API Reference](https://developer.amazon.com/docs/sp-api/reference/reference.html): API reference for orders, listings, reports, feeds, and more.
+- [SP-API Models](https://developer.amazon.com/docs/sp-api/models.html): OpenAPI models and schemas for Selling Partner API endpoints.
+- [SP-API Release Notes](https://developer.amazon.com/docs/sp-api/release-notes.html): Track changes, updates, and deprecations across SP-API.
+- [SP-API Sandbox](https://developer.amazon.com/docs/sp-api/sandbox.html): Learn how to test integrations using sandbox environments.
+
+## Amazon Ads API
+- [Amazon Ads API Documentation](https://advertising.amazon.com/API/docs/en-us): Documentation for building integrations with Amazon Ads APIs.
+- [Amazon Ads API Reference](https://advertising.amazon.com/API/docs/en-us/reference/): Endpoint reference for campaign, reporting, and audience operations.
+- [Amazon Ads API Guides](https://advertising.amazon.com/API/docs/en-us/guides/): Guides for authentication, workflows, and implementation patterns.
+- [Amazon Ads API Release Notes](https://advertising.amazon.com/API/docs/en-us/release-notes/): Updates and changes to Amazon Ads API capabilities.
+- [Amazon Ads API Onboarding](https://advertising.amazon.com/API/docs/en-us/get-started/overview): Get started with access, setup, and first API calls.
+
+## Devices and Smart Home
+- [Smart Home Skill API](https://developer.amazon.com/en-US/docs/alexa/device-apis/smart-home-general-apis.html): Device API guidance for Alexa smart home integrations.
+- [Alexa Connect Kit](https://developer.amazon.com/en-US/alexa/connected-products/alexa-connect-kit): Build connected devices with managed connectivity and Alexa integration.
+- [AVS Device SDK](https://developer.amazon.com/en-US/docs/alexa/alexa-voice-service/alexa-voice-service-overview.html): SDK and documentation for embedding Alexa in hardware products.
+- [Frustration-Free Setup](https://developer.amazon.com/en-US/docs/alexa/smarthome/frustration-free-setup.html): Enable simplified device setup experiences for customers.
+- [Matter on Alexa](https://developer.amazon.com/en-US/docs/alexa/smarthome/matter-support.html): Guidance for Matter-compatible smart home device integrations.
+
+## Tools and SDKs
+- [Developer Tools](https://developer.amazon.com/tools-and-resources): Overview of Amazon developer tools, SDKs, and integration resources.
+- [Appstore SDKs](https://developer.amazon.com/docs/app-submission/sdk-overview.html): SDK-related resources for Amazon Appstore app development.
+- [Alexa Skills Kit SDKs](https://developer.amazon.com/en-US/docs/alexa/sdk/alexa-skills-kit-sdks.html): SDK options for building Alexa skills in multiple languages.
+- [Alexa Hosted Skills](https://developer.amazon.com/en-US/docs/alexa/hosted-skills/alexa-hosted-skills-overview.html): Managed hosting option for Alexa skill development and deployment.
+- [Developer Downloads](https://developer.amazon.com/apps-and-games/resources/developer-tools): Downloadable tools and utilities for Amazon app development.
+
+## Guides and Learning
+- [Tutorials and Training](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/get-deeper/tutorials-code-samples): Tutorials and code samples for Alexa and related developer workflows.
+- [Code Samples](https://developer.amazon.com/en-US/docs): Product documentation with embedded examples and implementation guidance.
+- [App Distribution and Promotion](https://developer.amazon.com/docs/reports-promo/promote-apps.html): Learn how to promote and grow apps on Amazon platforms.
+- [Monetization Guides](https://developer.amazon.com/docs/in-app-purchasing/monetizing-your-app.html): Guidance for monetization using in-app purchasing and subscriptions.
+- [Publishing Best Practices](https://developer.amazon.com/docs/app-submission/device-targeting-and-compatibility.html): Best practices for compatibility, targeting, and successful app publishing.

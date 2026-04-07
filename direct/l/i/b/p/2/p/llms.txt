@@ -1,0 +1,61 @@
+# libp2p Direct
+> Browser-native libp2p networking for connecting peers directly over WebRTC and WebTransport.
+
+libp2p Direct provides documentation, examples, and API references for building peer-to-peer browser applications using libp2p transports, discovery, and direct connectivity patterns.
+
+## Documentation
+- [Documentation Home](https://libp2p.direct/): Overview of libp2p Direct, browser networking concepts, and getting started resources.
+- [Getting Started](https://libp2p.direct/getting-started): Introduction to setting up a browser libp2p node and making first connections.
+- [Concepts](https://libp2p.direct/concepts): Core concepts for peer identity, transports, discovery, and browser networking constraints.
+- [Examples](https://libp2p.direct/examples): Example applications demonstrating direct peer connectivity and messaging patterns.
+- [FAQ](https://libp2p.direct/faq): Answers to common questions about browser support, connectivity, and deployment.
+
+## Guides
+- [Create a Browser Node](https://libp2p.direct/guides/create-a-browser-node): Step-by-step guide to initializing a libp2p node in the browser.
+- [Connect Peers Directly](https://libp2p.direct/guides/connect-peers-directly): Guide to establishing direct browser-to-browser connections using supported transports.
+- [Use WebRTC](https://libp2p.direct/guides/use-webrtc): How to configure and use WebRTC transport for peer-to-peer browser communication.
+- [Use WebTransport](https://libp2p.direct/guides/use-webtransport): Guide to using WebTransport for modern browser-compatible libp2p connections.
+- [Peer Discovery](https://libp2p.direct/guides/peer-discovery): Techniques for discovering peers and exchanging connection information.
+- [Deploy a Relay](https://libp2p.direct/guides/deploy-a-relay): Instructions for running relay infrastructure to support browser connectivity.
+
+## API Reference
+- [API Overview](https://libp2p.direct/api): Entry point for API documentation across transports, discovery, and node configuration.
+- [libp2p Node API](https://libp2p.direct/api/libp2p-node): Reference for creating, configuring, and controlling browser libp2p nodes.
+- [WebRTC Transport API](https://libp2p.direct/api/webrtc): API details for WebRTC transport configuration and connection handling.
+- [WebTransport API](https://libp2p.direct/api/webtransport): API reference for WebTransport integration in browser libp2p applications.
+- [Discovery API](https://libp2p.direct/api/discovery): Reference for peer discovery mechanisms and event handling.
+- [Relay API](https://libp2p.direct/api/relay): API documentation for relay usage and relay-assisted connectivity.
+
+## Examples
+- [Chat Example](https://libp2p.direct/examples/chat): Browser chat example showing direct peer messaging over libp2p.
+- [File Transfer Example](https://libp2p.direct/examples/file-transfer): Demonstrates transferring files between browser peers using libp2p streams.
+- [Peer Discovery Example](https://libp2p.direct/examples/peer-discovery): Example showing how peers discover and announce themselves.
+- [WebRTC Example](https://libp2p.direct/examples/webrtc): Minimal example of browser peer connections using WebRTC transport.
+- [WebTransport Example](https://libp2p.direct/examples/webtransport): Demonstrates browser connectivity using WebTransport-based libp2p transport.
+
+## Transports
+- [WebRTC](https://libp2p.direct/transports/webrtc): Documentation for using WebRTC as a browser-capable libp2p transport.
+- [WebTransport](https://libp2p.direct/transports/webtransport): Documentation for WebTransport transport capabilities, setup, and limitations.
+- [Circuit Relay](https://libp2p.direct/transports/circuit-relay): Explains relay-assisted connectivity when direct browser connections are unavailable.
+- [Transport Comparison](https://libp2p.direct/transports/comparison): Comparison of browser transport options, tradeoffs, and compatibility considerations.
+
+## Concepts
+- [Peer Identity](https://libp2p.direct/concepts/peer-identity): Explains peer IDs, key material, and identity handling in browser environments.
+- [Addressing](https://libp2p.direct/concepts/addressing): Overview of multiaddrs and addressing patterns for browser-reachable peers.
+- [NAT Traversal](https://libp2p.direct/concepts/nat-traversal): Describes connectivity challenges and traversal strategies for direct peer connections.
+- [Relays](https://libp2p.direct/concepts/relays): Conceptual guide to relay nodes and when relay-assisted communication is needed.
+- [Security](https://libp2p.direct/concepts/security): Covers secure channels, encryption, and trust considerations in browser libp2p apps.
+
+## SDKs and Integrations
+- [JavaScript SDK](https://libp2p.direct/sdk/javascript): JavaScript integration guidance for browser and frontend applications.
+- [TypeScript SDK](https://libp2p.direct/sdk/typescript): TypeScript usage patterns, typing support, and configuration examples.
+- [React Integration](https://libp2p.direct/integrations/react): Guidance for integrating libp2p Direct into React applications.
+- [Vite Integration](https://libp2p.direct/integrations/vite): Setup instructions for using libp2p Direct in Vite-based browser projects.
+- [Node Interop](https://libp2p.direct/integrations/nodejs): Explains interoperability between browser peers and Node.js libp2p nodes.
+
+## Project and Community
+- [About](https://libp2p.direct/about): Background on the project, goals, and browser-native networking focus.
+- [Roadmap](https://libp2p.direct/roadmap): Planned features, transport improvements, and future development priorities.
+- [Changelog](https://libp2p.direct/changelog): Release notes and notable updates across documentation and APIs.
+- [GitHub](https://libp2p.direct/github): Source repository and issue tracking for libp2p Direct-related code and examples.
+- [Community](https://libp2p.direct/community): Community resources, discussion channels, and contribution entry points.

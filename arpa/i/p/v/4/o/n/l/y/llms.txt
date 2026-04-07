@@ -1,0 +1,46 @@
+# ipv4only.arpa
+> Special-use domain name used by DNS64/NAT64-capable hosts to discover IPv4/IPv6 translation prefixes.
+
+ipv4only.arpa is defined by the IETF as part of the DNS64/NAT64 discovery mechanism. The most authoritative resources are the relevant RFCs and IANA special-use domain registries documenting its purpose, behavior, and reserved addresses.
+
+## Core Specification
+- [RFC 7050](https://datatracker.ietf.org/doc/html/rfc7050): Defines discovery of the IPv6 prefix used for IPv6 address synthesis.
+- [RFC 8880](https://datatracker.ietf.org/doc/html/rfc8880): Updates RFC 7050 and specifies the special-purpose domain ipv4only.arpa.
+- [RFC 6147](https://datatracker.ietf.org/doc/html/rfc6147): Specifies DNS64 behavior used alongside ipv4only.arpa in NAT64 environments.
+- [RFC 6052](https://datatracker.ietf.org/doc/html/rfc6052): Defines IPv6 address embedding of IPv4 addresses for stateless translation.
+- [RFC 6146](https://datatracker.ietf.org/doc/html/rfc6146): Specifies stateful NAT64 translation between IPv6 and IPv4 networks.
+
+## IANA Registries
+- [Special-Use Domain Names Registry](https://www.iana.org/assignments/special-use-domain-names/special-use-domain-names.xhtml): Registry entry documenting ipv4only.arpa as a special-use domain.
+- [IPv4 Special-Purpose Address Registry](https://www.iana.org/assignments/iana-ipv4-special-registry/iana-ipv4-special-registry.xhtml): Lists special IPv4 addresses including those associated with discovery behavior.
+- [IPv6 Special-Purpose Address Registry](https://www.iana.org/assignments/iana-ipv6-special-registry/iana-ipv6-special-registry.xhtml): Lists special IPv6 prefixes relevant to translation and discovery deployments.
+- [DNS Parameters](https://www.iana.org/assignments/dns-parameters/dns-parameters.xhtml): DNS-related protocol parameters useful for understanding resolver behavior.
+- [.arpa Domain](https://www.iana.org/domains/arpa): Overview of the infrastructure .arpa top-level domain and its protocol uses.
+
+## NAT64 and DNS64 Background
+- [RFC 6145](https://datatracker.ietf.org/doc/html/rfc6145): IP/ICMP translation algorithm foundational to IPv4/IPv6 translation systems.
+- [RFC 6877](https://datatracker.ietf.org/doc/html/rfc6877): Analysis and deployment considerations for 464XLAT in IPv6 transition environments.
+- [RFC 8215](https://datatracker.ietf.org/doc/html/rfc8215): Specifies local-use IPv4/IPv6 translation prefix useful in transition deployments.
+- [RFC 7757](https://datatracker.ietf.org/doc/html/rfc7757): Updates handling of the Well-Known Prefix in IPv4/IPv6 translation scenarios.
+
+## Operational and Deployment Guidance
+- [RFC 7269](https://datatracker.ietf.org/doc/html/rfc7269): Experience report and analysis of NAT64 deployment in operational networks.
+- [RFC 6586](https://datatracker.ietf.org/doc/html/rfc6586): Problem statement for stateful IPv6-to-IPv4 network address and protocol translation.
+- [RFC 5902](https://datatracker.ietf.org/doc/html/rfc5902): IAB review of IPv6 transition mechanisms including translation approaches.
+- [RFC 8683](https://datatracker.ietf.org/doc/html/rfc8683): Deployment considerations for IPv4-as-a-service and transition technologies.
+
+## DNS and Resolver Context
+- [RFC 1034](https://datatracker.ietf.org/doc/html/rfc1034): Core DNS concepts and domain name system architecture.
+- [RFC 1035](https://datatracker.ietf.org/doc/html/rfc1035): DNS implementation and protocol specification details.
+- [RFC 2308](https://datatracker.ietf.org/doc/html/rfc2308): Negative caching behavior relevant to resolver interactions and special names.
+- [RFC 8198](https://datatracker.ietf.org/doc/html/rfc8198): Aggressive use of DNSSEC-validated cache for synthesized denial responses.
+
+## Special-Use Naming Context
+- [RFC 6761](https://datatracker.ietf.org/doc/html/rfc6761): Framework and considerations for reserving special-use domain names.
+- [RFC 3172](https://datatracker.ietf.org/doc/html/rfc3172): Historical guidance on management of the .arpa top-level domain.
+- [RFC 7535](https://datatracker.ietf.org/doc/html/rfc7535): AS112 redirection using DNAME, relevant to infrastructure namespace operations.
+
+## Standards and Publishing Sources
+- [IETF Datatracker](https://datatracker.ietf.org/): Canonical source for RFC metadata, status, and document history.
+- [RFC Editor](https://www.rfc-editor.org/): Official publication source for RFC text and archival references.
+- [IANA](https://www.iana.org/): Registry authority for special-use domains, address registries, and protocol parameters.

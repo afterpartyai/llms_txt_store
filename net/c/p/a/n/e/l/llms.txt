@@ -1,0 +1,74 @@
+# cPanel
+> Web hosting control panel and server management software for hosting providers, server administrators, and website owners.
+
+cPanel provides cPanel & WHM, documentation, developer resources, training, support, and product information for managing Linux web hosting environments at scale.
+
+## Product Documentation
+- [Documentation Home](https://docs.cpanel.net/): Main documentation portal for cPanel, WHM, Webmail, and related administration guides.
+- [cPanel User Documentation](https://docs.cpanel.net/cpanel/): End-user documentation for managing websites, email, domains, files, and databases.
+- [WHM Documentation](https://docs.cpanel.net/whm/): Administrator documentation for server configuration, account management, and hosting operations.
+- [Webmail Documentation](https://docs.cpanel.net/webmail/): Guides for using webmail interfaces and managing email from the browser.
+- [WHMCS Documentation](https://docs.cpanel.net/whmcs/): Documentation for WHMCS integration and hosting billing workflow guidance.
+- [cPanel Solo Documentation](https://docs.cpanel.net/solo/): Documentation for single-account cPanel deployments and lightweight hosting setups.
+
+## Administration and Operations Guides
+- [Installation Guide](https://docs.cpanel.net/installation-guide/): Instructions for installing cPanel & WHM on supported Linux systems.
+- [Migration Guide](https://docs.cpanel.net/migration-guide/): Procedures for transferring accounts, servers, and data into cPanel environments.
+- [Security Advisor](https://docs.cpanel.net/knowledge-base/security/how-to-use-whms-security-advisor-interface/): Guidance for reviewing and improving server security settings in WHM.
+- [Backup Configuration](https://docs.cpanel.net/whm/backup/backup-configuration/): Configure automated backups, retention, destinations, and restoration policies.
+- [Update Preferences](https://docs.cpanel.net/whm/server-configuration/update-preferences/): Manage release tiers, update schedules, and system update behavior.
+- [Initial Server Setup](https://docs.cpanel.net/whm/server-configuration/initial-whm-setup/): Complete first-run configuration for a new WHM server.
+
+## Developer Resources
+- [Developer Documentation Home](https://api.docs.cpanel.net/): Central portal for cPanel API, UAPI, and developer tooling documentation.
+- [UAPI Documentation](https://api.docs.cpanel.net/openapi/cpanel/operation/): Reference for cPanel user-level API operations and request formats.
+- [WHM API 1 Documentation](https://api.docs.cpanel.net/openapi/whm/operation/): Reference for WHM administrative API endpoints and parameters.
+- [API Tokens Guide](https://docs.cpanel.net/knowledge-base/security/manage-api-tokens-in-cpanel/): Create and manage API tokens for authenticated integrations.
+- [Guide to cPanel APIs](https://docs.cpanel.net/knowledge-base/security/guide-to-cpanel-api-authentication/): Overview of authentication methods for cPanel and WHM APIs.
+- [GitHub Organization](https://github.com/CpanelInc): Open-source tools, examples, and integration projects maintained by cPanel.
+
+## Support and Knowledge Base
+- [Knowledge Base](https://support.cpanel.net/hc/en-us): Searchable support articles, troubleshooting steps, and product guidance.
+- [Submit a Ticket](https://support.cpanel.net/hc/en-us/requests/new): Contact cPanel support for technical issues and account assistance.
+- [Community Forums](https://support.cpanel.net/hc/en-us/community/topics): Community discussions, product questions, and shared troubleshooting advice.
+- [Service Status](https://status.cpanel.net/): Operational status and incident reporting for cPanel services.
+- [Release Notes](https://docs.cpanel.net/release-notes/): Product release notes covering changes, fixes, and feature updates.
+- [Troubleshooting Articles](https://support.cpanel.net/hc/en-us/categories/1500000120882-Troubleshooting): Support articles focused on diagnosing and resolving common issues.
+
+## Training and Certification
+- [cPanel University](https://university.cpanel.net/): Official training portal for learning cPanel, WHM, and hosting administration.
+- [Courses](https://university.cpanel.net/courses): Structured training courses for users, administrators, and partners.
+- [Certifications](https://university.cpanel.net/certifications): Certification programs validating cPanel and WHM product knowledge.
+- [Learning Paths](https://university.cpanel.net/learning-paths): Curated learning tracks for different roles and experience levels.
+- [Webinars](https://university.cpanel.net/webinars): Recorded and live educational sessions on product usage and best practices.
+
+## Product and Platform Information
+- [cPanel & WHM](https://cpanel.net/products/cpanel-whm/): Overview of the combined hosting control panel and server management platform.
+- [WebHost Manager](https://cpanel.net/products/whm/): Product information for WHM server administration and reseller management.
+- [cPanel Solo](https://cpanel.net/products/cpanel-solo/): Single-account edition for individual server owners and small deployments.
+- [WP Squared](https://cpanel.net/products/wp-squared/): WordPress-focused management product for hosting providers and site operators.
+- [Pricing](https://cpanel.net/pricing/): Licensing and pricing information for cPanel product tiers and plans.
+- [Partners](https://cpanel.net/partners/): Information about partner programs, integrations, and ecosystem relationships.
+
+## Solutions and Use Cases
+- [For Hosting Providers](https://cpanel.net/solutions/hosting-providers/): How cPanel supports hosting businesses with automation, scale, and account management.
+- [For Web Professionals](https://cpanel.net/solutions/web-pros/): Solutions for agencies, developers, and professionals managing client websites.
+- [For Resellers](https://cpanel.net/solutions/resellers/): Product capabilities tailored to reseller hosting and delegated administration.
+- [For Small Businesses](https://cpanel.net/solutions/small-businesses/): Hosting management benefits for small organizations and site owners.
+- [WordPress Hosting](https://cpanel.net/wordpress-hosting/): cPanel capabilities and integrations for WordPress hosting environments.
+- [Email Hosting](https://cpanel.net/email-hosting/): Product information related to managing hosted email with cPanel tools.
+
+## Blog and Updates
+- [Blog](https://cpanel.net/blog/): Official blog featuring product news, technical articles, and company updates.
+- [Product Updates](https://cpanel.net/blog/category/product-updates/): Announcements and summaries of new features, releases, and improvements.
+- [Technical Tutorials](https://cpanel.net/blog/category/tutorials/): How-to articles and practical guidance for using cPanel and WHM.
+- [Security News](https://cpanel.net/blog/category/security/): Posts about security practices, advisories, and platform hardening.
+- [Events](https://cpanel.net/blog/category/events/): Coverage of conferences, webinars, and community events involving cPanel.
+
+## Company and Legal
+- [About cPanel](https://cpanel.net/about/): Company background, mission, and information about the cPanel organization.
+- [Contact](https://cpanel.net/contact/): Contact options for sales, partnerships, and general inquiries.
+- [Careers](https://cpanel.net/careers/): Open roles and information about working at cPanel.
+- [Privacy Policy](https://cpanel.net/privacy-policy/): Privacy practices governing use of cPanel websites and services.
+- [Terms of Service](https://cpanel.net/terms-of-service/): Legal terms for using cPanel websites, products, and related services.
+- [License Agreement](https://cpanel.net/eula/): End-user license agreement for cPanel software and services.

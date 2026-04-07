@@ -1,0 +1,53 @@
+# Kingsoft Cloud CDN Documentation
+> Documentation and technical resources for Kingsoft Cloud CDN, edge acceleration, security, and related cloud services.
+
+Kingsoft Cloud provides content delivery, edge acceleration, media distribution, security, and cloud infrastructure services. This index highlights the main documentation, product, API, and support resources relevant to developers and operators using ksyuncdn.com and associated Kingsoft Cloud documentation properties.
+
+## Documentation Home
+- [Documentation Center](https://docs.ksyun.com/): Main portal for Kingsoft Cloud product documentation and technical manuals.
+- [CDN Documentation](https://docs.ksyun.com/documents/130): Product documentation for Kingsoft Cloud CDN configuration, usage, and operations.
+- [Open API Documentation](https://docs.ksyun.com/documents/575): Reference and usage information for Kingsoft Cloud OpenAPI services.
+- [Help Center](https://docs.ksyun.com/): Central access point for guides, references, and troubleshooting content.
+- [Product Documentation Index](https://docs.ksyun.com/documents): Browse documentation across Kingsoft Cloud products and service categories.
+
+## CDN Product
+- [CDN Product Overview](https://docs.ksyun.com/documents/130): Overview of Kingsoft Cloud CDN capabilities, scenarios, and core concepts.
+- [Getting Started with CDN](https://docs.ksyun.com/documents/130): Entry point for initial CDN setup and service onboarding.
+- [Domain Management](https://docs.ksyun.com/documents/130): Documentation for adding, configuring, and managing accelerated domains.
+- [Cache Configuration](https://docs.ksyun.com/documents/130): Guidance for cache rules, expiration policies, and content refresh behavior.
+- [Performance Optimization](https://docs.ksyun.com/documents/130): Operational guidance for improving delivery efficiency and acceleration quality.
+
+## API and Open Platform
+- [OpenAPI Overview](https://docs.ksyun.com/documents/575): Introduction to Kingsoft Cloud OpenAPI concepts, authentication, and request structure.
+- [API Calling Method](https://docs.ksyun.com/documents/575): General instructions for constructing and sending OpenAPI requests.
+- [Signature Mechanism](https://docs.ksyun.com/documents/575): Authentication and request signing rules for secure API access.
+- [Error Codes](https://docs.ksyun.com/documents/575): Common API error responses and troubleshooting references.
+- [API Reference Index](https://docs.ksyun.com/documents/575): Entry point for service-specific API operations and parameters.
+
+## Account and Access
+- [Console Login](https://console.ksyun.com/): Web console for managing Kingsoft Cloud resources and service configurations.
+- [AccessKey Management](https://docs.ksyun.com/documents/575): Guidance for obtaining and managing API credentials.
+- [Identity and Permissions](https://docs.ksyun.com/): Documentation related to account access control and authorization.
+- [Security Recommendations](https://docs.ksyun.com/): Best practices for protecting cloud accounts and API credentials.
+- [User Center](https://account.ksyun.com/): Account-related portal for profile, security, and service administration.
+
+## Support and Operations
+- [Support Center](https://support.ksyun.com/): Official support portal for tickets, service assistance, and customer help.
+- [Documentation Search](https://docs.ksyun.com/): Search entry for locating product guides, references, and troubleshooting articles.
+- [Common Problems](https://docs.ksyun.com/): Knowledge base content for frequently encountered issues.
+- [Service Status and Operations](https://www.ksyun.com/): Main site access for product updates and operational information.
+- [Contact Us](https://www.ksyun.com/about/contact): Official contact page for sales and support inquiries.
+
+## Related Cloud Products
+- [Kingsoft Cloud Main Site](https://www.ksyun.com/): Corporate and product portal for Kingsoft Cloud services.
+- [Cloud Storage Documentation](https://docs.ksyun.com/): Documentation for storage services commonly used with CDN origins.
+- [Cloud Security Documentation](https://docs.ksyun.com/): Security product documentation relevant to edge protection scenarios.
+- [Media Services Documentation](https://docs.ksyun.com/): Documentation for media processing and delivery services integrated with CDN.
+- [Compute and Network Documentation](https://docs.ksyun.com/): Infrastructure product docs for broader cloud deployment architectures.
+
+## Developer Resources
+- [Developer Documentation Portal](https://docs.ksyun.com/): Central resource for developers building on Kingsoft Cloud services.
+- [API Documentation](https://docs.ksyun.com/documents/575): Reference materials for integrating with Kingsoft Cloud APIs.
+- [Product Guides](https://docs.ksyun.com/documents): Collection of setup guides and operational manuals by product.
+- [Console](https://console.ksyun.com/): Management interface for provisioning and configuring cloud services.
+- [Official Website](https://www.ksyun.com/): Product announcements, service descriptions, and company information.

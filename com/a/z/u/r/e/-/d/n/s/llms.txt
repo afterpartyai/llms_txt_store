@@ -1,0 +1,72 @@
+# Azure DNS
+> Azure DNS is Microsoft’s cloud-hosted DNS service for hosting, managing, and resolving public and private DNS domains.
+
+Azure DNS documentation is primarily hosted within Microsoft Learn and covers public DNS zones, private DNS, DNS Private Resolver, alias records, delegation, automation, and integration with Azure networking services.
+
+## Overview
+- [Azure DNS documentation](https://learn.microsoft.com/en-us/azure/dns/): Central documentation hub for Azure DNS concepts, how-to guides, and references.
+- [What is Azure DNS?](https://learn.microsoft.com/en-us/azure/dns/dns-overview): Overview of Azure DNS features, benefits, and public DNS hosting capabilities.
+- [Azure DNS FAQ](https://learn.microsoft.com/en-us/azure/dns/dns-faq): Frequently asked questions about Azure DNS behavior, limits, and supported scenarios.
+- [Azure DNS pricing](https://azure.microsoft.com/en-us/pricing/details/dns/): Pricing details for public DNS zones, queries, and related service usage.
+- [Azure DNS SLA](https://azure.microsoft.com/en-us/support/legal/sla/dns/v1_0/): Service-level agreement for Azure DNS availability and service commitments.
+
+## Public DNS Zones
+- [Create a DNS zone and record](https://learn.microsoft.com/en-us/azure/dns/dns-getstarted-portal): Quickstart for creating a public DNS zone and adding records in the Azure portal.
+- [Delegate a domain to Azure DNS](https://learn.microsoft.com/en-us/azure/dns/dns-delegate-domain-azure-dns): Steps to update registrar name servers and delegate a domain to Azure DNS.
+- [Manage DNS zones](https://learn.microsoft.com/en-us/azure/dns/dns-operations-recordsets-portal): Manage public DNS zones and record sets using the Azure portal.
+- [Manage DNS records and record sets](https://learn.microsoft.com/en-us/azure/dns/dns-operations-recordsets-cli): Create and update DNS record sets using Azure CLI.
+- [Import and export a DNS zone file](https://learn.microsoft.com/en-us/azure/dns/dns-import-export): Import BIND-style zone files into Azure DNS and export existing zones.
+- [Alias records overview](https://learn.microsoft.com/en-us/azure/dns/dns-alias): Use alias records to reference Azure resources without hard-coded IP addresses.
+
+## Private DNS
+- [Azure Private DNS documentation](https://learn.microsoft.com/en-us/azure/dns/private-dns-overview): Overview of Azure Private DNS for internal name resolution in virtual networks.
+- [Quickstart: Create an Azure private DNS zone](https://learn.microsoft.com/en-us/azure/dns/private-dns-getstarted-portal): Create a private DNS zone and link it to a virtual network.
+- [Virtual network links](https://learn.microsoft.com/en-us/azure/dns/private-dns-virtual-network-links): Understand registration and resolution virtual network links for private DNS zones.
+- [Autoregistration overview](https://learn.microsoft.com/en-us/azure/dns/private-dns-autoregistration): Automatically register virtual machine DNS records in linked private DNS zones.
+- [Private DNS scenarios](https://learn.microsoft.com/en-us/azure/dns/private-dns-scenarios): Common deployment patterns and name resolution scenarios for private DNS.
+- [Private DNS FAQ](https://learn.microsoft.com/en-us/azure/dns/dns-faq-private): Frequently asked questions about Azure Private DNS capabilities and limitations.
+
+## DNS Private Resolver
+- [Azure DNS Private Resolver overview](https://learn.microsoft.com/en-us/azure/dns/dns-private-resolver-overview): Overview of managed inbound and outbound DNS resolution for hybrid networks.
+- [Quickstart: Create a DNS Private Resolver](https://learn.microsoft.com/en-us/azure/dns/dns-private-resolver-get-started-portal): Deploy a DNS Private Resolver with endpoints and rulesets in the portal.
+- [Endpoints and rulesets](https://learn.microsoft.com/en-us/azure/dns/private-resolver-endpoints-rulesets): Learn how inbound endpoints, outbound endpoints, and forwarding rulesets work.
+- [DNS forwarding rulesets](https://learn.microsoft.com/en-us/azure/dns/dns-private-resolver-forwarding-rulesets): Configure forwarding rulesets for conditional DNS forwarding across linked virtual networks.
+- [Architecture and scenarios](https://learn.microsoft.com/en-us/azure/dns/dns-private-resolver-scenarios): Reference architectures and hybrid DNS resolution scenarios using Private Resolver.
+- [Private Resolver FAQ](https://learn.microsoft.com/en-us/azure/dns/dns-private-resolver-faq): Frequently asked questions about deployment, limits, and supported configurations.
+
+## Automation and CLI
+- [Azure DNS with Azure CLI](https://learn.microsoft.com/en-us/azure/dns/dns-operations-dnszones-cli): Manage Azure DNS zones using Azure CLI commands.
+- [Azure DNS with Azure PowerShell](https://learn.microsoft.com/en-us/azure/dns/dns-operations-dnszones-powershell): Manage DNS zones and records using Azure PowerShell cmdlets.
+- [Azure DNS with ARM templates](https://learn.microsoft.com/en-us/azure/dns/dns-get-started-template): Deploy Azure DNS resources using Azure Resource Manager templates.
+- [Azure DNS with Terraform](https://learn.microsoft.com/en-us/azure/dns/dns-private-zone-terraform): Provision Azure DNS resources using Terraform examples and guidance.
+- [Azure CLI dns reference](https://learn.microsoft.com/en-us/cli/azure/network/dns): Command reference for Azure CLI public DNS zone and record operations.
+- [Azure CLI private-dns reference](https://learn.microsoft.com/en-us/cli/azure/network/private-dns): Command reference for Azure CLI private DNS zone operations.
+
+## API and SDK Reference
+- [REST API reference for DNS](https://learn.microsoft.com/en-us/rest/api/dns/): REST API reference for Azure DNS zones, record sets, and operations.
+- [REST API reference for Private DNS](https://learn.microsoft.com/en-us/rest/api/privatedns/): REST API reference for Azure Private DNS zones and virtual network links.
+- [REST API reference for DNS Private Resolver](https://learn.microsoft.com/en-us/rest/api/dnsresolver/): REST API reference for DNS Private Resolver endpoints and forwarding rulesets.
+- [Azure SDK for .NET](https://learn.microsoft.com/en-us/dotnet/api/overview/azure/resourcemanager.dns-readme): .NET management SDK overview for Azure DNS resources.
+- [Azure SDK for Python](https://learn.microsoft.com/en-us/python/api/overview/azure/mgmt-dns-readme): Python management SDK overview for Azure DNS operations.
+- [Azure SDK for JavaScript](https://learn.microsoft.com/en-us/javascript/api/overview/azure/arm-dns-readme): JavaScript management SDK overview for Azure DNS resources.
+
+## Tutorials and Guidance
+- [Host your domain in Azure DNS](https://learn.microsoft.com/en-us/azure/dns/dns-delegate-domain-azure-dns): Tutorial-style guidance for delegating an internet domain to Azure DNS.
+- [Use alias records to point to Azure resources](https://learn.microsoft.com/en-us/azure/dns/dns-alias): Guidance for mapping DNS names to Azure public IPs and Traffic Manager profiles.
+- [Name resolution for VMs and role instances](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-name-resolution-for-vms-and-role-instances): Azure networking guidance covering DNS resolution options for virtual networks.
+- [Integrate Private DNS with virtual networks](https://learn.microsoft.com/en-us/azure/dns/private-dns-virtual-network-links): Guidance for linking private zones to one or more virtual networks.
+- [Hybrid DNS with Private Resolver](https://learn.microsoft.com/en-us/azure/dns/dns-private-resolver-overview): Guidance for hybrid and cross-network DNS resolution using managed resolver infrastructure.
+
+## Reliability, Limits, and Operations
+- [Azure subscription and service limits for DNS](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits#azure-dns-limits): Service limits and quotas for Azure DNS resources and operations.
+- [Azure DNS metrics and diagnostics](https://learn.microsoft.com/en-us/azure/dns/dns-monitoring): Monitor Azure DNS using metrics, logs, and diagnostic settings.
+- [Resource health overview](https://learn.microsoft.com/en-us/azure/service-health/resource-health-overview): Understand Azure resource health signals relevant to DNS resource operations.
+- [Azure status](https://status.azure.com/): Current Azure platform status and regional service availability information.
+- [Well-Architected Framework: Reliability](https://learn.microsoft.com/en-us/azure/well-architected/reliability/): Reliability design guidance applicable to DNS-dependent Azure architectures.
+
+## Related Azure Networking Services
+- [Azure Traffic Manager documentation](https://learn.microsoft.com/en-us/azure/traffic-manager/): Global DNS-based traffic distribution service documentation.
+- [Azure Front Door documentation](https://learn.microsoft.com/en-us/azure/frontdoor/): Global application delivery network documentation often used with custom DNS domains.
+- [Azure Virtual Network documentation](https://learn.microsoft.com/en-us/azure/virtual-network/): Core virtual networking documentation relevant to private DNS integration.
+- [Azure Load Balancer documentation](https://learn.microsoft.com/en-us/azure/load-balancer/): Load balancing documentation for services commonly referenced by DNS records.
+- [Azure Application Gateway documentation](https://learn.microsoft.com/en-us/azure/application-gateway/): Application delivery and ingress documentation for DNS-backed web applications.

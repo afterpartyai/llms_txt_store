@@ -1,0 +1,90 @@
+# Twitch
+> Twitch is an interactive livestreaming service for live content spanning gaming, entertainment, sports, music, and more.
+
+Twitch combines live video, chat, subscriptions, Bits, moderation, and developer APIs for creators, viewers, and integrators. Its public resources span product help, developer documentation, API reference, extensions, EventSub, embedding, and community policy information.
+
+## Main Platform
+- [Browse](https://www.twitch.tv/directory): Discover live channels and categories across gaming, music, sports, and other content.
+- [Categories](https://www.twitch.tv/directory/all): Explore all Twitch categories and topics currently available on the platform.
+- [Esports](https://www.twitch.tv/directory/esports): Browse live esports events, tournaments, and competitive gaming broadcasts.
+- [Music](https://www.twitch.tv/directory/music): Find live music performances, DJs, producers, and music-focused creators.
+- [IRL](https://www.twitch.tv/directory/irl): Explore real-life livestreams including travel, food, talk shows, and events.
+- [Creative](https://www.twitch.tv/directory/creative): Discover art, design, making, and other creative live content.
+- [Turbo](https://www.twitch.tv/turbo): Learn about Twitch Turbo ad-free viewing and platform-wide subscriber benefits.
+
+## Creator Help & Support
+- [Help Center](https://help.twitch.tv/): Central support hub for Twitch accounts, streaming, chat, and platform features.
+- [Creator Camp](https://www.twitch.tv/creatorcamp): Educational resources for starting, growing, and managing a Twitch channel.
+- [Getting Started on Twitch](https://www.twitch.tv/creatorcamp/en/getting-started/): Introductory guidance for new creators setting up and launching streams.
+- [Build a Community](https://www.twitch.tv/creatorcamp/en/paths/build-a-community/): Best practices for audience growth, engagement, and community development.
+- [Monetize on Twitch](https://www.twitch.tv/creatorcamp/en/paths/monetize-on-twitch/): Guidance on subscriptions, Bits, ads, and other creator monetization tools.
+- [Streaming Setup](https://help.twitch.tv/s/article/streaming-on-twitch): Help article covering software, hardware, and basic streaming setup.
+- [Affiliate Program](https://help.twitch.tv/s/article/joining-the-affiliate-program): Overview of Twitch Affiliate eligibility, onboarding, and monetization features.
+- [Partner Program](https://help.twitch.tv/s/article/partner-program-overview): Overview of Twitch Partner requirements, benefits, and application information.
+
+## Developer Documentation
+- [Twitch Developers](https://dev.twitch.tv/): Main portal for Twitch developer tools, docs, APIs, and platform integrations.
+- [Documentation Home](https://dev.twitch.tv/docs/): Entry point for Twitch developer documentation and integration guides.
+- [API Reference](https://dev.twitch.tv/docs/api/reference): Reference for Twitch Helix endpoints, parameters, and response schemas.
+- [Authentication](https://dev.twitch.tv/docs/authentication): OAuth flows, tokens, scopes, and app authentication requirements.
+- [Getting Started](https://dev.twitch.tv/docs/getting-started): Introductory setup for registering apps and calling Twitch APIs.
+- [CLI](https://dev.twitch.tv/docs/cli): Twitch CLI documentation for local development, testing, and EventSub workflows.
+- [Chat & Chatbots](https://dev.twitch.tv/docs/chat): Documentation for Twitch chat integrations, IRC, and chatbot development.
+- [Drops](https://dev.twitch.tv/docs/drops): Guides for implementing and managing Twitch Drops campaigns.
+
+## EventSub, Webhooks & Real-Time
+- [EventSub Overview](https://dev.twitch.tv/docs/eventsub): Overview of Twitch EventSub subscriptions and delivery methods.
+- [EventSub Reference](https://dev.twitch.tv/docs/eventsub/eventsub-reference): Detailed event types, payloads, and subscription conditions.
+- [Webhooks and WebSockets](https://dev.twitch.tv/docs/eventsub/handling-webhook-events): Guidance for receiving and validating EventSub webhook notifications.
+- [WebSocket Transport](https://dev.twitch.tv/docs/eventsub/handling-websocket-events): Guidance for consuming EventSub events over WebSocket connections.
+- [Conduits](https://dev.twitch.tv/docs/eventsub/conduits): Documentation for scaling and routing EventSub subscriptions with conduits.
+- [Subscription Types](https://dev.twitch.tv/docs/eventsub/eventsub-subscription-types): Catalog of supported EventSub subscription topics and versions.
+
+## Extensions
+- [Extensions Overview](https://dev.twitch.tv/docs/extensions): Introduction to building interactive Twitch Extensions for channels and viewers.
+- [Getting Started with Extensions](https://dev.twitch.tv/docs/extensions/getting-started): Setup guide for creating, hosting, and testing a Twitch Extension.
+- [Extension Capabilities](https://dev.twitch.tv/docs/extensions/capabilities): Overview of extension views, features, and supported interaction models.
+- [Extension Helper](https://dev.twitch.tv/docs/extensions/reference): Reference for the Twitch Extensions JavaScript helper and APIs.
+- [Extension Configuration Service](https://dev.twitch.tv/docs/extensions/reference-configuration-service): API reference for storing and retrieving extension configuration data.
+- [Extension PubSub](https://dev.twitch.tv/docs/extensions/reference-pubsub): Reference for sending real-time messages between extensions and backends.
+- [Extension Rig](https://dev.twitch.tv/docs/extensions/rig): Local testing tool documentation for Twitch Extensions development.
+
+## Embeds & Player Integration
+- [Embedded Experiences](https://dev.twitch.tv/docs/embed): Overview of embedding Twitch video, chat, and clips on websites.
+- [Embedded Video and Clips](https://dev.twitch.tv/docs/embed/video-and-clips): Instructions for embedding live streams, VODs, and clips.
+- [Embedded Chat](https://dev.twitch.tv/docs/embed/chat): Instructions for embedding Twitch chat alongside video content.
+- [Interactive Frames for Extensions](https://dev.twitch.tv/docs/embed/extensions): Embed support for rendering Twitch Extensions in embedded experiences.
+- [Parent Parameter Requirements](https://dev.twitch.tv/docs/embed#embedded-experiences-requirements): Domain requirements and security rules for Twitch embeds.
+
+## API Guides & Reference Areas
+- [Helix API Overview](https://dev.twitch.tv/docs/api): Overview of Twitch API families and usage patterns.
+- [Users](https://dev.twitch.tv/docs/api/reference#get-users): Retrieve user account information for broadcasters and viewers.
+- [Channels](https://dev.twitch.tv/docs/api/reference#modify-channel-information): Manage channel metadata and broadcaster settings through Helix.
+- [Streams](https://dev.twitch.tv/docs/api/reference#get-streams): Access live stream status, metadata, and viewer information.
+- [Videos](https://dev.twitch.tv/docs/api/reference#get-videos): Retrieve VODs, highlights, and uploaded video metadata.
+- [Clips](https://dev.twitch.tv/docs/api/reference#get-clips): Create and fetch clips from Twitch broadcasts.
+- [Moderation](https://dev.twitch.tv/docs/api/reference#ban-user): Moderate chat and manage enforcement actions programmatically.
+- [Channel Points](https://dev.twitch.tv/docs/api/reference#create-custom-rewards): Manage custom rewards and channel points redemptions.
+
+## Policies, Safety & Legal
+- [Community Guidelines](https://safety.twitch.tv/s/article/Community-Guidelines): Rules governing behavior, content, and safety on Twitch.
+- [Safety Center](https://safety.twitch.tv/): Central resource for safety policies, enforcement, and user protections.
+- [Terms of Service](https://www.twitch.tv/p/en/legal/terms-of-service/): Legal terms governing use of Twitch services.
+- [Privacy Notice](https://www.twitch.tv/p/en/legal/privacy-notice/): Information about Twitch data collection, use, and privacy practices.
+- [DMCA Guidelines](https://www.twitch.tv/p/en/legal/dmca-guidelines/): Copyright policy and procedures for DMCA notifications and disputes.
+- [Copyrights and Your Channel](https://help.twitch.tv/s/article/copyrights-and-your-channel): Help guidance on copyright risks, music, and channel enforcement.
+- [Transparency Reports](https://safety.twitch.tv/s/article/Transparency-Reports): Published reporting on enforcement actions and platform safety efforts.
+
+## Business & Advertising
+- [Advertising on Twitch](https://www.twitch.tv/ads): Overview of Twitch advertising opportunities and brand solutions.
+- [Brand Partnership Studio](https://www.twitch.tv/bountyboard): Creator-facing branded content and sponsorship marketplace information.
+- [Game Developer Playbook](https://dev.twitch.tv/docs/game-engine-plugins/): Resources for integrating Twitch into games and interactive experiences.
+- [Drops for Developers](https://dev.twitch.tv/docs/drops): Documentation for reward campaigns tied to game engagement and viewing.
+- [Game Engine Plugins](https://dev.twitch.tv/docs/game-engine-plugins/): Plugins and integration resources for supported game engines.
+
+## News & Community
+- [Twitch Blog](https://blog.twitch.tv/): Official announcements, product updates, creator stories, and company news.
+- [Developers Blog](https://blog.twitch.tv/en/tags/developers/): Posts focused on API changes, developer tooling, and platform updates.
+- [Engineering Blog](https://blog.twitch.tv/en/tags/engineering/): Technical articles about Twitch infrastructure, systems, and engineering work.
+- [X / Twitch Support](https://twitter.com/TwitchSupport): Real-time service updates and support communications from Twitch Support.
+- [Status Page](https://status.twitch.tv/): Current service health, incidents, and historical uptime information.

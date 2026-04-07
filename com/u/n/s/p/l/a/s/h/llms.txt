@@ -1,0 +1,86 @@
+# Unsplash
+> Unsplash is a platform for discovering, downloading, and integrating high-quality free photos and visuals.
+
+Unsplash provides a large searchable library of free-to-use photography, contributor profiles, curated topics and collections, and a developer API for searching, downloading, and attributing images in applications.
+
+## Core Platform
+- [Unsplash Home](https://unsplash.com/): Main entry point for browsing featured photos, topics, and community content.
+- [Explore](https://unsplash.com/explore): Discovery hub for trending imagery, topics, and editorial selections.
+- [Photos](https://unsplash.com/photos): Browse the full catalog of photos published on Unsplash.
+- [Topics](https://unsplash.com/topics): Explore images grouped by themes such as nature, travel, and architecture.
+- [Collections](https://unsplash.com/collections): Browse curated image collections assembled by Unsplash and the community.
+- [Wallpapers](https://unsplash.com/wallpapers): Discover images formatted and curated for desktop and mobile wallpapers.
+- [3D Renders](https://unsplash.com/t/3d-renders): Browse imagery tagged under the 3D renders topic.
+- [Textures & Patterns](https://unsplash.com/t/textures-patterns): Explore photos and graphics related to textures and repeating patterns.
+
+## Search and Discovery
+- [Search Photos](https://unsplash.com/s/photos): Search Unsplash for photos by keyword.
+- [Search Collections](https://unsplash.com/collections): Find themed collections relevant to specific subjects and use cases.
+- [Nature Topic](https://unsplash.com/t/nature): Explore nature photography including landscapes, wildlife, and outdoor scenes.
+- [Travel Topic](https://unsplash.com/t/travel): Browse travel imagery featuring destinations, culture, and transportation.
+- [Architecture & Interiors](https://unsplash.com/t/architecture-interior): Discover buildings, interiors, and design-focused photography.
+- [People Topic](https://unsplash.com/t/people): Find portraits, lifestyle imagery, and people-centered visual content.
+- [Street Photography](https://unsplash.com/t/street-photography): Browse candid urban and documentary-style street imagery.
+
+## Community and Contributors
+- [Community](https://unsplash.com/community): Learn about the Unsplash contributor community and participation.
+- [Editorial](https://unsplash.com/editorial): Read editorial stories, announcements, and community features from Unsplash.
+- [Photographers](https://unsplash.com/@unsplash): View the official Unsplash profile and published images.
+- [Collections by Unsplash](https://unsplash.com/@unsplash/collections): Browse collections curated by the official Unsplash account.
+- [Mission](https://unsplash.com/mission): Overview of Unsplash’s mission to make quality visuals accessible.
+- [Hiring](https://unsplash.com/hiring): Careers and open roles at Unsplash.
+
+## Developer Platform
+- [Developers](https://unsplash.com/developers): Developer portal for building applications with the Unsplash API.
+- [API Documentation](https://unsplash.com/documentation): Main API documentation covering endpoints, authentication, and usage.
+- [Register as a Developer](https://unsplash.com/oauth/applications): Create and manage OAuth applications for API access.
+- [API Guidelines](https://help.unsplash.com/en/articles/2511245-unsplash-api-guidelines): Rules for proper API usage, attribution, and compliance.
+- [Hotlinking Images](https://help.unsplash.com/en/articles/2511271-guideline-hotlinking-images): Guidance on serving Unsplash images using returned URLs.
+- [Triggering a Download](https://help.unsplash.com/en/articles/2511258-guideline-triggering-a-download): Requirements for registering downloads through the API.
+- [API Rate Limits](https://help.unsplash.com/en/articles/3887917-when-should-i-apply-for-a-higher-rate-limit): Information about requesting higher API rate limits.
+
+## API Reference
+- [List Photos](https://unsplash.com/documentation#list-photos): Reference for retrieving paginated photo results.
+- [Get a Photo](https://unsplash.com/documentation#get-a-photo): Reference for fetching a single photo by identifier.
+- [Random Photo](https://unsplash.com/documentation#get-a-random-photo): Reference for retrieving one or more random photos.
+- [Search Photos Endpoint](https://unsplash.com/documentation#search-photos): Reference for searching photos with keywords and filters.
+- [List Collections](https://unsplash.com/documentation#list-collections): Reference for retrieving public collections.
+- [Get a Collection](https://unsplash.com/documentation#get-a-collection): Reference for fetching collection metadata and details.
+- [Search Collections Endpoint](https://unsplash.com/documentation#search-collections): Reference for searching collections by keyword.
+- [Topics Endpoint](https://unsplash.com/documentation#topics): Reference for listing and retrieving topics.
+- [Users Endpoint](https://unsplash.com/documentation#users): Reference for user profiles, photos, and related resources.
+- [Statistics Endpoint](https://unsplash.com/documentation#statistics): Reference for total and monthly platform statistics.
+
+## Authentication and Integration
+- [Authorization Workflow](https://unsplash.com/documentation#authorization-workflow): OAuth flow for authenticating users and requesting permissions.
+- [Public Authentication](https://unsplash.com/documentation#public-authentication): Access public resources using an application access key.
+- [User Authentication](https://unsplash.com/documentation#user-authentication): Authenticate on behalf of users for private actions.
+- [Authorization Scopes](https://unsplash.com/documentation#authorization-scopes): Available OAuth scopes and their access permissions.
+- [Pagination](https://unsplash.com/documentation#pagination): Standard pagination behavior for list endpoints.
+- [Error Messages](https://unsplash.com/documentation#error-messages): Common API error responses and troubleshooting details.
+- [Versioning](https://unsplash.com/documentation#version): API versioning and compatibility information.
+
+## Help Center and Policies
+- [Help Center](https://help.unsplash.com/): Support portal for contributors, customers, and developers.
+- [Unsplash License](https://unsplash.com/license): Terms of the Unsplash license for using photos.
+- [Terms](https://unsplash.com/terms): Legal terms governing use of Unsplash services.
+- [Privacy Policy](https://unsplash.com/privacy): Privacy practices and data handling information.
+- [Security](https://unsplash.com/security): Security reporting and platform protection information.
+- [Copyright Information](https://help.unsplash.com/en/collections/1463188-copyright-and-trademark): Help articles about copyright and trademark topics.
+- [Contributor Help](https://help.unsplash.com/en/collections/1463184-contributor): Help resources for photographers and contributors.
+- [Developer Help](https://help.unsplash.com/en/collections/1463187-api-guidelines): Help articles focused on API usage and developer requirements.
+
+## Business and Partnerships
+- [Unsplash+](https://unsplash.com/plus): Premium offering with additional licensed content and benefits.
+- [Advertise on Unsplash](https://unsplash.com/advertise): Information for brands interested in advertising on the platform.
+- [Partnerships](https://unsplash.com/partnerships): Overview of collaboration and partnership opportunities.
+- [Apps & Plugins](https://unsplash.com/apps): Directory of applications and integrations built around Unsplash.
+- [iOS App](https://apps.apple.com/app/unsplash/id1290631746): Official Unsplash mobile app for browsing and saving images.
+- [Android App](https://play.google.com/store/apps/details?id=com.unsplash.pictures): Official Unsplash Android app for discovering photography.
+
+## Editorial and Learning
+- [Editorial Home](https://unsplash.com/editorial): Central hub for Unsplash stories, product updates, and features.
+- [The Brief](https://unsplash.com/the-brief): Creative brief program connecting brands and photographers.
+- [Topics for Creators](https://unsplash.com/topics): Browse subject areas useful for creative inspiration and sourcing.
+- [Collections for Inspiration](https://unsplash.com/collections): Explore curated sets of images for design and editorial work.
+- [Wallpapers Inspiration](https://unsplash.com/wallpapers): Find ready-to-use wallpaper imagery for devices and desktops.

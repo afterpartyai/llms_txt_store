@@ -1,0 +1,66 @@
+# Microsoft Edge Developer
+> Documentation and resources for building, debugging, and optimizing web experiences with Microsoft Edge and related web platform tools.
+
+Microsoft Edge Developer provides documentation for DevTools, Progressive Web Apps, WebView2, browser extensions, testing, and web platform guidance for developers targeting Edge and Chromium-based browsers.
+
+## DevTools
+- [Microsoft Edge DevTools documentation](https://learn.microsoft.com/en-us/microsoft-edge/devtools/): Overview of Edge DevTools features, workflows, and debugging capabilities.
+- [Open DevTools](https://learn.microsoft.com/en-us/microsoft-edge/devtools/open/): Ways to open DevTools in Microsoft Edge on different platforms.
+- [Inspect, edit, and debug HTML and CSS](https://learn.microsoft.com/en-us/microsoft-edge/devtools/css/): Use Elements and Styles tools to inspect and modify page layout.
+- [Debug JavaScript](https://learn.microsoft.com/en-us/microsoft-edge/devtools/javascript/): Set breakpoints, inspect scope, and troubleshoot JavaScript execution.
+- [Network features reference](https://learn.microsoft.com/en-us/microsoft-edge/devtools/network/): Analyze requests, caching, throttling, and network performance issues.
+- [Memory problems](https://learn.microsoft.com/en-us/microsoft-edge/devtools/memory-problems/): Detect leaks and analyze memory usage in web applications.
+- [Performance features reference](https://learn.microsoft.com/en-us/microsoft-edge/devtools/performance/): Record runtime activity and identify rendering and scripting bottlenecks.
+
+## Progressive Web Apps
+- [Progressive Web Apps documentation](https://learn.microsoft.com/en-us/microsoft-edge/progressive-web-apps/): Guidance for building, installing, and distributing PWAs in Edge.
+- [Get started with Progressive Web Apps](https://learn.microsoft.com/en-us/microsoft-edge/progressive-web-apps/get-started/): Introduction to core PWA concepts, requirements, and capabilities.
+- [How to create a PWA](https://learn.microsoft.com/en-us/microsoft-edge/progressive-web-apps/how-to/): Step-by-step guidance for building and enhancing installable web apps.
+- [PWAs in Microsoft Edge](https://learn.microsoft.com/en-us/microsoft-edge/progressive-web-apps-chromium/): Edge-specific behaviors and support for Progressive Web Apps.
+- [Store and publish PWAs](https://learn.microsoft.com/en-us/microsoft-edge/progressive-web-apps/how-to/publish/): Publish Progressive Web Apps to app stores and distribution channels.
+- [PWA app icon generation](https://learn.microsoft.com/en-us/microsoft-edge/progressive-web-apps/how-to/icon-theme-color/): Create icons and theme metadata for installable app experiences.
+
+## WebView2
+- [WebView2 documentation](https://learn.microsoft.com/en-us/microsoft-edge/webview2/): Embed web content in native applications using the Edge rendering engine.
+- [Get started with WebView2](https://learn.microsoft.com/en-us/microsoft-edge/webview2/get-started/): Introductory setup for adding WebView2 to desktop applications.
+- [WebView2 API reference](https://learn.microsoft.com/en-us/microsoft-edge/webview2/reference/): Reference documentation for WebView2 classes, methods, and events.
+- [Concepts and architecture](https://learn.microsoft.com/en-us/microsoft-edge/webview2/concepts/): Learn the WebView2 runtime model, processes, and integration patterns.
+- [How-to guides](https://learn.microsoft.com/en-us/microsoft-edge/webview2/how-to/): Practical tasks for configuration, communication, and customization.
+- [Release notes](https://learn.microsoft.com/en-us/microsoft-edge/webview2/release-notes/): Track SDK, runtime, and prerelease changes across WebView2 versions.
+
+## Extensions
+- [Microsoft Edge extensions documentation](https://learn.microsoft.com/en-us/microsoft-edge/extensions-chromium/): Build, port, test, and publish browser extensions for Microsoft Edge.
+- [Get started with extensions](https://learn.microsoft.com/en-us/microsoft-edge/extensions-chromium/getting-started/): Create your first Edge extension using Chromium-compatible APIs.
+- [Developer guide](https://learn.microsoft.com/en-us/microsoft-edge/extensions-chromium/developer-guide/): Core concepts, architecture, and extension development workflows.
+- [API support](https://learn.microsoft.com/en-us/microsoft-edge/extensions-chromium/developer-guide/api-support/): Understand Edge support for Chromium extension APIs and differences.
+- [Port a Chrome extension](https://learn.microsoft.com/en-us/microsoft-edge/extensions-chromium/how-to/port-chrome-extension/): Adapt existing Chrome extensions for Microsoft Edge compatibility.
+- [Publish to Microsoft Edge Add-ons](https://learn.microsoft.com/en-us/microsoft-edge/extensions-chromium/publish/publish-extension/): Submit and manage extensions in the Edge Add-ons store.
+
+## Testing and Automation
+- [Testing in Microsoft Edge](https://learn.microsoft.com/en-us/microsoft-edge/test-and-automation/): Overview of browser testing, automation, and compatibility workflows.
+- [Use Selenium with Microsoft Edge](https://learn.microsoft.com/en-us/microsoft-edge/webdriver-chromium/): Automate Edge with WebDriver and Selenium-based test suites.
+- [Playwright and Puppeteer guidance](https://learn.microsoft.com/en-us/microsoft-edge/playwright/): Use modern browser automation frameworks with Microsoft Edge.
+- [Internet Explorer mode testing](https://learn.microsoft.com/en-us/microsoft-edge/devtools/ie-mode/): Debug and validate legacy sites running in IE mode.
+- [Cross-browser testing tools](https://learn.microsoft.com/en-us/microsoft-edge/test-and-automation/test-ie-mode/): Validate compatibility scenarios and enterprise browser behavior.
+
+## Web Platform Guidance
+- [Microsoft Edge web platform documentation](https://learn.microsoft.com/en-us/microsoft-edge/web-platform/): Guidance on web standards, capabilities, and platform-specific developer topics.
+- [Browser interoperability](https://learn.microsoft.com/en-us/microsoft-edge/web-platform/how-to/browser-interoperability/): Improve compatibility across browsers using standards-based techniques.
+- [Accessibility testing](https://learn.microsoft.com/en-us/microsoft-edge/devtools/accessibility/): Use DevTools to inspect accessibility trees and identify issues.
+- [Storage and cookies guidance](https://learn.microsoft.com/en-us/microsoft-edge/web-platform/storage/): Understand storage APIs, cookies, and privacy-related browser behavior.
+- [Site permissions and privacy](https://learn.microsoft.com/en-us/microsoft-edge/web-platform/permissions/): Manage permission prompts and browser privacy capabilities for web apps.
+
+## Tools and Services
+- [Microsoft Edge Developer home](https://developer.microsoft.com/en-us/microsoft-edge/): Entry point for Edge developer tools, downloads, and resources.
+- [Remote tools for Microsoft Edge](https://learn.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/remote-debugging/): Debug web content on remote devices and virtualized environments.
+- [DevTools protocol monitor](https://learn.microsoft.com/en-us/microsoft-edge/devtools/javascript/reference/): Explore debugging and inspection capabilities exposed through DevTools tooling.
+- [Edge Insider channels](https://www.microsoft.com/edge/business/download): Download preview and stable Edge builds for testing and validation.
+- [Microsoft Edge Add-ons developer dashboard](https://partner.microsoft.com/dashboard/microsoftedge/overview): Manage extension submissions, analytics, and store publishing workflows.
+
+## Resources
+- [Microsoft Edge developer blog](https://blogs.windows.com/msedgedev/): Product updates, feature announcements, and technical articles from the Edge team.
+- [What's new in Microsoft Edge DevTools](https://learn.microsoft.com/en-us/microsoft-edge/devtools/whats-new/): Release highlights and newly added DevTools capabilities.
+- [WebView2 samples](https://github.com/MicrosoftEdge/WebView2Samples): Sample applications demonstrating WebView2 integration patterns and APIs.
+- [Microsoft Edge WebDriver downloads](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/): Download WebDriver binaries for automating Microsoft Edge.
+- [Microsoft Edge status](https://developer.microsoft.com/en-us/microsoft-edge/status/): Track implementation status for web platform features in Edge.
+- [Microsoft Edge support for developers](https://learn.microsoft.com/en-us/microsoft-edge/): Central documentation hub for Edge developer content.

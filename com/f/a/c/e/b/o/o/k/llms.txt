@@ -1,0 +1,84 @@
+# Facebook
+> Facebook is a social networking platform for connecting people, sharing content, managing communities, and building apps and business integrations through Meta.
+
+Facebook spans consumer social products, creator and business tools, privacy and safety resources, and developer platforms under Meta, including APIs, SDKs, and technical documentation relevant to Facebook login, sharing, marketing, and app development.
+
+## Core Platform
+- [Facebook](https://www.facebook.com/): Main social platform for profiles, posts, groups, pages, and messaging entry points.
+- [Pages](https://www.facebook.com/pages/create/): Create and manage public pages for businesses, creators, brands, and organizations.
+- [Groups](https://www.facebook.com/groups/): Discover, join, and manage community groups around shared interests and topics.
+- [Watch](https://www.facebook.com/watch/): Video discovery and viewing hub for shows, creators, and live content.
+- [Gaming](https://www.facebook.com/gaming/): Gaming-focused destination for creators, streams, clips, and community engagement.
+- [Marketplace](https://www.facebook.com/marketplace/): Local buying and selling platform for products, vehicles, rentals, and services.
+
+## Help and Support
+- [Help Center](https://www.facebook.com/help/): Central support hub for account, privacy, security, and product troubleshooting.
+- [Login Help](https://www.facebook.com/login/identify): Recover account access and troubleshoot login, password, and authentication issues.
+- [Report Something](https://www.facebook.com/help/contact/): Access reporting and support contact forms for policy and account issues.
+- [Accessibility Help](https://www.facebook.com/help/accessibility): Guidance on accessibility features and assistive technology support across Facebook.
+- [Safety Center](https://www.facebook.com/safety/): Safety resources, tools, and educational materials for users, parents, and educators.
+- [Privacy Center](https://www.facebook.com/privacy/center/): Explanations of privacy controls, data settings, and user choices across Meta products.
+
+## Privacy, Policies, and Terms
+- [Privacy Policy](https://www.facebook.com/privacy/policy/): Official policy describing data collection, use, sharing, and user rights.
+- [Terms of Service](https://www.facebook.com/terms.php): Legal terms governing use of Facebook services and platform features.
+- [Community Standards](https://transparency.fb.com/policies/community-standards/): Rules defining what content is allowed and prohibited on Facebook.
+- [Cookie Policy](https://www.facebook.com/policies/cookies/): Information about cookies, similar technologies, and related user controls.
+- [Data Policy](https://www.facebook.com/privacy/policy/): Overview of how Meta processes personal information across services.
+- [Transparency Center](https://transparency.fb.com/): Policy, enforcement, integrity, and reporting information for Meta platforms.
+
+## Business and Advertising
+- [Meta for Business](https://www.facebook.com/business/): Business hub for advertising, page management, commerce, and marketing tools.
+- [Ads Manager](https://www.facebook.com/adsmanager/): Interface for creating, managing, measuring, and optimizing ad campaigns.
+- [Meta Business Help Center](https://www.facebook.com/business/help): Support resources for ads, pages, commerce, and business accounts.
+- [Create an Ad](https://www.facebook.com/business/tools/ads-manager): Learn about ad creation workflows and campaign management tools.
+- [Facebook Pages for Business](https://www.facebook.com/business/pages): Guidance for using pages to build business presence and engagement.
+- [Meta Business Suite](https://www.facebook.com/business/tools/meta-business-suite): Manage content, messages, insights, and workflows across business assets.
+
+## Developers
+- [Meta for Developers](https://developers.facebook.com/): Main developer portal for Facebook, Instagram, WhatsApp, and Meta platform tools.
+- [Documentation](https://developers.facebook.com/docs/): Technical docs for APIs, SDKs, app setup, and platform integrations.
+- [Graph API](https://developers.facebook.com/docs/graph-api/): Core API reference and concepts for reading and writing social graph data.
+- [Graph API Reference](https://developers.facebook.com/docs/graph-api/reference/): Object and edge reference documentation for Graph API endpoints.
+- [App Development](https://developers.facebook.com/docs/development/): Guides for creating, configuring, testing, and launching Meta apps.
+- [Developer Support](https://developers.facebook.com/support/): Support channels, issue reporting, and platform status resources for developers.
+
+## Facebook Login and Social Integrations
+- [Facebook Login](https://developers.facebook.com/docs/facebook-login/): Authentication product for signing users into apps with Facebook accounts.
+- [Web Login](https://developers.facebook.com/docs/facebook-login/web): Implement Facebook Login in browser-based web applications.
+- [iOS Login](https://developers.facebook.com/docs/facebook-login/ios): Integrate Facebook Login into native iOS applications using Meta SDKs.
+- [Android Login](https://developers.facebook.com/docs/facebook-login/android): Integrate Facebook Login into native Android applications using Meta SDKs.
+- [Permissions Reference](https://developers.facebook.com/docs/permissions/reference): Reference for Facebook permissions, access scopes, and review requirements.
+- [Sharing to Facebook](https://developers.facebook.com/docs/sharing/): Tools and documentation for sharing content from apps to Facebook.
+
+## SDKs and Platform Tools
+- [Facebook SDK for iOS](https://developers.facebook.com/docs/ios): iOS SDK documentation for login, sharing, and app event integrations.
+- [Facebook SDK for Android](https://developers.facebook.com/docs/android): Android SDK documentation for login, sharing, and analytics-related integrations.
+- [JavaScript SDK](https://developers.facebook.com/docs/javascript): Browser SDK for login, dialogs, social plugins, and client-side integrations.
+- [App Events](https://developers.facebook.com/docs/app-events/): Instrument app and web events for analytics, attribution, and optimization.
+- [Sharing for Web](https://developers.facebook.com/docs/sharing/web): Web sharing dialogs and implementation guidance for browser experiences.
+- [Social Plugins](https://developers.facebook.com/docs/plugins/): Embeddable plugins such as Page, Like, and Comments for websites.
+
+## Marketing APIs
+- [Marketing API](https://developers.facebook.com/docs/marketing-apis/): APIs for ads management, insights, audiences, and campaign automation.
+- [Marketing API Reference](https://developers.facebook.com/docs/marketing-api/reference): Endpoint reference for ad accounts, campaigns, creatives, and reporting.
+- [Conversions API](https://developers.facebook.com/docs/marketing-api/conversions-api/): Server-side event integration for measurement, optimization, and attribution use cases.
+- [Ads Insights API](https://developers.facebook.com/docs/marketing-api/insights/): Retrieve ad performance metrics and reporting data programmatically.
+- [Business SDKs](https://developers.facebook.com/docs/business-sdk): SDKs for working with Meta marketing and business APIs.
+- [System Users](https://developers.facebook.com/docs/marketing-api/system-users/): Manage server-to-server access for business assets and API integrations.
+
+## App Review and Compliance
+- [App Review](https://developers.facebook.com/docs/app-review/): Approval process for permissions, features, and data access beyond standard scopes.
+- [Data Use Checkup](https://developers.facebook.com/docs/development/data-use-checkup/): Annual compliance workflow for apps with continued data access.
+- [Platform Terms](https://developers.facebook.com/terms/): Legal terms and developer obligations for using Meta platform products.
+- [Developer Policies](https://developers.facebook.com/policy/): Policies governing platform use, data handling, and user experience requirements.
+- [Platform Changelog](https://developers.facebook.com/docs/graph-api/changelog/): Version changes, deprecations, and release notes for platform APIs.
+- [Breaking Changes](https://developers.facebook.com/docs/graph-api/changelog/breaking-changes): Important API changes requiring developer action before version upgrades.
+
+## News and Engineering
+- [Meta Newsroom](https://about.fb.com/news/): Official company news, announcements, product updates, and policy communications.
+- [Engineering at Meta](https://engineering.fb.com/): Technical articles on infrastructure, AI, systems, and software engineering at Meta.
+- [Open Source](https://opensource.fb.com/): Meta open source projects, tools, research, and community initiatives.
+- [Research](https://research.facebook.com/): Research publications and projects spanning AI, systems, and social technologies.
+- [Transparency Reports](https://transparency.fb.com/reports/): Reports on enforcement, government requests, and platform integrity metrics.
+- [Careers](https://www.metacareers.com/): Job listings and information about roles across Meta organizations.

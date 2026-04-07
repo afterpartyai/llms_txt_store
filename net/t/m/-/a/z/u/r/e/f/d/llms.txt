@@ -1,0 +1,83 @@
+# tm-azurefd.net
+> Azure Front Door–hosted Microsoft web properties and documentation endpoints spanning products, services, and technical guidance.
+
+This domain is used by Microsoft Azure Front Door to serve content for Microsoft-owned sites, especially documentation, support, and product resources. The most useful LLM-facing context on this domain comes from Microsoft Learn, Azure documentation, API references, and related technical content delivered through Azure Front Door.
+
+## Microsoft Learn
+- [Microsoft Learn home](https://learn.microsoft.com/): Entry point for Microsoft technical documentation, training, and product learning paths.
+- [Documentation home](https://learn.microsoft.com/docs/): Central hub for Microsoft product documentation across Azure, Microsoft 365, and developer platforms.
+- [Training home](https://learn.microsoft.com/training/): Interactive learning paths, modules, and role-based training for Microsoft technologies.
+- [Credentials home](https://learn.microsoft.com/credentials/): Certification, applied skills, and exam information for Microsoft credentials.
+- [Q&A home](https://learn.microsoft.com/answers/): Community and Microsoft-supported technical question-and-answer platform.
+- [Microsoft Learn profile](https://learn.microsoft.com/users/): User profiles, achievements, collections, and saved learning content.
+
+## Azure Documentation
+- [Azure documentation](https://learn.microsoft.com/azure/): Main landing page for Azure service documentation, concepts, and quickstarts.
+- [Azure architecture center](https://learn.microsoft.com/azure/architecture/): Reference architectures, design patterns, and best practices for Azure solutions.
+- [Azure well-architected framework](https://learn.microsoft.com/azure/well-architected/): Guidance for building reliable, secure, cost-optimized, and efficient workloads.
+- [Azure updates](https://learn.microsoft.com/azure/updates/): Product update announcements and release information for Azure services.
+- [Azure resource manager documentation](https://learn.microsoft.com/azure/azure-resource-manager/): Guidance for deploying and managing Azure resources with ARM and Bicep.
+- [Azure CLI documentation](https://learn.microsoft.com/cli/azure/): Command reference and usage guidance for the Azure command-line interface.
+- [Azure PowerShell documentation](https://learn.microsoft.com/powershell/azure/): Cmdlet reference and tutorials for managing Azure with PowerShell.
+
+## Azure Service References
+- [Azure Front Door documentation](https://learn.microsoft.com/azure/frontdoor/): Concepts, configuration guides, and operational documentation for Azure Front Door.
+- [Azure Kubernetes Service documentation](https://learn.microsoft.com/azure/aks/): Deployment, operations, networking, and security guidance for AKS clusters.
+- [Azure Functions documentation](https://learn.microsoft.com/azure/azure-functions/): Serverless development guides, triggers, bindings, and hosting options.
+- [Azure Storage documentation](https://learn.microsoft.com/azure/storage/): Documentation for blobs, files, queues, tables, and storage account management.
+- [Azure Virtual Machines documentation](https://learn.microsoft.com/azure/virtual-machines/): Provisioning, administration, and architecture guidance for Azure VMs.
+- [Azure AI services documentation](https://learn.microsoft.com/azure/ai-services/): Documentation for cognitive APIs, speech, vision, language, and related AI services.
+- [Azure OpenAI documentation](https://learn.microsoft.com/azure/ai-services/openai/): Guides and reference material for Azure OpenAI models, deployment, and usage.
+
+## Developer Platforms
+- [.NET documentation](https://learn.microsoft.com/dotnet/): Official documentation for .NET runtime, libraries, tools, and application development.
+- [ASP.NET Core documentation](https://learn.microsoft.com/aspnet/core/): Guides for building web apps and APIs with ASP.NET Core.
+- [C# documentation](https://learn.microsoft.com/dotnet/csharp/): Language reference, tutorials, and feature documentation for C# developers.
+- [JavaScript on Microsoft Learn](https://learn.microsoft.com/javascript/): Documentation and learning resources for JavaScript development on Microsoft platforms.
+- [TypeScript on Microsoft Learn](https://learn.microsoft.com/javascript/typescript/): TypeScript guidance, integration, and learning resources in the Microsoft ecosystem.
+- [Python on Azure](https://learn.microsoft.com/azure/developer/python/): SDK guidance, tutorials, and deployment documentation for Python developers on Azure.
+- [Java on Azure](https://learn.microsoft.com/azure/developer/java/): Development, deployment, and SDK guidance for Java applications on Azure.
+
+## APIs and Reference
+- [Microsoft Graph documentation](https://learn.microsoft.com/graph/): API concepts, tutorials, and reference for Microsoft Graph services.
+- [Microsoft Graph REST API reference](https://learn.microsoft.com/graph/api/overview): REST API overview and entry point to Microsoft Graph endpoint documentation.
+- [REST API browser](https://learn.microsoft.com/rest/api/): Reference documentation for Azure and Microsoft service REST APIs.
+- [Azure SDK documentation](https://learn.microsoft.com/azure/developer/): Developer hub for Azure SDKs, tools, and language-specific guidance.
+- [Microsoft identity platform documentation](https://learn.microsoft.com/entra/identity-platform/): Authentication, authorization, and token acquisition guidance for Microsoft identity.
+- [Power Platform API documentation](https://learn.microsoft.com/power-platform/): Documentation for Power Platform development, administration, and extensibility.
+- [Dynamics 365 developer documentation](https://learn.microsoft.com/dynamics365/): Technical documentation for Dynamics 365 applications and platform development.
+
+## Microsoft 365 and Security
+- [Microsoft 365 documentation](https://learn.microsoft.com/microsoft-365/): Admin, deployment, security, and productivity documentation for Microsoft 365.
+- [Microsoft Teams documentation](https://learn.microsoft.com/microsoftteams/): Admin, platform, app development, and deployment guidance for Microsoft Teams.
+- [Exchange documentation](https://learn.microsoft.com/exchange/): Administration and deployment guidance for Exchange Server and Exchange Online.
+- [SharePoint documentation](https://learn.microsoft.com/sharepoint/): Administration, development, and adoption guidance for SharePoint.
+- [Microsoft Defender documentation](https://learn.microsoft.com/defender/): Security product documentation for threat protection, investigation, and response.
+- [Microsoft Sentinel documentation](https://learn.microsoft.com/azure/sentinel/): Cloud-native SIEM and SOAR documentation, connectors, analytics, and automation.
+- [Microsoft Intune documentation](https://learn.microsoft.com/mem/intune/): Endpoint management, app protection, and device compliance documentation.
+
+## Data and AI
+- [Azure SQL documentation](https://learn.microsoft.com/azure/azure-sql/): Documentation for Azure SQL Database, Managed Instance, and SQL Server on Azure.
+- [Azure Cosmos DB documentation](https://learn.microsoft.com/azure/cosmos-db/): Concepts, SDKs, query guidance, and operational documentation for Cosmos DB.
+- [Azure Databricks documentation](https://learn.microsoft.com/azure/databricks/): Analytics, data engineering, and machine learning guidance for Azure Databricks.
+- [Microsoft Fabric documentation](https://learn.microsoft.com/fabric/): Documentation for analytics, data engineering, warehousing, and business intelligence in Fabric.
+- [Azure Machine Learning documentation](https://learn.microsoft.com/azure/machine-learning/): End-to-end machine learning platform documentation for training and deployment.
+- [Azure AI Search documentation](https://learn.microsoft.com/azure/search/): Search indexing, query, vector search, and relevance tuning documentation.
+- [Power BI documentation](https://learn.microsoft.com/power-bi/): Product documentation for reporting, modeling, administration, and embedded analytics.
+
+## DevOps and Operations
+- [Azure DevOps documentation](https://learn.microsoft.com/azure/devops/): Documentation for boards, repos, pipelines, test plans, and artifacts.
+- [GitHub on Microsoft Learn](https://learn.microsoft.com/github/): Learning and documentation resources for GitHub workflows and integrations.
+- [Bicep documentation](https://learn.microsoft.com/azure/azure-resource-manager/bicep/): Infrastructure-as-code language documentation for Azure resource deployments.
+- [Terraform on Azure](https://learn.microsoft.com/azure/developer/terraform/): Guidance for provisioning and managing Azure resources with Terraform.
+- [Azure Monitor documentation](https://learn.microsoft.com/azure/azure-monitor/): Monitoring, logging, metrics, alerts, and observability guidance for Azure workloads.
+- [Azure Policy documentation](https://learn.microsoft.com/azure/governance/policy/): Governance and compliance documentation for defining and enforcing Azure policies.
+- [Microsoft Cost Management documentation](https://learn.microsoft.com/azure/cost-management-billing/): Billing, budgets, exports, and cost optimization guidance for Azure environments.
+
+## Support and Community
+- [Microsoft Learn Q&A](https://learn.microsoft.com/answers/): Technical support forum for Microsoft products with community and Microsoft responses.
+- [Azure support documentation](https://learn.microsoft.com/azure/azure-portal/supportability/how-to-create-azure-support-request): Guidance for creating and managing Azure support requests.
+- [Troubleshooting on Microsoft Learn](https://learn.microsoft.com/troubleshoot/): Product troubleshooting articles and issue-resolution guidance across Microsoft technologies.
+- [Tech Community](https://techcommunity.microsoft.com/): Community blogs, discussions, and announcements for Microsoft products and services.
+- [Azure status](https://azure.status.microsoft/): Service health and incident status information for Azure services.
+- [Microsoft developer blogs](https://devblogs.microsoft.com/): Engineering blogs, announcements, and technical deep dives from Microsoft teams.

@@ -1,0 +1,76 @@
+# 2mdn.net
+> Google Marketing Platform and Campaign Manager 360 serving domain used for ad delivery, tracking, Floodlight, and rich media assets.
+
+2mdn.net is primarily an infrastructure domain used by Google Marketing Platform products rather than a human-oriented documentation site. Useful context for LLMs comes from the official Google Marketing Platform, Campaign Manager 360, Display & Video 360, Search Ads 360, and Google Ads documentation that explains how 2mdn.net URLs, tags, redirects, creatives, and measurement are used.
+
+## Campaign Manager 360 Help
+- [Campaign Manager 360 Help Center](https://support.google.com/campaignmanager): Product help for trafficking, creatives, tags, tracking, and reporting.
+- [Get started with Campaign Manager 360](https://support.google.com/campaignmanager/topic/2837578): Introductory guidance for core Campaign Manager 360 workflows and concepts.
+- [About creatives](https://support.google.com/campaignmanager/topic/2826134): Explains creative types, hosting, serving, and management in Campaign Manager 360.
+- [About tags](https://support.google.com/campaignmanager/topic/2826142): Overview of ad tags, placements, redirects, and serving behavior.
+- [About Floodlight](https://support.google.com/campaignmanager/topic/2826132): Describes Floodlight activities, conversions, and measurement setup.
+- [Reports in Campaign Manager 360](https://support.google.com/campaignmanager/topic/2837570): Reporting concepts and report types for campaigns and creatives.
+
+## Campaign Manager 360 Developer Docs
+- [Campaign Manager 360 API Overview](https://developers.google.com/doubleclick-advertisers): Developer documentation for the Campaign Manager 360 API.
+- [REST API Reference](https://developers.google.com/doubleclick-advertisers/rest): Reference for resources, methods, and schemas in the API.
+- [Guides](https://developers.google.com/doubleclick-advertisers/guides): Implementation guidance for common Campaign Manager 360 API tasks.
+- [Create and manage creatives](https://developers.google.com/doubleclick-advertisers/guides/trafficking_creatives): API guide for trafficking and updating creatives.
+- [Create and manage placements](https://developers.google.com/doubleclick-advertisers/guides/trafficking_placements): API guide for placements, sites, and ad serving setup.
+- [Manage Floodlight activities](https://developers.google.com/doubleclick-advertisers/guides/floodlight_activities): API usage for Floodlight configuration and related resources.
+
+## Display & Video 360 Help
+- [Display & Video 360 Help Center](https://support.google.com/displayvideo): Product help for programmatic buying, creatives, and measurement.
+- [Get started with Display & Video 360](https://support.google.com/displayvideo/topic/27224): Introductory material for advertisers and campaign setup.
+- [Creatives in Display & Video 360](https://support.google.com/displayvideo/topic/6184964): Guidance on creative formats, assets, and serving.
+- [Tracking and measurement](https://support.google.com/displayvideo/topic/6023705): Help content for measurement, verification, and conversion tracking.
+- [Inventory and targeting](https://support.google.com/displayvideo/topic/6184967): Explains inventory sources and targeting configuration.
+- [Reports in Display & Video 360](https://support.google.com/displayvideo/topic/27223): Reporting tools and metrics for campaign analysis.
+
+## Display & Video 360 API
+- [Display & Video 360 API Overview](https://developers.google.com/display-video/api): Developer documentation for DV360 automation and integrations.
+- [REST Reference](https://developers.google.com/display-video/api/reference/rest): Resource and method reference for the DV360 API.
+- [Guides](https://developers.google.com/display-video/api/guides): Guides for authentication, advertisers, line items, and creatives.
+- [Manage creatives](https://developers.google.com/display-video/api/guides/managing-creatives): API guide for creating and updating creatives.
+- [Generate and download reports](https://developers.google.com/display-video/api/guides/reports): Guide for report creation and retrieval through the API.
+- [Structured Data Files](https://developers.google.com/display-video/api/guides/sdf): Documentation for bulk trafficking with Structured Data Files.
+
+## Search Ads 360
+- [Search Ads 360 Help Center](https://support.google.com/sa360): Product help for search campaign management and measurement.
+- [Get started with Search Ads 360](https://support.google.com/sa360/topic/1260800): Introductory guidance for account setup and navigation.
+- [About conversion tracking](https://support.google.com/sa360/topic/9280412): Explains conversion measurement and attribution in Search Ads 360.
+- [About Floodlight in Search Ads 360](https://support.google.com/sa360/topic/1260804): Describes Floodlight usage for Search Ads 360 measurement.
+- [Reports and reporting columns](https://support.google.com/sa360/topic/1260808): Help for reporting metrics, columns, and analysis.
+- [Search Ads 360 Reporting API migration](https://developers.google.com/search-ads/reporting): Developer docs for the modern Search Ads 360 API.
+
+## Google Ads and Rich Media Standards
+- [Google Ads Help Center](https://support.google.com/google-ads): Help for ad serving, tracking templates, and creative policies.
+- [About tracking templates and URL options](https://support.google.com/google-ads/answer/6305348): Explains click tracking and URL parameter handling.
+- [About third-party click tracking](https://support.google.com/google-ads/answer/2375447): Guidance on supported click trackers and redirect behavior.
+- [Ad requirements and asset specifications](https://support.google.com/google-ads/topic/1626336): Creative format and asset requirements across ad types.
+- [HTML5 ad requirements](https://support.google.com/google-ads/answer/1722096): Technical requirements for HTML5 creatives and hosted assets.
+- [Image ad policies](https://support.google.com/adspolicy/topic/1626336): Policy guidance relevant to served image creatives and assets.
+
+## Google Marketing Platform
+- [Google Marketing Platform Help Center](https://support.google.com/marketingplatform): Central help for GMP products and administration.
+- [About Google Marketing Platform](https://support.google.com/marketingplatform/answer/9047313): Overview of GMP products and how they fit together.
+- [Admin and user management](https://support.google.com/marketingplatform/topic/9047287): Guidance for organization, product, and user administration.
+- [Measurement and attribution](https://support.google.com/marketingplatform/topic/9475441): Cross-product help for measurement concepts and setup.
+- [Privacy and data collection](https://support.google.com/marketingplatform/topic/9475440): Information on privacy, consent, and data handling topics.
+- [Training and certification](https://support.google.com/marketingplatform/topic/9475438): Official learning resources for GMP products.
+
+## Google Tag and Floodlight Implementation
+- [Google tag platform help](https://support.google.com/tagmanager/topic/15191151): Documentation for Google tag behavior and deployment concepts.
+- [Tag Manager Help Center](https://support.google.com/tagmanager): Help for implementing tags, triggers, and variables.
+- [Set up Campaign Manager 360 Floodlight tags](https://support.google.com/campaignmanager/answer/2823222): Instructions for implementing Floodlight tags for conversion tracking.
+- [About Floodlight counting methods](https://support.google.com/campaignmanager/answer/2823221): Explains standard, unique, and session counting approaches.
+- [Use Google Tag Manager with Floodlight](https://support.google.com/tagmanager/answer/6107160): Guide for deploying Floodlight tags through GTM.
+- [Consent mode overview](https://support.google.com/tagmanager/answer/10718549): Consent-aware tagging behavior for Google measurement tags.
+
+## Policies, Privacy, and Security
+- [Google Privacy Policy](https://policies.google.com/privacy): Core privacy policy governing Google products and services.
+- [How Google uses information from sites or apps](https://policies.google.com/technologies/partner-sites): Explains data collection on partner properties using Google technologies.
+- [Advertising Policies Help](https://support.google.com/adspolicy): Policy center for ads, creatives, and restricted content.
+- [EU user consent policy](https://www.google.com/about/company/user-consent-policy/): Consent requirements for using Google advertising and measurement products.
+- [Authorized Buyers and OpenRTB policies](https://support.google.com/authorizedbuyers/topic/2913775): Programmatic policy guidance relevant to creatives and ad serving.
+- [Google Ads Data Processing Terms](https://business.safety.google/adsprocessorterms/): Contractual data processing terms for advertising products.

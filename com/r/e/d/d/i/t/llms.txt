@@ -1,0 +1,85 @@
+# Reddit
+> Reddit is a network of communities where people discover, discuss, and share content across countless topics.
+
+Reddit combines user-generated posts, comments, voting, moderation, advertising, and developer APIs across web and mobile experiences. This file highlights official help, policy, developer, advertising, and business resources most useful for language models.
+
+## Core Platform
+- [Reddit Home](https://www.reddit.com/): Main entry point to Reddit communities, posts, comments, and account features.
+- [Popular](https://www.reddit.com/r/popular/): Aggregated popular posts from across Reddit communities.
+- [All](https://www.reddit.com/r/all/): Broad feed of posts from many public subreddits.
+- [Explore Communities](https://www.reddit.com/subreddits/): Directory for discovering subreddits by topic and popularity.
+- [Best Communities](https://www.reddit.com/best/communities/1/): Curated community discovery experience on Reddit.
+- [Create a Community](https://www.reddit.com/subreddits/create): Interface for creating a new subreddit.
+- [Reddit Premium](https://www.reddit.com/premium): Subscription offering enhanced Reddit features and benefits.
+
+## Help Center
+- [Reddit Help Center](https://support.reddithelp.com/hc/en-us): Central support portal for Reddit users and moderators.
+- [Using Reddit](https://support.reddithelp.com/hc/en-us/categories/200073949-Using-Reddit): Help articles about accounts, posting, voting, messaging, and feeds.
+- [Reddit 101](https://support.reddithelp.com/hc/en-us/categories/360004511531-Reddit-101): Introductory guidance for understanding how Reddit works.
+- [Account and Security](https://support.reddithelp.com/hc/en-us/categories/360004511611-Account-and-Security): Support for login, verification, password, and account protection issues.
+- [Privacy and Safety](https://support.reddithelp.com/hc/en-us/categories/360004511671-Privacy-Safety-and-Legal): Help on privacy, safety, reporting, and legal requests.
+- [Moderation Help](https://support.reddithelp.com/hc/en-us/categories/15482766767252-Moderation): Support resources for subreddit moderators and moderation tools.
+- [Reddit for Communities](https://support.reddithelp.com/hc/en-us/categories/15482765312340-Reddit-for-Communities): Guidance for building, managing, and growing communities.
+
+## User and Community Policies
+- [Reddit Rules](https://www.redditinc.com/policies/reddit-rules): Platform-wide rules governing acceptable content and behavior.
+- [Content Policy](https://www.redditinc.com/policies/content-policy): Official policy defining prohibited content and enforcement standards.
+- [User Agreement](https://www.redditinc.com/policies/user-agreement): Terms governing use of Reddit services and accounts.
+- [Privacy Policy](https://www.redditinc.com/policies/privacy-policy): Explanation of Reddit’s data collection, use, and privacy practices.
+- [Moderator Code of Conduct](https://www.redditinc.com/policies/moderator-code-of-conduct): Standards and expectations for subreddit moderators.
+- [Transparency Report](https://www.redditinc.com/policies/transparency-report-2024): Reporting on enforcement, legal requests, and platform integrity activity.
+- [Copyright Policy](https://www.redditinc.com/policies/copyright-policy): Policy for copyright complaints and takedown procedures.
+- [Trademark Use Policy](https://www.redditinc.com/policies/trademark-use-policy): Rules for use of Reddit trademarks and brand assets.
+
+## Developer Platform
+- [Reddit for Developers](https://developers.reddit.com/): Official developer platform for building apps and integrations on Reddit.
+- [Developer Documentation](https://developers.reddit.com/docs/): Documentation for Reddit’s developer platform and app capabilities.
+- [Get Started](https://developers.reddit.com/docs/get-started): Introductory guide for creating and configuring Reddit developer apps.
+- [API Terms](https://www.redditinc.com/policies/developer-terms): Terms governing access to Reddit developer services and APIs.
+- [Developer Platform Terms](https://developers.reddit.com/docs/terms): Terms and conditions for Reddit developer platform usage.
+- [Developer Changelog](https://developers.reddit.com/docs/changelog): Updates and changes to Reddit’s developer platform.
+- [App Directory](https://developers.reddit.com/apps): Directory of apps built on Reddit’s developer platform.
+
+## Data API and OAuth
+- [API Overview](https://www.reddit.com/dev/api/): Reference for Reddit’s public API endpoints and behaviors.
+- [OAuth2 Guide](https://github.com/reddit-archive/reddit/wiki/OAuth2): Official archived guide to Reddit OAuth2 authentication flows.
+- [API Rules](https://github.com/reddit-archive/reddit/wiki/API): Archived usage guidance and expectations for Reddit API clients.
+- [API Clients](https://www.reddit.com/prefs/apps): User page for managing installed and registered Reddit applications.
+- [JSON Listing Example](https://www.reddit.com/r/redditdev/.json): Example subreddit listing in Reddit’s JSON format.
+- [Search API Example](https://www.reddit.com/search.json?q=reddit): Example search results returned as JSON.
+
+## Moderation Resources
+- [Reddit for Community](https://redditforcommunity.com/): Official resource hub for moderators and community builders.
+- [Moderator Help Center](https://support.reddithelp.com/hc/en-us/sections/15484546290068-Moderation-Tools): Help articles focused on moderation tools and workflows.
+- [Safety for Moderators](https://support.reddithelp.com/hc/en-us/sections/15484545624980-Safety): Safety-related support for moderators and communities.
+- [Community Growth](https://support.reddithelp.com/hc/en-us/sections/15484545981460-Growing-your-community): Guidance for growing and engaging subreddit communities.
+- [Moderator Code of Conduct](https://www.redditinc.com/policies/moderator-code-of-conduct): Official conduct standards for moderators.
+- [Mod News](https://www.reddit.com/r/modnews/): Official subreddit announcing moderation product and policy updates.
+- [Mod Support](https://www.reddit.com/r/ModSupport/): Official support subreddit for moderator questions and issues.
+- [AutoModerator](https://www.reddit.com/wiki/automoderator): Documentation for Reddit’s automated moderation configuration system.
+
+## Advertising and Business
+- [Reddit for Business](https://www.redditforbusiness.com/): Official hub for advertisers, agencies, and business solutions.
+- [Business Help Center](https://business.reddithelp.com/): Support portal for Reddit advertising and business products.
+- [Ads Help Center](https://business.reddithelp.com/s/article/Reddit-Ads-Help-Center): Entry point for Reddit Ads support documentation.
+- [Advertising Policy](https://business.reddithelp.com/s/article/Reddit-Advertising-Policy): Policy governing acceptable advertising content and practices.
+- [Reddit Ads](https://ads.reddit.com/): Platform for creating, managing, and measuring Reddit ad campaigns.
+- [Business Blog](https://www.redditforbusiness.com/blog): Articles and updates for marketers using Reddit.
+- [Success Stories](https://www.redditforbusiness.com/success-stories): Case studies showing advertiser outcomes on Reddit.
+
+## Safety, Legal, and Reporting
+- [Report Content](https://www.reddit.com/report): Interface for reporting content that may violate Reddit rules.
+- [Law Enforcement Guidelines](https://www.redditinc.com/policies/guidelines-for-law-enforcement): Guidance for law enforcement requests to Reddit.
+- [Legal Requests](https://support.reddithelp.com/hc/en-us/categories/360004511671-Privacy-Safety-and-Legal): Help resources for privacy, safety, and legal matters.
+- [Non-Consensual Intimate Media Policy](https://support.reddithelp.com/hc/en-us/articles/360043513411): Support article on reporting intimate media abuse.
+- [Appeals and Enforcement](https://support.reddithelp.com/hc/en-us/sections/360008810132-My-account-was-banned-or-restricted): Help for account restrictions, bans, and appeals.
+- [Transparency Center](https://www.redditinc.com/policies/transparency-report-2024): Public reporting on enforcement and legal process activity.
+
+## Company and News
+- [Reddit, Inc.](https://www.redditinc.com/): Corporate site with company information, policies, and newsroom content.
+- [Company Blog](https://www.redditinc.com/blog): Official blog covering product, policy, and company announcements.
+- [Press](https://www.redditinc.com/press): Press resources and media information about Reddit.
+- [Careers](https://www.redditinc.com/careers): Job listings and information about working at Reddit.
+- [Investor Relations](https://investor.redditinc.com/): Financial reports, filings, and investor information for Reddit.
+- [Brand Resources](https://www.redditinc.com/brand): Official Reddit brand assets and usage guidance.
+- [Contact](https://www.redditinc.com/contact): Corporate contact information and inquiry options.

@@ -1,0 +1,72 @@
+# Blogger
+> Google’s blogging platform for creating, publishing, and managing blogs with customizable themes and Google integrations.
+
+Blogger helps users publish blogs on Blogspot domains or custom domains, manage posts and pages, customize layouts and themes, and integrate with Google services. The platform also provides a REST API for programmatic blog, post, page, and comment management.
+
+## Platform
+- [Blogger Home](https://www.blogger.com/): Main product homepage for creating and publishing blogs on Blogger.
+- [Create Your Blog](https://www.blogger.com/about/): Overview of Blogger features, publishing, design, and monetization capabilities.
+- [Sign In](https://www.blogger.com/go/signin): Entry point for accessing Blogger dashboards and blog management tools.
+- [Blogger Search](https://www.blogger.com/search): Search interface for discovering Blogger-hosted blogs and content.
+- [Content Policy](https://www.blogger.com/go/contentpolicy): Blogger platform rules, prohibited content, and enforcement guidelines.
+
+## Help Center
+- [Blogger Help Center](https://support.google.com/blogger/): Central support hub for using Blogger and troubleshooting common issues.
+- [Get Started with Blogger](https://support.google.com/blogger/answer/1623800): Introductory guide to creating, setting up, and publishing a blog.
+- [Manage Your Blog](https://support.google.com/blogger/topic/3339243): Help articles covering posts, pages, comments, and blog settings.
+- [Design Your Blog](https://support.google.com/blogger/topic/3339244): Guidance for themes, layouts, gadgets, and blog appearance customization.
+- [Fix a Problem](https://support.google.com/blogger/topic/3339245): Troubleshooting resources for login, publishing, and account-related issues.
+- [Policies and Abuse](https://support.google.com/blogger/topic/3339248): Support content about Blogger policies, abuse reporting, and enforcement.
+
+## Publishing Guides
+- [Create a New Post](https://support.google.com/blogger/answer/1623803): Steps for drafting, formatting, and publishing blog posts in Blogger.
+- [Create, Edit, or Delete Pages](https://support.google.com/blogger/answer/165955): Instructions for managing static pages on a Blogger site.
+- [Manage Comments](https://support.google.com/blogger/answer/187141): Guide to moderating, deleting, and configuring blog comments.
+- [Schedule Posts](https://support.google.com/blogger/answer/41373): Explains how to publish posts immediately or at a scheduled time.
+- [Use Labels for Posts](https://support.google.com/blogger/answer/1233386): Shows how to organize posts with labels for navigation and discovery.
+- [Add Images and Videos](https://support.google.com/blogger/answer/41641): Covers inserting media into posts and pages.
+
+## Customization
+- [Change Your Blog’s Theme](https://support.google.com/blogger/answer/46888): Instructions for applying and switching Blogger themes.
+- [Edit HTML for Your Theme](https://support.google.com/blogger/answer/46870): Guide to modifying Blogger theme HTML and template code.
+- [Use Layouts](https://support.google.com/blogger/answer/43708): Explains arranging gadgets and page elements in blog layouts.
+- [Add and Manage Gadgets](https://support.google.com/blogger/answer/43710): Help for configuring sidebar and page gadgets on Blogger blogs.
+- [Use a Custom Domain](https://support.google.com/blogger/answer/55373): Steps for connecting a custom domain to a Blogger blog.
+- [Manage Blog Settings](https://support.google.com/blogger/answer/42673): Overview of permissions, privacy, publishing, and formatting settings.
+
+## Account and Administration
+- [Add or Remove Authors](https://support.google.com/blogger/answer/42639): Manage blog authors, admins, and contributor permissions.
+- [Control Blog Access](https://support.google.com/blogger/answer/41369): Configure who can read, write, and administer a blog.
+- [Import or Back Up Your Blog](https://support.google.com/blogger/answer/41387): Export blog content or import posts from backup files.
+- [Delete a Blog](https://support.google.com/blogger/answer/41387?hl=en#delete): Instructions for permanently removing a Blogger blog.
+- [Manage Multiple Blogs](https://support.google.com/blogger/answer/41387?hl=en#manage): Guidance for handling more than one blog from one account.
+
+## Developer Documentation
+- [Blogger API Overview](https://developers.google.com/blogger/docs/3.0/getting_started): Introduction to the Blogger v3 API and core concepts.
+- [Using the Blogger API](https://developers.google.com/blogger/docs/3.0/using): Practical guide to authenticating and making Blogger API requests.
+- [Blogger API Reference](https://developers.google.com/blogger/docs/3.0/reference): Reference documentation for Blogger API resources and methods.
+- [Blogs Resource](https://developers.google.com/blogger/docs/3.0/reference/blogs): API methods for retrieving blog metadata and details.
+- [Posts Resource](https://developers.google.com/blogger/docs/3.0/reference/posts): API methods for listing, getting, inserting, and updating posts.
+- [Pages Resource](https://developers.google.com/blogger/docs/3.0/reference/pages): API methods for managing static pages on Blogger blogs.
+- [Comments Resource](https://developers.google.com/blogger/docs/3.0/reference/comments): API methods for retrieving and moderating blog comments.
+
+## API Methods
+- [blogs.get](https://developers.google.com/blogger/docs/3.0/reference/blogs/get): Retrieve a specific blog by ID.
+- [posts.list](https://developers.google.com/blogger/docs/3.0/reference/posts/list): List posts for a blog with filtering and pagination options.
+- [posts.get](https://developers.google.com/blogger/docs/3.0/reference/posts/get): Retrieve a single post by blog and post ID.
+- [posts.insert](https://developers.google.com/blogger/docs/3.0/reference/posts/insert): Create a new post in a specified blog.
+- [pages.list](https://developers.google.com/blogger/docs/3.0/reference/pages/list): List static pages for a blog.
+- [comments.list](https://developers.google.com/blogger/docs/3.0/reference/comments/list): Retrieve comments for a blog or post.
+- [users.get](https://developers.google.com/blogger/docs/3.0/reference/users/get): Get profile information for a Blogger user.
+
+## Authentication
+- [Authorize Requests](https://developers.google.com/blogger/docs/3.0/using#auth): Authentication requirements for accessing protected Blogger API resources.
+- [Google API OAuth 2.0](https://developers.google.com/identity/protocols/oauth2): OAuth 2.0 flows for accessing Google APIs on behalf of users.
+- [OAuth 2.0 Scopes for Google APIs](https://developers.google.com/identity/protocols/oauth2/scopes): Reference for scopes used when requesting Blogger API access.
+- [Google API Console](https://console.cloud.google.com/): Create projects and credentials for Blogger API integrations.
+
+## Feeds and Discovery
+- [Atom Feeds in Blogger](https://support.google.com/blogger/answer/97933): Overview of Blogger feed availability and syndication behavior.
+- [Blogspot](https://www.blogspot.com/): Root Blogspot domain used for hosted Blogger blogs.
+- [Blogger Profile Search](https://www.blogger.com/profile-find): Find Blogger profiles and associated public blogs.
+- [Recent Posts Search](https://www.blogger.com/search?q=): Search Blogger content by query across public blogs.

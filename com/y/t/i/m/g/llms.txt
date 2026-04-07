@@ -1,0 +1,65 @@
+# ytimg.com
+> Static asset and media delivery domain used by YouTube and Google services for images, thumbnails, icons, stylesheets, scripts, and other web resources.
+
+ytimg.com primarily serves CDN-hosted assets rather than human-oriented documentation. It is widely used across YouTube web properties, embeds, branding surfaces, and support content to deliver static files and media resources referenced by youtube.com and related Google pages.
+
+## Core Asset Domains
+- [Main Domain](https://www.ytimg.com/): Primary host for YouTube static assets and CDN-delivered web resources.
+- [Image CDN](https://i.ytimg.com/): Hosts YouTube video thumbnails, channel images, and other image assets.
+- [Static Asset Path](https://www.ytimg.com/yts/): Base path for versioned YouTube web application assets.
+- [Embed Assets](https://www.ytimg.com/yts/jsbin/): JavaScript bundle path used by YouTube web and embedded players.
+- [Stylesheet Assets](https://www.ytimg.com/yts/cssbin/): CSS bundle path for YouTube web interface styling resources.
+
+## Video Thumbnail Endpoints
+- [Default Thumbnail Pattern](https://i.ytimg.com/vi/): Base path for standard YouTube video thumbnail images by video ID.
+- [WebP Thumbnail Pattern](https://i.ytimg.com/vi_webp/): Base path for WebP-formatted YouTube video thumbnails.
+- [High Quality Thumbnail Example](https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg): Common high-quality thumbnail URL structure for a video.
+- [Maximum Resolution Thumbnail Example](https://i.ytimg.com/vi/dQw4w9WgXcQ/maxresdefault.jpg): Typical maximum-resolution thumbnail URL structure when available.
+- [Medium Quality Thumbnail Example](https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg): Typical medium-quality thumbnail URL structure.
+- [Default Quality Thumbnail Example](https://i.ytimg.com/vi/dQw4w9WgXcQ/default.jpg): Typical default thumbnail URL structure.
+- [WebP High Quality Example](https://i.ytimg.com/vi_webp/dQw4w9WgXcQ/hqdefault.webp): Example WebP thumbnail URL for compatible clients.
+
+## Channel and Profile Images
+- [Channel Avatar CDN](https://yt3.ggpht.com/): Google-hosted image domain commonly used for YouTube channel avatars and profile images.
+- [YouTube Brand Assets](https://www.ytimg.com/img/): Static image directory for YouTube logos, icons, and interface imagery.
+- [Favicon Asset](https://www.ytimg.com/yts/img/favicon_32-vflOogEID.png): Example YouTube favicon asset served from ytimg.
+- [Touch Icon Asset](https://www.ytimg.com/yts/img/favicon_144-vfliLAfaB.png): Example mobile touch icon asset served from ytimg.
+
+## Player and Embed Resources
+- [Player Asset Root](https://www.ytimg.com/yts/jsbin/player-en_US-vflset/): Versioned player JavaScript asset directory pattern.
+- [Embed Player Script Pattern](https://www.ytimg.com/yts/jsbin/www-embed-player-vflset/): Versioned embed player script directory pattern.
+- [WWW Application Scripts](https://www.ytimg.com/yts/jsbin/www-en_US-vflset/): Versioned main YouTube web application script directory pattern.
+- [Player Stylesheets](https://www.ytimg.com/yts/cssbin/player-vflset/): Versioned player stylesheet directory pattern.
+- [WWW Stylesheets](https://www.ytimg.com/yts/cssbin/www-main-desktop-watch-page-skeleton.css): Example stylesheet asset for YouTube desktop watch page rendering.
+
+## Static Images and UI Assets
+- [YTS Image Directory](https://www.ytimg.com/yts/img/): Root directory for YouTube interface images and icons.
+- [Sprite and Icon Assets](https://www.ytimg.com/yts/imgbin/): Versioned image bundle path used by YouTube web clients.
+- [Masthead and Branding Assets](https://www.ytimg.com/imgbin/): Static image bundle path for branding and UI resources.
+- [Logo Example](https://www.ytimg.com/yts/img/yt_1200-vfl4C3T0K.png): Example YouTube logo image asset.
+- [Monochrome Logo Example](https://www.ytimg.com/yts/img/pixel-vfl3z5WfW.gif): Example tracking or placeholder pixel asset.
+
+## Web App Bundles
+- [JavaScript Bundle Root](https://www.ytimg.com/yts/jsbin/): Root path for versioned JavaScript bundles used by YouTube clients.
+- [CSS Bundle Root](https://www.ytimg.com/yts/cssbin/): Root path for versioned CSS bundles used by YouTube clients.
+- [Service Worker Assets](https://www.ytimg.com/yts/jsbin/serviceworker-kevlar-appshell.js): Example service worker script for YouTube web app shell.
+- [Desktop App Shell Script](https://www.ytimg.com/yts/jsbin/www-i18n-constants-en_US.js): Example locale-specific constants bundle for YouTube web.
+- [Polymer or Kevlar Assets](https://www.ytimg.com/yts/jsbin/desktop_polymer.js): Example modern web application bundle naming pattern.
+
+## Internationalization and Locale Assets
+- [English Locale Bundles](https://www.ytimg.com/yts/jsbin/www-en_US-vflset/): Locale-specific script directory pattern for English web assets.
+- [Localized Constants Example](https://www.ytimg.com/yts/jsbin/www-i18n-constants-en_US.js): Example internationalization constants bundle.
+- [Localized Player Assets](https://www.ytimg.com/yts/jsbin/player-en_US-vflset/): Locale-specific player asset directory pattern.
+- [Localized Embed Assets](https://www.ytimg.com/yts/jsbin/www-embed-player-en_US.js): Example localized embed player script naming pattern.
+
+## Related YouTube Properties
+- [YouTube Main Site](https://www.youtube.com/): Primary consumer web application that references ytimg-hosted assets extensively.
+- [YouTube Embed Endpoint](https://www.youtube.com/embed/): Embedded player endpoint that loads scripts and styles from ytimg.
+- [YouTube Shorts](https://www.youtube.com/shorts/): Shorts viewing surface using shared YouTube static assets.
+- [YouTube Support](https://support.google.com/youtube/): Official help center for YouTube products and features.
+- [YouTube Brand Resources](https://www.youtube.com/about/brand-resources/): Official branding guidance related to YouTube marks and assets.
+
+## Robots and Discovery
+- [Robots.txt](https://www.ytimg.com/robots.txt): Crawl directives published for the ytimg static asset domain.
+- [Image CDN Robots](https://i.ytimg.com/robots.txt): Crawl directives for the thumbnail and image CDN host.
+- [Main Site Robots](https://www.youtube.com/robots.txt): Crawl directives for the primary YouTube web application domain.

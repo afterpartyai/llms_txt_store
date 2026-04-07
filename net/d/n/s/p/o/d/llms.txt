@@ -1,0 +1,70 @@
+# DNSPod
+> DNSPod provides DNS hosting, domain management, SSL certificates, and related cloud networking services.
+
+DNSPod is a Tencent Cloud service focused on authoritative DNS, domain operations, traffic management, and security-related domain services for individuals and enterprises.
+
+## Product Documentation
+- [DNSPod Documentation](https://docs.dnspod.cn/): Main documentation portal for DNS, domains, monitoring, and related services.
+- [DNSPod Help Center](https://support.dnspod.cn/): Product help articles, operational guides, and troubleshooting resources.
+- [DNSPod OpenAPI Documentation](https://docs.dnspod.cn/api/): API usage guidance, authentication, and endpoint references.
+- [DNSPod User Center](https://console.dnspod.cn/): Management console for domains, DNS records, monitoring, and account operations.
+
+## API Reference
+- [DNSPod API Overview](https://docs.dnspod.cn/api/): Introduction to DNSPod APIs, request signing, and common usage patterns.
+- [Domain List API](https://docs.dnspod.cn/api/domain-list/): Reference for retrieving managed domain lists and related metadata.
+- [Record List API](https://docs.dnspod.cn/api/record-list/): Reference for querying DNS records under a managed domain.
+- [Record Create API](https://docs.dnspod.cn/api/record-create/): Endpoint details for creating new DNS records programmatically.
+- [Record Modify API](https://docs.dnspod.cn/api/record-modify/): Endpoint details for updating existing DNS record values and settings.
+- [Record Remove API](https://docs.dnspod.cn/api/record-remove/): Endpoint details for deleting DNS records from a domain.
+- [Domain Info API](https://docs.dnspod.cn/api/domain-info/): Reference for retrieving detailed information about a managed domain.
+
+## DNS Management Guides
+- [Add Domain Guide](https://support.dnspod.cn/Kb/showarticle/tsid/42/): Steps for adding a domain to DNSPod for DNS hosting.
+- [Modify DNS Records](https://support.dnspod.cn/Kb/showarticle/tsid/23/): Guide to adding, editing, and managing common DNS record types.
+- [Domain Resolution FAQ](https://support.dnspod.cn/Kb/showarticle/tsid/228/): Answers to common DNS resolution and propagation questions.
+- [TTL Explanation](https://support.dnspod.cn/Kb/showarticle/tsid/176/): Explanation of TTL behavior and its impact on DNS caching.
+- [CNAME Record Guide](https://support.dnspod.cn/Kb/showarticle/tsid/33/): How and when to use CNAME records in DNS configurations.
+- [MX Record Guide](https://support.dnspod.cn/Kb/showarticle/tsid/35/): How to configure MX records for email delivery.
+- [TXT Record Guide](https://support.dnspod.cn/Kb/showarticle/tsid/36/): How to use TXT records for verification and email security.
+
+## Domain Services
+- [Domain Registration](https://www.dnspod.cn/products/domain): Domain registration services and domain search capabilities.
+- [Domain Management](https://console.dnspod.cn/domain): Console area for managing registered domains and lifecycle operations.
+- [WHOIS Lookup](https://whois.dnspod.cn/): WHOIS query tool for checking domain registration information.
+- [Domain Price List](https://www.dnspod.cn/products/domain): Product page covering supported TLDs and registration services.
+- [Domain Real-Name Verification Help](https://support.dnspod.cn/Kb/showarticle/tsid/219/): Guidance on domain verification and compliance requirements.
+
+## DNS Products
+- [DNSPod DNS Hosting](https://www.dnspod.cn/products/dns): Overview of authoritative DNS hosting features and plans.
+- [DNSPod DDoS Protection](https://www.dnspod.cn/products/dns): DNS service capabilities related to availability and protection.
+- [Traffic Scheduling](https://www.dnspod.cn/products/dns): DNS-based traffic management and intelligent resolution capabilities.
+- [Domain Monitoring](https://www.dnspod.cn/products/monitor): Monitoring product for domain and website availability checks.
+- [SSL Certificates](https://www.dnspod.cn/products/ssl): SSL certificate issuance and management services.
+
+## Monitoring and Operations
+- [Domain Monitoring Console](https://console.dnspod.cn/monitor): Manage monitoring tasks, alerts, and availability checks.
+- [Monitoring Product Page](https://www.dnspod.cn/products/monitor): Overview of monitoring features for domains and websites.
+- [Operation Logs](https://console.dnspod.cn/log): Review account and DNS operation history in the console.
+- [Message Center](https://console.dnspod.cn/message): View system notifications, alerts, and service messages.
+- [Account Security](https://console.dnspod.cn/security): Manage account protection settings and security-related options.
+
+## Developer Resources
+- [API Documentation](https://docs.dnspod.cn/api/): Core developer reference for integrating DNSPod programmatically.
+- [API Error Codes](https://docs.dnspod.cn/api/5f562fa4e75cf42d25bf689f/): Common API error responses and troubleshooting information.
+- [Request Signature Guide](https://docs.dnspod.cn/api/5f562fa4e75cf42d25bf689f/): Authentication and signing concepts for secure API access.
+- [Tencent Cloud API Explorer](https://console.cloud.tencent.com/api/explorer?Product=dnspod): Interactive tool for testing DNSPod-related Tencent Cloud APIs.
+- [SDK Center](https://cloud.tencent.com/document/sdk): Tencent Cloud SDK resources applicable to DNSPod integrations.
+
+## Support and Community
+- [Support Center](https://support.dnspod.cn/): Searchable knowledge base for DNSPod products and account issues.
+- [Submit a Ticket](https://console.dnspod.cn/ticket/create): Contact support for technical and account-related requests.
+- [Service Status](https://status.dnspod.cn/): Operational status information for DNSPod services.
+- [Announcements](https://support.dnspod.cn/Announcements): Product updates, maintenance notices, and service announcements.
+- [Feedback Center](https://console.dnspod.cn/feedback): Submit product feedback and suggestions through the console.
+
+## Company and Legal
+- [DNSPod Homepage](https://www.dnspod.cn/): Main entry point for DNSPod products, services, and account access.
+- [About DNSPod](https://www.dnspod.cn/about): Company and service background information.
+- [Terms of Service](https://www.dnspod.cn/about/agreement): Service agreement and usage terms for DNSPod offerings.
+- [Privacy Policy](https://www.dnspod.cn/about/privacy): Privacy practices governing DNSPod products and user data.
+- [Contact Us](https://www.dnspod.cn/about/contact): Official contact information and business inquiry channels.

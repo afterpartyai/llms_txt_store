@@ -1,0 +1,91 @@
+# F5
+> F5 provides multicloud security and application delivery solutions that keep applications secure, available, and performant across environments.
+
+F5 offers application security, delivery, networking, and infrastructure solutions for enterprises, service providers, and platform teams. This guide highlights core solution areas, product documentation, APIs, support resources, training, and company content most useful for LLM-based discovery.
+
+## Solutions
+- [Solutions Overview](https://www.f5.com/solutions): Explore F5 solution areas across security, delivery, networking, and industry use cases.
+- [AI Infrastructure](https://www.f5.com/solutions/ai-infrastructure): Infrastructure solutions for scaling, securing, and optimizing AI application environments.
+- [AI Security](https://www.f5.com/solutions/ai-security): Security capabilities for protecting AI applications, models, and supporting services.
+- [Application Delivery and Traffic Management](https://www.f5.com/solutions/application-delivery-and-traffic-management): Improve application availability, performance, and traffic control across hybrid environments.
+- [Edge Distribution](https://www.f5.com/solutions/edge-distribution): Deliver and distribute applications and content closer to users at the edge.
+- [Networking for Kubernetes](https://www.f5.com/solutions/networking-for-kubernetes): Kubernetes networking and traffic management for modern containerized applications.
+- [Network Security](https://www.f5.com/solutions/network-security): Protect networks, applications, and users with layered security controls.
+- [Web Application and API Protection](https://www.f5.com/solutions/web-app-and-api-protection): Defend web apps and APIs from attacks, abuse, and automated threats.
+
+## Security and Architecture
+- [Zero Trust Architecture](https://www.f5.com/solutions/zero-trust-architecture): Implement zero trust principles for application access and infrastructure protection.
+- [Post-Quantum Cryptography Readiness](https://www.f5.com/solutions/post-quantum-cryptography-readiness): Prepare cryptographic strategies for emerging post-quantum security requirements.
+- [Distributed Cloud Services](https://www.f5.com/products/distributed-cloud-services): SaaS-based security, networking, and application delivery services for distributed environments.
+- [BIG-IP](https://www.f5.com/products/big-ip-services): Application delivery and security services for enterprise application environments.
+- [NGINX](https://www.f5.com/products/nginx): Application delivery, API management, load balancing, and Kubernetes connectivity platform.
+- [F5 XC Console](https://console.ves.volterra.io/): Management console for F5 Distributed Cloud services.
+
+## Industries
+- [Banking and Financial Services](https://www.f5.com/solutions/banking-and-financial-services): Security and application delivery solutions for financial services organizations.
+- [E-commerce](https://www.f5.com/solutions/ecommerce): Improve digital commerce performance, resilience, and fraud protection.
+- [Healthcare](https://www.f5.com/solutions/healthcare): Secure healthcare applications and support compliant digital patient experiences.
+- [Public Sector](https://www.f5.com/solutions/public-sector): Government-focused application security and delivery solutions.
+- [Technology](https://www.f5.com/solutions/f5-solutions-for-technology): Solutions for technology companies building and operating digital platforms.
+- [Smart Manufacturing](https://www.f5.com/solutions/smart-manufacturing): Secure and connect manufacturing systems, applications, and industrial environments.
+- [Service Providers](https://www.f5.com/solutions/service-providers): Networking and security solutions for telecom and service provider environments.
+
+## Products
+- [Products Overview](https://www.f5.com/products): Browse F5 application security, delivery, and networking products.
+- [BIG-IP Services](https://www.f5.com/products/big-ip-services): Core application delivery, security, and traffic management platform.
+- [BIG-IP Next](https://www.f5.com/products/big-ip-next): Modernized BIG-IP platform for simplified operations and lifecycle management.
+- [Distributed Cloud Services](https://www.f5.com/products/distributed-cloud-services): Cloud-delivered app security, networking, and edge services.
+- [NGINX](https://www.f5.com/products/nginx): Modern app delivery and API connectivity technologies from F5 NGINX.
+- [rSeries](https://www.f5.com/products/f5-rseries): Purpose-built appliance platform for F5 software and services.
+- [VELOS](https://www.f5.com/products/velos): High-performance chassis platform for scalable application delivery workloads.
+
+## Documentation
+- [F5 Technical Documentation](https://techdocs.f5.com/): Central documentation portal for F5 products, platforms, and software releases.
+- [BIG-IP Documentation](https://techdocs.f5.com/en-us/bigip-17-5-0.html): Product documentation for BIG-IP configuration, administration, and operations.
+- [BIG-IP Next Documentation](https://techdocs.f5.com/bigip-next/latest/): Documentation for BIG-IP Next deployment, management, and features.
+- [F5 Distributed Cloud Documentation](https://docs.cloud.f5.com/): Documentation for F5 Distributed Cloud services and workflows.
+- [NGINX Documentation](https://docs.nginx.com/): Official NGINX product documentation, guides, and reference material.
+- [NGINX Open Source Docs](https://nginx.org/en/docs/): Core NGINX open source documentation and module references.
+- [MyF5 Knowledge Articles](https://my.f5.com/manage/s/): Support portal for knowledge articles, downloads, and case management.
+
+## API and Developer Resources
+- [F5 Distributed Cloud API Docs](https://docs.cloud.f5.com/docs-v2/platform/reference/api-ref/ves-io-schema-api): API reference for F5 Distributed Cloud platform services.
+- [F5 Distributed Cloud Terraform Provider](https://registry.terraform.io/providers/volterraedge/volterra/latest/docs): Terraform provider documentation for managing Distributed Cloud resources.
+- [NGINX Instance Manager Documentation](https://docs.nginx.com/nginx-instance-manager/): Manage, monitor, and automate NGINX instances across environments.
+- [NGINX Gateway Fabric Documentation](https://docs.nginx.com/nginx-gateway-fabric/): Kubernetes Gateway API implementation documentation from NGINX.
+- [NGINX Kubernetes Ingress Controller Docs](https://docs.nginx.com/nginx-ingress-controller/): Documentation for deploying and operating NGINX Ingress Controller.
+- [NGINX Plus Admin Guide](https://docs.nginx.com/nginx/admin-guide/): Administrative guidance for NGINX Plus configuration and operations.
+- [NGINX API Gateway Docs](https://docs.nginx.com/nginx-management-suite/acm/): API connectivity and management documentation for NGINX management components.
+
+## Support and Training
+- [MyF5](https://my.f5.com/): Customer portal for software downloads, support cases, and lifecycle resources.
+- [F5 Support](https://www.f5.com/services/support): Support offerings, maintenance resources, and customer assistance information.
+- [F5 Training](https://www.f5.com/services/training): Training programs and learning paths for F5 technologies and products.
+- [F5 Certification](https://www.f5.com/services/certification): Certification program information for F5 administrators and engineers.
+- [Professional Services](https://www.f5.com/services/professional-services): Expert services for deployment, optimization, and transformation initiatives.
+- [Consulting Services](https://www.f5.com/services/consulting-services): Advisory services for architecture, modernization, and security planning.
+
+## Partners
+- [Partners Overview](https://www.f5.com/partners): Partner ecosystem for technology alliances, channels, and integrations.
+- [Technology Alliances](https://www.f5.com/partners/technology-alliances): Explore integrated technology partner solutions and alliance programs.
+- [CrowdStrike Alliance](https://www.f5.com/partners/technology-alliances/crowdstrike): Partnership details and integration context for F5 and CrowdStrike.
+- [Dell Alliance](https://www.f5.com/partners/technology-alliances/dell): Partnership information for F5 and Dell technologies.
+- [Equinix Alliance](https://www.f5.com/partners/technology-alliances/equinix): Integration and partnership information for F5 and Equinix.
+- [Find a Partner](https://www.f5.com/partners/find-a-partner): Search for F5 partners by region, specialization, or service type.
+
+## Resources and Insights
+- [Resource Library](https://www.f5.com/resources): Collection of reports, white papers, ebooks, and technical content.
+- [Articles](https://www.f5.com/resources/articles): Editorial and technical articles on application security and delivery.
+- [Case Studies](https://www.f5.com/resources/case-studies): Customer stories showing F5 deployments and business outcomes.
+- [Datasheets](https://www.f5.com/resources/datasheets): Product datasheets and technical summaries for F5 offerings.
+- [Webinars](https://www.f5.com/resources/webinars): On-demand and upcoming webinars covering F5 technologies and practices.
+- [Reports](https://www.f5.com/resources/reports): Industry and research reports related to app security and infrastructure.
+- [DevCentral](https://community.f5.com/): Community forum and technical knowledge hub for F5 users and developers.
+
+## Company
+- [About F5](https://www.f5.com/company): Company overview, mission, and corporate information.
+- [Newsroom](https://www.f5.com/company/news): Press releases, announcements, and media resources.
+- [Blog](https://www.f5.com/company/blog): Company blog covering security, application delivery, and industry trends.
+- [Events](https://www.f5.com/company/events): Upcoming conferences, webinars, and F5 event listings.
+- [Careers](https://www.f5.com/company/careers): Employment opportunities and information about working at F5.
+- [Investor Relations](https://www.f5.com/company/investor-relations): Financial reports, governance, and investor information.

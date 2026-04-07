@@ -1,0 +1,53 @@
+# ClouDNS
+> ClouDNS provides DNS hosting, managed DNS, domain names, and related network services including GeoDNS, DDoS-protected DNS, and monitoring.
+
+ClouDNS offers free and premium DNS hosting with a global Anycast network, plus advanced services for failover, secondary DNS, reverse DNS, DNSSEC, domain registration, SSL certificates, and email forwarding.
+
+## Core DNS Hosting
+- [Premium DNS](https://www.cloudns.net/premium/): Premium DNS hosting plans with advanced features and higher service limits.
+- [Managed DNS](https://www.cloudns.net/managed-dns/): Managed DNS service for outsourced DNS administration and operational support.
+- [Anycast DNS](https://www.cloudns.net/anycast-dns/): Global Anycast DNS network for low-latency and resilient query resolution.
+- [Enterprise DNS](https://www.cloudns.net/enterprise-dns/): Enterprise-grade DNS hosting for larger organizations and demanding workloads.
+- [DNS Services](https://www.cloudns.net/dns-services/): Overview of ClouDNS DNS hosting products and related service options.
+- [Private DNS Servers](https://www.cloudns.net/private-dns-servers/): Dedicated private DNS server branding and custom nameserver options.
+
+## Advanced DNS Features
+- [GeoDNS](https://www.cloudns.net/geodns/): Route DNS responses by geographic location for regional traffic steering.
+- [DDoS Protected DNS](https://www.cloudns.net/ddos-protected-plans/): DNS hosting plans designed with DDoS protection and resilient infrastructure.
+- [DNS Failover](https://www.cloudns.net/dns-failover/): Automatic failover to backup endpoints when monitored services become unavailable.
+- [DNSSEC](https://www.cloudns.net/dnssec/): DNSSEC support for signing zones and protecting against DNS spoofing.
+- [Secondary DNS](https://www.cloudns.net/secondary-dns/): Secondary DNS hosting for redundancy alongside primary DNS providers.
+- [Reverse DNS](https://www.cloudns.net/reverse-dns/): PTR record hosting and reverse DNS management for IP address mappings.
+- [Dynamic DNS](https://www.cloudns.net/dynamic-dns/): Dynamic DNS service for frequently changing IP addresses and remote access.
+- [DNS Backups](https://www.cloudns.net/dns-backups/): DNS zone backup capabilities for recovery and configuration protection.
+
+## Monitoring and Reliability
+- [Monitoring](https://www.cloudns.net/monitoring/): Service monitoring used with DNS failover and uptime-aware routing.
+- [DNS Failover](https://www.cloudns.net/dns-failover/): Health-checked DNS failover for high availability and continuity.
+- [Anycast DNS](https://www.cloudns.net/anycast-dns/): Distributed DNS network architecture for performance and fault tolerance.
+- [DDoS Protected DNS](https://www.cloudns.net/ddos-protected-plans/): Protected DNS infrastructure built to withstand denial-of-service attacks.
+
+## Domain and Certificate Services
+- [Domain Names](https://www.cloudns.net/domain-names/): Domain registration and management services integrated with DNS hosting.
+- [SSL Certificates](https://www.cloudns.net/ssl-certificates/): SSL certificate offerings for securing websites and online services.
+- [Google Workspace](https://www.cloudns.net/google-workspace/): DNS-related setup support for Google Workspace email and services.
+- [Email Forwarding](https://www.cloudns.net/email-forwarding/): Email forwarding service for redirecting messages from custom domains.
+
+## Service-Specific Solutions
+- [Free DNS Hosting](https://www.cloudns.net/): Free DNS hosting with global network coverage and instant updates.
+- [Premium DNS](https://www.cloudns.net/premium/): Paid DNS plans for higher limits, support, and advanced capabilities.
+- [Managed DNS](https://www.cloudns.net/managed-dns/): Fully managed DNS operations for teams that need expert administration.
+- [Enterprise DNS](https://www.cloudns.net/enterprise-dns/): Scalable DNS solution for enterprise environments and mission-critical domains.
+- [Private DNS Servers](https://www.cloudns.net/private-dns-servers/): White-label DNS hosting with branded nameservers and isolated infrastructure.
+
+## Email and Workspace
+- [Email Forwarding](https://www.cloudns.net/email-forwarding/): Forward email from domain addresses to existing inboxes.
+- [Google Workspace](https://www.cloudns.net/google-workspace/): Configure domain DNS records for Google Workspace services.
+- [Domain Names](https://www.cloudns.net/domain-names/): Register domains to use with DNS, email, and hosted services.
+
+## Platform Overview
+- [Homepage](https://www.cloudns.net/): Main overview of ClouDNS DNS hosting, plans, and platform capabilities.
+- [DNS Services](https://www.cloudns.net/dns-services/): Central overview page for DNS-related services and feature categories.
+- [Premium DNS](https://www.cloudns.net/premium/): Product page for premium DNS hosting plans and included features.
+- [Managed DNS](https://www.cloudns.net/managed-dns/): Overview of managed DNS operations and support offerings.
+- [Monitoring](https://www.cloudns.net/monitoring/): Monitoring service overview for uptime checks and failover integration.

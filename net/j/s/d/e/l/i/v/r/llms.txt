@@ -1,0 +1,70 @@
+# jsDelivr
+> A free, fast, and reliable open-source CDN for npm packages, GitHub repositories, WordPress assets, and static files.
+
+jsDelivr provides globally distributed content delivery for open-source projects, package files, and website assets, along with public APIs, package browsing tools, and documentation for integrating CDN-hosted resources.
+
+## Documentation
+- [Documentation Home](https://www.jsdelivr.com/documentation): Overview of jsDelivr features, usage patterns, and integration options.
+- [Using jsDelivr](https://www.jsdelivr.com/documentation#id-using-jsdelivr): Core concepts for loading files from npm, GitHub, and WordPress.
+- [Combine Multiple Files](https://www.jsdelivr.com/documentation#id-combine-multiple-files): How to request several files in a single combined CDN URL.
+- [Load Multiple Versions](https://www.jsdelivr.com/documentation#id-load-multiple-versions): Guidance for serving different package versions through jsDelivr.
+- [Purge Cache](https://www.jsdelivr.com/documentation#id-purge-cache): Instructions for clearing cached files from the CDN.
+- [Public API](https://www.jsdelivr.com/documentation#id-public-api): Summary of available API endpoints for package and CDN data.
+- [ESM Support](https://www.jsdelivr.com/documentation#id-esm-support): Notes on serving JavaScript modules through jsDelivr.
+- [WordPress Integration](https://www.jsdelivr.com/documentation#id-wordpress): Details on WordPress plugin and theme asset delivery.
+
+## Package Endpoints
+- [npm Package CDN](https://cdn.jsdelivr.net/npm/): Base endpoint for serving files from npm packages.
+- [GitHub Repository CDN](https://cdn.jsdelivr.net/gh/): Base endpoint for serving files from GitHub repositories.
+- [WordPress Assets CDN](https://cdn.jsdelivr.net/wp/): Base endpoint for serving WordPress plugins and themes.
+- [Combined Files Endpoint](https://cdn.jsdelivr.net/combine/): Endpoint for concatenating multiple files into one request.
+- [Static Files CDN](https://cdn.jsdelivr.net/): Root CDN endpoint for jsDelivr-hosted content.
+- [Package Browser](https://www.jsdelivr.com/package): Search and browse packages available through jsDelivr.
+
+## Public API
+- [API Root](https://data.jsdelivr.com/v1/): Base URL for jsDelivr public metadata APIs.
+- [List npm Package Versions](https://data.jsdelivr.com/v1/package/npm/jquery): Returns metadata and available versions for an npm package.
+- [List GitHub Package Versions](https://data.jsdelivr.com/v1/package/gh/jquery/jquery): Returns metadata and available versions for a GitHub repository.
+- [npm Package Flat File List](https://data.jsdelivr.com/v1/package/npm/jquery@3.7.1/flat): Returns a flattened file listing for a package version.
+- [GitHub Package Flat File List](https://data.jsdelivr.com/v1/package/gh/jquery/jquery@3.7.1/flat): Returns a flattened file listing for a repository tag.
+- [npm Package Entry Metadata](https://data.jsdelivr.com/v1/package/npm/jquery@3.7.1): Returns package metadata for a specific npm version.
+- [GitHub Entry Metadata](https://data.jsdelivr.com/v1/package/gh/jquery/jquery@3.7.1): Returns repository metadata for a specific tag.
+- [Network Stats API](https://data.jsdelivr.com/v1/stats/network): Returns CDN-wide network statistics and usage data.
+
+## Package Tools
+- [Package Search](https://www.jsdelivr.com/package): Search for npm, GitHub, and WordPress packages on jsDelivr.
+- [npm Package View](https://www.jsdelivr.com/package/npm/jquery): Browse package metadata, versions, and files for an npm package.
+- [GitHub Package View](https://www.jsdelivr.com/package/gh/jquery/jquery): Browse repository metadata, tags, and files for a GitHub package.
+- [WordPress Plugin View](https://www.jsdelivr.com/package/wp/woocommerce): Browse metadata and files for a WordPress plugin.
+- [WordPress Theme View](https://www.jsdelivr.com/package/wp/twentytwentyone): Browse metadata and files for a WordPress theme.
+- [Package Statistics](https://www.jsdelivr.com/package/npm/jquery): View usage and version information for a package.
+
+## Open Source Projects
+- [Public GitHub Organization](https://github.com/jsdelivr): Source repositories for jsDelivr services, tools, and infrastructure.
+- [Website Repository](https://github.com/jsdelivr/www.jsdelivr.com): Source code for the jsDelivr website.
+- [Data API Repository](https://github.com/jsdelivr/data.jsdelivr.com): Source code for the public metadata API service.
+- [Package Browser Repository](https://github.com/jsdelivr/package-finder): Source code for jsDelivr package discovery tools.
+- [Purge Service Repository](https://github.com/jsdelivr/purge.jsdelivr.net): Source code for cache purge functionality.
+- [ESM Service Repository](https://github.com/jsdelivr/es-module-shims): Related open-source tooling used with modern module delivery.
+
+## Status and Operations
+- [Status Page](https://status.jsdelivr.com/): Service health, incidents, and operational status for jsDelivr systems.
+- [Global Network Map](https://www.jsdelivr.com/network): Overview of jsDelivr’s global CDN infrastructure and providers.
+- [Purge Tool](https://www.jsdelivr.com/tools/purge): Web interface for purging cached files from the CDN.
+- [DNS Checker Tool](https://www.jsdelivr.com/tools/dns): Tool for checking DNS resolution related to jsDelivr services.
+- [Converter Tool](https://www.jsdelivr.com/tools/convert): Tool for converting GitHub, npm, and WordPress URLs to jsDelivr links.
+
+## Community and Support
+- [GitHub Discussions](https://github.com/jsdelivr/jsdelivr/discussions): Community discussions, questions, and feature requests for jsDelivr.
+- [Issue Tracker](https://github.com/jsdelivr/jsdelivr/issues): Report bugs and track issues related to jsDelivr services.
+- [Contact Page](https://www.jsdelivr.com/contact): Contact options for support, partnerships, and general inquiries.
+- [About Page](https://www.jsdelivr.com/about): Background information about the jsDelivr project and mission.
+- [Sponsors Page](https://www.jsdelivr.com/sponsors): Information about organizations supporting jsDelivr.
+
+## Website
+- [Homepage](https://www.jsdelivr.com/): Main entry point for jsDelivr products, tools, and documentation.
+- [Features](https://www.jsdelivr.com/features): Overview of CDN capabilities and platform features.
+- [Open Source CDN](https://www.jsdelivr.com/open-source-cdn): Summary of jsDelivr’s CDN offering for open-source projects.
+- [Free CDN for WordPress](https://www.jsdelivr.com/wordpress): Information about WordPress asset delivery through jsDelivr.
+- [Free CDN for npm](https://www.jsdelivr.com/npm): Information about serving npm packages through jsDelivr.
+- [Free CDN for GitHub](https://www.jsdelivr.com/github): Information about serving GitHub-hosted files through jsDelivr.

@@ -1,0 +1,72 @@
+# Azure Edge
+> Azure Edge provides Microsoft-hosted CDN, static asset delivery, and edge-distributed content endpoints across Azure services.
+
+This domain is primarily used as an asset and delivery network for Microsoft and Azure-hosted content rather than as a standalone product documentation site. The most useful LLM context comes from Microsoft Azure documentation covering CDN, Front Door, edge networking, static web hosting, and related delivery services that commonly rely on Azure edge infrastructure.
+
+## Azure CDN Documentation
+- [Azure Content Delivery Network documentation](https://learn.microsoft.com/en-us/azure/cdn/): Overview and documentation for Azure CDN profiles, endpoints, caching, and delivery.
+- [What is Azure Content Delivery Network?](https://learn.microsoft.com/en-us/azure/cdn/cdn-overview): Introduces Azure CDN concepts, use cases, and supported features.
+- [Create an Azure CDN profile and endpoint](https://learn.microsoft.com/en-us/azure/cdn/cdn-create-new-endpoint): Explains how to provision CDN profiles and configure endpoints.
+- [Optimize delivery with compression in Azure CDN](https://learn.microsoft.com/en-us/azure/cdn/cdn-improve-performance): Describes compression and performance optimization for CDN-delivered assets.
+- [Purge an Azure CDN endpoint](https://learn.microsoft.com/en-us/azure/cdn/cdn-purge-endpoint): Shows how to invalidate cached content on CDN endpoints.
+- [Custom domains in Azure CDN](https://learn.microsoft.com/en-us/azure/cdn/cdn-map-content-to-custom-domain): Covers mapping custom domains to Azure CDN endpoints.
+- [HTTPS on Azure CDN custom domains](https://learn.microsoft.com/en-us/azure/cdn/cdn-custom-ssl): Explains TLS configuration for CDN custom domains.
+
+## Azure Front Door
+- [Azure Front Door documentation](https://learn.microsoft.com/en-us/azure/frontdoor/): Central documentation for global application delivery, acceleration, and edge security.
+- [What is Azure Front Door?](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-overview): Overview of Front Door capabilities, routing, acceleration, and protection.
+- [Create a Front Door profile](https://learn.microsoft.com/en-us/azure/frontdoor/create-front-door-portal): Guides creation of a Front Door deployment in the Azure portal.
+- [Origin concepts in Azure Front Door](https://learn.microsoft.com/en-us/azure/frontdoor/origin): Describes origins, origin groups, and backend routing behavior.
+- [Route matching in Azure Front Door](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-route-matching): Explains path, protocol, and host-based request routing.
+- [Caching with Azure Front Door](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-caching): Details cache behavior and content acceleration at the edge.
+- [Web Application Firewall on Azure Front Door](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/afds-overview): Covers WAF protection for Front Door deployments.
+
+## Static Web Apps and Static Hosting
+- [Azure Static Web Apps documentation](https://learn.microsoft.com/en-us/azure/static-web-apps/): Documentation for globally distributed static app hosting on Azure.
+- [What is Azure Static Web Apps?](https://learn.microsoft.com/en-us/azure/static-web-apps/overview): Introduces managed static hosting, APIs, and deployment workflows.
+- [Build your first static web app](https://learn.microsoft.com/en-us/azure/static-web-apps/getting-started): Quickstart for deploying a static application to Azure.
+- [Configure custom domains in Azure Static Web Apps](https://learn.microsoft.com/en-us/azure/static-web-apps/custom-domain): Explains custom domain setup for static applications.
+- [Authentication and authorization in Azure Static Web Apps](https://learn.microsoft.com/en-us/azure/static-web-apps/authentication-authorization): Covers built-in auth providers and access control.
+- [Azure Storage static website hosting](https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website): Describes static site hosting from Azure Blob Storage.
+- [Map a custom domain to Azure Blob Storage](https://learn.microsoft.com/en-us/azure/storage/blobs/storage-custom-domain-name): Shows how to use custom domains with storage-hosted static content.
+
+## Networking and Edge Security
+- [Azure networking documentation](https://learn.microsoft.com/en-us/azure/networking/): Entry point for Azure networking services, architecture, and operational guidance.
+- [DDoS Protection documentation](https://learn.microsoft.com/en-us/azure/ddos-protection/): Covers Azure DDoS mitigation for internet-facing applications and services.
+- [Web Application Firewall documentation](https://learn.microsoft.com/en-us/azure/web-application-firewall/): Documentation for Azure WAF across supported edge and gateway products.
+- [Private Link documentation](https://learn.microsoft.com/en-us/azure/private-link/): Explains private access patterns for Azure services over Microsoft backbone.
+- [DNS documentation](https://learn.microsoft.com/en-us/azure/dns/): Covers Azure DNS zones, records, and domain resolution management.
+- [Traffic Manager documentation](https://learn.microsoft.com/en-us/azure/traffic-manager/): Describes DNS-based global traffic distribution and failover.
+
+## APIs and Infrastructure as Code
+- [Azure CDN REST API reference](https://learn.microsoft.com/en-us/rest/api/cdn/): REST reference for managing CDN profiles, endpoints, and configurations.
+- [Azure Front Door REST API reference](https://learn.microsoft.com/en-us/rest/api/frontdoor/): API reference for Front Door resources and management operations.
+- [Azure Resource Manager template documentation](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/): Guidance for declarative Azure infrastructure deployment.
+- [Microsoft.Cdn template reference](https://learn.microsoft.com/en-us/azure/templates/microsoft.cdn/allversions): ARM and Bicep resource schemas for Azure CDN resources.
+- [Microsoft.Network Front Door template reference](https://learn.microsoft.com/en-us/azure/templates/microsoft.network/allversions): ARM and Bicep schemas for networking and Front Door-related resources.
+- [Azure CLI documentation](https://learn.microsoft.com/en-us/cli/azure/): Command-line reference for provisioning and managing Azure services.
+- [Azure PowerShell documentation](https://learn.microsoft.com/en-us/powershell/azure/): PowerShell modules and reference for Azure automation workflows.
+
+## SDKs and Developer Tools
+- [Azure SDK documentation](https://learn.microsoft.com/en-us/azure/developer/azure-sdk/): Overview of Azure client libraries across supported programming languages.
+- [Azure SDK for .NET](https://learn.microsoft.com/en-us/dotnet/azure/): .NET libraries and examples for interacting with Azure services.
+- [Azure SDK for Python](https://learn.microsoft.com/en-us/azure/developer/python/): Python development guidance and SDK usage for Azure.
+- [Azure SDK for JavaScript](https://learn.microsoft.com/en-us/azure/developer/javascript/): JavaScript and TypeScript guidance for Azure development.
+- [Azure SDK for Java](https://learn.microsoft.com/en-us/azure/developer/java/): Java libraries and developer guidance for Azure services.
+- [Azure Developer CLI documentation](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/): Developer-focused tooling for app templates, provisioning, and deployment.
+
+## Architecture and Best Practices
+- [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/): Architectural guidance, patterns, and reference implementations for Azure workloads.
+- [Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/): Best practices for reliability, security, cost, and performance in Azure.
+- [CDN architecture pattern guidance](https://learn.microsoft.com/en-us/azure/architecture/best-practices/cdn): Best practices for using content delivery networks in Azure architectures.
+- [Highly available web application architecture](https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/enterprise-app-patterns/reliable-web-app-patterns): Patterns for resilient internet-facing web applications on Azure.
+- [Design for global distribution](https://learn.microsoft.com/en-us/azure/architecture/guide/design-principles/geographical-distribution): Guidance for geographically distributed applications and low-latency delivery.
+- [Security baseline for Azure services](https://learn.microsoft.com/en-us/security/benchmark/azure/): Security benchmark guidance applicable across Azure-hosted workloads.
+
+## Support and Service Information
+- [Azure status](https://status.azure.com/): Service health and regional status information for Azure services.
+- [Azure updates](https://azure.microsoft.com/en-us/updates/): Product update announcements and release information across Azure.
+- [Azure support documentation](https://learn.microsoft.com/en-us/azure/azure-portal/supportability/how-to-create-azure-support-request): Explains how to create and manage Azure support requests.
+- [Azure service level agreements](https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services): Official SLA documents for Microsoft online services including Azure.
+- [Microsoft Learn Azure hub](https://learn.microsoft.com/en-us/azure/): Main entry point for Azure product documentation and learning resources.
+- [Azure portal](https://portal.azure.com/): Web portal for managing Azure resources, networking, and edge services.

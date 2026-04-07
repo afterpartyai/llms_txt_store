@@ -1,0 +1,82 @@
+# Azure App Service on azurewebsites.net
+> Azure App Service hosts web apps, APIs, and background services on the azurewebsites.net domain.
+
+The azurewebsites.net domain is primarily used for Azure App Service application endpoints, deployment endpoints, and related platform features. The most useful LLM context for this domain comes from Microsoft Azure documentation covering App Service, deployment, configuration, networking, security, diagnostics, and SDK tooling.
+
+## App Service Overview
+- [Azure App Service documentation](https://learn.microsoft.com/en-us/azure/app-service/): Central documentation hub for hosting web apps, APIs, and background jobs on Azure.
+- [Overview of Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/overview): Explains App Service capabilities, hosting model, and supported application scenarios.
+- [App Service environment overview](https://learn.microsoft.com/en-us/azure/app-service/environment/overview): Describes isolated App Service Environment deployments for enterprise and network-sensitive workloads.
+- [App Service plans overview](https://learn.microsoft.com/en-us/azure/app-service/overview-hosting-plans): Compares pricing tiers, scaling options, and compute characteristics for App Service plans.
+- [Operating system functionality in Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/operating-system-functionality): Details platform-managed OS behavior, file system characteristics, and runtime environment constraints.
+
+## Quickstarts and Deployment
+- [Create a web app in Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore): Quickstart for deploying a basic web application to App Service.
+- [Deploy your app to Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/deploy-zip): Shows ZIP deployment workflow for publishing application packages.
+- [Deploy from GitHub Actions to Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/deploy-github-actions): Explains CI/CD deployment from GitHub Actions into App Service.
+- [Local Git deployment to Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/deploy-local-git): Covers built-in Git deployment endpoints and publishing workflow.
+- [Continuous deployment to Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/deploy-continuous-deployment): Describes automated deployment options from source control providers.
+- [Run a custom container in Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/quickstart-custom-container): Quickstart for deploying Linux container images to App Service.
+
+## Configuration and App Management
+- [Configure an App Service app](https://learn.microsoft.com/en-us/azure/app-service/configure-common): Covers app settings, connection strings, platform configuration, and general management tasks.
+- [Configure language runtimes in App Service](https://learn.microsoft.com/en-us/azure/app-service/configure-language-dotnetcore): Explains runtime configuration for supported application stacks.
+- [Configure custom domains in Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-custom-domain): Shows how to map custom DNS names to App Service apps.
+- [Enable managed identity for an App Service app](https://learn.microsoft.com/en-us/azure/app-service/overview-managed-identity): Describes system-assigned and user-assigned managed identities for apps.
+- [Configure deployment slots in Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/deploy-staging-slots): Explains staging slots, swaps, and zero-downtime deployment patterns.
+- [Scale an app in Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/manage-scale-up): Covers vertical scaling and plan changes for hosted apps.
+
+## Networking and Access
+- [Networking features in Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/networking-features): Overview of inbound, outbound, VNet, and hybrid connectivity options.
+- [Integrate your app with an Azure virtual network](https://learn.microsoft.com/en-us/azure/app-service/configure-vnet-integration-enable): Explains regional VNet integration for outbound private access.
+- [Set up private endpoints for Azure App Service apps](https://learn.microsoft.com/en-us/azure/app-service/networking/private-endpoint): Describes private inbound access using Azure Private Link.
+- [Configure access restrictions for Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/app-service-ip-restrictions): Shows IP-based and service endpoint-based inbound access controls.
+- [Inbound and outbound IP addresses in Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/overview-inbound-outbound-ips): Explains how App Service assigns and exposes public IP addresses.
+- [Hybrid Connections in Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/app-service-hybrid-connections): Covers secure connectivity from apps to on-premises resources.
+
+## Security and Authentication
+- [Authentication and authorization in Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/overview-authentication-authorization): Overview of built-in auth support for identity providers and access control.
+- [Use Microsoft Entra ID with Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-provider-aad): Configures Microsoft identity platform authentication for hosted apps.
+- [Use Azure Key Vault references in App Service](https://learn.microsoft.com/en-us/azure/app-service/app-service-key-vault-references): Explains secure secret retrieval through app settings references.
+- [TLS/SSL bindings in Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/configure-ssl-bindings): Shows certificate binding and HTTPS configuration for custom domains.
+- [Inbound TLS requirements in Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/overview-tls): Describes supported TLS versions and HTTPS security settings.
+- [Back up and restore your app in Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/manage-backup): Covers backup configuration and restore operations for supported plans.
+
+## Monitoring and Diagnostics
+- [Monitor Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/monitor-app-service): Central monitoring guidance for metrics, logs, and alerts.
+- [Enable diagnostics logging for apps in Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/troubleshoot-diagnostic-logs): Explains application logging, web server logging, and log streaming.
+- [Troubleshoot Azure App Service with Application Insights](https://learn.microsoft.com/en-us/azure/azure-monitor/app/azure-web-apps): Connects App Service apps to Application Insights for observability.
+- [Diagnose and solve problems in Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/overview-diagnostics): Describes built-in diagnostics experiences and troubleshooting workflows.
+- [Capture a web app dump in Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/troubleshoot-dotnet-dump): Shows how to collect process dumps for debugging application issues.
+- [Monitor instances in Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/web-sites-monitor): Covers instance health, quotas, and operational monitoring concepts.
+
+## API and Management Reference
+- [Azure App Service REST API reference](https://learn.microsoft.com/en-us/rest/api/appservice/): REST reference for managing sites, plans, certificates, and related resources.
+- [Microsoft.Web resource provider template reference](https://learn.microsoft.com/en-us/azure/templates/microsoft.web/allversions): ARM and Bicep resource schemas for App Service-related Azure resources.
+- [Azure CLI App Service commands](https://learn.microsoft.com/en-us/cli/azure/webapp): Command-line reference for creating and managing web apps.
+- [Azure CLI App Service plan commands](https://learn.microsoft.com/en-us/cli/azure/appservice/plan): CLI reference for managing App Service plans and scaling.
+- [Azure PowerShell App Service module](https://learn.microsoft.com/en-us/powershell/module/az.websites/): PowerShell cmdlets for App Service apps, plans, slots, and certificates.
+- [Azure Resource Manager overview](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview): Explains the management plane used to provision and control App Service resources.
+
+## SDKs and Developer Tools
+- [Azure SDK for .NET](https://learn.microsoft.com/en-us/dotnet/azure/): SDK guidance for integrating .NET applications with Azure services.
+- [Azure SDK for Python](https://learn.microsoft.com/en-us/python/api/overview/azure/?view=azure-python): Python client library overview for Azure service integration and management.
+- [Azure SDK for JavaScript](https://learn.microsoft.com/en-us/javascript/api/overview/azure/): JavaScript and TypeScript SDK overview for Azure development workflows.
+- [Azure SDK for Java](https://learn.microsoft.com/en-us/java/api/overview/azure/?view=azure-java-stable): Java client library overview for Azure application and management scenarios.
+- [Azure Developer CLI](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/): Developer-focused CLI for provisioning and deploying Azure applications.
+- [Kudu service overview](https://github.com/projectkudu/kudu/wiki): Documentation for the deployment engine behind many App Service deployment features.
+
+## Custom Domains, Certificates, and DNS
+- [Tutorial: Map an existing custom DNS name to Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-custom-domain): Step-by-step guide for custom domain mapping and validation.
+- [Add and manage TLS/SSL certificates in Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/configure-ssl-certificate): Explains certificate upload, managed certificates, and lifecycle management.
+- [Create a free managed certificate in App Service](https://learn.microsoft.com/en-us/azure/app-service/configure-ssl-certificate#create-a-free-managed-certificate-preview): Covers App Service managed certificate issuance for eligible custom domains.
+- [Migrate an active DNS name to Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/manage-custom-dns-migrate-domain): Describes DNS cutover strategies for moving live domains.
+- [Domain name FAQ for Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/faq-configuration-and-management#custom-domains-and-certificates): Answers common questions about domains, certificates, and validation behavior.
+
+## Platform Behavior and Advanced Scenarios
+- [Best practices for Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/app-service-best-practices): Recommendations for reliability, security, deployment, and operational excellence.
+- [Performance FAQs for Azure App Service](https://learn.microsoft.com/en-us/troubleshoot/azure/app-service/web-apps-performance-faqs): Troubleshooting guidance for performance bottlenecks and scaling behavior.
+- [WebJobs overview](https://learn.microsoft.com/en-us/azure/app-service/webjobs-create): Explains background job execution alongside App Service web apps.
+- [Background tasks with WebJobs SDK](https://learn.microsoft.com/en-us/azure/app-service/webjobs-sdk-how-to): Shows how to build scheduled and event-driven background processing.
+- [App Service quotas and limits](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits#azure-app-service-limits): Lists service limits, quotas, and plan-specific constraints.
+- [Azure App Service announcements](https://azure.github.io/AppService/): Official engineering blog with platform updates, changes, and operational guidance.

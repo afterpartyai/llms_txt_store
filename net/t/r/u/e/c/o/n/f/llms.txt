@@ -1,0 +1,80 @@
+# TrueConf
+> Secure video conferencing and unified communications platform with on-premises and cloud collaboration products.
+
+TrueConf provides enterprise video meetings, team messaging, webinars, room systems, and developer tools, with extensive documentation, downloads, and support resources for self-hosted and cloud deployments.
+
+## Main Product Pages
+- [TrueConf Server](https://trueconf.com/products/server/video-conferencing-server.html): On-premises video conferencing server for corporate communications and collaboration.
+- [TrueConf Online](https://trueconf.com/products/online/video-conferencing-service.html): Cloud video conferencing service for meetings, calls, and team collaboration.
+- [TrueConf MCU](https://trueconf.com/products/server/video-conferencing-server-for-linux.html): Multipoint conferencing solution for Linux-based deployments and enterprise infrastructure.
+- [TrueConf Room](https://trueconf.com/products/room/video-conferencing-software-for-meeting-rooms.html): Software for meeting rooms with conference control and room collaboration features.
+- [TrueConf Group](https://trueconf.com/products/group/video-conferencing-endpoint.html): Hardware video conferencing endpoint for переговорные and conference rooms.
+- [TrueConf Kiosk](https://trueconf.com/products/kiosk/self-service-video-kiosk.html): Self-service video kiosk solution for remote customer service and communications.
+
+## Documentation
+- [Documentation Home](https://trueconf.com/docs/): Central documentation portal for TrueConf products, deployment, and administration.
+- [TrueConf Server Documentation](https://trueconf.com/docs/server/en/): Admin and user documentation for deploying and managing TrueConf Server.
+- [TrueConf MCU Documentation](https://trueconf.com/docs/mcu/en/): Documentation for installing and configuring TrueConf MCU deployments.
+- [TrueConf Room Documentation](https://trueconf.com/docs/room/en/): Guides for configuring and operating TrueConf Room systems.
+- [TrueConf Group Documentation](https://trueconf.com/docs/group/en/): Manuals and setup guidance for TrueConf Group hardware endpoints.
+- [TrueConf Kiosk Documentation](https://trueconf.com/docs/kiosk/en/): Documentation for deploying and administering TrueConf Kiosk solutions.
+- [TrueConf Online Documentation](https://trueconf.com/docs/online/en/): Help materials for using the TrueConf cloud service.
+
+## User Applications
+- [Windows App](https://trueconf.com/downloads/windows.html): Desktop client for video calls, conferences, messaging, and collaboration on Windows.
+- [macOS App](https://trueconf.com/downloads/macos.html): Native macOS client for meetings, calls, and team communications.
+- [Linux App](https://trueconf.com/downloads/linux.html): Linux desktop application for secure conferencing and messaging.
+- [Android App](https://trueconf.com/downloads/android.html): Mobile app for Android devices with calling and conferencing features.
+- [iOS App](https://trueconf.com/downloads/ios.html): iPhone and iPad app for secure video meetings and communications.
+- [TrueConf Room Downloads](https://trueconf.com/downloads/trueconf-room.html): Installation packages for meeting room software deployments.
+- [All Downloads](https://trueconf.com/downloads/): Download center for clients, server software, and related tools.
+
+## Server Administration and Deployment
+- [Server Installation](https://trueconf.com/docs/server/en/admin/installing-trueconf-server.html): Steps for installing TrueConf Server in enterprise environments.
+- [Server Configuration](https://trueconf.com/docs/server/en/admin/configuring-trueconf-server.html): Core configuration tasks for networking, services, and system settings.
+- [User Management](https://trueconf.com/docs/server/en/admin/managing-user-accounts.html): Managing user accounts, permissions, and directory integration.
+- [Federation](https://trueconf.com/docs/server/en/admin/federation.html): Configure federation between TrueConf servers for intercompany communications.
+- [SIP/H.323 Integration](https://trueconf.com/docs/server/en/admin/sip-h323.html): Integrate telephony and legacy conferencing systems with TrueConf Server.
+- [Monitoring and Statistics](https://trueconf.com/docs/server/en/admin/monitoring-and-statistics.html): Monitor system health, usage, and conference statistics.
+- [Backup and Restore](https://trueconf.com/docs/server/en/admin/backup-and-restore.html): Protect server configuration and data with backup procedures.
+
+## End-User Guides
+- [Client User Guide](https://trueconf.com/docs/client/en/): End-user documentation for TrueConf desktop and mobile applications.
+- [Making Calls](https://trueconf.com/docs/client/en/user/making-calls.html): Instructions for placing point-to-point video and audio calls.
+- [Joining Conferences](https://trueconf.com/docs/client/en/user/joining-conferences.html): How users join scheduled and ad hoc conferences.
+- [Messaging and Presence](https://trueconf.com/docs/client/en/user/chats-and-presence.html): Use chats, status indicators, and team communication features.
+- [Screen Sharing](https://trueconf.com/docs/client/en/user/screen-sharing.html): Share screens and content during meetings and calls.
+- [Address Book](https://trueconf.com/docs/client/en/user/address-book.html): Manage contacts, groups, and directory entries.
+- [Conference Management](https://trueconf.com/docs/client/en/user/conference-management.html): Control participant roles and meeting options during conferences.
+
+## Integrations and Developer Resources
+- [API Overview](https://trueconf.com/docs/server/en/admin/api.html): Overview of server-side API capabilities and integration options.
+- [LDAP Integration](https://trueconf.com/docs/server/en/admin/ldap.html): Connect TrueConf Server to LDAP and Active Directory directories.
+- [REST API](https://trueconf.com/docs/server/en/admin/rest-api.html): Reference information for automating server management tasks.
+- [Webhook Integration](https://trueconf.com/docs/server/en/admin/webhooks.html): Configure webhooks for event-driven integrations and notifications.
+- [SIP Trunk Integration](https://trueconf.com/docs/server/en/admin/sip-trunk.html): Connect SIP trunks and telephony services to TrueConf infrastructure.
+- [Third-Party Integrations](https://trueconf.com/integrations/): Overview of supported integrations and interoperability options.
+
+## Support and Knowledge Base
+- [Support Center](https://trueconf.com/support/): Entry point for technical support, resources, and assistance.
+- [Knowledge Base](https://trueconf.com/blog/knowledge-base/): Articles covering troubleshooting, setup, and product usage.
+- [FAQ](https://trueconf.com/faq/): Frequently asked questions about products, licensing, and deployment.
+- [Training and Courses](https://trueconf.com/support/training/): Training resources for administrators, partners, and end users.
+- [Contact Support](https://trueconf.com/company/contacts/): Contact information for sales, support, and company inquiries.
+- [System Requirements](https://trueconf.com/support/system-requirements/): Hardware and software requirements for TrueConf products.
+
+## Blog and Learning Resources
+- [Blog](https://trueconf.com/blog/): Articles on video conferencing, product updates, and industry trends.
+- [Webinars](https://trueconf.com/blog/webinars/): Webinar announcements and recordings about TrueConf products and use cases.
+- [Case Studies](https://trueconf.com/blog/case-studies/): Customer stories describing real-world deployments and outcomes.
+- [Product Updates](https://trueconf.com/blog/category/news/): News and release-related posts about TrueConf products.
+- [How-To Articles](https://trueconf.com/blog/category/howto/): Practical guides for setup, administration, and usage scenarios.
+- [Video Conferencing Insights](https://trueconf.com/blog/category/video-conferencing/): Articles about conferencing technology, practices, and trends.
+
+## Company and Partner Resources
+- [About TrueConf](https://trueconf.com/company/): Company information, background, and corporate details.
+- [Partners](https://trueconf.com/partners/): Partner program information and channel ecosystem overview.
+- [Resellers](https://trueconf.com/where-to-buy/): Find resellers and purchasing channels for TrueConf solutions.
+- [Careers](https://trueconf.com/company/careers/): Open positions and employment information at TrueConf.
+- [Press Center](https://trueconf.com/company/press/): Press releases, media materials, and company announcements.
+- [Contacts](https://trueconf.com/company/contacts/): Corporate contact details for regional and global inquiries.

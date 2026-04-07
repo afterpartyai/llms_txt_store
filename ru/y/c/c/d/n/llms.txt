@@ -1,0 +1,69 @@
+# yccdn.ru
+> Russian-language site for Yandex Cloud CDN documentation, product information, and related cloud service references.
+
+The site focuses on Yandex Cloud CDN capabilities, setup, integration, security, and operational guidance within the broader Yandex Cloud ecosystem.
+
+## CDN Overview
+- [Yandex Cloud CDN](https://yccdn.ru/): Main landing page for Yandex Cloud CDN features, benefits, and service overview.
+- [Documentation](https://yccdn.ru/docs/): Entry point for CDN documentation, concepts, setup, and operational guidance.
+- [Pricing](https://yccdn.ru/pricing): Pricing information for CDN usage and related service costs.
+- [FAQ](https://yccdn.ru/faq): Frequently asked questions about CDN behavior, setup, and billing.
+- [Support](https://yccdn.ru/support): Support options, contact paths, and help resources for CDN users.
+
+## Getting Started
+- [Quick Start](https://yccdn.ru/docs/quickstart): Initial steps to configure and launch CDN distribution.
+- [Create a Resource](https://yccdn.ru/docs/create-resource): Guide to creating a CDN resource and basic delivery settings.
+- [Connect Origin](https://yccdn.ru/docs/connect-origin): Instructions for linking an origin server or storage backend.
+- [Configure DNS](https://yccdn.ru/docs/configure-dns): DNS setup guidance for routing traffic through CDN.
+- [HTTPS Setup](https://yccdn.ru/docs/https): Steps for enabling HTTPS and certificate configuration.
+
+## Concepts
+- [How CDN Works](https://yccdn.ru/docs/concepts/how-it-works): Core concepts of content delivery, caching, and edge distribution.
+- [Resources and Origins](https://yccdn.ru/docs/concepts/resources-origins): Explanation of CDN resources, origins, and delivery relationships.
+- [Caching](https://yccdn.ru/docs/concepts/caching): Cache behavior, TTL handling, and content freshness concepts.
+- [Cache Invalidation](https://yccdn.ru/docs/concepts/cache-invalidation): Overview of purge and invalidation mechanisms.
+- [Security](https://yccdn.ru/docs/concepts/security): Security model, HTTPS delivery, and access protection concepts.
+
+## Configuration Guides
+- [Cache Settings](https://yccdn.ru/docs/guides/cache-settings): Guide to tuning cache rules and content retention behavior.
+- [Custom Domains](https://yccdn.ru/docs/guides/custom-domains): Configure custom hostnames for CDN-delivered content.
+- [Origin Shielding](https://yccdn.ru/docs/guides/origin-shielding): Reduce origin load with shielding and optimized request routing.
+- [Compression](https://yccdn.ru/docs/guides/compression): Enable and manage compression for faster content delivery.
+- [Access Control](https://yccdn.ru/docs/guides/access-control): Restrict access and configure delivery protection settings.
+- [HTTP Headers](https://yccdn.ru/docs/guides/http-headers): Manage request and response headers affecting CDN behavior.
+
+## Operations
+- [Purge Cache](https://yccdn.ru/docs/operations/purge-cache): Remove cached content from edge nodes on demand.
+- [Update Resource](https://yccdn.ru/docs/operations/update-resource): Modify existing CDN resource settings and delivery parameters.
+- [Delete Resource](https://yccdn.ru/docs/operations/delete-resource): Remove a CDN resource and stop content delivery.
+- [Monitoring](https://yccdn.ru/docs/operations/monitoring): Observe CDN performance, usage, and operational metrics.
+- [Logs](https://yccdn.ru/docs/operations/logs): Access and use logs for troubleshooting and analytics.
+
+## API and Automation
+- [API Reference](https://yccdn.ru/docs/api/): Reference for programmatic management of CDN resources.
+- [REST API](https://yccdn.ru/docs/api/rest): REST endpoints for creating and managing CDN configuration.
+- [Authentication](https://yccdn.ru/docs/api/authentication): Authentication methods and credentials for API access.
+- [CLI](https://yccdn.ru/docs/cli/): Command-line workflows for managing CDN resources.
+- [Terraform](https://yccdn.ru/docs/terraform/): Infrastructure as code examples for provisioning CDN resources.
+
+## Integrations
+- [Object Storage](https://yccdn.ru/docs/integrations/object-storage): Use Object Storage as an origin for CDN content delivery.
+- [Load Balancer](https://yccdn.ru/docs/integrations/load-balancer): Integrate CDN with load balancing for resilient delivery.
+- [Certificate Manager](https://yccdn.ru/docs/integrations/certificate-manager): Manage TLS certificates for secure CDN endpoints.
+- [DNS](https://yccdn.ru/docs/integrations/dns): Connect DNS services for domain routing and validation.
+- [Monitoring Services](https://yccdn.ru/docs/integrations/monitoring): Send CDN metrics and events to monitoring tools.
+
+## Troubleshooting
+- [Troubleshooting Guide](https://yccdn.ru/docs/troubleshooting): Common issues, diagnostics, and resolution steps for CDN setups.
+- [HTTP Errors](https://yccdn.ru/docs/troubleshooting/http-errors): Diagnose origin and edge HTTP error responses.
+- [Cache Misses](https://yccdn.ru/docs/troubleshooting/cache-misses): Investigate unexpected cache bypasses and low hit ratios.
+- [TLS Problems](https://yccdn.ru/docs/troubleshooting/tls): Resolve certificate, HTTPS, and handshake issues.
+- [DNS Issues](https://yccdn.ru/docs/troubleshooting/dns): Fix domain resolution and routing problems affecting CDN access.
+
+## Related Yandex Cloud Resources
+- [Yandex Cloud](https://cloud.yandex.ru/): Main Yandex Cloud platform with product catalog and account access.
+- [Yandex Cloud Documentation](https://cloud.yandex.ru/docs/): Central documentation hub for Yandex Cloud services.
+- [Object Storage Documentation](https://cloud.yandex.ru/docs/storage/): Docs for object storage often used as CDN origin.
+- [Certificate Manager Documentation](https://cloud.yandex.ru/docs/certificate-manager/): Docs for certificate lifecycle management with CDN.
+- [Cloud DNS Documentation](https://cloud.yandex.ru/docs/dns/): DNS service documentation for domain configuration with CDN.
+- [Monitoring Documentation](https://cloud.yandex.ru/docs/monitoring/): Monitoring service docs for metrics, alerts, and dashboards.

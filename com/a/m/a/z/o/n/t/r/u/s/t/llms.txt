@@ -1,0 +1,47 @@
+# Amazon Trust Services
+> Certificate authority operated by Amazon Trust Services, part of the Amazon.com, Inc. group of companies.
+
+Amazon Trust Services provides information about Amazon-operated public certificate authorities, including root and intermediate certificates, repository materials, and policy documents used for TLS trust and validation.
+
+## Overview
+- [Amazon Trust Services](https://www.amazontrust.com/): Main landing page for Amazon Trust Services and its public certificate authority information.
+
+## Repository
+- [Repository](https://www.amazontrust.com/repository/): Central repository for certificate authority documents, certificates, and related trust materials.
+- [All Certificates](https://www.amazontrust.com/repository/): Access root and intermediate CA certificates published by Amazon Trust Services.
+
+## Root Certificates
+- [Amazon Root CA 1](https://www.amazontrust.com/repository/): Root certificate information and download location for Amazon Root CA 1.
+- [Amazon Root CA 2](https://www.amazontrust.com/repository/): Root certificate information and download location for Amazon Root CA 2.
+- [Amazon Root CA 3](https://www.amazontrust.com/repository/): Root certificate information and download location for Amazon Root CA 3.
+- [Amazon Root CA 4](https://www.amazontrust.com/repository/): Root certificate information and download location for Amazon Root CA 4.
+- [Starfield Services Root Certificate Authority - G2](https://www.amazontrust.com/repository/): Legacy root certificate material referenced by Amazon Trust Services.
+- [Starfield Root Certificate Authority - G2](https://www.amazontrust.com/repository/): Legacy root certificate material referenced by Amazon Trust Services.
+
+## Intermediate Certificates
+- [Amazon RSA 2048 M01](https://www.amazontrust.com/repository/): Intermediate CA certificate published for Amazon-issued RSA certificate chains.
+- [Amazon RSA 2048 M02](https://www.amazontrust.com/repository/): Intermediate CA certificate published for Amazon-issued RSA certificate chains.
+- [Amazon RSA 2048 M03](https://www.amazontrust.com/repository/): Intermediate CA certificate published for Amazon-issued RSA certificate chains.
+- [Amazon ECC 256 M01](https://www.amazontrust.com/repository/): Intermediate CA certificate published for Amazon-issued ECC certificate chains.
+- [Amazon ECC 384 M01](https://www.amazontrust.com/repository/): Intermediate CA certificate published for Amazon-issued ECC certificate chains.
+
+## Policy Documents
+- [Certification Practice Statement](https://www.amazontrust.com/repository/): Certificate authority practices and operational controls for Amazon Trust Services.
+- [Certificate Policy](https://www.amazontrust.com/repository/): Policy framework governing certificate issuance and management.
+- [Subscriber Agreement](https://www.amazontrust.com/repository/): Terms applicable to subscribers of Amazon Trust Services certificates.
+- [Relying Party Agreement](https://www.amazontrust.com/repository/): Terms and obligations for parties relying on issued certificates.
+
+## Revocation and Validation
+- [Certificate Revocation Lists](https://www.amazontrust.com/repository/): Published revocation information for Amazon Trust Services certificate authorities.
+- [Online Certificate Status Protocol](https://www.amazontrust.com/repository/): Status checking information for validating certificate revocation state.
+- [CA Issuers Information](https://www.amazontrust.com/repository/): Issuer certificate access information used in certificate path building.
+
+## Audit and Compliance
+- [Audit Reports](https://www.amazontrust.com/repository/): Independent audit and compliance documentation for Amazon Trust Services.
+- [WebTrust Documentation](https://www.amazontrust.com/repository/): WebTrust-related assurance materials for the certificate authority.
+- [Compliance Materials](https://www.amazontrust.com/repository/): Repository access point for published compliance and assurance artifacts.
+
+## Certificate Downloads
+- [PEM Certificates](https://www.amazontrust.com/repository/): Download certificate files in PEM format from the repository.
+- [DER Certificates](https://www.amazontrust.com/repository/): Download certificate files in DER format from the repository.
+- [Certificate Chains](https://www.amazontrust.com/repository/): Access published certificate chain materials for trust deployment and validation.

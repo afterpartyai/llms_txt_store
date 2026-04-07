@@ -1,0 +1,68 @@
+# TBCache
+> TBCache provides a transparent, standards-compliant HTTP caching proxy for APIs and web services.
+
+TBCache focuses on adding HTTP caching behavior in front of upstream services, with documentation covering setup, configuration, cache semantics, and operational guidance.
+
+## Documentation
+- [Documentation Home](https://tbcache.com/docs): Main entry point for TBCache documentation and product usage guidance.
+- [Getting Started](https://tbcache.com/docs/getting-started): Introductory setup guide for running TBCache and sending cached requests.
+- [Configuration](https://tbcache.com/docs/configuration): Reference for configuring cache behavior, upstreams, and runtime options.
+- [Caching Semantics](https://tbcache.com/docs/caching): Explains HTTP cache rules, freshness, validation, and cache-control handling.
+- [Deployment](https://tbcache.com/docs/deployment): Guidance for deploying TBCache in production environments and infrastructure.
+- [Troubleshooting](https://tbcache.com/docs/troubleshooting): Common issues, debugging steps, and operational problem-solving advice.
+
+## Core Concepts
+- [How It Works](https://tbcache.com/docs/how-it-works): Overview of request flow, cache lookup, revalidation, and response serving behavior.
+- [Cache Keys](https://tbcache.com/docs/cache-keys): Describes how requests are normalized and mapped to cache entries.
+- [Freshness and Revalidation](https://tbcache.com/docs/freshness-and-revalidation): Details expiration, validators, and conditional requests to upstreams.
+- [Cache-Control Support](https://tbcache.com/docs/cache-control): Documents supported HTTP cache directives and their effects.
+- [Vary Handling](https://tbcache.com/docs/vary): Explains how Vary headers influence cache partitioning and response selection.
+- [Invalidation](https://tbcache.com/docs/invalidation): Covers cache purge and invalidation strategies where supported.
+
+## Configuration Reference
+- [Environment Variables](https://tbcache.com/docs/configuration/environment-variables): Lists environment-based configuration options for running TBCache.
+- [Upstream Configuration](https://tbcache.com/docs/configuration/upstreams): Defines how to connect TBCache to origin services and APIs.
+- [Storage Backends](https://tbcache.com/docs/configuration/storage): Describes cache storage options and backend-specific settings.
+- [TTL and Expiration](https://tbcache.com/docs/configuration/ttl): Explains time-to-live controls and expiration-related configuration.
+- [Headers and Policies](https://tbcache.com/docs/configuration/headers): Documents header overrides, policy controls, and request handling settings.
+- [Logging and Metrics](https://tbcache.com/docs/configuration/observability): Configuration for logs, metrics, and runtime observability.
+
+## Guides
+- [Run Locally](https://tbcache.com/docs/guides/run-locally): Step-by-step guide for starting TBCache in a local development environment.
+- [Cache an API](https://tbcache.com/docs/guides/cache-an-api): Walkthrough for placing TBCache in front of an API service.
+- [Using Docker](https://tbcache.com/docs/guides/docker): Instructions for containerized deployment and local testing with Docker.
+- [Reverse Proxy Setup](https://tbcache.com/docs/guides/reverse-proxy): Shows how to position TBCache as a reverse proxy in front of origins.
+- [Production Hardening](https://tbcache.com/docs/guides/production): Best practices for reliability, scaling, and secure production operation.
+- [Debugging Cache Misses](https://tbcache.com/docs/guides/debugging-cache-misses): Practical techniques for understanding misses and unexpected cache behavior.
+
+## API and Protocol
+- [HTTP Interface](https://tbcache.com/docs/api/http): Reference for interacting with TBCache over standard HTTP requests.
+- [Administrative Endpoints](https://tbcache.com/docs/api/admin): Documents management and operational endpoints exposed by TBCache.
+- [Health Checks](https://tbcache.com/docs/api/health): Describes liveness and readiness endpoints for service monitoring.
+- [Metrics Endpoint](https://tbcache.com/docs/api/metrics): Reference for metrics exposure and scraping by observability systems.
+- [Purge API](https://tbcache.com/docs/api/purge): Explains programmatic cache invalidation and purge request behavior.
+- [Status Codes and Headers](https://tbcache.com/docs/api/headers): Lists response headers and status semantics added by TBCache.
+
+## Operations
+- [Monitoring](https://tbcache.com/docs/operations/monitoring): Guidance for tracking cache performance, errors, and service health.
+- [Logging](https://tbcache.com/docs/operations/logging): Operational logging practices and interpretation of runtime output.
+- [Scaling](https://tbcache.com/docs/operations/scaling): Recommendations for horizontal scaling and capacity planning.
+- [Persistence](https://tbcache.com/docs/operations/persistence): Notes on durable cache storage and restart behavior.
+- [Security](https://tbcache.com/docs/operations/security): Security considerations for deployment, access control, and upstream protection.
+- [Backups and Recovery](https://tbcache.com/docs/operations/recovery): Recovery planning and operational continuity guidance.
+
+## Examples
+- [Example Configurations](https://tbcache.com/docs/examples/configurations): Sample configuration files for common deployment and caching scenarios.
+- [API Caching Examples](https://tbcache.com/docs/examples/api-caching): Concrete examples of caching API responses with standard HTTP semantics.
+- [Header Behavior Examples](https://tbcache.com/docs/examples/headers): Demonstrates how request and response headers affect cache outcomes.
+- [Docker Compose Example](https://tbcache.com/docs/examples/docker-compose): Ready-to-run compose setup for local experimentation and testing.
+- [Kubernetes Example](https://tbcache.com/docs/examples/kubernetes): Example manifests for deploying TBCache on Kubernetes.
+- [Purge Workflow Example](https://tbcache.com/docs/examples/purge): Shows practical cache invalidation workflows and request patterns.
+
+## Project and Community
+- [Home](https://tbcache.com/): Product overview and entry point for TBCache resources.
+- [Blog](https://tbcache.com/blog): Articles, announcements, and technical posts related to TBCache.
+- [Changelog](https://tbcache.com/changelog): Release notes and version-by-version summary of product changes.
+- [Pricing](https://tbcache.com/pricing): Plans and commercial packaging for using TBCache.
+- [Contact](https://tbcache.com/contact): Contact options for support, sales, or general product inquiries.
+- [GitHub](https://github.com/tbcache): Source repositories and development activity for the TBCache project.

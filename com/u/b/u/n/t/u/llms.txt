@@ -1,0 +1,92 @@
+# Ubuntu
+> Ubuntu is Canonical’s open source Linux platform for desktop, server, cloud, containers, IoT, and enterprise infrastructure.
+
+Ubuntu.com provides product documentation, downloads, cloud and Kubernetes guidance, security and support information, and Canonical resources for deploying and operating Ubuntu across desktops, servers, public clouds, edge devices, and private infrastructure.
+
+## Core Documentation
+- [Ubuntu Documentation](https://ubuntu.com/documentation): Central documentation hub for Ubuntu products, deployment, and administration.
+- [Server Documentation](https://ubuntu.com/server/docs): Official guides for installing, configuring, and managing Ubuntu Server.
+- [Desktop Documentation](https://ubuntu.com/desktop/docs): Documentation for Ubuntu Desktop setup, usage, and administration.
+- [Cloud Documentation](https://ubuntu.com/cloud/docs): Guidance for running Ubuntu images and workloads in cloud environments.
+- [Kubernetes Documentation](https://ubuntu.com/kubernetes/docs): Documentation for Canonical Kubernetes and related cluster operations.
+- [OpenStack Documentation](https://ubuntu.com/openstack/docs): Deployment and operations documentation for Ubuntu OpenStack environments.
+- [MicroCloud Documentation](https://ubuntu.com/microcloud/docs): Documentation for lightweight private cloud built from Canonical components.
+
+## Downloads
+- [Download Ubuntu Desktop](https://ubuntu.com/download/desktop): Download Ubuntu Desktop releases for workstations, laptops, and development machines.
+- [Download Ubuntu Server](https://ubuntu.com/download/server): Download Ubuntu Server for bare metal, virtualization, and infrastructure workloads.
+- [Download Ubuntu Core](https://ubuntu.com/download/iot): Download Ubuntu for IoT and embedded deployments with Ubuntu Core.
+- [Alternative Downloads](https://ubuntu.com/download/alternative-downloads): Access alternative installers, architectures, and specialized Ubuntu images.
+- [Raspberry Pi](https://ubuntu.com/download/raspberry-pi): Download Ubuntu images for Raspberry Pi development and edge projects.
+- [Public Cloud Images](https://ubuntu.com/download/cloud): Find Ubuntu images for major public cloud providers.
+- [Releases](https://ubuntu.com/about/release-cycle): Review Ubuntu release cadence, support windows, and LTS lifecycle details.
+
+## Server, Cloud, and Infrastructure
+- [Ubuntu Server](https://ubuntu.com/server): Overview of Ubuntu Server for enterprise and infrastructure use cases.
+- [Cloud](https://ubuntu.com/cloud): Ubuntu for public cloud, private cloud, and cloud-native operations.
+- [OpenStack](https://ubuntu.com/openstack): Canonical OpenStack for building and operating private cloud infrastructure.
+- [MAAS](https://ubuntu.com/maas): Metal as a Service for provisioning and managing physical servers.
+- [LXD](https://ubuntu.com/lxd): System container and VM management platform for Linux infrastructure.
+- [MicroCloud](https://ubuntu.com/microcloud): Lightweight cloud stack for clusters using LXD, Ceph, and OVN.
+- [Ceph](https://ubuntu.com/ceph): Open source software-defined storage for scalable infrastructure deployments.
+
+## Containers and Kubernetes
+- [Kubernetes](https://ubuntu.com/kubernetes): Canonical Kubernetes platform for enterprise container orchestration.
+- [Charmed Kubernetes](https://ubuntu.com/kubernetes/charmed-k8s): Kubernetes distribution managed with Juju charms for lifecycle automation.
+- [MicroK8s](https://ubuntu.com/microk8s): Lightweight Kubernetes for developers, edge, and production clusters.
+- [Container Build Service](https://ubuntu.com/containers): Ubuntu container images and container-focused platform resources.
+- [Docker on Ubuntu](https://ubuntu.com/tutorials/how-to-run-docker-inside-lxd-containers): Tutorial covering Docker usage inside LXD-based environments.
+- [Juju](https://ubuntu.com/juju): Application modeling and operations tooling for cloud-native software.
+- [Charmed Operators](https://ubuntu.com/kubernetes/charmed-k8s/docs/charmed-operators): Operator-based automation for Kubernetes applications and services.
+
+## Security and Compliance
+- [Ubuntu Pro](https://ubuntu.com/pro): Expanded security maintenance, compliance, and enterprise support for Ubuntu.
+- [Security](https://ubuntu.com/security): Ubuntu security overview, hardening, and vulnerability management resources.
+- [CVE Tracker](https://ubuntu.com/security/cves): Search Ubuntu CVEs and package-specific vulnerability status.
+- [Livepatch](https://ubuntu.com/security/livepatch): Apply critical Linux kernel patches without rebooting systems.
+- [FIPS](https://ubuntu.com/security/fips): FIPS-certified packages and guidance for regulated environments.
+- [DISA-STIG](https://ubuntu.com/security/disa-stig): Security hardening resources aligned with DISA-STIG requirements.
+- [Common Criteria](https://ubuntu.com/security/common-criteria): Information on Ubuntu Common Criteria certifications and assurance profiles.
+
+## IoT and Edge
+- [Internet of Things](https://ubuntu.com/internet-of-things): Ubuntu for embedded devices, edge computing, and fleet management.
+- [Ubuntu Core](https://ubuntu.com/core): Secure, transactional Ubuntu for appliances and embedded systems.
+- [Core Documentation](https://ubuntu.com/core/docs): Documentation for building, securing, and managing Ubuntu Core devices.
+- [Device Management](https://ubuntu.com/internet-of-things/appstore): Manage device software delivery and updates with snaps.
+- [Embedded Linux](https://ubuntu.com/embedded): Ubuntu-based embedded Linux for commercial device development.
+- [Real-time Ubuntu](https://ubuntu.com/real-time): Low-latency Ubuntu kernel and platform resources for real-time systems.
+
+## Support and Services
+- [Support](https://ubuntu.com/support): Canonical support offerings for Ubuntu and open source infrastructure.
+- [Managed Services](https://ubuntu.com/managed): Managed operations for Kubernetes, OpenStack, and data platforms.
+- [Consulting](https://ubuntu.com/consulting): Advisory and engineering services for architecture, migration, and optimization.
+- [Training](https://ubuntu.com/training): Training courses for Ubuntu, Kubernetes, OpenStack, and related technologies.
+- [Landscape](https://ubuntu.com/landscape): Systems management for monitoring, patching, and administering Ubuntu fleets.
+- [Advantage for Infrastructure](https://ubuntu.com/pricing/pro): Ubuntu Pro pricing and support options for enterprise infrastructure.
+
+## Developers and Packaging
+- [Snapcraft](https://ubuntu.com/core/docs/snapcraft): Resources for building and packaging applications as snaps.
+- [Snaps](https://ubuntu.com/core/docs/snaps-in-ubuntu-core): Overview of snaps in Ubuntu Core and transactional systems.
+- [Multipass](https://ubuntu.com/multipass): Lightweight Ubuntu VMs for development and testing on local machines.
+- [Launchpad](https://launchpad.net/ubuntu): Ubuntu package development, bug tracking, and collaboration platform.
+- [Ubuntu Packages](https://packages.ubuntu.com/): Search Ubuntu binary and source packages across releases.
+- [Ubuntu Discourse](https://discourse.ubuntu.com/): Community discussions, announcements, and technical guidance.
+- [Tutorials](https://ubuntu.com/tutorials): Step-by-step Ubuntu tutorials for development and operations tasks.
+
+## Community and Project Resources
+- [Community](https://ubuntu.com/community): Community portal for Ubuntu contributors, users, and governance resources.
+- [The Ubuntu Story](https://ubuntu.com/about): Overview of Ubuntu’s mission, history, and stewardship by Canonical.
+- [Release Cycle](https://ubuntu.com/about/release-cycle): Ubuntu release schedule, LTS policy, and maintenance timelines.
+- [Governance](https://ubuntu.com/community/governance): Community governance structure, councils, and decision-making bodies.
+- [Contribute](https://ubuntu.com/community/contribute): Ways to contribute to Ubuntu through code, docs, support, and advocacy.
+- [Events](https://ubuntu.com/community/events): Ubuntu community events, meetups, and participation opportunities.
+- [Forums and Chat](https://ubuntu.com/community/support): Community support channels and participation resources.
+
+## Blog, News, and Learning
+- [Ubuntu Blog](https://ubuntu.com/blog): Official blog with product updates, engineering posts, and announcements.
+- [Tutorials](https://ubuntu.com/tutorials): Hands-on tutorials for Ubuntu users, administrators, and developers.
+- [Webinars](https://ubuntu.com/engage): Technical whitepapers, webinars, and downloadable Canonical resources.
+- [Case Studies](https://ubuntu.com/engage?category=case-study): Customer stories and deployment examples across industries.
+- [Datasheets](https://ubuntu.com/engage?category=datasheet): Product datasheets for Ubuntu and Canonical solutions.
+- [Whitepapers](https://ubuntu.com/engage?category=whitepaper): In-depth technical and strategic papers on Ubuntu technologies.
+- [Newsroom](https://ubuntu.com/blog/tag/news): News-focused posts and announcements from the Ubuntu blog.

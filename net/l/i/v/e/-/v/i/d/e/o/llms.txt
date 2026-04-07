@@ -1,0 +1,68 @@
+# Live Video Stack
+> Live Video Stack provides APIs, SDKs, and infrastructure for building live streaming, video conferencing, and real-time media applications.
+
+Live Video Stack offers developer-focused products for ingest, playback, recording, conferencing, and media workflows, with documentation covering platform setup, APIs, SDKs, and implementation guides.
+
+## Documentation
+- [Documentation Home](https://docs.live-video.net/): Main entry point for product documentation, guides, and developer resources.
+- [Getting Started](https://docs.live-video.net/getting-started): Overview for starting with Live Video Stack products and workflows.
+- [Guides](https://docs.live-video.net/guides): Practical implementation guides for common live video and streaming use cases.
+- [API Reference](https://docs.live-video.net/api-reference): Reference documentation for platform APIs and endpoints.
+- [SDKs](https://docs.live-video.net/sdks): SDK documentation for integrating live video capabilities into applications.
+- [Webhooks](https://docs.live-video.net/webhooks): Documentation for event notifications and webhook-based integrations.
+
+## Core Platform
+- [Live Streaming](https://docs.live-video.net/live-streaming): Documentation for building and managing live streaming workflows.
+- [Video Conferencing](https://docs.live-video.net/video-conferencing): Guides and reference material for real-time conferencing applications.
+- [Recording](https://docs.live-video.net/recording): Documentation for recording live sessions and media streams.
+- [Playback](https://docs.live-video.net/playback): Guides for delivering and controlling video playback experiences.
+- [Ingest](https://docs.live-video.net/ingest): Documentation for stream ingest configuration and media input workflows.
+- [Transcoding](https://docs.live-video.net/transcoding): Reference and guides for media processing and transcoding pipelines.
+
+## API and Developer Reference
+- [REST API](https://docs.live-video.net/api-reference/rest): REST API endpoints for managing live video resources and workflows.
+- [Authentication](https://docs.live-video.net/api-reference/authentication): Authentication methods, credentials, and request authorization details.
+- [Streams API](https://docs.live-video.net/api-reference/streams): API reference for creating and managing live streams.
+- [Rooms API](https://docs.live-video.net/api-reference/rooms): API endpoints for conferencing rooms and participant management.
+- [Recordings API](https://docs.live-video.net/api-reference/recordings): Reference for recording creation, retrieval, and lifecycle operations.
+- [Webhooks API](https://docs.live-video.net/api-reference/webhooks): API details for configuring and handling webhook events.
+
+## SDKs
+- [JavaScript SDK](https://docs.live-video.net/sdks/javascript): SDK documentation for browser and Node.js integrations.
+- [React SDK](https://docs.live-video.net/sdks/react): Components and hooks for building live video experiences in React.
+- [iOS SDK](https://docs.live-video.net/sdks/ios): Native iOS SDK documentation for mobile live video applications.
+- [Android SDK](https://docs.live-video.net/sdks/android): Native Android SDK documentation for real-time media integrations.
+- [Flutter SDK](https://docs.live-video.net/sdks/flutter): Cross-platform Flutter SDK for live video and conferencing features.
+- [Server SDKs](https://docs.live-video.net/sdks/server): Server-side SDKs for backend orchestration and automation.
+
+## Guides and Tutorials
+- [Create a Live Stream](https://docs.live-video.net/guides/create-a-live-stream): Step-by-step guide to creating and starting a live stream.
+- [Build a Video Call App](https://docs.live-video.net/guides/build-a-video-call-app): Tutorial for implementing a basic video conferencing application.
+- [Enable Recording](https://docs.live-video.net/guides/enable-recording): Guide to configuring and managing recording for sessions and streams.
+- [Handle Webhooks](https://docs.live-video.net/guides/handle-webhooks): Practical webhook integration patterns for backend event handling.
+- [Secure Playback](https://docs.live-video.net/guides/secure-playback): Guide to protecting playback URLs and controlling viewer access.
+- [Token Authentication](https://docs.live-video.net/guides/token-authentication): Tutorial for generating and using access tokens securely.
+
+## Product Areas
+- [Streaming Overview](https://live-video.net/streaming): Product overview for live streaming infrastructure and workflows.
+- [Conferencing Overview](https://live-video.net/conferencing): Product overview for real-time video conferencing capabilities.
+- [Recording Overview](https://live-video.net/recording): Product page for recording features and storage workflows.
+- [Playback Overview](https://live-video.net/playback): Product page for video delivery and playback functionality.
+- [Pricing](https://live-video.net/pricing): Pricing information for platform usage and product tiers.
+- [Contact](https://live-video.net/contact): Contact page for sales, support, and partnership inquiries.
+
+## Resources
+- [Blog](https://live-video.net/blog): Articles, announcements, and technical content about live video development.
+- [Changelog](https://docs.live-video.net/changelog): Product and documentation release notes and updates.
+- [Status](https://status.live-video.net/): Service status page for platform uptime and incident reporting.
+- [Support](https://docs.live-video.net/support): Support resources, troubleshooting information, and help channels.
+- [FAQ](https://docs.live-video.net/faq): Frequently asked questions about platform capabilities and usage.
+- [Examples](https://docs.live-video.net/examples): Sample applications and code examples for common integrations.
+
+## Company
+- [Home](https://live-video.net/): Main website for Live Video Stack products and company information.
+- [About](https://live-video.net/about): Company background, mission, and team information.
+- [Careers](https://live-video.net/careers): Open roles and hiring information.
+- [Partners](https://live-video.net/partners): Partnership program and integration ecosystem information.
+- [Privacy Policy](https://live-video.net/privacy): Privacy practices and data handling terms.
+- [Terms of Service](https://live-video.net/terms): Legal terms governing use of the platform and services.

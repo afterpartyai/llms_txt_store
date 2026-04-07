@@ -1,0 +1,54 @@
+# Kwai Developer Platform
+> Developer resources for integrating with Kwai’s advertising, business, and API platform.
+
+Kwai provides documentation and platform resources for advertisers, partners, and developers building against Kwai’s business and marketing ecosystem.
+
+## Developer Portal
+- [Developer Home](https://kwai.net/): Main entry point for Kwai developer and business platform resources.
+- [Documentation](https://kwai.net/doc): Central documentation hub for platform guides, references, and integration materials.
+- [Help Center](https://kwai.net/help): Support and help resources for common platform questions and workflows.
+- [Contact Us](https://kwai.net/contact): Contact page for reaching Kwai platform and business support teams.
+
+## Getting Started
+- [Quick Start](https://kwai.net/doc/guide): Introductory guidance for beginning integration with Kwai platform capabilities.
+- [Developer Access](https://kwai.net/doc/access): Information on obtaining access, credentials, and developer permissions.
+- [Authentication](https://kwai.net/doc/authentication): Overview of authentication flows and credential usage for API access.
+- [Integration Overview](https://kwai.net/doc/overview): High-level introduction to platform concepts, products, and integration patterns.
+
+## API Documentation
+- [API Reference](https://kwai.net/doc/api): Main API reference for available endpoints and request formats.
+- [Open Platform APIs](https://kwai.net/doc/api/open): Reference for open platform endpoints and supported operations.
+- [Marketing API](https://kwai.net/doc/api/marketing): API documentation for advertising and campaign management workflows.
+- [Business API](https://kwai.net/doc/api/business): Reference for business-related endpoints, entities, and operations.
+- [Error Codes](https://kwai.net/doc/api/errors): Error code definitions and troubleshooting information for API responses.
+
+## Account and Authorization
+- [Account Management](https://kwai.net/doc/account): Documentation for managing developer and business account settings.
+- [OAuth Guide](https://kwai.net/doc/oauth): Authorization flow details for connecting applications to Kwai accounts.
+- [Permissions](https://kwai.net/doc/permissions): Explanation of scopes, permissions, and access control requirements.
+- [Token Management](https://kwai.net/doc/token): Guidance on issuing, refreshing, and securely storing access tokens.
+
+## Advertising and Campaigns
+- [Ads Overview](https://kwai.net/doc/ads): Introduction to Kwai advertising products and campaign capabilities.
+- [Campaign Management](https://kwai.net/doc/ads/campaign): Documentation for creating and managing advertising campaigns.
+- [Ad Groups](https://kwai.net/doc/ads/adgroup): Reference for ad group configuration and delivery settings.
+- [Creative Management](https://kwai.net/doc/ads/creative): Guidance for managing ad creatives and associated assets.
+- [Reporting](https://kwai.net/doc/ads/reporting): Reporting endpoints and metrics for campaign performance analysis.
+
+## Data and Reporting
+- [Reporting API](https://kwai.net/doc/reporting): Reference for retrieving analytics and reporting data programmatically.
+- [Metrics Definitions](https://kwai.net/doc/reporting/metrics): Definitions for supported reporting dimensions and metrics.
+- [Attribution](https://kwai.net/doc/reporting/attribution): Documentation for attribution logic and measurement concepts.
+- [Data Export](https://kwai.net/doc/reporting/export): Guidance for exporting reporting data and handling large datasets.
+
+## Tools and Resources
+- [SDK Resources](https://kwai.net/doc/sdk): SDK-related documentation and integration support materials.
+- [Postman Collection](https://kwai.net/doc/postman): API testing resources and collection guidance for developers.
+- [Webhook Guide](https://kwai.net/doc/webhook): Documentation for webhook events, delivery, and endpoint handling.
+- [Changelog](https://kwai.net/doc/changelog): Release notes and updates to APIs, features, and documentation.
+
+## Support
+- [FAQ](https://kwai.net/help/faq): Frequently asked questions about platform setup and usage.
+- [Troubleshooting](https://kwai.net/help/troubleshooting): Common issues and recommended debugging steps for integrations.
+- [Policy Center](https://kwai.net/help/policy): Platform policies, compliance requirements, and usage rules.
+- [Support Contact](https://kwai.net/help/support): Support channels for technical and account-related assistance.

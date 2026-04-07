@@ -1,0 +1,43 @@
+# blink
+> MEV-protected private mempool infrastructure for wallets and RPC providers across Ethereum, Base, BSC, and Solana.
+
+Blink helps applications protect user transactions from harmful MEV while monetizing benign order flow through private mempool routing and multi-chain RPC infrastructure.
+
+## Core Pages
+- [Home](https://merkle.io/): Overview of Blink’s MEV protection, private mempool, and order flow monetization platform.
+- [About](https://merkle.io/about): Company background, mission, and context for Blink’s infrastructure offering.
+- [Support](https://merkle.io/support): Support entry point for users and integrators needing help with Blink.
+
+## Product
+- [Private Mempool](https://merkle.io/): Private transaction routing designed to protect users from harmful MEV extraction.
+- [Ethereum RPC](https://merkle.io/): Ethereum RPC access with MEV protection and private order flow handling.
+- [BSC RPC](https://merkle.io/): BSC RPC infrastructure focused on safe transaction submission and monetization.
+- [Multi-Chain Support](https://merkle.io/): Support for Ethereum, Base, BSC, and Solana transaction flow protection.
+- [Order Flow Monetization](https://merkle.io/): Infrastructure for converting benign MEV opportunities into wallet and provider revenue.
+
+## Platform Benefits
+- [MEV Protection](https://merkle.io/): Protect transactions from frontrunning and other harmful MEV behaviors.
+- [Revenue Generation](https://merkle.io/): Monetize order flow while maintaining user safety and execution quality.
+- [Superior MEV Extraction](https://merkle.io/): Capture benign MEV efficiently through Blink’s private mempool infrastructure.
+- [Risk Reduction](https://merkle.io/): Reduce execution risk and transaction exposure with private routing.
+- [Fast Integration](https://merkle.io/): Designed to minimize integration time for wallets and RPC providers.
+
+## Chains
+- [Ethereum](https://merkle.io/): MEV-protected transaction flow and RPC support for Ethereum applications.
+- [Base](https://merkle.io/): Private mempool support for Base transaction routing and protection.
+- [BSC](https://merkle.io/): BSC support for protected order flow and RPC-based integrations.
+- [Solana](https://merkle.io/): Solana support for private transaction handling and multi-chain coverage.
+
+## Access
+- [Log In](https://portal.blinklabs.xyz/sign-in): Sign in to the Blink portal for account and platform access.
+- [Sign Up](https://portal.blinklabs.xyz/sign-up): Create a Blink account to access the platform and integrations.
+
+## Company
+- [About Blink](https://merkle.io/about): Learn about the team and company behind Blink’s MEV infrastructure.
+- [Support Center](https://merkle.io/support): Contact or support page for operational and integration assistance.
+
+## For Integrators
+- [Wallet Integrations](https://merkle.io/): Blink infrastructure for wallets seeking MEV protection and new revenue streams.
+- [RPC Providers](https://merkle.io/): Private mempool and RPC tooling for providers serving protected transaction flow.
+- [Transaction Safety](https://merkle.io/): Infrastructure focused on safe settlement across millions of transactions.
+- [Private Order Flow](https://merkle.io/): Route transactions privately to reduce exposure and improve execution outcomes.

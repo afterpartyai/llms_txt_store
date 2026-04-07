@@ -1,0 +1,66 @@
+# YouTube Privacy-Enhanced Mode
+> Privacy-enhanced YouTube embed domain used to serve videos without storing viewer information until playback.
+
+This domain is primarily used for embedded YouTube players in privacy-enhanced mode. Core product, help, policy, and developer resources are hosted on YouTube, Google Help, and Google for Developers domains.
+
+## Privacy-Enhanced Embeds
+- [Embedded Player Example](https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ): Example privacy-enhanced YouTube embed player URL structure.
+- [Embedded Player Parameters](https://developers.google.com/youtube/player_parameters): Reference for configuring embedded YouTube player behavior and options.
+- [YouTube IFrame Player API](https://developers.google.com/youtube/iframe_api_reference): API for controlling embedded YouTube players from JavaScript.
+- [YouTube Embedded Players and Player Parameters](https://developers.google.com/youtube/player_parameters): Official guide to embed formats, autoplay, captions, and player settings.
+
+## YouTube Help
+- [YouTube Help Center](https://support.google.com/youtube/): Main support hub for YouTube products, features, and troubleshooting.
+- [Watch Videos on Different Devices](https://support.google.com/youtube/topic/9257498): Help articles covering playback and viewing across supported platforms.
+- [YouTube Account and Settings Help](https://support.google.com/youtube/topic/9257107): Guidance for account controls, preferences, and privacy-related settings.
+- [Troubleshoot Video Streaming Issues](https://support.google.com/youtube/topic/9257118): Support resources for playback, buffering, and video loading problems.
+
+## Privacy and Policies
+- [YouTube Privacy Notice](https://www.youtube.com/howyoutubeworks/our-commitments/protecting-user-data/): Overview of YouTube’s approach to protecting user data and privacy.
+- [Google Privacy Policy](https://policies.google.com/privacy): Google-wide privacy policy governing data collection, use, and controls.
+- [YouTube Terms of Service](https://www.youtube.com/t/terms): Terms governing use of YouTube services and embedded content.
+- [Google Terms of Service](https://policies.google.com/terms): General Google service terms applicable across products.
+- [How YouTube Works](https://www.youtube.com/howyoutubeworks/): Explanations of YouTube policies, recommendations, and platform operations.
+
+## Developer Documentation
+- [YouTube API Services](https://developers.google.com/youtube): Entry point for YouTube developer products, APIs, and integration guides.
+- [YouTube Data API Overview](https://developers.google.com/youtube/v3): Overview of the YouTube Data API for videos, channels, playlists, and search.
+- [YouTube Data API Reference](https://developers.google.com/youtube/v3/docs): REST reference for YouTube Data API resources and methods.
+- [YouTube Live Streaming API](https://developers.google.com/youtube/v3/live): Guides and reference for managing YouTube live broadcasts and streams.
+- [YouTube Player Samples](https://developers.google.com/youtube/youtube_player_demo): Interactive examples demonstrating YouTube embedded player integrations.
+
+## API Guides
+- [Authorize Requests](https://developers.google.com/youtube/v3/guides/authentication): Authentication guide for accessing YouTube API resources securely.
+- [Implementation Guide](https://developers.google.com/youtube/v3/guides/implementation): Common patterns for building applications with the YouTube Data API.
+- [Pagination Guide](https://developers.google.com/youtube/v3/guides/implementation/pagination): How to traverse paginated YouTube API result sets.
+- [Quota and Compliance Audits](https://developers.google.com/youtube/v3/guides/quota_and_compliance_audits): Guidance on quota usage and compliance review requirements.
+- [Errors Reference](https://developers.google.com/youtube/v3/docs/errors): Error model and common API failure conditions.
+
+## API Resources
+- [Videos](https://developers.google.com/youtube/v3/docs/videos): Reference for retrieving and managing YouTube video resources.
+- [Channels](https://developers.google.com/youtube/v3/docs/channels): Reference for channel metadata, branding, and ownership details.
+- [Playlists](https://developers.google.com/youtube/v3/docs/playlists): Reference for playlist creation, retrieval, and updates.
+- [Playlist Items](https://developers.google.com/youtube/v3/docs/playlistItems): Reference for items contained within YouTube playlists.
+- [Search](https://developers.google.com/youtube/v3/docs/search): Reference for searching videos, channels, and playlists.
+- [Comments](https://developers.google.com/youtube/v3/docs/comments): Reference for reading and moderating YouTube comments.
+- [Captions](https://developers.google.com/youtube/v3/docs/captions): Reference for managing caption tracks on YouTube videos.
+
+## Player and Embed APIs
+- [IFrame API Reference](https://developers.google.com/youtube/iframe_api_reference): Full JavaScript API reference for embedded YouTube players.
+- [Player Parameters](https://developers.google.com/youtube/player_parameters): Supported embed URL parameters and playback configuration options.
+- [Android Player API](https://developers.google.com/youtube/android/player): Native Android API for embedding and controlling YouTube playback.
+- [YouTube on TV and Device Integrations](https://developers.google.com/youtube/v3/guides/using_resumable_upload_protocol): Related developer infrastructure and integration guidance for advanced workflows.
+
+## Compliance and Branding
+- [YouTube API Services Terms of Service](https://developers.google.com/youtube/terms/api-services-terms-of-service): Terms governing use of YouTube API Services.
+- [Developer Policies](https://developers.google.com/youtube/terms/developer-policies): Policy requirements for applications using YouTube APIs.
+- [Branding Guidelines](https://developers.google.com/youtube/terms/branding-guidelines): Rules for using YouTube names, logos, and attribution in applications.
+- [Minimum Functionality Requirements](https://developers.google.com/youtube/terms/required-minimum-functionality): Baseline feature requirements for API clients.
+- [Deprecation Policy](https://developers.google.com/youtube/terms/deprecation): Policy describing notice periods and API change expectations.
+
+## Product and Platform
+- [YouTube Home](https://www.youtube.com/): Main YouTube product entry point for watching and discovering videos.
+- [YouTube Premium](https://www.youtube.com/premium): Subscription product for ad-free viewing and additional features.
+- [YouTube Music](https://music.youtube.com/): Music streaming experience built on YouTube’s catalog and recommendations.
+- [YouTube Creators](https://www.youtube.com/creators/): Creator-focused resources, best practices, and product information.
+- [YouTube Official Blog](https://blog.youtube/): Official announcements, product updates, and platform news.

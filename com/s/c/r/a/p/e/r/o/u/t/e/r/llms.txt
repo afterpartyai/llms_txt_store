@@ -1,0 +1,49 @@
+# ScrapeRouter
+
+> ScrapeRouter is a unified API for web scraping. Send one request to `/api/v1/scrape/`, and the platform routes it to the best scraper/proxy setup while returning one normalized response format.
+
+Core idea: one endpoint, multiple scraper backends, routing + fallback + cost tracking.
+
+## Core
+- [Product homepage](https://www.scraperouter.com/): Public landing page with product positioning and primary navigation.
+- [Free scraping check](https://www.scraperouter.com/check/): Paste a URL to see which scraper route works, what gets blocked, and likely request cost.
+- [Free tools](https://www.scraperouter.com/free-tools/): Directory of free ScrapeRouter utilities, starting with the URL feasibility check.
+- [Introduction](https://www.scraperouter.com/docs/): High-level product overview and routing model.
+- [Quickstart](https://www.scraperouter.com/docs/quickstart/): Smallest request examples and first successful scrape flow.
+
+## API
+- [Scrape endpoint](https://www.scraperouter.com/api/v1/scrape/): Primary synchronous endpoint for creating a scrape transaction.
+- [API requests reference](https://www.scraperouter.com/docs/api/requests/): Request/response schema, examples, and scraper/proxy routing fields.
+- [Authentication](https://www.scraperouter.com/docs/authentication/): API key auth header format and usage details.
+- [Errors](https://www.scraperouter.com/docs/errors/): Error object format and common error handling patterns.
+- [OpenAPI schema (JSON)](https://www.scraperouter.com/api/schema.json): Machine-readable API schema for SDK/tooling integration.
+
+## Scrapers
+- [Scraper guide](https://www.scraperouter.com/docs/guides/scrapers/): How to select scrapers, JS vs non-JS tradeoffs, and request options.
+- [Scraper catalog](https://www.scraperouter.com/scrapers/): Public list of active scraper runtimes and provider metadata.
+
+## Guides
+
+## Tools
+- [Free tools](https://www.scraperouter.com/free-tools/): Landing page for ScrapeRouter’s free scraping utilities.
+- [URL Check](https://www.scraperouter.com/check/): Analyze a URL for blocking, route viability, and estimated request cost.
+
+## Blog and Content
+- [Blog](https://www.scraperouter.com/blog): Articles, updates, and scraping-related product content.
+- [Glossary](https://www.scraperouter.com/glossary): Definitions for web scraping, proxy, and automation terminology.
+
+## Example Reports
+- [https://wikipedia.org](https://www.scraperouter.com/checks/wikipedia-org-2026-03-24T18-57-26Z/): Completed public feasibility report with working route, detection signals, and cost context.
+
+## Account
+- [Sign In](https://www.scraperouter.com/accounts/login/): Login page for existing ScrapeRouter users.
+- [Sign Up](https://www.scraperouter.com/accounts/signup/): Registration page for creating a new account and getting API access.
+
+## Optional
+- [Terms](https://www.scraperouter.com/terms/): Terms of service for platform usage.
+- [Privacy](https://www.scraperouter.com/privacy/): Privacy policy and data handling overview.
+
+## Community
+- [X / Twitter](https://x.com/scraperouter): Official social account for product updates and announcements.
+- [Reddit](https://www.reddit.com/user/scraperouter-com/): Official Reddit profile for community presence.
+- [GitHub Awesome Scraping](https://github.com/ScrapeRouter/awesome-scraping): Curated scraping resources maintained by ScrapeRouter.

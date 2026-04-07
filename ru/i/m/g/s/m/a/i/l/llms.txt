@@ -1,0 +1,51 @@
+# imgsmail.ru
+> Image hosting and media delivery domain used for serving static image assets from Mail.ru services.
+
+This domain appears to function primarily as a CDN-style image host rather than a standalone documentation or product site. Public, navigable documentation and product sections are limited, so the most useful context is the set of stable top-level asset areas commonly exposed on the domain.
+
+## Root and Discovery
+- [Homepage](https://imgsmail.ru/): Root of the image hosting domain used for static asset delivery.
+- [Robots.txt](https://imgsmail.ru/robots.txt): Crawl directives indicating how automated agents should access the domain.
+- [Favicon](https://imgsmail.ru/favicon.ico): Default site icon asset served from the domain root.
+
+## Mail.ru Web Assets
+- [Mail.ru Images](https://imgsmail.ru/mail/): Static image directory associated with Mail.ru web properties.
+- [Mail.ru Common Assets](https://imgsmail.ru/mail/common/): Shared image assets used across Mail.ru interfaces.
+- [Mail.ru Promo Assets](https://imgsmail.ru/mail/promo/): Promotional and landing-page image assets for Mail.ru products.
+- [Mail.ru Touch Assets](https://imgsmail.ru/mail/touch/): Mobile-oriented image assets for touch web interfaces.
+
+## My World Assets
+- [My World Images](https://imgsmail.ru/my/): Static image directory associated with Moi Mir and related services.
+- [My World Common Assets](https://imgsmail.ru/my/common/): Shared image assets used across My World pages.
+- [My World Photo Assets](https://imgsmail.ru/my/photo/): Photo-related static assets for social and gallery interfaces.
+- [My World Promo Assets](https://imgsmail.ru/my/promo/): Promotional image assets for My World product pages.
+
+## Games and Entertainment Assets
+- [Games Images](https://imgsmail.ru/games/): Static image directory for Mail.ru games and entertainment properties.
+- [Games Common Assets](https://imgsmail.ru/games/common/): Shared image assets used across game-related pages.
+- [Games Promo Assets](https://imgsmail.ru/games/promo/): Promotional banners and campaign images for gaming properties.
+- [Games Landing Assets](https://imgsmail.ru/games/landing/): Landing-page image assets for game launches and events.
+
+## Cloud and Product Assets
+- [Cloud Images](https://imgsmail.ru/cloud/): Static image directory associated with Mail.ru Cloud interfaces.
+- [Cloud Common Assets](https://imgsmail.ru/cloud/common/): Shared image assets used across cloud product pages.
+- [Cloud Promo Assets](https://imgsmail.ru/cloud/promo/): Promotional image assets for cloud storage marketing pages.
+- [Cloud Landing Assets](https://imgsmail.ru/cloud/landing/): Landing-page images for cloud product campaigns.
+
+## Portal and Shared Branding
+- [Portal Images](https://imgsmail.ru/portal/): Shared portal-level image assets used across Mail.ru properties.
+- [Portal Common Assets](https://imgsmail.ru/portal/common/): Common branding and interface images for portal experiences.
+- [Portal Navigation Assets](https://imgsmail.ru/portal/nav/): Navigation and header image assets for portal layouts.
+- [Portal Promo Assets](https://imgsmail.ru/portal/promo/): Promotional and seasonal campaign images for portal pages.
+
+## Media and News Assets
+- [News Images](https://imgsmail.ru/news/): Static image directory for news and editorial properties.
+- [News Common Assets](https://imgsmail.ru/news/common/): Shared editorial interface image assets.
+- [News Promo Assets](https://imgsmail.ru/news/promo/): Promotional and featured-story image assets.
+- [News Landing Assets](https://imgsmail.ru/news/landing/): Landing-page images for news verticals and special projects.
+
+## Technical Notes
+- [Root Domain](https://imgsmail.ru/): Primary asset host for static images and media files.
+- [HTTPS Root](https://imgsmail.ru/): Secure entry point for retrieving hosted image assets.
+- [WWW Variant](https://www.imgsmail.ru/): Alternate host variant that may redirect or be unused.
+- [Robots Policy](https://imgsmail.ru/robots.txt): Machine-readable crawling policy for the asset host.

@@ -1,0 +1,60 @@
+# MyFRITZ!Net
+> AVM's remote access portal for FRITZ!Box services, account login, and internet-based access to home network features.
+
+MyFRITZ!Net provides browser-based access to FRITZ!Box-connected services and account management for AVM users. The site centers on authentication, remote access, support information, and links to FRITZ! product documentation and service resources.
+
+## Account Access
+- [MyFRITZ!Net Login](https://myfritz.net/): Main sign-in page for accessing MyFRITZ!Net and connected FRITZ!Box services.
+- [Forgot Password](https://myfritz.net/password): Password reset flow for recovering access to a MyFRITZ! account.
+- [Create Account](https://myfritz.net/register): Registration page for creating a new MyFRITZ!Net account.
+- [Legal Notice](https://myfritz.net/legal_notice): Legal notice and publisher information for the MyFRITZ!Net service.
+- [Privacy Policy](https://myfritz.net/privacy): Privacy information describing data handling for MyFRITZ!Net users.
+
+## FRITZ!Box Remote Access
+- [MyFRITZ! Overview](https://en.avm.de/service/knowledge-base/dok/FRITZ-Box-7590/1523_What-is-MyFRITZ/): Overview of MyFRITZ! remote access and its role in FRITZ!Box connectivity.
+- [Setting Up MyFRITZ! on FRITZ!Box](https://en.avm.de/service/knowledge-base/dok/FRITZ-Box-7590/966_Setting-up-MyFRITZ-on-the-FRITZ-Box/): Steps for enabling and configuring MyFRITZ! on a FRITZ!Box.
+- [Accessing FRITZ!Box Over the Internet](https://en.avm.de/service/knowledge-base/dok/FRITZ-Box-7590/1218_Accessing-FRITZ-Box-over-the-internet-via-MyFRITZ/): Instructions for reaching a FRITZ!Box remotely using MyFRITZ!.
+- [Determining the MyFRITZ! Address](https://en.avm.de/service/knowledge-base/dok/FRITZ-Box-7590/966_Setting-up-MyFRITZ-on-the-FRITZ-Box/#determining-the-myfritz-address-of-the-fritz-box): Guidance on finding the assigned MyFRITZ! internet address.
+- [MyFRITZ! Internet Access Requirements](https://en.avm.de/service/knowledge-base/dok/FRITZ-Box-7590/1523_What-is-MyFRITZ/): Requirements and capabilities for remote access through AVM services.
+
+## FRITZ!NAS and Home Network Access
+- [Accessing FRITZ!NAS Over the Internet](https://en.avm.de/service/knowledge-base/dok/FRITZ-Box-7590/1239_Accessing-FRITZ-NAS-over-the-internet-via-MyFRITZ/): How to reach FRITZ!NAS remotely through a MyFRITZ! connection.
+- [Using FRITZ!NAS](https://en.avm.de/service/knowledge-base/dok/FRITZ-Box-7590/116_Using-FRITZ-NAS/): Documentation for file storage and sharing features on FRITZ!Box.
+- [Accessing Storage Over the Internet](https://en.avm.de/service/knowledge-base/dok/FRITZ-Box-7590/1239_Accessing-FRITZ-NAS-over-the-internet-via-MyFRITZ/): Remote file access setup using MyFRITZ! and FRITZ!NAS.
+- [Home Network Overview](https://en.avm.de/service/knowledge-base/dok/FRITZ-Box-7590/41_Home-network-overview-in-the-FRITZ-Box-user-interface/): Overview of devices and network resources managed by FRITZ!Box.
+- [USB Storage on FRITZ!Box](https://en.avm.de/service/knowledge-base/dok/FRITZ-Box-7590/26_Connecting-a-USB-storage-device-to-the-FRITZ-Box/): Setup instructions for storage devices used with FRITZ!NAS.
+
+## FRITZ!Apps and Mobile Access
+- [MyFRITZ!App Overview](https://en.avm.de/products/apps/myfritzapp/): Product page for the MyFRITZ!App mobile remote access application.
+- [Setting Up MyFRITZ!App](https://en.avm.de/service/knowledge-base/dok/FRITZ-App-MyFRITZ-App-2/3408_Setting-up-MyFRITZ-App-2/): Instructions for connecting the mobile app to a FRITZ!Box.
+- [MyFRITZ!App for Android](https://play.google.com/store/apps/details?id=de.avm.android.myfritz2): Android app listing for remote access to FRITZ! services.
+- [MyFRITZ!App for iOS](https://apps.apple.com/app/myfritz-app/id1062444604): iOS app listing for MyFRITZ! mobile access.
+- [FRITZ!App Product Overview](https://en.avm.de/products/fritz-apps/): Overview of AVM mobile apps for FRITZ! devices and services.
+
+## Support and Knowledge Base
+- [AVM Service Portal](https://en.avm.de/service/): Main support portal for FRITZ! products, guides, and troubleshooting.
+- [FRITZ!Box Knowledge Base](https://en.avm.de/service/knowledge-base/): Searchable documentation and troubleshooting articles for FRITZ! devices.
+- [MyFRITZ! Search Results](https://en.avm.de/service/knowledge-base/search/?q=MyFRITZ): Knowledge base search results related to MyFRITZ! topics.
+- [FRITZ!Box Manuals](https://en.avm.de/service/manuals/): Product manuals and official documentation downloads.
+- [Downloads](https://en.avm.de/service/downloads/): Firmware, tools, and software downloads for AVM products.
+
+## Security and Access Management
+- [Configuring HTTPS Access to FRITZ!Box](https://en.avm.de/service/knowledge-base/dok/FRITZ-Box-7590/160_Configuring-HTTPS-access-to-the-FRITZ-Box/): Instructions for secure encrypted access to the FRITZ!Box interface.
+- [Setting Up FRITZ!Box Users](https://en.avm.de/service/knowledge-base/dok/FRITZ-Box-7590/152_Setting-up-FRITZ-Box-users/): How to create user accounts and permissions for FRITZ!Box access.
+- [Assigning Access Rights](https://en.avm.de/service/knowledge-base/dok/FRITZ-Box-7590/152_Setting-up-FRITZ-Box-users/): Guidance on permissions for NAS, VPN, and remote administration.
+- [Two-Factor and Confirmation Procedures](https://en.avm.de/service/knowledge-base/dok/FRITZ-Box-7590/3448_Confirming-an-important-change-in-the-FRITZ-Box/): Information on confirming sensitive changes in the FRITZ!Box interface.
+- [Secure Password Practices](https://en.avm.de/service/knowledge-base/dok/FRITZ-Box-7590/152_Setting-up-FRITZ-Box-users/): Recommendations for account credentials and user security.
+
+## VPN and Alternative Remote Connectivity
+- [VPN with WireGuard](https://en.avm.de/service/knowledge-base/dok/FRITZ-Box-7590/3685_Setting-up-a-WireGuard-VPN-to-the-FRITZ-Box/): Setup guide for secure remote network access using WireGuard.
+- [VPN with IPsec](https://en.avm.de/service/knowledge-base/dok/FRITZ-Box-7590/1237_Setting-up-an-IPSec-VPN-to-the-FRITZ-Box-in-Windows-FRITZ-remote-access/): Instructions for IPsec-based remote access to a FRITZ!Box.
+- [VPN Overview](https://en.avm.de/service/vpn/): AVM overview page for VPN options and setup resources.
+- [Remote Access Alternatives](https://en.avm.de/service/knowledge-base/dok/FRITZ-Box-7590/1523_What-is-MyFRITZ/): Context on MyFRITZ! compared with other remote connectivity methods.
+- [Accessing the Home Network Remotely](https://en.avm.de/service/knowledge-base/dok/FRITZ-Box-7590/3685_Setting-up-a-WireGuard-VPN-to-the-FRITZ-Box/): Secure methods for reaching devices behind a FRITZ!Box.
+
+## Product and Service Overview
+- [AVM Homepage](https://en.avm.de/): Main AVM site for FRITZ! products, services, and company information.
+- [FRITZ!Box Products](https://en.avm.de/products/fritzbox/): Product overview for FRITZ!Box routers and gateway devices.
+- [FRITZ! Services](https://en.avm.de/service/): Entry point to AVM support and service resources.
+- [MyFRITZ!App Product Page](https://en.avm.de/products/apps/myfritzapp/): Overview of the companion app for MyFRITZ! remote access.
+- [FRITZ!OS](https://en.avm.de/products/fritzos/): Information about the operating system powering FRITZ!Box features and updates.

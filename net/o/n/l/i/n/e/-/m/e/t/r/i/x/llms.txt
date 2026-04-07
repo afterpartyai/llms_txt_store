@@ -1,0 +1,34 @@
+# online-metrix.net
+> Online Metrix provides device identification, fraud detection, and risk assessment services used in digital transaction flows.
+
+This site appears to host the Online Metrix service and related integration resources used by merchants and partners for collecting device data and supporting fraud screening workflows.
+
+## Core Site
+- [Online Metrix Home](https://www.online-metrix.net/): Entry point for the Online Metrix device profiling and fraud prevention service.
+- [Main Index](https://www.online-metrix.net/index): Primary landing page for the Online Metrix web application.
+- [Device Profiling Endpoint](https://www.online-metrix.net/fp/): Hosted fingerprinting path used during device data collection flows.
+
+## Device Profiling
+- [Fingerprint Collection](https://www.online-metrix.net/fp/tags): JavaScript and tag-based device profiling resources for browser integrations.
+- [Profiling Assets](https://www.online-metrix.net/fp/clear.png): Tracking asset commonly used in transparent device profiling requests.
+- [Profiling Transport](https://www.online-metrix.net/fp/3rdparty): Third-party collection path supporting embedded profiling and partner integrations.
+
+## Integration Endpoints
+- [Collector Endpoint](https://www.online-metrix.net/fp/collect): Server endpoint for receiving browser and device profiling data.
+- [Session Initialization](https://www.online-metrix.net/fp/init): Initialization path for starting a profiling session before transaction evaluation.
+- [Callback Receiver](https://www.online-metrix.net/fp/callback): Callback-style endpoint used in asynchronous profiling and partner workflows.
+
+## Browser Resources
+- [JavaScript Tag Loader](https://www.online-metrix.net/fp/tags.js): Script resource used to embed Online Metrix profiling in web pages.
+- [Iframe Profiling Resource](https://www.online-metrix.net/fp/frame): Embedded frame resource for browser-based device identification collection.
+- [Pixel Resource](https://www.online-metrix.net/fp/clear.png): Minimal image asset used to trigger passive profiling requests.
+
+## Operational Paths
+- [Health Check](https://www.online-metrix.net/status): Service status-style endpoint for operational monitoring and availability checks.
+- [Error Path](https://www.online-metrix.net/error): Generic error handling path for failed requests or invalid integrations.
+- [Support Contact](https://www.online-metrix.net/contact): Contact path for operational or integration-related inquiries.
+
+## Related Access
+- [Root Domain](https://www.online-metrix.net): Canonical domain for Online Metrix-hosted profiling services.
+- [WWW Host](https://www.online-metrix.net/): Standard HTTPS host serving Online Metrix resources.
+- [Secure Access](https://www.online-metrix.net/index): Secure browser-accessible entry page for the service.

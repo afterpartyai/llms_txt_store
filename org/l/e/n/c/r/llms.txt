@@ -1,0 +1,56 @@
+# lencr.org
+> Let’s Encrypt hosts certificate validation data on lencr.org that clients fetch to verify issued certificates.
+
+lencr.org is operated by Let’s Encrypt and primarily serves certificate-related resources referenced by certificates and validation software. The site also links to Let’s Encrypt documentation, policy materials, support, status, and organizational information.
+
+## Overview
+- [lencr.org Home](https://lencr.org/): Explains why devices access lencr.org and what certificate validation data it serves.
+- [About Let’s Encrypt](https://lencr.org/about/): Overview of Let’s Encrypt and its mission to provide free automated certificates.
+- [Contact](https://lencr.org/contact/): Contact information and ways to reach the Let’s Encrypt team.
+- [Get Involved](https://lencr.org/getinvolved/): Opportunities to contribute, participate, and support the Let’s Encrypt ecosystem.
+- [Donate](https://lencr.org/donate/): Donation page for supporting Let’s Encrypt operations and infrastructure.
+- [Statistics](https://lencr.org/stats/): Public issuance and usage statistics for Let’s Encrypt certificates.
+
+## Documentation
+- [Documentation Home](https://lencr.org/docs/): Main documentation index for using, integrating, and understanding Let’s Encrypt services.
+- [Frequently Asked Questions](https://lencr.org/docs/faq/): Answers to common questions about certificates, validation, renewal, and operations.
+- [Challenge Types](https://lencr.org/docs/challenge-types/): Explains HTTP-01, DNS-01, and TLS-ALPN-01 domain validation methods.
+- [Rate Limits](https://lencr.org/docs/rate-limits/): Describes issuance rate limits and how they apply to certificate requests.
+- [Staging Environment](https://lencr.org/docs/staging-environment/): Details the Let’s Encrypt staging API for testing integrations safely.
+- [Certificate Expiration Notifications](https://lencr.org/docs/expiration-emails/): Explains expiration reminder emails and related notification behavior.
+
+## Policy and Legal
+- [Policy and Legal Repository](https://lencr.org/repository/): Central repository for subscriber agreements, CP/CPS, and legal documents.
+- [Certification Practice Statement](https://lencr.org/repository/): Repository access point for current certificate policy and practice documents.
+- [Subscriber Agreement](https://lencr.org/repository/): Repository access point for subscriber terms and certificate-related agreements.
+- [Privacy and Legal Materials](https://lencr.org/repository/): Official legal and policy documents governing Let’s Encrypt services.
+
+## Support and Community
+- [Get Help](https://community.letsencrypt.org/): Community support forum for troubleshooting issuance, renewal, and integration issues.
+- [Frequently Asked Questions](https://lencr.org/docs/faq/): Self-service answers for common operational and policy questions.
+- [Service Status](https://letsencrypt.status.io/): Live status page for Let’s Encrypt services, incidents, and maintenance updates.
+- [Contact](https://lencr.org/contact/): Official contact channels for inquiries not suited to community support.
+
+## News and Updates
+- [Blog](https://lencr.org/blog/): Official Let’s Encrypt blog with announcements, technical updates, and ecosystem news.
+- [Statistics](https://lencr.org/stats/): Ongoing public metrics related to certificate issuance and adoption.
+- [Service Status](https://letsencrypt.status.io/): Operational updates on outages, degradations, and scheduled maintenance.
+
+## Funding and Sponsorship
+- [Donate](https://lencr.org/donate/): Contribute financially to support Let’s Encrypt and its public-benefit mission.
+- [Become a Sponsor](https://www.abetterinternet.org/sponsor/): Sponsorship information for organizations supporting ISRG and Let’s Encrypt.
+- [Current Sponsors & Funders](https://www.abetterinternet.org/sponsors/): Lists organizations and funders supporting Let’s Encrypt and ISRG.
+- [Donate Now](https://lencr.org/donate/): Direct donation page for immediate financial support.
+
+## Organization
+- [Internet Security Research Group (ISRG)](https://www.abetterinternet.org/about/): Information about the nonprofit organization behind Let’s Encrypt.
+- [ISRG Home](https://www.abetterinternet.org/): Main site for the Internet Security Research Group.
+- [Annual Reports](https://www.abetterinternet.org/annual-reports/): Annual reports covering finances, impact, and organizational progress.
+- [2025 Annual Report](https://www.abetterinternet.org/annual-reports/): Latest annual reporting from ISRG.
+- [Careers](https://www.abetterinternet.org/careers/): Job openings and employment information for ISRG.
+
+## Key Reference Pages
+- [What’s lencr.org?](https://lencr.org/): Explains the purpose of the domain and its role in certificate validation.
+- [Why is my computer fetching this data?](https://lencr.org/): Describes routine client behavior when validating Let’s Encrypt certificates.
+- [What exactly is this data for?](https://lencr.org/): Clarifies how hosted data supports certificate verification workflows.
+- [Why “lencr.org”?](https://lencr.org/): Explains the naming choice for the lencr.org domain.

@@ -1,0 +1,72 @@
+# AWS Elastic Beanstalk
+> AWS Elastic Beanstalk is a managed service for deploying, running, and scaling web applications and services on AWS.
+
+Elastic Beanstalk is part of Amazon Web Services and provides platform-managed environments for applications written in common web languages and frameworks. The most useful resources are in the AWS documentation, API reference, developer guides, platform guides, and related CLI and SDK references.
+
+## Getting Started
+- [Elastic Beanstalk Developer Guide](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/): Main documentation for deploying, managing, and operating Elastic Beanstalk environments.
+- [Getting Started Using Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/GettingStarted.html): Introductory guide for creating and deploying your first application.
+- [Elastic Beanstalk Concepts](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.html): Overview of core concepts including applications, environments, versions, and platforms.
+- [Elastic Beanstalk Architecture](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts-architecture.html): Explains the service architecture and managed AWS resources used by environments.
+- [Elastic Beanstalk Platforms](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.platforms.html): Describes supported platform branches, runtimes, and platform lifecycle concepts.
+
+## Deployment and Configuration
+- [Deploying Applications to Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/applications-sourcebundle.html): How to package and deploy application source bundles.
+- [Environment Configuration](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/environments-cfg.html): Configure environment settings, software, capacity, networking, and rolling updates.
+- [Configuration Files (.ebextensions)](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/ebextensions.html): Customize environments with YAML or JSON configuration files.
+- [Platform Hooks](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/platforms-linux-extend.hooks.html): Run custom scripts during application and platform lifecycle events.
+- [Saved Configurations](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/environment-configuration-savedconfig.html): Save and reuse environment configuration templates across deployments.
+- [Environment Variables and Software Settings](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/environments-cfg-softwaresettings.html): Manage application environment properties and platform software options.
+
+## Platforms and Runtimes
+- [Java on Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Java.html): Deploy and configure Java applications on supported Elastic Beanstalk platforms.
+- [Node.js on Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_nodejs.html): Deploy Node.js applications with platform-specific configuration and process management.
+- [PHP on Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_PHP.html): Deploy PHP applications and configure web server and runtime settings.
+- [Python on Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Python.html): Deploy Python web applications with WSGI configuration and dependencies.
+- [Ruby on Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Ruby.html): Deploy Ruby applications including Rack and Rails-based workloads.
+- [Go on Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_go.html): Deploy Go applications using supported platform branches and build conventions.
+- [Docker on Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_docker.html): Run single-container or multicontainer Docker applications on Elastic Beanstalk.
+- [NET on Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_NET.html): Deploy .NET applications on Windows and Linux-based platform branches.
+
+## Environment Operations
+- [Managing Environments](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features-managing-env-tiers.html): Manage web server and worker environments for different application workloads.
+- [Updating Environments](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.rollingupdates.html): Perform rolling, immutable, and traffic-splitting deployments and updates.
+- [Cloning Environments](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.managing.clone.html): Duplicate an existing environment and its configuration for testing or migration.
+- [Blue/Green Deployments](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.CNAMESwap.html): Swap environment URLs to implement blue/green deployment strategies.
+- [Managed Platform Updates](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/environment-platform-update-managed.html): Automate platform patching and maintenance windows for environments.
+- [Restarting and Rebuilding Environments](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.environment.html): Operational actions for restarting app servers and rebuilding environments.
+
+## Monitoring, Logs, and Health
+- [Enhanced Health Reporting](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/health-enhanced.html): Monitor environment health with detailed status, causes, and metrics.
+- [Viewing Logs](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.logging.html): Retrieve instance and application logs for troubleshooting deployments and runtime issues.
+- [Publishing Logs to Amazon S3](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/AWSHowTo.cloudwatchlogs.html): Configure centralized log storage and retention using AWS services.
+- [Amazon CloudWatch Integration](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/AWSHowTo.cloudwatch.html): Use CloudWatch metrics, alarms, and dashboards with Elastic Beanstalk environments.
+- [Health Colors and Statuses](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/health-enhanced-status.html): Reference for interpreting Elastic Beanstalk health states and severity levels.
+
+## Networking, Security, and IAM
+- [Using Elastic Beanstalk with Amazon VPC](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.managing.vpc.html): Deploy environments inside a VPC with subnets, load balancers, and security groups.
+- [Elastic Beanstalk Service Roles](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts-roles-service.html): IAM service role requirements for managing Elastic Beanstalk resources.
+- [Elastic Beanstalk Instance Profiles](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts-roles-instance.html): IAM instance profile permissions for EC2 instances in environments.
+- [Managing HTTPS Termination](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/configuring-https.html): Configure TLS certificates and HTTPS listeners for secure application traffic.
+- [Security Configuration](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/AWSHowTo.iam.html): Identity and access management guidance for Elastic Beanstalk users and resources.
+
+## Tools, CLI, and APIs
+- [Elastic Beanstalk API Reference](https://docs.aws.amazon.com/elasticbeanstalk/latest/api/): Full API reference for Elastic Beanstalk operations and data types.
+- [AWS CLI elasticbeanstalk Command Reference](https://docs.aws.amazon.com/cli/latest/reference/elasticbeanstalk/): Command reference for managing Elastic Beanstalk with the AWS CLI.
+- [EB CLI Developer Guide](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3.html): Documentation for the Elastic Beanstalk command line interface.
+- [EB CLI Command Reference](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb3-cmd-commands.html): Reference for EB CLI commands used to create and manage applications.
+- [AWS SDK for JavaScript Elastic Beanstalk Examples](https://docs.aws.amazon.com/sdk-for-javascript/v3/developer-guide/javascript_elastic-beanstalk_code_examples.html): Code examples for interacting with Elastic Beanstalk using the JavaScript SDK.
+- [Boto3 Elastic Beanstalk Client](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/elasticbeanstalk.html): Python SDK client reference for Elastic Beanstalk API operations.
+
+## Worker Environments and Background Jobs
+- [Worker Environments Overview](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features-managing-env-tiers.html): Introduces worker tiers for asynchronous and background processing workloads.
+- [Periodic Tasks with cron.yaml](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.cron.html): Schedule recurring tasks in worker environments using cron configuration.
+- [Amazon SQS Integration](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features-managing-env-tiers.html): Background workers process messages from Amazon SQS queues managed by Elastic Beanstalk.
+- [Daemon Process Configuration](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/platforms-linux-extend.html): Extend Linux platforms to run custom background processes and scripts.
+
+## Release Notes and Platform History
+- [Elastic Beanstalk Release Notes](https://docs.aws.amazon.com/elasticbeanstalk/latest/relnotes/): Platform release notes, runtime updates, and branch lifecycle announcements.
+- [Supported Platforms](https://docs.aws.amazon.com/elasticbeanstalk/latest/platforms/platforms-supported.html): Current supported platform branches and runtime versions.
+- [Platform Branch Lifecycle](https://docs.aws.amazon.com/elasticbeanstalk/latest/platforms/platform-history.html): Historical platform branch information and support timelines.
+- [Linux Platform Extensions](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/platforms-linux-extend.html): Extend and customize Amazon Linux based platform branches.
+- [Custom Platforms for Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/custom-platforms.html): Build and maintain custom platform images for specialized application requirements.

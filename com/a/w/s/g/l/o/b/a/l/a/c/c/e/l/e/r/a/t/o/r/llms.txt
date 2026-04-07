@@ -1,0 +1,75 @@
+# AWS Global Accelerator
+> AWS Global Accelerator is a networking service that improves application availability, performance, and failover using the AWS global network.
+
+This site centers on the AWS Global Accelerator product within AWS documentation and related AWS resources, including service guides, API references, CLI commands, SDK usage, pricing, FAQs, and infrastructure-as-code references.
+
+## Product Overview
+- [AWS Global Accelerator Product Page](https://aws.amazon.com/global-accelerator/): Overview of the service, benefits, use cases, and core networking capabilities.
+- [What Is AWS Global Accelerator?](https://docs.aws.amazon.com/global-accelerator/latest/dg/what-is-global-accelerator.html): Introduction to the service, concepts, and key features.
+- [How AWS Global Accelerator Works](https://docs.aws.amazon.com/global-accelerator/latest/dg/introduction-how-it-works.html): Explains traffic routing, anycast IPs, listeners, endpoint groups, and health checks.
+- [AWS Global Accelerator FAQs](https://aws.amazon.com/global-accelerator/faqs/): Answers to common questions about architecture, pricing, endpoints, and behavior.
+- [AWS Global Accelerator Pricing](https://aws.amazon.com/global-accelerator/pricing/): Pricing details for accelerators, data transfer, and optional features.
+
+## Developer Guide
+- [AWS Global Accelerator Developer Guide](https://docs.aws.amazon.com/global-accelerator/latest/dg/): Main documentation hub for configuring and operating Global Accelerator.
+- [Getting Started with AWS Global Accelerator](https://docs.aws.amazon.com/global-accelerator/latest/dg/getting-started.html): Step-by-step guide to creating and testing an accelerator.
+- [Listeners in AWS Global Accelerator](https://docs.aws.amazon.com/global-accelerator/latest/dg/introduction-listeners.html): Describes listener ports, protocols, and traffic acceptance behavior.
+- [Endpoint Groups in AWS Global Accelerator](https://docs.aws.amazon.com/global-accelerator/latest/dg/introduction-endpoint-groups.html): Explains regional endpoint groups, traffic dials, and health settings.
+- [Endpoints in AWS Global Accelerator](https://docs.aws.amazon.com/global-accelerator/latest/dg/introduction-endpoints.html): Covers supported endpoint types and endpoint-specific behavior.
+- [Health Checks and Endpoint Health](https://docs.aws.amazon.com/global-accelerator/latest/dg/about-endpoint-health.html): Details health check evaluation and endpoint availability handling.
+- [Client Affinity](https://docs.aws.amazon.com/global-accelerator/latest/dg/about-listeners-client-affinity.html): Describes source IP affinity options and session routing behavior.
+
+## Concepts and Architecture
+- [Static IP Addresses and DNS Names](https://docs.aws.amazon.com/global-accelerator/latest/dg/introduction-components.html): Describes accelerator components including static anycast IPs and DNS names.
+- [Standard Accelerators](https://docs.aws.amazon.com/global-accelerator/latest/dg/introduction-standard-accelerator.html): Explains the standard accelerator type and its routing model.
+- [Custom Routing Accelerators](https://docs.aws.amazon.com/global-accelerator/latest/dg/introduction-custom-routing-accelerator.html): Introduces custom routing accelerators and port-based endpoint mapping.
+- [Supported Endpoints for Standard Accelerators](https://docs.aws.amazon.com/global-accelerator/latest/dg/about-endpoints-caveats.html): Lists endpoint support, caveats, and service-specific considerations.
+- [AWS Global Network and Routing](https://docs.aws.amazon.com/global-accelerator/latest/dg/introduction-how-it-works.html): Explains edge entry points and traffic flow across AWS infrastructure.
+
+## Operations and Administration
+- [Managing Accelerators](https://docs.aws.amazon.com/global-accelerator/latest/dg/about-accelerators.html): Operational guidance for creating, updating, and deleting accelerators.
+- [Tagging AWS Global Accelerator Resources](https://docs.aws.amazon.com/global-accelerator/latest/dg/tagging-resources.html): Describes tagging support and resource organization practices.
+- [Accessing AWS Global Accelerator](https://docs.aws.amazon.com/global-accelerator/latest/dg/accessing-global-accelerator.html): Covers console, API, CLI, and endpoint access methods.
+- [Identity and Access Management for AWS Global Accelerator](https://docs.aws.amazon.com/global-accelerator/latest/dg/security_iam_service-with-iam.html): IAM integration, permissions, and policy considerations.
+- [Logging and Monitoring in AWS Global Accelerator](https://docs.aws.amazon.com/global-accelerator/latest/dg/logging-monitoring.html): Monitoring and observability guidance for service operations.
+- [Compliance Validation for AWS Global Accelerator](https://docs.aws.amazon.com/global-accelerator/latest/dg/compliance-validation.html): Compliance program information and audit-related references.
+- [Resilience in AWS Global Accelerator](https://docs.aws.amazon.com/global-accelerator/latest/dg/disaster-recovery-resiliency.html): Service resiliency and disaster recovery considerations.
+
+## API and Command Reference
+- [AWS Global Accelerator API Reference](https://docs.aws.amazon.com/global-accelerator/latest/api/): Full API reference for service operations and data types.
+- [CreateAccelerator](https://docs.aws.amazon.com/global-accelerator/latest/api/API_CreateAccelerator.html): API operation for creating a standard accelerator.
+- [CreateListener](https://docs.aws.amazon.com/global-accelerator/latest/api/API_CreateListener.html): API operation for creating a listener on an accelerator.
+- [CreateEndpointGroup](https://docs.aws.amazon.com/global-accelerator/latest/api/API_CreateEndpointGroup.html): API operation for defining regional endpoint groups.
+- [AddEndpoints](https://docs.aws.amazon.com/global-accelerator/latest/api/API_AddEndpoints.html): API operation for attaching endpoints to an endpoint group.
+- [DescribeAccelerator](https://docs.aws.amazon.com/global-accelerator/latest/api/API_DescribeAccelerator.html): API operation for retrieving accelerator configuration details.
+- [AWS CLI globalaccelerator](https://docs.aws.amazon.com/cli/latest/reference/globalaccelerator/): Command reference for managing Global Accelerator with the AWS CLI.
+
+## SDKs and Developer Tools
+- [AWS SDK for JavaScript v3 Global Accelerator Client](https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/client/global-accelerator/): JavaScript client reference for Global Accelerator operations.
+- [Boto3 GlobalAccelerator Client](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/globalaccelerator.html): Python SDK client reference and available service methods.
+- [AWS SDK for Java 2.x](https://sdk.amazonaws.com/java/api/latest/software/amazon/awssdk/services/globalaccelerator/package-summary.html): Java SDK package reference for Global Accelerator.
+- [AWS SDK for .NET Global Accelerator](https://docs.aws.amazon.com/sdkfornet/v3/apidocs/items/GlobalAccelerator/NGlobalAccelerator.html): .NET SDK namespace reference for service clients and models.
+- [AWS Tools for PowerShell Global Accelerator Cmdlets](https://docs.aws.amazon.com/powershell/latest/reference/items/GlobalAccelerator_cmdlets.html): PowerShell cmdlet reference for Global Accelerator administration.
+- [AWS CloudFormation AWS::GlobalAccelerator::Accelerator](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-globalaccelerator-accelerator.html): CloudFormation resource reference for defining accelerators.
+- [AWS CDK Global Accelerator Construct Library](https://docs.aws.amazon.com/cdk/api/v2/docs/aws-cdk-lib.aws_globalaccelerator-readme.html): CDK constructs for provisioning Global Accelerator resources.
+
+## Security and Networking
+- [Security in AWS Global Accelerator](https://docs.aws.amazon.com/global-accelerator/latest/dg/security.html): Overview of security responsibilities, controls, and best practices.
+- [Data Protection in AWS Global Accelerator](https://docs.aws.amazon.com/global-accelerator/latest/dg/data-protection.html): Information about encryption, data handling, and protection expectations.
+- [Infrastructure Security in AWS Global Accelerator](https://docs.aws.amazon.com/global-accelerator/latest/dg/infrastructure-security.html): Describes infrastructure-level protections and service security posture.
+- [AWS Global Accelerator Endpoints and Quotas](https://docs.aws.amazon.com/general/latest/gr/global_accelerator.html): Service endpoints, regions, and quotas in AWS General Reference.
+- [AWS Global Accelerator with Shield Advanced](https://docs.aws.amazon.com/global-accelerator/latest/dg/about-ddos.html): DDoS-related protections and integration considerations.
+
+## Tutorials and Use Cases
+- [Use AWS Global Accelerator to Improve Application Performance](https://aws.amazon.com/global-accelerator/getting-started/): Guided onboarding and introductory usage workflow.
+- [Blue/Green Deployments with AWS Global Accelerator](https://aws.amazon.com/blogs/networking-and-content-delivery/using-aws-global-accelerator-for-blue-green-deployments/): Example deployment strategy using traffic controls and endpoint groups.
+- [Multi-Region Application Failover with AWS Global Accelerator](https://aws.amazon.com/blogs/networking-and-content-delivery/deploying-multi-region-applications-in-aws-using-aws-global-accelerator/): Architecture pattern for regional failover and high availability.
+- [Improving TCP and UDP Application Availability](https://aws.amazon.com/blogs/networking-and-content-delivery/category/networking-content-delivery/aws-global-accelerator/): Blog category page with implementation examples and service announcements.
+- [Custom Routing Accelerator Use Cases](https://docs.aws.amazon.com/global-accelerator/latest/dg/introduction-custom-routing-accelerator.html): Documentation for port-based routing scenarios and specialized architectures.
+
+## Release Notes and Related Resources
+- [AWS What's New for Global Accelerator](https://aws.amazon.com/about-aws/whats-new/networking_and_content_delivery/aws-global-accelerator/): Service announcements, launches, and feature updates.
+- [AWS Global Accelerator Documentation Home](https://docs.aws.amazon.com/global-accelerator/): Entry point to all official Global Accelerator documentation.
+- [AWS Networking & Content Delivery Blog](https://aws.amazon.com/blogs/networking-and-content-delivery/): AWS blog covering networking services, patterns, and updates.
+- [AWS General Reference for Global Accelerator](https://docs.aws.amazon.com/general/latest/gr/global_accelerator.html): Central reference for service names, endpoints, and quotas.
+- [AWS Global Accelerator on re:Post](https://repost.aws/tags/questions/TA5JdG6T6nR5KQdY0mW0xw2Q/aws-global-accelerator): Community questions and answers related to the service.

@@ -1,0 +1,65 @@
+# BytePlus ImageX
+> Enterprise image and video processing, storage, and delivery platform by BytePlus.
+
+BytePlus ImageX provides cloud-based media upload, processing, optimization, and CDN delivery capabilities for images and videos. Its documentation covers product concepts, console workflows, API reference, SDKs, and best practices for integrating media infrastructure into applications.
+
+## Product Overview
+- [ImageX Overview](https://docs.byteplus.com/en/docs/imagex): Product landing page for ImageX documentation, features, and navigation.
+- [What is ImageX](https://docs.byteplus.com/en/docs/imagex/what-is-imagex): Introduction to ImageX capabilities, use cases, and core components.
+- [Product Advantages](https://docs.byteplus.com/en/docs/imagex/product-advantages): Summary of ImageX performance, optimization, and delivery benefits.
+- [Basic Concepts](https://docs.byteplus.com/en/docs/imagex/basic-concepts): Definitions for domains, templates, processing, storage, and related terminology.
+
+## Getting Started
+- [Getting Started](https://docs.byteplus.com/en/docs/imagex/getting-started): Entry point for initial setup, configuration, and first-time usage.
+- [Activate ImageX](https://docs.byteplus.com/en/docs/imagex/activate-imagex): Steps to enable the service and prepare an account.
+- [Create a Service](https://docs.byteplus.com/en/docs/imagex/create-a-service): How to create and configure an ImageX service instance.
+- [Configure Domain Name](https://docs.byteplus.com/en/docs/imagex/configure-domain-name): Guide to binding and managing acceleration domains.
+- [Upload Files](https://docs.byteplus.com/en/docs/imagex/upload-files): Methods for uploading media assets into ImageX storage.
+
+## Console and Operations
+- [Service Management](https://docs.byteplus.com/en/docs/imagex/service-management): Manage service settings, storage, domains, and processing behavior.
+- [Domain Management](https://docs.byteplus.com/en/docs/imagex/domain-management): Configure acceleration domains, HTTPS, and related delivery settings.
+- [Template Management](https://docs.byteplus.com/en/docs/imagex/template-management): Create and maintain image processing templates for delivery.
+- [Callback Configuration](https://docs.byteplus.com/en/docs/imagex/callback-configuration): Set up event callbacks for uploads and media workflows.
+- [Access Control](https://docs.byteplus.com/en/docs/imagex/access-control): Configure permissions, authentication, and access restrictions.
+
+## Image Processing
+- [Image Processing Overview](https://docs.byteplus.com/en/docs/imagex/image-processing-overview): Overview of on-the-fly image transformation and optimization features.
+- [Image Resize](https://docs.byteplus.com/en/docs/imagex/image-resize): Resize images using supported parameters and processing rules.
+- [Image Crop](https://docs.byteplus.com/en/docs/imagex/image-crop): Crop images with supported modes and coordinate options.
+- [Image Format Conversion](https://docs.byteplus.com/en/docs/imagex/image-format-conversion): Convert output formats for compatibility and performance.
+- [Image Quality Adjustment](https://docs.byteplus.com/en/docs/imagex/image-quality-adjustment): Tune compression and quality settings for delivery efficiency.
+- [Watermark](https://docs.byteplus.com/en/docs/imagex/watermark): Apply text or image watermarks during processing.
+- [Style Templates](https://docs.byteplus.com/en/docs/imagex/style-templates): Reusable processing templates for standardized output behavior.
+
+## Upload and Storage
+- [Upload Overview](https://docs.byteplus.com/en/docs/imagex/upload-overview): Summary of supported upload methods and workflows.
+- [Server Upload](https://docs.byteplus.com/en/docs/imagex/server-upload): Upload media from backend services using API-based methods.
+- [Client Upload](https://docs.byteplus.com/en/docs/imagex/client-upload): Upload directly from applications with secure client-side flows.
+- [Multipart Upload](https://docs.byteplus.com/en/docs/imagex/multipart-upload): Large-file upload using multipart transfer procedures.
+- [Storage Management](https://docs.byteplus.com/en/docs/imagex/storage-management): Manage stored objects, retention, and service-level storage settings.
+
+## API Reference
+- [OpenAPI Overview](https://docs.byteplus.com/en/docs/imagex/openapi-overview): Introduction to ImageX API usage, authentication, and request patterns.
+- [API Reference](https://docs.byteplus.com/en/docs/imagex/api-reference): Main API reference index for ImageX operations.
+- [Upload APIs](https://docs.byteplus.com/en/docs/imagex/upload-apis): Endpoints for applying upload credentials and transferring files.
+- [Service APIs](https://docs.byteplus.com/en/docs/imagex/service-apis): Endpoints for creating, querying, and updating services.
+- [Template APIs](https://docs.byteplus.com/en/docs/imagex/template-apis): Endpoints for managing image processing templates.
+- [Domain APIs](https://docs.byteplus.com/en/docs/imagex/domain-apis): Endpoints for domain configuration and delivery settings.
+- [Callback APIs](https://docs.byteplus.com/en/docs/imagex/callback-apis): Endpoints related to callback and event notification management.
+
+## SDKs and Integration
+- [SDK Overview](https://docs.byteplus.com/en/docs/imagex/sdk-overview): Summary of available SDKs and integration approaches.
+- [Java SDK](https://docs.byteplus.com/en/docs/imagex/java-sdk): Java client integration for ImageX API operations.
+- [Go SDK](https://docs.byteplus.com/en/docs/imagex/go-sdk): Go client integration for ImageX API operations.
+- [Python SDK](https://docs.byteplus.com/en/docs/imagex/python-sdk): Python client integration for ImageX API operations.
+- [PHP SDK](https://docs.byteplus.com/en/docs/imagex/php-sdk): PHP client integration for ImageX API operations.
+- [Node.js SDK](https://docs.byteplus.com/en/docs/imagex/nodejs-sdk): Node.js client integration for ImageX API operations.
+
+## Best Practices and Troubleshooting
+- [Best Practices](https://docs.byteplus.com/en/docs/imagex/best-practices): Recommended patterns for performance, security, and maintainability.
+- [Performance Optimization](https://docs.byteplus.com/en/docs/imagex/performance-optimization): Guidance for improving media delivery and processing efficiency.
+- [Security Recommendations](https://docs.byteplus.com/en/docs/imagex/security-recommendations): Suggestions for securing uploads, access, and delivery endpoints.
+- [FAQ](https://docs.byteplus.com/en/docs/imagex/faq): Frequently asked questions about common ImageX tasks and issues.
+- [Error Codes](https://docs.byteplus.com/en/docs/imagex/error-codes): Reference for API and service error responses.
+- [Troubleshooting](https://docs.byteplus.com/en/docs/imagex/troubleshooting): Diagnostic guidance for common configuration and integration problems.

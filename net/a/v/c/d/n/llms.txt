@@ -1,0 +1,53 @@
+# avcdn.net
+> CDN-hosted static assets and web resources used by Aviasales and related travel products.
+
+This domain primarily serves JavaScript bundles, images, fonts, and other static delivery assets rather than end-user documentation. Public, human-oriented documentation on avcdn.net itself is limited, so this file focuses on the major browsable asset areas and site entry points that provide context about the domain’s purpose.
+
+## Main Entry Points
+- [Root](https://avcdn.net/): Top-level domain entry point for CDN-hosted static resources.
+- [Favicons](https://avcdn.net/favicons/): Directory containing favicon and app icon assets for Aviasales properties.
+- [Images](https://avcdn.net/images/): Shared image asset directory for web interfaces and branding.
+- [Fonts](https://avcdn.net/fonts/): Hosted font files used across Aviasales web products.
+- [Static](https://avcdn.net/static/): General static asset directory for bundled frontend resources.
+
+## JavaScript Assets
+- [JavaScript Directory](https://avcdn.net/javascripts/): Frontend JavaScript bundles and compiled client-side assets.
+- [Static JavaScript](https://avcdn.net/static/javascripts/): JavaScript files organized under the static asset path.
+- [Webpack Assets](https://avcdn.net/static/webpack/): Webpack-generated bundles and chunked frontend build artifacts.
+- [Vendor Bundles](https://avcdn.net/static/vendor/): Third-party dependency bundles served to client applications.
+
+## Stylesheets
+- [Stylesheets Directory](https://avcdn.net/stylesheets/): CSS assets used by Aviasales web applications.
+- [Static CSS](https://avcdn.net/static/stylesheets/): Stylesheet files under the static asset namespace.
+- [Compiled CSS](https://avcdn.net/static/css/): Compiled CSS bundles for production web interfaces.
+
+## Images and Media
+- [Image Assets](https://avcdn.net/images/): Shared raster and vector image resources.
+- [Static Images](https://avcdn.net/static/images/): Application image assets within the static path.
+- [Illustrations](https://avcdn.net/images/illustrations/): Product illustration assets for UI and landing pages.
+- [Logos](https://avcdn.net/images/logos/): Brand logo files and related identity assets.
+- [Avatars](https://avcdn.net/images/avatars/): User or placeholder avatar image assets.
+
+## Fonts and Icons
+- [Fonts](https://avcdn.net/fonts/): Webfont files served for frontend typography.
+- [Static Fonts](https://avcdn.net/static/fonts/): Font assets grouped under the static namespace.
+- [Icons](https://avcdn.net/images/icons/): Iconography used across interfaces and components.
+- [Favicons](https://avcdn.net/favicons/): Browser and device icon assets for supported products.
+
+## Application Bundles
+- [Static Apps](https://avcdn.net/static/apps/): Application-specific frontend bundles and packaged assets.
+- [Frontend Builds](https://avcdn.net/static/build/): Production build outputs for deployed web applications.
+- [Assets Directory](https://avcdn.net/assets/): General-purpose asset path for compiled frontend resources.
+- [Manifest Files](https://avcdn.net/static/manifest/): Build manifests mapping logical assets to hashed filenames.
+
+## Product-Related Asset Areas
+- [Aviasales Assets](https://avcdn.net/aviasales/): Product-specific static resources for Aviasales interfaces.
+- [Jetradar Assets](https://avcdn.net/jetradar/): Legacy or regional product assets associated with Jetradar.
+- [Hotellook Assets](https://avcdn.net/hotellook/): Static resources for hotel search-related product surfaces.
+- [Travelpayouts Assets](https://avcdn.net/travelpayouts/): CDN-hosted assets associated with affiliate travel products.
+
+## Metadata and Site Files
+- [Robots.txt](https://avcdn.net/robots.txt): Crawl directives published at the domain root.
+- [Favicon ICO](https://avcdn.net/favicon.ico): Default favicon file for the CDN domain.
+- [Site Web Manifest](https://avcdn.net/site.webmanifest): Progressive web app manifest if exposed at root.
+- [Browserconfig XML](https://avcdn.net/browserconfig.xml): Microsoft browser tile configuration if available.

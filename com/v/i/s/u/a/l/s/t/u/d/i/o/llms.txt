@@ -1,0 +1,83 @@
+# Visual Studio
+> Microsoft’s integrated development environment and developer tools for building, debugging, and shipping applications across platforms and languages.
+
+Visual Studio provides the full IDE experience for .NET, C++, game development, Azure-connected apps, and enterprise workflows, alongside downloads, documentation, subscriptions, and release information.
+
+## Product Overview
+- [Visual Studio Home](https://visualstudio.microsoft.com/): Main entry point for Visual Studio products, downloads, and developer resources.
+- [Visual Studio IDE](https://visualstudio.microsoft.com/vs/): Overview of the flagship IDE, features, editions, and workflows.
+- [Visual Studio Code](https://visualstudio.microsoft.com/vs/code/): Landing page for the lightweight cross-platform code editor.
+- [Visual Studio for Mac](https://visualstudio.microsoft.com/vs/mac/): Information about the Mac IDE and related development workflows.
+- [Visual Studio Dev Essentials](https://visualstudio.microsoft.com/dev-essentials/): Free developer program with tools, services, and learning benefits.
+- [Visual Studio Pricing](https://visualstudio.microsoft.com/vs/pricing/): Compare editions, subscriptions, and pricing options.
+
+## Downloads
+- [Downloads](https://visualstudio.microsoft.com/downloads/): Central download hub for Visual Studio, SDKs, and related tools.
+- [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/): Free fully featured IDE for individual developers and small teams.
+- [Visual Studio Professional](https://visualstudio.microsoft.com/vs/professional/): Professional IDE edition for small teams and individual productivity.
+- [Visual Studio Enterprise](https://visualstudio.microsoft.com/vs/enterprise/): Advanced IDE edition with testing, architecture, and enterprise capabilities.
+- [Older Downloads](https://visualstudio.microsoft.com/vs/older-downloads/): Access previous Visual Studio releases and legacy installers.
+- [Release History](https://visualstudio.microsoft.com/vs/release-notes/): Version history and release notes for supported Visual Studio releases.
+
+## Documentation
+- [Visual Studio Documentation](https://learn.microsoft.com/visualstudio/): Official documentation for installation, development, debugging, and deployment.
+- [Install Visual Studio](https://learn.microsoft.com/visualstudio/install/install-visual-studio): Step-by-step installation guidance for Visual Studio on Windows.
+- [Visual Studio IDE Documentation](https://learn.microsoft.com/visualstudio/ide/): Reference and guidance for editor, navigation, and productivity features.
+- [Debugger Documentation](https://learn.microsoft.com/visualstudio/debugger/): Guides for debugging applications, diagnostics, and troubleshooting.
+- [Test Tools in Visual Studio](https://learn.microsoft.com/visualstudio/test/): Documentation for unit testing, test discovery, and test management.
+- [Deployment Documentation](https://learn.microsoft.com/visualstudio/deployment/): Guidance for packaging, publishing, and deploying applications.
+
+## Release Notes
+- [Visual Studio 2022 Release Notes](https://learn.microsoft.com/visualstudio/releases/2022/release-notes): Detailed release notes for Visual Studio 2022 updates and fixes.
+- [Visual Studio 2022 Version History](https://learn.microsoft.com/visualstudio/releases/2022/history): Chronological version history for Visual Studio 2022 releases.
+- [Visual Studio 2019 Release Notes](https://learn.microsoft.com/visualstudio/releases/2019/release-notes): Release notes for Visual Studio 2019 updates and servicing releases.
+- [Visual Studio 2019 Version History](https://learn.microsoft.com/visualstudio/releases/2019/history): Historical release timeline for Visual Studio 2019.
+- [Visual Studio 2022 System Requirements](https://learn.microsoft.com/visualstudio/releases/2022/system-requirements): Supported operating systems, hardware, and prerequisites for Visual Studio 2022.
+- [Visual Studio 2019 System Requirements](https://learn.microsoft.com/visualstudio/releases/2019/system-requirements): Supported environments and prerequisites for Visual Studio 2019.
+
+## Extensibility and SDK
+- [Visual Studio Extensibility](https://learn.microsoft.com/visualstudio/extensibility/): Build extensions, tool windows, commands, and custom integrations.
+- [Visual Studio SDK](https://learn.microsoft.com/visualstudio/extensibility/visual-studio-sdk): SDK overview for extending the IDE and editor.
+- [VSIX Project Template](https://learn.microsoft.com/visualstudio/extensibility/get-started/creating-an-extension-with-a-vsix-project): Create and package Visual Studio extensions using VSIX projects.
+- [Editor and Language Service Extensibility](https://learn.microsoft.com/visualstudio/extensibility/editor-and-language-service-extensibility): Customize editor behavior, classification, completion, and language services.
+- [MEF Components](https://learn.microsoft.com/visualstudio/extensibility/managed-extensibility-framework-in-the-editor): Use MEF to compose editor extensions and components.
+- [Visual Studio Marketplace](https://marketplace.visualstudio.com/): Discover and install extensions, themes, and developer tools.
+
+## Azure and Cloud Development
+- [Azure Development with Visual Studio](https://learn.microsoft.com/visualstudio/azure/): Use Visual Studio to build, deploy, and debug Azure applications.
+- [Publish to Azure](https://learn.microsoft.com/visualstudio/deployment/quickstart-deploy-to-azure): Quickstart for deploying applications from Visual Studio to Azure.
+- [Azure Functions Tools](https://learn.microsoft.com/azure/azure-functions/functions-develop-vs): Develop and debug Azure Functions using Visual Studio.
+- [ASP.NET and Azure App Service](https://learn.microsoft.com/visualstudio/deployment/tutorial-import-publish-settings-azure): Publish ASP.NET applications to Azure App Service from Visual Studio.
+- [Container Tools](https://learn.microsoft.com/visualstudio/containers/): Build, debug, and deploy containerized applications from Visual Studio.
+- [GitHub Copilot in Visual Studio](https://visualstudio.microsoft.com/github-copilot/): AI-assisted coding experience integrated into Visual Studio workflows.
+
+## .NET and Application Development
+- [Develop .NET Applications](https://learn.microsoft.com/visualstudio/get-started/csharp/): Get started building .NET applications with Visual Studio.
+- [ASP.NET and Web Development](https://learn.microsoft.com/visualstudio/web/): Tools and workflows for web application development.
+- [Desktop Development](https://learn.microsoft.com/visualstudio/windows/): Build Windows desktop applications with .NET and C++ tooling.
+- [Mobile Development with .NET](https://learn.microsoft.com/visualstudio/cross-platform/): Cross-platform mobile and multi-platform app development guidance.
+- [C++ in Visual Studio](https://learn.microsoft.com/cpp/overview/visual-cpp-in-visual-studio): Overview of C++ development tools and workflows in Visual Studio.
+- [Python in Visual Studio](https://learn.microsoft.com/visualstudio/python/): Python development, environments, debugging, and project support.
+
+## Game Development
+- [Game Development with Visual Studio](https://visualstudio.microsoft.com/vs/features/game-development/): Overview of game development tooling and engine integrations.
+- [Visual Studio Tools for Unity](https://learn.microsoft.com/visualstudio/gamedev/unity/): Documentation for Unity integration, debugging, and productivity features.
+- [Visual Studio Tools for Unreal Engine](https://learn.microsoft.com/visualstudio/gamedev/unreal/get-started/vs-tools-unreal-overview): Unreal Engine tooling and integration overview.
+- [C++ Game Development](https://learn.microsoft.com/cpp/overview/visual-cpp-in-visual-studio): C++ tooling commonly used for native game development.
+- [Graphics Diagnostics](https://learn.microsoft.com/visualstudio/debugger/graphics/): Analyze rendering and GPU behavior in graphics applications.
+
+## Subscriptions and Licensing
+- [Visual Studio Subscriptions](https://visualstudio.microsoft.com/subscriptions/): Overview of subscription benefits, downloads, and included services.
+- [Subscription Benefits](https://visualstudio.microsoft.com/subscriptions/benefits/): Included tools, Azure credits, support, and training benefits.
+- [My Benefits Portal](https://my.visualstudio.com/benefits): Access and activate available subscription benefits.
+- [Standard Subscriptions](https://visualstudio.microsoft.com/vs/pricing/?tab=business): Compare business subscription plans and included capabilities.
+- [Monthly Subscriptions](https://visualstudio.microsoft.com/vs/pricing/?tab=individual): Compare monthly and individual subscription options.
+- [Licensing Whitepaper](https://visualstudio.microsoft.com/licensing/): Licensing guidance and official Visual Studio licensing resources.
+
+## Resources and Support
+- [Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/): Product announcements, feature deep dives, and engineering updates.
+- [Developer Community](https://developercommunity.visualstudio.com/): Report issues, suggest features, and track product feedback.
+- [Support](https://visualstudio.microsoft.com/support/): Support options, FAQs, and help resources for Visual Studio users.
+- [Documentation Hub](https://learn.microsoft.com/visualstudio/): Central hub for official product documentation and tutorials.
+- [Visual Studio Marketplace](https://marketplace.visualstudio.com/): Extension catalog for enhancing Visual Studio and related tools.
+- [Microsoft Learn for Visual Studio](https://learn.microsoft.com/training/browse/?products=visual-studio): Training modules and learning paths for Visual Studio users.

@@ -1,0 +1,78 @@
+# CDN77
+> Global content delivery network, edge security, and streaming platform with documentation for setup, APIs, and integrations.
+
+CDN77 provides CDN, DDoS protection, web application firewall, private network, and video delivery services. Its documentation covers product setup, API usage, integrations, and operational guidance for customers deploying edge infrastructure and media workflows.
+
+## Documentation
+- [Documentation Home](https://www.cdn77.com/docs/): Main documentation hub for CDN, security, streaming, and platform configuration.
+- [Knowledge Base](https://www.cdn77.com/docs/knowledge-base/): General help articles for account, billing, and service administration topics.
+- [Status Page](https://status.cdn77.com/): Service health, incident history, and operational status for CDN77 systems.
+- [Support Center](https://client.cdn77.com/support): Customer support portal for tickets and account assistance.
+
+## CDN Setup
+- [CDN Resource Setup](https://www.cdn77.com/docs/cdn-resource-setup/): Configure a CDN resource, origin, caching, and delivery behavior.
+- [DNS Configuration](https://www.cdn77.com/docs/dns-configuration/): Point domains to CDN77 using recommended DNS records and hostname setup.
+- [Cache Settings](https://www.cdn77.com/docs/cache-settings/): Control TTLs, cache keys, and content caching behavior at the edge.
+- [Origin Shield](https://www.cdn77.com/docs/origin-shield/): Reduce origin load by routing requests through shield locations.
+- [HTTP Headers](https://www.cdn77.com/docs/http-headers/): Configure request and response header behavior for CDN delivery.
+- [Purge Content](https://www.cdn77.com/docs/content-purge/): Invalidate cached files and directories across the CDN network.
+
+## Security
+- [DDoS Protection](https://www.cdn77.com/ddos-protection/): Overview of network-layer and application-layer attack mitigation capabilities.
+- [Web Application Firewall](https://www.cdn77.com/web-application-firewall/): Edge WAF product information for filtering malicious web traffic.
+- [Secure Token](https://www.cdn77.com/docs/secure-token/): Protect content with signed URLs and token-based access control.
+- [Geo Blocking](https://www.cdn77.com/docs/geo-blocking/): Restrict access by country or region using edge rules.
+- [Hotlink Protection](https://www.cdn77.com/docs/hotlink-protection/): Prevent unauthorized embedding and direct linking of protected assets.
+- [IP Access Rules](https://www.cdn77.com/docs/ip-access-rules/): Allow or block traffic using IP-based access control policies.
+
+## Streaming and Video
+- [Video CDN](https://www.cdn77.com/video-cdn/): Product overview for video delivery, acceleration, and media distribution.
+- [Live Streaming](https://www.cdn77.com/live-streaming/): Live video delivery platform for scalable event and channel streaming.
+- [Video on Demand](https://www.cdn77.com/video-on-demand/): On-demand media delivery and playback optimization capabilities.
+- [HLS Streaming](https://www.cdn77.com/live-streaming/hls-cdn/): HLS delivery support for live and adaptive bitrate streaming workflows.
+- [MPEG-DASH Streaming](https://www.cdn77.com/live-streaming/mpeg-dash-cdn/): MPEG-DASH delivery for adaptive streaming across supported players.
+- [Video Delivery Documentation](https://www.cdn77.com/docs/video-delivery/): Technical guidance for configuring media delivery and playback.
+
+## API and Automation
+- [API Documentation](https://www.cdn77.com/api/): Reference for managing CDN77 resources programmatically through the public API.
+- [API Authentication](https://www.cdn77.com/api/#authentication): Authentication requirements and request signing details for API access.
+- [CDN Resources API](https://www.cdn77.com/api/#cdn-resources): Endpoints for creating and managing CDN resources and settings.
+- [Cache Purge API](https://www.cdn77.com/api/#purge): API operations for invalidating cached content across edge locations.
+- [Reports API](https://www.cdn77.com/api/#reports): Retrieve analytics, traffic, and usage data through reporting endpoints.
+- [SSL API](https://www.cdn77.com/api/#ssl): Manage certificates and HTTPS-related configuration through API methods.
+
+## SSL and HTTPS
+- [SSL/TLS Certificates](https://www.cdn77.com/docs/ssl-tls-certificates/): Configure HTTPS delivery using shared or custom SSL certificates.
+- [Let's Encrypt SSL](https://www.cdn77.com/docs/lets-encrypt-ssl/): Enable automated certificate issuance and renewal for supported hostnames.
+- [Custom SSL](https://www.cdn77.com/docs/custom-ssl-certificate/): Upload and manage your own TLS certificate for edge delivery.
+- [HTTPS Redirects](https://www.cdn77.com/docs/https-redirection/): Force secure connections with redirect rules and HTTPS enforcement.
+- [TLS Settings](https://www.cdn77.com/docs/tls-settings/): Adjust protocol and cipher behavior for secure client connections.
+
+## Integrations and Platforms
+- [WordPress CDN Integration](https://www.cdn77.com/docs/wordpress-cdn-integration/): Connect CDN77 with WordPress for static asset acceleration.
+- [Magento CDN Integration](https://www.cdn77.com/docs/magento-cdn-integration/): Configure CDN delivery for Magento storefront assets and media.
+- [Joomla CDN Integration](https://www.cdn77.com/docs/joomla-cdn-integration/): Set up Joomla to serve content through CDN77 edge locations.
+- [Drupal CDN Integration](https://www.cdn77.com/docs/drupal-cdn-integration/): Integrate Drupal with CDN77 for improved asset delivery performance.
+- [PrestaShop CDN Integration](https://www.cdn77.com/docs/prestashop-cdn-integration/): Use CDN77 with PrestaShop for faster ecommerce asset distribution.
+- [WHMCS Integration](https://www.cdn77.com/docs/whmcs-integration/): Connect billing and provisioning workflows with WHMCS support.
+
+## Analytics and Reporting
+- [Analytics Overview](https://www.cdn77.com/docs/analytics/): Monitor traffic, bandwidth, cache hit ratio, and request performance metrics.
+- [Real-Time Statistics](https://www.cdn77.com/docs/real-time-statistics/): View near real-time delivery and usage data across CDN resources.
+- [Log Delivery](https://www.cdn77.com/docs/log-delivery/): Export request logs for analysis, auditing, and troubleshooting workflows.
+- [Traffic Reports](https://www.cdn77.com/docs/traffic-reports/): Access historical usage reports for bandwidth and request trends.
+- [Cache Hit Ratio](https://www.cdn77.com/docs/cache-hit-ratio/): Understand and optimize cache efficiency across edge locations.
+
+## Network and Infrastructure
+- [Global CDN Network](https://www.cdn77.com/network/): Overview of CDN77 edge locations, backbone, and global infrastructure footprint.
+- [Data Centers](https://www.cdn77.com/network/data-centers/): Information about points of presence and regional network presence.
+- [Private Network](https://www.cdn77.com/private-network/): Private backbone offering for secure and optimized traffic transport.
+- [Multi-CDN](https://www.cdn77.com/multi-cdn/): Traffic steering and redundancy capabilities across multiple CDN providers.
+- [Anycast Network](https://www.cdn77.com/network/anycast/): Anycast-based routing concepts used for resilient edge traffic delivery.
+
+## Company and Updates
+- [Blog](https://www.cdn77.com/blog/): Product updates, technical articles, and company announcements.
+- [Case Studies](https://www.cdn77.com/case-studies/): Customer stories describing CDN77 deployments and performance outcomes.
+- [Pricing](https://www.cdn77.com/pricing/): Service pricing information for CDN, security, and streaming products.
+- [Contact](https://www.cdn77.com/contact/): Sales and general contact information for CDN77 teams.
+- [About](https://www.cdn77.com/about/): Company background and overview of CDN77’s business and platform.

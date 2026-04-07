@@ -1,0 +1,48 @@
+# goo.gl
+> Google URL Shortener was a Google service for creating shortened links and viewing basic click analytics.
+
+The service has been discontinued for new and existing short links, and its remaining public documentation is limited. Most relevant context now lives in Google support, developer, and migration-related pages.
+
+## Product Overview
+- [Google URL Shortener announcement](https://developers.googleblog.com/2018/03/transitioning-google-url-shortener.html): Official announcement describing the shutdown timeline and Firebase Dynamic Links migration path.
+- [Google URL Shortener support](https://support.google.com/faqs/answer/190768): Help Center article explaining the deprecation and discontinuation of goo.gl.
+- [Google Developers Blog](https://developers.googleblog.com/): Google’s developer blog, including historical posts about product transitions and platform changes.
+- [Google for Developers](https://developers.google.com/): Main developer portal for Google products, APIs, tools, and platform documentation.
+
+## Shutdown and Migration
+- [Transitioning Google URL Shortener](https://developers.googleblog.com/2018/03/transitioning-google-url-shortener.html): Details shutdown milestones, existing link behavior, and recommended migration to Firebase Dynamic Links.
+- [Firebase Dynamic Links](https://firebase.google.com/products/dynamic-links): Replacement product previously recommended for deep links and app-aware link routing.
+- [Dynamic Links documentation](https://firebase.google.com/docs/dynamic-links): Guides and reference for creating and handling Firebase Dynamic Links.
+- [Dynamic Links REST API](https://firebase.google.com/docs/reference/dynamic-links/link-shortener): API reference for programmatically creating short dynamic links.
+- [Firebase console](https://console.firebase.google.com/): Management console for Firebase projects and Dynamic Links configuration.
+
+## Help Center
+- [Google URL Shortener FAQ](https://support.google.com/faqs/answer/190768): Primary support article covering the service shutdown and expected behavior.
+- [Google Account Help](https://support.google.com/accounts/): Support resources for account access issues that may affect historical Google services.
+- [Google Help](https://support.google.com/): Central support hub for Google products and service-specific help articles.
+
+## Firebase Alternatives
+- [Firebase documentation](https://firebase.google.com/docs): Central documentation hub for Firebase products and developer guides.
+- [Dynamic Links create links manually](https://firebase.google.com/docs/dynamic-links/create-manually): Guide to constructing Dynamic Links with parameters and platform behavior.
+- [Receive Dynamic Links on Android](https://firebase.google.com/docs/dynamic-links/android/receive): Android integration guide for handling incoming dynamic links in apps.
+- [Receive Dynamic Links on iOS](https://firebase.google.com/docs/dynamic-links/ios/receive): iOS integration guide for receiving and processing dynamic links.
+- [Receive Dynamic Links on Flutter](https://firebase.google.com/docs/dynamic-links/flutter/receive): Flutter guide for app setup and incoming dynamic link handling.
+- [Analytics with Dynamic Links](https://firebase.google.com/docs/dynamic-links/analytics): Documentation for measuring Dynamic Links performance and attribution.
+
+## Developer Resources
+- [Google APIs Explorer](https://developers.google.com/apis-explorer): Interactive tool for exploring supported Google APIs and request formats.
+- [Google API Console](https://console.cloud.google.com/apis/dashboard): Cloud console for managing APIs, credentials, and project configuration.
+- [Google Identity](https://developers.google.com/identity): Authentication and authorization documentation for Google developer integrations.
+- [Google Terms of Service](https://policies.google.com/terms): Terms governing use of Google services and websites.
+- [Google Privacy Policy](https://policies.google.com/privacy): Privacy information relevant to Google-hosted products and services.
+
+## Historical Context
+- [Google URL Shortener discontinued](https://support.google.com/faqs/answer/190768): Historical support notice documenting the end of goo.gl operations.
+- [Transitioning Google URL Shortener](https://developers.googleblog.com/2018/03/transitioning-google-url-shortener.html): Historical blog post marking the product’s retirement and migration recommendation.
+- [Firebase Dynamic Links product page](https://firebase.google.com/products/dynamic-links): Product page for the successor service Google recommended after goo.gl.
+
+## Related Google Platforms
+- [Firebase](https://firebase.google.com/): Google’s app development platform with hosting, analytics, and linking capabilities.
+- [Google Cloud](https://cloud.google.com/): Cloud platform for backend services, APIs, and infrastructure used by developers.
+- [Android Developers](https://developer.android.com/): Android platform documentation relevant to app link and deep link implementation.
+- [Apple Universal Links overview](https://developer.apple.com/ios/universal-links/): Apple documentation relevant to deep-link behavior on iOS platforms.

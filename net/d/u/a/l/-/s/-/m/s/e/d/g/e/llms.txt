@@ -1,0 +1,67 @@
+# dual-s-msedge.net
+> Microsoft Edge dual-screen and foldable web development documentation, samples, and guidance for building adaptive experiences.
+
+This site focuses on web platform patterns, APIs, and design guidance for dual-screen and foldable devices, especially Microsoft Surface Duo and Microsoft Edge scenarios. It includes developer docs, API references, samples, and blog content relevant to spanning, viewport segments, and adaptive layouts.
+
+## Documentation
+- [Documentation home](https://dual-s-msedge.net/): Main entry point for dual-screen and foldable web development resources.
+- [Getting started](https://dual-s-msedge.net/getting-started): Introductory guidance for building web experiences for dual-screen devices.
+- [Design and development guidance](https://dual-s-msedge.net/docs): Central documentation area covering concepts, patterns, and implementation details.
+- [Browser support](https://dual-s-msedge.net/docs/browser-support): Compatibility guidance for dual-screen and foldable web features across browsers.
+- [Developer tools](https://dual-s-msedge.net/docs/devtools): Guidance for testing and debugging dual-screen layouts and behaviors.
+
+## CSS and Layout APIs
+- [CSS Spanning](https://dual-s-msedge.net/docs/css-spanning): Reference and usage guidance for the CSS spanning media feature.
+- [Viewport segments](https://dual-s-msedge.net/docs/viewport-segments): Documentation for environment variables and segmented viewport layout techniques.
+- [Media queries](https://dual-s-msedge.net/docs/media-queries): Guidance for detecting posture and adapting layouts with media queries.
+- [Fold and hinge considerations](https://dual-s-msedge.net/docs/fold-and-hinge): Layout strategies for handling folds, hinges, and occluded regions.
+- [Responsive patterns](https://dual-s-msedge.net/docs/responsive-patterns): Adaptive layout approaches for single-screen, spanned, and rotated states.
+
+## JavaScript and Web APIs
+- [Window Segments API](https://dual-s-msedge.net/docs/window-segments-api): JavaScript API guidance for reading segmented viewport geometry.
+- [Device posture](https://dual-s-msedge.net/docs/device-posture): Documentation for posture-aware experiences on foldable devices.
+- [Screen details](https://dual-s-msedge.net/docs/screen-details): Information about screen geometry and multi-screen presentation models.
+- [Feature detection](https://dual-s-msedge.net/docs/feature-detection): Techniques for safely detecting dual-screen and foldable capabilities.
+- [Progressive enhancement](https://dual-s-msedge.net/docs/progressive-enhancement): Best practices for layering foldable support onto standard responsive sites.
+
+## Guides and Tutorials
+- [Build your first dual-screen web app](https://dual-s-msedge.net/guides/first-app): Step-by-step tutorial for creating an adaptive dual-screen experience.
+- [Adapting existing sites](https://dual-s-msedge.net/guides/adapt-existing-site): Practical guidance for retrofitting responsive sites for foldables.
+- [Handling spanning changes](https://dual-s-msedge.net/guides/handling-spanning-changes): Techniques for responding to span and posture transitions.
+- [Testing on emulators and devices](https://dual-s-msedge.net/guides/testing): Instructions for validating layouts on emulators and physical hardware.
+- [Accessibility guidance](https://dual-s-msedge.net/guides/accessibility): Recommendations for accessible experiences across segmented displays.
+
+## Samples
+- [Samples home](https://dual-s-msedge.net/samples): Collection of example projects demonstrating dual-screen web techniques.
+- [Two-pane layout sample](https://dual-s-msedge.net/samples/two-pane-layout): Example showing content distributed across two screens.
+- [Spanning sample](https://dual-s-msedge.net/samples/spanning): Demonstrates CSS spanning behaviors and adaptive layout changes.
+- [Viewport segments sample](https://dual-s-msedge.net/samples/viewport-segments): Example using viewport segment environment variables in CSS.
+- [Posture-aware sample](https://dual-s-msedge.net/samples/posture-aware): Demonstrates adapting UI to foldable posture changes.
+
+## API Reference
+- [API reference home](https://dual-s-msedge.net/api): Index of web APIs and platform features relevant to dual-screen development.
+- [CSS environment variables](https://dual-s-msedge.net/api/css-env): Reference for viewport segment-related CSS environment variables.
+- [Window Segments API reference](https://dual-s-msedge.net/api/window-segments): Detailed API surface for segmented viewport access.
+- [Device Posture API reference](https://dual-s-msedge.net/api/device-posture): Reference for posture detection interfaces and events.
+- [Compatibility tables](https://dual-s-msedge.net/api/compatibility): Support matrix for APIs and CSS features discussed on the site.
+
+## Design Guidance
+- [Design principles](https://dual-s-msedge.net/design/principles): Core UX principles for dual-screen and foldable web experiences.
+- [Navigation patterns](https://dual-s-msedge.net/design/navigation): Recommendations for navigation across one or two screens.
+- [Content placement](https://dual-s-msedge.net/design/content-placement): Guidance for positioning content around folds and hinges.
+- [Avoiding hinge occlusion](https://dual-s-msedge.net/design/hinge-occlusion): Design strategies to prevent important content from being obscured.
+- [Adaptive interaction patterns](https://dual-s-msedge.net/design/interaction-patterns): Interaction guidance for posture, orientation, and spanning changes.
+
+## Blog and Updates
+- [Blog home](https://dual-s-msedge.net/blog): Articles and announcements related to dual-screen web development.
+- [Introducing dual-screen web development](https://dual-s-msedge.net/blog/introducing-dual-screen-web-development): Overview of the platform vision and developer opportunities.
+- [What’s new in viewport segments](https://dual-s-msedge.net/blog/viewport-segments-updates): Updates and implementation notes for segmented viewport features.
+- [Best practices for foldable web UX](https://dual-s-msedge.net/blog/foldable-web-ux-best-practices): Practical design and implementation recommendations.
+- [Testing foldable experiences](https://dual-s-msedge.net/blog/testing-foldable-experiences): Tips for validating adaptive layouts and behaviors.
+
+## Resources
+- [FAQ](https://dual-s-msedge.net/faq): Answers to common questions about dual-screen and foldable web development.
+- [Glossary](https://dual-s-msedge.net/glossary): Definitions for platform terms, APIs, and layout concepts.
+- [Troubleshooting](https://dual-s-msedge.net/troubleshooting): Common issues and fixes for spanning and segmented viewport implementations.
+- [Community resources](https://dual-s-msedge.net/resources/community): External links and community materials for continued learning.
+- [Release notes](https://dual-s-msedge.net/resources/release-notes): Changelog of documentation, samples, and platform-related updates.

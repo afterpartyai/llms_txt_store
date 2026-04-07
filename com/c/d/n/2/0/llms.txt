@@ -1,0 +1,72 @@
+# CDN20
+> CDN20 provides CDN, cloud security, and edge delivery services for websites, applications, and media.
+
+CDN20 offers content delivery, DDoS protection, WAF, DNS, SSL, and media acceleration services, with documentation and product information for configuring and operating its platform.
+
+## Main
+- [Home](https://www.cdn20.com/): Overview of CDN20’s edge delivery, security, and acceleration platform.
+- [Products](https://www.cdn20.com/products/): Entry point for CDN20 product categories and service capabilities.
+- [Solutions](https://www.cdn20.com/solutions/): Use-case and industry-focused solution overviews for CDN20 services.
+- [Pricing](https://www.cdn20.com/pricing/): Commercial plans and service pricing information.
+- [Contact](https://www.cdn20.com/contact-us/): Contact page for sales, support, and general inquiries.
+- [About](https://www.cdn20.com/about-us/): Company background and organizational information.
+
+## Products
+- [CDN](https://www.cdn20.com/products/cdn/): Content delivery network service for accelerating static and dynamic web content.
+- [Cloud Security](https://www.cdn20.com/products/cloud-security/): Security services for protecting applications and infrastructure at the edge.
+- [DDoS Protection](https://www.cdn20.com/products/ddos-protection/): Network and application-layer DDoS mitigation capabilities.
+- [Web Application Firewall](https://www.cdn20.com/products/web-application-firewall/): WAF features for filtering malicious HTTP and HTTPS traffic.
+- [DNS](https://www.cdn20.com/products/dns/): Managed DNS service for resilient and performant domain resolution.
+- [Media Delivery](https://www.cdn20.com/products/media-delivery/): Video and media acceleration services for streaming and large asset delivery.
+
+## Solutions
+- [Website Acceleration](https://www.cdn20.com/solutions/website-acceleration/): Improve page load performance and global content delivery.
+- [Application Security](https://www.cdn20.com/solutions/application-security/): Protect web applications from attacks and abusive traffic.
+- [Video Streaming](https://www.cdn20.com/solutions/video-streaming/): Optimize live and on-demand media delivery workflows.
+- [Gaming](https://www.cdn20.com/solutions/gaming/): Low-latency delivery and protection for gaming platforms.
+- [E-commerce](https://www.cdn20.com/solutions/e-commerce/): Performance and security solutions for online storefronts.
+- [Enterprise](https://www.cdn20.com/solutions/enterprise/): Scalable edge and security services for enterprise deployments.
+
+## Documentation
+- [Documentation Home](https://docs.cdn20.com/): Central documentation portal for setup, configuration, and platform usage.
+- [Getting Started](https://docs.cdn20.com/getting-started/): Introductory setup guidance for onboarding domains and services.
+- [CDN Documentation](https://docs.cdn20.com/cdn/): Product documentation for CDN configuration and delivery behavior.
+- [Security Documentation](https://docs.cdn20.com/security/): Guides for security features, policies, and protections.
+- [DNS Documentation](https://docs.cdn20.com/dns/): Managed DNS setup and operational documentation.
+- [SSL Documentation](https://docs.cdn20.com/ssl/): Certificate provisioning and HTTPS configuration guidance.
+
+## API & Developer
+- [API Documentation](https://docs.cdn20.com/api/): Reference material for automating CDN20 platform operations.
+- [API Authentication](https://docs.cdn20.com/api/authentication/): Authentication methods and credential usage for API access.
+- [API Endpoints](https://docs.cdn20.com/api/endpoints/): Available API resources and endpoint organization.
+- [Purge Cache API](https://docs.cdn20.com/api/purge-cache/): Programmatic cache invalidation and purge request details.
+- [DNS API](https://docs.cdn20.com/api/dns/): API operations for managing DNS zones and records.
+- [Security API](https://docs.cdn20.com/api/security/): API support for security configuration and policy management.
+
+## Guides
+- [Create a Pull Zone](https://docs.cdn20.com/guides/create-a-pull-zone/): Steps for creating and configuring a pull-based CDN zone.
+- [Configure Custom SSL](https://docs.cdn20.com/guides/configure-custom-ssl/): Instructions for uploading and enabling custom certificates.
+- [Set Up DNS](https://docs.cdn20.com/guides/set-up-dns/): Guide to configuring domains and DNS records with CDN20.
+- [Enable WAF](https://docs.cdn20.com/guides/enable-waf/): How to activate and tune web application firewall protections.
+- [Cache Configuration](https://docs.cdn20.com/guides/cache-configuration/): Configure caching rules, TTLs, and content behavior.
+- [Origin Configuration](https://docs.cdn20.com/guides/origin-configuration/): Define origin servers and delivery settings for edge traffic.
+
+## Support
+- [Support Center](https://support.cdn20.com/): Customer support portal for help resources and issue resolution.
+- [Knowledge Base](https://support.cdn20.com/knowledgebase): Searchable help articles for common tasks and troubleshooting.
+- [Submit a Ticket](https://support.cdn20.com/tickets/new): Create a support request for technical or account issues.
+- [Service Status](https://status.cdn20.com/): Platform availability and incident reporting for CDN20 services.
+- [FAQ](https://www.cdn20.com/faq/): Frequently asked questions about products, billing, and operations.
+
+## Resources
+- [Blog](https://www.cdn20.com/blog/): Articles, announcements, and educational content about CDN and security topics.
+- [Case Studies](https://www.cdn20.com/case-studies/): Customer stories and deployment examples using CDN20 services.
+- [Whitepapers](https://www.cdn20.com/whitepapers/): Downloadable technical and business resource documents.
+- [Webinars](https://www.cdn20.com/webinars/): Recorded and upcoming sessions covering product and industry topics.
+- [Glossary](https://www.cdn20.com/glossary/): Definitions for CDN, security, and networking terminology.
+
+## Account
+- [Login](https://my.cdn20.com/): Customer account portal for managing CDN20 services.
+- [Sign Up](https://my.cdn20.com/signup): Account registration for new CDN20 customers.
+- [Dashboard](https://my.cdn20.com/dashboard): Main control panel for service administration and monitoring.
+- [Billing](https://my.cdn20.com/billing): Account billing and subscription management area.

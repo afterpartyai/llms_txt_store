@@ -1,0 +1,65 @@
+# gvt1.com
+> Google-hosted distribution domain serving software updates, binaries, static assets, and support files for Google products and services.
+
+This domain is primarily an infrastructure and delivery host rather than a conventional documentation site. It commonly serves update payloads, package repositories, browser components, mobile service assets, and other machine-consumable files used by Google software.
+
+## Domain Overview
+- [gvt1.com root](https://gvt1.com/): Primary domain endpoint for Google-hosted distribution and asset delivery.
+- [www.gvt1.com](https://www.gvt1.com/): Web-accessible host variant for the gvt1.com distribution domain.
+- [dl.google.com](https://dl.google.com/): Closely related Google download host used for software installers and packages.
+- [redirector.gvt1.com](https://redirector.gvt1.com/): Redirect and delivery endpoint used by Google clients for hosted assets.
+
+## Chrome and Chromium Distribution
+- [Chrome for Testing](https://googlechromelabs.github.io/chrome-for-testing/): Official index for downloadable Chrome testing binaries and version metadata.
+- [Chrome for Testing availability JSON](https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json): Machine-readable list of known-good Chrome versions and download URLs.
+- [Chrome Enterprise downloads](https://chromeenterprise.google/browser/download/): Official Chrome browser download page for enterprise-managed deployments.
+- [Chrome releases blog](https://chromereleases.googleblog.com/): Release announcements and channel updates for Chrome and Chromium-based products.
+- [Chromium project](https://www.chromium.org/): Project documentation and resources for the open-source Chromium browser.
+- [Omaha update protocol](https://chromium.googlesource.com/chromium/src/+/main/docs/updater/protocol_3_1.md): Documentation for Google’s Omaha software update protocol.
+
+## Android and Mobile Delivery
+- [Android developers](https://developer.android.com/): Official Android platform documentation, SDK guidance, and developer tools.
+- [Android Studio downloads](https://developer.android.com/studio): Official Android Studio IDE download and installation page.
+- [Android SDK command-line tools](https://developer.android.com/tools): Documentation for Android SDK tools and package management.
+- [Google Play services overview](https://developers.google.com/android/guides/overview): Overview of Google Play services APIs and client integration.
+- [Android OTA and update docs](https://source.android.com/docs/core/ota): Android Open Source Project documentation for over-the-air updates.
+- [Android system updates](https://source.android.com/docs/core/ota/ab): A/B system update architecture used by Android devices.
+
+## Package Repositories and Installers
+- [Google Linux repositories](https://www.google.com/linuxrepositories/): Instructions for configuring official Google package repositories on Linux.
+- [Google Chrome Linux install](https://www.google.com/chrome/linux/): Official installation guidance for Google Chrome on Linux systems.
+- [Google Earth Pro download](https://www.google.com/earth/versions/): Download options for Google Earth desktop applications.
+- [Google Drive desktop download](https://www.google.com/drive/download/): Official installer page for Google Drive desktop clients.
+- [Google updater support](https://support.google.com/chrome/answer/95414): Support information related to installing and updating Google Chrome.
+- [Google software terms](https://www.google.com/intl/en/policies/terms/): Terms commonly associated with Google-distributed software downloads.
+
+## APIs and Developer Resources
+- [Google Developers](https://developers.google.com/): Central hub for Google developer products, APIs, and technical documentation.
+- [Google APIs Explorer](https://developers.google.com/apis-explorer): Interactive tool for exploring and testing Google APIs.
+- [Google Cloud documentation](https://cloud.google.com/docs): Product documentation for Google Cloud services and APIs.
+- [Firebase documentation](https://firebase.google.com/docs): Developer documentation for Firebase SDKs, services, and client integrations.
+- [Web.dev](https://web.dev/): Guidance for modern web development, performance, and progressive web apps.
+- [Google Open Source](https://opensource.google/): Google open-source projects, policies, and community resources.
+
+## Security and Verification
+- [Google security blog](https://security.googleblog.com/): Official Google security announcements, research, and incident-related updates.
+- [Safe Browsing transparency report](https://transparencyreport.google.com/safe-browsing/search): Google transparency data for Safe Browsing and site status checks.
+- [VirusTotal](https://www.virustotal.com/): File and URL analysis service often used to inspect distributed binaries.
+- [Google signing and verification help](https://support.google.com/chrome/a/answer/9025903): Guidance relevant to verifying Chrome packages in managed environments.
+- [Chrome browser security whitepaper](https://www.google.com/chrome/privacy/whitepaper.html): Security and privacy architecture information for Chrome browser deployments.
+
+## Support and Policy
+- [Google Help](https://support.google.com/): Central support portal for Google consumer and enterprise products.
+- [Chrome Help Center](https://support.google.com/chrome/): End-user support for Chrome installation, updates, and troubleshooting.
+- [Google Play Help](https://support.google.com/googleplay/): Support resources for Google Play apps, downloads, and device issues.
+- [Google Workspace Admin Help](https://support.google.com/a/): Administrative support for managed Google deployments.
+- [Google Privacy Policy](https://policies.google.com/privacy): Privacy policy governing Google services and distributed software.
+- [Google Terms of Service](https://policies.google.com/terms): Terms of service applicable across Google products and services.
+
+## Related Google Infrastructure
+- [google.com](https://www.google.com/): Main Google web property and entry point to product ecosystems.
+- [googleapis.com](https://www.googleapis.com/): API service domain used by Google client applications and developer integrations.
+- [gstatic.com](https://www.gstatic.com/): Static asset delivery domain used across Google web properties.
+- [withgoogle.com](https://withgoogle.com/): Google-hosted informational and campaign content domain.
+- [youtube.com](https://www.youtube.com/): Major Google-owned platform whose clients may consume Google-hosted assets.
+- [firebase.google.com](https://firebase.google.com/): Firebase platform site for SDK distribution, docs, and release resources.

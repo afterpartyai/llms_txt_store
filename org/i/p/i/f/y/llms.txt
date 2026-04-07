@@ -1,0 +1,50 @@
+# ipify
+> A simple public IP address API that returns a client’s public IPv4 or IPv6 address in plain text, JSON, or JSONP.
+
+ipify provides a fast, unauthenticated API for discovering the caller’s public IP address, with separate endpoints for IPv4, IPv6, and dual-stack usage. The site also links to the companion IP Geolocation API for location data based on IP addresses.
+
+## Main Documentation
+- [ipify API Homepage](https://www.ipify.org/): Overview of the public IP API, usage formats, and language examples.
+- [API Usage](https://www.ipify.org/): Documents plain text, JSON, and JSONP response formats for all endpoints.
+- [Code Samples](https://www.ipify.org/): Shows ready-to-run examples for Bash, NGS, Python, and Ruby.
+- [Why ipify?](https://www.ipify.org/): Summarizes reliability, simplicity, and unlimited usage benefits.
+
+## API Endpoints
+- [Universal IP Endpoint](https://api64.ipify.org): Returns the caller’s public IP address with IPv4 or IPv6 support.
+- [Universal IP Endpoint with JSON](https://api64.ipify.org?format=json): Returns the caller’s public IP address as a JSON object.
+- [Universal IP Endpoint with JSONP](https://api64.ipify.org?format=jsonp&callback=getip): Returns the caller’s public IP address as JSONP.
+- [IPv4 Endpoint](https://api.ipify.org): Returns the caller’s public IPv4 address in plain text.
+- [IPv4 Endpoint with JSON](https://api.ipify.org?format=json): Returns the caller’s public IPv4 address as JSON.
+- [IPv4 Endpoint with JSONP](https://api.ipify.org?format=jsonp&callback=getip): Returns the caller’s public IPv4 address as JSONP.
+- [IPv6 Endpoint](https://api6.ipify.org): Returns the caller’s public IPv6 address in plain text.
+- [IPv6 Endpoint with JSON](https://api6.ipify.org?format=json): Returns the caller’s public IPv6 address as JSON.
+
+## Response Formats
+- [Plain Text Response](https://api.ipify.org): Returns only the IP address as a raw text response.
+- [JSON Response](https://api.ipify.org?format=json): Returns an object containing the `ip` field.
+- [JSONP Response](https://api.ipify.org?format=jsonp&callback=getip): Wraps the IP response in a callback function.
+- [Universal JSON Response](https://api64.ipify.org?format=json): Returns IPv4 or IPv6 in JSON depending on client connectivity.
+
+## IP Version Options
+- [IPv4 API](https://www.ipify.org/): Describes the endpoint dedicated to IPv4-only address retrieval.
+- [IPv6 API](https://www.ipify.org/): Describes the endpoint dedicated to IPv6-only address retrieval.
+- [Universal IPv4/IPv6 API](https://www.ipify.org/): Describes the dual-stack endpoint for mixed network environments.
+- [IPv4 Plain Endpoint](https://api.ipify.org): Best for clients that specifically require IPv4 output.
+- [IPv6 Plain Endpoint](https://api6.ipify.org): Best for clients operating on IPv6-capable networks.
+- [Dual-Stack Plain Endpoint](https://api64.ipify.org): Best for clients that should accept either IP version.
+
+## Language Examples
+- [Bash Example](https://www.ipify.org/): Demonstrates fetching the public IP from a shell with curl.
+- [NGS Example](https://www.ipify.org/): Demonstrates retrieving the public IP using Next Generation Shell.
+- [Python Example](https://www.ipify.org/): Demonstrates requesting the API from Python code.
+- [Ruby Example](https://www.ipify.org/): Demonstrates requesting the API from Ruby code.
+
+## Related Services
+- [IP Geolocation API](https://geo.ipify.org/): Companion API for geolocation, ISP, and network details by IP address.
+- [IPify Geolocation Product Reference](https://geo.ipify.org/): Entry point for location-based lookups related to IP addresses.
+
+## Integration Notes
+- [No Authentication Required](https://www.ipify.org/): The API can be called directly without API keys or account setup.
+- [Unlimited Usage](https://www.ipify.org/): Intended for unrestricted public IP lookup usage.
+- [High Availability Overview](https://www.ipify.org/): Notes the service is designed to remain available even under heavy load.
+- [Simple HTTPS Access](https://www.ipify.org/): All examples use straightforward HTTPS GET requests.

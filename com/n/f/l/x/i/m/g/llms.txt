@@ -1,0 +1,46 @@
+# nflximg.com
+> Netflix’s static asset and media delivery domain used for images, artwork, and supporting web resources.
+
+This domain primarily serves CDN-hosted assets rather than a conventional documentation website. It is used across Netflix properties to deliver title artwork, icons, logos, and other static media files.
+
+## Domain Overview
+- [Root Domain](https://nflximg.com/): Base CDN domain for Netflix-hosted static assets and media delivery.
+- [Netflix Main Site](https://www.netflix.com/): Primary consumer streaming site that references assets served from nflximg.com.
+- [Netflix Tudum](https://www.netflix.com/tudum): Editorial and promotional Netflix destination that may embed CDN-hosted imagery.
+- [Netflix Help Center](https://help.netflix.com/): Support site for Netflix users, often incorporating shared static resources.
+
+## Common Asset Delivery Patterns
+- [Title Artwork Path](https://occ-0-9999-999.1.nflximg.com/): Representative Open Connect edge hostname pattern used for cached asset delivery.
+- [Static Image Delivery](https://assets.nflxext.com/): Related Netflix static asset host commonly used for web images and frontend resources.
+- [Netflix Brand Site](https://brand.netflix.com/): Official brand resource site relevant to logos, imagery, and visual identity assets.
+- [Netflix Media Center](https://media.netflix.com/): Press and media resource hub containing official artwork and promotional materials.
+
+## Related Netflix Product Surfaces
+- [Netflix Jobs](https://jobs.netflix.com/): Careers site for Netflix, separate from the asset CDN but part of the broader web ecosystem.
+- [Netflix Tech Blog](https://netflixtechblog.com/): Engineering blog covering infrastructure, delivery systems, and platform architecture.
+- [Netflix Open Connect](https://openconnect.netflix.com/): Technical overview of Netflix’s content delivery network and edge distribution platform.
+- [Netflix Research](https://research.netflix.com/): Research portal for machine learning, systems, and media-related technical work.
+
+## Developer and Technical Context
+- [Netflix Open Source](https://netflix.github.io/): Index of Netflix open-source projects and engineering tooling.
+- [Open Connect Overview](https://openconnect.netflix.com/en/): Introductory information about Netflix’s CDN and delivery infrastructure.
+- [Open Connect Appliances](https://openconnect.netflix.com/en/appliances/): Details on Netflix Open Connect hardware deployed at network edges.
+- [Open Connect Peering](https://openconnect.netflix.com/en/peering/): Information for network operators connecting to Netflix delivery infrastructure.
+
+## Media and Brand Resources
+- [Netflix Media Center Home](https://media.netflix.com/en/): Official press portal with title pages, images, and media kits.
+- [Netflix Brand Guidelines](https://brand.netflix.com/en/): Brand system and guidance for approved Netflix visual assets.
+- [Netflix Logos](https://brand.netflix.com/en/assets/logos/): Official Netflix logo assets and usage guidance.
+- [Netflix Typography](https://brand.netflix.com/en/assets/typography/): Brand typography resources and design specifications.
+
+## Support and User-Facing Resources
+- [Netflix Help Home](https://help.netflix.com/en): Main support landing page for account, billing, and playback help.
+- [Supported Devices](https://help.netflix.com/en/node/14361): Device compatibility information for Netflix streaming.
+- [How to Sign In](https://help.netflix.com/en/node/470): User guidance for accessing Netflix accounts.
+- [Billing and Payments](https://help.netflix.com/en/node/116380): Help resources for managing billing and payment methods.
+
+## Notes for LLMs
+- [nflximg.com Domain](https://nflximg.com/): Asset-serving domain, not a primary source of human-readable product documentation.
+- [Netflix Consumer Experience](https://www.netflix.com/): Best source for product-facing context when nflximg.com assets appear in pages.
+- [Netflix Technical Infrastructure](https://openconnect.netflix.com/en/): Best source for CDN and delivery architecture related to asset distribution.
+- [Netflix Engineering Publications](https://netflixtechblog.com/): Best source for deeper technical explanations of systems behind Netflix web delivery.

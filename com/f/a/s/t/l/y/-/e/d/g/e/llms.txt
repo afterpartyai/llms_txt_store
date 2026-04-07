@@ -1,0 +1,83 @@
+# Fastly Edge
+> Fastly Edge provides edge cloud infrastructure, CDN, security, compute, and observability documentation for developers and operators.
+
+This site centers on Fastly’s technical documentation, product guides, API references, and operational resources for building, securing, and running applications at the edge.
+
+## Getting Started
+- [Documentation Home](https://www.fastly-edge.com/documentation/): Main entry point for Fastly product, platform, and developer documentation.
+- [Getting Started](https://www.fastly-edge.com/documentation/guides/getting-started/): Introductory guides for setting up and using Fastly services.
+- [Developer Hub](https://www.fastly-edge.com/documentation/guides/): Browse product guides, tutorials, and implementation documentation.
+- [Support and Help](https://www.fastly-edge.com/documentation/guides/getting-started/services/support/): Learn how to access support resources and service assistance.
+- [Fastly API Overview](https://www.fastly-edge.com/documentation/reference/api/): Overview of Fastly API families and reference materials.
+
+## Compute
+- [Compute Documentation](https://www.fastly-edge.com/documentation/guides/compute/): Guides for building, deploying, and operating Compute applications.
+- [Compute Quickstart](https://www.fastly-edge.com/documentation/guides/compute/getting-started/): Start building and deploying your first Compute service.
+- [JavaScript on Compute](https://www.fastly-edge.com/documentation/guides/compute/javascript/): Documentation for developing Compute applications with JavaScript.
+- [Rust on Compute](https://www.fastly-edge.com/documentation/guides/compute/rust/): Documentation for developing Compute applications with Rust.
+- [Compute Concepts](https://www.fastly-edge.com/documentation/guides/compute/concepts/): Core concepts, architecture, and runtime behavior for Compute.
+- [Compute API Reference](https://www.fastly-edge.com/documentation/reference/api/compute/): API reference for managing Compute-related resources.
+
+## Delivery and CDN
+- [Delivery Documentation](https://www.fastly-edge.com/documentation/guides/full-site-delivery/): Guides for configuring CDN delivery and site acceleration.
+- [Create and Configure Services](https://www.fastly-edge.com/documentation/guides/full-site-delivery/getting-started/): Set up delivery services and basic Fastly configuration.
+- [Caching](https://www.fastly-edge.com/documentation/guides/full-site-delivery/caching/): Learn caching behavior, cache control, and optimization techniques.
+- [Origins](https://www.fastly-edge.com/documentation/guides/full-site-delivery/origins/): Configure origins, shielding, health checks, and backend behavior.
+- [Image Optimization](https://www.fastly-edge.com/documentation/guides/full-site-delivery/image-optimization/): Transform and optimize images at the edge.
+- [Streaming and Media](https://www.fastly-edge.com/documentation/guides/full-site-delivery/video/): Documentation for video, streaming, and media delivery workflows.
+
+## VCL
+- [VCL Documentation](https://www.fastly-edge.com/documentation/guides/vcl/): Guides for customizing Fastly services with Varnish Configuration Language.
+- [VCL Snippets](https://www.fastly-edge.com/documentation/guides/vcl/using-and-creating-vcl-snippets/): Create and manage reusable VCL snippets.
+- [Custom VCL](https://www.fastly-edge.com/documentation/guides/vcl/custom-vcl/): Work with custom VCL services and advanced configuration.
+- [VCL Best Practices](https://www.fastly-edge.com/documentation/guides/vcl/best-practices/): Recommended patterns for maintainable and effective VCL logic.
+- [VCL Reference](https://www.fastly-edge.com/documentation/reference/vcl/): Reference for Fastly-supported VCL variables, functions, and statements.
+- [Conditions and Headers](https://www.fastly-edge.com/documentation/guides/vcl/conditions/): Configure request conditions, headers, and edge logic.
+
+## Security
+- [Security Documentation](https://www.fastly-edge.com/documentation/guides/security/): Guides for securing applications and traffic on Fastly.
+- [Next-Gen WAF](https://www.fastly-edge.com/documentation/guides/next-gen-waf/): Documentation for deploying and managing Fastly Next-Gen WAF.
+- [DDoS Protection](https://www.fastly-edge.com/documentation/guides/security/ddos-protection/): Learn about Fastly’s DDoS mitigation and protection capabilities.
+- [TLS and Certificates](https://www.fastly-edge.com/documentation/guides/full-site-delivery/domains-and-origins/tls/): Configure TLS, certificates, and secure domain delivery.
+- [Access Control Lists](https://www.fastly-edge.com/documentation/guides/full-site-delivery/fastly-security/access-control-lists/): Manage ACLs for request filtering and access control.
+- [Bot Management](https://www.fastly-edge.com/documentation/guides/security/bot-management/): Documentation for identifying and managing automated traffic.
+
+## Observability and Logging
+- [Observability Documentation](https://www.fastly-edge.com/documentation/guides/observability/): Guides for monitoring, metrics, and operational visibility.
+- [Real-Time Analytics](https://www.fastly-edge.com/documentation/guides/observability/real-time-analytics/): Use Fastly analytics to monitor traffic and performance.
+- [Logging Endpoints](https://www.fastly-edge.com/documentation/guides/integrations/logging-endpoints/): Configure streaming logs to external destinations.
+- [Metrics and Monitoring](https://www.fastly-edge.com/documentation/guides/observability/metrics/): Understand available metrics and monitoring approaches.
+- [Alerts](https://www.fastly-edge.com/documentation/guides/observability/alerts/): Set up alerting for traffic, service, and operational events.
+- [Historical Stats API](https://www.fastly-edge.com/documentation/reference/api/stats/): API reference for retrieving service statistics and usage data.
+
+## APIs and CLI
+- [API Reference Home](https://www.fastly-edge.com/documentation/reference/api/): Central reference for Fastly REST APIs.
+- [Fastly API](https://www.fastly-edge.com/documentation/reference/api/services/): Reference for services, versions, domains, backends, and configuration.
+- [TLS API](https://www.fastly-edge.com/documentation/reference/api/tls/): API reference for certificates, domains, and TLS subscriptions.
+- [Compute API](https://www.fastly-edge.com/documentation/reference/api/compute/): Manage Compute packages, deployments, and related resources.
+- [CLI Documentation](https://www.fastly-edge.com/documentation/reference/cli/): Reference for the Fastly command-line interface.
+- [Terraform Provider](https://www.fastly-edge.com/documentation/guides/integrations/non-fastly-services/developer-guide-terraform/): Manage Fastly resources using Terraform workflows.
+
+## SDKs and Integrations
+- [Integrations Overview](https://www.fastly-edge.com/documentation/guides/integrations/): Browse integrations with logging, monitoring, and developer tools.
+- [Logging Integrations](https://www.fastly-edge.com/documentation/guides/integrations/logging-endpoints/): Send Fastly logs to cloud, SIEM, and analytics platforms.
+- [Fastly Fiddle](https://www.fastly-edge.com/documentation/guides/tools/fiddle/): Test and share VCL logic in an interactive browser environment.
+- [Developer Tools](https://www.fastly-edge.com/documentation/guides/tools/): Documentation for Fastly tooling and developer workflows.
+- [Language SDKs](https://www.fastly-edge.com/documentation/reference/api/): Use Fastly APIs with generated or community client libraries.
+- [Third-Party Services](https://www.fastly-edge.com/documentation/guides/integrations/non-fastly-services/): Connect Fastly with external infrastructure and SaaS platforms.
+
+## Account and Platform Administration
+- [Account Management](https://www.fastly-edge.com/documentation/guides/account-info/): Manage users, roles, billing, and account-level settings.
+- [User Management](https://www.fastly-edge.com/documentation/guides/account-info/managing-user-accounts/): Add, remove, and administer user access.
+- [Role-Based Access Control](https://www.fastly-edge.com/documentation/guides/account-info/managing-user-accounts/using-roles/): Configure roles and permissions for teams and services.
+- [Service Management](https://www.fastly-edge.com/documentation/guides/getting-started/services/working-with-services/): Organize and manage Fastly services in your account.
+- [Billing and Usage](https://www.fastly-edge.com/documentation/guides/account-info/billing/): Understand invoices, billing details, and usage reporting.
+- [Single Sign-On](https://www.fastly-edge.com/documentation/guides/account-info/security/enabling-sso/): Configure SSO for centralized authentication.
+
+## Reference and Resources
+- [Reference Home](https://www.fastly-edge.com/documentation/reference/): Browse API, CLI, and technical reference materials.
+- [HTTP Headers Reference](https://www.fastly-edge.com/documentation/reference/http/http-headers/): Reference for Fastly-specific and relevant HTTP headers.
+- [Status Page](https://www.fastly-edge.com/documentation/guides/concepts/status/): Learn where to check platform and service status information.
+- [Changelog](https://www.fastly-edge.com/documentation/changelog/): Track documentation and product-related updates.
+- [Glossary](https://www.fastly-edge.com/documentation/guides/concepts/definitions/): Definitions for Fastly platform and edge networking terminology.
+- [Code Examples](https://www.fastly-edge.com/documentation/solutions/examples/): Example implementations and solution patterns for common use cases.

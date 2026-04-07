@@ -1,0 +1,67 @@
+# Shall We Try
+> A software engineering blog focused on Java, Spring, databases, messaging, and practical backend development tutorials.
+
+Shall We Try publishes hands-on articles and reference-style tutorials covering Java concurrency, Spring Boot, MyBatis, Redis, Kafka, Elasticsearch, and related backend engineering topics.
+
+## Main
+- [Home](https://shalltry.com/): Main entry point for the blog and its latest technical articles.
+- [Archives](https://shalltry.com/archives/): Chronological archive of published posts across all technical topics.
+- [Categories](https://shalltry.com/categories/): Browse articles grouped by framework, language, and infrastructure topic.
+- [Tags](https://shalltry.com/tags/): Explore posts by detailed technical tags and implementation themes.
+- [About](https://shalltry.com/about/): Background information about the site and its technical writing focus.
+
+## Java
+- [Java](https://shalltry.com/categories/java/): Articles on core Java language features, collections, concurrency, and JVM behavior.
+- [JUC](https://shalltry.com/tags/juc/): Posts about java.util.concurrent utilities and multithreaded programming patterns.
+- [Thread](https://shalltry.com/tags/thread/): Tutorials covering threads, synchronization, and concurrent execution concepts.
+- [JVM](https://shalltry.com/tags/jvm/): Content about JVM internals, memory model, and runtime behavior.
+- [Lock](https://shalltry.com/tags/lock/): Guides to locking mechanisms, synchronization primitives, and contention handling.
+
+## Spring
+- [Spring](https://shalltry.com/categories/spring/): Tutorials on Spring ecosystem components and enterprise Java development.
+- [Spring Boot](https://shalltry.com/tags/spring-boot/): Practical guides for building and configuring Spring Boot applications.
+- [Spring MVC](https://shalltry.com/tags/spring-mvc/): Articles about web MVC architecture, controllers, and request handling.
+- [Spring Cloud](https://shalltry.com/tags/spring-cloud/): Posts on distributed systems patterns using Spring Cloud components.
+- [AOP](https://shalltry.com/tags/aop/): Explanations of aspect-oriented programming and cross-cutting concerns in Spring.
+
+## Database
+- [Database](https://shalltry.com/categories/database/): General database development content spanning SQL and persistence frameworks.
+- [MySQL](https://shalltry.com/tags/mysql/): Articles on MySQL usage, optimization, indexing, and transactional behavior.
+- [MyBatis](https://shalltry.com/tags/mybatis/): Tutorials for SQL mapping, configuration, and persistence with MyBatis.
+- [Transaction](https://shalltry.com/tags/transaction/): Posts explaining transaction management, isolation, and consistency concerns.
+- [SQL](https://shalltry.com/tags/sql/): Reference-style content for SQL usage and query-related backend development topics.
+
+## Middleware
+- [Redis](https://shalltry.com/tags/redis/): Guides to Redis data structures, caching strategies, and operational usage.
+- [Kafka](https://shalltry.com/tags/kafka/): Articles on Kafka messaging, producers, consumers, and event-driven architecture.
+- [Elasticsearch](https://shalltry.com/tags/elasticsearch/): Tutorials about indexing, search, and Elasticsearch integration patterns.
+- [RabbitMQ](https://shalltry.com/tags/rabbitmq/): Posts on message queues, routing, and asynchronous communication workflows.
+- [Zookeeper](https://shalltry.com/tags/zookeeper/): Content covering coordination services and distributed system primitives.
+
+## Distributed Systems
+- [Distributed](https://shalltry.com/tags/distributed/): Articles on distributed architecture, coordination, and system design tradeoffs.
+- [Microservices](https://shalltry.com/tags/microservice/): Posts about service decomposition, communication, and operational concerns.
+- [RPC](https://shalltry.com/tags/rpc/): Tutorials on remote procedure calls and service-to-service communication patterns.
+- [Idempotency](https://shalltry.com/tags/idempotent/): Guides to safe retries and duplicate request handling in distributed systems.
+- [Consistency](https://shalltry.com/tags/consistency/): Discussions of consistency models and reliability in distributed applications.
+
+## Algorithms and Fundamentals
+- [Algorithm](https://shalltry.com/categories/algorithm/): Articles on algorithms, data structures, and problem-solving techniques.
+- [Data Structure](https://shalltry.com/tags/data-structure/): Posts focused on common data structures and implementation details.
+- [Design Pattern](https://shalltry.com/tags/design-pattern/): Tutorials explaining software design patterns and practical usage scenarios.
+- [Network](https://shalltry.com/tags/network/): Content about networking fundamentals relevant to backend engineering.
+- [Operating System](https://shalltry.com/tags/operating-system/): Articles connecting OS concepts to application runtime behavior.
+
+## DevOps and Tools
+- [Docker](https://shalltry.com/tags/docker/): Guides to containerization, image building, and local deployment workflows.
+- [Linux](https://shalltry.com/tags/linux/): Tutorials on Linux commands, system behavior, and server-side operations.
+- [Maven](https://shalltry.com/tags/maven/): Posts about Java build management, dependency handling, and project structure.
+- [Git](https://shalltry.com/tags/git/): Articles covering version control workflows and repository management basics.
+- [Nginx](https://shalltry.com/tags/nginx/): Content on reverse proxying, web serving, and deployment configuration.
+
+## Reference Navigation
+- [All Posts](https://shalltry.com/archives/): Full post listing for discovering tutorials across the entire site.
+- [All Categories](https://shalltry.com/categories/): Category index for broad topic-based navigation.
+- [All Tags](https://shalltry.com/tags/): Tag index for fine-grained discovery of specific technical subjects.
+- [Java Category](https://shalltry.com/categories/java/): Focused collection of Java and JVM-related articles.
+- [Spring Category](https://shalltry.com/categories/spring/): Focused collection of Spring framework and Boot tutorials.

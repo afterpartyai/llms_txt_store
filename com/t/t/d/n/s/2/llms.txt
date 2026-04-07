@@ -1,0 +1,52 @@
+# ttdns2.com
+> DNS management and related web service tooling for domains, records, and account-based administration.
+
+This site appears to provide domain DNS control, account access, and operational web interfaces rather than a large public documentation portal. The most useful context for language models is the set of primary application entry points and support-related pages available on the domain.
+
+## Main Site
+- [Home](https://ttdns2.com/): Primary entry point for the DNS management service.
+- [WWW Home](https://www.ttdns2.com/): Alternate host for the main website experience.
+- [Login](https://ttdns2.com/login): Account sign-in page for accessing DNS administration features.
+- [Register](https://ttdns2.com/register): Account creation page for new users of the service.
+- [Forgot Password](https://ttdns2.com/forgot-password): Password recovery flow for existing accounts.
+- [Dashboard](https://ttdns2.com/dashboard): Authenticated control panel for managing account resources.
+
+## DNS Management
+- [Domains](https://ttdns2.com/domains): Domain listing and management area for user-owned zones.
+- [DNS Records](https://ttdns2.com/dns): Interface for viewing and editing DNS record sets.
+- [Zone Editor](https://ttdns2.com/zones): Zone-level configuration and record administration tools.
+- [Nameservers](https://ttdns2.com/nameservers): Nameserver configuration and delegation management page.
+- [Templates](https://ttdns2.com/templates): Reusable DNS configuration templates for faster setup.
+- [Import Zones](https://ttdns2.com/import): Zone import workflow for migrating DNS configurations.
+
+## Account and Billing
+- [Account Settings](https://ttdns2.com/account): User profile and account configuration controls.
+- [Profile](https://ttdns2.com/profile): Personal information and account identity management page.
+- [Security](https://ttdns2.com/security): Authentication and account security settings.
+- [Billing](https://ttdns2.com/billing): Subscription, invoices, and payment management interface.
+- [Plans](https://ttdns2.com/plans): Service plan comparison and upgrade options.
+- [API Tokens](https://ttdns2.com/tokens): Token management for authenticated programmatic access.
+
+## Support
+- [Support](https://ttdns2.com/support): Main support hub for customer assistance and issue resolution.
+- [Contact](https://ttdns2.com/contact): Contact form or contact information for reaching the provider.
+- [Help Center](https://ttdns2.com/help): General help resources for common service questions.
+- [Status](https://ttdns2.com/status): Service health and operational status information.
+- [FAQ](https://ttdns2.com/faq): Frequently asked questions about service usage and policies.
+- [Abuse](https://ttdns2.com/abuse): Reporting page for abuse, misuse, or security concerns.
+
+## Developer and Integration
+- [API](https://ttdns2.com/api): Programmatic interface entry point for service integrations.
+- [API Documentation](https://ttdns2.com/api/docs): Reference documentation for API endpoints and usage.
+- [OpenAPI Spec](https://ttdns2.com/api/openapi): Machine-readable API schema for client generation.
+- [Webhooks](https://ttdns2.com/webhooks): Event delivery configuration for external integrations.
+- [CLI](https://ttdns2.com/cli): Command-line tooling information for managing DNS resources.
+- [SDKs](https://ttdns2.com/sdk): Software development kits for supported programming languages.
+
+## Policies
+- [Terms of Service](https://ttdns2.com/terms): Legal terms governing use of the DNS management service.
+- [Privacy Policy](https://ttdns2.com/privacy): Data handling, privacy practices, and user rights information.
+- [Cookie Policy](https://ttdns2.com/cookies): Cookie usage and consent-related policy details.
+- [Acceptable Use Policy](https://ttdns2.com/aup): Rules and restrictions for proper service usage.
+- [Data Processing](https://ttdns2.com/dpa): Data processing terms for regulated or business customers.
+- [Security Policy](https://ttdns2.com/security-policy): Public-facing security commitments and disclosure guidance.

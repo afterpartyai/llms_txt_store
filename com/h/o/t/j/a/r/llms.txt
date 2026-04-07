@@ -1,0 +1,77 @@
+# Hotjar
+> Website heatmaps, session recordings, surveys, and feedback tools for understanding user behavior and improving digital experiences.
+
+Hotjar helps teams analyze how people use websites and apps through behavior analytics and direct user feedback. Its site includes product documentation, implementation guides, API references, legal resources, and company content.
+
+## Product Documentation
+- [Hotjar Help Center](https://help.hotjar.com/hc/en-us): Main documentation hub for setup, product usage, troubleshooting, and account management.
+- [Heatmaps](https://help.hotjar.com/hc/en-us/categories/115001323967-Heatmaps): Documentation for creating, viewing, and interpreting click, move, and scroll heatmaps.
+- [Recordings](https://help.hotjar.com/hc/en-us/categories/115001323947-Recordings): Guides for session recordings, filters, playback, and privacy controls.
+- [Surveys](https://help.hotjar.com/hc/en-us/categories/360001624734-Surveys): Documentation for creating on-site and external surveys and analyzing responses.
+- [Feedback](https://help.hotjar.com/hc/en-us/categories/360001624754-Feedback): Help articles for incoming feedback widgets and response collection.
+- [Interviews](https://help.hotjar.com/hc/en-us/categories/360001624774-Interviews): Resources for recruiting and managing user interviews through Hotjar.
+- [Funnels](https://help.hotjar.com/hc/en-us/categories/360001624794-Funnels): Documentation for tracking conversion steps and identifying drop-off points.
+- [Dashboards](https://help.hotjar.com/hc/en-us/categories/360001624814-Dashboards): Guides for organizing and reviewing insights across Hotjar tools.
+
+## Getting Started & Installation
+- [Getting Started with Hotjar](https://help.hotjar.com/hc/en-us/categories/115001323907-Get-Started): Introductory setup guides for new users and first-time installation.
+- [Install the Hotjar Tracking Code](https://help.hotjar.com/hc/en-us/articles/115009336727-Install-the-Hotjar-Tracking-Code): Steps for adding Hotjar manually or through tag managers.
+- [Verify Hotjar Installation](https://help.hotjar.com/hc/en-us/articles/115009335727-How-to-verify-your-Hotjar-installation): Instructions for confirming tracking code is installed and working correctly.
+- [Hotjar and Google Tag Manager](https://help.hotjar.com/hc/en-us/articles/115011640307-Hotjar-and-Google-Tag-Manager): Setup instructions for deploying Hotjar through Google Tag Manager.
+- [Hotjar for Single Page Apps](https://help.hotjar.com/hc/en-us/articles/115011789248-Hotjar-on-single-page-apps): Guidance for implementing Hotjar on SPA frameworks and dynamic sites.
+- [Identify API](https://help.hotjar.com/hc/en-us/articles/115009336727): Guidance related to identifying users and associating sessions with attributes.
+
+## Developer & API
+- [Hotjar API Documentation](https://developer.hotjar.com/): Developer portal for Hotjar APIs, authentication, and technical integration details.
+- [Events API](https://developer.hotjar.com/docs/api/events): Reference for sending custom events to Hotjar for analysis.
+- [User Attributes API](https://developer.hotjar.com/docs/api/user-attributes): Reference for attaching user properties to Hotjar sessions and insights.
+- [Identify API Reference](https://developer.hotjar.com/docs/api/identify): Technical details for identifying users in Hotjar implementations.
+- [Observe API Reference](https://developer.hotjar.com/docs/api/observe): Developer documentation for behavior observation and event collection features.
+- [Hotjar Tracking Code API](https://help.hotjar.com/hc/en-us/articles/115011789248): Technical implementation guidance for advanced tracking scenarios.
+
+## Integrations
+- [Hotjar Integrations](https://www.hotjar.com/integrations/): Directory of native integrations and connected tools supported by Hotjar.
+- [Google Analytics Integration](https://www.hotjar.com/integrations/google-analytics/): Overview of connecting Hotjar with Google Analytics workflows.
+- [HubSpot Integration](https://www.hotjar.com/integrations/hubspot/): Information about using Hotjar alongside HubSpot for customer insights.
+- [Zapier Integration](https://www.hotjar.com/integrations/zapier/): Details for automating Hotjar workflows through Zapier connections.
+- [Segment Integration](https://www.hotjar.com/integrations/segment/): Overview of connecting Segment data with Hotjar analysis.
+- [Optimizely Integration](https://www.hotjar.com/integrations/optimizely/): Information on using Hotjar with experimentation and optimization workflows.
+
+## Product Pages
+- [Heatmaps](https://www.hotjar.com/heatmaps/): Product overview for visualizing clicks, taps, movement, and scroll behavior.
+- [Recordings](https://www.hotjar.com/session-recordings/): Product page for replaying user sessions to understand behavior and friction.
+- [Surveys](https://www.hotjar.com/surveys/): Overview of survey tools for collecting direct user feedback.
+- [Feedback](https://www.hotjar.com/feedback/): Product page for feedback widgets and in-context sentiment collection.
+- [Interviews](https://www.hotjar.com/interviews/): Overview of recruiting and conducting user interviews through Hotjar.
+- [Funnels](https://www.hotjar.com/funnels/): Product page for conversion funnel analysis and drop-off discovery.
+
+## Guides & Learning
+- [Hotjar Blog](https://www.hotjar.com/blog/): Articles on analytics, UX research, conversion optimization, and product experience.
+- [Heatmap Guide](https://www.hotjar.com/heatmap-guide/): Educational resource explaining heatmaps, use cases, and interpretation.
+- [Session Recording Guide](https://www.hotjar.com/session-recording-guide/): Guide to understanding and applying session recordings effectively.
+- [Customer Feedback Guide](https://www.hotjar.com/customer-feedback/): Resource on collecting and using customer feedback for improvement.
+- [Website Feedback Guide](https://www.hotjar.com/website-feedback/): Educational content about gathering feedback directly on websites.
+- [Conversion Rate Optimization](https://www.hotjar.com/conversion-rate-optimization/): Learning resources focused on improving conversions with behavioral insights.
+
+## Pricing & Plans
+- [Pricing](https://www.hotjar.com/pricing/): Plan comparison for Hotjar products, limits, and billing options.
+- [Observe Pricing](https://www.hotjar.com/pricing/observe/): Pricing details for behavior analytics and observation features.
+- [Ask Pricing](https://www.hotjar.com/pricing/ask/): Pricing details for surveys, feedback, and interview tools.
+- [Business Plan](https://www.hotjar.com/pricing/business/): Information about business-tier capabilities and usage levels.
+- [Scale Plan](https://www.hotjar.com/pricing/scale/): Details for higher-volume teams needing expanded limits and features.
+
+## Trust, Privacy & Legal
+- [Trust Center](https://www.hotjar.com/trust/): Central resource for security, privacy, compliance, and data protection information.
+- [Privacy Policy](https://www.hotjar.com/legal/policies/privacy/): Policy describing how Hotjar collects, uses, and protects personal data.
+- [Terms of Service](https://www.hotjar.com/legal/policies/terms-of-service/): Legal terms governing use of Hotjar products and services.
+- [Cookie Information](https://www.hotjar.com/legal/policies/cookie-information/): Details about cookies and similar technologies used by Hotjar.
+- [DPA](https://www.hotjar.com/legal/support/dpa/): Data processing agreement information for customers and compliance teams.
+- [Sub-processors](https://www.hotjar.com/legal/support/sub-processors/): List of third-party sub-processors involved in Hotjar service delivery.
+
+## Company
+- [About Hotjar](https://www.hotjar.com/company/about-us/): Company overview, mission, and background information.
+- [Careers](https://www.hotjar.com/company/careers/): Open roles and information about working at Hotjar.
+- [Customers](https://www.hotjar.com/customers/): Customer stories and examples of teams using Hotjar.
+- [Contact](https://www.hotjar.com/contact/): Contact options for sales, support, and general inquiries.
+- [Partners](https://www.hotjar.com/partners/): Information about partner programs and collaboration opportunities.
+- [Press](https://www.hotjar.com/company/press/): Media resources and company news for press inquiries.

@@ -1,0 +1,62 @@
+# Google Tag Manager
+> Google Tag Manager helps teams deploy and manage website and app tags without directly editing code.
+
+Google Tag Manager is part of Google’s measurement and advertising tooling, with documentation centered in Google Developers and product information on the Google Tag Manager site. Key resources include setup guides, developer documentation, API references, and help content for tag configuration and account management.
+
+## Product
+- [Google Tag Manager Overview](https://tagmanager.google.com/): Main product entry point for creating and managing containers, tags, triggers, and variables.
+- [Tag Manager Marketing Page](https://marketingplatform.google.com/about/tag-manager/): Product overview, capabilities, and business-focused introduction to Google Tag Manager.
+- [Tag Manager Help Center](https://support.google.com/tagmanager/): Official help center for account setup, containers, workspaces, and troubleshooting.
+- [Tag Manager Community](https://support.google.com/tagmanager/community): Community discussions and peer support for Tag Manager questions and implementation issues.
+
+## Developer Documentation
+- [Tag Manager Developer Guides](https://developers.google.com/tag-platform/tag-manager): Central developer documentation for implementing and extending Google Tag Manager.
+- [Set Up Google Tag Manager](https://developers.google.com/tag-platform/tag-manager/web): Web setup documentation for installing Tag Manager and validating deployment.
+- [Tag Manager for AMP](https://developers.google.com/tag-platform/tag-manager/amp): Guidance for using Google Tag Manager with Accelerated Mobile Pages.
+- [Tag Manager Server-Side Tagging](https://developers.google.com/tag-platform/tag-manager/server-side): Documentation for server-side tagging architecture, setup, and configuration.
+- [Tag Manager Consent Mode](https://developers.google.com/tag-platform/security/guides/consent): Consent-related implementation guidance for Google tagging and privacy controls.
+
+## Web Implementation Guides
+- [Install Web Containers](https://developers.google.com/tag-platform/tag-manager/web/quickstart): Quickstart for adding a web container snippet to a site.
+- [Data Layer](https://developers.google.com/tag-platform/tag-manager/web/datalayer): How to structure and use the data layer for passing page and event data.
+- [Triggers](https://developers.google.com/tag-platform/tag-manager/web/triggers): Overview of trigger types and how they determine when tags fire.
+- [Variables](https://developers.google.com/tag-platform/tag-manager/web/variables): Guide to built-in and user-defined variables used in tags and triggers.
+- [Tags](https://developers.google.com/tag-platform/tag-manager/web/tags): Documentation on configuring tags to send measurement and marketing data.
+- [Preview and Debug](https://developers.google.com/tag-platform/tag-manager/web/preview-and-debug): Instructions for testing container changes before publishing them live.
+
+## Server-Side Tagging
+- [Server-Side Tagging Overview](https://developers.google.com/tag-platform/tag-manager/server-side/intro): Introduction to server-side tagging concepts, benefits, and architecture.
+- [Set Up a Server Container](https://developers.google.com/tag-platform/tag-manager/server-side/setup): Steps for provisioning and configuring a server-side Tag Manager container.
+- [Send Data to Server Container](https://developers.google.com/tag-platform/tag-manager/server-side/send-data): Methods for routing measurement data to a server-side endpoint.
+- [Server Container APIs](https://developers.google.com/tag-platform/tag-manager/server-side/api): Reference material for APIs and interfaces used in server-side tagging.
+- [Monitor and Debug Server Containers](https://developers.google.com/tag-platform/tag-manager/server-side/debug): Guidance for validating requests and troubleshooting server-side implementations.
+
+## Templates and Customization
+- [Custom Templates](https://developers.google.com/tag-platform/tag-manager/templates): Documentation for building custom tag and variable templates.
+- [Template APIs](https://developers.google.com/tag-platform/tag-manager/templates/api): API reference for sandboxed JavaScript and template permissions.
+- [Create a Tag Template](https://developers.google.com/tag-platform/tag-manager/templates/create-tag-template): Step-by-step guide to authoring reusable custom tag templates.
+- [Create a Variable Template](https://developers.google.com/tag-platform/tag-manager/templates/create-variable-template): Instructions for building custom variable templates for container use.
+- [Template Gallery Submission](https://developers.google.com/tag-platform/tag-manager/templates/gallery): Information on publishing templates to the community template gallery.
+
+## APIs and Reference
+- [Tag Manager API Overview](https://developers.google.com/tag-platform/tag-manager/api/v2): Overview of the REST API for managing accounts, containers, and workspaces.
+- [REST API Reference](https://developers.google.com/tag-platform/tag-manager/api/reference/rest): Endpoint reference for Tag Manager resources and methods.
+- [Accounts Resource](https://developers.google.com/tag-platform/tag-manager/api/reference/rest/v2/accounts): Reference for account-level operations in the Tag Manager API.
+- [Containers Resource](https://developers.google.com/tag-platform/tag-manager/api/reference/rest/v2/accounts.containers): Reference for creating and managing containers via the API.
+- [Workspaces Resource](https://developers.google.com/tag-platform/tag-manager/api/reference/rest/v2/accounts.containers.workspaces): Reference for workspace operations, versions, and change management.
+- [Permissions Resource](https://developers.google.com/tag-platform/tag-manager/api/reference/rest/v2/accounts.user_permissions): Reference for managing user permissions programmatically.
+
+## Help and Administration
+- [Create an Account](https://support.google.com/tagmanager/answer/6103696): Help article for creating a Tag Manager account and initial container.
+- [Install the Container](https://support.google.com/tagmanager/answer/14847097): Help guidance for adding Tag Manager code snippets to a website.
+- [Manage Users and Permissions](https://support.google.com/tagmanager/answer/6107011): Instructions for assigning account and container access.
+- [Workspaces](https://support.google.com/tagmanager/answer/7059647): Help article explaining collaborative workspaces and change isolation.
+- [Versions and Publishing](https://support.google.com/tagmanager/answer/6107163): Guidance on creating versions and publishing container changes.
+- [Approve Linked Accounts](https://support.google.com/tagmanager/answer/6164468): Help for linking and approving related Google product integrations.
+
+## Related Google Tag Platform Resources
+- [Google Tag Platform](https://developers.google.com/tag-platform): Central hub for Google tagging products and implementation resources.
+- [Google Tag](https://developers.google.com/tag-platform/gtagjs): Documentation for the Google tag and direct tagging implementations.
+- [Tag Diagnostics](https://developers.google.com/tag-platform/tag-diagnostics): Tools and guidance for validating Google tag deployments.
+- [Privacy and Security](https://developers.google.com/tag-platform/security): Security, privacy, and consent resources for Google tagging implementations.
+- [Measurement Protocol](https://developers.google.com/analytics/devguides/collection/protocol/ga4): Server-to-server event collection reference often used alongside tagging setups.

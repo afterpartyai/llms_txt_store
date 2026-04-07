@@ -1,0 +1,82 @@
+# Wikimedia
+> The Wikimedia movement is a global community of people, projects, and activities working together to create and share knowledge freely.
+
+Wikimedia.org is the central portal for the Wikimedia movement, linking to its major knowledge projects, governance resources, technical infrastructure, community spaces, and the Wikimedia Foundation.
+
+## Movement Overview
+- [Wikimedia Homepage](https://www.wikimedia.org/): Central portal to Wikimedia projects, movement information, and access to major community resources.
+- [Our Projects](https://www.wikimedia.org/our-projects/): Overview of Wikimedia’s major free knowledge projects and their purposes.
+- [Movement Affiliates](https://www.wikimedia.org/movement/affiliates/): Directory of Wikimedia chapters, thematic organizations, and user groups worldwide.
+- [Movement Charter](https://www.wikimedia.org/movement/charter/): Information and resources related to the Wikimedia Movement Charter process.
+- [Wikimedia Foundation](https://wikimediafoundation.org/): Official site of the Wikimedia Foundation, including organizational and strategic information.
+
+## Wikimedia Projects
+- [Wikipedia](https://www.wikipedia.org/): Free encyclopedia written collaboratively by volunteers in many languages.
+- [Wiktionary](https://www.wiktionary.org/): Multilingual dictionary and lexical resource created by contributors.
+- [Wikibooks](https://www.wikibooks.org/): Collection of free textbooks, manuals, and instructional materials.
+- [Wikiquote](https://www.wikiquote.org/): Repository of sourced quotations organized by topic and person.
+- [Wikisource](https://www.wikisource.org/): Free library of source texts and public domain works.
+- [Wikiversity](https://www.wikiversity.org/): Learning resources, educational activities, and collaborative study materials.
+- [Wikivoyage](https://www.wikivoyage.org/): Free travel guide with destination and itinerary information.
+- [Wikinews](https://www.wikinews.org/): Collaborative news reporting and original journalism project.
+
+## Media and Structured Knowledge Projects
+- [Wikimedia Commons](https://commons.wikimedia.org/): Repository of freely licensed images, audio, video, and other media.
+- [Wikidata](https://www.wikidata.org/): Structured open knowledge base supporting Wikimedia projects and external reuse.
+- [Wikispecies](https://species.wikimedia.org/): Open species directory covering taxonomy and biological classification.
+- [MediaWiki](https://www.mediawiki.org/): Open-source wiki software platform that powers Wikimedia sites.
+- [Meta-Wiki](https://meta.wikimedia.org/): Coordination wiki for cross-project discussion, policy, and movement planning.
+
+## Community and Governance
+- [Meta-Wiki Community Portal](https://meta.wikimedia.org/wiki/Community_portal): Central coordination space for cross-project community discussions and initiatives.
+- [Wikimedia Movement](https://meta.wikimedia.org/wiki/Wikimedia_movement): Overview of the Wikimedia movement’s structure, participants, and activities.
+- [Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Home): Governance policies, board materials, and foundation governance documentation.
+- [Universal Code of Conduct](https://meta.wikimedia.org/wiki/Universal_Code_of_Conduct): Movement-wide behavioral standards for Wikimedia contributors and spaces.
+- [Movement Strategy](https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2018-20): Strategic recommendations and process documentation for Wikimedia’s future direction.
+- [Wikimedia Affiliates Portal](https://meta.wikimedia.org/wiki/Wikimedia_movement_affiliates): Information about recognized Wikimedia affiliates and organizational models.
+
+## Technical Documentation
+- [MediaWiki Documentation](https://www.mediawiki.org/wiki/Documentation): Main entry point for MediaWiki software documentation and developer resources.
+- [Manual:Contents](https://www.mediawiki.org/wiki/Manual:Contents): Comprehensive manual for installing, configuring, and administering MediaWiki.
+- [API:Main page](https://www.mediawiki.org/wiki/API:Main_page): Documentation for the MediaWiki Action API and related interfaces.
+- [Extension Manual](https://www.mediawiki.org/wiki/Manual:Extensions): Guide to discovering, installing, and developing MediaWiki extensions.
+- [Help:Contents](https://www.mediawiki.org/wiki/Help:Contents): User-facing help for editing, formatting, and working with wiki pages.
+- [Developer Hub](https://www.mediawiki.org/wiki/Developer_hub): Starting point for MediaWiki development, architecture, and contribution workflows.
+
+## APIs and Data Access
+- [MediaWiki Action API](https://www.mediawiki.org/wiki/API:Main_page): Reference and guides for querying and editing Wikimedia wikis programmatically.
+- [REST API](https://www.mediawiki.org/wiki/API:REST_API): Documentation for MediaWiki REST endpoints and modern API usage.
+- [Wikidata Query Service](https://query.wikidata.org/): SPARQL endpoint for querying Wikidata’s structured knowledge graph.
+- [Wikidata API](https://www.wikidata.org/wiki/Wikidata:Data_access): Overview of APIs, dumps, and tools for accessing Wikidata content.
+- [Enterprise APIs and Data Feeds](https://enterprise.wikimedia.com/): Commercial-grade Wikimedia APIs and data services for large-scale reuse.
+- [Database Downloads](https://dumps.wikimedia.org/): Public data dumps for Wikimedia projects and related datasets.
+
+## Developer Infrastructure
+- [Wikitech](https://wikitech.wikimedia.org/): Technical wiki for Wikimedia infrastructure, operations, and platform engineering.
+- [Developer Portal](https://developer.wikimedia.org/): Entry point for Wikimedia technical communities, tools, and contribution resources.
+- [Phabricator](https://phabricator.wikimedia.org/): Issue tracking and project management platform for Wikimedia technical work.
+- [Gerrit Code Review](https://gerrit.wikimedia.org/): Code review system for Wikimedia software repositories and patches.
+- [Toolforge](https://toolforge.org/): Hosting platform for community-built tools and bots serving Wikimedia projects.
+- [Cloud Services Portal](https://wikitech.wikimedia.org/wiki/Portal:Cloud_VPS): Documentation for Wikimedia Cloud VPS and related developer services.
+
+## Research, Data, and Analytics
+- [Wikimedia Research](https://research.wikimedia.org/): Research portal covering studies, publications, datasets, and collaboration opportunities.
+- [Analytics](https://wikitech.wikimedia.org/wiki/Analytics): Documentation for Wikimedia analytics systems, data pipelines, and metrics infrastructure.
+- [Data Services](https://wikitech.wikimedia.org/wiki/Data_Services): Overview of shared data platforms and services used across Wikimedia.
+- [Event Platform](https://wikitech.wikimedia.org/wiki/Event_Platform): Documentation for Wikimedia’s event collection and processing infrastructure.
+- [AQS Documentation](https://doc.wikimedia.org/generated-data-platform/aqs/analytics-api/): Reference for Wikimedia analytics query service APIs and endpoints.
+
+## Foundation and Legal
+- [Wikimedia Foundation](https://wikimediafoundation.org/): Organizational information, programs, leadership, and strategic priorities of the foundation.
+- [Terms of Use](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use): Terms governing use of Wikimedia websites and services.
+- [Privacy Policy](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy): Policy describing collection, use, and protection of user information.
+- [Legal Policies](https://foundation.wikimedia.org/wiki/Policy:Policy_portal): Central portal for Wikimedia Foundation policies and legal documents.
+- [Transparency Reports](https://wikimediafoundation.org/about/transparency/): Reports on legal requests, transparency practices, and accountability measures.
+- [Annual Reports](https://wikimediafoundation.org/about/annualreport/): Yearly reports summarizing Wikimedia Foundation impact, finances, and activities.
+
+## News and Communications
+- [Diff](https://diff.wikimedia.org/): Wikimedia movement blog featuring stories, announcements, and community perspectives.
+- [Wikimedia Foundation News](https://wikimediafoundation.org/news/): Official foundation news, press releases, and announcements.
+- [Wikimedia Blog Category on Diff](https://diff.wikimedia.org/category/wikimedia-foundation/): Posts focused on Wikimedia Foundation initiatives and updates.
+- [Tech News](https://meta.wikimedia.org/wiki/Tech/News): Regular updates about software changes affecting Wikimedia contributors and admins.
+- [Press Room](https://wikimediafoundation.org/about/press/): Media resources, press contacts, and official statements from the foundation.

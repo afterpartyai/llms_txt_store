@@ -1,0 +1,74 @@
+# Microsoft Online
+> Microsoft Online hosts Microsoft identity, account, and sign-in experiences used across Microsoft 365, Azure, and Entra services.
+
+This domain is primarily used for authentication, account management, and identity-related endpoints that support Microsoft cloud services. Public documentation for these experiences is largely published on Microsoft Learn and related Microsoft support sites, while microsoftonline.com itself serves operational sign-in and tenant-specific identity flows.
+
+## Sign-in and Account Portals
+- [Microsoft 365 Sign-in](https://www.microsoftonline.com/): Primary Microsoft Online entry point for Microsoft 365 authentication and account access.
+- [Azure AD Sign-in Endpoint](https://login.microsoftonline.com/): Core Microsoft identity endpoint for organizational account authentication flows.
+- [Common Tenant OAuth Endpoint](https://login.microsoftonline.com/common/): Shared authorization endpoint for multi-tenant Microsoft identity sign-in scenarios.
+- [Organizations Tenant Endpoint](https://login.microsoftonline.com/organizations/): Sign-in endpoint for work or school accounts across Microsoft tenants.
+- [Consumers Tenant Endpoint](https://login.microsoftonline.com/consumers/): Sign-in endpoint for Microsoft personal accounts in identity platform flows.
+- [Device Login Endpoint](https://login.microsoftonline.com/common/oauth2/deviceauth): Device authorization endpoint used by clients with limited input capabilities.
+
+## OAuth and OpenID Connect Endpoints
+- [OAuth 2.0 Authorization Endpoint](https://login.microsoftonline.com/common/oauth2/authorize): Legacy v1 authorization endpoint for Microsoft identity platform applications.
+- [OAuth 2.0 Token Endpoint](https://login.microsoftonline.com/common/oauth2/token): Legacy v1 token issuance endpoint for access and refresh tokens.
+- [OpenID Connect Metadata](https://login.microsoftonline.com/common/v2.0/.well-known/openid-configuration): Discovery document for Microsoft identity platform v2 endpoints and capabilities.
+- [v2 Authorization Endpoint](https://login.microsoftonline.com/common/oauth2/v2.0/authorize): Modern authorization endpoint for Microsoft identity platform applications.
+- [v2 Token Endpoint](https://login.microsoftonline.com/common/oauth2/v2.0/token): Modern token endpoint for delegated and application authentication flows.
+- [JSON Web Key Set](https://login.microsoftonline.com/common/discovery/v2.0/keys): Public signing keys used to validate Microsoft-issued identity tokens.
+
+## Tenant Discovery and Federation
+- [User Realm Discovery](https://login.microsoftonline.com/common/userrealm/): Endpoint for determining managed or federated authentication for a user domain.
+- [Federation Metadata 2007-06](https://login.microsoftonline.com/federationmetadata/2007-06/federationmetadata.xml): Federation metadata document for SAML and WS-Federation trust configuration.
+- [Tenant OpenID Configuration](https://login.microsoftonline.com/common/.well-known/openid-configuration): Discovery metadata for tenant-aware OpenID Connect integrations.
+- [Issuer Discovery](https://login.microsoftonline.com/common/discovery/instance): Instance discovery endpoint for validating authority hosts and cloud instances.
+
+## Microsoft Identity Platform Documentation
+- [Microsoft Identity Platform Overview](https://learn.microsoft.com/en-us/entra/identity-platform/): Core documentation for authentication, authorization, and app integration with Microsoft identity.
+- [Authentication Protocols](https://learn.microsoft.com/en-us/entra/identity-platform/v2-protocols): Overview of supported OAuth 2.0 and OpenID Connect protocol implementations.
+- [App Registration Quickstart](https://learn.microsoft.com/en-us/entra/identity-platform/quickstart-register-app): Guide to registering applications in Microsoft Entra ID.
+- [Access Tokens](https://learn.microsoft.com/en-us/entra/identity-platform/access-tokens): Reference for Microsoft identity platform access token formats and validation.
+- [ID Tokens](https://learn.microsoft.com/en-us/entra/identity-platform/id-tokens): Reference for OpenID Connect ID tokens issued by Microsoft identity services.
+- [Permissions and Consent](https://learn.microsoft.com/en-us/entra/identity-platform/permissions-consent-overview): Explanation of delegated permissions, application permissions, and consent behavior.
+
+## Microsoft Entra ID Documentation
+- [Microsoft Entra ID Documentation](https://learn.microsoft.com/en-us/entra/fundamentals/): Central documentation for Microsoft Entra identity and access management services.
+- [What Is Microsoft Entra ID](https://learn.microsoft.com/en-us/entra/fundamentals/whatis): Introduction to Microsoft Entra ID capabilities and core concepts.
+- [Tenant Management](https://learn.microsoft.com/en-us/entra/fundamentals/how-to-create-delete-tenant): Guidance for creating and managing Microsoft Entra tenants.
+- [Conditional Access](https://learn.microsoft.com/en-us/entra/identity/conditional-access/overview): Overview of policy-based access controls for users, apps, and devices.
+- [Multifactor Authentication](https://learn.microsoft.com/en-us/entra/identity/authentication/concept-mfa-howitworks): Explanation of Microsoft Entra multifactor authentication concepts and behavior.
+- [External Identities](https://learn.microsoft.com/en-us/entra/external-id/): Documentation for B2B, B2C, and external collaboration identity scenarios.
+
+## Authentication Libraries and SDKs
+- [Microsoft Authentication Library Overview](https://learn.microsoft.com/en-us/entra/msal/overview): Overview of MSAL libraries for acquiring tokens from Microsoft identity endpoints.
+- [MSAL for JavaScript](https://learn.microsoft.com/en-us/entra/msal/javascript/): Documentation for browser and Node.js authentication with Microsoft identity.
+- [MSAL for .NET](https://learn.microsoft.com/en-us/entra/msal/dotnet/): Documentation for integrating Microsoft identity into .NET applications.
+- [MSAL for Python](https://learn.microsoft.com/en-us/entra/msal/python/): Documentation for Python applications using Microsoft authentication libraries.
+- [MSAL for Java](https://learn.microsoft.com/en-us/entra/msal/java/): Documentation for Java applications authenticating with Microsoft identity.
+- [MSAL for Android](https://learn.microsoft.com/en-us/entra/msal/android/): Documentation for Android apps using Microsoft identity platform authentication.
+- [MSAL for iOS and macOS](https://learn.microsoft.com/en-us/entra/msal/objc/): Documentation for Apple platform authentication with MSAL.
+
+## Admin and Account Help
+- [Microsoft 365 Admin Help](https://learn.microsoft.com/en-us/microsoft-365/admin/): Administrative guidance for Microsoft 365 tenant, user, and identity management.
+- [Reset Work or School Password](https://support.microsoft.com/account-billing/reset-a-forgotten-microsoft-account-password-eff4f067-5042-c1a3-fe72-b04d60556c37): Support article for recovering Microsoft account access.
+- [Sign In to Microsoft 365](https://support.microsoft.com/office/sign-in-to-office-365-417e1d2c-47f9-4e6e-8e6d-6a1f6d2f4f87): End-user help for signing in to Microsoft 365 services.
+- [Self-Service Password Reset](https://learn.microsoft.com/en-us/entra/identity/authentication/concept-sspr-howitworks): Documentation for self-service password reset in Microsoft Entra ID.
+- [Manage Security Info](https://support.microsoft.com/account-billing/change-your-two-step-verification-method-and-settings-c801d5ad-e0fc-4711-94d5-33ad5d4630f7): Support guidance for updating verification methods and account security settings.
+
+## Developer Integration Guides
+- [Authorization Code Flow](https://learn.microsoft.com/en-us/entra/identity-platform/v2-oauth2-auth-code-flow): Guide to implementing OAuth 2.0 authorization code flow with Microsoft identity.
+- [Client Credentials Flow](https://learn.microsoft.com/en-us/entra/identity-platform/v2-oauth2-client-creds-grant-flow): Guide to service-to-service authentication using application credentials.
+- [On-Behalf-Of Flow](https://learn.microsoft.com/en-us/entra/identity-platform/v2-oauth2-on-behalf-of-flow): Guide to exchanging tokens for downstream API access.
+- [Device Code Flow](https://learn.microsoft.com/en-us/entra/identity-platform/v2-oauth2-device-code): Guide to authenticating devices and input-constrained clients.
+- [Single-Page App Auth](https://learn.microsoft.com/en-us/entra/identity-platform/scenario-spa-overview): Guidance for browser-based applications using Microsoft identity.
+- [Web App Sign-in Users](https://learn.microsoft.com/en-us/entra/identity-platform/scenario-web-app-sign-user-overview): Guidance for adding user sign-in to server-rendered web applications.
+- [Protected Web API](https://learn.microsoft.com/en-us/entra/identity-platform/scenario-protected-web-api-overview): Guidance for securing APIs with Microsoft identity platform tokens.
+
+## Related Microsoft APIs
+- [Microsoft Graph Documentation](https://learn.microsoft.com/en-us/graph/): Documentation for Microsoft Graph APIs commonly used with Microsoft identity tokens.
+- [Microsoft Graph REST API v1.0](https://learn.microsoft.com/en-us/graph/api/overview): Overview of Microsoft Graph REST API capabilities and usage.
+- [Graph Authentication Provider](https://learn.microsoft.com/en-us/graph/sdks/choose-authentication-providers): Guidance for authenticating Graph SDKs with Microsoft identity platform.
+- [Graph Permissions Reference](https://learn.microsoft.com/en-us/graph/permissions-reference): Reference for Microsoft Graph delegated and application permissions.
+- [Graph SDKs](https://learn.microsoft.com/en-us/graph/sdks/sdks-overview): Overview of SDKs for accessing Microsoft Graph from multiple languages.

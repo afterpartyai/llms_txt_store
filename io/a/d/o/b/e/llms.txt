@@ -1,0 +1,90 @@
+# Adobe Developer
+> Adobe’s developer platform provides APIs, SDKs, events, runtimes, and documentation for building with Adobe products and services.
+
+Adobe Developer on adobe.io centralizes platform documentation, API references, tutorials, sample code, and product-specific developer resources across Adobe Experience Cloud, Creative Cloud, Document Cloud, and Adobe Commerce.
+
+## Core Platform
+- [Developer Home](https://developer.adobe.com/): Main entry point for Adobe developer products, documentation, and platform resources.
+- [Console](https://developer.adobe.com/console/): Manage projects, credentials, APIs, events, and integrations in Adobe Developer Console.
+- [App Builder](https://developer.adobe.com/app-builder/): Build and deploy Adobe-native apps using runtime, events, and extensibility services.
+- [Runtime](https://developer.adobe.com/runtime/): Serverless runtime for Adobe applications and event-driven integrations.
+- [Events](https://developer.adobe.com/events/): Subscribe to Adobe product events and build event-driven workflows.
+- [I/O CLI](https://developer.adobe.com/cli/): Command-line tools for scaffolding, managing, and deploying Adobe developer projects.
+- [Project Firefly](https://developer.adobe.com/app-builder/docs/guides/): Guides for building extensible apps on Adobe App Builder.
+
+## Documentation
+- [Documentation Home](https://developer.adobe.com/docs/): Central hub for Adobe developer documentation across products and services.
+- [Tutorials](https://developer.adobe.com/tutorials/): Step-by-step tutorials for Adobe APIs, SDKs, and platform workflows.
+- [Code Samples](https://developer.adobe.com/code-samples.html): Sample applications and snippets for Adobe developer use cases.
+- [Open Source](https://developer.adobe.com/open-source/): Adobe open source projects, libraries, and community-maintained developer tools.
+- [Support](https://developer.adobe.com/support/): Developer support resources, help channels, and troubleshooting entry points.
+- [Events and Webinars](https://developer.adobe.com/events/): Developer events, product events, and integration event resources.
+
+## APIs and Services
+- [API Overview](https://developer.adobe.com/apis/): Browse Adobe APIs and services across cloud products and developer platforms.
+- [PDF Services API](https://developer.adobe.com/document-services/apis/pdf-services/): Create, manipulate, extract, and automate PDF document workflows.
+- [PDF Embed API](https://developer.adobe.com/document-services/apis/pdf-embed/): Embed PDF viewing and interaction experiences in web applications.
+- [Adobe Experience Platform APIs](https://developer.adobe.com/experience-platform-apis/): Access Experience Platform services, schemas, datasets, and real-time customer data.
+- [Adobe Analytics APIs](https://developer.adobe.com/analytics-apis/): Programmatically access Adobe Analytics reporting and administration capabilities.
+- [Adobe Target APIs](https://developer.adobe.com/target-apis/): Integrate personalization, testing, and decisioning through Adobe Target APIs.
+- [Adobe Commerce APIs](https://developer.adobe.com/commerce/webapi/): REST, GraphQL, and integration APIs for Adobe Commerce development.
+
+## App Builder Guides
+- [App Builder Documentation](https://developer.adobe.com/app-builder/docs/): Documentation for building extensible applications on Adobe App Builder.
+- [Getting Started](https://developer.adobe.com/app-builder/docs/getting_started/): Set up tools and create your first App Builder project.
+- [Architecture](https://developer.adobe.com/app-builder/docs/guides/architecture/): Understand core App Builder services, patterns, and application architecture.
+- [Actions and Runtime](https://developer.adobe.com/app-builder/docs/guides/runtime_guides/): Build serverless actions and backend logic with Adobe Runtime.
+- [Events Integration](https://developer.adobe.com/app-builder/docs/guides/events/): Consume Adobe events inside App Builder applications and workflows.
+- [CI/CD and Deployment](https://developer.adobe.com/app-builder/docs/guides/app_builder_guides/deployment/): Deploy, manage, and automate App Builder application releases.
+
+## Adobe Experience Cloud
+- [Experience League Developer Docs](https://developer.adobe.com/experience-cloud/): Developer resources for Adobe Experience Cloud products and integrations.
+- [Adobe Experience Platform](https://developer.adobe.com/experience-platform-apis/): APIs and developer guides for Adobe Experience Platform services.
+- [Adobe Analytics](https://developer.adobe.com/analytics-apis/): Reporting, admin, and data access APIs for Adobe Analytics.
+- [Adobe Target](https://developer.adobe.com/target-apis/): APIs for activities, offers, audiences, and personalization workflows.
+- [Adobe Journey Optimizer](https://developer.adobe.com/journey-optimizer-apis/): APIs and developer resources for journey orchestration and messaging.
+- [Adobe Campaign](https://developer.adobe.com/campaign-apis/): Developer APIs and integration resources for Adobe Campaign.
+- [Adobe Experience Manager](https://developer.adobe.com/experience-manager/): Developer documentation for AEM Sites, Assets, and extensibility.
+
+## Document Cloud
+- [Document Services Home](https://developer.adobe.com/document-services/): Developer hub for Adobe PDF and document workflow APIs.
+- [PDF Services API Docs](https://developer.adobe.com/document-services/docs/overview/pdf-services-api/): Overview and guides for PDF Services API capabilities.
+- [PDF Embed API Docs](https://developer.adobe.com/document-services/docs/overview/pdf-embed-api/): Documentation for embedding PDF viewing in web applications.
+- [Document Generation API](https://developer.adobe.com/document-services/apis/doc-generation/): Generate PDFs and Word documents from templates and JSON data.
+- [PDF Extract API](https://developer.adobe.com/document-services/apis/pdf-extract/): Extract text, tables, and document structure from PDF files.
+- [PDF Accessibility Auto-Tag API](https://developer.adobe.com/document-services/apis/pdf-accessibility-auto-tag/): Automatically tag PDFs to improve accessibility and structure.
+- [Document Services Tutorials](https://developer.adobe.com/document-services/docs/overview/tutorials/): Tutorials for common document automation and PDF integration scenarios.
+
+## Creative Cloud
+- [Creative Cloud Developer Platform](https://developer.adobe.com/creative-cloud/): Developer resources for Creative Cloud APIs, plugins, and integrations.
+- [Photoshop API](https://developer.adobe.com/firefly-services/docs/photoshop/): Automate image editing workflows with the Photoshop API.
+- [Lightroom API](https://developer.adobe.com/lightroom/lightroom-api-docs/): Access Lightroom assets, albums, and photo metadata programmatically.
+- [XD Plugin Development](https://developer.adobe.com/xd/): Build plugins and integrations for Adobe XD.
+- [UXP Developer Docs](https://developer.adobe.com/photoshop/uxp/): Build modern plugins for Photoshop and other Creative Cloud apps.
+- [Substance 3D Developer Tools](https://developer.adobe.com/substance3d/): SDKs and developer resources for Substance 3D workflows.
+- [Firefly Services](https://developer.adobe.com/firefly-services/): APIs for creative and generative imaging workflows.
+
+## Adobe Commerce
+- [Commerce Developer Home](https://developer.adobe.com/commerce/): Developer portal for Adobe Commerce APIs, extensibility, and guides.
+- [Commerce Documentation](https://developer.adobe.com/commerce/docs/): Core documentation for Adobe Commerce development and customization.
+- [REST and GraphQL APIs](https://developer.adobe.com/commerce/webapi/): API references for Adobe Commerce storefront and backend integrations.
+- [Commerce Extensibility](https://developer.adobe.com/commerce/extensibility/): Build extensions, integrations, and customizations for Adobe Commerce.
+- [Commerce App Builder](https://developer.adobe.com/commerce/extensibility/app-builder/): Use App Builder to create Adobe Commerce extensibility applications.
+- [Commerce Events](https://developer.adobe.com/commerce/extensibility/events/): Subscribe to and process Adobe Commerce events.
+- [Commerce API Mesh](https://developer.adobe.com/graphql-mesh-gateway/): Compose and orchestrate GraphQL APIs for commerce integrations.
+
+## SDKs and Tools
+- [SDKs Overview](https://developer.adobe.com/sdks/): Discover Adobe SDKs, libraries, and developer tooling.
+- [Adobe I/O CLI Reference](https://developer.adobe.com/cli/docs/): Documentation for Adobe I/O CLI commands and plugins.
+- [API Mesh](https://developer.adobe.com/graphql-mesh-gateway/): GraphQL mesh gateway for composing APIs across services.
+- [Developer Console Docs](https://developer.adobe.com/console/docs/): Learn how to configure projects, credentials, and API access.
+- [Postman Collections](https://developer.adobe.com/apis/postman/): Postman resources for exploring and testing Adobe APIs.
+- [GitHub Organization](https://github.com/adobe): Adobe GitHub repositories for SDKs, samples, and open source projects.
+
+## Community and Learning
+- [Developer Blog](https://developer.adobe.com/blog/): Articles, announcements, and technical posts for Adobe developers.
+- [Tutorials](https://developer.adobe.com/tutorials/): Guided learning content for Adobe APIs, SDKs, and integrations.
+- [Events](https://developer.adobe.com/events/): Developer events, webinars, and event platform resources.
+- [Open Source](https://developer.adobe.com/open-source/): Open source initiatives and repositories maintained by Adobe.
+- [Support](https://developer.adobe.com/support/): Support channels, FAQs, and developer assistance resources.
+- [Status](https://status.adobe.com/): Service status information for Adobe cloud products and platforms.

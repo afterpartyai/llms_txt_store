@@ -1,0 +1,72 @@
+# DomainControl
+> DomainControl provides domain registration, DNS management, web hosting, email, and website tools through GoDaddy's customer control panel.
+
+DomainControl is the account and product management interface used by GoDaddy customers to manage domains, DNS records, websites, hosting, email, billing, and account settings.
+
+## Domain Management
+- [Domain Control Center](https://domaincontrol.com/): Main dashboard for managing registered domains and connected products.
+- [Domain Portfolio](https://dcc.godaddy.com/): Central interface for viewing and managing domain holdings.
+- [DNS Management](https://dcc.godaddy.com/manage/dns): Manage DNS zones, records, nameservers, and forwarding settings.
+- [Domain Forwarding](https://dcc.godaddy.com/manage/dns): Configure domain and subdomain forwarding from DNS settings.
+- [Nameserver Settings](https://dcc.godaddy.com/manage/dns): Update default, custom, or delegated nameservers for domains.
+- [Domain Privacy and Protection](https://dcc.godaddy.com/): Access domain protection and ownership-related controls.
+- [Domain Transfers](https://dcc.godaddy.com/): Manage transfer locks, authorization codes, and transfer status.
+
+## DNS and Connectivity
+- [DNS Zone Editor](https://dcc.godaddy.com/manage/dns): Add, edit, and remove A, CNAME, MX, TXT, SRV, and AAAA records.
+- [DNS Templates](https://dcc.godaddy.com/manage/dns): Apply common DNS configurations for websites, email, and verification.
+- [Nameserver Management](https://dcc.godaddy.com/manage/dns): Switch between GoDaddy nameservers and custom DNS providers.
+- [Domain Connect](https://domainconnect.godaddy.com/): Standardized DNS configuration service for third-party integrations.
+- [Domain Connect API](https://domainconnect.godaddy.com/docs): Technical documentation for automated DNS setup using Domain Connect.
+- [SSL and Verification Records](https://dcc.godaddy.com/manage/dns): Configure TXT and CNAME records for certificates and service validation.
+
+## Help and Support
+- [GoDaddy Help Center](https://www.godaddy.com/help): Central support hub for products, billing, and account management.
+- [Manage DNS Records](https://www.godaddy.com/help/manage-dns-records-680): Help article for editing and maintaining DNS entries.
+- [Add an A Record](https://www.godaddy.com/help/add-an-a-record-19238): Instructions for pointing a domain to an IPv4 address.
+- [Add a CNAME Record](https://www.godaddy.com/help/add-a-cname-record-19236): Guide to aliasing subdomains to another hostname.
+- [Add an MX Record](https://www.godaddy.com/help/add-an-mx-record-19237): Steps for routing email through a mail provider.
+- [Change Nameservers](https://www.godaddy.com/help/change-nameservers-for-my-domains-664): Instructions for updating domain nameserver settings.
+- [Forward My GoDaddy Domain](https://www.godaddy.com/help/forward-my-godaddy-domain-12123): Guide to setting up domain forwarding and masking.
+
+## Account and Security
+- [Sign In](https://sso.godaddy.com/): Secure sign-in for GoDaddy and DomainControl account access.
+- [My Products](https://account.godaddy.com/products): View and manage domains, hosting, email, and other purchased products.
+- [Account Settings](https://account.godaddy.com/settings): Manage profile details, preferences, and account configuration.
+- [Login and PIN](https://account.godaddy.com/security): Update password, verification methods, and account security settings.
+- [Payment Methods](https://account.godaddy.com/billing/payment-methods): Manage saved cards and billing preferences.
+- [Order History](https://account.godaddy.com/orders): Review purchases, renewals, and transaction history.
+
+## Developer and API
+- [GoDaddy Developer Portal](https://developer.godaddy.com/): Entry point for APIs, keys, documentation, and developer resources.
+- [Domains API Overview](https://developer.godaddy.com/doc/endpoint/domains): Reference for domain availability, registration, and management endpoints.
+- [Domains API Documentation](https://developer.godaddy.com/doc): API docs for domains, DNS, certificates, and related services.
+- [Production Access](https://developer.godaddy.com/keys): Create and manage API keys for GoDaddy developer services.
+- [Developer Guides](https://developer.godaddy.com/doc/endpoint/domains#/v1): Explore endpoint-specific details and request formats.
+- [Domain Connect GitHub Organization](https://github.com/Domain-Connect): Open-source resources and specifications for Domain Connect integrations.
+
+## Email and Productivity
+- [Professional Email](https://account.godaddy.com/products): Access and manage email-related subscriptions from product dashboard.
+- [Microsoft 365 Management](https://account.godaddy.com/products): Manage Microsoft 365 email and productivity services.
+- [Email DNS Setup](https://dcc.godaddy.com/manage/dns): Configure MX, SPF, DKIM, and verification records for email delivery.
+- [Workspace and Mail Help](https://www.godaddy.com/help/email): Support resources for email setup, migration, and troubleshooting.
+
+## Hosting and Websites
+- [Web Hosting Products](https://account.godaddy.com/products): Manage hosting plans, websites, and connected services.
+- [Website Security and SSL](https://account.godaddy.com/products): Access SSL certificates and website protection products.
+- [Managed WordPress](https://account.godaddy.com/products): Manage WordPress hosting environments and settings.
+- [Website Builder](https://account.godaddy.com/products): Access website creation and editing tools tied to your account.
+- [Connect Domain to Hosting](https://dcc.godaddy.com/manage/dns): Point domains to hosting using DNS records or nameserver changes.
+
+## Billing and Renewals
+- [Renewals and Billing](https://account.godaddy.com/billing): Manage renewals, billing settings, and subscription charges.
+- [Auto-Renew Settings](https://account.godaddy.com/products): Enable or disable automatic renewal for eligible products.
+- [Invoices and Receipts](https://account.godaddy.com/orders): Access order confirmations and billing history.
+- [Payment Options](https://account.godaddy.com/billing/payment-methods): Update payment instruments used for renewals and purchases.
+
+## Additional Resources
+- [GoDaddy Home](https://www.godaddy.com/): Main site for product information, account access, and support.
+- [GoDaddy Blog](https://www.godaddy.com/resources): Articles and guides on domains, websites, and online business.
+- [Domain Search](https://www.godaddy.com/domains/domain-name-search): Search for available domain names and registration options.
+- [WHOIS Search](https://www.godaddy.com/whois): Look up domain registration data and ownership-related information.
+- [GoDaddy Status](https://www.godaddy.com/system-status): Service status page for platform availability and incidents.

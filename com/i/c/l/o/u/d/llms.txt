@@ -1,0 +1,73 @@
+# iCloud
+> Apple’s cloud service for syncing, storing, backing up, and accessing personal data across Apple devices and the web.
+
+iCloud on the web provides access to core Apple apps and account features including Mail, Photos, Drive, Notes, Calendar, Contacts, Find My, and account settings. Apple’s support and developer documentation also cover setup, storage, privacy, APIs, and platform integration relevant to iCloud users and developers.
+
+## Web Apps
+- [iCloud Home](https://www.icloud.com/): Main entry point for signing in and accessing iCloud web apps.
+- [Mail](https://www.icloud.com/mail/): Web access to iCloud Mail for reading, sending, and organizing email.
+- [Calendar](https://www.icloud.com/calendar/): Browser-based access to iCloud calendars, events, and shared schedules.
+- [Contacts](https://www.icloud.com/contacts/): Manage personal contacts stored and synced through iCloud.
+- [Drive](https://www.icloud.com/iclouddrive/): Access, upload, organize, and share files stored in iCloud Drive.
+- [Photos](https://www.icloud.com/photos/): View, manage, and download photos and videos synced with iCloud Photos.
+- [Notes](https://www.icloud.com/notes/): Create, edit, and organize notes stored in iCloud.
+- [Find Devices](https://www.icloud.com/find/): Locate Apple devices and access Find My features from the web.
+
+## Account and Setup
+- [Apple Account](https://account.apple.com/): Manage Apple Account details, security settings, and connected devices.
+- [Create Your Apple Account](https://account.apple.com/account): Create a new Apple Account for iCloud and Apple services.
+- [Forgot Password](https://iforgot.apple.com/): Recover access to an Apple Account and reset account credentials.
+- [Apple ID Support](https://support.apple.com/apple-account): Official support hub for Apple Account setup and management.
+- [Set Up iCloud](https://support.apple.com/guide/icloud/set-up-icloud-mm74e822f6de/icloud): Learn how to enable and configure iCloud on Apple devices.
+- [Sign In to iCloud on the Web](https://support.apple.com/guide/icloud/sign-in-and-use-icloudcom-mmdb3c5d2a/icloud): Instructions for accessing iCloud features from a browser.
+
+## iCloud User Guide
+- [iCloud User Guide](https://support.apple.com/guide/icloud/welcome/icloud): Central documentation for using iCloud features across devices and the web.
+- [What Is iCloud?](https://support.apple.com/guide/icloud/what-is-icloud-mm74e822f6de/icloud): Overview of iCloud capabilities, syncing, storage, and supported features.
+- [Use iCloud Drive](https://support.apple.com/guide/icloud/use-icloud-drive-mm2034d6f91f/icloud): Guidance for storing, organizing, and sharing files with iCloud Drive.
+- [Use iCloud Photos](https://support.apple.com/guide/icloud/use-icloud-photos-mm08b49040b5/icloud): Learn how photos and videos sync and remain available across devices.
+- [Use iCloud Mail](https://support.apple.com/guide/icloud/use-icloud-mail-mmdd8d1b47/icloud): Documentation for sending, receiving, and organizing iCloud email.
+- [Use Notes in iCloud](https://support.apple.com/guide/icloud/use-notes-mm6704cac5/icloud): Manage notes, folders, and collaboration through iCloud.
+- [Share and Collaborate](https://support.apple.com/guide/icloud/share-and-collaborate-mm708256356b/icloud): Learn how to share files, notes, and other content with others.
+
+## Storage and Backup
+- [Manage iCloud Storage](https://support.apple.com/guide/icloud/manage-your-icloud-storage-mm039c13d410/icloud): View storage usage and reduce space consumed by apps and backups.
+- [Upgrade to iCloud+](https://support.apple.com/guide/icloud/upgrade-to-icloud-plus-mm7e2f2f9a47/icloud): Steps for moving to a paid iCloud+ storage plan.
+- [iCloud Backup](https://support.apple.com/guide/icloud/use-icloud-backup-mm122d3ef202/icloud): Learn how device backups work with iCloud and how to restore data.
+- [Free Up iCloud Storage](https://support.apple.com/en-us/108922): Apple support article for reclaiming space in iCloud.
+- [Check Your iCloud Storage](https://support.apple.com/en-us/108047): Support guidance for viewing current iCloud storage usage.
+- [iCloud+ Overview](https://www.apple.com/icloud/): Product overview for iCloud+, storage, privacy, and premium features.
+
+## Privacy and Security
+- [iCloud Security Overview](https://support.apple.com/guide/security/welcome/web): Apple Platform Security documentation including iCloud-related protections.
+- [Use Advanced Data Protection for iCloud](https://support.apple.com/en-us/102651): Learn about enabling end-to-end encryption for more iCloud data categories.
+- [If You See an iCloud Sign-In Request](https://support.apple.com/en-us/102660): Understand Apple Account sign-in verification prompts and approvals.
+- [Two-Factor Authentication for Apple Account](https://support.apple.com/en-us/102660): Guidance on securing Apple Account access with two-factor authentication.
+- [Apple Privacy](https://www.apple.com/privacy/): Apple’s privacy principles and product privacy information.
+- [Legal - iCloud Terms and Conditions](https://www.apple.com/legal/internet-services/icloud/): Terms governing use of iCloud services.
+
+## Support Articles
+- [iCloud Support](https://support.apple.com/icloud): Main support portal for iCloud troubleshooting and feature help.
+- [System Requirements for iCloud](https://support.apple.com/en-us/101628): Supported devices, browsers, and operating systems for iCloud features.
+- [Set Up iCloud for Windows](https://support.apple.com/en-us/103232): Instructions for configuring iCloud on Windows PCs.
+- [Use iCloud on a Computer](https://support.apple.com/guide/icloud/use-icloud-on-a-computer-mmdd3c5d2a/icloud): Learn how to access iCloud services from Mac, Windows, and browsers.
+- [If iCloud Photos Is Not Syncing](https://support.apple.com/en-us/108760): Troubleshooting steps for photo syncing issues across devices.
+- [If You Can’t Connect or Sign In to iCloud](https://support.apple.com/en-us/108876): Help for login, connectivity, and account access problems.
+- [Delete Photos in iCloud](https://support.apple.com/en-us/118225): Guidance for removing photos and understanding sync behavior.
+
+## Developer Resources
+- [CloudKit](https://developer.apple.com/icloud/cloudkit/): Apple framework for storing app data in iCloud and syncing across devices.
+- [CloudKit Documentation](https://developer.apple.com/documentation/cloudkit): API reference and conceptual documentation for CloudKit.
+- [CKContainer](https://developer.apple.com/documentation/cloudkit/ckcontainer): Reference for accessing iCloud containers and account status in apps.
+- [CKDatabase](https://developer.apple.com/documentation/cloudkit/ckdatabase): API reference for reading and writing records in CloudKit databases.
+- [CKRecord](https://developer.apple.com/documentation/cloudkit/ckrecord): Documentation for modeling structured records stored in CloudKit.
+- [CloudKit Console](https://developer.apple.com/icloud/cloudkit-console/): Web tool for inspecting, querying, and managing CloudKit data.
+- [iCloud Design Guide](https://developer.apple.com/design/human-interface-guidelines/icloud): Design guidance for integrating iCloud features into Apple platform apps.
+
+## Platform Integration
+- [iCloud for Windows](https://support.apple.com/en-us/103232): Install and use Apple’s Windows integration for photos, mail, and files.
+- [Use iCloud Drive on iPhone and iPad](https://support.apple.com/guide/icloud/use-icloud-drive-mm2034d6f91f/icloud): Access and manage synced files from mobile Apple devices.
+- [Use iCloud Drive on Mac](https://support.apple.com/guide/icloud/set-up-icloud-drive-mm2034d6f91f/icloud): Configure iCloud Drive and desktop syncing on macOS.
+- [Set Up iCloud Mail](https://support.apple.com/guide/icloud/set-up-icloud-mail-mmdd8d1b47/icloud): Enable and use an iCloud Mail address with Apple devices.
+- [Use Find My on iCloud.com](https://support.apple.com/guide/icloud/use-find-devices-mmfc0f0165/icloud): Locate devices and perform remote actions from the web.
+- [Share Files and Folders in iCloud Drive](https://support.apple.com/guide/icloud/share-files-and-folders-mm708256356b/icloud): Collaborate on files and folders stored in iCloud Drive.

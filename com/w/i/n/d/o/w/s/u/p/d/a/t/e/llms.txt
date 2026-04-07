@@ -1,0 +1,68 @@
+# Windows Update
+> Microsoft’s Windows Update service provides operating system updates, security patches, drivers, and update management guidance for Windows devices.
+
+This site and its related Microsoft documentation cover Windows Update for consumers, IT administrators, and developers, including update deployment, policy configuration, release health, and Windows Update for Business.
+
+## Windows Update Home
+- [Windows Update](https://www.windowsupdate.com/): Entry point for Microsoft’s Windows Update service.
+- [Windows Update: FAQ](https://support.microsoft.com/windows/windows-update-faq-8a5c2a5f-6b2d-4f6d-9f4a-4f4f4f4f4f4f): Answers common questions about installing and managing Windows updates.
+- [Update Windows](https://support.microsoft.com/windows/update-windows-3c5ae7fc-9fb6-9af1-1984-b5e0412c556a): End-user instructions for checking for and installing updates.
+
+## Windows Release Health
+- [Windows Release Health](https://learn.microsoft.com/windows/release-health/): Central hub for Windows release information, known issues, and servicing status.
+- [Windows 11 Release Information](https://learn.microsoft.com/windows/release-health/windows11-release-information): Version history, servicing timeline, and known issues for Windows 11.
+- [Windows 10 Release Information](https://learn.microsoft.com/windows/release-health/release-information): Version history, servicing timeline, and known issues for Windows 10.
+- [Message Center](https://learn.microsoft.com/windows/release-health/message-center): Announcements and important changes affecting Windows servicing and updates.
+- [Known Issues and Notifications](https://learn.microsoft.com/windows/release-health/status-windows-11-24h2): Current known issues and safeguards for supported Windows releases.
+
+## Windows Update for Business
+- [Windows Update for Business Overview](https://learn.microsoft.com/windows/deployment/update/waas-manage-updates-wufb): Overview of managing Windows updates directly from Microsoft services.
+- [Manage Updates with Windows Update for Business](https://learn.microsoft.com/windows/deployment/update/waas-manage-updates): Guidance for configuring update policies and deployment rings.
+- [Windows Update for Business Reports](https://learn.microsoft.com/windows/deployment/update/wufb-reports-overview): Reporting and compliance monitoring for managed Windows devices.
+- [Safeguard Holds](https://learn.microsoft.com/windows/deployment/update/safeguard-holds): Explanation of compatibility holds that block feature updates.
+- [Expedite Updates](https://learn.microsoft.com/windows/deployment/update/expedite-updates): Deploy security updates quickly to managed devices.
+
+## Windows Update Client Policies
+- [Configure Automatic Updates](https://learn.microsoft.com/windows/deployment/update/waas-wu-settings): Policy settings for Windows Update client behavior.
+- [Windows Update CSP](https://learn.microsoft.com/windows/client-management/mdm/policy-csp-update): Mobile device management policy reference for update settings.
+- [Group Policy Settings for Windows Update](https://learn.microsoft.com/windows/deployment/update/waas-wu-settings#group-policy-settings-for-windows-update): Group Policy options for update configuration.
+- [Delivery Optimization](https://learn.microsoft.com/windows/deployment/do/delivery-optimization): Peer-to-peer content distribution settings for update downloads.
+- [Active Hours](https://support.microsoft.com/windows/keep-your-device-up-to-date-with-active-hours-3f9f0b0d-0f2f-4f4d-9d3d-0d0d0d0d0d0d): Configure restart timing to reduce disruption from updates.
+
+## Windows Server Update Services
+- [WSUS Overview](https://learn.microsoft.com/windows-server/administration/windows-server-update-services/get-started/windows-server-update-services-wsus): Introduction to Windows Server Update Services for on-premises update management.
+- [Deploy WSUS](https://learn.microsoft.com/windows-server/administration/windows-server-update-services/deploy/2-configure-wsus): Setup and configuration guidance for WSUS infrastructure.
+- [WSUS Operations Guide](https://learn.microsoft.com/windows-server/administration/windows-server-update-services/manage/operations-guide): Day-to-day administration and maintenance for WSUS environments.
+- [WSUS API Reference](https://learn.microsoft.com/previous-versions/windows/desktop/bb902479(v=vs.85)): Reference for automating WSUS administration programmatically.
+
+## Microsoft Update Catalog
+- [Microsoft Update Catalog](https://www.catalog.update.microsoft.com/): Searchable catalog of downloadable Microsoft update packages.
+- [Security Update Guide](https://msrc.microsoft.com/update-guide/): Search and filter Microsoft security updates and advisories.
+- [Microsoft Security Response Center](https://msrc.microsoft.com/): Security bulletins, advisories, and vulnerability response information.
+- [Update History for Microsoft 365 Apps](https://learn.microsoft.com/officeupdates/update-history-microsoft365-apps-by-date): Release history for Microsoft 365 Apps updates.
+
+## Deployment and Servicing Guides
+- [Windows as a Service Overview](https://learn.microsoft.com/windows/deployment/update/waas-overview): Servicing model and update cadence for modern Windows releases.
+- [Plan for Windows Client Updates](https://learn.microsoft.com/windows/deployment/update/plan-for-windows-updates): Planning guidance for update readiness and deployment strategy.
+- [Manage Feature Updates](https://learn.microsoft.com/windows/deployment/update/manage-feature-updates): Control rollout of Windows feature updates across devices.
+- [Manage Quality Updates](https://learn.microsoft.com/windows/deployment/update/manage-quality-updates): Configure and monitor monthly quality update deployments.
+- [Optimize Update Delivery](https://learn.microsoft.com/windows/deployment/do/waas-delivery-optimization): Improve bandwidth usage for Windows update distribution.
+
+## Troubleshooting and Recovery
+- [Windows Update Troubleshooter](https://support.microsoft.com/windows/windows-update-troubleshooter-19bc41ca-ad72-ae67-af3c-89ce169755dd): Automated troubleshooting steps for common update problems.
+- [Fix Windows Update Errors](https://support.microsoft.com/windows/fix-windows-update-errors-188c2b0f-10f6-7f5c-d36f-7d3b6b3f8f4f): Troubleshooting guidance for update installation failures.
+- [Windows Recovery Options](https://support.microsoft.com/windows/recovery-options-in-windows-31ce2444-7de3-818c-d626-e3b5a3024da5): Recovery tools and reset options when updates cause issues.
+- [DISM Reference](https://learn.microsoft.com/windows-hardware/manufacture/desktop/what-is-dism): Deployment Image Servicing and Management tool documentation.
+- [System File Checker](https://support.microsoft.com/windows/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system-files-79aa86cb-ca52-166a-92a3-966e85d4094e): Repair corrupted system files that may block updates.
+
+## Developer and API Resources
+- [Windows Update Agent API](https://learn.microsoft.com/windows/win32/wua_sdk/portal): API documentation for interacting with the Windows Update Agent.
+- [Windows Update Agent Interfaces](https://learn.microsoft.com/windows/win32/wua_sdk/interfaces): COM interfaces for searching, downloading, and installing updates.
+- [Windows Update Agent Tasks](https://learn.microsoft.com/windows/win32/wua_sdk/using-the-windows-update-agent-api): Common programming tasks using the Windows Update Agent API.
+- [Update Session Orchestration](https://learn.microsoft.com/windows/deployment/update/update-session-orchestration): Concepts for update orchestration and servicing workflows.
+
+## Support and Community
+- [Microsoft Support: Windows](https://support.microsoft.com/windows): Official Windows support articles and troubleshooting resources.
+- [Windows IT Pro Blog](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/bg-p/Windows10Blog): Announcements and best practices for Windows servicing and management.
+- [Microsoft Learn: Windows Deployment](https://learn.microsoft.com/windows/deployment/): Documentation hub for Windows deployment, servicing, and update management.
+- [Microsoft Learn Q&A: Windows](https://learn.microsoft.com/answers/tags/787/windows): Community questions and answers for Windows administration and troubleshooting.

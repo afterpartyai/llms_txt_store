@@ -1,0 +1,83 @@
+# Google AdSense / Google Syndication
+> Google’s advertising syndication and monetization platform for publishers, advertisers, and developers.
+
+Google Syndication powers ad serving, monetization, and related publisher tooling across Google properties. The most useful public resources are primarily hosted on Google Help Center, Google for Developers, and Ad Manager documentation rather than on the root syndication domain itself.
+
+## AdSense Help
+- [AdSense Help Center](https://support.google.com/adsense/): Official help hub for AdSense setup, policies, payments, and troubleshooting.
+- [Get started with AdSense](https://support.google.com/adsense/answer/9274019): Overview of account setup, site approval, and first ad placement.
+- [Ad units](https://support.google.com/adsense/answer/9183363): Explains available ad unit formats and implementation options for publishers.
+- [Auto ads](https://support.google.com/adsense/answer/9261306): Describes automatic ad placement and optimization across publisher sites.
+- [Payments](https://support.google.com/adsense/topic/1727182): Covers payment methods, thresholds, schedules, and account verification.
+- [Program policies](https://support.google.com/adsense/answer/48182): Core AdSense content and traffic policies publishers must follow.
+- [Policy center](https://support.google.com/adsense/answer/9462111): Explains policy issues, enforcement actions, and remediation workflow.
+
+## AdSense for Search
+- [Programmable Search Engine monetization](https://support.google.com/programmable-search/answer/4545490): Monetization guidance for custom search experiences using AdSense for Search.
+- [AdSense for Search policies](https://support.google.com/adsense/answer/9336650): Policy requirements specific to search ads implementations.
+- [Search style customization](https://support.google.com/programmable-search/answer/12423533): Configure appearance and presentation of custom search results and ads.
+- [Structured data for Programmable Search Engine](https://developers.google.com/custom-search/docs/structured_data): Improve search result quality with supported structured data markup.
+
+## Google Publisher Tag
+- [Google Publisher Tag overview](https://developers.google.com/publisher-tag): Main documentation for loading, defining, and displaying Google ad slots.
+- [Get started with Google Publisher Tag](https://developers.google.com/publisher-tag/guides/get-started): Introductory guide to basic GPT implementation on web pages.
+- [Display a test ad](https://developers.google.com/publisher-tag/guides/display-test-ad): Shows how to verify GPT integration with sample ad requests.
+- [Control ad loading and refresh](https://developers.google.com/publisher-tag/guides/control-ad-loading): Explains lazy loading, refresh, and request timing controls.
+- [Minimize layout shift](https://developers.google.com/publisher-tag/guides/minimize-layout-shift): Best practices to reduce CLS from ad slot rendering.
+- [Configure privacy settings](https://developers.google.com/publisher-tag/guides/configure-privacy): Covers privacy-related GPT settings and consent-aware ad behavior.
+- [Google Publisher Tag reference](https://developers.google.com/publisher-tag/reference): API reference for GPT classes, methods, events, and configuration.
+
+## Google Ad Manager
+- [Ad Manager Help Center](https://support.google.com/admanager/): Official help for trafficking, delivery, reporting, and administration.
+- [Google Ad Manager developer site](https://developers.google.com/ad-manager): Developer documentation for APIs, tags, and integration workflows.
+- [Ad Manager API overview](https://developers.google.com/ad-manager/api): Entry point for Ad Manager API concepts and resources.
+- [SOAP API reference](https://developers.google.com/ad-manager/api/reference): Reference documentation for Ad Manager SOAP API services and objects.
+- [REST API overview](https://developers.google.com/ad-manager/api/beta): Beta REST API documentation for Ad Manager integrations.
+- [Create and manage line items](https://support.google.com/admanager/topic/7506394): Help content for trafficking campaigns and delivery settings.
+- [Reports](https://support.google.com/admanager/topic/7506391): Reporting guides for inventory, revenue, and delivery analysis.
+
+## Interactive Media Ads SDK
+- [IMA SDK overview](https://developers.google.com/interactive-media-ads): Documentation for serving client-side video and audio ads.
+- [HTML5 client-side getting started](https://developers.google.com/interactive-media-ads/docs/sdks/html5/client-side/get-started): Implement video ads in HTML5 web players.
+- [Android IMA SDK](https://developers.google.com/interactive-media-ads/docs/sdks/android): Integrate ad playback into Android video apps.
+- [iOS IMA SDK](https://developers.google.com/interactive-media-ads/docs/sdks/ios): Integrate ad playback into iOS video applications.
+- [DAI overview](https://developers.google.com/ad-manager/dynamic-ad-insertion/sdk): Server-side dynamic ad insertion documentation and SDK resources.
+- [VAST reference](https://developers.google.com/interactive-media-ads/docs/sdks/html5/client-side/tags): Ad tag formats and VAST usage for IMA integrations.
+
+## Authorized Buyers and RTB
+- [Authorized Buyers overview](https://developers.google.com/authorized-buyers): Documentation for Google’s programmatic buying platform and integrations.
+- [Real-time Bidding guides](https://developers.google.com/authorized-buyers/rtb/get-started): Start building RTB bidder integrations for Authorized Buyers.
+- [OpenRTB guide](https://developers.google.com/authorized-buyers/rtb/openrtb-guide): OpenRTB protocol details for bid requests and responses.
+- [RTB protocol reference](https://developers.google.com/authorized-buyers/rtb/downloads/openrtb-adx-proto): Protocol buffer definitions for Google RTB integrations.
+- [Buyer API overview](https://developers.google.com/authorized-buyers/apis/guides/get-started): APIs for account management, creatives, and marketplace workflows.
+- [Policy and compliance](https://developers.google.com/authorized-buyers/rtb/response-guide/policies): Buyer-side ad quality and policy requirements.
+
+## AdMob
+- [AdMob Help Center](https://support.google.com/admob/): Official help for app monetization, setup, policy, and payments.
+- [Google Mobile Ads SDK](https://developers.google.com/admob): Developer documentation for mobile ad integration in apps.
+- [Android quick start](https://developers.google.com/admob/android/quick-start): Set up the Mobile Ads SDK in Android applications.
+- [iOS quick start](https://developers.google.com/admob/ios/quick-start): Set up the Mobile Ads SDK in iOS applications.
+- [Ad formats](https://developers.google.com/admob/android/banner): Entry point to banner and other mobile ad format guides.
+- [Policies](https://support.google.com/admob/answer/6128543): Program policies and publisher restrictions for AdMob accounts.
+
+## Privacy, Consent, and Policy
+- [Google publisher policies](https://support.google.com/publisherpolicies/): Central policy hub for Google publisher monetization products.
+- [EU user consent policy](https://www.google.com/about/company/user-consent-policy/): Requirements for obtaining consent from users in regulated regions.
+- [Funding Choices](https://support.google.com/fundingchoices/): Consent and messaging tools for privacy and ad-block recovery.
+- [UMP SDK overview](https://developers.google.com/admob/ump): User Messaging Platform SDK for consent collection in apps.
+- [Privacy Sandbox](https://privacysandbox.com/): Privacy-preserving advertising and measurement initiatives for the web and Android.
+- [Configure privacy settings in GPT](https://developers.google.com/publisher-tag/guides/configure-privacy): GPT-specific privacy controls for ad requests and consent signals.
+
+## Publisher Tools and Search
+- [Google Search Central](https://developers.google.com/search): Documentation for search visibility, crawling, and structured data.
+- [Robots.txt documentation](https://developers.google.com/search/docs/crawling-indexing/robots/intro): Guidance on crawler controls relevant to ad and content delivery.
+- [Page experience and Core Web Vitals](https://developers.google.com/search/docs/appearance/page-experience): Performance guidance affecting monetized page quality and UX.
+- [Web.dev advertising and performance](https://web.dev/explore/fast): Performance best practices applicable to ad-supported websites.
+- [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview): Audit site performance, accessibility, and best practices for publisher pages.
+
+## Account and Product Support
+- [Google Help](https://support.google.com/): Central support portal for Google products and account issues.
+- [Google Ads Help Center](https://support.google.com/google-ads/): Help for advertisers using Google Ads campaigns and billing.
+- [Google Marketing Platform Help](https://support.google.com/marketingplatform/): Support for analytics, campaign management, and enterprise marketing tools.
+- [Google Business Profile Help](https://support.google.com/business/): Support resources for business presence and account management.
+- [Google Account Help](https://support.google.com/accounts/): Account access, security, and identity troubleshooting.

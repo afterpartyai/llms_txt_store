@@ -1,0 +1,51 @@
+# trbcdn.net
+> Tribune Publishing’s content delivery domain serving static assets, media, scripts, stylesheets, and site resources for Tribune-owned news properties.
+
+This domain functions primarily as a CDN rather than a standalone product site. It hosts shared frontend assets, images, JavaScript bundles, stylesheets, fonts, and other static resources used across Tribune Publishing and related newspaper websites.
+
+## Overview
+- [CDN Root](https://trbcdn.net/): Root of the Tribune Publishing content delivery network.
+- [Robots.txt](https://trbcdn.net/robots.txt): Crawl directives for automated agents accessing the CDN domain.
+- [Favicon](https://trbcdn.net/favicon.ico): Default site icon asset served from the CDN root.
+
+## Static Assets
+- [JavaScript Assets](https://trbcdn.net/js/): Directory path commonly used for shared JavaScript resources.
+- [Stylesheet Assets](https://trbcdn.net/css/): Directory path commonly used for shared CSS resources.
+- [Image Assets](https://trbcdn.net/img/): Directory path commonly used for shared image resources.
+- [Font Assets](https://trbcdn.net/fonts/): Directory path commonly used for webfont files and related assets.
+
+## Media Delivery
+- [Video Assets](https://trbcdn.net/video/): Path used for hosted video files and playback-related media.
+- [Audio Assets](https://trbcdn.net/audio/): Path used for hosted audio files and streaming-related resources.
+- [Photo Assets](https://trbcdn.net/media/): General media path for images and other rich content.
+- [Uploads](https://trbcdn.net/uploads/): Path commonly used for uploaded static content and generated assets.
+
+## Frontend Resources
+- [Scripts](https://trbcdn.net/scripts/): Shared frontend script resources for Tribune web properties.
+- [Bundles](https://trbcdn.net/assets/): Compiled application assets and static build outputs.
+- [Vendor Libraries](https://trbcdn.net/vendor/): Third-party frontend libraries distributed through the CDN.
+- [Themes](https://trbcdn.net/themes/): Theme-specific static resources for site presentation layers.
+
+## Publishing Assets
+- [Templates](https://trbcdn.net/templates/): Frontend template resources used by publishing platforms.
+- [Widgets](https://trbcdn.net/widgets/): Embeddable widget assets for interactive site components.
+- [Interactive Graphics](https://trbcdn.net/interactives/): Static assets supporting newsroom interactives and special projects.
+- [E-paper Assets](https://trbcdn.net/epaper/): Resources associated with digital replica or e-paper experiences.
+
+## Site Support Files
+- [Manifest](https://trbcdn.net/manifest.json): Web application manifest when exposed from the CDN root.
+- [Service Worker](https://trbcdn.net/sw.js): Service worker script path for offline or caching support.
+- [Sitemap](https://trbcdn.net/sitemap.xml): Sitemap path if published for CDN-hosted resources.
+- [Humans.txt](https://trbcdn.net/humans.txt): Optional metadata file describing site contributors or ownership.
+
+## Shared Brand Resources
+- [Logos](https://trbcdn.net/logos/): Shared publication and corporate logo assets.
+- [Icons](https://trbcdn.net/icons/): Iconography used across Tribune digital properties.
+- [Brand Images](https://trbcdn.net/brand/): Brand-specific visual assets and supporting media.
+- [Favicons](https://trbcdn.net/favicons/): Multi-size favicon and app icon resources.
+
+## Archive and Legacy Paths
+- [Legacy Assets](https://trbcdn.net/legacy/): Older static resources retained for backward compatibility.
+- [Archive Media](https://trbcdn.net/archive/): Archived CDN-hosted files and historical assets.
+- [Static Content](https://trbcdn.net/static/): General-purpose static file path used by legacy applications.
+- [Public Assets](https://trbcdn.net/public/): Publicly accessible shared resources for web delivery.

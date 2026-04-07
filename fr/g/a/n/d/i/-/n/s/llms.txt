@@ -1,0 +1,59 @@
+# Gandi NS
+> Gandi NS provides DNS hosting and nameserver management services for domains, with documentation and support resources for configuration and operations.
+
+Gandi NS is part of Gandi's domain and DNS infrastructure, offering authoritative nameserver services and related domain name system guidance through Gandi's documentation and support content.
+
+## DNS Documentation
+- [DNS documentation](https://docs.gandi.net/en/domain_names/common_operations/dns/): Overview of DNS concepts and common DNS operations in Gandi documentation.
+- [Manage DNS records](https://docs.gandi.net/en/domain_names/common_operations/dns_records.html): Instructions for creating and editing common DNS record types.
+- [Glue records](https://docs.gandi.net/en/domain_names/register/glue_records.html): Explains host objects and glue record configuration for nameservers.
+- [Nameservers](https://docs.gandi.net/en/domain_names/common_operations/nameservers.html): Guidance for changing and managing authoritative nameservers on domains.
+- [DNSSEC](https://docs.gandi.net/en/domain_names/common_operations/dnssec.html): Documentation for enabling and managing DNSSEC on supported domains.
+
+## Domain Name Operations
+- [Domain names documentation](https://docs.gandi.net/en/domain_names/): Entry point for domain registration, transfer, and management documentation.
+- [Register a domain](https://docs.gandi.net/en/domain_names/register/): Documentation for registering new domain names with Gandi.
+- [Transfer a domain](https://docs.gandi.net/en/domain_names/transfer/): Guides for inbound domain transfers and related requirements.
+- [Renew a domain](https://docs.gandi.net/en/domain_names/renew/): Information about domain renewal workflows and lifecycle handling.
+- [Domain contacts](https://docs.gandi.net/en/domain_names/common_operations/contact_management.html): Explains contact management for domain ownership and administration.
+
+## API Reference
+- [Gandi API documentation](https://api.gandi.net/docs/): Main reference for Gandi's public API endpoints and usage.
+- [Domain API](https://api.gandi.net/docs/domains/): API reference for domain management operations and resources.
+- [DNS API](https://api.gandi.net/docs/livedns/): API reference for LiveDNS zones, records, and nameserver-related automation.
+- [Authentication](https://api.gandi.net/docs/authentication/): Details on API keys and authentication methods for Gandi services.
+- [OpenAPI specification](https://api.gandi.net/docs/openapi/): Machine-readable API schema and endpoint definitions.
+
+## LiveDNS Guides
+- [LiveDNS overview](https://docs.gandi.net/en/livedns/): Overview of Gandi LiveDNS features and service behavior.
+- [Create a zone](https://docs.gandi.net/en/livedns/create_a_zone.html): Steps for creating and initializing a DNS zone.
+- [Edit DNS records in LiveDNS](https://docs.gandi.net/en/livedns/edit_dns_records.html): How to add, modify, and remove records in a zone.
+- [Import a zone file](https://docs.gandi.net/en/livedns/import_zone_file.html): Instructions for importing existing DNS configurations from zone files.
+- [Export a zone file](https://docs.gandi.net/en/livedns/export_zone_file.html): Explains how to export DNS zone data for backup or migration.
+
+## Email and Related DNS Setup
+- [Email documentation](https://docs.gandi.net/en/mail/): Documentation for Gandi mail services and related administration.
+- [MX records](https://docs.gandi.net/en/domain_names/common_operations/dns_records/mx_record.html): Explains MX record usage for directing mail delivery.
+- [SPF records](https://docs.gandi.net/en/domain_names/common_operations/dns_records/spf_record.html): Guidance for publishing SPF policies in DNS.
+- [DKIM records](https://docs.gandi.net/en/domain_names/common_operations/dns_records/dkim_record.html): Documentation for DKIM-related DNS record configuration.
+- [DMARC records](https://docs.gandi.net/en/domain_names/common_operations/dns_records/dmarc_record.html): Guidance for adding DMARC policies to DNS zones.
+
+## SSL and Security
+- [SSL certificates documentation](https://docs.gandi.net/en/ssl/): Documentation for certificate ordering, validation, and management.
+- [DNSSEC documentation](https://docs.gandi.net/en/domain_names/common_operations/dnssec.html): Security guidance for signing domains with DNSSEC.
+- [Two-factor authentication](https://docs.gandi.net/en/account_security/two_factor_authentication.html): Instructions for securing Gandi accounts with 2FA.
+- [Account security](https://docs.gandi.net/en/account_security/): Overview of account protection and authentication features.
+
+## Support and Help
+- [Documentation home](https://docs.gandi.net/en/): Main portal for Gandi product and service documentation.
+- [Help center](https://help.gandi.net/hc/en-us): Support portal for troubleshooting and customer assistance.
+- [Domain names help articles](https://help.gandi.net/hc/en-us/categories/115000242409-Domain-Names): Support articles focused on domain management topics.
+- [DNS and nameserver help articles](https://help.gandi.net/hc/en-us/search?query=DNS): Search results for DNS-related support content.
+- [Contact support](https://help.gandi.net/hc/en-us/requests/new): Entry point for submitting support requests.
+
+## Product and Service Overview
+- [Gandi main site](https://www.gandi.net/): Main website for Gandi products, services, and account access.
+- [Domain names](https://www.gandi.net/en/domain): Product overview for domain registration and management.
+- [DNS hosting](https://www.gandi.net/en/domain/email-dns): Overview of DNS and email services associated with domains.
+- [Cloud hosting](https://www.gandi.net/en/cloud): Product information for Gandi cloud infrastructure services.
+- [Simple hosting](https://www.gandi.net/en/simple-hosting): Overview of managed web hosting offerings.

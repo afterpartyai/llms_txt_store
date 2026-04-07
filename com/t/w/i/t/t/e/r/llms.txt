@@ -1,0 +1,86 @@
+# X (formerly Twitter)
+> Social networking platform for real-time conversations, publishing posts, and building applications through the X API.
+
+X provides consumer social products and a developer platform for posting content, reading timelines, managing accounts, and integrating social data into applications.
+
+## Core Platform
+- [Home](https://twitter.com/home): Main signed-in timeline and entry point for browsing posts and recommendations.
+- [Explore](https://twitter.com/explore): Discover trending topics, news, events, and popular conversations across the platform.
+- [Notifications](https://twitter.com/notifications): View mentions, replies, follows, and other account activity updates.
+- [Messages](https://twitter.com/messages): Access direct messages and private conversations between accounts.
+- [Bookmarks](https://twitter.com/i/bookmarks): Save posts for later reading from a dedicated bookmarks view.
+- [Lists](https://twitter.com/i/lists): Organize accounts into curated lists for focused timeline reading.
+- [Communities](https://twitter.com/i/communities): Participate in topic-based communities with shared discussions and posts.
+
+## Account and Publishing
+- [Compose Post](https://twitter.com/compose/post): Create and publish a new post with media, polls, or links.
+- [Profile Settings](https://twitter.com/settings/profile): Manage display name, bio, avatar, and profile customization options.
+- [Account Settings](https://twitter.com/settings/account): Control account identity, phone, email, and account-level preferences.
+- [Privacy and Safety](https://twitter.com/settings/privacy_and_safety): Configure audience, discoverability, content visibility, and safety controls.
+- [Security and Account Access](https://twitter.com/settings/security_and_account_access): Manage passwords, authentication, sessions, and connected account access.
+- [Your Posts and Replies](https://twitter.com/settings/your_twitter_data): Review account data and activity history associated with your profile.
+
+## Help Center
+- [Help Center Home](https://help.twitter.com/): Central support hub for account, safety, and product help articles.
+- [Using X](https://help.twitter.com/en/using-x): Learn core product features, posting, timelines, and account interactions.
+- [Managing Your Account](https://help.twitter.com/en/managing-your-account): Find help for login, profile management, and account maintenance tasks.
+- [Safety and Security](https://help.twitter.com/en/safety-and-security): Read guidance on abuse prevention, reporting, and account protection.
+- [Rules and Policies](https://help.twitter.com/en/rules-and-policies): Browse platform rules, enforcement explanations, and policy documentation.
+- [Ads and Business](https://help.twitter.com/en/using-x/x-ads): Access support content related to advertising and business features.
+- [Developers](https://help.twitter.com/en/forms/features-and-settings): Find support entry points for feature access and settings issues.
+
+## Developer Platform
+- [Developer Portal](https://developer.twitter.com/en/portal/dashboard): Manage developer projects, apps, keys, and platform access.
+- [Developer Documentation](https://developer.twitter.com/en/docs): Main documentation hub for X API products, guides, and references.
+- [Getting Started](https://developer.twitter.com/en/docs/tutorials/step-by-step-guide-to-making-your-first-request-to-the-twitter-api-v2): Introductory guide for making first requests to the X API v2.
+- [Use Cases](https://developer.twitter.com/en/use-cases): Explore common integration patterns and product implementation scenarios.
+- [Developer Terms](https://developer.twitter.com/en/developer-terms/agreement-and-policy): Review platform agreement, policies, and developer compliance requirements.
+- [Status](https://docs.x.com/status): Check current availability and service health for developer platform systems.
+
+## API Reference
+- [X API v2 Overview](https://developer.twitter.com/en/docs/twitter-api): Overview of core API v2 capabilities, access, and product areas.
+- [Posts API](https://developer.twitter.com/en/docs/twitter-api/tweets/manage-tweets/introduction): Reference for creating, deleting, and managing posts through the API.
+- [Users API](https://developer.twitter.com/en/docs/twitter-api/users/lookup/introduction): Reference for looking up users and retrieving account metadata.
+- [Timelines API](https://developer.twitter.com/en/docs/twitter-api/tweets/timelines/introduction): Access home, user, and mention timelines through timeline endpoints.
+- [Filtered Stream API](https://developer.twitter.com/en/docs/twitter-api/tweets/filtered-stream/introduction): Stream real-time posts matching defined filtering rules.
+- [Spaces API](https://developer.twitter.com/en/docs/twitter-api/spaces/introduction): Access live audio Spaces metadata and related resources.
+- [Direct Message API](https://developer.twitter.com/en/docs/twitter-api/direct-messages/introduction): Work with direct message conversations and message events.
+- [Metrics and Fields](https://developer.twitter.com/en/docs/twitter-api/fields): Reference available object fields, expansions, and metrics parameters.
+
+## Authentication and Access
+- [Authentication Overview](https://developer.twitter.com/en/docs/authentication/overview): Compare supported authentication methods for X API applications.
+- [OAuth 1.0a User Context](https://developer.twitter.com/en/docs/authentication/oauth-1-0a): Authenticate users with delegated access using OAuth 1.0a.
+- [OAuth 2.0 Authorization Code with PKCE](https://developer.twitter.com/en/docs/authentication/oauth-2-0/authorization-code): Implement user authentication with OAuth 2.0 and PKCE.
+- [OAuth 2.0 App-Only](https://developer.twitter.com/en/docs/authentication/oauth-2-0/application-only): Use bearer token authentication for application-only API access.
+- [Access Levels](https://developer.twitter.com/en/docs/twitter-api/getting-started/about-twitter-api): Understand API products, plans, and access model differences.
+- [Rate Limits](https://developer.twitter.com/en/docs/twitter-api/rate-limits): Review request limits and throughput constraints across endpoints.
+
+## Tools and SDKs
+- [Postman Collection](https://developer.twitter.com/en/docs/tutorials/postman-getting-started): Use Postman to explore and test X API endpoints.
+- [API Tools](https://developer.twitter.com/en/docs/twitter-api/tools-and-libraries): Find community tools and libraries for working with the API.
+- [Tweepy Guide](https://developer.twitter.com/en/docs/tutorials/tweepy-guide): Learn Python-based API usage with the Tweepy library.
+- [Streaming Quickstart](https://developer.twitter.com/en/docs/tutorials/consuming-streaming-data): Build applications that consume real-time streaming data.
+- [Migrate from v1.1 to v2](https://developer.twitter.com/en/docs/twitter-api/tweets/manage-tweets/migrate): Transition applications from legacy API patterns to v2 endpoints.
+
+## Policies and Legal
+- [Terms of Service](https://twitter.com/en/tos): Legal terms governing use of the X platform and services.
+- [Privacy Policy](https://twitter.com/en/privacy): Privacy practices for data collection, use, and user rights.
+- [Cookie Policy](https://twitter.com/en/privacy#cookie-policy): Information about cookies and related tracking technologies used by X.
+- [Rules and Policies](https://help.twitter.com/en/rules-and-policies): Platform rules, content policies, and enforcement framework documentation.
+- [Developer Policy](https://developer.twitter.com/en/developer-terms/policy): Policy requirements for building with X developer products.
+- [Automation Rules](https://help.twitter.com/en/rules-and-policies/twitter-automation): Rules governing automation, spam prevention, and platform manipulation.
+- [Copyright Policy](https://help.twitter.com/en/rules-and-policies/copyright-policy): Copyright reporting process and policy for protected works.
+
+## Business and Advertising
+- [X for Business](https://business.twitter.com/): Business hub for advertising, brand presence, and marketing solutions.
+- [Ads Help Center](https://business.twitter.com/en/help.html): Support resources for campaign setup, billing, and ad operations.
+- [Business Blog](https://business.twitter.com/en/blog.html): Updates, case studies, and product news for advertisers and businesses.
+- [Create Ads Account](https://ads.twitter.com/): Launch and manage advertising campaigns through the ads platform.
+- [Analytics](https://analytics.twitter.com/): Review account and campaign performance metrics and audience insights.
+
+## Blog and Updates
+- [X Blog](https://blog.twitter.com/): Official company blog with product announcements and platform updates.
+- [Engineering Blog](https://blog.twitter.com/engineering/en_us): Technical articles about infrastructure, systems, and engineering work.
+- [Developer Blog](https://developer.twitter.com/en/blog): News, release notes, and guidance for the developer community.
+- [Safety Blog](https://blog.twitter.com/en_us/topics/company/2020/safety): Posts related to trust, safety, and policy initiatives.
+- [Business Blog](https://business.twitter.com/en/blog.html): Marketing-focused announcements, examples, and advertiser guidance.

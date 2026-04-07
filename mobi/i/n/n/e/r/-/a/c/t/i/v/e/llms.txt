@@ -1,0 +1,68 @@
+# Inneractive
+> Inneractive is a mobile advertising platform focused on in-app monetization, mediation, and programmatic demand for app publishers.
+
+Inneractive, now part of Fyber/DT Exchange, provides SDKs, integration guides, ad format documentation, and policy resources for mobile app developers and publishers implementing in-app advertising.
+
+## Documentation
+- [Developer Documentation](https://developer.inner-active.mobi/): Main documentation hub for SDK integration, ad formats, and platform setup.
+- [SDK Documentation](https://developer.inner-active.mobi/sdk/): Overview of the Inneractive SDK and implementation resources for mobile apps.
+- [Android SDK](https://developer.inner-active.mobi/sdk/android/): Android integration documentation for initializing and serving Inneractive ads.
+- [iOS SDK](https://developer.inner-active.mobi/sdk/ios/): iOS integration documentation for adding Inneractive ads to Apple apps.
+- [Mediation Documentation](https://developer.inner-active.mobi/sdk/mediation/): Guides for using Inneractive in mediation and waterfall setups.
+- [Ad Formats](https://developer.inner-active.mobi/sdk/ad-formats/): Documentation for supported ad units and placement types.
+
+## Android
+- [Android SDK Overview](https://developer.inner-active.mobi/sdk/android/): Entry point for Android SDK installation and implementation details.
+- [Android Getting Started](https://developer.inner-active.mobi/sdk/android/getting-started/): Initial setup steps, prerequisites, and basic integration flow.
+- [Android Banner Ads](https://developer.inner-active.mobi/sdk/android/banner/): Implementation details for banner ad placements on Android.
+- [Android Interstitial Ads](https://developer.inner-active.mobi/sdk/android/interstitial/): Guide for loading and showing interstitial ads in Android apps.
+- [Android Rewarded Video](https://developer.inner-active.mobi/sdk/android/rewarded-video/): Integration guide for rewarded video ad experiences on Android.
+- [Android Native Ads](https://developer.inner-active.mobi/sdk/android/native/): Documentation for rendering native ad assets in Android layouts.
+
+## iOS
+- [iOS SDK Overview](https://developer.inner-active.mobi/sdk/ios/): Entry point for iOS SDK installation and implementation details.
+- [iOS Getting Started](https://developer.inner-active.mobi/sdk/ios/getting-started/): Initial setup steps, requirements, and app integration workflow.
+- [iOS Banner Ads](https://developer.inner-active.mobi/sdk/ios/banner/): Guide for integrating banner ad placements in iOS applications.
+- [iOS Interstitial Ads](https://developer.inner-active.mobi/sdk/ios/interstitial/): Documentation for presenting interstitial ads on iPhone and iPad.
+- [iOS Rewarded Video](https://developer.inner-active.mobi/sdk/ios/rewarded-video/): Integration instructions for rewarded video ads in iOS apps.
+- [iOS Native Ads](https://developer.inner-active.mobi/sdk/ios/native/): Documentation for displaying native ad assets in custom iOS views.
+
+## Mediation
+- [Mediation Overview](https://developer.inner-active.mobi/sdk/mediation/): Overview of mediation support and partner integration options.
+- [AdMob Mediation](https://developer.inner-active.mobi/sdk/mediation/admob/): Instructions for using Inneractive as a mediated network in AdMob.
+- [ironSource Mediation](https://developer.inner-active.mobi/sdk/mediation/ironsource/): Setup guide for integrating Inneractive through ironSource mediation.
+- [MoPub Mediation](https://developer.inner-active.mobi/sdk/mediation/mopub/): Configuration details for MoPub mediation with Inneractive demand.
+- [MAX Mediation](https://developer.inner-active.mobi/sdk/mediation/max/): Guide for integrating Inneractive with AppLovin MAX mediation.
+- [Custom Mediation](https://developer.inner-active.mobi/sdk/mediation/custom/): General guidance for custom mediation adapter implementations.
+
+## Ad Formats
+- [Banner Ads](https://developer.inner-active.mobi/sdk/ad-formats/banner/): Overview and implementation notes for banner ad placements.
+- [Interstitial Ads](https://developer.inner-active.mobi/sdk/ad-formats/interstitial/): Documentation for full-screen interstitial ad experiences.
+- [Rewarded Video Ads](https://developer.inner-active.mobi/sdk/ad-formats/rewarded-video/): Guide to rewarded ad flows and user reward handling.
+- [Native Ads](https://developer.inner-active.mobi/sdk/ad-formats/native/): Documentation for native ad rendering and asset usage.
+- [MREC Ads](https://developer.inner-active.mobi/sdk/ad-formats/mrec/): Information about medium rectangle ad units and placement behavior.
+- [Video Ads](https://developer.inner-active.mobi/sdk/ad-formats/video/): Details on video-capable ad placements and playback support.
+
+## Platform & Setup
+- [Dashboard](https://console.inner-active.mobi/): Publisher console for app setup, placements, reporting, and monetization management.
+- [Create an App](https://developer.inner-active.mobi/sdk/getting-started/create-an-app/): Steps for registering an app and generating placement identifiers.
+- [Placements](https://developer.inner-active.mobi/sdk/getting-started/placements/): Guidance on creating and managing ad placements.
+- [SDK Initialization](https://developer.inner-active.mobi/sdk/getting-started/initialization/): Documentation for initializing the SDK before requesting ads.
+- [Test Mode](https://developer.inner-active.mobi/sdk/getting-started/test-mode/): Instructions for validating integrations with test ads.
+- [Reporting](https://developer.inner-active.mobi/sdk/getting-started/reporting/): Overview of reporting access and monetization performance tracking.
+
+## Policies & Compliance
+- [Privacy Policy](https://www.inner-active.mobi/privacy-policy/): Company privacy policy covering data collection and processing practices.
+- [Terms of Use](https://www.inner-active.mobi/terms-of-use/): Legal terms governing use of Inneractive services and properties.
+- [Cookie Policy](https://www.inner-active.mobi/cookie-policy/): Information about cookie usage and consent-related practices.
+- [GDPR Information](https://developer.inner-active.mobi/sdk/compliance/gdpr/): Guidance for GDPR-related consent handling in SDK integrations.
+- [COPPA Compliance](https://developer.inner-active.mobi/sdk/compliance/coppa/): Documentation for child-directed treatment and COPPA-related settings.
+- [CCPA Compliance](https://developer.inner-active.mobi/sdk/compliance/ccpa/): Guidance for California privacy compliance and user choice signals.
+
+## Support & Resources
+- [Support](https://developer.inner-active.mobi/support/): Support entry point for troubleshooting and implementation assistance.
+- [FAQ](https://developer.inner-active.mobi/faq/): Frequently asked questions about SDK behavior and platform usage.
+- [Release Notes](https://developer.inner-active.mobi/sdk/release-notes/): Changelog for SDK updates, fixes, and feature additions.
+- [Troubleshooting](https://developer.inner-active.mobi/sdk/troubleshooting/): Common integration issues and debugging recommendations.
+- [Contact](https://www.inner-active.mobi/contact/): Contact page for business and support inquiries.
+- [Company Site](https://www.inner-active.mobi/): Main corporate site for product and company information.

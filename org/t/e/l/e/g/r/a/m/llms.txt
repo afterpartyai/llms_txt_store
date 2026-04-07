@@ -1,0 +1,72 @@
+# Telegram Messenger
+> Telegram is a cloud-based messaging platform offering fast, secure communication apps, APIs, bots, and developer tools.
+
+Telegram provides consumer messaging apps alongside extensive developer resources for building bots, integrating login, and creating custom clients with the Telegram API and MTProto protocol.
+
+## Main Site
+- [Telegram Home](https://telegram.org/): Overview of Telegram Messenger, core features, apps, and platform links.
+- [FAQ](https://telegram.org/faq): Answers to common questions about accounts, privacy, security, and app behavior.
+- [Apps](https://telegram.org/apps): Official Telegram apps for mobile, desktop, and web platforms.
+- [Desktop Apps](https://desktop.telegram.org/): Official Telegram Desktop clients and related download information.
+- [Web Apps](https://web.telegram.org/): Browser-based Telegram clients for messaging without installing software.
+- [Blog](https://telegram.org/blog): Official product announcements, feature updates, and platform news.
+- [Privacy Policy](https://telegram.org/privacy): Telegram’s privacy practices, data handling, and user protections.
+- [Terms of Service](https://telegram.org/tos): Terms governing use of Telegram apps, services, and platform features.
+
+## Downloads and Clients
+- [Android](https://telegram.org/android): Official Telegram app download page for Android devices.
+- [iPhone/iPad](https://telegram.org/dl/ios): Official Telegram app access point for iOS devices.
+- [macOS](https://telegram.org/dl/macos): Official Telegram app download page for macOS.
+- [Windows](https://telegram.org/dl/desktop/win64): Direct Telegram Desktop download for 64-bit Windows systems.
+- [Linux](https://telegram.org/dl/desktop/linux): Telegram Desktop download options for Linux systems.
+- [Portable Desktop](https://telegram.org/dl/desktop/win_portable): Portable Telegram Desktop build for Windows without installation.
+
+## Developer Platform
+- [Telegram API](https://core.telegram.org/api): Overview of Telegram’s API platform for building custom clients and integrations.
+- [MTProto Mobile Protocol](https://core.telegram.org/mtproto): Technical documentation for Telegram’s MTProto transport and encryption protocol.
+- [API Obtaining api_id](https://core.telegram.org/api/obtaining_api_id): Instructions for registering applications and getting Telegram API credentials.
+- [TDLib](https://core.telegram.org/tdlib): Cross-platform client library for building Telegram apps with a stable interface.
+- [Telegram Database Library](https://core.telegram.org/tdlib/docs): TDLib documentation, concepts, and implementation details for developers.
+- [API Terms of Service](https://core.telegram.org/api/terms): Terms for developers using Telegram APIs and platform services.
+
+## Bot Development
+- [Bots Introduction](https://core.telegram.org/bots): Overview of Telegram bots, capabilities, and platform concepts.
+- [Bot API](https://core.telegram.org/bots/api): Complete HTTP Bot API reference for building Telegram bots.
+- [Bot Payments](https://core.telegram.org/bots/payments): Guide to accepting payments through Telegram bots.
+- [Bot Games](https://core.telegram.org/bots/games): Documentation for building and integrating HTML5 games with bots.
+- [Bot Features](https://core.telegram.org/bots/features): Summary of bot capabilities, interaction models, and supported platform features.
+- [Inline Bots](https://core.telegram.org/bots/inline): Guide to inline mode and in-chat bot interactions.
+
+## Login and Widgets
+- [Telegram Login](https://core.telegram.org/widgets/login): Widget for authenticating users on external websites with Telegram.
+- [Comments Widget](https://core.telegram.org/widgets/comments): Embedded comments platform powered by Telegram discussions.
+- [Post Widget](https://core.telegram.org/widgets/post): Widget for embedding Telegram channel posts on websites.
+- [Share Widget](https://core.telegram.org/widgets/share): Button and widget for sharing links through Telegram.
+- [Widget Platform](https://core.telegram.org/widgets): Overview of Telegram website widgets and embedding options.
+
+## Mini Apps and Web Apps
+- [Web Apps](https://core.telegram.org/bots/webapps): Guide to building rich web applications inside Telegram bots.
+- [Mini Apps](https://core.telegram.org/bots/webapps): Platform documentation for interactive in-app web experiences in Telegram.
+- [Games Platform](https://core.telegram.org/bots/games): HTML5 game integrations launched from Telegram bots.
+- [Payments for Bots](https://core.telegram.org/bots/payments): Payment flows and invoicing support for bot-based commerce experiences.
+
+## Client API Guides
+- [Working with Updates](https://core.telegram.org/api/updates): How Telegram delivers updates, events, and state changes to clients.
+- [Authorization](https://core.telegram.org/api/auth): Authentication flows for Telegram client applications.
+- [Chats, Channels and Supergroups](https://core.telegram.org/api/channel): Concepts and API methods for channels and large group chats.
+- [Stickers](https://core.telegram.org/api/stickers): Sticker and emoji-related API objects, methods, and file handling.
+- [Files](https://core.telegram.org/api/files): Uploading, downloading, and managing files through Telegram APIs.
+- [Deep Linking](https://core.telegram.org/api/links): Telegram deep links and URI schemes for app interactions.
+
+## Security and Protocol
+- [MTProto Overview](https://core.telegram.org/mtproto): Core protocol architecture, transport, and cryptographic design.
+- [MTProto 2.0](https://core.telegram.org/mtproto/description): Detailed description of Telegram’s MTProto 2.0 protocol.
+- [Security Guidelines](https://core.telegram.org/api/end-to-end): Information about end-to-end encryption and secret chats.
+- [Perfect Forward Secrecy](https://core.telegram.org/api/pfs): Explanation of key rotation and forward secrecy in secret chats.
+- [Security FAQ](https://telegram.org/faq#security): Security-related answers for end users and administrators.
+
+## News and Updates
+- [Telegram Blog](https://telegram.org/blog): Official archive of Telegram announcements and feature releases.
+- [Recent News](https://telegram.org/blog): Latest updates highlighted from the Telegram homepage.
+- [Telegram FAQ](https://telegram.org/faq): Ongoing reference for product changes and user-facing behavior.
+- [Apps Page](https://telegram.org/apps): Current app availability and links to official clients across platforms.

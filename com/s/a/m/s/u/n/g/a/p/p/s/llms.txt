@@ -1,0 +1,69 @@
+# Samsung Galaxy Store
+> Samsung Galaxy Store is Samsung’s app marketplace for Galaxy devices, offering apps, games, themes, and developer resources.
+
+Samsung Galaxy Store serves both consumers discovering Galaxy apps and developers publishing, monetizing, and managing content for Samsung devices. The most useful LLM-oriented resources are Samsung Developer documentation, Galaxy Store seller guidance, API references, and support materials.
+
+## Developer Portal
+- [Samsung Developer](https://developer.samsung.com/): Main developer portal for Samsung platform documentation, tools, and program resources.
+- [Galaxy Store](https://developer.samsung.com/galaxy-store): Overview of Galaxy Store development, publishing, and seller resources.
+- [Seller Portal](https://seller.samsungapps.com/): Portal for managing Galaxy Store apps, submissions, and seller account operations.
+- [Samsung Developers Blog](https://developer.samsung.com/blog): Articles, announcements, and technical updates for Samsung developers.
+- [Support](https://developer.samsung.com/support): Developer support resources, contact options, and help materials.
+
+## Galaxy Store Seller Documentation
+- [Seller Portal Help](https://developer.samsung.com/galaxy-store/seller-portal): Documentation for using Seller Portal features and workflows.
+- [App Registration Guide](https://developer.samsung.com/galaxy-store/seller-portal/app-registration.html): Steps and requirements for registering apps in Galaxy Store.
+- [Binary Upload Guide](https://developer.samsung.com/galaxy-store/seller-portal/app-registration/binary-upload.html): Instructions for uploading app binaries during submission.
+- [App Update Guide](https://developer.samsung.com/galaxy-store/seller-portal/app-update.html): Guidance for updating existing Galaxy Store applications.
+- [Content Status](https://developer.samsung.com/galaxy-store/seller-portal/content-status.html): Explanation of app review and publication status states.
+- [Statistics](https://developer.samsung.com/galaxy-store/seller-portal/statistics.html): Overview of sales and download statistics available to sellers.
+
+## In-App Purchase
+- [Samsung In-App Purchase](https://developer.samsung.com/iap): Overview of Samsung’s in-app purchase platform and integration resources.
+- [IAP Programming Guide](https://developer.samsung.com/iap/programming-guide): Integration guide for implementing Samsung In-App Purchase in apps.
+- [IAP API Reference](https://developer.samsung.com/iap/api-reference): Reference documentation for Samsung In-App Purchase APIs.
+- [IAP Test Mode](https://developer.samsung.com/iap/programming-guide/test.html): Guidance for testing in-app purchases before production release.
+- [Item Management](https://developer.samsung.com/iap/seller-office/item-management.html): Seller-side management of purchasable items and catalogs.
+- [Subscription Management](https://developer.samsung.com/iap/seller-office/subscription.html): Documentation for configuring and managing subscription products.
+
+## Galaxy Store Badges and Distribution
+- [Galaxy Store Badge](https://developer.samsung.com/galaxy-store/badge): Official Galaxy Store badges and usage guidance for promotion.
+- [Deep Linking](https://developer.samsung.com/galaxy-store/distribution/deep-linking.html): Methods for linking directly to Galaxy Store content pages.
+- [Promotional Resources](https://developer.samsung.com/galaxy-store/marketing): Marketing assets and recommendations for Galaxy Store distribution.
+- [Country Availability](https://developer.samsung.com/galaxy-store/distribution/country-availability.html): Information about regional distribution and availability settings.
+- [Preload and Distribution](https://developer.samsung.com/galaxy-store/distribution): Distribution options and related Galaxy Store publishing information.
+
+## Android App Development
+- [Android](https://developer.samsung.com/android): Samsung-specific Android development resources and platform guidance.
+- [Remote Test Lab](https://developer.samsung.com/remote-test-lab): Access to real Samsung devices for remote application testing.
+- [Device Specifications](https://developer.samsung.com/devices): Hardware specifications and device information for Samsung products.
+- [SDKs and Tools](https://developer.samsung.com/sdks): Samsung SDK downloads, tools, and integration resources.
+- [Sample Code](https://developer.samsung.com/sample-code): Example projects and code samples for Samsung platforms.
+
+## Galaxy Themes
+- [Galaxy Themes](https://developer.samsung.com/galaxy-themes): Resources for designing, testing, and distributing Galaxy Themes content.
+- [Themes Studio](https://developer.samsung.com/galaxy-themes/galaxy-themes-studio): Tooling for creating Samsung Galaxy Themes packages.
+- [Themes Seller Office](https://developer.samsung.com/galaxy-themes/seller-office): Seller guidance for submitting and managing theme content.
+- [Themes Design Guidelines](https://developer.samsung.com/galaxy-themes/design-guides): Design requirements and best practices for Galaxy Themes.
+- [Themes FAQ](https://developer.samsung.com/galaxy-themes/faq): Frequently asked questions about Galaxy Themes development and submission.
+
+## Watch and Wearable Development
+- [Galaxy Watch](https://developer.samsung.com/galaxy-watch): Development resources for Galaxy Watch applications and watch faces.
+- [Watch Face Studio](https://developer.samsung.com/watch-face-studio): Official tool for designing and building Wear OS watch faces.
+- [Health Platform](https://developer.samsung.com/health): Samsung Health platform documentation and integration resources.
+- [Accessory SDK](https://developer.samsung.com/accessory): SDK for communication between Samsung devices and accessories.
+- [Tizen Archive](https://developer.samsung.com/tizen): Legacy Tizen development resources and documentation archive.
+
+## Account, Policy, and Support
+- [Seller Portal FAQ](https://seller.samsungapps.com/help/faq): Frequently asked questions for Galaxy Store sellers and account holders.
+- [Seller Portal Notices](https://seller.samsungapps.com/help/notices): Official notices and operational updates for Seller Portal users.
+- [Terms and Conditions](https://seller.samsungapps.com/help/termsAndConditions): Seller Portal terms, conditions, and legal agreements.
+- [Privacy Policy](https://seller.samsungapps.com/help/privacyPolicy): Privacy policy governing Seller Portal and related services.
+- [Contact Us](https://seller.samsungapps.com/help/contactUs): Support contact options for seller account and portal issues.
+
+## News and Updates
+- [Samsung Developers Blog](https://developer.samsung.com/blog): Technical blog posts, release notes, and ecosystem announcements.
+- [Newsroom](https://news.samsung.com/global/): Corporate news and announcements from Samsung’s global newsroom.
+- [Developer Events](https://developer.samsung.com/events): Information about Samsung developer events and sessions.
+- [Forums](https://forum.developer.samsung.com/): Community discussions and troubleshooting for Samsung developers.
+- [Release Notes](https://developer.samsung.com/release-notes): Updates and changes across Samsung developer tools and platforms.

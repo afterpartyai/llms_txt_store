@@ -1,0 +1,74 @@
+# Atlassian
+> Software development and collaboration tools for teams, including Jira, Confluence, Trello, Bitbucket, and enterprise platform services.
+
+Atlassian provides product documentation, cloud administration guidance, developer resources, support knowledge, and product-specific APIs for team collaboration, software delivery, IT service management, and work management.
+
+## Product Documentation
+- [Jira Software Cloud documentation](https://support.atlassian.com/jira-software-cloud/): Official docs for planning, tracking, and shipping software with Jira Software Cloud.
+- [Jira Service Management Cloud documentation](https://support.atlassian.com/jira-service-management-cloud/): Product documentation for service desks, incident management, and operations workflows.
+- [Confluence Cloud documentation](https://support.atlassian.com/confluence-cloud/): Guides for creating, organizing, and collaborating on knowledge in Confluence Cloud.
+- [Trello documentation](https://support.atlassian.com/trello/): Help and usage documentation for boards, cards, automation, and collaboration in Trello.
+- [Bitbucket Cloud documentation](https://support.atlassian.com/bitbucket-cloud/): Documentation for Git repositories, pull requests, pipelines, and code collaboration.
+- [Jira Work Management Cloud documentation](https://support.atlassian.com/jira-work-management/): Docs for business project tracking and team workflow management.
+- [Atlassian Guard documentation](https://support.atlassian.com/security-and-access-policies/): Documentation for identity, security policies, and organization access controls.
+
+## Cloud Administration
+- [Atlassian Administration documentation](https://support.atlassian.com/organization-administration/): Central documentation for managing organizations, users, billing, and product access.
+- [User provisioning documentation](https://support.atlassian.com/provisioning-users/): Guides for SCIM provisioning, synced directories, and automated account lifecycle management.
+- [Atlassian Access and security policies](https://support.atlassian.com/security-and-access-policies/): Admin guidance for SSO, authentication policies, and managed account security.
+- [Billing and subscriptions](https://support.atlassian.com/subscriptions-and-billing/): Documentation for plans, invoices, renewals, and subscription management.
+- [Cloud migration documentation](https://support.atlassian.com/migration/): Resources for moving data and users from server or data center to cloud.
+- [Atlassian Cloud releases](https://support.atlassian.com/atlassian-cloud/kb/): Knowledge base and release-related support content for Atlassian Cloud products.
+
+## Developer Platform
+- [Atlassian Developer](https://developer.atlassian.com/): Entry point for platform docs, APIs, app frameworks, and developer guides.
+- [Forge platform](https://developer.atlassian.com/platform/forge/): Build Atlassian cloud apps with hosted functions, UI components, and platform services.
+- [Connect apps](https://developer.atlassian.com/cloud/jira/platform/getting-started-with-connect/): Documentation for building and integrating Atlassian Connect cloud apps.
+- [OAuth 2.0 (3LO)](https://developer.atlassian.com/cloud/jira/platform/oauth-2-3lo-apps/): Implement user-authorized integrations using Atlassian OAuth 2.0 authorization flows.
+- [Webhooks](https://developer.atlassian.com/cloud/jira/platform/webhooks/): Subscribe to product events and trigger external workflows from Atlassian apps.
+- [Atlassian GraphQL API](https://developer.atlassian.com/cloud/guard-detect/graphql/): GraphQL API documentation for supported Atlassian platform use cases.
+
+## Jira Platform APIs
+- [Jira Cloud platform REST API](https://developer.atlassian.com/cloud/jira/platform/rest/v3/intro/): Reference for issues, projects, users, workflows, and platform resources in Jira Cloud.
+- [Jira Software REST API](https://developer.atlassian.com/cloud/jira/software/rest/): API reference for agile boards, sprints, backlogs, and software project data.
+- [Jira expressions](https://developer.atlassian.com/cloud/jira/platform/jira-expressions/): Evaluate structured expressions against Jira entities for automation and app logic.
+- [JQL documentation](https://support.atlassian.com/jira-software-cloud/docs/use-advanced-search-with-jira-query-language-jql/): Search Jira issues with advanced query syntax and filtering capabilities.
+- [Jira webhooks](https://developer.atlassian.com/cloud/jira/platform/webhooks/): Event delivery documentation for issue, project, and workflow changes.
+- [Jira entity properties](https://developer.atlassian.com/cloud/jira/platform/jira-entity-properties/): Store app-specific metadata on Jira issues, projects, and other entities.
+
+## Confluence APIs
+- [Confluence Cloud REST API](https://developer.atlassian.com/cloud/confluence/rest/v2/intro/): API reference for pages, spaces, content, permissions, and Confluence resources.
+- [Confluence JavaScript API](https://developer.atlassian.com/cloud/confluence/jsapi/): Client-side integration APIs for Confluence cloud app experiences.
+- [Confluence webhooks](https://developer.atlassian.com/cloud/confluence/modules/webhook/): Receive notifications for content and space events in Confluence apps.
+- [Confluence macros](https://developer.atlassian.com/cloud/confluence/modules/dynamic-content-macro/): Build dynamic macros that extend Confluence pages with app functionality.
+- [Confluence content properties](https://developer.atlassian.com/cloud/confluence/confluence-entity-properties/): Persist app metadata on Confluence content and spaces.
+
+## Bitbucket and Trello APIs
+- [Bitbucket Cloud REST API](https://developer.atlassian.com/cloud/bitbucket/rest/): API reference for repositories, pull requests, pipelines, workspaces, and users.
+- [Bitbucket webhooks](https://support.atlassian.com/bitbucket-cloud/docs/manage-webhooks/): Configure webhook delivery for repository and workspace events in Bitbucket Cloud.
+- [Bitbucket Pipelines documentation](https://support.atlassian.com/bitbucket-cloud/docs/get-started-with-bitbucket-pipelines/): Guides for CI/CD configuration, builds, deployments, and pipeline workflows.
+- [Trello REST API introduction](https://developer.atlassian.com/cloud/trello/guides/rest-api/api-introduction/): Overview of Trello API capabilities, authentication, and core resource models.
+- [Trello API reference](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/): Reference for boards, cards, lists, members, and Trello automation endpoints.
+- [Trello webhooks](https://developer.atlassian.com/cloud/trello/guides/rest-api/webhooks/): Subscribe to Trello model changes and process board activity externally.
+
+## Guides and Tutorials
+- [Atlassian support home](https://support.atlassian.com/): Central hub for product help, setup guides, troubleshooting, and admin documentation.
+- [Atlassian University](https://university.atlassian.com/): Training courses and learning paths for Atlassian products and administration.
+- [Cloud migration center](https://www.atlassian.com/migration): Planning resources and guidance for migrating to Atlassian Cloud.
+- [Agile tutorials](https://www.atlassian.com/agile/tutorials): Practical tutorials covering agile methods, scrum, kanban, and team delivery practices.
+- [DevOps tutorials](https://www.atlassian.com/devops): Guides and resources for modern software delivery and DevOps workflows.
+- [Team Playbook](https://www.atlassian.com/team-playbook): Workshops and plays to improve collaboration, planning, and team effectiveness.
+
+## Status, Trust, and Support
+- [Atlassian Support](https://support.atlassian.com/contact/): Contact and support entry points for product, billing, and technical issues.
+- [Atlassian Statuspage](https://status.atlassian.com/): Real-time service status and incident history for Atlassian cloud products.
+- [Atlassian Trust Center](https://www.atlassian.com/trust): Security, privacy, compliance, and reliability information for Atlassian services.
+- [Cloud security documentation](https://support.atlassian.com/security-and-access-policies/): Admin-facing security controls and access management guidance.
+- [Atlassian Community](https://community.atlassian.com/): Community discussions, product questions, and peer-supported troubleshooting.
+
+## Product Updates and Company Resources
+- [Atlassian Blog](https://www.atlassian.com/blog): Product announcements, best practices, and company updates from Atlassian.
+- [Developer blog](https://www.atlassian.com/blog/developer): Updates for app developers, platform changes, and technical announcements.
+- [Release notes collection](https://support.atlassian.com/atlassian-cloud/kb/): Support knowledge base containing release-related and product change information.
+- [Atlassian Marketplace](https://marketplace.atlassian.com/): Discover apps and integrations for Jira, Confluence, Bitbucket, and other Atlassian products.
+- [Atlassian products overview](https://www.atlassian.com/software): Overview of Atlassian software products and platform offerings.

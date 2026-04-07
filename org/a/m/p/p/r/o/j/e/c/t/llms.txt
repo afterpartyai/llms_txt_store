@@ -1,0 +1,85 @@
+# AMP Project
+> AMP is an open web framework for building fast, user-friendly websites, stories, ads, and emails.
+
+The AMP Project provides documentation, tutorials, component references, and platform-specific guidance for creating performant web experiences with AMP HTML, AMP Stories, AMP Ads, and AMP for Email.
+
+## Getting Started
+- [AMP Overview](https://amp.dev/about/): Introduction to AMP, its goals, and the types of experiences it supports.
+- [Documentation Home](https://amp.dev/documentation/): Main entry point for AMP documentation, guides, and references.
+- [Learn AMP](https://amp.dev/documentation/guides-and-tutorials/learn/): Beginner-friendly learning path covering AMP fundamentals and core concepts.
+- [Create Your First AMP Page](https://amp.dev/documentation/guides-and-tutorials/start/create/): Step-by-step tutorial for building a basic AMP HTML page.
+- [Validation Workflow](https://amp.dev/documentation/guides-and-tutorials/learn/validation-workflow/): Explains how AMP validation works during development and deployment.
+- [Set Up](https://amp.dev/documentation/guides-and-tutorials/develop/set_up/): Development environment setup for creating and testing AMP pages.
+
+## Core Concepts
+- [AMP HTML Specification](https://amp.dev/documentation/guides-and-tutorials/learn/spec/amphtml/): Core rules and requirements for valid AMP HTML documents.
+- [AMP Components](https://amp.dev/documentation/components/): Directory of AMP custom elements and built-in component documentation.
+- [How AMP Works](https://amp.dev/documentation/guides-and-tutorials/learn/how_amp_works/): Overview of AMP runtime, caching, and performance optimizations.
+- [AMP Caches and Signed Exchanges](https://amp.dev/documentation/guides-and-tutorials/learn/amp-caches-and-cors/): Explains AMP caches, CORS behavior, and content delivery considerations.
+- [Prepare Your Page for Discovery](https://amp.dev/documentation/guides-and-tutorials/optimize-and-measure/discovery/): Guidance for making AMP content discoverable by platforms and search engines.
+
+## Build and Develop
+- [Create](https://amp.dev/documentation/guides-and-tutorials/start/create/): Build a valid AMP page from scratch with required boilerplate.
+- [Style and Layout](https://amp.dev/documentation/guides-and-tutorials/develop/style_and_layout/): Learn AMP styling constraints, responsive layouts, and CSS best practices.
+- [Include Images and Video](https://amp.dev/documentation/guides-and-tutorials/develop/media_iframes_3p/): Add media, iframes, and third-party embeds to AMP pages.
+- [Add Advanced AMP Features](https://amp.dev/documentation/guides-and-tutorials/develop/interactivity/): Introduces interactivity, dynamic behavior, and advanced AMP capabilities.
+- [Login and Authentication](https://amp.dev/documentation/guides-and-tutorials/develop/amp_identity_integration/): Implement user authentication and identity flows in AMP experiences.
+- [CORS in AMP](https://amp.dev/documentation/guides-and-tutorials/learn/amp-caches-and-cors/amp-cors-requests/): Details CORS requirements for AMP components making remote requests.
+
+## Components Reference
+- [amp-img](https://amp.dev/documentation/components/amp-img/): Image component for responsive and performant image rendering in AMP.
+- [amp-carousel](https://amp.dev/documentation/components/amp-carousel/): Carousel component for displaying swipeable or rotating content.
+- [amp-bind](https://amp.dev/documentation/components/amp-bind/): Enables stateful interactivity and dynamic updates without custom JavaScript.
+- [amp-list](https://amp.dev/documentation/components/amp-list/): Fetches and renders remote JSON data into AMP templates.
+- [amp-form](https://amp.dev/documentation/components/amp-form/): Adds form submission, validation, and asynchronous interactions to AMP pages.
+- [amp-script](https://amp.dev/documentation/components/amp-script/): Allows limited custom JavaScript in AMP under performance constraints.
+- [amp-story](https://amp.dev/documentation/components/amp-story/): Core component for building immersive, tappable web stories.
+- [amp-analytics](https://amp.dev/documentation/components/amp-analytics/): Configures analytics measurement and event tracking for AMP content.
+
+## AMP Stories
+- [AMP Stories Overview](https://amp.dev/about/stories/): Overview of web stories and storytelling experiences built with AMP.
+- [Create Your First Web Story](https://amp.dev/documentation/guides-and-tutorials/start/create_successful_stories/): Tutorial for building an engaging AMP story from scratch.
+- [AMP Story Component](https://amp.dev/documentation/components/amp-story/): Reference for the main component used to author AMP stories.
+- [Best Practices for Creating Web Stories](https://amp.dev/documentation/guides-and-tutorials/develop/amp_story_best_practices/): Editorial and technical recommendations for high-quality stories.
+- [Story Animation and Media](https://amp.dev/documentation/guides-and-tutorials/develop/animations/): Guidance for adding animation and motion to AMP experiences.
+- [Metadata for Web Stories](https://amp.dev/documentation/guides-and-tutorials/optimize-and-measure/metadata/): Structured metadata guidance for discoverability and platform integration.
+
+## AMP for Email
+- [AMP for Email Overview](https://amp.dev/about/email/): Introduction to interactive, dynamic email experiences built with AMP.
+- [Create Your First AMP Email](https://amp.dev/documentation/guides-and-tutorials/start/create_email/): Step-by-step guide to authoring a valid AMP email.
+- [AMP Email Fundamentals](https://amp.dev/documentation/guides-and-tutorials/learn/email_fundamentals/): Core concepts, restrictions, and supported functionality for AMP email.
+- [Supported AMP Components in Email](https://amp.dev/documentation/guides-and-tutorials/learn/email-spec/amp-email-components/): Reference for components allowed in AMP email documents.
+- [Validate AMP Emails](https://amp.dev/documentation/guides-and-tutorials/learn/email-spec/amp-email-validation/): Validation rules and requirements specific to AMP email.
+- [Email Providers and Registration](https://amp.dev/documentation/guides-and-tutorials/learn/email_fundamentals/): Guidance on sender requirements and provider support considerations.
+
+## Ads and Monetization
+- [AMP Ads Overview](https://amp.dev/about/ads/): Introduction to AMP ad experiences and performance-focused ad formats.
+- [Create AMPHTML Ads](https://amp.dev/documentation/guides-and-tutorials/start/create_amphtml_ad/): Tutorial for building valid AMPHTML ads for advertising platforms.
+- [AMP Ad Spec](https://amp.dev/documentation/guides-and-tutorials/learn/a4a_spec/): Technical specification for AMPHTML ads and runtime constraints.
+- [amp-ad](https://amp.dev/documentation/components/amp-ad/): Component reference for embedding and configuring ads in AMP pages.
+- [amp-auto-ads](https://amp.dev/documentation/components/amp-auto-ads/): Automatically inserts ads into AMP pages based on network configuration.
+- [Measure and Optimize](https://amp.dev/documentation/guides-and-tutorials/optimize-and-measure/): Guides for analytics, monetization, and performance optimization.
+
+## Optimize, Measure, and Validate
+- [Optimize and Measure](https://amp.dev/documentation/guides-and-tutorials/optimize-and-measure/): Collection of guides for analytics, SEO, and performance improvements.
+- [Validation Overview](https://amp.dev/documentation/guides-and-tutorials/learn/validation-workflow/validate_amp/): Learn how to validate AMP documents and interpret errors.
+- [Debugging](https://amp.dev/documentation/guides-and-tutorials/learn/validation-workflow/validation_errors/): Common validation errors and approaches to fixing invalid AMP markup.
+- [Analytics Basics](https://amp.dev/documentation/components/amp-analytics/): Reference and examples for tracking user behavior in AMP.
+- [Metadata](https://amp.dev/documentation/guides-and-tutorials/optimize-and-measure/metadata/): Add metadata and structured data for richer discovery and sharing.
+- [Enable Signed Exchanges](https://amp.dev/documentation/guides-and-tutorials/optimize-and-measure/signed-exchange/): Guidance for serving AMP with signed exchanges for improved URLs and trust.
+
+## Platforms and Integrations
+- [WordPress](https://amp.dev/documentation/guides-and-tutorials/integrate/wordpress/): Integrate AMP into WordPress publishing workflows and site architectures.
+- [React and AMP](https://amp.dev/documentation/guides-and-tutorials/integrate/react/): Guidance for using AMP alongside React-based development workflows.
+- [Integrate Your Technology with AMP](https://amp.dev/documentation/guides-and-tutorials/contribute/integrate-your-technology/): Information for platforms and vendors integrating AMP support.
+- [Supported Layouts](https://amp.dev/documentation/guides-and-tutorials/learn/amp-html-layout/): Reference for AMP layout system and responsive rendering behavior.
+- [Templates](https://amp.dev/templates/): Ready-made AMP templates and examples for common page types.
+- [Examples](https://amp.dev/documentation/examples/): Browse working AMP examples demonstrating components and patterns.
+
+## Contribute and Community
+- [Contributing](https://amp.dev/documentation/guides-and-tutorials/contribute/): Overview of ways to contribute to AMP documentation and ecosystem.
+- [Contribute Documentation](https://amp.dev/documentation/guides-and-tutorials/contribute/contribute-documentation/): Instructions for improving and submitting AMP documentation changes.
+- [Integrate Your Technology](https://amp.dev/documentation/guides-and-tutorials/contribute/integrate-your-technology/): Guidance for adding AMP support to external tools and platforms.
+- [GitHub Repository](https://github.com/ampproject/amphtml): Source code, issues, and development activity for the AMP runtime.
+- [AMP Blog](https://amp.dev/blog/): Product updates, case studies, and announcements from the AMP ecosystem.
+- [Roadmap](https://github.com/ampproject/amphtml/projects): Public planning and project tracking for AMP development.

@@ -1,0 +1,70 @@
+# nginx
+> Official NGINX site for the open source web server, reverse proxy, load balancer, mail proxy, and related documentation.
+
+NGINX.org provides the primary documentation, download, security, and project resources for NGINX Open Source, including core module references, administration guides, njs scripting docs, and community information.
+
+## Getting Started
+- [NGINX Documentation](https://nginx.org/en/docs/): Main documentation hub for installation, configuration, modules, and administration.
+- [Beginner’s Guide](https://nginx.org/en/docs/beginners_guide.html): Introductory guide to basic NGINX concepts, configuration, and operation.
+- [Admin Guide](https://nginx.org/en/docs/): Central entry point for operational and configuration documentation.
+- [FAQ](https://nginx.org/en/docs/faq.html): Answers to common questions about usage, features, and behavior.
+- [Download](https://nginx.org/en/download.html): Official source code and package download information for NGINX releases.
+- [News](https://nginx.org/news.html): Release announcements and notable project updates.
+
+## Core Documentation
+- [Documentation Index](https://nginx.org/en/docs/): Top-level index for all NGINX Open Source documentation.
+- [Core Functionality](https://nginx.org/en/docs/): Overview of available documentation for server configuration and runtime behavior.
+- [Command-Line Parameters](https://nginx.org/en/docs/switches.html): Reference for startup, reload, test, and signal handling options.
+- [Control Interface](https://nginx.org/en/docs/control.html): How to manage master and worker processes with signals.
+- [Variables Index](https://nginx.org/en/docs/varindex.html): Alphabetical index of embedded variables available in configuration.
+- [Directive Index](https://nginx.org/en/docs/dirindex.html): Alphabetical index of configuration directives across modules.
+- [Module Index](https://nginx.org/en/docs/modindex.html): Index of NGINX modules and their directive references.
+
+## HTTP Modules Reference
+- [HTTP Core Module](https://nginx.org/en/docs/http/ngx_http_core_module.html): Reference for core HTTP server, location, and request processing directives.
+- [HTTP Proxy Module](https://nginx.org/en/docs/http/ngx_http_proxy_module.html): Directives for proxying requests to upstream HTTP servers.
+- [HTTP Upstream Module](https://nginx.org/en/docs/http/ngx_http_upstream_module.html): Configuration for upstream groups, balancing, and server parameters.
+- [HTTP Rewrite Module](https://nginx.org/en/docs/http/ngx_http_rewrite_module.html): URI rewriting, conditional logic, and return directives.
+- [HTTP SSL Module](https://nginx.org/en/docs/http/ngx_http_ssl_module.html): TLS configuration for HTTPS servers and proxied connections.
+- [HTTP Gzip Module](https://nginx.org/en/docs/http/ngx_http_gzip_module.html): Response compression directives for HTTP traffic.
+- [HTTP FastCGI Module](https://nginx.org/en/docs/http/ngx_http_fastcgi_module.html): FastCGI proxying directives for application servers.
+- [HTTP Access Module](https://nginx.org/en/docs/http/ngx_http_access_module.html): Allow and deny access controls by client address.
+
+## Stream and Mail Modules
+- [Stream Core Module](https://nginx.org/en/docs/stream/ngx_stream_core_module.html): Core directives for TCP and UDP proxying.
+- [Stream Proxy Module](https://nginx.org/en/docs/stream/ngx_stream_proxy_module.html): Proxy configuration for generic TCP and UDP services.
+- [Stream SSL Module](https://nginx.org/en/docs/stream/ngx_stream_ssl_module.html): TLS support for stream servers and proxied connections.
+- [Mail Core Module](https://nginx.org/en/docs/mail/ngx_mail_core_module.html): Core directives for mail proxy services.
+- [Mail Proxy Module](https://nginx.org/en/docs/mail/ngx_mail_proxy_module.html): Proxying configuration for IMAP, POP3, and SMTP.
+- [Mail SSL Module](https://nginx.org/en/docs/mail/ngx_mail_ssl_module.html): TLS configuration for mail proxy services.
+
+## Development and Extensibility
+- [Development Guide](https://nginx.org/en/docs/dev/development_guide.html): Guide to NGINX internals, module development, and core APIs.
+- [njs Documentation](https://nginx.org/en/docs/njs/): Documentation for the NGINX JavaScript language and runtime.
+- [njs Reference](https://nginx.org/en/docs/njs/reference.html): API and language reference for njs in NGINX contexts.
+- [njs Examples](https://nginx.org/en/docs/njs/examples.html): Practical examples of scripting with njs in NGINX.
+- [Dynamic Modules](https://nginx.org/en/docs/ngx_core_module.html#load_module): Directive reference for loading dynamic modules at runtime.
+- [Source Download](https://nginx.org/en/download.html): Access to source tarballs for building and extending NGINX.
+
+## Security and Releases
+- [Security Advisories](https://nginx.org/en/security_advisories.html): Official security notices and vulnerability information for NGINX.
+- [CHANGES](https://nginx.org/en/CHANGES): Detailed changelog for mainline and stable NGINX releases.
+- [CHANGES.ru](https://nginx.org/en/CHANGES.ru): Russian changelog for NGINX releases.
+- [Download](https://nginx.org/en/download.html): Current mainline, stable, legacy, and source package downloads.
+- [News](https://nginx.org/news.html): Release and project news from the official site.
+
+## Community and Learning
+- [Community](https://nginx.org/en/community.html): Community resources, contribution information, and communication channels.
+- [Community Forum](https://community.nginx.org): Official community discussion forum for NGINX users and developers.
+- [Books](https://nginx.org/en/books.html): Curated list of books covering NGINX administration and development.
+- [Blog](https://blog.nginx.org/): Articles, tutorials, release posts, and engineering updates from the NGINX team.
+- [FAQ](https://nginx.org/en/docs/faq.html): Frequently asked questions for users and administrators.
+- [Russian Site](https://nginx.org/ru/): Russian-language version of the official NGINX site.
+
+## Project and Ecosystem
+- [About NGINX](https://nginx.org/en/): Overview of the NGINX project and open source software.
+- [Enterprise](https://nginx.org/en/enterprise.html): Information about commercial NGINX offerings and support options.
+- [Kubernetes Ingress Controller](https://github.com/nginx/kubernetes-ingress): Official NGINX Ingress Controller project for Kubernetes environments.
+- [NGINX Gateway Fabric](https://github.com/nginx/nginx-gateway-fabric): Gateway API implementation for Kubernetes based on NGINX.
+- [njs Project Docs](https://nginx.org/en/docs/njs/): Scripting ecosystem documentation for extending NGINX behavior.
+- [X Account](https://x.com/nginxorg): Official social account for project announcements and updates.

@@ -1,0 +1,84 @@
+# Yandex
+> Russian technology company offering search, maps, mail, cloud, advertising, developer APIs, and business services.
+
+Yandex operates a large ecosystem of consumer and developer products. This index prioritizes official documentation, API references, help centers, and product guides across key Yandex services.
+
+## Developer Platform
+- [Yandex Developer](https://yandex.com/dev/): Central portal for Yandex APIs, SDKs, and developer documentation.
+- [Documentation](https://yandex.com/dev/docs/): Entry point to product documentation across Yandex developer services.
+- [API Catalog](https://yandex.com/dev/api/): Overview of available APIs and integration products.
+- [Support](https://yandex.com/dev/support/): Developer support resources and contact options.
+- [Blog](https://yandex.com/dev/blog/): Updates, announcements, and technical articles for developers.
+
+## Maps and Geospatial APIs
+- [Yandex Maps API](https://yandex.com/dev/maps/): Main documentation hub for Yandex Maps developer products.
+- [JavaScript API](https://yandex.com/dev/maps/jsapi/): Reference and guides for embedding interactive maps in web applications.
+- [Static API](https://yandex.com/dev/maps/staticapi/): Generate static map images with markers, routes, and parameters.
+- [Geocoder API](https://yandex.com/dev/geocode/): Convert addresses to coordinates and coordinates to addresses.
+- [Routing API](https://yandex.com/dev/routing/): Build routes and travel-time calculations for applications.
+- [MapKit](https://yandex.com/dev/mapkit/): Native mobile SDK for embedding Yandex maps in apps.
+- [Map Constructor](https://yandex.com/dev/constructor/): Create and publish custom maps without full API integration.
+
+## Search, Indexing, and Webmasters
+- [Yandex Webmaster](https://webmaster.yandex.com/): Tools for site indexing, diagnostics, and search visibility management.
+- [Webmaster Help](https://yandex.com/support/webmaster/): Official help for indexing, crawling, and site quality tools.
+- [Search XML](https://yandex.com/dev/xml/): API for accessing Yandex search results programmatically.
+- [Site Search](https://yandex.com/dev/site-search/): Search solutions for adding Yandex-powered search to websites.
+- [Metrica](https://metrica.yandex.com/): Web analytics platform for traffic, behavior, and conversion analysis.
+- [Metrica Help](https://yandex.com/support/metrica/): Guides for setup, reports, goals, and analytics features.
+- [Metrica API](https://yandex.com/dev/metrika/): API documentation for exporting analytics data and managing settings.
+
+## Advertising and Monetization
+- [Yandex Direct API](https://yandex.com/dev/direct/): API for managing advertising campaigns, bids, and reports.
+- [Direct Help](https://yandex.com/support/direct/): Product help for campaign setup, billing, and optimization.
+- [Yandex Advertising Network](https://yandex.com/support/partner2/): Help for publishers monetizing traffic with Yandex ads.
+- [AppMetrica](https://appmetrica.yandex.com/): Mobile analytics, attribution, and push platform for apps.
+- [AppMetrica Docs](https://appmetrica.yandex.com/docs/en/): Documentation for SDKs, events, attribution, and reporting.
+- [AppMetrica API](https://appmetrica.yandex.com/docs/en/mobile-api/): API and export interfaces for mobile analytics data.
+
+## Cloud Platform
+- [Yandex Cloud](https://cloud.yandex.com/): Cloud platform with compute, storage, AI, and managed services.
+- [Cloud Documentation](https://cloud.yandex.com/docs): Product documentation, concepts, and tutorials for cloud services.
+- [CLI Documentation](https://cloud.yandex.com/docs/cli/): Install and use the Yandex Cloud command-line interface.
+- [API Reference](https://cloud.yandex.com/docs/api-design-guide/): API usage guidance and service integration patterns.
+- [Terraform Provider](https://cloud.yandex.com/docs/tutorials/infrastructure-management/terraform-quickstart): Infrastructure as code quickstart for Yandex Cloud.
+- [Managed Kubernetes](https://cloud.yandex.com/docs/managed-kubernetes/): Documentation for deploying and operating Kubernetes clusters.
+- [Object Storage](https://cloud.yandex.com/docs/storage/): Guides and references for S3-compatible object storage.
+
+## Commerce and Payments
+- [YooKassa](https://yookassa.ru/developers/): Payment acceptance platform with API docs and integration guides.
+- [YooKassa API Reference](https://yookassa.ru/developers/api): REST API reference for payments, refunds, and receipts.
+- [YooKassa Quick Start](https://yookassa.ru/developers/using-api/interaction-format): Basics of request format, authentication, and API interaction.
+- [YooMoney API](https://yoomoney.ru/docs/wallet): Wallet and payment API documentation for YooMoney integrations.
+- [Yandex Market for Partners](https://yandex.ru/support/marketplace/): Help for merchants selling through Yandex Market.
+- [Market API](https://yandex.ru/dev/market/partner-api/): API documentation for marketplace partner integrations.
+
+## Identity, Speech, and AI
+- [Yandex ID](https://yandex.com/dev/id/): Authentication and authorization tools for Yandex account sign-in.
+- [SpeechKit](https://cloud.yandex.com/docs/speechkit/): Speech recognition, synthesis, and voice technologies in Yandex Cloud.
+- [Translate API](https://cloud.yandex.com/docs/translate/): Machine translation service documentation and usage guides.
+- [Vision](https://cloud.yandex.com/docs/vision/): OCR and image analysis service documentation.
+- [Foundation Models](https://cloud.yandex.com/docs/foundation-models/): Generative AI models and API usage in Yandex Cloud.
+- [DataSphere](https://cloud.yandex.com/docs/datasphere/): Managed ML development environment for data science workflows.
+
+## Mail and Communication
+- [Yandex Mail for Domain](https://360.yandex.com/business/mail/): Business mail hosting as part of Yandex 360.
+- [Yandex 360 Help](https://yandex.com/support/yandex-360/): Help center for mail, disk, messenger, and collaboration tools.
+- [Mail Help](https://yandex.com/support/mail/): Official support for personal Yandex Mail features and settings.
+- [Telemost Help](https://yandex.com/support/telemost/): Guides for Yandex video meetings and conferencing.
+- [Messenger Help](https://yandex.com/support/messenger/): Support documentation for messaging features and usage.
+
+## Consumer Services Help
+- [Yandex Maps Help](https://yandex.com/support/maps/): User help for maps, routes, places, and navigation features.
+- [Yandex Disk Help](https://yandex.com/support/disk/): Support for cloud storage, file sharing, and synchronization.
+- [Yandex Browser Help](https://browser.yandex.com/help/): Documentation for browser settings, sync, and security features.
+- [Yandex Music Help](https://yandex.com/support/music/): Support for subscriptions, playback, and library management.
+- [Yandex Go Help](https://yandex.com/support/taxi/): Help for ride-hailing, delivery, and transport services.
+- [Alice Help](https://yandex.com/support/alice/): Support for Yandex’s voice assistant and smart devices.
+
+## Company and Updates
+- [Yandex](https://yandex.ru/): Main corporate and product portal for Yandex services.
+- [Yandex Support](https://yandex.com/support/): Directory of official support resources across Yandex products.
+- [Yandex Blog](https://yandex.com/company/blog/): Company news, product announcements, and engineering updates.
+- [Yandex Cloud Blog](https://cloud.yandex.com/blog): Articles and announcements about cloud products and releases.
+- [Yandex Developer Blog](https://yandex.com/dev/blog/): Developer-focused product updates and technical posts.

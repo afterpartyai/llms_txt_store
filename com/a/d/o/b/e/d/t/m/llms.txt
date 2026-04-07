@@ -1,0 +1,70 @@
+# Adobe Experience Platform Tags Documentation
+> Documentation for Adobe Experience Platform Tags (formerly Adobe DTM), covering implementation, extensions, APIs, and event forwarding.
+
+Adobe Experience Platform Tags is Adobe’s tag management system for deploying and managing analytics, marketing, and advertising technologies. The documentation spans client-side tags, server-side event forwarding, extension development, and the Reactor API.
+
+## Getting Started
+- [Tags overview](https://experienceleague.adobe.com/en/docs/experience-platform/tags/home): Introduction to Adobe Experience Platform Tags and its core concepts.
+- [Quick start](https://experienceleague.adobe.com/en/docs/experience-platform/tags/get-started/quick-start): Set up a property, install the library, and publish changes.
+- [Companies and properties](https://experienceleague.adobe.com/en/docs/experience-platform/tags/ui/companies-and-properties): Understand organizations, companies, and properties in the Tags interface.
+- [Publishing overview](https://experienceleague.adobe.com/en/docs/experience-platform/tags/ui/publishing/overview): Learn the publishing workflow, environments, libraries, and approvals.
+- [Data collection overview](https://experienceleague.adobe.com/en/docs/experience-platform/collection/home): Overview of Adobe Experience Platform Data Collection capabilities.
+
+## Tags UI and Configuration
+- [Properties](https://experienceleague.adobe.com/en/docs/experience-platform/tags/ui/properties): Create and manage web and mobile properties.
+- [Environments](https://experienceleague.adobe.com/en/docs/experience-platform/tags/ui/publishing/environments): Configure development, staging, and production environments.
+- [Libraries](https://experienceleague.adobe.com/en/docs/experience-platform/tags/ui/publishing/libraries): Build and manage libraries for publishing changes.
+- [Rules](https://experienceleague.adobe.com/en/docs/experience-platform/tags/ui/rules): Define event-driven logic using events, conditions, and actions.
+- [Data elements](https://experienceleague.adobe.com/en/docs/experience-platform/tags/ui/data-elements): Store and reuse values across rules and extensions.
+- [Extensions](https://experienceleague.adobe.com/en/docs/experience-platform/tags/ui/extensions): Install and configure extensions in a property.
+
+## Publishing and Environments
+- [Publishing flow](https://experienceleague.adobe.com/en/docs/experience-platform/tags/ui/publishing/overview): End-to-end workflow for submitting, approving, and publishing libraries.
+- [Create a library](https://experienceleague.adobe.com/en/docs/experience-platform/tags/ui/publishing/libraries): Add resources to a library and move it through environments.
+- [Manage environments](https://experienceleague.adobe.com/en/docs/experience-platform/tags/ui/publishing/environments): Create host-backed environments for deployment targets.
+- [Hosts](https://experienceleague.adobe.com/en/docs/experience-platform/tags/ui/publishing/hosts): Configure Akamai, SFTP, or self-hosted library delivery.
+- [Approvals](https://experienceleague.adobe.com/en/docs/experience-platform/tags/ui/publishing/approval): Understand approval requirements in the publishing process.
+
+## Event Forwarding
+- [Event forwarding overview](https://experienceleague.adobe.com/en/docs/experience-platform/tags/event-forwarding/overview): Introduction to server-side event forwarding in Adobe Experience Platform.
+- [Create an event forwarding property](https://experienceleague.adobe.com/en/docs/experience-platform/tags/event-forwarding/getting-started): Set up a server-side property and basic forwarding workflow.
+- [Event forwarding rules](https://experienceleague.adobe.com/en/docs/experience-platform/tags/event-forwarding/rules): Configure rules for processing and routing incoming events.
+- [Event forwarding data elements](https://experienceleague.adobe.com/en/docs/experience-platform/tags/event-forwarding/data-elements): Use data elements to transform and reference event payload values.
+- [Event forwarding extensions](https://experienceleague.adobe.com/en/docs/experience-platform/tags/event-forwarding/extensions): Install and manage extensions for server-side destinations.
+
+## Extension Development
+- [Extension development overview](https://experienceleague.adobe.com/en/docs/experience-platform/tags/extension-dev/overview): Build custom extensions for Tags and event forwarding properties.
+- [Getting started with extension development](https://experienceleague.adobe.com/en/docs/experience-platform/tags/extension-dev/getting-started): Set up tooling and create a new extension project.
+- [Extension manifest](https://experienceleague.adobe.com/en/docs/experience-platform/tags/extension-dev/manifest): Define extension metadata, views, and components.
+- [Web extensions](https://experienceleague.adobe.com/en/docs/experience-platform/tags/extension-dev/web/overview): Create extensions for browser-based Tags properties.
+- [Edge extensions](https://experienceleague.adobe.com/en/docs/experience-platform/tags/extension-dev/edge/overview): Build extensions for event forwarding and edge execution.
+- [Submit an extension](https://experienceleague.adobe.com/en/docs/experience-platform/tags/extension-dev/submit): Package and submit an extension for Adobe review.
+
+## Reactor API
+- [Reactor API overview](https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/overview): Overview of the API for managing Tags resources programmatically.
+- [API getting started](https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/getting-started): Authentication, headers, and basic request requirements.
+- [Properties endpoint](https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/properties): Manage properties through the Reactor API.
+- [Rules endpoint](https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/rules): Create and update rules using API resources.
+- [Data elements endpoint](https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/data-elements): Work with reusable data values in properties.
+- [Extensions endpoint](https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/extensions): Install and configure property extensions via API.
+- [Libraries endpoint](https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/libraries): Automate publishing workflows and library management.
+- [Environments endpoint](https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/environments): Manage deployment environments programmatically.
+
+## Privacy, Consent, and Governance
+- [Privacy overview](https://experienceleague.adobe.com/en/docs/experience-platform/tags/ui/privacy): Privacy-related capabilities and considerations in Tags implementations.
+- [Consent extension guidance](https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/core/overview): Core extension capabilities commonly used for consent-aware implementations.
+- [Data governance overview](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/home): Understand governance controls across Adobe Experience Platform.
+- [Identity overview](https://experienceleague.adobe.com/en/docs/experience-platform/identity/home): Learn how identities are handled across platform data collection.
+
+## Web SDK and Related Implementations
+- [Adobe Experience Platform Web SDK overview](https://experienceleague.adobe.com/en/docs/experience-platform/web-sdk/home): Unified client-side SDK for Adobe Experience Cloud data collection.
+- [Install the Web SDK extension](https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/web-sdk/overview): Configure the Web SDK through Adobe Experience Platform Tags.
+- [Web SDK configuration](https://experienceleague.adobe.com/en/docs/experience-platform/web-sdk/commands/configure/overview): Configure the SDK instance and connection settings.
+- [Send event](https://experienceleague.adobe.com/en/docs/experience-platform/web-sdk/commands/sendevent/overview): Send experience events from the browser to Adobe services.
+- [Identity for Web SDK](https://experienceleague.adobe.com/en/docs/experience-platform/web-sdk/identity/overview): Manage visitor identity and consent with the Web SDK.
+
+## Support and Release Information
+- [Release notes](https://experienceleague.adobe.com/en/docs/experience-platform/tags/release-notes): Product updates and changes for Tags and related capabilities.
+- [Known issues and limitations](https://experienceleague.adobe.com/en/docs/experience-platform/tags/known-issues): Current product limitations and implementation caveats.
+- [Experience League documentation home](https://experienceleague.adobe.com/en/docs/experience-platform): Entry point for Adobe Experience Platform product documentation.
+- [Adobe Developer documentation](https://developer.adobe.com/experience-platform-apis/): Developer resources for Adobe Experience Platform APIs and tooling.

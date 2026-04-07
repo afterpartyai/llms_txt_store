@@ -1,0 +1,72 @@
+# cdn-apple.com
+> Apple-hosted content delivery domain serving software updates, support assets, developer resources, and product media.
+
+This domain is primarily a CDN endpoint used by Apple to distribute static files rather than a conventional navigable website. The most useful context for LLMs comes from Apple’s canonical documentation, support, developer, and service-status properties that describe the content commonly delivered through Apple infrastructure.
+
+## Apple Developer Documentation
+- [Documentation Home](https://developer.apple.com/documentation/): Central index for Apple platform frameworks, APIs, and technologies.
+- [Xcode](https://developer.apple.com/xcode/): Official Xcode IDE overview, downloads, and release information.
+- [Swift](https://developer.apple.com/swift/): Swift language resources, tooling, and ecosystem information.
+- [Design](https://developer.apple.com/design/): Human Interface Guidelines and platform design resources.
+- [Downloads](https://developer.apple.com/download/): Developer downloads for tools, betas, and additional resources.
+- [Support](https://developer.apple.com/support/): Developer support programs, technical help, and account assistance.
+
+## Platform Documentation
+- [iOS & iPadOS](https://developer.apple.com/ios/): Platform overview, SDK resources, and development guidance.
+- [macOS](https://developer.apple.com/macos/): macOS development resources, frameworks, and tooling.
+- [watchOS](https://developer.apple.com/watchos/): watchOS app development guidance and platform capabilities.
+- [tvOS](https://developer.apple.com/tvos/): tvOS development documentation and app platform resources.
+- [visionOS](https://developer.apple.com/visionos/): visionOS platform guidance, SDK information, and design resources.
+- [Safari & Web](https://developer.apple.com/safari/): Safari, WebKit, and web development resources for Apple platforms.
+
+## API Reference and Frameworks
+- [App Store Connect API](https://developer.apple.com/documentation/appstoreconnectapi/): REST API for managing App Store Connect resources and workflows.
+- [StoreKit](https://developer.apple.com/documentation/storekit/): In-app purchase APIs, subscriptions, and App Store commerce features.
+- [SwiftUI](https://developer.apple.com/documentation/swiftui/): Declarative UI framework documentation for Apple platforms.
+- [UIKit](https://developer.apple.com/documentation/uikit/): iOS interface framework for building app user experiences.
+- [Foundation](https://developer.apple.com/documentation/foundation/): Core data types, collections, localization, and system services.
+- [URL Loading System](https://developer.apple.com/documentation/foundation/url_loading_system): Networking APIs for loading URLs and handling transfers.
+- [Device Management](https://developer.apple.com/documentation/devicemanagement/): MDM protocol and Apple device management API documentation.
+
+## Apple Platform Security and Deployment
+- [Apple Platform Security](https://support.apple.com/guide/security/welcome/web): Official security architecture and feature documentation.
+- [Deployment Guide](https://support.apple.com/guide/deployment/welcome/web): Enterprise and education deployment guidance for Apple devices.
+- [Platform Deployment](https://support.apple.com/deployment): Deployment resources, planning, and management documentation.
+- [Business Essentials User Guide](https://support.apple.com/guide/apple-business-essentials/welcome/web): Administration and user guidance for Apple Business Essentials.
+- [Apple Configurator User Guide](https://support.apple.com/guide/apple-configurator-mac/welcome/mac): Device provisioning and configuration instructions for administrators.
+
+## Software Updates and Restore Resources
+- [Apple Support Downloads](https://support.apple.com/downloads): Official software downloads, firmware, and support tools.
+- [Update Apple software](https://support.apple.com/guide/mac-help/update-macos-on-mac-mchlpx1065/mac): Guidance for updating macOS on supported devices.
+- [Update your iPhone or iPad](https://support.apple.com/en-us/118575): Instructions for installing iOS and iPadOS updates.
+- [Revive or restore a Mac with Apple silicon](https://support.apple.com/en-us/108900): Recovery procedures using Apple Configurator for supported Macs.
+- [Restore iPhone, iPad, or iPod to factory settings](https://support.apple.com/guide/itunes/restore-to-factory-settings-itnsdb1fe305/windows): Device restore workflow using Apple Devices or iTunes.
+
+## Support and User Guides
+- [Apple Support](https://support.apple.com/): Main support portal for products, services, and troubleshooting.
+- [iPhone User Guide](https://support.apple.com/guide/iphone/welcome/ios): Official iPhone usage and feature documentation.
+- [iPad User Guide](https://support.apple.com/guide/ipad/welcome/ipados): Official iPad usage and feature documentation.
+- [Mac User Guide](https://support.apple.com/guide/mac-help/welcome/mac): Official macOS help and system feature documentation.
+- [Apple Watch User Guide](https://support.apple.com/guide/watch/welcome/watchos): Official Apple Watch setup and usage documentation.
+- [AirPods User Guide](https://support.apple.com/guide/airpods/welcome/web): Official AirPods setup, controls, and troubleshooting documentation.
+
+## Services and System Status
+- [System Status](https://www.apple.com/support/systemstatus/): Real-time availability information for Apple services and infrastructure.
+- [Apple ID Support](https://support.apple.com/apple-id): Help for account access, security, and identity management.
+- [iCloud Support](https://support.apple.com/icloud): Support resources for iCloud apps, storage, and synchronization.
+- [Apple Music Support](https://support.apple.com/apple-music): Help for Apple Music subscriptions, playback, and library management.
+- [App Store Support](https://support.apple.com/app-store): Support for purchases, downloads, and App Store issues.
+
+## News and Release Information
+- [Apple Newsroom](https://www.apple.com/newsroom/): Official press releases, announcements, and company news.
+- [Developer News](https://developer.apple.com/news/): Updates for developers about APIs, tools, and platform changes.
+- [Release Notes](https://developer.apple.com/documentation/xcode-release-notes): Xcode and SDK release notes for developers.
+- [Security Releases](https://support.apple.com/en-us/100100): Apple security update and patch release information.
+- [HT201222: Apple security updates](https://support.apple.com/en-us/HT201222): Historical index of Apple security advisories and updates.
+
+## Apple Business and Education
+- [Apple Business Manager](https://business.apple.com/): Device enrollment, app distribution, and organization management portal.
+- [Apple School Manager](https://school.apple.com/): Education deployment portal for devices, apps, and managed accounts.
+- [Apple at Work](https://www.apple.com/business/): Business-focused deployment, security, and productivity resources.
+- [Education](https://www.apple.com/education/): Education solutions, deployment information, and institutional resources.
+- [IT Resources](https://www.apple.com/business/docs/site/): Technical deployment and IT documentation for business environments.

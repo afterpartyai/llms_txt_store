@@ -1,0 +1,80 @@
+# Salesforce
+> Salesforce is the #1 AI CRM, helping organizations unify AI, data, apps, and Customer 360 to drive growth and service.
+
+Salesforce provides cloud software for sales, service, marketing, commerce, analytics, integration, and application development, with extensive product documentation, developer resources, APIs, learning content, and trust information.
+
+## Product Documentation
+- [Sales Cloud](https://www.salesforce.com/ca/sales/): CRM platform for managing leads, opportunities, forecasting, and sales productivity.
+- [Service Cloud](https://www.salesforce.com/ca/service/): Customer service platform for case management, omnichannel support, and automation.
+- [Marketing Cloud](https://www.salesforce.com/ca/marketing/): Marketing platform for engagement, personalization, journeys, and campaign orchestration.
+- [Commerce Cloud](https://www.salesforce.com/ca/commerce/): Digital commerce platform for B2C and B2B storefronts and operations.
+- [Data Cloud](https://www.salesforce.com/ca/data/): Unified customer data platform for harmonization, activation, and AI-ready profiles.
+- [Platform](https://www.salesforce.com/ca/platform/): Low-code and pro-code application platform for automation, apps, and extensibility.
+- [Customer 360](https://www.salesforce.com/ca/customer360/): Unified view of customer data, workflows, and engagement across Salesforce products.
+
+## Help and Product Docs
+- [Salesforce Help](https://help.salesforce.com/): Central help portal for product documentation, setup, and feature guidance.
+- [Release Notes](https://help.salesforce.com/s/articleView?id=release-notes.salesforce_release_notes.htm&type=5): Official release notes for Salesforce platform and cloud products.
+- [Known Issues](https://issues.salesforce.com/): Public tracker for product bugs, incidents, and issue status.
+- [Trailhead Help](https://help.salesforce.com/s/articleView?id=sf.trailhead.htm&type=5): Help resources for Trailhead learning and credentials.
+- [Success Center](https://help.salesforce.com/successcenter): Best practices, adoption guidance, and customer success resources.
+- [Accessibility](https://www.salesforce.com/company/legal/accessibility/): Accessibility information, commitments, and product support resources.
+
+## Developer Platform
+- [Salesforce Developers](https://developer.salesforce.com/): Main developer portal for platform docs, tools, APIs, and community resources.
+- [Developer Documentation](https://developer.salesforce.com/docs): Entry point for Salesforce developer guides and technical references.
+- [Platform APIs](https://developer.salesforce.com/docs/apis): Overview of Salesforce APIs for data, metadata, events, and integrations.
+- [App Development](https://developer.salesforce.com/developer-centers/app-development): Resources for building custom apps on the Salesforce platform.
+- [Lightning Platform](https://developer.salesforce.com/developer-centers/lightning-platform): Tools and guidance for low-code and enterprise app development.
+- [DevOps Center](https://developer.salesforce.com/developer-centers/devops): Resources for release management, environments, and deployment workflows.
+- [Salesforce CLI](https://developer.salesforce.com/tools/salesforcecli): Command-line tools for development, automation, and org management.
+
+## API Reference
+- [REST API Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/): Reference for accessing Salesforce data and metadata over REST.
+- [SOAP API Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.api.meta/api/): Reference for enterprise and partner SOAP-based integrations.
+- [Bulk API 2.0 and Bulk API Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.api_asynch.meta/api_asynch/): High-volume data ingest and extraction APIs for large datasets.
+- [Metadata API Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.api_meta.meta/api_meta/): API for managing customizations, components, and deployments.
+- [Tooling API Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.api_tooling.meta/api_tooling/): API for development tools, metadata inspection, and automation.
+- [Streaming API Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.api_streaming.meta/api_streaming/): Pub/sub and event-driven integration for real-time notifications.
+- [GraphQL API Guide](https://developer.salesforce.com/docs/platform/graphql/guide/): Query Salesforce data with GraphQL for efficient client applications.
+- [Pub/Sub API Guide](https://developer.salesforce.com/docs/platform/pub-sub-api/guide/): gRPC-based API for event publishing and subscription at scale.
+
+## Development Frameworks
+- [Lightning Web Components](https://developer.salesforce.com/docs/component-library/documentation/en/lwc): Modern web component framework for Salesforce UI development.
+- [Apex Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/): Server-side programming language and runtime for Salesforce custom logic.
+- [Visualforce Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/): Framework for building custom user interfaces on the platform.
+- [SOQL and SOSL Reference](https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/): Query language reference for retrieving Salesforce records and search results.
+- [Flow Builder](https://help.salesforce.com/s/articleView?id=sf.flow.htm&type=5): Documentation for declarative workflow automation and process orchestration.
+- [Einstein for Developers](https://developer.salesforce.com/developer-centers/einstein): Developer resources for AI features and intelligent application experiences.
+
+## SDKs and Integration Tools
+- [Mobile SDK](https://developer.salesforce.com/developer-centers/mobile): SDKs and guides for building Salesforce-connected mobile applications.
+- [Slack Platform](https://api.slack.com/): Developer platform for Slack apps, automation, and integrations within Salesforce.
+- [MuleSoft Developers](https://developer.mulesoft.com/): Integration and API development resources for MuleSoft and Anypoint Platform.
+- [Tableau Developers](https://developer.tableau.com/): APIs and developer tools for Tableau analytics and embedded experiences.
+- [Heroku Dev Center](https://devcenter.heroku.com/): Documentation for cloud app deployment, operations, and platform services.
+- [AppExchange](https://appexchange.salesforce.com/): Marketplace for Salesforce apps, components, consultants, and partner solutions.
+
+## Learning and Training
+- [Trailhead](https://trailhead.salesforce.com/): Interactive learning platform for Salesforce products, roles, and technical skills.
+- [Trails](https://trailhead.salesforce.com/content/learn/trails): Curated learning paths for Salesforce roles, products, and certifications.
+- [Modules](https://trailhead.salesforce.com/content/learn/modules): Self-paced units covering Salesforce concepts, features, and best practices.
+- [Projects](https://trailhead.salesforce.com/content/learn/projects): Hands-on guided projects for building practical Salesforce skills.
+- [Superbadges](https://trailhead.salesforce.com/content/learn/superbadges): Scenario-based credentials validating applied Salesforce expertise.
+- [Certification](https://trailhead.salesforce.com/credentials): Official Salesforce certification and credential information.
+
+## Trust, Security, and Compliance
+- [Salesforce Trust](https://trust.salesforce.com/): Real-time system status, availability, and security information for Salesforce services.
+- [Security Center](https://www.salesforce.com/company/legal/security/): Security practices, architecture, and customer protection information.
+- [Privacy Information](https://www.salesforce.com/company/privacy/): Privacy policies, data handling practices, and related disclosures.
+- [Compliance](https://www.salesforce.com/company/legal/compliance/): Compliance programs, certifications, and regulatory information.
+- [Responsible AI](https://www.salesforce.com/ai/responsible-ai/): Principles and practices for trusted, safe, and ethical AI.
+- [Legal](https://www.salesforce.com/company/legal/): Legal terms, policies, notices, and contractual resources.
+
+## Company and Insights
+- [Salesforce News](https://www.salesforce.com/news/): Company announcements, product news, research, and customer stories.
+- [Blog](https://www.salesforce.com/blog/): Articles on CRM, AI, sales, service, marketing, and business strategy.
+- [Research and Reports](https://www.salesforce.com/resources/research-reports/): Analyst reports, original research, and industry benchmark content.
+- [Customer Success Stories](https://www.salesforce.com/customer-success-stories/): Case studies showing how organizations use Salesforce products.
+- [Events](https://www.salesforce.com/events/): Information on Salesforce conferences, webinars, and product events.
+- [Careers](https://www.salesforce.com/company/careers/): Job opportunities, culture information, and recruiting resources.

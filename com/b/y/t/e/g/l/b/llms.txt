@@ -1,0 +1,60 @@
+# ByteGLB
+> Browser-based 3D model optimization and conversion tools focused on GLB, glTF, and related asset workflows.
+
+ByteGLB provides web tools for compressing, converting, and preparing 3D assets for web delivery, with supporting pages for features, pricing, help, and product information.
+
+## Core Tools
+- [GLB Compressor](https://www.byteglb.com/glb-compressor): Compress GLB files to reduce size for faster loading and delivery.
+- [GLTF Compressor](https://www.byteglb.com/gltf-compressor): Optimize glTF assets for smaller downloads and improved runtime performance.
+- [3D Model Converter](https://www.byteglb.com/3d-model-converter): Convert 3D models between common formats for web and production workflows.
+- [OBJ to GLB](https://www.byteglb.com/obj-to-glb): Convert OBJ models into compact GLB files for modern viewers.
+- [FBX to GLB](https://www.byteglb.com/fbx-to-glb): Transform FBX assets into GLB format for web-friendly distribution.
+- [STL to GLB](https://www.byteglb.com/stl-to-glb): Convert STL geometry into GLB for interactive visualization and sharing.
+
+## Format Conversion
+- [GLB to OBJ](https://www.byteglb.com/glb-to-obj): Export GLB assets into OBJ format for compatibility with legacy tools.
+- [GLB to FBX](https://www.byteglb.com/glb-to-fbx): Convert GLB models into FBX for editing in DCC applications.
+- [GLB to STL](https://www.byteglb.com/glb-to-stl): Generate STL files from GLB assets for fabrication or CAD workflows.
+- [GLTF to GLB](https://www.byteglb.com/gltf-to-glb): Package glTF assets into binary GLB format for simpler deployment.
+- [GLB to GLTF](https://www.byteglb.com/glb-to-gltf): Extract GLB content into glTF form for editable asset pipelines.
+- [USDZ Converter](https://www.byteglb.com/usdz-converter): Convert compatible 3D assets for Apple AR Quick Look experiences.
+
+## Optimization Features
+- [Mesh Optimization](https://www.byteglb.com/features/mesh-optimization): Reduce geometry complexity while preserving visual fidelity where possible.
+- [Texture Compression](https://www.byteglb.com/features/texture-compression): Compress embedded textures to lower asset size and bandwidth usage.
+- [Draco Compression](https://www.byteglb.com/features/draco-compression): Apply Draco geometry compression to supported 3D assets.
+- [KHR Texture BasisU](https://www.byteglb.com/features/khr-texture-basisu): Use Basis Universal texture encoding for efficient GPU-friendly delivery.
+- [Batch Processing](https://www.byteglb.com/features/batch-processing): Process multiple 3D files in one workflow for higher throughput.
+- [Web Viewer Compatibility](https://www.byteglb.com/features/web-viewer-compatibility): Prepare assets for use in browser-based 3D viewers and apps.
+
+## Guides
+- [How to Compress GLB Files](https://www.byteglb.com/guides/how-to-compress-glb-files): Step-by-step guidance for reducing GLB file sizes effectively.
+- [How to Convert OBJ to GLB](https://www.byteglb.com/guides/how-to-convert-obj-to-glb): Walk through converting OBJ assets into GLB format.
+- [How to Convert FBX to GLB](https://www.byteglb.com/guides/how-to-convert-fbx-to-glb): Learn the basic workflow for turning FBX files into GLB.
+- [GLB vs glTF](https://www.byteglb.com/guides/glb-vs-gltf): Compare binary GLB and JSON-based glTF packaging approaches.
+- [Best Practices for Web 3D Assets](https://www.byteglb.com/guides/web-3d-best-practices): Recommendations for optimizing models for browser delivery.
+- [Preparing Models for AR](https://www.byteglb.com/guides/preparing-models-for-ar): Tips for creating lightweight assets suitable for AR viewers.
+
+## Help and Support
+- [Help Center](https://www.byteglb.com/help): Central support page for using ByteGLB tools and services.
+- [FAQ](https://www.byteglb.com/faq): Answers to common questions about formats, limits, and processing.
+- [Contact](https://www.byteglb.com/contact): Reach the ByteGLB team for support, feedback, or business inquiries.
+- [Pricing](https://www.byteglb.com/pricing): Plan and usage information for ByteGLB products and services.
+- [About](https://www.byteglb.com/about): Overview of the company, mission, and product focus.
+- [Status](https://www.byteglb.com/status): Service availability and operational status information.
+
+## Product
+- [Home](https://www.byteglb.com/): Main entry point for ByteGLB tools and product overview.
+- [Features](https://www.byteglb.com/features): Summary of optimization, conversion, and workflow capabilities.
+- [Use Cases](https://www.byteglb.com/use-cases): Example scenarios for e-commerce, AR, gaming, and web 3D.
+- [Enterprise](https://www.byteglb.com/enterprise): Information for teams needing higher-scale or custom workflows.
+- [Security](https://www.byteglb.com/security): Details about data handling, privacy, and platform security practices.
+- [Privacy Policy](https://www.byteglb.com/privacy): Legal information about data collection and privacy practices.
+
+## Resources
+- [Blog](https://www.byteglb.com/blog): Articles about 3D optimization, formats, and web asset workflows.
+- [Documentation](https://www.byteglb.com/docs): Product documentation for tools, formats, and usage guidance.
+- [API Reference](https://www.byteglb.com/api): Reference information for programmatic access, if available.
+- [Changelog](https://www.byteglb.com/changelog): Product updates, improvements, and release notes.
+- [Examples](https://www.byteglb.com/examples): Sample assets or workflows demonstrating ByteGLB capabilities.
+- [Sitemap](https://www.byteglb.com/sitemap.xml): Machine-readable index of site URLs and content structure.

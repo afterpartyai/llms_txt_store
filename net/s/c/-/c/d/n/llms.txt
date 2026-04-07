@@ -1,0 +1,73 @@
+# sc-cdn.net
+> Snapchat’s static content and documentation delivery domain, hosting developer docs, SDK references, and support resources.
+
+This domain serves documentation and static assets for Snap’s developer ecosystem, including Camera Kit, Creative Kit, Login Kit, Marketing API, Lens Studio, and related platform guides.
+
+## Developer Platform
+- [Snap for Developers](https://developers.snap.com/): Main entry point for Snap’s developer platform, products, and documentation.
+- [Documentation Home](https://developers.snap.com/docs): Central hub for Snap developer documentation across products and APIs.
+- [Developer Blog](https://developers.snap.com/blog): Product updates, announcements, and technical posts for Snap developers.
+- [Support](https://developers.snap.com/support): Support resources and help channels for developers building on Snap.
+- [Developer Terms](https://developers.snap.com/terms): Terms and policies governing use of Snap developer products.
+- [Community Guidelines](https://developers.snap.com/community-guidelines): Rules and expectations for developer and creator participation.
+
+## Camera Kit
+- [Camera Kit Overview](https://developers.snap.com/camera-kit): Overview of Camera Kit capabilities, platforms, and integration options.
+- [Camera Kit Documentation](https://developers.snap.com/camera-kit/docs): Core documentation for integrating Snap’s AR camera into apps.
+- [Web SDK](https://developers.snap.com/camera-kit/docs/web): Guides and reference for Camera Kit on the web.
+- [iOS SDK](https://developers.snap.com/camera-kit/docs/ios): Integration guides and platform details for Camera Kit on iOS.
+- [Android SDK](https://developers.snap.com/camera-kit/docs/android): Integration guides and platform details for Camera Kit on Android.
+- [API Reference](https://developers.snap.com/camera-kit/reference): Reference material for Camera Kit APIs and SDK interfaces.
+
+## Creative Kit
+- [Creative Kit Overview](https://developers.snap.com/creative-kit): Overview of sharing creative content from apps into Snapchat.
+- [Creative Kit Documentation](https://developers.snap.com/creative-kit/docs): Setup and implementation guides for Creative Kit integrations.
+- [iOS Integration](https://developers.snap.com/creative-kit/docs/ios): iOS-specific setup and usage details for Creative Kit.
+- [Android Integration](https://developers.snap.com/creative-kit/docs/android): Android-specific setup and usage details for Creative Kit.
+- [Web Integration](https://developers.snap.com/creative-kit/docs/web): Web sharing integration guidance for Creative Kit.
+- [Creative Kit FAQ](https://developers.snap.com/creative-kit/docs/faq): Common questions and implementation notes for Creative Kit.
+
+## Login Kit
+- [Login Kit Overview](https://developers.snap.com/login-kit): Overview of Snapchat authentication and account linking for apps.
+- [Login Kit Documentation](https://developers.snap.com/login-kit/docs): Core guides for implementing Snapchat login flows.
+- [Web Login](https://developers.snap.com/login-kit/docs/web): Web authentication setup and OAuth flow guidance.
+- [iOS Login](https://developers.snap.com/login-kit/docs/ios): iOS integration details for Snapchat login.
+- [Android Login](https://developers.snap.com/login-kit/docs/android): Android integration details for Snapchat login.
+- [API Reference](https://developers.snap.com/login-kit/reference): Reference documentation for Login Kit endpoints and parameters.
+
+## Marketing API
+- [Marketing API Overview](https://developers.snap.com/marketing-api): Overview of Snap’s advertising and campaign management APIs.
+- [Marketing API Documentation](https://developers.snap.com/marketing-api/docs): Guides for authentication, entities, reporting, and workflows.
+- [API Reference](https://developers.snap.com/marketing-api/reference): Endpoint reference for campaigns, ads, creatives, and reporting.
+- [Postman Collection](https://developers.snap.com/marketing-api/docs/postman): Postman resources for exploring Marketing API endpoints.
+- [Rate Limits](https://developers.snap.com/marketing-api/docs/rate-limits): Usage limits and best practices for reliable API consumption.
+- [Changelog](https://developers.snap.com/marketing-api/docs/changelog): Notable changes and updates to the Marketing API.
+
+## Lens Studio
+- [Lens Studio Overview](https://developers.snap.com/lens-studio): Overview of Lens Studio for building AR Lenses.
+- [Lens Studio Documentation](https://developers.snap.com/lens-studio/docs): Authoring guides, scripting help, and publishing documentation.
+- [Getting Started](https://developers.snap.com/lens-studio/docs/getting-started): Introductory guides for creating and testing Lenses.
+- [Scripting](https://developers.snap.com/lens-studio/docs/scripting): Script API usage and development guidance for Lens projects.
+- [Templates](https://developers.snap.com/lens-studio/docs/templates): Template-based starting points for common Lens experiences.
+- [Publishing](https://developers.snap.com/lens-studio/docs/publishing): Steps and requirements for submitting and publishing Lenses.
+
+## Lens Web Builder and AR Creation
+- [Lens Web Builder](https://developers.snap.com/lens-web-builder): Browser-based tools for creating and customizing AR Lens experiences.
+- [Lens Web Builder Docs](https://developers.snap.com/lens-web-builder/docs): Documentation for building Lenses with web-based Snap tools.
+- [Asset Library](https://developers.snap.com/lens-web-builder/docs/assets): Guidance on using assets within web-based Lens creation workflows.
+- [Publishing Guide](https://developers.snap.com/lens-web-builder/docs/publishing): Instructions for exporting and publishing web-built Lens projects.
+
+## Snap Kit and Platform Integration
+- [Snap Kit Overview](https://developers.snap.com/snap-kit): Overview of Snap Kit products for login, sharing, and camera experiences.
+- [App Registration](https://developers.snap.com/docs/app-registration): Instructions for creating and configuring a Snap developer app.
+- [OAuth Scopes](https://developers.snap.com/docs/oauth-scopes): Available scopes and permissions for Snap authentication flows.
+- [Brand Guidelines](https://developers.snap.com/docs/brand-guidelines): Branding requirements for apps integrating Snap products.
+- [Compliance](https://developers.snap.com/docs/compliance): Compliance expectations and review considerations for integrations.
+
+## Resources
+- [Status Page](https://status.snapchat.com/): Service status and incident reporting for Snapchat platform services.
+- [Lens Explorer](https://lens.snapchat.com/): Public discovery site for Snapchat Lenses and AR experiences.
+- [Business Help Center](https://businesshelp.snapchat.com/): Help articles for advertisers and business platform users.
+- [Snap AR](https://ar.snap.com/): Snap’s AR platform site with product information and creator resources.
+- [Snapchat for Business](https://forbusiness.snapchat.com/): Business platform entry point for advertising and marketing solutions.
+- [Lens Studio Download](https://ar.snap.com/lens-studio): Download page and product information for Lens Studio.

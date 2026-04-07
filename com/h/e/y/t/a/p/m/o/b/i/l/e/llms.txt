@@ -1,0 +1,67 @@
+# Heytap Mobile
+> Heytap Mobile provides mobile internet services, app distribution, developer tools, and cloud capabilities for OPPO ecosystem users and partners.
+
+This site spans consumer services and developer-facing platforms, including app publishing, push notifications, in-app services, account integration, analytics, and cloud messaging for OPPO and related devices.
+
+## Main Site
+- [Heytap Mobile Home](https://www.heytapmobile.com/): Main portal for Heytap Mobile services, products, and ecosystem information.
+- [About](https://www.heytapmobile.com/about): Overview of Heytap Mobile company background and service scope.
+- [Contact](https://www.heytapmobile.com/contact): Contact information and support entry points for business and service inquiries.
+- [Privacy Policy](https://www.heytapmobile.com/privacy): Privacy practices governing Heytap Mobile products and services.
+- [Terms of Service](https://www.heytapmobile.com/agreement): General terms and conditions for using Heytap Mobile services.
+
+## Developer Platform
+- [OPPO Developers](https://open.oppomobile.com/): Central developer portal for OPPO and Heytap platform integration and publishing.
+- [Developer Console](https://open.oppomobile.com/new/developmentDoc/info?id=10288): Entry point to developer documentation and platform capabilities.
+- [Documentation Center](https://open.oppomobile.com/new/developmentDoc/index): Product documentation, integration guides, and service references.
+- [Service Overview](https://open.oppomobile.com/new/developmentDoc/info?id=11241): Overview of developer services available across the OPPO ecosystem.
+- [Developer Registration](https://open.oppomobile.com/new/developmentDoc/info?id=10142): Guidance for creating and verifying a developer account.
+
+## App Distribution
+- [App Market Access Guide](https://open.oppomobile.com/new/developmentDoc/info?id=10269): Instructions for submitting and managing apps in the OPPO App Market.
+- [App Publishing Process](https://open.oppomobile.com/new/developmentDoc/info?id=10270): Steps for packaging, reviewing, and releasing applications.
+- [App Update Management](https://open.oppomobile.com/new/developmentDoc/info?id=10271): Procedures for version updates and release maintenance.
+- [App Review Specifications](https://open.oppomobile.com/new/developmentDoc/info?id=10272): Compliance and review requirements for app approval.
+- [Game Center Access Guide](https://open.oppomobile.com/new/developmentDoc/info?id=10273): Publishing and operating games within the OPPO ecosystem.
+
+## Push and Messaging
+- [Push Service Overview](https://open.oppomobile.com/new/developmentDoc/info?id=11228): Introduction to OPPO push notification capabilities and use cases.
+- [Push Integration Guide](https://open.oppomobile.com/new/developmentDoc/info?id=11229): Setup instructions for integrating push services into apps.
+- [Push API Reference](https://open.oppomobile.com/new/developmentDoc/info?id=11230): API details for sending and managing push notifications.
+- [Message Classification](https://open.oppomobile.com/new/developmentDoc/info?id=11231): Definitions and rules for notification and transmission message types.
+- [Push Troubleshooting](https://open.oppomobile.com/new/developmentDoc/info?id=11232): Common issues and debugging guidance for push delivery.
+
+## Account and User Identity
+- [Heytap Account Service](https://open.oppomobile.com/new/developmentDoc/info?id=10274): Overview of account login and identity capabilities for apps.
+- [Account Integration Guide](https://open.oppomobile.com/new/developmentDoc/info?id=10275): Steps for adding Heytap account sign-in to applications.
+- [OAuth Authorization](https://open.oppomobile.com/new/developmentDoc/info?id=10276): Authorization flow and token handling for account access.
+- [User Information Access](https://open.oppomobile.com/new/developmentDoc/info?id=10277): Methods for retrieving authorized user profile information.
+- [Account FAQ](https://open.oppomobile.com/new/developmentDoc/info?id=10278): Frequently asked questions about account service integration.
+
+## In-App Services
+- [In-App Purchase Overview](https://open.oppomobile.com/new/developmentDoc/info?id=10279): Introduction to billing and purchase capabilities for digital goods.
+- [Payment Integration Guide](https://open.oppomobile.com/new/developmentDoc/info?id=10280): SDK integration steps for in-app payments and order handling.
+- [Order Verification](https://open.oppomobile.com/new/developmentDoc/info?id=10281): Server-side validation guidance for payment results and receipts.
+- [Subscription Support](https://open.oppomobile.com/new/developmentDoc/info?id=10282): Documentation for recurring billing and subscription scenarios.
+- [Payment API Reference](https://open.oppomobile.com/new/developmentDoc/info?id=10283): Interface details for payment-related requests and callbacks.
+
+## Analytics and Growth
+- [Analytics Service Overview](https://open.oppomobile.com/new/developmentDoc/info?id=10284): Overview of analytics features for app performance and user behavior.
+- [Analytics Integration Guide](https://open.oppomobile.com/new/developmentDoc/info?id=10285): Instructions for embedding analytics SDKs and event tracking.
+- [Event Tracking Reference](https://open.oppomobile.com/new/developmentDoc/info?id=10286): Definitions and usage for custom and predefined analytics events.
+- [User Retention Analysis](https://open.oppomobile.com/new/developmentDoc/info?id=10287): Guidance on retention metrics and lifecycle analysis.
+- [Growth Tools](https://open.oppomobile.com/new/developmentDoc/info?id=11242): Tools supporting acquisition, engagement, and operational optimization.
+
+## SDKs and Tools
+- [SDK Download Center](https://open.oppomobile.com/new/developmentDoc/index): Access point for available SDK packages and integration resources.
+- [Android SDK Guides](https://open.oppomobile.com/new/developmentDoc/info?id=11233): Android-specific setup and development guidance for OPPO services.
+- [Server API Access](https://open.oppomobile.com/new/developmentDoc/info?id=11234): Server-side integration details for backend service communication.
+- [Testing and Debugging](https://open.oppomobile.com/new/developmentDoc/info?id=11235): Tools and recommendations for validating integrations before release.
+- [Release Notes](https://open.oppomobile.com/new/developmentDoc/info?id=11236): Updates and changes affecting SDKs, APIs, and platform behavior.
+
+## Support and Policies
+- [Developer Support Center](https://open.oppomobile.com/new/developmentDoc/index): Documentation hub and support entry for developer questions.
+- [Compliance Requirements](https://open.oppomobile.com/new/developmentDoc/info?id=11237): Platform compliance expectations for apps and services.
+- [Content Review Rules](https://open.oppomobile.com/new/developmentDoc/info?id=11238): Review standards for application content and publishing eligibility.
+- [Security Guidelines](https://open.oppomobile.com/new/developmentDoc/info?id=11239): Security recommendations and requirements for integrated applications.
+- [Developer Agreement](https://open.oppomobile.com/new/developmentDoc/info?id=11240): Terms governing participation in the OPPO developer ecosystem.

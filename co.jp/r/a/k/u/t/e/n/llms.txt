@@ -1,0 +1,80 @@
+# 楽天市場
+> 楽天市場は、食品から家電、ファッションまで幅広い商品を扱う日本最大級の総合オンラインショッピングモールです。
+
+楽天ポイント、クーポン、キャンペーン、ショップレビューなどを通じて、購入・比較・発見を楽しめるECプラットフォームです。商品検索、カテゴリ閲覧、ランキング、特集、出店者向け情報など、主要な利用導線を中心に整理しています。
+
+## 主要ページ
+- [楽天市場トップ](https://www.rakuten.co.jp/): 楽天市場のトップページと主要導線の入口。
+- [商品検索](https://search.rakuten.co.jp/search/mall/): キーワードから商品を横断検索できる検索ページ。
+- [ジャンル一覧](https://www.rakuten.co.jp/category/): 商品カテゴリを一覧でたどれる総合カテゴリページ。
+- [ランキング市場](https://ranking.rakuten.co.jp/): 売れ筋商品をカテゴリ別・期間別に確認できるランキング。
+- [ショップ一覧](https://www.rakuten.co.jp/shop/): 楽天市場内の出店ショップを探せる一覧ページ。
+- [お気に入り](https://my.bookmark.rakuten.co.jp/): 商品やショップのお気に入り管理ページ。
+- [閲覧履歴](https://browse.rakuten.co.jp/history/): 最近見た商品を確認できる履歴ページ。
+
+## 商品探索
+- [総合検索結果](https://search.rakuten.co.jp/search/mall/): 楽天市場全体の商品検索結果ページ。
+- [ディレクトリ検索](https://search.rakuten.co.jp/search/mall/-/100371/): カテゴリ配下の商品を絞り込める検索導線。
+- [レビュー検索](https://review.rakuten.co.jp/): 商品やショップのレビューを参照できるレビュー総合ページ。
+- [価格比較・条件絞り込み](https://search.rakuten.co.jp/search/mall/?f=1): 条件指定で商品を絞り込める検索UI。
+- [再入荷お知らせ](https://basket.step.rakuten.co.jp/rms/mall/bs/cartempty/): カート・購入導線に接続する買い物関連ページ。
+
+## カテゴリ
+- [食品](https://www.rakuten.co.jp/category/100227/): 食品・グルメ関連商品のカテゴリ一覧。
+- [水・ソフトドリンク](https://www.rakuten.co.jp/category/100316/): 飲料・ミネラルウォーター・お茶などのカテゴリ。
+- [家電](https://www.rakuten.co.jp/category/562637/): 生活家電・季節家電・調理家電のカテゴリ。
+- [スマートフォン・タブレット](https://www.rakuten.co.jp/category/564500/): モバイル端末や関連アクセサリのカテゴリ。
+- [パソコン・周辺機器](https://www.rakuten.co.jp/category/100026/): PC本体、周辺機器、アクセサリのカテゴリ。
+- [レディースファッション](https://www.rakuten.co.jp/category/100371/): レディース衣料、バッグ、シューズなどのカテゴリ。
+- [キッズ・ベビー・マタニティ](https://www.rakuten.co.jp/category/100533/): ベビー用品や子ども向け商品のカテゴリ。
+- [美容・コスメ・香水](https://www.rakuten.co.jp/category/100939/): コスメ、スキンケア、美容家電などのカテゴリ。
+
+## ランキング・特集
+- [楽天ランキング](https://ranking.rakuten.co.jp/): 総合・カテゴリ別の人気商品ランキング。
+- [デイリーランキング](https://ranking.rakuten.co.jp/daily/): 日次更新の売れ筋ランキング一覧。
+- [リアルタイムランキング](https://ranking.rakuten.co.jp/realtime/): 直近の売れ筋を反映するリアルタイムランキング。
+- [週間ランキング](https://ranking.rakuten.co.jp/weekly/): 週次集計の人気商品ランキング。
+- [月間ランキング](https://ranking.rakuten.co.jp/monthly/): 月次集計の人気商品ランキング。
+- [楽天スーパーSALE](https://event.rakuten.co.jp/supersale/): 大型セールの特設キャンペーンページ。
+- [お買い物マラソン](https://event.rakuten.co.jp/campaign/point-up/marathon/): 買い回り施策を中心とした定番キャンペーンページ。
+
+## ポイント・キャンペーン
+- [楽天ポイント](https://point.rakuten.co.jp/): 楽天ポイントの概要、残高、利用案内への入口。
+- [ポイントキャンペーン](https://event.rakuten.co.jp/campaign/): ポイントアップや季節施策のキャンペーン一覧。
+- [クーポン](https://coupon.rakuten.co.jp/): 利用可能なクーポンを探せる総合ページ。
+- [SPU](https://event.rakuten.co.jp/campaign/point-up/everyday/point/): 楽天サービス利用でポイント倍率が上がる制度案内。
+- [5と0のつく日](https://event.rakuten.co.jp/campaign/card/pointday/): 特定日にポイント還元が強化される施策ページ。
+- [勝ったら倍](https://event.rakuten.co.jp/campaign/sports/): スポーツ連動のポイントアップキャンペーン。
+- [楽天イーグルス感謝祭](https://event.rakuten.co.jp/campaign/eagles/): 季節開催の大型ポイントキャンペーンページ。
+
+## 購入・会員サポート
+- [楽天会員ログイン](https://www.rakuten.co.jp/myrakuten/help/): 楽天会員向けの利用導線とヘルプ情報。
+- [購入履歴](https://order.my.rakuten.co.jp/): 注文履歴、配送状況、再購入確認ページ。
+- [買い物かご](https://basket.step.rakuten.co.jp/rms/mall/bs/cart/): 商品購入前のカート確認ページ。
+- [楽天市場ヘルプ・問い合わせ](https://ichiba.faq.rakuten.net/): 購入、配送、支払いなどのFAQと問い合わせ案内。
+- [返品・キャンセル案内](https://ichiba.faq.rakuten.net/detail/000006734): 注文後の変更やキャンセルに関する案内。
+- [配送状況確認](https://order.my.rakuten.co.jp/?page=search): 注文ごとの配送状況確認導線。
+
+## 出店者向け
+- [楽天市場 出店案内](https://www.rakuten.co.jp/ec/): 楽天市場への出店検討事業者向け総合案内。
+- [出店資料請求](https://www.rakuten.co.jp/ec/request/): 出店に関する資料請求ページ。
+- [出店プラン](https://www.rakuten.co.jp/ec/plan/): 出店料金やプラン比較の案内ページ。
+- [RMS](https://glogin.rms.rakuten.co.jp/): 出店店舗向け管理システムのログインページ。
+- [店舗運営Navi](https://navi-manual.faq.rakuten.net/): 出店者向け運営マニュアルとFAQ。
+- [楽天大学](https://academy.rakuten.co.jp/): EC運営ノウハウを学べる出店者向け学習コンテンツ。
+- [ECC紹介](https://www.rakuten.co.jp/ec/ecc/): 出店店舗を支援するコンサルタント体制の案内。
+
+## ガイド・情報
+- [ご利用ガイド](https://www.rakuten.co.jp/help/): 楽天市場の基本的な使い方や案内ページ。
+- [楽天市場出店店舗レビューガイドライン](https://review.rakuten.co.jp/howto/): レビュー投稿や表示に関する案内。
+- [楽天市場ニュース](https://event.rakuten.co.jp/guide/): キャンペーンや利用情報の案内ページ。
+- [ショップ・オブ・ザ・イヤー](https://event.rakuten.co.jp/soyshop/): 優良店舗表彰に関する特設ページ。
+- [ふるさと納税](https://event.rakuten.co.jp/furusato/): 楽天市場経由のふるさと納税特集ページ。
+
+## 企業・ポリシー
+- [楽天グループ株式会社](https://corp.rakuten.co.jp/): 楽天グループの企業情報、IR、ニュース。
+- [楽天市場の安心・安全への取り組み](https://www.rakuten.co.jp/security/): セキュリティや安全対策に関する案内。
+- [プライバシーポリシー](https://privacy.rakuten.co.jp/): 個人情報保護方針とデータ利用方針。
+- [利用規約](https://corp.rakuten.co.jp/terms/): 楽天関連サービスの利用規約一覧。
+- [特定商取引法に基づく表記](https://www.rakuten.co.jp/tokushoho/): 法令に基づく表示に関する案内。
+- [会社概要](https://corp.rakuten.co.jp/about/): 楽天グループの会社概要ページ。

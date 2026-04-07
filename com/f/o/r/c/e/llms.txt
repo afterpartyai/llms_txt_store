@@ -1,0 +1,75 @@
+# Salesforce Developers
+> Salesforce’s developer platform documentation for building apps, automations, integrations, and AI-powered experiences on Force.com and related products.
+
+This site provides official technical documentation for Salesforce platform development, including Apex, Lightning Web Components, APIs, integrations, mobile SDKs, DevOps tooling, and agentic AI capabilities across the Salesforce ecosystem.
+
+## Developer Home
+- [Salesforce Developers](https://developer.salesforce.com/): Main developer portal for platform docs, tools, APIs, SDKs, and learning resources.
+- [Documentation](https://developer.salesforce.com/docs): Entry point to Salesforce technical documentation across products and developer workflows.
+- [Get Started](https://developer.salesforce.com/get-started): Onboarding resources for new Salesforce developers and platform builders.
+- [Developer Centers](https://developer.salesforce.com/developer-centers): Product-focused hubs for Salesforce platform, APIs, mobile, and AI development.
+- [Trailblazer Community](https://trailhead.salesforce.com/trailblazer-community): Community forum and collaboration space for Salesforce developers and architects.
+
+## Platform Development
+- [Platform Developer Guide](https://developer.salesforce.com/docs/platform): Overview of core Salesforce platform development concepts, tools, and architecture.
+- [Apex Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/): Reference and guides for Apex language, triggers, classes, and testing.
+- [SOQL and SOSL Reference](https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/): Query language reference for retrieving and searching Salesforce data.
+- [Lightning Web Components Developer Guide](https://developer.salesforce.com/docs/platform/lwc): Build modern UI components using the Lightning Web Components programming model.
+- [Visualforce Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/): Legacy UI framework documentation for custom Salesforce page development.
+- [Platform Events Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.platform_events.meta/platform_events/): Event-driven architecture documentation for publishing and subscribing to platform events.
+
+## APIs and Integration
+- [Salesforce APIs](https://developer.salesforce.com/docs/apis): Central hub for REST, SOAP, Bulk, Metadata, and streaming APIs.
+- [REST API Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/): Reference for accessing Salesforce data and metadata through REST endpoints.
+- [SOAP API Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.api.meta/api/): Enterprise and Partner SOAP API reference for data operations and integration.
+- [Bulk API 2.0 and Bulk API Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.api_asynch.meta/api_asynch/): High-volume data ingest and extraction APIs for asynchronous processing.
+- [Metadata API Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.api_meta.meta/api_meta/): Programmatic deployment and retrieval of Salesforce metadata and configuration.
+- [Pub/Sub API Developer Guide](https://developer.salesforce.com/docs/platform/pub-sub-api): gRPC-based event bus API for platform events and change data capture.
+- [Connect REST API Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.chatterapi.meta/chatterapi/): REST resources for feeds, files, topics, and collaboration features.
+
+## Lightning Experience and UI
+- [Lightning Web Components](https://developer.salesforce.com/docs/component-library/documentation/en/lwc): Component model documentation and examples for Lightning Web Components.
+- [Lightning Component Library](https://developer.salesforce.com/docs/component-library/overview/components): Browse base components, examples, and usage guidance for Lightning UI development.
+- [Lightning Design System](https://www.lightningdesignsystem.com/): Design system, patterns, tokens, and accessibility guidance for Salesforce interfaces.
+- [Aura Components Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/): Documentation for the Aura component framework used in Lightning Experience.
+- [UI API Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.uiapi.meta/uiapi/): APIs for metadata-aware UI data access and record operations.
+- [GraphQL API Developer Guide](https://developer.salesforce.com/docs/platform/graphql): GraphQL access to Salesforce data and UI API resources.
+
+## CLI, DX, and DevOps
+- [Salesforce CLI](https://developer.salesforce.com/tools/salesforcecli): Official command-line tools for org management, development, and deployment automation.
+- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/): Source-driven development, scratch orgs, packaging, and team collaboration workflows.
+- [Unlocked Packages](https://developer.salesforce.com/docs/atlas.en-us.pkg2_dev.meta/pkg2_dev/): Second-generation packaging documentation for modular application development and release management.
+- [DevOps Center](https://developer.salesforce.com/docs/platform/devops-center): Guided change and release management for Salesforce teams using source control.
+- [Code Builder](https://developer.salesforce.com/docs/platform/code-builder): Browser-based development environment for Salesforce coding and metadata workflows.
+- [VS Code Extensions](https://developer.salesforce.com/tools/vscode/): Salesforce extensions for Visual Studio Code supporting Apex, LWC, and org operations.
+
+## Agentforce and AI Development
+- [Agentforce Developer Center](https://developer.salesforce.com/developer-centers/agentforce): Hub for building, extending, and deploying Agentforce agents and AI experiences.
+- [Agentforce Documentation](https://developer.salesforce.com/docs/einstein/genai): Technical docs for generative AI, agents, prompts, and grounding on Salesforce.
+- [Prompt Builder](https://developer.salesforce.com/docs/einstein/genai/guide/prompt-builder.html): Create, test, and manage reusable prompts for Salesforce AI workflows.
+- [Einstein Copilot Studio](https://developer.salesforce.com/docs/einstein/genai/guide/copilot-studio.html): Configure custom copilot actions, topics, and conversational AI behaviors.
+- [Data Cloud for Developers](https://developer.salesforce.com/docs/data): Developer documentation for Data Cloud ingestion, modeling, and activation.
+- [MuleSoft for Agentforce](https://developer.salesforce.com/docs/einstein/genai/guide/mulesoft-agentforce.html): Use MuleSoft integrations and actions to extend agent capabilities.
+
+## Mobile and SDKs
+- [Mobile SDK Developer Guide](https://developer.salesforce.com/docs/platform/mobile-sdk): Build native and hybrid mobile apps connected to Salesforce data and identity.
+- [Android Mobile SDK](https://developer.salesforce.com/docs/platform/mobile-sdk/guide/android-native.html): Native Android development guidance using Salesforce Mobile SDK components.
+- [iOS Mobile SDK](https://developer.salesforce.com/docs/platform/mobile-sdk/guide/ios-native.html): Native iOS development guidance for secure Salesforce-connected mobile applications.
+- [Hybrid App Development](https://developer.salesforce.com/docs/platform/mobile-sdk/guide/hybrid-about.html): Cordova-based hybrid mobile app development with Salesforce Mobile SDK.
+- [Mobile Publisher](https://developer.salesforce.com/docs/atlas.en-us.mobile_sdk.meta/mobile_sdk/publisher_overview.htm): Package and distribute branded Salesforce mobile applications for end users.
+
+## Commerce, Experience, and Industry APIs
+- [Commerce Developer Center](https://developer.salesforce.com/developer-centers/commerce): Developer resources for B2C Commerce, headless commerce, and storefront integrations.
+- [B2C Commerce Developer Docs](https://developer.salesforce.com/docs/commerce): Technical documentation for Salesforce Commerce development and APIs.
+- [Experience Cloud Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.exp_cloud_dev.meta/exp_cloud_dev/): Build custom digital experiences, portals, and community extensions.
+- [Marketing Cloud Developer Center](https://developer.salesforce.com/developer-centers/marketing-cloud): APIs, SDKs, and integration resources for Marketing Cloud development.
+- [MuleSoft Developer Center](https://developer.salesforce.com/developer-centers/mulesoft): Integration platform resources for APIs, connectors, and automation development.
+- [Tableau Developer Program](https://developer.salesforce.com/developer-centers/tableau): Developer resources for analytics embedding, extensions, and Tableau APIs.
+
+## Learning and Release Resources
+- [Release Notes](https://help.salesforce.com/s/articleView?id=release-notes.salesforce_release_notes.htm&type=5): Official Salesforce release notes covering platform features, changes, and deprecations.
+- [Developer Blog](https://developer.salesforce.com/blogs): Articles, announcements, tutorials, and best practices from Salesforce engineering teams.
+- [Sample Apps and Code](https://developer.salesforce.com/sample-apps): Example applications demonstrating Salesforce platform patterns and integrations.
+- [Code Samples on GitHub](https://github.com/forcedotcom): Open-source repositories, examples, and tooling maintained by Salesforce developer teams.
+- [Trailhead for Developers](https://trailhead.salesforce.com/users/strailhead/trailmixes/prepare-for-your-salesforce-platform-developer-i-credential): Guided learning paths for Salesforce platform development skills and certification preparation.
+- [Events and Webinars](https://developer.salesforce.com/events): Developer-focused events, webinars, and conference sessions from Salesforce.

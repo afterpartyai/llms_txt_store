@@ -1,0 +1,101 @@
+# Cloudflare
+> Cloudflare provides connectivity cloud services including CDN, security, Zero Trust, developer platform, DNS, networking, and AI infrastructure.
+
+Cloudflare’s documentation spans application security, performance, networking, developer tools, data services, and platform APIs. The resources below prioritize product documentation, API references, guides, and operational references useful for LLMs.
+
+## Documentation Home
+- [Documentation Home](https://developers.cloudflare.com/): Entry point for Cloudflare product documentation, tutorials, and references.
+- [API Documentation](https://developers.cloudflare.com/api/): Overview of Cloudflare APIs, authentication, and product endpoints.
+- [Learning Paths](https://developers.cloudflare.com/learning-paths/): Guided learning journeys across major Cloudflare products and workflows.
+- [Reference Architecture Center](https://developers.cloudflare.com/reference-architecture/): Architectural patterns and deployment guidance for Cloudflare services.
+- [Cloudflare Fundamentals](https://developers.cloudflare.com/fundamentals/): Core concepts, account structure, plans, and platform basics.
+- [Support](https://developers.cloudflare.com/support/): Troubleshooting, contact options, and support process documentation.
+
+## DNS, Traffic, and Performance
+- [DNS](https://developers.cloudflare.com/dns/): Manage authoritative DNS, records, zones, and advanced DNS features.
+- [CDN](https://developers.cloudflare.com/cache/): Caching, cache rules, purge behavior, and content delivery optimization.
+- [Load Balancing](https://developers.cloudflare.com/load-balancing/): Distribute traffic across origins with health checks and steering policies.
+- [Health Checks](https://developers.cloudflare.com/health-checks/): Monitor endpoint availability for failover and traffic management.
+- [Rules](https://developers.cloudflare.com/rules/): Configure request handling with rules products and matching expressions.
+- [Speed](https://developers.cloudflare.com/speed/): Improve web performance with optimization features and delivery controls.
+- [Images](https://developers.cloudflare.com/images/): Store, transform, optimize, and deliver images at scale.
+
+## Security and Application Protection
+- [WAF](https://developers.cloudflare.com/waf/): Protect applications with managed rules, custom rules, and security controls.
+- [DDoS Protection](https://developers.cloudflare.com/ddos-protection/): Mitigate network and application layer denial-of-service attacks.
+- [Bot Management](https://developers.cloudflare.com/bots/): Detect, score, and mitigate automated traffic and abusive bots.
+- [Turnstile](https://developers.cloudflare.com/turnstile/): Privacy-preserving CAPTCHA alternative for bot and abuse prevention.
+- [Rate Limiting Rules](https://developers.cloudflare.com/waf/rate-limiting-rules/): Throttle abusive traffic using request matching and thresholds.
+- [SSL/TLS](https://developers.cloudflare.com/ssl/): Encrypt traffic, manage certificates, and configure TLS behavior.
+- [Page Shield](https://developers.cloudflare.com/page-shield/): Monitor browser-side scripts for supply chain and client-side risks.
+
+## Zero Trust and Access
+- [Cloudflare One](https://developers.cloudflare.com/cloudflare-one/): Zero Trust platform for secure access, networking, and data protection.
+- [Access](https://developers.cloudflare.com/cloudflare-one/applications/configure-apps/): Protect self-hosted and SaaS applications with identity-aware access controls.
+- [Gateway](https://developers.cloudflare.com/cloudflare-one/policies/gateway/): Secure web, DNS, and network traffic with filtering and policy enforcement.
+- [WARP Client](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/): Device client for secure connectivity and Zero Trust enrollment.
+- [Tunnel](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/): Publish private services securely without exposing inbound ports.
+- [Browser Isolation](https://developers.cloudflare.com/cloudflare-one/policies/browser-isolation/): Isolate web sessions remotely to reduce client-side risk.
+- [CASB](https://developers.cloudflare.com/cloudflare-one/insights/casb/): Discover and remediate SaaS misconfigurations and risky user behavior.
+
+## Developer Platform
+- [Workers](https://developers.cloudflare.com/workers/): Serverless JavaScript, TypeScript, Python, and Rust applications at the edge.
+- [Workers Runtime API](https://developers.cloudflare.com/workers/runtime-apis/): Runtime interfaces, bindings, and execution environment references.
+- [Pages](https://developers.cloudflare.com/pages/): Deploy full-stack applications and static sites on Cloudflare’s platform.
+- [Queues](https://developers.cloudflare.com/queues/): Message queues for asynchronous processing and event-driven architectures.
+- [Workflows](https://developers.cloudflare.com/workflows/): Durable orchestration for multi-step application logic and automation.
+- [Cron Triggers](https://developers.cloudflare.com/workers/configuration/cron-triggers/): Schedule Workers to run on recurring time-based intervals.
+- [Hyperdrive](https://developers.cloudflare.com/hyperdrive/): Accelerate database access from Workers with connection pooling and caching.
+
+## Data, Storage, and Databases
+- [R2](https://developers.cloudflare.com/r2/): S3-compatible object storage without egress fees for many workloads.
+- [D1](https://developers.cloudflare.com/d1/): Serverless SQLite database integrated with Workers and edge applications.
+- [KV](https://developers.cloudflare.com/kv/): Globally distributed key-value storage for configuration and cached data.
+- [Durable Objects](https://developers.cloudflare.com/durable-objects/): Stateful coordination primitives for strongly consistent application logic.
+- [Vectorize](https://developers.cloudflare.com/vectorize/): Vector database for embeddings and similarity search on Cloudflare.
+- [Analytics Engine](https://developers.cloudflare.com/analytics/analytics-engine/): Write and query high-cardinality analytics data from Workers.
+- [Stream](https://developers.cloudflare.com/stream/): Video ingestion, storage, encoding, and delivery APIs.
+
+## AI and Machine Learning
+- [Workers AI](https://developers.cloudflare.com/workers-ai/): Run inference on GPUs globally using Cloudflare’s AI platform.
+- [AI Gateway](https://developers.cloudflare.com/ai-gateway/): Observe, secure, and control traffic to AI model providers.
+- [Vectorize](https://developers.cloudflare.com/vectorize/): Store and query embeddings for semantic search and retrieval workflows.
+- [Browser Rendering](https://developers.cloudflare.com/browser-rendering/): Automate browsers and extract content from web pages programmatically.
+- [AutoRAG](https://developers.cloudflare.com/autorag/): Build retrieval-augmented generation pipelines on Cloudflare infrastructure.
+- [Model Context Protocol Servers](https://developers.cloudflare.com/agents/model-context-protocol/): Build MCP-compatible services and agent integrations on Cloudflare.
+- [Agents](https://developers.cloudflare.com/agents/): Develop agentic applications using Cloudflare’s AI and developer primitives.
+
+## Networking and Connectivity
+- [Magic WAN](https://developers.cloudflare.com/magic-wan/): Connect branch, cloud, and data center networks through Cloudflare.
+- [Magic Transit](https://developers.cloudflare.com/magic-transit/): Protect and accelerate IP networks with DDoS mitigation and routing.
+- [Magic Firewall](https://developers.cloudflare.com/magic-firewall/): Enforce L3/L4 network firewall policies across connected environments.
+- [Network Interconnect](https://developers.cloudflare.com/network-interconnect/): Establish private connectivity into Cloudflare’s global network.
+- [IP Addresses and Domains](https://developers.cloudflare.com/fundamentals/concepts/cloudflare-ip-addresses/): Reference Cloudflare IP ranges and network identity concepts.
+- [Cloudflare Tunnel](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/): Securely connect private networks and services to Cloudflare.
+- [Spectrum](https://developers.cloudflare.com/spectrum/): Proxy and protect TCP, UDP, and gaming or non-HTTP applications.
+
+## API, Tooling, and SDKs
+- [API Reference](https://developers.cloudflare.com/api/resources/): Endpoint-by-endpoint reference for Cloudflare platform APIs.
+- [API Tokens](https://developers.cloudflare.com/fundamentals/api/get-started/create-token/): Create scoped API tokens for secure programmatic access.
+- [Terraform Provider](https://developers.cloudflare.com/terraform/): Manage Cloudflare resources declaratively with Terraform.
+- [Wrangler](https://developers.cloudflare.com/workers/wrangler/): CLI for building, testing, and deploying Workers applications.
+- [Workers SDK](https://developers.cloudflare.com/workers/frameworks/): Framework integration guidance for building on Workers and Pages.
+- [OpenAPI Schemas](https://developers.cloudflare.com/api/resources/): Machine-readable API definitions for Cloudflare endpoints.
+- [GraphQL API](https://developers.cloudflare.com/analytics/graphql-api/): Query analytics and network data using Cloudflare’s GraphQL interface.
+
+## Observability, Analytics, and Logs
+- [Analytics](https://developers.cloudflare.com/analytics/): Product analytics capabilities, datasets, and usage patterns.
+- [GraphQL Analytics API](https://developers.cloudflare.com/analytics/graphql-api/): Query detailed analytics across zones, accounts, and products.
+- [Logpush](https://developers.cloudflare.com/logs/logpush/): Export Cloudflare logs to storage and SIEM destinations.
+- [Logs](https://developers.cloudflare.com/logs/): Logging products, datasets, and operational guidance.
+- [Web Analytics](https://developers.cloudflare.com/web-analytics/): Privacy-focused website analytics without client-side profiling.
+- [Cloudflare Radar](https://radar.cloudflare.com/): Internet traffic, outages, attacks, and protocol trend insights.
+- [Status](https://www.cloudflarestatus.com/): Real-time service availability and incident reporting for Cloudflare systems.
+
+## Release Notes and Changelog
+- [Documentation Changelog](https://developers.cloudflare.com/changelog/): Product and documentation release notes across Cloudflare services.
+- [Workers Changelog](https://developers.cloudflare.com/workers/platform/changelog/): Runtime, platform, and feature updates for Workers.
+- [Pages Changelog](https://developers.cloudflare.com/pages/platform/changelog/): Release notes for Pages platform capabilities and changes.
+- [D1 Release Notes](https://developers.cloudflare.com/d1/platform/release-notes/): Updates and changes for the D1 serverless database.
+- [R2 Release Notes](https://developers.cloudflare.com/r2/platform/release-notes/): Product updates and behavior changes for R2 storage.
+- [Cloudflare One Release Notes](https://developers.cloudflare.com/cloudflare-one/release-notes/): Zero Trust and connectivity platform release updates.

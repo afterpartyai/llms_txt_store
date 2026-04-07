@@ -1,0 +1,77 @@
+# OpenAI
+> OpenAI builds AI models, APIs, and products for developers, businesses, and consumers.
+
+OpenAI provides platform documentation for building with its APIs, product information for ChatGPT and enterprise offerings, research publications, safety resources, and company updates.
+
+## Platform Documentation
+- [Docs Home](https://platform.openai.com/docs): Main documentation hub for building with the OpenAI API.
+- [Quickstart](https://platform.openai.com/docs/quickstart): Get started making your first API request.
+- [API Reference](https://platform.openai.com/docs/api-reference): Reference documentation for core API endpoints and objects.
+- [Models](https://platform.openai.com/docs/models): Overview of available models and their capabilities.
+- [Pricing](https://platform.openai.com/docs/pricing): Pricing information for API models and platform usage.
+- [Libraries](https://platform.openai.com/docs/libraries): Official and community SDKs for supported languages.
+- [Changelog](https://platform.openai.com/docs/changelog): Product and API release notes for the platform.
+
+## Guides
+- [Text Generation](https://platform.openai.com/docs/guides/text-generation): Guide to generating and structuring text outputs.
+- [Image Generation](https://platform.openai.com/docs/guides/image-generation): Guide to creating and editing images with models.
+- [Vision](https://platform.openai.com/docs/guides/vision): Guide to using image inputs with multimodal models.
+- [Audio](https://platform.openai.com/docs/guides/audio): Guide to speech, transcription, and audio generation workflows.
+- [Function Calling](https://platform.openai.com/docs/guides/function-calling): Guide to calling tools and external functions from models.
+- [Structured Outputs](https://platform.openai.com/docs/guides/structured-outputs): Guide to enforcing JSON schemas and structured responses.
+- [Embeddings](https://platform.openai.com/docs/guides/embeddings): Guide to generating vector embeddings for search and retrieval.
+- [Batch](https://platform.openai.com/docs/guides/batch): Guide to asynchronous bulk processing with batch jobs.
+
+## Realtime and Agents
+- [Realtime API](https://platform.openai.com/docs/guides/realtime): Guide to low-latency multimodal realtime interactions.
+- [Assistants API](https://platform.openai.com/docs/guides/assistants): Guide to building assistant-style applications with tools.
+- [Conversation State](https://platform.openai.com/docs/guides/conversation-state): Guide to managing context and state across interactions.
+- [Tools](https://platform.openai.com/docs/guides/tools): Guide to using built-in and external tools with models.
+- [Rate Limits](https://platform.openai.com/docs/guides/rate-limits): Guidance on platform rate limits and throughput planning.
+
+## Safety and Best Practices
+- [Safety Best Practices](https://platform.openai.com/docs/guides/safety-best-practices): Recommendations for safer application design and deployment.
+- [Moderation](https://platform.openai.com/docs/guides/moderation): Guide to content moderation and safety classification.
+- [Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering): Techniques for improving reliability and output quality.
+- [Production Best Practices](https://platform.openai.com/docs/guides/production-best-practices): Guidance for deploying reliable applications in production.
+- [Error Codes](https://platform.openai.com/docs/guides/error-codes): Explanations of common API errors and troubleshooting steps.
+- [Latency Optimization](https://platform.openai.com/docs/guides/latency-optimization): Techniques for reducing response times and improving performance.
+
+## SDKs and Developer Resources
+- [OpenAI Python](https://github.com/openai/openai-python): Official Python SDK for the OpenAI API.
+- [OpenAI Node](https://github.com/openai/openai-node): Official JavaScript and TypeScript SDK for the OpenAI API.
+- [OpenAI Cookbook](https://cookbook.openai.com/): Examples and recipes for common API use cases.
+- [OpenAI Developers Collection](https://developers.openai.com/): Developer resources, examples, and announcements.
+- [Platform Dashboard](https://platform.openai.com/): Developer console for API keys, usage, and settings.
+
+## ChatGPT and Products
+- [ChatGPT](https://openai.com/chatgpt/): Product overview for OpenAI’s conversational AI assistant.
+- [ChatGPT Team](https://openai.com/chatgpt/team/): Collaboration-focused ChatGPT plan for teams and organizations.
+- [ChatGPT Enterprise](https://openai.com/enterprise/): Enterprise offering with security, admin, and deployment controls.
+- [ChatGPT Edu](https://openai.com/chatgpt/education/): ChatGPT offering tailored for educational institutions.
+- [Sora](https://openai.com/sora/): OpenAI’s video generation product and research showcase.
+- [API Platform](https://openai.com/api/): Overview of OpenAI’s developer platform and API offering.
+
+## Research
+- [Research Index](https://openai.com/research/): Hub for OpenAI research publications and technical work.
+- [GPT-4](https://openai.com/research/gpt-4): Research page describing GPT-4 capabilities and evaluations.
+- [GPT-4o](https://openai.com/index/hello-gpt-4o/): Introduction to GPT-4o and multimodal capabilities.
+- [DALL·E 3](https://openai.com/research/dall-e-3): Research page for the DALL·E 3 image generation model.
+- [Sora Research](https://openai.com/research/video-generation-models-as-world-simulators/): Research article on video generation models and world simulation.
+- [Whisper](https://openai.com/research/whisper): Research page for the Whisper speech recognition model.
+
+## Safety, Security, and Governance
+- [Safety](https://openai.com/safety/): Overview of OpenAI’s approach to safety and responsible deployment.
+- [Security & Privacy](https://openai.com/security-and-privacy/): Information on security practices, privacy, and data protection.
+- [Preparedness Framework](https://openai.com/index/preparedness-framework/): Framework for evaluating and managing frontier model risks.
+- [Usage Policies](https://openai.com/policies/usage-policies/): Rules governing acceptable use of OpenAI services.
+- [Privacy Policy](https://openai.com/policies/privacy-policy/): Policy describing how OpenAI collects and uses personal data.
+- [Terms of Use](https://openai.com/policies/terms-of-use/): Terms governing consumer use of OpenAI services.
+
+## News and Company
+- [News](https://openai.com/news/): Company announcements, launches, and organizational updates.
+- [Blog](https://openai.com/blog/): Articles about products, research, and company perspectives.
+- [About](https://openai.com/about/): Overview of OpenAI’s mission, structure, and leadership.
+- [Careers](https://openai.com/careers/): Open roles and information about working at OpenAI.
+- [OpenAI for Business](https://openai.com/business/): Overview of business solutions and enterprise adoption.
+- [Contact Sales](https://openai.com/contact-sales/): Contact page for enterprise and business inquiries.

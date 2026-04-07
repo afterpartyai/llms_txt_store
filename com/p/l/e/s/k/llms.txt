@@ -1,0 +1,88 @@
+# Plesk
+> Plesk is a web hosting control panel for building, securing, automating, and managing websites, applications, servers, and hosting environments.
+
+Plesk provides hosting automation, server and site management, security tooling, WordPress management, extensions, and partner resources for service providers, developers, and IT administrators.
+
+## Product
+- [Plesk Obsidian](https://www.plesk.com/plesk-obsidian/): Overview of the current Plesk platform release and core hosting management capabilities.
+- [Web Admin Edition](https://www.plesk.com/plesk-editions/): Entry-level edition for managing websites, domains, mail, and hosting tasks.
+- [Web Pro Edition](https://www.plesk.com/plesk-editions/): Edition for web professionals managing multiple sites and subscriptions.
+- [Web Host Edition](https://www.plesk.com/plesk-editions/): Full edition for hosting providers, resellers, and large-scale multi-tenant environments.
+- [Pricing](https://www.plesk.com/pricing/): Licensing and subscription options for Plesk editions and add-on features.
+- [Extensions](https://www.plesk.com/extensions/): Marketplace for add-ons that extend security, development, backup, and management features.
+
+## Solutions
+- [WordPress Toolkit](https://www.plesk.com/extensions/wordpress-toolkit/): Centralized WordPress installation, staging, security hardening, and update management.
+- [Plesk for VPS Hosting](https://www.plesk.com/plesk-vps-hosting/): Control panel capabilities tailored for virtual private server environments.
+- [Plesk for Dedicated Servers](https://www.plesk.com/plesk-dedicated-server/): Hosting management for dedicated infrastructure and high-control deployments.
+- [Plesk for Cloud](https://www.plesk.com/plesk-cloud/): Plesk deployment and management options for cloud-based hosting environments.
+- [Plesk for Developers](https://www.plesk.com/plesk-developers/): Tools and workflows for application deployment, Git, Docker, and automation.
+- [Plesk for Agencies](https://www.plesk.com/plesk-agencies/): Site and client management features for digital agencies and web professionals.
+
+## Documentation
+- [Plesk Documentation](https://docs.plesk.com/): Main documentation portal for administrators, developers, and hosting providers.
+- [Administrator Guide](https://docs.plesk.com/en-US/obsidian/administrator-guide/): Core administration tasks for managing servers, subscriptions, domains, and services.
+- [Reseller Guide](https://docs.plesk.com/en-US/obsidian/reseller-guide/): Documentation for reseller account management and customer hosting operations.
+- [Customer Guide](https://docs.plesk.com/en-US/obsidian/customer-guide/): End-user documentation for websites, mail, databases, and application hosting.
+- [Migration Guide](https://docs.plesk.com/en-US/obsidian/migration-guide/): Instructions for migrating hosting data and services into Plesk.
+- [CLI Guide](https://docs.plesk.com/en-US/obsidian/cli-linux/): Command-line tools and automation commands for Linux-based Plesk servers.
+- [CLI Guide for Windows](https://docs.plesk.com/en-US/obsidian/cli-win/): Command-line reference and usage for Windows-based Plesk installations.
+- [Advanced Administration Guide](https://docs.plesk.com/en-US/obsidian/advanced-administration-guide-linux/): Advanced Linux administration, customization, and service configuration topics.
+
+## Developer & API
+- [Plesk Developer Documentation](https://docs.plesk.com/en-US/obsidian/api-rpc/about-xml-api.28709/): Entry point for XML API and integration concepts.
+- [XML API Reference](https://docs.plesk.com/en-US/obsidian/api-rpc/about-xml-api.28709/): Overview of the Plesk XML API architecture and usage.
+- [REST API Reference](https://docs.plesk.com/en-US/obsidian/api-rpc/about-rest-api.79359/): REST API concepts for integrating with Plesk programmatically.
+- [CLI Utility Reference](https://docs.plesk.com/en-US/obsidian/cli-linux/using-command-line-utilities.59409/): Command-line automation reference for common administrative operations.
+- [Extensions SDK](https://docs.plesk.com/en-US/obsidian/extensions-guide/): Guide to building, packaging, and maintaining Plesk extensions.
+- [Docker Extension Documentation](https://docs.plesk.com/en-US/obsidian/administrator-guide/plesk-administration/using-docker.75823/): Using Docker containers from within the Plesk interface.
+- [Git Support Documentation](https://docs.plesk.com/en-US/obsidian/administrator-guide/website-management/git-support.75825/): Deploying and managing websites with Git integration in Plesk.
+
+## WordPress
+- [WP Toolkit](https://www.plesk.com/extensions/wordpress-toolkit/): Official WordPress management extension for installation, staging, cloning, and security.
+- [WP Toolkit Documentation](https://docs.plesk.com/en-US/obsidian/administrator-guide/website-management/wp-toolkit.73390/): Administrator documentation for managing WordPress instances with WP Toolkit.
+- [WordPress Hosting](https://www.plesk.com/wordpress-hosting/): Plesk capabilities and positioning for WordPress hosting environments.
+- [WordPress Security](https://www.plesk.com/blog/various/wordpress-security-checklist/): Practical guidance for securing WordPress sites and hosting setups.
+- [WordPress Management](https://www.plesk.com/blog/product-technology/wordpress-management-plesk-wp-toolkit/): Overview of WordPress management workflows using Plesk tools.
+
+## Security & Operations
+- [Security Advisor](https://docs.plesk.com/en-US/obsidian/administrator-guide/server-administration/security-advisor.73383/): Built-in recommendations for improving Plesk server security posture.
+- [Fail2Ban in Plesk](https://docs.plesk.com/en-US/obsidian/administrator-guide/server-administration/fail2ban.73376/): Intrusion prevention and brute-force protection configuration in Plesk.
+- [SSL/TLS Certificates](https://docs.plesk.com/en-US/obsidian/administrator-guide/website-management/ssl-tls-certificates.65183/): Managing certificates and HTTPS settings for hosted domains.
+- [Backup and Restore](https://docs.plesk.com/en-US/obsidian/administrator-guide/backing-up-and-restoration.59256/): Backup strategies and restoration procedures for Plesk environments.
+- [Monitoring Extension](https://www.plesk.com/extensions/monitoring/): Server and service monitoring extension for operational visibility.
+- [ImunifyAV](https://www.plesk.com/extensions/imunifyav/): Malware scanning extension for detecting infected files in hosting environments.
+
+## Extensions
+- [Extensions Catalog](https://www.plesk.com/extensions/): Browse available Plesk extensions by category and use case.
+- [WP Toolkit](https://www.plesk.com/extensions/wordpress-toolkit/): WordPress lifecycle management extension for administrators and hosting providers.
+- [SEO Toolkit](https://www.plesk.com/extensions/seo-toolkit/): Search optimization and site auditing tools integrated into Plesk.
+- [Security Advisor](https://www.plesk.com/extensions/security-advisor/): Extension for reviewing and improving server security settings.
+- [Docker](https://www.plesk.com/extensions/docker/): Container management extension for running and exposing Dockerized applications.
+- [Git](https://www.plesk.com/extensions/git/): Git deployment support for version-controlled website publishing.
+- [Let’s Encrypt](https://www.plesk.com/extensions/sslit/): Free SSL certificate provisioning and renewal through Plesk.
+- [Backup to Cloud Pro](https://www.plesk.com/extensions/backup-to-cloud-pro/): Cloud backup extension for remote storage and recovery workflows.
+
+## Partners & Business
+- [Partners](https://www.plesk.com/partners/): Partner ecosystem overview for hosting providers, cloud platforms, and integrators.
+- [Partner Program](https://www.plesk.com/partners/): Information about partnering with Plesk as a service or technology provider.
+- [For Hosters](https://www.plesk.com/plesk-hosting-providers/): Plesk capabilities and business benefits for hosting companies.
+- [For Hyperscalers](https://www.plesk.com/plesk-hyperscalers/): Plesk solutions for large cloud and infrastructure platform providers.
+- [For Resellers](https://www.plesk.com/plesk-resellers/): Tools and workflows for reseller hosting businesses using Plesk.
+- [Buy Now](https://www.plesk.com/buy-now/): Purchase and licensing entry point for Plesk subscriptions and add-ons.
+
+## Support & Learning
+- [Help Center](https://support.plesk.com/hc/en-us): Support portal for troubleshooting, articles, and customer assistance.
+- [Knowledge Base](https://support.plesk.com/hc/en-us/categories/213390525): Searchable support articles for common Plesk issues and tasks.
+- [Plesk University](https://www.plesk.com/university/): Training and certification resources for learning Plesk administration.
+- [Forum](https://talk.plesk.com/): Community discussion forum for Plesk users, administrators, and developers.
+- [Release Notes](https://docs.plesk.com/release-notes/obsidian/): Product release notes and change history for Plesk Obsidian.
+- [Webinars](https://www.plesk.com/webinars/): Educational sessions covering product features, best practices, and updates.
+
+## Blog
+- [Plesk Blog](https://www.plesk.com/blog/): Official blog covering product updates, hosting, security, and WordPress topics.
+- [Product & Technology](https://www.plesk.com/blog/category/product-technology/): Articles about platform features, releases, and technical capabilities.
+- [Security](https://www.plesk.com/blog/category/security/): Security-focused posts for hosting administrators and web professionals.
+- [Various](https://www.plesk.com/blog/category/various/): General hosting, operations, and website management articles.
+- [Business & Industry](https://www.plesk.com/blog/category/business-industry/): Industry trends and business guidance for hosting and web professionals.
+- [WP Toolkit](https://www.plesk.com/blog/tag/wp-toolkit/): Blog posts related to WordPress management with WP Toolkit.

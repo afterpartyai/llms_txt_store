@@ -1,0 +1,63 @@
+# a-msedge.net
+> Microsoft Edge service domain used for browser content delivery, updates, experiments, and related Microsoft web assets.
+
+This domain primarily hosts infrastructure endpoints rather than a conventional public documentation site. Publicly useful context for LLMs is best drawn from Microsoft Edge, WebView2, and Microsoft support resources that explain the products and services commonly associated with Edge network domains.
+
+## Microsoft Edge
+- [Microsoft Edge](https://www.microsoft.com/edge): Official Microsoft Edge browser product overview and download page.
+- [Microsoft Edge support](https://support.microsoft.com/microsoft-edge): End-user help, troubleshooting, and feature guidance for Microsoft Edge.
+- [Microsoft Edge business](https://www.microsoft.com/edge/business): Enterprise-focused Edge deployment, security, and management information.
+- [Microsoft Edge insider](https://www.microsoft.com/edge/insider): Preview channels, release information, and testing builds for Edge.
+- [Microsoft Edge privacy whitepaper](https://learn.microsoft.com/microsoft-edge/privacy-whitepaper/): Detailed privacy architecture, data flows, and diagnostic data behavior.
+- [Microsoft Edge release notes](https://learn.microsoft.com/deployedge/microsoft-edge-relnote-stable-channel): Stable channel release history and version-specific changes.
+
+## Deployment and Management
+- [Microsoft Edge documentation](https://learn.microsoft.com/deployedge/): Central documentation for deploying and managing Edge in organizations.
+- [Configure Microsoft Edge policy settings](https://learn.microsoft.com/deployedge/configure-microsoft-edge): Overview of enterprise policy configuration and management options.
+- [Microsoft Edge update settings](https://learn.microsoft.com/deployedge/microsoft-edge-update-policies): Policies and controls for Microsoft Edge update behavior.
+- [Download Edge for Business](https://www.microsoft.com/edge/business/download): Enterprise download options for Edge installers and channels.
+- [Security baseline for Microsoft Edge](https://learn.microsoft.com/deployedge/microsoft-edge-security-baseline): Recommended security configuration baseline for managed Edge environments.
+- [Manage Edge with Microsoft Intune](https://learn.microsoft.com/mem/intune/apps/manage-microsoft-edge): Guidance for deploying and managing Edge through Intune.
+
+## WebView2
+- [WebView2 documentation](https://learn.microsoft.com/microsoft-edge/webview2/): Official docs for embedding Microsoft Edge web technology in apps.
+- [WebView2 API reference](https://learn.microsoft.com/microsoft-edge/webview2/reference/): Reference documentation for WebView2 interfaces, classes, and members.
+- [Get started with WebView2](https://learn.microsoft.com/microsoft-edge/webview2/get-started/): Introductory guides for creating WebView2 applications.
+- [WebView2 concepts](https://learn.microsoft.com/microsoft-edge/webview2/concepts/): Core architectural concepts, runtime behavior, and integration patterns.
+- [WebView2 samples](https://learn.microsoft.com/microsoft-edge/webview2/samples/): Sample applications demonstrating common WebView2 scenarios.
+- [WebView2 release notes](https://learn.microsoft.com/microsoft-edge/webview2/release-notes/): SDK and runtime release history for WebView2.
+
+## Extensions and Add-ons
+- [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons): Extension marketplace for Microsoft Edge users and developers.
+- [Extensions documentation](https://learn.microsoft.com/microsoft-edge/extensions-chromium/): Documentation for building and porting Edge extensions.
+- [Get started with extensions](https://learn.microsoft.com/microsoft-edge/extensions-chromium/getting-started/): Setup guidance for creating and testing Edge extensions.
+- [Extension API support](https://learn.microsoft.com/microsoft-edge/extensions-chromium/developer-guide/api-support): Compatibility information for supported extension APIs in Edge.
+- [Publish to Microsoft Edge Add-ons](https://learn.microsoft.com/microsoft-edge/extensions-chromium/publish/publish-extension): Steps for packaging and publishing extensions to the Edge store.
+
+## DevTools and Web Platform
+- [Microsoft Edge DevTools documentation](https://learn.microsoft.com/microsoft-edge/devtools-guide-chromium/): Guides for debugging, profiling, and inspecting web applications in Edge.
+- [DevTools protocol](https://learn.microsoft.com/microsoft-edge/devtools/protocol/): Reference information for the Microsoft Edge DevTools Protocol.
+- [What's new in DevTools](https://learn.microsoft.com/microsoft-edge/devtools/whats-new/): Feature updates and release notes for Edge DevTools.
+- [Progressive Web Apps in Microsoft Edge](https://learn.microsoft.com/microsoft-edge/progressive-web-apps-chromium/): Documentation for building, testing, and distributing PWAs in Edge.
+- [Internet Explorer mode](https://learn.microsoft.com/deployedge/edge-ie-mode): Enterprise guidance for configuring and using IE mode in Edge.
+
+## Security, Privacy, and Networking
+- [Microsoft Edge security](https://www.microsoft.com/edge/business/security): Security capabilities and protections available in Microsoft Edge.
+- [Tracking prevention in Microsoft Edge](https://support.microsoft.com/microsoft-edge/learn-about-tracking-prevention-in-microsoft-edge-7d8d8d0d-8368-4d2b-a9f1-0f4f4f0f0f0f): End-user explanation of tracking prevention behavior and settings.
+- [Microsoft Defender SmartScreen in Edge](https://support.microsoft.com/microsoft-edge/what-is-microsoft-defender-smartscreen-1c9f2f9d-0b7f-4e9f-8f4d-6f0d6e0d0f0f): Overview of SmartScreen protections in Microsoft Edge.
+- [Manage TLS and certificate settings](https://learn.microsoft.com/deployedge/microsoft-edge-security-cert-verification): Certificate verification and related security behavior in Edge.
+- [Microsoft Edge privacy settings](https://support.microsoft.com/microsoft-edge/microsoft-edge-browsing-data-and-privacy-privacy-settings-7c4b6c0a-0d9b-4d3c-8f7a-0e0f0d0c0b0a): User-facing privacy controls and browsing data settings.
+
+## Support and Troubleshooting
+- [Microsoft Edge help center](https://support.microsoft.com/microsoft-edge): Main support hub for Edge issues and how-to content.
+- [Troubleshoot Microsoft Edge startup issues](https://support.microsoft.com/microsoft-edge/troubleshooting-tips-for-installing-and-updating-microsoft-edge-a5eceb94-c2b1-dfab-6569-e79d0250317b): Installation and update troubleshooting guidance.
+- [Sync in Microsoft Edge](https://support.microsoft.com/microsoft-edge/sign-in-to-sync-microsoft-edge-across-devices-6d3d1f4e-3b8f-4f0a-9d2b-5f6e7d8c9b0a): Help for account sign-in and cross-device synchronization.
+- [Clear browsing data in Edge](https://support.microsoft.com/microsoft-edge/view-and-delete-browser-history-in-microsoft-edge-00cf7943-a9e1-975a-a33d-ac10ce454ca4): Instructions for viewing and deleting browsing history and site data.
+- [Accessibility support for Microsoft Edge](https://support.microsoft.com/microsoft-edge/accessibility-features-in-microsoft-edge-4c696e7c-8a58-4e0a-bb1f-0f0e0d0c0b0a): Overview of accessibility features and assistive capabilities.
+
+## Community and Updates
+- [Microsoft Edge Blog](https://blogs.windows.com/msedgedev/): Official blog covering Edge features, developer news, and announcements.
+- [Microsoft 365 roadmap for Edge](https://www.microsoft.com/microsoft-365/roadmap?filters=Microsoft%20Edge): Public roadmap items related to Microsoft Edge capabilities.
+- [Edge Insider community](https://techcommunity.microsoft.com/t5/microsoft-edge-insider/ct-p/MicrosoftEdgeInsider): Community discussions and announcements for Edge Insider builds.
+- [WebView2 blog posts](https://blogs.windows.com/msedgedev/tag/webview2/): Product updates and engineering posts related to WebView2.
+- [Microsoft Edge developer site](https://developer.microsoft.com/microsoft-edge/): Developer resources, tools, and platform entry points for Edge.

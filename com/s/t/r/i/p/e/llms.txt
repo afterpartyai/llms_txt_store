@@ -1,0 +1,355 @@
+# Stripe
+
+> Stripe is a technology company that provides financial infrastructure for businesses. Businesses of every size—from new startups to established public companies—use Stripe to accept payments online and in person, embed financial services, and create custom revenue models. For complete documentation in a single file, see [Full Documentation](https://stripe.com/llms-full.txt).
+
+## Payments
+
+- [Stripe Payments](https://stripe.com/payments): Accept payments online and in person globally with a payments solution built for any business—from scaling startups to global enterprises.
+- [Stripe Payments features](https://stripe.com/payments/features): Learn more about Stripe Payments features.
+- [Payment methods](https://stripe.com/payments/payment-methods): Acquire more customers and improve conversion by offering the most popular local payment methods around the world. Join millions of global businesses that launch and manage payment methods through Stripe.
+- [Payments authorization](https://stripe.com/authorization): The world’s leading ecommerce, SaaS, and marketplace brands use Stripe to optimize payments, reduce churn, and improve network acceptance rates—generating billions of dollars in incremental revenue each year.
+- [Authentication](https://stripe.com/payments/authentication): Stripe helps you meet regulatory requirements, fight fraud and facilitate seamless customer experiences.
+- [Stripe Payments documentation](https://docs.stripe.com/payments.md): Find a guide to integrate Stripe's payments APIs.
+
+## Connect
+
+- [Stripe Connect](https://stripe.com/connect): The world’s most successful platforms and marketplaces, including Shopify and DoorDash, use Stripe Connect to embed payments into their products. Connect offers seamless onboarding, embedded components, global payouts, and more. Go live in weeks instead of quarters, build a profitable payment business, and scale with ease.
+- [Marketplace payments](https://stripe.com/connect/marketplaces): Whether you run an on-demand, retail, or crowdfunding marketplace, Connect can help you onboard, verify, and pay out your freelancers, sellers, or other recipients at scale.
+- [Platform payments](https://stripe.com/connect/platforms): Stripe Connect helps the world’s most successful platforms—such as Shopify, Mindbody, and DocuSign—launch, scale, and differentiate a profitable payment business.
+- [Payouts](https://stripe.com/connect/payouts): Programmatically send fast payouts to your sellers, freelancers, creators, or service providers around the world. Whether you fund your payouts using payments accepted with Stripe or directly from your bank account, you can use our infrastructure to automate payout workflows, offload Know Your Customer (KYC) obligations and simplify verifications.
+- [Stripe Connect features](https://stripe.com/connect/features): Learn more about Stripe Connect features.
+- [Stripe Connect pricing](https://stripe.com/connect/pricing): Connect has simple, pay-as-you-go pricing that is flexible based on the capabilities you need. Choose the best model for your business, or get in touch to discuss other options.
+- [Stripe Connect documentation](https://docs.stripe.com/connect.md): Build a multiparty integration.
+
+## Payment Links
+
+- [Stripe Payment Links](https://stripe.com/payments/payment-links): Use Payment Links to sell online without a website. Create a full payment page in just a few clicks and share the link with your customers—no code required.
+- [Stripe Payment Links documentation](https://docs.stripe.com/payment-links.md): Sell online with no code required.
+
+## Checkout
+
+- [Stripe Checkout](https://stripe.com/payments/checkout): Stripe Checkout is a prebuilt payment form optimized for conversion. Embed Checkout into your website or direct customers to a Stripe-hosted page to easily and securely accept one-time payments or subscriptions.
+- [Stripe Checkout documentation](https://docs.stripe.com/payments/checkout.md): Build a low-code payment form and embed it on your site or host it on Stripe.
+
+## Elements
+
+- [Stripe Elements](https://stripe.com/payments/elements): Use Stripe’s suite of rich UI building blocks to design a secure payments experience that perfectly matches your site and helps drive conversion.
+- [Stripe Elements documentation](https://docs.stripe.com/payments/elements.md): Create your own customized checkout flows with Stripe’s prebuilt UI components.
+
+## Billing
+
+- [Stripe Billing](https://stripe.com/billing): Stripe Billing lets you bill and manage customers however you want—from simple recurring billing to usage-based billing and sales-negotiated contracts. Collect and retain more revenue, automate revenue management workflows, and accept payments globally.
+- [Stripe Billing features](https://stripe.com/billing/features): Learn more about Stripe Billing features.
+- [Usage-based billing](https://stripe.com/billing/usage-based-billing): Stripe’s usage-based billing lets you meter, ingest data, bill users, and process payments all in one place. Launch any usage-based pricing model without maintaining your own metering infrastructure, and operate on the reliable foundations of Stripe Billing—the world’s largest billing platform.
+- [Stripe Billing pricing](https://stripe.com/billing/pricing): Get access to all Stripe Billing features with pricing that suits your business needs—pay as you go for more flexibility, or choose a subscription plan for more predictable monthly costs.
+- [Stripe Billing documentation](https://docs.stripe.com/billing.md): Create and manage subscriptions, track usage, and issue invoices.
+- [Quotes](https://stripe.com/billing/quotes): Create customer quotes that convert into subscriptions or invoices.
+
+## Invoicing
+
+- [Stripe Invoicing](https://stripe.com/invoicing): Stripe Invoicing is a global invoicing software platform built to save you time and get you paid faster. Create an invoice and send it to your customers in minutes—no code required. Our advanced features and Invoicing API make it easy to automate accounts receivable, collect payments, and reconcile transactions.
+- [Stripe Invoicing pricing](https://stripe.com/invoicing/pricing): Stripe Invoicing has no fixed fees or setup costs, but Stripe Payments pricing will apply. If you’re a business with large invoice amounts, contact sales to discuss pricing options.
+- [Stripe Invoicing documentation](https://docs.stripe.com/invoicing.md): Create and manage invoices for one-time and recurring payments with Stripe Invoicing.
+
+## Tax
+
+- [Stripe Tax](https://stripe.com/tax): Stripe Tax automates global tax compliance from start to finish. Identify your tax obligations, manage registrations, calculate and collect the right amount of tax worldwide, and enable filings with a single integration.
+- [Stripe Tax pricing](https://stripe.com/tax/pricing): Get access to all Stripe Tax features with pricing that suits your business needs—pay as you go for more flexibility, or choose a subscription plan for more predictable monthly costs.
+- [Stripe Tax documentation](https://docs.stripe.com/tax.md): Automate sales tax, VAT, and GST compliance on all your transactions—low or no code integrations available.
+
+## Atlas
+
+- [Stripe Atlas](https://stripe.com/atlas): Start your company in a few clicks. Bank, fundraise, and charge customers immediately after incorporating.
+- [Atlas Guides](https://stripe.com/guides/atlas-guides): Stripe Atlas guides to running an internet business.
+- [Stripe Atlas documentation](https://docs.stripe.com/atlas.md): Start a US company from anywhere in the world using Stripe Atlas.
+
+## Terminal
+
+- [Stripe Terminal](https://stripe.com/terminal): Leading enterprises and platforms use Stripe to unify online and in-person payments, seamlessly integrate payments with their point of sale, and easily manage their hardware needs.
+- [Stripe Terminal documentation](https://docs.stripe.com/terminal.md): Use Stripe Terminal to accept in-person payments and extend Stripe Payments to your point of sale.
+
+## Radar
+
+- [Stripe Radar](https://stripe.com/radar): Fight fraud with the strength of the Stripe network.
+- [Radar for Fraud Teams](https://stripe.com/radar/fraud-teams): Radar for Fraud Teams helps you fine-tune how Radar operates, get fraud insights on suspicious charges, and assess your fraud management performance from a unified dashboard.
+- [Stripe Radar pricing](https://stripe.com/radar/pricing): Custom pricing is available for businesses with large payments volume or unique business models. Contact sales to discuss pricing options.
+- [Stripe Radar documentation](https://docs.stripe.com/radar.md): Use Stripe Radar to protect your business against fraud.
+
+## Issuing
+
+- [Stripe Issuing](https://stripe.com/issuing): Stripe Issuing is the preferred banking-as-a-service infrastructure provider for disruptive startups, innovative software platforms, and evolving enterprises.
+- [Banking-as-a-service Guides](https://stripe.com/guides/banking-as-a-service-guides): Stripe guides to help businesses understand BaaS and card issuing.
+- [Stripe Issuing documentation](https://docs.stripe.com/issuing.md): Use the Stripe Issuing API to create, manage, and distribute payment cards for your business.
+
+## Revenue Recognition
+
+- [Stripe Revenue Recognition](https://stripe.com/revenue-recognition): Stripe Revenue Recognition turns complex accrual accounting calculations into automated reports. Close your books same-day, accurately, and in line with IFRS 15 and ASC 606 standards directly from the Stripe Dashboard.
+- [Stripe Revenue Recognition documentation](https://docs.stripe.com/revenue-recognition.md): Automate your accrual accounting process with Stripe Revenue Recognition.
+
+## Stripe Identity
+
+- [Stripe Identity](https://stripe.com/identity): Stripe Identity lets you programmatically confirm the identity of global users so you can prevent attacks from fraudsters while minimizing friction for legitimate customers. Your first 50 verifications are free.
+- [Stripe Identity documentation](https://docs.stripe.com/identity.md): Learn how to verify identities using Stripe Identity.
+
+## Financial Connections
+
+- [Stripe Financial Connections](https://stripe.com/financial-connections): Stripe Financial Connections lets your users securely share their financial data with you. Integrate once to retrieve financial data and use it to streamline payments, reduce fraud, underwrite risk, and build new products.
+- [Stripe Financial Connections documentation](https://docs.stripe.com/financial-connections.md): Access permissioned data from your users' financial accounts.
+
+## Treasury
+
+- [Stripe Treasury](https://stripe.com/treasury): Stripe Treasury is a banking-as-a-service API that lets you embed financial services in your marketplace or platform. With a single integration, enable your customers to hold funds, pay bills, earn cash back, and manage cash flow.
+- [Stripe Treasury documentation](https://docs.stripe.com/treasury.md): Learn how to provide financial services to connected accounts.
+
+## Capital
+
+- [Stripe Capital](https://stripe.com/capital): Stripe Capital provides access to fast, flexible financing so you can manage cash flows and invest in growth.
+- [Stripe Capital for platforms](https://stripe.com/capital/platforms): Build and monetize a program that gives your customers access to fast financing. With Stripe Capital, there’s minimal effort and no risk of credit losses, freeing you to focus on meeting your customers’ needs while creating a new revenue stream.
+- [Stripe Capital documentation](https://docs.stripe.com/capital/how-stripe-capital-works.md): Learn how Stripe Capital provides financing for eligible businesses.
+
+## Data Pipeline
+
+- [Stripe Data Pipeline](https://stripe.com/data-pipeline): Stripe Data Pipeline sends all your up-to-date Stripe data and reports to your data storage destination in a few clicks. Centralize your Stripe data with other business data to close your books faster and unlock richer business insights.
+- [Stripe Data Pipeline documentation](https://docs.stripe.com/stripe-data/access-data-in-warehouse.md): Use Data Pipeline to sync Stripe data to a data warehouse.
+
+## Sigma
+
+- [Stripe Sigma](https://stripe.com/sigma): Stripe Sigma empowers businesses to easily explore and analyze their data for faster business insights within the Stripe Dashboard.
+- [Stripe Sigma pricing](https://docs.stripe.com/stripe-data/access-data-in-dashboard.md): Use Sigma to generate custom reports for charges, refunds, disputes, and more.
+
+## Climate
+
+- [Stripe Climate](https://stripe.com/climate): Stripe Climate is the easiest way to help promising permanent carbon removal technologies launch and scale. Join a growing group of ambitious businesses that are changing the course of carbon removal.
+- [Stripe Climate Orders](https://stripe.com/climate/orders): Climate Orders makes it easy to pre-order a specific number of tons from Frontier’s offtake portfolio. Buy carbon removal from the Dashboard in just a few clicks or build your own climate offering using the API.
+- [Contribute to Stripe Climate](https://stripe.com/climate/contribute): Contribute to Stripe Climate and join a growing coalition of forward-thinking businesses and individuals changing the course of carbon removal. Fund frontier carbon removal through Stripe Climate.
+  - Agents can now contribute directly to Stripe Climate at [climate.stripe.dev](https://climate.stripe.dev) using [MPP](https://mpp.dev) or [x402](https://x402.org). MPP (Machine Payments Protocol) is the open standard for machine-to-machine payments—co-developed by Tempo and Stripe. Charge for API requests, tool calls, and content via HTTP 402. x402 is the internet's payment standard for agentic payments at scale.
+- [Stripe Climate documentation](https://docs.stripe.com/climate.md): Remove carbon as you grow your business.
+
+## Link
+
+- [Link by Stripe](https://stripe.com/payments/link): Link, Stripe’s one click checkout experience, autofills your customers’ payment information to create an easy and secure checkout experience.
+
+## Solutions
+
+- [Enterprise](https://stripe.com/enterprise): Leading enterprises use Stripe to revolutionize their business.
+- [Startups](https://stripe.com/startups): Ambitious startups have grown into multibillion-dollar businesses on Stripe—scaling from pre-seed to post-IPO. Incorporate your company, test and accept payments with no-code tools, and automate financial operations to move faster.
+- [Ecommerce](https://stripe.com/use-cases/ecommerce): Stripe provides all the tools you need to accept payments online and in-person from customers around the world. Plus, our platform maximizes conversion and reduces fraud using machine learning. Companies like Wayfair, Peloton, and Warby Parker choose Stripe to scale and grow their revenue.
+- [SaaS](https://stripe.com/use-cases/saas): Improve customer experience, grow recurring revenue, and reduce costs with a single unified platform for payments, subscriptions, invoicing, accounting, tax, and more. Companies like Zoom, Atlassian, and Slack work with us to move fast and scale globally.
+- [Retail](https://stripe.com/industries/retail): Today’s shoppers expect speed, ease, and personalization—in-store and online. With Stripe, you can build high-converting customer experiences and create new revenue streams on a single platform for global commerce.
+- [Platforms](https://stripe.com/use-cases/platforms): Build a global payments and financial services business with less overhead and more opportunities for expansion. Companies such as Shopify, MindBody, and DocuSign partner with Stripe to differentiate their platforms and accelerate revenue growth.
+- [Marketplaces](https://stripe.com/use-cases/marketplaces): Stripe brings together everything you need to onboard service providers, manage payments, send payouts, and more. Companies like DoorDash, Booking.com, and Instacart use Stripe’s suite of products to increase retention and scale their operations globally.
+- [Finance automation](https://stripe.com/use-cases/finance-automation): Streamline critical business processes with modular billing, tax, revenue reporting, and data tools that work seamlessly together. Many businesses use Stripe’s user-friendly revenue and finance automation platform to grow revenue, operate with agility, simplify compliance, and close their books faster.
+- [Embedded finance](https://stripe.com/use-cases/embedded-finance): Enhance your platform by embedding financial services, including accounts, cards, and lending. Companies such as Shopify and Housecall Pro offer embedded financial services—tailored specifically to their core users—to attract more customers, add new lines of revenue, and improve their customer experience.
+- [Global businesses](https://stripe.com/use-cases/global-businesses): Stripe powers adaptive enterprises around the world, including dozens of industry leaders processing billions in annual payment volume. We help companies simplify global expansion, optimize their payments infrastructure, and easily add new business models and revenue streams.
+- [Crypto](https://stripe.com/use-cases/crypto): Stripe gives businesses access to today’s global crypto infrastructure, whether you’re an established crypto business, building out a stablecoin strategy, or simply exploring new possibilities. Process payments and payouts globally through a single integration—with fraud prevention and authorization optimization built in.
+- [Creator economy](https://stripe.com/use-cases/creator-economy): Stripe helps you quickly onboard and pay out creators globally. Companies like X, Substack, and Clubhouse partner with Stripe to build custom solutions for creators to earn money on their platforms.
+
+## Ecosystem
+
+- [App Marketplace](https://marketplace.stripe.com/): Stripe Apps allow you to connect Stripe with your help desk, accounting software, and more so that you can simplify workflows and add context in Stripe to give you a holistic view of your business.
+- [Professional services](https://stripe.com/professional-services): Our professional services team combines payments and financial expertise with experience integrating Stripe technology in thousands of projects. We help our customers create marketplaces, launch subscription businesses, expand globally, and more.
+- [Partner ecosystem](https://stripe.com/partners): Your time is valuable. Find a partner to provide the Stripe experience you need—or use Stripe Apps to integrate critical workflows in one place—so your teams can focus on your business priorities.
+
+## Documentation
+
+- [Stripe Documentation](https://docs.stripe.com/llms.txt): Explore our guides and examples to integrate Stripe.
+- [API Reference](https://docs.stripe.com/api.md): Complete reference for all Stripe API endpoints.
+- [Testing](https://docs.stripe.com/testing.md): Simulate payments and test your integration.
+- [Receive payouts](https://docs.stripe.com/payouts.md): Guide to receiving funds from Stripe.
+- [Product documentation](https://docs.stripe.com/products.md): Overview of Stripe’s product offerings.
+- [Stripe Docs](https://docs.stripe.com): Central documentation hub for Stripe products, APIs, guides, and integration references.
+- [Webhooks Documentation](https://docs.stripe.com/webhooks): Learn to receive Stripe event notifications and build event-driven integrations safely.
+- [Stripe CLI](https://docs.stripe.com/stripe-cli): Command-line tooling for testing, webhook forwarding, and local development.
+- [API Keys](https://docs.stripe.com/keys): Manage publishable, secret, restricted, and test API keys.
+- [Libraries and SDKs](https://docs.stripe.com/sdks): Official client libraries and SDK support across programming languages.
+- [API Versioning](https://docs.stripe.com/api/versioning): Understand Stripe API versions and upgrade integration behavior safely.
+- [Changelog](https://docs.stripe.com/changelog): Track product, API, and documentation changes across Stripe.
+- [Accept a Payment](https://docs.stripe.com/payments/accept-a-payment): Step-by-step guide to collecting payments with Stripe APIs and UI components.
+- [Checkout Quickstart](https://docs.stripe.com/checkout/quickstart): Quickstart for integrating Stripe Checkout into a web application.
+- [Elements Quickstart](https://docs.stripe.com/payments/elements/quickstart): Build a custom payment form using Stripe Elements.
+- [Subscriptions Quickstart](https://docs.stripe.com/billing/subscriptions/build-subscriptions): Guide to creating and managing subscription billing flows.
+- [Connect Onboarding](https://docs.stripe.com/connect/enable-payment-acceptance-guide): Guide to enabling payment acceptance for connected accounts.
+- [Terminal Quickstart](https://docs.stripe.com/terminal/quickstart): Start accepting in-person payments with Stripe Terminal.
+- [Webhook Quickstart](https://docs.stripe.com/webhooks/quickstart): Set up and test webhook endpoints for Stripe events.
+
+## Resources
+
+- [Support](https://support.stripe.com/): Find help and support for Stripe. Our support site provides answers on all types of situations, including account information, charges and refunds, and subscriptions information. Get your questions answered and find support for Stripe.
+- [Support plans](https://stripe.com/support-plans): Grow your business confidently with expertise and best practices from your Stripe technical account manager. Our support plans give you the highest level of assurance, with always-on safeguards and proactive investment in the technical health of your account.
+- [Stripe Guides](https://stripe.com/guides): Explore and learn more about everything from machine learning and global payments to building marketplaces and scaling your team.
+- [More resources](https://stripe.com/resources/more): How-tos and overviews of payments and financial services basics.
+- [Accounting resources](https://stripe.com/resources/more/accounting): Explore accounting basics, including revenue recognition, reconciliation, and ASC 606 compliance.
+- [Banking-as-a-service (BaaS)](https://stripe.com/resources/more/banking-as-a-service): Learn about banking-as-a-service (BaaS), including examples of embedded finance, the basics of API banking, and how to validate cards in real time.
+- [Billing](https://stripe.com/resources/more/billing): Explore the process of billing and invoicing for businesses. Learn about billing capabilities for recurring businesses, including subscription management, reconciliation, invoice collection, and more.
+- [Business](https://stripe.com/resources/more/business): Navigate essential resources for your small to enterprise-level business. Explore payment processing, billing, startups, risk management, and more.
+- [Business formation resources](https://stripe.com/resources/more/business-formation): Familiarize yourself with business formation basics, including different ways to incorporate and how to register a business in the US.
+- [Invoicing resources](https://stripe.com/resources/more/invoicing): Learn the fundamentals of invoicing, from when to use an invoice to recurring invoices to invoice reconciliation.
+- [Issuing](https://stripe.com/resources/more/issuing): Find out about physical and virtual card issuing, including applying for corporate credit cards, co-branded credit cards, and virtual credit cards for businesses.
+- [Payments resources](https://stripe.com/resources/more/payments): Explore the expansive world of payments, from getting started to digital wallets and beyond.
+- [Risk management resources](https://stripe.com/resources/more/risk-management): Learn how to protect your business from losses due to fraud, chargebacks, and more.
+- [Startups resources](https://stripe.com/resources/more/startups): Find out how to pitch, launch, and run a successful startup.
+- [Tax resources](https://stripe.com/resources/more/tax): Learn about tax compliance, collection, and the different types of taxes that might apply to your business.
+- [Stripe customers](https://stripe.com/customers): We’re building a platform for ambitious companies around the world to make moving money as simple, borderless, and programmatic as the rest of the internet. Our teams are based in dozens of global offices and we process hundreds of billions of dollars each year for every size of business—from startups to Fortune 500s.
+- [Stripe Blog](https://stripe.com/blog): Follow the Stripe blog to learn about new product features, the latest in technology, payment solutions, and business initiatives.
+- [Stripe Sessions](https://stripe.com/sessions): Stripe's annual user conference.
+- [Contact sales](https://stripe.com/contact/sales): Setting up your own integration is the fastest and most efficient way to start using Stripe. However, if your business processes a high volume of payments and has advanced integration needs, our sales team would be happy to guide you. Tell us about your business and we’ll get you to the right place.
+- [Stripe jobs](https://stripe.com/jobs): Stripe builds financial infrastructure that ambitious companies use to launch their boldest products. Our customers range from hours-old startups to complex global businesses. Collectively, they are growing the GDP of the internet. You can help.
+- [Stripe Newsroom](https://stripe.com/newsroom): Read the latest news and information from Stripe, including corporate and product announcements, research reports, brand assets, and more.
+- [Stripe Press](https://press.stripe.com/): Stripe Press produces works about technological, economic, and scientific advancement.
+- [Become a Stripe partner](https://stripe.com/partners/become-a-partner): Join a global community of partners to build solutions and skills, market your company and offerings, and co-sell with Stripe.
+- [Privacy policy](https://stripe.com/privacy): This Privacy Policy includes important information about your personal data and we encourage you to read it carefully.
+- [Prohibited and restricted businesses](https://stripe.com/legal/restricted-businesses): This page provides information about the types of businesses, products, and industries that can’t use Stripe’s services.
+- [Licenses](https://stripe.com/legal/spc/licenses): Stripe Payments Company Licenses.
+
+## Other
+
+- [Stripe pricing](https://stripe.com/pricing): Pricing built for businesses of all sizes.
+- [Stripe login](https://dashboard.stripe.com/login): Sign in to your Stripe account.
+- [Create account](https://dashboard.stripe.com/register): Create a Stripe account.
+
+## External domains
+
+- [Stripe Dot Dev](https://stripe.dev): Learn how to build web and mobile applications to accept payments, send payouts, and manage your business online with Stripe.
+- [Stripe Sessions](https://stripesessions.com): Stripe Sessions is a 3-day, in-person event with discussions about important internet economy trends, the future of payments, and Stripe product updates. Register now to secure your spot.
+
+## Optional
+
+- [How 3D Secure authentication works](https://stripe.com/resources/more/3d-secure-101): What businesses need to know about 3D Secure authentication, including how it works and how to implement it into your payment system.
+- [Card decline codes: A complete list and what they mean](https://stripe.com/resources/more/a-complete-list-of-decline-codes): Card authorization declines can happen for a variety of reasons. This list of card decline codes will explain the different types of declines and what they mean.
+- [What is an ABA routing number?](https://stripe.com/resources/more/aba-routing-numbers-101-what-they-are-what-they-do-and-how-to-locate-yours): What is an ABA routing number? Here’s what routing numbers are, what they do, and how to locate yours.
+- [How to accept payments online and in person](https://stripe.com/resources/more/accept-credit-and-debit-card-payments): This guide covers how to accept credit card payments and other types of payments online and in person, including payment processor setup and costs.
+- [How to accept payments online without a merchant account](https://stripe.com/resources/more/accept-payments-online-without-a-merchant-account): Do you need a merchant account? Here’s what merchant accounts are, how they help businesses accept online payments, and why you might not need one.
+- [How to accept gift cards as payment](https://stripe.com/resources/more/accepting-gift-cards-101): Find out how businesses can accept gift cards as payment, from gift card management to the benefits of accepting gift cards.
+- [What an ACH payment is and how an ACH transfer works](https://stripe.com/resources/more/ach-payments-101): This guide explains what ACH payments are, what ACH stands for, how ACH transfers work, and the benefits of accepting ACH payments from customers.
+- [What are ACH routing numbers?](https://stripe.com/resources/more/ach-routing-numbers-explained): Here’s a full explanation of ACH routing numbers, including what they are, why they’re so important, and how to find them.
+- [A guide to accepting Affirm payments](https://stripe.com/resources/more/affirm-an-in-depth-guide): Here’s an in-depth guide to Affirm payments, including how it works and the benefits of accepting this payment method.
+- [A guide to Afterpay and Clearpay payments](https://stripe.com/resources/more/afterpay-clearpay-an-in-depth-guide): Here’s an in-depth guide to Afterpay and Clearpay payments, including how they work and the benefits of accepting them.
+- [A guide to Alipay payments](https://stripe.com/resources/more/alipay-an-in-depth-guide): Here’s an in-depth guide to Alipay payments, including how they work and the benefits of accepting them.
+- [A guide to anonymous payment methods](https://stripe.com/resources/more/anonymous-payment-methods-a-guide-for-businesses): Learn what an anonymous payment is, the benefits of sending transactions privately, and common anonymous payment methods.
+- [A guide to Apple Pay for businesses](https://stripe.com/resources/more/apple-pay-an-in-depth-guide): Here’s an in-depth guide to Apple Pay for businesses, including how it works and the benefits of accepting this payment method.
+- [How to apply for a corporate credit card](https://stripe.com/resources/more/applying-for-corporate-credit-cards-a-guide): Is your business ready to get company credit cards? Here’s what you need to know about the application process.
+- [How bank account verification works](https://stripe.com/resources/more/bank-account-verification-101): Learn the basics of bank account verification, including what it is, how it works, and why it’s so important.
+- [How a bank transfer, ACH transfer, or wire transfer works](https://stripe.com/resources/more/bank-transfers-explained): This overview of bank transfers covers various types of transfers and payment networks, how they work, and what they cost to send and receive funds.
+- [What is BIN sponsorship?](https://stripe.com/resources/more/bin-sponsorship-explained-how-it-works-and-who-needs-it): Learn what BIN sponsorship is, what businesses need it, and how to make the most of a BIN sponsorship.
+- [Booking system with payment: A guide for businesses](https://stripe.com/resources/more/booking-systems-with-payments-101-what-they-are-and-how-they-work): Here’s what to know about booking systems with payment, from how they work to how Stripe can simplify the integration for your customers.
+- [Business bank accounts: A guide for businesses](https://stripe.com/resources/more/business-bank-accounts-101): How do you open a business bank account? Here’s what business owners need to know about choosing the best bank account that meets their business’s needs.
+- [Opening a business account in Germany](https://stripe.com/resources/more/business-checking-account-germany): Find out how to find the right business account for your business, what you should look out for, and what costs you’ll incur.
+- [How to file business taxes for LLCs](https://stripe.com/resources/more/business-tax-forms-for-llcs-explained): Here’s a guide to business tax forms for LLCs, including what business records and documentation you need.
+- [Card authorization explained: How does it work?](https://stripe.com/resources/more/card-authorization-explained): Learn about the card authorization process to give your customers the smoothest transaction experience possible.
+- [Card payments](https://stripe.com/resources/more/card-payments): Learn how card payments work, what type of card payments there are, and why they’ve become the most popular cashless payment method.
+- [China UnionPay: What it is and how businesses can accept payments](https://stripe.com/resources/more/china-unionpay-an-in-depth-guide): Learn how China UnionPay works, why it’s a leading payment network, and how businesses can accept UnionPay payments online and in-store.
+- [Credit card fraud prevention and detection](https://stripe.com/resources/more/credit-card-fraud-detection-and-prevention): Credit card fraud prevention and detection should be an important concern for businesses that accept customer payments. Here’s what to know.
+- [Credit card processing 101](https://stripe.com/resources/more/credit-card-processing-101): How does credit card processing work? From the process to the components that power it, here’s what businesses should know.
+- [Credit card payment processing fees for businesses](https://stripe.com/resources/more/credit-card-processing-fees-explained): What fees are associated with accepting credit card payments from customers? Here’s important information about card fees for businesses.
+- [Cross-border payments: Types, uses, and key players explained](https://stripe.com/resources/more/cross-border-payments-explained): What are cross-border payments? To send and receive payments globally, here’s what you need to know about cross-border payment methods.
+- [How digital wallets work and how to accept a digital wallet](https://stripe.com/resources/more/digital-wallets-101): What are digital wallets? Here’s what to know about how digital wallets work, types of digital wallets, and how to accept digital wallets from customers.
+- [What is a direct debit and how does it work?](https://stripe.com/resources/more/direct-debit): Learn what direct debits are, how they are different from bank transfers, and how they work for recurring payments and billing.
+- [Do I need a business license?](https://stripe.com/resources/more/do-i-need-a-business-license-in-the-us-here-is-how-to-know): Here’s how to know if you need a business license and how to apply for one.
+- [Ecommerce payment methods: How to choose](https://stripe.com/resources/more/ecommerce-payment-methods): Businesses have a variety of ecommerce payment methods to choose from. Here is a guide that covers the different payment methods and can help you decide which ones to offer to customers.
+- [Electronic credit cards: What they are and how they work](https://stripe.com/resources/more/electronic-credit-cards-101-what-they-are-and-how-they-work): Learn what electronic credit cards are, how they work, and how businesses can issue them.
+- [Failed payments? Here’s what to do](https://stripe.com/resources/more/failed-payment-recovery-101): The best practices for recovering failed online payments.
+- [A guide to fintech lending](https://stripe.com/resources/more/fintech-lending-101-the-benefits-and-challenges-of-this-new-lending-model): Here’s a guide to fintech lending—from how it works to the benefits and challenges of this lending model.
+- [What is crowdfunding? Here are four types to know](https://stripe.com/resources/more/four-types-of-crowdfunding-for-startups-and-how-to-choose-one): Crowdfunding is a popular way for startups to get the funding they need to launch and grow without pursuing traditional funding avenues.
+- [A guide to FPX payments in Malaysia](https://stripe.com/resources/more/fpx-an-in-depth-guide): Here’s an in-depth guide to Financial Process Exchange (FPX) payments, including how they work and the benefits of accepting them.
+- [Global payment APIs explained](https://stripe.com/resources/more/global-payment-apis-explained-how-they-work-and-how-to-use-them): Learn more about global payment APIs: how they work and their benefits and challenges.
+- [High-risk merchant accounts explained](https://stripe.com/resources/more/high-risk-merchant-accounts-explained): Here’s a look at high-risk merchant accounts, including the characteristics of high-risk businesses and how to choose the right provider.
+- [How credit card processing works](https://stripe.com/resources/more/how-credit-card-transaction-processing-works-a-quick-guide): How does the credit card transaction process work? Understand the role of payment components and the process that powers digital payments.
+- [How do credit cards on file work?](https://stripe.com/resources/more/how-do-credit-cards-on-file-work-a-quick-guide-for-businesses): Learn how credit cards on file work, the pros and cons of keeping a credit card on file, and alternatives for businesses.
+- [How can I get a business license in California?](https://stripe.com/resources/more/how-do-i-get-a-business-license-in-california-a-step-by-step-guide): Learn more about how to get a business license in California and how long you can expect the process to take.
+- [How long do ACH payments take to process?](https://stripe.com/resources/more/how-long-do-ach-payments-take-to-process-here-is-what-you-need-to-know): Here’s how long ACH payments take to process and what factors can influence the exact timing.
+- [How much does forming a Delaware LLC cost?](https://stripe.com/resources/more/how-much-does-it-cost-to-form-an-llc-in-delaware-fees-and-other-costs): Here’s a breakdown of fees and other costs for forming an LLC in Delaware.
+- [How payment transaction processing works](https://stripe.com/resources/more/how-payment-transaction-processing-works): How does payment transaction processing work? Here are the key players and components involved, and what businesses need to know.
+- [ACH payments: How businesses can use ACH transfers](https://stripe.com/resources/more/how-to-accept-ach-payments-as-a-business): Here’s what businesses need to know about ACH payments, including what they are, how they work, ACH payments vs. wire transfers, and how to accept ACH payments.
+- [Integrate Apple Pay into your business seamlessly](https://stripe.com/resources/more/how-to-accept-apple-pay): This guide to Apple Pay tells businesses how to accept Apple Pay from customers, how Apple Pay works, and everything else businesses need to know.
+- [Contactless NFC mobile payments](https://stripe.com/resources/more/how-to-accept-contactless-nfc-payments-from-customers): Here’s what businesses need to know about NFC contactless payment technology, digital wallets, and how to accept NFC mobile payments from customers.
+- [Master credit card payments: Step-by-step guide for businesses](https://stripe.com/resources/more/how-to-accept-credit-card-payments): Here’s what small businesses need to know about accepting credit card payments online, in person, and over the phone.
+- [Cardless solutions: Accept credit card payments without a reader](https://stripe.com/resources/more/how-to-accept-credit-card-payments-without-a-card-reader): When businesses need to accept credit card payments without a card reader, there are a few options, including online and manual transaction processing.
+- [How to accept credit cards as a small business](https://stripe.com/resources/more/how-to-accept-credit-cards-as-a-small-business): How to accept credit cards as a small business, including choosing a payment services provider and acquiring hardware and software.
+- [How to accept credit card payments in Australia](https://stripe.com/resources/more/how-to-accept-credit-cards-in-australia): Learn how to accept credit card payments in Australia, including the challenges and other considerations to keep in mind.
+- [How to accept international payments](https://stripe.com/resources/more/how-to-accept-international-payments): Accepting international payments is a priority for a growing number of businesses. From currency conversions to taxes, here’s what to know.
+- [How to accept iPhone payments: A quick-start guide](https://stripe.com/resources/more/how-to-accept-iphone-payments): Accepting credit card payments on the iPhone is an increasingly important part of payment strategies. Here’s how to accept iPhone payments.
+- [How to accept payments online: A guide](https://stripe.com/resources/more/how-to-accept-online-payments): From online payment processing to online payment methods and choosing an online payment provider, here’s what businesses need to know.
+- [How to get paid as a freelancer](https://stripe.com/resources/more/how-to-accept-payments-as-a-freelancer-and-how-to-choose-the-right-payment-methods): What freelancers need to know about how to get paid: the different payment methods available, how they work, and how to choose the best one for you.
+- [How to accept payments on a website: A quick-start guide](https://stripe.com/resources/more/how-to-accept-payments-on-a-website): Accepting payments on a website is an increasingly important part of payment strategies. Here’s how to accept payments on a website.
+- [How to accept payments on your phone](https://stripe.com/resources/more/how-to-accept-payments-on-your-phone): Accepting credit card payments on a phone is an increasingly important part of payment strategies. Here’s how to accept payments on your phone.
+- [How to accept payments online without a website](https://stripe.com/resources/more/how-to-accept-payments-online-without-a-website): Accepting payments online without a website isn't impossible. Here’s everything businesses need to know about using Stripe payment links for online payments.
+- [How to accept payments over the phone: A quick-start guide](https://stripe.com/resources/more/how-to-accept-payments-over-the-phone): Accepting payments over the phone is an increasingly important part of payment strategies. Here’s how to accept phone payments.
+- [How to accept recurring payments as a business](https://stripe.com/resources/more/how-to-accept-recurring-payments): Setting up recurring payments can provide considerable advantages to businesses. Here’s a step-by-step guide to set up recurring payments.
+- [How to accept rent payments online](https://stripe.com/resources/more/how-to-accept-rent-payments-online): Accepting rent payments online is an increasingly common way for landlords and property management companies to accept rent from tenants.
+- [How to apply for an Australian Business Number (ABN)](https://stripe.com/resources/more/how-to-apply-to-an-abn-a-guide-for-businesses): Learn how to apply for an Australian Business Number (ABN), when a business needs an ABN, and the possible outcomes when registering.
+- [How to build a marketplace: A guide for businesses](https://stripe.com/resources/more/how-to-build-a-marketplace): Building a marketplace requires a complex set of infrastructure and operational solutions for payments. Here’s a quick guide to getting started.
+- [How to check if a business name is taken](https://stripe.com/resources/more/how-to-check-if-a-business-name-is-taken): Choosing a name is a challenging and important moment for any new business. How do you know if your perfect name is available? Here’s where to look.
+- [How to create a small business website](https://stripe.com/resources/more/how-to-create-a-small-business-website): Learn how to create a small business website—from planning your website strategy to testing and launching your website.
+- [How to create a subscription website](https://stripe.com/resources/more/how-to-create-a-subscription-website): Learn about creating a subscription website, including common challenges, how to address them, and how Stripe can help.
+- [How can customers pay an invoice with a credit card?](https://stripe.com/resources/more/how-to-create-an-invoice-with-credit-card-payment-options): Here’s how to create invoices with credit card payment options to improve customer retention.
+- [How to create an LLC in Delaware: A quick guide](https://stripe.com/resources/more/how-to-create-an-llc-in-delaware): Here’s everything businesses need to know about creating an LLC in Delaware, a state with business-friendly laws and tax advantages.
+- [How to create your own payment processor or gateway](https://stripe.com/resources/more/how-to-create-your-own-payment-gateway): How can you build your own payment gateway? From compliance considerations to benefits to customizable alternatives, here’s what to know.
+- [How to file for an EIN: A quick guide for businesses](https://stripe.com/resources/more/how-to-file-for-an-ein-a-quick-guide-for-businesses): Here’s our guide to applying for an Employer Identification Number (EIN), including how to file and common mistakes to avoid.
+- [How to form a C corp](https://stripe.com/resources/more/how-to-form-a-c-corp): Forming a C corp involves a series of important steps. Here’s what businesses need to know to work through the process.
+- [How to form a C corp in Delaware: A quick guide](https://stripe.com/resources/more/how-to-form-a-c-corp-in-delaware): Here’s what businesses need to know about forming a C corp in Delaware, a state with business-friendly laws and tax advantages.
+- [How to form an LLC: A guide for new businesses](https://stripe.com/resources/more/how-to-form-an-llc): Form an LLC with this step-by-step guide that covers everything you need to know, including LLC name searches, getting an EIN, and articles of incorporation.
+- [How to get a merchant account: A step-by-step guide](https://stripe.com/resources/more/how-to-get-a-merchant-account): How do you open a merchant account? Here’s what you should know about what merchant accounts are and how to set up a merchant account.
+- [How to get a tax ID number](https://stripe.com/resources/more/how-to-get-a-tax-id-number): Here’s a guide to getting a tax identification number (TIN), including how to determine which kind you need and how to apply.
+- [How to get a tax ID number: A guide for businesses](https://stripe.com/resources/more/how-to-get-a-tax-id-number-a-quick-guide-for-businesses): Here’s a guide for getting a tax ID number, from how to apply for a tax ID to common issues to avoid.
+- [How to get an EIN or a TIN as a nonresident](https://stripe.com/resources/more/how-to-get-an-ein-or-a-tin-while-living-outside-the-us): How to get an Employer Identification Number (EIN) while living outside the US, including the application process and costs.
+- [How to get startup business loans using an EIN number](https://stripe.com/resources/more/how-to-get-startup-business-loans-using-an-ein-number): Here’s how to get startup business loans using an EIN number and prepare financials for loan applications.
+- [Split payments: How to implement them for your business](https://stripe.com/resources/more/how-to-implement-split-payment-systems-what-businesses-need-to-do-to-make-it-work): Learn how split payments are used in business and how to implement them in your payment system.
+- [How to integrate a payment gateway into a website](https://stripe.com/resources/more/how-to-integrate-a-payment-gateway-into-a-website): Integrating a payment gateway into your website involves a process that varies depending on your payment processor and website architecture.
+- [How to launch a prepaid virtual card program](https://stripe.com/resources/more/how-to-launch-a-prepaid-virtual-card-program-a-guide-for-businesses): Learn how prepaid virtual card programs work and how to launch one for your business.
+- [How to open an LLC in the USA for nonresidents](https://stripe.com/resources/more/how-to-open-an-llc-in-the-usa-for-nonresidents): Here’s how nonresidents can open an LLC in the United States, including the necessary steps and tax obligations.
+- [How to raise capital for your startup](https://stripe.com/resources/more/how-to-raise-capital-for-your-startup-a-guide-to-funding-stages-and-sources): Here’s how to raise capital for your startup—from understanding each fundraising stage to choosing funding sources.
+- [How to register a business in the US](https://stripe.com/resources/more/how-to-register-a-business-in-the-us): Registering a business in the US involves a series of steps that are necessary in order to legally do business. Here’s a step-by-step guide.
+- [How to register a company](https://stripe.com/resources/more/how-to-register-a-company): Here are the key steps to register a new business and what founders should consider while doing so.
+- [How to register a sole proprietorship: A quick guide](https://stripe.com/resources/more/how-to-register-a-sole-proprietorship-heres-what-you-need-to-know): Here’s what you should know about sole proprietorship registration, from choosing a name and paying taxes to protecting your personal assets.
+- [How to register a US business as a nonresident](https://stripe.com/resources/more/how-to-register-a-us-business-as-a-nonresident-a-step-by-step-guide): Check out this guide on how to register a US business as a nonresident, including selecting a state to register in and maintaining legal and regulatory compliance.
+- [How to send an invoice: What businesses should know](https://stripe.com/resources/more/how-to-send-an-invoice-a-step-by-step-guide-for-businesses): How do you send an invoice? Here’s what businesses need to know to deliver invoices strategically.
+- [How to start a business in Florida](https://stripe.com/resources/more/how-to-start-a-business-based-in-florida-a-step-by-step-guide): Learn how to start a business in Florida, including choosing a name and applying for relevant licenses.
+- [How to start a subscription business](https://stripe.com/resources/more/how-to-start-a-subscription-business-key-considerations-and-best-practices): Here’s how to start a subscription business, from market research to scaling your business.
+- [How to start an online business](https://stripe.com/resources/more/how-to-start-an-online-business-a-guide-to-getting-started): Here’s what entrepreneurs need to know about starting an online business, from registration and driving conversion to compliance.
+- [How to start an online store with no money](https://stripe.com/resources/more/how-to-start-an-online-store-with-no-money-a-quick-guide-for-entrepreneurs): Learn how to start an online store with no money, including how to market your shop and source products without inventory costs.
+- [How to validate credit cards in real time](https://stripe.com/resources/more/how-to-validate-cards-in-real-time): Check out five methods for validating credit cards quickly and securely in real time.
+- [How to implement ACH verification](https://stripe.com/resources/more/how-to-verify-bank-accounts-for-ach-payments): Here’s how to verify bank accounts for ACH payments and prevent payment fraud.
+- [What you need to know an IBAN and its structure](https://stripe.com/resources/more/iban): This guide will help you understand the structure of an IBAN, what IBAN stands for, and how you can use it to find out an account number and sort code.
+- [How do installment payments work?](https://stripe.com/resources/more/installment-payments-101-a-guide-for-businesses): Read our guide on installment payments—from how they work to the advantages and challenges of integrating them into your business.
+- [What’s instant ACH? How to send ACH transfers fast](https://stripe.com/resources/more/instant-ach-explained-what-it-is-what-it-is-used-for-and-how-it-works): Learn about the fastest way to send ACH payments and why businesses use this method.
+- [International payment gateways 101: A guide](https://stripe.com/resources/more/international-payment-gateways-101): International payment gateways enable seamless transactions with customers globally. Here’s what businesses should know to get started.
+- [International payments 101: The essential guide](https://stripe.com/resources/more/international-payments-101-what-they-are-and-how-they-work): International payments are a prominent feature of the globalized economy. From types of payments to best practices, here’s what to know.
+- [Invoice requirements: What to include and best practices](https://stripe.com/resources/more/invoice-requirements): What should you include on an invoice? Here’s what businesses should know about invoice requirements and best practices.
+- [A guide to Klarna payments](https://stripe.com/resources/more/klarna-an-in-depth-guide): Here’s an in-depth guide to Klarna payments, including how they work and the benefits of accepting them.
+- [Merchant accounts: What merchants need to know](https://stripe.com/resources/more/merchant-accounts-101): What is a merchant account? Here’s what small businesses need to know about merchant accounts and whether they need one.
+- [Merchant ID: What MIDs are, and how to get one](https://stripe.com/resources/more/merchant-id): What is a merchant ID? Here's what every business needs to know about merchant identification numbers (MIDs), from how they work to how to look them up.
+- [Merchant onboarding: A step-by-step guide](https://stripe.com/resources/more/merchant-onboarding-explained): How does merchant onboarding work? Here’s what you should know about the merchant onboarding process and how to make the most of it.
+- [Merchant services: What they are and how to get started](https://stripe.com/resources/more/merchant-services): What are merchant services? Here’s everything small businesses need to know about merchant service providers and how to work with them.
+- [A guide to Mexico bank transfers (SPEI)](https://stripe.com/resources/more/mexico-bank-transfers-an-in-depth-guide): Here’s an in-depth guide to bank transfers in Mexico with SPEI, including how they work and the benefits of accepting them.
+- [How to accept payment by link](https://stripe.com/resources/more/pay-by-link-an-in-depth-guide): Check out this in-depth guide to pay by link for businesses, including the benefits, costs and fees, and security measures.
+- [Payment APIs explained: What businesses should know](https://stripe.com/resources/more/payment-apis-101): What are payment APIs? Here’s what businesses need to know about using APIs to create frictionless checkout experiences for their customers.
+- [Payment APIs: What they are & benefits for businesses](https://stripe.com/resources/more/payment-application-program-interfaces-apis): Learn the key features of payment APIs, the different types, and how businesses can best use them.
+- [Payment gateway fees and pricing](https://stripe.com/resources/more/payment-gateway-fees): Here are all the payment gateway fees you need to know about.
+- [A guide to payment gateway testing](https://stripe.com/resources/more/payment-gateway-testing-a-how-to-guide-for-businesses): Here’s a guide to payment gateway testing, including the types of testing and payment gateway test cases.
+- [What are payment gateways?](https://stripe.com/resources/more/payment-gateways-101): Payment gateways are important components of payment processing. Here’s what businesses need to know about payment gateways.
+- [Payment gateways in Australia explained](https://stripe.com/resources/more/payment-gateways-in-australia-how-to-choose-the-right-one-for-your-business): Here’s what you need to know about payment gateways in Australia, including how to choose the right one for your business.
+- [Guide to using payment links for streamlined sales](https://stripe.com/resources/more/payment-links): Payment links are an easy way to make custom payment pages without a website. Here’s what you need to know about using payment links on every channel.
+- [Payment processing: How payment processing works](https://stripe.com/resources/more/payment-processing-explained): How does payment processing work? From payment processing components to best practices, here’s what businesses need to know.
+- [A guide to payment processing in Canada](https://stripe.com/resources/more/payment-processing-in-canada-a-quick-guide-for-businesses): Here’s a guide to payment processing in Canada, from how it works to payment processing regulations to know.
+- [Payment processor vs. payment gateway](https://stripe.com/resources/more/payment-processor-vs-payment-gateway): What’s the difference between a payment processor and a payment gateway? Here’s how they’re different and how they work together.
+- [Payment processors: What they are and how they work](https://stripe.com/resources/more/payment-processors-101): What are payment processors? Here's what payment processors are, how they process payments, and how businesses can pick the right one.
+- [Payment tokenization: What it is and how it works](https://stripe.com/resources/more/payment-tokenization-101): Payment tokenization is a powerful way to prevent payment fraud and protect customers’ sensitive data. Here’s how it works and its benefits.
+- [How to accept payments in Canada](https://stripe.com/resources/more/payments-in-canada-an-in-depth-guide): A comprehensive guide to accepting payments in Canada, from the regulatory factors to consider to how businesses can improve the customer payment experience.
+- [How to accept payments in Japan](https://stripe.com/resources/more/payments-in-japan-an-in-depth-guide): An overview on accepting payments in Japan—from the various payment options to how businesses can improve the customer payment experience.
+- [How to accept payments in the United Kingdom](https://stripe.com/resources/more/payments-in-the-united-kingdom-an-in-depth-guide): A guide to accepting payments in the United Kingdom, from the regulatory factors to consider to the challenges facing businesses.
+- [How to accept payments in the United States](https://stripe.com/resources/more/payments-in-the-united-states-an-in-depth-guide): A comprehensive guide to accepting payments in the United States—from the regulatory factors to consider to the challenges facing businesses.
+- [PayNow payments for businesses](https://stripe.com/resources/more/paynow-an-in-depth-guide): Here’s an in-depth guide to PayNow, including how it works and the requirements for businesses to start accepting it
+- [Payouts explained: How Stripe payouts work](https://stripe.com/resources/more/payouts-explained): Everything merchants need to know about payouts, from Stripe Instant Payouts to payout schedules, limits, fees, and payouts in different currencies.
+- [Point of sale (POS) systems for small businesses explained](https://stripe.com/resources/more/pos-systems-for-businesses): Point of sale (POS) systems facilitate customer transactions, but how do they work? Here’s an explanation of POS systems and what businesses should know.
+- [What are preauthorization charges on credit cards?](https://stripe.com/resources/more/preauthorization-charges-on-credit-cards-what-they-are-and-how-long-they-last): Find out what preauthorization charges are on credit cards, how long they last, and what types of businesses typically use them.
+- [pagoPA: What it is and how it works](https://stripe.com/resources/more/public-administration-payments-in-itay): Learn about pagoPA: what it is; how it works; what customers can pay for with it and how; and the advantages of this payment type for private individuals, businesses, and the Public Administration.
+- [QR codes explained: How they’re used for payments](https://stripe.com/resources/more/qr-code-payments): Here’s an in-depth look at QR code payments, how they’re used, and how businesses can integrate them into their payment process on every channel.
+- [Receipt templates: A guide for businesses](https://stripe.com/resources/more/receipt-template-what-to-include-and-templates-for-different-use-cases): Here’s a guide to receipt templates: what to include, how to create a customizable template, and best practices for different formats.
+- [How to create a registration form with payment](https://stripe.com/resources/more/registration-form-with-payment-101-what-they-are-and-how-to-use-them): Here’s what businesses need to know about registration forms with payment, including the key features and tools for creating forms with payment integration.
+- [Secure payment systems explained](https://stripe.com/resources/more/secure-payment-systems-explained): We'll unpack the nuances of secure payment systems, diving into their core components and offering insights into creating a robust payment environment.
+- [What is an instant payment](https://stripe.com/resources/more/sepa-instant-payments): In this article, you will learn what an instant payment is, how it works, and what benefits it offers businesses.
+- [Fraud prevention guide: Recognize and stop payment scams](https://stripe.com/resources/more/six-types-of-payment-fraud): There are many types of payment fraud that businesses need to protect themselves and their customers against, including phishing, skimming, and more.
+- [A guide to payment processing for small businesses](https://stripe.com/resources/more/small-business-payment-processing-a-guide): A guide to payment processing for small businesses, including how to choose a payment processing provider for your business.
+- [What is a Sofort payment?](https://stripe.com/resources/more/sofort-payments): In this article, you will learn what a Sofort payment is, how it differs from an instant payment, and what benefits it offers for businesses and customers.
+- [What is Text to Pay? Here’s how it works](https://stripe.com/resources/more/text-to-pay-101-what-it-is-how-it-works-and-how-to-implement-it): Here’s everything you need to know about Text to Pay, including what it is, how it works, and how to implement it.
+- [A guide to USD bank transfer payments](https://stripe.com/resources/more/usd-bank-transfers-an-in-depth-guide): Here’s an in-depth guide to USD bank transfer payments, including how they work and the benefits of accepting them.

@@ -1,0 +1,91 @@
+# Microsoft identity platform documentation
+> Documentation for building authentication and authorization with Microsoft Entra ID, Azure AD B2C, and Microsoft Graph.
+
+This site provides developer guidance, API references, tutorials, and conceptual documentation for integrating identity, access, tokens, and app registration across Microsoft platforms.
+
+## Getting Started
+- [Microsoft identity platform documentation](https://learn.microsoft.com/en-us/entra/identity-platform/): Main landing page for Microsoft identity platform developer documentation.
+- [Quickstart: Register an application in the Microsoft identity platform](https://learn.microsoft.com/en-us/entra/identity-platform/quickstart-register-app): Create an app registration for authentication and API access.
+- [Quickstart: Configure a client application to access a web API](https://learn.microsoft.com/en-us/entra/identity-platform/quickstart-configure-app-access-web-apis): Grant delegated permissions and configure API access.
+- [Authentication vs authorization](https://learn.microsoft.com/en-us/entra/identity-platform/authentication-vs-authorization): Explains the difference between sign-in and access control concepts.
+- [v2.0 endpoint overview](https://learn.microsoft.com/en-us/entra/identity-platform/v2-overview): Overview of the Microsoft identity platform OAuth 2.0 and OpenID Connect endpoints.
+- [App types and authentication flows](https://learn.microsoft.com/en-us/entra/identity-platform/v2-app-types): Describes supported application types and recommended auth flows.
+
+## Authentication Protocols and Flows
+- [OAuth 2.0 and OpenID Connect protocols](https://learn.microsoft.com/en-us/entra/identity-platform/active-directory-v2-protocols): Entry point for supported identity protocols and standards.
+- [OAuth 2.0 authorization code flow](https://learn.microsoft.com/en-us/entra/identity-platform/v2-oauth2-auth-code-flow): Sign in users and obtain tokens for web and native apps.
+- [OAuth 2.0 client credentials flow](https://learn.microsoft.com/en-us/entra/identity-platform/v2-oauth2-client-creds-grant-flow): Acquire app-only tokens for daemon and service applications.
+- [OAuth 2.0 on-behalf-of flow](https://learn.microsoft.com/en-us/entra/identity-platform/v2-oauth2-on-behalf-of-flow): Exchange a user token to call downstream APIs.
+- [OAuth 2.0 device code flow](https://learn.microsoft.com/en-us/entra/identity-platform/v2-oauth2-device-code): Authenticate users on input-constrained devices.
+- [OpenID Connect protocol](https://learn.microsoft.com/en-us/entra/identity-platform/v2-protocols-oidc): Use OpenID Connect for user authentication and ID tokens.
+- [SAML 2.0 bearer assertion flow](https://learn.microsoft.com/en-us/entra/identity-platform/v2-saml-bearer-assertion): Use SAML assertions to obtain OAuth 2.0 access tokens.
+
+## Tokens, Permissions, and Consent
+- [Access tokens](https://learn.microsoft.com/en-us/entra/identity-platform/access-tokens): Understand token format, claims, validation, and usage.
+- [ID tokens](https://learn.microsoft.com/en-us/entra/identity-platform/id-tokens): Learn how ID tokens represent authenticated users.
+- [Refresh tokens](https://learn.microsoft.com/en-us/entra/identity-platform/refresh-tokens): Understand token renewal and refresh token lifetimes.
+- [Scopes, permissions, and consent](https://learn.microsoft.com/en-us/entra/identity-platform/scopes-oidc): Explains delegated permissions, app roles, and user consent.
+- [Claims customization using optional claims](https://learn.microsoft.com/en-us/entra/identity-platform/optional-claims): Configure additional claims in tokens for applications.
+- [Configure group claims for applications](https://learn.microsoft.com/en-us/entra/identity-platform/howto-add-groups-claim): Add security group and directory role claims to tokens.
+- [Token claims reference](https://learn.microsoft.com/en-us/entra/identity-platform/access-token-claims-reference): Reference for common claims in Microsoft identity tokens.
+
+## App Registration and Configuration
+- [Application object and service principal objects](https://learn.microsoft.com/en-us/entra/identity-platform/app-objects-and-service-principals): Understand app registrations and enterprise applications in Entra ID.
+- [How to add app roles in your application](https://learn.microsoft.com/en-us/entra/identity-platform/howto-add-app-roles-in-apps): Define application roles for authorization scenarios.
+- [Expose a web API](https://learn.microsoft.com/en-us/entra/identity-platform/quickstart-configure-app-expose-web-apis): Configure scopes and app roles for your API.
+- [Configure redirect URIs](https://learn.microsoft.com/en-us/entra/identity-platform/reply-url): Set redirect URIs for web, SPA, and native apps.
+- [Certificates and secrets](https://learn.microsoft.com/en-us/entra/identity-platform/how-to-add-credentials): Add client secrets or certificates to app registrations.
+- [Publisher verification](https://learn.microsoft.com/en-us/entra/identity-platform/publisher-verification-overview): Verify app publishers to improve trust and consent experience.
+- [National clouds](https://learn.microsoft.com/en-us/entra/identity-platform/authentication-national-cloud): Identity endpoints and considerations for sovereign cloud deployments.
+
+## Libraries and SDKs
+- [Microsoft Authentication Library (MSAL) overview](https://learn.microsoft.com/en-us/entra/identity-platform/msal-overview): Overview of Microsoft client libraries for acquiring tokens.
+- [MSAL for JavaScript](https://learn.microsoft.com/en-us/entra/msal/javascript/): Documentation for browser and Node.js authentication libraries.
+- [MSAL for Android](https://learn.microsoft.com/en-us/entra/msal/android/): Android library guidance for sign-in and token acquisition.
+- [MSAL for iOS and macOS](https://learn.microsoft.com/en-us/entra/msal/objc/): Apple platform library documentation for authentication scenarios.
+- [MSAL for .NET](https://learn.microsoft.com/en-us/entra/msal/dotnet/): .NET library documentation for desktop, web, and daemon apps.
+- [MSAL for Java](https://learn.microsoft.com/en-us/entra/msal/java/): Java library documentation for desktop and server-side apps.
+- [MSAL for Python](https://learn.microsoft.com/en-us/entra/msal/python/): Python library documentation for confidential and public clients.
+- [Microsoft.Identity.Web](https://learn.microsoft.com/en-us/entra/identity-platform/microsoft-identity-web): ASP.NET helpers for authentication and downstream API access.
+
+## Tutorials and Implementation Guides
+- [Scenario: Single-page application](https://learn.microsoft.com/en-us/entra/identity-platform/scenario-spa-overview): Guidance for building browser-based apps with secure sign-in.
+- [Scenario: Web app that signs in users](https://learn.microsoft.com/en-us/entra/identity-platform/scenario-web-app-sign-user-overview): Build server-rendered web apps with user authentication.
+- [Scenario: Web API that calls web APIs](https://learn.microsoft.com/en-us/entra/identity-platform/scenario-web-api-call-api-overview): Protect APIs and call downstream services on behalf of users.
+- [Scenario: Daemon application](https://learn.microsoft.com/en-us/entra/identity-platform/scenario-daemon-overview): Build background services using app-only authentication.
+- [Scenario: Desktop app that calls web APIs](https://learn.microsoft.com/en-us/entra/identity-platform/scenario-desktop-overview): Implement authentication in Windows and cross-platform desktop apps.
+- [Scenario: Mobile app that calls web APIs](https://learn.microsoft.com/en-us/entra/identity-platform/scenario-mobile-overview): Build native mobile apps with delegated API access.
+- [Protected web API: Verify scopes and app roles](https://learn.microsoft.com/en-us/entra/identity-platform/scenario-protected-web-api-verification-scope-app-roles): Validate authorization in APIs using scopes and roles.
+
+## Single-Page Apps and Browser Guidance
+- [Single-page application sign-in and sign-out](https://learn.microsoft.com/en-us/entra/identity-platform/scenario-spa-sign-in): Implement interactive sign-in and sign-out in SPAs.
+- [Single-page application: Acquire a token to call an API](https://learn.microsoft.com/en-us/entra/identity-platform/scenario-spa-acquire-token): Obtain access tokens from browser applications securely.
+- [Migration guide for SPAs from implicit flow to auth code flow](https://learn.microsoft.com/en-us/entra/identity-platform/migrate-spa-implicit-to-auth-code): Move browser apps to recommended authorization code with PKCE.
+- [Third-party cookie blocking in SPAs](https://learn.microsoft.com/en-us/entra/identity-platform/reference-third-party-cookies-spas): Guidance for browser privacy changes affecting authentication.
+- [Initialize client applications using MSAL.js](https://learn.microsoft.com/en-us/entra/msal/javascript/browser/initialization): Set up MSAL.js browser clients and configuration.
+- [Acquire and cache tokens using MSAL.js](https://learn.microsoft.com/en-us/entra/msal/javascript/browser/acquire-token): Token acquisition patterns and cache behavior in browser apps.
+
+## Web APIs and Downstream APIs
+- [Protected web API overview](https://learn.microsoft.com/en-us/entra/identity-platform/scenario-protected-web-api-overview): Core guidance for securing APIs with Microsoft identity platform.
+- [Protected web API: App configuration](https://learn.microsoft.com/en-us/entra/identity-platform/scenario-protected-web-api-app-configuration): Configure app registration and authentication settings for APIs.
+- [Protected web API: Code configuration](https://learn.microsoft.com/en-us/entra/identity-platform/scenario-protected-web-api-app-registration): Register and configure protected API applications.
+- [Call a downstream web API from a web app](https://learn.microsoft.com/en-us/entra/identity-platform/scenario-web-app-call-api-overview): Use delegated tokens to access APIs from web apps.
+- [Call a downstream API from a web API](https://learn.microsoft.com/en-us/entra/identity-platform/scenario-web-api-call-api-overview): Implement on-behalf-of token exchange in API chains.
+- [Configure scopes exposed by a web API](https://learn.microsoft.com/en-us/entra/identity-platform/quickstart-configure-app-expose-web-apis): Define delegated permissions for client applications.
+
+## Azure AD B2C
+- [Azure AD B2C documentation](https://learn.microsoft.com/en-us/azure/active-directory-b2c/): Documentation for customer identity and access management scenarios.
+- [Tutorials for Azure AD B2C](https://learn.microsoft.com/en-us/azure/active-directory-b2c/tutorial-create-tenant): Create and configure a B2C tenant for customer sign-in.
+- [User flows in Azure AD B2C](https://learn.microsoft.com/en-us/azure/active-directory-b2c/user-flow-overview): Configure built-in sign-up, sign-in, and profile editing flows.
+- [Custom policies in Azure AD B2C](https://learn.microsoft.com/en-us/azure/active-directory-b2c/custom-policy-overview): Extend identity journeys with Identity Experience Framework.
+- [Enable authentication in your own web app using Azure AD B2C](https://learn.microsoft.com/en-us/azure/active-directory-b2c/enable-authentication-web-application): Integrate B2C sign-in with web applications.
+- [Enable authentication in a single-page application using Azure AD B2C](https://learn.microsoft.com/en-us/azure/active-directory-b2c/enable-authentication-spa-app): Add customer authentication to browser-based applications.
+- [Tokens overview in Azure AD B2C](https://learn.microsoft.com/en-us/azure/active-directory-b2c/tokens-overview): Understand token issuance and claims in B2C.
+
+## Related APIs and Platform Integration
+- [Microsoft Graph authentication and authorization basics](https://learn.microsoft.com/en-us/graph/auth/): Learn how Microsoft Graph uses Microsoft identity platform tokens.
+- [Choose authentication providers for Microsoft Graph](https://learn.microsoft.com/en-us/graph/sdks/choose-authentication-providers): Select auth patterns for Graph SDKs across languages.
+- [Permissions reference for Microsoft Graph](https://learn.microsoft.com/en-us/graph/permissions-reference): Reference for delegated and application permissions in Graph.
+- [Microsoft Graph SDKs](https://learn.microsoft.com/en-us/graph/sdks/sdks-overview): SDK documentation for calling Microsoft Graph from applications.
+- [Microsoft Entra ID documentation](https://learn.microsoft.com/en-us/entra/identity/): Broader Microsoft Entra identity documentation and administration guidance.
+- [Workload identity federation](https://learn.microsoft.com/en-us/entra/workload-id/workload-identity-federation): Configure federated credentials for external workloads and CI/CD systems.

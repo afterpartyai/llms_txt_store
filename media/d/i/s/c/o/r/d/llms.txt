@@ -1,0 +1,63 @@
+# Discord Media
+> Discord Media hosts Discord’s developer-facing media and rich presence documentation, assets, and integration resources.
+
+This site provides technical guidance for Discord application integrations, including Rich Presence, embedded assets, and related developer materials used by game and app developers.
+
+## Developer Platform
+- [Discord Developer Portal](https://discord.com/developers/docs/intro): Entry point for Discord’s developer documentation and platform concepts.
+- [Applications](https://discord.com/developers/applications): Manage Discord applications, OAuth2 settings, and integration configuration.
+- [API Documentation](https://discord.com/developers/docs/reference): Core reference for Discord APIs, objects, and platform behavior.
+- [OAuth2](https://discord.com/developers/docs/topics/oauth2): Authentication and authorization flows for Discord integrations.
+- [Activities](https://discord.com/developers/docs/activities/overview): Build embedded social experiences and activities for Discord.
+
+## Rich Presence
+- [Rich Presence Overview](https://discord.com/developers/docs/rich-presence/overview): Introduction to Discord Rich Presence capabilities and integration concepts.
+- [How to Use Rich Presence](https://discord.com/developers/docs/rich-presence/how-to): Setup guidance for displaying game and app activity in Discord.
+- [Best Practices](https://discord.com/developers/docs/rich-presence/best-practices): Recommendations for effective, user-friendly Rich Presence implementations.
+- [Assets](https://discord.com/developers/docs/rich-presence/overview#assets): Use uploaded application art and media in Rich Presence payloads.
+
+## Game SDK
+- [Game SDK Overview](https://discord.com/developers/docs/game-sdk/sdk-starter-guide): Starter guide for integrating Discord features into games.
+- [Activities and Status](https://discord.com/developers/docs/game-sdk/activities): Manage activity state, timestamps, and party information.
+- [Users](https://discord.com/developers/docs/game-sdk/users): Access Discord user information within Game SDK integrations.
+- [Relationships](https://discord.com/developers/docs/game-sdk/relationships): Work with friend and relationship data exposed by the SDK.
+- [Lobbies](https://discord.com/developers/docs/game-sdk/lobbies): Create and manage multiplayer lobbies through Discord services.
+- [Networking](https://discord.com/developers/docs/game-sdk/networking): Peer networking support for connected multiplayer experiences.
+- [Voice](https://discord.com/developers/docs/game-sdk/voice): Integrate Discord voice features into game experiences.
+- [Storage](https://discord.com/developers/docs/game-sdk/storage): Persist small amounts of user data with SDK storage APIs.
+
+## Embedded App Assets
+- [Application Assets](https://discord.com/developers/docs/rich-presence/overview#assets): Upload and reference image assets for Rich Presence and app displays.
+- [Developer Applications](https://discord.com/developers/applications): Configure application metadata, icons, and linked integration settings.
+- [Art and Branding](https://discord.com/branding): Official Discord branding resources and usage guidance.
+- [Safety and Policy](https://discord.com/guidelines): Community and platform guidelines relevant to app developers.
+
+## API Reference
+- [Reference](https://discord.com/developers/docs/reference): Global API conventions, versions, and shared reference information.
+- [Rate Limits](https://discord.com/developers/docs/topics/rate-limits): Understand Discord API rate limiting behavior and handling.
+- [Gateway](https://discord.com/developers/docs/topics/gateway): Real-time event connection model for Discord applications.
+- [Gateway Events](https://discord.com/developers/docs/topics/gateway-events): Event payloads and dispatch behavior for Gateway consumers.
+- [Opcodes and Status Codes](https://discord.com/developers/docs/topics/opcodes-and-status-codes): Gateway opcodes, close codes, and related protocol details.
+- [Permissions](https://discord.com/developers/docs/topics/permissions): Permission model for bots, apps, and guild resources.
+
+## SDKs and Libraries
+- [Game SDK Download](https://discord.com/developers/docs/game-sdk/sdk-starter-guide): Official starting point for Discord Game SDK usage.
+- [Discord Social SDK](https://discord.com/developers/docs/social-sdk/overview): Overview of Discord’s social integration SDK for games and apps.
+- [Social SDK Authentication](https://discord.com/developers/docs/social-sdk/authentication): Authenticate users and connect app sessions with Discord.
+- [Social SDK Relationships](https://discord.com/developers/docs/social-sdk/relationships): Access social graph and relationship features through the Social SDK.
+- [Social SDK Presence](https://discord.com/developers/docs/social-sdk/presence): Publish and consume presence information using Social SDK features.
+
+## Guides
+- [Getting Started](https://discord.com/developers/docs/intro): Learn the basics of building on the Discord platform.
+- [OAuth2 Guide](https://discord.com/developers/docs/topics/oauth2): Implement Discord login and authorization for applications.
+- [RPC Deprecation Context](https://discord.com/developers/docs/rich-presence/how-to): Current Rich Presence guidance replacing older RPC workflows.
+- [Activities Overview](https://discord.com/developers/docs/activities/overview): Start building embedded Discord activities and shared app experiences.
+- [Application Commands](https://discord.com/developers/docs/interactions/application-commands): Define slash commands and other application command interfaces.
+- [Interactions Overview](https://discord.com/developers/docs/interactions/overview): Build interactive app experiences with Discord interactions.
+
+## Policies and Support
+- [Developer Terms of Service](https://discord.com/developers/docs/policies-and-agreements/developer-terms-of-service): Terms governing use of Discord developer tools and APIs.
+- [Developer Policy](https://discord.com/developers/docs/policies-and-agreements/developer-policy): Policy requirements for apps, bots, and developer platform usage.
+- [Platform Overview](https://discord.com/developers/docs/policies-and-agreements/overview): Overview of policies and agreements for Discord developers.
+- [Community Guidelines](https://discord.com/guidelines): Rules and expectations relevant to Discord platform participation.
+- [Support](https://support.discord.com): Official support resources for Discord products and developer-adjacent issues.

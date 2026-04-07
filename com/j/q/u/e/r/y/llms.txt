@@ -1,0 +1,75 @@
+# jQuery
+> jQuery is a fast, small JavaScript library for DOM manipulation, events, Ajax, and cross-browser scripting.
+
+The jQuery ecosystem includes the core library, API documentation, learning resources, plugins, contribution guides, and related projects such as jQuery UI, jQuery Mobile, Sizzle, and QUnit.
+
+## Core Site
+- [Home](https://jquery.com/): Overview of jQuery, its features, and links to core resources.
+- [Download jQuery](https://jquery.com/download/): Download current and legacy jQuery releases, slim builds, and CDN links.
+- [API Documentation](https://api.jquery.com/): Complete reference for jQuery methods, selectors, utilities, and events.
+- [Support](https://jquery.com/support/): Official support resources, community channels, and help options.
+- [License](https://jquery.com/license/): Licensing terms for jQuery and related legal information.
+
+## API Reference
+- [jQuery API Home](https://api.jquery.com/): Entry point for the full jQuery API reference.
+- [Category Index](https://api.jquery.com/category/): Browse API entries by functional category.
+- [Ajax](https://api.jquery.com/category/ajax/): Reference for Ajax methods, global events, and low-level interfaces.
+- [Attributes](https://api.jquery.com/category/attributes/): Methods for reading and modifying element attributes and properties.
+- [CSS](https://api.jquery.com/category/css/): APIs for style inspection, manipulation, and dimensions.
+- [DOM Manipulation](https://api.jquery.com/category/manipulation/): Methods for creating, inserting, removing, and wrapping elements.
+- [Events](https://api.jquery.com/category/events/): Event binding, triggering, delegation, and event object APIs.
+- [Selectors](https://api.jquery.com/category/selectors/): Selector syntax and extensions supported by jQuery and Sizzle.
+
+## Learning Center
+- [Learning Center Home](https://learn.jquery.com/): Official tutorials and guides for learning jQuery concepts and patterns.
+- [About jQuery](https://learn.jquery.com/about-jquery/): Introductory material explaining what jQuery is and why it is useful.
+- [Using jQuery Core](https://learn.jquery.com/using-jquery-core/): Guides for selectors, traversal, manipulation, and utility methods.
+- [Events](https://learn.jquery.com/events/): Tutorials on event handling, delegation, and custom events.
+- [Effects](https://learn.jquery.com/effects/): Guides to animations, showing, hiding, and visual effects.
+- [Ajax](https://learn.jquery.com/ajax/): Tutorials for loading remote data and handling asynchronous requests.
+- [Plugins](https://learn.jquery.com/plugins/): Guidance on finding, using, and authoring jQuery plugins.
+- [Performance](https://learn.jquery.com/performance/): Best practices for writing efficient jQuery code.
+
+## Downloads and Releases
+- [Download Center](https://jquery.com/download/): Official downloads for production and development builds of jQuery.
+- [jQuery CDN](https://code.jquery.com/): Hosted jQuery releases, minified files, maps, and versioned assets.
+- [jQuery 3.x API Docs](https://api.jquery.com/): Reference documentation for current jQuery releases.
+- [jQuery Migrate Plugin](https://github.com/jquery/jquery-migrate): Compatibility plugin for upgrading older jQuery codebases.
+- [Release Source Code](https://github.com/jquery/jquery): Source repository for jQuery core development and releases.
+
+## Plugins and Extensions
+- [Plugins Registry](https://plugins.jquery.com/): Search and browse published jQuery plugins.
+- [Plugin Authoring Guides](https://learn.jquery.com/plugins/): Learn how to structure and publish reusable jQuery plugins.
+- [Using Plugins](https://learn.jquery.com/plugins/basic-plugin-creation/): Introductory guide to basic plugin creation patterns.
+- [Advanced Plugin Concepts](https://learn.jquery.com/plugins/advanced-plugin-concepts/): Patterns for defaults, methods, and extensible plugin design.
+
+## Contributing
+- [Contribute Home](https://contribute.jquery.org/): Central hub for contributing to jQuery projects and sites.
+- [Code Contributions](https://contribute.jquery.org/code/): Workflow and expectations for contributing code changes.
+- [Documentation Contributions](https://contribute.jquery.org/documentation/): Guidance for improving docs and API content.
+- [Bug Reports](https://contribute.jquery.org/bug-reports/): Instructions for filing actionable bug reports.
+- [Bug Triage](https://contribute.jquery.org/triage/): Process for reviewing, reproducing, and categorizing issues.
+- [Style Guide](https://contribute.jquery.org/style-guide/): Writing and coding conventions for project contributions.
+- [Web Sites](https://contribute.jquery.org/web-sites/): Information for contributing to jQuery web properties.
+
+## Community and Support
+- [Support](https://jquery.com/support/): Official support page with community help channels.
+- [Stack Overflow Tag](https://stackoverflow.com/tags/jquery/info): Community Q&A tag for jQuery questions and answers.
+- [GitHub Organization](https://github.com/jquery): Source repositories for jQuery and related projects.
+- [Events](https://events.jquery.org/): Community and project event information.
+- [Twitter](https://twitter.com/jquery): Official social updates from the jQuery project.
+
+## Related Projects
+- [jQuery UI](https://jqueryui.com/): Official UI widgets, interactions, effects, and themes built on jQuery.
+- [jQuery Mobile](https://jquerymobile.com/): Touch-optimized web framework for responsive mobile interfaces.
+- [Sizzle](https://sizzlejs.com/): Standalone CSS selector engine used by jQuery.
+- [QUnit](https://qunitjs.com/): JavaScript unit testing framework used across jQuery projects.
+
+## Governance and Legal
+- [OpenJS Foundation](https://openjsf.org/): Foundation that hosts and stewards the jQuery project.
+- [Contributor License Agreement](https://cla.openjsf.org/): CLA information for contributing to OpenJS Foundation projects.
+- [Trademark Policy](https://trademark-policy.openjsf.org/): Rules governing use of OpenJS Foundation trademarks.
+- [Trademark List](https://trademark-list.openjsf.org/): Official list of OpenJS Foundation trademarks.
+- [Terms of Use](https://terms-of-use.openjsf.org/): Terms governing use of OpenJS Foundation sites and services.
+- [Privacy Policy](https://privacy-policy.openjsf.org/): Privacy practices for OpenJS Foundation properties.
+- [Code of Conduct](https://code-of-conduct.openjsf.org/): Community behavior expectations for participation in project spaces.

@@ -1,0 +1,80 @@
+# Check Point Software
+> Check Point Software provides enterprise and government cyber security solutions across network, cloud, workspace, SASE, and security operations.
+
+Check Point offers product documentation, API and management references, deployment guides, training resources, and product-specific solution pages spanning Quantum, CloudGuard, Harmony, Infinity, and SASE platforms.
+
+## Core Platform
+- [Hybrid Mesh Network Security](https://www.checkpoint.com/hybrid-mesh-network-security/): Overview of Check Point’s distributed network security architecture across on-premises, cloud, and edge.
+- [Infinity Platform](https://www.checkpoint.com/infinity-platform/): Unified cyber security platform covering prevention, management, and shared intelligence across environments.
+- [Infinity AI Copilot](https://www.checkpoint.com/ai/): AI-focused security capabilities and platform initiatives across Check Point products.
+- [Security Management](https://www.checkpoint.com/quantum/unified-management/): Centralized policy, operations, and visibility for Check Point security environments.
+- [Support Center](https://support.checkpoint.com/): Product support portal for knowledge articles, downloads, cases, and lifecycle resources.
+- [CheckMates Community](https://community.checkpoint.com/): Technical community with discussions, best practices, announcements, and peer support.
+
+## Network Security
+- [Quantum Network Security](https://www.checkpoint.com/quantum/): Network security portfolio for data centers, branches, remote users, and high-performance environments.
+- [Next-generation Firewalls](https://www.checkpoint.com/quantum/next-generation-firewall/): Enterprise firewall platform with threat prevention, segmentation, and application control.
+- [SMB Firewalls](https://www.checkpoint.com/quantum/next-generation-firewall/small-business-firewall/): Security appliances designed for small and medium-sized business deployments.
+- [Industrial Firewalls](https://www.checkpoint.com/quantum/next-generation-firewall/industrial-control-systems-appliances/): Ruggedized appliances for industrial control systems and operational technology environments.
+- [SD-WAN](https://www.checkpoint.com/quantum/sd-wan/): Secure SD-WAN capabilities for branch connectivity, performance, and policy enforcement.
+- [Remote Access VPN](https://www.checkpoint.com/quantum/remote-access-vpn/): Secure remote connectivity for users accessing corporate applications and networks.
+- [Maestro Hyperscale Network Security](https://www.checkpoint.com/quantum/maestro-hyperscale-network-security/): Scalable firewall clustering and orchestration for high-throughput security deployments.
+- [DDoS Protector](https://www.checkpoint.com/quantum/ddos-protector/): DDoS mitigation for volumetric, protocol, and application-layer attacks.
+
+## Cloud Security
+- [CloudGuard](https://www.checkpoint.com/cloudguard/): Cloud-native security platform for posture management, workload protection, and application security.
+- [Cloud Network Security](https://www.checkpoint.com/cloudguard/cloud-network-security/): Cloud firewalls and segmentation for public cloud network protection.
+- [Cloud Web Application and API Security](https://www.checkpoint.com/cloudguard/appsec/): WAAP capabilities for web applications, APIs, bot protection, and runtime defense.
+- [Microsoft Azure Security WAN](https://www.checkpoint.com/cloudguard/microsoft-azure-security/wan/): Secure virtual WAN integration for Azure networking and cloud connectivity.
+- [AI Cloud Protect](https://www.checkpoint.com/ai/cloudprotect/): Security controls for AI factories, AI workloads, and cloud-based AI infrastructure.
+- [Cloud Security Posture Management](https://www.checkpoint.com/cloudguard/cloud-security-posture-management/): Posture management for cloud assets, configurations, and compliance monitoring.
+- [Cloud Workload Protection](https://www.checkpoint.com/cloudguard/cloud-workload-protection/): Protection for workloads, containers, hosts, and runtime environments in cloud deployments.
+
+## SASE and Zero Trust
+- [Check Point SASE](https://sase.checkpoint.com/): Secure access service edge platform for users, branches, and internet access.
+- [Private Access](https://sase.checkpoint.com/private-access): Zero trust network access for private applications and internal resources.
+- [Internet Access](https://sase.checkpoint.com/internet-access): Secure web and SaaS access with policy enforcement and threat prevention.
+- [ZTNA](https://www.checkpoint.com/harmony/secure-access-service-edge/zero-trust-network-access/): Zero trust access capabilities for identity-aware application connectivity.
+- [Secure Web Gateway](https://www.checkpoint.com/harmony/secure-access-service-edge/secure-web-gateway/): Web security controls for browsing, SaaS usage, and internet-bound traffic.
+- [CASB](https://www.checkpoint.com/harmony/secure-access-service-edge/casb/): Cloud access security broker capabilities for SaaS visibility and control.
+
+## Workspace and User Security
+- [Harmony](https://www.checkpoint.com/harmony/): User and workspace security for endpoints, email, collaboration, and access.
+- [Endpoint Security](https://www.checkpoint.com/harmony/endpoint/): Endpoint protection, EDR/XDR, anti-ransomware, and device security capabilities.
+- [Email and Collaboration Security](https://www.checkpoint.com/harmony/email-collaboration/): Protection for email, phishing, account takeover, and collaboration platforms.
+- [Mobile Security](https://www.checkpoint.com/harmony/mobile/): Mobile threat defense for enterprise devices, apps, and network connections.
+- [Browse Security](https://www.checkpoint.com/harmony/browse/): Browser-based protection against phishing, malicious downloads, and web threats.
+- [Data Loss Prevention](https://www.checkpoint.com/harmony/data-loss-prevention/): DLP controls for sensitive data across endpoints, email, and collaboration tools.
+
+## Security Operations and Threat Prevention
+- [Threat Prevention](https://www.checkpoint.com/threat-prevention/): Overview of Check Point’s prevention-first approach to stopping advanced cyber threats.
+- [ThreatCloud AI](https://www.checkpoint.com/threatcloud-ai/): Threat intelligence and AI-driven prevention powering Check Point protections.
+- [Managed Detection and Response](https://www.checkpoint.com/managed-detection-and-response/): Managed security monitoring, investigation, and response services.
+- [Incident Response](https://www.checkpoint.com/incident-response/): Professional services for breach response, containment, and recovery support.
+- [Security Operations](https://www.checkpoint.com/cyber-security/security-operations/): Security operations capabilities spanning visibility, detection, and response workflows.
+- [Research and Threat Intelligence](https://research.checkpoint.com/): Threat research, malware analysis, campaign reporting, and security intelligence updates.
+
+## Documentation and Technical Resources
+- [Check Point Documentation Portal](https://sc1.checkpoint.com/documents/latest/APIs/index.html): Central technical documentation and API entry point for Check Point products.
+- [API Reference Index](https://sc1.checkpoint.com/documents/latest/APIs/index.html#introduction~v1.0%20): API documentation for management, orchestration, and product integrations.
+- [Management API Introduction](https://sc1.checkpoint.com/documents/latest/APIs/index.html#web/introduction): Introduction to Check Point web APIs and management automation concepts.
+- [CLI Reference](https://sc1.checkpoint.com/documents/latest/CLI/EN/Content/Topics-CLI/Introduction.htm): Command-line reference for administration and operational tasks.
+- [R81 Security Management Administration Guide](https://sc1.checkpoint.com/documents/R81/WebAdminGuides/EN/CP_R81_SecurityManagement_AdminGuide/Topics-SECMG/Introduction.htm): Administration guide for Check Point security management deployments.
+- [R81 Gaia Administration Guide](https://sc1.checkpoint.com/documents/R81/WebAdminGuides/EN/CP_R81_Gaia_AdminGuide/Topics-GAG/Introduction.htm): Operating system administration guide for Gaia-based appliances and gateways.
+- [R81 Installation and Upgrade Guide](https://sc1.checkpoint.com/documents/R81/WebAdminGuides/EN/CP_R81_Installation_and_Upgrade_Guide/Topics-IUG/Introduction.htm): Installation, migration, and upgrade procedures for Check Point environments.
+- [SK Knowledge Base](https://support.checkpoint.com/results/sk/sk0): Search entry for support knowledge articles and technical solutions.
+
+## Training and Certification
+- [Check Point Learning](https://www.checkpoint.com/services/education-services/): Official training, certification, and education services for Check Point technologies.
+- [Certification Program](https://www.checkpoint.com/services/certification/): Certification tracks and exam information for administrators and security professionals.
+- [Training Calendar](https://www.checkpoint.com/services/education-services/training-schedule/): Schedule of available instructor-led and virtual training sessions.
+- [MIND Training Platform](https://mind.checkpoint.com/): On-demand learning portal for Check Point courses and labs.
+- [Cyber Park](https://www.checkpoint.com/cyber-park/): Interactive cyber security education and awareness resources.
+
+## Company, Research, and Updates
+- [Blog](https://blog.checkpoint.com/): Product updates, threat insights, technical articles, and company announcements.
+- [Research Blog](https://research.checkpoint.com/): In-depth threat research and analysis from Check Point Research.
+- [Press Releases](https://www.checkpoint.com/press-releases/): Official company announcements, launches, partnerships, and business updates.
+- [Events and Webinars](https://www.checkpoint.com/events/): Upcoming and on-demand events, webinars, and conference participation.
+- [Case Studies](https://www.checkpoint.com/customer-stories/): Customer deployment stories and outcomes across industries and use cases.
+- [Investor Relations](https://www.checkpoint.com/investor-relations/): Financial reports, governance materials, and investor-focused company information.

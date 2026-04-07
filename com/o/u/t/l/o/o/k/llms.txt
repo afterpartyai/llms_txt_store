@@ -1,0 +1,83 @@
+# Outlook
+> Microsoft Outlook is an email, calendar, contacts, and productivity service in Microsoft 365 for personal and business use.
+
+Outlook spans consumer webmail at Outlook.com and enterprise email, calendar, and integration capabilities across Microsoft 365, Exchange, and the Microsoft Graph platform.
+
+## Outlook Product
+- [Outlook](https://www.microsoft.com/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook): Overview of Outlook email, calendar, and productivity features in Microsoft 365.
+- [Outlook for Windows](https://www.microsoft.com/microsoft-365/outlook/outlook-for-windows): Product information for the Outlook experience on Windows.
+- [Outlook for Mac](https://www.microsoft.com/microsoft-365/outlook/outlook-for-mac): Product information for Outlook on macOS.
+- [Outlook for iOS and Android](https://www.microsoft.com/microsoft-365/outlook-mobile-for-android-and-ios): Mobile Outlook app features for phones and tablets.
+- [Outlook.com](https://outlook.live.com/): Consumer Outlook webmail entry point for email, calendar, and contacts.
+
+## Outlook Help
+- [Outlook Help Center](https://support.microsoft.com/outlook): Central support hub for Outlook products and scenarios.
+- [Outlook.com Help](https://support.microsoft.com/outlook_com): Help articles for Outlook.com email, calendar, and account tasks.
+- [New Outlook for Windows Help](https://support.microsoft.com/new-outlook): Support content for the new Outlook for Windows experience.
+- [Classic Outlook for Windows Help](https://support.microsoft.com/office/outlook-help-and-learning-6d4a2b8f-c577-4f4f-b7e3-6b8f4c4f6b2f): Help and learning resources for classic Outlook desktop.
+- [Outlook for Mac Help](https://support.microsoft.com/office/outlook-for-mac-help-51f3f0c2-0f9c-4f5d-9d6d-8f0d0d7d0f0d): Support articles for Outlook on macOS.
+- [Outlook Mobile Help](https://support.microsoft.com/office/outlook-for-ios-and-android-help-ced6f0ac-0d7f-4f0f-9a0d-0f0d0f0d0f0d): Help for Outlook mobile apps on iOS and Android.
+
+## Outlook.com Setup and Use
+- [Sign in to Outlook.com](https://outlook.live.com/mail/): Web access to Outlook.com mailbox and related apps.
+- [Create a Microsoft account](https://signup.live.com/): Account creation for Outlook.com and Microsoft consumer services.
+- [Get help with Outlook.com](https://support.microsoft.com/office/get-help-with-outlook-com-49cc4fce-1dfb-4d2f-bf69-3b0b7f9f0f0f): Troubleshooting and usage help for Outlook.com.
+- [Import email and contacts to Outlook.com](https://support.microsoft.com/office/import-email-and-contacts-to-outlook-com-431a8e9a-f99f-4f0f-8f7d-0f0d0f0d0f0d): Guidance for migrating mail and contacts into Outlook.com.
+- [Add an email account to Outlook](https://support.microsoft.com/office/add-an-email-account-to-outlook-e9da47c4-9b89-4b49-9a9f-0f0d0f0d0f0d): Steps for connecting additional mail accounts in Outlook.
+- [Export or backup email, contacts, and calendar](https://support.microsoft.com/office/export-or-backup-email-contacts-and-calendar-to-an-outlook-pst-file-14252b52-3075-4e9b-be4e-ff9ef1068f91): Instructions for backing up Outlook data locally.
+
+## Microsoft Graph Outlook APIs
+- [Microsoft Graph Overview](https://learn.microsoft.com/graph/overview): Introduction to Microsoft Graph APIs and core concepts.
+- [Outlook API resources in Microsoft Graph](https://learn.microsoft.com/graph/api/resources/mail-api-overview): Overview of mail, calendar, contacts, and related Outlook resources.
+- [Use the Outlook mail API](https://learn.microsoft.com/graph/api/resources/mail-api-overview): Mail API concepts for messages, folders, and attachments.
+- [Use the Outlook calendar API](https://learn.microsoft.com/graph/api/resources/calendar-overview): Calendar API concepts for events and scheduling.
+- [Use the Outlook contacts API](https://learn.microsoft.com/graph/api/resources/contact): Reference entry point for Outlook contact resources.
+- [Choose authentication providers](https://learn.microsoft.com/graph/sdks/choose-authentication-providers): Authentication options for calling Microsoft Graph from apps.
+
+## Microsoft Graph API Reference
+- [Message resource type](https://learn.microsoft.com/graph/api/resources/message): Reference for Outlook message properties and relationships.
+- [Mail folder resource type](https://learn.microsoft.com/graph/api/resources/mailfolder): Reference for mail folder operations and structure.
+- [Event resource type](https://learn.microsoft.com/graph/api/resources/event): Reference for calendar event fields and behaviors.
+- [Calendar resource type](https://learn.microsoft.com/graph/api/resources/calendar): Reference for Outlook calendar objects.
+- [Contact resource type](https://learn.microsoft.com/graph/api/resources/contact): Reference for contact properties and methods.
+- [User sendMail](https://learn.microsoft.com/graph/api/user-sendmail): API for sending mail as a user.
+- [List messages](https://learn.microsoft.com/graph/api/user-list-messages): API for retrieving messages from a mailbox.
+- [Create event](https://learn.microsoft.com/graph/api/user-post-events): API for creating calendar events.
+
+## Outlook Add-ins and Extensibility
+- [Outlook add-ins overview](https://learn.microsoft.com/office/dev/add-ins/outlook/outlook-add-ins-overview): Introduction to building Outlook add-ins across clients.
+- [Outlook JavaScript API overview](https://learn.microsoft.com/office/dev/add-ins/reference/overview/outlook-add-ins-reference-overview): Overview of the Outlook JavaScript API surface.
+- [Outlook add-in manifests](https://learn.microsoft.com/office/dev/add-ins/develop/xml-manifest-overview): Manifest structure for Outlook and Office add-ins.
+- [Event-based activation in Outlook](https://learn.microsoft.com/office/dev/add-ins/outlook/autolaunch): Build add-ins that respond to Outlook events automatically.
+- [On-send feature for Outlook add-ins](https://learn.microsoft.com/office/dev/add-ins/outlook/outlook-on-send-addins): Validate or process messages before sending.
+- [Publish Office Add-ins](https://learn.microsoft.com/office/dev/add-ins/publish/publish): Deployment and publishing options for Office and Outlook add-ins.
+
+## Exchange and Enterprise Administration
+- [Exchange Server documentation](https://learn.microsoft.com/exchange/): Documentation for Exchange Server deployment and administration.
+- [Exchange Online documentation](https://learn.microsoft.com/exchange/exchange-online): Admin guidance for Exchange Online in Microsoft 365.
+- [Exchange admin center](https://admin.exchange.microsoft.com/): Web portal for managing Exchange Online organizations.
+- [Microsoft 365 admin center](https://admin.microsoft.com/): Central administration portal for Microsoft 365 services including Outlook.
+- [Set up connectors in Exchange Online](https://learn.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail): Configure mail flow connectors for Exchange Online.
+- [Mail flow rules in Exchange Online](https://learn.microsoft.com/exchange/security-and-compliance/mail-flow-rules/mail-flow-rules): Manage transport rules for message processing and compliance.
+
+## Identity and Account Access
+- [Microsoft account](https://account.microsoft.com/): Consumer account management for Outlook.com and Microsoft services.
+- [Microsoft Entra ID documentation](https://learn.microsoft.com/entra/identity/): Identity platform documentation for organizational access and authentication.
+- [Microsoft identity platform](https://learn.microsoft.com/entra/identity-platform/): Developer guidance for sign-in, tokens, and app registration.
+- [App registrations](https://learn.microsoft.com/entra/identity-platform/quickstart-register-app): Register applications for Microsoft Graph and Outlook integrations.
+- [OAuth 2.0 and OpenID Connect](https://learn.microsoft.com/entra/identity-platform/v2-protocols): Protocol guidance for Microsoft identity authentication flows.
+
+## Security and Compliance
+- [Microsoft Defender for Office 365](https://learn.microsoft.com/defender-office-365/): Security documentation for protecting email and collaboration workloads.
+- [Exchange Online Protection](https://learn.microsoft.com/exchange/antispam-and-antimalware/exchange-online-protection-overview): Overview of spam and malware protection for Exchange Online.
+- [Secure messages by using Microsoft Purview Message Encryption](https://learn.microsoft.com/purview/message-encryption): Guidance for encrypted email in Microsoft 365.
+- [Data Loss Prevention in Exchange Online](https://learn.microsoft.com/purview/dlp-learn-about-dlp): Compliance overview for preventing sensitive data leakage.
+- [Safe Links in Microsoft Defender for Office 365](https://learn.microsoft.com/defender-office-365/safe-links-about): Protection against malicious URLs in email messages.
+- [Safe Attachments in Microsoft Defender for Office 365](https://learn.microsoft.com/defender-office-365/safe-attachments-about): Protection against malicious email attachments.
+
+## Training and Adoption
+- [Outlook training](https://support.microsoft.com/office/outlook-video-training-8a5b816d-9052-4190-a5eb-494512343cca): End-user training videos and tutorials for Outlook.
+- [Outlook help and learning](https://support.microsoft.com/office/outlook-help-and-learning-6d4a2b8f-c577-4f4f-b7e3-6b8f4c4f6b2f): Learning hub for Outlook tasks and features.
+- [Microsoft 365 training](https://support.microsoft.com/training): Broader training resources for Microsoft 365 apps and services.
+- [Adoption resources for Microsoft 365](https://adoption.microsoft.com/microsoft-365/): Change management and adoption materials for Microsoft 365 deployments.
+- [Outlook tips and templates](https://create.microsoft.com/en-us/learn/articles/outlook-tips): Practical Outlook usage tips and productivity guidance.

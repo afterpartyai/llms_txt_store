@@ -1,0 +1,42 @@
+# media-amazon.com
+> Amazon’s media delivery domain for static assets, images, scripts, stylesheets, and other content used across Amazon web properties.
+
+This domain primarily serves CDN-hosted media and static resources rather than human-oriented documentation or product content. It does not appear to provide a conventional navigable documentation site, API reference, blog, or guides. The links below point to representative root and asset-serving paths commonly used on the domain and its subdomains.
+
+## Domain Roots
+- [media-amazon.com](https://media-amazon.com/): Root domain for Amazon-hosted media delivery and static asset distribution.
+- [images-na.ssl-images-amazon.com](https://images-na.ssl-images-amazon.com/): Common Amazon image CDN host serving product and site imagery.
+- [m.media-amazon.com](https://m.media-amazon.com/): Media host frequently used for Amazon images and static content.
+- [g-ecx.images-amazon.com](https://g-ecx.images-amazon.com/): Legacy Amazon image host used for product and merchandising assets.
+- [z-ecx.images-amazon.com](https://z-ecx.images-amazon.com/): Legacy Amazon image CDN endpoint for static visual assets.
+
+## Image Asset Paths
+- [Images directory](https://images-na.ssl-images-amazon.com/images/): Base path commonly used for image asset storage and retrieval.
+- [G images directory](https://images-na.ssl-images-amazon.com/images/G/): Common namespace for Amazon global image assets.
+- [M media images](https://m.media-amazon.com/images/): Base image path on Amazon’s media host.
+- [P product images](https://m.media-amazon.com/images/P/): Common path pattern for product image assets.
+- [I image assets](https://m.media-amazon.com/images/I/): Common path pattern for individual image objects and variants.
+
+## Static Site Assets
+- [G static assets](https://images-na.ssl-images-amazon.com/images/G/01/): Namespace often used for shared site graphics and resources.
+- [Navigation assets](https://images-na.ssl-images-amazon.com/images/G/01/nav2/): Static assets associated with Amazon navigation interfaces.
+- [CSS assets](https://images-na.ssl-images-amazon.com/images/G/01/browser-scripts/): Path pattern used for browser scripts and frontend resources.
+- [Shared frontend assets](https://images-na.ssl-images-amazon.com/images/G/01/x-locale/): Locale-specific static resources for Amazon web experiences.
+
+## JavaScript and Frontend Resources
+- [M media root](https://m.media-amazon.com/): Host used for frontend-delivered media and supporting assets.
+- [Images namespace](https://m.media-amazon.com/images/): Shared namespace for image and related frontend asset delivery.
+- [Legacy image CDN root](https://g-ecx.images-amazon.com/): Legacy endpoint for frontend image retrieval.
+- [Legacy secure image CDN root](https://z-ecx.images-amazon.com/): Alternate legacy endpoint for secure static asset delivery.
+
+## Regional and Legacy Hosts
+- [SSL images host](https://images-na.ssl-images-amazon.com/): North America–oriented secure image delivery endpoint.
+- [ECX image host](https://g-ecx.images-amazon.com/): Historical ECX image host still referenced by Amazon properties.
+- [Alternate ECX image host](https://z-ecx.images-amazon.com/): Alternate historical ECX host for image distribution.
+- [Media host](https://m.media-amazon.com/): Current general-purpose media host for Amazon assets.
+
+## Usage Notes
+- [Root media domain](https://media-amazon.com/): Domain is intended for asset delivery, not end-user documentation browsing.
+- [Image CDN host](https://images-na.ssl-images-amazon.com/): Representative CDN endpoint for static images embedded across Amazon sites.
+- [Media CDN host](https://m.media-amazon.com/): Representative CDN endpoint for newer media asset URLs.
+- [Legacy CDN host](https://g-ecx.images-amazon.com/): Representative legacy endpoint retained for compatibility with older asset references.

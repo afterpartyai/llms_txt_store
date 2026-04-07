@@ -1,0 +1,76 @@
+# AWS Developer Center
+> Developer-focused hub for building, deploying, and learning on Amazon Web Services.
+
+AWS Developer Center provides documentation, API references, SDK resources, code examples, tutorials, and community content for developers using AWS services and tools.
+
+## Getting Started
+- [AWS Developer Center](https://aws.amazon.com/developer/): Entry point for AWS developer tools, learning resources, and service guidance.
+- [AWS Documentation](https://docs.aws.amazon.com/): Central documentation portal for AWS services, features, and developer workflows.
+- [AWS Getting Started](https://aws.amazon.com/getting-started/): Introductory guides and tutorials for beginning with AWS services.
+- [AWS Free Tier](https://aws.amazon.com/free/): Overview of free usage options for experimenting with AWS services.
+- [AWS Training and Certification](https://aws.amazon.com/training/): Official learning paths, courses, and certification information for AWS users.
+
+## Documentation
+- [AWS Documentation Home](https://docs.aws.amazon.com/): Main index for AWS technical documentation across products and services.
+- [AWS Whitepapers](https://docs.aws.amazon.com/whitepapers/): Architecture, security, and best-practice whitepapers for AWS workloads.
+- [AWS Architecture Center](https://aws.amazon.com/architecture/): Reference architectures, diagrams, and implementation guidance for AWS solutions.
+- [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/): Best practices and frameworks for designing reliable, secure cloud systems.
+- [AWS Prescriptive Guidance](https://docs.aws.amazon.com/prescriptive-guidance/): Strategy and implementation guidance for migrations, modernization, and operations.
+
+## API and CLI Reference
+- [AWS API Reference](https://docs.aws.amazon.com/index.html#api-reference): Entry point to service API references across AWS.
+- [AWS CLI User Guide](https://docs.aws.amazon.com/cli/): Documentation for installing, configuring, and using the AWS Command Line Interface.
+- [AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/): Detailed command reference for AWS CLI operations and parameters.
+- [AWS SDKs and Tools Reference Guide](https://docs.aws.amazon.com/sdkref/latest/guide/overview.html): Shared configuration and credential guidance for AWS SDKs and developer tools.
+- [AWS General Reference](https://docs.aws.amazon.com/general/latest/gr/Welcome.html): Endpoints, quotas, regions, and general service reference information.
+
+## SDKs and Developer Tools
+- [AWS Tools and SDKs](https://aws.amazon.com/developer/tools/): Overview of AWS SDKs, IDE toolkits, CLIs, and developer utilities.
+- [AWS SDK for JavaScript](https://docs.aws.amazon.com/sdk-for-javascript/): Developer guides and API references for JavaScript and TypeScript SDK usage.
+- [AWS SDK for Python (Boto3)](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html): Python SDK documentation for interacting with AWS services programmatically.
+- [AWS SDK for Java](https://docs.aws.amazon.com/sdk-for-java/): Guides and references for building Java applications with AWS SDKs.
+- [AWS SDK for .NET](https://docs.aws.amazon.com/sdk-for-net/): Documentation for using AWS services from .NET applications.
+- [AWS Toolkit](https://aws.amazon.com/developer/tools/): IDE integrations and developer tooling for building and debugging AWS applications.
+
+## Code and Examples
+- [AWS Code Examples Repository](https://github.com/awsdocs/aws-doc-sdk-examples): Official AWS code examples for SDKs, services, and common workflows.
+- [AWS Samples on GitHub](https://github.com/aws-samples): Community and official sample applications, patterns, and reference implementations.
+- [AWS Workshops](https://workshops.aws/): Hands-on labs and workshop content for learning AWS services in practice.
+- [Serverless Land Patterns](https://serverlessland.com/patterns): Serverless implementation patterns and example architectures on AWS.
+- [AWS Builders Library](https://aws.amazon.com/builders-library/): Deep technical articles on distributed systems and operational practices at Amazon.
+
+## Containers and Serverless
+- [Amazon EKS Documentation](https://docs.aws.amazon.com/eks/): Documentation for running Kubernetes workloads on Amazon Elastic Kubernetes Service.
+- [Amazon ECS Documentation](https://docs.aws.amazon.com/ecs/): Guides and references for container orchestration with Amazon ECS.
+- [AWS Lambda Documentation](https://docs.aws.amazon.com/lambda/): Developer documentation for building and operating serverless functions.
+- [AWS Fargate Documentation](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/AWS_Fargate.html): Guidance for running containers without managing servers.
+- [Serverless Land](https://serverlessland.com/): Serverless learning resources, patterns, and tools for AWS developers.
+
+## AI and Machine Learning
+- [Amazon Bedrock Documentation](https://docs.aws.amazon.com/bedrock/): Documentation for building generative AI applications with foundation models on AWS.
+- [Amazon SageMaker Documentation](https://docs.aws.amazon.com/sagemaker/): Guides and references for machine learning development, training, and deployment.
+- [AWS AI Services Documentation](https://docs.aws.amazon.com/): Documentation portal covering AWS artificial intelligence and machine learning services.
+- [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/): Technical posts, announcements, and implementation guidance for AWS ML services.
+- [Generative AI on AWS](https://aws.amazon.com/generative-ai/): Resources and service information for building generative AI solutions on AWS.
+
+## DevOps and Infrastructure as Code
+- [AWS CloudFormation Documentation](https://docs.aws.amazon.com/cloudformation/): Documentation for modeling and provisioning AWS infrastructure as code.
+- [AWS CDK Developer Guide](https://docs.aws.amazon.com/cdk/): Guides for defining cloud infrastructure using familiar programming languages.
+- [AWS CodeBuild Documentation](https://docs.aws.amazon.com/codebuild/): Reference and setup guidance for continuous integration builds on AWS.
+- [AWS CodePipeline Documentation](https://docs.aws.amazon.com/codepipeline/): Documentation for automating release pipelines across AWS services.
+- [AWS SAM Documentation](https://docs.aws.amazon.com/serverless-application-model/): Guides for building and deploying serverless applications with AWS SAM.
+
+## Security and Identity
+- [AWS IAM Documentation](https://docs.aws.amazon.com/iam/): Documentation for identity, access management, roles, and permissions.
+- [AWS Security Documentation](https://docs.aws.amazon.com/security/): Security-focused documentation and service guidance across AWS.
+- [AWS Secrets Manager Documentation](https://docs.aws.amazon.com/secretsmanager/): Guidance for storing, rotating, and retrieving application secrets.
+- [AWS KMS Documentation](https://docs.aws.amazon.com/kms/): Documentation for key management and encryption operations on AWS.
+- [AWS Cognito Documentation](https://docs.aws.amazon.com/cognito/): Developer guides for authentication, authorization, and user identity management.
+
+## Community and Learning
+- [AWS Blog](https://aws.amazon.com/blogs/): Central hub for AWS technical blogs, announcements, and service updates.
+- [AWS Compute Blog](https://aws.amazon.com/blogs/compute/): Technical articles about compute, serverless, and application architecture on AWS.
+- [AWS Open Source Blog](https://aws.amazon.com/blogs/opensource/): Updates and technical content about open source projects on AWS.
+- [AWS re:Post](https://repost.aws/): Community question-and-answer platform for AWS technical issues and guidance.
+- [AWS Events and Webinars](https://aws.amazon.com/events/): Upcoming AWS events, webinars, and developer-focused sessions.
+- [AWS YouTube Channel](https://www.youtube.com/@amazonwebservices): Videos, demos, tutorials, and conference sessions from AWS.

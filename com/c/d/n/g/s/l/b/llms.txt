@@ -1,0 +1,68 @@
+# cdngslb.com
+> CDN GSLB provides global server load balancing and traffic management services for directing users to optimal endpoints.
+
+The site focuses on DNS-based global load balancing, health checks, failover, and traffic steering for high availability and performance across distributed infrastructure.
+
+## Main Site
+- [Home](https://www.cdngslb.com/): Overview of CDN GSLB services, traffic management capabilities, and platform positioning.
+- [About](https://www.cdngslb.com/about): Background information about the company, platform, and service mission.
+- [Contact](https://www.cdngslb.com/contact): Contact details and inquiry options for sales, support, or partnership requests.
+- [Pricing](https://www.cdngslb.com/pricing): Service plan and pricing information for CDN GSLB offerings.
+
+## Product
+- [Global Server Load Balancing](https://www.cdngslb.com/global-server-load-balancing): Product overview for DNS-based global traffic distribution and endpoint selection.
+- [Traffic Management](https://www.cdngslb.com/traffic-management): Details on routing policies, geographic steering, and traffic control features.
+- [Health Checks](https://www.cdngslb.com/health-checks): Information on endpoint monitoring, availability detection, and automated failover triggers.
+- [Failover](https://www.cdngslb.com/failover): Explanation of failover behavior for maintaining service continuity during outages.
+- [Geo Routing](https://www.cdngslb.com/geo-routing): Geographic routing capabilities for directing users to regionally appropriate infrastructure.
+
+## Features
+- [DNS Load Balancing](https://www.cdngslb.com/dns-load-balancing): Feature page describing DNS-based balancing across multiple origins or data centers.
+- [Latency-Based Routing](https://www.cdngslb.com/latency-based-routing): Routing based on performance characteristics to improve end-user response times.
+- [Weighted Routing](https://www.cdngslb.com/weighted-routing): Traffic distribution using configurable weights across available endpoints.
+- [Automatic Failover](https://www.cdngslb.com/automatic-failover): Automated traffic redirection when health checks detect endpoint failures.
+- [Multi-Region Delivery](https://www.cdngslb.com/multi-region-delivery): Support for resilient service delivery across geographically distributed regions.
+
+## Solutions
+- [High Availability](https://www.cdngslb.com/solutions/high-availability): Use cases for improving uptime with redundant endpoints and intelligent routing.
+- [Disaster Recovery](https://www.cdngslb.com/solutions/disaster-recovery): Guidance on using GSLB for recovery planning and outage mitigation.
+- [Multi-Cloud Traffic Steering](https://www.cdngslb.com/solutions/multi-cloud): Traffic management across providers and regions for resilience and flexibility.
+- [Global Application Delivery](https://www.cdngslb.com/solutions/global-application-delivery): Solution overview for optimizing worldwide application access and performance.
+- [Business Continuity](https://www.cdngslb.com/solutions/business-continuity): Continuity-focused routing and failover strategies for critical services.
+
+## Documentation
+- [Documentation Home](https://www.cdngslb.com/docs): Central documentation hub for setup, configuration, and operational guidance.
+- [Getting Started](https://www.cdngslb.com/docs/getting-started): Introductory guide for initial account setup and service configuration.
+- [DNS Configuration](https://www.cdngslb.com/docs/dns-configuration): Instructions for configuring DNS records and traffic policies.
+- [Health Check Configuration](https://www.cdngslb.com/docs/health-check-configuration): Setup details for monitoring endpoints and defining health criteria.
+- [Routing Policies](https://www.cdngslb.com/docs/routing-policies): Reference for available routing methods and policy behavior.
+- [Failover Setup](https://www.cdngslb.com/docs/failover-setup): Steps for configuring failover logic and backup endpoints.
+- [Troubleshooting](https://www.cdngslb.com/docs/troubleshooting): Common issues, diagnostics, and operational troubleshooting guidance.
+
+## API and Integrations
+- [API Overview](https://www.cdngslb.com/api): Introduction to programmatic management of CDN GSLB resources.
+- [API Reference](https://www.cdngslb.com/api/reference): Endpoint-level reference for authentication, resources, and request formats.
+- [Authentication](https://www.cdngslb.com/api/authentication): Details on API keys, tokens, and access control requirements.
+- [DNS Records API](https://www.cdngslb.com/api/dns-records): Programmatic management of DNS records and balancing configurations.
+- [Health Checks API](https://www.cdngslb.com/api/health-checks): API operations for creating and managing endpoint health monitors.
+- [Webhooks](https://www.cdngslb.com/api/webhooks): Event notification and integration options for operational workflows.
+
+## Guides
+- [Set Up Global Load Balancing](https://www.cdngslb.com/guides/set-up-global-load-balancing): Step-by-step guide for deploying a basic GSLB configuration.
+- [Configure Geo Routing](https://www.cdngslb.com/guides/configure-geo-routing): Practical instructions for region-based traffic steering policies.
+- [Implement Automatic Failover](https://www.cdngslb.com/guides/implement-automatic-failover): Guide to configuring health checks and failover behavior.
+- [Optimize Latency Routing](https://www.cdngslb.com/guides/optimize-latency-routing): Recommendations for improving routing decisions based on performance.
+- [Multi-Region Deployment](https://www.cdngslb.com/guides/multi-region-deployment): Deployment guidance for resilient applications across multiple regions.
+
+## Resources
+- [Blog](https://www.cdngslb.com/blog): Articles, announcements, and operational insights related to traffic management.
+- [Case Studies](https://www.cdngslb.com/case-studies): Customer stories and examples of CDN GSLB deployments.
+- [FAQ](https://www.cdngslb.com/faq): Answers to common questions about features, setup, and service behavior.
+- [Status](https://www.cdngslb.com/status): Service status and operational availability information.
+- [Support](https://www.cdngslb.com/support): Support channels and assistance resources for customers.
+
+## Legal
+- [Terms of Service](https://www.cdngslb.com/terms): Terms governing use of the CDN GSLB platform and services.
+- [Privacy Policy](https://www.cdngslb.com/privacy): Privacy practices covering data handling and user information.
+- [Cookie Policy](https://www.cdngslb.com/cookies): Information about cookie usage and related consent practices.
+- [Acceptable Use Policy](https://www.cdngslb.com/acceptable-use): Rules and restrictions for proper use of the service.

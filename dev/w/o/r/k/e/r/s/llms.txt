@@ -1,0 +1,74 @@
+# Cloudflare Workers
+> Cloudflare's developer platform for building, deploying, and scaling serverless applications, APIs, and edge services.
+
+Cloudflare Workers is part of the Cloudflare Developer Platform, providing runtime, storage, AI, observability, and deployment tooling for applications that run globally at the edge.
+
+## Getting Started
+- [Cloudflare Workers](https://developers.cloudflare.com/workers/): Main documentation hub for building and deploying Workers applications.
+- [Get Started](https://developers.cloudflare.com/workers/get-started/guide/): Step-by-step guide to create and deploy your first Worker.
+- [Wrangler](https://developers.cloudflare.com/workers/wrangler/): CLI for developing, testing, and deploying Workers projects.
+- [Pricing](https://workers.cloudflare.com/pricing): Pricing and plan details for the Cloudflare Developer Platform.
+- [Examples](https://developers.cloudflare.com/workers/examples/): Example Workers demonstrating common patterns and use cases.
+
+## Core Platform
+- [How Workers Works](https://developers.cloudflare.com/workers/reference/how-workers-works/): Overview of the Workers runtime architecture and execution model.
+- [Runtime APIs](https://developers.cloudflare.com/workers/runtime-apis/): Reference for built-in APIs available in the Workers runtime.
+- [Bindings](https://developers.cloudflare.com/workers/runtime-apis/bindings/): Connect Workers to storage, AI, and external services.
+- [Routes and Domains](https://developers.cloudflare.com/workers/configuration/routing/routes/): Configure URL routing for Workers on domains and paths.
+- [Environments](https://developers.cloudflare.com/workers/configuration/environments/): Manage development, staging, and production Worker environments.
+- [Limits](https://developers.cloudflare.com/workers/platform/limits/): Platform limits, quotas, and runtime constraints.
+
+## Development and Deployment
+- [Configuration](https://developers.cloudflare.com/workers/wrangler/configuration/): Configure Workers projects with Wrangler configuration files.
+- [Local Development](https://developers.cloudflare.com/workers/local-development/): Run and test Workers locally during development.
+- [Deploy a Worker](https://developers.cloudflare.com/workers/wrangler/commands/#deploy): Deploy Workers using Wrangler CLI commands.
+- [Versions and Deployments](https://developers.cloudflare.com/workers/configuration/versions-and-deployments/): Manage Worker versions, rollouts, and deployment history.
+- [Source Maps and Debugging](https://developers.cloudflare.com/workers/observability/source-maps/): Improve debugging with source maps and stack traces.
+- [Node.js Compatibility](https://developers.cloudflare.com/workers/runtime-apis/nodejs/): Use supported Node.js APIs in the Workers runtime.
+
+## Storage and Data
+- [Workers KV](https://developers.cloudflare.com/kv/): Globally distributed key-value storage for Workers applications.
+- [R2](https://developers.cloudflare.com/r2/): Object storage for large files and unstructured data.
+- [D1](https://developers.cloudflare.com/d1/): Serverless SQL database built on SQLite for Workers apps.
+- [Durable Objects](https://developers.cloudflare.com/durable-objects/): Stateful coordination and storage primitives for edge applications.
+- [Hyperdrive](https://developers.cloudflare.com/hyperdrive/): Accelerate and pool database connections from Workers.
+- [Queues](https://developers.cloudflare.com/queues/): Message queues for asynchronous processing and background workloads.
+- [Vectorize](https://developers.cloudflare.com/vectorize/): Vector database for embeddings and similarity search workloads.
+
+## AI and Media
+- [Workers AI](https://developers.cloudflare.com/workers-ai/): Run inference with AI models on Cloudflare's network.
+- [AI Gateway](https://developers.cloudflare.com/ai-gateway/): Manage, observe, and control traffic to AI providers.
+- [Browser Rendering](https://developers.cloudflare.com/browser-rendering/): Run headless browser workloads and automation at the edge.
+- [Images](https://developers.cloudflare.com/images/): Store, transform, and deliver optimized images.
+- [Stream](https://developers.cloudflare.com/stream/): Video ingestion, storage, and delivery platform.
+- [Calls](https://developers.cloudflare.com/calls/): Real-time audio and video communication primitives.
+
+## Observability and Operations
+- [Observability](https://developers.cloudflare.com/workers/observability/): Monitor logs, metrics, traces, and Worker health.
+- [Logs](https://developers.cloudflare.com/workers/observability/logs/): View and manage Worker execution logs.
+- [Metrics and Analytics](https://developers.cloudflare.com/workers/observability/metrics-and-analytics/): Analyze Worker performance and usage metrics.
+- [Tail Workers](https://developers.cloudflare.com/workers/observability/logs/tail-workers/): Stream Worker logs in near real time.
+- [Trace Events](https://developers.cloudflare.com/workers/observability/traces/): Inspect traces and execution details for requests.
+- [Analytics Engine](https://developers.cloudflare.com/analytics/analytics-engine/): Write analytics data from Workers for custom reporting.
+
+## Frameworks and Integrations
+- [Framework Guides](https://developers.cloudflare.com/workers/frameworks/): Build Workers apps with popular web frameworks.
+- [Pages](https://developers.cloudflare.com/pages/): Deploy full-stack applications and static sites on Cloudflare.
+- [Workers for Platforms](https://developers.cloudflare.com/cloudflare-for-platforms/workers-for-platforms/): Embed Workers into your own platform or SaaS product.
+- [Service Bindings](https://developers.cloudflare.com/workers/runtime-apis/bindings/service-bindings/): Connect Workers to other Workers services internally.
+- [RPC](https://developers.cloudflare.com/workers/runtime-apis/rpc/): Call methods between Workers using RPC primitives.
+
+## Security and Access
+- [Secrets](https://developers.cloudflare.com/workers/configuration/secrets/): Store and manage sensitive configuration values securely.
+- [Access Protected Resources](https://developers.cloudflare.com/cloudflare-one/tutorials/extend-sso-with-workers/): Use Workers with Cloudflare Access and protected applications.
+- [mTLS Bindings](https://developers.cloudflare.com/workers/runtime-apis/bindings/mtls/): Authenticate outbound requests using mutual TLS certificates.
+- [Web Crypto](https://developers.cloudflare.com/workers/runtime-apis/web-crypto/): Use cryptographic primitives in the Workers runtime.
+- [Rate Limiting Bindings](https://developers.cloudflare.com/workers/runtime-apis/bindings/rate-limit/): Apply rate limiting logic from within Workers.
+
+## Reference and Resources
+- [API Reference](https://developers.cloudflare.com/api/): Cloudflare API reference for platform and account operations.
+- [Workers Changelog](https://developers.cloudflare.com/workers/platform/changelog/): Product updates, releases, and platform changes.
+- [Workers Release Notes](https://developers.cloudflare.com/workers/platform/release-notes/): Detailed release notes for Workers features and fixes.
+- [Templates](https://developers.cloudflare.com/workers/templates/): Starter templates for common Workers project types.
+- [Cloudflare Developers Blog](https://blog.cloudflare.com/tag/developers/): Engineering and product articles for Cloudflare developers.
+- [Status](https://www.cloudflarestatus.com/): Service status and incident reporting for Cloudflare products.

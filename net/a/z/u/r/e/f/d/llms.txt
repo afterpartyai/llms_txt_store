@@ -1,0 +1,74 @@
+# azurefd.net
+> Azure Front Door is Microsoft’s global edge network service for application acceleration, load balancing, content delivery, and web application protection.
+
+This site hosts Azure Front Door endpoints and related Microsoft Learn documentation for configuring routing, origins, caching, security, and edge delivery patterns across Azure services.
+
+## Product Overview
+- [Azure Front Door documentation](https://learn.microsoft.com/azure/frontdoor/): Central documentation hub for Azure Front Door concepts, deployment, and operations.
+- [What is Azure Front Door?](https://learn.microsoft.com/azure/frontdoor/front-door-overview): Overview of Azure Front Door features, architecture, and common use cases.
+- [Tier comparison](https://learn.microsoft.com/azure/frontdoor/standard-premium/tier-comparison): Compare Standard, Premium, and classic Front Door capabilities and limits.
+- [Frequently asked questions](https://learn.microsoft.com/azure/frontdoor/front-door-faq): Answers to common questions about features, behavior, pricing, and migration.
+
+## Quickstarts
+- [Create a Front Door profile and endpoint](https://learn.microsoft.com/azure/frontdoor/create-front-door-portal): Create and configure Azure Front Door using the Azure portal.
+- [Create Front Door with Bicep](https://learn.microsoft.com/azure/frontdoor/quickstart-create-front-door-bicep): Deploy Azure Front Door resources using a Bicep template.
+- [Create Front Door with ARM template](https://learn.microsoft.com/azure/frontdoor/quickstart-create-front-door-template): Provision Azure Front Door using an Azure Resource Manager template.
+- [Create Front Door with Terraform](https://learn.microsoft.com/azure/frontdoor/quickstart-create-front-door-terraform): Deploy Azure Front Door infrastructure using Terraform.
+- [Route traffic to a web app](https://learn.microsoft.com/azure/frontdoor/front-door-route-traffic): Configure Front Door to direct traffic to backend web applications.
+
+## Routing and Origins
+- [Routing architecture](https://learn.microsoft.com/azure/frontdoor/front-door-routing-architecture): Understand how routes, domains, origins, and rule sets work together.
+- [Origins and origin groups](https://learn.microsoft.com/azure/frontdoor/origin): Configure backend origins, health probes, and load-balancing behavior.
+- [Health probes](https://learn.microsoft.com/azure/frontdoor/health-probes): Learn how Front Door monitors origin health and failover readiness.
+- [Load balancing](https://learn.microsoft.com/azure/frontdoor/load-balancing): Configure latency, priority, and weighted load-balancing across origins.
+- [Rule sets](https://learn.microsoft.com/azure/frontdoor/rules-match-conditions): Use rule sets and match conditions to modify requests and responses.
+- [URL redirect and rewrite](https://learn.microsoft.com/azure/frontdoor/front-door-url-redirect): Configure redirects and URL rewrites at the edge.
+
+## Domains, TLS, and Certificates
+- [Custom domains](https://learn.microsoft.com/azure/frontdoor/domain): Add and validate custom domains for Front Door endpoints.
+- [HTTPS and TLS configuration](https://learn.microsoft.com/azure/frontdoor/end-to-end-tls): Configure end-to-end TLS between clients, Front Door, and origins.
+- [Managed certificates](https://learn.microsoft.com/azure/frontdoor/standard-premium/how-to-configure-https-custom-domain): Enable HTTPS on custom domains using managed certificates.
+- [Bring your own certificate](https://learn.microsoft.com/azure/frontdoor/standard-premium/how-to-configure-https-custom-domain#use-your-own-certificate): Use your own certificate for custom domain HTTPS.
+- [Domain validation](https://learn.microsoft.com/azure/frontdoor/domain#domain-validation): Validate domain ownership for onboarding and certificate issuance.
+
+## Caching and Performance
+- [Caching](https://learn.microsoft.com/azure/frontdoor/front-door-caching): Configure edge caching behavior, TTLs, and cache-control interactions.
+- [Compression](https://learn.microsoft.com/azure/frontdoor/front-door-caching#file-compression): Enable compression for supported content types and improve delivery performance.
+- [Query string caching behavior](https://learn.microsoft.com/azure/frontdoor/front-door-caching#query-string-behavior): Control cache keys and query string handling for cached content.
+- [Large file delivery](https://learn.microsoft.com/azure/frontdoor/front-door-caching#delivery-of-large-files): Understand large file optimization and delivery behavior through Front Door.
+- [Performance tuning](https://learn.microsoft.com/azure/frontdoor/front-door-routing-architecture): Optimize routing and edge delivery for lower latency and resilience.
+
+## Security and WAF
+- [Web Application Firewall documentation](https://learn.microsoft.com/azure/web-application-firewall/afds/): Documentation for WAF on Azure Front Door.
+- [WAF policy overview](https://learn.microsoft.com/azure/web-application-firewall/afds/waf-front-door-policy-overview): Learn how WAF policies protect Front Door applications.
+- [Managed rules](https://learn.microsoft.com/azure/web-application-firewall/afds/waf-front-door-drs): Use Microsoft-managed rule sets for common web threats.
+- [Custom rules](https://learn.microsoft.com/azure/web-application-firewall/afds/waf-front-door-custom-rules): Create custom WAF rules for filtering and access control.
+- [Bot protection](https://learn.microsoft.com/azure/web-application-firewall/afds/bot-protection-overview): Mitigate malicious bot traffic with bot protection capabilities.
+- [Rate limiting](https://learn.microsoft.com/azure/web-application-firewall/afds/waf-front-door-rate-limit-configure): Configure rate-limiting rules to protect applications from abuse.
+
+## Private Link and Premium Features
+- [Private Link with Front Door](https://learn.microsoft.com/azure/frontdoor/private-link): Secure origin connectivity using Azure Private Link.
+- [Enable Private Link to origins](https://learn.microsoft.com/azure/frontdoor/standard-premium/how-to-enable-private-link-web-app): Connect Front Door Premium to supported private origins.
+- [Origin security](https://learn.microsoft.com/azure/frontdoor/origin-security): Restrict origin access and secure traffic between Front Door and backends.
+- [Managed identity support](https://learn.microsoft.com/azure/frontdoor/managed-identity): Use managed identities with supported Front Door scenarios.
+
+## Automation and API
+- [REST API reference](https://learn.microsoft.com/rest/api/frontdoor/): REST API reference for Azure Front Door resource management.
+- [Azure Resource Manager template reference](https://learn.microsoft.com/azure/templates/microsoft.cdn/profiles): ARM template schema for Front Door Standard and Premium profiles.
+- [Azure CLI reference](https://learn.microsoft.com/cli/azure/afd): Azure CLI commands for managing Front Door Standard and Premium.
+- [Azure PowerShell reference](https://learn.microsoft.com/powershell/module/az.cdn/): PowerShell cmdlets for Front Door and CDN resource management.
+- [Bicep resource reference](https://learn.microsoft.com/azure/templates/microsoft.cdn/profiles): Bicep and ARM resource definitions for Front Door deployments.
+- [Terraform provider docs](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/cdn_frontdoor_profile): Terraform resources for Azure Front Door profiles and related objects.
+
+## Monitoring and Operations
+- [Monitoring data reference](https://learn.microsoft.com/azure/frontdoor/monitor-front-door-reference): Metrics, logs, and diagnostic data available for Front Door.
+- [Diagnostic logs](https://learn.microsoft.com/azure/frontdoor/standard-premium/how-to-logs): Enable and use diagnostic logging for Front Door.
+- [Metrics and alerts](https://learn.microsoft.com/azure/frontdoor/monitor-front-door): Monitor Front Door health, performance, and configure alerts.
+- [Troubleshooting](https://learn.microsoft.com/azure/frontdoor/troubleshoot-issues): Diagnose common Front Door configuration and traffic issues.
+- [Service limits and quotas](https://learn.microsoft.com/azure/frontdoor/front-door-routing-limits): Review limits, quotas, and scale-related constraints.
+
+## Migration and Legacy
+- [Migrate from Front Door classic](https://learn.microsoft.com/azure/frontdoor/migrate-tier): Guidance for migrating from Front Door classic to Standard or Premium.
+- [Classic retirement information](https://learn.microsoft.com/azure/frontdoor/front-door-overview#front-door-classic): Notes on Front Door classic status and newer service tiers.
+- [Compare Front Door and Application Gateway](https://learn.microsoft.com/azure/frontdoor/front-door-faq#what-is-the-difference-between-azure-front-door-and-azure-application-gateway): Understand differences between Front Door and Application Gateway.
+- [Compare Front Door and Traffic Manager](https://learn.microsoft.com/azure/frontdoor/front-door-faq#what-is-the-difference-between-azure-front-door-and-azure-traffic-manager): Understand differences between Front Door and Traffic Manager.

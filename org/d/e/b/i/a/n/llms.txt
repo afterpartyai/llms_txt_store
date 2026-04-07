@@ -1,0 +1,84 @@
+# Debian
+> Debian is a community-driven project that develops and distributes a complete free operating system.
+
+Debian provides the Debian GNU/Linux distribution, extensive package repositories, installation media, release information, developer infrastructure, and community resources for users, contributors, and derivative projects.
+
+## Getting Started
+- [About Debian](https://www.debian.org/intro/about): Overview of Debian, its goals, and what makes the project distinctive.
+- [Why Debian](https://www.debian.org/intro/why_debian): Reasons to choose Debian, including stability, freedom, and community governance.
+- [Debian FAQ](https://www.debian.org/doc/FAQ/): Frequently asked questions about Debian installation, usage, and project policies.
+- [Getting Debian](https://www.debian.org/distrib/): Download options, installation images, and ways to obtain Debian releases.
+- [Install Manual](https://www.debian.org/releases/stable/installmanual): Official installation guide for supported Debian architectures.
+- [Release Information](https://www.debian.org/releases/): Current, testing, and archived release documentation and notes.
+
+## Downloads and Installation
+- [Netinst Images](https://www.debian.org/CD/netinst/): Minimal network installation images for installing Debian from online repositories.
+- [CD/DVD Images](https://www.debian.org/CD/): Official Debian installation media and image download information.
+- [Live Images](https://www.debian.org/CD/live/): Bootable live systems for trying Debian without installing it.
+- [Cloud Images](https://cloud.debian.org/images/cloud/): Debian cloud images for common virtualization and cloud platforms.
+- [Ports](https://www.debian.org/ports/): Information about Debian support for non-release and additional architectures.
+- [Debian Installer](https://www.debian.org/devel/debian-installer/): Project page for the Debian installer and related development resources.
+
+## Documentation
+- [Documentation Home](https://www.debian.org/doc/): Central index for Debian manuals, guides, FAQs, and reference material.
+- [Debian Reference](https://www.debian.org/doc/manuals/debian-reference/): Detailed reference manual for system administration and daily Debian usage.
+- [Release Notes](https://www.debian.org/releases/stable/releasenotes): Important upgrade guidance, known issues, and release-specific changes.
+- [Security Manual](https://www.debian.org/doc/manuals/securing-debian-manual/): Guidance for securing Debian systems and services.
+- [Debian Wiki](https://wiki.debian.org/): Community-maintained documentation, how-tos, and troubleshooting articles.
+- [Manpages](https://manpages.debian.org/): Searchable Debian manual pages for packages, commands, and configuration files.
+
+## Package Management and Repositories
+- [Package Search](https://packages.debian.org/): Browse Debian packages by release, architecture, and package name.
+- [Package Tracker](https://tracker.debian.org/): Track package status, bugs, uploads, and release migration information.
+- [APT Package Search](https://www.debian.org/distrib/packages): Debian package discovery and repository access information.
+- [Sources List Generator](https://debgen.simplylinux.ch/): Helper for generating APT sources entries for Debian repositories.
+- [Debian Backports](https://backports.debian.org/): Newer package versions rebuilt for stable Debian releases.
+- [Snapshot Archive](https://snapshot.debian.org/): Historical archive of Debian packages and repository states over time.
+
+## Security and Support
+- [Security Information](https://www.debian.org/security/): Debian security team resources, advisories, and support policies.
+- [Security Tracker](https://security-tracker.debian.org/tracker/): Track known security issues affecting Debian packages and releases.
+- [Debian Support](https://www.debian.org/support): Official support channels including mailing lists, IRC, and community help.
+- [BTS Bug Tracking System](https://www.debian.org/Bugs/): Report, search, and follow bugs filed against Debian packages and infrastructure.
+- [LTS](https://wiki.debian.org/LTS): Long Term Support information for supported Debian releases.
+- [ELTS](https://wiki.debian.org/LTS/Extended): Extended Long Term Support details for older Debian versions.
+
+## Releases and Development
+- [Debian Releases](https://www.debian.org/releases/): Overview of stable, testing, unstable, and archived Debian releases.
+- [Testing](https://www.debian.org/releases/testing/): Information about the current testing distribution and installation options.
+- [Unstable](https://www.debian.org/releases/sid/): Overview of Debian unstable, also known as sid.
+- [Debian Development](https://www.debian.org/devel/): Entry point for Debian development teams, processes, and infrastructure.
+- [Developer's Corner](https://www.debian.org/devel/): Resources for package maintainers and Debian contributors.
+- [Debian Policy Manual](https://www.debian.org/doc/debian-policy/): Rules and standards governing Debian packages and archive behavior.
+
+## Community and Project
+- [The Debian Project](https://www.debian.org/intro/about): Introduction to Debian as a technical and social project.
+- [People Behind Debian](https://www.debian.org/intro/people): Information about Debian contributors and project roles.
+- [Our Philosophy](https://www.debian.org/intro/philosophy): Debian's principles, social contract, and free software commitments.
+- [Get Involved](https://www.debian.org/intro/help): Ways users and contributors can help Debian.
+- [Contribute](https://www.debian.org/devel/join/): Guidance for becoming involved in Debian development work.
+- [Events](https://www.debian.org/events/): Conferences, mini-conferences, and Debian community event listings.
+
+## Governance and Policies
+- [Social Contract](https://www.debian.org/social_contract): Debian's commitments to users and the free software community.
+- [Debian Constitution](https://www.debian.org/devel/constitution): Governance structure, decision-making rules, and project offices.
+- [Code of Conduct](https://www.debian.org/code_of_conduct): Standards for respectful participation in Debian communities.
+- [Free Software Guidelines](https://www.debian.org/social_contract#guidelines): Debian Free Software Guidelines defining software freedom criteria.
+- [Trademark](https://www.debian.org/trademark): Debian trademark policy and permitted usage guidance.
+- [License Information](https://www.debian.org/license): Website and content licensing terms.
+
+## Developers and Infrastructure
+- [Debian Developer's Reference](https://www.debian.org/doc/manuals/developers-reference/): Reference manual for Debian maintainers and project developers.
+- [New Maintainers' Guide](https://www.debian.org/doc/manuals/maint-guide/): Introductory guide to creating and maintaining Debian packages.
+- [Mentors](https://mentors.debian.net/): Sponsorship and review platform for prospective Debian maintainers.
+- [Salsa](https://salsa.debian.org/): Git-based collaboration platform for Debian packaging and team projects.
+- [Buildd Status](https://buildd.debian.org/): Build daemon status across architectures and package build queues.
+- [Debian QA](https://qa.debian.org/): Quality assurance tools, package health metrics, and maintainer reports.
+
+## News and Communications
+- [Debian News](https://www.debian.org/News/): Official project announcements, release news, and major updates.
+- [Debian Micronews](https://micronews.debian.org/): Short updates about Debian project activity and events.
+- [Debian Planet](https://planet.debian.org/): Aggregated blog posts from Debian contributors and teams.
+- [Mailing Lists](https://www.debian.org/MailingLists/): Public mailing lists for support, development, and project discussion.
+- [Press Room](https://www.debian.org/News/press): Press releases and media-oriented Debian announcements.
+- [Contact](https://www.debian.org/contact): Contact information for Debian teams and project inquiries.

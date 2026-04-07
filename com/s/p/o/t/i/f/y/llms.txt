@@ -1,0 +1,78 @@
+# Spotify
+> Spotify is a digital music service that gives users access to millions of songs, albums, artists, playlists, podcasts, and audiobooks.
+
+Spotify spans consumer listening, creator publishing, developer APIs, advertising, and business tools. This file highlights the main documentation, platform, support, and product areas most useful for language models.
+
+## Main Product
+- [Web Player](https://open.spotify.com/): Browser-based Spotify player for streaming music, podcasts, and audiobooks.
+- [Premium](https://www.spotify.com/premium/): Overview of paid Spotify plans and premium listening features.
+- [Free](https://www.spotify.com/free/): Information about Spotify’s free listening experience and supported features.
+- [Download](https://www.spotify.com/download/): Download Spotify apps for desktop and mobile devices.
+- [Audiobooks](https://www.spotify.com/audiobooks/): Discover Spotify’s audiobook offering and listening experience.
+- [Support](https://support.spotify.com/): Help center for accounts, billing, playback, devices, and troubleshooting.
+
+## Developer Platform
+- [Spotify for Developers](https://developer.spotify.com/): Central hub for Spotify APIs, SDKs, documentation, and developer tools.
+- [Web API](https://developer.spotify.com/documentation/web-api): Reference and guides for Spotify catalog and user data APIs.
+- [Web Playback SDK](https://developer.spotify.com/documentation/web-playback-sdk): JavaScript SDK for controlling Spotify playback in web applications.
+- [iOS SDK](https://developer.spotify.com/documentation/ios): Native iOS integration for Spotify authentication and app features.
+- [Android SDK](https://developer.spotify.com/documentation/android): Native Android integration for Spotify authentication and playback features.
+- [Developer Dashboard](https://developer.spotify.com/dashboard/): Manage Spotify apps, credentials, users, and API settings.
+
+## Web API Reference
+- [Reference Overview](https://developer.spotify.com/documentation/web-api/reference): Entry point for all Spotify Web API endpoints.
+- [Authorization Guide](https://developer.spotify.com/documentation/web-api/concepts/authorization): OAuth flows and authentication concepts for Spotify integrations.
+- [Get Current User's Profile](https://developer.spotify.com/documentation/web-api/reference/get-current-users-profile): Retrieve profile information for the authenticated Spotify user.
+- [Get Track](https://developer.spotify.com/documentation/web-api/reference/get-track): Fetch detailed metadata for a single Spotify track.
+- [Get Album](https://developer.spotify.com/documentation/web-api/reference/get-an-album): Fetch metadata and details for a Spotify album.
+- [Get Artist](https://developer.spotify.com/documentation/web-api/reference/get-an-artist): Fetch metadata and details for a Spotify artist.
+- [Get Playlist](https://developer.spotify.com/documentation/web-api/reference/get-playlist): Retrieve playlist metadata, tracks, and ownership details.
+- [Search](https://developer.spotify.com/documentation/web-api/reference/search): Search Spotify catalog content across supported item types.
+
+## Developer Guides
+- [Getting Started](https://developer.spotify.com/documentation/web-api/tutorials/getting-started): Introductory guide to building with the Spotify Web API.
+- [Client Credentials Flow](https://developer.spotify.com/documentation/web-api/tutorials/client-credentials-flow): Authenticate server-side applications without user authorization.
+- [Authorization Code Flow](https://developer.spotify.com/documentation/web-api/tutorials/code-flow): Authenticate applications acting on behalf of Spotify users.
+- [PKCE Flow](https://developer.spotify.com/documentation/web-api/tutorials/code-pkce-flow): Secure authorization flow for mobile and single-page applications.
+- [Refresh Tokens](https://developer.spotify.com/documentation/web-api/tutorials/refreshing-tokens): Renew expired access tokens for authorized Spotify applications.
+- [Rate Limits](https://developer.spotify.com/documentation/web-api/concepts/rate-limits): Understand request limits and best practices for API usage.
+
+## For Artists
+- [Spotify for Artists](https://artists.spotify.com/): Tools for artists to manage profiles, music, audience, and performance insights.
+- [Artists Help](https://support.spotify.com/us/artists/): Support resources for artist accounts, releases, teams, and profile management.
+- [Claim Your Profile](https://artists.spotify.com/claim): Start the process to access and manage an artist profile.
+- [Artist Team Management](https://support.spotify.com/us/artists/article/team-management/): Manage access and permissions for artist team members.
+- [Music Analytics](https://artists.spotify.com/features/analytics): Explore listener, stream, and audience analytics for artists.
+- [Marquee](https://artists.spotify.com/features/marquee): Promotional campaign tool for reaching likely listeners on Spotify.
+
+## For Podcasters and Publishers
+- [Spotify for Creators](https://creators.spotify.com/): Platform for podcast and creator publishing, analytics, and audience growth.
+- [Spotify for Creators Help](https://support.spotify.com/us/creators/): Help resources for publishing, monetization, analytics, and account management.
+- [Podcast Publishing](https://creators.spotify.com/podcasters): Overview of podcast creation and distribution tools.
+- [Analytics](https://creators.spotify.com/features/analytics): Audience and episode performance insights for creators.
+- [Monetization](https://creators.spotify.com/features/monetization): Monetization options for eligible creators on Spotify.
+- [Audience Growth](https://creators.spotify.com/features/growth): Tools and features for growing a creator audience.
+
+## Advertising
+- [Spotify Advertising](https://ads.spotify.com/): Advertising platform for reaching Spotify listeners through audio and digital campaigns.
+- [Ad Studio](https://ads.spotify.com/en-US/ad-studio/): Self-serve ad creation and campaign management for Spotify advertising.
+- [Advertising Help](https://ads.spotify.com/en-US/help/): Support resources for advertisers, campaigns, billing, and policies.
+- [Measurement](https://ads.spotify.com/en-US/measurement/): Information about campaign measurement and reporting capabilities.
+- [Creative Solutions](https://ads.spotify.com/en-US/creative-solutions/): Ad formats and creative options for Spotify campaigns.
+- [Audience Targeting](https://ads.spotify.com/en-US/targeting/): Overview of targeting capabilities for Spotify advertising campaigns.
+
+## Business and Enterprise
+- [Spotify for Business](https://spotifyforbusiness.com/): Commercial music solutions for businesses and customer-facing environments.
+- [Business Help Center](https://support.spotify.com/us/business/): Support resources for Spotify business products and account issues.
+- [Enterprise Solutions](https://www.spotify.com/us/business/): Overview of Spotify offerings for business and workplace use.
+- [Brand Guidelines](https://developer.spotify.com/documentation/design): Design guidance for using Spotify assets in applications.
+- [Legal](https://www.spotify.com/legal/): Central hub for Spotify legal terms, policies, and notices.
+- [Privacy Center](https://www.spotify.com/privacy/): Privacy information, controls, and policy resources for Spotify users.
+
+## Company and News
+- [Newsroom](https://newsroom.spotify.com/): Official Spotify news, announcements, product updates, and company stories.
+- [Company Info](https://www.spotify.com/about-us/contact/): Corporate information and contact resources for Spotify.
+- [Jobs](https://www.lifeatspotify.com/): Careers, culture, and open roles across Spotify teams.
+- [Investor Relations](https://investors.spotify.com/): Financial reports, governance, and investor information for Spotify.
+- [For the Record](https://newsroom.spotify.com/news/): News and editorial updates from Spotify’s newsroom.
+- [Press](https://newsroom.spotify.com/press/): Media resources, press contacts, and brand materials.

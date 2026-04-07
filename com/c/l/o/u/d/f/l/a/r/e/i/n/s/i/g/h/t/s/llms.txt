@@ -1,0 +1,70 @@
+# Cloudflare Insights
+> Cloudflare Insights provides analytics, observability, and performance monitoring resources for Cloudflare-powered applications and infrastructure.
+
+Cloudflare Insights spans analytics, logs, observability, web performance, and developer monitoring across Cloudflare’s platform. The most useful resources are primarily hosted within Cloudflare’s developer and product documentation.
+
+## Analytics & Observability
+- [Cloudflare Analytics](https://developers.cloudflare.com/analytics/): Overview of traffic, security, and performance analytics across Cloudflare products.
+- [Analytics Engine](https://developers.cloudflare.com/analytics/analytics-engine/): Serverless SQL analytics database for ingesting and querying event data.
+- [Browser Insights](https://developers.cloudflare.com/browser-insights/): Real user monitoring for page load performance and user experience metrics.
+- [Cloudflare Logs](https://developers.cloudflare.com/logs/): Export and analyze request, security, and network logs from Cloudflare.
+- [Log Explorer](https://developers.cloudflare.com/logs/log-explorer/): Search and inspect Cloudflare logs directly in the dashboard.
+- [GraphQL Analytics API](https://developers.cloudflare.com/analytics/graphql-api/): Query Cloudflare analytics datasets using GraphQL.
+- [Observability](https://developers.cloudflare.com/workers/observability/): Monitor Workers applications with logs, traces, and metrics.
+
+## Performance & Web Monitoring
+- [Speed](https://developers.cloudflare.com/speed/): Tools and guidance for measuring and improving website performance.
+- [Web Analytics](https://developers.cloudflare.com/web-analytics/): Privacy-focused website analytics without client-side cookies.
+- [Browser Rendering](https://developers.cloudflare.com/browser-rendering/): Run headless browser workloads on Cloudflare’s network.
+- [Image Resizing](https://developers.cloudflare.com/images/image-resizing/): Transform and optimize images at the edge for performance.
+- [Polish](https://developers.cloudflare.com/speed/optimization/content/polish/): Compress and optimize images automatically for faster delivery.
+- [Auto Minify](https://developers.cloudflare.com/speed/optimization/content/troubleshooting/auto-minify/): Reduce asset size by minifying HTML, CSS, and JavaScript.
+- [Rocket Loader](https://developers.cloudflare.com/speed/optimization/content/rocket-loader/): Improve page rendering by asynchronously loading JavaScript resources.
+
+## Logs, Metrics & Data Pipelines
+- [Logpush](https://developers.cloudflare.com/logs/logpush/): Export Cloudflare logs to storage, SIEM, and analytics destinations.
+- [Logpull API](https://developers.cloudflare.com/logs/logpull/): Retrieve HTTP request logs through Cloudflare’s REST API.
+- [HTTP Requests Adaptive Groups](https://developers.cloudflare.com/analytics/graphql-api/features/http-requests-adaptive-groups/): Aggregate request analytics with flexible dimensions and filters.
+- [Magic Network Monitoring](https://developers.cloudflare.com/magic-network-monitoring/): Network telemetry and DDoS visibility for on-premises and hybrid environments.
+- [Network Analytics](https://developers.cloudflare.com/magic-transit/network-analytics/): Analyze traffic patterns and attack visibility for network protection products.
+- [Cloudforce One Datasets](https://developers.cloudflare.com/cloudforce-one/datasets/): Access threat intelligence datasets for security analysis workflows.
+
+## APIs & Reference
+- [Cloudflare API](https://developers.cloudflare.com/api/): REST API reference for managing Cloudflare products and account resources.
+- [GraphQL API Reference](https://developers.cloudflare.com/analytics/graphql-api/features/): Reference for available analytics datasets and query features.
+- [API Tokens](https://developers.cloudflare.com/fundamentals/api/get-started/create-token/): Create scoped API tokens for secure programmatic access.
+- [Audit Logs API](https://developers.cloudflare.com/api/resources/user/subresources/audit_logs/): Access account audit log events through the Cloudflare API.
+- [Radar API](https://developers.cloudflare.com/radar/investigate/api/): Programmatic access to Internet traffic and trend data from Cloudflare Radar.
+- [Workers Analytics Engine API](https://developers.cloudflare.com/analytics/analytics-engine/): Reference and usage guidance for writing and querying analytics data.
+
+## Workers Monitoring
+- [Workers Observability](https://developers.cloudflare.com/workers/observability/): Central entry point for logs, traces, metrics, and debugging tools.
+- [Workers Logs](https://developers.cloudflare.com/workers/observability/logs/): Capture and inspect runtime logs from Workers applications.
+- [Workers Traces](https://developers.cloudflare.com/workers/observability/traces/): Distributed tracing support for Workers-based services.
+- [Workers Metrics](https://developers.cloudflare.com/workers/observability/metrics-and-analytics/): View invocation, error, and performance metrics for Workers.
+- [Tail Workers](https://developers.cloudflare.com/workers/observability/logs/tail-workers/): Stream Worker events for debugging and operational visibility.
+- [Wrangler](https://developers.cloudflare.com/workers/wrangler/): CLI for developing, deploying, and debugging Workers applications.
+
+## Security Analytics
+- [Cloudflare Radar](https://developers.cloudflare.com/radar/): Internet traffic trends, attack insights, and global network intelligence.
+- [Security Analytics](https://developers.cloudflare.com/waf/analytics/): Analyze firewall events, threats, and mitigation activity.
+- [DDoS Analytics](https://developers.cloudflare.com/ddos-protection/ddos-analytics/): Review attack traffic, mitigations, and event timelines.
+- [Bot Analytics](https://developers.cloudflare.com/bots/additional-configurations/bot-analytics/): Inspect bot traffic, scores, and mitigation outcomes.
+- [API Shield Analytics](https://developers.cloudflare.com/api-shield/security/analytics/): Monitor API security events and protection effectiveness.
+- [Zero Trust Analytics](https://developers.cloudflare.com/cloudflare-one/insights/): Visibility into Zero Trust traffic, users, and policy activity.
+
+## Guides & Tutorials
+- [Get Started with Analytics](https://developers.cloudflare.com/analytics/get-started/): Learn how to access and use Cloudflare analytics products.
+- [Querying with the GraphQL API](https://developers.cloudflare.com/analytics/graphql-api/getting-started/): Build analytics queries against Cloudflare datasets.
+- [Set up Browser Insights](https://developers.cloudflare.com/browser-insights/get-started/): Enable real user monitoring for web applications.
+- [Set up Web Analytics](https://developers.cloudflare.com/web-analytics/get-started/): Add privacy-first analytics tracking to a website.
+- [Set up Logpush](https://developers.cloudflare.com/logs/get-started/): Configure log exports to supported destinations.
+- [Use Analytics Engine](https://developers.cloudflare.com/analytics/analytics-engine/get-started/): Ingest and query event data with Analytics Engine.
+
+## Platform & Product Context
+- [Developer Documentation](https://developers.cloudflare.com/): Main portal for Cloudflare product documentation and references.
+- [Fundamentals](https://developers.cloudflare.com/fundamentals/): Core concepts for accounts, zones, APIs, and platform configuration.
+- [Learning Center](https://www.cloudflare.com/learning/): Explanations of networking, security, and performance concepts.
+- [Cloudflare Blog](https://blog.cloudflare.com/): Product announcements, engineering deep dives, and platform updates.
+- [Status](https://www.cloudflarestatus.com/): Service health and incident reporting for Cloudflare systems.
+- [Changelog](https://developers.cloudflare.com/changelog/): Recent documentation and product update history.

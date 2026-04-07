@@ -1,0 +1,87 @@
+# SurveyMonkey
+> SurveyMonkey is an online survey and forms platform for collecting feedback, conducting research, and automating insights.
+
+SurveyMonkey provides tools for surveys, forms, market research, customer experience, and employee feedback, along with templates, integrations, and developer resources for building data collection workflows.
+
+## Product Overview
+- [SurveyMonkey Home](https://www.surveymonkey.com/): Main entry point for SurveyMonkey’s survey, form, and feedback platform.
+- [Online Surveys](https://www.surveymonkey.com/product/surveys/): Overview of survey creation, distribution, and analysis capabilities.
+- [Online Forms](https://www.surveymonkey.com/product/forms/): Product page for building forms for registrations, requests, and data collection.
+- [Market Research Solutions](https://www.surveymonkey.com/product/market-research/): Overview of tools for concept testing, audience targeting, and research studies.
+- [Customer Experience](https://www.surveymonkey.com/product/customer-experience/): Product information for measuring and improving customer satisfaction and loyalty.
+- [Employee Experience](https://www.surveymonkey.com/product/employee-experience/): Overview of employee feedback and engagement measurement solutions.
+- [Enterprise](https://www.surveymonkey.com/product/enterprise/): Enterprise-grade administration, security, and collaboration features.
+- [Integrations](https://www.surveymonkey.com/integrations/): Directory of integrations connecting SurveyMonkey with business tools.
+
+## Help Center
+- [Help Center Home](https://help.surveymonkey.com/): Central support hub for account, billing, survey, and feature documentation.
+- [Create a Survey](https://help.surveymonkey.com/en/surveymonkey/create/): Guidance for building surveys, adding questions, and configuring design.
+- [Send Your Survey](https://help.surveymonkey.com/en/surveymonkey/send/): Documentation for collectors, distribution methods, and response collection.
+- [Analyze Results](https://help.surveymonkey.com/en/surveymonkey/analyze/): Help articles on reports, filters, exports, and response analysis.
+- [Account and Login](https://help.surveymonkey.com/en/surveymonkey/account/): Support for account settings, login issues, and profile management.
+- [Billing and Plans](https://help.surveymonkey.com/en/surveymonkey/billing/): Articles covering subscriptions, invoices, renewals, and payment management.
+- [Forms Help](https://help.surveymonkey.com/en/surveymonkey/forms/): Documentation for creating and managing online forms.
+- [Integrations Help](https://help.surveymonkey.com/en/surveymonkey/integrations/): Support content for connecting SurveyMonkey with third-party applications.
+
+## Developer Platform
+- [Developer Portal](https://developer.surveymonkey.com/): Entry point for SurveyMonkey API documentation and developer resources.
+- [API Overview](https://developer.surveymonkey.com/api/v3/): Overview of the SurveyMonkey API and core concepts.
+- [API Reference](https://developer.surveymonkey.com/api/v3/#api-endpoints): Endpoint-level reference for surveys, collectors, responses, and users.
+- [OAuth 2.0 Guide](https://developer.surveymonkey.com/api/v3/#oauth-2-0): Authentication documentation for authorizing applications with SurveyMonkey accounts.
+- [Webhooks](https://developer.surveymonkey.com/api/v3/#webhooks): Reference for subscribing to SurveyMonkey events and notifications.
+- [Developer Apps](https://developer.surveymonkey.com/apps/): Manage developer applications and API credentials.
+- [Developer Support](https://developer.surveymonkey.com/support/): Support resources for API usage, app setup, and integration questions.
+
+## Templates and Examples
+- [Survey Templates](https://www.surveymonkey.com/templates/): Library of prebuilt survey templates for common use cases.
+- [Customer Satisfaction Survey Templates](https://www.surveymonkey.com/templates/customer-satisfaction-surveys/): Ready-made templates for measuring customer feedback and satisfaction.
+- [Employee Engagement Survey Templates](https://www.surveymonkey.com/templates/employee-engagement-surveys/): Templates for assessing employee morale, engagement, and workplace sentiment.
+- [Event Feedback Survey Templates](https://www.surveymonkey.com/templates/event-feedback-surveys/): Templates for collecting attendee feedback after events and sessions.
+- [Market Research Survey Templates](https://www.surveymonkey.com/templates/market-research-surveys/): Templates for product research, brand studies, and audience insights.
+- [Registration Form Templates](https://www.surveymonkey.com/templates/registration-forms/): Form templates for signups, registrations, and information capture.
+- [Feedback Form Templates](https://www.surveymonkey.com/templates/feedback-forms/): Form templates for collecting structured feedback across scenarios.
+
+## Solutions by Use Case
+- [Customer Feedback](https://www.surveymonkey.com/mp/customer-feedback-surveys/): Resources for collecting and acting on customer opinions and satisfaction data.
+- [Employee Feedback](https://www.surveymonkey.com/mp/employee-feedback-surveys/): Guidance and templates for gathering employee input and workplace feedback.
+- [Market Research](https://www.surveymonkey.com/mp/market-research-surveys/): Use-case resources for running market research and audience studies.
+- [Event Registration](https://www.surveymonkey.com/mp/event-registration-form-template/): Template-driven workflow for event signup and registration collection.
+- [Net Promoter Score](https://www.surveymonkey.com/mp/net-promoter-score-nps-survey-template/): NPS survey template and resources for loyalty measurement.
+- [Customer Satisfaction Score](https://www.surveymonkey.com/mp/customer-satisfaction-survey-template/): CSAT survey template for measuring customer satisfaction.
+- [Employee Satisfaction](https://www.surveymonkey.com/mp/employee-satisfaction-survey-template/): Survey template for evaluating employee satisfaction and workplace experience.
+
+## Integrations
+- [Integrations Directory](https://www.surveymonkey.com/integrations/): Browse available integrations for automation, CRM, collaboration, and analytics tools.
+- [Salesforce Integration](https://www.surveymonkey.com/integrations/salesforce/): Connect SurveyMonkey with Salesforce for feedback and CRM workflows.
+- [Microsoft Teams Integration](https://www.surveymonkey.com/integrations/microsoft-teams/): Share surveys and collaborate on feedback inside Microsoft Teams.
+- [Slack Integration](https://www.surveymonkey.com/integrations/slack/): Send notifications and share survey activity through Slack.
+- [Google Sheets Integration](https://www.surveymonkey.com/integrations/google-sheets/): Export or sync survey data with Google Sheets workflows.
+- [Mailchimp Integration](https://www.surveymonkey.com/integrations/mailchimp/): Connect survey responses with email marketing and audience segmentation.
+- [HubSpot Integration](https://www.surveymonkey.com/integrations/hubspot/): Use SurveyMonkey data in HubSpot marketing and CRM processes.
+
+## Resources
+- [Resource Center](https://www.surveymonkey.com/resources/): Collection of guides, reports, webinars, and educational materials.
+- [Blog](https://www.surveymonkey.com/curiosity/): Articles on survey design, research methods, and feedback best practices.
+- [Survey Guidelines](https://www.surveymonkey.com/mp/survey-guidelines/): Best practices for writing effective surveys and improving response quality.
+- [Sample Size Calculator](https://www.surveymonkey.com/mp/sample-size-calculator/): Tool for estimating sample sizes for surveys and research studies.
+- [Margin of Error Calculator](https://www.surveymonkey.com/mp/margin-of-error-calculator/): Calculator for understanding survey confidence and statistical error.
+- [Survey Questions](https://www.surveymonkey.com/mp/survey-questions/): Guidance on question types, wording, and survey design techniques.
+- [Survey Best Practices](https://www.surveymonkey.com/mp/survey-best-practices/): Practical advice for building reliable, effective surveys.
+
+## Plans and Administration
+- [Plans and Pricing](https://www.surveymonkey.com/pricing/): Overview of subscription tiers, features, and plan comparisons.
+- [Team Plans](https://www.surveymonkey.com/pricing/team/): Pricing and features for collaborative team-based SurveyMonkey plans.
+- [Enterprise Plans](https://www.surveymonkey.com/product/enterprise/): Enterprise administration, governance, and advanced security capabilities.
+- [Security](https://www.surveymonkey.com/mp/legal/security/): Information about platform security practices and safeguards.
+- [Trust Center](https://www.surveymonkey.com/mp/legal/security/): Security and compliance information relevant to enterprise evaluation.
+- [GDPR](https://www.surveymonkey.com/mp/legal/gdpr/): Information about GDPR-related practices and data protection support.
+- [Accessibility](https://www.surveymonkey.com/mp/legal/accessibility/): Accessibility information for SurveyMonkey products and services.
+
+## Legal and Company
+- [About SurveyMonkey](https://www.surveymonkey.com/about/): Company overview, mission, and organizational information.
+- [Contact Sales](https://www.surveymonkey.com/contact/): Contact options for sales inquiries and enterprise discussions.
+- [Terms of Use](https://www.surveymonkey.com/mp/legal/terms-of-use/): Legal terms governing use of SurveyMonkey services.
+- [Privacy Notice](https://www.surveymonkey.com/mp/legal/privacy/): Privacy policy describing data handling and user privacy practices.
+- [Cookie Notice](https://www.surveymonkey.com/mp/legal/cookies/): Information about cookies and tracking technologies used by the site.
+- [Acceptable Uses Policy](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/): Rules and restrictions for acceptable use of the platform.
+- [Status Page](https://status.surveymonkey.com/): Service status and incident history for SurveyMonkey systems.

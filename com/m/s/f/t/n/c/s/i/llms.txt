@@ -1,0 +1,30 @@
+# msftncsi.com
+> Microsoft NCSI endpoint domain used by Windows to verify internet connectivity and network status.
+
+This domain is primarily used by the Windows Network Connectivity Status Indicator (NCSI) service for lightweight connectivity checks. It is not a product documentation site and exposes only a very small set of public endpoints; relevant Microsoft documentation about NCSI behavior lives on Microsoft Learn and related Microsoft support properties.
+
+## Public Endpoints
+- [NCSI active probe text](http://www.msftncsi.com/ncsi.txt): Plain-text endpoint used by Windows active probes to validate internet connectivity.
+- [NCSI DNS probe host](http://dns.msftncsi.com/): Hostname used by Windows DNS-based connectivity checks.
+- [Microsoft NCSI root](http://www.msftncsi.com/): Root domain associated with Windows network connectivity detection.
+
+## Microsoft Learn Documentation
+- [Network Connectivity Status Indicator and captive portal detection](https://learn.microsoft.com/windows-server/networking/ncsi/ncsi-overview): Overview of how Windows determines internet access and captive portal state.
+- [NCSI frequently asked questions](https://learn.microsoft.com/troubleshoot/windows-server/networking/troubleshoot-ncsi-guidance): Troubleshooting guidance for NCSI behavior, probes, and connectivity reporting.
+- [Windows connection status indicator](https://learn.microsoft.com/windows/win32/nativewifi/about-the-network-list-manager-api): Related Windows networking APIs that expose connectivity state to applications.
+
+## Windows Networking Reference
+- [Network List Manager API](https://learn.microsoft.com/windows/win32/api/_nla/): Windows API reference for network awareness and connectivity status.
+- [INetworkListManager interface](https://learn.microsoft.com/windows/win32/api/netlistmgr/nn-netlistmgr-inetworklistmanager): Interface for querying current network connectivity and internet access state.
+- [NLM_CONNECTIVITY enumeration](https://learn.microsoft.com/windows/win32/api/netlistmgr/ne-netlistmgr-nlm_connectivity): Enumeration describing network and internet connectivity flags.
+- [Network Awareness API portal](https://learn.microsoft.com/windows/win32/nativewifi/portal): Entry point for Windows native networking and awareness APIs.
+
+## Troubleshooting and Operations
+- [Troubleshoot NCSI and internet connectivity reporting](https://learn.microsoft.com/troubleshoot/windows-server/networking/troubleshoot-ncsi-guidance): Steps for diagnosing incorrect “No Internet” or captive portal indications.
+- [Windows networking troubleshooting documentation](https://learn.microsoft.com/windows-server/networking/): Broader Windows Server networking documentation relevant to connectivity detection.
+- [Microsoft support for Windows networking](https://support.microsoft.com/windows): General Windows support entry point for networking-related issues.
+
+## Related Microsoft Properties
+- [Microsoft Learn](https://learn.microsoft.com/): Central documentation hub for Windows networking, APIs, and troubleshooting guidance.
+- [Windows documentation](https://learn.microsoft.com/windows/): Top-level Windows documentation on Microsoft Learn.
+- [Windows Server networking documentation](https://learn.microsoft.com/windows-server/networking/): Documentation for Windows Server networking features and operations.

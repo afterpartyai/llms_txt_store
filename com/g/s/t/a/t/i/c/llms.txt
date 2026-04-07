@@ -1,0 +1,60 @@
+# Google Static Content (gstatic.com)
+> gstatic.com is Google’s static asset delivery domain, serving versioned JavaScript, CSS, images, fonts, and support files for Google products and web APIs.
+
+This domain primarily hosts machine-consumable assets rather than human-oriented documentation. The most useful references for understanding gstatic-hosted resources are the related Google developer documentation, API references, and product support pages that describe how those assets are used.
+
+## Google APIs and Client Libraries
+- [Google APIs JavaScript Client](https://developers.google.com/api-client-library/javascript): Documentation for loading and using Google’s browser JavaScript client library.
+- [Google Identity Services Web](https://developers.google.com/identity/gsi/web): Guides for Google Sign-In, One Tap, and authentication flows using hosted scripts.
+- [Google Sign-In for Websites](https://developers.google.com/identity/sign-in/web): Legacy Google Sign-In documentation referencing Google-hosted JavaScript assets.
+- [Google API Discovery Service](https://developers.google.com/discovery): Reference for machine-readable API descriptions consumed by Google client tooling.
+- [Google APIs Explorer](https://developers.google.com/apis-explorer): Interactive tool for exploring Google APIs and request formats.
+
+## Maps JavaScript and Web Mapping
+- [Maps JavaScript API Overview](https://developers.google.com/maps/documentation/javascript/overview): Main documentation for embedding and customizing Google Maps in web applications.
+- [Maps JavaScript API Reference](https://developers.google.com/maps/documentation/javascript/reference): Detailed class and method reference for the Maps JavaScript API.
+- [Places Library Overview](https://developers.google.com/maps/documentation/javascript/places): Documentation for Places search and autocomplete in browser applications.
+- [Geocoding API](https://developers.google.com/maps/documentation/geocoding): Reference for converting addresses and coordinates using Google Maps Platform.
+- [Maps Platform Documentation](https://developers.google.com/maps/documentation): Central index for Google Maps Platform products and guides.
+
+## reCAPTCHA
+- [reCAPTCHA Overview](https://developers.google.com/recaptcha): Product overview and integration entry point for Google reCAPTCHA.
+- [reCAPTCHA v2 Display](https://developers.google.com/recaptcha/docs/display): Guide for rendering and configuring reCAPTCHA v2 widgets on web pages.
+- [reCAPTCHA v3](https://developers.google.com/recaptcha/docs/v3): Documentation for score-based bot detection with reCAPTCHA v3.
+- [reCAPTCHA Enterprise Documentation](https://cloud.google.com/recaptcha-enterprise/docs): Enterprise-focused guides, APIs, and operational documentation.
+- [reCAPTCHA FAQ](https://developers.google.com/recaptcha/docs/faq): Common implementation, privacy, and operational questions for reCAPTCHA.
+
+## Google Fonts and Web Assets
+- [Google Fonts](https://fonts.google.com/): Catalog and delivery service for web fonts used across sites and applications.
+- [Google Fonts Developer API](https://developers.google.com/fonts/docs/developer_api): API reference for retrieving metadata about Google Fonts families.
+- [Material Symbols Guide](https://developers.google.com/fonts/docs/material_symbols): Documentation for using Material Symbols variable icon fonts.
+- [Material Icons Guide](https://developers.google.com/fonts/docs/material_icons): Reference for integrating Material Icons fonts and icon sets.
+- [Web Fundamentals Typography](https://web.dev/learn/design/typography/): General guidance for web typography and font loading practices.
+
+## Visualization and Charts
+- [Google Charts Overview](https://developers.google.com/chart): Main documentation for Google Charts and visualization components.
+- [Chart Gallery](https://developers.google.com/chart/interactive/docs/gallery): Reference and examples for available chart types and configuration options.
+- [Loader Documentation](https://developers.google.com/chart/interactive/docs/basic_load_libs): Guide for loading Google Charts packages in web pages.
+- [DataTable Reference](https://developers.google.com/chart/interactive/docs/reference#datatable-class): API reference for the DataTable structure used by charts.
+- [Chart Tools Guides](https://developers.google.com/chart/interactive/docs): General guides for building interactive visualizations with Google Charts.
+
+## Hosted Libraries and Web Platform Resources
+- [Hosted Libraries Developer Guide](https://developers.google.com/speed/libraries): Documentation for Google-hosted JavaScript libraries and usage patterns.
+- [PageSpeed Insights](https://pagespeed.web.dev/): Performance analysis tool relevant to loading third-party static assets efficiently.
+- [Lighthouse Documentation](https://developer.chrome.com/docs/lighthouse): Guidance for auditing web performance, accessibility, and best practices.
+- [Web.dev Performance](https://web.dev/performance/): Best practices for optimizing asset loading, caching, and rendering performance.
+- [HTTP Caching](https://web.dev/http-cache/): Guide to browser and CDN caching behavior for static resources.
+
+## Common gstatic Asset Endpoints
+- [Google APIs Loader](https://www.gstatic.com/charts/loader.js): Hosted JavaScript loader used for Google Charts package initialization.
+- [reCAPTCHA Releases](https://www.gstatic.com/recaptcha/): Base path for versioned reCAPTCHA static assets and support files.
+- [Google Identity Client](https://accounts.google.com/gsi/client): Hosted Google Identity Services client script used in browser integrations.
+- [Maps API Static Resources](https://maps.gstatic.com/): Static asset host for Google Maps JavaScript API resources.
+- [Google Fonts Static Files](https://fonts.gstatic.com/): Static font file host used by Google Fonts CSS responses.
+
+## Product and Platform Support
+- [Google Developers](https://developers.google.com/): Main portal for Google developer products, APIs, and technical documentation.
+- [Google Cloud Documentation](https://cloud.google.com/docs): Documentation hub for Google Cloud products and APIs.
+- [Google Workspace Developers](https://developers.google.com/workspace): Developer documentation for Google Workspace APIs and integrations.
+- [Chrome Developers](https://developer.chrome.com/): Documentation for web platform capabilities, tooling, and browser APIs.
+- [Google Search Central](https://developers.google.com/search): Documentation for search indexing, structured data, and site guidance.

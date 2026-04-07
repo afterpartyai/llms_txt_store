@@ -1,0 +1,80 @@
+# Akamai TechDocs
+> Technical documentation, API references, and implementation guides for Akamai products and services.
+
+Akamai TechDocs provides product documentation for security, delivery, compute, cloud networking, APIs, CLI tools, and developer workflows across the Akamai platform.
+
+## Getting Started
+- [TechDocs Home](https://techdocs.akamai.com/): Entry point for Akamai technical documentation across products and services.
+- [Akamai Developer](https://developer.akamai.com/): Developer portal for APIs, tools, authentication, and platform onboarding.
+- [API Overview](https://developer.akamai.com/api): Overview of Akamai APIs, use cases, and developer resources.
+- [Open API Definitions](https://developer.akamai.com/api/core_features/open_api): Downloadable OpenAPI specifications for Akamai APIs.
+- [CLI](https://developer.akamai.com/cli): Akamai CLI overview, installation, and package ecosystem.
+- [Authentication](https://developer.akamai.com/api/getting-started): Getting started with Akamai API authentication and request signing.
+
+## APIs and Developer Tools
+- [API Reference](https://techdocs.akamai.com/home/page/api): Central index of Akamai API documentation and references.
+- [Akamai APIs](https://developer.akamai.com/api): Browse Akamai APIs by product and capability.
+- [CLI Packages](https://developer.akamai.com/cli/packages): Available Akamai CLI packages for common workflows and automation.
+- [Terraform Provider](https://techdocs.akamai.com/terraform-provider/docs): Infrastructure as code provider documentation for Akamai resources.
+- [EdgeWorkers CLI](https://techdocs.akamai.com/edgeworkers/docs/akamai-cli): CLI support for EdgeWorkers deployment and management.
+- [Postman Collections](https://developer.akamai.com/api/core_features/postman_collections): Postman resources for exploring and testing Akamai APIs.
+
+## Security
+- [App and API Protector](https://techdocs.akamai.com/application-security/docs): Documentation for web application and API protection on Akamai.
+- [API Security](https://techdocs.akamai.com/api-security/docs): Protect APIs with discovery, posture, and runtime security capabilities.
+- [Bot Manager](https://techdocs.akamai.com/bot-manager/docs): Detect, classify, and mitigate automated bot traffic.
+- [Account Protector](https://techdocs.akamai.com/account-protector/docs): Defend login, signup, and account workflows from abuse.
+- [Page Integrity Manager](https://techdocs.akamai.com/page-integrity-manager/docs): Monitor client-side script behavior and browser-side threats.
+- [Prolexic](https://techdocs.akamai.com/prolexic/docs): DDoS protection and routed defense documentation.
+- [Guardicore Segmentation](https://techdocs.akamai.com/guardicore-segmentation/docs): Zero trust microsegmentation for data center and cloud workloads.
+
+## Delivery and Edge
+- [Ion](https://techdocs.akamai.com/ion/docs): Performance optimization and intelligent delivery for web experiences.
+- [Adaptive Media Delivery](https://techdocs.akamai.com/adaptive-media-delivery/docs): Streaming media delivery and optimization documentation.
+- [Media Services Live](https://techdocs.akamai.com/media-services-live/docs): Live video packaging and delivery workflows.
+- [Image and Video Manager](https://techdocs.akamai.com/image-and-video-manager/docs): Automated image and video optimization at the edge.
+- [Edge DNS](https://techdocs.akamai.com/edge-dns/docs): Authoritative DNS configuration and traffic management.
+- [Global Traffic Management](https://techdocs.akamai.com/gtm/docs): DNS-based traffic steering and failover controls.
+- [Property Manager](https://techdocs.akamai.com/property-mgr/docs): Configure and manage edge delivery behavior for properties.
+
+## Compute and Edge Applications
+- [EdgeWorkers](https://techdocs.akamai.com/edgeworkers/docs): Serverless JavaScript execution at the Akamai edge.
+- [EdgeKV](https://techdocs.akamai.com/edgekv/docs): Distributed key-value storage for edge applications.
+- [Cloudlets](https://techdocs.akamai.com/cloudlets/docs): Edge logic for redirects, routing, and request handling.
+- [API Acceleration](https://techdocs.akamai.com/api-acceleration/docs): Improve API performance and reliability over the Akamai edge.
+- [Application Load Balancer](https://techdocs.akamai.com/application-load-balancer/docs): Load balancing for applications using Akamai edge services.
+- [MCP API](https://techdocs.akamai.com/mcp-api/docs): API for managing cloud and hosting resources.
+
+## Cloud Computing and Networking
+- [Akamai Cloud Computing Docs](https://techdocs.akamai.com/cloud-computing/docs): Documentation for Akamai cloud compute, storage, and networking services.
+- [Linode API](https://techdocs.akamai.com/linode-api/docs): API reference for Akamai cloud computing resources formerly under Linode.
+- [NodeBalancers](https://techdocs.akamai.com/nodebalancers/docs): Load balancing configuration for cloud compute instances.
+- [Object Storage](https://techdocs.akamai.com/object-storage/docs): S3-compatible object storage setup and management.
+- [VPC](https://techdocs.akamai.com/vpc/docs): Virtual private cloud networking and segmentation documentation.
+- [Cloud Firewall](https://techdocs.akamai.com/cloud-firewall/docs): Network-level firewall controls for Akamai cloud resources.
+- [Kubernetes Engine](https://techdocs.akamai.com/kubernetes/docs): Managed Kubernetes deployment and operations guidance.
+
+## Network Operator and Enterprise Access
+- [Enterprise Application Access](https://techdocs.akamai.com/enterprise-application-access/docs): Zero trust access to internal applications and services.
+- [Secure Internet Access Enterprise](https://techdocs.akamai.com/sia-enterprise/docs): Secure web gateway and internet access controls.
+- [SASE](https://techdocs.akamai.com/sase/docs): Secure access service edge architecture and product documentation.
+- [DNSi](https://techdocs.akamai.com/dnsi/docs): Recursive DNS security and policy enforcement.
+- [App Platform](https://techdocs.akamai.com/app-platform/docs): Platform services for deploying and operating applications.
+- [TrafficPeak](https://techdocs.akamai.com/trafficpeak/docs): Network traffic visibility and analytics documentation.
+
+## Configuration and Operations
+- [Control Center Help](https://techdocs.akamai.com/home/page/control-center-help): Help for Akamai Control Center workflows and administration.
+- [Identity and Access Management](https://techdocs.akamai.com/iam/docs): Manage users, roles, API clients, and access policies.
+- [Certificate Provisioning System](https://techdocs.akamai.com/cps/docs): Provision and manage TLS certificates on Akamai.
+- [DataStream 2](https://techdocs.akamai.com/datastream2/docs): Stream Akamai logs and telemetry to external destinations.
+- [Reporting](https://techdocs.akamai.com/reporting/docs): Access traffic, security, and performance reporting data.
+- [Purge](https://techdocs.akamai.com/purge-cache/docs): Invalidate cached content across the Akamai platform.
+- [Diagnostics](https://techdocs.akamai.com/diagnostics/docs): Troubleshooting and diagnostic tools for Akamai services.
+
+## Learning and Support
+- [Release Notes](https://techdocs.akamai.com/home/page/release-notes): Product and documentation release updates across Akamai TechDocs.
+- [What's New](https://techdocs.akamai.com/home/page/whats-new): Recent additions and changes in Akamai documentation.
+- [System Status](https://techdocs.akamai.com/home/page/system-status): Service status and operational information for Akamai platforms.
+- [Community](https://community.akamai.com/): Community discussions, knowledge sharing, and peer support.
+- [Akamai Blog](https://www.akamai.com/blog): Product, security, and platform insights from Akamai.
+- [Support](https://www.akamai.com/support): Customer support resources and service assistance.

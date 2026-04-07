@@ -1,0 +1,70 @@
+# Alexa Plus
+> Amazon Alexa is Amazon’s voice assistant platform for smart home control, devices, skills, and developer integrations.
+
+Alexa spans consumer experiences on Echo devices and a broad developer platform for building custom skills, smart home integrations, and voice-enabled experiences. The most useful LLM-facing resources are hosted across Amazon Alexa developer documentation, API references, and related Amazon device and smart home pages.
+
+## Main Site
+- [Alexa Plus](https://www.amazonalexa.com/): Consumer landing page for Alexa and Alexa-enabled experiences.
+- [Amazon Alexa App](https://www.amazonalexa.com/app): Information about the Alexa mobile app for setup and device management.
+- [Alexa Devices](https://www.amazonalexa.com/devices): Overview of Alexa-enabled devices and Echo product experiences.
+- [What Is Alexa](https://www.amazonalexa.com/alexa): Introductory information about Alexa features and capabilities.
+
+## Developer Portal
+- [Alexa Developer Home](https://developer.amazon.com/alexa): Entry point for Alexa developer tools, docs, and platform resources.
+- [Build Alexa Skills](https://developer.amazon.com/en-US/alexa/alexa-skills-kit): Overview of the Alexa Skills Kit for custom voice experiences.
+- [Smart Home](https://developer.amazon.com/en-US/alexa/smarthome): Resources for building Alexa smart home integrations.
+- [Alexa Connect Kit](https://developer.amazon.com/en-US/alexa/connected-products/alexa-connect-kit): Platform for building connected devices with Alexa.
+- [Alexa Auto SDK](https://developer.amazon.com/en-US/alexa/auto): SDK and tools for integrating Alexa into automotive experiences.
+- [Alexa for Apps](https://developer.amazon.com/en-US/alexa/alexa-for-apps): Tools for connecting mobile apps with Alexa experiences.
+
+## Documentation
+- [Alexa Skills Kit Documentation](https://developer.amazon.com/en-US/docs/alexa/ask-overviews/build-skills-with-the-alexa-skills-kit.html): Core documentation for designing and building Alexa skills.
+- [Smart Home Skill API](https://developer.amazon.com/en-US/docs/alexa/device-apis/alexa-discovery.html): Device API documentation for Alexa smart home capabilities.
+- [Skill Manifest Reference](https://developer.amazon.com/en-US/docs/alexa/smapi/skill-manifest-api-reference.html): Reference for defining skill metadata and interfaces.
+- [Interaction Model Reference](https://developer.amazon.com/en-US/docs/alexa/custom-skills/create-the-interaction-model-for-your-skill.html): Guidance for intents, slots, and sample utterances.
+- [Account Linking](https://developer.amazon.com/en-US/docs/alexa/account-linking/add-account-linking-logic-custom-skill.html): Documentation for linking Alexa skills to external user accounts.
+- [Certification Requirements](https://developer.amazon.com/en-US/docs/alexa/custom-skills/policy-requirements-for-an-alexa-skill.html): Policy and certification requirements for publishing Alexa skills.
+
+## APIs and References
+- [Skill Management API](https://developer.amazon.com/en-US/docs/alexa/smapi/alexa-skills-kit-management-api-reference.html): API reference for creating and managing Alexa skills programmatically.
+- [ASK CLI](https://developer.amazon.com/en-US/docs/alexa/smapi/ask-cli-intro.html): Command-line tooling for Alexa skill development and deployment.
+- [Request and Response JSON Reference](https://developer.amazon.com/en-US/docs/alexa/custom-skills/request-and-response-json-reference.html): Schema reference for custom skill requests and responses.
+- [APL Documentation](https://developer.amazon.com/en-US/docs/alexa/alexa-presentation-language/understand-apl.html): Reference for building multimodal Alexa visual experiences.
+- [Events and Notifications](https://developer.amazon.com/en-US/docs/alexa/smapi/proactive-events-api-reference.html): API reference for proactive events and customer notifications.
+- [ISP API](https://developer.amazon.com/en-US/docs/alexa/in-skill-purchase/in-skill-purchase-overview.html): Documentation for in-skill purchasing and monetization features.
+
+## Guides and Tutorials
+- [Create a Custom Skill](https://developer.amazon.com/en-US/docs/alexa/custom-skills/steps-to-build-a-custom-skill.html): Step-by-step guide to building a basic Alexa custom skill.
+- [Build a Smart Home Skill](https://developer.amazon.com/en-US/docs/alexa/smarthome/steps-to-build-a-smart-home-skill.html): Tutorial for implementing smart home device control with Alexa.
+- [Use the ASK SDK for Node.js](https://developer.amazon.com/en-US/docs/alexa/alexa-skills-kit-sdk-for-nodejs/overview.html): Guide to building Alexa skills with the Node.js SDK.
+- [Use the ASK SDK for Python](https://developer.amazon.com/en-US/docs/alexa/alexa-skills-kit-sdk-for-python/overview.html): Guide to building Alexa skills with the Python SDK.
+- [Host a Skill as an AWS Lambda Function](https://developer.amazon.com/en-US/docs/alexa/hosted-skills/alexa-hosted-skills-overview.html): Overview of hosted and serverless deployment options for skills.
+- [Test a Skill](https://developer.amazon.com/en-US/docs/alexa/custom-skills/test-and-debug-a-custom-skill.html): Guidance for testing, debugging, and validating Alexa skills.
+
+## SDKs and Tools
+- [ASK SDK for Node.js](https://developer.amazon.com/en-US/docs/alexa/alexa-skills-kit-sdk-for-nodejs/overview.html): Official Node.js SDK for Alexa skill development.
+- [ASK SDK for Python](https://developer.amazon.com/en-US/docs/alexa/alexa-skills-kit-sdk-for-python/overview.html): Official Python SDK for Alexa skill development.
+- [ASK SDK for Java](https://developer.amazon.com/en-US/docs/alexa/alexa-skills-kit-sdk-for-java/overview.html): Official Java SDK for Alexa skill development.
+- [ASK Toolkit for Visual Studio Code](https://developer.amazon.com/en-US/docs/alexa/ask-toolkit/vs-code-overview.html): IDE extension for building and managing Alexa skills.
+- [Alexa Simulator](https://developer.amazon.com/en-US/alexa/console/ask/test): Browser-based testing environment for Alexa skills.
+- [Developer Console](https://developer.amazon.com/alexa/console/ask): Web console for creating, configuring, and publishing Alexa skills.
+
+## Connected Devices
+- [Works with Alexa](https://developer.amazon.com/en-US/alexa/works-with-alexa): Program for certifying compatible smart home devices.
+- [Smart Home Guides](https://developer.amazon.com/en-US/docs/alexa/smarthome/understand-the-smart-home-skill-api.html): Overview of smart home APIs, interfaces, and implementation patterns.
+- [Alexa Connect Kit Docs](https://developer.amazon.com/en-US/docs/alexa/ack/ack-overview.html): Documentation for building connected products with Alexa Connect Kit.
+- [Matter on Alexa](https://developer.amazon.com/en-US/alexa/smarthome/matter): Resources for integrating Matter-compatible devices with Alexa.
+- [Device Makers](https://developer.amazon.com/en-US/alexa/device-makers): Programs and tools for Alexa-enabled hardware manufacturers.
+
+## Publishing and Monetization
+- [Publish a Skill](https://developer.amazon.com/en-US/docs/alexa/custom-skills/submit-a-skill-for-certification.html): Process for submitting Alexa skills for certification and release.
+- [Skill Store](https://www.amazon.com/alexa-skills): Consumer marketplace for discovering published Alexa skills.
+- [In-Skill Purchasing](https://developer.amazon.com/en-US/alexa/in-skill-purchase): Monetization options for premium Alexa skill content.
+- [Developer Rewards](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/developer-rewards): Information about Alexa developer incentive programs.
+- [Policies and Guidelines](https://developer.amazon.com/en-US/docs/alexa/custom-skills/policy-requirements-for-an-alexa-skill.html): Content, privacy, and certification rules for Alexa skills.
+
+## News and Updates
+- [Alexa Developer Blog](https://developer.amazon.com/en-US/blogs/alexa): Product updates, announcements, and technical articles for Alexa developers.
+- [Alexa Events](https://developer.amazon.com/en-US/alexa/events): Webinars, conferences, and community events for Alexa developers.
+- [What’s New with Alexa](https://developer.amazon.com/en-US/alexa/whats-new): Recent platform updates and newly released Alexa features.
+- [Amazon Developer Home](https://developer.amazon.com/): Broader Amazon developer platform entry point with Alexa-related updates.

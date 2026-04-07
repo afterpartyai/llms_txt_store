@@ -1,0 +1,79 @@
+# Ozon
+> Ozon is a major Russian e-commerce marketplace for shopping, selling, logistics, and business services.
+
+Ozon operates consumer retail, marketplace seller tools, advertising, fulfillment, and financial services. Its web presence spans the main storefront, seller and partner documentation, business APIs, and corporate information.
+
+## Main Platform
+- [Ozon Home](https://www.ozon.ru/): Main marketplace homepage for shopping across electronics, fashion, home, and everyday goods.
+- [Catalog](https://www.ozon.ru/category/): Entry point to product categories and storefront navigation.
+- [Brands](https://www.ozon.ru/brand/): Brand landing pages and curated product selections from manufacturers.
+- [Premium](https://www.ozon.ru/highlight/premium/): Membership program with delivery, discounts, and service benefits.
+- [Travel](https://www.ozon.ru/travel/): Travel booking section integrated into the Ozon platform.
+- [Jobs](https://job.ozon.ru/): Careers portal for corporate, logistics, technology, and operations roles.
+
+## Buyer Help
+- [Help Center](https://docs.ozon.ru/common/): Customer help center for orders, delivery, returns, payments, and account issues.
+- [Ordering](https://docs.ozon.ru/common/zakazy/): Guidance on placing, managing, and tracking customer orders.
+- [Delivery](https://docs.ozon.ru/common/dostavka/): Information about shipping methods, pickup points, and delivery timing.
+- [Returns and Refunds](https://docs.ozon.ru/common/vozvrat/): Policies and instructions for returning items and receiving refunds.
+- [Payments](https://docs.ozon.ru/common/oplata/): Payment methods, billing, and transaction-related support information.
+- [Account and Security](https://docs.ozon.ru/common/akkaunt/): Account settings, access, personal data, and security help.
+
+## Seller Documentation
+- [Seller Docs Home](https://docs.ozon.ru/global/): Main documentation hub for marketplace sellers and partners.
+- [Getting Started](https://docs.ozon.ru/global/start/): Introductory materials for launching sales on the Ozon marketplace.
+- [Products](https://docs.ozon.ru/global/products/): Rules and workflows for creating, editing, and managing product listings.
+- [Prices and Promotions](https://docs.ozon.ru/global/prices/): Pricing controls, discounts, and promotional campaign documentation.
+- [Orders](https://docs.ozon.ru/global/orders/): Seller order processing, statuses, cancellations, and fulfillment operations.
+- [Analytics](https://docs.ozon.ru/global/analytics/): Reporting and performance metrics for sellers and marketplace operations.
+- [Finance](https://docs.ozon.ru/global/finance/): Payouts, commissions, balances, and financial document guidance.
+- [Returns](https://docs.ozon.ru/global/returns/): Seller-side return handling, claims, and compensation processes.
+
+## Fulfillment and Logistics
+- [FBO](https://docs.ozon.ru/global/fbo/): Fulfillment by Ozon documentation for warehouse-based order handling.
+- [FBS](https://docs.ozon.ru/global/fbs/): Fulfillment by Seller workflows for packing, shipping, and handoff.
+- [RealFBS](https://docs.ozon.ru/global/realfbs/): Seller-managed delivery model with direct logistics integration.
+- [Warehouses](https://docs.ozon.ru/global/warehouses/): Warehouse operations, supply rules, and inventory placement guidance.
+- [Supply Management](https://docs.ozon.ru/global/posting/): Shipment creation and supply preparation for Ozon logistics.
+- [Crossborder](https://docs.ozon.ru/global/crossborder/): Documentation for international selling and cross-border marketplace operations.
+
+## Seller API
+- [API Overview](https://docs.ozon.ru/api/seller/): Overview of Ozon Seller API capabilities and integration patterns.
+- [API Reference](https://docs.ozon.ru/api/seller/#operation/): Endpoint reference for products, orders, finance, and logistics operations.
+- [Authentication](https://docs.ozon.ru/api/seller/#section/Avtorizaciya): Authentication requirements and credentials for Seller API access.
+- [Products API](https://docs.ozon.ru/api/seller/#tag/ProductAPI): Endpoints for product data, attributes, and content management.
+- [FBS API](https://docs.ozon.ru/api/seller/#tag/Fbs): Operations for seller fulfillment, postings, and shipment processing.
+- [Finance API](https://docs.ozon.ru/api/seller/#tag/Finance): Financial reports, transactions, and payout-related API methods.
+- [Analytics API](https://docs.ozon.ru/api/seller/#tag/Analytics): Programmatic access to reports and seller performance data.
+
+## Ozon for Business
+- [Ozon Seller](https://seller.ozon.ru/): Seller portal for marketplace operations, catalog, orders, and business management.
+- [Ozon Business](https://business.ozon.ru/): B2B purchasing and procurement services for companies.
+- [Ozon Bank](https://bank.ozon.ru/): Financial products and banking services for users and businesses.
+- [Ozon Rocket](https://rocket.ozon.ru/): Logistics and delivery services for merchants and partners.
+- [Ozon fresh](https://www.ozon.ru/category/supermarket-25000/): Grocery and fast-delivery shopping section on the marketplace.
+- [Advertising](https://ads.ozon.ru/): Advertising platform for promoting products and brands within Ozon.
+
+## Partners and Developers
+- [Partner Portal](https://partners.ozon.ru/): Entry point for technology, logistics, and business partnership programs.
+- [Developer Docs](https://docs.ozon.ru/): Central documentation index covering customer, seller, and API materials.
+- [Seller Integrations](https://docs.ozon.ru/api/seller/): Technical documentation for integrating seller systems with Ozon.
+- [Webhook and Events](https://docs.ozon.ru/api/seller/#section/Webhooki): Event delivery and webhook configuration for marketplace integrations.
+- [Content Requirements](https://docs.ozon.ru/global/products/requirements/): Product content standards, validation rules, and listing requirements.
+- [Attribute Dictionary](https://docs.ozon.ru/api/seller/#tag/CategoryAPI): Category and attribute methods for structured catalog integration.
+
+## Corporate
+- [About Ozon](https://corp.ozon.ru/): Corporate site with company overview, strategy, and business segments.
+- [Investor Relations](https://corp.ozon.ru/investors/): Financial results, disclosures, governance, and investor materials.
+- [Press Center](https://corp.ozon.ru/press-center/): Company news, announcements, and media resources.
+- [Sustainability](https://corp.ozon.ru/esg/): ESG strategy, social impact, and sustainability reporting.
+- [Corporate Governance](https://corp.ozon.ru/investors/corporate-governance/): Governance structure, board information, and corporate policies.
+- [Contacts](https://corp.ozon.ru/contacts/): Corporate contact information for media, investors, and partners.
+
+## Policies and Legal
+- [Terms of Use](https://www.ozon.ru/legal/terms/): General platform terms governing use of Ozon services.
+- [Privacy Policy](https://www.ozon.ru/legal/privacy/): Personal data processing and privacy practices for platform users.
+- [Seller Agreement](https://docs.ozon.ru/global/commissions/): Seller commercial terms, fees, and marketplace conditions.
+- [Return Rules](https://docs.ozon.ru/common/vozvrat/): Customer-facing return conditions and refund procedures.
+- [Delivery Rules](https://docs.ozon.ru/common/dostavka/): Delivery conditions, methods, and service limitations.
+- [Payment Rules](https://docs.ozon.ru/common/oplata/): Payment-related conditions and supported transaction methods.

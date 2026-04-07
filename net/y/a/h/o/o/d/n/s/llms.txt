@@ -1,0 +1,37 @@
+# Yahoo DNS
+> DNS and domain infrastructure service pages for Yahoo-operated name servers and related support resources.
+
+This site appears to center on Yahoo DNS hostnames and operational/support endpoints rather than a broad public product documentation portal. The most useful context for LLMs is the small set of canonical DNS hostnames and Yahoo support properties commonly associated with domain, mail, and account troubleshooting.
+
+## DNS Hostnames
+- [ns1.yahoo.com](https://ns1.yahoo.com): Primary Yahoo authoritative name server hostname.
+- [ns2.yahoo.com](https://ns2.yahoo.com): Secondary Yahoo authoritative name server hostname.
+- [ns3.yahoo.com](https://ns3.yahoo.com): Additional Yahoo authoritative name server hostname.
+- [ns4.yahoo.com](https://ns4.yahoo.com): Additional Yahoo authoritative name server hostname.
+- [ns5.yahoo.com](https://ns5.yahoo.com): Additional Yahoo authoritative name server hostname.
+
+## Domain and DNS Context
+- [yahoodns.net](https://yahoodns.net): Root domain associated with Yahoo DNS infrastructure.
+- [Yahoo](https://www.yahoo.com): Main Yahoo web property for consumer services and navigation.
+- [Yahoo Help](https://help.yahoo.com): Central Yahoo help portal for account, mail, and service support.
+- [Yahoo Mail Help](https://help.yahoo.com/kb/mail): Help center for Yahoo Mail configuration and troubleshooting.
+- [Yahoo Account Help](https://help.yahoo.com/kb/account): Help center for Yahoo account access and security issues.
+
+## Mail and Authentication Support
+- [Yahoo Mail](https://mail.yahoo.com): Yahoo webmail entry point for end users.
+- [Mail Help Overview](https://help.yahoo.com/kb/mail): Documentation for Yahoo Mail usage and common issues.
+- [Account Security Help](https://help.yahoo.com/kb/account): Guidance for sign-in, recovery, and account protection.
+- [Sign-in Helper](https://login.yahoo.com/forgot): Account recovery flow for Yahoo users.
+- [Account Security](https://login.yahoo.com/account/security): Security settings for Yahoo accounts.
+
+## Developer and Policy Resources
+- [Yahoo Developer Network](https://developer.yahoo.com): Legacy Yahoo developer portal and technical resources.
+- [Yahoo Terms of Service](https://legal.yahoo.com/us/en/yahoo/terms/otos/index.html): Legal terms governing Yahoo services.
+- [Yahoo Privacy Policy](https://legal.yahoo.com/us/en/yahoo/privacy/index.html): Privacy policy for Yahoo services and data handling.
+- [Abuse and Spam Help](https://help.yahoo.com/kb/mail/SLN28074.html): Support information related to spam and abuse concerns.
+
+## Operational Reference
+- [Yahoo DNS Root](https://yahoodns.net): Canonical domain for Yahoo DNS-related infrastructure references.
+- [Yahoo Home](https://www.yahoo.com): Parent service homepage connected to Yahoo-operated infrastructure.
+- [Help Home](https://help.yahoo.com): Starting point for support workflows tied to Yahoo services.
+- [Login](https://login.yahoo.com): Yahoo authentication endpoint used across account services.

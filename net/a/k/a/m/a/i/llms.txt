@@ -1,0 +1,77 @@
+# Akamai
+> Akamai provides cloud computing, security, and content delivery services, with documentation for APIs, products, developer tools, and operational guidance.
+
+Akamai’s developer and product resources span platform APIs, edge computing, application security, delivery optimization, DNS, storage, and account management. The most useful LLM-oriented entry points are the developer portal, product documentation, API references, CLI and SDK resources, and learning materials.
+
+## Developer Portal
+- [Akamai Developer](https://developer.akamai.com/): Main developer portal for Akamai APIs, tools, guides, and platform resources.
+- [Documentation Home](https://techdocs.akamai.com/): Central documentation hub for Akamai products, services, and workflows.
+- [API Reference](https://techdocs.akamai.com/home/page/api): Entry point for Akamai API reference documentation across products.
+- [Open APIs](https://developer.akamai.com/api): Browse Akamai APIs for configuration, security, delivery, and account automation.
+- [Developer Blog](https://developer.akamai.com/blog): Articles, announcements, tutorials, and product updates for developers.
+- [Learning](https://learn.akamai.com/): Training and learning resources for Akamai products and platform capabilities.
+
+## Core Platform and Account Management
+- [Akamai Control Center APIs](https://techdocs.akamai.com/home/page/control-center-apis): APIs for account, identity, and platform management tasks.
+- [Identity and Access Management](https://techdocs.akamai.com/iam/docs): Manage users, roles, API clients, and access controls.
+- [API Client Authentication](https://techdocs.akamai.com/developer/docs/set-up-authentication-credentials): Set up EdgeGrid authentication credentials for Akamai APIs.
+- [Akamai CLI](https://github.com/akamai/cli): Command-line interface for Akamai APIs and operational workflows.
+- [CLI Package Manager](https://github.com/akamai/cli-manager): Install and manage Akamai CLI packages and extensions.
+- [Terraform Provider](https://techdocs.akamai.com/terraform/docs): Infrastructure as code support for managing Akamai resources.
+
+## Delivery and Edge Configuration
+- [Property Manager](https://techdocs.akamai.com/property-mgr/docs): Configure CDN delivery behavior, origins, caching, and edge logic.
+- [Application Load Balancer](https://techdocs.akamai.com/application-load-balancer/docs): Manage traffic steering and load balancing across origins.
+- [Cloud Wrapper](https://techdocs.akamai.com/cloud-wrapper/docs): Provision and manage cloud-based delivery configurations.
+- [Edge DNS](https://techdocs.akamai.com/edge-dns/docs): Authoritative DNS configuration, zones, records, and traffic management.
+- [Global Traffic Management](https://techdocs.akamai.com/gtm/docs): Direct users to optimal endpoints based on health and geography.
+- [Image and Video Manager](https://techdocs.akamai.com/image-and-video-manager/docs): Optimize media delivery with transformation and performance controls.
+
+## Security and Zero Trust
+- [App and API Protector](https://techdocs.akamai.com/app-api-protector/docs): Protect web applications and APIs with WAF and security controls.
+- [Bot Manager](https://techdocs.akamai.com/bot-manager/docs): Detect and mitigate automated abuse and malicious bots.
+- [API Security](https://techdocs.akamai.com/api-security/docs): Discover, monitor, and protect API endpoints and traffic.
+- [Prolexic](https://techdocs.akamai.com/prolexic/docs): DDoS protection and mitigation for network and application attacks.
+- [Guardicore Segmentation](https://techdocs.akamai.com/guardicore-segmentation/docs): Microsegmentation and east-west traffic security for workloads.
+- [Enterprise Application Access](https://techdocs.akamai.com/eaa/docs): Zero trust access to private applications without traditional VPNs.
+- [Secure Internet Access Enterprise](https://techdocs.akamai.com/siae/docs): Secure web gateway and cloud-delivered internet access protection.
+
+## Edge Compute and Serverless
+- [EdgeWorkers](https://techdocs.akamai.com/edgeworkers/docs): Run JavaScript at the edge for request handling and personalization.
+- [EdgeKV](https://techdocs.akamai.com/edgekv/docs): Low-latency key-value storage for edge applications.
+- [Cloudlets](https://techdocs.akamai.com/cloudlets/docs): Apply edge logic for routing, redirects, and request control.
+- [Functions](https://techdocs.akamai.com/functions/docs): Serverless compute for event-driven workloads on Akamai cloud infrastructure.
+- [Containers](https://techdocs.akamai.com/containers/docs): Run and manage containerized workloads on Akamai cloud services.
+- [Linode API](https://techdocs.akamai.com/linode-api/docs): API documentation for Akamai cloud compute, networking, and storage resources.
+
+## Storage, Media, and Data Services
+- [NetStorage](https://techdocs.akamai.com/netstorage/docs): Store and deliver content using Akamai’s distributed storage platform.
+- [Media Services Live](https://techdocs.akamai.com/msl/docs): Live video streaming workflows and media delivery configuration.
+- [Media Services On Demand](https://techdocs.akamai.com/msod/docs): Video-on-demand packaging and streaming delivery workflows.
+- [DataStream 2](https://techdocs.akamai.com/datastream2/docs): Export delivery and security logs to external destinations.
+- [mPulse](https://techdocs.akamai.com/mpulse/docs): Real user monitoring and performance analytics for web applications.
+- [Cloud Monitor](https://techdocs.akamai.com/cloud-monitor/docs): Monitoring and observability for Akamai cloud infrastructure resources.
+
+## APIs, SDKs, and Automation
+- [API Definitions](https://developer.akamai.com/api): Catalog of Akamai APIs and product-specific endpoints.
+- [Akamai OPEN EdgeGrid for Go](https://github.com/akamai/AkamaiOPEN-edgegrid-golang): Go authentication library for calling Akamai APIs with EdgeGrid.
+- [Akamai OPEN EdgeGrid for Java](https://github.com/akamai/AkamaiOPEN-edgegrid-java): Java authentication library for Akamai API integrations.
+- [Akamai OPEN EdgeGrid for Python](https://github.com/akamai/AkamaiOPEN-edgegrid-python): Python authentication library for Akamai API integrations.
+- [Akamai OPEN EdgeGrid for Node.js](https://github.com/akamai/AkamaiOPEN-edgegrid-node): Node.js authentication library for Akamai API integrations.
+- [Akamai CLI GitHub Organization](https://github.com/akamai): Source repositories for Akamai developer tools, SDKs, and integrations.
+
+## Guides and Tutorials
+- [Get Started with Akamai APIs](https://techdocs.akamai.com/developer/docs): Introductory guidance for using Akamai developer tools and APIs.
+- [Authentication and Authorization](https://techdocs.akamai.com/developer/docs/set-up-authentication-credentials): Configure credentials and authenticate requests to Akamai APIs.
+- [Use Postman with Akamai APIs](https://techdocs.akamai.com/developer/docs/postman): Explore and test Akamai APIs with Postman collections.
+- [CLI Documentation](https://techdocs.akamai.com/developer/docs/cli): Learn Akamai CLI installation, usage, and extension workflows.
+- [Terraform Documentation](https://techdocs.akamai.com/terraform/docs): Manage Akamai resources declaratively with Terraform provider guidance.
+- [Code Samples](https://github.com/akamai?q=&type=all&language=&sort=): Browse Akamai GitHub repositories for examples, tools, and automation.
+
+## Product Documentation
+- [Documentation Home](https://techdocs.akamai.com/): Browse all Akamai product and platform documentation.
+- [What’s New](https://techdocs.akamai.com/home/page/release-notes): Release notes and recent changes across Akamai documentation and products.
+- [TechDocs Home](https://techdocs.akamai.com/home/docs): Overview of documentation structure, navigation, and product areas.
+- [Search Documentation](https://techdocs.akamai.com/search): Search across Akamai technical documentation and references.
+- [System Status](https://status.akamai.com/): Operational status and incident information for Akamai services.
+- [Community](https://community.akamai.com/): Community discussions, questions, and peer support for Akamai users.

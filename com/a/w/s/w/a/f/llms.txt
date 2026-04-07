@@ -1,0 +1,81 @@
+# AWS WAF
+> AWS WAF helps protect web applications and APIs from common web exploits, bots, and abusive traffic.
+
+AWS WAF is Amazon Web Services’ web application firewall service. It provides managed and custom rules, bot control, fraud control, rate limiting, and integrations with CloudFront, Application Load Balancer, API Gateway, AppSync, and other AWS services. The resources below focus on official documentation, API references, developer guides, pricing, quotas, and related security guidance.
+
+## Core Documentation
+- [AWS WAF Documentation](https://docs.aws.amazon.com/waf/): Main entry point for AWS WAF documentation, guides, and references.
+- [What is AWS WAF?](https://docs.aws.amazon.com/waf/latest/developerguide/waf-chapter.html): Overview of AWS WAF concepts, features, and supported integrations.
+- [Getting Started with AWS WAF](https://docs.aws.amazon.com/waf/latest/developerguide/getting-started.html): Introductory setup guidance for creating and deploying protections.
+- [How AWS WAF Works](https://docs.aws.amazon.com/waf/latest/developerguide/how-aws-waf-works.html): Explains request inspection flow, rule evaluation, and web ACL behavior.
+- [Best Practices for AWS WAF](https://docs.aws.amazon.com/waf/latest/developerguide/waf-best-practices.html): Recommendations for designing, testing, and operating protections.
+- [AWS WAF FAQs](https://aws.amazon.com/waf/faqs/): Frequently asked questions about features, deployment, and billing.
+
+## Developer Guide
+- [Web ACLs in AWS WAF](https://docs.aws.amazon.com/waf/latest/developerguide/web-acl.html): Defines web ACL structure, scope, and association behavior.
+- [Rules in AWS WAF](https://docs.aws.amazon.com/waf/latest/developerguide/waf-rule-statements.html): Describes rule statements, nesting, and matching logic.
+- [Managed Rules](https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-list.html): Lists AWS Managed Rules and their intended protections.
+- [Rate-Based Rules](https://docs.aws.amazon.com/waf/latest/developerguide/waf-rule-statement-type-rate-based.html): Covers rate limiting configuration and aggregation behavior.
+- [IP Sets and Regex Pattern Sets](https://docs.aws.amazon.com/waf/latest/developerguide/waf-referenced-set-managing.html): Explains reusable IP and regex match resources.
+- [Labels and Custom Responses](https://docs.aws.amazon.com/waf/latest/developerguide/waf-labels.html): Details labels, rule actions, and custom response handling.
+- [Logging and Monitoring](https://docs.aws.amazon.com/waf/latest/developerguide/logging.html): Shows how to enable logs and monitor AWS WAF activity.
+
+## Protection Features
+- [Bot Control](https://docs.aws.amazon.com/waf/latest/developerguide/waf-bot-control.html): Managed bot detection and mitigation for common automated traffic.
+- [Fraud Control Account Creation Fraud Prevention](https://docs.aws.amazon.com/waf/latest/developerguide/waf-acfp.html): Helps detect and mitigate fraudulent account creation attempts.
+- [Fraud Control Account Takeover Prevention](https://docs.aws.amazon.com/waf/latest/developerguide/waf-atp.html): Helps identify and block suspicious login and takeover activity.
+- [CAPTCHA and Challenge](https://docs.aws.amazon.com/waf/latest/developerguide/waf-captcha-and-challenge.html): Interactive and silent challenges for suspicious requests.
+- [Request Inspection Body and Size Limits](https://docs.aws.amazon.com/waf/latest/developerguide/waf-oversize-request-components.html): Explains body inspection limits and oversize handling options.
+- [Geographic Match Rules](https://docs.aws.amazon.com/waf/latest/developerguide/waf-rule-statement-type-geo-match.html): Matches requests based on originating country.
+- [SQL Injection and XSS Match Rules](https://docs.aws.amazon.com/waf/latest/developerguide/waf-rule-statement-type-sqli-match.html): Covers built-in detection for common injection attacks.
+
+## Integrations and Protected Resources
+- [AWS WAF with Amazon CloudFront](https://docs.aws.amazon.com/waf/latest/developerguide/how-aws-waf-works-resources.html): Describes supported protected resource types and scopes.
+- [AWS WAF with Application Load Balancer](https://docs.aws.amazon.com/waf/latest/developerguide/how-aws-waf-works-resources.html): Covers ALB protection through regional web ACL associations.
+- [AWS WAF with Amazon API Gateway](https://docs.aws.amazon.com/waf/latest/developerguide/how-aws-waf-works-resources.html): Explains API Gateway protection using regional web ACLs.
+- [AWS WAF with AWS AppSync](https://docs.aws.amazon.com/waf/latest/developerguide/how-aws-waf-works-resources.html): Protects GraphQL APIs with AWS WAF associations.
+- [AWS WAF with Amazon Cognito](https://docs.aws.amazon.com/waf/latest/developerguide/how-aws-waf-works-resources.html): Supports protection for Cognito user pool endpoints.
+- [AWS WAF with AWS Verified Access](https://docs.aws.amazon.com/waf/latest/developerguide/how-aws-waf-works-resources.html): Covers supported integration with Verified Access resources.
+
+## API and CLI Reference
+- [AWS WAFV2 API Reference](https://docs.aws.amazon.com/waf/latest/APIReference/Welcome.html): Full API reference for AWS WAF V2 operations and models.
+- [CreateWebACL](https://docs.aws.amazon.com/waf/latest/APIReference/API_CreateWebACL.html): API operation for creating a web ACL.
+- [UpdateWebACL](https://docs.aws.amazon.com/waf/latest/APIReference/API_UpdateWebACL.html): API operation for modifying an existing web ACL.
+- [GetWebACL](https://docs.aws.amazon.com/waf/latest/APIReference/API_GetWebACL.html): API operation for retrieving web ACL configuration.
+- [AssociateWebACL](https://docs.aws.amazon.com/waf/latest/APIReference/API_AssociateWebACL.html): API operation for attaching a web ACL to a resource.
+- [AWS CLI wafv2 Reference](https://docs.aws.amazon.com/cli/latest/reference/wafv2/): Command-line reference for AWS WAF V2 operations.
+- [AWS SDK Code Examples for WAF](https://docs.aws.amazon.com/code-library/latest/ug/wafv2_code_examples.html): Example code for common AWS WAF tasks across SDKs.
+
+## Infrastructure as Code
+- [AWS CloudFormation AWS::WAFv2::WebACL](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-wafv2-webacl.html): CloudFormation resource reference for defining web ACLs.
+- [AWS CloudFormation AWS::WAFv2::RuleGroup](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-wafv2-rulegroup.html): CloudFormation resource reference for custom rule groups.
+- [AWS CloudFormation AWS::WAFv2::IPSet](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-wafv2-ipset.html): CloudFormation resource reference for reusable IP sets.
+- [AWS CloudFormation AWS::WAFv2::RegexPatternSet](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-wafv2-regexpatternset.html): CloudFormation resource reference for regex pattern sets.
+- [AWS CDK aws-wafv2 README](https://docs.aws.amazon.com/cdk/api/v2/docs/aws-cdk-lib.aws_wafv2-readme.html): CDK usage guidance for defining AWS WAF resources.
+- [AWS CDK aws_wafv2 API Reference](https://docs.aws.amazon.com/cdk/api/v2/python/aws_cdk.aws_wafv2/README.html): Python CDK reference for AWS WAF constructs.
+- [AWS SAM and CloudFormation Support](https://docs.aws.amazon.com/waf/latest/developerguide/waf-chapter.html): Entry point for deploying AWS WAF resources with AWS infrastructure tools.
+
+## Operations, Logging, and Metrics
+- [AWS WAF Logging](https://docs.aws.amazon.com/waf/latest/developerguide/logging.html): Configure request logging destinations and fields.
+- [Logging Fields](https://docs.aws.amazon.com/waf/latest/developerguide/logging-fields.html): Reference for fields included in AWS WAF logs.
+- [CloudWatch Metrics for AWS WAF](https://docs.aws.amazon.com/waf/latest/developerguide/waf-metrics.html): Describes available metrics and monitoring patterns.
+- [Sampled Requests](https://docs.aws.amazon.com/waf/latest/developerguide/web-acl-testing-view-sample.html): View sampled requests to validate rule behavior.
+- [Testing and Tuning](https://docs.aws.amazon.com/waf/latest/developerguide/web-acl-testing.html): Guidance for testing rules before enforcing blocks.
+- [AWS WAF Quotas](https://docs.aws.amazon.com/waf/latest/developerguide/limits.html): Service quotas and capacity-related limits.
+- [AWS WAF Pricing](https://aws.amazon.com/waf/pricing/): Pricing details for web ACLs, rules, requests, and add-on protections.
+
+## Security and Related AWS Services
+- [AWS Shield Advanced and AWS WAF](https://docs.aws.amazon.com/waf/latest/developerguide/ddos-overview.html): Explains how AWS WAF complements DDoS protections.
+- [Security Automations for AWS WAF](https://aws.amazon.com/solutions/implementations/security-automations-for-aws-waf/): AWS solution for deploying curated protections and automation.
+- [AWS Firewall Manager with AWS WAF](https://docs.aws.amazon.com/waf/latest/developerguide/fms-chapter.html): Centralized policy management for AWS WAF across accounts.
+- [AWS Managed Rules Rule Groups](https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-list.html): Catalog of managed rule groups maintained by AWS.
+- [AWS Marketplace Managed Rules](https://docs.aws.amazon.com/waf/latest/developerguide/waf-managed-rule-groups-marketplace.html): Third-party managed rule groups available through AWS Marketplace.
+- [AWS Security Blog](https://aws.amazon.com/blogs/security/): Security-focused blog with AWS WAF deployment and threat mitigation articles.
+
+## Service Pages
+- [AWS WAF Product Page](https://aws.amazon.com/waf/): Product overview, features, pricing, and related resources.
+- [AWS WAF Features](https://aws.amazon.com/waf/features/): Summary of major AWS WAF capabilities and integrations.
+- [AWS WAF Pricing](https://aws.amazon.com/waf/pricing/): Commercial pricing for core service and advanced protections.
+- [AWS WAF Resources](https://aws.amazon.com/waf/resources/): Curated AWS WAF whitepapers, blogs, and learning materials.
+- [AWS WAF Re:Post Questions](https://repost.aws/tags/questions/TA-5g7Fd6VRxaqrBuNrg6X_g/aws-waf): Community questions and answers related to AWS WAF.
+- [AWS WAF on YouTube](https://www.youtube.com/@amazonwebservices): AWS channel with videos that often include WAF tutorials and sessions.

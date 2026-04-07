@@ -1,90 +1,83 @@
 # Internet Archive
-
 > Internet Archive is a nonprofit digital library offering free access to books, media, software, web archives, and preservation services.
 
-The Internet Archive preserves and provides access to millions of texts, audio recordings, videos, software titles, images, and archived web pages through the Wayback Machine. Its sites include public collections, borrowing and lending services, developer APIs, help documentation, and large-scale preservation initiatives.
+The Internet Archive preserves and provides access to millions of texts, audio recordings, videos, software titles, images, and archived web pages through the Wayback Machine. Its sites include public collections, item and collection metadata, account and borrowing features, APIs, developer tools, and extensive help documentation for accessing, uploading, and preserving digital materials.
 
 ## Core Platforms
-- [Internet Archive Home](https://archive.org/): Main portal for searching, borrowing, streaming, downloading, and contributing digital collections.
-- [Wayback Machine](https://web.archive.org/): Web archive for browsing historical snapshots of websites and saved URLs.
-- [Open Library](https://openlibrary.org/): Book catalog and lending platform built around editable bibliographic records.
-- [Archive-It](https://archive-it.org/): Subscription web archiving service for institutions building curated collections.
-- [Internet Archive Blogs](https://blog.archive.org/): Official news, product updates, preservation stories, and organizational announcements.
-- [Help Center](https://help.archive.org/): User documentation for accounts, uploading, downloading, borrowing, and site features.
+- [Internet Archive Home](https://archive.org/): Main portal for searching, accessing, uploading, and managing digital collections.
+- [Wayback Machine](https://web.archive.org/): Web archive for browsing saved versions of websites across time.
+- [Texts Collection](https://archive.org/details/texts): Books, journals, magazines, and other digitized text materials.
+- [Audio Collection](https://archive.org/details/audio): Music, spoken word, radio, podcasts, and other audio recordings.
+- [Moving Image Collection](https://archive.org/details/movies): Films, television, animation, and other video materials.
+- [Software Collection](https://archive.org/details/software): Preserved software, games, and emulated computing environments.
+- [Image Collection](https://archive.org/details/image): Photographs, artwork, maps, and other image-based materials.
 
-## Collections & Media
-- [Texts](https://archive.org/details/texts): Books, journals, magazines, and other digitized text collections.
-- [Moving Image Archive](https://archive.org/details/movies): Films, television, animation, and other video materials.
-- [Audio Archive](https://archive.org/details/audio): Music, spoken word, radio programs, podcasts, and live recordings.
-- [Software](https://archive.org/details/software): Software titles, shareware, games, and historical computing materials.
-- [Image Archive](https://archive.org/details/image): Photographs, artwork, maps, and other image collections.
-- [TV News Archive](https://archive.org/details/tv): Searchable television news broadcasts with transcript-based discovery.
-- [Live Music Archive](https://archive.org/details/etree): Community collection of concert recordings and live performances.
-- [Collections Directory](https://archive.org/details): Browse all major media types and curated archive collections.
+## Search, Access, and Accounts
+- [Search](https://archive.org/search): Search interface for items, collections, metadata, and media types.
+- [Advanced Search](https://archive.org/advancedsearch.php): Structured search for fields, media types, collections, and output formats.
+- [My Library](https://archive.org/account/library): Account area for loans, favorites, and saved items.
+- [Favorites](https://archive.org/details/fav-): User-curated saved items and personal collections.
+- [Borrowing Books](https://help.archive.org/help/borrowing-from-the-lending-library/): Help for borrowing controlled digital lending titles from the library.
+- [Account Settings](https://archive.org/account/settings): Manage profile, preferences, and account-related options.
 
-## Borrowing, Reading & Access
-- [Books to Borrow](https://archive.org/details/inlibrary): Borrowable digital books available through controlled digital lending.
-- [Open Library Borrowing](https://openlibrary.org/subjects/accessible_book): Accessible and borrowable books available through Open Library.
-- [Sign Up](https://archive.org/account/signup): Create an account for borrowing, uploading, reviewing, and managing items.
-- [Log In](https://archive.org/account/login): Access your Internet Archive account and saved activity.
-- [My Library](https://archive.org/account/loans): View current loans and account borrowing activity.
-- [Favorites](https://archive.org/account/favorites): Manage saved items and personal archive bookmarks.
+## Uploading and Item Management
+- [Upload](https://archive.org/create/): Upload files and create new items with metadata and media settings.
+- [Uploading – A Basic Guide](https://help.archive.org/help/uploading-a-basic-guide/): Introductory guide to creating and uploading items to archive.org.
+- [Uploading a Basic Guide via the Browser](https://help.archive.org/help/uploading-a-basic-guide-via-the-browser/): Browser-based workflow for adding files and metadata.
+- [How to Edit Metadata](https://help.archive.org/help/how-to-edit-metadata/): Instructions for updating item titles, descriptions, and other metadata fields.
+- [How to Delete Files](https://help.archive.org/help/how-to-delete-files/): Guidance for removing files from an existing item.
+- [How to Remove an Item](https://help.archive.org/help/how-to-remove-an-item/): Process for requesting deletion or removal of an item page.
+- [Collections](https://archive.org/details/opensource): Example major collection showing how items are grouped and managed.
 
-## Uploading & Item Management
-- [Upload to Internet Archive](https://archive.org/create/): Upload files, create items, and add metadata to new archive entries.
-- [Uploading – A Basic Guide](https://help.archive.org/help/uploading-a-basic-guide/): Introductory guide to creating and publishing items on archive.org.
-- [Uploading and Editing with the Internet Archive Python Library](https://help.archive.org/help/uploading-and-editing-with-the-internet-archive-python-library/): Use the Python library to automate uploads and metadata changes.
-- [How to Edit Metadata](https://help.archive.org/help/how-to-edit-metadata/): Update titles, descriptions, subjects, and other item metadata fields.
-- [How Do I Delete My Item?](https://help.archive.org/help/how-do-i-delete-my-item/): Explains item removal requests and deletion limitations.
-- [How to Create a Collection](https://help.archive.org/help/how-to-create-a-collection/): Overview of collection creation and administrative requirements.
+## Downloading and File Access
+- [Downloading – A Basic Guide](https://help.archive.org/help/downloading-a-basic-guide/): Overview of downloading files, formats, and access options.
+- [About the Download Directory](https://help.archive.org/help/about-the-download-directory/): Explains item file listings and direct file access patterns.
+- [Using Wget](https://help.archive.org/help/using-wget/): Command-line downloading guidance for retrieving files from archive.org.
+- [How to Download Borrowed Books](https://help.archive.org/help/how-to-download-borrowed-books/): Instructions for offline access to eligible borrowed books.
+- [File Formats and Derivatives](https://help.archive.org/help/file-formats/): Describes common source files and generated derivative formats.
+- [PDF and ePub Downloads](https://help.archive.org/help/ebooks-and-texts/): Help for accessing ebook-friendly text formats.
 
-## Downloading & File Access
-- [Downloading – A Basic Guide](https://help.archive.org/help/downloading-a-basic-guide/): Basic methods for downloading files and choosing available formats.
-- [About the Internet Archive APIs](https://help.archive.org/help/about-the-internet-archive-apis/): Overview of programmatic access for metadata, files, and services.
-- [Using wget to Mirror Items](https://help.archive.org/help/downloading-in-bulk-using-wget/): Download archive items in bulk from the command line.
-- [File Formats and Derivatives](https://help.archive.org/help/file-formats/): Describes source files, generated derivatives, and common access formats.
-- [Accessing Download Options](https://help.archive.org/help/downloading-a-basic-guide/): Explains where downloadable formats appear on item pages.
-- [Item Download Directory Example](https://archive.org/download/): Base path used for direct file access and scripted downloads.
-
-## APIs & Developer Resources
-- [Internet Archive Developer Portal](https://archive.org/developers/): Entry point for APIs, tools, and developer-oriented documentation.
-- [Metadata API](https://archive.org/developers/metadata-api/): Retrieve item metadata, file lists, reviews, and collection information.
-- [Search API](https://archive.org/developers/search-api/): Query archive indexes and discover items programmatically.
+## APIs and Developer Tools
+- [Internet Archive APIs](https://archive.org/developers/): Developer portal for metadata, search, upload, and access interfaces.
+- [Metadata API](https://archive.org/developers/metadata-api/index.html): Retrieve item metadata, file lists, reviews, and collection information.
+- [Advanced Search API](https://archive.org/developers/advanced-search.html): Query archive.org search indexes programmatically with structured parameters.
 - [Wayback Availability JSON API](https://archive.org/help/wayback_api.php): Check whether archived snapshots exist for a given URL.
-- [Wayback CDX Server API](https://archive.org/developers/wayback-cdx-server-api/): Query capture indexes and timestamped web archive records.
-- [Internet Archive Python Library](https://archive.org/developers/internetarchive/): Official Python tooling for uploads, downloads, and metadata operations.
-- [Archive.org APIs Help Article](https://help.archive.org/help/about-the-internet-archive-apis/): High-level explanation of available APIs and common use cases.
+- [Wayback CDX Server API](https://archive.org/help/wayback_api.php): Access capture indexes and timestamped snapshot records for archived URLs.
+- [S3-like API](https://archive.org/developers/internetarchive/cli.html): Programmatic upload and management workflows used by archive tooling.
+- [Internet Archive Python Library](https://archive.org/developers/internetarchive/): Official Python tooling for search, upload, and metadata operations.
+- [Command-Line Interface](https://archive.org/developers/internetarchive/cli.html): CLI documentation for interacting with archive.org from scripts and terminals.
 
 ## Wayback Machine
-- [Wayback Machine Home](https://web.archive.org/): Search archived websites and access saved historical snapshots.
-- [Save Page Now](https://web.archive.org/save): Submit a URL to create a new archived snapshot.
-- [Wayback Machine Help](https://help.archive.org/help/category/the-wayback-machine/): Help articles covering capture, playback, and troubleshooting.
-- [Using the Wayback Machine](https://help.archive.org/help/using-the-wayback-machine/): Introductory guide to searching and viewing archived pages.
-- [Save Pages in the Wayback Machine](https://help.archive.org/help/save-pages-in-the-wayback-machine/): Instructions for archiving live web pages on demand.
-- [Wayback Machine APIs](https://archive.org/developers/wayback-machine/): Developer resources for querying and integrating web archive data.
+- [Wayback Machine Home](https://web.archive.org/): Browse archived websites and submit URLs for capture.
+- [Save Page Now](https://web.archive.org/save): On-demand archiving tool for saving a live web page.
+- [Wayback Machine Help](https://help.archive.org/help/category/the-wayback-machine/): Help center category covering browsing, saving, and troubleshooting archived pages.
+- [Using the Wayback Machine](https://help.archive.org/help/using-the-wayback-machine/): Introductory guide to searching and navigating web captures.
+- [Save Pages in the Wayback Machine](https://help.archive.org/help/save-pages-in-the-wayback-machine/): Instructions for preserving specific URLs with Save Page Now.
+- [Wayback Machine APIs](https://archive.org/help/wayback_api.php): Technical reference for availability and capture index endpoints.
 
-## Help & Support
-- [Help Center Home](https://help.archive.org/): Central documentation hub for Internet Archive services and workflows.
-- [Account Help](https://help.archive.org/help/category/accounts/): Articles about registration, login, settings, and account management.
-- [Borrowing and Reading Help](https://help.archive.org/help/category/borrowing-and-reading/): Support for loans, reading formats, and access restrictions.
-- [Uploading and Managing Help](https://help.archive.org/help/category/uploading-and-managing/): Documentation for uploads, metadata, collections, and item changes.
-- [Downloading and Access Help](https://help.archive.org/help/category/downloading-and-access/): Guides for file downloads, formats, and access methods.
-- [Open Library Help](https://help.archive.org/help/category/open-library/): Support articles related to Open Library accounts and borrowing.
-- [Contact Us](https://help.archive.org/help/contact-us/): Support contact options for common Internet Archive issues.
+## Help Center
+- [Help Center Home](https://help.archive.org/help/): Main support portal for archive.org services and workflows.
+- [Account and Login Help](https://help.archive.org/help/category/accounts/): Support articles for registration, login, and account management.
+- [Books and Texts Help](https://help.archive.org/help/category/books-and-texts/): Help for reading, borrowing, and downloading text materials.
+- [Audio and Music Help](https://help.archive.org/help/category/audio-and-music/): Support for audio playback, metadata, and collection use.
+- [Video Help](https://help.archive.org/help/category/moving-images/): Articles covering moving image access, formats, and uploads.
+- [Uploading and Managing Help](https://help.archive.org/help/category/uploading-and-managing/): Documentation for creating, editing, and maintaining items.
+- [Wayback Machine Help Category](https://help.archive.org/help/category/the-wayback-machine/): Support resources for web archiving and replay features.
 
-## Open Library
-- [Open Library Home](https://openlibrary.org/): Search, borrow, and edit book records in the open catalog.
-- [Subjects](https://openlibrary.org/subjects): Browse books by subject and topic.
-- [Authors](https://openlibrary.org/authors): Explore author pages and linked bibliographic records.
-- [Recent Changes](https://openlibrary.org/recentchanges): View recent edits made to Open Library records.
-- [Developer Center](https://openlibrary.org/developers/api): API documentation for Open Library data and services.
-- [Open Library Help](https://openlibrary.org/help): Documentation for editing, borrowing, and using the catalog.
+## Collections and Special Libraries
+- [Open Library](https://openlibrary.org/): Separate Internet Archive project for editable book records and lending access.
+- [TV News Archive](https://archive.org/details/tv): Searchable archive of television news broadcasts and transcripts.
+- [Live Music Archive](https://archive.org/details/etree): Community collection of live concert recordings and performances.
+- [Community Video](https://archive.org/details/opensource_movies): User-contributed films, documentaries, and video uploads.
+- [Community Audio](https://archive.org/details/opensource_audio): User-contributed music, podcasts, and spoken recordings.
+- [Community Texts](https://archive.org/details/opensource): User-contributed books, zines, and textual materials.
+- [Web Collection](https://archive.org/details/web): Archived web data and web-related collections.
 
-## News & Organization
-- [Internet Archive Blog](https://blog.archive.org/): Official blog covering projects, collections, advocacy, and product updates.
-- [About the Internet Archive](https://archive.org/about/): Organizational overview, mission, and background information.
-- [Projects](https://archive.org/projects/): Major preservation, access, and digitization initiatives.
+## Blogs, Projects, and About
+- [Internet Archive Blogs](https://blog.archive.org/): News, announcements, preservation projects, and organizational updates.
+- [About the Internet Archive](https://archive.org/about/): Overview of the organization, mission, and major services.
+- [Projects](https://archive.org/projects/): Highlights of preservation, digitization, and access initiatives.
 - [Donate](https://archive.org/donate): Support the nonprofit’s preservation and access work.
-- [Careers](https://archive.org/about/jobs.php): Employment opportunities across engineering, libraries, and operations.
+- [Jobs](https://archive.org/about/jobs.php): Employment opportunities across engineering, libraries, and operations.
 - [Terms of Use](https://archive.org/about/terms.php): Legal terms governing use of archive.org services and content.
-- [Privacy Policy](https://archive.org/about/privacy.php): Privacy practices for Internet Archive websites and services.
+- [Privacy Policy](https://archive.org/about/terms.php#privacy-policy): Privacy practices and data handling policies for users.

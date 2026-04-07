@@ -1,0 +1,78 @@
+# PayPal
+> Digital wallet and payments platform for paying online, sending money, managing finances, and accessing merchant and developer tools.
+
+PayPal serves consumers, businesses, and developers with products for checkout, peer-to-peer payments, invoicing, subscriptions, reporting, and payment integrations. This file prioritizes product, support, and developer resources across paypal.com.
+
+## Consumer Wallet
+- [How PayPal Works](https://www.paypal.com/ca/digital-wallet/how-paypal-works?locale.x=en_CA): Overview of using PayPal for purchases, payments, and account management.
+- [Digital Wallet](https://www.paypal.com/ca/digital-wallet?locale.x=en_CA): Main hub for PayPal wallet features, app access, and everyday money tools.
+- [Ways to Pay](https://www.paypal.com/ca/digital-wallet/ways-to-pay?locale.x=en_CA): Explore checkout options, payment methods, and wallet payment experiences.
+- [Manage Your Money](https://www.paypal.com/ca/digital-wallet/manage-money?locale.x=en_CA): Learn about balance management, payment methods, and money tools.
+- [Security and Protection](https://www.paypal.com/ca/digital-wallet/security-and-protection?locale.x=en_CA): Consumer security features, fraud monitoring, and account protection information.
+- [Account Selection](https://www.paypal.com/ca/webapps/mpp/account-selection?locale.x=en_CA): Sign up flow for choosing and creating a PayPal account.
+
+## Shopping & Rewards
+- [Pay in 4](https://www.paypal.com/ca/digital-wallet/ways-to-pay/buy-now-pay-later?locale.x=en_CA): Buy now, pay later information for eligible purchases and repayment options.
+- [Pay with Rewards](https://www.paypal.com/ca/digital-wallet/ways-to-pay/pay-with-rewards?locale.x=en_CA): Use eligible credit card reward points during checkout with PayPal.
+- [Checkout with PayPal](https://www.paypal.com/ca/digital-wallet/ways-to-pay/checkout-with-paypal?locale.x=en_CA): Pay online with PayPal at supported merchants and checkout flows.
+- [Add Payment Method](https://www.paypal.com/ca/digital-wallet/ways-to-pay/add-payment-method?locale.x=en_CA): Add cards and bank accounts to fund PayPal transactions.
+- [Ways to Pay Overview](https://www.paypal.com/ca/digital-wallet/ways-to-pay?locale.x=en_CA): Central overview of payment methods and wallet checkout choices.
+
+## Send & Receive Money
+- [Send & Receive Money](https://www.paypal.com/ca/digital-wallet/send-receive-money?locale.x=en_CA): Overview of personal money transfers and receiving payments with PayPal.
+- [Send Money](https://www.paypal.com/ca/digital-wallet/send-receive-money/send-money?locale.x=en_CA): Send money to friends, family, and contacts using PayPal.
+- [Request Money](https://www.paypal.com/ca/digital-wallet/send-receive-money/request-money?locale.x=en_CA): Create payment requests and collect money from others.
+- [Manage Your Money](https://www.paypal.com/ca/digital-wallet/manage-money?locale.x=en_CA): Access tools related to balances, funding sources, and money movement.
+
+## Mobile App
+- [PayPal App](https://www.paypal.com/ca/digital-wallet?locale.x=en_CA): Download and use the PayPal app for payments and account access.
+- [How PayPal Works](https://www.paypal.com/ca/digital-wallet/how-paypal-works?locale.x=en_CA): Learn core wallet and app capabilities for everyday use.
+- [Security and Protection](https://www.paypal.com/ca/digital-wallet/security-and-protection?locale.x=en_CA): Review mobile and account safety features available to users.
+
+## Business Products
+- [PayPal for Business](https://www.paypal.com/us/business): Overview of business payments, checkout, invoicing, and merchant solutions.
+- [Accept Payments](https://www.paypal.com/us/business/accept-payments): Business payment acceptance options for online, in-person, and invoiced transactions.
+- [Checkout](https://www.paypal.com/us/business/accept-payments/checkout): Merchant checkout solutions for websites, apps, and commerce platforms.
+- [Invoicing](https://www.paypal.com/us/business/accept-payments/invoice): Create, send, and manage invoices for customers and business payments.
+- [Subscriptions](https://www.paypal.com/us/business/accept-payments/subscriptions): Recurring billing tools for subscription businesses and repeat payments.
+- [Business Account](https://www.paypal.com/us/business/getting-started): Information on setting up and using a PayPal business account.
+
+## Developer Documentation
+- [PayPal Developer](https://developer.paypal.com/): Main developer portal for APIs, SDKs, integration guides, and sandbox tools.
+- [Developer Docs](https://developer.paypal.com/docs/): Documentation hub for PayPal APIs, products, and implementation resources.
+- [API Reference](https://developer.paypal.com/api/rest/): REST API reference for payments, orders, payouts, and related services.
+- [JavaScript SDK](https://developer.paypal.com/sdk/js/): Client-side SDK for rendering PayPal buttons and checkout experiences.
+- [Server SDKs](https://developer.paypal.com/tools/sdks/): Official SDK resources for integrating PayPal on supported server platforms.
+- [Sandbox Accounts](https://developer.paypal.com/dashboard/accounts): Test accounts for building and validating PayPal integrations.
+- [Webhooks](https://developer.paypal.com/api/rest/webhooks/): Webhook event support for payment status and account notifications.
+
+## Payments APIs
+- [Orders API](https://developer.paypal.com/docs/api/orders/v2/): Create and capture orders for PayPal checkout integrations.
+- [Payments API](https://developer.paypal.com/docs/api/payments/v2/): Manage authorizations, captures, and refunds for payment transactions.
+- [Subscriptions API](https://developer.paypal.com/docs/api/subscriptions/v1/): Create plans and manage recurring subscription billing workflows.
+- [Payouts API](https://developer.paypal.com/docs/api/payments.payouts-batch/v1/): Send money to multiple recipients through batch payout operations.
+- [Webhooks Management API](https://developer.paypal.com/docs/api/webhooks/v1/): Configure webhook listeners and inspect event delivery settings.
+- [Reporting API](https://developer.paypal.com/docs/api/transaction-search/v1/): Search and retrieve transaction reporting data programmatically.
+
+## Integration Guides
+- [Accept PayPal Checkout](https://developer.paypal.com/docs/checkout/): End-to-end guidance for implementing PayPal Checkout on web experiences.
+- [Standard Checkout](https://developer.paypal.com/docs/checkout/standard/integrate/): Integrate standard PayPal checkout with client and server components.
+- [Advanced Checkout](https://developer.paypal.com/docs/checkout/advanced/): Build customized checkout flows with advanced integration patterns.
+- [Subscriptions Integration](https://developer.paypal.com/docs/subscriptions/): Guides for implementing recurring billing and subscription management.
+- [Payouts Integration](https://developer.paypal.com/docs/payouts/): Learn how to send payouts and automate recipient disbursements.
+- [Multiparty Checkout](https://developer.paypal.com/docs/multiparty/): Integration guidance for partner and marketplace payment scenarios.
+
+## Support & Help
+- [Help Center](https://www.paypal.com/ca/smarthelp/home): Main support portal for account, payments, and troubleshooting topics.
+- [Resolution Center](https://www.paypal.com/disputes/): Manage disputes, claims, and transaction issue resolution.
+- [Contact Us](https://www.paypal.com/ca/smarthelp/contact-us): Support contact options for account and payment assistance.
+- [Security Center](https://www.paypal.com/ca/webapps/mpp/security/securityhub): Security education, best practices, and protection resources.
+- [Fees](https://www.paypal.com/ca/webapps/mpp/paypal-fees): Reference page for PayPal fees applicable in Canada.
+- [Legal Agreements](https://www.paypal.com/ca/webapps/mpp/ua/legalhub-full): Legal terms, policies, and user agreement documents.
+
+## Company & News
+- [Newsroom](https://newsroom.paypal-corp.com/): Corporate announcements, press releases, and company news updates.
+- [Investor Relations](https://investor.pypl.com/): Financial reports, governance materials, and investor information.
+- [About PayPal](https://www.paypal.com/us/webapps/mpp/about): Company overview, mission, and corporate background.
+- [Careers](https://careers.pypl.com/): Job openings, teams, and career information at PayPal.
+- [Public Policy](https://publicpolicy.paypal-corp.com/): Policy positions and public affairs information from PayPal.

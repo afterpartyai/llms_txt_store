@@ -1,0 +1,127 @@
+# Weather.com
+
+> Weather.com provides comprehensive weather forecasts, maps, news, and storm tracking for locations worldwide. The Weather Channel offers accurate forecasting, severe weather alerts, hurricane tracking, and weather-related news content to help users stay informed and prepared.
+
+Weather.com is the digital platform of The Weather Channel, providing essential weather information through forecasts, interactive maps, real-time alerts, and comprehensive storm coverage. The site serves millions of users seeking current conditions, extended forecasts, severe weather warnings, and climate-related news.
+
+All location-specific forecasts use the pattern `/weather/[forecast-type]/l/[location-code]` where location-code is Weather.com's unique identifier for cities and regions.
+
+## Core Weather Services
+
+- [Today's Weather](/weather/today/l/[location-code]): Current conditions including temperature, humidity, wind, and visibility for specific locations
+- [Hourly Forecast](/weather/hourbyhour/l/[location-code]): Hour-by-hour weather predictions for the next 48 hours by location
+- [10-Day Forecast](/weather/tenday/l/[location-code]): Extended forecast with daily high/low temperatures, precipitation chances, and conditions
+- [Weekend Forecast](/weather/weekend/l/[location-code]): Detailed weekend weather planning with Saturday and Sunday forecasts
+- [Monthly Outlook](/weather/monthly/l/[location-code]): Long-range monthly weather trends and temperature/precipitation patterns
+- [Local Weather Alerts](/weather/alerts/localalerts/l/[location-code]): Active local watches, warnings, advisories, and alert details
+
+## Maps & Radar
+
+- [Interactive Radar](/maps/radar): Real-time precipitation and storm tracking with customizable layers
+- [Satellite Maps](/maps/satellite): Current satellite imagery showing cloud cover and weather patterns  
+- [Current US Weather Map](/maps/currentusweather): National overview of current conditions and fronts
+- [10-Day US Forecast Map](/maps/tendayforecast): Extended forecast visualization across the United States
+- [Severe Alerts Map](/maps/severealerts): Current tornado watches, severe thunderstorm warnings, and weather advisories
+- [Temperature Maps](/maps/temperature): Current and forecast temperature distribution
+- [Precipitation Maps](/maps/precipitation): Rainfall and snowfall forecasts
+- [Wind Maps](/maps/wind): Wind speed and direction visualization
+
+## Storm Centers
+
+- [Storms Hub](/storms): Main severe weather hub for active storm coverage and preparedness
+- [Hurricane Central](/storms/hurricane-central): Comprehensive hurricane tracking, forecasts, and historical data
+- [Hurricane News](/storms/hurricane): Breaking hurricane news, updates, and preparedness information
+- [Tornado Central](/storms/tornado-central): Tornado reports, watches, warnings, and safety information
+- [Tornado News](/storms/tornado): Current tornado activity, damage reports, and safety guidance
+- [Winter Storm Central](/storms/winter): Snow forecasts, ice storm tracking, and winter weather advisories
+- [Severe Weather News](/storms/severe): Coverage of severe thunderstorms, flooding, and damaging weather events
+
+## Health & Weather
+
+- [Health Central](/health): How weather affects health conditions and wellness
+- [Allergy Tracker](/maps/health/allergies): Pollen forecasts and allergy information
+- [Tree Pollen Map](/maps/health/allergies/treepollen): Current tree pollen levels and forecasts
+- [Grass Pollen Map](/maps/health/allergies/grasspollen): Grass pollen tracking and alerts
+- [Ragweed Pollen Map](/maps/health/allergies/ragweedpollen): Ragweed pollen forecasts and levels
+- [Air Quality Index](/maps/health/air-quality): Current air quality conditions and forecasts
+- [UV Index](/maps/health/uv): Solar UV radiation levels and sun safety information
+- [Cold & Flu Tracker](/maps/health/cold-flu): Weather-related illness tracking and prevention
+- [Skin Health](/health/skin): Weather impacts on skin conditions and care recommendations
+
+## Lifestyle
+
+- [Atmosphere Reviews](/lifestyle/atmosphere): Weather-related product reviews and recommendations
+- [Recipes](/lifestyle/recipes): Weather-appropriate cooking and seasonal recipes
+- [Home & Garden](/lifestyle/home-garden): Weather guidance for gardening, landscaping, and home maintenance
+- [Travel & Outdoors](/lifestyle/travel-outdoors): Weather planning for outdoor activities and travel
+- [Pets & Animals](/lifestyle/pets-animals): Weather safety and care tips for pets and animals
+
+## Sports & Recreation
+
+- [Boat & Beach](/sports-recreation/boat-beach): Marine weather, beach conditions, and water safety
+- [Fishing](/sports-recreation/fishing): Fishing weather conditions and outdoor recreation
+- [Golf Weather](/sports-recreation/golf): Golf course conditions and tee-time weather
+- [Ski Conditions](/sports-recreation/ski): Snow reports, lift conditions, and mountain weather
+- [Running Weather](/sports-recreation/running): Optimal conditions for outdoor exercise
+- [Outdoor Activities](/activities): Weather guidance for recreational activities
+
+## News & Features
+
+- [Weather News](/news): Breaking weather stories, climate reports, and meteorological developments
+- [Feature Stories](/features): In-depth weather-related articles, investigations, and human interest stories
+- [Climate & Environment](/news/climate): Climate change coverage, environmental impact stories, and sustainability content
+- [Forecast News](/news/weather): Articles focused on forecasts, changing conditions, and notable weather patterns
+- [Travel News](/news/travel): Weather-related travel disruptions, planning, and destination conditions
+- [Weather Photos](/photos): User-submitted and professional weather photography
+
+## Travel & Planning
+
+- [Travel Weather](/travel): Airport delays, road conditions, and destination weather
+- [Flight Delay Information](/travel/flights): Real-time airport weather impacts
+- [Road Weather](/travel/roads): Highway conditions and travel advisories
+- [Destination Guides](/travel/destinations): Weather information for popular travel locations
+- [Event Planning](/activities/events): Weather considerations for outdoor events
+
+## Video Content
+
+- [General Weather Videos](/video/[category]/[title-slug]): Weather forecasts and educational content
+- [Storm Videos](/storms/[storm-type]/video/[title-slug]): Hurricane, tornado, and severe weather coverage
+- [Breaking News Videos](/news/weather/video/[title-slug]): Real-time weather event coverage
+- [Health Videos](/health/[condition]/video/[title-slug]): Weather and health-related content
+- [Safety Videos](/safety/[topic]/video/[title-slug]): Weather preparedness and emergency guidance
+- [Video Library](/videos): Central video library for forecasts, storms, and explainers
+- [Latest Forecast Videos](/videos/weather): Video updates on current and upcoming weather patterns
+- [Storm Coverage Videos](/videos/storms): Video reporting on hurricanes, tornadoes, and severe weather
+- [Climate Videos](/videos/climate): Video explainers and reporting on climate topics
+- [Top Stories Videos](/videos/news): Video news highlights from across Weather.com coverage
+
+## Safety & Preparedness
+
+- [Weather Safety](/safety): Severe weather safety tips and emergency preparedness
+- [Hurricane Safety](/safety/hurricane): Preparation, evacuation, and recovery guidance for tropical systems
+- [Tornado Safety](/safety/tornado): Shelter guidance and tornado emergency preparedness information
+- [Winter Weather Safety](/safety/winter): Cold, snow, and ice safety recommendations
+- [Heat Safety](/safety/heat): Guidance for extreme heat, hydration, and heat illness prevention
+- [Flood Safety](/safety/floods): Flood risk awareness and response recommendations
+
+## Detailed Documentation
+
+- [Core Weather Services](https://weather.com/docs/llm/core-weather-services.md): Comprehensive guide to forecasting services, current conditions, and technical specifications
+- [Storm Centers](https://weather.com/docs/llm/storm-centers.md): Detailed coverage of hurricane tracking, tornado monitoring, and severe weather systems
+- [Maps & Radar](https://weather.com/docs/llm/maps-radar.md): Interactive mapping platform, radar capabilities, and weather visualization tools
+- [News & Features](https://weather.com/docs/llm/news-features.md): Editorial content strategy, video production, and journalism standards
+- [Content Patterns](https://weather.com/docs/llm/content-patterns.md): Complete URL structure guide and content organization principles
+
+## Optional
+
+- [Create Account](/signup): Sign up for a Weather.com account to access personalized features
+- [Sign In](/signin): Log in to your Weather.com account
+- [Go Premium](/subscribe?tpcc=mktg-commerceIndex-mainmenu-subscribe): Subscribe to premium weather services and ad-free experience
+- [About Us](/about): Information about The Weather Channel and weather.com
+- [Terms of Use](/legal): Legal terms and conditions for using the service
+- [Privacy Settings](/privacy-settings): Data usage and privacy protection controls
+- [Contact](/contact): Customer service and feedback information
+- [Widgets](/widgets): Embeddable weather widgets for websites
+- [Weather TV](/tv): The Weather Channel television programming information
+- [My Dashboard](/mydashboard): Personalized weather dashboard for registered users
+- [Privacy Policy](/privacy): Data usage and privacy protection policies

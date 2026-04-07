@@ -1,0 +1,66 @@
+# BidSwitch
+> BidSwitch is a global programmatic advertising exchange and infrastructure platform connecting buyers and sellers across digital media.
+
+BidSwitch provides supply and demand partners with integrations, marketplace controls, identity and privacy features, reporting, and support resources for programmatic trading.
+
+## Platform
+- [Home](https://www.bidswitch.com/): Overview of BidSwitch’s programmatic exchange and marketplace infrastructure.
+- [Solutions](https://www.bidswitch.com/solutions/): Summary of platform capabilities for buyers, sellers, and curated marketplace use cases.
+- [Buyers](https://www.bidswitch.com/buyers/): Information for DSPs and buying platforms connecting to supply through BidSwitch.
+- [Sellers](https://www.bidswitch.com/sellers/): Information for SSPs and publishers monetizing inventory through BidSwitch.
+- [Curate](https://www.bidswitch.com/curate/): Details on curated deal packaging and audience-based marketplace workflows.
+- [Identity](https://www.bidswitch.com/identity/): Overview of identity interoperability and addressability support across partners.
+
+## Product Capabilities
+- [Inventory Discovery](https://www.bidswitch.com/solutions/inventory-discovery/): Explains tools for finding, evaluating, and activating supply opportunities.
+- [Traffic Shaping](https://www.bidswitch.com/solutions/traffic-shaping/): Describes controls for optimizing bidstream quality and reducing unnecessary traffic.
+- [Deal Management](https://www.bidswitch.com/solutions/deal-management/): Covers workflows for activating and scaling private marketplace deals.
+- [Identity Solutions](https://www.bidswitch.com/solutions/identity-solutions/): Describes support for identity frameworks and interoperable addressability signals.
+- [CTV](https://www.bidswitch.com/solutions/ctv/): Highlights connected TV supply access and programmatic activation capabilities.
+- [Retail Media](https://www.bidswitch.com/solutions/retail-media/): Explains retail media marketplace connectivity and audience activation support.
+
+## Resources
+- [Resources](https://www.bidswitch.com/resources/): Central hub for articles, reports, webinars, and product-related content.
+- [Blog](https://www.bidswitch.com/resources/blog/): News, product updates, thought leadership, and marketplace insights.
+- [Case Studies](https://www.bidswitch.com/resources/case-studies/): Customer stories showing platform usage and business outcomes.
+- [Webinars](https://www.bidswitch.com/resources/webinars/): On-demand and upcoming sessions about programmatic advertising topics.
+- [Reports](https://www.bidswitch.com/resources/reports/): Research and market reports related to digital advertising and curation.
+- [Events](https://www.bidswitch.com/resources/events/): Conference appearances, hosted events, and industry engagement information.
+
+## Support
+- [Support](https://protocol.bidswitch.com/support): Entry point for partner support and operational assistance.
+- [Knowledge Base](https://protocol.bidswitch.com/support/home): Help center for common questions and troubleshooting topics.
+- [Contact Support](https://protocol.bidswitch.com/support/tickets/new): Form for submitting support requests to the BidSwitch team.
+- [System Status](https://status.bidswitch.com/): Service availability and incident reporting for BidSwitch systems.
+
+## Protocol Documentation
+- [Protocol Documentation Home](https://protocol.bidswitch.com/): Main documentation portal for BidSwitch protocol and integration materials.
+- [Getting Started](https://protocol.bidswitch.com/getting-started): Introductory guidance for new BidSwitch integrations.
+- [OpenRTB Guide](https://protocol.bidswitch.com/openrtb): Documentation on BidSwitch OpenRTB implementation and behavior.
+- [Buyer Integration](https://protocol.bidswitch.com/buyers): Technical guidance for integrating as a buying platform.
+- [Seller Integration](https://protocol.bidswitch.com/sellers): Technical guidance for integrating as a supply partner.
+- [Creative Approval](https://protocol.bidswitch.com/creatives): Requirements and workflows for creative review and approval.
+- [Macros](https://protocol.bidswitch.com/macros): Reference for supported macros and token substitution behavior.
+- [Error Codes](https://protocol.bidswitch.com/errors): Reference for protocol and platform error handling information.
+
+## API and Technical Reference
+- [API Documentation](https://protocol.bidswitch.com/api): Overview of available APIs and technical interfaces.
+- [Authentication](https://protocol.bidswitch.com/api/authentication): Explains credentials and authentication requirements for API access.
+- [Endpoints](https://protocol.bidswitch.com/api/endpoints): Reference for core API endpoints and request patterns.
+- [Filtering and Targeting](https://protocol.bidswitch.com/targeting): Technical details on targeting parameters and filtering controls.
+- [Deal IDs](https://protocol.bidswitch.com/deals): Reference for deal object handling and marketplace transactions.
+- [User Sync](https://protocol.bidswitch.com/user-sync): Documentation for cookie sync and identity matching workflows.
+
+## Privacy and Compliance
+- [Privacy Policy](https://www.bidswitch.com/privacy-policy/): Describes how BidSwitch handles personal data and privacy rights.
+- [Cookie Policy](https://www.bidswitch.com/cookie-policy/): Explains cookie usage and related consent information.
+- [GDPR](https://www.bidswitch.com/gdpr/): Information about GDPR readiness and privacy compliance practices.
+- [CCPA](https://www.bidswitch.com/ccpa/): Details on California privacy compliance and consumer rights handling.
+- [Security](https://www.bidswitch.com/security/): Overview of security practices and platform protection measures.
+
+## Company
+- [About](https://www.bidswitch.com/about/): Company background, mission, and role in the programmatic ecosystem.
+- [Leadership](https://www.bidswitch.com/leadership/): Profiles of company leadership and executive team members.
+- [Careers](https://www.bidswitch.com/careers/): Open roles and information about working at BidSwitch.
+- [Contact](https://www.bidswitch.com/contact/): General contact information for sales, partnerships, and inquiries.
+- [Press](https://www.bidswitch.com/press/): Press releases and media-related announcements.

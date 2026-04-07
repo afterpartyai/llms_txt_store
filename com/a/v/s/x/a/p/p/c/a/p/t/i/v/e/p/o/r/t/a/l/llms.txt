@@ -1,0 +1,24 @@
+# AVSX App Captive Portal
+> Captive portal site for AVSX application access, authentication, and related user-facing entry points.
+
+This domain appears to function primarily as an application access and captive portal surface rather than a public documentation site. Publicly discoverable technical documentation, API references, SDKs, blogs, or product guides do not appear to be available on this domain. The links below focus on the likely primary entry points and root resources exposed by the site.
+
+## Main Access
+- [Home](https://avsxappcaptiveportal.com/): Primary captive portal landing page for user access and authentication.
+- [WWW Home](https://www.avsxappcaptiveportal.com/): Alternate host for the main portal landing page.
+
+## Core Site Resources
+- [Robots.txt](https://avsxappcaptiveportal.com/robots.txt): Crawl directives indicating which site paths are intended for automated access.
+- [Favicon](https://avsxappcaptiveportal.com/favicon.ico): Site icon resource exposed at the standard root location.
+- [Sitemap XML](https://avsxappcaptiveportal.com/sitemap.xml): Standard sitemap location if the site publishes crawlable URLs.
+
+## Host Variants
+- [HTTPS Root](https://avsxappcaptiveportal.com/): Secure root endpoint for the captive portal domain.
+- [HTTPS WWW Root](https://www.avsxappcaptiveportal.com/): Secure root endpoint for the www subdomain variant.
+- [HTTP Root](http://avsxappcaptiveportal.com/): Non-secure root endpoint that may redirect to the canonical HTTPS site.
+- [HTTP WWW Root](http://www.avsxappcaptiveportal.com/): Non-secure www endpoint that may redirect to HTTPS.
+
+## Discovery Notes
+- [Domain Root](https://avsxappcaptiveportal.com/): Best starting point for identifying available portal flows and linked resources.
+- [Robots Discovery](https://avsxappcaptiveportal.com/robots.txt): Useful for determining whether additional paths are intentionally exposed.
+- [Sitemap Discovery](https://avsxappcaptiveportal.com/sitemap.xml): Useful for locating any published public URLs if a sitemap exists.

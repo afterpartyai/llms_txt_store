@@ -1,0 +1,333 @@
+# Azure
+
+> Azure is Microsoft's cloud computing platform, offering 200+ services for building, deploying, and managing applications. This file helps LLMs and coding agents understand how to build and deploy on Azure by providing links to key documentation as raw markdown files.
+
+All linked documentation is served as raw markdown from GitHub. For the canonical rendered versions, see [learn.microsoft.com/azure](https://learn.microsoft.com/en-us/azure/). Markdown versions of any Microsoft Learn page can also be requested directly by sending an `Accept: text/markdown` HTTP header to the learn.microsoft.com URL.
+
+## Developer Tools
+
+- [Azure Developer CLI (azd)](https://raw.githubusercontent.com/Azure/azure-dev/main/README.md): Open-source CLI that accelerates provisioning and deploying app resources on Azure using extensible blueprint templates
+- [Azure Developer CLI overview](https://raw.githubusercontent.com/MicrosoftDocs/azure-dev-docs/main/articles/azure-developer-cli/overview.md): Detailed documentation for azd workflow, commands, and template system
+- [Azure Developer CLI quickstart](https://raw.githubusercontent.com/MicrosoftDocs/azure-dev-docs/main/articles/azure-developer-cli/get-started.md): Get started with azd init, provision, and deploy
+- [Azure Developer CLI templates](https://raw.githubusercontent.com/MicrosoftDocs/azure-dev-docs/main/articles/azure-developer-cli/azd-templates.md): Browse and use azd templates for common app patterns
+- [Explore and customize azd templates](https://raw.githubusercontent.com/MicrosoftDocs/azure-dev-docs/main/articles/azure-developer-cli/quickstart-explore-templates.md): Explore template structure, customize infrastructure and code, and deploy with azd
+- [Make your app azd-compatible](https://raw.githubusercontent.com/MicrosoftDocs/azure-dev-docs/main/articles/azure-developer-cli/make-azd-compatible.md): Add azd support to your existing application
+- [Install azd](https://raw.githubusercontent.com/MicrosoftDocs/azure-dev-docs/main/articles/azure-developer-cli/install-azd.md): Install the Azure Developer CLI on Windows, macOS, and Linux
+- [azd supported languages](https://raw.githubusercontent.com/MicrosoftDocs/azure-dev-docs/main/articles/azure-developer-cli/supported-languages-environments.md): Supported languages, frameworks, and environments
+- [Azure CLI](https://raw.githubusercontent.com/Azure/azure-cli/dev/README.md): Cross-platform command-line tool for managing Azure resources
+- [Azure CLI overview](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs-cli/main/docs-ref-conceptual/Latest-version/what-is-azure-cli.md): What is the Azure CLI and how to use it
+- [Azure CLI install](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs-cli/main/docs-ref-conceptual/Latest-version/install-azure-cli.md): Install the Azure CLI on all platforms
+- [Azure CLI get started](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs-cli/main/docs-ref-conceptual/Latest-version/get-started-with-azure-cli.md): Get started with Azure CLI commands and concepts
+- [Azure MCP Server](https://raw.githubusercontent.com/Azure/MCP/main/README.md): Model Context Protocol server bringing Azure capabilities to AI agents and coding assistants
+- [Azure Functions MCP Extension](https://raw.githubusercontent.com/Azure/azure-functions-mcp-extension/main/README.md): MCP extension for Azure Functions enabling AI agents to interact with serverless functions
+- [Microsoft Learn MCP Server](https://raw.githubusercontent.com/MicrosoftDocs/mcp/main/README.md): MCP server providing AI agents direct access to official Microsoft documentation
+- [Azure PowerShell documentation](https://learn.microsoft.com/en-us/powershell/azure/): PowerShell modules and reference for Azure administration and automation
+- [Azure SDK documentation](https://learn.microsoft.com/en-us/azure/developer/): Developer hub for Azure SDKs, tools, samples, and language guidance
+- [Azure REST API reference](https://learn.microsoft.com/en-us/rest/api/azure/): REST API reference for Azure resource providers and management operations
+- [Java SDK reference](https://learn.microsoft.com/en-us/java/api/overview/azure/?view=azure-java-stable): API reference for Azure client libraries for Java
+- [Python SDK reference](https://learn.microsoft.com/en-us/python/api/overview/azure/?view=azure-python): API reference for Azure client libraries for Python
+- [.NET SDK reference](https://learn.microsoft.com/en-us/dotnet/api/overview/azure/?view=azure-dotnet): API reference for Azure client libraries for .NET
+- [JavaScript SDK reference](https://learn.microsoft.com/en-us/javascript/api/overview/azure/?view=azure-node-latest): API reference for Azure client libraries for JavaScript and TypeScript
+- [Go SDK reference](https://learn.microsoft.com/en-us/azure/developer/go/): Guidance and libraries for building Azure applications in Go
+- [Azure SDK releases](https://azure.github.io/azure-sdk/releases/latest/): Latest Azure SDK package releases across supported programming languages
+
+## AI and Machine Learning
+
+- [Microsoft Foundry (AI Foundry)](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/what-is-foundry.md): Unified platform for building, evaluating, and deploying AI applications and agents
+- [Foundry architecture](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/concepts/architecture.md): Architecture and resource hierarchy for Foundry resources, projects, and connections
+- [Foundry quickstart — create resources](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/default/tutorials/quickstart-create-foundry-resources.md): Create Foundry resources, deploy models, and get started
+- [Foundry quickstart — code](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/quickstarts/get-started-code.md): Get started building with the Foundry SDK in code
+- [Foundry quickstart — playground](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/quickstarts/get-started-playground.md): Explore models interactively in the AI Foundry playground
+- [Foundry SDK overview](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/how-to/develop/sdk-overview.md): Overview of the Azure AI Foundry SDK for Python and other languages
+- [Foundry project creation](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/how-to/create-projects.md): Create and manage Foundry projects programmatically
+- [Foundry connections](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/how-to/connections-add.md): Add and manage connections to external resources and data sources
+- [Foundry AI templates](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/how-to/develop/ai-template-get-started.md): Get started with AI application templates for Foundry
+- [Foundry models overview](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/concepts/foundry-models-overview.md): Model catalog with 1900+ models from OpenAI, Meta, Mistral, Microsoft and more
+- [Foundry model deployments](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/concepts/deployments-overview.md): Deploy models as managed endpoints with serverless or provisioned capacity
+- [Foundry fine-tuning](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/concepts/fine-tuning-overview.md): Fine-tune foundation models with your own training data
+- [Foundry evaluation](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/how-to/evaluate-generative-ai-app.md): Evaluate generative AI applications for quality, safety, and groundedness
+- [Foundry prompt flow](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/concepts/prompt-flow.md): Build and orchestrate LLM workflows with prompt flow
+- [Foundry RAG](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/concepts/retrieval-augmented-generation.md): Implement retrieval-augmented generation patterns with your data
+- [Foundry RBAC](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/concepts/rbac-foundry.md): Role-based access control for Foundry resources and projects
+- [Foundry Local](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/foundry-local/what-is-foundry-local.md): Run AI models locally on your own hardware for development and testing
+- [Foundry Local quickstart](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/foundry-local/get-started.md): Get started running models locally with Foundry Local
+- [Foundry tutorial — idea to prototype](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/default/tutorials/developer-journey-idea-to-prototype.md): End-to-end developer journey from idea to working prototype
+- [Foundry MCP Server — get started](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/default/mcp/get-started.md): Get started with the Foundry MCP Server for AI agent tool access
+- [Foundry MCP — build your own server](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/default/mcp/build-your-own-mcp-server.md): Build a custom MCP server for use with Foundry agents
+- [Foundry MCP — security best practices](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/default/mcp/security-best-practices.md): Security and best practices for MCP server integrations
+- [Foundry MCP — available tools](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/default/mcp/available-tools.md): Available MCP tools and sample prompts for Foundry agents
+- [Foundry Guardrails overview](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/default/guardrails/guardrails-overview.md): Configure guardrails and safety controls for AI applications
+- [Foundry observability — tracing setup](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/default/observability/how-to/trace-agent-setup.md): Set up tracing for agent monitoring and debugging
+- [Azure AI Agents overview](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/agents/overview.md): Build and deploy AI agents using Azure AI Foundry Agent Service
+- [Azure AI Agents quickstart](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/agents/quickstart.md): Create your first AI agent with the Agent Service
+- [Azure AI Agents setup](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/agents/environment-setup.md): Set up your environment for building agents
+- [Azure AI Agent tools overview](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/agents/how-to/tools-classic/overview.md): Built-in agent tools — Code Interpreter, File Search, Function Calling, Bing Grounding, MCP, and more
+- [Azure AI Agents hosted agent quickstart](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/default/agents/quickstarts/quickstart-hosted-agent.md): Deploy your first hosted agent with Foundry Agent Service
+- [Azure AI Agents tool catalog](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/default/agents/concepts/tool-catalog.md): Browse and use tools from the agent tool catalog
+- [Azure AI Agents Agent-to-Agent (A2A)](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/default/agents/how-to/tools/agent-to-agent.md): Enable agent-to-agent communication using the A2A protocol
+- [Foundry SDK and CLI install](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/how-to/develop/install-cli-sdk.md): Install the Azure AI Foundry SDK, CLI, and VS Code extensions
+- [Azure OpenAI create resource](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/openai/how-to/create-resource.md): Create and deploy an Azure OpenAI resource and model
+- [Azure OpenAI chat completions how-to](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/openai/how-to/chatgpt.md): Work with chat completions models — system messages, few-shot learning, and best practices
+- [Azure OpenAI responses API](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/openai/how-to/responses.md): Use the Responses API for the latest features including tool use and structured outputs
+- [Azure OpenAI embeddings tutorial](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/openai/tutorials/embeddings.md): Learn to generate and use text embeddings for semantic search and similarity
+- [Azure OpenAI DALL-E quickstart](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/openai/dall-e-quickstart.md): Generate images using DALL-E models
+- [Azure OpenAI — use your data](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/openai/concepts/use-your-data.md): Ground OpenAI models with your own data using retrieval-augmented generation
+- [Azure OpenAI API reference](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/openai/reference.md): REST API reference for Azure OpenAI Service
+- [Azure OpenAI function calling](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/openai/how-to/function-calling.md): Define and invoke functions from chat models for tool use and agentic workflows
+- [Azure OpenAI structured outputs](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/openai/how-to/structured-outputs.md): Get reliable JSON responses matching a defined schema
+- [Azure OpenAI reasoning models](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/openai/how-to/reasoning.md): Use o1, o3, and other reasoning models for complex problem solving
+- [Azure OpenAI Codex](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/openai/how-to/codex.md): Use Codex for code generation, editing, and understanding
+- [Azure OpenAI prompt engineering](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/openai/concepts/prompt-engineering.md): Prompt engineering techniques and best practices for Azure OpenAI models
+- [Foundry Models — deploy in portal](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/foundry-models/how-to/deploy-foundry-models.md): Deploy Foundry Models from the portal
+- [Foundry Models — deploy with code](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/foundry-models/how-to/create-model-deployments.md): Deploy models programmatically using SDK or REST API
+- [Foundry Models deployment types](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/foundry-models/concepts/deployment-types.md): Standard, Global Standard, Provisioned, and Serverless deployment types
+- [Foundry Models Responses API](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/foundry-models/how-to/generate-responses.md): Generate responses with Foundry Models using the Responses API
+- [Upgrade GitHub Models to Foundry](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/foundry-models/how-to/quickstart-github-models.md): Migrate from GitHub Models to Foundry Models for production use
+- [Azure AI Search](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/search/search-what-is-azure-search.md): AI-powered cloud search service for building search experiences over your content
+- [Azure AI Search quickstart — portal](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/search/search-get-started-portal.md): Create a search index in the Azure portal
+- [Azure AI Search create service](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/search/search-create-service-portal.md): Create an Azure AI Search service
+- [Azure AI Search data import](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/search/search-what-is-data-import.md): How to import and index data in Azure AI Search
+- [Azure AI Search indexers](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/search/search-indexer-overview.md): Automate data ingestion with indexers for Cosmos DB, SQL, Blob Storage, and more
+- [Azure AI Search vector search](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/search/vector-search-overview.md): Vector search capabilities for semantic and similarity search
+- [Azure AI Search vector index](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/search/vector-search-how-to-create-index.md): Create a vector index for semantic search
+- [Azure AI Search vector quickstart](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/search/search-get-started-vector.md): Get started with vector search
+- [Azure AI Search RAG](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/search/retrieval-augmented-generation-overview.md): Retrieval-augmented generation patterns with Azure AI Search
+- [Azure AI Search AI enrichment](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/search/cognitive-search-concept-intro.md): AI enrichment with built-in skills for OCR, NLP, and image analysis
+- [Azure Machine Learning](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/machine-learning/overview-what-is-azure-machine-learning.md): End-to-end platform for building, training, and deploying machine learning models
+- [Azure ML quickstart](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/machine-learning/quickstart-create-resources.md): Create workspace and compute resources for Azure Machine Learning
+- [Azure ML tutorial](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/machine-learning/tutorial-azure-ml-in-a-day.md): End-to-end tutorial — train and deploy a model in a day
+- [Azure ML train models](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/machine-learning/how-to-train-model.md): Train machine learning models with Azure ML
+- [Azure ML deploy endpoints](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/machine-learning/how-to-deploy-online-endpoints.md): Deploy models to managed online endpoints
+- [Azure AI Foundry documentation](https://learn.microsoft.com/en-us/azure/ai-foundry/): Technical docs for projects, models, agents, evaluation, and deployment
+- [Azure OpenAI Service documentation](https://learn.microsoft.com/en-us/azure/ai-services/openai/): Documentation for Azure OpenAI models, APIs, safety, and deployment
+
+## Azure Functions
+
+- [Azure Functions overview](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-functions/functions-overview.md): Serverless compute service for running event-driven code without managing infrastructure
+- [Azure Functions get started](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-functions/functions-get-started.md): Choose your language and get started building your first function
+- [Azure Functions scenarios](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-functions/functions-scenarios.md): Common use cases including APIs, file processing, scheduled tasks, and event-driven workflows
+- [Azure Functions triggers and bindings](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-functions/functions-triggers-bindings.md): Connect functions to other services using triggers and bindings without extra code
+- [Azure Functions HTTP trigger](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-functions/functions-bindings-http-webhook-trigger.md): Create HTTP-triggered serverless APIs
+- [Azure Functions Blob storage binding](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-functions/functions-bindings-storage-blob.md): React to blob storage events and access blob data
+- [Azure Functions Timer trigger](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-functions/functions-bindings-timer.md): Run functions on a schedule using CRON expressions
+- [Azure Functions Cosmos DB binding](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-functions/functions-bindings-cosmosdb-v2.md): React to Cosmos DB changes and read/write documents
+- [Azure Functions developer reference](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-functions/functions-reference.md): Core concepts for developing functions across all languages
+- [Azure Functions Python reference](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-functions/functions-reference-python.md): Python-specific developer guide for Azure Functions
+- [Azure Functions Node.js reference](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-functions/functions-reference-node.md): Node.js and TypeScript developer guide for Azure Functions
+- [Azure Functions C# reference](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-functions/functions-reference-csharp.md): C# developer guide for Azure Functions
+- [Azure Functions local development](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-functions/functions-develop-local.md): Develop and test functions locally before deploying
+- [Azure Functions deployment](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-functions/functions-deployment-technologies.md): Deployment options including CI/CD, zip deploy, and container deployment
+- [Azure Functions scaling](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-functions/functions-scale.md): Hosting plans and scaling behavior — Consumption, Premium, and Dedicated
+- [Azure Functions Premium plan](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-functions/functions-premium-plan.md): Premium plan for enhanced performance, VNET integration, and no cold start
+- [Azure Functions best practices](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-functions/functions-best-practices.md): Best practices for reliable, performant serverless functions
+- [Azure Functions host.json](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-functions/functions-host-json.md): Global configuration options for the Functions host
+- [Azure Functions app settings](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-functions/functions-how-to-use-azure-function-app-settings.md): Configure function app settings and environment variables
+- [Durable Functions](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-functions/durable/durable-functions-overview.md): Write stateful workflows and orchestrations in serverless functions
+- [Azure Functions AI-enabled apps](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-functions/functions-create-ai-enabled-apps.md): Use AI tools, MCP servers, and models in Azure Functions for agentic workflows
+- [Azure Functions MCP binding](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-functions/functions-bindings-mcp.md): MCP trigger and tool bindings for building remote MCP servers with Azure Functions
+- [Azure Functions MCP tutorial](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-functions/functions-mcp-tutorial.md): Tutorial — Host a remote MCP server on Azure Functions with authentication
+- [Azure Functions MCP quickstart](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-functions/scenario-custom-remote-mcp-server.md): Quickstart — Build a custom remote MCP server using Azure Functions and azd
+- [Azure Functions documentation](https://learn.microsoft.com/en-us/azure/azure-functions/): Event-driven serverless compute for running code without managing servers
+
+## Azure Container Apps
+
+- [Azure Container Apps overview](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/container-apps/overview.md): Serverless container service for running microservices and containerized applications
+- [Azure Container Apps vs other options](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/container-apps/compare-options.md): Compare Container Apps with AKS, App Service, Functions, and other compute options
+- [Azure Container Apps quickstart](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/container-apps/get-started.md): Deploy your first container app
+- [Azure Container Apps containers](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/container-apps/containers.md): Container configuration, images, and registries
+- [Azure Container Apps environments](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/container-apps/environment.md): Managed environments for networking and resource isolation
+- [Azure Container Apps ingress](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/container-apps/ingress-overview.md): HTTP ingress, custom domains, and traffic splitting
+- [Azure Container Apps scaling](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/container-apps/scale-app.md): Scale rules based on HTTP traffic, events, and custom metrics
+- [Azure Container Apps managed identity](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/container-apps/managed-identity.md): Authenticate to Azure services without managing credentials
+- [Azure Container Apps with Dapr](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/container-apps/microservices-dapr.md): Build microservices with Dapr integration
+- [Azure Container Apps jobs](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/container-apps/jobs.md): Run on-demand and scheduled containerized tasks
+- [Azure Container Apps tutorial — build and deploy](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/container-apps/tutorial-code-to-cloud.md): Tutorial — Build and deploy your app to Container Apps from source code
+- [Azure Container Apps tutorial — deploy first app](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/container-apps/tutorial-deploy-first-app-cli.md): Tutorial — Create an environment and deploy your first container app
+- [Azure Container Apps microservice communication](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/container-apps/communicate-between-microservices.md): Tutorial — Communication between microservices using internal ingress
+- [Azure Container Apps deploy with VS Code](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/container-apps/deploy-visual-studio-code.md): Deploy containerized apps from Visual Studio Code
+- [Azure Container Apps documentation](https://learn.microsoft.com/en-us/azure/container-apps/): Serverless containers for microservices, APIs, and event-driven applications
+
+## Azure App Service
+
+- [Azure App Service overview](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/app-service/overview.md): Fully managed platform for building, deploying, and scaling web apps
+- [Azure App Service hosting plans](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/app-service/overview-hosting-plans.md): Free, Basic, Standard, Premium, and Isolated hosting plans
+- [Azure App Service quickstart — .NET](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/app-service/quickstart-dotnetcore.md): Deploy a .NET web app to Azure App Service
+- [Azure App Service quickstart — Node.js](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/app-service/quickstart-nodejs.md): Deploy a Node.js web app to Azure App Service
+- [Azure App Service quickstart — Python](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/app-service/quickstart-python.md): Deploy a Python web app to Azure App Service
+- [Azure App Service quickstart — Java](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/app-service/quickstart-java.md): Deploy a Java web app to Azure App Service
+- [Azure App Service configuration](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/app-service/configure-common.md): Configure app settings, connection strings, and general settings
+- [Azure App Service deploy with Git](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/app-service/deploy-local-git.md): Deploy using local Git repositories
+- [Azure App Service deploy with GitHub Actions](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/app-service/deploy-github-actions.md): Continuous deployment using GitHub Actions
+- [Azure App Service continuous deployment](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/app-service/deploy-continuous-deployment.md): Set up CI/CD from GitHub, Bitbucket, or Azure Repos
+- [Azure App Service custom domains](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/app-service/app-service-web-tutorial-custom-domain.md): Map custom DNS names to your web app
+- [Azure App Service scaling](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/app-service/manage-scale-up.md): Scale up and scale out your app
+- [Azure App Service documentation](https://learn.microsoft.com/en-us/azure/app-service/): Managed hosting for web apps, APIs, and background jobs
+
+## Azure Kubernetes Service (AKS)
+
+- [Azure Kubernetes Service overview](https://raw.githubusercontent.com/MicrosoftDocs/azure-aks-docs/main/articles/aks/what-is-aks.md): Managed Kubernetes service for deploying and scaling containerized applications
+- [AKS core concepts](https://raw.githubusercontent.com/MicrosoftDocs/azure-aks-docs/main/articles/aks/core-aks-concepts.md): Kubernetes and AKS core concepts — clusters, nodes, pods, deployments, and services
+- [AKS quickstart — CLI](https://raw.githubusercontent.com/MicrosoftDocs/azure-aks-docs/main/articles/aks/learn/quick-kubernetes-deploy-cli.md): Deploy an AKS cluster using Azure CLI
+- [AKS quickstart — Portal](https://raw.githubusercontent.com/MicrosoftDocs/azure-aks-docs/main/articles/aks/learn/quick-kubernetes-deploy-portal.md): Deploy an AKS cluster using the Azure portal
+- [AKS networking](https://raw.githubusercontent.com/MicrosoftDocs/azure-aks-docs/main/articles/aks/concepts-network.md): Networking concepts including CNI, kubenet, and service meshes
+- [AKS storage](https://raw.githubusercontent.com/MicrosoftDocs/azure-aks-docs/main/articles/aks/concepts-storage.md): Persistent volumes, storage classes, and Azure Disks/Files integration
+- [AKS security](https://raw.githubusercontent.com/MicrosoftDocs/azure-aks-docs/main/articles/aks/concepts-security.md): Security concepts including RBAC, network policies, and pod security
+- [AKS scaling](https://raw.githubusercontent.com/MicrosoftDocs/azure-aks-docs/main/articles/aks/concepts-scale.md): Cluster autoscaler, horizontal pod autoscaler, and KEDA
+- [AKS managed identity](https://raw.githubusercontent.com/MicrosoftDocs/azure-aks-docs/main/articles/aks/use-managed-identity.md): Use managed identities with AKS for secure Azure resource access
+- [AKS tutorial — prepare app](https://raw.githubusercontent.com/MicrosoftDocs/azure-aks-docs/main/articles/aks/tutorial-kubernetes-prepare-app.md): Prepare a multi-container application for deployment to AKS
+- [AKS tutorial — deploy](https://raw.githubusercontent.com/MicrosoftDocs/azure-aks-docs/main/articles/aks/tutorial-kubernetes-deploy-application.md): Deploy an application to an AKS cluster
+- [AKS with Dapr](https://raw.githubusercontent.com/MicrosoftDocs/azure-aks-docs/main/articles/aks/dapr-overview.md): Build microservices with Dapr on AKS
+- [AKS documentation](https://learn.microsoft.com/en-us/azure/aks/): Guides for cluster deployment, operations, networking, and security in AKS
+
+## Other Compute
+
+- [Azure Static Web Apps](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/static-web-apps/overview.md): Service for building and deploying full-stack static web apps with serverless APIs
+- [Azure Static Web Apps getting started](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/static-web-apps/getting-started.md): Build and deploy your first static web app
+- [Azure Static Web Apps APIs](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/static-web-apps/add-api.md): Add a serverless API to your static web app
+- [Azure Static Web Apps with Next.js](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/static-web-apps/deploy-nextjs-hybrid.md): Deploy Next.js hybrid apps to Static Web Apps
+- [Azure Static Web Apps configuration](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/static-web-apps/configuration.md): Configure routing, auth, networking, and build settings
+- [Azure Virtual Machines](https://raw.githubusercontent.com/MicrosoftDocs/azure-compute-docs/main/articles/virtual-machines/overview.md): On-demand, scalable computing resources in the cloud
+- [Virtual Machines documentation](https://learn.microsoft.com/en-us/azure/virtual-machines/): Documentation for provisioning and managing Linux and Windows virtual machines
+- [Azure Batch documentation](https://learn.microsoft.com/en-us/azure/batch/): Large-scale parallel and high-performance computing job scheduling on Azure
+- [Azure Spring Apps documentation](https://learn.microsoft.com/en-us/azure/spring-apps/): Managed platform for deploying and operating Spring applications
+
+## Data and Storage
+
+- [Azure Cosmos DB](https://raw.githubusercontent.com/MicrosoftDocs/azure-databases-docs/main/articles/cosmos-db/overview.md): Globally distributed, multi-model NoSQL and relational database service
+- [Azure Cosmos DB quickstart — .NET](https://raw.githubusercontent.com/MicrosoftDocs/azure-databases-docs/main/articles/cosmos-db/quickstart-dotnet.md): Build a .NET app with Cosmos DB NoSQL
+- [Azure Cosmos DB quickstart — Python](https://raw.githubusercontent.com/MicrosoftDocs/azure-databases-docs/main/articles/cosmos-db/quickstart-python.md): Build a Python app with Cosmos DB NoSQL
+- [Azure Cosmos DB quickstart — Node.js](https://raw.githubusercontent.com/MicrosoftDocs/azure-databases-docs/main/articles/cosmos-db/quickstart-nodejs.md): Build a Node.js app with Cosmos DB NoSQL
+- [Azure Cosmos DB quickstart — Java](https://raw.githubusercontent.com/MicrosoftDocs/azure-databases-docs/main/articles/cosmos-db/quickstart-java.md): Build a Java app with Cosmos DB NoSQL
+- [Azure Cosmos DB get started — .NET](https://raw.githubusercontent.com/MicrosoftDocs/azure-databases-docs/main/articles/cosmos-db/how-to-dotnet-get-started.md): Get started with the .NET SDK for Cosmos DB
+- [Azure Cosmos DB get started — Python](https://raw.githubusercontent.com/MicrosoftDocs/azure-databases-docs/main/articles/cosmos-db/how-to-python-get-started.md): Get started with the Python SDK for Cosmos DB
+- [Azure Cosmos DB get started — JavaScript](https://raw.githubusercontent.com/MicrosoftDocs/azure-databases-docs/main/articles/cosmos-db/how-to-javascript-get-started.md): Get started with the JavaScript SDK for Cosmos DB
+- [Azure Cosmos DB create account](https://raw.githubusercontent.com/MicrosoftDocs/azure-databases-docs/main/articles/cosmos-db/how-to-create-account.md): Create a Cosmos DB account
+- [Azure Cosmos DB create container](https://raw.githubusercontent.com/MicrosoftDocs/azure-databases-docs/main/articles/cosmos-db/how-to-create-container.md): Create containers and configure partitioning
+- [Azure Cosmos DB consistency levels](https://raw.githubusercontent.com/MicrosoftDocs/azure-databases-docs/main/articles/cosmos-db/consistency-levels.md): Choose the right consistency level for your application
+- [Azure Cosmos DB global distribution](https://raw.githubusercontent.com/MicrosoftDocs/azure-databases-docs/main/articles/cosmos-db/distribute-data-globally.md): Distribute data globally with multi-region writes
+- [Azure Cosmos DB autoscale](https://raw.githubusercontent.com/MicrosoftDocs/azure-databases-docs/main/articles/cosmos-db/provision-throughput-autoscale.md): Provision autoscale throughput for containers and databases
+- [Azure Cosmos DB managed identity](https://raw.githubusercontent.com/MicrosoftDocs/azure-databases-docs/main/articles/cosmos-db/how-to-setup-managed-identity.md): Authenticate with managed identity
+- [Azure Cosmos DB tutorial — query](https://raw.githubusercontent.com/MicrosoftDocs/azure-databases-docs/main/articles/cosmos-db/tutorial-query.md): Query data using SQL-like syntax
+- [Azure SQL Database](https://raw.githubusercontent.com/MicrosoftDocs/sql-docs/live/azure-sql/database/sql-database-paas-overview.md): Fully managed relational database with built-in intelligence
+- [Azure SQL quickstart — create database](https://raw.githubusercontent.com/MicrosoftDocs/sql-docs/live/azure-sql/database/single-database-create-quickstart.md): Create a single database in Azure SQL
+- [Azure SQL connect — .NET](https://raw.githubusercontent.com/MicrosoftDocs/sql-docs/live/azure-sql/database/connect-query-dotnet-core.md): Connect and query Azure SQL Database with .NET
+- [Azure SQL connect — Python](https://raw.githubusercontent.com/MicrosoftDocs/sql-docs/live/azure-sql/database/connect-query-python.md): Connect and query Azure SQL Database with Python
+- [Azure SQL connect — Node.js](https://raw.githubusercontent.com/MicrosoftDocs/sql-docs/live/azure-sql/database/connect-query-nodejs.md): Connect and query Azure SQL Database with Node.js
+- [Azure Storage](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/storage/common/storage-introduction.md): Massively scalable cloud storage for blobs, files, queues, and tables
+- [Azure Blob Storage](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/storage/blobs/storage-blobs-introduction.md): Object storage for unstructured data
+- [Azure Blob quickstart — .NET](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/storage/blobs/storage-quickstart-blobs-dotnet.md): Upload, download, and list blobs with .NET
+- [Azure Blob quickstart — Python](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/storage/blobs/storage-quickstart-blobs-python.md): Upload, download, and list blobs with Python
+- [Azure Blob quickstart — Node.js](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/storage/blobs/storage-quickstart-blobs-nodejs.md): Upload, download, and list blobs with Node.js
+- [Azure Files](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/storage/files/storage-files-introduction.md): Managed file shares accessible via SMB and NFS
+- [Azure Queue Storage](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/storage/queues/storage-queues-introduction.md): Message queuing for asynchronous communication
+- [Azure Cache for Redis](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-cache-for-redis/cache-overview.md): Fully managed in-memory data store for caching and real-time applications
+- [Azure Cache for Redis quickstart](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-cache-for-redis/quickstart-create-redis.md): Create an Azure Cache for Redis instance
+- [Azure Cache for Redis best practices](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-cache-for-redis/cache-best-practices-development.md): Development best practices for Redis caching
+- [Azure Cache for Redis scaling](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-cache-for-redis/cache-how-to-scale.md): Scale your Redis cache
+- [Azure Cosmos DB documentation](https://learn.microsoft.com/en-us/azure/cosmos-db/): Technical docs for APIs, data modeling, scaling, and operations
+- [Azure Database for PostgreSQL documentation](https://learn.microsoft.com/en-us/azure/postgresql/): Deployment, migration, performance, and administration guidance for PostgreSQL
+- [Azure SQL documentation](https://learn.microsoft.com/en-us/azure/azure-sql/): Documentation for Azure SQL Database, Managed Instance, and SQL on Azure VMs
+- [Azure Storage documentation](https://learn.microsoft.com/en-us/azure/storage/): Blob, file, queue, and table storage concepts, APIs, and operations
+- [Azure Synapse Analytics documentation](https://learn.microsoft.com/en-us/azure/synapse-analytics/): Analytics platform for data integration, warehousing, and big data processing
+- [Microsoft Fabric documentation](https://learn.microsoft.com/en-us/fabric/): Unified analytics platform documentation for data engineering, BI, and AI
+- [Azure Data Factory documentation](https://learn.microsoft.com/en-us/azure/data-factory/): Data integration and orchestration service for ETL and hybrid pipelines
+
+## Networking and Integration
+
+- [Azure API Management](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/api-management/api-management-key-concepts.md): Publish, secure, and manage APIs at scale
+- [Azure API Management quickstart](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/api-management/get-started-create-service-instance.md): Create an API Management instance
+- [Azure API Management import API](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/api-management/import-and-publish.md): Import and publish your first API
+- [Azure Front Door](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/frontdoor/front-door-overview.md): Global, scalable entry point for fast delivery of web applications
+- [Azure Event Grid](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/event-grid/overview.md): Fully managed event routing service for event-driven architectures
+- [Azure Event Grid event schema](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/event-grid/event-schema.md): Event schema reference for Azure Event Grid
+- [Azure Event Grid quickstart](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/event-grid/custom-event-quickstart.md): Route custom events with Azure Event Grid
+- [Azure Service Bus](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/service-bus-messaging/service-bus-messaging-overview.md): Enterprise messaging service for decoupling applications and services
+- [Azure Service Bus quickstart — portal](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/service-bus-messaging/service-bus-quickstart-portal.md): Create a Service Bus queue in the Azure portal
+- [Azure Service Bus quickstart — .NET](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/service-bus-messaging/service-bus-dotnet-get-started-with-queues.md): Send and receive messages with .NET
+- [Azure Service Bus how-to — Python](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/service-bus-messaging/service-bus-python-how-to-use-queues.md): Use Service Bus queues with Python
+- [Azure Event Hubs](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/event-hubs/event-hubs-about.md): Big data streaming platform and event ingestion service
+- [Azure Event Hubs features](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/event-hubs/event-hubs-features.md): Key features and architecture of Event Hubs
+- [Azure Event Hubs quickstart — .NET](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/event-hubs/event-hubs-dotnet-standard-getstarted-send.md): Send and receive events with .NET
+- [Azure Event Hubs quickstart — CLI](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/event-hubs/event-hubs-quickstart-cli.md): Create an Event Hub using Azure CLI
+- [Azure Logic Apps](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/logic-apps/logic-apps-overview.md): Automate workflows and integrate apps, data, and services
+- [Azure Logic Apps quickstart](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/logic-apps/quickstart-create-example-consumption-workflow.md): Create your first Logic App workflow
+- [Azure Firewall documentation](https://learn.microsoft.com/en-us/azure/firewall/): Managed network security service for filtering and controlling traffic
+- [Azure Virtual Network documentation](https://learn.microsoft.com/en-us/azure/virtual-network/): Networking fundamentals for private connectivity, routing, and segmentation
+- [Azure Load Balancer documentation](https://learn.microsoft.com/en-us/azure/load-balancer/): Layer 4 load balancing for high availability and scale
+- [Azure Application Gateway documentation](https://learn.microsoft.com/en-us/azure/application-gateway/): Layer 7 load balancing, WAF, and ingress for web applications
+- [Azure DNS documentation](https://learn.microsoft.com/en-us/azure/dns/): DNS hosting and domain name resolution services on Azure
+
+## DevOps and CI/CD
+
+- [Azure DevOps](https://raw.githubusercontent.com/MicrosoftDocs/azure-devops-docs/main/docs/user-guide/what-is-azure-devops.md): Services for teams to plan, develop, deliver, and operate software
+- [Azure Pipelines get started](https://raw.githubusercontent.com/MicrosoftDocs/azure-devops-docs/main/docs/pipelines/get-started/pipelines-get-started.md): Create your first CI/CD pipeline with Azure Pipelines
+- [Azure Repos Git quickstart](https://raw.githubusercontent.com/MicrosoftDocs/azure-devops-docs/main/docs/repos/git/gitquickstart.md): Get started with Git in Azure Repos
+- [GitHub Actions for Azure](https://raw.githubusercontent.com/MicrosoftDocs/azure-dev-docs/main/articles/github/github-actions.md): Deploy to Azure using GitHub Actions workflows
+- [Connect GitHub to Azure](https://raw.githubusercontent.com/MicrosoftDocs/azure-dev-docs/main/articles/github/connect-from-azure.md): Authenticate GitHub Actions to Azure using OpenID Connect or service principals
+- [Azure DevOps documentation](https://learn.microsoft.com/en-us/azure/devops/?view=azure-devops): Technical docs for Azure DevOps services and workflows
+
+## Infrastructure as Code
+
+- [Azure Resource Manager](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-resource-manager/management/overview.md): Deployment and management layer for creating, updating, and deleting Azure resources
+- [Bicep overview](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-resource-manager/bicep/overview.md): Domain-specific language for deploying Azure resources declaratively
+- [Bicep quickstart](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-resource-manager/bicep/quickstart-create-bicep-use-visual-studio-code.md): Create your first Bicep file in VS Code
+- [Bicep file structure](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-resource-manager/bicep/file.md): Understand the structure and syntax of Bicep files
+- [Bicep modules](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-resource-manager/bicep/modules.md): Organize Bicep code into reusable modules
+- [Bicep parameters](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-resource-manager/bicep/parameters.md): Define and use parameters in Bicep files
+- [Bicep deploy with CLI](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-resource-manager/bicep/deploy-cli.md): Deploy Bicep files using Azure CLI
+- [ARM Templates](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-resource-manager/templates/overview.md): JSON templates for automating Azure resource deployments
+- [Azure Resource Manager documentation](https://learn.microsoft.com/en-us/azure/azure-resource-manager/): Core deployment and management layer for Azure resources and governance
+- [Azure Policy documentation](https://learn.microsoft.com/en-us/azure/governance/policy/): Governance service for enforcing standards and assessing compliance
+- [Azure landing zones](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/): Enterprise-scale environment design guidance for Azure adoption
+- [Cloud Adoption Framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/): Strategy, planning, governance, and implementation guidance for Azure adoption
+
+## Security and Identity
+
+- [Microsoft Entra ID](https://raw.githubusercontent.com/MicrosoftDocs/entra-docs/main/docs/fundamentals/what-is-entra.md): Cloud-based identity and access management service
+- [Microsoft Entra authentication](https://raw.githubusercontent.com/MicrosoftDocs/entra-docs/main/docs/identity/authentication/overview-authentication.md): Authentication methods and concepts in Microsoft Entra
+- [Managed identities for Azure](https://raw.githubusercontent.com/MicrosoftDocs/entra-docs/main/docs/identity/managed-identities-azure-resources/overview.md): Eliminate credential management with managed identities
+- [Azure Key Vault](https://raw.githubusercontent.com/MicrosoftDocs/azure-security-docs/main/articles/key-vault/general/overview.md): Safeguard cryptographic keys, secrets, and certificates
+- [Azure Key Vault secrets quickstart](https://raw.githubusercontent.com/MicrosoftDocs/azure-security-docs/main/articles/key-vault/secrets/quick-create-cli.md): Create and retrieve secrets with Azure CLI
+- [Azure Key Vault about secrets](https://raw.githubusercontent.com/MicrosoftDocs/azure-security-docs/main/articles/key-vault/secrets/about-secrets.md): Concepts and best practices for managing secrets
+- [Microsoft Entra documentation](https://learn.microsoft.com/en-us/entra/): Identity and access management documentation for workforce and external identities
+- [Azure Key Vault documentation](https://learn.microsoft.com/en-us/azure/key-vault/): Secure storage and management of secrets, keys, and certificates
+- [Microsoft Defender for Cloud documentation](https://learn.microsoft.com/en-us/azure/defender-for-cloud/): Cloud security posture management and workload protection guidance
+
+## Monitoring
+
+- [Azure Monitor](https://raw.githubusercontent.com/MicrosoftDocs/azure-monitor-docs/main/articles/azure-monitor/fundamentals/overview.md): Full-stack monitoring service for collecting, analyzing, and acting on telemetry
+- [Application Insights](https://raw.githubusercontent.com/MicrosoftDocs/azure-monitor-docs/main/articles/azure-monitor/app/app-insights-overview.md): Application performance management and monitoring for web apps
+- [Log Analytics](https://raw.githubusercontent.com/MicrosoftDocs/azure-monitor-docs/main/articles/azure-monitor/logs/log-analytics-overview.md): Query and analyze log data with KQL
+- [Azure Monitor alerts](https://raw.githubusercontent.com/MicrosoftDocs/azure-monitor-docs/main/articles/azure-monitor/alerts/alerts-overview.md): Set up alerts for metrics, logs, and activity
+- [Azure Monitor documentation](https://learn.microsoft.com/en-us/azure/azure-monitor/): Monitoring, metrics, logs, alerts, and observability across Azure workloads
+- [Azure Advisor documentation](https://learn.microsoft.com/en-us/azure/advisor/): Personalized recommendations for reliability, security, performance, and cost
+- [Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/): Best practices for designing reliable, secure, efficient cloud workloads
+- [Azure reliability documentation](https://learn.microsoft.com/en-us/azure/reliability/): Reliability guidance for availability zones, resiliency, and service continuity
+
+## Hybrid, Multicloud, and Management
+
+- [Azure Arc documentation](https://learn.microsoft.com/en-us/azure/azure-arc/): Technical guidance for connecting, governing, and managing hybrid resources
+- [Microsoft Cost Management documentation](https://learn.microsoft.com/en-us/azure/cost-management-billing/): Cost analysis, budgets, billing, and optimization guidance for Azure usage
+- [Azure migration documentation](https://learn.microsoft.com/en-us/azure/migrate/): Guidance and tools for discovering, assessing, and migrating workloads to Azure
+
+## Architecture, Training, and Solution Guidance
+
+- [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/): Design guidance, reference architectures, and cloud patterns for Azure workloads
+- [Azure example scenarios](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/): End-to-end solution examples for common application and infrastructure patterns
+- [Microsoft Learn Azure training](https://learn.microsoft.com/en-us/training/azure/): Role-based learning paths, modules, and hands-on Azure training content
+
+## Support, Status, and Community
+
+- [Azure support](https://azure.microsoft.com/en-us/support/): Support plans, troubleshooting resources, and help options for Azure customers
+- [Azure service health status](https://azure.status.microsoft/): Service status and incident information for Azure and Microsoft cloud services
+- [Azure community support](https://learn.microsoft.com/en-us/answers/tags/133/azure): Community Q&A for Azure products and technical issues
+- [Azure blog](https://azure.microsoft.com/en-us/blog/): Product news, engineering updates, and solution announcements from Azure teams
+- [Azure events and webinars](https://azure.microsoft.com/en-us/resources/events/): Upcoming Azure events, webinars, and on-demand sessions
+- [Azure resource center](https://azure.microsoft.com/en-us/resources/): Whitepapers, e-books, analyst reports, and technical resources
+- [Azure marketplace](https://azuremarketplace.microsoft.com/): Marketplace for partner solutions, SaaS offers, and deployable Azure applications
+
+## Optional
+
+- [Azure Redis (managed)](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/redis/overview.md): Azure Managed Redis for advanced caching scenarios
+- [Azure OpenAI what's new](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/openai/whats-new.md): Latest updates and features for Azure OpenAI Service
+- [Azure OpenAI API versioning](https://raw.githubusercontent.com/MicrosoftDocs/azure-ai-docs/main/articles/ai-foundry/openai/api-version-lifecycle.md): API version lifecycle and deprecation schedule

@@ -1,0 +1,71 @@
+# Microsoft Clarity
+> Free behavior analytics tool that helps teams understand website usage with session recordings, heatmaps, and insights.
+
+Microsoft Clarity provides privacy-conscious analytics for websites, with documentation for setup, integrations, filtering, consent, and product features across web platforms and tag managers.
+
+## Product
+- [Microsoft Clarity](https://clarity.microsoft.com/): Main product application for creating projects, viewing recordings, heatmaps, and analytics dashboards.
+- [Features](https://clarity.microsoft.com/features): Overview of Clarity capabilities including recordings, heatmaps, insights, and integrations.
+- [Pricing](https://clarity.microsoft.com/pricing): Pricing information for Clarity plans and feature availability.
+- [Sign in](https://clarity.microsoft.com/auth/login): Login page for accessing Clarity projects and dashboards.
+- [Sign up](https://clarity.microsoft.com/auth/signup): Account registration flow for creating a new Clarity workspace.
+
+## Documentation
+- [Documentation home](https://learn.microsoft.com/en-us/clarity/): Central documentation hub for Microsoft Clarity setup, features, and administration.
+- [Get started](https://learn.microsoft.com/en-us/clarity/get-started): Introductory guide for creating a project and installing Clarity on a site.
+- [Install Clarity](https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-installation): Instructions for adding the Clarity tracking code to a website.
+- [Clarity API](https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-api): Reference for the JavaScript API used to customize Clarity behavior.
+- [Settings and management](https://learn.microsoft.com/en-us/clarity/setup-and-installation/project-settings): Project configuration options and administrative controls.
+
+## Setup and Installation
+- [Setup and installation overview](https://learn.microsoft.com/en-us/clarity/setup-and-installation/): Entry point for installation, verification, and project configuration guidance.
+- [Install with tracking code](https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-installation): Add Clarity directly to site pages using the provided script snippet.
+- [Install with Google Tag Manager](https://learn.microsoft.com/en-us/clarity/setup-and-installation/google-tag-manager): Configure Clarity deployment through Google Tag Manager.
+- [Install on single-page applications](https://learn.microsoft.com/en-us/clarity/setup-and-installation/single-page-application): Guidance for enabling Clarity correctly on SPA frameworks and routed apps.
+- [Verify installation](https://learn.microsoft.com/en-us/clarity/setup-and-installation/verify-installation): Steps to confirm data collection is working after deployment.
+- [Project settings](https://learn.microsoft.com/en-us/clarity/setup-and-installation/project-settings): Manage project metadata, domains, team access, and related settings.
+
+## Filters and Data Controls
+- [Filters overview](https://learn.microsoft.com/en-us/clarity/filters/): Overview of filtering options for narrowing recordings, heatmaps, and dashboard data.
+- [Custom tags](https://learn.microsoft.com/en-us/clarity/filters/custom-tags): Use custom tags to segment sessions and analyze specific user cohorts.
+- [Custom identifiers](https://learn.microsoft.com/en-us/clarity/filters/custom-identifiers): Associate sessions with your own user or account identifiers.
+- [Masking content](https://learn.microsoft.com/en-us/clarity/filters/masking): Control which page content is masked or excluded from capture.
+- [IP blocking](https://learn.microsoft.com/en-us/clarity/filters/ip-blocking): Exclude internal or unwanted traffic by blocking IP addresses.
+- [URL filters](https://learn.microsoft.com/en-us/clarity/filters/url-filters): Refine analysis by including or excluding specific page URLs.
+
+## Consent and Privacy
+- [Consent mode overview](https://learn.microsoft.com/en-us/clarity/setup-and-installation/consent-mode): Configure Clarity to respect user consent and privacy requirements.
+- [Cookie consent integration](https://learn.microsoft.com/en-us/clarity/setup-and-installation/cookie-consent): Guidance for integrating Clarity with consent management workflows.
+- [Masking](https://learn.microsoft.com/en-us/clarity/filters/masking): Protect sensitive content by masking text, inputs, and selected elements.
+- [Privacy FAQ](https://clarity.microsoft.com/privacy): Product privacy information and data handling details for Clarity users.
+- [Microsoft Privacy Statement](https://privacy.microsoft.com/en-us/privacystatement): Microsoft-wide privacy statement covering data processing and user rights.
+
+## Integrations
+- [Integrations overview](https://learn.microsoft.com/en-us/clarity/integrations/): Documentation hub for connecting Clarity with advertising, analytics, and CMS platforms.
+- [Google Analytics integration](https://learn.microsoft.com/en-us/clarity/integrations/google-analytics): Connect Clarity with Google Analytics for combined behavioral analysis.
+- [Google Ads integration](https://learn.microsoft.com/en-us/clarity/integrations/google-ads): Use Clarity insights alongside Google Ads campaign performance.
+- [Microsoft Advertising integration](https://learn.microsoft.com/en-us/clarity/integrations/microsoft-advertising): Link Clarity with Microsoft Advertising for campaign and landing-page analysis.
+- [Shopify integration](https://learn.microsoft.com/en-us/clarity/integrations/shopify): Install and use Clarity on Shopify storefronts.
+- [WordPress integration](https://learn.microsoft.com/en-us/clarity/integrations/wordpress): Add Clarity to WordPress sites using supported installation methods.
+
+## Features and Analysis
+- [Session recordings](https://learn.microsoft.com/en-us/clarity/features/recordings): Review anonymized user sessions to understand navigation and friction.
+- [Heatmaps](https://learn.microsoft.com/en-us/clarity/features/heatmaps): Analyze click and scroll behavior across pages with visual heatmaps.
+- [Dashboard](https://learn.microsoft.com/en-us/clarity/features/dashboard): Understand key metrics, trends, and behavioral insights from the main dashboard.
+- [Insights](https://learn.microsoft.com/en-us/clarity/features/insights): Explore automated signals such as rage clicks, dead clicks, and quick backs.
+- [Segments](https://learn.microsoft.com/en-us/clarity/features/segments): Create reusable audience segments for focused analysis and reporting.
+- [Funnels](https://learn.microsoft.com/en-us/clarity/features/funnels): Track user progression through important conversion paths.
+
+## Developers
+- [JavaScript API](https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-api): Methods for setting consent, custom tags, and custom identifiers programmatically.
+- [Single-page application support](https://learn.microsoft.com/en-us/clarity/setup-and-installation/single-page-application): Developer guidance for route changes and client-side rendered applications.
+- [Custom tags](https://learn.microsoft.com/en-us/clarity/filters/custom-tags): Implement custom tagging to enrich captured session data.
+- [Custom identifiers](https://learn.microsoft.com/en-us/clarity/filters/custom-identifiers): Pass application-specific identifiers into Clarity for analysis.
+- [Google Tag Manager setup](https://learn.microsoft.com/en-us/clarity/setup-and-installation/google-tag-manager): Deploy and manage Clarity through GTM in production environments.
+
+## Support and Resources
+- [Help center](https://learn.microsoft.com/en-us/clarity/): Official support and product documentation for Microsoft Clarity.
+- [Blog](https://clarity.microsoft.com/blog): Product updates, feature announcements, and usage guidance from the Clarity team.
+- [FAQ](https://clarity.microsoft.com/faq): Answers to common questions about setup, usage, privacy, and billing.
+- [Contact support](https://clarity.microsoft.com/support): Support entry point for Clarity users needing assistance.
+- [Status page](https://status.clarity.ms/): Service availability and incident history for Microsoft Clarity.

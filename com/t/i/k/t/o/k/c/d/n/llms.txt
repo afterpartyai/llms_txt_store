@@ -1,0 +1,37 @@
+# TikTok CDN
+> TikTok’s content delivery domain serving static assets, media, scripts, and application resources used across TikTok web properties.
+
+This domain primarily functions as an asset and media CDN rather than a human-oriented documentation site. It hosts static files, images, video segments, scripts, stylesheets, and other delivery resources consumed by TikTok applications and web experiences. Public developer documentation and product guidance are generally hosted on other TikTok-owned domains rather than on tiktokcdn.com itself.
+
+## CDN Overview
+- [Root Domain](https://www.tiktokcdn.com/): Primary CDN host for TikTok static assets and delivery infrastructure.
+- [WWW Host](https://www.tiktokcdn.com/): Web-accessible CDN endpoint used for browser-delivered resources.
+- [Base Domain](https://tiktokcdn.com/): Canonical CDN domain for TikTok-hosted static and media content.
+
+## Asset Delivery
+- [Static Asset Host](https://www.tiktokcdn.com/): Serves JavaScript bundles, CSS, fonts, and application resources.
+- [Media Delivery](https://www.tiktokcdn.com/): Delivers images, thumbnails, and other web-consumable media assets.
+- [Web Application Resources](https://www.tiktokcdn.com/): Hosts front-end resources required by TikTok browser experiences.
+
+## Infrastructure Notes
+- [CDN Entry Point](https://www.tiktokcdn.com/): Edge-delivered endpoint optimized for global asset distribution.
+- [Static Resource Delivery](https://tiktokcdn.com/): Domain used for cacheable content and performance-sensitive file serving.
+- [Browser Asset Serving](https://www.tiktokcdn.com/): Supports client-side loading of TikTok web interface dependencies.
+
+## Related TikTok Properties
+- [TikTok Main Site](https://www.tiktok.com/): Consumer-facing TikTok platform for short-form video discovery and creation.
+- [TikTok Developers](https://developers.tiktok.com/): Official developer portal for TikTok APIs, products, and integration guides.
+- [TikTok for Business](https://www.tiktok.com/business/): Business platform for advertising, marketing, and brand solutions.
+- [TikTok Help Center](https://support.tiktok.com/): User support documentation, policies, and troubleshooting resources.
+
+## Developer Resources on Related Domains
+- [Developer Portal Home](https://developers.tiktok.com/): Entry point for TikTok developer products and documentation.
+- [Documentation](https://developers.tiktok.com/doc/): Technical docs for TikTok APIs, SDKs, and platform integrations.
+- [Products](https://developers.tiktok.com/products/): Overview of available TikTok developer products and capabilities.
+- [Guides](https://developers.tiktok.com/doc/getting-started-overview): Getting started guidance for building with TikTok developer tools.
+- [API Reference](https://developers.tiktok.com/doc/tiktok-api-v2-introduction): Introduction to TikTok API v2 and related reference material.
+
+## Usage Guidance
+- [CDN Domain Root](https://www.tiktokcdn.com/): Intended for asset retrieval rather than direct end-user documentation browsing.
+- [Base CDN Endpoint](https://tiktokcdn.com/): May return minimal content outside specific asset request paths.
+- [TikTok Developer Docs](https://developers.tiktok.com/doc/): Preferred source for integration guidance instead of CDN-hosted resources.

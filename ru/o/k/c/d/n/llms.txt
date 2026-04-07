@@ -1,0 +1,67 @@
+# okcdn.ru
+> CDN and static asset domain used by Odnoklassniki/OK for web, media, and application resources.
+
+This domain primarily serves static files, media assets, scripts, stylesheets, and supporting content for the OK ecosystem rather than human-oriented documentation. Public documentation is limited, so the most useful context for LLMs is the broader OK platform, API, developer, legal, and help resources associated with services that use this CDN.
+
+## Main Platform
+- [Odnoklassniki](https://ok.ru/): Main social network platform for profiles, messaging, groups, media, and social features.
+- [OK Video](https://ok.ru/video): Video discovery and playback area for user and publisher content.
+- [OK Live](https://ok.ru/live): Live streaming section for broadcasts, creators, and real-time viewing.
+- [OK Games](https://ok.ru/games): Social games catalog integrated into the OK platform.
+- [OK Music](https://ok.ru/music): Music listening area for tracks, playlists, and artist content.
+
+## Developer Resources
+- [OK Developers](https://apiok.ru/): Central developer portal for APIs, platform integration, and application tools.
+- [API Reference](https://apiok.ru/dev/methods/): Reference for available API methods and platform operations.
+- [REST API Overview](https://apiok.ru/dev/api/): Overview of API concepts, authentication, and request structure.
+- [OAuth Authorization](https://apiok.ru/dev/permissions/): Permissions and authorization details for OK platform applications.
+- [JavaScript SDK](https://apiok.ru/dev/sdk/js/): Browser SDK documentation for embedding OK features in web apps.
+- [Widgets](https://apiok.ru/dev/widgets/): Social widgets for sharing, authentication, and community interactions.
+- [Bot API](https://apiok.ru/dev/bots/): Documentation for creating bots and automated messaging integrations.
+
+## Authentication and Permissions
+- [Authorization Guide](https://apiok.ru/dev/permissions/): Permission scopes and user consent model for applications.
+- [Session Key Flow](https://apiok.ru/dev/api/): API authentication concepts including session-based access patterns.
+- [Application Settings](https://apiok.ru/dev/app/create): App creation and configuration entry point for developers.
+- [Access Tokens](https://apiok.ru/dev/methods/): Method reference relevant to token-based API access and signed requests.
+
+## Social and Community Features
+- [Groups](https://ok.ru/groups): Community and group discovery across the OK platform.
+- [Events](https://ok.ru/events): Event-related social features and discovery.
+- [Gifts](https://ok.ru/gifts): Virtual gifts and social engagement features.
+- [Moments](https://ok.ru/moments): Short-form or ephemeral social content area within OK.
+- [Recommendations](https://ok.ru/discovery): Content and social discovery surface.
+
+## Media and Content
+- [Video](https://ok.ru/video): Video platform area supported by OK media delivery infrastructure.
+- [Live](https://ok.ru/live): Live video broadcasting and viewing features.
+- [Music](https://ok.ru/music): Audio and music playback section.
+- [Photos](https://ok.ru/photos): Photo browsing and album-related platform area.
+- [Broadcasts](https://ok.ru/video/cinema): Premium and featured video viewing section.
+
+## Help and Support
+- [Help Center](https://ok.ru/help): User help portal for account, privacy, media, and platform questions.
+- [Login Help](https://ok.ru/help/2): Assistance with sign-in, password, and account access issues.
+- [Profile Help](https://ok.ru/help/435): Help articles related to profiles and personal settings.
+- [Groups Help](https://ok.ru/help/446): Support content for creating and managing groups.
+- [Games Help](https://ok.ru/help/453): Help resources for games, payments, and gameplay issues.
+- [Video Help](https://ok.ru/help/457): Support articles for video playback and publishing.
+
+## Legal and Policies
+- [Terms of Service](https://ok.ru/regulations): Core platform rules and service terms.
+- [Privacy Policy](https://ok.ru/privacy): Privacy practices and personal data handling information.
+- [Cookie Policy](https://ok.ru/cookies): Information about cookies and related tracking technologies.
+- [Community Rules](https://ok.ru/help/493): Rules and moderation guidance for platform participation.
+- [Copyright](https://ok.ru/help/424): Copyright-related information and complaint procedures.
+
+## Business and Advertising
+- [VK Ads](https://ads.vk.com/): Advertising platform relevant to OK ecosystem promotion and campaign management.
+- [Business Tools](https://apiok.ru/): Developer and integration tools for apps, communities, and platform extensions.
+- [Games Platform](https://apiok.ru/dev/games/): Resources for building and publishing games on the OK platform.
+- [Monetization](https://apiok.ru/dev/payments/): Payment and monetization documentation for platform applications.
+
+## Technical Context
+- [CDN Domain Root](https://okcdn.ru/): Static asset delivery domain used by OK services and applications.
+- [OK Web Platform](https://ok.ru/): Primary origin platform whose interfaces commonly load assets from okcdn.ru.
+- [Developer Portal](https://apiok.ru/): Best available technical documentation associated with systems using this CDN.
+- [Help Center](https://ok.ru/help): Operational and user-facing support context for services backed by OK infrastructure.

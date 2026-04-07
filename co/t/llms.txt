@@ -1,0 +1,72 @@
+# t.co / X
+> URL shortener and redirect domain used by X to route links shared across the platform.
+
+t.co is X’s link-shortening domain. Publicly useful LLM context for X is primarily found on the main x.com and developer.x.com properties, including platform help, developer documentation, API references, and policy resources.
+
+## Platform Help
+- [X Help Center](https://help.x.com/en): Main support hub for using X, account management, safety, and platform features.
+- [Using X](https://help.x.com/en/using-x): Guides for core product features, posting, timelines, profiles, and messaging.
+- [Managing Your Account](https://help.x.com/en/managing-your-account): Help for login, account settings, security, and account access issues.
+- [Safety and Security](https://help.x.com/en/safety-and-security): Resources on abuse prevention, privacy, reporting, and account protection.
+- [Rules and Policies](https://help.x.com/en/rules-and-policies): Central index of platform rules, enforcement policies, and user-facing policy guidance.
+- [Ads and Revenue Sharing](https://help.x.com/en/using-x/x-premium): Information related to premium features, subscriptions, and monetization-related product areas.
+
+## Developer Documentation
+- [X Developer Platform](https://developer.x.com/en): Entry point for X developer products, docs, tools, and platform announcements.
+- [Documentation Home](https://developer.x.com/en/docs): Main documentation index for APIs, products, authentication, and developer guides.
+- [Getting Started](https://developer.x.com/en/docs/getting-started): Introductory material for building with X APIs and platform capabilities.
+- [Tutorials](https://developer.x.com/en/docs/tutorials): Step-by-step examples for common developer workflows and API usage patterns.
+- [Tools](https://developer.x.com/en/docs/tools-and-libraries): Official and community tools, SDKs, and libraries for X development.
+- [FAQ](https://developer.x.com/en/support/x-api): Support and common questions for API access, usage, and developer accounts.
+
+## API Reference
+- [X API v2 Overview](https://developer.x.com/en/docs/twitter-api): Overview of X API v2 products, endpoints, and access model.
+- [API Reference Index](https://developer.x.com/en/docs/api-reference-index): Consolidated index of available API endpoints and technical references.
+- [Posts Lookup](https://developer.x.com/en/docs/twitter-api/tweets/lookup/introduction): Reference for retrieving posts by ID and related lookup operations.
+- [Users Lookup](https://developer.x.com/en/docs/twitter-api/users/lookup/introduction): Reference for retrieving user objects and user profile data.
+- [Filtered Stream](https://developer.x.com/en/docs/twitter-api/tweets/filtered-stream/introduction): Streaming API documentation for rule-based real-time post delivery.
+- [Recent Search](https://developer.x.com/en/docs/twitter-api/tweets/search/introduction): Search API documentation for querying recent public posts.
+- [Spaces](https://developer.x.com/en/docs/twitter-api/spaces/introduction): API documentation for working with X Spaces metadata and discovery.
+
+## Authentication
+- [Authentication Overview](https://developer.x.com/en/docs/authentication/overview): Overview of supported authentication methods for X APIs and developer apps.
+- [OAuth 1.0a](https://developer.x.com/en/docs/authentication/oauth-1-0a): Documentation for user-context authentication using OAuth 1.0a.
+- [OAuth 2.0 Authorization Code Flow with PKCE](https://developer.x.com/en/docs/authentication/oauth-2-0/authorization-code): Guide for implementing OAuth 2.0 user authorization with PKCE.
+- [OAuth 2.0 App-Only](https://developer.x.com/en/docs/authentication/oauth-2-0/application-only): Documentation for bearer-token authentication without user context.
+- [Sign in with X](https://developer.x.com/en/docs/authentication/guides/log-in-with-twitter): Guide for implementing user login via X authentication flows.
+- [Rate Limits](https://developer.x.com/en/docs/twitter-api/rate-limits): Reference for API rate limiting behavior and endpoint quotas.
+
+## Developer Guides
+- [Make Your First Request](https://developer.x.com/en/docs/tutorials/step-by-step-guide-to-making-your-first-request-to-the-twitter-api-v2): Beginner tutorial for authenticating and calling the X API v2.
+- [Postman Collection](https://developer.x.com/en/docs/tutorials/postman-getting-started): Guide to exploring X APIs using Postman collections.
+- [Search Posts](https://developer.x.com/en/docs/tutorials/analyze-past-conversations): Tutorial for querying and analyzing historical or recent conversations.
+- [Stream Posts in Real Time](https://developer.x.com/en/docs/tutorials/consuming-streaming-data): Tutorial for consuming streaming data from filtered stream endpoints.
+- [User Context Authentication](https://developer.x.com/en/docs/tutorials/authenticating-with-twitter-api-for-enterprise/oauth1-0a-and-user-access-tokens): Practical guide to user-authenticated API requests.
+- [Migrate from Standard v1.1](https://developer.x.com/en/docs/twitter-api/migrate): Migration guidance from older Twitter API versions to newer X APIs.
+
+## SDKs and Libraries
+- [Tools and Libraries](https://developer.x.com/en/docs/tools-and-libraries): Index of SDKs, client libraries, and developer tooling resources.
+- [X API Postman Workspace](https://developer.x.com/en/docs/tutorials/postman-getting-started): Postman-based tooling for testing and learning API endpoints.
+- [Community Libraries](https://developer.x.com/en/docs/tools-and-libraries/v2): Community-supported libraries for working with X API v2.
+- [API Reference Index](https://developer.x.com/en/docs/api-reference-index): Useful companion reference when selecting SDK methods and endpoint coverage.
+
+## Policies and Compliance
+- [Developer Agreement and Policy](https://developer.x.com/en/developer-terms/agreement-and-policy): Core legal terms and policy requirements for using X developer services.
+- [Developer Terms](https://developer.x.com/en/developer-terms): Index of developer legal terms, agreements, and compliance documents.
+- [X Rules](https://help.x.com/en/rules-and-policies/x-rules): Platform rules governing acceptable behavior and content on X.
+- [Privacy Policy](https://x.com/en/privacy): Privacy policy describing data handling and user privacy practices.
+- [Terms of Service](https://x.com/en/tos): Terms governing use of X products, services, and platform features.
+- [Automation Rules](https://help.x.com/en/rules-and-policies/x-automation): Policy guidance for automated activity and bot behavior on X.
+
+## Business and Ads
+- [X for Business](https://business.x.com/en): Overview of business, advertising, and brand solutions on X.
+- [Ads Help Center](https://business.x.com/en/help.html): Support resources for advertisers, campaign setup, billing, and account management.
+- [Marketing API](https://developer.x.com/en/docs/x-ads-api): Developer documentation for the X Ads API and campaign management integrations.
+- [Business Resources](https://business.x.com/en/resources.html): Guides, case studies, and materials for marketers and business users.
+
+## Transparency and Safety
+- [Safety on X](https://help.x.com/en/safety-and-security): Central safety resources covering reporting, abuse, and account protection.
+- [Platform Manipulation and Spam Policy](https://help.x.com/en/rules-and-policies/platform-manipulation): Policy on spam, coordinated activity, and deceptive platform manipulation.
+- [Sensitive Media Policy](https://help.x.com/en/rules-and-policies/media-policy): Rules governing sensitive media labeling and content visibility.
+- [Hateful Conduct Policy](https://help.x.com/en/rules-and-policies/hateful-conduct-policy): Policy defining prohibited hateful behavior and enforcement scope.
+- [Violent Content Policy](https://help.x.com/en/rules-and-policies/violent-content): Policy on violent threats, graphic media, and prohibited violent content.

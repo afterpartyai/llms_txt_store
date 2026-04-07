@@ -1,0 +1,75 @@
+# Google Ad Services
+> Google Ad Services supports ad delivery, click tracking, conversion measurement, and related advertising infrastructure used across Google properties and partner sites.
+
+This domain is primarily used for advertising and measurement endpoints rather than human-oriented product documentation. Relevant documentation for understanding its behavior is published across Google Ads, Google Marketing Platform, Search Ads 360, Ad Manager, and Google tag resources.
+
+## Google Ads Help
+- [About conversion tracking](https://support.google.com/google-ads/answer/1722022): Explains how Google Ads measures valuable customer actions after ad interactions.
+- [Set up website conversion tracking](https://support.google.com/google-ads/answer/6095821): Guides implementation of website conversions using Google tag and event snippets.
+- [About the Google tag](https://support.google.com/google-ads/answer/7548399): Describes the Google tag used for Ads measurement and remarketing.
+- [About auto-tagging](https://support.google.com/google-ads/answer/3095550): Explains automatic addition of GCLID parameters for click measurement.
+- [About click trackers](https://support.google.com/google-ads/answer/2375435): Describes click tracking URLs and how they work in Google Ads.
+- [About enhanced conversions](https://support.google.com/google-ads/answer/9888656): Covers privacy-safe conversion measurement using hashed first-party customer data.
+- [About remarketing](https://support.google.com/google-ads/answer/2453998): Introduces remarketing audiences and related tagging requirements.
+- [About consent mode](https://support.google.com/google-ads/answer/10000067): Explains how consent signals affect Google Ads measurement and modeling.
+
+## Google Ads API
+- [Google Ads API overview](https://developers.google.com/google-ads/api/docs/start): Introduces the API for managing Google Ads accounts and reporting.
+- [Conversion uploads](https://developers.google.com/google-ads/api/docs/conversions/overview): Explains importing offline and enhanced conversions into Google Ads.
+- [Click conversion uploads](https://developers.google.com/google-ads/api/docs/conversions/upload-clicks): Shows how to upload conversions attributed to ad clicks.
+- [Call conversion uploads](https://developers.google.com/google-ads/api/docs/conversions/upload-calls): Describes uploading conversions from phone calls to Google Ads.
+- [Enhanced conversions for leads](https://developers.google.com/google-ads/api/docs/conversions/enhanced-conversions/leads-setup): Details API setup for enhanced conversions for leads.
+- [Remarketing and audience segments](https://developers.google.com/google-ads/api/docs/remarketing/overview): Covers audience and remarketing management through the API.
+- [Tracking URL templates](https://developers.google.com/google-ads/api/docs/ads/tracking-urls): Explains tracking templates, final URL suffixes, and custom parameters.
+- [Response metadata and request IDs](https://developers.google.com/google-ads/api/docs/concepts/call-structure#response_headers): Documents request tracing and headers useful for debugging integrations.
+
+## Google Tag and Tag Manager
+- [Google tag platform guide](https://developers.google.com/tag-platform): Entry point for Google tag implementation and measurement resources.
+- [Set up the Google tag](https://developers.google.com/tag-platform/gtagjs): Documents installation and configuration of gtag.js.
+- [Google tag API reference](https://developers.google.com/tag-platform/gtagjs/reference): Reference for gtag commands, parameters, and event configuration.
+- [Tag Manager developer guides](https://developers.google.com/tag-platform/tag-manager): Guides for implementing and extending Google Tag Manager.
+- [Consent mode overview](https://developers.google.com/tag-platform/security/guides/consent): Explains consent mode behavior across Google measurement products.
+- [Measure conversions](https://developers.google.com/tag-platform/devguides/conversions): Shows how to configure conversion measurement with Google tags.
+- [Enhanced conversions guide](https://developers.google.com/tag-platform/devguides/conversions/enhanced-conversions): Describes enhanced conversions implementation with the Google tag.
+- [Cross-domain measurement](https://developers.google.com/tag-platform/devguides/cross-domain): Explains linker behavior and cross-domain attribution setup.
+
+## Search Ads 360
+- [Search Ads 360 help center](https://support.google.com/sa360): Main help center for Search Ads 360 campaign and measurement workflows.
+- [About Floodlight conversion tracking](https://support.google.com/sa360/answer/6023705): Introduces Floodlight activities and conversion measurement in SA360.
+- [About URL options and tracking templates](https://support.google.com/sa360/answer/9571793): Explains tracking templates and URL parameter handling in SA360.
+- [About parallel tracking](https://support.google.com/sa360/answer/9571794): Describes parallel tracking behavior for supported search engines.
+- [About auto-tagging in Search Ads 360](https://support.google.com/sa360/answer/9571783): Covers click identifiers and tagging for attribution in SA360.
+- [Search Ads 360 API overview](https://developers.google.com/search-ads): Introduces the Search Ads 360 API and integration concepts.
+
+## Campaign Manager 360 and Floodlight
+- [Campaign Manager 360 help center](https://support.google.com/campaignmanager): Main help center for trafficking, tags, and measurement in CM360.
+- [About Floodlight](https://support.google.com/campaignmanager/answer/2823222): Explains Floodlight tags, activities, and conversion counting.
+- [Create Floodlight activities](https://support.google.com/campaignmanager/answer/2826131): Guides setup of Floodlight activity groups and activities.
+- [About click trackers](https://support.google.com/campaignmanager/answer/2834211): Describes click tracker tags and redirect-based click measurement.
+- [About impression trackers](https://support.google.com/campaignmanager/answer/2826134): Explains impression tracking tags for non-served creatives.
+- [Campaign Manager 360 API overview](https://developers.google.com/doubleclick-advertisers): Introduces the API for trafficking and reporting in CM360.
+
+## Google Ad Manager
+- [Google Ad Manager help center](https://support.google.com/admanager): Main help center for ad serving, delivery, and reporting.
+- [Ad Manager API overview](https://developers.google.com/ad-manager/api): Introduces the Ad Manager API for inventory and delivery management.
+- [Generate ad tags](https://support.google.com/admanager/answer/177207): Explains generation and use of Google Publisher Tags and ad tags.
+- [About click tracking](https://support.google.com/admanager/answer/6081628): Describes click tracking behavior for creatives and third-party redirects.
+- [About impression tracking](https://support.google.com/admanager/answer/6081627): Covers impression tracking with creatives and tracking pixels.
+- [Google Publisher Tag overview](https://developers.google.com/publisher-tag): Entry point for GPT implementation documentation.
+- [Secure signals and privacy](https://developers.google.com/publisher-tag/guides/privacy): Documents privacy-related GPT configuration and signal handling.
+
+## Privacy and Policy
+- [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites): Explains data handling for sites using Google advertising and measurement services.
+- [Advertising technologies](https://policies.google.com/technologies/ads): Describes Google advertising cookies, identifiers, and related technologies.
+- [Privacy Sandbox](https://privacysandbox.com/): Overview of privacy-preserving advertising and measurement proposals on the web.
+- [EU user consent policy](https://www.google.com/about/company/user-consent-policy/): Defines consent requirements for Google ads and measurement products in certain regions.
+- [Google Ads policies](https://support.google.com/adspolicy): Central policy resource for Google Ads advertisers.
+- [Data processing terms](https://business.safety.google/adsprocessorterms/): Provides contractual terms related to Google advertising data processing.
+
+## Troubleshooting and Validation
+- [Tag Assistant](https://tagassistant.google.com/): Google tool for validating tag installation and troubleshooting measurement issues.
+- [Google Ads status dashboard](https://status.ads.google.com/): Service status information for Google Ads and related systems.
+- [Google Marketing Platform status dashboard](https://status.marketingplatform.google.com/): Status information for Campaign Manager 360, SA360, and related products.
+- [Conversion tracking troubleshooting](https://support.google.com/google-ads/topic/3165803): Help resources for diagnosing Google Ads conversion tracking issues.
+- [Tag diagnostics in Google Ads](https://support.google.com/google-ads/answer/7645960): Explains diagnostics and common issues for conversion tags.
+- [Debug Google tag implementations](https://developers.google.com/tag-platform/devguides/debug): Guides debugging and validation of Google tag behavior.

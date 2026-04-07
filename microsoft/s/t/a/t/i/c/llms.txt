@@ -1,0 +1,79 @@
+# static.microsoft
+> Microsoft’s static content domain serving product documentation assets, support content, and developer resources across Microsoft properties.
+
+This domain hosts static documentation and support assets used by Microsoft Learn, support.microsoft.com, and related product sites. The most useful canonical destinations for LLM navigation are the associated Microsoft documentation and support properties those assets back.
+
+## Microsoft Learn
+- [Microsoft Learn Home](https://learn.microsoft.com/): Central hub for Microsoft product documentation, training, and technical reference.
+- [Documentation](https://learn.microsoft.com/docs/): Entry point for Microsoft technical documentation across products and services.
+- [Training](https://learn.microsoft.com/training/): Interactive learning paths, modules, and certifications for Microsoft technologies.
+- [Credentials](https://learn.microsoft.com/credentials/): Certification, applied skills, and exam information for Microsoft credentials.
+- [Q&A](https://learn.microsoft.com/answers/): Community and Microsoft-supported technical question-and-answer platform.
+- [Code Samples](https://learn.microsoft.com/samples/): Searchable Microsoft code samples and reference implementations.
+
+## Azure Documentation
+- [Azure Documentation](https://learn.microsoft.com/azure/): Product documentation, quickstarts, tutorials, and architecture guidance for Azure services.
+- [Azure Architecture Center](https://learn.microsoft.com/azure/architecture/): Reference architectures, design patterns, and best practices for Azure solutions.
+- [Azure Well-Architected Framework](https://learn.microsoft.com/azure/well-architected/): Guidance for building reliable, secure, efficient, and cost-optimized workloads.
+- [Azure REST API Reference](https://learn.microsoft.com/rest/api/azure/): REST API reference documentation for Azure resource providers and services.
+- [Azure CLI Documentation](https://learn.microsoft.com/cli/azure/): Command reference and usage guidance for the Azure CLI.
+- [Azure PowerShell Documentation](https://learn.microsoft.com/powershell/azure/): Cmdlet reference and management guidance for Azure PowerShell.
+- [Azure SDK Documentation](https://learn.microsoft.com/azure/developer/): Developer guidance and SDK resources for building on Azure.
+
+## Microsoft 365 and Office
+- [Microsoft 365 Documentation](https://learn.microsoft.com/microsoft-365/): Admin, deployment, security, and developer documentation for Microsoft 365.
+- [Microsoft Graph Documentation](https://learn.microsoft.com/graph/): API concepts, tutorials, and reference for Microsoft Graph.
+- [Microsoft Graph REST API Reference](https://learn.microsoft.com/graph/api/overview): Overview and entry point to Microsoft Graph REST API reference.
+- [Teams Documentation](https://learn.microsoft.com/microsoftteams/): Admin, platform, and deployment documentation for Microsoft Teams.
+- [Office Add-ins Documentation](https://learn.microsoft.com/office/dev/add-ins/): Guidance for building Office add-ins across Office applications.
+- [SharePoint Documentation](https://learn.microsoft.com/sharepoint/): Administration, development, and deployment guidance for SharePoint.
+- [Exchange Documentation](https://learn.microsoft.com/exchange/): Technical documentation for Exchange Server and Exchange Online.
+
+## Developer Platforms
+- [Developer Documentation](https://learn.microsoft.com/developer/): Cross-platform developer resources spanning Microsoft tools and services.
+- [Windows Documentation](https://learn.microsoft.com/windows/): Documentation for Windows development, deployment, and management.
+- [.NET Documentation](https://learn.microsoft.com/dotnet/): Guides, tutorials, and API browser entry points for .NET developers.
+- [Visual Studio Documentation](https://learn.microsoft.com/visualstudio/): IDE usage, extensibility, debugging, and development workflow documentation.
+- [Power Platform Documentation](https://learn.microsoft.com/power-platform/): Documentation for Power Apps, Power Automate, Power Pages, and Copilot Studio.
+- [Dynamics 365 Documentation](https://learn.microsoft.com/dynamics365/): Product documentation for Dynamics 365 applications and platform capabilities.
+- [Microsoft Fabric Documentation](https://learn.microsoft.com/fabric/): Analytics, data engineering, and business intelligence documentation for Microsoft Fabric.
+
+## Security and Identity
+- [Microsoft Security Documentation](https://learn.microsoft.com/security/): Security product documentation, architecture, and operational guidance.
+- [Microsoft Entra Documentation](https://learn.microsoft.com/entra/): Identity, access, and directory documentation for Microsoft Entra.
+- [Microsoft Intune Documentation](https://learn.microsoft.com/mem/intune/): Endpoint management and device administration documentation for Intune.
+- [Microsoft Defender Documentation](https://learn.microsoft.com/defender/): Documentation for Microsoft Defender products and security operations.
+- [Microsoft Sentinel Documentation](https://learn.microsoft.com/azure/sentinel/): SIEM and SOAR documentation for Microsoft Sentinel.
+- [Compliance Documentation](https://learn.microsoft.com/purview/): Compliance, governance, and data risk documentation for Microsoft Purview.
+
+## Data and AI
+- [SQL Documentation](https://learn.microsoft.com/sql/): Documentation for SQL Server, Azure SQL, and related data platforms.
+- [Power BI Documentation](https://learn.microsoft.com/power-bi/): Product guidance, administration, modeling, and report development for Power BI.
+- [Azure AI Documentation](https://learn.microsoft.com/azure/ai-services/): Documentation for Azure AI services, models, and applied AI capabilities.
+- [Azure Machine Learning Documentation](https://learn.microsoft.com/azure/machine-learning/): End-to-end machine learning platform documentation and tutorials.
+- [Azure Databricks Documentation](https://learn.microsoft.com/azure/databricks/): Guidance for analytics and AI workloads using Azure Databricks.
+- [Semantic Kernel Documentation](https://learn.microsoft.com/semantic-kernel/): SDK and conceptual documentation for orchestration of AI applications.
+
+## APIs and Reference
+- [Microsoft Graph API Reference](https://learn.microsoft.com/graph/api/overview): REST API reference entry point for Microsoft Graph endpoints and resources.
+- [Microsoft Graph SDKs](https://learn.microsoft.com/graph/sdks/sdks-overview): SDK options and usage guidance for Microsoft Graph integrations.
+- [Azure Resource Manager Template Reference](https://learn.microsoft.com/azure/templates/): Reference documentation for Azure resource definitions in ARM and Bicep.
+- [Bicep Documentation](https://learn.microsoft.com/azure/azure-resource-manager/bicep/): Infrastructure-as-code documentation for Azure using Bicep.
+- [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines): Microsoft guidance for designing consistent REST APIs.
+- [.NET API Browser](https://learn.microsoft.com/dotnet/api/): API reference browser for .NET libraries and frameworks.
+
+## Support
+- [Microsoft Support Home](https://support.microsoft.com/): Official Microsoft product support, troubleshooting, and help articles.
+- [Windows Support](https://support.microsoft.com/windows): Help and troubleshooting articles for Windows products.
+- [Microsoft 365 Support](https://support.microsoft.com/office): Support content for Microsoft 365 and Office applications.
+- [Xbox Support](https://support.xbox.com/): Official support for Xbox consoles, services, and accounts.
+- [Surface Support](https://support.microsoft.com/surface): Support articles and troubleshooting for Surface devices.
+- [Account and Billing Support](https://support.microsoft.com/account-billing): Help for Microsoft accounts, subscriptions, and billing issues.
+
+## Community and Updates
+- [Microsoft Tech Community](https://techcommunity.microsoft.com/): Community discussions, product blogs, and announcements from Microsoft teams.
+- [Azure Updates](https://azure.microsoft.com/updates/): Product update announcements and release information for Azure services.
+- [Microsoft 365 Blog](https://www.microsoft.com/microsoft-365/blog/): News, product updates, and insights for Microsoft 365.
+- [Microsoft Learn Blog](https://techcommunity.microsoft.com/category/microsoftlearn/blog/microsoftlearnblog): Announcements and updates related to Microsoft Learn.
+- [Azure Blog](https://azure.microsoft.com/blog/): Technical announcements, customer stories, and Azure product news.
+- [Microsoft Security Blog](https://www.microsoft.com/security/blog/): Security research, product updates, and threat intelligence articles.

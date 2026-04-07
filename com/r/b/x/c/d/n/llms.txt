@@ -1,0 +1,74 @@
+# rbxcdn.com
+> Roblox's content delivery domain serving static assets, game resources, client files, and platform media.
+
+rbxcdn.com is used across the Roblox ecosystem to host versioned client downloads, images, thumbnails, avatar assets, and other static content consumed by Roblox apps, web properties, and developer tooling. It is primarily an asset and distribution domain rather than a standalone documentation site.
+
+## Platform and Developer Documentation
+- [Roblox Creator Hub](https://create.roblox.com/): Central documentation hub for Roblox development, publishing, and platform features.
+- [Roblox Documentation](https://create.roblox.com/docs): Official docs for engine APIs, Studio workflows, and platform systems.
+- [Roblox API Reference](https://create.roblox.com/docs/reference/engine): Reference documentation for Roblox engine classes, members, and types.
+- [Open Cloud Documentation](https://create.roblox.com/docs/cloud): Docs for Roblox Open Cloud APIs, authentication, and service usage.
+- [Roblox DevForum](https://devforum.roblox.com/): Community forum for platform announcements, technical discussion, and developer support.
+
+## Open Cloud and Web APIs
+- [Open Cloud Overview](https://create.roblox.com/docs/cloud): Introduction to Roblox Open Cloud services and authentication patterns.
+- [Assets API](https://create.roblox.com/docs/cloud/assets): Manage asset upload and related asset workflows through Open Cloud.
+- [Data Stores API](https://create.roblox.com/docs/cloud-services/data-stores): Access and manage persistent experience data with cloud endpoints.
+- [Messaging API](https://create.roblox.com/docs/cloud-services/messaging): Publish messages across servers using Roblox cloud messaging services.
+- [Place Publishing API](https://create.roblox.com/docs/cloud/guides/usage-place-publishing): Publish place files programmatically using Open Cloud workflows.
+- [Web APIs Overview](https://create.roblox.com/docs/cloud/legacy): Legacy and web-facing API guidance for Roblox integrations.
+
+## Engine Reference
+- [Engine Reference Home](https://create.roblox.com/docs/reference/engine): Entry point for Roblox engine API reference documentation.
+- [Classes](https://create.roblox.com/docs/reference/engine/classes): Index of engine classes available in Roblox runtime and Studio.
+- [Data Types](https://create.roblox.com/docs/reference/engine/datatypes): Reference for built-in Roblox data types and structures.
+- [Enums](https://create.roblox.com/docs/reference/engine/enums): Enumeration reference for engine constants and option sets.
+- [Globals](https://create.roblox.com/docs/reference/engine/globals): Global functions, libraries, and runtime-provided APIs.
+- [Release Notes](https://create.roblox.com/docs/release-notes): Product and platform changes affecting developers and experiences.
+
+## Studio and Scripting Guides
+- [Get Started](https://create.roblox.com/docs/tutorials): Introductory tutorials for building Roblox experiences with Studio.
+- [Studio Overview](https://create.roblox.com/docs/studio): Learn Roblox Studio tools, interface, and development workflows.
+- [Scripting](https://create.roblox.com/docs/scripting): Guides for Luau scripting, events, modules, and runtime behavior.
+- [UI Design](https://create.roblox.com/docs/ui): Build interfaces for in-experience menus, HUDs, and interactions.
+- [Physics](https://create.roblox.com/docs/physics): Documentation for constraints, collisions, movement, and simulation systems.
+- [Animation](https://create.roblox.com/docs/animation): Create and manage character and object animations in Roblox.
+- [Testing](https://create.roblox.com/docs/production/testing): Test experiences before release across devices and environments.
+
+## Assets, Avatars, and Media
+- [Assets Documentation](https://create.roblox.com/docs/art): Guidance for importing meshes, images, audio, and other assets.
+- [Avatar Documentation](https://create.roblox.com/docs/art/characters): Create characters, avatar items, and related content for Roblox.
+- [Accessories and Clothing](https://create.roblox.com/docs/art/accessories): Build wearable avatar assets and layered clothing content.
+- [Thumbnails and Icons](https://create.roblox.com/docs/production/publishing/thumbnails): Configure experience thumbnails, icons, and presentation media.
+- [Marketplace Policy](https://create.roblox.com/docs/marketplace/marketplace-policy): Rules and requirements for assets and marketplace content.
+- [UGC Program Docs](https://create.roblox.com/docs/marketplace/marketplace-programs): Information on creator marketplace programs and asset publishing.
+
+## Publishing and Operations
+- [Publishing Experiences](https://create.roblox.com/docs/production/publishing/publishing-experiences-and-places): Publish and update Roblox experiences and places from Studio.
+- [Configuration](https://create.roblox.com/docs/production/game-configuration): Configure permissions, monetization, access, and experience settings.
+- [Analytics](https://create.roblox.com/docs/production/analytics): Measure engagement and performance using Roblox analytics tools.
+- [Localization](https://create.roblox.com/docs/production/localization): Localize experiences and assets for global audiences.
+- [Monetization](https://create.roblox.com/docs/production/monetization): Implement passes, products, subscriptions, and revenue features.
+- [Private Servers](https://create.roblox.com/docs/production/game-configuration/private-servers): Configure and manage private server access for experiences.
+
+## Safety, Policy, and Compliance
+- [Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Standards): Platform behavior and content standards applicable to Roblox users and creators.
+- [Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use): Legal terms governing use of Roblox services and platform resources.
+- [Privacy Policy](https://www.roblox.com/info/privacy): Privacy practices for Roblox products, services, and user data.
+- [Creator Terms](https://en.help.roblox.com/hc/en-us/articles/115005718246): Terms relevant to creators, content, and monetization participation.
+- [Advertising Standards](https://create.roblox.com/docs/production/promotion/advertising-standards): Requirements for ads and promotional content on Roblox.
+- [PolicyService](https://create.roblox.com/docs/reference/engine/classes/PolicyService): Engine API for region- and policy-aware experience behavior.
+
+## Client Distribution and CDN Context
+- [Roblox Downloads](https://www.roblox.com/download): Official entry point for downloading Roblox client software.
+- [System Requirements](https://en.help.roblox.com/hc/en-us/articles/203312800-Computer-Hardware-Operating-System-Requirements): Supported platforms and hardware requirements for Roblox clients.
+- [Studio Downloads](https://create.roblox.com/docs/studio/setting-up-roblox-studio): Setup guidance for installing and updating Roblox Studio.
+- [Status Page](https://status.roblox.com/): Operational status for Roblox services, incidents, and maintenance updates.
+- [Security Documentation](https://create.roblox.com/docs/production/security): Security guidance for developers building Roblox experiences.
+
+## Community and Updates
+- [Creator Roadmap and Updates](https://create.roblox.com/docs/release-notes): Track platform changes, releases, and developer-impacting updates.
+- [Roblox Blog](https://blog.roblox.com/): Official news, product announcements, and company updates from Roblox.
+- [Creator Hub Updates](https://create.roblox.com/docs/changelog): Documentation and platform changelog for creators and developers.
+- [DevForum Announcements](https://devforum.roblox.com/c/updates/announcements/36): Official announcements for Roblox platform and developer ecosystem changes.
+- [Education and Tutorials](https://create.roblox.com/docs/education): Learning resources for new creators and classroom use.

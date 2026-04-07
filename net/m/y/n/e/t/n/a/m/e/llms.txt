@@ -1,0 +1,60 @@
+# mynetname.net
+> Dynamic DNS service that lets users map changing IP addresses to stable hostnames and manage DNS records.
+
+mynetname.net provides dynamic DNS hosting, account management, update clients, and support resources for keeping home servers, remote access, and self-hosted services reachable.
+
+## Core Service
+- [Home](https://www.mynetname.net/): Overview of the dynamic DNS service, account access, and primary site navigation.
+- [Create Account](https://www.mynetname.net/create-account): Register a new account to create and manage dynamic DNS hostnames.
+- [Login](https://www.mynetname.net/login): Sign in to manage hostnames, DNS settings, and account preferences.
+- [Pricing](https://www.mynetname.net/pricing): Compare available plans and service limits for dynamic DNS usage.
+- [Features](https://www.mynetname.net/features): Summary of supported DNS capabilities, hostname management, and service functionality.
+
+## Dynamic DNS Management
+- [Hostnames](https://www.mynetname.net/hostnames): Manage dynamic DNS hostnames associated with your account.
+- [DNS Records](https://www.mynetname.net/dns-records): Configure DNS record types and hostname resolution settings.
+- [Domains](https://www.mynetname.net/domains): View available domains and hostname options supported by the service.
+- [Name Servers](https://www.mynetname.net/name-servers): Information about DNS infrastructure and nameserver configuration.
+- [Update Settings](https://www.mynetname.net/update-settings): Configure how IP address updates are received and applied.
+
+## Setup Guides
+- [Getting Started](https://www.mynetname.net/getting-started): Introductory setup steps for creating and using a dynamic DNS hostname.
+- [Router Setup](https://www.mynetname.net/router-setup): Configure supported routers to send dynamic DNS updates automatically.
+- [Client Setup](https://www.mynetname.net/client-setup): Install and configure update clients on desktop or server systems.
+- [Custom Domain Setup](https://www.mynetname.net/custom-domain-setup): Connect your own domain to the dynamic DNS service.
+- [Remote Access Guide](https://www.mynetname.net/remote-access): Use dynamic DNS for home network and remote service access.
+
+## API and Integration
+- [API Overview](https://www.mynetname.net/api): Introduction to programmatic hostname and DNS update capabilities.
+- [Update API](https://www.mynetname.net/api/update): Endpoint reference for submitting dynamic IP address updates.
+- [Authentication](https://www.mynetname.net/api/authentication): Supported authentication methods for API and update requests.
+- [API Examples](https://www.mynetname.net/api/examples): Sample requests for integrating clients, scripts, and devices.
+- [Response Codes](https://www.mynetname.net/api/response-codes): Reference for interpreting update results and API error responses.
+
+## Software and Clients
+- [Downloads](https://www.mynetname.net/downloads): Access available update clients, tools, and related software packages.
+- [Windows Client](https://www.mynetname.net/downloads/windows): Dynamic DNS update client for Windows systems.
+- [Linux Client](https://www.mynetname.net/downloads/linux): Dynamic DNS update tools and instructions for Linux environments.
+- [macOS Client](https://www.mynetname.net/downloads/macos): Update client options and setup guidance for macOS systems.
+- [Device Integrations](https://www.mynetname.net/device-integrations): Compatibility information for routers, NAS devices, and network appliances.
+
+## Help and Support
+- [Support Center](https://www.mynetname.net/support): Central support resources for account, DNS, and update issues.
+- [FAQ](https://www.mynetname.net/faq): Answers to common questions about setup, billing, and hostname management.
+- [Knowledge Base](https://www.mynetname.net/knowledge-base): Troubleshooting and how-to articles for common service tasks.
+- [Contact Support](https://www.mynetname.net/contact): Reach the support team for technical or account assistance.
+- [Service Status](https://www.mynetname.net/status): Check current platform availability and operational status.
+
+## Account and Billing
+- [Account Settings](https://www.mynetname.net/account): Manage profile details, security settings, and account preferences.
+- [Billing](https://www.mynetname.net/billing): Review subscriptions, invoices, and payment-related account information.
+- [Subscription Plans](https://www.mynetname.net/plans): Details on plan tiers, included features, and usage allowances.
+- [Password Reset](https://www.mynetname.net/password-reset): Recover account access and reset your login credentials.
+- [Email Preferences](https://www.mynetname.net/email-preferences): Manage notification and communication settings.
+
+## Policies and Legal
+- [Terms of Service](https://www.mynetname.net/terms): Legal terms governing use of the dynamic DNS service.
+- [Privacy Policy](https://www.mynetname.net/privacy): How personal data is collected, used, and protected.
+- [Acceptable Use Policy](https://www.mynetname.net/acceptable-use): Rules and restrictions for using the platform responsibly.
+- [Cookie Policy](https://www.mynetname.net/cookies): Information about cookies and related tracking technologies.
+- [Abuse Reporting](https://www.mynetname.net/abuse): Report misuse, malicious activity, or policy violations.

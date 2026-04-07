@@ -1,0 +1,81 @@
+# Akamai Developer and Edge Platform Documentation
+> Documentation and technical resources for Akamai’s edge platform, APIs, security, delivery, and compute services.
+
+Akamai provides developer documentation, API references, product guides, and learning resources for building, securing, and operating applications on its global edge platform.
+
+## Documentation Home
+- [Developer Portal](https://techdocs.akamai.com/): Main entry point for Akamai product documentation, APIs, and developer resources.
+- [Documentation Home](https://techdocs.akamai.com/home): Central landing page for Akamai technical documentation and product guides.
+- [API Reference Overview](https://techdocs.akamai.com/home/page/api): Index of Akamai APIs and reference documentation across products.
+- [Learning Lab](https://techdocs.akamai.com/home/page/learning-lab): Hands-on tutorials and guided exercises for Akamai products and workflows.
+- [Release Notes](https://techdocs.akamai.com/home/page/release-notes): Product and documentation release updates across Akamai services.
+
+## APIs and Developer Tools
+- [APIs](https://techdocs.akamai.com/home/page/api): Browse Akamai APIs by product and capability.
+- [API Client Authentication](https://techdocs.akamai.com/developer/docs/set-up-authentication-credentials): Set up EdgeGrid authentication credentials for Akamai APIs.
+- [OPEN EdgeGrid for Java](https://github.com/akamai/AkamaiOPEN-edgegrid-java): Java library for authenticating and calling Akamai APIs.
+- [OPEN EdgeGrid for Python](https://github.com/akamai/AkamaiOPEN-edgegrid-python): Python library for Akamai API authentication and request signing.
+- [OPEN EdgeGrid for Go](https://github.com/akamai/AkamaiOPEN-edgegrid-golang): Go package for Akamai EdgeGrid request signing.
+- [CLI](https://github.com/akamai/cli): Command-line interface for interacting with Akamai APIs and developer workflows.
+
+## Application Security
+- [Application Security](https://techdocs.akamai.com/application-security/docs): Documentation for web application and API protection products.
+- [App and API Protector](https://techdocs.akamai.com/application-security/docs/app-api-protector): Configure and manage protections for web applications and APIs.
+- [Kona Site Defender](https://techdocs.akamai.com/application-security/docs/kona-site-defender): DDoS and web application firewall protections for internet-facing properties.
+- [Bot Manager](https://techdocs.akamai.com/bot-manager/docs): Detect, classify, and mitigate automated bot traffic.
+- [API Security](https://techdocs.akamai.com/api-security/docs): Discover, monitor, and protect API traffic and behavior.
+- [Client-Side Protection & Compliance](https://techdocs.akamai.com/client-side-protection-compliance/docs): Monitor and secure client-side scripts and browser-side risks.
+
+## Delivery and Performance
+- [Delivery and Performance](https://techdocs.akamai.com/property-mgr/docs): Documentation for content delivery, caching, and traffic management configuration.
+- [Property Manager](https://techdocs.akamai.com/property-mgr/docs): Create and manage delivery configurations for websites and applications.
+- [Ion](https://techdocs.akamai.com/ion/docs): Optimize web performance and resilience for dynamic sites.
+- [Image and Video Manager](https://techdocs.akamai.com/image-and-video-manager/docs): Optimize and transform images and video for delivery.
+- [Adaptive Media Delivery](https://techdocs.akamai.com/adaptive-media-delivery/docs): Deliver streaming media with adaptive bitrate optimization.
+- [Cloud Wrapper](https://techdocs.akamai.com/cloud-wrapper/docs): Route and balance traffic across multiple cloud environments.
+
+## Edge DNS and Traffic Management
+- [Edge DNS](https://techdocs.akamai.com/edge-dns/docs): Manage authoritative DNS with high availability and performance.
+- [Global Traffic Management](https://techdocs.akamai.com/gtm/docs): Direct users to optimal endpoints based on health and geography.
+- [Fast DNS](https://techdocs.akamai.com/fast-dns/docs): High-performance DNS service for responsive domain resolution.
+- [TrafficPeak](https://techdocs.akamai.com/trafficpeak/docs): Analyze and visualize DNS and traffic patterns.
+- [DNS Posture Management](https://techdocs.akamai.com/dns-posture-management/docs): Assess and improve DNS security posture and configuration.
+
+## Edge Compute and Cloud Services
+- [Cloud Computing](https://techdocs.akamai.com/cloud-computing/docs): Documentation for Akamai cloud compute, storage, and infrastructure services.
+- [Linode API](https://techdocs.akamai.com/linode-api/docs): API documentation for managing Akamai cloud resources.
+- [EdgeWorkers](https://techdocs.akamai.com/edgeworkers/docs): Build and run JavaScript functions at the edge.
+- [EdgeKV](https://techdocs.akamai.com/edgekv/docs): Low-latency key-value storage for edge applications.
+- [Container Service](https://techdocs.akamai.com/container-service/docs): Run and manage containerized workloads on Akamai cloud infrastructure.
+- [Object Storage](https://techdocs.akamai.com/object-storage/docs): Store and manage scalable object data in the cloud.
+
+## Zero Trust and Enterprise Security
+- [Enterprise Security](https://techdocs.akamai.com/enterprise-security/docs): Documentation for zero trust access and enterprise protection products.
+- [Enterprise Application Access](https://techdocs.akamai.com/eaa/docs): Provide secure zero trust access to private applications.
+- [Secure Internet Access Enterprise](https://techdocs.akamai.com/siae/docs): Protect users with secure web gateway capabilities.
+- [Guardicore Segmentation](https://techdocs.akamai.com/guardicore-segmentation/docs): Implement microsegmentation and east-west traffic controls.
+- [Prolexic](https://techdocs.akamai.com/prolexic/docs): Defend against large-scale DDoS attacks with managed mitigation.
+- [Account Protector](https://techdocs.akamai.com/account-protector/docs): Reduce account abuse, fraud, and credential-based attacks.
+
+## Media and Streaming
+- [Media Services Live](https://techdocs.akamai.com/msl/docs): Live video ingest, processing, and delivery workflows.
+- [Media Services On Demand](https://techdocs.akamai.com/msod/docs): Prepare and deliver on-demand streaming media content.
+- [Adaptive Media Delivery](https://techdocs.akamai.com/adaptive-media-delivery/docs): Stream media efficiently with adaptive delivery controls.
+- [NetStorage](https://techdocs.akamai.com/netstorage/docs): Store and deliver content using Akamai’s origin storage platform.
+- [Download Delivery](https://techdocs.akamai.com/download-delivery/docs): Accelerate large file and software download distribution.
+
+## Guides and Tutorials
+- [Learning Lab](https://techdocs.akamai.com/home/page/learning-lab): Interactive tutorials for common Akamai implementation tasks.
+- [Get Started with APIs](https://techdocs.akamai.com/developer/docs/set-up-authentication-credentials): Learn how to authenticate and begin using Akamai APIs.
+- [EdgeWorkers Tutorials](https://techdocs.akamai.com/edgeworkers/docs): Tutorials and examples for edge compute applications.
+- [Property Manager Best Practices](https://techdocs.akamai.com/property-mgr/docs): Guidance for configuring delivery behavior and rule trees.
+- [Application Security Guides](https://techdocs.akamai.com/application-security/docs): Implementation guidance for security policies and protections.
+
+## Open Source and SDKs
+- [Akamai GitHub Organization](https://github.com/akamai): Open source projects, SDKs, integrations, and tooling from Akamai.
+- [CLI](https://github.com/akamai/cli): Extensible command-line interface for Akamai developer operations.
+- [Terraform Provider](https://github.com/akamai/terraform-provider-akamai): Infrastructure as code provider for managing Akamai resources.
+- [EdgeGrid Java](https://github.com/akamai/AkamaiOPEN-edgegrid-java): Java authentication library for Akamai OPEN APIs.
+- [EdgeGrid Python](https://github.com/akamai/AkamaiOPEN-edgegrid-python): Python authentication library for Akamai OPEN APIs.
+- [EdgeGrid Go](https://github.com/akamai/AkamaiOPEN-edgegrid-golang): Go library for signing Akamai API requests.
+- [EdgeWorkers Examples](https://github.com/akamai/edgeworkers-examples): Sample applications and code patterns for EdgeWorkers development.

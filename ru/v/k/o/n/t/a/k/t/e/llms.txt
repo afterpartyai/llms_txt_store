@@ -1,0 +1,74 @@
+# VK
+> VK is a social networking and internet services platform offering messaging, communities, media, developer APIs, and business tools.
+
+VK provides consumer social products alongside developer, advertising, and business resources. Its public documentation spans platform APIs, mini apps, authentication, payments, and community management.
+
+## Main Platform
+- [VK Home](https://vk.com/): Main entry point to VK social networking, messaging, media, and community features.
+- [VK Video](https://vk.com/video): Video discovery and playback section for user and community media content.
+- [VK Music](https://vk.com/music): Music listening area integrated into the VK platform experience.
+- [VK Clips](https://vk.com/clips): Short-form vertical video feed for creators and viewers.
+- [VK Communities](https://vk.com/groups): Directory and management entry point for groups, publics, and communities.
+- [VK Games](https://vk.com/games): Browser and platform games catalog available within VK.
+- [VK Mini Apps](https://vk.com/apps): Catalog of apps and mini apps available inside VK.
+
+## Developer Platform
+- [VK Developers](https://dev.vk.com/): Central portal for VK platform documentation, APIs, SDKs, and integration guides.
+- [API Reference](https://dev.vk.com/reference): Reference documentation for VK API methods, objects, and platform capabilities.
+- [Mini Apps](https://dev.vk.com/mini-apps): Documentation for building and publishing VK Mini Apps.
+- [VK ID](https://dev.vk.com/vkid): Developer documentation for VK ID authentication and identity services.
+- [Web API](https://dev.vk.com/api): Overview and usage guidance for VK API integration.
+- [SDKs](https://dev.vk.com/sdk): Official SDK documentation and integration resources for supported platforms.
+
+## API Reference
+- [API Methods](https://dev.vk.com/method): Method-by-method reference for VK API endpoints and parameters.
+- [API Objects](https://dev.vk.com/reference/objects): Data model reference for VK API object types and fields.
+- [API Errors](https://dev.vk.com/reference/errors): Error codes and troubleshooting information for VK API requests.
+- [Versioning](https://dev.vk.com/reference/versioning): Information about VK API versions and compatibility expectations.
+- [Rate Limits](https://dev.vk.com/reference/limits): Platform limits and request restrictions for VK API consumers.
+
+## Authentication and Identity
+- [Authorization](https://dev.vk.com/api/access-token/getting-started): Getting started with VK API authorization and access tokens.
+- [OAuth](https://dev.vk.com/api/access-token/implicit-flow-user): OAuth flow documentation for user authorization scenarios.
+- [Service Token](https://dev.vk.com/api/access-token/service-token): Service token usage for server-side VK API access.
+- [Community Token](https://dev.vk.com/api/community-management/getting-started): Community-related API access and token usage guidance.
+- [VK ID Overview](https://dev.vk.com/vkid): Overview of VK ID for login and identity integration.
+- [Widget Auth](https://dev.vk.com/widgets/auth): Authentication widget documentation for embedding VK login.
+
+## Mini Apps and Widgets
+- [Mini Apps Overview](https://dev.vk.com/mini-apps/overview): Introduction to VK Mini Apps architecture, capabilities, and lifecycle.
+- [Getting Started](https://dev.vk.com/mini-apps/getting-started): First steps for creating and launching a VK Mini App.
+- [Bridge API](https://dev.vk.com/bridge): JavaScript bridge documentation for VK client integrations.
+- [Design Guidelines](https://dev.vk.com/mini-apps/design-guidelines): UI and UX recommendations for VK Mini Apps.
+- [Publication](https://dev.vk.com/mini-apps/publication): Requirements and process for publishing a VK Mini App.
+- [Widgets](https://dev.vk.com/widgets): Documentation for VK widgets embedded on external websites.
+
+## Community and Social Integrations
+- [Community Management](https://dev.vk.com/api/community-management): Guides for managing communities through VK platform tools and APIs.
+- [Bots Long Poll API](https://dev.vk.com/api/bots-long-poll/getting-started): Receive community events and bot updates via Long Poll.
+- [Callback API](https://dev.vk.com/api/callback/getting-started): Server-side event delivery for communities using Callback API.
+- [Messages API](https://dev.vk.com/api/community-messages/getting-started): Build messaging integrations for community conversations and automation.
+- [Streaming API](https://dev.vk.com/api/streaming/getting-started): Access VK streaming data for moderation and analytics scenarios.
+- [Embedded Posts](https://dev.vk.com/widgets/post): Widget documentation for embedding VK posts on websites.
+
+## Payments and Monetization
+- [VK Pay for Developers](https://dev.vk.com/mini-apps/vk-pay): Payment integration documentation for VK Mini Apps and services.
+- [Orders and Payments](https://dev.vk.com/mini-apps/vk-pay/merchant): Merchant-oriented payment flow and order handling guidance.
+- [Donut API](https://dev.vk.com/api/donut/getting-started): Tools and API guidance for VK Donut community monetization.
+- [Ads API](https://ads.vk.com/help/tools/api): API documentation for advertising automation and campaign management.
+- [Business Tools](https://vk.com/business): VK business entry point for promotion, commerce, and audience engagement.
+
+## SDKs and Tools
+- [VK Bridge](https://dev.vk.com/bridge): Cross-platform bridge library for VK Mini Apps client capabilities.
+- [VKUI](https://vkcom.github.io/VKUI/): UI component library for building interfaces consistent with VK products.
+- [OpenAPI JavaScript SDK](https://dev.vk.com/sdk/javascript): JavaScript SDK resources for VK web integrations.
+- [Android SDK](https://dev.vk.com/sdk/android): Android SDK documentation for VK authorization and platform features.
+- [iOS SDK](https://dev.vk.com/sdk/ios): iOS SDK documentation for integrating VK into Apple applications.
+- [API Console](https://dev.vk.com/api/api-requests): Interactive tools and examples for testing VK API requests.
+
+## Help and Support
+- [VK Help](https://vk.com/support): User support center for VK platform questions and account issues.
+- [Developers Support](https://dev.vk.com/support): Support resources for developers using VK APIs and platform products.
+- [Rules for Developers](https://dev.vk.com/rules): Platform rules and requirements for VK developers and integrations.
+- [Mini Apps Moderation](https://dev.vk.com/mini-apps/moderation): Moderation requirements and review criteria for VK Mini Apps.
+- [Brand Resources](https://vk.com/brand): VK brand assets and usage guidance for partners and developers.

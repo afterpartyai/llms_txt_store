@@ -1,0 +1,73 @@
+# Run.app
+> Run.app is a cloud platform for deploying, running, and scaling containerized applications and jobs.
+
+Run.app provides managed infrastructure for running containers with support for services, jobs, networking, storage, observability, and developer workflows.
+
+## Documentation
+- [Documentation Home](https://run.app/docs): Main entry point for platform documentation and product guides.
+- [Getting Started](https://run.app/docs/getting-started): Introductory guide for deploying your first application on Run.app.
+- [Deployments](https://run.app/docs/deployments): Documentation for creating and managing application deployments.
+- [Services](https://run.app/docs/services): Guides for configuring long-running service workloads.
+- [Jobs](https://run.app/docs/jobs): Documentation for running one-off and scheduled job workloads.
+- [Networking](https://run.app/docs/networking): Guides for ingress, routing, and network configuration.
+- [Storage](https://run.app/docs/storage): Documentation for persistent and attached storage options.
+
+## Core Concepts
+- [Projects](https://run.app/docs/projects): Overview of project organization and resource isolation.
+- [Regions](https://run.app/docs/regions): Information about deployment regions and workload placement.
+- [Containers](https://run.app/docs/containers): Guidance on container images, runtime expectations, and configuration.
+- [Environment Variables](https://run.app/docs/environment-variables): How to define and manage runtime environment variables.
+- [Secrets](https://run.app/docs/secrets): Managing sensitive configuration and secret injection.
+- [Scaling](https://run.app/docs/scaling): Configuration for autoscaling and workload capacity behavior.
+- [Health Checks](https://run.app/docs/health-checks): Readiness and liveness checks for reliable deployments.
+
+## Deployment & Operations
+- [Builds](https://run.app/docs/builds): Build and image preparation workflows for application deployment.
+- [Releases](https://run.app/docs/releases): Managing rollout lifecycle and release versions.
+- [Rollbacks](https://run.app/docs/rollbacks): Restoring previous versions after a failed deployment.
+- [Logs](https://run.app/docs/logs): Accessing and interpreting application and platform logs.
+- [Metrics](https://run.app/docs/metrics): Monitoring workload performance and operational metrics.
+- [Troubleshooting](https://run.app/docs/troubleshooting): Common issues and diagnostic steps for deployments.
+- [Custom Domains](https://run.app/docs/custom-domains): Configuring custom hostnames and domain routing.
+
+## API & CLI
+- [API Overview](https://run.app/docs/api): Overview of programmatic access to Run.app resources.
+- [API Reference](https://run.app/docs/api/reference): Endpoint-level reference for the Run.app API.
+- [Authentication](https://run.app/docs/api/authentication): API authentication methods and credential handling.
+- [CLI Overview](https://run.app/docs/cli): Introduction to the Run.app command-line interface.
+- [CLI Installation](https://run.app/docs/cli/installation): Install and configure the Run.app CLI locally.
+- [CLI Commands](https://run.app/docs/cli/commands): Reference for available CLI commands and usage patterns.
+- [Webhooks](https://run.app/docs/webhooks): Event delivery and webhook integration documentation.
+
+## Guides
+- [Deploy a Web App](https://run.app/docs/guides/deploy-web-app): Step-by-step guide for deploying a web application.
+- [Deploy a Worker](https://run.app/docs/guides/deploy-worker): Guide for running background worker processes on Run.app.
+- [Run Scheduled Jobs](https://run.app/docs/guides/scheduled-jobs): Configure recurring jobs and scheduled execution.
+- [Connect a Database](https://run.app/docs/guides/connect-database): Guidance for attaching and using external databases.
+- [Zero-Downtime Deployments](https://run.app/docs/guides/zero-downtime-deployments): Practices for safe rollouts without service interruption.
+- [Private Networking](https://run.app/docs/guides/private-networking): Set up internal connectivity and restricted network access.
+- [Production Readiness](https://run.app/docs/guides/production-readiness): Checklist and recommendations for production deployments.
+
+## Security
+- [Security Overview](https://run.app/docs/security): Overview of platform security features and responsibilities.
+- [Access Control](https://run.app/docs/security/access-control): Managing users, roles, and permissions.
+- [SSO](https://run.app/docs/security/sso): Single sign-on configuration and identity provider integration.
+- [Audit Logs](https://run.app/docs/security/audit-logs): Tracking administrative and operational events.
+- [Data Protection](https://run.app/docs/security/data-protection): Information about encryption and data handling practices.
+- [Compliance](https://run.app/docs/security/compliance): Compliance posture and supported standards.
+
+## Integrations
+- [GitHub](https://run.app/docs/integrations/github): Connect GitHub repositories for deployment workflows.
+- [GitLab](https://run.app/docs/integrations/gitlab): Integrate GitLab with build and deployment pipelines.
+- [Container Registry](https://run.app/docs/integrations/container-registry): Use external registries for storing and pulling images.
+- [Terraform](https://run.app/docs/integrations/terraform): Infrastructure as code workflows using Terraform.
+- [Monitoring Integrations](https://run.app/docs/integrations/monitoring): Connect external monitoring and observability tools.
+- [CI/CD](https://run.app/docs/integrations/ci-cd): Automate builds and deployments from CI/CD systems.
+
+## Support & Company
+- [Status](https://run.app/status): Service status page for uptime and incident visibility.
+- [Support](https://run.app/support): Contact and support resources for Run.app users.
+- [Pricing](https://run.app/pricing): Pricing information for platform usage and plans.
+- [Blog](https://run.app/blog): Product updates, announcements, and technical articles.
+- [Changelog](https://run.app/changelog): Chronological record of product changes and releases.
+- [Contact](https://run.app/contact): General contact page for sales and company inquiries.

@@ -1,0 +1,52 @@
+# Google Public DNS
+> Google Public DNS is a free, global Domain Name System resolver service focused on speed, security, and correctness.
+
+Google Public DNS provides public recursive DNS resolution, operational guidance, troubleshooting information, and management tools such as cache flushing. Documentation is primarily hosted on developers.google.com, with the main service entry point at dns.google.
+
+## Core Service
+- [Google Public DNS Home](https://dns.google/): Main entry point for the public DNS resolver service and related tools.
+- [Get Started with Google Public DNS](https://developers.google.com/speed/public-dns/docs/using): Setup instructions for configuring devices and networks to use Google Public DNS.
+- [Google Public DNS Help](https://developers.google.com/speed/public-dns): Overview of the service, features, and support documentation.
+- [Cache Flush Tool](https://dns.google/cache): Request cache refreshes for publicly cached DNS records.
+
+## Getting Started
+- [Using Google Public DNS](https://developers.google.com/speed/public-dns/docs/using): Step-by-step configuration guidance for clients, routers, and operating systems.
+- [DNS-over-HTTPS (DoH)](https://developers.google.com/speed/public-dns/docs/doh): Configure and use Google Public DNS over HTTPS endpoints.
+- [DNS-over-TLS (DoT)](https://developers.google.com/speed/public-dns/docs/dns-over-tls): Configure and use encrypted DNS resolution over TLS.
+- [Namebench](https://developers.google.com/speed/public-dns/docs/namebench): Benchmark DNS resolver performance and compare response times.
+
+## Troubleshooting
+- [Troubleshooting Google Public DNS](https://developers.google.com/speed/public-dns/docs/troubleshooting): Diagnose resolution failures, latency issues, and common configuration problems.
+- [DNS64](https://developers.google.com/speed/public-dns/docs/dns64): Learn how Google Public DNS supports DNS64 for IPv6-only networks.
+- [Cache Flush Tool](https://dns.google/cache): Submit domains for cache refresh when DNS changes are not yet visible.
+- [Frequently Asked Questions](https://developers.google.com/speed/public-dns/faq): Answers to common questions about behavior, privacy, and resolver operation.
+
+## Secure DNS
+- [DNS-over-HTTPS (DoH)](https://developers.google.com/speed/public-dns/docs/doh): Encrypted DNS queries over HTTPS for privacy and integrity.
+- [DNS-over-TLS (DoT)](https://developers.google.com/speed/public-dns/docs/dns-over-tls): Encrypted DNS transport using standard TLS-based resolver connections.
+- [Secure Transports](https://developers.google.com/speed/public-dns/docs/secure-transports): Overview of supported encrypted DNS transport options and usage considerations.
+- [DNS64](https://developers.google.com/speed/public-dns/docs/dns64): IPv6 transition support for clients accessing IPv4-only destinations.
+
+## Reference
+- [Supported DNS Record Types](https://developers.google.com/speed/public-dns/docs/records): Reference for record types handled by Google Public DNS.
+- [Google Public DNS API](https://developers.google.com/speed/public-dns/docs/doh/json): JSON API interface for DNS-over-HTTPS queries.
+- [DNS-over-HTTPS (DoH)](https://developers.google.com/speed/public-dns/docs/doh): Protocol details, endpoints, and request examples.
+- [Frequently Asked Questions](https://developers.google.com/speed/public-dns/faq): Reference answers covering resolver policies, standards, and expected behavior.
+
+## Policies and Privacy
+- [Privacy](https://developers.google.com/speed/public-dns/privacy): Privacy practices and data handling for Google Public DNS queries.
+- [Security](https://developers.google.com/speed/public-dns/docs/security): Security design considerations and protections for the resolver service.
+- [Frequently Asked Questions](https://developers.google.com/speed/public-dns/faq): Policy-related clarifications on logging, ECS, and standards compliance.
+- [Google Public DNS Overview](https://developers.google.com/speed/public-dns): Service goals, operational principles, and feature summary.
+
+## Tools
+- [Cache Flush Tool](https://dns.google/cache): Web tool for requesting refresh of cached DNS resource records.
+- [Namebench](https://developers.google.com/speed/public-dns/docs/namebench): Utility for testing and comparing DNS resolver performance.
+- [Google Public DNS JSON API](https://developers.google.com/speed/public-dns/docs/doh/json): Programmatic DNS query interface over HTTPS returning JSON responses.
+- [Google Public DNS Home](https://dns.google/): Access service information and DNS lookup-related entry points.
+
+## Support
+- [Google Public DNS Help](https://developers.google.com/speed/public-dns): Central documentation hub for setup, troubleshooting, and service details.
+- [Troubleshooting Google Public DNS](https://developers.google.com/speed/public-dns/docs/troubleshooting): Resolve common operational and configuration issues.
+- [Frequently Asked Questions](https://developers.google.com/speed/public-dns/faq): Quick answers to common support and usage questions.
+- [Get Started with Google Public DNS](https://developers.google.com/speed/public-dns/docs/using): Initial setup guide for new users and administrators.

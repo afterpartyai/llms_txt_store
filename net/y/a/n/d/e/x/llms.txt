@@ -1,0 +1,77 @@
+# Yandex
+> Yandex is a technology company offering search, cloud, maps, mail, advertising, and developer platforms.
+
+This llms.txt highlights major developer, API, cloud, and product documentation across Yandex properties, prioritizing technical references and support resources.
+
+## Developer Platform
+- [Yandex Developer](https://yandex.com/dev/): Central hub for Yandex APIs, SDKs, and developer documentation.
+- [Documentation](https://yandex.com/dev/docs/): Entry point for Yandex developer product documentation and references.
+- [Support](https://yandex.com/dev/support/): Developer support resources for Yandex platform users.
+- [OAuth](https://yandex.com/dev/id/): Documentation for Yandex ID and authorization-related integrations.
+
+## Yandex Cloud
+- [Yandex Cloud Documentation](https://yandex.cloud/en/docs/): Main documentation for Yandex Cloud services and platform usage.
+- [Getting Started](https://yandex.cloud/en/docs/getting-started/): Introductory guides for creating and configuring cloud resources.
+- [CLI](https://yandex.cloud/en/docs/cli/): Reference and setup instructions for the Yandex Cloud command-line interface.
+- [API Reference](https://yandex.cloud/en/docs/api-design-guide/): API usage conventions and integration guidance for cloud services.
+- [Terraform](https://yandex.cloud/en/docs/tutorials/infrastructure-management/terraform-quickstart): Quickstart for managing Yandex Cloud infrastructure with Terraform.
+- [IAM](https://yandex.cloud/en/docs/iam/): Identity and access management concepts, roles, and authentication methods.
+
+## Compute and Infrastructure
+- [Compute Cloud](https://yandex.cloud/en/docs/compute/): Documentation for virtual machines, disks, images, and instance management.
+- [Virtual Private Cloud](https://yandex.cloud/en/docs/vpc/): Networking documentation for subnets, routes, gateways, and security groups.
+- [BareMetal](https://yandex.cloud/en/docs/baremetal/): Documentation for dedicated bare metal infrastructure in Yandex Cloud.
+- [Managed Service for Kubernetes](https://yandex.cloud/en/docs/managed-kubernetes/): Guides and references for managed Kubernetes clusters.
+- [Container Registry](https://yandex.cloud/en/docs/container-registry/): Documentation for storing and managing container images.
+- [Serverless Containers](https://yandex.cloud/en/docs/serverless-containers/): Reference for deploying and operating serverless container workloads.
+
+## Data and AI
+- [Object Storage](https://yandex.cloud/en/docs/storage/): Documentation for S3-compatible object storage and bucket operations.
+- [Managed Service for PostgreSQL](https://yandex.cloud/en/docs/managed-postgresql/): Service documentation for hosted PostgreSQL clusters and administration.
+- [Managed Service for ClickHouse](https://yandex.cloud/en/docs/managed-clickhouse/): Documentation for managed ClickHouse analytics clusters.
+- [Data Proc](https://yandex.cloud/en/docs/dataproc/): Managed Hadoop and Spark service documentation.
+- [DataSphere](https://yandex.cloud/en/docs/datasphere/): Documentation for machine learning development and collaborative notebooks.
+- [SpeechKit](https://yandex.cloud/en/docs/speechkit/): Speech recognition and synthesis APIs, concepts, and examples.
+- [Translate](https://yandex.cloud/en/docs/translate/): Machine translation service documentation and API usage.
+- [Vision](https://yandex.cloud/en/docs/vision/): Computer vision API documentation for OCR and image analysis.
+
+## Maps and Geoservices
+- [Yandex Maps API](https://yandex.com/dev/maps/): Developer hub for Yandex Maps APIs and geoservices.
+- [JavaScript API](https://yandex.com/dev/maps/jsapi/): Documentation for embedding and customizing interactive maps on the web.
+- [Static API](https://yandex.com/dev/maps/staticapi/): Reference for generating static map images via HTTP requests.
+- [Geocoder API](https://yandex.com/dev/geocode/): API documentation for geocoding and reverse geocoding requests.
+- [Routing API](https://yandex.com/dev/routing/): Documentation for route building and logistics-related geoservices.
+- [MapKit](https://yandex.com/dev/mapkit/): SDK documentation for integrating Yandex maps into mobile applications.
+
+## Identity and Authentication
+- [Yandex ID](https://yandex.com/dev/id/): Overview of Yandex identity platform and integration options.
+- [OAuth Documentation](https://yandex.com/dev/id/doc/en/): Authorization flows, scopes, and token handling for Yandex APIs.
+- [Login Integration](https://yandex.com/dev/id/doc/en/concepts/about): Concepts for implementing Yandex sign-in and account access.
+- [Web SDK](https://yandex.com/dev/id/doc/en/sdk/web/): Web integration guidance for Yandex ID authentication flows.
+
+## Webmaster and Search
+- [Yandex Webmaster](https://webmaster.yandex.com/): Tools for site indexing, diagnostics, and search performance monitoring.
+- [Webmaster Help](https://yandex.com/support/webmaster/): Official help center for Yandex Webmaster tools and reports.
+- [Indexing](https://yandex.com/support/webmaster/en/robot-workings/site-indexing): Guidance on how Yandex indexes websites and pages.
+- [Sitemap Files](https://yandex.com/support/webmaster/en/indexing-options/sitemap): Instructions for sitemap submission and processing.
+- [Turbo Pages](https://yandex.com/support/webmaster/en/turbo/): Documentation for creating and managing Turbo pages.
+
+## Advertising APIs
+- [Yandex Direct API](https://yandex.com/dev/direct/): API documentation for managing Yandex Direct advertising campaigns.
+- [Direct API Reference](https://yandex.com/dev/direct/doc/en/): Methods, objects, and integration details for Direct API clients.
+- [Yandex Metrica](https://yandex.com/support/metrica/): Analytics platform help and implementation documentation.
+- [Metrica Tag](https://yandex.com/support/metrica/en/code/counter-initialize): Instructions for installing and configuring the Metrica tracking tag.
+- [AppMetrica](https://appmetrica.yandex.com/docs/en/): Documentation for mobile app analytics and attribution.
+
+## Mail and Communication APIs
+- [Yandex Mail for Domain](https://yandex.com/support/mail360/): Documentation for hosted mail administration and domain setup.
+- [Yandex 360 Admin](https://yandex.com/support/yandex-360/): Help resources for Yandex 360 collaboration and administration.
+- [Tracker](https://yandex.ru/support/tracker/): Documentation for Yandex Tracker issue management workflows.
+- [Telemost](https://yandex.com/support/telemost/): Help documentation for Yandex Telemost meetings and communication tools.
+
+## Support and Help
+- [Yandex Support](https://yandex.com/support/): Main support portal for Yandex products and services.
+- [Yandex Browser Help](https://browser.yandex.com/help/): User documentation for Yandex Browser features and settings.
+- [Yandex Mail Help](https://yandex.com/support/mail/): Help center for Yandex Mail usage and troubleshooting.
+- [Yandex Disk Help](https://yandex.com/support/disk/): Documentation for cloud file storage and synchronization.
+- [Yandex Maps Help](https://yandex.com/support/maps/): User help for Yandex Maps and related geoservices.

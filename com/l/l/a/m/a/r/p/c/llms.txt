@@ -1,0 +1,63 @@
+# LlamaNodes
+> LlamaNodes provides public and premium blockchain RPC endpoints with advanced features, crypto payments, and no contracts.
+
+LlamaNodes offers managed RPC infrastructure for multiple blockchain networks, including public and premium endpoints, developer tooling, and service information for teams integrating reliable node access.
+
+## Documentation
+- [Documentation Home](https://llamarpc.com/docs): Overview of LlamaNodes documentation, setup guidance, and product information.
+- [Supported Chains](https://llamarpc.com/docs/supported-chains): List of blockchain networks available through LlamaNodes RPC infrastructure.
+- [Getting Started](https://llamarpc.com/docs/getting-started): Introductory guide for connecting applications to LlamaNodes endpoints.
+- [Authentication](https://llamarpc.com/docs/authentication): Explains API key usage and access patterns for protected RPC endpoints.
+- [Rate Limits](https://llamarpc.com/docs/rate-limits): Details request limits, throughput expectations, and usage considerations.
+- [Error Codes](https://llamarpc.com/docs/error-codes): Reference for common RPC and platform error responses.
+
+## RPC Services
+- [Public RPC](https://llamarpc.com/public-rpc): Public RPC offering for developers needing open blockchain endpoint access.
+- [Premium RPC](https://llamarpc.com/premium-rpc): Dedicated and higher-performance RPC access with enhanced reliability and features.
+- [Archive RPC](https://llamarpc.com/archive-rpc): Historical blockchain state access for indexing, analytics, and advanced queries.
+- [Dedicated Nodes](https://llamarpc.com/dedicated-nodes): Private node infrastructure for teams requiring isolated blockchain access.
+- [WebSocket RPC](https://llamarpc.com/websocket-rpc): Real-time blockchain event and subscription access over WebSocket connections.
+
+## Supported Networks
+- [Ethereum RPC](https://llamarpc.com/ethereum): RPC access for Ethereum mainnet applications and infrastructure workloads.
+- [Arbitrum RPC](https://llamarpc.com/arbitrum): RPC endpoints for Arbitrum applications, transactions, and onchain data access.
+- [Optimism RPC](https://llamarpc.com/optimism): RPC service for Optimism-based applications and developer integrations.
+- [Polygon RPC](https://llamarpc.com/polygon): RPC endpoints for Polygon transactions, contracts, and data queries.
+- [Base RPC](https://llamarpc.com/base): RPC access for Base ecosystem development and production workloads.
+- [BNB Chain RPC](https://llamarpc.com/bnb-chain): RPC service for BNB Chain applications and smart contract interactions.
+- [Avalanche RPC](https://llamarpc.com/avalanche): RPC endpoints for Avalanche C-Chain development and infrastructure use.
+- [Solana RPC](https://llamarpc.com/solana): RPC access for Solana applications, transactions, and network data retrieval.
+
+## Guides
+- [Connect Your Wallet or App](https://llamarpc.com/docs/guides/connect-your-wallet-or-app): Guide to configuring wallets and applications with LlamaNodes RPC URLs.
+- [Switch RPC Providers](https://llamarpc.com/docs/guides/switch-rpc-providers): Steps for migrating existing applications from another RPC provider.
+- [Use WebSocket Endpoints](https://llamarpc.com/docs/guides/use-websocket-endpoints): Guide to subscribing to blockchain events using WebSocket RPC.
+- [Choose Between Public and Premium RPC](https://llamarpc.com/docs/guides/public-vs-premium-rpc): Comparison of access tiers and recommended use cases.
+- [Handle RPC Failures](https://llamarpc.com/docs/guides/handle-rpc-failures): Best practices for retries, failover, and resilient RPC integrations.
+- [Optimize RPC Performance](https://llamarpc.com/docs/guides/optimize-rpc-performance): Recommendations for reducing latency and improving request efficiency.
+
+## API Reference
+- [JSON-RPC Methods](https://llamarpc.com/docs/api/json-rpc-methods): Reference for supported blockchain JSON-RPC method usage through LlamaNodes.
+- [HTTP Endpoints](https://llamarpc.com/docs/api/http-endpoints): Describes HTTP endpoint structure, request formatting, and access patterns.
+- [WebSocket Methods](https://llamarpc.com/docs/api/websocket-methods): Reference for subscription and event-driven RPC interactions over WebSocket.
+- [API Keys](https://llamarpc.com/docs/api/api-keys): Details creating, managing, and using API keys with LlamaNodes services.
+- [Usage Metrics](https://llamarpc.com/docs/api/usage-metrics): Explains available usage tracking and monitoring capabilities for accounts.
+
+## Pricing and Plans
+- [Pricing](https://llamarpc.com/pricing): Plan comparison for public, premium, and advanced RPC service options.
+- [Enterprise](https://llamarpc.com/enterprise): Information for larger teams needing custom infrastructure and support arrangements.
+- [Crypto Payments](https://llamarpc.com/crypto-payments): Explains payment options available for purchasing LlamaNodes services.
+- [No Contracts](https://llamarpc.com/no-contracts): Overview of flexible service terms without long-term contractual commitments.
+
+## Company
+- [About](https://llamarpc.com/about): Background on LlamaNodes and its blockchain infrastructure offering.
+- [Contact](https://llamarpc.com/contact): Contact page for sales, support, and general inquiries.
+- [Status](https://llamarpc.com/status): Service health and uptime information for LlamaNodes infrastructure.
+- [Support](https://llamarpc.com/support): Support resources for customers using LlamaNodes RPC services.
+- [FAQ](https://llamarpc.com/faq): Answers to common questions about plans, features, and service usage.
+
+## Legal
+- [Terms of Service](https://llamarpc.com/terms): Terms governing use of LlamaNodes products and services.
+- [Privacy Policy](https://llamarpc.com/privacy): Privacy practices for data handling and website usage.
+- [Acceptable Use Policy](https://llamarpc.com/acceptable-use): Rules and restrictions for using LlamaNodes infrastructure.
+- [Service Level Agreement](https://llamarpc.com/sla): Availability and support commitments for qualifying service plans.

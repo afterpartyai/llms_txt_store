@@ -1,0 +1,76 @@
+# Weibo
+> Chinese social media and microblogging platform for public posts, trending topics, creator content, and social interaction.
+
+Weibo is a large-scale social platform operated by Sina, combining short-form publishing, media sharing, livestreaming, celebrity and brand accounts, and real-time discussion around news and entertainment. Public-facing areas include trending topics, search, user profiles, publishing flows, account services, and help resources.
+
+## Main Platform
+- [Home](https://weibo.com/): Main entry to the Weibo web platform and signed-in feed experience.
+- [Explore](https://weibo.com/explore): Discovery area for trending content, topics, and recommended posts.
+- [Hot Search](https://s.weibo.com/top/summary): Ranked list of current hot searches and popular discussions.
+- [Search](https://s.weibo.com/): Public search interface for posts, users, and topics.
+- [Video](https://weibo.com/tv): Video-focused browsing area for clips, shows, and creator media.
+- [Live](https://weibo.com/l/wblive/p/show/1022:232132): Livestream discovery and viewing entry on Weibo.
+
+## Search and Discovery
+- [Search Results](https://s.weibo.com/weibo): Search results page for public Weibo posts by keyword.
+- [User Search](https://s.weibo.com/user): Search interface for finding user accounts and profiles.
+- [Topic Search](https://s.weibo.com/weibo?q=%23): Search and browse hashtag-based topic discussions.
+- [Hot Topics](https://s.weibo.com/top/summary?cate=realtimehot): Real-time hot topic ranking and discussion index.
+- [Entertainment Trends](https://s.weibo.com/top/summary?cate=entrank): Trending entertainment-related topics and rankings.
+- [Social News Trends](https://s.weibo.com/top/summary?cate=socialevent): Ranked social and current-event discussions.
+
+## Accounts and Profiles
+- [User Profiles](https://weibo.com/u/): Canonical path pattern for public user profile pages.
+- [Personal Homepage](https://weibo.com/p/100505): Canonical path pattern for profile and content hubs.
+- [Following](https://weibo.com/myfollow): Signed-in page for accounts the user follows.
+- [Favorites](https://weibo.com/fav): Saved and favorited posts for the signed-in user.
+- [Messages](https://weibo.com/messages): Private messages and conversation inbox.
+- [Settings](https://account.weibo.com/): Account settings, profile management, and security options.
+
+## Publishing and Creator Tools
+- [Compose](https://weibo.com/compose): Post creation flow for text, media, and topic publishing.
+- [Article Publishing](https://card.weibo.com/article/m/show/id/230940): Long-form article display and publishing format on Weibo.
+- [Creator Center](https://weibo.com/ttarticle/p/show?id=230940): Weibo long-form creator content presentation format.
+- [Video Upload](https://weibo.com/upload/video): Video publishing entry for creators and media accounts.
+- [Super Topics](https://weibo.com/p/index?topnav=1&wvr=6&extparam=): Community topic hubs for fan and interest groups.
+- [Weibo Stories](https://weibo.com/story): Story-style short-lived media content area.
+
+## Topics, Communities, and Rankings
+- [Topics](https://huati.weibo.com/): Topic hub for hashtag discussions and themed participation.
+- [Super Topics](https://weibo.com/p/100808): Community pages for fandoms, interests, and recurring discussions.
+- [Topic Ranking](https://huati.weibo.com/k/): Topic keyword pages and participation streams.
+- [Hot Weibo](https://weibo.com/hot/weibo): Popular posts surfaced by platform ranking signals.
+- [Hot Videos](https://weibo.com/hot/video): Ranked and trending video content on the platform.
+- [Hot Users](https://weibo.com/hot/people): Discovery page for notable and trending accounts.
+
+## Login and Registration
+- [Visitor Login](https://passport.weibo.com/visitor/visitor): Visitor system entry for accessing public content.
+- [Sign In](https://passport.weibo.com/): Main Weibo authentication and login service.
+- [Register](https://weibo.com/signup/signup.php): Account registration flow for new users.
+- [Mobile Verification Login](https://passport.weibo.com/sso/signin): Sign-in endpoint for account authentication.
+- [Account Security](https://account.weibo.com/security/index): Security settings for password and verification management.
+- [Password Reset](https://passport.weibo.com/forgetpassword/forgetpassword): Password recovery and reset workflow.
+
+## Help and Support
+- [Help Center](https://kefu.weibo.com/): Official customer service and support portal.
+- [Feedback Center](https://service.account.weibo.com/): User feedback, reports, and service request center.
+- [Community Management Center](https://service.account.weibo.com/?type=community): Community moderation and account issue handling portal.
+- [Appeal Center](https://service.account.weibo.com/?type=appeal): Appeal process for account or content-related actions.
+- [Report Center](https://service.account.weibo.com/reportspam): Reporting portal for spam and abusive behavior.
+- [Verification Services](https://verified.weibo.com/): Official account verification information and services.
+
+## Mobile and Apps
+- [Mobile Weibo](https://m.weibo.cn/): Mobile web version of Weibo for phones and lightweight browsing.
+- [Mobile Search](https://m.weibo.cn/search): Mobile search interface for posts, users, and topics.
+- [Mobile Hot Search](https://m.weibo.cn/p/index?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Drealtimehot): Mobile hot search ranking page.
+- [App Download](https://weibo.com/download): Official download page for Weibo mobile applications.
+- [Open in App](https://m.weibo.cn/download/download.php): Mobile app download and deep-link landing page.
+- [Lite Mobile Site](https://m.weibo.cn/): Lightweight mobile browsing experience for Weibo content.
+
+## Policies and Legal
+- [Terms of Service](https://weibo.com/signup/v5/protocol): User agreement and platform service terms.
+- [Privacy Policy](https://weibo.com/signup/v5/privacy): Privacy policy describing data handling and user rights.
+- [Community Convention](https://weibo.com/aj/static/community/stage): Community rules and behavioral expectations on Weibo.
+- [Intellectual Property Complaints](https://service.account.weibo.com/?type=rights): Rights protection and infringement complaint submission.
+- [Self-Discipline Convention](https://service.account.weibo.com/?type=rule): Platform governance and rule-related service information.
+- [Child Protection and Safety](https://kefu.weibo.com/faqdetail?id=20862): Safety-related help information and policy guidance.

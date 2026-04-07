@@ -1,0 +1,74 @@
+# Alibaba Cloud DNS
+> Alibaba Cloud DNS provides managed authoritative DNS, recursive DNS, and traffic management services for domain resolution.
+
+Alibaba Cloud DNS documentation covers public authoritative DNS, private DNS, DNS security, traffic scheduling, API usage, SDK integration, and operational guides across Alibaba Cloud products.
+
+## Product Overview
+- [Alibaba Cloud DNS Product Page](https://www.alibabacloud.com/product/dns): Overview of managed DNS capabilities, features, and deployment scenarios.
+- [Alibaba Cloud DNS Documentation](https://www.alibabacloud.com/help/en/dns): Central documentation hub for Alibaba Cloud DNS products and features.
+- [Alibaba Cloud DNS Pricing](https://www.alibabacloud.com/product/dns/pricing): Pricing information for DNS editions and related service capabilities.
+- [What is Alibaba Cloud DNS?](https://www.alibabacloud.com/help/en/dns/product-overview/what-is-alibaba-cloud-dns): Introduction to Alibaba Cloud DNS architecture, use cases, and core functions.
+
+## Getting Started
+- [Quick Start](https://www.alibabacloud.com/help/en/dns/getting-started): Entry point for initial DNS setup and service onboarding tasks.
+- [Activate Alibaba Cloud DNS](https://www.alibabacloud.com/help/en/dns/getting-started/activate-alibaba-cloud-dns): Steps to enable the service and begin managing DNS zones.
+- [Add a Domain Name](https://www.alibabacloud.com/help/en/dns/getting-started/add-a-domain-name): Instructions for adding a domain and preparing it for resolution.
+- [Configure DNS Records](https://www.alibabacloud.com/help/en/dns/getting-started/configure-dns-records): Basic record management workflow for common DNS record types.
+- [Change DNS Servers](https://www.alibabacloud.com/help/en/dns/getting-started/change-dns-servers): Guidance for updating registrar nameserver settings to Alibaba Cloud DNS.
+
+## User Guide
+- [Manage DNS Records](https://www.alibabacloud.com/help/en/dns/user-guide/manage-dns-records): Procedures for creating, editing, and deleting DNS records.
+- [DNS Record Types](https://www.alibabacloud.com/help/en/dns/user-guide/dns-record-types): Reference for supported record types and their intended usage.
+- [Line-based DNS](https://www.alibabacloud.com/help/en/dns/user-guide/line-based-dns): Configure routing by ISP line or geographic resolution policies.
+- [TTL Settings](https://www.alibabacloud.com/help/en/dns/user-guide/ttl-settings): Explanation of TTL behavior and operational tradeoffs for caching.
+- [Subdomain Management](https://www.alibabacloud.com/help/en/dns/user-guide/subdomain-management): Organize and delegate subdomains within managed DNS zones.
+- [Batch Operations](https://www.alibabacloud.com/help/en/dns/user-guide/batch-operations): Perform bulk DNS changes efficiently across records and domains.
+
+## Traffic Management and Advanced DNS
+- [Intelligent DNS Resolution](https://www.alibabacloud.com/help/en/dns/user-guide/intelligent-dns-resolution): Route users based on network line, region, or policy conditions.
+- [Failover and Disaster Recovery](https://www.alibabacloud.com/help/en/dns/user-guide/failover-and-disaster-recovery): Improve availability with DNS-based failover and recovery strategies.
+- [Weighted Round Robin](https://www.alibabacloud.com/help/en/dns/user-guide/weighted-round-robin): Distribute traffic across endpoints using weighted DNS responses.
+- [URL Forwarding](https://www.alibabacloud.com/help/en/dns/user-guide/url-forwarding): Redirect requests at the DNS service layer for supported scenarios.
+- [Secondary DNS](https://www.alibabacloud.com/help/en/dns/user-guide/secondary-dns): Configure secondary DNS synchronization and redundancy options.
+
+## Private DNS
+- [Private DNS Overview](https://www.alibabacloud.com/help/en/dns/private-dns): Documentation hub for private DNS in VPC environments.
+- [What is Private DNS?](https://www.alibabacloud.com/help/en/dns/private-dns/product-overview/what-is-private-dns): Overview of private zone resolution for internal cloud networks.
+- [Create a Private Zone](https://www.alibabacloud.com/help/en/dns/private-dns/getting-started/create-a-private-zone): Set up internal DNS zones for VPC-based name resolution.
+- [Associate a VPC](https://www.alibabacloud.com/help/en/dns/private-dns/user-guide/associate-a-vpc): Bind private DNS zones to one or more VPCs.
+- [Private Zone Records](https://www.alibabacloud.com/help/en/dns/private-dns/user-guide/private-zone-records): Manage internal DNS records for private service discovery.
+- [Private DNS Best Practices](https://www.alibabacloud.com/help/en/dns/private-dns/best-practices): Recommendations for scalable and reliable internal DNS design.
+
+## API Reference
+- [API Overview](https://www.alibabacloud.com/help/en/dns/api-overview): Introduction to Alibaba Cloud DNS OpenAPI usage and authentication.
+- [API Reference](https://www.alibabacloud.com/help/en/dns/api-reference): Complete reference for DNS operations, parameters, and responses.
+- [DescribeDomains](https://www.alibabacloud.com/help/en/dns/api-reference/api-alidns-2015-01-09-describedomains): List managed domains and related metadata through the API.
+- [DescribeDomainRecords](https://www.alibabacloud.com/help/en/dns/api-reference/api-alidns-2015-01-09-describedomainrecords): Query DNS records for a specified domain name.
+- [AddDomainRecord](https://www.alibabacloud.com/help/en/dns/api-reference/api-alidns-2015-01-09-adddomainrecord): Create a new DNS record in a managed zone.
+- [UpdateDomainRecord](https://www.alibabacloud.com/help/en/dns/api-reference/api-alidns-2015-01-09-updatedomainrecord): Modify an existing DNS record through the OpenAPI.
+- [DeleteDomainRecord](https://www.alibabacloud.com/help/en/dns/api-reference/api-alidns-2015-01-09-deletedomainrecord): Remove a DNS record from a managed domain.
+
+## SDKs and Developer Tools
+- [Alibaba Cloud OpenAPI Explorer](https://api.aliyun.com/product/Alidns): Interactive console for testing Alibaba Cloud DNS API operations.
+- [Alibaba Cloud SDK Overview](https://www.alibabacloud.com/help/en/sdk): Entry point for SDK documentation across supported languages.
+- [Python SDK](https://www.alibabacloud.com/help/en/sdk/developer-reference/python): Use the Python SDK to call Alibaba Cloud APIs.
+- [Java SDK](https://www.alibabacloud.com/help/en/sdk/developer-reference/java): Use the Java SDK for DNS automation and integration.
+- [Go SDK](https://www.alibabacloud.com/help/en/sdk/developer-reference/go): Use the Go SDK to build DNS management tooling.
+- [Node.js SDK](https://www.alibabacloud.com/help/en/sdk/developer-reference/node-js): Use the Node.js SDK for programmatic DNS operations.
+- [CLI Overview](https://www.alibabacloud.com/help/en/cli): Command-line tooling for managing Alibaba Cloud resources.
+
+## Operations and Best Practices
+- [Best Practices](https://www.alibabacloud.com/help/en/dns/best-practices): Curated operational recommendations for DNS reliability and governance.
+- [DNS Security Best Practices](https://www.alibabacloud.com/help/en/dns/best-practices/dns-security-best-practices): Guidance for protecting domains and reducing DNS attack exposure.
+- [High Availability Architecture](https://www.alibabacloud.com/help/en/dns/best-practices/high-availability-architecture): Design patterns for resilient DNS deployments and failover.
+- [Migration to Alibaba Cloud DNS](https://www.alibabacloud.com/help/en/dns/best-practices/migration-to-alibaba-cloud-dns): Plan and execute migration from another DNS provider.
+- [Troubleshooting](https://www.alibabacloud.com/help/en/dns/troubleshooting): Resolve common DNS configuration, propagation, and resolution issues.
+- [FAQ](https://www.alibabacloud.com/help/en/dns/faq): Answers to common questions about features, limits, and operations.
+
+## Related Services
+- [Domain Names](https://www.alibabacloud.com/product/domain): Domain registration and lifecycle management on Alibaba Cloud.
+- [Anti-DDoS](https://www.alibabacloud.com/product/anti-ddos): DDoS protection services that complement DNS and edge availability.
+- [Web Application Firewall](https://www.alibabacloud.com/product/waf): Application-layer protection for web properties behind DNS endpoints.
+- [Global Traffic Manager](https://www.alibabacloud.com/product/global-traffic-manager): Global traffic steering and health-aware routing for distributed services.
+- [Server Load Balancer](https://www.alibabacloud.com/product/server-load-balancer): Load balancing service commonly paired with DNS-based traffic distribution.
+- [CDN](https://www.alibabacloud.com/product/cdn): Content delivery service integrated with domain acceleration and DNS workflows.

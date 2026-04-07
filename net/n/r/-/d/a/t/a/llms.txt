@@ -1,0 +1,60 @@
+# NR Data
+> NR Data provides data products, APIs, and documentation for UK rail network and timetable information.
+
+NR Data is the Network Rail data portal, offering access to operational rail datasets, APIs, onboarding information, and technical documentation for developers and data consumers.
+
+## Getting Started
+- [Home](https://nr-data.net/): Main portal for accessing Network Rail data products, APIs, and platform information.
+- [Register](https://nr-data.net/register): Create an account to access datasets, APIs, and developer resources.
+- [Login](https://nr-data.net/login): Sign in to manage access to Network Rail data services.
+- [About](https://nr-data.net/about): Overview of the NR Data platform and its purpose.
+- [Contact](https://nr-data.net/contact): Contact information for support and platform-related enquiries.
+
+## Documentation
+- [Documentation Home](https://nr-data.net/docs): Central documentation index for NR Data services and products.
+- [Getting Started Guide](https://nr-data.net/docs/getting-started): Introductory guidance for onboarding and using NR Data services.
+- [Authentication](https://nr-data.net/docs/authentication): Explains authentication methods and access requirements for protected services.
+- [API Documentation](https://nr-data.net/docs/api): Overview of available APIs and how to consume them.
+- [Data Feeds](https://nr-data.net/docs/data-feeds): Documentation for real-time and bulk data feed access.
+- [Support](https://nr-data.net/docs/support): Help resources and support guidance for developers and users.
+
+## APIs
+- [API Overview](https://nr-data.net/api): Entry point for NR Data API access and reference material.
+- [OpenAPI Specification](https://nr-data.net/api/openapi): Machine-readable API definition for integration and tooling.
+- [API Reference](https://nr-data.net/api/reference): Endpoint-level reference for available API operations.
+- [Authentication API](https://nr-data.net/api/auth): Authentication-related endpoints and usage details.
+- [Status and Health](https://nr-data.net/api/status): Service status or health information for API consumers.
+
+## Data Products
+- [Data Products](https://nr-data.net/data-products): Catalog of available Network Rail datasets and products.
+- [Timetable Data](https://nr-data.net/data-products/timetable): Information about timetable-related datasets and access methods.
+- [Real-Time Data](https://nr-data.net/data-products/real-time): Operational real-time feeds and related product details.
+- [Reference Data](https://nr-data.net/data-products/reference): Static and reference datasets for rail network applications.
+- [Historical Data](https://nr-data.net/data-products/historical): Historical datasets available through the platform.
+
+## Developer Resources
+- [Developers](https://nr-data.net/developers): Developer-focused resources for integrating with NR Data services.
+- [Guides](https://nr-data.net/developers/guides): Practical implementation guides for common integration tasks.
+- [Examples](https://nr-data.net/developers/examples): Example usage patterns and sample integrations.
+- [SDKs](https://nr-data.net/developers/sdks): Software development kits and client library information.
+- [Changelog](https://nr-data.net/developers/changelog): Notable platform and API changes relevant to developers.
+
+## Access and Onboarding
+- [Access Requests](https://nr-data.net/access): Information on requesting access to protected datasets and services.
+- [Onboarding](https://nr-data.net/access/onboarding): Steps required to begin consuming NR Data products.
+- [Terms and Conditions](https://nr-data.net/access/terms): Terms governing use of NR Data services and datasets.
+- [Licensing](https://nr-data.net/access/licensing): Licensing information for available data products.
+- [Privacy Policy](https://nr-data.net/privacy): Privacy information for platform users.
+
+## Support and Service Information
+- [Help Centre](https://nr-data.net/help): General help resources for users of the NR Data platform.
+- [FAQ](https://nr-data.net/help/faq): Frequently asked questions about access, products, and usage.
+- [Service Status](https://nr-data.net/status): Operational status information for NR Data services.
+- [Incident Updates](https://nr-data.net/status/incidents): Information about current or recent service incidents.
+- [Support Contact](https://nr-data.net/contact): Contact route for technical and platform support.
+
+## News and Updates
+- [News](https://nr-data.net/news): Announcements and updates related to NR Data and its services.
+- [Blog](https://nr-data.net/blog): Articles and technical updates for users and developers.
+- [Release Notes](https://nr-data.net/releases): Published release notes for platform and API changes.
+- [Roadmap](https://nr-data.net/roadmap): Forward-looking information on planned platform improvements.

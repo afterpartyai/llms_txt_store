@@ -1,0 +1,82 @@
+# bunny.net
+> Global edge platform providing CDN, edge storage, DNS, streaming, security, and optimization services for faster web delivery.
+
+bunny.net offers a broad developer platform centered on content delivery and edge infrastructure. Its documentation covers CDN configuration, storage, DNS, image optimization, video streaming, edge scripting, security, and API usage.
+
+## Documentation
+- [Documentation Home](https://docs.bunny.net/): Main documentation portal for all bunny.net products and platform features.
+- [API Documentation](https://docs.bunny.net/reference/bunnynet-api-overview): Overview of the bunny.net API structure, authentication, and available endpoints.
+- [Getting Started](https://docs.bunny.net/docs): Entry point for setup guides, product docs, and common workflows.
+- [Developer Hub](https://docs.bunny.net/): Central resource for technical documentation, references, and integration guidance.
+
+## CDN
+- [Pull Zones](https://docs.bunny.net/docs/cdn-pullzone-overview): Overview of pull zones for caching and delivering content from origin servers.
+- [Add a Pull Zone](https://docs.bunny.net/docs/cdn-add-a-pull-zone): Steps to create and configure a new CDN pull zone.
+- [Custom Hostnames](https://docs.bunny.net/docs/cdn-custom-hostnames): Configure custom domains for CDN delivery and SSL support.
+- [Cache Control](https://docs.bunny.net/docs/cdn-cache-control): Manage caching behavior, TTLs, and origin cache directives.
+- [Perma-Cache](https://docs.bunny.net/docs/cdn-perma-cache): Store files persistently at the edge for long-term delivery performance.
+- [Token Authentication](https://docs.bunny.net/docs/cdn-token-authentication): Protect content using signed URL tokens and access restrictions.
+
+## Storage
+- [Edge Storage Overview](https://docs.bunny.net/docs/storage-zone-overview): Introduction to storage zones for globally distributed object storage.
+- [Create a Storage Zone](https://docs.bunny.net/docs/storage-add-a-storage-zone): Guide to provisioning a new storage zone.
+- [FTP Access](https://docs.bunny.net/docs/storage-ftp-access): Connect to storage zones using FTP or FTPS clients.
+- [Storage API](https://docs.bunny.net/reference/storage-api): Reference for uploading, listing, and managing files in storage zones.
+- [Replication and Regions](https://docs.bunny.net/docs/storage-replication): Configure replication and choose storage regions for durability and performance.
+
+## DNS
+- [DNS Zones Overview](https://docs.bunny.net/docs/dns-zone-overview): Introduction to managing authoritative DNS zones on bunny.net.
+- [Add a DNS Zone](https://docs.bunny.net/docs/dns-add-a-dns-zone): Create a DNS zone and begin managing records.
+- [DNS Records](https://docs.bunny.net/docs/dns-records): Manage common DNS record types and zone configuration.
+- [Nameservers](https://docs.bunny.net/docs/dns-nameservers): Update delegation and configure nameserver settings for your domain.
+- [DNS API](https://docs.bunny.net/reference/dns-api): API endpoints for automating DNS zone and record management.
+
+## Optimizer
+- [Optimizer Overview](https://docs.bunny.net/docs/optimizer-overview): Overview of image and content optimization features for faster delivery.
+- [Image Optimization](https://docs.bunny.net/docs/optimizer-image-optimization): Automatically optimize and transform images at the edge.
+- [Minification](https://docs.bunny.net/docs/optimizer-minification): Reduce asset size by minifying CSS and JavaScript files.
+- [Brotli Compression](https://docs.bunny.net/docs/optimizer-brotli): Enable Brotli compression for supported assets and clients.
+- [WebP Conversion](https://docs.bunny.net/docs/optimizer-webp): Convert images to WebP automatically for compatible browsers.
+
+## Stream
+- [Stream Overview](https://docs.bunny.net/docs/stream-overview): Introduction to video hosting, encoding, and global streaming delivery.
+- [Create a Video Library](https://docs.bunny.net/docs/stream-create-a-video-library): Set up a library for managing and delivering video content.
+- [Upload Videos](https://docs.bunny.net/docs/stream-upload-videos): Upload videos for processing, storage, and playback.
+- [Embed Player](https://docs.bunny.net/docs/stream-embed-player): Integrate the bunny.net video player into websites and applications.
+- [Stream API](https://docs.bunny.net/reference/stream-api): API reference for libraries, videos, collections, and playback management.
+
+## Edge Scripting and Compute
+- [Edge Scripting Overview](https://docs.bunny.net/docs/edge-scripting-overview): Introduction to running JavaScript logic at the edge.
+- [Create an Edge Script](https://docs.bunny.net/docs/edge-scripting-create-a-script): Build and deploy custom scripts for request handling.
+- [Routing and Rewrites](https://docs.bunny.net/docs/edge-scripting-routing): Implement redirects, rewrites, and request transformations at the edge.
+- [Headers and Responses](https://docs.bunny.net/docs/edge-scripting-headers-and-responses): Modify headers and generate custom responses in edge scripts.
+- [Edge Scripting API](https://docs.bunny.net/reference/edge-scripting-api): API endpoints for managing edge scripts and deployments.
+
+## Security
+- [WAF Overview](https://docs.bunny.net/docs/waf-overview): Web application firewall features for protecting applications and APIs.
+- [DDoS Protection](https://docs.bunny.net/docs/ddos-protection): Platform-level mitigation for distributed denial-of-service attacks.
+- [Access Control](https://docs.bunny.net/docs/security-access-control): Restrict access by IP, country, token, or referrer policies.
+- [TLS and SSL](https://docs.bunny.net/docs/ssl-overview): Configure certificates and secure delivery over HTTPS.
+- [Hotlink Protection](https://docs.bunny.net/docs/hotlink-protection): Prevent unauthorized embedding and bandwidth abuse for media assets.
+
+## API Reference
+- [bunny.net API Overview](https://docs.bunny.net/reference/bunnynet-api-overview): General API concepts, authentication, and product coverage.
+- [Pull Zone API](https://docs.bunny.net/reference/pullzonepublic_index): Endpoints for creating and managing CDN pull zones.
+- [Storage API Reference](https://docs.bunny.net/reference/storage-api): File operations and storage zone management endpoints.
+- [DNS API Reference](https://docs.bunny.net/reference/dns-api): Programmatic control for DNS zones and records.
+- [Stream API Reference](https://docs.bunny.net/reference/stream-api): Manage video libraries, uploads, and playback resources.
+- [Statistics API](https://docs.bunny.net/reference/statistics-api): Retrieve usage, traffic, and analytics data programmatically.
+
+## Platform and Account
+- [Billing](https://docs.bunny.net/docs/billing): Understand pricing, charges, and account billing settings.
+- [API Keys](https://docs.bunny.net/docs/api-key-authentication): Manage API authentication and secure access to platform resources.
+- [Statistics](https://docs.bunny.net/docs/statistics-overview): View traffic, usage, and performance analytics across services.
+- [Log Forwarding](https://docs.bunny.net/docs/log-forwarding): Export logs to external systems for monitoring and analysis.
+- [Support](https://support.bunny.net/): Support portal for troubleshooting, tickets, and service assistance.
+
+## Company and Updates
+- [Main Website](https://bunny.net/): Product overview, platform capabilities, pricing, and company information.
+- [Blog](https://bunny.net/blog/): Articles, announcements, tutorials, and product updates from bunny.net.
+- [Status Page](https://status.bunny.net/): Real-time service health, incidents, and maintenance updates.
+- [Pricing](https://bunny.net/pricing/): Pricing details for CDN, storage, streaming, DNS, and related services.
+- [Contact](https://bunny.net/contact/): Contact options for sales, support, and general inquiries.

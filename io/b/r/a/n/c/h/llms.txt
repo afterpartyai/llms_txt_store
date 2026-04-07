@@ -1,0 +1,66 @@
+# Branch
+> Mobile measurement, attribution, and deep linking platform for apps, web, and cross-channel user journeys.
+
+Branch provides privacy-safe linking and measurement infrastructure for mobile growth, including deep links, attribution, engagement, QR codes, ads measurement, and developer tooling for app and web integrations.
+
+## Documentation
+- [Docs Home](https://help.branch.io/): Main documentation hub for Branch products, setup, integration, and troubleshooting.
+- [Branch Developer Hub](https://help.branch.io/developers-hub/): Entry point for developer documentation, SDKs, APIs, and implementation guides.
+- [Help Center](https://help.branch.io/): Product documentation and support content for marketers, developers, and analysts.
+- [Release Notes](https://help.branch.io/release-notes/): Product and platform updates across Branch features, SDKs, and tooling.
+- [Branch University](https://help.branch.io/branch-university/): Educational resources and guided learning for using Branch products effectively.
+
+## Deep Linking
+- [Deep Linking Overview](https://help.branch.io/docs/deep-linking-overview): Overview of Branch deep linking concepts, routing, and user experience flows.
+- [Create a Deep Link](https://help.branch.io/docs/create-a-deep-link): Guide to creating Branch links for app, web, and campaign use cases.
+- [Universal Links](https://help.branch.io/docs/ios-universal-links): Configure and troubleshoot iOS Universal Links with Branch.
+- [Android App Links](https://help.branch.io/docs/android-app-links): Configure Android App Links and Branch deep link routing behavior.
+- [Journeys](https://help.branch.io/docs/journeys): Web-to-app banners and prompts that drive app opens and installs.
+- [QR Codes](https://help.branch.io/docs/qr-codes): Generate and manage QR codes powered by Branch deep links.
+
+## Attribution and Measurement
+- [Attribution Overview](https://help.branch.io/docs/branch-attribution-overview): Introduction to Branch attribution models, touchpoints, and measurement concepts.
+- [Mobile Measurement Partner](https://help.branch.io/docs/mobile-measurement-partner): Branch MMP capabilities for install and re-engagement attribution.
+- [Ads Overview](https://help.branch.io/docs/branch-ads-overview): Measurement and optimization features for paid advertising campaigns.
+- [SKAdNetwork](https://help.branch.io/docs/skadnetwork): iOS SKAdNetwork support and configuration for privacy-centric attribution.
+- [SAN Integrations](https://help.branch.io/docs/self-attributing-networks): Setup guidance for self-attributing network measurement with Branch.
+- [Web-to-App Attribution](https://help.branch.io/docs/web-to-app-attribution): Measure journeys from web sessions into app installs and opens.
+
+## APIs
+- [API Overview](https://help.branch.io/developers-hub/reference/overview): Overview of Branch APIs, authentication, and common integration patterns.
+- [Deep Linking API](https://help.branch.io/developers-hub/reference/deep-linking-api): Programmatically create, read, and manage Branch links and link data.
+- [Quick Links API](https://help.branch.io/developers-hub/reference/quick-links-api): Manage reusable Quick Links for campaigns and marketing workflows.
+- [QR Code API](https://help.branch.io/developers-hub/reference/qr-code-api): Create and customize QR codes backed by Branch links.
+- [Ads API](https://help.branch.io/developers-hub/reference/ads-api): Access advertising measurement and campaign-related Branch endpoints.
+- [Webhooks API](https://help.branch.io/developers-hub/reference/webhooks): Configure webhook-based event delivery and downstream integrations.
+
+## SDKs
+- [SDK Overview](https://help.branch.io/developers-hub/docs/sdk-overview): Overview of Branch SDK options for mobile, web, and cross-platform apps.
+- [iOS SDK](https://help.branch.io/developers-hub/docs/ios-sdk-overview): Integrate Branch deep linking and attribution into native iOS apps.
+- [Android SDK](https://help.branch.io/developers-hub/docs/android-sdk-overview): Integrate Branch into Android apps for linking and measurement.
+- [Web SDK](https://help.branch.io/developers-hub/docs/web-sdk-overview): Add Branch link handling and attribution to websites and web apps.
+- [React Native SDK](https://help.branch.io/developers-hub/docs/react-native-sdk-overview): Use Branch in React Native applications for deep linking and attribution.
+- [Flutter SDK](https://help.branch.io/developers-hub/docs/flutter-sdk-overview): Integrate Branch into Flutter apps across iOS and Android.
+- [Unity SDK](https://help.branch.io/developers-hub/docs/unity-sdk-overview): Add Branch support to Unity-based mobile applications.
+
+## Implementation Guides
+- [Basic Integration](https://help.branch.io/docs/basic-integration): Core setup steps for enabling Branch in an app or website.
+- [Link Data and Deepviews](https://help.branch.io/docs/deepviews): Configure Deepviews and link data for deferred deep linking experiences.
+- [Advanced Deep Linking](https://help.branch.io/docs/advanced-deep-linking): Implement advanced routing, parameters, and user journey handling.
+- [Events and Conversion Tracking](https://help.branch.io/docs/events-overview): Track user actions and conversion events with Branch.
+- [Testing and Validation](https://help.branch.io/docs/testing-and-validation): Validate Branch links, app routing, and attribution behavior before launch.
+- [Troubleshooting](https://help.branch.io/docs/troubleshooting): Diagnose common integration issues across Branch products and SDKs.
+
+## Data, Analytics, and Integrations
+- [Data Feeds](https://help.branch.io/docs/data-feeds): Export Branch attribution and event data to external systems.
+- [Partner Integrations](https://help.branch.io/docs/partner-integrations): Connect Branch with ad networks, analytics, and marketing platforms.
+- [Postbacks](https://help.branch.io/docs/postbacks): Configure postbacks for partners and campaign measurement workflows.
+- [Events Overview](https://help.branch.io/docs/events-overview): Understand Branch event taxonomy, tracking, and downstream usage.
+- [Audience and Engagement Data](https://help.branch.io/docs/engagement-builder): Use engagement and audience features to activate user journeys.
+
+## Product and Company Resources
+- [Blog](https://www.branch.io/resources/blog/): Articles on mobile growth, attribution, deep linking, and product updates.
+- [Case Studies](https://www.branch.io/resources/case-studies/): Customer stories showing Branch use cases and business outcomes.
+- [Webinars](https://www.branch.io/resources/webinars/): On-demand sessions covering Branch products, strategy, and implementation.
+- [Resource Center](https://www.branch.io/resources/): Central library of educational and marketing resources from Branch.
+- [About Branch](https://www.branch.io/company/): Company information, mission, and overview of the Branch platform.

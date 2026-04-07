@@ -1,0 +1,76 @@
+# Google APIs
+> Google APIs provide REST, RPC, and client library access to Google Cloud, Workspace, Maps, Identity, and consumer Google services.
+
+This index highlights major Google API documentation, discovery resources, authentication guidance, client libraries, and service-specific references commonly used by developers building on Google platforms.
+
+## Core API Platforms
+- [Google APIs Explorer](https://developers.google.com/apis-explorer): Interactive tool for exploring and testing many Google APIs in the browser.
+- [Google API Discovery Service](https://developers.google.com/discovery): Machine-readable directory for discovering Google API surface definitions and metadata.
+- [Google Cloud APIs](https://cloud.google.com/apis): Overview of Google Cloud service APIs, enablement, quotas, and lifecycle management.
+- [Google Workspace Developers](https://developers.google.com/workspace): Entry point for Gmail, Drive, Calendar, Docs, and other Workspace APIs.
+- [Google Maps Platform Documentation](https://developers.google.com/maps/documentation): Documentation hub for Maps, Routes, Places, and geospatial APIs.
+- [Google Identity](https://developers.google.com/identity): Authentication, authorization, sign-in, and identity integration guidance for Google services.
+
+## Authentication and Authorization
+- [Using OAuth 2.0 to Access Google APIs](https://developers.google.com/identity/protocols/oauth2): Core OAuth 2.0 flows for web, mobile, desktop, and server applications.
+- [OpenID Connect](https://developers.google.com/identity/openid-connect/openid-connect): Authenticate users with Google identity using OpenID Connect standards.
+- [Service Accounts](https://cloud.google.com/iam/docs/service-account-overview): Overview of service accounts for server-to-server authentication on Google Cloud.
+- [Application Default Credentials](https://cloud.google.com/docs/authentication/application-default-credentials): Recommended way to provide credentials to Google Cloud client libraries and tools.
+- [Authenticate for REST](https://cloud.google.com/docs/authentication/rest): Methods for authenticating direct HTTP requests to Google Cloud APIs.
+- [API Keys Best Practices](https://developers.google.com/maps/api-security-best-practices): Guidance for securing API keys, especially for Maps Platform usage.
+
+## API Discovery and Protocols
+- [Discovery Document Format](https://developers.google.com/discovery/v1/reference/apis): Reference for listing APIs and versions through the Discovery API.
+- [Google API Design Guide](https://cloud.google.com/apis/design): Design principles and resource-oriented conventions used across Google APIs.
+- [Protocol Buffers](https://protobuf.dev/): Language-neutral schema format widely used by Google APIs and gRPC services.
+- [gRPC Documentation](https://grpc.io/docs/): RPC framework documentation relevant to many Google API client and service integrations.
+- [Google Cloud API Gateway](https://cloud.google.com/api-gateway/docs): Managed gateway for securing, publishing, and monitoring API backends.
+- [Cloud Endpoints](https://cloud.google.com/endpoints/docs): API management and proxying for OpenAPI and gRPC services on Google Cloud.
+
+## Client Libraries and SDKs
+- [Google API Client Libraries](https://developers.google.com/api-client-library): Official client library hub for many Google APIs across languages.
+- [Google Cloud Client Libraries](https://cloud.google.com/apis/docs/client-libraries-explained): Overview of Cloud client libraries, generated libraries, and language support.
+- [Google Cloud SDK](https://cloud.google.com/sdk/docs): Command-line tools for managing Google Cloud resources and invoking APIs.
+- [Firebase Admin SDK](https://firebase.google.com/docs/admin/setup): Server SDK setup for Firebase and Google backend administration tasks.
+- [Workspace Quickstarts](https://developers.google.com/workspace/guides/get-started): Language-specific quickstarts for common Google Workspace API integrations.
+- [Maps Platform Client Libraries](https://developers.google.com/maps/documentation): Maps Platform docs including available SDKs and web service usage.
+
+## Google Cloud Service APIs
+- [Compute Engine API](https://cloud.google.com/compute/docs/reference/rest/v1): REST reference for virtual machine, disk, network, and instance management.
+- [Cloud Storage JSON API](https://cloud.google.com/storage/docs/json_api): HTTP JSON interface for buckets, objects, and storage operations.
+- [BigQuery API](https://cloud.google.com/bigquery/docs/reference/rest): REST reference for datasets, jobs, tables, and query execution.
+- [Pub/Sub API](https://cloud.google.com/pubsub/docs/reference/rest): REST reference for topics, subscriptions, publishing, and message delivery.
+- [Cloud Run Admin API](https://cloud.google.com/run/docs/reference/rest): REST reference for managing Cloud Run services, jobs, and revisions.
+- [Secret Manager API](https://cloud.google.com/secret-manager/docs/reference/rest): REST reference for storing, accessing, and managing secrets.
+
+## Google Workspace APIs
+- [Gmail API](https://developers.google.com/workspace/gmail/api): Send, read, organize, and manage Gmail mailbox data programmatically.
+- [Google Drive API](https://developers.google.com/workspace/drive/api): Manage files, permissions, changes, and shared drive content.
+- [Google Calendar API](https://developers.google.com/workspace/calendar/api): Access calendars, events, settings, and scheduling workflows.
+- [Google Docs API](https://developers.google.com/workspace/docs/api): Read and update structured Google Docs document content.
+- [Google Sheets API](https://developers.google.com/workspace/sheets/api): Read, write, and format spreadsheet data and metadata.
+- [Google Chat API](https://developers.google.com/workspace/chat): Build Chat apps and automate messaging, spaces, and memberships.
+
+## Maps and Geospatial APIs
+- [Maps JavaScript API](https://developers.google.com/maps/documentation/javascript): Embed interactive maps with controls, overlays, and client-side geospatial features.
+- [Geocoding API](https://developers.google.com/maps/documentation/geocoding): Convert addresses and place identifiers to geographic coordinates and back.
+- [Places API](https://developers.google.com/maps/documentation/places/web-service): Search for places, details, photos, and autocomplete predictions.
+- [Routes API](https://developers.google.com/maps/documentation/routes): Compute directions, distance matrices, and route optimization data.
+- [Maps Static API](https://developers.google.com/maps/documentation/maps-static): Generate static map images through simple HTTP requests.
+- [Street View Static API](https://developers.google.com/maps/documentation/streetview): Retrieve static Street View panorama imagery by location or pano ID.
+
+## Identity, Firebase, and Consumer APIs
+- [Google Sign-In for Web](https://developers.google.com/identity/gsi/web): Add Google sign-in and account selection to web applications.
+- [People API](https://developers.google.com/people): Access profile, contact, and directory information for Google accounts.
+- [YouTube Data API](https://developers.google.com/youtube/v3): Manage YouTube videos, channels, playlists, captions, and search results.
+- [Firebase Authentication](https://firebase.google.com/docs/auth): Authenticate users with email, social providers, phone, and custom tokens.
+- [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging): Send notifications and data messages to Android, iOS, and web clients.
+- [Firebase Realtime Database REST API](https://firebase.google.com/docs/reference/rest/database): REST interface for reading and writing Firebase Realtime Database data.
+
+## Tools, Guides, and Support
+- [Google Cloud API Keys Guide](https://cloud.google.com/docs/authentication/api-keys): Create and manage API keys for supported Google Cloud services.
+- [Enable APIs in Google Cloud](https://cloud.google.com/endpoints/docs/openapi/enable-api): Enable and configure APIs within Google Cloud projects.
+- [Quotas and System Limits](https://cloud.google.com/apis/docs/capping-api-usage): Manage quotas, limits, and usage caps for Google Cloud APIs.
+- [Workspace Developer Guides](https://developers.google.com/workspace/guides): Conceptual guides and integration patterns for Workspace applications.
+- [Google Cloud Release Notes](https://cloud.google.com/release-notes): Product and API release history across Google Cloud services.
+- [Google Developer Support](https://developers.google.com/support): Support resources, issue trackers, and help channels for Google developers.

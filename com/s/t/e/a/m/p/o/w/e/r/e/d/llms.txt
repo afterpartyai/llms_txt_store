@@ -1,0 +1,98 @@
+# Steam
+> Steam is Valve’s digital distribution platform for PC gaming, software, community features, and developer publishing.
+
+Steam combines a consumer storefront for games, software, and hardware with community systems, support resources, and Steamworks documentation for developers shipping on the platform.
+
+## Store
+- [Steam Store](https://store.steampowered.com/): Main storefront for browsing, purchasing, and launching games, software, and downloadable content.
+- [Featured Categories](https://store.steampowered.com/genre/Free%20to%20Play/): Browse store categories and genres such as free to play titles.
+- [Top Sellers](https://store.steampowered.com/search/?filter=topsellers): View currently top-selling products across the Steam catalog.
+- [New Releases](https://store.steampowered.com/search/?filter=popularnew): Discover newly released games and software on Steam.
+- [Special Offers](https://store.steampowered.com/search/?specials=1): Browse discounted titles and current promotional offers.
+- [Steam Points Shop](https://store.steampowered.com/points/shop): Redeem Steam Points for profile items, stickers, and cosmetics.
+- [Steam Gift Cards](https://store.steampowered.com/digitalgiftcards/): Purchase digital gift cards for Steam users.
+- [Steam Hardware](https://store.steampowered.com/hardware/): Explore Steam Deck, docking stations, and other Steam hardware products.
+
+## Steam Deck and Hardware
+- [Steam Deck](https://store.steampowered.com/steamdeck): Overview of Steam Deck handheld gaming hardware and purchase information.
+- [Steam Deck Docking Station](https://store.steampowered.com/steamdeckdock): Details about the official docking station for Steam Deck.
+- [Steam Deck Verified](https://www.steamdeck.com/en/verified): Learn how games are tested and labeled for Steam Deck compatibility.
+- [Steam Deck News](https://www.steamdeck.com/en/news): Official news and updates related to Steam Deck.
+- [SteamOS](https://store.steampowered.com/steamos): Information about SteamOS for gaming devices and systems.
+- [Steam Machine Recovery Instructions](https://help.steampowered.com/en/faqs/view/1B71-EDF2-EB6D-2BB3): Support article for SteamOS and recovery-related setup guidance.
+
+## Community
+- [Steam Community](https://steamcommunity.com/): Hub for profiles, friends, groups, screenshots, artwork, and discussions.
+- [Discussions](https://steamcommunity.com/discussions/): Browse community-wide discussion forums across Steam.
+- [Workshop](https://steamcommunity.com/workshop/): Discover and share user-created mods and content through Steam Workshop.
+- [Market](https://steamcommunity.com/market/): Buy and sell eligible in-game items and community inventory goods.
+- [Broadcasts](https://steamcommunity.com/?subsection=broadcasts): Watch live gameplay broadcasts from Steam users.
+- [Greenlight Archive](https://steamcommunity.com/greenlight/): Historical archive of the former Steam Greenlight community area.
+- [Steam Community Market FAQ](https://steamcommunity.com/market/faq): Reference information about using the Steam Community Market.
+
+## Support
+- [Steam Support](https://help.steampowered.com/): Official support portal for account, purchases, devices, and technical issues.
+- [Steam Guard Mobile Authenticator](https://help.steampowered.com/en/faqs/view/6891-E071-C9D9-0134): Help article for mobile authentication and account security.
+- [Family View](https://help.steampowered.com/en/faqs/view/054C-3167-DD7F-49D4): Support guidance for parental controls and Family View.
+- [Refunds](https://help.steampowered.com/en/faqs/view/784C-923B-A4A1-C825): Official Steam refund policy and process details.
+- [Steam Deck Support](https://help.steampowered.com/en/wizard/HelpWithSteamDeck): Support flows for Steam Deck hardware and software issues.
+- [Steam Hardware Warranty](https://help.steampowered.com/en/faqs/view/4C18-08B5-DEC9-3AF4): Warranty and repair information for Steam hardware.
+- [Steam Subscriber Agreement](https://store.steampowered.com/subscriber_agreement/): Terms governing use of Steam services and content.
+- [Privacy Policy](https://store.steampowered.com/privacy_agreement/): Privacy practices and data handling terms for Steam services.
+
+## About Steam
+- [About Steam](https://store.steampowered.com/about/): Overview of Steam features, platform benefits, and client availability.
+- [Install Steam](https://store.steampowered.com/about/): Download the Steam client for desktop platforms.
+- [Steam Mobile App](https://store.steampowered.com/mobile): Information about the Steam mobile app and features.
+- [Steam Link](https://store.steampowered.com/remoteplay): Learn about streaming games with Steam Remote Play and Steam Link.
+- [Remote Play](https://store.steampowered.com/remoteplay): Overview of local and internet-based game streaming features.
+- [Steam Labs](https://store.steampowered.com/labs/): Experimental discovery tools and store feature prototypes.
+- [News Hub](https://store.steampowered.com/news/): Aggregated news and announcements from games and Steam.
+
+## Steamworks Documentation
+- [Steamworks Documentation Home](https://partner.steamgames.com/doc/home): Entry point for Steamworks platform documentation for developers and publishers.
+- [Getting Started for Partners](https://partner.steamgames.com/doc/gettingstarted): Setup guidance for onboarding to Steamworks and shipping products.
+- [Store Presence](https://partner.steamgames.com/doc/store): Documentation for configuring store pages, pricing, and release visibility.
+- [Features](https://partner.steamgames.com/doc/features): Overview of Steam platform features available to integrated titles.
+- [Steamworks API Overview](https://partner.steamgames.com/doc/api): Introduction to Steamworks APIs and integration concepts.
+- [SteamPipe](https://partner.steamgames.com/doc/sdk/uploading): Build uploading and content deployment documentation using SteamPipe.
+- [Steam Deck Documentation](https://partner.steamgames.com/doc/steamdeck): Developer guidance for Steam Deck compatibility and testing.
+- [Finance and Reporting](https://partner.steamgames.com/doc/finance): Documentation for payments, taxes, and financial reporting in Steamworks.
+
+## Steamworks API and SDK
+- [Steamworks SDK](https://partner.steamgames.com/doc/sdk): SDK download and integration documentation for Steamworks features.
+- [ISteamUser](https://partner.steamgames.com/doc/api/ISteamUser): API reference for user identity, auth, and account-related functions.
+- [ISteamFriends](https://partner.steamgames.com/doc/api/ISteamFriends): API reference for friends, overlays, and social functionality.
+- [ISteamApps](https://partner.steamgames.com/doc/api/ISteamApps): API reference for app ownership, languages, and installation state.
+- [ISteamUserStats](https://partner.steamgames.com/doc/api/ISteamUserStats): API reference for achievements, stats, and leaderboards.
+- [ISteamUGC](https://partner.steamgames.com/doc/api/ISteamUGC): API reference for workshop and user-generated content integration.
+- [ISteamNetworkingSockets](https://partner.steamgames.com/doc/api/ISteamNetworkingSockets): API reference for modern networking sockets and connections.
+- [Web API Overview](https://partner.steamgames.com/doc/webapi_overview): Overview of Steam Web API usage and authentication.
+
+## Steamworks Guides
+- [Releasing on Steam](https://partner.steamgames.com/doc/store/releasing): Step-by-step guidance for preparing and releasing a product.
+- [Achievements](https://partner.steamgames.com/doc/features/achievements): Configure and integrate Steam achievements and player stats.
+- [Cloud](https://partner.steamgames.com/doc/features/cloud): Implement Steam Cloud save synchronization for games and applications.
+- [Matchmaking and Lobbies](https://partner.steamgames.com/doc/features/multiplayer/matchmaking): Build multiplayer flows using Steam matchmaking and lobby systems.
+- [Leaderboards](https://partner.steamgames.com/doc/features/leaderboards): Add and manage Steam leaderboards for competitive ranking.
+- [Microtransactions](https://partner.steamgames.com/doc/features/microtransactions): Integrate in-game purchasing using Steam microtransaction services.
+- [Workshop Implementation Guide](https://partner.steamgames.com/doc/features/workshop): Add Steam Workshop support for mods and user content.
+- [Input](https://partner.steamgames.com/doc/features/steam_controller): Integrate Steam Input for controller support and configuration.
+
+## Steamworks Web API Interfaces
+- [ISteamNews](https://partner.steamgames.com/doc/webapi/ISteamNews): Web API interface for retrieving news items for Steam applications.
+- [ISteamUser Web API](https://partner.steamgames.com/doc/webapi/ISteamUser): Web API methods for player summaries, bans, and profile data.
+- [ISteamUserStats Web API](https://partner.steamgames.com/doc/webapi/ISteamUserStats): Web API methods for game stats, achievements, and leaderboards.
+- [ISteamRemoteStorage](https://partner.steamgames.com/doc/webapi/ISteamRemoteStorage): Web API methods for workshop files and remote storage metadata.
+- [IPlayerService](https://partner.steamgames.com/doc/webapi/IPlayerService): Web API methods for owned games, levels, and player service data.
+- [IEconService](https://partner.steamgames.com/doc/webapi/IEconService): Web API methods for economy items, assets, and trade-related data.
+- [ISteamApps Web API](https://partner.steamgames.com/doc/webapi/ISteamApps): Web API methods for app lists, ownership checks, and package data.
+
+## Company and Legal
+- [Valve](https://www.valvesoftware.com/): Corporate site for Valve, the company behind Steam.
+- [Jobs at Valve](https://www.valvesoftware.com/en/jobs): Careers information and open roles at Valve.
+- [Steamworks](https://partner.steamgames.com/): Steamworks partner portal for developers and publishers.
+- [Steam Distribution](https://partner.steamgames.com/steamdirect): Information about publishing games on Steam via Steam Direct.
+- [Steam Online Conduct Rules](https://store.steampowered.com/online_conduct/): Rules governing behavior across Steam online services.
+- [Legal Information](https://store.steampowered.com/legal/): Central legal page linking Steam agreements and notices.
+- [Cookie Policy](https://store.steampowered.com/cookie_policy/): Information about Steam’s use of cookies and related technologies.

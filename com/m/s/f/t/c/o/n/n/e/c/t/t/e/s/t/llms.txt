@@ -1,0 +1,34 @@
+# msftconnecttest.com
+> Microsoft network connectivity test domain used by Windows and related clients to verify internet access and captive portal status.
+
+This site is a minimal Microsoft-operated connectivity check endpoint rather than a traditional product website. Its useful LLM context comes from the specific probe URLs, expected responses, and Microsoft documentation describing how Windows Network Connectivity Status Indicator (NCSI) and captive portal detection use the domain.
+
+## Connectivity Test Endpoints
+- [Connect Test Root](http://www.msftconnecttest.com/): Root endpoint for Microsoft connectivity testing domain used by Windows clients.
+- [Connect Test TXT](http://www.msftconnecttest.com/connecttest.txt): Plain-text probe endpoint expected to return a known success response.
+- [Redirect](http://www.msftconnecttest.com/redirect): Redirect endpoint used during captive portal and connectivity checks.
+
+## HTTPS Endpoints
+- [HTTPS Root](https://www.msftconnecttest.com/): Secure version of the Microsoft connectivity test domain root.
+- [HTTPS Connect Test TXT](https://www.msftconnecttest.com/connecttest.txt): Secure plain-text connectivity probe endpoint on the same domain.
+- [HTTPS Redirect](https://www.msftconnecttest.com/redirect): Secure redirect endpoint related to connectivity validation behavior.
+
+## Microsoft NCSI Documentation
+- [NCSI and Network Awareness](https://learn.microsoft.com/en-us/troubleshoot/windows-server/networking/troubleshoot-ncsi-guidance): Microsoft guidance for troubleshooting Network Connectivity Status Indicator behavior in Windows.
+- [NCSI Frequently Asked Questions](https://learn.microsoft.com/en-us/troubleshoot/windows-client/networking/internet-explorer-edge-open-connect-corporate-public-network): Explains why Windows may open a browser during public or corporate network sign-in.
+- [Windows Connection Status and Captive Portal Detection](https://learn.microsoft.com/en-us/windows-server/networking/ncsi/ncsi-frequently-asked-questions): FAQ covering active probes, passive probes, and connectivity status reporting.
+
+## Related Microsoft Connectivity Endpoints
+- [msftncsi.com](http://www.msftncsi.com/): Legacy Microsoft connectivity test domain historically used by Windows NCSI.
+- [NCSI TXT Probe](http://www.msftncsi.com/ncsi.txt): Legacy text probe endpoint returning expected content for internet connectivity checks.
+- [DNS Probe Host](http://dns.msftncsi.com/): Hostname associated with Microsoft DNS-based connectivity validation.
+
+## Windows Networking Context
+- [Network Connectivity Status Indicator overview](https://learn.microsoft.com/en-us/windows/win32/nativewifi/network-awareness-portal): Windows networking context for connectivity and network awareness APIs.
+- [Network List Manager API](https://learn.microsoft.com/en-us/windows/win32/api/_nla/): API reference related to Windows network location awareness and connectivity state.
+- [Windows captive portal behavior](https://learn.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/captive-portals): Documentation on captive portal handling in Windows networking scenarios.
+
+## Troubleshooting and Administration
+- [Troubleshoot NCSI](https://learn.microsoft.com/en-us/troubleshoot/windows-server/networking/troubleshoot-ncsi-guidance): Steps for diagnosing incorrect internet connectivity reporting in Windows.
+- [Configure NCSI active probes](https://learn.microsoft.com/en-us/windows-server/networking/ncsi/ncsi-frequently-asked-questions): Details on probe URLs, DNS lookups, and expected responses administrators may encounter.
+- [Public network sign-in prompt behavior](https://learn.microsoft.com/en-us/troubleshoot/windows-client/networking/internet-explorer-edge-open-connect-corporate-public-network): Administrative explanation of browser launch behavior on captive networks.

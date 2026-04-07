@@ -1,0 +1,71 @@
+# Launchpad
+> Launchpad is Canonical’s collaboration platform for open source projects, providing code hosting, package building, bug tracking, translations, and project publishing.
+
+Launchpad supports software development workflows around Ubuntu and other open source projects, including source package recipes, PPAs, code branches, bug reports, blueprints, translations, and project teams.
+
+## Core Platform
+- [Launchpad Home](https://launchpad.net/): Main entry point for projects, teams, packages, and development services.
+- [Projects](https://launchpad.net/projects): Browse software projects hosted and tracked on Launchpad.
+- [Distributions](https://launchpad.net/distros): Explore Linux distributions and distribution packages managed through Launchpad.
+- [Teams](https://launchpad.net/people): Find users and teams participating in Launchpad projects.
+- [Answers](https://answers.launchpad.net/): Community question-and-answer support for Launchpad-hosted projects.
+- [Code](https://code.launchpad.net/): Access code branches, repositories, and merge proposal workflows.
+- [Translations](https://translations.launchpad.net/): Manage and contribute localization for projects and distributions.
+
+## Documentation
+- [Documentation Home](https://documentation.ubuntu.com/launchpad/): Official Launchpad documentation and user guidance.
+- [Getting started](https://documentation.ubuntu.com/launchpad/en/latest/user/get-started/): Introductory guide to Launchpad concepts and first steps.
+- [Projects](https://documentation.ubuntu.com/launchpad/en/latest/user/explanation/projects/): Overview of how projects are organized and managed in Launchpad.
+- [Teams](https://documentation.ubuntu.com/launchpad/en/latest/user/explanation/teams/): Explanation of Launchpad teams, membership, and permissions.
+- [Bugs](https://documentation.ubuntu.com/launchpad/en/latest/user/explanation/bugs/): Guide to bug tracking concepts and workflows in Launchpad.
+- [Translations](https://documentation.ubuntu.com/launchpad/en/latest/user/explanation/translations/): Explanation of translation features and localization workflows.
+- [PPAs](https://documentation.ubuntu.com/launchpad/en/latest/user/explanation/ppas/): Overview of personal package archives and package publishing.
+
+## How-to Guides
+- [Create a project](https://documentation.ubuntu.com/launchpad/en/latest/user/how-to/projects/create-a-project/): Steps for registering and configuring a new Launchpad project.
+- [Create a team](https://documentation.ubuntu.com/launchpad/en/latest/user/how-to/teams/create-a-team/): Instructions for creating and administering a Launchpad team.
+- [Report a bug](https://documentation.ubuntu.com/launchpad/en/latest/user/how-to/bugs/report-a-bug/): How to file useful bug reports against projects or packages.
+- [Create a PPA](https://documentation.ubuntu.com/launchpad/en/latest/user/how-to/ppas/create-a-ppa/): Set up a personal package archive for building and publishing packages.
+- [Upload packages to a PPA](https://documentation.ubuntu.com/launchpad/en/latest/user/how-to/ppas/upload-packages/): Publish source packages to a PPA for automated builds.
+- [Request a translation import](https://documentation.ubuntu.com/launchpad/en/latest/user/how-to/translations/request-an-import/): Import translation templates and files into Launchpad.
+- [Propose a merge](https://documentation.ubuntu.com/launchpad/en/latest/user/how-to/code/propose-a-merge/): Submit code changes for review using merge proposals.
+
+## API and Integration
+- [Web service API](https://launchpad.net/+apidoc): Reference entry point for the Launchpad web service API.
+- [API devel docs](https://api.launchpad.net/devel.html): Developer-facing overview of Launchpad API resources and usage.
+- [launchpadlib](https://launchpadlib.readthedocs.io/): Python client library documentation for the Launchpad API.
+- [Launchpad API WADL](https://api.launchpad.net/devel/): Machine-readable API service root for Launchpad devel endpoints.
+- [Code import service](https://documentation.ubuntu.com/launchpad/en/latest/user/explanation/code/imports/): Documentation for importing code from external repositories.
+- [Recipes](https://documentation.ubuntu.com/launchpad/en/latest/user/explanation/packaging/recipes/): Explanation of source package recipes for automated builds.
+
+## Packaging and Builds
+- [Personal Package Archives](https://launchpad.net/ubuntu/+ppas): Entry point for Ubuntu PPAs hosted on Launchpad.
+- [Build recipes](https://launchpad.net/+builds): View package and recipe build activity across Launchpad.
+- [Soyuz](https://documentation.ubuntu.com/launchpad/en/latest/user/explanation/packaging/): Packaging and archive management concepts in Launchpad.
+- [Source package recipes](https://documentation.ubuntu.com/launchpad/en/latest/user/explanation/packaging/recipes/): Define packages built from branches and packaging instructions.
+- [Build farm](https://documentation.ubuntu.com/launchpad/en/latest/user/explanation/packaging/build-farm/): Overview of Launchpad’s package build infrastructure.
+- [Publishing packages](https://documentation.ubuntu.com/launchpad/en/latest/user/how-to/ppas/upload-packages/): Workflow for uploading and publishing packages through PPAs.
+
+## Collaboration Features
+- [Bug tracker](https://bugs.launchpad.net/): Search and browse bug reports across Launchpad projects and packages.
+- [Blueprints](https://blueprints.launchpad.net/): Track specifications and planning items for project development.
+- [Merge proposals](https://code.launchpad.net/+merge-proposals): Review and discuss proposed code changes.
+- [Answers tracker](https://answers.launchpad.net/): Ask and answer support questions for hosted projects.
+- [Mailing lists](https://documentation.ubuntu.com/launchpad/en/latest/user/explanation/teams/mailing-lists/): Team mailing list support and communication features.
+- [Translations overview](https://documentation.ubuntu.com/launchpad/en/latest/user/explanation/translations/): Collaborative translation workflow for software projects.
+
+## Ubuntu and Distribution Workflows
+- [Ubuntu packages](https://launchpad.net/ubuntu): Ubuntu distribution overview and package tracking on Launchpad.
+- [Ubuntu source packages](https://launchpad.net/ubuntu/+packages): Browse source and binary packages in Ubuntu.
+- [Series and releases](https://launchpad.net/ubuntu/+series): Ubuntu release series tracked in Launchpad.
+- [Package bugs](https://bugs.launchpad.net/ubuntu): Bug reports filed against Ubuntu packages and components.
+- [Package translations](https://translations.launchpad.net/ubuntu): Ubuntu translation work managed through Launchpad.
+- [Distribution documentation](https://documentation.ubuntu.com/launchpad/en/latest/user/explanation/distributions/): Concepts for distributions, series, and package management.
+
+## Community and Support
+- [Help wiki](https://help.launchpad.net/): Legacy Launchpad help resources and community documentation.
+- [Support questions](https://answers.launchpad.net/launchpad): Ask questions specifically about using Launchpad itself.
+- [Launchpad project](https://launchpad.net/launchpad): The Launchpad project page with bugs, code, and releases.
+- [Launchpad bugs](https://bugs.launchpad.net/launchpad): Report and track issues affecting the Launchpad platform.
+- [Launchpad blog](https://blog.launchpad.net/): News, updates, and announcements from the Launchpad team.
+- [Status and announcements](https://blog.launchpad.net/category/announcement): Official announcements about Launchpad changes and operations.

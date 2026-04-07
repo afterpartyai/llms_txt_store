@@ -1,0 +1,72 @@
+# Art Blocks
+
+> Art Blocks is the premier on-chain generative art platform. Artists deploy generative algorithms directly to the Ethereum blockchain; each mint produces a unique, algorithmically-determined artwork whose visual output is computed at mint time from the transaction hash. artblocks.io is the official marketplace, editorial publication, and community hub for discovering, collecting, and learning about on-chain generative art.
+
+## Quick Facts
+
+- **Supported chains:** Ethereum mainnet, Arbitrum, Base
+- **Token identification:** chain + contract address + token ID
+- **Media generation:** Live re-execution of the artist’s on-chain script using the original mint transaction hash — no static image is stored server-side
+- **Contract standard:** Core Contract (V3) with modular Minter Suite
+- **Storage:** On-chain scripts; supplementary media via IPFS and Arweave
+- **Verticals:** Curated · Studio · Collaborations · Engine
+
+## Glossary
+
+- **Curated**: Flagship generative art projects juried and selected by the Art Blocks curatorial team — the most selective vertical
+- **Studio**: Artist-owned projects with lighter-touch curation, giving creators more autonomy over release parameters
+- **Collaborations**: Co-productions with partner organizations combining Art Blocks infrastructure with external creative direction
+- **Engine**: White-label platform enabling external organizations (brands, DAOs, galleries) to launch their own generative art projects on Art Blocks contracts
+- **Core Contract (V3)**: The current-generation Art Blocks smart contract supporting multi-project deployment, on-chain scripting, and modular minter configuration
+- **Minter Suite**: A set of interchangeable minting modules (Dutch auction, fixed price, allowlist, etc.) that attach to a project on the Core Contract
+- **Chromie Squiggle**: The inaugural Art Blocks project by Erick Calderon (Snowfro), and the symbolic genesis collection of the platform
+- **Generative art**: Art created by an autonomous system (here, a script on-chain) where each output is algorithmically unique
+- **On-chain NFT**: A token whose generative script and parameters live entirely on Ethereum (or L2), not just a pointer to off-chain media
+- **GraphQL API**: Hasura-powered public API for querying projects, tokens, artists, sales, and on-chain events
+- **IPFS / Arweave**: Decentralized storage networks used for supplementary project assets and rendered media
+- **MCP Server**: Model Context Protocol server giving AI assistants structured tool access to Art Blocks on-chain data and transaction building
+
+## Collections & Marketplace
+
+- [Discover all collections](https://www.artblocks.io/discover): Browse and filter all Art Blocks projects across all verticals
+- [Curated collection](https://www.artblocks.io/discover/curated): Flagship juried generative art projects selected by the Art Blocks curatorial team
+- [Studio collection](https://www.artblocks.io/discover/studio): Artist-owned generative art projects
+- [Upcoming drops calendar](https://www.artblocks.io/calendar): Projects scheduled to launch, ordered by date
+- [Secondary marketplace](https://www.artblocks.io/secondary-marketplace): Community token listings across all Art Blocks projects
+
+## Artists
+
+- [Artist directory](https://www.artblocks.io/artists): All Art Blocks artists with profiles, project histories, secondary market listings, and journal entries
+
+## Editorial
+
+- [Spectrum journal](https://www.artblocks.io/articles): Art Blocks editorial publication covering generative art, artists, and ecosystem news
+- [Exhibitions](https://www.artblocks.io/exhibitions): Curated thematic exhibitions pairing artists and works around a shared concept
+
+## Developer Resources
+
+- [Art Blocks developer docs](https://docs.artblocks.io): Technical documentation for building with Art Blocks contracts, APIs, the generator, Engine integration, Studio onboarding, Core Contract (V3), and Minter Suite configuration
+- [Art Blocks contracts (GitHub)](https://github.com/ArtBlocks/artblocks-contracts): Smart contract source code, ABIs, and deployment addresses for all supported chains
+- [Public GraphQL API](https://docs.artblocks.io/public-api-docs/): Hasura-powered GraphQL API for querying projects, tokens, artists, sales, and on-chain events
+
+## AI Agent Integration (MCP)
+
+- [Agent card](https://www.artblocks.io/.well-known/agent.json): Machine-readable agent discovery metadata (A2A agent card with skills, auth, and capabilities)
+- [Art Blocks MCP server](https://mcp.artblocks.io/mcp): Model Context Protocol server exposing 22 tools across project discovery, token metadata, artist lookup, wallet portfolio, minting, GraphQL, and creative-coding scaffolding — `discover_projects`, `get_project`, `get_token_metadata`, `get_artist`, `get_wallet_summary`, `get_wallet_tokens`, `discover_upcoming_releases`, `discover_live_mints`, `get_project_minter_config`, `check_allowlist_eligibility`, `build_purchase_transaction`, `discover_postparams`, `build_configure_postparams_transaction`, `scaffold_artblocks_project`, `list_tags`, `graphql_query`, `graphql_introspection`, `query_optimizer`, `validate_fields`, `explore_table`, `build_query` — plus two resources: `artblocks://about` (platform overview, vocabulary, and onboarding context) and `artblocks://generator-spec` (tokenData injection, hash-based PRNG, FLEX dependency types, supported script libraries)
+
+## Common Questions
+
+- **How do I browse Art Blocks projects?** → [Discover page](https://www.artblocks.io/discover) or the `discover_projects` MCP tool
+- **How do I look up a specific token?** → Use chain + contract address + token ID on artblocks.io, or the `get_token_metadata` MCP tool
+- **How do I mint a new piece?** → Check the [drops calendar](https://www.artblocks.io/calendar) for upcoming releases; use `build_purchase_transaction` via MCP for programmatic minting
+- **How do I check allowlist eligibility?** → `check_allowlist_eligibility` MCP tool with your wallet address and project ID
+- **How do I launch my own generative art project?** → [Artist application portal](https://www.artblocks.io/apply/artist) for Curated/Studio; [Engine partnership](https://www.artblocks.io/partners) for white-label deployments
+- **Where is the smart contract source code?** → [GitHub repository](https://github.com/ArtBlocks/artblocks-contracts)
+- **How do I query Art Blocks data programmatically?** → [Public GraphQL API](https://docs.artblocks.io/public-api-docs/) or the MCP server’s `graphql_query` tool
+
+## Optional
+
+- [AB500 Timeline](https://www.artblocks.io/timeline): Visual history celebrating the first 500 Art Blocks Curated projects
+- [Collector profiles](https://www.artblocks.io/profile): Wallet-based profiles showing owned tokens, curated sets, and on-chain achievement badges
+- [Partners](https://www.artblocks.io/partners): Organizations and platforms building with Art Blocks Engine
+- [Artist applications](https://www.artblocks.io/apply/artist): Portal for artists interested in creating an Art Blocks

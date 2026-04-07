@@ -1,0 +1,68 @@
+# 3GPP Network
+> Independent technical resource covering 3GPP mobile network architecture, protocols, procedures, and telecom engineering topics.
+
+The site provides educational articles on LTE, 5G, IMS, signaling, interfaces, and core network concepts, aimed at telecom engineers, students, and practitioners seeking practical explanations of 3GPP-related technologies.
+
+## Core Network Technologies
+- [LTE](https://www.3gppnetwork.org/p/lte.html): Overview page for LTE architecture, procedures, and related technical articles.
+- [5G](https://www.3gppnetwork.org/p/5g.html): Central hub for 5G network architecture, interfaces, and protocol topics.
+- [IMS](https://www.3gppnetwork.org/p/ims.html): Index of IMS architecture, SIP signaling, and service-related articles.
+- [UMTS](https://www.3gppnetwork.org/p/umts.html): Collection of UMTS and legacy 3G network technology resources.
+- [GSM](https://www.3gppnetwork.org/p/gsm.html): Introductory and reference material for GSM network concepts and procedures.
+
+## LTE Architecture and Procedures
+- [LTE Network Architecture](https://www.3gppnetwork.org/2018/01/lte-network-architecture.html): Explains LTE network elements, EPC components, and interface relationships.
+- [LTE Attach Procedure](https://www.3gppnetwork.org/2018/01/lte-attach-procedure.html): Describes signaling flow and steps during UE attach in LTE.
+- [LTE Tracking Area Update Procedure](https://www.3gppnetwork.org/2018/01/lte-tracking-area-update-procedure.html): Covers TAU signaling and mobility management behavior in LTE.
+- [LTE Handover Procedure](https://www.3gppnetwork.org/2018/01/lte-handover-procedure.html): Summarizes LTE handover signaling and mobility control between cells.
+- [LTE Bearers](https://www.3gppnetwork.org/2018/01/lte-bearers.html): Introduces default and dedicated bearers and QoS handling in LTE.
+- [VoLTE Call Flow](https://www.3gppnetwork.org/2018/01/volte-call-flow.html): Presents VoLTE signaling flow across LTE and IMS domains.
+
+## 5G Architecture and Procedures
+- [5G Network Architecture](https://www.3gppnetwork.org/2018/01/5g-network-architecture.html): Overview of 5G core functions, RAN, and service-based architecture.
+- [5G Registration Procedure](https://www.3gppnetwork.org/2018/01/5g-registration-procedure.html): Explains UE registration signaling in the 5G core network.
+- [5G PDU Session Establishment Procedure](https://www.3gppnetwork.org/2018/01/5g-pdu-session-establishment-procedure.html): Describes session setup signaling and involved 5G core functions.
+- [5G Handover Procedure](https://www.3gppnetwork.org/2018/01/5g-handover-procedure.html): Covers mobility and handover signaling in 5G networks.
+- [5G Network Functions](https://www.3gppnetwork.org/2018/01/5g-network-functions.html): Introduces AMF, SMF, UPF, PCF, and other core functions.
+- [5G Interfaces](https://www.3gppnetwork.org/2018/01/5g-interfaces.html): Summarizes major 5G interfaces and service-based interactions.
+
+## IMS and VoLTE
+- [IMS Architecture](https://www.3gppnetwork.org/2018/01/ims-architecture.html): Describes IMS functional entities, roles, and signaling relationships.
+- [SIP Call Flow](https://www.3gppnetwork.org/2018/01/sip-call-flow.html): Explains SIP message exchange for session establishment and release.
+- [VoLTE Architecture](https://www.3gppnetwork.org/2018/01/volte-architecture.html): Overview of VoLTE service architecture across LTE and IMS.
+- [VoWiFi Call Flow](https://www.3gppnetwork.org/2018/01/vowifi-call-flow.html): Covers Wi-Fi calling signaling and IMS integration concepts.
+- [PCRF in LTE](https://www.3gppnetwork.org/2018/01/pcrf-in-lte.html): Explains policy control and charging rules in LTE networks.
+
+## Interfaces and Protocols
+- [S1 Interface in LTE](https://www.3gppnetwork.org/2018/01/s1-interface-in-lte.html): Introduces S1-MME and S1-U roles in LTE architecture.
+- [X2 Interface in LTE](https://www.3gppnetwork.org/2018/01/x2-interface-in-lte.html): Describes X2 signaling and data forwarding between eNodeBs.
+- [S5 and S8 Interfaces](https://www.3gppnetwork.org/2018/01/s5-and-s8-interfaces.html): Explains EPC user plane and control plane connectivity.
+- [Diameter Protocol in LTE](https://www.3gppnetwork.org/2018/01/diameter-protocol-in-lte.html): Overview of Diameter usage in LTE core signaling.
+- [GTP Protocol in LTE](https://www.3gppnetwork.org/2018/01/gtp-protocol-in-lte.html): Describes GTP-C and GTP-U roles in mobile core networks.
+- [SIP Protocol in IMS](https://www.3gppnetwork.org/2018/01/sip-protocol-in-ims.html): Summarizes SIP protocol usage within IMS signaling procedures.
+
+## Network Elements
+- [MME in LTE](https://www.3gppnetwork.org/2018/01/mme-in-lte.html): Explains MME responsibilities in mobility and session management.
+- [SGW in LTE](https://www.3gppnetwork.org/2018/01/sgw-in-lte.html): Describes Serving Gateway functions in LTE user plane handling.
+- [PGW in LTE](https://www.3gppnetwork.org/2018/01/pgw-in-lte.html): Covers PDN Gateway roles for connectivity, policy, and charging.
+- [HSS in LTE](https://www.3gppnetwork.org/2018/01/hss-in-lte.html): Introduces subscriber data management and authentication functions.
+- [eNodeB in LTE](https://www.3gppnetwork.org/2018/01/enodeb-in-lte.html): Explains eNodeB radio access and control responsibilities.
+- [AMF in 5G](https://www.3gppnetwork.org/2018/01/amf-in-5g.html): Describes AMF functions in access and mobility management.
+- [SMF in 5G](https://www.3gppnetwork.org/2018/01/smf-in-5g.html): Explains SMF responsibilities for session management in 5G.
+- [UPF in 5G](https://www.3gppnetwork.org/2018/01/upf-in-5g.html): Covers UPF packet forwarding and user plane processing roles.
+
+## Mobility and Session Management
+- [EPS Bearer Establishment Procedure](https://www.3gppnetwork.org/2018/01/eps-bearer-establishment-procedure.html): Details bearer setup signaling and QoS assignment in LTE.
+- [LTE Service Request Procedure](https://www.3gppnetwork.org/2018/01/lte-service-request-procedure.html): Explains UE service resumption and signaling in idle mobility.
+- [LTE Detach Procedure](https://www.3gppnetwork.org/2018/01/lte-detach-procedure.html): Describes network and UE initiated detach signaling steps.
+- [Authentication Procedure in LTE](https://www.3gppnetwork.org/2018/01/authentication-procedure-in-lte.html): Covers subscriber authentication and security establishment in LTE.
+- [5G Authentication Procedure](https://www.3gppnetwork.org/2018/01/5g-authentication-procedure.html): Introduces authentication flow and security context creation in 5G.
+- [5G Security](https://www.3gppnetwork.org/2018/01/5g-security.html): Summarizes security architecture and protection mechanisms in 5G.
+
+## Site Navigation
+- [Home](https://www.3gppnetwork.org/): Main landing page with recent telecom technology articles.
+- [Search](https://www.3gppnetwork.org/search): Site search for finding articles by topic or keyword.
+- [Labels](https://www.3gppnetwork.org/search/label/LTE): Label-based archive for LTE-related posts and references.
+- [Labels: 5G](https://www.3gppnetwork.org/search/label/5G): Label archive for 5G articles and technical explainers.
+- [Labels: IMS](https://www.3gppnetwork.org/search/label/IMS): Label archive for IMS and SIP signaling content.
+- [Archive](https://www.3gppnetwork.org/p/archive.html): Chronological archive of published technical articles.

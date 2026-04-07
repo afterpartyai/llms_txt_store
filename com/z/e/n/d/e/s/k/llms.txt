@@ -1,0 +1,82 @@
+# Zendesk
+> Zendesk provides AI-powered customer service and employee service software for support, messaging, voice, help centers, and workflow automation.
+
+Zendesk serves customer support, IT, and employee service teams with products for ticketing, omnichannel messaging, AI agents, workforce engagement, analytics, and developer extensibility. Its ecosystem includes product documentation, API references, developer guides, training, community resources, and operational status information.
+
+## Product Documentation
+- [Zendesk Help Center](https://support.zendesk.com/hc/en-us): Main documentation hub for Zendesk products, setup, administration, and troubleshooting.
+- [Admin Center](https://support.zendesk.com/hc/en-us/categories/4405299908378-Admin-Center): Documentation for account configuration, roles, security, and organization settings.
+- [Support](https://support.zendesk.com/hc/en-us/categories/4405299923994-Support): Guides for ticketing, views, macros, SLAs, and agent workflows.
+- [Messaging](https://support.zendesk.com/hc/en-us/categories/4408831452954-Messaging): Documentation for web, mobile, and social messaging channels.
+- [Talk](https://support.zendesk.com/hc/en-us/categories/4405299941530-Talk): Setup and administration guides for Zendesk voice and call center features.
+- [Guide](https://support.zendesk.com/hc/en-us/categories/4405299955738-Guide): Help center creation, theming, content management, and knowledge base configuration.
+- [Explore](https://support.zendesk.com/hc/en-us/categories/4405299970458-Explore): Reporting and analytics documentation for dashboards, metrics, and data exploration.
+- [Sell](https://support.zendesk.com/hc/en-us/categories/4405300001690-Sell): CRM and sales engagement documentation for leads, contacts, and pipelines.
+
+## Developer Platform
+- [Zendesk Developer Docs](https://developer.zendesk.com/): Central portal for APIs, apps, integrations, and platform development.
+- [Apps Framework](https://developer.zendesk.com/documentation/apps/): Build and customize Zendesk apps for agent and admin experiences.
+- [Sunshine Platform](https://developer.zendesk.com/documentation/sunshine/): Developer resources for custom objects, events, and CRM extensions.
+- [Webhooks](https://developer.zendesk.com/documentation/webhooks/): Configure outbound event delivery to external systems and services.
+- [Events and Integrations](https://developer.zendesk.com/documentation/events/): Guides for event-driven integrations and platform extensibility patterns.
+- [Developer Tutorials](https://developer.zendesk.com/documentation/tutorials/): Step-by-step implementation guides for common Zendesk development tasks.
+- [Developer Changelog](https://developer.zendesk.com/documentation/changelog/): Product and platform updates affecting developers and integrations.
+
+## API Reference
+- [Zendesk API Reference](https://developer.zendesk.com/api-reference/): Entry point for REST APIs across Zendesk products and platform services.
+- [Support API](https://developer.zendesk.com/api-reference/ticketing/introduction/): Reference for tickets, users, organizations, views, and support workflows.
+- [Help Center API](https://developer.zendesk.com/api-reference/help_center/help-center-api/introduction/): APIs for articles, sections, categories, and knowledge base content.
+- [Talk API](https://developer.zendesk.com/api-reference/voice/talk-api/introduction/): Endpoints for calls, phone numbers, greetings, and voice settings.
+- [Chat API](https://developer.zendesk.com/api-reference/live-chat/introduction/): APIs for live chat operations, agents, departments, and transcripts.
+- [Sunshine Conversations API](https://developer.zendesk.com/api-reference/conversations/introduction/): Messaging APIs for conversational experiences across channels.
+- [Sell API](https://developer.zendesk.com/api-reference/sales-crm/introduction/): CRM API reference for leads, contacts, deals, and sales data.
+- [Custom Objects API](https://developer.zendesk.com/api-reference/custom-data/custom-objects-api/introduction/): Manage custom records and relationships on the Sunshine platform.
+
+## SDKs and Client Development
+- [SDK Documentation](https://developer.zendesk.com/documentation/classic-web-widget-sdks/): Overview of SDKs and client-side integration options for Zendesk experiences.
+- [Web Widget (Classic)](https://developer.zendesk.com/documentation/classic-web-widget-sdks/web-widget/): Embed support, help center, and contact options in websites.
+- [Messaging Web Widget](https://developer.zendesk.com/documentation/zendesk-web-widget-sdks/sdks/web/): Implement Zendesk messaging in web applications.
+- [Android SDK](https://developer.zendesk.com/documentation/zendesk-web-widget-sdks/sdks/android/): Add messaging and support experiences to Android apps.
+- [iOS SDK](https://developer.zendesk.com/documentation/zendesk-web-widget-sdks/sdks/ios/): Add messaging and support experiences to iOS applications.
+- [Mobile SDK Release Notes](https://developer.zendesk.com/documentation/zendesk-web-widget-sdks/release_notes/): Track changes, fixes, and updates for Zendesk mobile SDKs.
+
+## Implementation Guides
+- [Getting Started for Developers](https://developer.zendesk.com/documentation/getting_started/): Introductory guidance for building on Zendesk APIs and platform tools.
+- [Building a Zendesk App](https://developer.zendesk.com/documentation/apps/getting-started/): Learn the basics of creating apps with the Zendesk Apps Framework.
+- [Using OAuth](https://developer.zendesk.com/documentation/integration-services/developer-guide/oauth/): Authenticate integrations securely with Zendesk OAuth flows.
+- [Rate Limits](https://developer.zendesk.com/api-reference/introduction/rate-limits/): Understand API usage limits and strategies for handling throttling.
+- [Pagination](https://developer.zendesk.com/api-reference/introduction/pagination/): Learn supported pagination methods for retrieving large result sets.
+- [Incremental Exports](https://developer.zendesk.com/api-reference/ticketing/ticket-management/incremental_exports/): Export ticketing data efficiently for sync and reporting workflows.
+- [Best Practices for APIs](https://developer.zendesk.com/documentation/api-basics/best-practices/): Recommendations for reliable, maintainable Zendesk API integrations.
+
+## Training and Certification
+- [Zendesk Training](https://training.zendesk.com/): Official learning portal for product training, courses, and enablement resources.
+- [Training Catalog](https://training.zendesk.com/learn): Browse available Zendesk learning paths and course offerings.
+- [Certification](https://training.zendesk.com/certification): Information about Zendesk certification programs and exams.
+- [On-Demand Learning](https://training.zendesk.com/on-demand): Self-paced training resources for administrators, agents, and developers.
+- [Live Training](https://training.zendesk.com/live-training): Instructor-led sessions for product adoption and advanced use cases.
+
+## Community and Support Resources
+- [Zendesk Community](https://support.zendesk.com/hc/en-us/community/topics): Community discussions, product feedback, and peer support forums.
+- [Announcements](https://support.zendesk.com/hc/en-us/community/topics/4408869411354-Announcements): Official product announcements and important platform updates.
+- [Q&A Community](https://support.zendesk.com/hc/en-us/community/topics/4408869421338-Q-A): Ask questions and find answers from users and Zendesk experts.
+- [Best Practices](https://support.zendesk.com/hc/en-us/community/topics/4408869431578-Best-Practices): Community-shared implementation advice and operational recommendations.
+- [Contact Support](https://support.zendesk.com/hc/en-us/requests/new): Submit support requests for account, product, and technical issues.
+- [System Status](https://status.zendesk.com/): Real-time availability and incident information for Zendesk services.
+
+## Release Notes and Updates
+- [Zendesk Release Notes](https://support.zendesk.com/hc/en-us/categories/4405299982618-Release-notes): Product release notes across Zendesk applications and services.
+- [Support Release Notes](https://support.zendesk.com/hc/en-us/sections/4408838961562-Support-release-notes): Updates for ticketing, agent workspace, and support workflows.
+- [Guide Release Notes](https://support.zendesk.com/hc/en-us/sections/4408842862490-Guide-release-notes): Changes affecting help centers, knowledge management, and theming.
+- [Talk Release Notes](https://support.zendesk.com/hc/en-us/sections/4408842871322-Talk-release-notes): Voice product updates, enhancements, and fixes.
+- [Explore Release Notes](https://support.zendesk.com/hc/en-us/sections/4408842877594-Explore-release-notes): Analytics and reporting feature changes and improvements.
+- [Messaging Release Notes](https://support.zendesk.com/hc/en-us/sections/4408842883738-Messaging-release-notes): Updates for messaging channels, bots, and conversational experiences.
+- [Developer Changelog](https://developer.zendesk.com/documentation/changelog/): API and platform changes relevant to developers and integrators.
+
+## Company and Insights
+- [Zendesk Blog](https://www.zendesk.com/blog/): Articles on customer service, AI, employee service, and support operations.
+- [Customer Stories](https://www.zendesk.com/customer/): Case studies showing how organizations use Zendesk products.
+- [Security](https://www.zendesk.com/trust-center/): Information about security, privacy, compliance, and trust practices.
+- [Privacy Center](https://www.zendesk.com/company/privacy-and-data-protection/): Policies and information on privacy and data protection.
+- [Partners](https://www.zendesk.com/marketplace/partners/): Find implementation, consulting, and technology partners in the Zendesk ecosystem.
+- [Zendesk Marketplace](https://www.zendesk.com/marketplace/): Browse apps and integrations that extend Zendesk functionality.

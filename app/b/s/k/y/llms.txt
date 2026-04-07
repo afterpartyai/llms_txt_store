@@ -1,0 +1,83 @@
+# Bluesky
+> Decentralized social networking platform for discovering communities, publishing posts, and interacting across the AT Protocol ecosystem.
+
+Bluesky combines a consumer social app with an open protocol stack, developer resources, and public status and policy information. This index prioritizes official documentation, protocol references, support resources, and product surfaces useful to language models.
+
+## Main Product
+- [Bluesky App](https://bsky.app/): Main web application for browsing feeds, profiles, posts, and social interactions.
+- [Starter Packs](https://bsky.app/starter-packs): Curated user collections that help new users discover communities and accounts.
+- [Feeds](https://bsky.app/feeds): Discover custom algorithmic and community feeds across the Bluesky network.
+- [About Bluesky](https://bsky.social/about): Overview of Bluesky’s mission, team, and decentralized social networking approach.
+- [Download Bluesky](https://bsky.social/download): Official download page for Bluesky mobile and desktop app access.
+
+## Developer Documentation
+- [AT Protocol Docs](https://docs.bsky.app/): Primary documentation hub for building on Bluesky and the AT Protocol.
+- [Getting Started](https://docs.bsky.app/docs/get-started): Introductory guide to core concepts, accounts, records, and APIs.
+- [API Hosts and Auth](https://docs.bsky.app/docs/advanced-guides/api-directory): Reference for service endpoints, authentication, and API host selection.
+- [Lexicon](https://docs.bsky.app/docs/advanced-guides/lexicon): Schema system used to define records, procedures, queries, and subscriptions.
+- [OAuth Client Guide](https://docs.bsky.app/docs/advanced-guides/oauth-client): Guide to implementing OAuth clients for Bluesky and AT Protocol services.
+- [Rate Limits](https://docs.bsky.app/docs/advanced-guides/rate-limits): Notes on request limits and operational considerations for API consumers.
+
+## API Reference
+- [HTTP API Reference](https://docs.bsky.app/docs/api): Reference entry point for AT Protocol and Bluesky HTTP endpoints.
+- [com.atproto.repo.createRecord](https://docs.bsky.app/docs/api/com-atproto-repo-create-record): Create a new repository record such as a post or profile object.
+- [com.atproto.repo.getRecord](https://docs.bsky.app/docs/api/com-atproto-repo-get-record): Retrieve a specific repository record by collection and record key.
+- [com.atproto.server.createSession](https://docs.bsky.app/docs/api/com-atproto-server-create-session): Authenticate with identifier and app password to create a session.
+- [app.bsky.feed.getTimeline](https://docs.bsky.app/docs/api/app-bsky-feed-get-timeline): Fetch the authenticated user’s home timeline feed.
+- [app.bsky.feed.getAuthorFeed](https://docs.bsky.app/docs/api/app-bsky-feed-get-author-feed): Retrieve posts and reposts published by a specific account.
+- [app.bsky.feed.getPostThread](https://docs.bsky.app/docs/api/app-bsky-feed-get-post-thread): Fetch a post with surrounding thread context and replies.
+- [app.bsky.actor.searchActors](https://docs.bsky.app/docs/api/app-bsky-actor-search-actors): Search for accounts by handle, display name, or related metadata.
+
+## Guides and Tutorials
+- [Create a Post](https://docs.bsky.app/docs/tutorials/creating-a-post): Tutorial for publishing posts with text, facets, embeds, and replies.
+- [Create a Feed Generator](https://docs.bsky.app/docs/tutorials/creating-a-feed-generator): Build a custom feed service that ranks and returns posts.
+- [Create an OAuth Web App](https://docs.bsky.app/docs/tutorials/oauth-web-app): End-to-end example for authenticating a web application with OAuth.
+- [Create a Video Service](https://docs.bsky.app/docs/tutorials/video): Guide to integrating video upload and playback services.
+- [Moderation](https://docs.bsky.app/docs/tutorials/moderation): Implement moderation labels, preferences, and user safety controls.
+- [Firehose and Jetstream](https://docs.bsky.app/docs/tutorials/firehose): Consume real-time network events from Bluesky and AT Protocol streams.
+
+## SDKs and Libraries
+- [TypeScript API Package](https://www.npmjs.com/package/@atproto/api): Official TypeScript client library for Bluesky and AT Protocol APIs.
+- [ATProto Monorepo](https://github.com/bluesky-social/atproto): Core open-source implementation of protocol services, libraries, and tooling.
+- [Social App Repository](https://github.com/bluesky-social/social-app): Open-source Bluesky application codebase for web and mobile clients.
+- [Lexicon Package](https://www.npmjs.com/package/@atproto/lexicon): Library for working with Lexicon schemas and generated types.
+- [XRPC Package](https://www.npmjs.com/package/@atproto/xrpc): Client utilities for calling AT Protocol XRPC endpoints.
+- [Identity Package](https://www.npmjs.com/package/@atproto/identity): Utilities for DID resolution, handles, and identity-related protocol operations.
+
+## Protocol and Architecture
+- [AT Protocol Website](https://atproto.com/): Overview site for the decentralized protocol that powers Bluesky and related services.
+- [Protocol Specification](https://atproto.com/specs/atp): Core specification for identities, repositories, records, and federation concepts.
+- [Lexicon Specification](https://atproto.com/specs/lexicon): Formal schema specification for defining protocol methods and record types.
+- [Repository Specification](https://atproto.com/specs/repository): Details on repository data structures, commits, and record storage.
+- [Identity Specification](https://atproto.com/specs/did): Specification for decentralized identity and handle resolution in AT Protocol.
+- [HTTP API Specification](https://atproto.com/specs/xrpc): Description of the XRPC transport and request conventions used by services.
+
+## Trust, Safety, and Policies
+- [Community Guidelines](https://bsky.social/about/support/community-guidelines): Rules and expectations for participation on the Bluesky platform.
+- [Moderation](https://bsky.social/about/support/moderation): Overview of Bluesky’s moderation systems, reporting, and user controls.
+- [Safety](https://bsky.social/about/support/safety): Safety resources and guidance for protecting accounts and managing abuse.
+- [Privacy Policy](https://bsky.social/about/support/privacy-policy): Official privacy policy describing data handling and user rights.
+- [Terms of Service](https://bsky.social/about/support/tos): Terms governing use of Bluesky services and platform features.
+- [Copyright Policy](https://bsky.social/about/support/copyright): Information about copyright complaints and intellectual property procedures.
+
+## Help and Support
+- [Support Home](https://bsky.social/about/support): Central support hub for account, safety, and product help resources.
+- [Account and Login Help](https://bsky.social/about/support/account): Help for sign-in, handles, passwords, and account access issues.
+- [App Passwords](https://bsky.social/about/support/app-passwords): Explanation of app passwords for third-party apps and API authentication.
+- [Custom Domains](https://bsky.social/about/support/custom-domains): Guide to using your own domain as a Bluesky handle.
+- [Data and Portability](https://bsky.social/about/support/data-and-portability): Information on exporting, migrating, and managing account data.
+- [Report a Problem](https://bsky.social/about/support/report-a-problem): Contact and reporting options for bugs, abuse, and support requests.
+
+## Status and Operational Information
+- [Bluesky Status](https://status.bsky.app/): Service status dashboard for uptime, incidents, and maintenance updates.
+- [Status History](https://status.bsky.app/history): Historical incident log and uptime reporting for Bluesky services.
+- [API Status](https://status.bsky.app/): Operational visibility into backend and API service availability.
+- [PDS Status](https://status.bsky.app/): Current health information for personal data server infrastructure.
+- [Web App Status](https://status.bsky.app/): Availability information for the Bluesky web application experience.
+
+## Company and Updates
+- [Bluesky Blog](https://bsky.social/about/blog): Official announcements, product updates, and company news.
+- [FAQ](https://bsky.social/about/faq): Frequently asked questions about Bluesky, accounts, and decentralization.
+- [Jobs](https://bsky.social/about/join-us): Careers page for open roles and company hiring information.
+- [Press](https://bsky.social/about/press): Press resources and media information about Bluesky.
+- [GitHub Organization](https://github.com/bluesky-social): Source repositories for Bluesky applications, protocol services, and tools.

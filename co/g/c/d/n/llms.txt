@@ -1,0 +1,69 @@
+# Google Cloud CDN
+> Google Cloud CDN is Google Cloud’s global content delivery network for accelerating web and media content.
+
+Google Cloud CDN is part of Google Cloud’s networking portfolio and is documented within the Google Cloud product documentation. The resources below prioritize product documentation, setup guides, cache behavior, security, observability, and related APIs used to configure and operate Cloud CDN.
+
+## Product Overview
+- [Cloud CDN overview](https://cloud.google.com/cdn/docs/overview): Introduction to Cloud CDN concepts, architecture, and core capabilities.
+- [Cloud CDN documentation](https://cloud.google.com/cdn/docs): Main documentation hub for Cloud CDN guides, features, and operations.
+- [Set up Cloud CDN with external Application Load Balancers](https://cloud.google.com/cdn/docs/setting-up-cdn-with-external-http-load-balancer): Configure Cloud CDN on an external Application Load Balancer.
+- [Set up Cloud CDN with backend buckets](https://cloud.google.com/cdn/docs/setting-up-cdn-with-bucket): Enable Cloud CDN for content served from Cloud Storage backend buckets.
+- [Best practices](https://cloud.google.com/cdn/docs/best-practices): Recommendations for performance, cache efficiency, and reliable CDN deployments.
+
+## Caching and Content Delivery
+- [Caching overview](https://cloud.google.com/cdn/docs/caching): How Cloud CDN caches content and evaluates cacheability.
+- [Change cache modes and TTLs](https://cloud.google.com/cdn/docs/using-cache-modes): Configure cache mode behavior and time-to-live settings.
+- [Customize cache keys](https://cloud.google.com/cdn/docs/using-cache-keys): Control which request attributes are included in cache keys.
+- [Serve stale content](https://cloud.google.com/cdn/docs/serve-stale-content): Configure stale content serving when origins are unavailable or slow.
+- [Negative caching](https://cloud.google.com/cdn/docs/using-negative-caching): Cache selected error responses to reduce origin load.
+- [Compression](https://cloud.google.com/cdn/docs/caching#compression): Understand compression behavior for cached responses.
+
+## Security and Access Control
+- [Use signed URLs](https://cloud.google.com/cdn/docs/using-signed-urls): Restrict access to cached content with signed URL authentication.
+- [Use signed cookies](https://cloud.google.com/cdn/docs/using-signed-cookies): Authorize access to content using signed cookies.
+- [Invalidate cached content](https://cloud.google.com/cdn/docs/invalidating-cached-content): Purge cached objects when content changes.
+- [HTTP headers and Cloud CDN](https://cloud.google.com/cdn/docs/using-http-headers): Configure origin and response headers affecting caching and delivery.
+- [Cloud Armor overview](https://cloud.google.com/armor/docs/overview): Protect CDN-backed applications with Google Cloud Armor security policies.
+
+## Observability and Troubleshooting
+- [Logs and metrics for Cloud CDN](https://cloud.google.com/cdn/docs/logging): Monitor cache performance and request behavior with logs and metrics.
+- [Troubleshooting steps](https://cloud.google.com/cdn/docs/troubleshooting-steps): Diagnose common Cloud CDN configuration and delivery issues.
+- [Cache hit troubleshooting](https://cloud.google.com/cdn/docs/troubleshooting-steps#cache_hits): Investigate low cache hit ratios and cache misses.
+- [View load balancer logs](https://cloud.google.com/load-balancing/docs/https/https-logging-monitoring): Inspect HTTPS load balancer logs used with Cloud CDN.
+- [Cloud Monitoring documentation](https://cloud.google.com/monitoring/docs): Use Monitoring to build dashboards and alerts for CDN traffic.
+
+## Load Balancing Integration
+- [External Application Load Balancers overview](https://cloud.google.com/load-balancing/docs/https): HTTPS load balancing concepts used with Cloud CDN.
+- [Backend services overview](https://cloud.google.com/load-balancing/docs/backend-service): Understand backend services that can enable Cloud CDN.
+- [Backend buckets overview](https://cloud.google.com/load-balancing/docs/backend-buckets): Learn how backend buckets integrate Cloud Storage with Cloud CDN.
+- [URL maps overview](https://cloud.google.com/load-balancing/docs/url-map): Route requests to CDN-enabled backends using URL maps.
+- [Create custom headers](https://cloud.google.com/load-balancing/docs/https/custom-headers): Configure request and response headers on load balancers.
+
+## Media and Streaming
+- [Media CDN overview](https://cloud.google.com/media-cdn/docs/overview): Related Google Cloud product for large-scale video streaming delivery.
+- [Cloud CDN and media workloads](https://cloud.google.com/cdn/docs/best-practices#media_workloads): Guidance for optimizing Cloud CDN for media delivery patterns.
+- [Byte-range requests](https://cloud.google.com/cdn/docs/caching#byte-range_requests): Understand caching behavior for partial content requests.
+- [Large object delivery](https://cloud.google.com/cdn/docs/best-practices#large_objects): Recommendations for serving large files efficiently through Cloud CDN.
+
+## APIs and Configuration
+- [Compute Engine API overview](https://cloud.google.com/compute/docs/reference/rest/v1): REST API used to manage backend services and backend buckets.
+- [BackendServices resource](https://cloud.google.com/compute/docs/reference/rest/v1/backendServices): API reference for backend services with Cloud CDN settings.
+- [BackendBuckets resource](https://cloud.google.com/compute/docs/reference/rest/v1/backendBuckets): API reference for backend buckets with Cloud CDN support.
+- [UrlMaps resource](https://cloud.google.com/compute/docs/reference/rest/v1/urlMaps): API reference for URL maps routing CDN traffic.
+- [gcloud compute backend-services](https://cloud.google.com/sdk/gcloud/reference/compute/backend-services): CLI reference for managing CDN-enabled backend services.
+- [gcloud compute backend-buckets](https://cloud.google.com/sdk/gcloud/reference/compute/backend-buckets): CLI reference for managing CDN-enabled backend buckets.
+
+## Guides and Tutorials
+- [Use Cloud CDN with Cloud Storage](https://cloud.google.com/cdn/docs/setting-up-cdn-with-bucket): Tutorial for serving static assets from Cloud Storage through Cloud CDN.
+- [Use Cloud CDN with MIGs and load balancing](https://cloud.google.com/cdn/docs/setting-up-cdn-with-external-http-load-balancer): Guide for enabling CDN on load-balanced compute backends.
+- [Optimize web performance](https://cloud.google.com/cdn/docs/best-practices#web_optimization): Practical recommendations for improving latency and cache efficiency.
+- [Control cache behavior with headers](https://cloud.google.com/cdn/docs/using-http-headers): Guide to using HTTP headers to influence caching decisions.
+- [Tune cache keys for personalization](https://cloud.google.com/cdn/docs/using-cache-keys): Reduce fragmentation while preserving required request variation.
+
+## Related Google Cloud Products
+- [Cloud Load Balancing](https://cloud.google.com/load-balancing/docs): Traffic distribution platform that Cloud CDN builds on.
+- [Cloud Storage](https://cloud.google.com/storage/docs): Object storage commonly used as an origin with backend buckets.
+- [Cloud Armor](https://cloud.google.com/armor/docs): Edge security and DDoS protection for CDN-backed applications.
+- [Cloud DNS](https://cloud.google.com/dns/docs): Managed DNS service for routing users to CDN-enabled endpoints.
+- [Certificate Manager](https://cloud.google.com/certificate-manager/docs): Manage TLS certificates for HTTPS delivery through Google Cloud.
+- [Google Cloud SDK](https://cloud.google.com/sdk/docs): Command-line tools for provisioning and operating Cloud CDN resources.

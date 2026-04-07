@@ -1,0 +1,75 @@
+# Adobe Acrobat Services
+> Adobe Acrobat Services provides APIs and tools for PDF generation, manipulation, extraction, signing, and document workflows.
+
+Developer documentation covers REST APIs, SDKs, guides, samples, and release information for integrating Adobe document services into applications.
+
+## Getting Started
+- [Documentation Home](https://developer.adobe.com/document-services/docs/): Main entry point for Acrobat Services developer documentation and product guides.
+- [Overview](https://developer.adobe.com/document-services/docs/overview/): Introduction to Acrobat Services capabilities, products, and common integration scenarios.
+- [Getting Started](https://developer.adobe.com/document-services/docs/overview/gettingstarted/): Quickstart steps for creating credentials and making your first API call.
+- [Authentication](https://developer.adobe.com/document-services/docs/overview/authentication/): Explains credentials, service account setup, and authentication requirements for API access.
+- [Postman Collection](https://developer.adobe.com/document-services/apis/): Interactive API explorer and entry point for testing Acrobat Services endpoints.
+
+## PDF Services API
+- [PDF Services API Overview](https://developer.adobe.com/document-services/docs/overview/pdf-services-api/): Overview of PDF creation, export, OCR, compression, and document transformation APIs.
+- [Create PDF](https://developer.adobe.com/document-services/docs/overview/pdf-services-api/howtos/create-pdf/): Convert supported source formats into PDF using the PDF Services API.
+- [Export PDF](https://developer.adobe.com/document-services/docs/overview/pdf-services-api/howtos/export-pdf/): Convert PDF files into Word, Excel, PowerPoint, and other formats.
+- [Combine Files](https://developer.adobe.com/document-services/docs/overview/pdf-services-api/howtos/combine-pdf/): Merge multiple files into a single PDF document.
+- [Compress PDF](https://developer.adobe.com/document-services/docs/overview/pdf-services-api/howtos/compress-pdf/): Reduce PDF file size while preserving document quality.
+- [OCR PDF](https://developer.adobe.com/document-services/docs/overview/pdf-services-api/howtos/ocr-pdf/): Make scanned PDFs searchable using optical character recognition.
+- [Protect PDF](https://developer.adobe.com/document-services/docs/overview/pdf-services-api/howtos/protect-pdf/): Apply password protection and permissions to PDF documents.
+- [Split PDF](https://developer.adobe.com/document-services/docs/overview/pdf-services-api/howtos/split-pdf/): Divide a PDF into multiple documents by page ranges.
+
+## PDF Extract API
+- [Extract API Overview](https://developer.adobe.com/document-services/docs/overview/pdf-extract-api/): Extract structured text, tables, and document elements from PDF files.
+- [Extract PDF](https://developer.adobe.com/document-services/docs/overview/pdf-extract-api/howtos/extract-api/): Submit extraction jobs and retrieve structured output from PDF documents.
+- [Extract Tables](https://developer.adobe.com/document-services/docs/overview/pdf-extract-api/howtos/extract-tables/): Focus on extracting tabular content from PDFs for downstream processing.
+- [Extract Text and Structure](https://developer.adobe.com/document-services/docs/overview/pdf-extract-api/howtos/extract-text/): Retrieve text, headings, and document structure from PDF files.
+- [Extract API Output Format](https://developer.adobe.com/document-services/docs/overview/pdf-extract-api/howtos/output-format/): Describes JSON output structure and extracted content organization.
+
+## PDF Accessibility Auto-Tag API
+- [Auto-Tag API Overview](https://developer.adobe.com/document-services/docs/overview/pdf-accessibility-autotag-api/): Automatically add accessibility tags to improve PDF usability and compliance.
+- [Auto-Tag PDF](https://developer.adobe.com/document-services/docs/overview/pdf-accessibility-autotag-api/howtos/auto-tag-pdf/): Run auto-tagging jobs to generate tagged PDF documents.
+- [Accessibility Concepts](https://developer.adobe.com/document-services/docs/overview/pdf-accessibility-autotag-api/): Learn how automated tagging supports accessible document workflows.
+
+## Document Generation API
+- [Document Generation API Overview](https://developer.adobe.com/document-services/docs/overview/document-generation-api/): Generate PDFs and Word documents from templates and JSON data.
+- [Create Your First Document](https://developer.adobe.com/document-services/docs/overview/document-generation-api/quickstarts/): Quickstart for building template-driven document generation workflows.
+- [Authoring Templates](https://developer.adobe.com/document-services/docs/overview/document-generation-api/templatetags/): Define template tags and placeholders for dynamic document generation.
+- [JSON Data to Document](https://developer.adobe.com/document-services/docs/overview/document-generation-api/howtos/): Guides for merging structured data into document templates.
+- [Document Generation Samples](https://developer.adobe.com/document-services/docs/overview/document-generation-api/code-samples/): Example implementations for common document generation use cases.
+
+## Electronic Seal API
+- [Electronic Seal API Overview](https://developer.adobe.com/document-services/docs/overview/electronic-seal-api/): Apply organization-backed electronic seals to PDF documents programmatically.
+- [Get Started with Electronic Seal](https://developer.adobe.com/document-services/docs/overview/electronic-seal-api/gettingstarted/): Setup steps, prerequisites, and first sealing workflow.
+- [Seal PDF Documents](https://developer.adobe.com/document-services/docs/overview/electronic-seal-api/howtos/): How-to guides for applying electronic seals to PDFs.
+- [Electronic Seal API Reference](https://developer.adobe.com/document-services/apis/): API explorer for endpoints related to sealing and document workflows.
+
+## SDKs and Samples
+- [SDK Documentation](https://developer.adobe.com/document-services/docs/overview/sdks/): Entry point for available Acrobat Services SDKs and language support.
+- [Java SDK](https://developer.adobe.com/document-services/docs/overview/pdf-services-api/howtos/java/): Use the Java SDK to integrate PDF Services operations.
+- [Node.js SDK](https://developer.adobe.com/document-services/docs/overview/pdf-services-api/howtos/nodejs/): Use the Node.js SDK for server-side document workflows.
+- [Python SDK](https://developer.adobe.com/document-services/docs/overview/pdf-services-api/howtos/python/): Use the Python SDK for PDF processing and automation tasks.
+- [NET SDK](https://developer.adobe.com/document-services/docs/overview/pdf-services-api/howtos/dotnet/): Integrate Acrobat Services into .NET applications.
+- [Code Samples](https://developer.adobe.com/document-services/docs/overview/code-samples/): Sample projects demonstrating common API operations and patterns.
+- [GitHub Samples](https://github.com/adobe/pdfservices-api-documentation-samples): Official sample repository for Acrobat Services documentation examples.
+
+## API Reference
+- [API Reference Home](https://developer.adobe.com/document-services/apis/): Interactive reference for Acrobat Services REST APIs and operations.
+- [PDF Services API Reference](https://developer.adobe.com/document-services/apis/#tag/PDF-Services): Endpoint reference for PDF creation and transformation operations.
+- [Extract API Reference](https://developer.adobe.com/document-services/apis/#tag/Extract-PDF): Endpoint reference for structured PDF extraction operations.
+- [Document Generation API Reference](https://developer.adobe.com/document-services/apis/#tag/Document-Generation): Endpoint reference for template-based document generation.
+- [Electronic Seal API Reference](https://developer.adobe.com/document-services/apis/#tag/Electronic-Seal): Endpoint reference for electronic seal workflows.
+
+## Tutorials and Guides
+- [Tutorials Home](https://developer.adobe.com/document-services/docs/overview/tutorials/): Collection of end-to-end tutorials for common Acrobat Services integrations.
+- [PDF Embed API Tutorials](https://developer.adobe.com/document-services/docs/overview/pdf-embed-api/): Guides for embedding PDF viewing and interaction in web applications.
+- [Workflow Automation Guides](https://developer.adobe.com/document-services/docs/overview/): Documentation for automating document-centric business processes.
+- [Use Cases](https://developer.adobe.com/document-services/docs/overview/): Product documentation organized around practical document workflow scenarios.
+
+## Release Notes and Support
+- [Release Notes](https://developer.adobe.com/document-services/docs/overview/releasenotes/): Product updates, feature changes, and release history for Acrobat Services.
+- [FAQ](https://developer.adobe.com/document-services/faq/): Answers to common questions about setup, quotas, and product capabilities.
+- [Support](https://developer.adobe.com/document-services/support/): Support resources, issue reporting, and help channels for developers.
+- [Pricing](https://developer.adobe.com/document-services/pricing/): Usage plans and pricing information for Acrobat Services APIs.
+- [Status and Limits](https://developer.adobe.com/document-services/docs/overview/limits/): Service usage limits, quotas, and operational constraints.

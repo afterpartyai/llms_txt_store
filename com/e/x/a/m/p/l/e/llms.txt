@@ -1,0 +1,26 @@
+# Example Domain
+> Example.com is a reserved domain used for documentation, examples, and illustrative purposes on the web.
+
+This site is intentionally minimal and maintained for use in technical documentation and sample content. It does not provide product documentation, APIs, guides, or blog content.
+
+## Overview
+- [Example Domain](https://example.com/): Canonical landing page explaining the domain’s purpose for illustrative use in documents.
+- [IANA Example Domains](https://www.iana.org/help/example-domains): Official IANA reference describing reserved example domains including example.com.
+
+## Reference
+- [RFC 2606](https://datatracker.ietf.org/doc/html/rfc2606): Defines reserved top-level DNS names for testing, documentation, and examples.
+- [RFC 6761](https://datatracker.ietf.org/doc/html/rfc6761): Specifies special-use domain names and operational expectations for resolvers and applications.
+
+## Usage Context
+- [Example Domain](https://example.com/): Safe placeholder domain commonly used in tutorials, demos, and configuration examples.
+- [Example.org](https://example.org/): Companion reserved domain suitable for noncommercial examples and documentation.
+- [Example.net](https://example.net/): Companion reserved domain used alongside other example domains in sample materials.
+
+## Policies and Governance
+- [IANA Example Domains](https://www.iana.org/help/example-domains): Governance and background for reserved domains managed for documentation purposes.
+- [Internet Assigned Numbers Authority](https://www.iana.org/): Organization responsible for protocol parameter registries and related naming resources.
+
+## External Standards
+- [IETF Datatracker](https://datatracker.ietf.org/): Source for internet standards documents relevant to reserved and special-use domains.
+- [RFC 2606](https://datatracker.ietf.org/doc/html/rfc2606): Primary standards reference for example domain reservations.
+- [RFC 6761](https://datatracker.ietf.org/doc/html/rfc6761): Additional standards context for handling special-use domain names.

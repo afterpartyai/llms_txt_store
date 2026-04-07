@@ -1,0 +1,78 @@
+# Alibaba Cloud CDN
+> Alibaba Cloud’s content delivery network and edge acceleration platform for websites, media, APIs, and application delivery.
+
+Alibaba Cloud CDN documentation covers product overviews, getting started, configuration guides, API references, billing, security, and related edge delivery services. The most useful resources are hosted in Alibaba Cloud’s documentation center and OpenAPI explorer.
+
+## Product Overview
+- [Alibaba Cloud CDN Overview](https://www.alibabacloud.com/help/en/cdn/): Main documentation hub for Alibaba Cloud CDN features, concepts, and operations.
+- [What is Alibaba Cloud CDN?](https://www.alibabacloud.com/help/en/cdn/product-overview/what-is-alibaba-cloud-cdn): Introduction to CDN capabilities, acceleration scenarios, and core architecture.
+- [Features](https://www.alibabacloud.com/help/en/cdn/product-overview/features): Summary of acceleration, caching, security, monitoring, and management features.
+- [Benefits](https://www.alibabacloud.com/help/en/cdn/product-overview/benefits): High-level advantages of using Alibaba Cloud CDN for content delivery.
+- [Basic Concepts](https://www.alibabacloud.com/help/en/cdn/product-overview/basic-concepts): Definitions for domains, CNAMEs, cache behavior, and origin configuration.
+
+## Getting Started
+- [Get Started](https://www.alibabacloud.com/help/en/cdn/getting-started/): Entry point for initial CDN setup and first-time configuration tasks.
+- [Activate Alibaba Cloud CDN](https://www.alibabacloud.com/help/en/cdn/getting-started/activate-alibaba-cloud-cdn): Steps to enable the service in an Alibaba Cloud account.
+- [Add a Domain Name](https://www.alibabacloud.com/help/en/cdn/getting-started/add-a-domain-name): How to add an accelerated domain and configure its origin.
+- [Configure a CNAME Record](https://www.alibabacloud.com/help/en/cdn/getting-started/configure-a-cname-record): DNS setup instructions for pointing traffic to Alibaba Cloud CDN.
+- [Verify Domain Ownership](https://www.alibabacloud.com/help/en/cdn/getting-started/verify-domain-ownership): Procedures for proving control of a domain before acceleration.
+- [Check the Acceleration Effect](https://www.alibabacloud.com/help/en/cdn/getting-started/check-the-acceleration-effect): Methods to validate CDN deployment and delivery performance.
+
+## Domain Management and Configuration
+- [Manage Domain Names](https://www.alibabacloud.com/help/en/cdn/user-guide/manage-domain-names): Operational guidance for viewing and maintaining accelerated domains.
+- [Configure Origin Servers](https://www.alibabacloud.com/help/en/cdn/user-guide/configure-origin-servers): Set origin types, addresses, host headers, and failover behavior.
+- [Configure Cache Rules](https://www.alibabacloud.com/help/en/cdn/user-guide/configure-cache-rules): Define TTLs and caching policies by file type or path.
+- [Refresh and Prefetch](https://www.alibabacloud.com/help/en/cdn/user-guide/refresh-and-prefetch): Invalidate cached content or pre-warm resources on edge nodes.
+- [Configure HTTPS Secure Acceleration](https://www.alibabacloud.com/help/en/cdn/user-guide/configure-https-secure-acceleration): Enable TLS certificates and HTTPS delivery for accelerated domains.
+- [Configure URL Rewriting](https://www.alibabacloud.com/help/en/cdn/user-guide/configure-url-rewriting): Rewrite request URLs to support origin compatibility and routing.
+- [Configure Range Origin Pull](https://www.alibabacloud.com/help/en/cdn/user-guide/configure-range-origin-pull): Optimize large file delivery using byte-range retrieval from origin.
+
+## Performance and Delivery Optimization
+- [Performance Optimization](https://www.alibabacloud.com/help/en/cdn/user-guide/performance-optimization): Guidance for tuning cache hit ratio, latency, and origin offload.
+- [Enable Brotli Compression](https://www.alibabacloud.com/help/en/cdn/user-guide/enable-brotli-compression): Compress responses to reduce transfer size and improve page speed.
+- [Configure Gzip Compression](https://www.alibabacloud.com/help/en/cdn/user-guide/configure-gzip-compression): Enable gzip for compatible content types and clients.
+- [Configure HTTP/2](https://www.alibabacloud.com/help/en/cdn/user-guide/configure-http-2): Use HTTP/2 to improve multiplexing and connection efficiency.
+- [Configure IPv6](https://www.alibabacloud.com/help/en/cdn/user-guide/configure-ipv6): Deliver content over IPv6 for supported clients and networks.
+- [Configure QUIC](https://www.alibabacloud.com/help/en/cdn/user-guide/configure-quic): Enable QUIC transport to improve performance on unstable networks.
+- [Configure Page Optimization](https://www.alibabacloud.com/help/en/cdn/user-guide/configure-page-optimization): Optimize web delivery behavior for dynamic and static page content.
+
+## Security and Access Control
+- [Security](https://www.alibabacloud.com/help/en/cdn/product-overview/security): Overview of CDN security capabilities and protection mechanisms.
+- [Configure Referer-based Hotlink Protection](https://www.alibabacloud.com/help/en/cdn/user-guide/configure-referer-based-hotlink-protection): Restrict unauthorized resource access based on HTTP referer headers.
+- [Configure URL Signing](https://www.alibabacloud.com/help/en/cdn/user-guide/configure-url-signing): Protect private content with signed URLs and expiration controls.
+- [Configure IP Address Blacklists and Whitelists](https://www.alibabacloud.com/help/en/cdn/user-guide/configure-ip-address-blacklists-or-whitelists): Allow or block requests from specific client IP ranges.
+- [Configure Remote Authentication](https://www.alibabacloud.com/help/en/cdn/user-guide/configure-remote-authentication): Validate requests through an external authentication service before delivery.
+- [Configure TLS Certificates](https://www.alibabacloud.com/help/en/cdn/user-guide/configure-tls-certificates): Upload and manage certificates for HTTPS acceleration.
+- [Configure Access Control Rules](https://www.alibabacloud.com/help/en/cdn/user-guide/access-control): Apply request filtering and policy-based access restrictions.
+
+## Monitoring, Logs, and Analytics
+- [Monitoring and Logs](https://www.alibabacloud.com/help/en/cdn/user-guide/monitoring-and-logs): Central guide to metrics, log collection, and operational visibility.
+- [View Monitoring Data](https://www.alibabacloud.com/help/en/cdn/user-guide/view-monitoring-data): Inspect bandwidth, traffic, QPS, hit ratio, and status code metrics.
+- [Enable Real-time Log Delivery](https://www.alibabacloud.com/help/en/cdn/user-guide/real-time-log-delivery): Stream access logs for near real-time analysis and alerting.
+- [Download Log Files](https://www.alibabacloud.com/help/en/cdn/user-guide/download-log-files): Retrieve historical access logs for auditing and troubleshooting.
+- [Configure Log Storage](https://www.alibabacloud.com/help/en/cdn/user-guide/configure-log-storage): Set up destinations and retention for CDN log data.
+- [Use CloudMonitor with CDN](https://www.alibabacloud.com/help/en/cdn/user-guide/use-cloudmonitor-with-cdn): Integrate CDN metrics with Alibaba Cloud monitoring services.
+
+## Billing and Quotas
+- [Billing](https://www.alibabacloud.com/help/en/cdn/product-overview/billing): Overview of pricing models, metering dimensions, and chargeable items.
+- [Billing Methods](https://www.alibabacloud.com/help/en/cdn/product-overview/billing-methods): Compare pay-by-traffic, pay-by-bandwidth, and related billing options.
+- [Billable Items](https://www.alibabacloud.com/help/en/cdn/product-overview/billable-items): Detailed list of usage categories that generate CDN charges.
+- [View Bills](https://www.alibabacloud.com/help/en/cdn/user-guide/view-bills): Check account charges and usage records for CDN services.
+- [Quotas and Limits](https://www.alibabacloud.com/help/en/cdn/product-overview/quotas-and-limits): Service limits for domains, refresh tasks, and configuration items.
+
+## API and Developer Resources
+- [CDN API Reference](https://www.alibabacloud.com/help/en/cdn/developer-reference/api-cdn-2018-05-10): Reference for Alibaba Cloud CDN OpenAPI operations and parameters.
+- [OpenAPI Explorer - CDN](https://api.alibabacloud.com/product/Cdn): Interactive API explorer for testing CDN operations and generating code.
+- [List of Operations by Function](https://www.alibabacloud.com/help/en/cdn/developer-reference/list-of-operations-by-function): Organized index of CDN API actions by management area.
+- [Common Request Parameters](https://www.alibabacloud.com/help/en/cdn/developer-reference/common-request-parameters): Shared request fields and signing requirements for API calls.
+- [API Error Codes](https://www.alibabacloud.com/help/en/cdn/developer-reference/api-error-codes): Error code reference for diagnosing failed CDN API requests.
+- [SDK Center](https://www.alibabacloud.com/help/en/sdk): Entry point for Alibaba Cloud SDKs across supported languages.
+- [Terraform Provider for Alibaba Cloud](https://registry.terraform.io/providers/aliyun/alicloud/latest/docs): Infrastructure as code support for managing CDN and related resources.
+
+## Related Edge and Delivery Services
+- [Dynamic Route for CDN (DCDN)](https://www.alibabacloud.com/help/en/dcdn/): Documentation for dynamic acceleration, edge security, and application delivery.
+- [ESA Documentation](https://www.alibabacloud.com/help/en/edge-security-acceleration/): Edge Security Acceleration docs for integrated edge networking and protection.
+- [Object Storage Service](https://www.alibabacloud.com/help/en/oss/): Origin storage service commonly used with CDN for static asset delivery.
+- [Web Application Firewall](https://www.alibabacloud.com/help/en/waf/): Security service that can complement CDN for application-layer protection.
+- [Certificate Management Service](https://www.alibabacloud.com/help/en/ssl-certificate/): Manage SSL/TLS certificates used for HTTPS acceleration.
+- [CloudMonitor](https://www.alibabacloud.com/help/en/cloudmonitor/): Monitoring platform for alerting and observability across Alibaba Cloud services.

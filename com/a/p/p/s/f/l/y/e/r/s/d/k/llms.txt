@@ -1,0 +1,75 @@
+# AppsFlyer SDK
+> AppsFlyer provides mobile attribution, deep linking, in-app event measurement, and privacy-preserving analytics SDK documentation.
+
+This site hosts developer documentation for integrating AppsFlyer SDKs across mobile, web, CTV, Unity, React Native, Flutter, and server-side environments, including APIs, guides, and platform-specific setup references.
+
+## Getting Started
+- [Developer Hub](https://dev.appsflyer.com/): Entry point for AppsFlyer developer documentation and platform-specific integration resources.
+- [Android SDK](https://dev.appsflyer.com/hc/docs/android-sdk-reference): Reference and integration documentation for the native Android AppsFlyer SDK.
+- [iOS SDK](https://dev.appsflyer.com/hc/docs/ios-sdk-reference): Reference and integration documentation for the native iOS AppsFlyer SDK.
+- [React Native Plugin](https://dev.appsflyer.com/hc/docs/react-native-plugin): Integration guidance for using AppsFlyer in React Native apps.
+- [Flutter Plugin](https://dev.appsflyer.com/hc/docs/flutter-plugin): Integration guidance for using AppsFlyer in Flutter applications.
+- [Unity Plugin](https://dev.appsflyer.com/hc/docs/unity-plugin): Setup and usage documentation for AppsFlyer in Unity projects.
+
+## Mobile SDK Reference
+- [Android SDK Reference](https://dev.appsflyer.com/hc/docs/android-sdk-reference): API reference for Android initialization, attribution, events, and deep linking.
+- [iOS SDK Reference](https://dev.appsflyer.com/hc/docs/ios-sdk-reference): API reference for iOS setup, event logging, attribution, and privacy controls.
+- [Android SDK V6](https://dev.appsflyer.com/hc/docs/android-sdk-v6): Android SDK v6 integration and migration-related documentation.
+- [iOS SDK V6](https://dev.appsflyer.com/hc/docs/ios-sdk-v6): iOS SDK v6 integration and migration-related documentation.
+- [In-App Events](https://dev.appsflyer.com/hc/docs/in-app-events): Guidance for sending and validating in-app event data.
+- [Uninstall Measurement](https://dev.appsflyer.com/hc/docs/uninstall-measurement): Setup instructions for uninstall tracking and push token registration.
+
+## Deep Linking
+- [Deep Linking Overview](https://dev.appsflyer.com/hc/docs/dl_overview): Overview of AppsFlyer deep linking concepts and implementation flows.
+- [Unified Deep Linking](https://dev.appsflyer.com/hc/docs/dl_android_unified_deep_linking): Android unified deep linking setup and handling instructions.
+- [iOS Unified Deep Linking](https://dev.appsflyer.com/hc/docs/dl_ios_unified_deep_linking): iOS unified deep linking setup and callback handling guidance.
+- [Android Deferred Deep Linking](https://dev.appsflyer.com/hc/docs/dl_android_deferred_deep_linking): Deferred deep linking implementation for Android installs and first opens.
+- [iOS Deferred Deep Linking](https://dev.appsflyer.com/hc/docs/dl_ios_deferred_deep_linking): Deferred deep linking implementation for iOS installs and first opens.
+- [ESP 2.0](https://dev.appsflyer.com/hc/docs/dl_esp_20): Email service provider deep linking support and configuration details.
+
+## Cross-Platform SDKs
+- [React Native Plugin](https://dev.appsflyer.com/hc/docs/react-native-plugin): Plugin documentation for attribution, events, and deep linking in React Native.
+- [Flutter Plugin](https://dev.appsflyer.com/hc/docs/flutter-plugin): Plugin documentation for attribution, events, and deep linking in Flutter.
+- [Unity Plugin](https://dev.appsflyer.com/hc/docs/unity-plugin): Unity plugin setup for attribution, events, and deep linking support.
+- [Cordova Plugin](https://dev.appsflyer.com/hc/docs/cordova-plugin): Integration documentation for AppsFlyer in Apache Cordova applications.
+- [Adobe Extension](https://dev.appsflyer.com/hc/docs/adobe-extension): Setup guidance for integrating AppsFlyer with Adobe Experience Platform apps.
+- [Cocos2d-x Plugin](https://dev.appsflyer.com/hc/docs/cocos2dx-plugin): Integration instructions for AppsFlyer in Cocos2d-x based mobile games.
+
+## Web, Desktop, and CTV
+- [Web SDK](https://dev.appsflyer.com/hc/docs/web-sdk): Documentation for web attribution and event measurement with AppsFlyer.
+- [CTV SDK](https://dev.appsflyer.com/hc/docs/ctv-sdk): Connected TV SDK documentation for attribution and event measurement.
+- [Roku SDK](https://dev.appsflyer.com/hc/docs/roku-sdk): Roku-specific AppsFlyer SDK integration and event tracking guidance.
+- [tvOS SDK](https://dev.appsflyer.com/hc/docs/tvos-sdk): tvOS SDK setup for attribution and in-app event measurement.
+- [PC and Console](https://dev.appsflyer.com/hc/docs/pc-console): Documentation for AppsFlyer measurement on PC and console platforms.
+
+## Server-to-Server and APIs
+- [S2S Events API](https://dev.appsflyer.com/hc/docs/s2s-events-api3-overview): Overview of server-to-server in-app event reporting APIs.
+- [Pull API](https://dev.appsflyer.com/hc/docs/pull-api): Reference for retrieving attribution and performance data programmatically.
+- [Push API](https://dev.appsflyer.com/hc/docs/push-api): Webhook-style API documentation for receiving AppsFlyer event notifications.
+- [Master API Token](https://dev.appsflyer.com/hc/docs/master-api-token): Authentication guidance for AppsFlyer APIs using master API tokens.
+- [Raw Data Pull API](https://dev.appsflyer.com/hc/docs/raw-data-pull-api): Access raw attribution and event exports through reporting APIs.
+- [SKAN Conversion Studio API](https://dev.appsflyer.com/hc/docs/skan-conversion-studio-api): API documentation for managing SKAN conversion value configurations.
+
+## Privacy and Attribution Frameworks
+- [SKAdNetwork](https://dev.appsflyer.com/hc/docs/skadnetwork): Documentation for Apple SKAdNetwork measurement and configuration.
+- [AdAttributionKit](https://dev.appsflyer.com/hc/docs/adattributionkit): Guidance for Apple AdAttributionKit support and implementation considerations.
+- [ATT Support](https://dev.appsflyer.com/hc/docs/att): AppTrackingTransparency integration guidance for iOS applications.
+- [DMA and Consent](https://dev.appsflyer.com/hc/docs/dma-consent): Consent collection and DMA-related implementation guidance.
+- [Privacy Sandbox](https://dev.appsflyer.com/hc/docs/privacy-sandbox): Android Privacy Sandbox documentation and attribution support details.
+- [User Invite and Sharing](https://dev.appsflyer.com/hc/docs/user-invite-overview): Referral and user invite attribution implementation guidance.
+
+## Data, Events, and Measurement
+- [In-App Events](https://dev.appsflyer.com/hc/docs/in-app-events): Event logging concepts, schemas, and implementation guidance across SDKs.
+- [Rich In-App Events](https://dev.appsflyer.com/hc/docs/rich-in-app-events): Best practices for sending detailed event payloads and revenue data.
+- [Revenue Reporting](https://dev.appsflyer.com/hc/docs/revenue-reporting): Guidance for revenue measurement and monetization event reporting.
+- [Retargeting Attribution](https://dev.appsflyer.com/hc/docs/retargeting-attribution): Documentation for measuring re-engagement and retargeting campaigns.
+- [Organic and Non-Organic Attribution](https://dev.appsflyer.com/hc/docs/organic-vs-non-organic): Explanation of attribution result types and install classifications.
+- [Protect360 Validation Rules](https://dev.appsflyer.com/hc/docs/p360-validation-rules): Fraud protection and event validation rule configuration guidance.
+
+## Migration and Troubleshooting
+- [SDK Migration](https://dev.appsflyer.com/hc/docs/sdk-migration): Migration guidance for upgrading between AppsFlyer SDK versions.
+- [Testing SDK Integration](https://dev.appsflyer.com/hc/docs/testing-sdk-integration): Steps for validating attribution, events, and deep linking implementations.
+- [Debugging](https://dev.appsflyer.com/hc/docs/debugging): Troubleshooting techniques for common SDK integration and runtime issues.
+- [Release Notes](https://dev.appsflyer.com/hc/docs/release-notes): Product and SDK release notes for tracking changes and updates.
+- [FAQ](https://dev.appsflyer.com/hc/docs/faq): Frequently asked questions covering implementation and measurement behavior.
+- [Glossary](https://dev.appsflyer.com/hc/docs/glossary): Definitions for AppsFlyer attribution, analytics, and SDK terminology.

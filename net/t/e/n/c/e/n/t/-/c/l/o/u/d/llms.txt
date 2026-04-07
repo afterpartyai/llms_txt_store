@@ -1,0 +1,86 @@
+# Tencent Cloud
+> Tencent Cloud provides cloud computing services, APIs, SDKs, and technical documentation for infrastructure, AI, media, security, and enterprise applications.
+
+This site hosts Tencent Cloud’s international documentation, product references, developer guides, API materials, SDK resources, and support content for building and operating cloud-based systems.
+
+## Documentation Home
+- [Documentation Home](https://www.tencentcloud.com/document): Central entry point for Tencent Cloud product documentation and technical resources.
+- [Product Documentation](https://www.tencentcloud.com/document/product): Browse documentation organized by Tencent Cloud product and service category.
+- [API Documentation](https://www.tencentcloud.com/document/api): Access API references for Tencent Cloud services and versions.
+- [Developer Tools](https://www.tencentcloud.com/document/tool): Find CLI, SDK, and related developer tooling documentation.
+- [Best Practices](https://www.tencentcloud.com/document/best-practice): Explore recommended architectures, deployment patterns, and operational guidance.
+- [FAQ](https://www.tencentcloud.com/document/faq): Read frequently asked questions across Tencent Cloud products and services.
+
+## Getting Started
+- [Getting Started](https://www.tencentcloud.com/document/product/213): Introductory materials for creating accounts and using Tencent Cloud services.
+- [Quick Start Guides](https://www.tencentcloud.com/document/product/213/4855): Follow initial setup steps for common Tencent Cloud workflows.
+- [Account and Identity](https://www.tencentcloud.com/document/product/378): Learn about account management, access control, and identity services.
+- [Billing Center](https://www.tencentcloud.com/document/product/555): Understand billing, payments, and cost management features.
+- [Regions and Availability Zones](https://www.tencentcloud.com/document/product/213/6091): Review region selection and deployment geography considerations.
+- [Console Overview](https://www.tencentcloud.com/document/product/213/495): Get familiar with the Tencent Cloud management console.
+
+## Compute and Containers
+- [Cloud Virtual Machine](https://www.tencentcloud.com/document/product/213): Documentation for provisioning and managing virtual machine instances.
+- [Auto Scaling](https://www.tencentcloud.com/document/product/377): Configure elastic scaling policies for compute workloads.
+- [Batch Compute](https://www.tencentcloud.com/document/product/599): Run large-scale batch jobs on Tencent Cloud infrastructure.
+- [Tencent Kubernetes Engine](https://www.tencentcloud.com/document/product/457): Deploy and operate managed Kubernetes clusters and containerized applications.
+- [Serverless Cloud Function](https://www.tencentcloud.com/document/product/583): Build event-driven serverless applications using cloud functions.
+- [Lighthouse](https://www.tencentcloud.com/document/product/1207): Use simplified cloud servers for lightweight application deployment.
+
+## Networking and CDN
+- [Virtual Private Cloud](https://www.tencentcloud.com/document/product/215): Create isolated networks, subnets, and routing configurations.
+- [Cloud Load Balancer](https://www.tencentcloud.com/document/product/214): Distribute traffic across backend services with managed load balancing.
+- [Content Delivery Network](https://www.tencentcloud.com/document/product/228): Accelerate content delivery using Tencent Cloud’s global CDN.
+- [Direct Connect](https://www.tencentcloud.com/document/product/216): Establish dedicated private connectivity to Tencent Cloud resources.
+- [NAT Gateway](https://www.tencentcloud.com/document/product/552): Manage outbound internet access for private network resources.
+- [DNSPod](https://www.tencentcloud.com/document/product/302): Configure DNS resolution and domain management services.
+
+## Storage and Databases
+- [Cloud Object Storage](https://www.tencentcloud.com/document/product/436): Store and retrieve unstructured data with scalable object storage.
+- [Cloud Block Storage](https://www.tencentcloud.com/document/product/362): Attach persistent block storage volumes to compute instances.
+- [File Storage](https://www.tencentcloud.com/document/product/582): Use managed shared file storage for cloud workloads.
+- [TencentDB for MySQL](https://www.tencentcloud.com/document/product/236): Operate managed MySQL databases with backup and scaling features.
+- [TencentDB for PostgreSQL](https://www.tencentcloud.com/document/product/409): Deploy and manage PostgreSQL databases on Tencent Cloud.
+- [TencentDB for Redis](https://www.tencentcloud.com/document/product/239): Use managed Redis for caching and in-memory data services.
+- [TDSQL-C MySQL Edition](https://www.tencentcloud.com/document/product/1098): Access cloud-native MySQL-compatible distributed database documentation.
+
+## Security and Identity
+- [Cloud Access Management](https://www.tencentcloud.com/document/product/598): Define users, roles, and permissions for Tencent Cloud resources.
+- [SSL Certificates](https://www.tencentcloud.com/document/product/400): Manage certificate issuance, deployment, and lifecycle operations.
+- [Web Application Firewall](https://www.tencentcloud.com/document/product/627): Protect web applications against common attacks and threats.
+- [Anti-DDoS](https://www.tencentcloud.com/document/product/1029): Mitigate distributed denial-of-service attacks on internet-facing services.
+- [Cloud Firewall](https://www.tencentcloud.com/document/product/1130): Control network traffic and enforce security policies across environments.
+- [Security Operations Center](https://www.tencentcloud.com/document/product/296): Monitor, detect, and respond to cloud security risks.
+
+## Media, AI, and Communications
+- [Cloud Streaming Services](https://www.tencentcloud.com/document/product/267): Build live streaming workflows with ingest, processing, and playback.
+- [Video on Demand](https://www.tencentcloud.com/document/product/266): Manage media upload, transcoding, storage, and distribution pipelines.
+- [Media Processing Service](https://www.tencentcloud.com/document/product/862): Automate media transcoding, editing, and content processing tasks.
+- [Real-Time Communication](https://www.tencentcloud.com/document/product/647): Integrate audio, video, and interactive communication capabilities.
+- [Chat](https://www.tencentcloud.com/document/product/1047): Add instant messaging and conversation features to applications.
+- [Machine Translation](https://www.tencentcloud.com/document/product/551): Use translation APIs for multilingual text processing.
+- [Text Moderation](https://www.tencentcloud.com/document/product/1125): Detect and manage inappropriate text content programmatically.
+
+## API and SDK Resources
+- [API Center](https://www.tencentcloud.com/document/api): Browse Tencent Cloud API references by product.
+- [API Explorer](https://www.tencentcloud.com/document/product/1278): Test APIs online and inspect request parameters and responses.
+- [SDK Center](https://www.tencentcloud.com/document/sdk): Find official SDKs for supported programming languages.
+- [Command Line Interface](https://www.tencentcloud.com/document/product/440): Install and use the Tencent Cloud CLI for automation.
+- [Signature v3](https://www.tencentcloud.com/document/product/1278/57484): Learn request signing requirements for Tencent Cloud APIs.
+- [Error Codes](https://www.tencentcloud.com/document/api/1278/44574): Reference common API error handling information.
+
+## Tutorials and Best Practices
+- [Best Practices](https://www.tencentcloud.com/document/best-practice): Curated architectural and operational recommendations across products.
+- [Troubleshooting](https://www.tencentcloud.com/document/product/253): Diagnose and resolve common platform and product issues.
+- [Migration Guides](https://www.tencentcloud.com/document/product/1105): Plan and execute migrations into Tencent Cloud environments.
+- [Solution Architectures](https://www.tencentcloud.com/document/solution): Review reference solutions for common business scenarios.
+- [Case Studies](https://www.tencentcloud.com/document/product/1379): Learn from implementation examples and customer-oriented scenarios.
+- [FAQs](https://www.tencentcloud.com/document/faq): Find concise answers to common product questions.
+
+## Support and Service Information
+- [Support Center](https://www.tencentcloud.com/document/product/253): Access support processes, tickets, and service guidance.
+- [Contact Support](https://www.tencentcloud.com/document/product/253/10025): Learn how to submit support requests and get assistance.
+- [Service Level Agreement](https://www.tencentcloud.com/document/product/301): Review SLA commitments for Tencent Cloud services.
+- [Status and Notices](https://www.tencentcloud.com/document/product/267/32744): Check service notices and operational updates for products.
+- [Compliance](https://www.tencentcloud.com/document/product/301/11470): Review compliance-related service information and commitments.
+- [Billing Documentation](https://www.tencentcloud.com/document/product/555): Understand pricing, billing, and account charge management.

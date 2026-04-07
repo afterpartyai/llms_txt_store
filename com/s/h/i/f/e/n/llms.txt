@@ -1,0 +1,66 @@
+# Shifen
+> Shifen provides AI-powered customer support and sales agents for websites, messaging, and voice channels.
+
+Shifen focuses on deploying AI agents for customer-facing conversations, with documentation covering setup, integrations, channels, analytics, and operational workflows.
+
+## Documentation
+- [Docs Home](https://docs.shifen.com/): Main documentation hub for Shifen platform setup, usage, and administration.
+- [Getting Started](https://docs.shifen.com/getting-started): Introductory guide to launching and configuring Shifen AI agents.
+- [Overview](https://docs.shifen.com/overview): Product overview and core concepts for understanding the Shifen platform.
+- [Quickstart](https://docs.shifen.com/quickstart): Fast path to initial deployment and first working agent.
+- [FAQ](https://docs.shifen.com/faq): Answers to common questions about setup, features, and operations.
+
+## AI Agent Setup
+- [Create an Agent](https://docs.shifen.com/agents/create-an-agent): Steps for creating and configuring a new AI agent.
+- [Agent Settings](https://docs.shifen.com/agents/settings): Configuration options for behavior, branding, and operational controls.
+- [Knowledge Base](https://docs.shifen.com/agents/knowledge-base): Manage source content used to ground agent responses.
+- [Prompts](https://docs.shifen.com/agents/prompts): Define instructions and prompting behavior for agent conversations.
+- [Handoffs](https://docs.shifen.com/agents/handoffs): Configure escalation from AI agents to human support teams.
+- [Testing](https://docs.shifen.com/agents/testing): Validate agent behavior before production deployment.
+
+## Channels
+- [Website Chat](https://docs.shifen.com/channels/website-chat): Deploy Shifen agents on websites through embedded chat experiences.
+- [WhatsApp](https://docs.shifen.com/channels/whatsapp): Connect and operate AI agents on WhatsApp conversations.
+- [Instagram](https://docs.shifen.com/channels/instagram): Use Shifen agents for Instagram messaging workflows.
+- [Facebook Messenger](https://docs.shifen.com/channels/facebook-messenger): Integrate AI support into Facebook Messenger conversations.
+- [Voice](https://docs.shifen.com/channels/voice): Configure voice-based AI interactions for phone and call workflows.
+- [Email](https://docs.shifen.com/channels/email): Manage AI-assisted customer communication over email channels.
+
+## Integrations
+- [Integrations Overview](https://docs.shifen.com/integrations): Directory of supported integrations and connection workflows.
+- [Shopify](https://docs.shifen.com/integrations/shopify): Connect Shopify data and workflows to Shifen agents.
+- [Zendesk](https://docs.shifen.com/integrations/zendesk): Sync Shifen with Zendesk for support operations and ticketing.
+- [HubSpot](https://docs.shifen.com/integrations/hubspot): Integrate CRM data and automation with HubSpot.
+- [Slack](https://docs.shifen.com/integrations/slack): Send notifications and operational updates into Slack.
+- [Zapier](https://docs.shifen.com/integrations/zapier): Automate workflows between Shifen and external business tools.
+
+## Analytics and Operations
+- [Analytics](https://docs.shifen.com/analytics): Monitor conversations, outcomes, and performance metrics across agents.
+- [Conversation Logs](https://docs.shifen.com/analytics/conversation-logs): Review historical conversations for quality and troubleshooting.
+- [Reports](https://docs.shifen.com/analytics/reports): Access reporting views for operational and business performance.
+- [Team Management](https://docs.shifen.com/operations/team-management): Manage users, roles, and workspace permissions.
+- [Inbox](https://docs.shifen.com/operations/inbox): Handle live conversations and human follow-up workflows.
+- [Notifications](https://docs.shifen.com/operations/notifications): Configure alerts and operational notifications for teams.
+
+## API and Developer Resources
+- [API Overview](https://docs.shifen.com/api): Introduction to Shifen developer capabilities and API usage.
+- [Authentication](https://docs.shifen.com/api/authentication): Learn how to authenticate requests to the Shifen API.
+- [Agents API](https://docs.shifen.com/api/agents): Programmatically create and manage AI agents.
+- [Conversations API](https://docs.shifen.com/api/conversations): Access conversation data and interaction records through the API.
+- [Webhooks](https://docs.shifen.com/api/webhooks): Subscribe to Shifen events and automate downstream workflows.
+- [Rate Limits](https://docs.shifen.com/api/rate-limits): Understand request limits and API usage constraints.
+
+## Help and Support
+- [Help Center](https://docs.shifen.com/help): Support resources for troubleshooting and platform assistance.
+- [Troubleshooting](https://docs.shifen.com/help/troubleshooting): Resolve common issues with setup, integrations, and channels.
+- [Contact Support](https://docs.shifen.com/help/contact-support): Reach the Shifen support team for direct assistance.
+- [Status](https://status.shifen.com/): Service status and incident updates for Shifen systems.
+- [Security](https://shifen.com/security): Security practices and platform trust information.
+
+## Company and Product
+- [Homepage](https://shifen.com/): Main product site for Shifen AI customer support platform.
+- [Pricing](https://shifen.com/pricing): Plan and pricing information for Shifen products and usage.
+- [About](https://shifen.com/about): Company background and mission behind the Shifen platform.
+- [Blog](https://shifen.com/blog): Articles, announcements, and product updates from the Shifen team.
+- [Careers](https://shifen.com/careers): Open roles and hiring information for joining Shifen.
+- [Contact](https://shifen.com/contact): General contact page for sales and business inquiries.

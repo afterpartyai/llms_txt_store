@@ -1,0 +1,73 @@
+# PublicNode
+> Fast, free, privacy-first RPC endpoints for more than 100 blockchains.
+
+PublicNode provides public JSON-RPC and related Web3 infrastructure endpoints, with chain-specific documentation, network details, and connection information for developers integrating blockchain access.
+
+## Documentation
+- [Documentation Home](https://publicnode.com/docs): Main entry point for PublicNode documentation and chain connection details.
+- [Supported Chains](https://publicnode.com/docs/supported-chains): Overview of available blockchain networks and their PublicNode endpoints.
+- [FAQ](https://publicnode.com/docs/faq): Answers to common questions about usage, limits, privacy, and reliability.
+- [Terms of Service](https://publicnode.com/terms): Terms governing use of PublicNode services and endpoints.
+- [Privacy Policy](https://publicnode.com/privacy): Privacy practices for using PublicNode infrastructure and website services.
+
+## EVM Networks
+- [Ethereum RPC](https://publicnode.com/docs/ethereum): Endpoint details and network information for Ethereum mainnet access.
+- [Base RPC](https://publicnode.com/docs/base): Public RPC connection details for the Base network.
+- [BNB Smart Chain RPC](https://publicnode.com/docs/bsc): Public endpoint information for BNB Smart Chain integrations.
+- [Polygon RPC](https://publicnode.com/docs/polygon): RPC access details for Polygon network applications.
+- [Arbitrum RPC](https://publicnode.com/docs/arbitrum): PublicNode endpoint information for Arbitrum connectivity.
+- [Optimism RPC](https://publicnode.com/docs/optimism): Network endpoint details for Optimism-based applications.
+- [Avalanche C-Chain RPC](https://publicnode.com/docs/avalanche): Public RPC information for Avalanche C-Chain access.
+- [Gnosis RPC](https://publicnode.com/docs/gnosis): Endpoint details for connecting to the Gnosis network.
+
+## Additional EVM Chains
+- [Fantom RPC](https://publicnode.com/docs/fantom): Public endpoint information for Fantom network access.
+- [Celo RPC](https://publicnode.com/docs/celo): RPC connection details for Celo applications and tooling.
+- [Moonbeam RPC](https://publicnode.com/docs/moonbeam): PublicNode access information for Moonbeam network integrations.
+- [Moonriver RPC](https://publicnode.com/docs/moonriver): Endpoint details for Moonriver development and production usage.
+- [Cronos RPC](https://publicnode.com/docs/cronos): Public RPC information for Cronos-based applications.
+- [Kava RPC](https://publicnode.com/docs/kava): Network endpoint details for Kava EVM connectivity.
+- [Linea RPC](https://publicnode.com/docs/linea): Public endpoint information for Linea network access.
+- [Scroll RPC](https://publicnode.com/docs/scroll): RPC details for Scroll-based deployments and tooling.
+
+## Bitcoin and UTXO Networks
+- [Bitcoin RPC](https://publicnode.com/docs/bitcoin): Public endpoint details for Bitcoin infrastructure access.
+- [Litecoin RPC](https://publicnode.com/docs/litecoin): Connection information for Litecoin network integrations.
+- [Dogecoin RPC](https://publicnode.com/docs/dogecoin): Public RPC details for Dogecoin applications and services.
+- [Bitcoin Cash RPC](https://publicnode.com/docs/bitcoin-cash): Endpoint information for Bitcoin Cash connectivity.
+- [Dash RPC](https://publicnode.com/docs/dash): PublicNode network access details for Dash.
+- [Zcash RPC](https://publicnode.com/docs/zcash): RPC endpoint information for Zcash integrations.
+
+## Cosmos and Tendermint Networks
+- [Cosmos Hub RPC](https://publicnode.com/docs/cosmos): Public endpoint details for Cosmos Hub access.
+- [Osmosis RPC](https://publicnode.com/docs/osmosis): Connection information for Osmosis network applications.
+- [Juno RPC](https://publicnode.com/docs/juno): Public RPC details for Juno ecosystem development.
+- [Axelar RPC](https://publicnode.com/docs/axelar): Endpoint information for Axelar network connectivity.
+- [Kujira RPC](https://publicnode.com/docs/kujira): PublicNode access details for Kujira integrations.
+- [Terra RPC](https://publicnode.com/docs/terra): Network endpoint information for Terra-based tooling.
+- [Injective RPC](https://publicnode.com/docs/injective): Public endpoint details for Injective applications.
+- [Sei RPC](https://publicnode.com/docs/sei): RPC connection details for Sei network access.
+
+## Solana and Other Non-EVM Networks
+- [Solana RPC](https://publicnode.com/docs/solana): Public endpoint information for Solana development and production use.
+- [Sui RPC](https://publicnode.com/docs/sui): Connection details for Sui network applications.
+- [Aptos RPC](https://publicnode.com/docs/aptos): Public RPC information for Aptos integrations.
+- [NEAR RPC](https://publicnode.com/docs/near): Endpoint details for NEAR protocol connectivity.
+- [Starknet RPC](https://publicnode.com/docs/starknet): PublicNode access information for Starknet applications.
+- [Tron RPC](https://publicnode.com/docs/tron): Public endpoint details for Tron network usage.
+- [XRPL RPC](https://publicnode.com/docs/xrpl): Connection information for XRP Ledger integrations.
+- [TON RPC](https://publicnode.com/docs/ton): Public RPC details for TON ecosystem access.
+
+## Polkadot and Substrate Networks
+- [Polkadot RPC](https://publicnode.com/docs/polkadot): Public endpoint information for Polkadot network access.
+- [Kusama RPC](https://publicnode.com/docs/kusama): Connection details for Kusama ecosystem integrations.
+- [Asset Hub Polkadot RPC](https://publicnode.com/docs/asset-hub-polkadot): Endpoint information for Polkadot Asset Hub access.
+- [Asset Hub Kusama RPC](https://publicnode.com/docs/asset-hub-kusama): Public RPC details for Kusama Asset Hub connectivity.
+- [Astar RPC](https://publicnode.com/docs/astar): PublicNode endpoint information for Astar applications.
+- [Shiden RPC](https://publicnode.com/docs/shiden): Connection details for Shiden network development.
+
+## Access and Status
+- [RPC Endpoints](https://publicnode.com/): Homepage with chain endpoint discovery and connection options.
+- [Status Page](https://status.publicnode.com): Service health and uptime information for PublicNode infrastructure.
+- [Contact](https://publicnode.com/contact): Contact page for support and partnership inquiries.
+- [GitHub](https://github.com/AllThatNode/publicnode): Source repository and issue tracking for PublicNode-related resources.

@@ -1,0 +1,78 @@
+# Epic Games
+> Epic Games builds and operates game development tools, online services, game publishing platforms, and creator ecosystems.
+
+Epic Games provides Unreal Engine, Epic Online Services, Fortnite creator tools, game publishing resources, developer documentation, and support content across its product ecosystem.
+
+## Unreal Engine
+- [Unreal Engine](https://www.unrealengine.com/): Main Unreal Engine product site with engine overview, features, licensing, and ecosystem entry points.
+- [Unreal Engine Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine): Central documentation hub for Unreal Engine installation, workflows, systems, and tools.
+- [Unreal Engine API Reference](https://dev.epicgames.com/documentation/en-us/unreal-engine/API): API reference for Unreal Engine classes, modules, functions, and programming interfaces.
+- [Unreal Engine Blueprints Visual Scripting](https://dev.epicgames.com/documentation/en-us/unreal-engine/blueprints-visual-scripting-in-unreal-engine): Guides for building gameplay and tools with Blueprint visual scripting.
+- [Unreal Engine Programming with C++](https://dev.epicgames.com/documentation/en-us/unreal-engine/programming-with-cplusplus-in-unreal-engine): Documentation for C++ gameplay programming, architecture, and engine integration.
+- [Unreal Engine Rendering](https://dev.epicgames.com/documentation/en-us/unreal-engine/designing-visuals-rendering-and-graphics-in-unreal-engine): Rendering, graphics, lighting, and visual systems documentation for Unreal Engine.
+- [Unreal Engine Learning](https://dev.epicgames.com/community/unreal-engine/learning): Tutorials, courses, and learning resources for Unreal Engine creators.
+
+## Unreal Engine Guides
+- [Get Started](https://dev.epicgames.com/documentation/en-us/unreal-engine/get-started): Introductory setup and onboarding resources for new Unreal Engine developers.
+- [Install Unreal Engine](https://dev.epicgames.com/documentation/en-us/unreal-engine/install-unreal-engine): Installation instructions and launcher-based setup for Unreal Engine.
+- [Packaging Unreal Engine Projects](https://dev.epicgames.com/documentation/en-us/unreal-engine/packaging-your-project): Build, package, and distribute Unreal Engine projects for target platforms.
+- [Testing and Optimizing Your Content](https://dev.epicgames.com/documentation/en-us/unreal-engine/testing-and-optimizing-your-content): Performance profiling and optimization guidance for Unreal Engine projects.
+- [Building Virtual Worlds](https://dev.epicgames.com/documentation/en-us/unreal-engine/building-virtual-worlds-in-unreal-engine): Level design, world building, and environment creation workflows.
+- [Gameplay Systems](https://dev.epicgames.com/documentation/en-us/unreal-engine/gameplay-systems-in-unreal-engine): Core gameplay framework, actors, input, animation, and systems documentation.
+
+## Epic Online Services
+- [Epic Online Services](https://dev.epicgames.com/en-US/services): Product overview for Epic Online Services features, services, and developer offerings.
+- [Epic Online Services Documentation](https://dev.epicgames.com/docs/epic-online-services): Documentation hub for integrating Epic Online Services into games and applications.
+- [Epic Online Services API Reference](https://dev.epicgames.com/docs/api-ref): API reference for Epic Online Services interfaces, operations, and integration details.
+- [Epic Account Services](https://dev.epicgames.com/en-US/services-account): Overview of account, authentication, and identity services for developers.
+- [Epic Online Services SDK Download](https://dev.epicgames.com/en-US/sdk): SDK access point for Epic Online Services integration packages and tools.
+- [Developer Portal](https://dev.epicgames.com/portal/): Portal for managing products, services, credentials, and Epic developer configurations.
+
+## Fortnite Creator
+- [Fortnite Creator Portal](https://create.fortnite.com/): Main portal for publishing, managing, and analyzing Fortnite creator experiences.
+- [Fortnite Documentation](https://dev.epicgames.com/documentation/en-us/fortnite): Documentation hub for Fortnite creation tools, workflows, and publishing.
+- [Unreal Editor for Fortnite](https://dev.epicgames.com/documentation/en-us/fortnite/unreal-editor-for-fortnite-documentation): Documentation for building Fortnite experiences with Unreal Editor for Fortnite.
+- [Verse Language Reference](https://dev.epicgames.com/documentation/en-us/fortnite/verse-language-reference): Reference documentation for Verse language syntax, semantics, and programming concepts.
+- [Fortnite Creative](https://dev.epicgames.com/documentation/en-us/fortnite/fortnite-creative-documentation): Guides for island creation, devices, gameplay setup, and creator workflows.
+- [Publishing Projects in Fortnite](https://dev.epicgames.com/documentation/en-us/fortnite/publishing-projects-in-unreal-editor-for-fortnite): Instructions for publishing and releasing Fortnite creator projects.
+- [Island Moderation and Guidelines](https://dev.epicgames.com/documentation/en-us/fortnite/island-moderation-and-guidelines-in-fortnite-creative): Moderation rules and publishing guidelines for Fortnite islands.
+
+## MetaHuman
+- [MetaHuman](https://www.metahuman.com/): MetaHuman product site for creating high-fidelity digital humans for real-time projects.
+- [MetaHuman Documentation](https://dev.epicgames.com/documentation/en-us/metahuman): Documentation for MetaHuman creation, animation, and pipeline integration.
+- [MetaHuman Creator](https://www.metahuman.com/en-US/creator): Browser-based tool for authoring and customizing MetaHuman characters.
+- [MetaHuman Animator](https://dev.epicgames.com/documentation/en-us/metahuman/metahuman-animator): Documentation for generating facial animation performances with MetaHuman Animator.
+- [MetaHuman for Unreal Engine](https://dev.epicgames.com/documentation/en-us/metahuman/metahumans-in-unreal-engine): Guides for using MetaHumans inside Unreal Engine projects.
+
+## Twinmotion
+- [Twinmotion](https://www.twinmotion.com/): Real-time visualization tool for architecture, product design, and immersive presentations.
+- [Twinmotion Documentation](https://dev.epicgames.com/documentation/en-us/twinmotion): Documentation for Twinmotion workflows, features, and project creation.
+- [Twinmotion Release Notes](https://dev.epicgames.com/documentation/en-us/twinmotion/release-notes-for-twinmotion): Release notes and version changes for Twinmotion updates.
+- [Getting Started with Twinmotion](https://dev.epicgames.com/documentation/en-us/twinmotion/getting-started-with-twinmotion): Introductory setup and onboarding guides for Twinmotion users.
+
+## RealityScan and RealityCapture
+- [RealityScan](https://www.realityscan.com/): Mobile photogrammetry product for capturing real-world objects into 3D assets.
+- [RealityCapture](https://www.capturingreality.com/): Professional photogrammetry software for reconstructing detailed 3D scenes and objects.
+- [RealityScan Documentation](https://dev.epicgames.com/documentation/en-us/realityscan-mobile): Documentation for mobile RealityScan capture workflows and usage.
+- [RealityCapture Documentation](https://dev.epicgames.com/documentation/en-us/realitycapture): Documentation for RealityCapture processing, reconstruction, and export workflows.
+
+## Developer Community
+- [Epic Developer Community](https://dev.epicgames.com/community/): Community hub for tutorials, forums, snippets, and learning resources.
+- [Learning Library](https://dev.epicgames.com/community/learning): Tutorials, courses, and educational content across Epic developer products.
+- [Forums](https://forums.unrealengine.com/): Community discussion forums for Unreal Engine, Fortnite creators, and Epic tools.
+- [Snippets](https://dev.epicgames.com/community/snippets): Community code and content snippets for Unreal Engine and related tools.
+- [Events and Livestreams](https://dev.epicgames.com/community/events): Community events, livestreams, and educational sessions from Epic.
+
+## Support and Resources
+- [Epic Games Support](https://www.epicgames.com/help/en-US/): Support center for Epic Games accounts, products, and player services.
+- [Developer Support](https://dev.epicgames.com/support): Support entry point for Epic developer products and documentation assistance.
+- [Unreal Engine Release Notes](https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-release-notes): Release notes for Unreal Engine versions, changes, and fixes.
+- [Unreal Engine Samples and Tutorials](https://dev.epicgames.com/documentation/en-us/unreal-engine/samples-and-tutorials-for-unreal-engine): Sample projects and tutorials demonstrating Unreal Engine features and workflows.
+- [Epic Games Store Publishing Tools](https://store.epicgames.com/en-US/publish): Publishing resources and onboarding for developers releasing games on Epic Games Store.
+
+## Company and News
+- [Epic Games Newsroom](https://www.epicgames.com/site/en-US/news): Official news, announcements, and company updates from Epic Games.
+- [Epic Games Careers](https://www.epicgames.com/site/en-US/careers): Careers information, open roles, and hiring resources across Epic Games teams.
+- [About Epic Games](https://www.epicgames.com/site/en-US/about): Company overview, mission, and information about Epic Games businesses.
+- [Safety and Security Center](https://safety.epicgames.com/): Policies, parental controls, account safety, and trust and safety resources.
+- [Legal and Policies](https://www.epicgames.com/site/en-US/tos): Terms, legal policies, and user agreement resources for Epic services.

@@ -1,0 +1,75 @@
+# Firebase Crashlytics
+> Realtime crash reporting and stability monitoring for iOS, Android, Flutter, Unity, and other app platforms.
+
+Firebase Crashlytics is part of the Firebase platform and helps teams detect, prioritize, and resolve app crashes and stability issues using detailed reports, alerts, and diagnostics integrated with the broader Firebase ecosystem.
+
+## Product Overview
+- [Firebase Crashlytics](https://firebase.google.com/products/crashlytics): Product overview for realtime crash reporting, issue grouping, and stability monitoring.
+- [Firebase Build products](https://firebase.google.com/products-build): Overview of Firebase products for building and improving app experiences.
+- [Firebase pricing](https://firebase.google.com/pricing): Pricing information for Firebase services, quotas, and usage limits.
+- [Firebase console](https://console.firebase.google.com/): Web console for managing Firebase projects and Crashlytics data.
+- [Firebase documentation](https://firebase.google.com/docs): Central documentation hub for Firebase products, SDKs, and guides.
+
+## Crashlytics Documentation
+- [Crashlytics docs](https://firebase.google.com/docs/crashlytics): Main documentation hub for setup, usage, and troubleshooting.
+- [Get started with Crashlytics](https://firebase.google.com/docs/crashlytics/get-started): Installation and initial configuration for Firebase Crashlytics.
+- [Customize crash reports](https://firebase.google.com/docs/crashlytics/customize-crash-reports): Add custom keys, logs, and user identifiers to reports.
+- [Troubleshoot and test implementation](https://firebase.google.com/docs/crashlytics/test-implementation): Verify Crashlytics setup and confirm reports are delivered correctly.
+- [Understand Crashlytics issues](https://firebase.google.com/docs/crashlytics/troubleshooting): Guidance for interpreting issues, missing data, and common problems.
+- [Crashlytics alerts](https://firebase.google.com/docs/crashlytics/alerts): Configure alerts for regressions, velocity spikes, and new fatal issues.
+
+## Platform Setup Guides
+- [Get started on Apple platforms](https://firebase.google.com/docs/crashlytics/get-started?platform=ios): Install and configure Crashlytics for iOS and Apple apps.
+- [Get started on Android](https://firebase.google.com/docs/crashlytics/get-started?platform=android): Install and configure Crashlytics for Android applications.
+- [Get started on Flutter](https://firebase.google.com/docs/crashlytics/get-started?platform=flutter): Add Crashlytics to Flutter apps using Firebase plugins.
+- [Get started on Unity](https://firebase.google.com/docs/crashlytics/get-started?platform=unity): Set up Crashlytics for Unity mobile game projects.
+- [Get started on C++](https://firebase.google.com/docs/crashlytics/get-started?platform=cpp): Integrate Crashlytics into C++ apps using Firebase SDKs.
+
+## Usage and Reporting Guides
+- [Get readable crash reports](https://firebase.google.com/docs/crashlytics/get-deobfuscated-reports): Upload symbols and mapping files for deobfuscated stack traces.
+- [Track non-fatal exceptions](https://firebase.google.com/docs/crashlytics/customize-crash-reports?platform=android): Record handled exceptions and enrich Android crash diagnostics.
+- [Track ANRs and fatal issues](https://firebase.google.com/docs/crashlytics): Monitor app stability signals including crashes and Android ANRs.
+- [Add custom logs and keys](https://firebase.google.com/docs/crashlytics/customize-crash-reports): Attach contextual metadata to improve issue triage.
+- [Export Crashlytics data to BigQuery](https://firebase.google.com/docs/crashlytics/bigquery-export): Export crash data for analytics, reporting, and warehousing.
+- [Sort and filter issues](https://firebase.google.com/docs/crashlytics): Use the console to prioritize regressions and high-impact problems.
+
+## SDKs and Reference
+- [Firebase Android SDK](https://firebase.google.com/docs/android/setup): Setup and SDK integration for Android Firebase apps.
+- [Firebase Apple platforms SDK](https://firebase.google.com/docs/ios/setup): Setup and SDK integration for iOS and Apple platforms.
+- [FlutterFire documentation](https://firebase.google.com/docs/flutter/setup): Firebase setup and plugin guidance for Flutter apps.
+- [Firebase Unity setup](https://firebase.google.com/docs/unity/setup): Firebase SDK installation and configuration for Unity projects.
+- [Firebase C++ setup](https://firebase.google.com/docs/cpp/setup): Firebase SDK setup for C++ applications.
+- [Firebase Admin SDKs](https://firebase.google.com/docs/admin/setup): Server-side SDK setup for Firebase project administration.
+
+## API and Data Access
+- [Crashlytics REST API overview](https://firebase.google.com/docs/crashlytics): Documentation entry point for Crashlytics-related product capabilities.
+- [BigQuery export for Crashlytics](https://firebase.google.com/docs/crashlytics/bigquery-export): Structured crash data export for querying and downstream analysis.
+- [Firebase Management API](https://firebase.google.com/docs/projects/api/reference/rest): REST reference for managing Firebase projects and resources.
+- [Google APIs Explorer](https://developers.google.com/apis-explorer): Interactive tool for exploring supported Google APIs.
+- [Firebase CLI](https://firebase.google.com/docs/cli): Command-line tooling for Firebase project workflows and automation.
+
+## Release and Quality Workflows
+- [Google Analytics for Firebase](https://firebase.google.com/products/analytics): Product page for app analytics and audience measurement.
+- [Performance Monitoring](https://firebase.google.com/products/performance): Monitor app performance metrics alongside crash stability data.
+- [Remote Config](https://firebase.google.com/products/remote-config): Roll out configuration changes and mitigate issues without redeploying.
+- [A/B Testing](https://firebase.google.com/products/ab-testing): Test changes and evaluate impact on stability and engagement.
+- [App Distribution](https://firebase.google.com/products/app-distribution): Distribute prerelease builds for QA and crash validation.
+- [Test Lab](https://firebase.google.com/products/test-lab): Run automated tests across real and virtual devices.
+
+## Guides, Samples, and Support
+- [Firebase blog](https://firebase.blog/): Product announcements, tutorials, and engineering updates from Firebase.
+- [Firebase YouTube channel](https://www.youtube.com/firebase): Videos covering Firebase features, demos, and best practices.
+- [Firebase support](https://firebase.google.com/support): Official support resources, contact options, and troubleshooting help.
+- [Firebase release notes](https://firebase.google.com/support/release-notes): Product and SDK release notes across Firebase services.
+- [Firebase GitHub organization](https://github.com/firebase): Open source SDKs, tools, and sample projects.
+- [Firebase quickstarts](https://github.com/firebase/quickstart-android): Sample apps demonstrating Firebase integration patterns.
+
+## Related Firebase Products
+- [App Check](https://firebase.google.com/products/app-check): Protect backend resources from abuse by attesting legitimate app clients.
+- [Authentication](https://firebase.google.com/products/auth): Add user sign-in and identity management to applications.
+- [Cloud Functions](https://firebase.google.com/products/functions): Run backend code in response to events and HTTPS requests.
+- [Cloud Storage](https://firebase.google.com/products/storage): Store and serve user-generated files securely at scale.
+- [Firestore](https://firebase.google.com/products/firestore): Flexible, scalable NoSQL document database for app data.
+- [Realtime Database](https://firebase.google.com/products/realtime-database): Realtime synchronized database for collaborative and live app features.
+- [Hosting](https://firebase.google.com/products/hosting): Fast, secure web hosting for static and dynamic app content.
+- [Extensions](https://firebase.google.com/products/extensions): Prebuilt packages that automate common backend and app workflows.

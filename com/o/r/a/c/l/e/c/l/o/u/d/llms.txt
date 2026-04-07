@@ -1,0 +1,97 @@
+# Oracle Cloud Infrastructure Documentation
+> Official Oracle Cloud Infrastructure documentation, API references, SDK guides, tutorials, and service-specific product docs.
+
+Oracle Cloud Infrastructure (OCI) provides cloud infrastructure, platform services, AI, databases, observability, security, and developer tooling. This index prioritizes documentation, API references, tutorials, and core service guides useful for LLM-based retrieval.
+
+## Getting Started
+- [OCI Documentation Home](https://docs.oracle.com/en-us/iaas/Content/home.htm): Main entry point for Oracle Cloud Infrastructure product documentation.
+- [Get Started with OCI](https://docs.oracle.com/en-us/iaas/Content/GSG/Concepts/baremetalintro.htm): Introductory overview of OCI core concepts and services.
+- [Free Tier](https://www.oracle.com/cloud/free/): Overview of Oracle Cloud Free Tier offerings and account options.
+- [Oracle Cloud Infrastructure Training and Certification](https://www.oracle.com/education/oracle-cloud-infrastructure/): Learning resources, courses, and certification paths for OCI.
+- [Oracle Cloud Infrastructure Tutorials](https://docs.oracle.com/en/learn/oci.html): Hands-on tutorials for OCI services and common tasks.
+
+## Core Infrastructure
+- [Compute](https://docs.oracle.com/en-us/iaas/Content/Compute/home.htm): Documentation for instances, shapes, images, capacity, and instance management.
+- [Virtual Cloud Network](https://docs.oracle.com/en-us/iaas/Content/Network/Concepts/overview.htm): Networking concepts, VCNs, subnets, gateways, routing, and connectivity.
+- [Block Volume](https://docs.oracle.com/en-us/iaas/Content/Block/Concepts/overview.htm): Persistent block storage volumes, backups, cloning, and performance options.
+- [Object Storage](https://docs.oracle.com/en-us/iaas/Content/Object/home.htm): Object and archive storage concepts, buckets, lifecycle, and data access.
+- [File Storage](https://docs.oracle.com/en-us/iaas/Content/File/home.htm): Managed file systems, mount targets, exports, and NFS access.
+- [Load Balancer](https://docs.oracle.com/en-us/iaas/Content/Balance/home.htm): Layer 4 and Layer 7 load balancing configuration and operations.
+- [DNS](https://docs.oracle.com/en-us/iaas/Content/DNS/home.htm): DNS zones, records, steering policies, and traffic management.
+- [FastConnect](https://docs.oracle.com/en-us/iaas/Content/Network/Concepts/fastconnect.htm): Dedicated private connectivity between OCI and on-premises networks.
+
+## Identity, Security, and Governance
+- [Identity and Access Management](https://docs.oracle.com/en-us/iaas/Content/Identity/home.htm): Users, groups, policies, compartments, federation, and tenancy administration.
+- [Vault](https://docs.oracle.com/en-us/iaas/Content/KeyManagement/home.htm): Key management, secrets, encryption keys, and HSM-backed protection.
+- [Cloud Guard](https://docs.oracle.com/en-us/iaas/Content/cloud-guard/home.htm): Security posture management, detectors, responders, and remediation workflows.
+- [Security Zones](https://docs.oracle.com/en-us/iaas/Content/security-zone/home.htm): Enforce security best practices through compartment-level guardrails.
+- [Web Application Firewall](https://docs.oracle.com/en-us/iaas/Content/WAF/home.htm): Protect web applications from common attacks and malicious traffic.
+- [Bastion](https://docs.oracle.com/en-us/iaas/Content/Bastion/home.htm): Secure, managed access to private OCI resources without public IPs.
+- [Certificates](https://docs.oracle.com/en-us/iaas/Content/certificates/home.htm): Manage TLS certificates, certificate authorities, and lifecycle operations.
+- [Audit](https://docs.oracle.com/en-us/iaas/Content/Audit/home.htm): Track API activity and governance events across OCI resources.
+
+## Databases and Data Services
+- [Oracle Database Service](https://docs.oracle.com/en-us/iaas/Content/Database/home.htm): Provisioning and managing Oracle databases on OCI.
+- [Autonomous Database](https://docs.oracle.com/en-us/iaas/autonomous-database-serverless/doc/): Documentation for Autonomous Database Serverless features and administration.
+- [Exadata Database Service](https://docs.oracle.com/en-us/iaas/exadatacloud/index.html): Exadata Database Service deployment, operations, and maintenance guidance.
+- [Base Database Service](https://docs.oracle.com/en-us/iaas/base-database/index.html): VM and bare metal database systems for Oracle Database workloads.
+- [MySQL Database Service](https://docs.oracle.com/en-us/iaas/mysql-database/index.html): Managed MySQL service deployment, administration, and backup operations.
+- [HeatWave on OCI](https://docs.oracle.com/en-us/iaas/mysql-database/doc/heatwave-overview.html): In-memory query acceleration and analytics for MySQL workloads.
+- [GoldenGate](https://docs.oracle.com/en-us/iaas/goldengate/index.html): Real-time data replication and integration service documentation.
+- [Data Safe](https://docs.oracle.com/en-us/iaas/data-safe/index.html): Database security assessment, masking, auditing, and user risk analysis.
+
+## Containers, Kubernetes, and DevOps
+- [Container Instances](https://docs.oracle.com/en-us/iaas/Content/container-instances/home.htm): Run containers without managing servers or Kubernetes clusters.
+- [Container Engine for Kubernetes](https://docs.oracle.com/en-us/iaas/Content/ContEng/home.htm): Managed Kubernetes clusters, node pools, and cluster operations.
+- [Registry](https://docs.oracle.com/en-us/iaas/Content/Registry/home.htm): OCI container image registry for storing and distributing images.
+- [DevOps](https://docs.oracle.com/en-us/iaas/Content/devops/home.htm): Build pipelines, deployment pipelines, artifacts, and software delivery automation.
+- [Resource Manager](https://docs.oracle.com/en-us/iaas/Content/ResourceManager/home.htm): Terraform-based infrastructure provisioning and stack management.
+- [Functions](https://docs.oracle.com/en-us/iaas/Content/Functions/home.htm): Serverless functions platform based on Fn Project.
+- [API Gateway](https://docs.oracle.com/en-us/iaas/Content/APIGateway/home.htm): Publish, secure, and manage APIs for backend services.
+- [Service Mesh](https://docs.oracle.com/en-us/iaas/Content/service-mesh/home.htm): Traffic management, observability, and security for microservices.
+
+## AI, Analytics, and Integration
+- [OCI Generative AI](https://docs.oracle.com/en-us/iaas/Content/generative-ai/home.htm): Managed generative AI models, endpoints, and inference workflows.
+- [OCI AI Services](https://docs.oracle.com/en-us/iaas/Content/AI/home.htm): Prebuilt AI services for vision, language, speech, and document understanding.
+- [Data Science](https://docs.oracle.com/en-us/iaas/data-science/using/home.htm): Managed notebooks, model training, deployments, and MLOps workflows.
+- [Analytics Cloud Documentation](https://docs.oracle.com/en/cloud/paas/analytics-cloud/index.html): Analytics Cloud administration, modeling, visualization, and data preparation.
+- [Data Integration](https://docs.oracle.com/en-us/iaas/data-integration/home.htm): Design and run data pipelines for ingestion and transformation.
+- [Streaming](https://docs.oracle.com/en-us/iaas/Content/Streaming/home.htm): Managed Kafka-compatible streaming service for event ingestion.
+- [Integration](https://docs.oracle.com/en/cloud/paas/application-integration/index.html): Oracle Integration documentation for application and process integration.
+- [Data Flow](https://docs.oracle.com/en-us/iaas/data-flow/using/home.htm): Serverless Apache Spark processing for large-scale data workloads.
+
+## Observability and Operations
+- [Monitoring](https://docs.oracle.com/en-us/iaas/Content/Monitoring/home.htm): Metrics, alarms, queries, and monitoring configuration for OCI resources.
+- [Logging](https://docs.oracle.com/en-us/iaas/Content/Logging/home.htm): Centralized log ingestion, search, and management across services.
+- [Logging Analytics](https://docs.oracle.com/en-us/iaas/logging-analytics/index.html): Log analysis, anomaly detection, and operational insights.
+- [Events](https://docs.oracle.com/en-us/iaas/Content/Events/home.htm): Event-driven automation using OCI service-generated events.
+- [Notifications](https://docs.oracle.com/en-us/iaas/Content/Notification/home.htm): Publish-subscribe messaging for alerts and application notifications.
+- [Operations Insights](https://docs.oracle.com/en-us/iaas/operations-insights/index.html): Capacity planning and performance analysis for databases and hosts.
+- [Application Performance Monitoring](https://docs.oracle.com/en-us/iaas/application-performance-monitoring/index.html): End-user and application performance monitoring capabilities.
+- [OS Management Hub](https://docs.oracle.com/en-us/iaas/osmh/doc/): Patch, manage, and monitor operating systems at scale.
+
+## APIs, CLI, and SDKs
+- [OCI API Reference](https://docs.oracle.com/en-us/iaas/api/): REST API reference for Oracle Cloud Infrastructure services.
+- [OCI CLI Documentation](https://docs.oracle.com/en-us/iaas/Content/API/Concepts/cliconcepts.htm): Command line interface installation, configuration, and usage guidance.
+- [SDK and Tools Overview](https://docs.oracle.com/en-us/iaas/Content/API/Concepts/sdks.htm): Overview of OCI SDKs, Terraform provider, and developer tools.
+- [Python SDK](https://docs.oracle.com/en-us/iaas/tools/python/latest/): Python SDK reference and usage documentation.
+- [Java SDK](https://docs.oracle.com/en-us/iaas/tools/java/latest/): Java SDK reference and examples for OCI APIs.
+- [Go SDK](https://docs.oracle.com/en-us/iaas/tools/go/latest/): Go SDK reference for building OCI-integrated applications.
+- [TypeScript and JavaScript SDK](https://docs.oracle.com/en-us/iaas/Content/API/SDKDocs/typescriptsdk.htm): JavaScript and TypeScript SDK documentation and setup guidance.
+- [Terraform Provider for OCI](https://docs.oracle.com/en-us/iaas/Content/dev/terraform/home.htm): Terraform provider documentation for provisioning OCI resources.
+
+## Architecture and Best Practices
+- [Oracle Architecture Center](https://www.oracle.com/cloud/architecture-and-regions/architecture-center.html): Reference architectures, design patterns, and deployment guidance.
+- [Well-Architected Framework](https://docs.oracle.com/en/solutions/oci-best-practices/index.html): Best practices for reliability, security, performance, and operations on OCI.
+- [Reference Architectures](https://docs.oracle.com/en/solutions/): Solution playbooks and architecture guidance for OCI workloads.
+- [Landing Zones](https://docs.oracle.com/en/solutions/oci-landing-zone/index.html): Guidance for establishing secure, scalable OCI foundations.
+- [Disaster Recovery](https://docs.oracle.com/en-us/iaas/disaster-recovery/index.html): Service documentation for orchestrated disaster recovery planning and execution.
+- [High Availability Patterns](https://docs.oracle.com/en/solutions/oci-ha-dr/index.html): Design guidance for highly available and resilient OCI deployments.
+
+## Support, Release Notes, and Community
+- [OCI Release Notes](https://docs.oracle.com/en-us/iaas/releasenotes/changes.htm): Product and service release notes across Oracle Cloud Infrastructure.
+- [Known Issues](https://docs.oracle.com/en-us/iaas/Content/knownissues/knownissues.htm): Current known issues affecting OCI services and features.
+- [Oracle Cloud Customer Connect](https://community.oracle.com/customerconnect/categories/oracle-cloud-infrastructure): Community discussions, product updates, and peer support for OCI.
+- [Oracle Help Center](https://www.oracle.com/support/help.html): Support resources, service requests, and Oracle support access points.
+- [Oracle Cloud Infrastructure Blog](https://blogs.oracle.com/cloud-infrastructure/): Product announcements, technical articles, and OCI engineering updates.
+- [Oracle Developers](https://developer.oracle.com/): Developer-focused resources, code samples, and Oracle platform content.

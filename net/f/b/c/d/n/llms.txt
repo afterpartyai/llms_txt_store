@@ -1,0 +1,76 @@
+# Meta CDN (fbcdn.net)
+> Content delivery domain used by Meta to serve static assets, media, and supporting resources for Facebook, Instagram, and related products.
+
+fbcdn.net is primarily a CDN and asset-hosting domain rather than a standalone documentation site. Useful LLM context comes from Meta’s official developer, engineering, privacy, and help resources that explain the products and APIs whose assets are commonly delivered through this domain.
+
+## Meta for Developers
+- [Meta for Developers](https://developers.facebook.com/): Main developer portal for Meta platforms, products, tools, and documentation.
+- [Documentation](https://developers.facebook.com/docs/): Central index for Meta developer documentation across products and APIs.
+- [Graph API](https://developers.facebook.com/docs/graph-api/): Reference and guides for Meta’s core social graph API.
+- [Marketing API](https://developers.facebook.com/docs/marketing-apis/): Documentation for ads management, insights, and campaign automation APIs.
+- [Webhooks](https://developers.facebook.com/docs/graph-api/webhooks/): Guides for subscribing to and receiving real-time platform updates.
+- [App Development](https://developers.facebook.com/docs/development/): Core concepts for building, configuring, and managing Meta apps.
+
+## Facebook Platform
+- [Facebook Login](https://developers.facebook.com/docs/facebook-login/): Authentication flows and permissions for signing users in with Facebook.
+- [Sharing](https://developers.facebook.com/docs/sharing/): Tools and integrations for sharing content to Facebook surfaces.
+- [Social Plugins](https://developers.facebook.com/docs/plugins/): Embeddable plugins such as Like, Share, and Page widgets.
+- [Pages API](https://developers.facebook.com/docs/pages-api/): Access and management capabilities for Facebook Pages.
+- [Messenger Platform](https://developers.facebook.com/docs/messenger-platform/): APIs and guides for building Messenger experiences and bots.
+- [Video API](https://developers.facebook.com/docs/video-api/): Uploading, managing, and publishing video on Facebook.
+
+## Instagram Platform
+- [Instagram Platform Overview](https://developers.facebook.com/docs/instagram-platform/): Overview of Instagram APIs, use cases, and platform capabilities.
+- [Instagram Graph API](https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/): Business and creator account access for publishing and insights.
+- [Instagram Basic Display API](https://developers.facebook.com/docs/instagram-basic-display-api/): Read-only access to basic Instagram profile and media data.
+- [Content Publishing](https://developers.facebook.com/docs/instagram-platform/content-publishing/): Publishing workflows for Instagram business content.
+- [Webhooks](https://developers.facebook.com/docs/instagram-platform/webhooks/): Real-time notifications for Instagram account activity.
+- [Insights](https://developers.facebook.com/docs/instagram-platform/insights/): Metrics and analytics for Instagram business accounts.
+
+## WhatsApp Business Platform
+- [WhatsApp Business Platform](https://developers.facebook.com/docs/whatsapp/): Official documentation for WhatsApp business messaging APIs and setup.
+- [Cloud API](https://developers.facebook.com/docs/whatsapp/cloud-api/): Hosted WhatsApp API for sending messages and managing conversations.
+- [On-Premises API](https://developers.facebook.com/docs/whatsapp/on-premises/): Self-hosted WhatsApp Business API deployment and operations guidance.
+- [Guides](https://developers.facebook.com/docs/whatsapp/guides/): Task-oriented guides for onboarding, messaging, and templates.
+- [Reference](https://developers.facebook.com/docs/whatsapp/cloud-api/reference/): Endpoint and object reference for WhatsApp Cloud API.
+- [Webhooks](https://developers.facebook.com/docs/whatsapp/cloud-api/webhooks/): Event delivery setup for inbound messages and status updates.
+
+## Business and Ads
+- [Marketing APIs](https://developers.facebook.com/docs/marketing-apis/): Programmatic access to ads, audiences, creatives, and reporting.
+- [Ads Insights API](https://developers.facebook.com/docs/marketing-api/insights/): Query ad performance metrics and reporting dimensions.
+- [Conversions API](https://developers.facebook.com/docs/marketing-api/conversions-api/): Server-side event measurement for ads optimization and attribution.
+- [Business Management](https://developers.facebook.com/docs/marketing-api/businessmanager/): Manage businesses, assets, permissions, and system users.
+- [Catalog API](https://developers.facebook.com/docs/marketing-api/catalog/): Commerce catalog management for products and inventory.
+- [System Users](https://developers.facebook.com/docs/marketing-api/system-users/): Create and manage system users for business integrations.
+
+## SDKs and Tools
+- [SDKs](https://developers.facebook.com/docs/): Documentation hub linking official SDKs and platform tools.
+- [Android SDK](https://developers.facebook.com/docs/android/): Native Android integration for Facebook platform features.
+- [iOS SDK](https://developers.facebook.com/docs/ios/): Native iOS integration for login, sharing, and app events.
+- [JavaScript SDK](https://developers.facebook.com/docs/javascript/): Browser SDK for login, dialogs, and social integrations.
+- [App Dashboard](https://developers.facebook.com/apps/): Console for creating apps and configuring Meta platform products.
+- [Graph API Explorer](https://developers.facebook.com/tools/explorer/): Interactive tool for testing Graph API requests.
+
+## Help and Support
+- [Meta Business Help Center](https://www.facebook.com/business/help): Help articles for business tools, ads, and account management.
+- [Facebook Help Center](https://www.facebook.com/help/): End-user help documentation for Facebook features and settings.
+- [Instagram Help Center](https://help.instagram.com/): Support articles for Instagram accounts, privacy, and product features.
+- [WhatsApp Help Center](https://faq.whatsapp.com/): Official support documentation for WhatsApp products and usage.
+- [Developer Support](https://developers.facebook.com/support/): Support entry points for app review, technical issues, and platform questions.
+- [Platform Status](https://metastatus.com/): Service status and incident information for Meta developer and business systems.
+
+## Policies and Privacy
+- [Platform Terms](https://developers.facebook.com/terms/): Terms governing use of Meta developer products and platform access.
+- [Developer Policies](https://developers.facebook.com/policy/): Rules and compliance requirements for Meta app developers.
+- [Meta Privacy Policy](https://www.facebook.com/privacy/policy/): Privacy policy covering Meta products and data handling practices.
+- [Platform Policy 4](https://developers.facebook.com/policy/#platform-terms): Policy and platform requirements reference for developers.
+- [Data Processing Terms](https://www.facebook.com/legal/terms/dataprocessing): Legal terms for data processing in business and developer contexts.
+- [Cookies Policy](https://www.facebook.com/policies/cookies/): Information about cookies and related technologies across Meta services.
+
+## Engineering and Technical Context
+- [Meta Engineering](https://engineering.fb.com/): Engineering articles about infrastructure, systems, and product architecture at Meta.
+- [Open Source at Meta](https://opensource.fb.com/): Meta-maintained open source projects, tools, and engineering resources.
+- [Research at Meta](https://research.facebook.com/): Research publications and technical work across AI and systems domains.
+- [AI at Meta](https://ai.meta.com/): Applied AI research, models, and technical initiatives from Meta.
+- [Security](https://www.facebook.com/security/): Security guidance, programs, and account protection information.
+- [Bug Bounty](https://www.facebook.com/whitehat/): Security vulnerability disclosure and bounty program details.

@@ -1,0 +1,94 @@
+# svc.ms
+> Microsoft short-link domain used to redirect users to Microsoft services, documentation, downloads, support, and product resources.
+
+svc.ms primarily serves as a URL shortener and redirect layer for Microsoft properties. Because destination paths often resolve dynamically, the most useful context for LLMs is the canonical Microsoft documentation, support, developer, and product sites commonly reached through Microsoft short links.
+
+## Microsoft Learn
+- [Microsoft Learn Home](https://learn.microsoft.com/): Central hub for Microsoft technical documentation, training, and product guidance.
+- [Azure Documentation](https://learn.microsoft.com/azure/): Product documentation, quickstarts, tutorials, and reference for Azure services.
+- [Microsoft 365 Documentation](https://learn.microsoft.com/microsoft-365/): Admin, deployment, security, and user guidance for Microsoft 365.
+- [Power Platform Documentation](https://learn.microsoft.com/power-platform/): Docs for Power Apps, Power Automate, Power BI, and Copilot Studio.
+- [Dynamics 365 Documentation](https://learn.microsoft.com/dynamics365/): Product documentation for Dynamics 365 applications and platform capabilities.
+- [Windows Documentation](https://learn.microsoft.com/windows/): Developer and IT pro documentation for Windows platforms and tools.
+- [Microsoft Graph Documentation](https://learn.microsoft.com/graph/): API concepts, auth guidance, SDK docs, and REST reference.
+- [.NET Documentation](https://learn.microsoft.com/dotnet/): Guides, API browser links, tutorials, and language documentation for .NET.
+
+## API and Developer Reference
+- [Microsoft Graph REST API Reference](https://learn.microsoft.com/graph/api/overview): Entry point for Microsoft Graph REST API reference and concepts.
+- [Azure REST API Reference](https://learn.microsoft.com/rest/api/azure/): Reference documentation for Azure resource provider REST APIs.
+- [Azure SDK Documentation](https://learn.microsoft.com/azure/developer/): Guidance for Azure SDKs, tools, and developer workflows.
+- [Microsoft identity platform](https://learn.microsoft.com/entra/identity-platform/): Authentication, authorization, tokens, and app registration guidance.
+- [Power Platform API Documentation](https://learn.microsoft.com/power-platform/admin/admin-documentation): Administrative and platform documentation for Power Platform environments.
+- [Teams Developer Documentation](https://learn.microsoft.com/microsoftteams/platform/): Build apps, bots, tabs, and message extensions for Microsoft Teams.
+- [Visual Studio Documentation](https://learn.microsoft.com/visualstudio/): IDE usage, extensibility, debugging, and development workflow documentation.
+
+## Azure Services
+- [Azure Architecture Center](https://learn.microsoft.com/azure/architecture/): Reference architectures, design patterns, and best practices for Azure solutions.
+- [Azure Well-Architected Framework](https://learn.microsoft.com/azure/well-architected/): Reliability, security, cost, operational excellence, and performance guidance.
+- [Azure CLI Documentation](https://learn.microsoft.com/cli/azure/): Command reference and usage guidance for Azure CLI.
+- [Azure PowerShell Documentation](https://learn.microsoft.com/powershell/azure/): Cmdlet reference and scripting guidance for Azure administration.
+- [Azure Resource Manager Documentation](https://learn.microsoft.com/azure/azure-resource-manager/): Templates, Bicep, deployments, governance, and resource management guidance.
+- [Azure Kubernetes Service Documentation](https://learn.microsoft.com/azure/aks/): Deployment, operations, networking, and security guidance for AKS.
+- [Azure AI Services Documentation](https://learn.microsoft.com/azure/ai-services/): Documentation for cognitive and applied AI services on Azure.
+
+## Microsoft 365 and Productivity
+- [Microsoft 365 Admin Center Help](https://learn.microsoft.com/microsoft-365/admin/): Administrative setup, governance, and operations guidance for Microsoft 365.
+- [Exchange Online Documentation](https://learn.microsoft.com/exchange/): Mail flow, migration, compliance, and administration for Exchange.
+- [SharePoint Documentation](https://learn.microsoft.com/sharepoint/): Admin, developer, and end-user guidance for SharePoint and OneDrive.
+- [Microsoft Teams Documentation](https://learn.microsoft.com/microsoftteams/): Admin, deployment, meetings, calling, and collaboration guidance for Teams.
+- [OneDrive Documentation](https://learn.microsoft.com/sharepoint/onedrive-overview): Overview and management guidance for OneDrive in Microsoft 365.
+- [Microsoft Defender Documentation](https://learn.microsoft.com/defender/): Security product documentation for Microsoft Defender solutions.
+- [Microsoft Purview Documentation](https://learn.microsoft.com/purview/): Compliance, governance, data security, and risk management documentation.
+
+## Identity and Security
+- [Microsoft Entra Documentation](https://learn.microsoft.com/entra/): Identity, access, governance, and directory service documentation.
+- [Microsoft Entra ID Documentation](https://learn.microsoft.com/entra/fundamentals/whatis): Overview and fundamentals for Microsoft Entra ID capabilities.
+- [Microsoft Intune Documentation](https://learn.microsoft.com/mem/intune/): Device management, app protection, enrollment, and policy guidance.
+- [Microsoft Defender XDR Documentation](https://learn.microsoft.com/defender-xdr/): Unified threat protection, investigation, and response documentation.
+- [Microsoft Sentinel Documentation](https://learn.microsoft.com/azure/sentinel/): SIEM and SOAR documentation for Microsoft Sentinel.
+- [Security Documentation](https://learn.microsoft.com/security/): Cross-product Microsoft security architecture, operations, and best practices.
+- [Compliance Documentation](https://learn.microsoft.com/compliance/): Compliance solutions, records, auditing, and regulatory guidance.
+
+## Windows and Developer Platforms
+- [Windows IT Pro Documentation](https://learn.microsoft.com/windows/deployment/): Deployment, servicing, update, and management guidance for Windows.
+- [Windows Developer Documentation](https://learn.microsoft.com/windows/apps/): Build Windows apps with native, web, and cross-platform technologies.
+- [Win32 API Documentation](https://learn.microsoft.com/windows/win32/): Reference and conceptual documentation for Win32 desktop development.
+- [PowerShell Documentation](https://learn.microsoft.com/powershell/): Language, modules, scripting, and automation documentation.
+- [TypeScript on Microsoft Learn](https://learn.microsoft.com/training/browse/?terms=TypeScript): Learning resources and training content related to TypeScript.
+- [C# Documentation](https://learn.microsoft.com/dotnet/csharp/): Language reference, tutorials, and feature documentation for C#.
+- [Visual Studio Code Documentation](https://code.visualstudio.com/docs): Editor setup, extensions, debugging, and development workflows.
+
+## Support and Troubleshooting
+- [Microsoft Support Home](https://support.microsoft.com/): Official support portal for consumer and business Microsoft products.
+- [Microsoft 365 Support](https://support.microsoft.com/microsoft-365): Help articles and troubleshooting for Microsoft 365 products.
+- [Windows Support](https://support.microsoft.com/windows): Troubleshooting and help content for Windows devices and features.
+- [Xbox Support](https://support.xbox.com/): Support resources for Xbox consoles, services, and accounts.
+- [Surface Support](https://support.microsoft.com/surface): Setup, troubleshooting, and warranty information for Surface devices.
+- [Azure Support Documentation](https://learn.microsoft.com/azure/azure-portal/supportability/how-to-create-azure-support-request): Guidance for creating and managing Azure support requests.
+- [Microsoft Community](https://answers.microsoft.com/): Community Q&A for Microsoft products and common troubleshooting scenarios.
+
+## Downloads and Tools
+- [Microsoft Download Center](https://www.microsoft.com/download): Official downloads for Microsoft software, tools, and redistributables.
+- [Visual Studio Downloads](https://visualstudio.microsoft.com/downloads/): Download Visual Studio IDE editions, tools, and related components.
+- [Windows Download](https://www.microsoft.com/software-download/windows11): Official Windows installation media and upgrade downloads.
+- [Power BI Desktop Download](https://www.microsoft.com/download/details.aspx?id=58494): Download page for Power BI Desktop.
+- [SQL Server Downloads](https://www.microsoft.com/sql-server/sql-server-downloads): Download SQL Server editions, tools, and evaluation software.
+- [Sysinternals](https://learn.microsoft.com/sysinternals/): Utilities, troubleshooting tools, and technical documentation for Windows internals.
+- [PowerToys](https://learn.microsoft.com/windows/powertoys/): Documentation and installation guidance for Microsoft PowerToys.
+
+## Training and Certification
+- [Microsoft Learn Training](https://learn.microsoft.com/training/): Interactive learning paths, modules, and hands-on Microsoft training.
+- [Browse Training Modules](https://learn.microsoft.com/training/browse/): Searchable catalog of Microsoft Learn modules and learning paths.
+- [Credentials and Certifications](https://learn.microsoft.com/credentials/): Certification exams, applied skills, renewals, and credential management.
+- [Azure Training](https://learn.microsoft.com/training/azure/): Role-based and product-based Azure training content.
+- [Power Platform Training](https://learn.microsoft.com/training/powerplatform/): Learning paths for Power Platform products and solutions.
+- [Microsoft 365 Training](https://learn.microsoft.com/training/m365/): Training content for Microsoft 365 administration and productivity tools.
+
+## News and Product Updates
+- [Microsoft Learn Blog](https://techcommunity.microsoft.com/category/microsoftlearn/blog/microsoftlearnblog): Announcements and updates related to Microsoft Learn.
+- [Azure Updates](https://azure.microsoft.com/updates/): Product update feed for Azure services and platform changes.
+- [Microsoft 365 Blog](https://www.microsoft.com/microsoft-365/blog/): Product news, feature announcements, and customer stories for Microsoft 365.
+- [Microsoft Security Blog](https://www.microsoft.com/security/blog/): Security research, product updates, and threat intelligence articles.
+- [Windows IT Pro Blog](https://techcommunity.microsoft.com/category/windows/blog/windows-itpro-blog): News and guidance for Windows administrators and IT professionals.
+- [Microsoft Developer Blogs](https://devblogs.microsoft.com/): Engineering blogs covering .NET, Azure, Visual Studio, and developer tools.
+- [Microsoft Tech Community](https://techcommunity.microsoft.com/): Community hub for product announcements, discussions, and technical guidance.

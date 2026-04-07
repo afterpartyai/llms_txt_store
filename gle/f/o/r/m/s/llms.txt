@@ -1,0 +1,59 @@
+# Google Forms Short Links
+> forms.gle is Google's short-link domain for sharing Google Forms and related Google Workspace form experiences.
+
+These links typically redirect to individual Google Forms, quizzes, surveys, and response workflows rather than a browsable documentation site. For product documentation and support, the relevant canonical resources live on Google Forms, Google Docs Editors Help, Google Workspace Admin Help, Google Developers, and Google Apps Script sites.
+
+## Product
+- [Google Forms](https://www.google.com/forms/about/): Product overview for creating surveys, quizzes, and forms in Google Workspace.
+- [Forms Home](https://docs.google.com/forms/): Main Google Forms application for creating and managing forms.
+- [Google Workspace](https://workspace.google.com/products/forms/): Workspace product page for Google Forms features and business use cases.
+- [Forms Templates](https://docs.google.com/forms/u/0/): Entry point for creating forms from templates or blank documents.
+
+## User Help
+- [Google Forms Help Center](https://support.google.com/docs/topic/6063584): Central help hub for creating, sharing, and managing Google Forms.
+- [Create Your First Form](https://support.google.com/docs/answer/6281888): Guide to creating a new form and adding questions.
+- [Send a Form for Others to Fill Out](https://support.google.com/docs/answer/2839588): Instructions for sharing forms by link, email, or embed.
+- [View and Manage Form Responses](https://support.google.com/docs/answer/139706): Help for reviewing submitted responses and summaries.
+- [Create and Grade Quizzes](https://support.google.com/docs/answer/7032287): Guide to turning forms into quizzes with grading options.
+- [Print a Form](https://support.google.com/docs/answer/2839737): Instructions for printing forms or saving them as PDFs.
+
+## Sharing and Collaboration
+- [Share Forms with Collaborators](https://support.google.com/docs/answer/2917111): Add editors and collaborate on form creation with others.
+- [Choose Who Can Respond to Your Form](https://support.google.com/docs/answer/160166): Configure response access, sign-in requirements, and limits.
+- [Embed a Form on a Website](https://support.google.com/docs/answer/2839588): Share forms via embeddable HTML for websites and portals.
+- [Send Forms with Pre-Filled Answers](https://support.google.com/docs/answer/2839588): Use prefilled links to streamline respondent submissions.
+- [Stop Collecting Responses](https://support.google.com/docs/answer/2839737): Control when a form is open or closed to submissions.
+
+## Response Management
+- [Get Email Notifications for New Responses](https://support.google.com/docs/answer/2839737): Manage response collection workflows and notification-related settings.
+- [Choose Where to Save Form Responses](https://support.google.com/docs/answer/2917686): Link a form to Google Sheets for response storage.
+- [Delete Responses in Google Forms](https://support.google.com/docs/answer/139706): Remove individual or all responses from a form.
+- [Download Responses](https://support.google.com/docs/answer/139706): Export and analyze collected responses from forms.
+- [View Responses by Question or Person](https://support.google.com/docs/answer/139706): Use summary and individual response views for analysis.
+
+## Admin and Governance
+- [Google Workspace Admin Help for Forms](https://support.google.com/a/topic/7587183): Admin documentation for managing Forms in Google Workspace.
+- [Turn Google Forms On or Off for Users](https://support.google.com/a/answer/181865): Control Forms service availability for organizational units.
+- [Manage External Sharing for Google Forms](https://support.google.com/a/answer/60781): Configure sharing and collaboration policies across Workspace.
+- [Google Vault for Docs, Sheets, Slides, and Forms](https://support.google.com/vault/answer/7657597): Retention and eDiscovery guidance for Forms data.
+- [Data Regions and Google Workspace](https://support.google.com/a/answer/9223653): Information about data location controls in Workspace.
+
+## Automation and Development
+- [Google Apps Script Forms Service](https://developers.google.com/apps-script/reference/forms): API reference for automating Google Forms with Apps Script.
+- [Apps Script Forms Guide](https://developers.google.com/apps-script/guides/forms): Guides for creating and modifying forms programmatically.
+- [Installable Triggers for Forms](https://developers.google.com/apps-script/guides/triggers/installable): Trigger automation for form submit and related events.
+- [Apps Script Quotas](https://developers.google.com/apps-script/guides/services/quotas): Usage limits relevant to Forms automation and integrations.
+- [Google Workspace Developers](https://developers.google.com/workspace): Developer hub for Workspace integrations and automation patterns.
+
+## Add-ons and Integrations
+- [Google Workspace Marketplace](https://workspace.google.com/marketplace): Directory for add-ons and integrations that extend Google Forms.
+- [Apps Script Editor](https://script.google.com/): Browser-based environment for building Forms automations and custom workflows.
+- [Google Sheets](https://www.google.com/sheets/about/): Spreadsheet destination commonly used for storing and analyzing form responses.
+- [Looker Studio](https://lookerstudio.google.com/): Reporting tool often used to visualize Google Forms response data.
+- [Google Drive Help](https://support.google.com/drive/): Storage and file-management help relevant to form ownership and access.
+
+## Privacy and Terms
+- [Google Privacy Policy](https://policies.google.com/privacy): Privacy policy governing Google Forms and related Google services.
+- [Google Terms of Service](https://policies.google.com/terms): Terms governing use of Google products and services.
+- [Google Workspace Security](https://workspace.google.com/security/): Security overview for Google Workspace products including Forms.
+- [Google Trust Center](https://cloud.google.com/security/compliance): Compliance and security resources relevant to enterprise use.

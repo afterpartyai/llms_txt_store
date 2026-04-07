@@ -1,0 +1,85 @@
+# Docker
+> Docker provides container tooling, images, registries, and application development workflows for building, shipping, and running software.
+
+Docker’s ecosystem spans Docker Desktop, Docker Hub, Build Cloud, Scout, hardened images, and extensive documentation for container development, image management, security, and deployment workflows.
+
+## Documentation
+- [Docker Docs](https://docs.docker.com/): Main documentation portal for Docker products, guides, manuals, and references.
+- [Get Started](https://docs.docker.com/get-started/): Introductory learning path for building, running, and sharing containers.
+- [Manuals](https://docs.docker.com/manuals/): Product manuals covering Docker Desktop, Engine, Hub, Build, Scout, and more.
+- [Reference](https://docs.docker.com/reference/): Command, file format, and specification references for Docker tooling.
+- [Samples](https://docs.docker.com/samples/): Example applications and sample projects for learning Docker workflows.
+- [Glossary](https://docs.docker.com/glossary/): Definitions for common Docker, container, and image terminology.
+
+## Docker Desktop
+- [Docker Desktop Overview](https://docs.docker.com/desktop/): Documentation for installing, configuring, and using Docker Desktop.
+- [Install Docker Desktop](https://docs.docker.com/desktop/install/): Installation instructions for macOS, Windows, and Linux environments.
+- [Settings Management](https://docs.docker.com/desktop/settings-management/): Configure and manage Docker Desktop settings across teams and environments.
+- [Extensions](https://docs.docker.com/extensions/): Build, install, and use Docker Desktop extensions.
+- [Hardened Docker Desktop](https://docs.docker.com/enterprise/security/hardened-desktop/): Security-focused guidance for deploying Docker Desktop in enterprise environments.
+- [Release Notes](https://docs.docker.com/desktop/release-notes/): Version history, changes, fixes, and known issues for Docker Desktop.
+
+## Docker Engine and CLI
+- [Docker Engine](https://docs.docker.com/engine/): Documentation for the Docker Engine runtime and daemon.
+- [Install Docker Engine](https://docs.docker.com/engine/install/): Installation guides for Docker Engine on supported Linux distributions.
+- [Docker CLI Reference](https://docs.docker.com/reference/cli/docker/): Command reference for the top-level docker CLI.
+- [Dockerfile Reference](https://docs.docker.com/reference/dockerfile/): Complete reference for Dockerfile instructions and syntax.
+- [Compose File Reference](https://docs.docker.com/reference/compose-file/): Specification and reference for Docker Compose files.
+- [Builder Reference](https://docs.docker.com/reference/cli/docker/builder/): CLI reference for image build and builder-related commands.
+
+## Docker Compose and Development
+- [Docker Compose](https://docs.docker.com/compose/): Documentation for defining and running multi-container applications.
+- [Compose Getting Started](https://docs.docker.com/compose/gettingstarted/): Learn core Compose workflows with a practical example application.
+- [Develop with Containers](https://docs.docker.com/get-started/docker-concepts/the-basics/what-is-a-container/): Introductory concepts for container-based application development.
+- [Multi-Container Applications](https://docs.docker.com/get-started/workshop/08_using_compose/): Tutorial for running and managing multi-container apps with Compose.
+- [Compose CLI Reference](https://docs.docker.com/reference/cli/docker/compose/): Command reference for docker compose subcommands and options.
+- [Compose Bridge](https://docs.docker.com/compose/bridge/): Tools and guidance for converting Compose applications to other targets.
+
+## Build, Images, and Registries
+- [Build Documentation](https://docs.docker.com/build/): Guides for image builds, BuildKit, and advanced build workflows.
+- [Build Cloud](https://docs.docker.com/build-cloud/): Documentation for Docker Build Cloud remote build infrastructure.
+- [Buildx](https://docs.docker.com/build/buildx/): Extended build capabilities for multi-platform and advanced image builds.
+- [Docker Hub Docs](https://docs.docker.com/docker-hub/): Documentation for repositories, images, organizations, and Hub features.
+- [Docker Hub](https://hub.docker.com/): Registry for discovering, storing, and distributing container images.
+- [Docker Official Images](https://docs.docker.com/docker-hub/official_images/): Information about curated, maintained official Docker images.
+- [Docker Hardened Images](https://docs.docker.com/dhi/): Documentation for Docker Hardened Images and secure base image usage.
+
+## Security and Supply Chain
+- [Docker Scout](https://docs.docker.com/scout/): Documentation for image analysis, vulnerability insights, and remediation workflows.
+- [Image Access Management](https://docs.docker.com/security/for-admins/hardened-desktop/image-access-management/): Control which container images users can access in Docker Desktop.
+- [Registry Access Management](https://docs.docker.com/security/for-admins/hardened-desktop/registry-access-management/): Restrict registry access for managed Docker Desktop environments.
+- [Enhanced Container Isolation](https://docs.docker.com/security/for-admins/hardened-desktop/enhanced-container-isolation/): Strengthen isolation boundaries for containers running in Docker Desktop.
+- [Content Trust](https://docs.docker.com/engine/security/trust/): Sign and verify image publishers using Docker Content Trust.
+- [Scout CLI Reference](https://docs.docker.com/reference/cli/docker/scout/): Command reference for Docker Scout CLI functionality.
+
+## API and Reference
+- [Docker Engine API](https://docs.docker.com/reference/api/engine/): HTTP API reference for interacting programmatically with Docker Engine.
+- [Docker Hub API](https://docs.docker.com/reference/api/hub/latest/): API reference for Docker Hub repositories, organizations, and related resources.
+- [Registry API](https://docs.docker.com/reference/api/registry/): Reference for the Docker Registry HTTP API.
+- [Docker Debug CLI Reference](https://docs.docker.com/reference/cli/docker/debug/): Command reference for Docker Debug functionality.
+- [Docker Init CLI Reference](https://docs.docker.com/reference/cli/docker/init/): Command reference for initializing Docker assets in projects.
+- [Docker Scout CLI Reference](https://docs.docker.com/reference/cli/docker/scout/): Detailed CLI reference for Docker Scout commands.
+
+## Guides and Tutorials
+- [Docker Workshop](https://docs.docker.com/get-started/workshop/): Hands-on tutorial for containerizing and sharing an application.
+- [Language-Specific Guides](https://docs.docker.com/guides/): Development guides for popular languages and frameworks using Docker.
+- [Java Guide](https://docs.docker.com/guides/java/): Build, containerize, and develop Java applications with Docker.
+- [Node.js Guide](https://docs.docker.com/guides/nodejs/): Build and run Node.js applications using Docker workflows.
+- [Python Guide](https://docs.docker.com/guides/python/): Containerize and develop Python applications with Docker.
+- [Go Guide](https://docs.docker.com/guides/golang/): Build and package Go applications into Docker images.
+
+## Products and Platform
+- [Docker Desktop](https://www.docker.com/products/docker-desktop/): Desktop application for local container development and management.
+- [Docker Hub](https://www.docker.com/products/docker-hub/): Hosted registry and collaboration platform for container images.
+- [Docker Scout](https://www.docker.com/products/docker-scout/): Security and supply chain analysis for container images.
+- [Docker Build Cloud](https://www.docker.com/products/build-cloud/): Managed remote build service for faster image builds.
+- [Testcontainers Cloud](https://www.docker.com/products/testcontainers-cloud/): Cloud acceleration for integration tests using Testcontainers.
+- [Docker Hardened Images](https://www.docker.com/products/hardened-images/): Enterprise-focused secure container images for production use.
+
+## Community and Learning
+- [Docker Blog](https://www.docker.com/blog/): Product updates, tutorials, engineering posts, and community announcements.
+- [Docker Community](https://www.docker.com/community/): Community programs, events, and ways to connect with Docker users.
+- [Docker Forums](https://forums.docker.com/): Community discussion forum for troubleshooting and product questions.
+- [Docker YouTube](https://www.youtube.com/@Docker): Video tutorials, demos, webinars, and product announcements.
+- [Docker Training](https://www.docker.com/resources/trainings/): Training resources and learning materials for Docker users.
+- [Docker Open Source Program](https://www.docker.com/community/open-source/): Support and benefits for open source maintainers using Docker.

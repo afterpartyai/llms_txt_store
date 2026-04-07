@@ -1,0 +1,77 @@
+# App Analytics Services
+> Mobile app analytics and attribution platform focused on campaign measurement, user behavior, and growth optimization.
+
+App Analytics Services provides analytics tooling for app marketers and product teams, including attribution, event tracking, campaign analysis, and reporting resources for mobile growth workflows.
+
+## Main Site
+- [Home](https://app-analytics-services.com/): Overview of the platform, analytics capabilities, and app growth measurement services.
+- [About](https://app-analytics-services.com/about/): Company background, mission, and high-level information about the analytics service.
+- [Contact](https://app-analytics-services.com/contact/): Contact options for sales, support, and general business inquiries.
+- [Pricing](https://app-analytics-services.com/pricing/): Plans, feature tiers, and commercial information for the platform.
+- [Features](https://app-analytics-services.com/features/): Summary of core analytics, attribution, and reporting functionality.
+
+## Documentation
+- [Documentation Home](https://app-analytics-services.com/docs/): Central documentation hub for setup, usage, and platform capabilities.
+- [Getting Started](https://app-analytics-services.com/docs/getting-started/): Initial onboarding steps for configuring analytics and launching measurement.
+- [Dashboard Guide](https://app-analytics-services.com/docs/dashboard/): Explanation of dashboards, reports, and navigation across analytics views.
+- [Event Tracking](https://app-analytics-services.com/docs/event-tracking/): How to define, send, and validate in-app events and conversions.
+- [Attribution](https://app-analytics-services.com/docs/attribution/): Attribution models, campaign mapping, and install or re-engagement measurement.
+- [Reporting](https://app-analytics-services.com/docs/reporting/): Report generation, filtering, exports, and interpretation of performance metrics.
+- [Troubleshooting](https://app-analytics-services.com/docs/troubleshooting/): Common implementation issues, diagnostics, and recommended fixes.
+
+## API Reference
+- [API Overview](https://app-analytics-services.com/api/): Introduction to available APIs, authentication, and request conventions.
+- [Authentication](https://app-analytics-services.com/api/authentication/): API keys, tokens, and secure access requirements for integrations.
+- [Events API](https://app-analytics-services.com/api/events/): Endpoints for submitting app events and conversion-related activity.
+- [Attribution API](https://app-analytics-services.com/api/attribution/): Programmatic access to attribution data and campaign performance information.
+- [Reporting API](https://app-analytics-services.com/api/reporting/): Retrieve aggregated metrics, dimensions, and exportable analytics datasets.
+- [Webhooks](https://app-analytics-services.com/api/webhooks/): Configure outbound notifications for installs, events, and attribution updates.
+- [Rate Limits](https://app-analytics-services.com/api/rate-limits/): Usage limits, throttling behavior, and best practices for reliable API consumption.
+
+## SDKs
+- [SDK Overview](https://app-analytics-services.com/sdk/): Summary of supported client SDKs and implementation patterns.
+- [iOS SDK](https://app-analytics-services.com/sdk/ios/): Integrate analytics and attribution tracking into iOS applications.
+- [Android SDK](https://app-analytics-services.com/sdk/android/): Implement event collection and campaign measurement for Android apps.
+- [React Native SDK](https://app-analytics-services.com/sdk/react-native/): Cross-platform mobile integration for React Native applications.
+- [Flutter SDK](https://app-analytics-services.com/sdk/flutter/): Add analytics instrumentation to Flutter-based mobile apps.
+- [Unity SDK](https://app-analytics-services.com/sdk/unity/): SDK guidance for game and app analytics in Unity projects.
+- [SDK Release Notes](https://app-analytics-services.com/sdk/release-notes/): Version history, fixes, and changes across supported SDKs.
+
+## Guides
+- [Implementation Guide](https://app-analytics-services.com/guides/implementation/): End-to-end setup instructions for deploying analytics in a mobile app.
+- [Campaign Tracking Guide](https://app-analytics-services.com/guides/campaign-tracking/): Configure campaign parameters and measure acquisition source performance.
+- [Deep Linking Guide](https://app-analytics-services.com/guides/deep-linking/): Set up deferred and direct deep links for acquisition and re-engagement.
+- [SKAdNetwork Guide](https://app-analytics-services.com/guides/skadnetwork/): Guidance for privacy-centric attribution on Apple platforms.
+- [Retention Analysis Guide](https://app-analytics-services.com/guides/retention-analysis/): Analyze user retention, cohorts, and lifecycle engagement trends.
+- [Fraud Prevention Guide](https://app-analytics-services.com/guides/fraud-prevention/): Detect suspicious traffic patterns and improve campaign data quality.
+
+## Integrations
+- [Integrations Overview](https://app-analytics-services.com/integrations/): Directory of partner platforms and supported data connections.
+- [Ad Networks](https://app-analytics-services.com/integrations/ad-networks/): Connect paid media sources for attribution and campaign measurement.
+- [Analytics Tools](https://app-analytics-services.com/integrations/analytics-tools/): Sync data with BI and analytics platforms for deeper analysis.
+- [Data Export](https://app-analytics-services.com/integrations/data-export/): Export raw or aggregated data to external storage and reporting systems.
+- [CRM Integrations](https://app-analytics-services.com/integrations/crm/): Connect customer engagement systems with app analytics workflows.
+- [Partner Setup](https://app-analytics-services.com/integrations/partner-setup/): Steps for enabling and validating third-party integrations.
+
+## Resources
+- [Resources Home](https://app-analytics-services.com/resources/): Collection of educational materials, references, and support content.
+- [Help Center](https://app-analytics-services.com/resources/help-center/): Self-service support articles for common product and setup questions.
+- [Glossary](https://app-analytics-services.com/resources/glossary/): Definitions of attribution, analytics, and mobile marketing terminology.
+- [Case Studies](https://app-analytics-services.com/resources/case-studies/): Examples of how teams use analytics to improve app growth outcomes.
+- [Templates](https://app-analytics-services.com/resources/templates/): Reusable reporting and planning templates for analytics workflows.
+- [Webinars](https://app-analytics-services.com/resources/webinars/): Recorded sessions covering implementation and optimization topics.
+
+## Blog
+- [Blog Home](https://app-analytics-services.com/blog/): Articles on mobile measurement, attribution, and app growth best practices.
+- [Product Updates](https://app-analytics-services.com/blog/product-updates/): Announcements about new features, releases, and platform improvements.
+- [Attribution](https://app-analytics-services.com/blog/attribution/): Posts focused on attribution methods, challenges, and measurement strategy.
+- [Analytics](https://app-analytics-services.com/blog/analytics/): Content about event design, reporting, and performance analysis.
+- [Growth Marketing](https://app-analytics-services.com/blog/growth-marketing/): Guidance for acquisition, retention, and campaign optimization teams.
+- [Privacy](https://app-analytics-services.com/blog/privacy/): Articles on privacy changes, compliance, and ecosystem measurement impacts.
+
+## Legal
+- [Privacy Policy](https://app-analytics-services.com/privacy-policy/): Data handling practices, privacy commitments, and user information policies.
+- [Terms of Service](https://app-analytics-services.com/terms-of-service/): Contractual terms governing use of the platform and related services.
+- [Cookie Policy](https://app-analytics-services.com/cookie-policy/): Information about cookies, tracking technologies, and consent practices.
+- [Data Processing Agreement](https://app-analytics-services.com/data-processing-agreement/): Terms for data processing responsibilities and compliance obligations.
+- [Security](https://app-analytics-services.com/security/): Overview of security controls, safeguards, and operational protections.

@@ -1,0 +1,67 @@
+# Live.net
+> Live.net is Microsoft’s legacy web portal and identity domain associated with Outlook, Microsoft account, and related online services.
+
+This domain primarily serves account, sign-in, and service entry points rather than a standalone product documentation site. The most useful context for LLMs is the set of Microsoft account, Outlook, and support resources directly tied to Live/Hotmail usage and authentication flows.
+
+## Account Access
+- [Microsoft Account](https://account.live.com/): Main Microsoft account portal for sign-in, profile, security, and subscription management.
+- [Sign In](https://login.live.com/): Primary Microsoft authentication endpoint used across consumer services.
+- [Password Reset](https://account.live.com/password/reset): Self-service flow for resetting a Microsoft account password.
+- [Sign Up](https://signup.live.com/): Account creation flow for new Microsoft consumer accounts.
+- [Account Billing](https://account.live.com/billing/orders): Order history and billing management for Microsoft account purchases.
+- [Devices](https://account.microsoft.com/devices): Manage devices associated with a Microsoft account.
+
+## Outlook and Mail
+- [Outlook](https://outlook.live.com/): Webmail entry point for Outlook.com, Hotmail, and Live email accounts.
+- [Outlook Inbox](https://outlook.live.com/mail/): Direct access to the Outlook web mail experience.
+- [Outlook Calendar](https://outlook.live.com/calendar/): Web calendar for Microsoft personal accounts.
+- [Outlook People](https://outlook.live.com/people/): Contact management for Outlook.com accounts.
+- [Outlook Tasks](https://outlook.live.com/tasks/): Task management interface in Outlook on the web.
+- [Outlook Help](https://support.microsoft.com/outlook): Support hub for Outlook setup, troubleshooting, and feature guidance.
+
+## Account Help and Recovery
+- [Microsoft Account Help](https://support.microsoft.com/account-billing): Support articles for account access, billing, and identity issues.
+- [Recover Your Account](https://support.microsoft.com/account-billing/help-with-the-microsoft-account-recovery-form-8c5e7f1f-5a1b-4b29-b7b5-4f7f0f9f0c1b): Guidance for recovering inaccessible Microsoft accounts.
+- [Reset Password Help](https://support.microsoft.com/account-billing/change-or-reset-your-password-49a1d0d1-1f5e-4d8f-bc4f-98f8f35f6f4f): Instructions for changing or resetting a Microsoft account password.
+- [Unblock Account](https://support.microsoft.com/account-billing/microsoft-account-security-info-and-verification-c1c7b6d3-6f6d-4f5a-8f6d-7d1f1e6f2d5d): Help with verification and account security challenges.
+- [Sign-In Troubleshooting](https://support.microsoft.com/account-billing/i-can-t-sign-in-to-my-microsoft-account-475c9c09-5e10-4f9b-9b4b-7b1a0b1f5e2d): Troubleshooting for common Microsoft account sign-in problems.
+
+## Security and Privacy
+- [Security Dashboard](https://account.microsoft.com/security): Review security settings, alerts, and account protection options.
+- [Advanced Security Options](https://account.microsoft.com/security): Manage verification methods, passwordless sign-in, and recovery details.
+- [Privacy Dashboard](https://account.microsoft.com/privacy): Manage privacy settings, activity data, and Microsoft account permissions.
+- [Microsoft Privacy Statement](https://privacy.microsoft.com/privacystatement): Official privacy policy covering Microsoft consumer services.
+- [Microsoft Services Agreement](https://www.microsoft.com/servicesagreement): Terms governing use of Microsoft consumer online services.
+- [Security Support](https://support.microsoft.com/account-billing/security-and-privacy-9477c2b0-5b1e-4f8d-9d8e-0a5f7d2d6c3e): Help articles for account security and privacy controls.
+
+## Microsoft 365 and Consumer Services
+- [Microsoft 365](https://www.microsoft.com/microsoft-365): Product hub for Microsoft 365 consumer plans and apps.
+- [OneDrive](https://onedrive.live.com/): Cloud storage service commonly used with Microsoft personal accounts.
+- [Skype](https://www.skype.com/): Communication service historically linked with Microsoft account identity.
+- [Microsoft Store Account](https://account.microsoft.com/): Central account portal for subscriptions, purchases, and services.
+- [Family Safety](https://account.microsoft.com/family/): Manage family groups, parental controls, and shared Microsoft services.
+- [Rewards](https://rewards.microsoft.com/): Microsoft Rewards portal tied to personal account usage.
+
+## Developer and Identity Platform
+- [Microsoft Identity Platform](https://learn.microsoft.com/entra/identity-platform/): Documentation for Microsoft authentication, tokens, and app sign-in integration.
+- [MSAL Documentation](https://learn.microsoft.com/entra/msal/): SDK guidance for implementing Microsoft account and Entra sign-in flows.
+- [OAuth 2.0 and OpenID Connect](https://learn.microsoft.com/entra/identity-platform/v2-protocols): Protocol reference for Microsoft identity authentication endpoints.
+- [App Registration](https://portal.azure.com/): Azure portal entry point for registering apps using Microsoft identity services.
+- [Microsoft Graph](https://learn.microsoft.com/graph/): API documentation for accessing Outlook, calendar, contacts, and user data.
+- [Graph Explorer](https://developer.microsoft.com/graph/graph-explorer): Interactive tool for testing Microsoft Graph API requests.
+
+## Outlook Developer Resources
+- [Outlook API via Microsoft Graph](https://learn.microsoft.com/graph/api/resources/mail-api-overview): Overview of mail, calendar, and contacts APIs for Outlook data.
+- [Send Mail API](https://learn.microsoft.com/graph/api/user-sendmail): Reference for sending mail through Microsoft Graph.
+- [Messages API](https://learn.microsoft.com/graph/api/resources/message): Resource reference for Outlook message objects.
+- [Calendar API](https://learn.microsoft.com/graph/api/resources/calendar): Resource reference for Outlook calendar data.
+- [Contacts API](https://learn.microsoft.com/graph/api/resources/contact): Resource reference for Outlook contact management.
+- [Webhooks for Outlook Resources](https://learn.microsoft.com/graph/outlook-change-notifications-overview): Change notification guidance for Outlook mail, calendar, and contacts.
+
+## Support and Community
+- [Microsoft Support](https://support.microsoft.com/): Central support portal for Microsoft consumer products and services.
+- [Outlook.com Support](https://support.microsoft.com/outlook_com): Help articles specific to Outlook.com and webmail usage.
+- [Microsoft Community](https://answers.microsoft.com/): Community forum for account, Outlook, and Microsoft service questions.
+- [Service Status](https://portal.office.com/servicestatus): Service health page for Microsoft 365 web services.
+- [Contact Support](https://support.microsoft.com/contactus): Entry point for contacting Microsoft support channels.
+- [Accessibility Support](https://support.microsoft.com/accessibility): Accessibility help and product guidance for Microsoft services.

@@ -1,0 +1,69 @@
+# ScienceDirect
+> ScienceDirect is Elsevier’s platform for accessing peer-reviewed journals, books, and article metadata across scientific, technical, and medical disciplines.
+
+It provides discovery, browsing, and access to scholarly literature, including journal issues, books, articles, abstracts, author information, and topic collections spanning the physical sciences, life sciences, health sciences, and social sciences.
+
+## Core Platform
+- [ScienceDirect Home](https://www.sciencedirect.com/): Main entry point for searching and browsing journals, books, and articles.
+- [Search](https://www.sciencedirect.com/search): Search interface for articles, book chapters, and publication content.
+- [Advanced Search](https://www.sciencedirect.com/search/advanced): Advanced search with fielded queries and filtering options.
+- [Browse Publications](https://www.sciencedirect.com/browse/journals-and-books): Directory for browsing all journals and books on the platform.
+- [Topics](https://www.sciencedirect.com/topics): Curated topic pages connecting concepts, definitions, and related literature.
+- [About ScienceDirect](https://www.sciencedirect.com/science/about): Overview of the platform, content, and access model.
+
+## Journals and Books
+- [Journals A–Z](https://www.sciencedirect.com/browse/journals-and-books?contentType=JL): Browse all journals available on ScienceDirect.
+- [Books A–Z](https://www.sciencedirect.com/browse/journals-and-books?contentType=BK): Browse all books and reference works available on ScienceDirect.
+- [Open Access Journals](https://www.sciencedirect.com/browse/journals-and-books?accessType=openAccess&contentType=JL): Browse journals with open access availability.
+- [Open Access Books](https://www.sciencedirect.com/browse/journals-and-books?accessType=openAccess&contentType=BK): Browse books with open access availability.
+- [Latest Publications](https://www.sciencedirect.com/browse/journals-and-books): Browse recently indexed and available publication titles.
+
+## Articles and Content Types
+- [Articles](https://www.sciencedirect.com/search?articleTypes=FLA): Search full-length research articles across the platform.
+- [Review Articles](https://www.sciencedirect.com/search?articleTypes=REV): Search review articles and synthesis papers.
+- [Book Chapters](https://www.sciencedirect.com/search?contentType=BK): Search chapters and book-based scholarly content.
+- [Open Access Content](https://www.sciencedirect.com/search?accessType=openAccess): Search openly accessible articles and chapters.
+- [Recent Articles](https://www.sciencedirect.com/search?date=2020-2029): Search recent publication output using date filters.
+
+## Subject Areas
+- [Physical Sciences and Engineering](https://www.sciencedirect.com/browse/journals-and-books?subject=physical-sciences-and-engineering): Browse publications in physical sciences and engineering.
+- [Life Sciences](https://www.sciencedirect.com/browse/journals-and-books?subject=life-sciences): Browse journals and books in life sciences.
+- [Health Sciences](https://www.sciencedirect.com/browse/journals-and-books?subject=health-sciences): Browse health and medical science publications.
+- [Social Sciences and Humanities](https://www.sciencedirect.com/browse/journals-and-books?subject=social-sciences-and-humanities): Browse social sciences and humanities content.
+- [Mathematics](https://www.sciencedirect.com/browse/journals-and-books?subject=mathematics): Browse mathematics journals and books.
+- [Computer Science](https://www.sciencedirect.com/browse/journals-and-books?subject=computer-science): Browse computer science publications.
+
+## Author and Publication Information
+- [Authors](https://www.sciencedirect.com/science/authors): Information and tools relevant to article authors on ScienceDirect.
+- [Editors](https://www.sciencedirect.com/science/editors): Information for editors involved with journals and editorial workflows.
+- [Author Affiliations](https://www.sciencedirect.com/science/article/pii/S0167739X19320964): Example article page showing author, affiliation, and metadata structure.
+- [Journal Information Pages](https://www.sciencedirect.com/journal/artificial-intelligence): Example journal homepage with aims, scope, and issue navigation.
+- [Book Information Pages](https://www.sciencedirect.com/book/9780128154809/deep-learning): Example book page with chapters and publication metadata.
+
+## Access and User Support
+- [Help Center](https://service.elsevier.com/app/home/supporthub/sciencedirect/): Official support hub for ScienceDirect users.
+- [Remote Access](https://service.elsevier.com/app/answers/detail/a_id/25944/supporthub/sciencedirect/): Guidance for accessing ScienceDirect remotely through institutions.
+- [Access Troubleshooting](https://service.elsevier.com/app/answers/list/supporthub/sciencedirect/): Support articles for common access and account issues.
+- [Contact Support](https://service.elsevier.com/app/home/supporthub/sciencedirect/): Entry point for contacting Elsevier support about ScienceDirect.
+- [Librarian Support](https://www.elsevier.com/librarians): Elsevier resources and services for librarians managing access.
+
+## APIs and Developer Resources
+- [Elsevier Developer Portal](https://dev.elsevier.com/): Central portal for Elsevier APIs, keys, and developer documentation.
+- [Scopus APIs](https://dev.elsevier.com/sc_apis.html): API documentation for Scopus content and metadata services.
+- [ScienceDirect APIs Overview](https://dev.elsevier.com/api_docs.html): Overview of available Elsevier APIs relevant to content retrieval and metadata.
+- [Article Retrieval API](https://dev.elsevier.com/documentation/ArticleRetrievalAPI.wadl): API for retrieving article metadata and content representations.
+- [Search API](https://dev.elsevier.com/documentation/SCIDIRSearchAPI.wadl): API for searching ScienceDirect and related Elsevier content.
+- [API Authentication](https://dev.elsevier.com/tecdoc_api_authentication.html): Authentication methods and API key usage for Elsevier services.
+
+## Open Access and Research Discovery
+- [Open Access Hub](https://www.sciencedirect.com/open-access): Overview of open access content and availability on ScienceDirect.
+- [Open Archive](https://www.sciencedirect.com/journal-profiles/open-access): Journal open access information and publication models.
+- [Topic Pages](https://www.sciencedirect.com/topics): Topic overviews linking concepts to books and articles.
+- [Recommended Articles](https://www.sciencedirect.com/): Platform entry point featuring discovery and recommendation features.
+
+## Policies and Legal
+- [Terms and Conditions](https://www.elsevier.com/legal/elsevier-website-terms-and-conditions): Terms governing use of Elsevier web properties.
+- [Privacy Policy](https://www.elsevier.com/legal/privacy-policy): Privacy practices for Elsevier services and websites.
+- [Cookie Notice](https://www.elsevier.com/legal/cookie-notice): Information about cookies and tracking technologies.
+- [Copyright](https://www.elsevier.com/about/policies/copyright): Copyright policy and permissions information.
+- [Accessibility](https://www.elsevier.com/about/accessibility): Accessibility commitments and support information.

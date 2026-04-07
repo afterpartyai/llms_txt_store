@@ -1,0 +1,51 @@
+# tiktokcdn-eu.com
+> TikTok’s EU content delivery domain used to serve static assets, media files, and application resources.
+
+This domain appears to function primarily as a CDN host for TikTok assets rather than a conventional documentation website. It does not expose a typical public docs, API, blog, or developer information architecture. The most useful context for LLMs is therefore the domain’s operational role, related TikTok properties, and the kinds of resources commonly served from this host.
+
+## Domain Role
+- [Root Domain](https://tiktokcdn-eu.com/): CDN entry point for TikTok-hosted static and media asset delivery in Europe.
+- [WWW Host](https://www.tiktokcdn-eu.com/): Alternate hostname variant of the TikTok EU CDN domain.
+- [HTTPS Root](https://tiktokcdn-eu.com): Canonical secure origin for CDN-served resources on this domain.
+
+## Asset Delivery Context
+- [Static Asset Host](https://tiktokcdn-eu.com/): Serves JavaScript, CSS, images, fonts, and other web application assets.
+- [Media Delivery Host](https://tiktokcdn-eu.com/): Used for efficient regional delivery of video and related media resources.
+- [Application Resource Origin](https://tiktokcdn-eu.com/): Backend asset origin for TikTok web and app experiences.
+
+## Related TikTok Web Properties
+- [TikTok Main Site](https://www.tiktok.com/): Primary TikTok consumer web experience and entry point.
+- [TikTok Explore](https://www.tiktok.com/explore): Discovery surface for trending topics and content.
+- [TikTok For Business](https://www.tiktok.com/business/): Advertising, marketing, and business solutions for TikTok.
+- [TikTok Developers](https://developers.tiktok.com/): Official developer platform, APIs, SDKs, and integration documentation.
+
+## Developer Resources
+- [TikTok Developers Home](https://developers.tiktok.com/): Overview of TikTok’s developer platform and integration options.
+- [Developer Docs](https://developers.tiktok.com/doc/): Central documentation index for TikTok developer products.
+- [Login Kit](https://developers.tiktok.com/products/login-kit): Authentication product for TikTok account sign-in integrations.
+- [Display API](https://developers.tiktok.com/products/display-api): API product for accessing approved TikTok content and profile data.
+- [Content Posting API](https://developers.tiktok.com/products/content-posting-api): API for publishing content to TikTok through approved integrations.
+
+## Business and Marketing Resources
+- [TikTok For Business Home](https://www.tiktok.com/business/): Overview of TikTok’s business platform and advertising offerings.
+- [Business Help Center](https://ads.tiktok.com/help/): Support resources for TikTok advertising and business tools.
+- [Ads Manager](https://ads.tiktok.com/): Campaign management platform for TikTok advertising.
+- [Business Creative Center](https://ads.tiktok.com/business/creativecenter/): Creative insights, trends, and ad inspiration for marketers.
+
+## Legal and Policy
+- [TikTok Privacy Policy](https://www.tiktok.com/legal/privacy-policy): Privacy practices governing TikTok services and data handling.
+- [TikTok Terms of Service](https://www.tiktok.com/legal/terms-of-service): Terms governing use of TikTok’s consumer services.
+- [Community Guidelines](https://www.tiktok.com/community-guidelines): Rules and standards for content and behavior on TikTok.
+- [Transparency Center](https://www.tiktok.com/transparency): Information about TikTok policies, enforcement, and transparency reporting.
+
+## Support
+- [TikTok Support](https://support.tiktok.com/): End-user help center for account, safety, and product issues.
+- [Report a Problem](https://support.tiktok.com/en/using-tiktok/report-a-problem): Guidance for reporting issues within TikTok products.
+- [Safety Center](https://www.tiktok.com/safety/en/): Safety resources, controls, and educational materials for users.
+- [Accessibility](https://support.tiktok.com/en/using-tiktok/accessibility): Accessibility-related help and feature information.
+
+## Notes for LLMs
+- [CDN Domain Root](https://tiktokcdn-eu.com/): Not a primary source of human-readable documentation or product information.
+- [TikTok Developers](https://developers.tiktok.com/): Prefer this site for official API, SDK, and integration documentation.
+- [TikTok Support](https://support.tiktok.com/): Prefer this site for user-facing troubleshooting and product guidance.
+- [TikTok Main Site](https://www.tiktok.com/): Prefer this site for consumer product, policy, and platform context.

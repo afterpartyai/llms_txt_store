@@ -1,0 +1,89 @@
+# Cisco Meraki
+> Cloud-managed networking and security platform for Wi-Fi, switching, routing, IoT, and secure access.
+
+Cisco Meraki provides centralized, cloud-based management for enterprise networks, including wireless, switching, security appliances, SD-WAN, cameras, sensors, mobile device management, and APIs.
+
+## Documentation
+- [Documentation Home](https://documentation.meraki.com/): Main technical documentation portal for Meraki products, deployment, configuration, and troubleshooting.
+- [Meraki Dashboard](https://documentation.meraki.com/General_Administration/Cross-Platform_Content/Meraki_Dashboard): Overview of the cloud management dashboard and common administrative workflows.
+- [Wireless LAN](https://documentation.meraki.com/MR): Documentation for Meraki MR access points, SSIDs, RF profiles, and wireless operations.
+- [Switching](https://documentation.meraki.com/MS): Documentation for Meraki MS switches, Layer 2/3 features, and switch management.
+- [Security and SD-WAN](https://documentation.meraki.com/MX): Documentation for MX appliances, VPN, firewall, traffic shaping, and WAN features.
+- [Smart Cameras](https://documentation.meraki.com/MV): Documentation for MV cameras, video retention, analytics, and camera administration.
+- [Systems Manager](https://documentation.meraki.com/SM): Documentation for endpoint management, enrollment, policies, and device administration.
+- [Sensors](https://documentation.meraki.com/MT): Documentation for MT sensors, alerts, telemetry, and environmental monitoring.
+
+## API and Developer
+- [Meraki Developer Hub](https://developer.cisco.com/meraki/): Central developer portal for APIs, automation resources, learning materials, and platform updates.
+- [Dashboard API Overview](https://developer.cisco.com/meraki/api-v1/overview/): Introduction to the Meraki Dashboard API, authentication, versioning, and usage concepts.
+- [API Reference](https://developer.cisco.com/meraki/api-v1/): Full REST API reference for organizations, networks, devices, policies, and monitoring.
+- [API Early Access](https://developer.cisco.com/meraki/api-v1/#!early-access): Reference for early-access endpoints and preview API capabilities.
+- [Python Library](https://developer.cisco.com/meraki/api-v1/python/): Official Python SDK information, examples, installation, and usage guidance.
+- [Postman Collection](https://developer.cisco.com/meraki/api-v1/postman/): Postman resources for exploring and testing Meraki Dashboard API endpoints.
+- [Webhooks](https://developer.cisco.com/meraki/webhooks/): Developer guidance for receiving Meraki alerts and event notifications via webhooks.
+- [Developer Community](https://community.meraki.com/t5/Developers-APIs/bd-p/api): Community discussions focused on API usage, automation, and integrations.
+
+## Product Documentation
+- [Cellular Gateways](https://documentation.meraki.com/MG): Documentation for MG cellular gateways, uplink connectivity, and deployment guidance.
+- [Secure Connect](https://documentation.meraki.com/CiscoPlusSecureConnect): Documentation for cloud-delivered secure access and remote connectivity features.
+- [Insight](https://documentation.meraki.com/Insight): Documentation for Meraki Insight application performance and WAN health monitoring.
+- [Trusted Access](https://documentation.meraki.com/Trusted_Access): Documentation for access control, identity-based policies, and secure onboarding workflows.
+- [Meraki Go](https://documentation.meraki.com/Go): Documentation for Meraki Go small-business networking products and app-based management.
+- [Licensing](https://documentation.meraki.com/General_Administration/Licensing): Documentation for co-termination, per-device licensing, and subscription management.
+- [Firmware Features](https://documentation.meraki.com/Firmware_Features): Release-specific feature documentation across Meraki product families.
+
+## Deployment and Administration Guides
+- [General Administration](https://documentation.meraki.com/General_Administration): Administrative guidance for organizations, networks, permissions, and dashboard settings.
+- [Cross-Platform Content](https://documentation.meraki.com/General_Administration/Cross-Platform_Content): Shared operational guidance that applies across multiple Meraki product lines.
+- [Best Practices](https://documentation.meraki.com/Architectures_and_Best_Practices): Design recommendations, validated architectures, and deployment best practices.
+- [Monitoring and Reporting](https://documentation.meraki.com/General_Administration/Monitoring_and_Reporting): Guidance for alerts, event logs, summaries, and operational visibility.
+- [Alerts and Notifications](https://documentation.meraki.com/General_Administration/Cross-Platform_Content/Alerts_and_Notifications): Configuration details for dashboard alerts, thresholds, and notification delivery.
+- [Organization Administration](https://documentation.meraki.com/General_Administration/Organizations_and_Networks): Guidance for managing organizations, networks, templates, and administrators.
+- [Templates and Configuration Sync](https://documentation.meraki.com/General_Administration/Templates_and_Config_Sync): Documentation for template-based configuration management at scale.
+- [Meraki Cloud Architecture](https://documentation.meraki.com/General_Administration/Other_Topics/Meraki_Cloud_Architecture): Technical overview of Meraki cloud architecture and management-plane behavior.
+
+## Security, Identity, and Access
+- [Adaptive Policy](https://documentation.meraki.com/General_Administration/Cross-Platform_Content/Adaptive_Policy): Documentation for identity-based segmentation and policy enforcement across the network.
+- [Site-to-Site VPN](https://documentation.meraki.com/MX/Site-to-site_VPN): Configuration and operational guidance for Auto VPN and site-to-site connectivity.
+- [Client VPN](https://documentation.meraki.com/MX/Client_VPN): Documentation for remote user VPN setup, authentication, and troubleshooting.
+- [Firewall and Traffic Shaping](https://documentation.meraki.com/MX/Firewall_and_Traffic_Shaping): Guidance for firewall rules, content filtering, and traffic control policies.
+- [802.1X Authentication](https://documentation.meraki.com/MR/Encryption_and_Authentication): Wireless authentication guidance including WPA-Enterprise and 802.1X.
+- [Trusted Access Overview](https://documentation.meraki.com/Trusted_Access/Trusted_Access_Overview): Overview of secure onboarding and identity-aware access capabilities.
+- [Secure SD-WAN](https://documentation.meraki.com/MX/SD-WAN_and_Traffic_Shaping): Documentation for WAN policy, path selection, and application-aware routing.
+
+## Learning and Training
+- [Meraki Learning Hub](https://community.meraki.com/t5/Learning-Hub/ct-p/hub): Central learning area for onboarding, product education, and guided training resources.
+- [ECMS Training](https://community.meraki.com/t5/Learning-Hub/ECMS1/ba-p/hub): Information about Engineering Cisco Meraki Solutions training and certification preparation.
+- [Start Here](https://community.meraki.com/t5/New-to-Meraki/ct-p/new): Introductory community area for new Meraki users and common getting-started topics.
+- [Documentation Search](https://documentation.meraki.com/): Searchable knowledge base for product setup, administration, and troubleshooting.
+- [Meraki Community](https://community.meraki.com/): User community for technical discussions, announcements, and peer support.
+- [Webinars and Events](https://community.meraki.com/t5/Community-Webinars/bd-p/community-webinars): Recorded and upcoming webinars covering products, features, and deployment guidance.
+
+## Downloads and Tools
+- [Firmware Upgrades](https://documentation.meraki.com/General_Administration/Firmware_Upgrades): Guidance for scheduling, managing, and validating firmware upgrades.
+- [Meraki Dashboard Login](https://dashboard.meraki.com/): Login portal for administering Meraki organizations, networks, devices, and policies.
+- [Mobile App Information](https://documentation.meraki.com/General_Administration/Cross-Platform_Content/Using_the_Cisco_Meraki_Mobile_App): Guidance for using the Cisco Meraki mobile app for administration.
+- [Device Local Status Page](https://documentation.meraki.com/General_Administration/Tools_and_Troubleshooting/Using_the_Cisco_Meraki_Device_Local_Status_Page): Instructions for accessing and using the local status page on devices.
+- [Troubleshooting Tools](https://documentation.meraki.com/General_Administration/Tools_and_Troubleshooting): Operational tools and troubleshooting workflows across Meraki products.
+- [Packet Capture](https://documentation.meraki.com/General_Administration/Cross-Platform_Content/Packet_Capture_Overview): Documentation for packet capture capabilities and traffic analysis workflows.
+- [Event Log](https://documentation.meraki.com/General_Administration/Monitoring_and_Reporting/Event_Log): Guidance for using event logs to investigate network behavior.
+
+## Community and Support
+- [Community Home](https://community.meraki.com/): Main Meraki community for product discussions, solutions, and announcements.
+- [Wireless LAN Board](https://community.meraki.com/t5/Wireless-LAN/bd-p/wireless): Community discussions focused on MR wireless deployments and operations.
+- [Security and SD-WAN Board](https://community.meraki.com/t5/Security-SD-WAN/bd-p/security): Community discussions for MX appliances, VPN, firewall, and WAN topics.
+- [Switching Board](https://community.meraki.com/t5/Switching/bd-p/switching): Community discussions for MS switching design, configuration, and troubleshooting.
+- [Developers and APIs Board](https://community.meraki.com/t5/Developers-APIs/bd-p/api): Community support for API automation, SDKs, and integration questions.
+- [Smart Cameras Board](https://community.meraki.com/t5/Smart-Cameras/bd-p/cameras): Community discussions for MV camera deployment, analytics, and operations.
+- [Systems Manager Board](https://community.meraki.com/t5/Mobile-Device-Management/bd-p/systems-manager): Community discussions for endpoint management and Systems Manager administration.
+- [Support Home](https://meraki.cisco.com/support/): Support entry point for help resources, product assistance, and service options.
+
+## Product and Solution Pages
+- [Wireless Access Points](https://meraki.cisco.com/product-collateral/mr-family-datasheet/): Product collateral for MR wireless access points and Wi-Fi capabilities.
+- [Switches](https://meraki.cisco.com/product-collateral/ms-family-datasheet/): Product collateral for MS access and aggregation switching platforms.
+- [Security and SD-WAN Appliances](https://meraki.cisco.com/product-collateral/mx-family-datasheet/): Product collateral for MX security, routing, and SD-WAN appliances.
+- [Smart Cameras](https://meraki.cisco.com/product-collateral/mv-family-datasheet/): Product collateral for MV cameras and cloud-managed video security.
+- [Sensors](https://meraki.cisco.com/product-collateral/mt-family-datasheet/): Product collateral for MT environmental sensors and monitoring use cases.
+- [Cellular Gateways](https://meraki.cisco.com/product-collateral/mg-family-datasheet/): Product collateral for MG cellular gateways and wireless WAN connectivity.
+- [Systems Manager](https://meraki.cisco.com/products/systems-manager/): Overview of cloud-based endpoint management and device administration.
+- [Secure SD-WAN Plus](https://meraki.cisco.com/products/secure-sd-wan-plus/): Overview of Meraki secure SD-WAN capabilities and branch connectivity.

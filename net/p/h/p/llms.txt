@@ -1,0 +1,91 @@
+# PHP
+> The official PHP website provides downloads, manuals, language reference, installation guides, and community resources for the PHP programming language.
+
+PHP.net is the canonical source for PHP releases, documentation, function and extension references, migration guides, and project participation information maintained by The PHP Group.
+
+## Core Documentation
+- [Documentation](https://www.php.net/docs.php): Entry point to the official PHP manuals, references, and translated documentation.
+- [Getting Started](https://www.php.net/manual/en/getting-started.php): Introductory guide for learning PHP installation, basics, and first steps.
+- [Introduction](https://www.php.net/manual/en/introduction.php): Overview of PHP, its capabilities, and common usage patterns.
+- [A simple tutorial](https://www.php.net/manual/en/tutorial.php): Beginner tutorial covering basic PHP syntax and web scripting concepts.
+- [Language Reference](https://www.php.net/manual/en/langref.php): Central index for PHP language syntax, semantics, and core constructs.
+- [Function Reference](https://www.php.net/manual/en/funcref.php): Index of built-in PHP functions organized by extension and module.
+- [Appendices](https://www.php.net/manual/en/appendices.php): Supplemental reference material including reserved words, migration, and configuration details.
+
+## Language Basics
+- [Basic syntax](https://www.php.net/manual/en/language.basic-syntax.php): Fundamental PHP syntax rules, tags, statements, and code structure.
+- [Types](https://www.php.net/manual/en/language.types.php): Overview of PHP data types and type system behavior.
+- [Variables](https://www.php.net/manual/en/language.variables.php): Rules for declaring, assigning, and using variables in PHP.
+- [Constants](https://www.php.net/manual/en/language.constants.php): Definition and usage of constants and magic constants.
+- [Expressions](https://www.php.net/manual/en/language.expressions.php): Explanation of expressions, evaluation, and value handling in PHP.
+- [Operators](https://www.php.net/manual/en/language.operators.php): Reference for arithmetic, comparison, logical, and other operators.
+- [Control Structures](https://www.php.net/manual/en/language.control-structures.php): Conditional statements, loops, and flow-control constructs.
+
+## Functions and Object-Oriented Programming
+- [Functions](https://www.php.net/manual/en/language.functions.php): Defining, calling, and organizing functions including arguments and returns.
+- [Classes and Objects](https://www.php.net/manual/en/language.oop5.php): Object-oriented programming concepts including classes, inheritance, and visibility.
+- [Namespaces](https://www.php.net/manual/en/language.namespaces.php): Organizing code and resolving names with PHP namespaces.
+- [Enumerations](https://www.php.net/manual/en/language.enumerations.php): Native enum support for modeling fixed sets of values.
+- [Errors](https://www.php.net/manual/en/language.errors.php): Error handling model, exceptions, and reporting behavior in PHP.
+- [Attributes](https://www.php.net/manual/en/language.attributes.php): Native metadata annotations for classes, methods, properties, and functions.
+- [Generators](https://www.php.net/manual/en/language.generators.php): Lazy iteration and coroutine-style workflows using generators.
+
+## Installation and Setup
+- [Installation and Configuration](https://www.php.net/manual/en/install.php): Main installation guide for supported platforms and environments.
+- [Linux and Unix Installation](https://www.php.net/manual/en/install.unix.php): Build and installation instructions for Unix-like systems.
+- [macOS Installation](https://www.php.net/manual/en/install.macosx.php): Platform-specific installation guidance for macOS environments.
+- [Windows Installation](https://www.php.net/manual/en/install.windows.php): Installing and configuring PHP on Windows systems.
+- [Runtime Configuration](https://www.php.net/manual/en/configuration.php): php.ini settings, directives, and runtime configuration behavior.
+- [Command Line Usage](https://www.php.net/manual/en/features.commandline.php): Using PHP from the shell for scripts, tooling, and automation.
+
+## Extensions and APIs
+- [Function Reference](https://www.php.net/manual/en/funcref.php): Complete catalog of built-in functions grouped by extension.
+- [Extensions and Related Documentation](https://www.php.net/manual/en/extensions.php): Overview of bundled and external PHP extensions.
+- [PDO](https://www.php.net/manual/en/book.pdo.php): Database abstraction layer for consistent access to multiple databases.
+- [MySQLi](https://www.php.net/manual/en/book.mysqli.php): Improved MySQL extension with prepared statements and advanced features.
+- [cURL](https://www.php.net/manual/en/book.curl.php): HTTP and network transfer functions using libcurl.
+- [JSON](https://www.php.net/manual/en/book.json.php): Encoding and decoding JSON data in PHP applications.
+- [OpenSSL](https://www.php.net/manual/en/book.openssl.php): Cryptographic and TLS-related functions backed by OpenSSL.
+- [Session Handling](https://www.php.net/manual/en/book.session.php): Managing session state for web applications.
+
+## Security, Features, and Best Practices
+- [Security](https://www.php.net/manual/en/security.php): Security guidance for writing and deploying safer PHP applications.
+- [Features](https://www.php.net/manual/en/features.php): Overview of major PHP language and runtime capabilities.
+- [Handling file uploads](https://www.php.net/manual/en/features.file-upload.php): Secure processing of uploaded files in web applications.
+- [Sessions](https://www.php.net/manual/en/features.sessions.php): Session concepts, configuration, and usage patterns.
+- [Garbage Collection](https://www.php.net/manual/en/features.gc.php): Automatic memory management and cycle collection behavior.
+- [HTTP authentication](https://www.php.net/manual/en/features.http-auth.php): Implementing HTTP authentication with PHP scripts.
+
+## Migration and Versioning
+- [Migration Guide](https://www.php.net/manual/en/migration.php): Index of migration notes for upgrading between PHP versions.
+- [Migrating from PHP 8.4.x to PHP 8.5.x](https://www.php.net/manual/en/migration85.php): Backward-incompatible changes and new features in PHP 8.5.
+- [Migrating from PHP 8.3.x to PHP 8.4.x](https://www.php.net/manual/en/migration84.php): Upgrade notes, deprecations, and compatibility changes for PHP 8.4.
+- [Migrating from PHP 8.2.x to PHP 8.3.x](https://www.php.net/manual/en/migration83.php): New features and compatibility considerations for PHP 8.3.
+- [Migrating from PHP 8.1.x to PHP 8.2.x](https://www.php.net/manual/en/migration82.php): Language and runtime changes introduced in PHP 8.2.
+- [Supported Versions](https://www.php.net/supported-versions.php): Current support status and lifecycle information for PHP releases.
+- [Downloads](https://www.php.net/downloads.php): Official source and binary downloads for current PHP versions.
+
+## Releases and Change Information
+- [News](https://www.php.net/news.php): Release announcements and project news from the PHP team.
+- [ChangeLog](https://www.php.net/ChangeLog-8.php): Version-specific changelog entries for PHP 8 releases.
+- [PHP 8 ChangeLog](https://www.php.net/ChangeLog-8.php): Detailed fixes and changes across PHP 8.x versions.
+- [PHP 7 ChangeLog](https://www.php.net/ChangeLog-7.php): Historical changelog for PHP 7 release series.
+- [Release Process](https://www.php.net/releases/): Information and resources related to PHP release management.
+- [QA and Testing](https://qa.php.net/): Quality assurance resources for testing release candidates and snapshots.
+
+## Contributing and Community
+- [Get Involved](https://www.php.net/get-involved.php): Ways to contribute to PHP development, documentation, and community efforts.
+- [Help](https://www.php.net/support.php): Official support resources, documentation help, and community assistance channels.
+- [Contact](https://www.php.net/contact.php): Contact information for the PHP project and related teams.
+- [Other PHP.net sites](https://www.php.net/sites.php): Directory of official PHP project websites and services.
+- [My PHP.net](https://www.php.net/my.php): Personalized PHP.net settings and preferences for documentation browsing.
+- [PHP License](https://www.php.net/copyright.php): Copyright and licensing information for PHP and site content.
+- [GitHub Web Source](https://github.com/php/web-php/blob/master/index.php): Source code for the PHP.net homepage implementation.
+
+## Reference and Search Tools
+- [Manual](https://www.php.net/manual/en/): Full English PHP manual with searchable language and extension documentation.
+- [FAQ](https://www.php.net/manual/en/faq.php): Frequently asked questions about PHP usage, installation, and behavior.
+- [Reserved Keywords](https://www.php.net/manual/en/reserved.php): Reserved words, predefined constants, and naming restrictions.
+- [INI Core Directives](https://www.php.net/manual/en/ini.core.php): Core php.ini directives and their configuration semantics.
+- [Predefined Variables](https://www.php.net/manual/en/reserved.variables.php): Superglobals and predefined variables available in PHP scripts.
+- [PHP Tags](https://www.php.net/manual/en/language.basic-syntax.phptags.php): Detailed reference for PHP opening and closing tags.

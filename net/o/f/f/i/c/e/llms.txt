@@ -1,0 +1,80 @@
+# Office.net
+> Microsoft Office and Microsoft 365 portal for signing in, installing apps, accessing productivity tools, and managing subscriptions.
+
+Office.net serves as the web entry point for Microsoft 365 experiences, including Office apps, account access, setup flows, support resources, and links to product documentation across Microsoft domains.
+
+## Portal and Sign-in
+- [Office Home](https://www.office.net/): Main landing page for accessing Microsoft 365 apps, files, and account entry points.
+- [Sign In](https://www.office.com/login): Microsoft 365 sign-in page for work, school, and personal accounts.
+- [My Account](https://myaccount.microsoft.com/): Account portal for subscriptions, devices, privacy, and Microsoft service settings.
+- [Microsoft 365 Home](https://www.microsoft365.com/): Central Microsoft 365 web portal for apps, documents, and collaboration tools.
+- [Install Microsoft 365](https://www.office.com/myaccount): Account page for installs, subscriptions, and Office app management.
+
+## Office Applications
+- [Word](https://www.microsoft365.com/launch/word): Launch Microsoft Word on the web for document creation and editing.
+- [Excel](https://www.microsoft365.com/launch/excel): Launch Microsoft Excel on the web for spreadsheets and analysis.
+- [PowerPoint](https://www.microsoft365.com/launch/powerpoint): Launch Microsoft PowerPoint on the web for presentations and slides.
+- [OneNote](https://www.microsoft365.com/launch/onenote): Launch OneNote on the web for notes and notebook organization.
+- [Outlook](https://www.microsoft365.com/launch/outlook): Launch Outlook on the web for email, calendar, and contacts.
+- [Teams](https://www.microsoft365.com/launch/teams): Launch Microsoft Teams for chat, meetings, and collaboration.
+
+## Setup and Installation Help
+- [Download and Install or Reinstall Microsoft 365 or Office 2021](https://support.microsoft.com/office/download-and-install-or-reinstall-microsoft-365-or-office-2021-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658): Official installation instructions for Microsoft 365 and Office on PC or Mac.
+- [Set Up Microsoft 365 for Business](https://learn.microsoft.com/microsoft-365/admin/setup/setup): Admin setup guidance for new Microsoft 365 business tenants.
+- [Install Microsoft 365 Apps for Business](https://learn.microsoft.com/microsoft-365/admin/setup/install-applications): Admin documentation for deploying Microsoft 365 apps to users.
+- [Activate Office](https://support.microsoft.com/office/activate-office-c39005d4-95ee-b91e-b399-2820fda32227): Support article for activating Office with a Microsoft account or product key.
+- [Redeem a Product Key](https://setup.office.com/): Product key redemption portal for Office setup and activation.
+
+## Microsoft 365 Admin
+- [Microsoft 365 Admin Center](https://admin.microsoft.com/): Administrative portal for managing users, licenses, billing, and services.
+- [Microsoft 365 Admin Documentation](https://learn.microsoft.com/microsoft-365/admin/): Core documentation for Microsoft 365 administration and tenant management.
+- [Microsoft 365 Setup](https://learn.microsoft.com/microsoft-365/admin/setup/): Setup documentation for domains, users, apps, and tenant configuration.
+- [Users and Groups](https://learn.microsoft.com/microsoft-365/admin/add-users/): Guidance for adding users, assigning licenses, and managing groups.
+- [Billing and Subscriptions](https://learn.microsoft.com/microsoft-365/admin/billing/): Documentation for billing, invoices, subscriptions, and payment management.
+- [Service Health and Message Center](https://learn.microsoft.com/microsoft-365/admin/manage/view-service-health): Guidance for monitoring service health and organizational notices.
+
+## End-User Help and Training
+- [Microsoft 365 Support](https://support.microsoft.com/microsoft-365): Product support hub for Microsoft 365 apps, setup, and troubleshooting.
+- [Office Support](https://support.microsoft.com/office): Support hub for Office apps, account help, and common tasks.
+- [Microsoft 365 Training](https://support.microsoft.com/training): Training resources for Microsoft 365 apps and workflows.
+- [Microsoft 365 Help Center](https://support.microsoft.com/): General Microsoft support portal for products, services, and troubleshooting.
+- [Office Quick Start Guides](https://support.microsoft.com/office/office-quick-start-guides-25f909da-3e76-443d-94f4-6cdf7dedc51e): Quick-start resources for learning core Office applications.
+- [Accessibility Support](https://support.microsoft.com/accessibility): Accessibility help and inclusive productivity guidance for Microsoft products.
+
+## Developer and API Resources
+- [Microsoft 365 Developer Center](https://developer.microsoft.com/microsoft-365/): Entry point for building apps and integrations for Microsoft 365.
+- [Microsoft Graph Documentation](https://learn.microsoft.com/graph/): API documentation for accessing Microsoft 365 data and services.
+- [Microsoft Graph REST API Reference](https://learn.microsoft.com/graph/api/overview): Reference for Microsoft Graph endpoints, resources, and operations.
+- [Microsoft Graph SDKs](https://learn.microsoft.com/graph/sdks/sdks-overview): SDK guidance for calling Microsoft Graph from multiple languages.
+- [Office Add-ins Documentation](https://learn.microsoft.com/office/dev/add-ins/): Documentation for building Office add-ins across Office applications.
+- [Microsoft 365 Platform Documentation](https://learn.microsoft.com/microsoft-365/): Technical documentation for Microsoft 365 services, apps, and platform capabilities.
+
+## Deployment and Enterprise Management
+- [Microsoft 365 Apps Admin Center](https://config.office.com/): Portal for servicing profiles, inventory, and Microsoft 365 Apps management.
+- [Microsoft 365 Apps Documentation](https://learn.microsoft.com/deployoffice/): Deployment documentation for Microsoft 365 Apps in organizations.
+- [Office Deployment Tool Overview](https://learn.microsoft.com/deployoffice/overview-office-deployment-tool): Overview of the Office Deployment Tool for enterprise installations.
+- [Update Channels for Microsoft 365 Apps](https://learn.microsoft.com/deployoffice/updates/overview-update-channels): Guidance on selecting and managing update channels.
+- [Configuration Options for the Office Deployment Tool](https://learn.microsoft.com/deployoffice/office-deployment-tool-configuration-options): Reference for XML configuration settings used in Office deployments.
+- [Microsoft 365 Apps Servicing](https://learn.microsoft.com/deployoffice/updates/overview-update-process-microsoft-365-apps): Documentation on update processes and servicing behavior.
+
+## Security and Compliance
+- [Microsoft Defender Portal](https://security.microsoft.com/): Security portal for threat protection, alerts, and Microsoft 365 security operations.
+- [Microsoft Purview Portal](https://compliance.microsoft.com/): Compliance portal for data governance, retention, and regulatory workflows.
+- [Microsoft 365 Security Documentation](https://learn.microsoft.com/microsoft-365/security/): Documentation for securing Microsoft 365 identities, apps, and data.
+- [Microsoft Purview Documentation](https://learn.microsoft.com/purview/): Documentation for compliance, governance, and information protection solutions.
+- [Microsoft Entra Documentation](https://learn.microsoft.com/entra/): Identity and access management documentation for Microsoft cloud services.
+- [Secure Score](https://learn.microsoft.com/microsoft-365/security/defender/microsoft-secure-score): Guidance for using Secure Score to improve organizational security posture.
+
+## Adoption and Productivity Guidance
+- [Microsoft 365 Adoption](https://adoption.microsoft.com/microsoft-365/): Adoption resources for rollout, change management, and user enablement.
+- [Productivity Library](https://adoption.microsoft.com/productivity-library/): Templates and scenarios for improving productivity with Microsoft 365.
+- [Microsoft 365 Scenario Library](https://adoption.microsoft.com/en-us/scenario-library/): Business scenario guidance for collaboration, communication, and hybrid work.
+- [Microsoft 365 Learning Pathways](https://adoption.microsoft.com/en-us/custom-learning/): Customizable learning solution for training users on Microsoft 365.
+- [Copilot Adoption Resources](https://adoption.microsoft.com/copilot/): Adoption guidance and resources for Microsoft Copilot in Microsoft 365.
+
+## News and Product Updates
+- [Microsoft 365 Blog](https://www.microsoft.com/microsoft-365/blog/): Official blog covering Microsoft 365 announcements, features, and product updates.
+- [Microsoft 365 Roadmap](https://www.microsoft.com/microsoft-365/roadmap): Public roadmap for upcoming Microsoft 365 features and releases.
+- [Microsoft Tech Community](https://techcommunity.microsoft.com/): Community hub for product discussions, announcements, and technical guidance.
+- [Microsoft Learn](https://learn.microsoft.com/): Central documentation and learning platform for Microsoft products and services.
+- [Release Notes for Microsoft 365 Apps](https://learn.microsoft.com/officeupdates/current-channel): Release information for Microsoft 365 Apps update channels.

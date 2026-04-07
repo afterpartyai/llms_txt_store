@@ -1,0 +1,22 @@
+# TikTok CDN US
+> Content delivery domain serving TikTok web assets, media, scripts, and static resources for TikTok properties.
+
+This domain functions primarily as a CDN endpoint rather than a traditional documentation website. It hosts static assets used by TikTok web applications and related services, so there are no public documentation, API reference, guide, or blog sections directly on this domain.
+
+## Core Domain
+- [Homepage](https://www.tiktokcdn-us.com/): Root CDN domain for TikTok-hosted static assets and delivery infrastructure.
+
+## Asset Delivery
+- [Static Asset Root](https://www.tiktokcdn-us.com/): Base location for JavaScript, CSS, images, and other cached web resources.
+- [HTTPS Endpoint](https://www.tiktokcdn-us.com/): Secure delivery endpoint for browser-loaded TikTok content.
+- [CDN Origin](https://www.tiktokcdn-us.com/): Origin-style host used by TikTok applications for performant asset distribution.
+
+## Usage Context
+- [Web Application Assets](https://www.tiktokcdn-us.com/): Supports front-end resources required by TikTok web experiences.
+- [Media Delivery](https://www.tiktokcdn-us.com/): Serves cached media and supporting files through TikTok infrastructure.
+- [Third-Party Requests](https://www.tiktokcdn-us.com/): Commonly referenced indirectly by browsers when loading TikTok pages.
+
+## Notes
+- [Domain Overview](https://www.tiktokcdn-us.com/): CDN-focused host with no public product documentation or developer portal.
+- [Public Site Availability](https://www.tiktokcdn-us.com/): Public browsing typically exposes little or no human-readable site structure.
+- [Documentation Alternative](https://developers.tiktok.com/): TikTok developer documentation is hosted on a separate official domain.

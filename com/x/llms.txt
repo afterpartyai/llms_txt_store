@@ -1,0 +1,76 @@
+# X
+> X is a social platform for real-time conversations, publishing, communities, and developer access to public conversation data.
+
+It includes consumer-facing help resources, developer documentation and APIs, business and advertising tools, creator monetization information, safety and policy documentation, and transparency resources.
+
+## Core Platform
+- [Home](https://x.com/home): Main logged-in timeline and entry point for the X platform.
+- [Explore](https://x.com/explore): Discover trending topics, news, and popular conversations across X.
+- [Notifications](https://x.com/notifications): View mentions, replies, follows, and other account activity.
+- [Messages](https://x.com/messages): Access direct messages and private conversations on X.
+- [Communities](https://x.com/i/communities): Browse and participate in topic-based communities on X.
+- [Grok](https://x.com/i/grok): Access X’s AI assistant experience integrated into the platform.
+
+## Help Center
+- [Help Center Home](https://help.x.com/en): Central support hub for using X, account issues, and platform features.
+- [Using X](https://help.x.com/en/using-x): Help articles about posting, timelines, profiles, and core product features.
+- [Managing Your Account](https://help.x.com/en/managing-your-account): Guidance for login, account settings, security, and account management.
+- [Safety and Security](https://help.x.com/en/safety-and-security): Resources for reporting abuse, privacy, and account protection.
+- [Rules and Policies](https://help.x.com/en/rules-and-policies): Overview of platform rules, policy enforcement, and restricted behavior.
+- [Ads Help Center](https://business.x.com/en/help.html): Support resources for advertisers, campaigns, and business account usage.
+
+## Developer Platform
+- [Developer Platform Home](https://developer.x.com/en): Entry point for X developer products, APIs, tools, and documentation.
+- [Documentation](https://developer.x.com/en/docs): Main documentation index for APIs, products, and developer guides.
+- [API Reference](https://developer.x.com/en/docs/api-reference-index): Reference index for X API endpoints and technical details.
+- [Getting Started](https://developer.x.com/en/docs/getting-started): Introductory guides for onboarding and building with X APIs.
+- [Use Cases](https://developer.x.com/en/use-cases): Product and implementation examples for common developer workflows.
+- [Developer Blog](https://developer.x.com/en/blog): Announcements, updates, and technical posts for the developer community.
+
+## X API v2
+- [X API v2 Overview](https://developer.x.com/en/docs/x-api): Overview of X API v2 capabilities and product areas.
+- [Posts](https://developer.x.com/en/docs/x-api/posts): Documentation for creating, retrieving, and managing posts.
+- [Users](https://developer.x.com/en/docs/x-api/users): Endpoints and guides for user lookup and profile data.
+- [Spaces](https://developer.x.com/en/docs/x-api/spaces): API documentation for live audio Spaces and related metadata.
+- [Lists](https://developer.x.com/en/docs/x-api/lists): Endpoints for creating and managing curated user lists.
+- [Direct Messages](https://developer.x.com/en/docs/x-api/direct-messages): Documentation for messaging-related API capabilities.
+
+## Enterprise and Data
+- [Enterprise APIs](https://developer.x.com/en/docs/x-api/enterprise-gnip-2.0): Enterprise-grade access to historical and filtered conversation data.
+- [Filtered Stream](https://developer.x.com/en/docs/x-api/filtered-stream-overview): Stream public posts in real time using filtering rules.
+- [Recent Search](https://developer.x.com/en/docs/x-api/search-overview): Search recent public posts and conversation metadata.
+- [Compliance](https://developer.x.com/en/docs/x-api/compliance): Compliance APIs for deletions, withheld content, and account status changes.
+- [Batch Compliance](https://developer.x.com/en/docs/x-api/compliance/batch-compliance): Submit batch jobs for compliance processing at scale.
+- [PowerTrack](https://developer.x.com/en/docs/twitter-api/enterprise/powertrack-api/overview): Enterprise filtering and delivery of real-time public conversation data.
+
+## Business and Advertising
+- [X for Business](https://business.x.com/en): Overview of advertising, analytics, and business solutions on X.
+- [Advertising](https://business.x.com/en/advertising): Learn about campaign formats, objectives, and ad solutions.
+- [Ads Manager](https://ads.x.com): Manage advertising campaigns, creatives, and performance reporting.
+- [Business Help Center](https://business.x.com/en/help.html): Support documentation for advertisers and business users.
+- [Success Stories](https://business.x.com/en/success-stories): Case studies showing how brands use X for marketing outcomes.
+- [Marketing Calendar](https://business.x.com/en/insights/marketing-calendar): Planning resource for campaigns around major events and moments.
+
+## Creators and Monetization
+- [Creator Subscriptions](https://help.x.com/en/using-x/creator-subscriptions): Help documentation for recurring subscriber-supported creator programs.
+- [Ads Revenue Sharing](https://help.x.com/en/using-x/ads-revenue-sharing): Overview of creator revenue sharing from ads on X.
+- [Creator Articles](https://help.x.com/en/using-x/articles): Help information about long-form article publishing on X.
+- [Verified Organizations](https://business.x.com/en/verified-organizations): Business verification offering with organization and affiliate features.
+- [Premium](https://help.x.com/en/using-x/x-premium): Help documentation for X Premium features and subscriptions.
+- [Premium+](https://help.x.com/en/using-x/x-premium-plus): Help information for higher-tier Premium subscription benefits.
+
+## Safety, Policy, and Transparency
+- [X Rules](https://help.x.com/en/rules-and-policies/x-rules): Core platform rules governing behavior and content on X.
+- [Privacy Policy](https://x.com/en/privacy): Policy describing how X collects, uses, and shares data.
+- [Terms of Service](https://x.com/en/tos): Terms governing access to and use of X services.
+- [Transparency Center](https://transparency.x.com): Central hub for enforcement, legal requests, and transparency reporting.
+- [Global Government Requests](https://transparency.x.com/en/reports/government-removals.html): Transparency reporting on government content removal requests.
+- [Platform Manipulation and Spam Policy](https://help.x.com/en/rules-and-policies/platform-manipulation): Policy covering spam, coordinated activity, and manipulation.
+
+## Engineering and Open Source
+- [Engineering Blog](https://blog.x.com/engineering/en_us): Technical articles about infrastructure, systems, and engineering at X.
+- [Company Blog](https://blog.x.com): Official blog for product, company, and platform announcements.
+- [Open Source at X](https://opensource.x.com): Hub for X open source projects and engineering initiatives.
+- [Developer Community](https://twittercommunity.com): Community forum for developers building with X APIs.
+- [API Status](https://api.x.com/2/openapi.json): Machine-readable OpenAPI description for parts of the X API.
+- [Brand Toolkit](https://about.x.com/en/who-we-are/brand-toolkit): Official brand assets and usage guidance for X branding.

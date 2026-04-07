@@ -1,0 +1,58 @@
+# cdninstagram.com
+> Instagram’s content delivery domain serving static assets, media files, and infrastructure-hosted resources for the Instagram platform.
+
+This domain is primarily used as a CDN and asset host rather than a public documentation site. It does not expose a conventional developer portal, product documentation hierarchy, API reference, or editorial content directly on the domain. For LLM-oriented context, the most relevant public resources are Instagram and Meta documentation that explain the platform, APIs, policies, and developer workflows associated with content and integrations that may reference assets delivered through cdninstagram.com.
+
+## Platform Overview
+- [Instagram](https://www.instagram.com/): Main Instagram product site for consumer access to profiles, posts, reels, and platform features.
+- [Meta for Developers](https://developers.facebook.com/): Central developer portal for Meta platforms, including Instagram APIs, app setup, and integration guidance.
+- [Instagram Help Center](https://help.instagram.com/): End-user help documentation covering account, privacy, safety, and product usage topics.
+- [Meta Transparency Center](https://transparency.fb.com/): Policy, integrity, and transparency information relevant to Meta-operated services including Instagram.
+
+## Instagram Graph API
+- [Instagram Platform Overview](https://developers.facebook.com/docs/instagram-platform/): Overview of Instagram APIs, use cases, requirements, and integration capabilities.
+- [Getting Started](https://developers.facebook.com/docs/instagram-platform/getting-started): Setup guide for creating apps and beginning Instagram platform integrations.
+- [Content Publishing API](https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media): Reference for creating and publishing Instagram media through the Graph API.
+- [Mentions API](https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/tags): Reference for retrieving media where a business or creator account is tagged.
+- [Hashtag Search](https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-hashtag): Reference for hashtag discovery and related media retrieval endpoints.
+- [Webhooks](https://developers.facebook.com/docs/instagram-platform/webhooks): Subscription and notification guidance for Instagram-related webhook events.
+
+## Instagram Graph API Reference
+- [IG User](https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user): Reference for Instagram business and creator account nodes and fields.
+- [IG Media](https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-media): Reference for media objects, metadata fields, and supported edges.
+- [IG Comment](https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-comment): Reference for comment objects and moderation-related operations.
+- [IG Hashtag](https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-hashtag): Reference for hashtag nodes and media discovery operations.
+- [User Tags](https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/tags): Reference for tagged media retrieval from Instagram accounts.
+- [Media Insights](https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-media/insights): Reference for metrics and insights available on Instagram media.
+
+## Instagram Basic Display API
+- [Basic Display API Overview](https://developers.facebook.com/docs/instagram-basic-display-api/): Overview of the legacy Instagram Basic Display API and supported read-only use cases.
+- [Getting Started](https://developers.facebook.com/docs/instagram-basic-display-api/getting-started): App configuration and authorization flow setup for Basic Display integrations.
+- [Reference](https://developers.facebook.com/docs/instagram-basic-display-api/reference): Endpoint reference for user profiles, media, and token handling.
+- [Long-Lived Access Tokens](https://developers.facebook.com/docs/instagram-basic-display-api/guides/long-lived-access-tokens): Guide for exchanging and refreshing long-lived Instagram user access tokens.
+
+## Authentication and App Setup
+- [App Dashboard](https://developers.facebook.com/apps/): Meta app management dashboard for configuring Instagram integrations and permissions.
+- [Facebook Login for Business](https://developers.facebook.com/docs/facebook-login-for-business): Authentication flow documentation commonly used with Instagram business integrations.
+- [Permissions Reference](https://developers.facebook.com/docs/permissions/reference): Reference for permissions and feature access required by Meta platform apps.
+- [Access Tokens](https://developers.facebook.com/docs/facebook-login/guides/access-tokens): Guide to obtaining, inspecting, and managing access tokens for API calls.
+- [App Review](https://developers.facebook.com/docs/app-review): Requirements and process for requesting advanced access to protected permissions.
+
+## Webhooks and Events
+- [Webhooks Overview](https://developers.facebook.com/docs/graph-api/webhooks): General Meta webhooks documentation for subscribing to object changes.
+- [Instagram Webhooks](https://developers.facebook.com/docs/instagram-platform/webhooks): Instagram-specific webhook setup and supported subscription topics.
+- [Webhook Getting Started](https://developers.facebook.com/docs/graph-api/webhooks/getting-started): Step-by-step guide to validating and receiving webhook notifications.
+- [Webhook Security](https://developers.facebook.com/docs/graph-api/webhooks/getting-started#security): Security considerations for verifying webhook payloads and endpoints.
+
+## Policies and Compliance
+- [Platform Terms](https://developers.facebook.com/terms/): Terms governing use of Meta developer products and platform integrations.
+- [Developer Policies](https://developers.facebook.com/devpolicy/): Policy requirements for data handling, user consent, and platform usage.
+- [Data Protection Assessment](https://developers.facebook.com/docs/development/build-and-test/app-review/data-protection-assessment): Compliance guidance for apps accessing certain Meta platform data.
+- [Instagram Community Guidelines](https://help.instagram.com/477434105621119): Rules governing acceptable content and behavior on Instagram.
+- [Privacy Policy](https://privacycenter.instagram.com/policy): Instagram privacy policy describing data collection and usage practices.
+
+## Help and Support
+- [Instagram Help Center](https://help.instagram.com/): General support documentation for Instagram users and common product issues.
+- [Meta for Developers Support](https://developers.facebook.com/support/): Support entry point for developer issues, cases, and platform assistance.
+- [Graph API Overview](https://developers.facebook.com/docs/graph-api): Core Graph API concepts, nodes, edges, fields, and request patterns.
+- [API Upgrade Tool](https://developers.facebook.com/tools/api_versioning/): Tooling for understanding Graph API version changes and upgrade impacts.

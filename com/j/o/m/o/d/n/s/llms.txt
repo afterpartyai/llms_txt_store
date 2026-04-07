@@ -1,0 +1,54 @@
+# JomoDNS
+> JomoDNS provides managed DNS, dynamic DNS, and related domain name services for individuals and organizations.
+
+JomoDNS offers DNS hosting and management tools centered on domain records, dynamic DNS, and account-based service administration.
+
+## Main Site
+- [Home](https://jomodns.com/): Main entry point for JomoDNS managed DNS and dynamic DNS services.
+- [About](https://jomodns.com/about): Overview of the company and its DNS service mission.
+- [Contact](https://jomodns.com/contact): Contact information and support inquiry page for customers.
+- [Pricing](https://jomodns.com/pricing): Service plans and pricing details for DNS hosting offerings.
+
+## Account and Access
+- [Login](https://jomodns.com/login): Customer sign-in page for managing DNS services and account settings.
+- [Register](https://jomodns.com/register): Account creation page for new JomoDNS users.
+- [Dashboard](https://jomodns.com/dashboard): Authenticated account area for managing domains and DNS records.
+- [Account Settings](https://jomodns.com/account): User account profile and service configuration settings.
+
+## DNS Management
+- [Domains](https://jomodns.com/domains): Domain management area for hosted zones and DNS configuration.
+- [DNS Records](https://jomodns.com/dns): Interface for viewing and editing DNS resource records.
+- [Nameservers](https://jomodns.com/nameservers): Information and configuration related to authoritative nameservers.
+- [Zone Management](https://jomodns.com/zones): DNS zone administration for hosted domains.
+
+## Dynamic DNS
+- [Dynamic DNS](https://jomodns.com/ddns): Overview of dynamic DNS capabilities and service usage.
+- [DDNS Setup](https://jomodns.com/ddns/setup): Instructions for configuring dynamic DNS on supported clients.
+- [DDNS Update](https://jomodns.com/ddns/update): Endpoint and usage details for updating dynamic DNS records.
+- [Supported Clients](https://jomodns.com/ddns/clients): Compatible dynamic DNS clients and configuration guidance.
+
+## Documentation
+- [Documentation Home](https://jomodns.com/docs): Central documentation index for JomoDNS services and features.
+- [Getting Started](https://jomodns.com/docs/getting-started): Introductory guide for setting up domains and DNS records.
+- [DNS Record Types](https://jomodns.com/docs/dns-record-types): Reference for common DNS record types and their usage.
+- [FAQ](https://jomodns.com/docs/faq): Frequently asked questions about DNS hosting and account management.
+- [Troubleshooting](https://jomodns.com/docs/troubleshooting): Help for diagnosing common DNS and dynamic DNS issues.
+
+## API and Developer
+- [API Overview](https://jomodns.com/api): Introduction to the JomoDNS API and developer capabilities.
+- [API Reference](https://jomodns.com/api/reference): Endpoint reference for programmatic DNS and account operations.
+- [Authentication](https://jomodns.com/api/authentication): API authentication methods and credential requirements.
+- [Rate Limits](https://jomodns.com/api/rate-limits): Usage limits and request throttling guidance for API consumers.
+- [Webhooks](https://jomodns.com/api/webhooks): Event notification integration details for automated workflows.
+
+## Support
+- [Support Center](https://jomodns.com/support): Central support portal for service help and issue resolution.
+- [Knowledge Base](https://jomodns.com/support/kb): Self-service articles covering common DNS management tasks.
+- [Submit Ticket](https://jomodns.com/support/ticket): Support request form for technical and account issues.
+- [Service Status](https://jomodns.com/status): Current platform and DNS service availability information.
+
+## Legal
+- [Terms of Service](https://jomodns.com/terms): Terms governing use of JomoDNS services and website access.
+- [Privacy Policy](https://jomodns.com/privacy): Privacy practices for customer data and service usage.
+- [Acceptable Use Policy](https://jomodns.com/aup): Rules for acceptable use of the DNS platform.
+- [Cookie Policy](https://jomodns.com/cookies): Information about cookies and tracking technologies on the site.

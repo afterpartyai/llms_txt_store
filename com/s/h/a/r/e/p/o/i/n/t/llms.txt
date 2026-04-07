@@ -1,0 +1,71 @@
+# Microsoft SharePoint
+> Microsoft SharePoint is a collaborative content management and secure file sharing platform within Microsoft 365.
+
+SharePoint powers intranets, document management, team sites, communication sites, workflow automation, and knowledge sharing across Microsoft 365. This guide prioritizes official Microsoft documentation, admin guidance, developer resources, adoption content, and product information relevant to SharePoint.
+
+## Product Overview
+- [SharePoint product page](https://www.microsoft.com/en-ca/microsoft-365/sharepoint/collaboration): Overview of SharePoint collaboration, content management, and secure file sharing capabilities.
+- [Microsoft 365 home](https://www.microsoft.com/en-ca/microsoft-365): Entry point for Microsoft 365 products, services, and platform context.
+- [SharePoint in Microsoft 365](https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration): US product page for SharePoint features, scenarios, and platform positioning.
+- [Microsoft Teams](https://www.microsoft.com/en-ca/microsoft-teams/group-chat-software): Related collaboration product tightly integrated with SharePoint file storage and teamwork.
+- [Microsoft 365 Copilot](https://www.microsoft.com/en-ca/microsoft-365-copilot): AI product context for Microsoft 365 experiences connected to SharePoint content.
+
+## Documentation
+- [SharePoint documentation](https://learn.microsoft.com/en-us/sharepoint/): Main documentation hub for SharePoint admins, users, and IT professionals.
+- [SharePoint Online documentation](https://learn.microsoft.com/en-us/sharepoint/sharepoint-online): Core documentation for SharePoint Online service capabilities and management.
+- [SharePoint Server documentation](https://learn.microsoft.com/en-us/sharepoint/): Documentation entry point covering on-premises SharePoint Server guidance.
+- [SharePoint help and learning](https://support.microsoft.com/sharepoint): End-user help, how-to articles, and troubleshooting resources for SharePoint.
+- [Microsoft 365 documentation](https://learn.microsoft.com/en-us/microsoft-365/): Broader Microsoft 365 documentation relevant to SharePoint integrations and governance.
+
+## Admin and Governance
+- [SharePoint admin center help](https://learn.microsoft.com/en-us/sharepoint/sharepoint-admin-center): Guidance for managing SharePoint settings, policies, and tenant-wide configuration.
+- [Plan SharePoint governance](https://learn.microsoft.com/en-us/sharepoint/governance-overview): Best practices for governance, ownership, lifecycle, and information architecture.
+- [Manage site creation](https://learn.microsoft.com/en-us/sharepoint/manage-site-creation): Configure who can create SharePoint sites and connected Microsoft 365 groups.
+- [Sharing and access controls](https://learn.microsoft.com/en-us/sharepoint/turn-external-sharing-on-or-off): Configure external sharing policies and access boundaries for SharePoint sites.
+- [Sensitivity labels for SharePoint](https://learn.microsoft.com/en-us/sharepoint/sensitivity-labels): Apply Microsoft Purview sensitivity labels to protect SharePoint sites and content.
+- [Data residency and compliance](https://learn.microsoft.com/en-us/microsoft-365/enterprise/o365-data-locations): Understand Microsoft 365 data locations relevant to SharePoint deployments.
+
+## Deployment and Adoption
+- [SharePoint adoption](https://adoption.microsoft.com/en-us/sharepoint/): Adoption resources, templates, and rollout guidance for SharePoint scenarios.
+- [Plan an intelligent intranet](https://learn.microsoft.com/en-us/sharepoint/planning-hub): Planning guidance for intranets, hubs, communication sites, and information architecture.
+- [Create and use site templates](https://learn.microsoft.com/en-us/sharepoint/site-templates): Learn available SharePoint site templates and common business use cases.
+- [SharePoint look book](https://lookbook.microsoft.com/): Examples and inspiration for SharePoint sites, intranets, and page designs.
+- [Success stories](https://www.microsoft.com/en-us/microsoft-365/customers/search?products=sharepoint): Customer stories and real-world SharePoint deployment examples.
+
+## Sites, Pages, and Content
+- [Create a team site](https://support.microsoft.com/en-us/office/create-a-team-site-in-sharepoint-4d1e11bf-8ddc-499d-b889-2b48d10b1ce8): End-user guidance for creating collaborative SharePoint team sites.
+- [Create a communication site](https://support.microsoft.com/en-us/office/create-a-communication-site-in-sharepoint-94d95f3a-6b99-4b48-9764-8661cea71334): Build broadcast-style sites for organizational news and communications.
+- [Modern pages and web parts](https://learn.microsoft.com/en-us/sharepoint/dev/solution-guidance/modern-experience-customizations-customize-pages): Overview of customizing modern SharePoint pages and experiences.
+- [Document libraries](https://support.microsoft.com/en-us/sharepoint/what-is-a-document-library-1e4d1d8e-4151-4d28-bb5a-2d229b7f4c3a): Learn how SharePoint document libraries organize, store, and manage files.
+- [Lists in SharePoint](https://support.microsoft.com/en-us/office/what-is-a-list-in-microsoft-365-93262a88-20b6-4a82-8387-6b9f21f3097f): Understand list-based information tracking and lightweight app scenarios.
+- [Hub sites](https://learn.microsoft.com/en-us/sharepoint/planning-hub-sites): Plan and manage hub sites for navigation, branding, and content aggregation.
+
+## Developer Platform
+- [SharePoint developer documentation](https://learn.microsoft.com/en-us/sharepoint/dev/): Main developer hub for SharePoint extensibility and customization.
+- [SharePoint Framework overview](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview): Introduction to the SharePoint Framework for modern client-side development.
+- [Get started with SharePoint Framework](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-development-environment): Set up the development environment for building SharePoint Framework solutions.
+- [SharePoint add-ins](https://learn.microsoft.com/en-us/sharepoint/dev/sp-add-ins/sharepoint-add-ins): Legacy add-in model documentation for SharePoint customization scenarios.
+- [Microsoft Graph SharePoint API](https://learn.microsoft.com/en-us/graph/api/resources/sharepoint?view=graph-rest-1.0): API reference for SharePoint sites, drives, lists, and content via Microsoft Graph.
+- [PnP developer guidance](https://pnp.github.io/): Community-driven patterns, practices, and reusable tooling for SharePoint developers.
+
+## APIs and Automation
+- [Microsoft Graph API overview](https://learn.microsoft.com/en-us/graph/overview): Overview of Microsoft Graph APIs used to access SharePoint content and metadata.
+- [SharePoint REST service](https://learn.microsoft.com/en-us/sharepoint/dev/sp-add-ins/get-to-know-the-sharepoint-rest-service): Learn the SharePoint REST API model for sites, lists, and libraries.
+- [Microsoft Graph sites API](https://learn.microsoft.com/en-us/graph/api/resources/site?view=graph-rest-1.0): Reference for working with SharePoint sites through Microsoft Graph.
+- [Microsoft Graph drives API](https://learn.microsoft.com/en-us/graph/api/resources/drive?view=graph-rest-1.0): Access document libraries and files stored in SharePoint and OneDrive.
+- [Power Automate with SharePoint](https://learn.microsoft.com/en-us/power-automate/sharepoint/overview): Automate SharePoint processes and approvals using Power Automate connectors.
+- [SharePoint Online Management Shell](https://learn.microsoft.com/en-us/powershell/sharepoint/sharepoint-online/connect-sharepoint-online): PowerShell guidance for administering SharePoint Online programmatically.
+
+## Migration and Hybrid
+- [SharePoint Migration Tool](https://learn.microsoft.com/en-us/sharepointmigration/introducing-the-sharepoint-migration-tool): Migrate files and content from file shares and SharePoint Server.
+- [Migration overview](https://learn.microsoft.com/en-us/sharepointmigration/migrate-to-sharepoint-online): Planning and execution guidance for moving content to SharePoint Online.
+- [Hybrid SharePoint](https://learn.microsoft.com/en-us/sharepoint/hybrid/hybrid): Documentation for hybrid scenarios spanning SharePoint Server and Microsoft 365.
+- [SharePoint Server to Microsoft 365 migration](https://learn.microsoft.com/en-us/sharepointmigration/sharepoint-server-migration-overview): Guidance for migrating on-premises SharePoint Server environments.
+- [Migration Manager](https://learn.microsoft.com/en-us/sharepointmigration/mm-get-started): Use Migration Manager for large-scale content migrations into Microsoft 365.
+
+## Training and Support
+- [Microsoft SharePoint support](https://support.microsoft.com/sharepoint): Official support portal for SharePoint help, troubleshooting, and learning content.
+- [SharePoint video training](https://support.microsoft.com/en-us/office/sharepoint-video-training-cb8ef501-84db-4427-ac77-ec2009fb8e23): Video-based training for common SharePoint tasks and concepts.
+- [Microsoft Learn SharePoint training](https://learn.microsoft.com/en-us/training/browse/?products=sharepoint): Self-paced learning paths and modules for SharePoint skills.
+- [Microsoft 365 adoption center](https://adoption.microsoft.com/en-us/): Adoption resources for Microsoft 365 services including SharePoint.
+- [Microsoft Tech Community SharePoint](https://techcommunity.microsoft.com/t5/sharepoint/ct-p/SharePoint): Community discussions, announcements, and practical guidance from Microsoft and practitioners.

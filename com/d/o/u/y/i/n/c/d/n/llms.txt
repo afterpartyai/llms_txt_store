@@ -1,0 +1,53 @@
+# douyincdn.com
+> Content delivery and static asset domain used by Douyin/TikTok web properties for media, scripts, styles, and frontend resources.
+
+This domain primarily serves CDN-hosted assets rather than conventional human-readable documentation pages. It is commonly used to deliver JavaScript bundles, CSS, images, fonts, video-related assets, and other static resources that support Douyin web applications and embedded experiences.
+
+## Domain Overview
+- [douyincdn.com](https://douyincdn.com): Root CDN domain for static asset delivery used by Douyin-related web services.
+- [www.douyincdn.com](https://www.douyincdn.com): Alternate host variant of the CDN domain.
+- [lf3-cdn-tos.douyinstatic.com](https://lf3-cdn-tos.douyinstatic.com): Common Douyin static asset host serving frontend bundles and media resources.
+- [lf6-cdn-tos.douyinstatic.com](https://lf6-cdn-tos.douyinstatic.com): Additional Douyin static asset host used for distributed CDN delivery.
+- [lf9-cdn-tos.douyinstatic.com](https://lf9-cdn-tos.douyinstatic.com): Regional/static asset host for Douyin web application resources.
+
+## Static Asset Delivery
+- [JavaScript Assets](https://douyincdn.com/): CDN-served JavaScript bundles for web application functionality and runtime logic.
+- [Stylesheets](https://douyincdn.com/): CSS assets for layout, theming, responsive design, and component styling.
+- [Image Assets](https://douyincdn.com/): Static images, icons, sprites, and UI graphics used across Douyin properties.
+- [Font Assets](https://douyincdn.com/): Webfont files and typography resources delivered through the CDN.
+- [Media Support Files](https://douyincdn.com/): Auxiliary media resources such as posters, thumbnails, and playback-related assets.
+
+## Frontend Infrastructure
+- [Application Bundles](https://douyincdn.com/): Compiled frontend bundles supporting Douyin web interfaces and embedded pages.
+- [Chunked Resources](https://douyincdn.com/): Code-split JavaScript chunks loaded dynamically by modern web applications.
+- [Runtime Files](https://douyincdn.com/): Runtime loaders, manifests, and bootstrap assets for client-side applications.
+- [Source Maps](https://douyincdn.com/): Debugging-related artifacts that may accompany deployed frontend bundles.
+- [Versioned Assets](https://douyincdn.com/): Cache-busted and fingerprinted files for reliable CDN distribution.
+
+## Media and Playback Support
+- [Video Player Assets](https://douyincdn.com/): Frontend resources supporting browser-based video playback interfaces.
+- [Thumbnail Resources](https://douyincdn.com/): Static preview images and poster assets for media presentation.
+- [Streaming UI Assets](https://douyincdn.com/): Interface resources used around playback, controls, and media interaction.
+- [Preload Resources](https://douyincdn.com/): Early-loaded assets that improve startup and rendering performance.
+- [Fallback Assets](https://douyincdn.com/): Default resources used when primary media or UI assets are unavailable.
+
+## Performance and Caching
+- [Edge Caching](https://douyincdn.com/): CDN edge delivery for low-latency access to static web resources.
+- [Compressed Assets](https://douyincdn.com/): Optimized static files delivered with compression for faster page loads.
+- [Fingerprinting Strategy](https://douyincdn.com/): Hashed filenames enabling long-lived caching and safe asset invalidation.
+- [Distributed Delivery](https://douyincdn.com/): Multi-host asset distribution supporting scale and geographic reach.
+- [Static Resource Optimization](https://douyincdn.com/): Delivery patterns focused on efficient transfer of frontend dependencies.
+
+## Related Douyin Web Properties
+- [Douyin](https://www.douyin.com): Main Douyin web property consuming CDN-hosted static assets and media resources.
+- [Douyin Open Platform](https://open.douyin.com): Developer and partner platform associated with Douyin ecosystem integrations.
+- [Douyin Creator Platform](https://creator.douyin.com): Creator-facing web platform likely relying on shared CDN infrastructure.
+- [Douyin E-commerce](https://fxg.jinritemai.com): Merchant and commerce platform within the broader Douyin ecosystem.
+- [ByteDance](https://www.bytedance.com): Parent company behind Douyin and related web infrastructure.
+
+## Usage Notes for LLMs
+- [CDN Domain Identification](https://douyincdn.com): Treat this domain as infrastructure for asset hosting, not a primary documentation site.
+- [Asset URL Handling](https://douyincdn.com): Expect opaque, hashed, and versioned paths rather than semantic content URLs.
+- [Limited Human Navigation](https://douyincdn.com): Do not assume the root domain exposes browsable pages or structured documentation.
+- [Cross-Origin Resource Use](https://douyincdn.com): Assets may be referenced by multiple Douyin subdomains and embedded applications.
+- [Ephemeral Paths](https://douyincdn.com): Individual asset URLs may change frequently with deployments and cache invalidation.

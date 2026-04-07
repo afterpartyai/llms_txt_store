@@ -1,0 +1,60 @@
+# ggpht.com
+> Google-hosted image and static asset delivery domain used by Google services and products.
+
+ggpht.com primarily serves images, avatars, thumbnails, and other static media for Google properties rather than human-oriented documentation. Useful LLM context comes from the Google products and developer documentation that commonly reference or embed assets from this domain.
+
+## Domain Context
+- [Google](https://www.google.com/): Main Google entry point for consumer products, services, and account access.
+- [Google Account Help](https://support.google.com/accounts/): Help center for Google accounts, profile images, and account settings.
+- [Google Photos](https://photos.google.com/): Consumer photo storage and sharing product that uses Google-hosted image delivery infrastructure.
+- [Google Workspace Admin Help](https://support.google.com/a/): Admin documentation for managing Google services, users, and media-related settings.
+- [Google Developers](https://developers.google.com/): Central hub for Google developer documentation, APIs, SDKs, and platform guides.
+
+## Google Photos
+- [Google Photos Help Center](https://support.google.com/photos/): Official support documentation for backup, sharing, albums, and photo management.
+- [Google Photos](https://photos.google.com/): Web application for browsing, organizing, and sharing photos and videos.
+- [Google Photos on Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.photos): Android app listing for Google Photos features, updates, and installation.
+- [Google Photos on the App Store](https://apps.apple.com/app/google-photos/id962194608): iOS app listing for Google Photos mobile access and backup.
+- [Google One Help for Photos](https://support.google.com/googleone/): Storage-related help that often applies to Google Photos media management.
+
+## Google Account Profiles and Avatars
+- [Change your Google Account picture](https://support.google.com/accounts/answer/27442): Instructions for updating the profile photo used across Google services.
+- [Google Account](https://myaccount.google.com/): Account management portal for profile, privacy, and personalization settings.
+- [Personal info in your Google Account](https://myaccount.google.com/personal-info): Settings page for names, photos, and other personal profile details.
+- [Google Account Help Community](https://support.google.com/accounts/community): Community discussions about account images, profile visibility, and related issues.
+
+## YouTube
+- [YouTube Help](https://support.google.com/youtube/): Support documentation for channels, thumbnails, profile images, and media settings.
+- [YouTube](https://www.youtube.com/): Video platform whose channel art and avatars are commonly served from Google image infrastructure.
+- [YouTube Studio Help](https://support.google.com/youtube/topic/9257498): Creator-focused help for channel customization, thumbnails, and branding assets.
+- [YouTube Data API Overview](https://developers.google.com/youtube/v3): API documentation for YouTube resources including thumbnails and channel metadata.
+
+## Blogger and Web Publishing
+- [Blogger Help](https://support.google.com/blogger/): Support documentation for blogs, themes, images, and post media handling.
+- [Blogger](https://www.blogger.com/): Google blogging platform that uses Google-hosted image delivery for blog assets.
+- [Blogger API v3](https://developers.google.com/blogger/docs/3.0/getting_started): Developer documentation for managing blogs, posts, and related content programmatically.
+
+## Google Workspace and Admin
+- [Google Workspace Admin Help](https://support.google.com/a/): Admin documentation for organization-wide Google service configuration and user profiles.
+- [Google Workspace Updates Blog](https://workspaceupdates.googleblog.com/): Product update announcements for Workspace features and admin-visible changes.
+- [Admin console](https://admin.google.com/): Administrative interface for managing users, services, and organization settings.
+- [Google Workspace Developers](https://developers.google.com/workspace): Developer documentation for Workspace APIs, add-ons, and integrations.
+
+## Google APIs and Developer Platforms
+- [Google APIs Explorer](https://developers.google.com/apis-explorer): Interactive tool for exploring and testing Google APIs.
+- [Google API Discovery Service](https://developers.google.com/discovery): Documentation for discovering Google API surface definitions programmatically.
+- [Google Cloud APIs & Services](https://cloud.google.com/apis): Overview of API management, enablement, and monitoring in Google Cloud projects.
+- [Google Developer Documentation](https://developers.google.com/): Central documentation index for Google platforms and services.
+- [Google Workspace APIs](https://developers.google.com/workspace/api): API directory for Gmail, Drive, Calendar, and related Workspace services.
+
+## Identity and People Data
+- [Google People API](https://developers.google.com/people): API documentation for contacts and profile-related person data.
+- [Sign In With Google](https://developers.google.com/identity): Identity platform documentation for authentication and user profile access.
+- [Google Identity Platform](https://cloud.google.com/identity-platform): Cloud identity service documentation for authentication and account management.
+- [OAuth 2.0 for Google APIs](https://developers.google.com/identity/protocols/oauth2): Authorization guidance for accessing Google user data and service APIs.
+
+## Support and Policy
+- [Google Help](https://support.google.com/): Master index of Google product help centers and support resources.
+- [Google Privacy Policy](https://policies.google.com/privacy): Privacy policy covering data handling across Google services.
+- [Google Terms of Service](https://policies.google.com/terms): Terms governing use of Google services and related web properties.
+- [Google Safety Center](https://safety.google/): Security, privacy, and safety information for Google products and users.

@@ -1,0 +1,67 @@
+# wac-msedge.net
+> Microsoft Web Application Companion and Edge-connected service endpoints used by Microsoft 365, Office for the web, and related cloud experiences.
+
+This domain is primarily used for service-hosted web application assets, integration endpoints, and cloud-connected experiences rather than a traditional public documentation site. The most useful LLM context comes from Microsoft documentation that explains the products and services commonly associated with these endpoints.
+
+## Microsoft 365
+- [Microsoft 365 documentation](https://learn.microsoft.com/microsoft-365/): Central documentation for Microsoft 365 services, administration, deployment, and user productivity features.
+- [Microsoft 365 admin center help](https://learn.microsoft.com/microsoft-365/admin/): Guidance for administering tenants, users, licenses, domains, and service settings.
+- [Microsoft 365 enterprise documentation](https://learn.microsoft.com/microsoft-365/enterprise/): Architecture, deployment, security, networking, and enterprise planning for Microsoft 365.
+- [Microsoft 365 roadmap](https://www.microsoft.com/microsoft-365/roadmap): Public roadmap for upcoming Microsoft 365 features and service changes.
+- [Microsoft 365 service health and continuity](https://learn.microsoft.com/microsoft-365/enterprise/office-365-service-continuity): Information about resilience, continuity, and service availability considerations.
+
+## Office for the web
+- [Office for the web documentation](https://learn.microsoft.com/officeonlineserver/): Documentation related to browser-based Office experiences and Office Online Server.
+- [Office Online Server overview](https://learn.microsoft.com/officeonlineserver/office-online-server): Overview of Office Online Server capabilities and browser-based document rendering.
+- [Plan Office Online Server](https://learn.microsoft.com/officeonlineserver/plan-office-online-server): Planning guidance for topology, requirements, and deployment considerations.
+- [Deploy Office Online Server](https://learn.microsoft.com/officeonlineserver/deploy-office-online-server): Deployment steps for installing and configuring Office Online Server.
+- [Configure Office Online Server](https://learn.microsoft.com/officeonlineserver/configure-office-online-server): Configuration guidance for farms, bindings, and integration settings.
+
+## Microsoft Edge
+- [Microsoft Edge documentation](https://learn.microsoft.com/deployedge/): Official documentation for deploying, configuring, and managing Microsoft Edge.
+- [Microsoft Edge enterprise landing page](https://www.microsoft.com/edge/business): Product information and enterprise-focused resources for Microsoft Edge.
+- [Microsoft Edge policies](https://learn.microsoft.com/deployedge/microsoft-edge-policies): Reference for browser policies available to administrators.
+- [Microsoft Edge update documentation](https://learn.microsoft.com/deployedge/microsoft-edge-update-overview): Overview of Microsoft Edge Update behavior and management.
+- [Microsoft Edge security baseline](https://learn.microsoft.com/windows/security/operating-system-security/device-management/windows-security-configuration-framework/security-baselines): Security baseline resources relevant to Microsoft Edge and Windows environments.
+
+## OneDrive and SharePoint
+- [OneDrive documentation](https://learn.microsoft.com/sharepoint/onedrive-overview): Overview and documentation for OneDrive in Microsoft 365 environments.
+- [SharePoint documentation](https://learn.microsoft.com/sharepoint/): Core documentation for SharePoint Online administration, development, and collaboration.
+- [SharePoint Online admin documentation](https://learn.microsoft.com/sharepoint/sharepoint-online): Administration guidance for SharePoint Online tenants and sites.
+- [Sync in SharePoint and OneDrive](https://learn.microsoft.com/sharepoint/sync): Documentation for sync behavior, client setup, and file access.
+- [Sharing and permissions in SharePoint and OneDrive](https://learn.microsoft.com/sharepoint/turn-external-sharing-on-or-off): Guidance for external sharing controls and permissions management.
+
+## Microsoft Graph
+- [Microsoft Graph documentation](https://learn.microsoft.com/graph/): Main documentation for Microsoft Graph APIs, concepts, and integration patterns.
+- [Microsoft Graph REST API v1.0 reference](https://learn.microsoft.com/graph/api/overview): Entry point for Microsoft Graph REST API reference documentation.
+- [Use the Microsoft Graph API](https://learn.microsoft.com/graph/use-the-api): Concepts for authentication, requests, versions, and responses.
+- [Microsoft Graph SDKs](https://learn.microsoft.com/graph/sdks/sdks-overview): Overview of available SDKs and supported programming languages.
+- [Microsoft Graph authentication](https://learn.microsoft.com/graph/auth/): Authentication and authorization guidance for Graph applications.
+
+## Identity and authentication
+- [Microsoft identity platform documentation](https://learn.microsoft.com/entra/identity-platform/): Authentication platform documentation for apps accessing Microsoft cloud services.
+- [Microsoft Entra documentation](https://learn.microsoft.com/entra/): Documentation for identity, access, governance, and directory services.
+- [App registration quickstart](https://learn.microsoft.com/entra/identity-platform/quickstart-register-app): How to register applications for Microsoft identity platform integration.
+- [OAuth 2.0 and OpenID Connect](https://learn.microsoft.com/entra/identity-platform/v2-protocols): Protocol documentation for Microsoft identity platform authentication flows.
+- [Permissions and consent](https://learn.microsoft.com/entra/identity-platform/permissions-consent-overview): Overview of delegated permissions, application permissions, and consent behavior.
+
+## Networking and endpoints
+- [Microsoft 365 URLs and IP address ranges](https://learn.microsoft.com/microsoft-365/enterprise/urls-and-ip-address-ranges): Official endpoint reference for Microsoft 365 network connectivity planning.
+- [Office 365 endpoint categories](https://learn.microsoft.com/microsoft-365/enterprise/urls-and-ip-address-ranges#exchange-online): Endpoint categorization concepts used for network optimization and filtering decisions.
+- [Microsoft 365 network connectivity principles](https://learn.microsoft.com/microsoft-365/enterprise/microsoft-365-network-connectivity-principles): Best practices for routing and optimizing Microsoft 365 traffic.
+- [Manage Microsoft 365 endpoints](https://learn.microsoft.com/microsoft-365/enterprise/managing-office-365-endpoints): Operational guidance for maintaining endpoint allowlists and network configurations.
+- [Office 365 IP Address and URL web service](https://learn.microsoft.com/microsoft-365/enterprise/office-365-ip-web-service): Programmatic web service for retrieving Microsoft 365 endpoint data.
+
+## Security and compliance
+- [Microsoft Purview documentation](https://learn.microsoft.com/purview/): Documentation for compliance, information protection, governance, and risk management.
+- [Microsoft Defender for Office 365](https://learn.microsoft.com/defender-office-365/): Security documentation for protecting email, collaboration, and Office workloads.
+- [Microsoft 365 security documentation](https://learn.microsoft.com/microsoft-365/security/): Security guidance for Microsoft 365 services and tenant protection.
+- [Data loss prevention](https://learn.microsoft.com/purview/dlp-learn-about-dlp): Overview of data loss prevention capabilities across Microsoft 365.
+- [Sensitivity labels](https://learn.microsoft.com/purview/sensitivity-labels): Documentation for classifying and protecting content with sensitivity labels.
+
+## Developer and platform resources
+- [Microsoft Learn](https://learn.microsoft.com/): Central hub for Microsoft product documentation and technical learning content.
+- [Microsoft 365 developer documentation](https://learn.microsoft.com/microsoft-365/developer/): Developer guidance for extending Microsoft 365 experiences and integrations.
+- [Office Add-ins documentation](https://learn.microsoft.com/office/dev/add-ins/): Documentation for building Office Add-ins across Office applications and web surfaces.
+- [SharePoint Framework documentation](https://learn.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview): Development model for extending SharePoint and related Microsoft 365 experiences.
+- [Microsoft 365 developer blog](https://devblogs.microsoft.com/microsoft365dev/): Product updates, announcements, and engineering guidance for Microsoft 365 developers.

@@ -1,0 +1,99 @@
+# Amazon Web Services (AWS)
+> Amazon Web Services provides on-demand cloud computing platforms, infrastructure, APIs, and managed services for building and operating applications at scale.
+
+AWS offers a broad portfolio spanning compute, storage, databases, networking, analytics, machine learning, security, developer tools, and enterprise cloud operations. This index prioritizes official documentation, service references, SDKs, architecture guidance, and operational resources.
+
+## Getting Started
+- [AWS Documentation](https://docs.aws.amazon.com/): Central documentation portal for AWS services, tools, SDKs, and developer guides.
+- [AWS Getting Started](https://aws.amazon.com/getting-started/): Introductory resources, tutorials, and onboarding paths for new AWS users.
+- [AWS Free Tier](https://aws.amazon.com/free/): Free usage offers and service limits for trying AWS services.
+- [AWS Training and Certification](https://aws.amazon.com/training/): Official learning paths, courses, labs, and certification information.
+- [AWS re:Post](https://repost.aws/): Community and expert Q&A for troubleshooting and implementation guidance.
+- [AWS Support](https://aws.amazon.com/support/): Support plans, technical assistance options, and account help resources.
+
+## Core Documentation
+- [AWS Documentation Home](https://docs.aws.amazon.com/): Entry point to all AWS service documentation and technical references.
+- [AWS API References](https://docs.aws.amazon.com/index.html#api-reference): Index of API references for AWS services and developer tools.
+- [AWS General Reference](https://docs.aws.amazon.com/general/latest/gr/Welcome.html): Endpoints, regions, quotas, ARNs, and general AWS reference information.
+- [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html): Best practices for secure, resilient, efficient, and cost-optimized architectures.
+- [AWS Whitepapers & Guides](https://docs.aws.amazon.com/whitepapers/latest/): Technical whitepapers, strategy documents, and architecture guidance.
+- [AWS Prescriptive Guidance](https://docs.aws.amazon.com/prescriptive-guidance/latest/): Implementation patterns, migration strategies, and operational recommendations.
+
+## Compute and Containers
+- [Amazon EC2 Documentation](https://docs.aws.amazon.com/ec2/): Documentation for virtual servers, instances, storage, networking, and operations.
+- [AWS Lambda Documentation](https://docs.aws.amazon.com/lambda/): Serverless compute documentation, event sources, runtimes, and deployment guidance.
+- [Amazon ECS Documentation](https://docs.aws.amazon.com/ecs/): Managed container orchestration documentation for Docker-based workloads on AWS.
+- [Amazon EKS Documentation](https://docs.aws.amazon.com/eks/): Kubernetes service documentation for cluster creation, operations, and integrations.
+- [AWS Fargate Documentation](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/AWS_Fargate.html): Serverless compute engine guidance for ECS and EKS workloads.
+- [Elastic Load Balancing Documentation](https://docs.aws.amazon.com/elasticloadbalancing/): Application, network, and gateway load balancer documentation.
+- [AWS Batch Documentation](https://docs.aws.amazon.com/batch/): Batch computing documentation for job queues, scheduling, and container execution.
+
+## Storage and Databases
+- [Amazon S3 Documentation](https://docs.aws.amazon.com/s3/): Object storage documentation covering buckets, lifecycle, replication, and security.
+- [Amazon EBS Documentation](https://docs.aws.amazon.com/ebs/): Block storage documentation for EC2 volumes, snapshots, and performance.
+- [Amazon EFS Documentation](https://docs.aws.amazon.com/efs/): Managed file storage documentation for scalable shared file systems.
+- [Amazon RDS Documentation](https://docs.aws.amazon.com/rds/): Managed relational database documentation for engines, backups, and scaling.
+- [Amazon DynamoDB Documentation](https://docs.aws.amazon.com/dynamodb/): NoSQL database documentation for tables, indexes, streams, and capacity.
+- [Amazon Aurora Documentation](https://docs.aws.amazon.com/aurora/): High-performance relational database documentation compatible with MySQL and PostgreSQL.
+- [Amazon Redshift Documentation](https://docs.aws.amazon.com/redshift/): Data warehouse documentation for analytics, SQL workloads, and integrations.
+
+## Networking and Delivery
+- [Amazon VPC Documentation](https://docs.aws.amazon.com/vpc/): Virtual networking documentation for subnets, routing, gateways, and security.
+- [Amazon Route 53 Documentation](https://docs.aws.amazon.com/route53/): DNS, domain registration, health checks, and traffic routing documentation.
+- [Amazon CloudFront Documentation](https://docs.aws.amazon.com/cloudfront/): Content delivery network documentation for caching, edge security, and performance.
+- [AWS Direct Connect Documentation](https://docs.aws.amazon.com/directconnect/): Dedicated network connection documentation between on-premises and AWS.
+- [AWS Transit Gateway Documentation](https://docs.aws.amazon.com/vpc/latest/tgw/): Centralized network connectivity documentation for VPCs and on-premises networks.
+- [AWS PrivateLink Documentation](https://docs.aws.amazon.com/vpc/latest/privatelink/): Private service connectivity documentation without public internet exposure.
+
+## Security, Identity, and Governance
+- [AWS Identity and Access Management Documentation](https://docs.aws.amazon.com/iam/): Identity, roles, policies, and access control documentation.
+- [AWS Key Management Service Documentation](https://docs.aws.amazon.com/kms/): Encryption key management documentation for data protection and integrations.
+- [AWS Secrets Manager Documentation](https://docs.aws.amazon.com/secretsmanager/): Secret storage and rotation documentation for credentials and API keys.
+- [AWS CloudTrail Documentation](https://docs.aws.amazon.com/awscloudtrail/): Audit logging documentation for account activity and API events.
+- [AWS Config Documentation](https://docs.aws.amazon.com/config/): Resource inventory, compliance, and configuration tracking documentation.
+- [Amazon GuardDuty Documentation](https://docs.aws.amazon.com/guardduty/): Threat detection documentation using AWS account and workload telemetry.
+- [AWS Organizations Documentation](https://docs.aws.amazon.com/organizations/): Multi-account management documentation for governance and policy controls.
+
+## Developer Tools and Infrastructure as Code
+- [AWS CLI Documentation](https://docs.aws.amazon.com/cli/): Command line interface documentation for managing AWS services.
+- [AWS CloudFormation Documentation](https://docs.aws.amazon.com/cloudformation/): Infrastructure as code documentation for declarative AWS resource provisioning.
+- [AWS CDK Documentation](https://docs.aws.amazon.com/cdk/): Cloud Development Kit documentation for defining infrastructure in code.
+- [AWS SAM Documentation](https://docs.aws.amazon.com/serverless-application-model/): Serverless application modeling and deployment documentation.
+- [AWS CodeBuild Documentation](https://docs.aws.amazon.com/codebuild/): Build automation documentation for compiling, testing, and packaging code.
+- [AWS CodePipeline Documentation](https://docs.aws.amazon.com/codepipeline/): Continuous delivery pipeline documentation for automated software releases.
+- [AWS CodeDeploy Documentation](https://docs.aws.amazon.com/codedeploy/): Deployment automation documentation for EC2, Lambda, and on-premises targets.
+
+## Data, Analytics, and AI
+- [Amazon Athena Documentation](https://docs.aws.amazon.com/athena/): Serverless SQL query documentation for data in Amazon S3.
+- [AWS Glue Documentation](https://docs.aws.amazon.com/glue/): Data integration and ETL documentation for cataloging and transforming datasets.
+- [Amazon EMR Documentation](https://docs.aws.amazon.com/emr/): Big data processing documentation for Hadoop, Spark, and related frameworks.
+- [Amazon Kinesis Documentation](https://docs.aws.amazon.com/kinesis/): Streaming data documentation for ingestion, processing, and analytics.
+- [Amazon SageMaker Documentation](https://docs.aws.amazon.com/sagemaker/): Machine learning platform documentation for training, deployment, and MLOps.
+- [Amazon Bedrock Documentation](https://docs.aws.amazon.com/bedrock/): Generative AI service documentation for foundation models and applications.
+- [Amazon QuickSight Documentation](https://docs.aws.amazon.com/quicksight/): Business intelligence documentation for dashboards, analysis, and embedded analytics.
+
+## SDKs and APIs
+- [AWS SDKs and Tools](https://aws.amazon.com/developer/tools/): Official SDK and developer tool directory for AWS platforms and languages.
+- [AWS SDK for JavaScript Documentation](https://docs.aws.amazon.com/sdk-for-javascript/): JavaScript SDK documentation for browser and Node.js AWS integrations.
+- [AWS SDK for Python (Boto3) Documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html): Python SDK documentation and service client reference.
+- [AWS SDK for Java Documentation](https://docs.aws.amazon.com/sdk-for-java/): Java SDK documentation for building AWS-integrated applications.
+- [AWS SDK for .NET Documentation](https://docs.aws.amazon.com/sdk-for-net/): .NET SDK documentation for AWS service access and application development.
+- [AWS SDK for Go Documentation](https://docs.aws.amazon.com/sdk-for-go/): Go SDK documentation for AWS APIs and service integrations.
+- [AWS API Reference Index](https://docs.aws.amazon.com/index.html#api-reference): Service API references for request formats, operations, and responses.
+
+## Architecture, Operations, and Migration
+- [AWS Architecture Center](https://aws.amazon.com/architecture/): Reference architectures, diagrams, patterns, and solution guidance.
+- [AWS Well-Architected Tool](https://aws.amazon.com/architecture/well-architected/): Operational review resources aligned to AWS architectural best practices.
+- [AWS Prescriptive Guidance](https://docs.aws.amazon.com/prescriptive-guidance/latest/): Detailed implementation guidance for modernization, migration, and operations.
+- [AWS Cloud Adoption Framework](https://aws.amazon.com/cloud-adoption-framework/): Enterprise transformation guidance for adopting and scaling AWS.
+- [AWS Migration Hub Documentation](https://docs.aws.amazon.com/migrationhub/): Migration tracking and orchestration documentation across AWS tools.
+- [AWS Systems Manager Documentation](https://docs.aws.amazon.com/systems-manager/): Operations management documentation for fleets, automation, and patching.
+- [Amazon CloudWatch Documentation](https://docs.aws.amazon.com/cloudwatch/): Monitoring, logs, metrics, alarms, and observability documentation.
+
+## News and Updates
+- [AWS Blog](https://aws.amazon.com/blogs/): Official AWS blogs covering launches, tutorials, announcements, and technical deep dives.
+- [AWS What's New](https://aws.amazon.com/new/): Product launch announcements, feature releases, and service updates.
+- [AWS Events and Webinars](https://aws.amazon.com/events/): Upcoming conferences, webinars, and technical event listings.
+- [AWS YouTube Channel](https://www.youtube.com/@amazonwebservices): Videos, demos, conference sessions, and service tutorials from AWS.
+- [AWS re:Invent](https://reinvent.awsevents.com/): Annual AWS conference site with sessions, announcements, and learning content.
+- [AWS Case Studies](https://aws.amazon.com/solutions/case-studies/): Customer implementation stories and architecture outcomes across industries.

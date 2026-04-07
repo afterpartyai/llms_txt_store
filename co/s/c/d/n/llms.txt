@@ -1,0 +1,53 @@
+# scdn.co
+> Spotify’s content delivery domain serving static web assets, media files, and application resources for Spotify clients.
+
+This domain primarily hosts CDN-backed assets rather than human-authored documentation. Useful context comes from stable asset namespaces used by Spotify’s web player, design system, support surfaces, and developer-facing web applications.
+
+## Core Asset Domains
+- [Root](https://scdn.co/): Base CDN domain for Spotify-hosted static assets and media delivery.
+- [Images](https://scdn.co/images/): Common namespace for Spotify web image assets and illustrations.
+- [Resources](https://scdn.co/static/): Static asset namespace used by Spotify web applications.
+- [Downloadable Assets](https://scdn.co/cdn/): CDN-backed path prefix used for versioned application resources.
+
+## Web Player Assets
+- [Web Player](https://open.spotify.com/): Spotify’s browser-based music player that consumes assets from scdn.co.
+- [Open Spotify Static Assets](https://open.scdn.co/): Dedicated static asset host for Spotify’s web player frontend.
+- [Favicon Asset](https://open.scdn.co/cdn/images/favicon.0f31d2ea.ico): Web player favicon served from Spotify’s static CDN.
+- [Open Graph Image](https://open.scdn.co/cdn/images/og-image.548bc4b7.png): Social preview image used by Spotify web properties.
+
+## Branding and Design Assets
+- [Spotify Logo Assets](https://scdn.co/images/spotify-logo.png): Commonly referenced Spotify logo image asset.
+- [Spotify Icon Assets](https://scdn.co/images/spotify-icon-white.png): White Spotify icon asset for dark-background usage.
+- [Brand Imagery](https://scdn.co/images/): Shared image directory for logos, icons, and promotional graphics.
+- [Developer Branding Context](https://developer.spotify.com/branding-guidelines): Official branding guidance related to Spotify asset usage.
+
+## Support and Consumer Web Surfaces
+- [Spotify Support](https://support.spotify.com/): Help center whose web experience may reference shared Spotify CDN assets.
+- [Spotify Account](https://www.spotify.com/account/): Account management surface using Spotify-hosted frontend resources.
+- [Spotify Download](https://www.spotify.com/download/): Desktop and mobile app download page with static media assets.
+- [Spotify Premium](https://www.spotify.com/premium/): Subscription information page backed by Spotify web asset pipelines.
+
+## Developer Platform Context
+- [Spotify for Developers](https://developer.spotify.com/): Main developer portal for APIs, SDKs, and integration guides.
+- [Web API Reference](https://developer.spotify.com/documentation/web-api): Reference documentation for Spotify’s public Web API.
+- [Web Playback SDK](https://developer.spotify.com/documentation/web-playback-sdk): Browser playback SDK documentation related to Spotify web experiences.
+- [iOS SDK](https://developer.spotify.com/documentation/ios): Native iOS integration documentation for Spotify apps.
+- [Android SDK](https://developer.spotify.com/documentation/android): Native Android integration documentation for Spotify apps.
+
+## Platform Documentation
+- [Authorization Guide](https://developer.spotify.com/documentation/web-api/concepts/authorization): OAuth concepts for accessing Spotify APIs securely.
+- [Rate Limits](https://developer.spotify.com/documentation/web-api/concepts/rate-limits): Guidance on request throttling and API usage limits.
+- [Scopes](https://developer.spotify.com/documentation/web-api/concepts/scopes): Permission scopes required for Spotify API access.
+- [Player Endpoints](https://developer.spotify.com/documentation/web-api/reference/#category-player): API endpoints for controlling playback and devices.
+
+## Open Access and Embedded Experiences
+- [Spotify Embed](https://developer.spotify.com/documentation/embeds): Documentation for embedding Spotify content in websites.
+- [Open Graph / Sharing Surface](https://open.spotify.com/): Public content pages for tracks, albums, playlists, and artists.
+- [Spotify Codes](https://www.spotifycodes.com/): Spotify’s visual code-sharing experience for music and podcast content.
+- [Podcast and Music Sharing](https://www.spotify.com/us/brand-center/): Brand-related resources relevant to shared Spotify visual assets.
+
+## Company and Product Surfaces
+- [Spotify Home](https://www.spotify.com/): Main consumer-facing Spotify website.
+- [About Spotify](https://www.spotify.com/about-us/): Corporate overview and company information.
+- [Newsroom](https://newsroom.spotify.com/): Official announcements, product news, and company updates.
+- [Careers](https://www.lifeatspotify.com/): Hiring and culture site for Spotify roles worldwide.

@@ -1,0 +1,63 @@
+# xCal
+> xCal is an AI-powered scheduling assistant that helps users book meetings through natural language and conversational workflows.
+
+xCal provides calendar scheduling, booking links, team availability, routing, and integrations for individuals and organizations. Its site includes product pages, documentation, API references, integrations, and company resources.
+
+## Product
+- [Home](https://xcal.tv/): Overview of xCal’s AI scheduling platform and core booking capabilities.
+- [Features](https://xcal.tv/features): Summary of scheduling, automation, and calendar management functionality.
+- [AI Scheduling Assistant](https://xcal.tv/ai-scheduling-assistant): Product page for conversational AI-based meeting scheduling.
+- [Booking Links](https://xcal.tv/booking-links): Information about shareable scheduling pages for individuals and teams.
+- [Team Scheduling](https://xcal.tv/team-scheduling): Overview of collaborative scheduling and team availability coordination.
+- [Routing Forms](https://xcal.tv/routing-forms): Details on qualifying and routing invitees to the right meeting type.
+
+## Documentation
+- [Docs Home](https://docs.xcal.tv/): Main documentation portal for setup, usage, and platform capabilities.
+- [Getting Started](https://docs.xcal.tv/getting-started): Introductory guide for setting up xCal and creating scheduling workflows.
+- [User Guide](https://docs.xcal.tv/user-guide): Documentation for everyday scheduling, booking, and calendar management tasks.
+- [Admin Guide](https://docs.xcal.tv/admin-guide): Guidance for workspace administration, permissions, and organizational settings.
+- [Troubleshooting](https://docs.xcal.tv/troubleshooting): Help for resolving common setup, sync, and scheduling issues.
+
+## API & Developers
+- [Developer Portal](https://docs.xcal.tv/developers): Entry point for developers building with xCal APIs and integrations.
+- [API Reference](https://docs.xcal.tv/api-reference): Reference documentation for xCal endpoints, requests, and responses.
+- [Authentication](https://docs.xcal.tv/developers/authentication): Details on API authentication and secure access patterns.
+- [Webhooks](https://docs.xcal.tv/developers/webhooks): Information on subscribing to scheduling events and webhook payloads.
+- [Rate Limits](https://docs.xcal.tv/developers/rate-limits): Usage limits and best practices for reliable API consumption.
+
+## Integrations
+- [Integrations Overview](https://xcal.tv/integrations): Directory of supported calendar, conferencing, and workflow integrations.
+- [Google Calendar](https://xcal.tv/integrations/google-calendar): Integration details for syncing availability and events with Google Calendar.
+- [Microsoft Outlook](https://xcal.tv/integrations/outlook): Information on connecting Outlook calendars for scheduling and event management.
+- [Zoom](https://xcal.tv/integrations/zoom): Details on automatically creating Zoom meetings for booked events.
+- [Slack](https://xcal.tv/integrations/slack): Overview of Slack notifications and workflow integration options.
+- [Zapier](https://xcal.tv/integrations/zapier): Automation integration for connecting xCal with external apps and processes.
+
+## Guides
+- [Guides Home](https://docs.xcal.tv/guides): Collection of practical tutorials and workflow examples for xCal users.
+- [Set Up Your First Booking Page](https://docs.xcal.tv/guides/first-booking-page): Step-by-step guide to creating and publishing a booking page.
+- [Connect Your Calendar](https://docs.xcal.tv/guides/connect-calendar): Instructions for linking external calendars and syncing availability.
+- [Create Team Scheduling Workflows](https://docs.xcal.tv/guides/team-workflows): Tutorial for configuring round-robin and pooled team scheduling.
+- [Use Routing Forms](https://docs.xcal.tv/guides/routing-forms): Guide to building forms that qualify and direct meeting requests.
+- [Embed xCal on Your Website](https://docs.xcal.tv/guides/embed): Instructions for embedding booking experiences into external sites.
+
+## SDKs & Tools
+- [SDKs Overview](https://docs.xcal.tv/sdks): Overview of available client libraries and developer tooling.
+- [JavaScript SDK](https://docs.xcal.tv/sdks/javascript): Documentation for integrating xCal using JavaScript applications.
+- [Node.js SDK](https://docs.xcal.tv/sdks/nodejs): Server-side SDK reference for Node.js implementations.
+- [Python SDK](https://docs.xcal.tv/sdks/python): Python library documentation for interacting with xCal services.
+- [Postman Collection](https://docs.xcal.tv/tools/postman): Ready-made API requests for testing and exploring xCal endpoints.
+
+## Resources
+- [Blog](https://xcal.tv/blog): Articles, announcements, and educational content about scheduling and productivity.
+- [Help Center](https://docs.xcal.tv/help-center): Support-oriented documentation and answers to common user questions.
+- [Changelog](https://xcal.tv/changelog): Product updates, feature releases, and platform improvement notes.
+- [Status](https://status.xcal.tv/): Service health, uptime information, and incident reporting.
+- [Contact](https://xcal.tv/contact): Contact options for sales, support, and general inquiries.
+
+## Company
+- [About](https://xcal.tv/about): Background information about xCal, its mission, and company story.
+- [Careers](https://xcal.tv/careers): Open roles and information about working at xCal.
+- [Partners](https://xcal.tv/partners): Partnership opportunities and ecosystem collaboration information.
+- [Privacy Policy](https://xcal.tv/privacy): Privacy practices, data handling policies, and user rights information.
+- [Terms of Service](https://xcal.tv/terms): Legal terms governing use of the xCal platform and services.

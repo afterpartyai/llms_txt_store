@@ -1,0 +1,76 @@
+# .NET
+> .NET is a developer platform with tools, libraries, and runtimes for building web, cloud, desktop, mobile, gaming, IoT, and AI applications.
+
+Microsoft's .NET site provides product documentation, downloads, language guides, cloud-native architecture guidance, API references, and learning resources for the .NET ecosystem.
+
+## Getting Started
+- [.NET Home](https://dotnet.microsoft.com/): Main entry point for the .NET platform, products, downloads, and learning resources.
+- [Download .NET](https://dotnet.microsoft.com/download): Download the latest .NET SDK and runtimes for supported platforms.
+- [Download .NET 8.0](https://dotnet.microsoft.com/download/dotnet/8.0): Installers, binaries, and release information for .NET 8.
+- [Download .NET 9.0](https://dotnet.microsoft.com/download/dotnet/9.0): Installers, binaries, and release information for .NET 9.
+- [What is .NET?](https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet): Overview of the .NET platform, runtimes, languages, and workloads.
+- [Get Started with .NET](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/intro): Introductory tutorial for creating and running a first .NET app.
+
+## Documentation
+- [.NET Documentation](https://learn.microsoft.com/dotnet/): Central documentation hub for .NET concepts, tutorials, and references.
+- [.NET Fundamentals](https://learn.microsoft.com/dotnet/fundamentals/): Core concepts, runtime behavior, libraries, and application fundamentals.
+- [.NET Architecture Guides](https://learn.microsoft.com/dotnet/architecture/): Reference architectures and design guidance for modern .NET applications.
+- [.NET Standard](https://learn.microsoft.com/dotnet/standard/net-standard): Specification and compatibility guidance for .NET Standard.
+- [.NET CLI Overview](https://learn.microsoft.com/dotnet/core/tools/): Command-line tooling reference for building, testing, and publishing .NET apps.
+- [.NET Compatibility](https://learn.microsoft.com/dotnet/core/compatibility/): Breaking changes and compatibility notes across .NET releases.
+
+## Languages
+- [C# Documentation](https://learn.microsoft.com/dotnet/csharp/): Language guide, tutorials, and reference for C# developers.
+- [C# Language Reference](https://learn.microsoft.com/dotnet/csharp/language-reference/): Syntax, keywords, operators, and language feature reference.
+- [F# Documentation](https://learn.microsoft.com/dotnet/fsharp/): Language guide, tutorials, and reference for F# developers.
+- [Visual Basic Documentation](https://learn.microsoft.com/dotnet/visual-basic/): Language guide and reference for Visual Basic on .NET.
+- [C# Tour](https://learn.microsoft.com/dotnet/csharp/tour-of-csharp/): Guided introduction to core C# language concepts and syntax.
+- [Choose a .NET Language](https://dotnet.microsoft.com/languages): Overview of supported .NET languages and their strengths.
+
+## Application Frameworks
+- [ASP.NET Core](https://learn.microsoft.com/aspnet/core/): Documentation for building web apps, APIs, and services with ASP.NET Core.
+- [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor): Product overview and resources for interactive web UI with Blazor.
+- [Windows Forms](https://learn.microsoft.com/dotnet/desktop/winforms/): Documentation for building Windows desktop apps with WinForms.
+- [WPF](https://learn.microsoft.com/dotnet/desktop/wpf/): Documentation for building Windows desktop apps with Windows Presentation Foundation.
+- [.NET MAUI](https://learn.microsoft.com/dotnet/maui/): Documentation for building cross-platform native apps with .NET MAUI.
+- [ML.NET](https://learn.microsoft.com/dotnet/machine-learning/): Documentation for machine learning development in .NET applications.
+
+## Cloud and Architecture
+- [.NET Microservices Architecture](https://learn.microsoft.com/dotnet/architecture/microservices/): End-to-end guidance for building microservices with .NET and containers.
+- [Cloud-Native with .NET](https://learn.microsoft.com/dotnet/architecture/cloud-native/): Architecture guidance for resilient cloud-native .NET applications.
+- [Containerize a .NET App](https://learn.microsoft.com/dotnet/core/docker/build-container): Build and package .NET applications into Docker containers.
+- [Orleans Documentation](https://learn.microsoft.com/dotnet/orleans/): Virtual actor framework documentation for distributed .NET applications.
+- [Azure for .NET Developers](https://learn.microsoft.com/azure/developer/dotnet/): Azure development guidance, SDKs, and tutorials for .NET.
+- [Worker Services in .NET](https://learn.microsoft.com/dotnet/core/extensions/workers): Build long-running background services using .NET worker templates.
+
+## API and Reference
+- [.NET API Browser](https://learn.microsoft.com/dotnet/api/): API reference for .NET libraries, namespaces, types, and members.
+- [.NET Runtime API Reference](https://learn.microsoft.com/dotnet/api/?view=net-9.0): Browse APIs for the latest .NET target framework.
+- [NuGet Documentation](https://learn.microsoft.com/nuget/): Package management documentation for .NET libraries and applications.
+- [MSBuild Reference](https://learn.microsoft.com/visualstudio/msbuild/msbuild): Build system documentation for .NET and Visual Studio projects.
+- [C# Coding Conventions](https://learn.microsoft.com/dotnet/csharp/fundamentals/coding-style/coding-conventions): Recommended style conventions for writing readable C# code.
+- [Source Generators](https://learn.microsoft.com/dotnet/csharp/roslyn-sdk/source-generators-overview): Overview of C# source generators and compile-time code generation.
+
+## Tools and SDKs
+- [Visual Studio for .NET](https://dotnet.microsoft.com/en-us/platform/visual-studio): IDE tooling and workflows for .NET development in Visual Studio.
+- [Visual Studio Code and .NET](https://code.visualstudio.com/docs/languages/dotnet): Use VS Code for editing, debugging, and running .NET applications.
+- [.NET SDK](https://learn.microsoft.com/dotnet/core/sdk): SDK overview, commands, versioning, and installation guidance.
+- [.NET CLI Reference](https://learn.microsoft.com/dotnet/core/tools/): Command reference for creating, building, testing, and publishing apps.
+- [dotnet new Templates](https://learn.microsoft.com/dotnet/core/tools/dotnet-new): Create projects and files from installed .NET templates.
+- [dotnet publish](https://learn.microsoft.com/dotnet/core/tools/dotnet-publish): Publish .NET applications for deployment to target environments.
+
+## Tutorials and Learn
+- [.NET Learn Hub](https://dotnet.microsoft.com/learn): Curated learning paths, tutorials, videos, and beginner resources.
+- [Build a Web API with ASP.NET Core](https://learn.microsoft.com/aspnet/core/tutorials/first-web-api): Step-by-step tutorial for creating a first ASP.NET Core Web API.
+- [Create a Console App](https://learn.microsoft.com/dotnet/core/tutorials/with-visual-studio-code): Tutorial for creating and running a .NET console application.
+- [Dependency Injection in .NET](https://learn.microsoft.com/dotnet/core/extensions/dependency-injection): Learn the built-in dependency injection patterns used across .NET apps.
+- [Configuration in .NET](https://learn.microsoft.com/dotnet/core/extensions/configuration): Learn configuration providers, binding, and options patterns in .NET.
+- [Logging in .NET](https://learn.microsoft.com/dotnet/core/extensions/logging): Learn structured logging abstractions and providers for .NET applications.
+
+## Community and Support
+- [.NET Blog](https://devblogs.microsoft.com/dotnet/): Official announcements, release notes, deep dives, and engineering updates.
+- [.NET Support Policy](https://dotnet.microsoft.com/platform/support/policy/dotnet-core): Lifecycle and support policy for supported .NET releases.
+- [.NET on GitHub](https://github.com/dotnet): Open-source repositories for the .NET platform, libraries, and tooling.
+- [.NET Foundation](https://dotnetfoundation.org/): Independent organization supporting the .NET open-source ecosystem.
+- [Contribute to .NET Docs](https://learn.microsoft.com/contribute/content/dotnet/dotnet-contribute): Guidance for contributing improvements to .NET documentation.
+- [Install Support and Troubleshooting](https://learn.microsoft.com/dotnet/core/install/): Installation guidance and troubleshooting for .NET SDKs and runtimes.

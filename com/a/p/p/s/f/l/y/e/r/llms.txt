@@ -1,0 +1,76 @@
+# AppsFlyer
+> Modern marketing cloud for measurement, deep linking, data collaboration, analytics, and fraud protection across mobile, web, CTV, PC, and console.
+
+AppsFlyer helps marketers unify attribution, customer experience, analytics, privacy-safe collaboration, and optimization workflows across digital channels and devices.
+
+## Core Platform
+- [AppsFlyer Home](https://www.appsflyer.com/): Main entry point for AppsFlyer’s marketing cloud platform and product navigation.
+- [Products](https://www.appsflyer.com/products/): Overview of AppsFlyer product suites for measurement, deep linking, analytics, and privacy.
+- [Solutions](https://www.appsflyer.com/solutions/): Solution pages organized by use case, industry, and business objective.
+- [Resources](https://www.appsflyer.com/resources/): Central hub for reports, guides, webinars, and educational content.
+- [Login](https://hq1.appsflyer.com/auth/login): Sign-in page for the AppsFlyer platform dashboard.
+
+## Measurement Suite
+- [Measurement Suite](https://www.appsflyer.com/products/measurement/): Overview of attribution, analytics, ROI, incrementality, and optimization capabilities.
+- [Mobile Attribution](https://www.appsflyer.com/products/measurement/mobile-attribution/): Attribution for mobile app installs, re-engagement, and campaign performance measurement.
+- [CTV Attribution](https://www.appsflyer.com/products/measurement/ctv-attribution/): Measurement for connected TV campaigns and cross-device conversion impact.
+- [PC & Console Attribution](https://www.appsflyer.com/products/measurement/pc-console-attribution/): Attribution for gaming and marketing performance across PC and console environments.
+- [Cross-Platform Measurement](https://www.appsflyer.com/products/measurement/cross-platform-measurement/): Unified measurement across mobile, web, CTV, and additional digital touchpoints.
+- [ROI Measurement](https://www.appsflyer.com/products/measurement/roi-measurement/): Tools for connecting spend, revenue, and business outcomes to marketing activity.
+- [Marketing Analytics](https://www.appsflyer.com/products/measurement/marketing-analytics/): Analytics for campaign performance, trends, and decision-making across channels.
+- [Incrementality](https://www.appsflyer.com/products/measurement/incrementality/): Testing and analysis tools to measure true lift from marketing campaigns.
+
+## Optimization and Protection
+- [Creative Optimization](https://www.appsflyer.com/products/measurement/creative-optimization/): Analyze creative performance to improve campaign effectiveness and asset selection.
+- [Audience Segmentation](https://www.appsflyer.com/products/measurement/audience-segmentation/): Build and activate audience segments for targeting and personalization workflows.
+- [Fraud Protection](https://www.appsflyer.com/products/measurement/fraud-protection/): Detect and prevent ad fraud affecting attribution and campaign performance.
+- [Product Analytics](https://www.appsflyer.com/products/product-analytics/): Product and user behavior analytics for retention, engagement, and growth insights.
+
+## Deep Linking Suite
+- [Deep Linking Suite](https://www.appsflyer.com/products/deep-linking/): Overview of deep linking tools for seamless app journeys and conversion flows.
+- [Web-to-App](https://www.appsflyer.com/products/deep-linking/web-to-app/): Convert mobile web visitors into app users with contextual app experiences.
+- [QR-to-App](https://www.appsflyer.com/products/deep-linking/qr-to-app/): Use QR codes to drive users into relevant in-app destinations.
+- [Email-to-App](https://www.appsflyer.com/products/deep-linking/email-to-app/): Connect email campaigns to personalized app landing and engagement experiences.
+- [Text-to-App](https://www.appsflyer.com/products/deep-linking/text-to-app/): Drive SMS recipients into app flows with deep linked destinations.
+
+## Solutions
+- [Solutions Overview](https://www.appsflyer.com/solutions/): Browse AppsFlyer solutions by channel, team, and business challenge.
+- [Mobile App Marketing](https://www.appsflyer.com/solutions/mobile-app-marketing/): Solutions for acquiring, measuring, and retaining mobile app users.
+- [Gaming](https://www.appsflyer.com/solutions/gaming/): Measurement and growth solutions tailored to game publishers and studios.
+- [eCommerce](https://www.appsflyer.com/solutions/ecommerce/): Attribution and analytics for retail, shopping, and omnichannel growth teams.
+- [Subscription Apps](https://www.appsflyer.com/solutions/subscription-apps/): Tools for optimizing acquisition, retention, and subscriber lifetime value.
+- [Agencies](https://www.appsflyer.com/solutions/agencies/): Measurement and reporting workflows for agencies managing client campaigns.
+
+## Documentation
+- [Developer Hub](https://dev.appsflyer.com/): Central documentation portal for SDKs, APIs, integration guides, and technical references.
+- [iOS SDK](https://dev.appsflyer.com/hc/docs/ios-sdk-reference): Technical reference and integration guidance for the AppsFlyer iOS SDK.
+- [Android SDK](https://dev.appsflyer.com/hc/docs/android-sdk-reference): Technical reference and implementation details for the Android SDK.
+- [React Native SDK](https://dev.appsflyer.com/hc/docs/react-native-plugin): Integration guide for using AppsFlyer with React Native applications.
+- [Unity SDK](https://dev.appsflyer.com/hc/docs/unity-plugin): Plugin documentation for integrating AppsFlyer into Unity-based apps and games.
+- [Flutter SDK](https://dev.appsflyer.com/hc/docs/flutter-plugin): Setup and usage documentation for AppsFlyer in Flutter projects.
+- [Server-to-Server APIs](https://dev.appsflyer.com/hc/docs/apis): Reference material for AppsFlyer APIs and server-side integrations.
+- [OneLink Deep Linking](https://dev.appsflyer.com/hc/docs/dl_android_init_setup): Developer documentation for implementing AppsFlyer deep linking flows.
+
+## APIs and Data
+- [API Documentation](https://dev.appsflyer.com/hc/docs/apis): Overview of available AppsFlyer APIs and integration patterns.
+- [Pull API](https://dev.appsflyer.com/hc/docs/pull-api): Retrieve attribution and performance data programmatically from AppsFlyer.
+- [Push API](https://dev.appsflyer.com/hc/docs/push-api): Configure event-driven data delivery from AppsFlyer to external systems.
+- [Master API](https://dev.appsflyer.com/hc/docs/master-api-getting-started): Access aggregated reporting data through AppsFlyer’s reporting APIs.
+- [Raw Data Export](https://dev.appsflyer.com/hc/docs/raw-data-export): Export granular attribution and event data for analysis and warehousing.
+- [SKAN Conversion Studio](https://dev.appsflyer.com/hc/docs/skadnetwork): Documentation for SKAdNetwork measurement and conversion value configuration.
+
+## Guides and Learning
+- [Resources](https://www.appsflyer.com/resources/): Collection of reports, ebooks, webinars, and educational materials.
+- [Blog](https://www.appsflyer.com/blog/): Articles on attribution, privacy, growth, analytics, and industry trends.
+- [Glossary](https://www.appsflyer.com/glossary/): Definitions of mobile marketing, attribution, and measurement terminology.
+- [Customer Stories](https://www.appsflyer.com/customers/): Case studies showing how brands use AppsFlyer to improve outcomes.
+- [Performance Index](https://www.appsflyer.com/resources/reports/appsflyer-performance-index/): Industry benchmark report on media source performance and app marketing trends.
+- [MAMA](https://www.appsflyer.com/resources/reports/mobile-app-marketing-state-of-the-app/): Research and benchmark content on the state of app marketing.
+
+## Company and Trust
+- [About](https://www.appsflyer.com/company/about/): Company background, mission, and overview of AppsFlyer as a business.
+- [Careers](https://www.appsflyer.com/company/careers/): Open roles and information about working at AppsFlyer.
+- [Partners](https://www.appsflyer.com/company/partners/): Partner ecosystem for media, technology, and service integrations.
+- [Privacy](https://www.appsflyer.com/legal/privacy-policy/): Privacy policy describing data handling and user privacy commitments.
+- [Security](https://www.appsflyer.com/security/): Information about AppsFlyer’s security practices and trust posture.
+- [Legal](https://www.appsflyer.com/legal/): Legal policies, terms, and compliance-related documentation.

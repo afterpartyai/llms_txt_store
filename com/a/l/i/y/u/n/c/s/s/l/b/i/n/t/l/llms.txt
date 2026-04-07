@@ -1,0 +1,80 @@
+# Alibaba Cloud Server Load Balancer
+> Alibaba Cloud’s international documentation and product pages for Server Load Balancer, including CLB, NLB, ALB, APIs, and operational guides.
+
+This site provides product documentation for Alibaba Cloud load balancing services on the international site, covering feature overviews, getting started material, API references, user guides, pricing, and related networking integrations.
+
+## Product Overview
+- [Server Load Balancer](https://www.alibabacloud.com/product/server-load-balancer): Product overview for Alibaba Cloud load balancing services and core capabilities.
+- [Application Load Balancer](https://www.alibabacloud.com/product/alb): Overview of Layer 7 load balancing for HTTP, HTTPS, and QUIC workloads.
+- [Network Load Balancer](https://www.alibabacloud.com/product/network-load-balancer): Overview of high-performance Layer 4 load balancing for TCP and UDP traffic.
+- [Classic Load Balancer](https://www.alibabacloud.com/product/slb): Overview of traditional Alibaba Cloud load balancing for general-purpose scenarios.
+- [Elastic IP Address](https://www.alibabacloud.com/product/eip): Public IP service commonly used with load balancing deployments.
+- [Virtual Private Cloud](https://www.alibabacloud.com/product/vpc): Core networking service used to build isolated environments for load balancers.
+
+## Server Load Balancer Documentation
+- [Server Load Balancer Documentation](https://www.alibabacloud.com/help/en/slb): Main documentation hub for Server Load Balancer on the international site.
+- [What is Server Load Balancer?](https://www.alibabacloud.com/help/en/slb/product-overview/what-is-server-load-balancer): Introduction to Server Load Balancer concepts, editions, and use cases.
+- [Benefits](https://www.alibabacloud.com/help/en/slb/product-overview/benefits): Summary of key advantages and service capabilities.
+- [Features](https://www.alibabacloud.com/help/en/slb/product-overview/features): Feature overview for traffic distribution, availability, and protocol support.
+- [Release Notes](https://www.alibabacloud.com/help/en/slb/release-notes): Product updates, feature releases, and service changes.
+- [FAQ](https://www.alibabacloud.com/help/en/slb/faq): Frequently asked questions about configuration, billing, and operations.
+
+## Application Load Balancer Docs
+- [ALB Documentation](https://www.alibabacloud.com/help/en/slb/application-load-balancer): Documentation hub for Application Load Balancer.
+- [What is ALB?](https://www.alibabacloud.com/help/en/slb/application-load-balancer/product-overview/what-is-alb): Introduction to Application Load Balancer architecture and scenarios.
+- [Get Started with ALB](https://www.alibabacloud.com/help/en/slb/application-load-balancer/getting-started): Entry point for creating and configuring ALB resources.
+- [Listeners](https://www.alibabacloud.com/help/en/slb/application-load-balancer/user-guide/listeners): Guidance on configuring HTTP and HTTPS listeners.
+- [Server Groups](https://www.alibabacloud.com/help/en/slb/application-load-balancer/user-guide/server-groups): How to manage backend server groups for ALB.
+- [Routing Rules](https://www.alibabacloud.com/help/en/slb/application-load-balancer/user-guide/routing-rules): Configure forwarding rules based on hostnames and URL paths.
+- [Certificates](https://www.alibabacloud.com/help/en/slb/application-load-balancer/user-guide/certificates): Manage TLS certificates for secure HTTPS traffic.
+
+## Network Load Balancer Docs
+- [NLB Documentation](https://www.alibabacloud.com/help/en/slb/network-load-balancer): Documentation hub for Network Load Balancer.
+- [What is NLB?](https://www.alibabacloud.com/help/en/slb/network-load-balancer/product-overview/what-is-nlb): Introduction to Layer 4 load balancing and high-throughput scenarios.
+- [Get Started with NLB](https://www.alibabacloud.com/help/en/slb/network-load-balancer/getting-started): Setup guidance for creating and using NLB instances.
+- [Listeners](https://www.alibabacloud.com/help/en/slb/network-load-balancer/user-guide/listeners): Configure TCP and UDP listeners for NLB traffic handling.
+- [Server Groups](https://www.alibabacloud.com/help/en/slb/network-load-balancer/user-guide/server-groups): Manage backend targets and health check associations.
+- [Health Checks](https://www.alibabacloud.com/help/en/slb/network-load-balancer/user-guide/health-checks): Configure backend health monitoring for NLB services.
+- [Zonal Deployment](https://www.alibabacloud.com/help/en/slb/network-load-balancer/user-guide/zonal-deployment): Guidance on multi-zone deployment and availability design.
+
+## Classic Load Balancer Docs
+- [CLB Documentation](https://www.alibabacloud.com/help/en/slb/classic-load-balancer): Documentation hub for Classic Load Balancer.
+- [What is CLB?](https://www.alibabacloud.com/help/en/slb/classic-load-balancer/product-overview/what-is-clb): Introduction to Classic Load Balancer and supported scenarios.
+- [Get Started with CLB](https://www.alibabacloud.com/help/en/slb/classic-load-balancer/getting-started): Initial setup instructions for CLB instances and listeners.
+- [Listeners](https://www.alibabacloud.com/help/en/slb/classic-load-balancer/user-guide/listeners): Configure Layer 4 and Layer 7 listeners for CLB.
+- [Backend Servers](https://www.alibabacloud.com/help/en/slb/classic-load-balancer/user-guide/backend-servers): Add and manage backend ECS instances for CLB.
+- [Health Checks](https://www.alibabacloud.com/help/en/slb/classic-load-balancer/user-guide/health-checks): Configure health checks to monitor backend availability.
+- [Access Control](https://www.alibabacloud.com/help/en/slb/classic-load-balancer/user-guide/access-control): Manage ACLs and traffic access policies for CLB.
+
+## API Reference
+- [SLB API Reference](https://www.alibabacloud.com/help/en/slb/developer-reference/api-overview): Overview of API operations for Server Load Balancer services.
+- [ALB API Reference](https://www.alibabacloud.com/help/en/slb/application-load-balancer/developer-reference): API operations for managing ALB resources and configurations.
+- [NLB API Reference](https://www.alibabacloud.com/help/en/slb/network-load-balancer/developer-reference): API operations for provisioning and operating NLB instances.
+- [CLB API Reference](https://www.alibabacloud.com/help/en/slb/classic-load-balancer/developer-reference): API operations for Classic Load Balancer management.
+- [OpenAPI Explorer](https://api.alibabacloud.com/): Interactive API explorer for Alibaba Cloud services and SDK generation.
+- [Alibaba Cloud SDK](https://www.alibabacloud.com/help/en/sdk): SDK documentation for calling Alibaba Cloud APIs programmatically.
+
+## User Guides and Operations
+- [Getting Started](https://www.alibabacloud.com/help/en/slb/getting-started): Entry point for first-time SLB deployment and configuration tasks.
+- [User Guide](https://www.alibabacloud.com/help/en/slb/user-guide): Operational guidance for managing load balancer resources.
+- [Best Practices](https://www.alibabacloud.com/help/en/slb/best-practices): Recommended architectures and operational patterns for SLB services.
+- [Troubleshooting](https://www.alibabacloud.com/help/en/slb/troubleshooting): Diagnostic guidance for common load balancing issues.
+- [Billing](https://www.alibabacloud.com/help/en/slb/billing-overview): Billing models, metering, and pricing-related documentation.
+- [Limits](https://www.alibabacloud.com/help/en/slb/limits): Service quotas, limits, and resource constraints.
+- [Terms](https://www.alibabacloud.com/help/en/slb/service-linked-roles): Service-linked roles and permission-related operational requirements.
+
+## Integration and Related Services
+- [Web Application Firewall](https://www.alibabacloud.com/product/web-application-firewall): Security service commonly deployed in front of web applications and ALB.
+- [Anti-DDoS](https://www.alibabacloud.com/product/anti-ddos): DDoS protection service for internet-facing applications and endpoints.
+- [Cloud Monitor](https://www.alibabacloud.com/product/cloudmonitor): Monitoring and alerting service for load balancer metrics and health.
+- [Elastic Compute Service](https://www.alibabacloud.com/product/ecs): Compute instances frequently used as backend servers behind load balancers.
+- [Container Service for Kubernetes](https://www.alibabacloud.com/product/kubernetes): Managed Kubernetes service that integrates with Alibaba Cloud load balancers.
+- [PrivateLink](https://www.alibabacloud.com/product/privatelink): Private connectivity service relevant to internal application architectures.
+
+## Pricing and Purchase
+- [Server Load Balancer Pricing](https://www.alibabacloud.com/pricing/product/server-load-balancer): Pricing information for Server Load Balancer offerings.
+- [ALB Pricing](https://www.alibabacloud.com/pricing/product/alb): Pricing details for Application Load Balancer resources and usage.
+- [NLB Pricing](https://www.alibabacloud.com/pricing/product/network-load-balancer): Pricing details for Network Load Balancer instances and traffic.
+- [CLB Pricing](https://www.alibabacloud.com/pricing/product/slb): Pricing details for Classic Load Balancer usage.
+- [Free Trial](https://www.alibabacloud.com/campaign/free-trial): Trial offers that may include networking and load balancing services.
+- [Pricing Calculator](https://www.alibabacloud.com/pricing-calculator): Estimate costs for Alibaba Cloud infrastructure and networking services.

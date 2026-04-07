@@ -1,0 +1,67 @@
+# Akamai DNS (akadns.net)
+> Akamai’s DNS and traffic management platform documentation, covering Edge DNS, GTM, APIs, and operational guidance.
+
+This site provides technical documentation and reference material for managing authoritative DNS, global traffic steering, zone configuration, reporting, and related Akamai control plane workflows.
+
+## Documentation Home
+- [Akamai TechDocs Home](https://techdocs.akamai.com/): Entry point for Akamai product documentation and technical references.
+- [Edge DNS](https://techdocs.akamai.com/edge-dns/docs): Product documentation for authoritative DNS configuration, records, and zone management.
+- [Global Traffic Management](https://techdocs.akamai.com/gtm/docs): Documentation for DNS-based traffic steering, liveness tests, and mapping rules.
+- [Akamai APIs](https://techdocs.akamai.com/home/page/apis): Central index for Akamai API documentation and references.
+- [Control Center Help](https://techdocs.akamai.com/home/page/control-center-help): Guidance for using Akamai Control Center administrative workflows.
+
+## Edge DNS Guides
+- [Get Started with Edge DNS](https://techdocs.akamai.com/edge-dns/docs/get-started): Overview of Edge DNS concepts, setup, and initial configuration tasks.
+- [Zones](https://techdocs.akamai.com/edge-dns/docs/zones): Manage DNS zones, delegation, activation, and lifecycle operations.
+- [Recordsets](https://techdocs.akamai.com/edge-dns/docs/recordsets): Configure and maintain supported DNS record types within zones.
+- [Zone Transfers](https://techdocs.akamai.com/edge-dns/docs/zone-transfers): Set up inbound and outbound DNS zone transfer workflows.
+- [DNSSEC](https://techdocs.akamai.com/edge-dns/docs/dnssec): Enable and manage DNSSEC signing and chain-of-trust settings.
+- [TSIG Keys](https://techdocs.akamai.com/edge-dns/docs/tsig-keys): Create and manage TSIG authentication for zone transfers and updates.
+- [Reports](https://techdocs.akamai.com/edge-dns/docs/reports): Review DNS query reporting and analytics capabilities.
+
+## Edge DNS API
+- [Edge DNS API](https://techdocs.akamai.com/edge-dns/reference/api): API reference for automating Edge DNS zones, records, and reporting.
+- [Zones API](https://techdocs.akamai.com/edge-dns/reference/get-zones): Retrieve and manage DNS zones programmatically.
+- [Recordsets API](https://techdocs.akamai.com/edge-dns/reference/get-zone-recordsets): List and update recordsets for a zone through the API.
+- [Zone Transfers API](https://techdocs.akamai.com/edge-dns/reference/post-zone-transfer): Configure zone transfer operations using API endpoints.
+- [DNSSEC API](https://techdocs.akamai.com/edge-dns/reference/get-zone-dnssec): Inspect and manage DNSSEC settings for zones.
+- [TSIG Keys API](https://techdocs.akamai.com/edge-dns/reference/get-tsig-keys): Manage TSIG keys used for authenticated DNS operations.
+
+## GTM Guides
+- [Get Started with GTM](https://techdocs.akamai.com/gtm/docs/get-started): Introduction to GTM properties, domains, and traffic management concepts.
+- [Domains](https://techdocs.akamai.com/gtm/docs/domains): Configure GTM domains and their authoritative traffic management settings.
+- [Properties](https://techdocs.akamai.com/gtm/docs/properties): Define GTM properties for DNS responses and request routing.
+- [Datacenters](https://techdocs.akamai.com/gtm/docs/datacenters): Manage datacenter definitions, weights, and failover behavior.
+- [Liveness Tests](https://techdocs.akamai.com/gtm/docs/liveness-tests): Configure health checks used to determine endpoint availability.
+- [Maps](https://techdocs.akamai.com/gtm/docs/maps): Build geographic and performance-based traffic steering maps.
+- [Resources](https://techdocs.akamai.com/gtm/docs/resources): Manage GTM resources associated with properties and datacenters.
+
+## GTM API
+- [GTM API](https://techdocs.akamai.com/gtm/reference/api): API reference for automating GTM domains, properties, and health checks.
+- [Domains API](https://techdocs.akamai.com/gtm/reference/get-domains): Retrieve and manage GTM domains programmatically.
+- [Properties API](https://techdocs.akamai.com/gtm/reference/get-properties): Access GTM property configuration through REST endpoints.
+- [Datacenters API](https://techdocs.akamai.com/gtm/reference/get-datacenters): Manage GTM datacenter definitions and related metadata.
+- [Liveness Tests API](https://techdocs.akamai.com/gtm/reference/get-liveness-tests): Automate GTM health check configuration and inspection.
+- [Maps API](https://techdocs.akamai.com/gtm/reference/get-maps): Create and update GTM maps for traffic steering logic.
+
+## Common Akamai APIs and Tooling
+- [Authentication](https://techdocs.akamai.com/developer/docs/authenticate-with-edgegrid): Learn how to authenticate Akamai API requests with EdgeGrid.
+- [API Client Tokens](https://techdocs.akamai.com/control-center/docs/manage-api-client-tokens): Manage API credentials and client authorization in Control Center.
+- [CLI](https://techdocs.akamai.com/developer/docs/cli): Use the Akamai CLI for local automation and operational workflows.
+- [OPEN EdgeGrid for Java](https://techdocs.akamai.com/developer/docs/java): Java libraries and examples for Akamai API integrations.
+- [OPEN EdgeGrid for Python](https://techdocs.akamai.com/developer/docs/python): Python libraries and examples for Akamai API integrations.
+- [Terraform Provider](https://techdocs.akamai.com/terraform/docs): Infrastructure-as-code workflows for Akamai configuration management.
+
+## Control Center and Administration
+- [Control Center Help](https://techdocs.akamai.com/home/page/control-center-help): Product administration and UI workflow documentation for Akamai users.
+- [Identity and Access Management](https://techdocs.akamai.com/control-center/docs/identity-access-management): Manage users, groups, roles, and account permissions.
+- [Manage API Client Tokens](https://techdocs.akamai.com/control-center/docs/manage-api-client-tokens): Create and maintain API credentials for automation use cases.
+- [Notifications](https://techdocs.akamai.com/control-center/docs/notifications): Configure account and product notifications in Control Center.
+- [Account Administration](https://techdocs.akamai.com/control-center/docs/account-admin): Administrative tasks for account-level configuration and governance.
+
+## Learning and Support
+- [Akamai Community](https://community.akamai.com/): Community discussions, knowledge sharing, and peer support for Akamai products.
+- [TechDocs Search](https://techdocs.akamai.com/search): Search across Akamai technical documentation and API references.
+- [Release Notes](https://techdocs.akamai.com/home/page/release-notes): Product and documentation release updates across Akamai services.
+- [Developer Documentation](https://techdocs.akamai.com/developer/docs): Cross-product developer guides, tooling, and integration resources.
+- [Akamai Support](https://support.akamai.com/): Official support portal for cases, service requests, and operational assistance.

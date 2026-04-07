@@ -1,0 +1,76 @@
+# ByteFCDN Oversea
+> Global content delivery and edge acceleration platform documentation for ByteFCDN overseas services.
+
+This site provides product documentation, API references, operational guides, and troubleshooting resources for ByteFCDN overseas offerings, including CDN, media delivery, edge security, and related cloud acceleration capabilities.
+
+## Getting Started
+- [Documentation Home](https://docs.byteplus.com/en/docs/bytefcdn): Entry point for ByteFCDN product documentation and navigation.
+- [Product Overview](https://docs.byteplus.com/en/docs/bytefcdn/docs-overview): Overview of ByteFCDN capabilities, architecture, and core use cases.
+- [Getting Started](https://docs.byteplus.com/en/docs/bytefcdn/getting-started): Initial setup steps for enabling and configuring ByteFCDN services.
+- [Quick Start](https://docs.byteplus.com/en/docs/bytefcdn/quick-start): Fast path to create a distribution and begin acceleration.
+- [Release Notes](https://docs.byteplus.com/en/docs/bytefcdn/release-notes): Product updates, feature releases, and documentation changes.
+
+## Console and Account Management
+- [Accessing the Console](https://docs.byteplus.com/en/docs/bytefcdn/accessing-the-console): How to sign in and navigate the ByteFCDN management console.
+- [Permissions and Roles](https://docs.byteplus.com/en/docs/bytefcdn/permissions-and-roles): Manage IAM permissions and role-based access for ByteFCDN resources.
+- [Billing Overview](https://docs.byteplus.com/en/docs/bytefcdn/billing-overview): Pricing, billing dimensions, and chargeable resource concepts.
+- [Resource Management](https://docs.byteplus.com/en/docs/bytefcdn/resource-management): Organize, view, and maintain acceleration resources in the console.
+- [Tag Management](https://docs.byteplus.com/en/docs/bytefcdn/tag-management): Use tags to classify and manage CDN resources efficiently.
+
+## Domains and Acceleration Configuration
+- [Add a Domain Name](https://docs.byteplus.com/en/docs/bytefcdn/add-a-domain-name): Create a new accelerated domain and configure its origin.
+- [Origin Configuration](https://docs.byteplus.com/en/docs/bytefcdn/origin-configuration): Configure origin servers, host headers, and origin pull behavior.
+- [CNAME Configuration](https://docs.byteplus.com/en/docs/bytefcdn/cname-configuration): Point your domain to ByteFCDN using the assigned CNAME.
+- [HTTPS Configuration](https://docs.byteplus.com/en/docs/bytefcdn/https-configuration): Enable TLS certificates and secure content delivery over HTTPS.
+- [Cache Configuration](https://docs.byteplus.com/en/docs/bytefcdn/cache-configuration): Define cache rules, TTL policies, and content freshness behavior.
+- [Access Control](https://docs.byteplus.com/en/docs/bytefcdn/access-control): Restrict requests using referer, IP, URL signing, and related controls.
+- [Performance Optimization](https://docs.byteplus.com/en/docs/bytefcdn/performance-optimization): Tune acceleration settings for latency, throughput, and cache hit ratio.
+
+## Security and Protection
+- [Security Overview](https://docs.byteplus.com/en/docs/bytefcdn/security-overview): Summary of ByteFCDN security features and protection mechanisms.
+- [HTTPS Certificates](https://docs.byteplus.com/en/docs/bytefcdn/https-certificates): Upload, manage, and rotate certificates for accelerated domains.
+- [URL Signing](https://docs.byteplus.com/en/docs/bytefcdn/url-signing): Protect private content with signed URL authentication.
+- [IP Allowlist and Blocklist](https://docs.byteplus.com/en/docs/bytefcdn/ip-allowlist-and-blocklist): Control access by permitting or denying client IP ranges.
+- [Referer Protection](https://docs.byteplus.com/en/docs/bytefcdn/referer-protection): Prevent hotlinking by validating HTTP referer headers.
+- [DDoS and Edge Protection](https://docs.byteplus.com/en/docs/bytefcdn/ddos-and-edge-protection): Mitigate malicious traffic and improve edge security posture.
+
+## Media Delivery and Streaming
+- [Media Acceleration Overview](https://docs.byteplus.com/en/docs/bytefcdn/media-acceleration-overview): Overview of media delivery scenarios supported by ByteFCDN.
+- [Video on Demand Acceleration](https://docs.byteplus.com/en/docs/bytefcdn/video-on-demand-acceleration): Optimize delivery for on-demand video playback workloads.
+- [Live Streaming Acceleration](https://docs.byteplus.com/en/docs/bytefcdn/live-streaming-acceleration): Configure low-latency and scalable live stream distribution.
+- [HTTP-FLV and HLS Delivery](https://docs.byteplus.com/en/docs/bytefcdn/http-flv-and-hls-delivery): Deliver common streaming protocols through the CDN edge.
+- [Range Requests and Large File Delivery](https://docs.byteplus.com/en/docs/bytefcdn/range-requests-and-large-file-delivery): Improve transfer efficiency for large media objects.
+
+## API and OpenAPI Reference
+- [API Overview](https://docs.byteplus.com/en/docs/bytefcdn/api-overview): Introduction to ByteFCDN OpenAPI usage, endpoints, and authentication.
+- [API Authentication](https://docs.byteplus.com/en/docs/bytefcdn/api-authentication): Sign requests and authorize API access securely.
+- [OpenAPI Reference](https://docs.byteplus.com/en/docs/bytefcdn/openapi): Complete API reference for ByteFCDN operations and parameters.
+- [Create Domain](https://docs.byteplus.com/en/docs/bytefcdn/create-domain): API operation for creating an accelerated domain.
+- [List Domains](https://docs.byteplus.com/en/docs/bytefcdn/list-domains): API operation for querying configured acceleration domains.
+- [Update Domain Configuration](https://docs.byteplus.com/en/docs/bytefcdn/update-domain-configuration): API operation for modifying domain settings programmatically.
+- [Purge Cache](https://docs.byteplus.com/en/docs/bytefcdn/purge-cache): API operation for cache invalidation and content refresh.
+- [Query Metrics](https://docs.byteplus.com/en/docs/bytefcdn/query-metrics): API operation for retrieving traffic and performance statistics.
+
+## Monitoring, Logs, and Analytics
+- [Monitoring Overview](https://docs.byteplus.com/en/docs/bytefcdn/monitoring-overview): Understand available monitoring dimensions and observability features.
+- [Traffic Statistics](https://docs.byteplus.com/en/docs/bytefcdn/traffic-statistics): View bandwidth, requests, and traffic usage metrics.
+- [Performance Metrics](https://docs.byteplus.com/en/docs/bytefcdn/performance-metrics): Analyze latency, cache hit ratio, and response performance.
+- [Log Management](https://docs.byteplus.com/en/docs/bytefcdn/log-management): Access, export, and manage CDN access logs.
+- [Real-Time Monitoring](https://docs.byteplus.com/en/docs/bytefcdn/real-time-monitoring): Track near real-time operational indicators for accelerated domains.
+- [Alerting and Notifications](https://docs.byteplus.com/en/docs/bytefcdn/alerting-and-notifications): Configure alarms for traffic anomalies and service events.
+
+## Operations and Troubleshooting
+- [Common Issues](https://docs.byteplus.com/en/docs/bytefcdn/common-issues): Troubleshooting guidance for frequent configuration and delivery problems.
+- [Cache Troubleshooting](https://docs.byteplus.com/en/docs/bytefcdn/cache-troubleshooting): Diagnose cache misses, stale content, and invalidation issues.
+- [HTTPS Troubleshooting](https://docs.byteplus.com/en/docs/bytefcdn/https-troubleshooting): Resolve certificate, TLS handshake, and HTTPS access problems.
+- [Origin Pull Troubleshooting](https://docs.byteplus.com/en/docs/bytefcdn/origin-pull-troubleshooting): Investigate origin connectivity, timeout, and response errors.
+- [Error Codes](https://docs.byteplus.com/en/docs/bytefcdn/error-codes): Reference for common API and service error codes.
+- [Best Practices](https://docs.byteplus.com/en/docs/bytefcdn/best-practices): Recommended operational patterns for secure and efficient delivery.
+
+## Related BytePlus Resources
+- [BytePlus Documentation Home](https://docs.byteplus.com/en/): Main portal for BytePlus product documentation.
+- [BytePlus API Reference](https://docs.byteplus.com/en/api-docs): Central API documentation across BytePlus services.
+- [SDK Overview](https://docs.byteplus.com/en/docs/sdk): Overview of available SDKs for BytePlus APIs.
+- [IAM Documentation](https://docs.byteplus.com/en/docs/iam): Identity and access management documentation for account permissions.
+- [Billing Center Documentation](https://docs.byteplus.com/en/docs/billing): Billing and cost management documentation across BytePlus products.
+- [Support Center](https://docs.byteplus.com/en/docs/support): Support channels, ticketing, and service assistance resources.

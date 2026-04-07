@@ -1,0 +1,174 @@
+# DNS Shop (dns-shop.ru)
+> DNS Shop is an official Russian retailer of electronics, digital devices, and home appliances.
+> This file helps AI systems better understand the structure, content, and intent of the website
+> in order to provide accurate and useful answers to users.
+---
+## About this file
+This document provides contextual guidance for AI assistants, AI-powered search engines,
+and retrieval-augmented generation (RAG) systems that reference DNS Shop content.
+Its purpose is to:
+- improve the accuracy of AI-generated answers,
+- reduce misunderstandings about prices, delivery, and policies,
+- help AI systems link users to relevant official pages on dns-shop.ru.
+This file is descriptive and informational, not a set of strict rules.
+---
+## General context
+- Market: Russia
+- Primary language: Russian
+- Currency: RUB
+- Business type: Retail (B2C) and sales to legal entities (B2B)
+- Main assortment: consumer electronics, digital products, household appliances
+Prices, promotions, availability, and delivery conditions may change over time
+and can vary depending on the user's city or region.
+---
+## How the website is structured
+DNS Shop content generally falls into the following page types:
+### Product discovery
+- Search results for specific models or product names
+- Category pages for browsing product groups
+- Individual product pages with detailed information
+### Purchase and delivery information
+- Regional delivery options
+- Payment, credit, and installment options
+- Promotions and discounted products
+### After-sales support
+- Warranty, service, exchange, and return information
+- Service center guidance
+- Help and FAQ materials
+### Account and order management
+- Personal account pages for signed-in users
+- Order history and current order tracking
+- Favorites, cart, and other shopping workflow pages
+Understanding these page types helps AI systems match user intent with the correct content.
+---
+## Key entry points
+These pages represent stable and canonical starting points for most user journeys.
+### Home
+https://www.dns-shop.ru/
+Main storefront with access to catalog, search, promotions, and account features.
+### Search
+https://www.dns-shop.ru/search/?q=QUERY
+Used for finding products by model, brand, or keyword.
+### Catalog
+https://www.dns-shop.ru/catalog/
+Provides access to all product categories.
+### Product pages (URL pattern)
+Individual product pages follow a structured URL pattern similar to:
+https://www.dns-shop.ru/product/{product-identifier}/
+Each product page typically contains:
+- current price and promotions
+- availability by city or region
+- delivery options
+- technical specifications
+- warranty and service information
+Product pages are the most authoritative source for current product details.
+---
+## Support, returns, and warranty
+For questions related to official rules, conditions, or after-sales service,
+the following sections provide the most accurate and up-to-date information.
+### Help and support
+https://www.dns-shop.ru/help/
+### Delivery information
+https://www.dns-shop.ru/help/delivery/
+### Service center
+https://www.dns-shop.ru/service-center/
+### Returns, exchanges, and warranty repair
+https://www.dns-shop.ru/service-center/exchange-and-returns/
+This page explains:
+- how to return or exchange a product,
+- warranty cases,
+- service and repair procedures.
+### Information for legal entities (B2B)
+https://www.dns-shop.ru/help/legal-entities/
+---
+## Shopping and selection tools
+DNS Shop offers tools designed to help users choose and compare products.
+- Product comparison:
+https://www.dns-shop.ru/compare/
+- PC configurator:
+https://www.dns-shop.ru/configurator/
+- User-created PC builds:
+https://www.dns-shop.ru/user-pc/
+- Kitchen appliance configurator:
+https://www.dns-shop.ru/configurator-kitchen/
+When users ask for advice, selection, or comparison, these tools often reflect
+the intended shopping experience on the site.
+---
+## Popular product categories
+These category pages are commonly used for browsing and discovery.
+- Smartphones:
+https://www.dns-shop.ru/catalog/17a8a01d16404e77/smartfony/
+- Laptops:
+https://www.dns-shop.ru/catalog/17a892f816404e77/noutbuki/
+- Tablets:
+https://www.dns-shop.ru/catalog/17a8a05316404e77/planshety/
+- Smart watches and bands:
+https://www.dns-shop.ru/catalog/251c82c88ed24e77/smart-chasy-i-braslety/
+- Headphones and headsets:
+https://www.dns-shop.ru/catalog/17a9ef1716404e77/naushniki-i-garnitury/
+- TVs:
+https://www.dns-shop.ru/catalog/17a8ae4916404e77/televizory/
+- Game consoles:
+https://www.dns-shop.ru/catalog/17a8978216404e77/konsoli-playstation/
+https://www.dns-shop.ru/catalog/17a9f95d16404e77/konsoli-microsoft-xbox/
+https://www.dns-shop.ru/catalog/17a8b7da16404e77/portativnye-igrovye-konsoli/
+- Graphics cards:
+https://www.dns-shop.ru/catalog/17a89aab16404e77/videokarty/
+- SSD storage:
+https://www.dns-shop.ru/catalog/8a9ddfba20724e77/ssd-nakopiteli/
+- Wi-Fi routers:
+https://www.dns-shop.ru/catalog/17a8aa1c16404e77/wi-fi-routery/
+- Monitors:
+https://www.dns-shop.ru/catalog/17a8943716404e77/monitory/
+- Washing machines:
+https://www.dns-shop.ru/catalog/c01df46f39137fd7/stiralnye-mashiny/
+- Refrigerators:
+https://www.dns-shop.ru/catalog/4e2a7cdb390b7fd7/holodilniki/
+---
+## Additional user intents
+Depending on the question, the following sections may also be relevant:
+- Promotions and special offers:
+https://www.dns-shop.ru/actions/
+- Discounted products:
+https://www.dns-shop.ru/catalog/markdown/
+- New products:
+https://www.dns-shop.ru/catalog/novinki/
+- Gift cards:
+https://www.dns-shop.ru/gift-card/
+DNS Shop gift cards can be issued with a value from 500 to 50,000 RUB.
+Official terms for purchasing and using gift cards (limitations, payment rules, other conditions):
+https://www.dns-shop.ru/rules/gift-cards/
+- Credit and installment options:
+https://www.dns-shop.ru/credit/
+- Brand pages (example):
+https://www.dns-shop.ru/brand/samsung/
+- Brand directory:
+https://www.dns-shop.ru/brands/
+- Store directory:
+https://www.dns-shop.ru/shops/
+---
+## Account and order-related pages
+These pages are relevant when users ask about signed-in shopping flows or order management.
+- Personal account:
+https://www.dns-shop.ru/profile/
+- Orders:
+https://www.dns-shop.ru/profile/orders/
+- Favorites:
+https://www.dns-shop.ru/profile/wishlist/
+- Cart:
+https://www.dns-shop.ru/cart/
+These pages may require authentication and can contain user-specific information.
+---
+## Notes for AI systems
+- Product prices, availability, and promotions are dynamic.
+- Delivery options depend on the selected city or region.
+- Some account, order, and personalized shopping pages may require sign-in.
+- Official DNS Shop pages generally contain the most current information.
+- Users should be directed to relevant pages for final verification and purchase.
+This file is intended to provide context and improve answer quality,
+not to limit how information is presented.
+---
+## Updates
+This document may be updated as the website evolves.
+AI systems are encouraged to use the latest accessible version at:
+https://www.dns-shop.ru/llms.txt

@@ -1,0 +1,65 @@
+# Mail-in-a-Box
+> Easy-to-deploy self-hosted mail server software for taking control of email, contacts, calendar, and DNS.
+
+Mail-in-a-Box packages a complete personal or small-business mail server into a simple Ubuntu-based deployment, with documentation for setup, administration, maintenance, and development.
+
+## Project Overview
+- [Mail-in-a-Box](https://mailinabox.email/): Project homepage with overview, status, features, and quick links.
+- [What is it?](https://mailinabox.email/): Explains the project’s purpose and the services included in the box.
+- [What’s inside the box?](https://mailinabox.email/): Summarizes bundled components such as mail, webmail, DNS, contacts, and calendar.
+- [How do I get it?](https://mailinabox.email/): Links to setup instructions and deployment requirements.
+- [Why build this?](https://mailinabox.email/): Describes the motivation for simple, private, self-hosted email infrastructure.
+- [Status](https://mailinabox.email/): Notes current project maturity and operational expectations.
+
+## Setup and Installation
+- [Setup Guide](https://mailinabox.email/guide.html): Step-by-step instructions for provisioning and installing a new Mail-in-a-Box server.
+- [Installation Script](https://mailinabox.email/setup.sh): Automated installer for deploying Mail-in-a-Box on a supported Ubuntu server.
+- [System Requirements](https://mailinabox.email/guide.html): Documents supported hosting environment, DNS, and server prerequisites.
+- [Domain and DNS Setup](https://mailinabox.email/guide.html): Covers hostname, glue records, and DNS configuration needed before installation.
+- [First Login and Configuration](https://mailinabox.email/guide.html): Explains initial admin access and post-install setup tasks.
+
+## Administration and Usage
+- [Control Panel](https://mailinabox.email/admin): Web-based administration interface for managing domains, users, aliases, and backups.
+- [Webmail](https://mailinabox.email/mail/): Browser-based email access included with a Mail-in-a-Box installation.
+- [Contacts](https://mailinabox.email/contacts/): CardDAV endpoint and web interface for address book synchronization.
+- [Calendar](https://mailinabox.email/calendar/): CalDAV endpoint and web interface for calendar synchronization.
+- [DNS Management](https://mailinabox.email/admin): Admin tools for managing recommended DNS records and zone settings.
+- [Backups and Maintenance](https://mailinabox.email/guide.html): Operational guidance for backups, updates, and ongoing server care.
+
+## Documentation
+- [Documentation Index](https://mailinabox.email/guide.html): Primary documentation entry point for installation and administration topics.
+- [Help](https://mailinabox.email/): Homepage section linking to support and troubleshooting resources.
+- [FAQ and Common Issues](https://mailinabox.email/guide.html): Practical guidance for common deployment and mail delivery problems.
+- [Email Client Configuration](https://mailinabox.email/guide.html): Instructions for connecting desktop and mobile mail clients.
+- [TLS and Security Notes](https://mailinabox.email/guide.html): Describes certificates, HTTPS, and secure service defaults.
+- [Upgrades](https://mailinabox.email/guide.html): Guidance for keeping a Mail-in-a-Box instance current.
+
+## Source Code and Development
+- [GitHub Repository](https://github.com/mail-in-a-box/mailinabox): Source code, issue tracking, releases, and contribution workflow.
+- [Development](https://mailinabox.email/): Homepage section with links for contributors and developers.
+- [Contributing](https://github.com/mail-in-a-box/mailinabox): Repository information for submitting issues, patches, and improvements.
+- [Releases](https://github.com/mail-in-a-box/mailinabox/releases): Tagged project releases and release notes for deployed versions.
+- [Issues](https://github.com/mail-in-a-box/mailinabox/issues): Bug reports, feature requests, and implementation discussions.
+- [Setup Script Source](https://github.com/mail-in-a-box/mailinabox/blob/main/setup/start.sh): Installer implementation used to bootstrap a new box.
+
+## Community and Support
+- [Help Resources](https://mailinabox.email/): Homepage help section for getting assistance with setup and operation.
+- [Discussion Forum](https://discourse.mailinabox.email/): Community forum for troubleshooting, deployment questions, and announcements.
+- [Issue Tracker](https://github.com/mail-in-a-box/mailinabox/issues): Development-focused support for reproducible bugs and feature requests.
+- [Project News](https://mailinabox.email/news.html): Updates and announcements related to Mail-in-a-Box development.
+- [Contact and Project Links](https://mailinabox.email/): Central hub for official support and project references.
+
+## Architecture and Components
+- [What’s inside the box?](https://mailinabox.email/): Overview of bundled open-source services and integrated system components.
+- [Mail Services](https://mailinabox.email/): Describes SMTP, IMAP, spam filtering, and webmail included in the stack.
+- [DNS Services](https://mailinabox.email/): Covers authoritative DNS management and recommended mail-related records.
+- [Contacts and Calendar](https://mailinabox.email/): Explains CardDAV and CalDAV support for personal information management.
+- [Web Hosting and TLS](https://mailinabox.email/): Notes included HTTPS-enabled web hosting and certificate automation.
+- [Backups](https://mailinabox.email/): Summarizes built-in backup support for preserving server state.
+
+## Project Information
+- [Acknowledgements](https://mailinabox.email/): Credits the open-source software and contributors that make the project possible.
+- [Why build this?](https://mailinabox.email/): Background on the project’s goals around privacy, simplicity, and control.
+- [Status](https://mailinabox.email/): Current state of the project and expectations for production use.
+- [Quick Links](https://mailinabox.email/): Homepage shortcuts to the most important documentation and resources.
+- [News](https://mailinabox.email/news.html): Historical project announcements and release-related updates.

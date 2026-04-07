@@ -1,0 +1,68 @@
+# hCaptcha
+> Enterprise-grade AI security platform focused on stopping bots and human abuse while preserving user privacy.
+
+hCaptcha provides bot detection, account defense, risk scoring, passive and interactive challenges, and privacy-focused alternatives to reCAPTCHA for web and mobile applications. Its site includes product information, developer documentation, API references, migration guides, accessibility resources, and company/legal materials.
+
+## Product
+- [Homepage](https://www.hcaptcha.com/): Overview of hCaptcha’s privacy-focused bot protection and abuse prevention platform.
+- [Signup](https://www.hcaptcha.com/signup-interstitial): Entry point for creating an hCaptcha account and selecting a plan.
+- [Pricing](https://www.hcaptcha.com/pricing): Compare Free, Pro, and Enterprise plans and feature availability.
+- [Contact Sales](https://www.hcaptcha.com/contact-us): Reach the sales team for enterprise evaluation and deployment support.
+- [Accessibility](https://www.hcaptcha.com/accessibility): Accessibility approach, accommodations, and usability information for hCaptcha challenges.
+- [Press](https://www.hcaptcha.com/press): Company announcements, media resources, and press-related information.
+
+## Documentation
+- [Docs Home](https://docs.hcaptcha.com/): Main documentation portal for integration, configuration, and product capabilities.
+- [Getting Started](https://docs.hcaptcha.com/): Introductory documentation for adding hCaptcha to applications and services.
+- [Configuration](https://docs.hcaptcha.com/configuration/): Client-side widget configuration options, parameters, and behavior controls.
+- [Server](https://docs.hcaptcha.com/): Server-side verification concepts and implementation guidance.
+- [Enterprise](https://docs.hcaptcha.com/enterprise/): Enterprise-specific features, controls, and deployment documentation.
+- [Accessibility Challenge](https://docs.hcaptcha.com/accessibility/): Documentation for accessibility support and challenge experience considerations.
+
+## API Reference
+- [Verify API](https://docs.hcaptcha.com/): Reference for server-side token verification and validation workflow.
+- [Siteverify Endpoint](https://api.hcaptcha.com/siteverify): Verification endpoint for validating hCaptcha response tokens.
+- [JavaScript API](https://docs.hcaptcha.com/configuration/): Widget rendering, callbacks, and client-side integration parameters.
+- [Enterprise APIs](https://docs.hcaptcha.com/enterprise/): Enterprise API capabilities for risk analysis and advanced security workflows.
+- [Error Codes](https://docs.hcaptcha.com/): Common verification and integration errors with troubleshooting guidance.
+
+## Integration Guides
+- [Add hCaptcha to Your Site](https://docs.hcaptcha.com/): Core guide for embedding hCaptcha on web forms and flows.
+- [Invisible hCaptcha](https://docs.hcaptcha.com/invisible/): Configure low-friction or invisible challenge flows for supported use cases.
+- [Content Security Policy](https://docs.hcaptcha.com/): Guidance for CSP configuration required by hCaptcha assets and endpoints.
+- [Localhost Testing](https://docs.hcaptcha.com/): Recommendations for development, staging, and local integration testing.
+- [Mobile App Integration](https://docs.hcaptcha.com/): Guidance for integrating hCaptcha into native and mobile web applications.
+- [Custom Themes and Sizing](https://docs.hcaptcha.com/configuration/): Options for appearance, size, and user experience customization.
+
+## Migration
+- [Migrate from reCAPTCHA](https://www.hcaptcha.com/recaptcha): Overview of replacing reCAPTCHA with hCaptcha using minimal code changes.
+- [reCAPTCHA Compatibility](https://docs.hcaptcha.com/): Notes on API compatibility and migration considerations.
+- [Switch with Two Lines of Code](https://www.hcaptcha.com/recaptcha): Product page describing simple migration from Google reCAPTCHA.
+- [Enterprise Migration Support](https://www.hcaptcha.com/contact-us): Contact sales for migration planning and enterprise rollout assistance.
+
+## Solutions
+- [Bot Protection](https://www.hcaptcha.com/): Protect signup, login, checkout, and other flows from automated abuse.
+- [Account Defense](https://www.hcaptcha.com/): Reduce credential stuffing, account takeover, and scripted login attacks.
+- [Payments and Checkout Protection](https://www.hcaptcha.com/): Defend commerce flows from fraud, abuse, and automated exploitation.
+- [Signup and Registration Security](https://www.hcaptcha.com/): Stop fake account creation and abuse during onboarding flows.
+- [MFA Alternative](https://www.hcaptcha.com/): Privacy-preserving authentication support positioned as an alternative to SMS-based MFA.
+- [Global Compliance and Reach](https://www.hcaptcha.com/): Product positioning around privacy, compliance, and worldwide availability.
+
+## Developers
+- [Docs Portal](https://docs.hcaptcha.com/): Central resource for developers integrating hCaptcha products and APIs.
+- [API Endpoint](https://api.hcaptcha.com/siteverify): Production verification endpoint used by backend services.
+- [Status Page](https://status.hcaptcha.com/): Service availability, incidents, and operational status updates.
+- [Support](https://help.hcaptcha.com/): Help center for account, billing, and integration support topics.
+- [Contact](https://www.hcaptcha.com/contact-us): Direct contact path for technical and enterprise inquiries.
+
+## Company
+- [About](https://www.hcaptcha.com/about): Company background, mission, and organizational information.
+- [Careers](https://www.hcaptcha.com/careers): Open roles and hiring information for joining the hCaptcha team.
+- [Press](https://www.hcaptcha.com/press): News, announcements, and media contact information.
+- [Blog](https://www.hcaptcha.com/post): Articles on security, privacy, abuse prevention, and company updates.
+
+## Legal
+- [Privacy Policy](https://www.hcaptcha.com/privacy): Privacy practices and data handling information.
+- [Terms of Service](https://www.hcaptcha.com/terms): Terms governing use of hCaptcha services and website.
+- [Security](https://www.hcaptcha.com/security): Security posture and trust-related information for customers.
+- [Accessibility](https://www.hcaptcha.com/accessibility): Accessibility commitments, support options, and challenge accommodations.

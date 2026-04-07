@@ -1,0 +1,34 @@
+# IP-API.com
+> Free IP geolocation API for looking up IP addresses with fast, accurate, and reliable location data.
+
+IP-API.com provides IP geolocation lookup services in multiple response formats, along with batch, DNS, and data correction resources. The site focuses on practical API documentation and operational status information.
+
+## Core Documentation
+- [Documentation](https://ip-api.com/docs): Main documentation hub for the IP geolocation API and related resources.
+- [JSON API](https://ip-api.com/docs/api:json): Reference for querying the geolocation API with JSON responses.
+- [XML API](https://ip-api.com/docs/api:xml): Reference for accessing geolocation results in XML format.
+- [CSV API](https://ip-api.com/docs/api:csv): Reference for retrieving IP geolocation data as CSV output.
+- [Newline API](https://ip-api.com/docs/api:newline_separated): Reference for newline-separated geolocation response format.
+- [Serialized PHP API](https://ip-api.com/docs/api:serialized_php): Reference for consuming geolocation responses as serialized PHP data.
+
+## API Formats
+- [JSON API](https://ip-api.com/docs/api:json): JSON endpoint documentation with parameters, fields, and example requests.
+- [XML API](https://ip-api.com/docs/api:xml): XML endpoint documentation for structured geolocation lookups.
+- [CSV API](https://ip-api.com/docs/api:csv): CSV output documentation for lightweight tabular integrations.
+- [Newline API](https://ip-api.com/docs/api:newline_separated): Plain text newline-separated output for simple parsing workflows.
+- [Serialized PHP API](https://ip-api.com/docs/api:serialized_php): PHP-specific serialized response format documentation.
+
+## Advanced API Features
+- [Batch API](https://ip-api.com/docs/api:batch): Documentation for submitting multiple IP lookups in a single request.
+- [DNS API](https://ip-api.com/docs/dns): Documentation for performing IP geolocation lookups via DNS queries.
+
+## Data Quality and Policies
+- [Data Correction](https://ip-api.com/docs/correction): Process for reporting and correcting inaccurate geolocation data.
+- [Terms and Policies](https://ip-api.com/docs/legal): Legal terms, usage policies, and service conditions.
+
+## Account and Access
+- [Sign Up](https://members.ip-api.com/): Account portal for registering and managing IP-API services.
+- [Contact](mailto:contact@ip-api.com): Direct contact address for support and business inquiries.
+
+## Service Operations
+- [Service Status](https://status.ip-api.com/): Operational status page for uptime, incidents, and service availability.

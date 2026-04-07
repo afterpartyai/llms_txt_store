@@ -1,0 +1,67 @@
+# spo-msedge.net
+> Microsoft Edge enterprise and service delivery domain used for Edge update, policy, support, and deployment resources.
+
+This domain is associated with Microsoft Edge distribution and enterprise management workflows. The most useful LLM-facing context comes from Microsoft Edge documentation, policy references, deployment guidance, update channels, and support resources used alongside Edge service endpoints.
+
+## Microsoft Edge Documentation
+- [Microsoft Edge documentation](https://learn.microsoft.com/deployedge/): Central documentation hub for deploying, configuring, and managing Microsoft Edge.
+- [Microsoft Edge for Business](https://www.microsoft.com/edge/business): Overview of Edge business features, security, and enterprise management capabilities.
+- [Microsoft Edge Enterprise landing page](https://www.microsoft.com/edge/business/download): Business-focused download and deployment entry point for Edge.
+- [Microsoft Edge support](https://support.microsoft.com/microsoft-edge): End-user and admin support articles for Microsoft Edge features and troubleshooting.
+
+## Deployment and Installation
+- [Download Microsoft Edge for Business](https://www.microsoft.com/edge/business/download): Download installers for supported Edge channels and platforms.
+- [Deploy Microsoft Edge](https://learn.microsoft.com/deployedge/deploy-edge): Guidance for enterprise rollout of Microsoft Edge across managed environments.
+- [Configure Microsoft Edge update settings](https://learn.microsoft.com/deployedge/microsoft-edge-update-policies): Policy-based configuration for Edge Update behavior in organizations.
+- [Microsoft Edge update overview](https://learn.microsoft.com/deployedge/microsoft-edge-update-overview): Explains Edge update architecture, servicing, and channel behavior.
+- [Manage Microsoft Edge on Windows](https://learn.microsoft.com/deployedge/microsoft-edge-policies): Entry point for Windows management and policy configuration.
+
+## Policies and Configuration
+- [Microsoft Edge Browser Policy Documentation](https://learn.microsoft.com/deployedge/microsoft-edge-policies): Complete reference for Microsoft Edge browser policies.
+- [Microsoft Edge Update Policy Documentation](https://learn.microsoft.com/deployedge/microsoft-edge-update-policies): Reference for policies controlling Edge Update installation and servicing.
+- [Configure Microsoft Edge policy settings on Windows](https://learn.microsoft.com/deployedge/configure-microsoft-edge): How to apply and manage Edge policies in Windows environments.
+- [Configure Microsoft Edge using mobile device management](https://learn.microsoft.com/deployedge/configure-edge-with-mdm): Manage Edge settings through MDM providers such as Intune.
+- [Security baseline for Microsoft Edge](https://learn.microsoft.com/deployedge/microsoft-edge-security-baseline): Recommended enterprise security configuration baseline for Edge.
+
+## Update Channels and Servicing
+- [Microsoft Edge release schedule](https://learn.microsoft.com/deployedge/microsoft-edge-release-schedule): Planned release cadence for Stable, Beta, Dev, and Extended Stable channels.
+- [Microsoft Edge channels overview](https://learn.microsoft.com/deployedge/microsoft-edge-channels): Describes Edge channels and intended deployment scenarios.
+- [Microsoft Edge Stable Channel](https://www.microsoft.com/edge/business/download?form=MA13FJ): Stable channel download for production deployments.
+- [Microsoft Edge Beta Channel](https://www.microsoft.com/edge/business/download?form=MA13FJ): Beta channel download for pre-release validation and testing.
+- [Microsoft Edge Dev Channel](https://www.microsoft.com/edge/download/insider): Dev and Insider builds for evaluation and early feature testing.
+- [Microsoft Edge release notes](https://learn.microsoft.com/deployedge/microsoft-edge-relnote-stable-channel): Release notes for Stable channel versions and fixes.
+
+## Security and Identity
+- [Microsoft Edge security documentation](https://learn.microsoft.com/deployedge/microsoft-edge-security): Security capabilities and enterprise protection features in Edge.
+- [Microsoft Defender SmartScreen in Microsoft Edge](https://learn.microsoft.com/deployedge/microsoft-edge-security-smartscreen): Guidance for SmartScreen protection and related policy controls.
+- [Microsoft Edge password manager security](https://learn.microsoft.com/deployedge/microsoft-edge-security-password-manager-security): Security considerations for password storage and autofill in Edge.
+- [Microsoft Edge and Microsoft Entra ID](https://learn.microsoft.com/deployedge/microsoft-edge-security-identity): Identity integration and enterprise sign-in behavior for Edge.
+- [Conditional Access in Microsoft Edge](https://learn.microsoft.com/deployedge/ms-edge-security-conditional-access): Using Conditional Access and device trust with Edge.
+
+## Management and Administration
+- [Manage Microsoft Edge with Microsoft Intune](https://learn.microsoft.com/mem/intune/apps/manage-microsoft-edge): Intune-based management of Edge app settings and policies.
+- [Administrative template files for Microsoft Edge](https://learn.microsoft.com/deployedge/configure-microsoft-edge#configure-policies-on-windows): Use ADMX templates to configure Edge in Active Directory environments.
+- [Microsoft Edge management service](https://learn.microsoft.com/deployedge/microsoft-edge-management-service): Cloud-based management service for configuring Edge policies.
+- [Configure kiosk mode in Microsoft Edge](https://learn.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode): Set up and manage kiosk experiences with Edge.
+- [Configure site lists for Internet Explorer mode](https://learn.microsoft.com/deployedge/edge-ie-mode-site-list-manager): Manage Enterprise Mode site lists for IE mode compatibility.
+
+## Developer and Web Platform Resources
+- [Microsoft Edge developer documentation](https://learn.microsoft.com/microsoft-edge/): Documentation for building, testing, and optimizing web experiences in Edge.
+- [Microsoft Edge WebView2 documentation](https://learn.microsoft.com/microsoft-edge/webview2/): Embed web content in native applications using WebView2.
+- [Microsoft Edge DevTools documentation](https://learn.microsoft.com/microsoft-edge/devtools-guide-chromium/): Reference and guides for debugging and performance analysis tools.
+- [Microsoft Edge extensions documentation](https://learn.microsoft.com/microsoft-edge/extensions-chromium/): Build, publish, and manage browser extensions for Edge.
+- [Microsoft Edge Insider](https://www.microsoft.com/edge/download/insider): Insider channels and preview builds for developers and testers.
+
+## Troubleshooting and Support
+- [Troubleshoot Microsoft Edge installation and updates](https://learn.microsoft.com/deployedge/microsoft-edge-troubleshoot): Common deployment, installation, and update troubleshooting guidance.
+- [Microsoft Edge support hub](https://support.microsoft.com/microsoft-edge): Official support articles for Edge setup, sync, privacy, and browsing issues.
+- [Microsoft 365 admin support](https://admin.microsoft.com/Adminportal/Home#/support): Admin support entry point for Microsoft-managed enterprise services.
+- [Microsoft Edge Insider support](https://www.microsoftedgeinsider.com/support): Support resources for Insider builds and preview channels.
+- [Microsoft Q&A for Microsoft Edge](https://learn.microsoft.com/answers/tags/255/microsoft-edge): Community and Microsoft-moderated technical questions about Edge.
+
+## Release Notes and Lifecycle
+- [Microsoft Edge Stable Channel release notes](https://learn.microsoft.com/deployedge/microsoft-edge-relnote-stable-channel): Version-by-version Stable channel changes, fixes, and security updates.
+- [Microsoft Edge Extended Stable release notes](https://learn.microsoft.com/deployedge/microsoft-edge-relnote-extended-stable-channel): Release notes for Extended Stable enterprise servicing builds.
+- [Microsoft Edge Beta Channel release notes](https://learn.microsoft.com/deployedge/microsoft-edge-relnote-beta-channel): Beta channel changes for pre-production validation.
+- [Microsoft Edge Dev Channel release notes](https://learn.microsoft.com/deployedge/microsoft-edge-relnote-dev-channel): Dev channel updates and feature changes for early adopters.
+- [Microsoft Edge lifecycle FAQ](https://learn.microsoft.com/lifecycle/products/microsoft-edge): Product lifecycle information for Microsoft Edge support and servicing.

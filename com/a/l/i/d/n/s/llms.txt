@@ -1,0 +1,35 @@
+# 阿里公共DNS
+> 阿里云公共DNS提供免费的公共域名解析服务，支持传统DNS、DoT 和 DoH 接入方式。
+
+面向个人与企业用户，阿里公共DNS强调快速、稳定与安全的解析体验，并提供多种终端与网络环境下的接入说明。
+
+## 首页与概览
+- [阿里公共DNS首页](https://www.alidns.com/): 公共DNS服务首页，介绍产品优势、适用场景与接入方式。
+- [如何使用阿里云公共DNS](https://www.alidns.com/): 首页内提供传统DNS、DoT、DoH 的使用入口与说明。
+- [企业用户](https://www.alidns.com/): 首页中面向企业网络场景的公共DNS接入说明。
+- [普通用户](https://www.alidns.com/): 首页中面向个人终端用户的公共DNS使用说明。
+
+## 接入方式
+- [传统DNS接入方法](https://www.alidns.com/): 说明通过标准DNS服务器地址进行接入的基础方法。
+- [DoT接入方法](https://www.alidns.com/): 说明通过 DNS over TLS 进行加密解析的接入方式。
+- [DoH接入方法](https://www.alidns.com/): 说明通过 DNS over HTTPS 进行加密解析的接入方式。
+
+## 服务特性
+- [快速](https://www.alidns.com/): 介绍公共DNS在解析速度与访问体验方面的优势。
+- [稳定](https://www.alidns.com/): 介绍公共DNS在高可用与持续服务方面的能力。
+- [安全](https://www.alidns.com/): 介绍公共DNS在安全防护与加密解析方面的特性。
+
+## 适用人群与场景
+- [企业用户接入](https://www.alidns.com/): 适用于企业网络、办公环境与统一解析配置场景。
+- [普通用户接入](https://www.alidns.com/): 适用于家庭宽带、移动设备与个人终端解析配置。
+- [网络解析困扰说明](https://www.alidns.com/): 概述常见DNS解析慢、不稳定或不安全等问题场景。
+
+## 使用指南
+- [传统DNS配置指南](https://www.alidns.com/): 适合在路由器、操作系统或终端中配置公共DNS地址。
+- [DoT配置指南](https://www.alidns.com/): 适合支持 TLS 加密DNS的系统与客户端进行配置。
+- [DoH配置指南](https://www.alidns.com/): 适合支持 HTTPS 加密DNS的浏览器与应用进行配置。
+
+## 产品价值
+- [最佳选择](https://www.alidns.com/): 首页产品定位，强调快速、稳定、安全的公共DNS服务价值。
+- [免费DNS服务](https://www.alidns.com/): 提供免费的公共DNS基础解析服务。
+- [基础服务说明](https://www.alidns.com/): 面向大众用户提供通用域名解析能力。

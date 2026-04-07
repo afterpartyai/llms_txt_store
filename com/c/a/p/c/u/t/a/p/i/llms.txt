@@ -1,0 +1,60 @@
+# CapCut API
+> Unofficial API and developer resources for automating CapCut workflows, media generation, and related integrations.
+
+CapCut API provides documentation, reference material, and integration guidance for working with CapCut-related automation and programmatic media workflows.
+
+## Documentation
+- [Documentation Home](https://capcutapi.com/docs): Main documentation hub for CapCut API concepts, setup, and usage.
+- [Getting Started](https://capcutapi.com/docs/getting-started): Introductory guide for authentication, setup, and first API requests.
+- [Authentication](https://capcutapi.com/docs/authentication): Explains API keys, authorization flow, and request security requirements.
+- [Rate Limits](https://capcutapi.com/docs/rate-limits): Describes request quotas, throttling behavior, and usage constraints.
+- [Errors](https://capcutapi.com/docs/errors): Lists common error responses, codes, and troubleshooting guidance.
+
+## API Reference
+- [API Reference Overview](https://capcutapi.com/docs/api-reference): Entry point for endpoint-level request and response details.
+- [Create Video](https://capcutapi.com/docs/api-reference/create-video): Reference for submitting video generation or editing jobs.
+- [Get Video Status](https://capcutapi.com/docs/api-reference/get-video-status): Endpoint details for checking processing state and job progress.
+- [List Projects](https://capcutapi.com/docs/api-reference/list-projects): Reference for retrieving available projects and associated metadata.
+- [Download Export](https://capcutapi.com/docs/api-reference/download-export): Explains how to fetch completed rendered media outputs.
+
+## Guides
+- [Quickstart Guide](https://capcutapi.com/docs/guides/quickstart): Walks through making a first successful request from a clean setup.
+- [Video Automation Guide](https://capcutapi.com/docs/guides/video-automation): Shows how to automate common CapCut-based video workflows.
+- [Webhook Integration](https://capcutapi.com/docs/guides/webhooks): Explains asynchronous notifications for job completion and status updates.
+- [Error Handling Guide](https://capcutapi.com/docs/guides/error-handling): Best practices for retries, validation, and resilient client behavior.
+- [Production Best Practices](https://capcutapi.com/docs/guides/production-best-practices): Recommendations for scaling, monitoring, and secure deployment.
+
+## SDKs and Code Samples
+- [Code Examples](https://capcutapi.com/docs/examples): Collection of sample requests and implementation patterns.
+- [JavaScript Example](https://capcutapi.com/docs/examples/javascript): Demonstrates API usage from Node.js or browser-based JavaScript clients.
+- [Python Example](https://capcutapi.com/docs/examples/python): Shows request construction and response handling in Python.
+- [cURL Example](https://capcutapi.com/docs/examples/curl): Minimal command-line examples for testing endpoints quickly.
+- [Webhook Example](https://capcutapi.com/docs/examples/webhook-handler): Sample webhook receiver implementation for event-driven integrations.
+
+## Use Cases
+- [Social Media Video Creation](https://capcutapi.com/docs/use-cases/social-media-video-creation): Covers automating short-form content generation for social platforms.
+- [Template-Based Editing](https://capcutapi.com/docs/use-cases/template-based-editing): Explains generating videos from reusable templates and structured inputs.
+- [Batch Rendering](https://capcutapi.com/docs/use-cases/batch-rendering): Describes processing multiple media jobs efficiently at scale.
+- [UGC Ad Production](https://capcutapi.com/docs/use-cases/ugc-ad-production): Shows how to streamline user-generated style ad creation workflows.
+- [Agency Automation](https://capcutapi.com/docs/use-cases/agency-automation): Guidance for integrating CapCut workflows into client delivery pipelines.
+
+## Account and Platform
+- [Pricing](https://capcutapi.com/pricing): Overview of plans, limits, and commercial usage tiers.
+- [Dashboard](https://capcutapi.com/dashboard): Account workspace for managing API usage, projects, and credentials.
+- [API Keys](https://capcutapi.com/dashboard/api-keys): Interface for creating and rotating authentication credentials.
+- [Usage](https://capcutapi.com/dashboard/usage): Tracks request volume, quotas, and billing-related consumption.
+- [Settings](https://capcutapi.com/dashboard/settings): Account configuration, team preferences, and integration settings.
+
+## Support
+- [Help Center](https://capcutapi.com/support): Central support entry point for troubleshooting and assistance.
+- [FAQ](https://capcutapi.com/faq): Answers to common questions about setup, billing, and API behavior.
+- [Contact Support](https://capcutapi.com/contact): Direct channel for technical or account-related inquiries.
+- [Status Page](https://capcutapi.com/status): Service availability and incident reporting for the platform.
+- [Changelog](https://capcutapi.com/changelog): Chronological record of API updates, fixes, and feature releases.
+
+## Company and Legal
+- [Home](https://capcutapi.com): Main site entry point with product overview and navigation.
+- [About](https://capcutapi.com/about): Background on the service, mission, and platform positioning.
+- [Blog](https://capcutapi.com/blog): Articles, announcements, and integration-related updates.
+- [Privacy Policy](https://capcutapi.com/privacy): Explains data handling, privacy practices, and user protections.
+- [Terms of Service](https://capcutapi.com/terms): Legal terms governing use of the website and API.

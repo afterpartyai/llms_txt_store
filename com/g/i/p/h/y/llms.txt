@@ -1,0 +1,65 @@
+# GIPHY
+> GIPHY is a platform for discovering, creating, and sharing GIFs, stickers, clips, and related media.
+
+GIPHY provides consumer-facing media discovery and creation tools alongside a developer platform for integrating GIF, sticker, emoji, and clip search into applications.
+
+## Developer Platform
+- [Developers Home](https://developers.giphy.com/): Overview of GIPHY's developer platform, products, and integration options.
+- [API Documentation](https://developers.giphy.com/docs/api/): Entry point for REST API documentation and endpoint references.
+- [SDK Documentation](https://developers.giphy.com/docs/sdk/): Overview of official SDKs for web, mobile, and JavaScript integrations.
+- [Brand Guidelines](https://developers.giphy.com/docs/optional-settings/#rendition-guide): Guidance on renditions and asset usage for integrations.
+- [FAQ](https://developers.giphy.com/docs/faq/): Answers to common developer questions about keys, limits, and usage.
+
+## API Reference
+- [Quick Start](https://developers.giphy.com/docs/api/#quick-start-guide): Introductory guide to authenticating and making your first API requests.
+- [Search Endpoint](https://developers.giphy.com/docs/api/endpoint#search): Search for GIFs, stickers, text, and clips by query.
+- [Trending Endpoint](https://developers.giphy.com/docs/api/endpoint#trending): Retrieve currently trending GIFs, stickers, and clips.
+- [Translate Endpoint](https://developers.giphy.com/docs/api/endpoint#translate): Return a single result matching a phrase or sentiment.
+- [Random Endpoint](https://developers.giphy.com/docs/api/endpoint#random): Fetch a random GIF or sticker matching a tag.
+- [Get by ID Endpoint](https://developers.giphy.com/docs/api/endpoint#gif-by-id): Retrieve one or more assets by GIPHY ID.
+- [Categories Endpoint](https://developers.giphy.com/docs/api/endpoint#categories): Access category metadata for organizing discovery experiences.
+- [Channel Search Endpoint](https://developers.giphy.com/docs/api/endpoint#channel-search): Search channels and creators available on GIPHY.
+
+## SDKs and Libraries
+- [JavaScript SDK](https://developers.giphy.com/docs/sdk/#javascript-sdk): Official JavaScript tools for search, fetch, and rendering workflows.
+- [React SDK](https://developers.giphy.com/docs/sdk/#react): React components and helpers for embedding GIPHY search interfaces.
+- [iOS SDK](https://developers.giphy.com/docs/sdk/#ios-sdk): Native iOS SDK for GIF and sticker search experiences.
+- [Android SDK](https://developers.giphy.com/docs/sdk/#android-sdk): Native Android SDK for integrating GIPHY content pickers.
+- [Fetch API SDK](https://developers.giphy.com/docs/api/sdk/): Client library for calling GIPHY API endpoints from JavaScript.
+
+## Integration Guides
+- [Getting Started](https://developers.giphy.com/docs/): Main documentation hub for setup and integration guidance.
+- [API Key Creation](https://developers.giphy.com/dashboard/): Developer dashboard for creating and managing API keys.
+- [Optional Settings](https://developers.giphy.com/docs/optional-settings/): Configure rating, language, bundle, and rendition behavior.
+- [Content Types](https://developers.giphy.com/docs/optional-settings/#content-types): Understand GIF, sticker, text, emoji, and clip content types.
+- [Rendition Guide](https://developers.giphy.com/docs/optional-settings/#rendition-guide): Choose appropriate media renditions for performance and quality.
+- [Attribution Requirements](https://developers.giphy.com/docs/faq/#attribution): Learn attribution expectations for apps using GIPHY content.
+
+## Product and Consumer Pages
+- [Home](https://giphy.com/): Main entry point for browsing trending and featured media.
+- [Explore](https://giphy.com/explore): Browse themed collections, trends, and topical media categories.
+- [Artists](https://giphy.com/artists): Discover verified artists, studios, and creator channels.
+- [Channels](https://giphy.com/channels): Browse branded and editorial channels on GIPHY.
+- [Clips](https://giphy.com/clips): Explore short-form clips and video-based reactions.
+- [Stories](https://giphy.com/stories): View editorial stories built around GIF and clip collections.
+- [Reactions](https://giphy.com/reactions): Find reaction GIFs organized by mood and context.
+
+## Create and Upload
+- [Create](https://giphy.com/create/gifmaker): Create GIFs from video files or URLs in the browser.
+- [Sticker Maker](https://giphy.com/create/stickers): Create and upload custom stickers for GIPHY.
+- [Upload](https://giphy.com/upload): Upload GIFs and media to publish on GIPHY.
+- [Create Home](https://giphy.com/create): Access GIPHY's creation tools and publishing workflows.
+
+## Support and Policies
+- [Help Center](https://support.giphy.com/): Support portal for account, upload, and platform questions.
+- [Community Guidelines](https://support.giphy.com/hc/en-us/articles/360020027752-Community-Guidelines): Rules governing acceptable content and behavior on GIPHY.
+- [Copyright Policy](https://support.giphy.com/hc/en-us/articles/360020286611-Copyright-Policy): Information on copyright handling and infringement reporting.
+- [Terms of Service](https://giphy.com/terms): Legal terms for using GIPHY services.
+- [Privacy Policy](https://giphy.com/privacy): Privacy practices and data handling disclosures.
+- [DMCA Policy](https://giphy.com/dmca): Procedures for copyright complaints and takedown requests.
+
+## Account and Developer Access
+- [Login](https://giphy.com/login): Sign in to a GIPHY account.
+- [Join GIPHY](https://giphy.com/join): Create a new GIPHY account.
+- [Developer Dashboard](https://developers.giphy.com/dashboard/): Manage applications, API keys, and developer settings.
+- [Apply for Production Access](https://developers.giphy.com/dashboard/): Request elevated access for production API usage.

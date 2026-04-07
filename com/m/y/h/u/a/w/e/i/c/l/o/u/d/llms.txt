@@ -1,0 +1,83 @@
+# Huawei Cloud
+> Huawei Cloud provides cloud infrastructure, AI, databases, security, and enterprise platform services with global documentation and APIs.
+
+This site includes product documentation, API references, developer guides, SDK resources, best practices, and support content for Huawei Cloud services.
+
+## Documentation Home
+- [Documentation Center](https://support.huaweicloud.com/intl/en-us/): Main entry point for Huawei Cloud product documentation and guides.
+- [Developer Guide Center](https://support.huaweicloud.com/intl/en-us/devg-apis.html): Central index for developer guides and API-related resources.
+- [API Center](https://support.huaweicloud.com/intl/en-us/apicenter-all.html): Aggregated API reference entry for Huawei Cloud services.
+- [Best Practices](https://support.huaweicloud.com/intl/en-us/bestpractice-list.html): Collection of implementation recommendations for common cloud scenarios.
+- [FAQs](https://support.huaweicloud.com/intl/en-us/faq.html): Frequently asked questions across Huawei Cloud products and operations.
+- [Troubleshooting](https://support.huaweicloud.com/intl/en-us/trouble-index.html): Troubleshooting resources for diagnosing and resolving service issues.
+
+## Getting Started
+- [Getting Started](https://support.huaweicloud.com/intl/en-us/getting-started.html): Introductory guides for creating, configuring, and using Huawei Cloud services.
+- [User Guide Center](https://support.huaweicloud.com/intl/en-us/usermanual.html): Central access point for product user guides and operational instructions.
+- [Quick Start](https://support.huaweicloud.com/intl/en-us/qs.html): Quick-start documentation for deploying and testing services rapidly.
+- [Console Help](https://support.huaweicloud.com/intl/en-us/consolehelp.html): Guidance for navigating and using the Huawei Cloud management console.
+- [Service Overview](https://support.huaweicloud.com/intl/en-us/productdesc.html): Overview pages describing service capabilities and common use cases.
+
+## API and Developer Resources
+- [API Explorer](https://apiexplorer.developer.huaweicloud.com/apiexplorer/overview): Interactive tool for browsing and testing Huawei Cloud APIs.
+- [OpenAPI Explorer](https://apiexplorer.developer.huaweicloud.com/apiexplorer/doc?product=ALL&api=ALL): API documentation interface for exploring service operations and parameters.
+- [SDK Center](https://developer.huaweicloud.com/intl/en-us/sdk): Entry point for Huawei Cloud SDK downloads and language support.
+- [Developer Center](https://developer.huaweicloud.com/intl/en-us/): Main developer portal for tools, SDKs, APIs, and integration resources.
+- [API Gateway Documentation](https://support.huaweicloud.com/intl/en-us/api-apig/): Reference and guides for publishing and managing APIs.
+- [Identity and Access Management API](https://support.huaweicloud.com/intl/en-us/api-iam/): API reference for authentication, authorization, and identity management.
+
+## Compute
+- [Elastic Cloud Server Documentation](https://support.huaweicloud.com/intl/en-us/ecs/): Documentation for provisioning and managing virtual machine instances.
+- [Elastic Cloud Server API Reference](https://support.huaweicloud.com/intl/en-us/api-ecs/): API operations for creating and administering ECS instances.
+- [Auto Scaling Documentation](https://support.huaweicloud.com/intl/en-us/as/): Guides for scaling compute resources automatically.
+- [FunctionGraph Documentation](https://support.huaweicloud.com/intl/en-us/functiongraph/): Serverless function service documentation and developer guidance.
+- [Cloud Container Engine Documentation](https://support.huaweicloud.com/intl/en-us/cce/): Kubernetes-based container orchestration service documentation.
+- [Bare Metal Server Documentation](https://support.huaweicloud.com/intl/en-us/bms/): Guides for dedicated physical server provisioning and management.
+
+## Storage and Database
+- [Object Storage Service Documentation](https://support.huaweicloud.com/intl/en-us/obs/): Documentation for scalable object storage and data management.
+- [Elastic Volume Service Documentation](https://support.huaweicloud.com/intl/en-us/evs/): Guides for block storage provisioning and lifecycle management.
+- [Scalable File Service Documentation](https://support.huaweicloud.com/intl/en-us/sfs/): Documentation for shared file storage services.
+- [Relational Database Service Documentation](https://support.huaweicloud.com/intl/en-us/rds/): Guides for managed relational database deployment and operations.
+- [GaussDB Documentation](https://support.huaweicloud.com/intl/en-us/gaussdb/): Documentation for Huawei Cloud GaussDB database services.
+- [Document Database Service Documentation](https://support.huaweicloud.com/intl/en-us/dds/): Guides for managed document database clusters.
+
+## Networking and CDN
+- [Virtual Private Cloud Documentation](https://support.huaweicloud.com/intl/en-us/vpc/): Documentation for isolated virtual networks and routing configuration.
+- [Elastic Load Balance Documentation](https://support.huaweicloud.com/intl/en-us/elb/): Guides for distributing traffic across backend resources.
+- [Domain Name Service Documentation](https://support.huaweicloud.com/intl/en-us/dns/): Documentation for domain resolution and DNS management.
+- [Content Delivery Network Documentation](https://support.huaweicloud.com/intl/en-us/cdn/): Guides for accelerating content delivery globally.
+- [Direct Connect Documentation](https://support.huaweicloud.com/intl/en-us/dc/): Documentation for dedicated network connectivity to Huawei Cloud.
+- [NAT Gateway Documentation](https://support.huaweicloud.com/intl/en-us/natgateway/): Guides for outbound and inbound network address translation.
+
+## Security and Management
+- [Cloud Firewall Documentation](https://support.huaweicloud.com/intl/en-us/cfw/): Documentation for network traffic control and security policies.
+- [Web Application Firewall Documentation](https://support.huaweicloud.com/intl/en-us/waf/): Guides for protecting web applications from common attacks.
+- [Data Encryption Workshop Documentation](https://support.huaweicloud.com/intl/en-us/dew/): Documentation for key management and cryptographic services.
+- [Cloud Trace Service Documentation](https://support.huaweicloud.com/intl/en-us/cts/): Guides for auditing operations and tracking cloud activities.
+- [Cloud Eye Documentation](https://support.huaweicloud.com/intl/en-us/ces/): Monitoring and alerting documentation for cloud resources.
+- [Resource Formation Service Documentation](https://support.huaweicloud.com/intl/en-us/rfs/): Infrastructure-as-code service documentation for resource orchestration.
+
+## AI and Big Data
+- [ModelArts Documentation](https://support.huaweicloud.com/intl/en-us/modelarts/): Documentation for AI development, training, and deployment workflows.
+- [Data Lake Insight Documentation](https://support.huaweicloud.com/intl/en-us/dli/): Guides for serverless big data analytics and SQL processing.
+- [MapReduce Service Documentation](https://support.huaweicloud.com/intl/en-us/mrs/): Documentation for managed Hadoop and big data clusters.
+- [Cloud Search Service Documentation](https://support.huaweicloud.com/intl/en-us/css/): Guides for managed search and analytics clusters.
+- [DataArts Studio Documentation](https://support.huaweicloud.com/intl/en-us/dataartsstudio/): Documentation for data integration, governance, and development.
+- [Image Recognition Documentation](https://support.huaweicloud.com/intl/en-us/image/): Guides for computer vision and image analysis APIs.
+
+## Migration and DevOps
+- [Cloud Container Engine Best Practices](https://support.huaweicloud.com/intl/en-us/bestpractice-cce/): Recommended practices for operating Kubernetes workloads on Huawei Cloud.
+- [CodeArts Documentation](https://support.huaweicloud.com/intl/en-us/codearts/): Documentation for DevOps pipelines, repositories, and software delivery.
+- [Application Operations Management Documentation](https://support.huaweicloud.com/intl/en-us/aom/): Guides for observability and application operations management.
+- [Server Migration Service Documentation](https://support.huaweicloud.com/intl/en-us/sms/): Documentation for migrating servers into Huawei Cloud.
+- [Data Replication Service Documentation](https://support.huaweicloud.com/intl/en-us/drs/): Guides for database migration and continuous replication.
+- [Cloud Backup and Recovery Documentation](https://support.huaweicloud.com/intl/en-us/cbr/): Documentation for backup, restore, and disaster recovery workflows.
+
+## Support and Community
+- [Support Center](https://support.huaweicloud.com/intl/en-us/): Official support portal for documentation and service help.
+- [Developer Forum](https://developer.huaweicloud.com/intl/en-us/forum): Community discussions for Huawei Cloud developers and users.
+- [Huawei Cloud Blog](https://developer.huaweicloud.com/intl/en-us/blog): Articles, announcements, and technical insights from Huawei Cloud.
+- [Learning Center](https://developer.huaweicloud.com/intl/en-us/learning): Training and educational resources for Huawei Cloud technologies.
+- [SDK Documentation](https://developer.huaweicloud.com/intl/en-us/sdk?all): Language SDK resources for integrating Huawei Cloud services.
+- [API Explorer Help](https://apiexplorer.developer.huaweicloud.com/apiexplorer/help): Help documentation for using the API Explorer tools.

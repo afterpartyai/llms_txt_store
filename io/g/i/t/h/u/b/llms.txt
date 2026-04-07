@@ -1,0 +1,73 @@
+# GitHub Pages
+> Websites for you and your projects, hosted directly from your GitHub repository.
+
+GitHub Pages lets users and organizations publish static websites directly from GitHub repositories, with support for custom domains, Jekyll, and project or account sites.
+
+## GitHub Pages
+- [GitHub Pages Home](https://pages.github.com/): Overview of GitHub Pages hosting for personal, organization, and project websites.
+- [Create a Site from Scratch](https://pages.github.com/): Landing page for starting a new GitHub Pages site.
+- [GitHub Pages Documentation](https://docs.github.com/en/pages): Central documentation for building, configuring, and publishing GitHub Pages sites.
+- [About GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages): Explains how GitHub Pages works, site types, and publishing sources.
+- [Creating a GitHub Pages Site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site): Step-by-step guide to creating and publishing a Pages site.
+- [Troubleshooting 404 Errors](https://docs.github.com/en/pages/getting-started-with-github-pages/troubleshooting-404-errors-for-github-pages-sites): Common causes and fixes for Pages site routing and publishing issues.
+
+## Getting Started
+- [Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart): Fast path to create and publish a Pages site from a repository.
+- [Configuring a Publishing Source](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site): Choose branches or workflows as the source for site deployment.
+- [Creating a Repository for Your Site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site): Set up account, organization, or project repositories for Pages.
+- [Using a Static Site Generator](https://docs.github.com/en/pages/getting-started-with-github-pages/using-static-site-generators-with-github-pages): Publish sites built with supported static site generation workflows.
+- [Viewing Your Published Site](https://docs.github.com/en/pages/getting-started-with-github-pages/viewing-your-github-pages-site-after-your-site-has-been-published): Learn where your site is hosted after deployment.
+
+## Custom Domains and DNS
+- [About Custom Domains and GitHub Pages](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages): Overview of custom domain support, DNS requirements, and limitations.
+- [Configuring a Custom Domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/configuring-a-custom-domain-for-your-github-pages-site): Connect a custom domain to a GitHub Pages site.
+- [Managing a Custom Domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site): Update, verify, or remove custom domain settings.
+- [Verifying Your Custom Domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages): Verify domain ownership to improve security and prevent takeover.
+- [Securing Your Site with HTTPS](https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https): Enable HTTPS for Pages sites and understand certificate provisioning.
+- [Troubleshooting Custom Domains and HTTPS](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/troubleshooting-custom-domains-and-github-pages): Diagnose DNS, certificate, and domain configuration problems.
+
+## Jekyll and Site Content
+- [About GitHub Pages and Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll): Explains built-in Jekyll support and how Pages processes content.
+- [Creating a GitHub Pages Site with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll): Build and publish a Jekyll-powered Pages site.
+- [Testing Your GitHub Pages Site Locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll): Run and preview a Pages-compatible Jekyll site locally.
+- [Adding Content to Your GitHub Pages Site Using Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll): Create pages, posts, and site structure with Jekyll conventions.
+- [Front Matter](https://jekyllrb.com/docs/front-matter/): Define page metadata and layout settings for Jekyll content.
+- [Jekyll Documentation](https://jekyllrb.com/docs/): Official Jekyll guides for configuration, themes, collections, and content.
+
+## Themes and Appearance
+- [About Themes](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll): Overview of applying themes to Jekyll-based Pages sites.
+- [Adding a Theme to Your GitHub Pages Site Using Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll): Configure a supported theme for a Pages site.
+- [Creating a Custom 404 Page](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site): Add a custom not-found page for better site navigation.
+- [Customizing Your Theme](https://jekyllrb.com/docs/themes/): Modify layouts, includes, and assets for Jekyll themes.
+- [GitHub Pages Dependency Versions](https://pages.github.com/versions/): Lists gem and dependency versions used by the Pages build environment.
+
+## GitHub Actions and Deployment
+- [Using Custom Workflows with GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages): Deploy Pages sites using GitHub Actions workflows.
+- [Configuring a Publishing Source](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site): Set branch or workflow-based publishing for Pages deployments.
+- [GitHub Actions Documentation](https://docs.github.com/en/actions): Reference and guides for workflow automation on GitHub.
+- [Deployments and Environments](https://docs.github.com/en/actions/deployment): Manage deployment targets and protections in GitHub Actions.
+- [Workflow Syntax for GitHub Actions](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions): YAML syntax reference for defining Pages deployment workflows.
+
+## API and Platform
+- [GitHub REST API](https://docs.github.com/rest): REST API reference for repositories, pages, deployments, and related resources.
+- [GitHub GraphQL API](https://docs.github.com/en/graphql): GraphQL API reference for querying GitHub data programmatically.
+- [Repositories REST API](https://docs.github.com/en/rest/repos): Repository endpoints relevant to Pages configuration and content.
+- [Pages REST API](https://docs.github.com/en/rest/pages): API endpoints for GitHub Pages sites, builds, and deployments.
+- [GitHub CLI Manual](https://cli.github.com/manual/): Command-line interface documentation for working with GitHub repositories and workflows.
+- [GitHub Developer Documentation](https://docs.github.com/en/developers): Platform docs for integrations, apps, APIs, and automation.
+
+## Support and Troubleshooting
+- [GitHub Pages Documentation](https://docs.github.com/en/pages): Main support hub for Pages setup, configuration, and maintenance.
+- [Troubleshooting 404 Errors](https://docs.github.com/en/pages/getting-started-with-github-pages/troubleshooting-404-errors-for-github-pages-sites): Resolve common site path, branch, and publishing issues.
+- [Troubleshooting Custom Domains](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/troubleshooting-custom-domains-and-github-pages): Fix DNS, HTTPS, and domain verification problems.
+- [GitHub Support](https://support.github.com): Contact support and browse help resources for GitHub products.
+- [GitHub Status](https://www.githubstatus.com/): Service status and incident history for GitHub systems.
+- [Security](https://github.com/security): Security resources, advisories, and reporting information for GitHub.
+
+## Company and Resources
+- [GitHub Blog](https://github.blog): Product updates, engineering posts, and announcements from GitHub.
+- [GitHub Training](https://training.github.com): Learning resources and training for GitHub workflows and collaboration.
+- [About GitHub](https://github.com/about): Company overview, product information, and organizational details.
+- [Terms of Service](https://docs.github.com/en/github/site-policy/github-terms-of-service): Legal terms governing use of GitHub services.
+- [Privacy Statement](https://docs.github.com/en/github/site-policy/github-privacy-statement): Details on data handling and privacy practices.
+- [Contact GitHub](https://support.github.com): Support and contact entry point for GitHub users.

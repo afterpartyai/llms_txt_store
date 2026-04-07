@@ -1,0 +1,70 @@
+# Amazon CloudFront
+> Amazon CloudFront is AWS’s global content delivery network for securely delivering websites, APIs, video, and applications with low latency.
+
+CloudFront documentation on aws.amazon.com covers getting started, distributions, security, edge compute, monitoring, pricing, and API/CLI reference material for managing CDN workloads at scale.
+
+## Product Overview
+- [Amazon CloudFront product page](https://aws.amazon.com/cloudfront/): Overview of CloudFront features, use cases, performance, and integration with AWS services.
+- [CloudFront features](https://aws.amazon.com/cloudfront/features/): Summary of CDN, security, edge compute, streaming, and performance capabilities.
+- [CloudFront pricing](https://aws.amazon.com/cloudfront/pricing/): Pricing details for data transfer, requests, edge functions, and related features.
+- [CloudFront FAQs](https://aws.amazon.com/cloudfront/faqs/): Answers to common questions about distributions, caching, security, and billing.
+- [CloudFront global edge network](https://aws.amazon.com/cloudfront/features/?nc=sn&loc=2): Information about edge locations, regional edge caches, and network reach.
+
+## Developer Guide
+- [CloudFront Developer Guide](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html): Main documentation for concepts, setup, configuration, and operations.
+- [Getting started with CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/GettingStarted.html): Step-by-step introduction to creating and testing a distribution.
+- [How CloudFront works](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/HowCloudFrontWorks.html): Explains request routing, caching behavior, and edge delivery flow.
+- [Distributions](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/distribution-working-with.html): Guidance for creating, updating, and managing CloudFront distributions.
+- [Cache behavior settings](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/DownloadDistValuesCacheBehavior.html): Reference for cache behavior options and request handling controls.
+- [Origins](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/DownloadDistS3AndCustomOrigins.html): Details on using Amazon S3 and custom origins with CloudFront.
+- [Invalidating files](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Invalidation.html): Instructions for removing cached objects from edge locations.
+
+## Security and Access Control
+- [Restrict access to an Amazon S3 origin](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html): Configure origin access control and protect S3 content behind CloudFront.
+- [Use signed URLs and signed cookies](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/PrivateContent.html): Control access to private content using signed requests.
+- [AWS WAF with CloudFront](https://docs.aws.amazon.com/waf/latest/developerguide/cloudfront-features.html): Protect CloudFront distributions with web ACLs and managed rules.
+- [Field-level encryption](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/field-level-encryption.html): Encrypt sensitive form fields between viewers and your application.
+- [Geographic restrictions](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/georestrictions.html): Restrict content delivery based on viewer geographic location.
+- [HTTPS and SSL/TLS certificates](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/cnames-and-https.html): Configure custom domains, certificates, and secure viewer connections.
+
+## Edge Compute
+- [Lambda@Edge](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/lambda-at-the-edge.html): Run Lambda functions at edge locations to customize request and response handling.
+- [CloudFront Functions](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/cloudfront-functions.html): Lightweight JavaScript functions for high-scale edge request processing.
+- [Choose between CloudFront Functions and Lambda@Edge](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/edge-functions-choosing.html): Compare capabilities, performance, and use cases for edge compute options.
+- [Event structure for Lambda@Edge](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/lambda-event-structure.html): Reference for CloudFront event payloads passed to Lambda@Edge functions.
+- [Restrictions on edge functions](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/edge-functions-restrictions.html): Limits, unsupported features, and operational constraints for edge functions.
+
+## API, CLI, and Infrastructure as Code
+- [CloudFront API Reference](https://docs.aws.amazon.com/cloudfront/latest/APIReference/Welcome.html): REST API reference for distributions, invalidations, policies, and related resources.
+- [AWS CLI cloudfront command reference](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/index.html): Command reference for automating CloudFront management with the AWS CLI.
+- [AWS SDK for JavaScript CloudFront examples](https://docs.aws.amazon.com/sdk-for-javascript/v3/developer-guide/javascript_cloudfront_code_examples.html): Code examples for managing CloudFront with the JavaScript SDK.
+- [AWS SDK code examples for CloudFront](https://docs.aws.amazon.com/code-library/latest/ug/cloudfront_code_examples.html): Multi-language SDK examples for common CloudFront operations.
+- [AWS CloudFormation AWS::CloudFront::Distribution](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-cloudfront-distribution.html): Resource reference for defining CloudFront distributions in CloudFormation.
+- [AWS CDK CloudFront module](https://docs.aws.amazon.com/cdk/api/v2/docs/aws-cdk-lib.aws_cloudfront-readme.html): CDK constructs and examples for provisioning CloudFront resources.
+
+## Monitoring and Operations
+- [Monitor CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/monitoring-using-cloudwatch.html): Use CloudWatch metrics, alarms, and dashboards for CloudFront visibility.
+- [CloudFront access logs](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/AccessLogs.html): Configure standard logging for requests served by CloudFront.
+- [Real-time logs](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/real-time-logs.html): Stream detailed request logs in near real time for analytics and debugging.
+- [CloudFront reports](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/programming-cloudwatch-metrics.html): Review usage metrics and traffic patterns for distributions.
+- [Troubleshooting CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/troubleshooting-distributions.html): Diagnose common distribution, origin, caching, and certificate issues.
+
+## Performance and Caching
+- [Expiration and cache control](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Expiration.html): Control TTLs and caching behavior with headers and distribution settings.
+- [Cache key and origin requests](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/controlling-the-cache-key.html): Configure cache policies and origin request policies for request variation.
+- [Compression support](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/ServingCompressedFiles.html): Enable automatic compression for supported content types.
+- [Request and response behavior](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/RequestAndResponseBehaviorCustomOrigin.html): Understand how CloudFront handles headers, methods, and origin communication.
+- [Improve performance](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/IncreasingDistributionPerformance.html): Best practices for optimizing cache hit ratio and delivery speed.
+
+## Media and Streaming
+- [Deliver video on demand](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/on-demand-streaming.html): Use CloudFront to distribute on-demand media content efficiently.
+- [Live streaming](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/live-streaming.html): Guidance for delivering live video streams through CloudFront.
+- [HTTP streaming](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/HTTPStreaming.html): Overview of supported HTTP streaming workflows and behaviors.
+- [Serve private media content](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-overview.html): Protect premium or restricted media with CloudFront access controls.
+
+## Tutorials and AWS Resources
+- [CloudFront workshops and tutorials](https://aws.amazon.com/cloudfront/resources/): Curated CloudFront learning resources, tutorials, and additional technical content.
+- [AWS networking and content delivery blog](https://aws.amazon.com/blogs/networking-and-content-delivery/): Blog posts covering CloudFront launches, architectures, and operational guidance.
+- [What is Amazon CloudFront?](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html): Introductory explanation of CloudFront concepts and core terminology.
+- [AWS re:Post CloudFront questions](https://repost.aws/tags/questions/TA5ZJ6W5jSSg6Q6K8mWwM2kA/amazon-cloudfront): Community Q&A for troubleshooting and implementation questions.
+- [AWS architecture center](https://aws.amazon.com/architecture/): Reference architectures and best practices relevant to CloudFront deployments.

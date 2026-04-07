@@ -1,0 +1,93 @@
+# Alibaba Cloud
+> Global cloud computing platform offering infrastructure, AI, data, security, and industry solutions for enterprises and developers.
+
+Alibaba Cloud provides public cloud services, developer tooling, product documentation, API references, pricing, training, and support resources across compute, storage, networking, databases, AI, and security.
+
+## Documentation
+- [Documentation Home](https://www.alibabacloud.com/help/en): Central hub for Alibaba Cloud product documentation, guides, and references.
+- [Product Documentation](https://www.alibabacloud.com/help/en/product-overview): Browse documentation by product category and service area.
+- [User Guides](https://www.alibabacloud.com/help/en/user-guide): Task-oriented setup and usage guides for cloud services.
+- [Developer Reference](https://www.alibabacloud.com/help/en/developer-reference): Technical references for APIs, SDKs, and developer tools.
+- [FAQ](https://www.alibabacloud.com/help/en/faq): Frequently asked questions across products and account topics.
+- [Best Practices](https://www.alibabacloud.com/help/en/best-practices): Recommended architectures, operations, and implementation guidance.
+- [Troubleshooting](https://www.alibabacloud.com/help/en/troubleshooting): Diagnostic and issue resolution articles for common problems.
+
+## API & Developer Tools
+- [OpenAPI Explorer](https://api.alibabacloud.com/): Interactive API explorer for debugging and generating request examples.
+- [Alibaba Cloud OpenAPI](https://www.alibabacloud.com/help/en/openapi): Overview of OpenAPI usage, authentication, and integration concepts.
+- [API Reference](https://www.alibabacloud.com/help/en/api-reference): Product API operations, parameters, and response schemas.
+- [SDK Center](https://www.alibabacloud.com/help/en/sdk): SDK documentation and language-specific integration resources.
+- [CLI Documentation](https://www.alibabacloud.com/help/en/cli): Command-line tool documentation for managing Alibaba Cloud resources.
+- [Terraform Provider](https://www.alibabacloud.com/help/en/terraform): Infrastructure as code guidance using Terraform with Alibaba Cloud.
+- [ROS Documentation](https://www.alibabacloud.com/help/en/ros): Resource Orchestration Service templates and automation documentation.
+
+## Compute & Containers
+- [Elastic Compute Service](https://www.alibabacloud.com/product/ecs): Virtual machine service for scalable cloud compute workloads.
+- [Simple Application Server](https://www.alibabacloud.com/product/simple-application-server): Simplified server hosting for lightweight applications and websites.
+- [Container Service for Kubernetes](https://www.alibabacloud.com/product/kubernetes): Managed Kubernetes service for containerized application deployment.
+- [Server Load Balancer](https://www.alibabacloud.com/product/slb): Traffic distribution service for high availability applications.
+- [Auto Scaling](https://www.alibabacloud.com/product/auto-scaling): Automatically adjusts compute capacity based on demand.
+- [Function Compute](https://www.alibabacloud.com/product/function-compute): Serverless compute platform for event-driven applications.
+- [Elastic GPU Service](https://www.alibabacloud.com/product/elastic-gpu-service): GPU-accelerated compute instances for AI and graphics workloads.
+
+## Storage, Database & Data
+- [Object Storage Service](https://www.alibabacloud.com/product/oss): Scalable object storage for unstructured data and backups.
+- [Apsara File Storage NAS](https://www.alibabacloud.com/product/nas): Managed network-attached file storage for shared workloads.
+- [Hybrid Backup Recovery](https://www.alibabacloud.com/product/hbr): Backup and disaster recovery for cloud and on-premises systems.
+- [ApsaraDB RDS](https://www.alibabacloud.com/product/apsaradb-rds): Managed relational database service for common database engines.
+- [PolarDB](https://www.alibabacloud.com/product/polardb): Cloud-native relational database with high performance and elasticity.
+- [ApsaraDB for Redis](https://www.alibabacloud.com/product/apsaradb-for-redis): Managed in-memory database service compatible with Redis.
+- [AnalyticDB](https://www.alibabacloud.com/product/analyticdb): Real-time analytics database for large-scale data processing.
+
+## Networking & CDN
+- [Virtual Private Cloud](https://www.alibabacloud.com/product/vpc): Isolated virtual networks for secure cloud resource deployment.
+- [Express Connect](https://www.alibabacloud.com/product/express-connect): Dedicated private connectivity between data centers and Alibaba Cloud.
+- [NAT Gateway](https://www.alibabacloud.com/product/nat-gateway): Managed network address translation for internet access control.
+- [Elastic IP Address](https://www.alibabacloud.com/product/eip): Static public IP service for cloud resources.
+- [CDN](https://www.alibabacloud.com/product/cdn): Content delivery network for accelerating global content distribution.
+- [Global Accelerator](https://www.alibabacloud.com/product/global-accelerator): Improves cross-region application performance and availability.
+- [Web Application Firewall](https://www.alibabacloud.com/product/waf): Protects web applications from common attacks and exploits.
+
+## AI, Machine Learning & Big Data
+- [Machine Learning Platform for AI](https://www.alibabacloud.com/product/machine-learning): End-to-end machine learning development and deployment platform.
+- [Platform for AI](https://www.alibabacloud.com/product/pai): AI platform for model training, inference, and MLOps workflows.
+- [Elastic Algorithm Service](https://www.alibabacloud.com/product/eas): Model serving and inference platform for AI applications.
+- [DataWorks](https://www.alibabacloud.com/product/dataworks): Data integration, development, governance, and orchestration platform.
+- [MaxCompute](https://www.alibabacloud.com/product/maxcompute): Large-scale data warehousing and batch processing service.
+- [Realtime Compute for Apache Flink](https://www.alibabacloud.com/product/flink): Stream processing service based on Apache Flink.
+- [Elasticsearch](https://www.alibabacloud.com/product/elasticsearch): Managed search and analytics service based on Elasticsearch.
+
+## Security & Identity
+- [Security Center](https://www.alibabacloud.com/product/security-center): Unified security management for threat detection and protection.
+- [Cloud Firewall](https://www.alibabacloud.com/product/cloud-firewall): Centralized network security policy enforcement and traffic control.
+- [Anti-DDoS](https://www.alibabacloud.com/product/anti-ddos): DDoS mitigation services for internet-facing applications.
+- [Key Management Service](https://www.alibabacloud.com/product/kms): Managed encryption key lifecycle and secrets protection.
+- [SSL Certificates Service](https://www.alibabacloud.com/product/ssl-certificates-service): Certificate issuance and lifecycle management for HTTPS.
+- [Resource Access Management](https://www.alibabacloud.com/product/ram): Identity and access management for users, roles, and permissions.
+- [ActionTrail](https://www.alibabacloud.com/product/actiontrail): Audit logging service for account and resource operations.
+
+## Learning & Training
+- [Alibaba Cloud Academy](https://edu.alibabacloud.com/): Training, certification, and learning resources for Alibaba Cloud technologies.
+- [Training Courses](https://edu.alibabacloud.com/course): Structured courses covering cloud products and architecture topics.
+- [Certification](https://edu.alibabacloud.com/certification): Professional certification programs for Alibaba Cloud skills validation.
+- [Hands-on Labs](https://edu.alibabacloud.com/lab): Practical labs for learning cloud services through guided exercises.
+- [Developer Tutorials](https://www.alibabacloud.com/help/en/tutorials): Step-by-step tutorials for building and deploying solutions.
+- [Quick Starts](https://www.alibabacloud.com/help/en/quick-start): Fast onboarding guides for common product scenarios.
+
+## Support & Account
+- [Support Center](https://www.alibabacloud.com/support): Entry point for technical support and service assistance.
+- [Help Center](https://www.alibabacloud.com/help): Product help, troubleshooting, and operational documentation.
+- [Submit a Ticket](https://selfservice.alibabacloud.com/ticket/createIndex): Create support cases for technical and account issues.
+- [Service Status](https://status.alibabacloud.com/): Current operational status for Alibaba Cloud services and regions.
+- [Contact Sales](https://www.alibabacloud.com/contact-sales): Reach Alibaba Cloud sales for product and solution inquiries.
+- [Pricing](https://www.alibabacloud.com/pricing): Pricing information and billing models for cloud services.
+- [Free Trial](https://www.alibabacloud.com/campaign/free-trial): Trial offers for evaluating Alibaba Cloud products.
+
+## Resources & Updates
+- [Blog](https://www.alibabacloud.com/blog): Product announcements, technical articles, and customer stories.
+- [Customer Success Stories](https://www.alibabacloud.com/customers): Case studies showing how organizations use Alibaba Cloud.
+- [Solutions](https://www.alibabacloud.com/solutions): Reference solutions for industries, architectures, and business scenarios.
+- [Events](https://www.alibabacloud.com/events): Webinars, conferences, and community events from Alibaba Cloud.
+- [Marketplace](https://marketplace.alibabacloud.com/): Third-party software and services available on Alibaba Cloud.
+- [Newsroom](https://www.alibabacloud.com/news): Corporate news, press releases, and media updates.
+- [About Alibaba Cloud](https://www.alibabacloud.com/about): Company overview, global infrastructure, and mission information.

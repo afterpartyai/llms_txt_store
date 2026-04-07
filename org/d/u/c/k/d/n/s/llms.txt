@@ -1,0 +1,43 @@
+# Duck DNS
+> Free dynamic DNS service hosted on AWS for mapping changing IP addresses to stable Duck DNS subdomains.
+
+Duck DNS provides simple dynamic DNS updates for personal domains and subdomains, with lightweight web, token, and integration-based update workflows. The site is minimal, so the most important resources are the homepage, update endpoint patterns, and policy pages.
+
+## Core Service
+- [Duck DNS Home](https://www.duckdns.org/): Main service homepage with account access, setup details, and dynamic DNS overview.
+- [Duck DNS Root Domain](https://www.duckdns.org): Canonical root URL for the Duck DNS dynamic DNS service.
+- [Dynamic DNS Update Endpoint](https://www.duckdns.org/update): Primary endpoint for updating domains with current IP address and configuration parameters.
+
+## API and Update Usage
+- [Update API](https://www.duckdns.org/update): HTTP-based API for setting IPv4, IPv6, TXT records, and clearing addresses.
+- [Update API with Domain Parameter](https://www.duckdns.org/update?domains={domain}): Update request pattern targeting one or more Duck DNS domains.
+- [Update API with Token Parameter](https://www.duckdns.org/update?domains={domain}&token={token}): Authenticated update request pattern using account token and domain name.
+- [Update API with IP Parameter](https://www.duckdns.org/update?domains={domain}&token={token}&ip={ip}): Explicitly set the IPv4 address instead of auto-detecting client IP.
+- [Update API with IPv6 Parameter](https://www.duckdns.org/update?domains={domain}&token={token}&ipv6={ipv6}): Set or update the IPv6 address for a Duck DNS domain.
+- [Update API with TXT Parameter](https://www.duckdns.org/update?domains={domain}&token={token}&txt={value}): Set a TXT record value for verification or custom DNS workflows.
+- [Update API with Clear Parameter](https://www.duckdns.org/update?domains={domain}&token={token}&clear=true): Clear existing address records during an update operation.
+
+## Account and Authentication
+- [Sign In with Google](https://www.duckdns.org/auth/google): Google-based authentication entry point for accessing Duck DNS accounts.
+- [Sign In with GitHub](https://www.duckdns.org/auth/github): GitHub-based authentication entry point for managing Duck DNS domains.
+- [Sign In with Reddit](https://www.duckdns.org/auth/reddit): Reddit-based authentication option for Duck DNS account access.
+- [Sign In with Twitter/X](https://www.duckdns.org/auth/twitter): Social login endpoint for Twitter/X-based Duck DNS authentication.
+
+## Domain Management
+- [Domain Dashboard](https://www.duckdns.org/): Logged-in management area for creating and updating Duck DNS subdomains.
+- [Subdomain Creation Workflow](https://www.duckdns.org/): Interface for registering free Duck DNS subdomains under duckdns.org.
+- [Token-Based Domain Updates](https://www.duckdns.org/update): Programmatic domain management using account token and update requests.
+
+## Integration Patterns
+- [Cron-Based Updates](https://www.duckdns.org/update): Suitable endpoint for scheduled updates from Linux cron jobs or scripts.
+- [Router and NAS Integrations](https://www.duckdns.org/update): Compatible with routers, NAS devices, and home server dynamic DNS clients.
+- [Container and Homelab Updates](https://www.duckdns.org/update): Simple HTTP API works well for Docker, homelab, and self-hosted automation.
+- [Certificate Verification TXT Updates](https://www.duckdns.org/update?domains={domain}&token={token}&txt={value}): TXT record support can assist with DNS-based verification workflows.
+
+## Policies
+- [Terms of Use](https://www.duckdns.org/tac.jsp): Terms governing use of the Duck DNS service.
+- [Privacy Statement](https://www.duckdns.org/pp.jsp): Privacy policy describing handling of user and service data.
+
+## External and Support Links
+- [Bitcoin](http://www.bitcoin.org/): External Bitcoin project link referenced in the Duck DNS footer.
+- [Bitcoin Donation URI](bitcoin:16gHnv3NTjpF5ZavMi9QYBFxUkNchdicUS): Donation address published in the Duck DNS footer.

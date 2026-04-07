@@ -1,0 +1,81 @@
+# Cloudflare Pages
+> Build and deploy full-stack applications and static sites on Cloudflare's global network.
+
+Cloudflare Pages provides hosting, deployment, preview environments, framework integrations, and full-stack capabilities for modern web applications. Its documentation on developers.cloudflare.com covers setup, builds, bindings, Functions, framework guides, and platform reference material.
+
+## Getting Started
+- [Pages Overview](https://developers.cloudflare.com/pages/): Introduction to Cloudflare Pages, deployment workflows, and platform capabilities.
+- [Get Started](https://developers.cloudflare.com/pages/get-started/): Start a new Pages project and deploy your first site.
+- [Git Integration](https://developers.cloudflare.com/pages/get-started/git-integration/): Connect Git repositories for automatic builds and deployments.
+- [Direct Upload](https://developers.cloudflare.com/pages/get-started/direct-upload/): Deploy Pages projects without a Git provider using direct uploads.
+- [Preview Deployments](https://developers.cloudflare.com/pages/configuration/preview-deployments/): Understand preview environments for branches and pull requests.
+- [Custom Domains](https://developers.cloudflare.com/pages/configuration/custom-domains/): Attach and manage custom domains for Pages projects.
+
+## Configuration
+- [Configuration Overview](https://developers.cloudflare.com/pages/configuration/): Configure builds, domains, redirects, headers, and deployment behavior.
+- [Build Configuration](https://developers.cloudflare.com/pages/configuration/build-configuration/): Set build commands, output directories, and environment-specific settings.
+- [Environment Variables](https://developers.cloudflare.com/pages/configuration/environment-variables/): Define and manage environment variables for Pages builds and runtime.
+- [Custom Domains](https://developers.cloudflare.com/pages/configuration/custom-domains/): Configure apex and subdomain routing for Pages sites.
+- [Preview Deployments](https://developers.cloudflare.com/pages/configuration/preview-deployments/): Control branch previews and deployment previews during development.
+- [Redirects](https://developers.cloudflare.com/pages/configuration/redirects/): Create redirect rules for Pages applications using _redirects.
+- [Headers](https://developers.cloudflare.com/pages/configuration/headers/): Set custom HTTP headers for Pages assets and routes.
+
+## Functions
+- [Pages Functions Overview](https://developers.cloudflare.com/pages/functions/): Add server-side logic to Pages applications using Functions.
+- [Get Started with Functions](https://developers.cloudflare.com/pages/functions/get-started/): Build and deploy your first Pages Functions project.
+- [Routing](https://developers.cloudflare.com/pages/functions/routing/): Define how requests map to Functions files and handlers.
+- [Bindings](https://developers.cloudflare.com/pages/functions/bindings/): Connect KV, D1, R2, Durable Objects, and other resources.
+- [Middleware](https://developers.cloudflare.com/pages/functions/middleware/): Run shared logic before or after request handlers.
+- [Advanced Mode](https://developers.cloudflare.com/pages/functions/advanced-mode/): Use Pages with a custom Workers-style entrypoint.
+- [Local Development](https://developers.cloudflare.com/pages/functions/local-development/): Test Pages Functions locally during development.
+
+## Framework Guides
+- [Framework Guides Overview](https://developers.cloudflare.com/pages/framework-guides/): Browse deployment guides for popular frontend and full-stack frameworks.
+- [Next.js](https://developers.cloudflare.com/pages/framework-guides/nextjs/): Deploy Next.js applications on Cloudflare Pages.
+- [React](https://developers.cloudflare.com/pages/framework-guides/react/): Build and deploy React applications with Pages.
+- [Vue](https://developers.cloudflare.com/pages/framework-guides/vue/): Deploy Vue applications using Cloudflare Pages workflows.
+- [SvelteKit](https://developers.cloudflare.com/pages/framework-guides/deploy-a-svelte-site/): Deploy Svelte and related frontend projects on Pages.
+- [Nuxt](https://developers.cloudflare.com/pages/framework-guides/deploy-a-nuxt-site/): Deploy Nuxt applications with Cloudflare Pages.
+- [Hugo](https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site/): Publish Hugo static sites on Pages.
+- [Astro](https://developers.cloudflare.com/pages/framework-guides/deploy-an-astro-site/): Deploy Astro sites with Cloudflare Pages.
+
+## Platform Reference
+- [Limits](https://developers.cloudflare.com/pages/platform/limits/): Review current Pages limits for builds, files, projects, and deployments.
+- [Pricing](https://developers.cloudflare.com/pages/platform/pricing/): Compare free and paid usage details for Cloudflare Pages.
+- [Build Image](https://developers.cloudflare.com/pages/configuration/build-image/): Reference available build environments and supported tooling.
+- [Compatibility Dates](https://developers.cloudflare.com/pages/functions/compatibility-flags/): Understand runtime compatibility settings for Pages Functions.
+- [Known Issues](https://developers.cloudflare.com/pages/platform/known-issues/): Check documented platform limitations and current caveats.
+- [Source Maps and Debugging](https://developers.cloudflare.com/pages/functions/source-maps/): Configure source maps and improve debugging for Functions.
+
+## API and CLI
+- [Cloudflare API Reference](https://developers.cloudflare.com/api/): Explore Cloudflare APIs relevant to Pages project management.
+- [Pages API](https://developers.cloudflare.com/api/resources/pages/): Manage Pages projects, deployments, and domains via API.
+- [Wrangler Overview](https://developers.cloudflare.com/workers/wrangler/): Use Wrangler CLI to develop and deploy Cloudflare applications.
+- [Wrangler Pages Commands](https://developers.cloudflare.com/workers/wrangler/commands/#pages): Reference Wrangler commands for Pages workflows.
+- [Deploy with Wrangler](https://developers.cloudflare.com/pages/functions/deploy-a-function/): Deploy Pages Functions and related assets from local tooling.
+- [REST API Authentication](https://developers.cloudflare.com/fundamentals/api/get-started/create-token/): Create API tokens for automating Pages operations.
+
+## Integrations and Bindings
+- [Bindings Overview](https://developers.cloudflare.com/pages/functions/bindings/): Attach Cloudflare resources to Pages Functions.
+- [KV Bindings](https://developers.cloudflare.com/pages/functions/bindings/#kv): Use Workers KV from Pages Functions.
+- [D1 Bindings](https://developers.cloudflare.com/pages/functions/bindings/#d1-databases): Connect D1 databases to Pages applications.
+- [R2 Bindings](https://developers.cloudflare.com/pages/functions/bindings/#r2-buckets): Access R2 object storage from Pages Functions.
+- [Durable Objects Bindings](https://developers.cloudflare.com/pages/functions/bindings/#durable-objects): Use Durable Objects for stateful coordination in Pages.
+- [Hyperdrive Bindings](https://developers.cloudflare.com/pages/functions/bindings/#hyperdrive): Connect external databases through Hyperdrive from Pages.
+- [Analytics Engine Bindings](https://developers.cloudflare.com/pages/functions/bindings/#analytics-engine): Write analytics data from Pages Functions.
+
+## Tutorials and Examples
+- [Tutorials Overview](https://developers.cloudflare.com/pages/tutorials/): Learn Pages through practical walkthroughs and example projects.
+- [Blog with Pages](https://developers.cloudflare.com/pages/tutorials/build-a-blog/): Create a blog project using Cloudflare Pages.
+- [Authentication Example](https://developers.cloudflare.com/pages/tutorials/authentication/): Add authentication patterns to a Pages application.
+- [Form Handling](https://developers.cloudflare.com/pages/tutorials/forms/): Process forms in Pages using Functions and backend logic.
+- [Image Sharing App](https://developers.cloudflare.com/pages/tutorials/shareable-image-app/): Build a dynamic image generation application on Pages.
+- [A/B Testing](https://developers.cloudflare.com/pages/tutorials/ab-testing/): Implement A/B testing patterns with Pages and Functions.
+
+## Community and Support
+- [Pages Docs](https://developers.cloudflare.com/pages): Official Cloudflare Pages documentation hub.
+- [Cloudflare Developers Discord](https://discord.gg/cloudflaredev): Join the developer community for support and discussion.
+- [Cloudflare Pages Homepage](https://pages.dev/): Product homepage for Cloudflare Pages.
+- [Cloudflare Dashboard Login](https://dash.cloudflare.com/login?redirect_uri=https%3A%2F%2Fdash.cloudflare.com%2F%3Faccount%3Dpages): Access the dashboard to manage Pages projects.
+- [Cloudflare Dashboard Sign Up](https://dash.cloudflare.com/sign-up/workers-and-pages): Create an account to start using Workers and Pages.
+- [Cloudflare Developers](https://developers.cloudflare.com/): Browse Cloudflare product documentation beyond Pages.

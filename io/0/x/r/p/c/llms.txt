@@ -1,0 +1,64 @@
+# 0xRPC
+> 0xRPC provides blockchain RPC infrastructure, APIs, and developer tooling for accessing EVM-compatible networks.
+
+0xRPC offers RPC endpoints, chain support information, and developer resources for building applications that interact with multiple blockchain networks.
+
+## Documentation
+- [Docs Home](https://0xrpc.io/docs): Main documentation hub for getting started with 0xRPC services.
+- [Getting Started](https://0xrpc.io/docs/getting-started): Introductory guide for connecting applications to 0xRPC endpoints.
+- [Authentication](https://0xrpc.io/docs/authentication): Explains API key usage and request authentication requirements.
+- [Rate Limits](https://0xrpc.io/docs/rate-limits): Describes throughput limits, quotas, and usage constraints.
+- [Error Codes](https://0xrpc.io/docs/error-codes): Reference for common API and RPC error responses.
+- [FAQ](https://0xrpc.io/docs/faq): Answers to common questions about setup, usage, and support.
+
+## RPC API Reference
+- [RPC Overview](https://0xrpc.io/docs/rpc): Overview of supported JSON-RPC methods and endpoint behavior.
+- [Ethereum Methods](https://0xrpc.io/docs/rpc/ethereum): Reference for Ethereum-compatible JSON-RPC method support.
+- [Network Endpoints](https://0xrpc.io/docs/rpc/endpoints): Lists available RPC endpoints and network-specific URLs.
+- [WebSocket Support](https://0xrpc.io/docs/rpc/websocket): Details WebSocket connectivity and subscription capabilities.
+- [Batch Requests](https://0xrpc.io/docs/rpc/batch-requests): Explains sending multiple JSON-RPC calls in a single request.
+- [Tracing Methods](https://0xrpc.io/docs/rpc/tracing): Documents tracing and debug RPC methods where available.
+
+## Supported Networks
+- [Networks Overview](https://0xrpc.io/docs/networks): Summary of chains and environments supported by 0xRPC.
+- [Ethereum](https://0xrpc.io/docs/networks/ethereum): Network details, chain IDs, and endpoint information for Ethereum.
+- [Polygon](https://0xrpc.io/docs/networks/polygon): Network details, chain IDs, and endpoint information for Polygon.
+- [Arbitrum](https://0xrpc.io/docs/networks/arbitrum): Network details, chain IDs, and endpoint information for Arbitrum.
+- [Optimism](https://0xrpc.io/docs/networks/optimism): Network details, chain IDs, and endpoint information for Optimism.
+- [Base](https://0xrpc.io/docs/networks/base): Network details, chain IDs, and endpoint information for Base.
+- [BNB Chain](https://0xrpc.io/docs/networks/bnb-chain): Network details, chain IDs, and endpoint information for BNB Chain.
+
+## Guides
+- [Guides Home](https://0xrpc.io/docs/guides): Collection of practical integration and usage tutorials.
+- [Connect with ethers.js](https://0xrpc.io/docs/guides/ethersjs): Shows how to use 0xRPC with ethers.js providers.
+- [Connect with web3.js](https://0xrpc.io/docs/guides/web3js): Shows how to use 0xRPC with web3.js clients.
+- [Using viem](https://0xrpc.io/docs/guides/viem): Demonstrates viem configuration with 0xRPC endpoints.
+- [Switching Networks](https://0xrpc.io/docs/guides/switching-networks): Explains multi-chain configuration and network selection patterns.
+- [WebSocket Subscriptions](https://0xrpc.io/docs/guides/websocket-subscriptions): Guide to listening for events and new blocks over WebSockets.
+- [Troubleshooting Requests](https://0xrpc.io/docs/guides/troubleshooting): Helps diagnose connectivity, timeout, and RPC response issues.
+
+## Account and Usage
+- [Dashboard](https://0xrpc.io/dashboard): Account dashboard for managing projects, keys, and usage.
+- [Projects](https://0xrpc.io/dashboard/projects): Manage application projects and associated RPC credentials.
+- [API Keys](https://0xrpc.io/dashboard/api-keys): Create, rotate, and revoke API keys for authenticated access.
+- [Usage Metrics](https://0xrpc.io/dashboard/usage): View request volume, consumption, and service activity.
+- [Billing](https://0xrpc.io/dashboard/billing): Manage plans, invoices, and payment-related account settings.
+- [Team Settings](https://0xrpc.io/dashboard/team): Configure team access and shared workspace permissions.
+
+## Status and Support
+- [Status Page](https://0xrpc.io/status): Service health, uptime, and incident reporting for 0xRPC systems.
+- [Support](https://0xrpc.io/support): Contact and support entry point for technical or account issues.
+- [Contact](https://0xrpc.io/contact): General contact page for sales, partnerships, and inquiries.
+- [Community](https://0xrpc.io/community): Community channels and developer discussion resources.
+
+## Company
+- [Home](https://0xrpc.io/): Main product homepage for 0xRPC infrastructure services.
+- [About](https://0xrpc.io/about): Overview of the company, mission, and product background.
+- [Pricing](https://0xrpc.io/pricing): Plan and pricing information for RPC infrastructure access.
+- [Blog](https://0xrpc.io/blog): Articles, announcements, and technical updates from the 0xRPC team.
+- [Careers](https://0xrpc.io/careers): Open roles and hiring information for the company.
+
+## Legal
+- [Terms of Service](https://0xrpc.io/terms): Terms governing use of the 0xRPC platform and services.
+- [Privacy Policy](https://0xrpc.io/privacy): Explains data handling, privacy practices, and user rights.
+- [Cookie Policy](https://0xrpc.io/cookies): Describes cookie usage and related tracking disclosures.

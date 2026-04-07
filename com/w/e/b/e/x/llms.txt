@@ -1,0 +1,75 @@
+# Webex
+> Webex provides collaboration, calling, meetings, messaging, events, webinars, and customer experience solutions for hybrid work.
+
+Webex combines enterprise communications, customer experience, and developer platforms across meetings, calling, contact center, devices, and integrations.
+
+## Product Documentation
+- [Webex Help Center](https://help.webex.com/): Central product documentation for meetings, calling, messaging, devices, and administration.
+- [Webex Suite](https://help.webex.com/en-us/article/nj6y7dcb/Webex-Suite): Overview of the integrated Webex collaboration suite and included capabilities.
+- [Webex Meetings](https://help.webex.com/en-us/article/WBX000026378/Webex-Meetings): Documentation for scheduling, joining, hosting, and managing meetings.
+- [Webex Calling](https://help.webex.com/en-us/article/nwq4jxc/Webex-Calling): Documentation for cloud calling features, setup, and user workflows.
+- [Webex Contact Center](https://help.webex.com/en-us/article/njza5uf/Webex-Contact-Center): Guides for contact center administration, routing, and agent experiences.
+- [Webex Webinars](https://help.webex.com/en-us/article/WBX9000031018/Webex-Webinars): Documentation for planning, hosting, and managing webinars and large events.
+- [Webex Devices](https://help.webex.com/en-us/article/WBX000028782/Webex-Devices): Help for room devices, desk devices, phones, and peripherals.
+
+## Administration
+- [Control Hub Help](https://help.webex.com/en-us/article/nj5p67g/Control-Hub): Admin guidance for organization setup, services, users, and analytics.
+- [Webex Administration](https://help.webex.com/en-us/article/WBX000026378/Webex-Administration): Administrative documentation across Webex services and deployments.
+- [User Management](https://help.webex.com/en-us/article/nikzbgy/Add-users-manually-in-Control-Hub): Instructions for adding and managing users in Control Hub.
+- [Single Sign-On](https://help.webex.com/en-us/article/WBX000028782/Single-Sign-On-Integration-in-Control-Hub): SSO setup and identity integration for Webex organizations.
+- [Analytics and Reports](https://help.webex.com/en-us/article/n3ijtao/Analytics-for-Your-Cloud-Collaboration-Portfolio): Usage analytics and reporting for collaboration services.
+- [Hybrid Services](https://help.webex.com/en-us/article/nx7f9adb/Deployment-Guide-for-Webex-Hybrid-Calendar-Service): Deployment guidance for Webex hybrid service integrations.
+
+## Developer Platform
+- [Webex for Developers](https://developer.webex.com/): Developer portal for APIs, SDKs, widgets, and integration resources.
+- [API Reference](https://developer.webex.com/docs/api/v1): REST API reference for Webex platform resources and operations.
+- [Developer Guides](https://developer.webex.com/docs/guides): Conceptual and task-oriented guides for building Webex integrations.
+- [Developer Blog](https://developer.webex.com/blog): Articles, announcements, and tutorials for the Webex developer ecosystem.
+- [Developer Support](https://developer.webex.com/support): Support resources, FAQs, and community links for developers.
+- [Developer Changelog](https://developer.webex.com/docs/changelog): Release notes and updates for APIs, SDKs, and platform changes.
+
+## APIs
+- [Messages API](https://developer.webex.com/docs/api/v1/messages): Send, retrieve, and manage messages in Webex spaces.
+- [Meetings API](https://developer.webex.com/docs/api/v1/meetings): Create, update, and manage meetings programmatically.
+- [Rooms API](https://developer.webex.com/docs/api/v1/rooms): Manage spaces, memberships, and collaboration contexts.
+- [People API](https://developer.webex.com/docs/api/v1/people): Access user profiles, organization membership, and identity data.
+- [Webhooks API](https://developer.webex.com/docs/api/v1/webhooks): Subscribe to Webex events and receive change notifications.
+- [Devices API](https://developer.webex.com/docs/api/v1/devices): Manage devices and device-related information through the platform.
+- [Recording API](https://developer.webex.com/docs/api/v1/recordings): Access and manage meeting recordings and metadata.
+
+## SDKs and Embedded Experiences
+- [JavaScript SDK](https://developer.webex.com/docs/sdks/browser): Browser SDK for messaging, meetings, and embedded collaboration experiences.
+- [Android SDK](https://developer.webex.com/docs/sdks/android): Native Android SDK for integrating Webex capabilities into mobile apps.
+- [iOS SDK](https://developer.webex.com/docs/sdks/ios): Native iOS SDK for messaging and meeting experiences in apps.
+- [Widgets](https://developer.webex.com/docs/widgets): Prebuilt UI components for embedding Webex collaboration features.
+- [Embedded Apps](https://developer.webex.com/docs/embedded-apps): Build in-meeting and in-messaging embedded app experiences for Webex.
+- [Integrations](https://developer.webex.com/docs/integrations): Create OAuth integrations and connect external applications to Webex.
+
+## Adoption and Training
+- [Webex Academy](https://academy.webex.com/): Training resources and learning paths for Webex users, admins, and partners.
+- [Webex Community](https://community.cisco.com/t5/webex/ct-p/5676j-disc-webex): Community discussions, troubleshooting, and peer support for Webex products.
+- [Webex Blog](https://blog.webex.com/): Product news, hybrid work insights, and customer experience thought leadership.
+- [Webex Events and Webinars Blog](https://blog.webex.com/collaboration/events-webinars/): Articles focused on webinars, events, and audience engagement.
+- [Customer Experience Blog](https://blog.webex.com/customer-experience/): Insights and updates related to contact center and customer experience.
+
+## Downloads and Apps
+- [Webex Downloads](https://www.webex.com/downloads.html): Download desktop, mobile, and device software for Webex services.
+- [Webex App](https://www.webex.com/downloads.html#webex-app): Download the unified Webex app for messaging, meetings, and calling.
+- [Webex Meetings App](https://www.webex.com/downloads.html#meetings): Download meeting clients and productivity tools for Webex Meetings.
+- [Webex Calling](https://www.webex.com/products/calling.html): Product information and access point for cloud calling capabilities.
+- [Webex Devices](https://www.webex.com/us/en/devices.html): Explore supported collaboration devices for rooms, desks, and calling.
+
+## Solutions
+- [Webex Meetings](https://www.webex.com/us/en/meetings.html): Product overview for video meetings, collaboration, and meeting intelligence.
+- [Webex Calling](https://www.webex.com/us/en/calling.html): Product overview for enterprise cloud calling and telephony.
+- [Webex Contact Center](https://www.webex.com/us/en/contact-center.html): Product overview for omnichannel customer experience and contact center operations.
+- [Webex Events](https://www.webex.com/us/en/events.html): Product overview for virtual, hybrid, and large-scale event experiences.
+- [Webex Webinars](https://www.webex.com/us/en/webinars.html): Product overview for webinar hosting, audience engagement, and analytics.
+- [Webex Messaging](https://www.webex.com/us/en/messaging.html): Product overview for team messaging, spaces, and persistent collaboration.
+
+## Support
+- [Webex Support](https://www.webex.com/support.html): Entry point for product support, troubleshooting, and customer assistance.
+- [Help Center Search](https://help.webex.com/en-us/): Browse and search Webex product help articles and setup guides.
+- [Webex Status](https://status.webex.com/): Service status, incidents, and operational updates for Webex services.
+- [Cisco Support](https://www.cisco.com/c/en/us/support/index.html): Broader Cisco technical support resources relevant to Webex deployments.
+- [Contact Support](https://www.webex.com/contact-us.html): Contact options for sales, support, and product inquiries.

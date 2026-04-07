@@ -1,0 +1,60 @@
+# cdnbuild.net
+> CDNBuild provides a browser-based JavaScript package CDN with versioned URLs, ESM support, and package metadata endpoints.
+
+The site serves npm packages over a fast CDN and offers package browsing, version selection, and importable build URLs for frontend applications.
+
+## Package Browser
+- [Browse Packages](https://cdnbuild.net/): Search and explore npm packages available through CDNBuild.
+- [React Package](https://cdnbuild.net/react): Package page with available versions and CDN import URLs.
+- [Vue Package](https://cdnbuild.net/vue): Package page showing versioned builds and browser import options.
+- [Lodash Package](https://cdnbuild.net/lodash): Package details and CDN delivery paths for lodash releases.
+- [Three Package](https://cdnbuild.net/three): Package page for three.js builds and versioned asset access.
+
+## Versioned Package URLs
+- [React Latest Build](https://cdnbuild.net/react): Unpinned package URL resolving to the latest available react build.
+- [React 18.2.0](https://cdnbuild.net/react@18.2.0): Version-pinned URL for reproducible react imports.
+- [Vue 3.4.0](https://cdnbuild.net/vue@3.4.0): Version-specific vue package delivery URL.
+- [Lodash 4.17.21](https://cdnbuild.net/lodash@4.17.21): Fixed lodash version URL for stable browser usage.
+- [Three 0.160.0](https://cdnbuild.net/three@0.160.0): Pinned three.js package URL for deterministic builds.
+
+## File and Entry Resolution
+- [React JSX Runtime](https://cdnbuild.net/react/jsx-runtime): Subpath export for React JSX runtime usage.
+- [React DOM Client](https://cdnbuild.net/react-dom/client): Subpath entry for React DOM client rendering APIs.
+- [Lodash Debounce](https://cdnbuild.net/lodash/debounce): Direct file-style import path for a specific lodash utility.
+- [Three Examples Module](https://cdnbuild.net/three/examples/jsm/controls/OrbitControls.js): Deep file path access for package-contained modules.
+- [Vue Runtime ESM Build](https://cdnbuild.net/vue/dist/vue.runtime.esm-browser.js): Direct asset path for a specific distributed build file.
+
+## Metadata Endpoints
+- [React Metadata](https://cdnbuild.net/react?meta): Package metadata including files and resolved entry information.
+- [Vue Metadata](https://cdnbuild.net/vue?meta): Metadata response for vue package contents and resolution details.
+- [Lodash Metadata](https://cdnbuild.net/lodash?meta): Package metadata endpoint for lodash files and package information.
+- [Three Metadata](https://cdnbuild.net/three?meta): Metadata for three.js package structure and available files.
+- [React 18.2.0 Metadata](https://cdnbuild.net/react@18.2.0?meta): Version-specific metadata for a pinned react release.
+
+## Scoped Packages
+- [Types React](https://cdnbuild.net/@types/react): Scoped package page for React TypeScript definitions.
+- [Babel Standalone](https://cdnbuild.net/@babel/standalone): Scoped package delivery for Babel standalone builds.
+- [TanStack React Query](https://cdnbuild.net/@tanstack/react-query): Scoped package page for React Query browser imports.
+- [Lit HTML](https://cdnbuild.net/lit-html): Package page for lit-html module delivery.
+- [Sentry Browser](https://cdnbuild.net/@sentry/browser): Scoped package URL for Sentry browser SDK builds.
+
+## Common Frontend Libraries
+- [Preact](https://cdnbuild.net/preact): Package page for Preact browser-ready module imports.
+- [Svelte](https://cdnbuild.net/svelte): Package page for Svelte package files and versioned URLs.
+- [Axios](https://cdnbuild.net/axios): Package page for Axios browser and ESM builds.
+- [Day.js](https://cdnbuild.net/dayjs): Package page for Day.js lightweight date library delivery.
+- [Zod](https://cdnbuild.net/zod): Package page for Zod schema validation package imports.
+
+## Framework and Tooling Packages
+- [Next](https://cdnbuild.net/next): Package page for Next.js package browsing and file access.
+- [Vite](https://cdnbuild.net/vite): Package page for Vite package files and versioned delivery.
+- [TypeScript](https://cdnbuild.net/typescript): Package page for TypeScript compiler package assets.
+- [Esbuild](https://cdnbuild.net/esbuild): Package page for esbuild package metadata and files.
+- [Rollup](https://cdnbuild.net/rollup): Package page for Rollup package delivery and version browsing.
+
+## Utility and UI Packages
+- [Tailwind CSS](https://cdnbuild.net/tailwindcss): Package page for Tailwind CSS package assets.
+- [PostCSS](https://cdnbuild.net/postcss): Package page for PostCSS package browsing and imports.
+- [RxJS](https://cdnbuild.net/rxjs): Package page for RxJS modules and versioned CDN URLs.
+- [Framer Motion](https://cdnbuild.net/framer-motion): Package page for Framer Motion package delivery.
+- [Shadcn UI](https://cdnbuild.net/shadcn-ui): Package page for shadcn-ui package assets and versions.

@@ -1,0 +1,81 @@
+# Alibaba Cloud OpenAPI Explorer
+> Alibaba Cloud's developer platform for exploring, debugging, and understanding cloud service APIs and SDKs.
+
+This site centers on API reference, debugging tools, SDK generation, and developer resources for Alibaba Cloud services across compute, storage, networking, security, AI, and data products.
+
+## Core Platform
+- [OpenAPI Explorer](https://api.aliyun.com/): Interactive console for searching, testing, and generating requests for Alibaba Cloud APIs.
+- [API Documentation](https://api.aliyun.com/document): Entry point for product API references and operation-level documentation.
+- [Developer Documentation](https://help.aliyun.com/): Central documentation portal for Alibaba Cloud products, guides, and references.
+- [SDK Center](https://api.aliyun.com/sdk): SDK discovery and generation hub for multiple programming languages.
+- [CLI Documentation](https://help.aliyun.com/zh/cli/): Documentation for Alibaba Cloud CLI installation, configuration, and command usage.
+
+## API Reference
+- [API Search](https://api.aliyun.com/product): Browse Alibaba Cloud products with available OpenAPI definitions and references.
+- [API Debugging](https://api.aliyun.com/api): Test API operations with parameters, signatures, and sample requests.
+- [Error Center](https://api.aliyun.com/troubleshoot): Lookup API error codes and troubleshooting information across services.
+- [Change History](https://api.aliyun.com/document/ChangeLog): Track API updates, version changes, and newly released operations.
+- [Endpoints](https://api.aliyun.com/meta/vpc): Example product metadata and endpoint information for service access.
+
+## SDKs and Tools
+- [Alibaba Cloud SDK Overview](https://api.aliyun.com/sdk?spm=api-workbench): Overview of available SDKs and code generation support.
+- [Tea SDK Ecosystem](https://github.com/aliyun/tea): Core cross-language library model used by Alibaba Cloud SDKs.
+- [Java SDK](https://github.com/aliyun/alibabacloud-java-sdk): Java SDK repository for Alibaba Cloud OpenAPI-based services.
+- [Python SDK](https://github.com/aliyun/alibabacloud-python-sdk): Python SDK repository for Alibaba Cloud service integrations.
+- [Go SDK](https://github.com/aliyun/alibabacloud-go-sdk): Go SDK repository for Alibaba Cloud API access.
+- [Terraform Provider](https://github.com/aliyun/terraform-provider-alicloud): Infrastructure as code provider for managing Alibaba Cloud resources.
+
+## Identity and Access
+- [Resource Access Management Documentation](https://help.aliyun.com/product/28625.html): Product documentation for users, roles, policies, and access control.
+- [STS Documentation](https://help.aliyun.com/product/28756.html): Security Token Service documentation for temporary credentials and role assumption.
+- [Signature Mechanism](https://help.aliyun.com/document_detail/53045.html): Reference for request signing and authentication for Alibaba Cloud APIs.
+- [AccessKey Management](https://help.aliyun.com/document_detail/38738.html): Guidance for creating, rotating, and securing AccessKey credentials.
+- [RAM API Reference](https://api.aliyun.com/product/Ram): API operations for identity, policy, and role management.
+
+## Compute
+- [Elastic Compute Service Documentation](https://help.aliyun.com/product/25365.html): Documentation for virtual machines, disks, images, and instance lifecycle management.
+- [ECS API Reference](https://api.aliyun.com/product/Ecs): API operations for instances, networking, storage, and scaling tasks.
+- [Container Service for Kubernetes Documentation](https://help.aliyun.com/product/85222.html): Guides and references for managed Kubernetes clusters and workloads.
+- [ACK API Reference](https://api.aliyun.com/product/CS): API operations for cluster creation, scaling, and Kubernetes management.
+- [Function Compute Documentation](https://help.aliyun.com/product/50980.html): Serverless compute documentation for functions, triggers, and runtime management.
+- [Function Compute API Reference](https://api.aliyun.com/product/FC): API operations for serverless applications and function resources.
+
+## Storage and Networking
+- [Object Storage Service Documentation](https://help.aliyun.com/product/31815.html): Documentation for buckets, objects, lifecycle rules, and access control.
+- [OSS API Reference](https://api.aliyun.com/product/Oss): API operations for object storage management and data access.
+- [Virtual Private Cloud Documentation](https://help.aliyun.com/product/44415.html): Documentation for VPCs, subnets, route tables, and private networking.
+- [VPC API Reference](https://api.aliyun.com/product/Vpc): API operations for network provisioning and connectivity management.
+- [Server Load Balancer Documentation](https://help.aliyun.com/product/27579.html): Guides for load balancing, listeners, and traffic distribution.
+- [SLB API Reference](https://api.aliyun.com/product/Slb): API operations for classic load balancer configuration and monitoring.
+
+## Databases and Data
+- [ApsaraDB RDS Documentation](https://help.aliyun.com/product/96055.html): Documentation for managed relational databases, backups, and high availability.
+- [RDS API Reference](https://api.aliyun.com/product/Rds): API operations for database instances, accounts, backups, and configuration.
+- [PolarDB Documentation](https://help.aliyun.com/product/20415.html): Documentation for cloud-native relational database clusters and scaling.
+- [PolarDB API Reference](https://api.aliyun.com/product/polardb): API operations for cluster, account, and backup management.
+- [Table Store Documentation](https://help.aliyun.com/product/27278.html): Documentation for NoSQL wide-column storage and search capabilities.
+- [OTS API Reference](https://api.aliyun.com/product/Ots): API operations for table, index, and instance management.
+
+## Security and Observability
+- [Cloud Firewall Documentation](https://help.aliyun.com/product/96063.html): Documentation for network security policies, traffic control, and protection.
+- [Cloud Firewall API Reference](https://api.aliyun.com/product/Cloudfw): API operations for firewall instances, rules, and assets.
+- [ActionTrail Documentation](https://help.aliyun.com/product/28832.html): Documentation for auditing account activity and API operation history.
+- [ActionTrail API Reference](https://api.aliyun.com/product/Actiontrail): API operations for trails, events, and audit delivery.
+- [CloudMonitor Documentation](https://help.aliyun.com/product/28572.html): Documentation for metrics, alerts, dashboards, and monitoring integrations.
+- [CloudMonitor API Reference](https://api.aliyun.com/product/Cms): API operations for alarms, metrics, and monitoring resources.
+
+## Developer Guides
+- [OpenAPI Getting Started](https://help.aliyun.com/document_detail/121982.html): Introductory guide to calling Alibaba Cloud APIs and using OpenAPI Explorer.
+- [CLI Quick Start](https://help.aliyun.com/zh/cli/getting-started/): Quick start for installing and configuring Alibaba Cloud CLI.
+- [SDK Usage Guide](https://help.aliyun.com/document_detail/29475.html): Guide to using SDKs for authenticated API requests and service integration.
+- [API Error Troubleshooting](https://api.aliyun.com/troubleshoot): Searchable error code center for diagnosing API request failures.
+- [Endpoint Reference](https://help.aliyun.com/document_detail/29440.html): Reference for regional endpoints and service access domains.
+- [Best Practices](https://help.aliyun.com/zh/doc-detail/2682363.html): Practical recommendations for secure and reliable API integration.
+
+## Community and Code
+- [Alibaba Cloud OpenAPI GitHub Organization](https://github.com/aliyun): Source repositories for SDKs, tools, and developer integrations.
+- [OpenAPI Explorer GitHub Topics](https://github.com/topics/alibaba-cloud): Community projects and integrations related to Alibaba Cloud APIs.
+- [Terraform Provider for Alibaba Cloud](https://github.com/aliyun/terraform-provider-alicloud): Official provider for provisioning Alibaba Cloud infrastructure with Terraform.
+- [Alibaba Cloud CLI Repository](https://github.com/aliyun/aliyun-cli): Source code and releases for the Alibaba Cloud command-line interface.
+- [Tea OpenAPI Generator](https://github.com/aliyun/darabonba-openapi-generator): Generator tooling for producing SDKs from OpenAPI definitions.
+- [Darabonba Language](https://github.com/aliyun/darabonba): Interface definition and SDK generation language used in Alibaba Cloud tooling.

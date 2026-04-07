@@ -1,0 +1,57 @@
+# Imperva DNS
+> Imperva DNS provides managed authoritative DNS, traffic steering, failover, and DNS security services.
+
+Imperva DNS is part of Imperva’s application security platform and focuses on resilient DNS hosting, routing, availability, and protection capabilities for enterprise domains.
+
+## Product Overview
+- [Imperva DNS Overview](https://www.imperva.com/products/dns/): Product overview for managed authoritative DNS, traffic management, and availability features.
+- [Application Security](https://www.imperva.com/products/application-security/): Broader Imperva application security platform that includes DNS-related protection capabilities.
+- [DDoS Protection](https://www.imperva.com/products/ddos-protection/): Imperva’s DDoS protection offering relevant to DNS and application availability.
+- [CDN](https://www.imperva.com/products/cdn/): Content delivery capabilities often paired with DNS traffic routing and performance optimization.
+
+## Documentation
+- [Imperva Documentation Portal](https://docs.imperva.com/): Central documentation hub for Imperva products, guides, and reference material.
+- [Imperva Documentation Home](https://docs.imperva.com/bundle/home): Entry point for navigating product documentation bundles.
+- [Imperva DNS Security Documentation](https://docs.imperva.com/bundle/dns-security): Documentation bundle for DNS security configuration and operations.
+- [Imperva Cloud Application Security](https://docs.imperva.com/bundle/cloud-application-security): Documentation for Imperva cloud security services that integrate with DNS workflows.
+
+## DNS Security Guides
+- [DNS Security Overview](https://docs.imperva.com/bundle/dns-security/page/dns-security-overview.htm): Overview of DNS security capabilities, concepts, and deployment context.
+- [Getting Started with DNS Security](https://docs.imperva.com/bundle/dns-security/page/getting-started.htm): Initial setup guidance for onboarding and configuring DNS security services.
+- [Managing DNS Zones](https://docs.imperva.com/bundle/dns-security/page/managing-zones.htm): Instructions for creating, updating, and administering DNS zones.
+- [Configuring DNS Records](https://docs.imperva.com/bundle/dns-security/page/configuring-records.htm): Guidance for adding and maintaining supported DNS record types.
+- [Traffic Steering and Failover](https://docs.imperva.com/bundle/dns-security/page/traffic-steering-and-failover.htm): Configuration guidance for routing policies, health checks, and failover behavior.
+- [DNSSEC Configuration](https://docs.imperva.com/bundle/dns-security/page/dnssec.htm): Steps and concepts for enabling and managing DNSSEC protection.
+
+## Administration
+- [User Management](https://docs.imperva.com/bundle/dns-security/page/user-management.htm): Manage users, permissions, and access controls for DNS administration.
+- [Role-Based Access Control](https://docs.imperva.com/bundle/dns-security/page/roles-and-permissions.htm): Configure roles and permissions for operational separation and governance.
+- [Audit Logs](https://docs.imperva.com/bundle/dns-security/page/audit-logs.htm): Review administrative and configuration activity for DNS environments.
+- [Notifications and Alerts](https://docs.imperva.com/bundle/dns-security/page/notifications.htm): Configure operational notifications and alerting for DNS events.
+- [Account Settings](https://docs.imperva.com/bundle/dns-security/page/account-settings.htm): Administrative settings for account-level DNS service configuration.
+
+## API and Automation
+- [Imperva API Documentation](https://docs.imperva.com/bundle/cloud-application-security/page/api.htm): API entry point for Imperva cloud services and automation workflows.
+- [API Reference](https://docs.imperva.com/bundle/cloud-application-security/page/api-reference.htm): Reference information for available endpoints, parameters, and responses.
+- [Authentication](https://docs.imperva.com/bundle/cloud-application-security/page/api-authentication.htm): API authentication methods and credential handling guidance.
+- [Rate Limits](https://docs.imperva.com/bundle/cloud-application-security/page/api-rate-limits.htm): API usage limits and operational considerations for automation clients.
+- [Terraform Integration](https://docs.imperva.com/bundle/cloud-application-security/page/terraform.htm): Infrastructure-as-code guidance for managing Imperva resources programmatically.
+
+## Operations and Monitoring
+- [Health Checks](https://docs.imperva.com/bundle/dns-security/page/health-checks.htm): Configure endpoint monitoring used for failover and traffic steering decisions.
+- [Reporting and Analytics](https://docs.imperva.com/bundle/dns-security/page/reports.htm): Access DNS usage, operational, and security reporting capabilities.
+- [Service Status](https://status.imperva.com/): Real-time service status and incident reporting for Imperva cloud services.
+- [Troubleshooting](https://docs.imperva.com/bundle/dns-security/page/troubleshooting.htm): Common issues, diagnostics, and remediation steps for DNS operations.
+- [Best Practices](https://docs.imperva.com/bundle/dns-security/page/best-practices.htm): Recommended operational practices for secure and resilient DNS deployments.
+
+## Support and Training
+- [Imperva Support Portal](https://support.imperva.com/): Customer support portal for cases, knowledge resources, and service assistance.
+- [Imperva Learning Center](https://www.imperva.com/resources/learning-center/): Educational resources covering security concepts and Imperva product usage.
+- [Professional Services](https://www.imperva.com/services/professional-services/): Expert services for deployment, optimization, and operational guidance.
+- [Contact Support](https://www.imperva.com/support/): Support access points and assistance options for Imperva customers.
+
+## Resources
+- [Imperva Blog](https://www.imperva.com/blog/): Articles on security, availability, DNS-related threats, and operational best practices.
+- [Resource Library](https://www.imperva.com/resources/resource-library/): Whitepapers, solution briefs, and technical resources across Imperva products.
+- [Case Studies](https://www.imperva.com/resources/case-studies/): Customer stories demonstrating deployment outcomes and operational benefits.
+- [Webinars](https://www.imperva.com/resources/webinars/): On-demand and upcoming webinars on security and application delivery topics.

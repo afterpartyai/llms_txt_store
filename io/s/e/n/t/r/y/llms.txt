@@ -1,0 +1,81 @@
+# Sentry
+> Application performance monitoring and error tracking for developers to detect, diagnose, and resolve software issues faster.
+
+Sentry provides error monitoring, tracing, logs, replay, profiling, cron and uptime monitoring, plus developer tooling and integrations across many languages and frameworks.
+
+## Documentation
+- [Documentation Home](https://docs.sentry.io/): Main documentation hub for Sentry products, SDKs, setup, and platform guides.
+- [Developer Documentation](https://develop.sentry.dev/): Internal and contributor-focused docs for Sentry architecture, APIs, and development workflows.
+- [Product Documentation](https://docs.sentry.io/product/): Overview of Sentry product capabilities, concepts, and feature documentation.
+- [Account and Billing](https://docs.sentry.io/account/): Documentation for organizations, teams, authentication, plans, and billing management.
+- [Security and Privacy](https://docs.sentry.io/security-legal-pii/): Guidance on data security, privacy, PII handling, and compliance-related settings.
+- [CLI Documentation](https://docs.sentry.io/cli/): Reference and guides for the Sentry command-line interface and release workflows.
+
+## Product Areas
+- [Error Monitoring](https://sentry.io/product/error-monitoring/): Capture exceptions, stack traces, and issue context to debug application failures.
+- [Tracing](https://sentry.io/product/tracing/): Monitor distributed transactions, latency, and performance bottlenecks across services.
+- [Logs](https://sentry.io/product/logs/): Centralize logs with application context for faster investigation and troubleshooting.
+- [Session Replay](https://sentry.io/product/session-replay/): Reconstruct user sessions to understand frontend issues and user impact.
+- [Profiling](https://sentry.io/product/profiling/): Analyze code-level performance hotspots with continuous and transaction-linked profiling.
+- [Cron Monitoring](https://sentry.io/product/cron-monitoring/): Track scheduled jobs, missed runs, and failures in recurring tasks.
+- [Uptime Monitoring](https://sentry.io/product/uptime-monitoring/): Check endpoint availability and alert on downtime or degraded service.
+- [Size Analysis](https://sentry.io/product/size-analysis): Inspect bundle size changes and identify regressions in shipped assets.
+
+## AI and Developer Tools
+- [Seer](https://sentry.io/product/seer/): AI-assisted investigation features for understanding and resolving issues faster.
+- [AI Code Review](https://sentry.io/product/seer/ai-code-review/): Automated code review tooling focused on quality and issue prevention.
+- [Sentry CLI](https://cli.sentry.dev/): Command-line tool for releases, source maps, debugging artifacts, and automation.
+- [Sentry MCP](https://mcp.sentry.dev/): Model Context Protocol tooling for connecting Sentry context to AI workflows.
+- [Source Maps](https://docs.sentry.io/platforms/javascript/sourcemaps/): Upload and manage source maps for readable JavaScript stack traces.
+- [Releases](https://docs.sentry.io/product/releases/): Track deployments, commits, regressions, and issue health across releases.
+
+## SDKs and Platforms
+- [JavaScript](https://sentry.io/for/javascript/): Sentry monitoring and debugging tools for JavaScript applications and services.
+- [Python](https://sentry.io/for/python/): Error and performance monitoring for Python applications and frameworks.
+- [React](https://sentry.io/for/react/): Frontend monitoring, replay, and performance tooling for React applications.
+- [Laravel](https://sentry.io/for/laravel/): Exception tracking and performance monitoring for Laravel applications.
+- [Platform Documentation](https://docs.sentry.io/platforms/): Entry point for all supported SDKs, frameworks, and platform-specific setup guides.
+- [Mobile Platforms](https://docs.sentry.io/platforms/?platform=mobile): Documentation for mobile SDKs including iOS, Android, Flutter, and React Native.
+- [Frontend Platforms](https://docs.sentry.io/platforms/?platform=javascript): Documentation for browser and JavaScript framework SDKs.
+- [Backend Platforms](https://docs.sentry.io/platforms/?platform=python): Documentation for backend SDKs and server-side integrations.
+
+## API and Reference
+- [API Overview](https://docs.sentry.io/api/): Overview of Sentry APIs, authentication, resources, and usage patterns.
+- [REST API Reference](https://docs.sentry.io/api/): Reference for organization, project, issue, event, and release endpoints.
+- [Sentry SDK API Docs](https://docs.sentry.io/platforms/): SDK-specific configuration, APIs, and instrumentation reference.
+- [CLI Reference](https://docs.sentry.io/cli/): Commands, flags, authentication, and automation workflows for sentry-cli.
+- [Open Source Repositories](https://github.com/getsentry): Source code for Sentry server, SDKs, and related developer tools.
+- [Developer API and Internals](https://develop.sentry.dev/): Architecture, service internals, and development references for contributors.
+
+## Guides and Concepts
+- [Getting Started](https://docs.sentry.io/product/sentry-basics/): Introductory concepts for projects, issues, alerts, and core Sentry workflows.
+- [Alerting](https://docs.sentry.io/product/alerts/): Configure issue, metric, and uptime alerts for proactive incident response.
+- [Issue Management](https://docs.sentry.io/product/issues/): Understand grouping, ownership, suspect commits, and triage workflows.
+- [Performance Monitoring](https://docs.sentry.io/product/performance/): Concepts and setup for transaction monitoring and performance analysis.
+- [Session Replay Docs](https://docs.sentry.io/product/explore/session-replay/): Documentation for replay setup, privacy controls, and debugging workflows.
+- [Profiling Docs](https://docs.sentry.io/product/profiling/): Concepts and implementation guidance for application profiling.
+- [Crons Docs](https://docs.sentry.io/product/crons/): Setup and manage cron monitors, schedules, and failure detection.
+- [Uptime Docs](https://docs.sentry.io/product/uptime/): Configure uptime checks, monitor endpoints, and investigate outages.
+
+## Integrations
+- [Integrations Directory](https://sentry.io/integrations/): Browse available integrations for source control, chat, deployment, and workflow tools.
+- [GitHub Integration](https://sentry.io/integrations/github/): Connect GitHub for commits, pull requests, suspect commits, and code mapping.
+- [Slack Integration](https://sentry.io/integrations/slack/): Send alerts and issue context into Slack channels and workflows.
+- [Source Control Integrations](https://docs.sentry.io/product/integrations/source-code-mgmt/): Configure repository providers for commits, ownership, and suspect commit features.
+- [Alert Integrations](https://docs.sentry.io/product/integrations/notification-incidents/): Connect notification tools for alert delivery and incident response.
+- [Deployment Integrations](https://docs.sentry.io/product/integrations/deployment/): Link deployment systems to releases and environment tracking.
+
+## Open Source and Self-Hosted
+- [Self-Hosted Documentation](https://develop.sentry.dev/self-hosted/): Setup and operate Sentry in self-hosted environments.
+- [Sentry on GitHub](https://github.com/getsentry/sentry): Main open source repository for the Sentry application.
+- [SDK Repositories](https://github.com/getsentry): Organization repositories for official SDKs and tooling.
+- [Contributing Guide](https://develop.sentry.dev/contributing/): Learn how to contribute code, docs, and fixes to Sentry projects.
+- [Engineering and Architecture](https://develop.sentry.dev/architecture/): Technical documentation on Sentry system design and components.
+
+## Company and Resources
+- [Blog](https://blog.sentry.io/): Articles on product updates, engineering, observability, and developer workflows.
+- [Changelog](https://sentry.io/changelog/): Product release notes and announcements for new features and improvements.
+- [Pricing](https://sentry.io/pricing/): Plan details, feature availability, and billing options for Sentry products.
+- [Customer Stories](https://sentry.io/customers/): Case studies showing how teams use Sentry in production.
+- [Support Center](https://sentry.zendesk.com/hc/en-us): Help center for account, billing, and product support resources.
+- [Status Page](https://status.sentry.io/): Service health and incident status for Sentry cloud systems.

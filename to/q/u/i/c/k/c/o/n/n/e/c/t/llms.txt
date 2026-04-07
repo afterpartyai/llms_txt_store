@@ -1,0 +1,60 @@
+# Synology QuickConnect
+> Synology QuickConnect lets users securely access a Synology NAS remotely from any device without manual port forwarding.
+
+QuickConnect is Synology’s remote access service for DSM, mobile apps, and browser-based NAS access. It is commonly used alongside DSM, Synology Account, and package-specific remote access workflows.
+
+## Product Overview
+- [QuickConnect](https://quickconnect.to/): Main QuickConnect entry point for remote Synology NAS access.
+- [Synology](https://www.synology.com/): Synology homepage for NAS products, software, and services.
+- [DSM](https://www.synology.com/dsm): Overview of DiskStation Manager, Synology’s NAS operating system.
+- [Synology Account](https://account.synology.com/): Account portal used for Synology services and identity management.
+
+## Quick Start and Setup
+- [How do I sign in to DSM with QuickConnect?](https://kb.synology.com/en-us/DSM/tutorial/How_to_login_to_DSM_with_QuickConnect): Steps for accessing DSM remotely using a QuickConnect ID.
+- [How do I enable QuickConnect?](https://kb.synology.com/en-us/DSM/tutorial/How_to_enable_QuickConnect): Instructions for turning on QuickConnect in DSM.
+- [How can I register for a Synology Account?](https://kb.synology.com/en-us/DSM/tutorial/How_to_register_for_a_Synology_Account): Guide to creating the account required for QuickConnect services.
+- [How do I customize my QuickConnect ID?](https://kb.synology.com/en-us/DSM/tutorial/How_to_customize_QuickConnect_ID): Explains changing and managing a NAS QuickConnect identifier.
+
+## DSM Remote Access
+- [External Access](https://kb.synology.com/en-us/DSM/help/DSM/AdminCenter/connection_quickconnect): DSM Help page covering QuickConnect and external access settings.
+- [Sign in to DSM via Web Browser](https://kb.synology.com/en-us/DSM/tutorial/How_to_login_to_DSM_with_QuickConnect): Browser-based DSM login using QuickConnect.
+- [Set up router configuration for DSM](https://kb.synology.com/en-us/DSM/tutorial/What_network_ports_are_used_by_Synology_services): Reference for ports used by DSM and Synology services.
+- [Troubleshoot connection issues in DSM](https://kb.synology.com/en-us/DSM/tutorial/What_can_I_do_if_I_cannot_connect_to_my_Synology_NAS_via_QuickConnect): Troubleshooting steps for failed QuickConnect access.
+
+## Security and Networking
+- [What network ports are used by Synology services?](https://kb.synology.com/en-us/DSM/tutorial/What_network_ports_are_used_by_Synology_services): Port reference for DSM, packages, and remote connectivity.
+- [What can I do if I cannot connect to my Synology NAS via QuickConnect?](https://kb.synology.com/en-us/DSM/tutorial/What_can_I_do_if_I_cannot_connect_to_my_Synology_NAS_via_QuickConnect): Diagnostic guidance for QuickConnect failures.
+- [How does QuickConnect work?](https://kb.synology.com/en-us/DSM/tutorial/QuickConnect_white_paper): Technical explanation of relay and direct connection behavior.
+- [Security Advisor](https://kb.synology.com/en-us/DSM/help/DSM/SecurityScan/securityscan_desc): DSM Help page for checking NAS security posture.
+
+## Mobile and Client Apps
+- [DS file](https://www.synology.com/dsm/feature/file_sharing): File access features commonly used with QuickConnect-enabled NAS systems.
+- [Synology Drive](https://www.synology.com/dsm/feature/drive): File sync and collaboration service accessible remotely.
+- [Synology Photos](https://www.synology.com/dsm/feature/photos): Photo management and sharing service for remote access.
+- [DS cam](https://www.synology.com/surveillance): Surveillance access product often used with QuickConnect.
+- [Synology mobile applications](https://www.synology.com/en-us/dsm/packages): Package and app ecosystem related to remote NAS access.
+
+## Package and Service Access
+- [Synology Drive Server](https://www.synology.com/en-us/dsm/packages/SynologyDrive): Drive package for file sync, sharing, and remote collaboration.
+- [Synology Photos](https://www.synology.com/en-us/dsm/packages/SynologyPhotos): Photos package for browsing and sharing media remotely.
+- [Audio Station](https://www.synology.com/en-us/dsm/packages/AudioStation): Audio streaming package accessible through Synology remote services.
+- [Video Station](https://www.synology.com/en-us/dsm/packages/VideoStation): Video library package for remote media access.
+- [Surveillance Station](https://www.synology.com/en-us/dsm/packages/SurveillanceStation): Video surveillance package with remote monitoring support.
+
+## Knowledge Base
+- [Synology Knowledge Center](https://kb.synology.com/): Central documentation and troubleshooting portal for Synology products.
+- [DSM Tutorials](https://kb.synology.com/en-us/DSM/tutorial): DSM setup, administration, and remote access tutorials.
+- [DSM Help](https://kb.synology.com/en-us/DSM/help): DSM feature reference and in-product help documentation.
+- [Search QuickConnect articles](https://kb.synology.com/en-us/search?query=QuickConnect): Search results for QuickConnect-related documentation and support content.
+
+## Downloads and Clients
+- [Download Center](https://www.synology.com/support/download): Downloads for DSM, desktop utilities, and Synology applications.
+- [DSM Download](https://www.synology.com/support/download/DSM): DSM release downloads and version availability.
+- [Synology Drive Client](https://www.synology.com/en-us/dsm/feature/drive): Desktop sync client information for Synology Drive.
+- [Synology Assistant](https://www.synology.com/support/download/Assistant): Desktop utility for discovering and managing Synology NAS devices.
+
+## Support and Account Management
+- [Synology Account](https://account.synology.com/): Manage account credentials and Synology cloud-linked services.
+- [Support Center](https://www.synology.com/support): Official support portal for product help and service requests.
+- [Contact Synology](https://www.synology.com/company/contact_us): Regional contact information for Synology support and sales.
+- [Service Status](https://www.synology.com/support/synology_service): Status information for Synology online services.

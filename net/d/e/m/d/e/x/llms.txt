@@ -1,0 +1,70 @@
+# demdex.net
+> Adobe Audience Manager’s data collection and identity synchronization domain used for audience segmentation, profile management, and partner integrations.
+
+This domain is primarily used as an infrastructure endpoint for Adobe Audience Manager and Adobe Experience Cloud services rather than as a traditional browsable website. Relevant documentation is hosted on Adobe Experience League and related Adobe developer resources.
+
+## Adobe Audience Manager Documentation
+- [Audience Manager Overview](https://experienceleague.adobe.com/en/docs/audience-manager): Entry point for Adobe Audience Manager product documentation and concepts.
+- [Getting Started with Audience Manager](https://experienceleague.adobe.com/en/docs/audience-manager-learn/tutorials/overview): Introductory tutorials covering core Audience Manager workflows and terminology.
+- [Audience Manager User Guide](https://experienceleague.adobe.com/en/docs/audience-manager/user-guide): Main user documentation for traits, segments, destinations, and administration.
+- [Audience Manager API Reference](https://experienceleague.adobe.com/en/docs/audience-manager/api): Reference documentation for Audience Manager APIs and programmatic integrations.
+- [Audience Manager Release Notes](https://experienceleague.adobe.com/en/docs/audience-manager-release-notes): Product updates, feature changes, fixes, and deprecation notices.
+- [Audience Manager Tutorials](https://experienceleague.adobe.com/en/docs/audience-manager-learn/tutorials): Guided learning resources for implementation and usage.
+
+## Data Collection and DCS Endpoints
+- [Data Collection Servers Overview](https://experienceleague.adobe.com/en/docs/audience-manager/user-guide/reference/dcs/dcs-overview): Explains Audience Manager data collection servers and request handling.
+- [DCS API Calls Explained](https://experienceleague.adobe.com/en/docs/audience-manager/user-guide/reference/dcs/dcs-api-calls/dcs-api-calls): Details supported DCS request formats, parameters, and behaviors.
+- [Inbound Data File Transfers](https://experienceleague.adobe.com/en/docs/audience-manager/user-guide/integration/sending-audience-data/batch-data-transfer-explained/inbound-data-transfer-overview): Describes batch onboarding methods for audience data ingestion.
+- [Outbound Data File Transfers](https://experienceleague.adobe.com/en/docs/audience-manager/user-guide/data-export/data-export-controls): Covers export controls and outbound audience data delivery concepts.
+- [UUIDs in Audience Manager](https://experienceleague.adobe.com/en/docs/audience-manager/user-guide/reference/ids-in-aam): Explains Audience Manager identifiers, device IDs, and namespace usage.
+
+## ID Synchronization and Identity
+- [ID Synchronization in Audience Manager](https://experienceleague.adobe.com/en/docs/audience-manager/user-guide/reference/ids-in-aam/id-sync): Describes syncing Audience Manager IDs with partner and customer identifiers.
+- [Declared IDs](https://experienceleague.adobe.com/en/docs/audience-manager/user-guide/reference/ids-in-aam/declared-ids): Explains authenticated identifiers and cross-device profile association.
+- [Device Graph Options](https://experienceleague.adobe.com/en/docs/audience-manager/user-guide/features/cross-device-profiles/device-graph-options/device-graph-options): Reviews available device graph integrations for identity resolution.
+- [Profile Merge Rules](https://experienceleague.adobe.com/en/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-start): Describes profile stitching logic across devices and identifiers.
+- [People-Based Destinations](https://experienceleague.adobe.com/en/docs/audience-manager/user-guide/features/destinations/people-based-destinations-overview): Covers activation workflows using hashed identifiers for people-based platforms.
+
+## Destinations and Integrations
+- [Destinations Overview](https://experienceleague.adobe.com/en/docs/audience-manager/user-guide/features/destinations/destinations): Introduction to server-to-server, URL, and cookie destination types.
+- [URL Destinations](https://experienceleague.adobe.com/en/docs/audience-manager/user-guide/features/destinations/create-destination/url-destination): Documents browser-based destination configuration and macros.
+- [Cookie Destinations](https://experienceleague.adobe.com/en/docs/audience-manager/user-guide/features/destinations/create-destination/cookie-destination): Explains cookie-based partner integrations and syncing behavior.
+- [Server-to-Server Destinations](https://experienceleague.adobe.com/en/docs/audience-manager/user-guide/features/destinations/create-destination/s2s-destination): Covers backend audience delivery to integrated platforms.
+- [Destination Macros](https://experienceleague.adobe.com/en/docs/audience-manager/user-guide/features/destinations/destination-macros): Lists supported macros for dynamic destination URL construction.
+- [Adobe Integrations with Audience Manager](https://experienceleague.adobe.com/en/docs/audience-manager/user-guide/integration/integration-with-experience-cloud): Describes Experience Cloud product integrations and shared services.
+
+## Traits, Segments, and Modeling
+- [Traits Overview](https://experienceleague.adobe.com/en/docs/audience-manager/user-guide/features/traits/traits): Explains trait creation, qualification rules, and data signals.
+- [Segments Overview](https://experienceleague.adobe.com/en/docs/audience-manager/user-guide/features/segments/segments-purpose): Describes segment composition and audience qualification logic.
+- [Signals, Traits, and Segments](https://experienceleague.adobe.com/en/docs/audience-manager/user-guide/reference/signal-trait-segment): Clarifies relationships between incoming signals, traits, and segments.
+- [Algorithmic Models](https://experienceleague.adobe.com/en/docs/audience-manager/user-guide/features/algorithmic-models/understanding-models): Introduces look-alike modeling and algorithmic audience expansion.
+- [Segment Builder](https://experienceleague.adobe.com/en/docs/audience-manager/user-guide/features/segments/segment-builder): Documents the interface and logic for building audience segments.
+
+## Implementation and Tags
+- [Set Up Audience Manager](https://experienceleague.adobe.com/en/docs/audience-manager-learn/tutorials/web-implementation/set-up-audience-manager): Implementation tutorial for deploying Audience Manager on websites.
+- [Experience Cloud ID Service](https://experienceleague.adobe.com/en/docs/id-service/using/home): Documentation for Adobe’s shared visitor identification service.
+- [Data Integration Library (DIL)](https://experienceleague.adobe.com/en/docs/audience-manager/user-guide/dil-api/dil-overview): Reference for the client-side library used with Audience Manager.
+- [Adobe Tags Overview](https://experienceleague.adobe.com/en/docs/experience-platform/tags/home): Documentation for Adobe tag management and deployment tooling.
+- [Web SDK Overview](https://experienceleague.adobe.com/en/docs/experience-platform/web-sdk/home): Modern Adobe Experience Platform Web SDK documentation for data collection.
+- [Server-Side Forwarding](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/server-side-forwarding/ssf): Explains forwarding Analytics data to Audience Manager.
+
+## Privacy, Governance, and Security
+- [Data Export Controls](https://experienceleague.adobe.com/en/docs/audience-manager/user-guide/data-export/data-export-controls): Describes governance restrictions for audience activation and sharing.
+- [Privacy and Data Protection](https://experienceleague.adobe.com/en/docs/audience-manager/user-guide/overview/data-privacy/data-privacy): Covers privacy capabilities and regulatory support in Audience Manager.
+- [GDPR in Audience Manager](https://experienceleague.adobe.com/en/docs/audience-manager/user-guide/overview/data-privacy/gdpr-data-privacy-requests): Explains GDPR-related access and deletion request workflows.
+- [Security in Experience Cloud](https://experienceleague.adobe.com/en/docs/core-services/interface/features/security/security): Adobe Experience Cloud security and access management documentation.
+- [Regional Data Collection](https://experienceleague.adobe.com/en/docs/audience-manager/user-guide/reference/dcs/dcs-region): Documents regional DCS endpoints and geographic routing behavior.
+
+## APIs and Developer Resources
+- [Audience Manager APIs](https://experienceleague.adobe.com/en/docs/audience-manager/api): Central reference for REST APIs and authentication requirements.
+- [REST API Code and Examples](https://experienceleague.adobe.com/en/docs/audience-manager-learn/tutorials/apis/understanding-rest-apis): Tutorials for working with Audience Manager APIs.
+- [Adobe Developer Console](https://developer.adobe.com/console): Create and manage Adobe project credentials for API access.
+- [Adobe APIs and SDKs](https://developer.adobe.com/apis): Directory of Adobe developer products, APIs, and SDK resources.
+- [Experience Platform API Authentication](https://experienceleague.adobe.com/en/docs/experience-platform/landing/platform-apis/api-authentication): Authentication guidance relevant to Adobe platform API integrations.
+
+## Support and Product Information
+- [Adobe Experience League](https://experienceleague.adobe.com): Main hub for Adobe product documentation, tutorials, and support resources.
+- [Audience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/ct-p/adobe-audience-manager-community): Community discussions, troubleshooting, and implementation questions.
+- [Adobe Status](https://status.adobe.com): Service health and incident reporting for Adobe cloud products.
+- [Adobe Support](https://helpx.adobe.com/support.html): Access Adobe support channels and enterprise assistance resources.
+- [Experience Cloud Products](https://business.adobe.com/products/experience-cloud/adobe-experience-cloud.html): Overview of Adobe Experience Cloud products and positioning.

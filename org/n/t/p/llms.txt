@@ -1,0 +1,68 @@
+# NTP Project
+> The NTP Project develops and maintains the Network Time Protocol for synchronizing computer clocks over networks to a common timebase.
+
+The site provides official documentation, reference material, support resources, and project information for NTP software and protocol research.
+
+## Core Project Resources
+- [Support](https://www.ntp.org/support/): Central support page with links to documentation, community resources, and project assistance.
+- [Reference Library](https://www.ntp.org/reflib/): Technical papers, analyses, and historical material about NTP algorithms and protocol design.
+- [Current Stable Documentation](https://www.ntp.org/current-stable/): Main documentation hub for the current stable NTP software release.
+- [Donate](https://www.ntp.org/donate/): Donation information supporting ongoing NTP Project development and maintenance.
+- [Network Time Foundation](https://www.nwtime.org/): Foundation site supporting stewardship, funding, and governance for NTP-related work.
+
+## Documentation
+- [Current Stable](https://www.ntp.org/current-stable/): Entry point for stable release documentation, manuals, and configuration guidance.
+- [NTPsec in the NTP Wiki](https://www.ntp.org/documentation/4.2.8-series/): Documentation index for the 4.2.8 series, including manuals and reference pages.
+- [Quick Start](https://www.ntp.org/documentation/4.2.8-series/quick/): Introductory setup guidance for deploying and configuring NTP.
+- [Configuration Options](https://www.ntp.org/documentation/4.2.8-series/confopt/): Reference for ntpd configuration directives and operational settings.
+- [Association Management](https://www.ntp.org/documentation/4.2.8-series/assoc/): Explains peer, server, pool, and broadcast association configuration.
+- [Authentication Support](https://www.ntp.org/documentation/4.2.8-series/authentic/): Overview of authentication mechanisms used to secure NTP exchanges.
+- [Access Control](https://www.ntp.org/documentation/4.2.8-series/accopt/): Details access restriction options for controlling NTP client behavior.
+
+## Command and Utility Reference
+- [ntpd](https://www.ntp.org/documentation/4.2.8-series/ntpd/): Reference for the NTP daemon, its behavior, and runtime options.
+- [ntpq](https://www.ntp.org/documentation/4.2.8-series/ntpq/): Query tool documentation for inspecting daemon state and peer statistics.
+- [ntpdc](https://www.ntp.org/documentation/4.2.8-series/ntpdc/): Legacy control utility reference for monitoring and management tasks.
+- [ntpdate](https://www.ntp.org/documentation/4.2.8-series/ntpdate/): Documentation for one-shot time synchronization with remote servers.
+- [ntptime](https://www.ntp.org/documentation/4.2.8-series/ntptime/): Utility reference for reading kernel time variables and status.
+- [ntp-keygen](https://www.ntp.org/documentation/4.2.8-series/ntp-keygen/): Key generation tool for NTP authentication and identity schemes.
+- [sntp](https://www.ntp.org/documentation/4.2.8-series/sntp/): Simple NTP client utility for basic time synchronization tasks.
+
+## Configuration and Operations Guides
+- [Clock Discipline Algorithm](https://www.ntp.org/documentation/4.2.8-series/discipline/): Describes the algorithms used to steer and stabilize system clocks.
+- [Poll Process](https://www.ntp.org/documentation/4.2.8-series/poll/): Explains adaptive polling behavior and interval selection in NTP.
+- [Mitigation Rules and the Intersection Algorithm](https://www.ntp.org/documentation/4.2.8-series/select/): Covers source selection and mitigation algorithms for accurate synchronization.
+- [Rate Management and the Kiss-o'-Death Packet](https://www.ntp.org/documentation/4.2.8-series/rate/): Describes rate limiting behavior and server responses to abusive polling.
+- [Orphan Mode](https://www.ntp.org/documentation/4.2.8-series/orphan/): Guidance for resilient local time service when upstream sources fail.
+- [Manycast Mode](https://www.ntp.org/documentation/4.2.8-series/manyopt/): Configuration details for manycast discovery and synchronization.
+- [Broadcast/Multicast Modes](https://www.ntp.org/documentation/4.2.8-series/broadcast/): Operational guidance for broadcast and multicast time distribution.
+
+## Protocol and Architecture
+- [NTP Architecture, Protocols and Algorithms](https://www.ntp.org/reflib/brief/): High-level technical overview of NTP design and operation.
+- [NTP Timestamp Calculations](https://www.ntp.org/reflib/time/): Explains timestamp arithmetic and time offset calculations in NTP.
+- [Clock State Machine](https://www.ntp.org/reflib/stamp/): Describes state handling and timestamp processing concepts in the protocol.
+- [Executive Summary](https://www.ntp.org/reflib/exec/): Concise summary of NTP goals, architecture, and synchronization approach.
+- [Performance Analysis of the NTP Algorithms](https://www.ntp.org/reflib/onwire/): Reference material related to protocol behavior and timing analysis.
+- [NTP Version 4 Reference and Implementation Guide](https://www.ntp.org/reflib/ntpv4/): Core reference material for NTPv4 protocol and implementation details.
+
+## Reference Library
+- [Reference Library Index](https://www.ntp.org/reflib/): Main index of technical notes, papers, and archived NTP research.
+- [Briefings and Summaries](https://www.ntp.org/reflib/brief/): Introductory and summary materials covering NTP concepts and design.
+- [RFCs and Standards Material](https://www.ntp.org/reflib/rfc/): Links to standards-track and informational RFCs relevant to NTP.
+- [Autokey Documentation](https://www.ntp.org/reflib/autokey/): Technical material on the historical Autokey security architecture.
+- [NTPv4 Documentation](https://www.ntp.org/reflib/ntpv4/): Protocol reference and implementation-oriented NTPv4 material.
+- [Miscellaneous Papers](https://www.ntp.org/reflib/misc/): Additional technical papers and supporting reference documents.
+- [Software and Analysis Notes](https://www.ntp.org/reflib/software/): Notes on implementation, software behavior, and related analysis.
+
+## Release and Project Information
+- [Current Stable Release Notes](https://www.ntp.org/support/securitynotice/4_2_8-series-changelog/): Changelog and release history for the 4.2.8 series.
+- [Security Notices](https://www.ntp.org/support/securitynotice/): Security advisories and notices affecting NTP software releases.
+- [Bug Reporting Information](https://www.ntp.org/support/bug-form/): Instructions and form for reporting bugs to the NTP Project.
+- [Support Information](https://www.ntp.org/support/): Project support resources and guidance for users and operators.
+- [NTP Public Services Project](https://www.ntp.org/support/public-services/): Information about public time services and related project efforts.
+
+## Community and Ecosystem
+- [Network Time Foundation](https://www.nwtime.org/): Organizational home for stewardship and support of network time technologies.
+- [NTP Pool Project](https://www.ntppool.org/): Community pool of public NTP servers for general-purpose time synchronization.
+- [Donate to the NTP Project](https://www.ntp.org/donate/): Funding page for supporting maintenance and future NTP development.
+- [Support Resources](https://www.ntp.org/support/): Starting point for community help, issue reporting, and project contacts.

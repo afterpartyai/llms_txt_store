@@ -1,0 +1,76 @@
+# ttvnw.net
+> Twitch’s web platform domain for live streaming, developer resources, support, safety, and related product documentation.
+
+This domain and its associated Twitch properties provide access to livestreaming products, creator and viewer help resources, developer documentation, API references, safety policies, and newsroom updates.
+
+## Core Platform
+- [Twitch](https://www.twitch.tv): Main live streaming platform for watching channels, clips, and live broadcasts.
+- [Browse](https://www.twitch.tv/directory): Directory for discovering live channels by category, game, and interest.
+- [Esports](https://www.twitch.tv/directory/esports): Dedicated directory area for esports streams and competitive events.
+- [Music](https://www.twitch.tv/directory/music): Category hub for music livestreams, performances, and creator sessions.
+- [Turbo](https://www.twitch.tv/turbo): Subscription product offering ad-free viewing and enhanced chat features.
+- [Prime Gaming](https://gaming.amazon.com): Amazon’s gaming benefits hub closely integrated with Twitch accounts and rewards.
+
+## Creators
+- [Creator Camp](https://www.twitch.tv/creatorcamp): Educational hub for streamers learning setup, growth, and community practices.
+- [Creator Dashboard](https://dashboard.twitch.tv): Central dashboard for managing streams, moderation, analytics, and channel settings.
+- [Stream Manager](https://dashboard.twitch.tv/u/login/stream-manager): Live control panel for running broadcasts and monitoring stream health.
+- [Analytics](https://dashboard.twitch.tv/u/login/channel-analytics): Channel analytics for audience, engagement, and stream performance metrics.
+- [Video Producer](https://dashboard.twitch.tv/u/login/content/video-producer): Management area for VODs, highlights, uploads, and clips.
+- [Drops Campaigns](https://dashboard.twitch.tv/u/login/viewer-rewards/drops): Creator interface for configuring and tracking Drops participation.
+
+## Developers
+- [Twitch Developers](https://dev.twitch.tv): Main developer portal for APIs, extensions, EventSub, and integration guides.
+- [Docs Home](https://dev.twitch.tv/docs): Entry point for Twitch developer documentation and platform concepts.
+- [API Reference](https://dev.twitch.tv/docs/api/reference): Reference documentation for Twitch Helix API endpoints and parameters.
+- [Authentication](https://dev.twitch.tv/docs/authentication): OAuth flows, token handling, scopes, and authentication requirements.
+- [EventSub](https://dev.twitch.tv/docs/eventsub): Event subscription system for receiving Twitch platform notifications.
+- [Extensions](https://dev.twitch.tv/docs/extensions): Documentation for building interactive Twitch Extensions experiences.
+- [Embedded Experiences](https://dev.twitch.tv/docs/embed): Guides for embedding Twitch video, chat, and clips on websites.
+- [CLI](https://dev.twitch.tv/docs/cli): Twitch CLI tooling for local development, testing, and EventSub workflows.
+
+## API and SDK Resources
+- [Chat and Chatbots](https://dev.twitch.tv/docs/chat): Documentation for IRC, chatbots, and chat-related integrations.
+- [PubSub](https://dev.twitch.tv/docs/pubsub): Legacy PubSub system documentation for receiving selected Twitch events.
+- [Drops](https://dev.twitch.tv/docs/drops): Developer documentation for implementing Twitch Drops campaigns and rewards.
+- [Game Engine Plugins](https://dev.twitch.tv/docs/game-engine-plugins): Resources for integrating Twitch features into supported game engines.
+- [Extensions Reference](https://dev.twitch.tv/docs/extensions/reference): Technical reference for extension helpers, APIs, and capabilities.
+- [EventSub Reference](https://dev.twitch.tv/docs/eventsub/eventsub-reference): Detailed EventSub subscription types and payload definitions.
+
+## Help and Support
+- [Help Center](https://help.twitch.tv): Main support portal for viewers, creators, and account troubleshooting.
+- [Viewer Help](https://help.twitch.tv/s/article/viewer-basics): Introductory help content for watching streams and using Twitch features.
+- [Affiliate Program Help](https://help.twitch.tv/s/article/joining-the-affiliate-program): Support article covering Twitch Affiliate eligibility and onboarding.
+- [Partner Program Help](https://help.twitch.tv/s/article/partner-program-overview): Overview of Twitch Partner requirements, benefits, and application details.
+- [Two-Factor Authentication](https://help.twitch.tv/s/article/two-factor-authentication): Instructions for enabling and managing account security with 2FA.
+- [Chat Commands](https://help.twitch.tv/s/article/chat-commands): Reference for common Twitch chat commands and moderation shortcuts.
+- [Contact Support](https://help.twitch.tv/s/contactsupport): Support contact flow for account, billing, and technical issues.
+
+## Safety and Policies
+- [Safety Center](https://safety.twitch.tv): Central hub for Twitch safety tools, policies, and enforcement information.
+- [Community Guidelines](https://safety.twitch.tv/s/article/Community-Guidelines): Rules governing behavior, content, and platform conduct on Twitch.
+- [Terms of Service](https://www.twitch.tv/p/en/legal/terms-of-service): Legal terms governing use of Twitch services and accounts.
+- [Privacy Notice](https://www.twitch.tv/p/en/legal/privacy-notice): Privacy policy describing data collection, use, and user rights.
+- [DMCA Guidelines](https://www.twitch.tv/p/en/legal/dmca-guidelines): Copyright complaint and counter-notification procedures for Twitch content.
+- [Law Enforcement Guidelines](https://safety.twitch.tv/s/article/Law-Enforcement-Guidelines): Information for legal requests and emergency disclosure processes.
+- [Transparency Reports](https://safety.twitch.tv/s/article/Transparency-Reports): Reports summarizing enforcement actions and safety-related platform metrics.
+
+## Business and Advertising
+- [Twitch Advertising](https://advertising.twitch.tv): Information for brands and agencies advertising on Twitch.
+- [Brand Partnership Studio](https://brandpartnershipstudio.twitch.tv): Partnership and campaign opportunities for brands working with Twitch creators.
+- [Bounty Board](https://help.twitch.tv/s/article/bounty-board-program-information): Program information for sponsored creator campaigns on Twitch.
+- [Monetization](https://www.twitch.tv/p/en/partners/): Overview of creator monetization pathways including Affiliate and Partner programs.
+
+## News and Updates
+- [Twitch Blog](https://blog.twitch.tv): Official blog with product announcements, creator news, and platform updates.
+- [Newsroom](https://blog.twitch.tv/en/newsroom): Corporate newsroom for press releases and company announcements.
+- [Product News](https://blog.twitch.tv/en/tags/product): Tagged updates covering Twitch product launches and feature changes.
+- [Developers Blog](https://blog.twitch.tv/en/tags/developers): Posts relevant to API changes, developer tools, and platform integrations.
+- [Creators Blog](https://blog.twitch.tv/en/tags/creators): Articles focused on streamer programs, features, and creator initiatives.
+
+## Company
+- [About Twitch](https://www.twitch.tv/p/en/about): Overview of Twitch’s mission, community, and platform identity.
+- [Careers](https://www.twitch.tv/jobs): Job listings and information about working at Twitch.
+- [Press Center](https://blog.twitch.tv/en/newsroom): Official source for media resources and company announcements.
+- [Accessibility](https://help.twitch.tv/s/article/accessibility): Accessibility-related support information for using Twitch products.
+- [Legal](https://www.twitch.tv/p/en/legal): Index of Twitch legal policies, notices, and governing documents.
